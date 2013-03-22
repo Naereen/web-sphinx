@@ -46,7 +46,8 @@ Comment utiliser ces fichiers **.asc** ?
 
 Il est possible de **vérifier** ces signatures, avec ma clé publique.
 
-Il faut *importer* ma clé publique dans votre répertoire de clés auxquelles vous faites confiance.
+Il faut *importer* ma clé publique dans votre répertoire de clés 
+auxquelles vous faites confiance.
 
 En ce qui concerne *ma* clé, il faut :
 
@@ -85,7 +86,8 @@ L'**empreinte publique** de ma clé est **C108F8A0**.
 .. Voici un lien pour enregistrer ma clé publique 
 .. `PGP_Lilian_BESSON.asc <PGP_Lilian_BESSON.asc>`_.
 
-Une méthode pour récupérer ma clé est de la **rechercher** directement sur un des deux serveurs suivants :
+Une méthode pour récupérer ma clé est de la **rechercher** directement 
+sur un des deux serveurs suivants :
  * ``keyserver.ubuntu.com``;
  * ``pgp.mit.edu``.
 

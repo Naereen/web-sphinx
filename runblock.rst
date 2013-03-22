@@ -1,13 +1,6 @@
+#################################################
 Exécuter du code lors de la génération de la page
-=================================================
-
-rST ?
------
-
- Je génère ces pages web à partir de document écrits en **reStructuredText**,
- un petit langage à balise inventé pour le projet `docutils <http://docutils.sourceforge.net/>`_,
- et j'utilise l'outil `sphinx <http://sphinx-doc.org>`_ pour transformer ces pages ``rST`` en ``HTML``.
-
+#################################################
 Un test
 -------
 
@@ -16,7 +9,6 @@ Un test
 
 Exemples
 --------
-
 pycon
 ~~~~~
 
@@ -33,7 +25,7 @@ Par exemple, la date courante :
 
 .. runblock:: console
     
-    $ echo "Date: `date`. Dossier: `pwd`."
+    $ echo "Date: `date`. Dossier: `pwd`. Dossier absolu: `pwd -P`..."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
@@ -47,10 +39,8 @@ Ou bien encore, on peut réaliser une signature *GPG* à la volée du fichier co
 
     $ gpg --quiet -o - --armor --detach-sign runblock.rst
 
-
 Des ajouts
 ~~~~~~~~~~
-
 Dans le fichier ``conf.py``, on peut créer de nouveaux types de **runblock**,
 
 Il faut d'abord créér un dictionnaire vide appelé ``autorun_languages``.
@@ -80,8 +70,7 @@ ocaml-stdin
 
 octave
 ^^^^^^
-
-Ne marche pas encore bien.
+:red:`Ne marche pas encore bien.`
 
 .. runblock:: octave
     

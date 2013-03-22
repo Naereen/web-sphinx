@@ -12,7 +12,7 @@
 
 .. note:: Sphinx et reStructuredText
 
-   Toutes remarques, questions, ou notification de bugs peuvent être posées 
+   Toutes remarques, questions, ou notifications de bugs peuvent être posées 
    via `cette page <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
    Des précisions sur les droits de copies, de propriétés intellectuelles, 
    sur les institutions et les marques citées sont disponibles 

@@ -10,21 +10,20 @@
 
 ---------------------------------------------------------------------
 
-.. don't work with rst2pdf
-.. .. todo:: find a way to restrict the inclusion when generating HTML via Sphinx.
+.. note:: Sphinx and reStructuredTex
 
-.. only:: html
+   Those web pages are generated with the *tool* **Sphinx**, from 
+   ``reStructuredText`` source files.
+   Remarks, bug issues, or questions can be asked on `this page 
+   <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   Precision about copyrights, quoted trademarks and institutions are available 
+   `on this page <trademarks.html>`_.
 
-   .. note:: Sphinx and reStructuredTex
+.. warning:: Javascript and Google Analytics ®
 
-      Those web pages are generated with the *tool* **Sphinx**, from ``reStructuredText`` source files.
-      Remark, bug issues, or question can be asked on `this page <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
-      Precision about copyrights, quoted trademarks and institutions are available `on this page <trademarks.html>`_.
-
-   .. warning:: Javascript and Google Analytics ®
-
-      I'm using ``Javascript``, and some Django *templating* to integrate **Google Analytics** on those pages.
-      To disable those tools, you just need to disable Javascript, 
-      probably with the preferences menu of your browser.
+   I'm using ``Javascript``, and some Django *templating* to integrate 
+   **Google Analytics** on those pages.
+   To disable those tools, you just need to disable Javascript, 
+   probably with the preferences menu of your browser.
 
 .. (c) Lilian Besson, 2011-2013.

@@ -47,7 +47,7 @@ extensions = [
 # Here is the good place to put special options for those exterior extensions
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
-graphviz_output_format = 'svg'
+graphviz_output_format = 'png'
 
 # Additional command-line arguments to give to dot, as a list.
 # The default is an empty list.
@@ -65,7 +65,7 @@ todo_include_todos = True
 
 # image format used for the different builders. ``latex`` and ``html`` fromats
 #  are supported.
-gnuplot_format = dict(latex='pdf', html='svg')
+gnuplot_format = dict(latex='pdf', html='png')
 
 autorun_languages = {}
 autorun_languages['pycon'] = u'python -'
@@ -101,7 +101,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '0.5'
+version = '0.6'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -131,7 +131,7 @@ add_module_names = True
 
 # If true, sectionauthor and moduleauthor directives will be shown in the
 # output. They are ignored by default.
-#show_authors = False
+show_authors = True
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -196,7 +196,8 @@ html_theme_options = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = u"Page personnelle"
+# html_title = u"Page personnelle"
+html_title = ""
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = u"Lilian Besson"
@@ -219,7 +220,7 @@ html_static_path = ['.static']
 html_add_permalinks = True
 
 #Encoding of HTML output files. Default is 'utf-8'. Note that this encoding name must both be a valid Python encoding name and a valid HTML charset value.
-#html_output_encoding = True
+#html_output_encoding = u"utf-8"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
