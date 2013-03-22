@@ -43,13 +43,13 @@ notify:
 	notify-send "Sphinx" "Generating documentation : done !"
 
 notify_archive: archive
-	notify-send "Sphinx : archiving" "Generating archive : done ! (~/pages_web_sphinx.tar.xz)"
+	notify-send "Sphinx : archiving" "Generating archive : done ! (~/web-sphinx.tar.xz)"
 
 cleanALL: clean_build clean_pyc
 
 archive: clean_pyc
-	if [ -f ~/pages_web_sphinx.tar.xz ]; then mv -f ~/pages_web_sphinx.tar.xz ~/Documents/ ; fi
-	tar -Jcvf ~/pages_web_sphinx.tar.xz ./ > /dev/null
+	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Documents/ ; fi
+	tar -Jcvf ~/web-sphinx.tar.xz ./ > /dev/null
 
 sendAll: notify_archive send
 
@@ -57,11 +57,11 @@ send: send_dpt send_zamok
 
 send_dpt:
 	$(CP) -r .build/html/ .build/html/.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) ~/pages_web_sphinx.tar.xz lbesson@ssh.dptinfo.ens-cachan.fr:~/
+	$(CP) ~/web-sphinx.tar.xz lbesson@ssh.dptinfo.ens-cachan.fr:~/
 
 send_zamok:
 	$(CP) -r .build/html/ .build/html/.* besson@zamok.crans.org:~/www/
-	$(CP) ~/pages_web_sphinx.tar.xz besson@zamok.crans.org:~/
+	$(CP) ~/web-sphinx.tar.xz besson@zamok.crans.org:~/
 
 pytorst:
 	/usr/local/bin/pytorst.sh *.py

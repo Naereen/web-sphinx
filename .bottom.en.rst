@@ -18,7 +18,7 @@
    .. note:: Sphinx and reStructuredTex
 
       Those web pages are generated with the *tool* **Sphinx**, from ``reStructuredText`` source files.
-      Remark, bug issues, or question can be asked on `this page <https://bitbucket.org/lbesson/pages_web_sphinx/issues>`_.
+      Remark, bug issues, or question can be asked on `this page <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
       Precision about copyrights, quoted trademarks and institutions are available `on this page <trademarks.html>`_.
 
    .. warning:: Javascript and Google Analytics ®
