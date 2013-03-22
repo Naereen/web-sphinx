@@ -75,6 +75,13 @@ Exemple
     $ export LANG=en && gpg --verify ~/.bashrc.asc ~/.bashrc
 
 
+ .. note::
+    
+    Cet exemple règle la langue du terminal en anglais (:code:`export LANG=en`),
+    car l'extension *non-officielle* ``runcode`` (qui permet d'intégrer le 
+    résultat d'une commande ``shell`` dans la page produite par **Sphinx**)
+    ne permet pas de gérer des caractères non *ASCII 128*.
+
 Ma clé publique
 ---------------
 L'**empreinte publique** de ma clé est **C108F8A0**.
