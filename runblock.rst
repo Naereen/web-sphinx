@@ -29,7 +29,7 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
 .. runblock:: console
     
-    $ du -h *.rst .*.rst
+    $ ls -arth *.rst .*.rst
 
 Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
 fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
@@ -76,5 +76,18 @@ octave
     >> printf('Matrice random, taille %ix%i, determinant = %f.\n', 100, 100, det(rand(100,100)))
     >> d = det(rand(100,100))
     >> fprintf('%f\n\n', d)
+
+ANSIColors
+^^^^^^^^^^
+
+Pour plus d'infos sur *ANSIColors*, voir cette page
+`lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
+
+Je teste ici la possibilité d'embarquer des codes couleurs ANSI dans le 
+résultat d'une directive ``.. runblock::`` :
+
+.. runblock:: console
+    
+    $ python -m ANSIColors --help
 
 .. include:: .bottom.fr.rst
