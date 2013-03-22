@@ -4,7 +4,7 @@
 
 .. warning::
 
-   **:red:`Oups, on dirait que vous avez voulu à une page sans y avoir le droit.`**
+   :red:`Oups, on dirait que vous avez voulu à une page sans y avoir le droit.`
    
    Certains sous dossiers de mes pages persos ne sont pas ouverts au public.
 
