@@ -1,0 +1,62 @@
+.. (c) 2012-2013 Lilian Besson
+.. (c) Naereen CORP.
+.. ...........................................................................
+.. Put here directives if you want to include them in all produced files.
+
+.. .. section-numbering::
+
+.. Color profiles for Sphinx.
+
+.. raw:: html
+
+     <style> .black {color:black} </style>
+     <style> .gray {color:gray} </style>
+     <style> .silver {color:silver} </style>
+     <style> .white {color:white} </style>
+     <style> .maroon {color:maroon} </style>
+     <style> .red {color:red} </style>
+     <style> .magenta {color:magenta} </style>
+     <style> .fuchsia {color:fuchsia} </style>
+     <style> .pink {color:pink} </style>
+     <style> .orange {color:orange} </style>
+     <style> .yellow {color:yellow} </style>
+     <style> .lime {color:lime} </style>
+     <style> .green {color:green} </style>
+     <style> .olive {color:olive} </style>
+     <style> .teal {color:teal} </style>
+     <style> .cyan {color:cyan} </style>
+     <style> .aqua {color:aqua} </style>
+     <style> .blue {color:blue} </style>
+     <style> .navy {color:navy} </style>
+     <style> .purple {color:purple} </style>
+     <style> .u {text-decoration: underline} </style>
+
+.. .. raw:: latex
+..  en.wikibooks.org/wiki/LaTeX/Colors
+
+.. role:: black
+.. role:: gray
+.. role:: silver
+.. role:: white
+.. role:: maroon
+.. role:: red
+.. role:: magenta
+.. role:: fuchsia
+.. role:: pink
+.. role:: orange
+.. role:: yellow
+.. role:: lime
+.. role:: green
+.. role:: olive
+.. role:: teal
+.. role:: cyan
+.. role:: aqua
+.. role:: blue
+.. role:: navy
+.. role:: purple
+
+.. role:: tiny
+.. role:: huge
+.. role:: u
+
+.. ...........................................................................
