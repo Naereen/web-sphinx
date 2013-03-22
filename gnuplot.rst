@@ -1,8 +1,19 @@
-Des graphes avec GNU Plot
-=========================
+Des graphiques avec GNU Plot
+============================
 
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphes 
  écrits avec une balise ``.. gnuplot::``.
+
+.. warning::
+
+   Si les graphes suivants ne sont pas affichés, c'est probablement
+   parce que votre navigateur ne supporte pas les images ``SVG``.
+   En ce moment, je teste la fonctionnalité d'embarquer ces images au format
+   ``PNG``.
+
+   Une autre raison possible est un soucis du **serveur d'Apache**
+   qui héberge ces pages.
+
 
 Exemples
 --------
@@ -111,13 +122,13 @@ A la fin de la page :
 
 .. rubric:: Footnotes
 
-.. [#f1] Text of the first footnote.
-.. [#f2] Text of the second footnote.
+.. [#f1] Texte de la première note de bas de page.
+.. [#f2] Texte de la seconde note de bas de page..
 
 .. rubric:: Citations
 
-.. [c1] Text of the first citation.
-.. [c2] Text of the second citation.
+.. [c1] Texte de la première citation.
+.. [c2] Texte de la seconde citation.
 
 
 .. include:: .bottom.fr.rst

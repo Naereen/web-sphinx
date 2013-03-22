@@ -1,9 +1,10 @@
-404 : Error Not Found
-=====================
+#########################
+404 : Erreur : Non trouvé
+#########################
 
 .. warning::
 
-   **Oups**, on dirait que vous avez voulu accéder à une page qui **n'existe pas**.
+   **Oups**, :red:`on dirait que vous avez voulu accéder à une page qui **n'existe pas**`.
 
    Si le problème persiste, et que vous pensez que la page en question *devrait* exister,
    n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_).

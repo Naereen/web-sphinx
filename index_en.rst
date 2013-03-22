@@ -34,7 +34,7 @@ I'm studying *mathematics* and *Computer Science*, and I'm currently in a double
 
    My *résumé* is available here `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_. 
    It is realised with ``LaTeX``, and the package *moderncv*. 
-   A second version, produced from ``reStructuredText`` files, 
+   A second version, produced from ``reStructuredText`` file, 
    is also available here `CV_Lilian_BESSON.en <CV_Lilian_BESSON.en.html>`_.
 
 
@@ -42,8 +42,8 @@ Table of contents
 -----------------
 
 .. toctree::
-   :maxdepth: 1
-   :numbered: 1
+   :maxdepth: 2
+   :numbered: 2
    
    CV_Lilian_BESSON.en
    slides

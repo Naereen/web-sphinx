@@ -61,20 +61,20 @@ Mes projets en ligne
 Stage de M1
 ^^^^^^^^^^^
 
-J'ai trouvé un stage de recherche pour le 
+J'ai trouvé un **stage de recherche** pour le 
 troisième trimestre 2012/2013 (entre le 06 Juin et le 09 Août).
 
-Il se déroulera à l'UCL (University College of London),
-sous la direction de Peter O'Hearn et Jules Villard,
+Il se déroulera à l'**UCL** (:u:`University College of London`),
+sous la direction de *Peter O'Hearn* et *Jules Villard*,
 à propos de logique de séparation.
 
-*Si vous avez un plan logement, n'hésitez pas à me contacter.*
+  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
 
 .. sidebar:: CV
 
    Mon *CV* est disponible ici `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_ (en anglais).
    Il est réalisé en ``LaTeX`` avec le package *moderncv*.
-   Une version produite à partir de ``reStructuredText`` 
+   Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
    est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
 
 ------------------------------------------------------------------------------
@@ -98,8 +98,8 @@ est téléchargeable ici : `code_stage.zip <publis/code_stage.zip>`_.
 Naereen Corp
 ^^^^^^^^^^^^
 
-Mon site perso pour accueillir certains de mes projets de programmation et de développement.
-Il est réalisé avec Google Site, 
+Mon site perso pour accueillir certains de mes projets de programmation 
+et de développement. Il est réalisé avec Google Site, 
 `sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
 
 La ``Naereen Corp.`` a aussi une page Facebook, 
@@ -168,16 +168,16 @@ et de scripts de ma conception, et elle est aussi consultable
 Infos sur ma clé PGP
 ^^^^^^^^^^^^^^^^^^^^
 
- Pour des explications sur ma clé PGP, savoir comment la récupérer,
- l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
- `cette page ci <pgp.html>`_ peut être utile.
+Pour des explications sur ma clé PGP, savoir comment la récupérer,
+l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
+`cette page ci <pgp.html>`_ peut être utile.
 
 Pages de démonstrations
 ^^^^^^^^^^^^^^^^^^^^^^^
 
- J'expérimente certains outils de **Sphinx**,
- ainsi que certaines extensions *non-officielles*,
- sur ces pages là :
+J'expérimente certains outils de **Sphinx**,
+ainsi que certaines extensions *non-officielles*,
+sur ces pages là :
 
   * `<math.html>`_;
   * `<graph.html>`_;

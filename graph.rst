@@ -1,18 +1,26 @@
-Embarquer des graphes DOT avec rST
-==================================
-
-rST ?
------
-
- Je génère ces pages web à partir de document écrits en **reStructuredText**,
- un petit langage à balise inventé pour le projet `docutils <http://docutils.sourceforge.net/>`_,
- et j'utilise l'outil `sphinx <http://sphinx-doc.org>`_ pour transformer ces pages ``rST`` en ``HTML``.
+Des graphes DOT avec GraphViz
+=============================
 
 Des graphes ?
 -------------
 
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
- écrits avec une balise ``.. graphviz::``, et censées être rendues avec Graphviz.
+ écrits avec une balise ``.. graphviz::``, et censés être rendus avec Graphviz.
+
+ Cette balises ``graphviz`` utilise le langage **DOT Graph** de description
+ de graphe (dirigé ou non). Ce langage est un standard dans le monde 
+ informatique : ingénieurs, chercheurs, enseignants, tous l'utilisent !
+
+.. warning::
+
+   Si les graphes suivants ne sont pas affichés, c'est probablement
+   parce que votre navigateur ne supporte pas les images ``SVG``.
+   En ce moment, je teste la fonctionnalité d'embarquer ces images au format
+   ``PNG``.
+
+   Une autre raison possible est un soucis du **serveur d'Apache**
+   qui héberge ces pages.
+
 
 Exemples
 --------
@@ -49,6 +57,13 @@ Exemples
    ".tex" -- ".pdf";
 
 
+**HeVeA** permet de réaliser la transformation suivante :
+
+.. graph:: hevea
+
+   ".tex" -- ".html" -- ".htoc";
+
+
 ``.. graphviz::``
 ~~~~~~~~~~~~~~~~~
 
@@ -60,13 +75,26 @@ Exemples
 
 ----
 
+Cette page permet aussi de tester la fonctionnalité ajouté par l'extension
+*non-officielle* ``sphinx.ext.todolist``.
+Cette extension ajoute une directive ``.. todo::`` qui permet de déclarer
+un **TODO**, *i.e.* une chose à régler.
+
 .. todo::
    
    Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
+
+Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
+``.. totolist::``, comme par exemple dans la page `todo <todo.html>`_.
 
 .. todo::
    
    Comprendre pourquoi les **.svg** sont bien rendus sur ``perso.crans.org``
    mais pas sur ``www.dptinfo.ens-cachan.fr``.
+
+.. todo::
+   
+   Comprendre pourquoi certains navigateurs n'afffichent pas bien les images
+   vectorielles **.svg**.
 
 .. include:: .bottom.fr.rst
