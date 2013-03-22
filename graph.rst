@@ -18,7 +18,7 @@ Des graphes ?
    En ce moment, je teste la fonctionnalité d'embarquer ces images au format
    ``PNG``.
 
-   Une autre raison possible est un soucis du **serveur d'Apache**
+   Une autre raison possible est un soucis du **serveur Apache**
    qui héberge ces pages.
 
 
