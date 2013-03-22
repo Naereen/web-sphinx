@@ -77,36 +77,4 @@ octave
     >> d = det(rand(100,100))
     >> fprintf('%f\n\n', d)
 
-ANSIColors
-^^^^^^^^^^
-
-Pour plus d'infos sur *ANSIColors*, voir cette page
-`lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-
-Je teste ici la possibilité d'embarquer des codes couleurs ANSI dans le 
-résultat d'une directive ``.. runblock::`` :
-
-.. runblock:: console
-    
-    $ python -m ANSIColors --help
-
-On peut tenter de forcer l'utilisation avec ``--ANSI`` :
-
-Ça fonctionne, mais les couleurs, comme prévu, ne sont pas interprétés :
-vous voyez plein de ``[1m`` ou ``[0;39;49m``.
-
-Peut-être qu'avec l'extension **ansi** du dépot ``sphinx-contrib``.
-
-.. include:: /tmp/runblock_out2.rst
-
-Alors ?
-
-.. ansi-block::
-   
-   Ca marche ? 
-   ^[[01;32mANSI Colors utility ^[[01;31mmodule^[[0;39;49m and ^[[01;34mscript^[[0;39;49m.
-       ^[[4mmailto:naereen-corporation@laposte.net^[[24m.
-       ^[[4mhttps://sites.google.com/site/naereencorp^[[24m.
-
-
 .. include:: .bottom.fr.rst
