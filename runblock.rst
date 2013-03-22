@@ -90,4 +90,10 @@ résultat d'une directive ``.. runblock::`` :
     
     $ python -m ANSIColors --help
 
+On peut tenter de forcer l'utilisation avec ``--ANSI`` :
+
+.. runblock:: console
+    
+    $ python -m ANSIColors --help --ANSI 
+
 .. include:: .bottom.fr.rst
