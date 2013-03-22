@@ -5,25 +5,17 @@
 
 Informations sur ma clé publique PGP
 ====================================
-
-.. sidebar:: Retour à l'accueil
-
-   La page principale est `ici <index.html>`_.
-
-   
 Qu'est-ce ?
 -----------
 
- Je ne saurais pas expliquer mieux que l'ami *Wikipedia* : `GPG sur Wikipedia <http://fr.wikipedia.org/wiki/GPG>`_.
-
+ Je ne saurais pas expliquer mieux que l'ami *Wikipedia* : 
+ `GPG sur Wikipedia <http://fr.wikipedia.org/wiki/GPG>`_.
  Une autre bonne référence est ce `wikibook sur GPG <http://fr.wikibooks.org/wiki/GPG>`_.
 
  Allez d'abord vous informer, ou vous rafraîcher les idées avant de lire d'avantage.
 
-
 Où et quand m'en sers-je ?
 --------------------------
-
 Signer pour assurer l'origine du fichier
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -42,27 +34,12 @@ Exemple
  Par exemple, mon `.bashrc <publis/bin/.bashrc>`_ a une signature
  `.bashrc.asc <publis/bin/.bashrc.asc>`_.
 
+ Cette signature ressemble à ça :
 
- Cette signature ressemble à ça : ::
- 
-     -----BEGIN PGP SIGNATURE-----
-     Version: GnuPG v1.4.11 (GNU/Linux)
-     
-     iQIcBAABAgAGBQJRQeF7AAoJEAGqzbnBCPig00QP/AnVD4e3r0cc6wT1nyitEn/u
-     BygnzyhqiT5YeUHy/tYfA2kMfACB4rKzW0rE0xo0GwVXp6KwLnmlChhif9059a+e
-     ck9PumX/X4fa+wrrGBYE0Wlm7z8G0w/5DA8h1G212sb7dMiiF8pivTg90sGyeq2X
-     vhjrThaG/zRgb1/rJ+Cpaq2fRpGsPi4IdO/m3tWotH5w6iI9/0J1W6xPnJvJpCYl
-     Un/5SgUJx2JDQpJ2G2u1Sjx4OPhzUlouxm0CEZ03KYdN/xUiKqZ5BnufVitWMeKp
-     F2Cpuy2FdGNaY2hfeePg2a6YOINL4Z4oHgL0pNFBchq4vjWZ71+gBpOsCqSJ/88M
-     el8r4WTx+mpjKXCl5FXmTH9dgOkUiJKEXuyC8N6Wl93yo6LONVZYLYKo3JPNP1sV
-     WV0jDGGebIYShc8e1ltjkK2k6qgmonBJzFxOwcgijyRBgTt5Ndz9yMlWIo3Es8Nx
-     CGaLu2FRaLyfpPahbrWTGfOIsngijYTd1ZFsCuCkt/Ii+VLOF2FLzldQY+Ur/aXV
-     zR0oVH8sKVZZR+UbBwNKSC5drHfP8+bJ54Ch+FNdWOLMh6fvxnfeuYwfCGW8W42C
-     8fZv/ewMqQznxjpzFdH5/9ue3ve4C+DoWRefn//G/kDPQINMsKv+4mzeFbINMH4a
-     D9gYXD8pJE7n0dftHqXl
-     =vJG2
-     -----END PGP SIGNATURE-----
- 
+ .. runblock:: console
+
+    gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
+
 
 Comment utiliser ces fichiers **.asc** ?
 ----------------------------------------

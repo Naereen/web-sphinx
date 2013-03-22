@@ -33,7 +33,7 @@ Par exemple, la date courante :
 
 .. runblock:: console
     
-    $ echo "Date: `date`. Dossier: `pwd`. Dossier absolu: `pwd -P`..."
+    $ echo "Date: `date`. Dossier: `pwd`."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 

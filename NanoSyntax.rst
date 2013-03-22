@@ -3,8 +3,9 @@
    :description lang=fr: Coloration syntaxique pour GNU Nano
    :description lang=en: Syntaxical coloration for GNU Nano
 
+###################################
 Coloration syntaxique pour GNU Nano
-===================================
+###################################
 
  Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
 
@@ -15,23 +16,21 @@ Il s'agit d'une notion *assez récente* : pour faciliter l'édition d'un **docum
 il est plus facile de le *voir* dans différentes couleurs, 
 et d'associer à chaque élément de la syntaxe du langage une couleur particulière.
 
-
   Par exemple, voici une capture d'écran, du logiciel **GNU/Nano**,
   utilisé pour éditer le code source de cette page.
 
 .. image:: .nanorc.png
-   :scale: 80 %
+   :scale: 100 %
    :align: center
    :alt: Un exemple de coloration de code OCaml avec GNU Nano
 
 --------------------------------------------------------------------------------
 
-
 De quoi je parle ?
 ~~~~~~~~~~~~~~~~~~
 
 Imaginez que vous rédigiez un devoir d'Histoire par exemple, avec un stylo et une feuille de papier. 
-Ce devoir est constitué de paragraphe, eux-mêmes rassemblés en phrase.
+Ce devoir est constitué de paragraphes, eux-mêmes rassemblés en phrase.
 
 Et dans chaque phrase, on peut distinguer plusieurs *catégories*, plusieurs groupes de mots.
 Par exemple, les dates (1941, 1515, 1993), et les noms propres (De Gaulle, Delacroix).
@@ -43,7 +42,8 @@ Voici un exemple de tel texte : ::
    Delacroix was a painter, but he has no link at all with 1515 (yes this example is stupid).
 
 Et bien, maintenant, tentez d'imaginer que votre feuille se mette à *colorer* 
-ces différents types, ou catégories, d'une couleur différentes pour chaque unité de sens (ou catégorie) :
+ces différents types, ou catégories, d'une couleur différentes 
+pour chaque unités de sens (ou catégories) :
 
  * les dates en :green:`vert`,
  * les noms propres en :purple:`mauve`.
@@ -138,20 +138,24 @@ Bien sûr, ces deux définitions sommaires réalisent :
  * des faux négatifs, en oubliant de colorer les noms propres
    qui contiennent des symboles spéciaux (``ç`` ou ``é`` notamment).
 
-Pour plus de détail, je vous renvoie à `cette page wikipédia <http://fr.wikipedia.org/wiki/Regexp>`_.
+Pour plus de détail, je vous renvoie à `cette page wikipédia 
+<http://fr.wikipedia.org/wiki/Regexp>`_.
 
-Comment GNU/Nano permet il de définir de telles syntaxes ?
-----------------------------------------------------------
+Comment **GNU/Nano** permet-il de définir de telles syntaxes ?
+--------------------------------------------------------------
 
-**GNU/Nano** est un éditeur assez simpliste, bien moins développé que **Emacs**, **Vim** ou **Eclipse**.
+**GNU/Nano** est un éditeur assez simpliste, bien moins développé que 
+**Emacs**, **Vim** ou **Eclipse**.
 Et ainsi, il n'est peut être pas très approprié pour gérer des projets complets.
 
 Mais il peut être pratique pour rapidement éditer un fichier en console.
-**GNU/Nano** permet naturellement de colorer le code qu'on édite, comme le montre la capture d'écran en haut de *cette* page.
+**GNU/Nano** permet naturellement de colorer le code qu'on édite, 
+comme le montre la capture d'écran en haut de *cette* page.
 
-Et si j'ai choisi Nano comme exemple, c'est parce qu'il est **très facile** de définir une **syntaxe** 
-pour que Nano la colore comme on le souhaite.
-En fait, de tous les systèmes que auxquels j'ai touché, c'est le plus simple (celui de Jota est plutôt presque identique aussi).
+Et si j'ai choisi Nano comme exemple, c'est parce qu'il est **très facile** 
+de définir une **syntaxe** pour que Nano la colore comme on le souhaite.
+En fait, de tous les systèmes que auxquels j'ai touché, c'est le plus simple 
+(celui de Jota est presque aussi simple).
 
 Un fichier **.nanorc**
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -169,7 +173,6 @@ Il faut d'abord définir quelle syntaxe on explique : ::
 
 Le premier mot donne le nom de la syntaxe, 
 et le second définit l'extension de nos devoirs d'Histoire.
-
 
 Ensuite, on définit les dates comme expliqué plus haut : ::
 
@@ -192,21 +195,33 @@ L'image suivante montre le résultat :
 
 On a donc obtenu **exactement** ce qu'on voulait.
 
-Il faut bien retenir la syntaxe des **.nanorc** ::
+Il faut bien retenir la syntaxe des **.nanorc** : ::
 
    color une_couleur une_regexp
 
 
-Les couleurs disponibles sont : ``blue``, ``red``, ``green``, ``yellow``, ``black``, ``magenta``, ``cyan``, ``white``.
+Les couleurs disponibles sont :blue:`blue`, :red:`red`, :green:`green`,
+:yellow:`yellow`, :black:`black`, :magenta:`magenta`, :cyan:`cyan`, :white:`white` 
+(traditionnelement les 8 couleurs **ANSI**, notamment utilisées dans les 
+terminaux ``UNIX`` et ``Linux``, cf <ANSIColors-balises 
+<https://pypi.python.org/pypi/ANSIColors-balises>`_).
+
 On peut les préfixer du mot ``bright`` pour indiquer une couleur plus claire.
-On peut aussi colorer le fond, avec la balise ``icolor`` (pour inverse).
+
+On peut aussi colorer le fond, en indiquant une seconde couleur : ::
+
+    color couleur_texte,couleur_fond une_regexp
+
+
+On peut aussi utiliser la commande ``icolor`` pour capturer sans tenir compte
+de la casse.
+
 
 Les **regexps** utilisées suivent la syntaxe des *Perl regexps*, un standard dans le monde Unix (aussi utilisée par Bash pour les filtres de fichiers, ou par *grep* pour le motif de recherche).
 
-Une autre syntaxe possible est ::
+Une autre syntaxe possible est : ::
    
    color ma_couleur start=regexp1 end=regexp2
-
 
 Pour savoir comment *charger* ce fichier ``histoire.nanorc`` au démarrage de 
 **GNU/Nano**, la suite est utile.
@@ -223,7 +238,7 @@ et d'adapter ou de rajouter la ligne de son ``$HOME.nanorc`` en conséquence.
 
 Ainsi, dans notre exemple pour les devoirs d'Histoire, on peut copier 
 le fichier ``histoire.nanorc`` dans ``$HOME/.nano``. 
-Ensuite, il suffit de rajouter les deux lignes suivantes à son fichier ``$HOME/.nanorc`` ::
+Ensuite, il suffit de rajouter les deux lignes suivantes à son fichier ``$HOME/.nanorc`` : ::
 
     ## Pour les devoirs d'Histoire
     include "~/.nano/histoire.nanorc"

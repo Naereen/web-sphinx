@@ -1,23 +1,24 @@
-Écrire des maths avec rST
-=========================
-
-rST ?
------
-
- Je génère ces pages web à partir de document écrits en **reStructuredText**,
- un petit langage à balise inventé pour le projet `docutils <http://docutils.sourceforge.net/>`_,
- et j'utilise l'outil `sphinx <http://sphinx-doc.org>`_ pour transformer ces pages ``rST`` en ``HTML``.
+################
+Écrire des maths
+################
 
 Des maths ?
 -----------
 
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des maths 
- écrits avec une balise ``.. math::``, et censées être rendues avec MathJax.
+ écrits avec une balise ``.. math::``, et censées être rendues avec **MathJax**.
+
+ **MathJax** ? Allez voir `la page officielle <http://www.mathjax.org/>`_
+ pour plus de détails.
+ Il faut seulement savoir que **MathJax** permet d'afficher *facilement*
+ des maths (écrites avec un code ``LaTeX``) joliment.
 
 Exemples
 --------
 
-On remarque qu'on peut faire des maths sans passer à la ligne :math:`a^2 + b^2 = c^2`.
+On remarque qu'on peut tout d'abord écrire des maths sans passer
+à la ligne :math:`a^2 + b^2 = c^2` (dans un triangle rectangle),
+avec la balise de texte interprété ``:math:`code math```.
 
 Identités remarquables
 ~~~~~~~~~~~~~~~~~~~~~~

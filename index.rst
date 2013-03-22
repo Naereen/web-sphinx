@@ -174,7 +174,8 @@ l'importer, et vérifier l'intégrité des fichiers proposés en téléchargemen
 
 Pages de démonstrations
 ^^^^^^^^^^^^^^^^^^^^^^^
-
+Extensions non officielles
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 J'expérimente certains outils de **Sphinx**,
 ainsi que certaines extensions *non-officielles*,
 sur ces pages là :
@@ -184,15 +185,31 @@ sur ces pages là :
   * `<gnuplot.html>`_;
   * `<runblock.html>`_.
 
---------------------------------------------------------------------
+Démonstrations
+~~~~~~~~~~~~~~
+J'embarque aussi des pages d'exemples et des tutoriels sur la syntaxe du
+langage **rST** :
 
+  * `<demo.html>`_;
+  * :ref:`rest_syntax`;
+  * `<rest_syntax.html>`_.
+
+Slides
+~~~~~~
+J'expérimente aussi un outil pour réaliser des slides en **rST** :
+
+  * `<slides.html>`_ (page intégrée au rendu via Sphinx);
+  * `<slides.simple.html>`_ (page sobre);
+  * `<slides.s5.html>`_ (slide, créé avec ``rst2s5``).
+
+--------------------------------------------------------------------
 
 Autres pages en rST
 -------------------
 
 .. toctree::
    :maxdepth: 1
-   :numbered: 1
+   :numbered: 2
    
    index_en
    CV_Lilian_BESSON.fr
@@ -202,8 +219,8 @@ Autres pages en rST
    math
    graph
    gnuplot
-   Un exemple de titre redéfini <runblock>
-   todo
+   runblock
+   Liste de problèmes à régler <todo>
 
 
 .. include:: .bottom.fr.rst
