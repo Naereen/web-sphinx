@@ -41,6 +41,7 @@ extensions = [
 #	'sphinxcontrib.googleanalytics',
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
+	'sphinxcontrib.ansi',
 	]
 
 ##############################################################################
