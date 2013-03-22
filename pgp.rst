@@ -3,9 +3,9 @@
    :description lang=en: PGP public key
    :description lang=fr: Clé publique PGP
 
-####################################
-Informations sur ma clé publique PGP
-####################################
+#########################################
+ Informations sur ma clé publique **PGP**
+#########################################
 Qu'est-ce ?
 -----------
  Je ne saurais pas expliquer mieux que l'ami *Wikipedia* : 
@@ -36,7 +36,7 @@ Exemple
 
  .. runblock:: console
 
-    gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
+    $ export LANG=en && gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
 
 Comment utiliser ces fichiers **.asc** ?
@@ -67,12 +67,12 @@ Exemple
      gpg --verify .bashrc.asc .bashrc
 
 
- Alors, normalement, si vous avez bien importé la clé, et télécharger les bons fichiers,
- cela devrait vous donner un message comme :
+ Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
+ télécharger les bons fichiers, cela devrait vous donner un message comme :
  
  .. runblock:: console
 
-    gpg --verify /home/lilian/.bashrc.asc /home/lilian/.bashrc
+    $ export LANG=en && gpg --verify ~/.bashrc.asc ~/.bashrc
 
 
 Ma clé publique

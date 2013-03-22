@@ -185,12 +185,12 @@ Autres expériences de recherche
 -------------------------------
 Projets de programmation en M1 (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- * **MPRI Bomberman** : un jeu de :Bomberman: multi-joueur, avec un sémantique formelle et un protocole (*presque*) optimal et ouvert (MPRI cours 1-21.).
+ * **MPRI Bomberman** : un jeu de ``Bomberman`` multi-joueur, avec un sémantique formelle et un protocole (*presque*) optimal et ouvert (MPRI cours 1-21.).
    Disponible en ligne `ici sur BitBucket lbesson/mpri-bomberman
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
- * **ANSI Colors** : un script et un module pour :Python 2: pour utiliser les couleurs en mode textuel dans un terminal.
+ * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
    Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 650 téléchargements pour l'instant).
    Ou aussi `ici sur BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
@@ -200,7 +200,7 @@ Projets de programmation en L3 (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * Un petit jeu de ``Tetravex`` (avec résolution automatique des puzzles), en **OCaml**, incluant de la programmation graphique et un travail algorithmique précis (projet de second semestre);
  * ``mocaml``: un toplevel amélioré et un **EDI** expérimental pour **OCaml**, écrits **Bash** et **OCaml** (pour Windows et **GNU/Linux**). *Ce projet n'est plus maintenu*;
- * ``C--``: un compilateur d'un sous-ensemble du language :C: vers l'assembleur :x86:, avec une sémantique formelle, écrit en **OCaml** (projet de premier semestre);
+ * ``C--``: un compilateur d'un sous-ensemble du language ``C`` vers l'assembleur ``x86``, avec une sémantique formelle, écrit en **OCaml** (projet de premier semestre);
  * Pour des applications **Android** :
   1. Collaboration et réalisation d'une partie de la coloration syntaxique pour `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (près de 4 millions de téléchargements !);
   2. Collaboration avec **Romain Vernoux** pour son appli `OCaml Toplevel on Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_, un projet non-officiel pour le language **OCaml**, soutenu par l'*INRIA*, en charge d'**OCaml**.

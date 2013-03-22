@@ -194,7 +194,7 @@ MSc programming projects (2012-2013)
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
 
- * **ANSI Colors** : a :Python 2: script and module to use colours in a terminal. 
+ * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal. 
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 650 download by now).
    Or also `here on BitBucket lbesson/ansi-colors 
    <https://bitbucket.org/lbesson/ansi-colors>`_,
@@ -204,7 +204,7 @@ BSc programming projects (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * A small ``Tetravex`` game (with an automatic puzzle resolution), in **OCaml**, involving graphical programming and precise algorithmic work (second semester project);
  * ``mocaml``: an enhanced toplevel and an experimental **IDE** for **OCaml**, written in **Bash** and **OCaml** (for Windows and **GNU/Linux**). This project is dead now;
- * ``C--``: compiler from a subset of :C: to :x86: assembly, with formal semantics, written in **OCaml** (first semester project);
+ * ``C--``: compiler from a subset of ``C`` to ``x86`` assembler, with formal semantics, written in **OCaml** (first semester project);
  * For **Android** apps :
   1. Syntaxical coloration and collaboration for `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
   2. Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ app, a non-official project for the **OCaml** language, approved by the French institute in charge of the project (*INRIA*).

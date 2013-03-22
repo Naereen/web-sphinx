@@ -195,7 +195,7 @@ Il faut bien retenir la syntaxe des **.nanorc** : ::
 Les couleurs disponibles sont :blue:`blue`, :red:`red`, :green:`green`,
 :yellow:`yellow`, :black:`black`, :magenta:`magenta`, :cyan:`cyan`, :white:`white` 
 (traditionnelement les 8 couleurs **ANSI**, notamment utilisées dans les 
-terminaux ``UNIX`` et ``Linux``, cf <ANSIColors-balises 
+terminaux ``UNIX`` et ``Linux``, cf `<ANSIColors-balises 
 <https://pypi.python.org/pypi/ANSIColors-balises>`_).
 
 On peut les préfixer du mot ``bright`` pour indiquer une couleur plus claire.
@@ -303,6 +303,6 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
 Me contacter
 ------------
 Si vous avez des questions, des suggestions d'améliorations, ou des bugs 
-(mauvaise coloration par exemple), n'hésitez pas à me contacter !. 
+(mauvaise coloration par exemple), n'hésitez pas à me contacter !
 
 .. include:: .bottom.fr.rst

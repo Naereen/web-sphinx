@@ -4,6 +4,13 @@ Web Pages Sphinx
 The new generation of my web pages, generated with Sphinx.
 Version 2 !
 
+Whare are those pages ?
+-----------------------
+
+On line :
+ * http://perso.crans.org/besson/ ;
+ * http://www.dptinfo.ens-cachan.fr/~lbesson/ .
+
 ----
 
 ### Author:
