@@ -14,7 +14,7 @@ pycon
 .. runblock:: pycon
    
     >>> for i in range(5):
-    ...    print i
+    ...  print i
 
 
 console
@@ -97,22 +97,16 @@ vous voyez plein de ``[1m`` ou ``[0;39;49m``.
 
 Peut-être qu'avec l'extension **ansi** du dépot ``sphinx-contrib``.
 
-.. runblock:: console
-    
-    $ python -m ANSIColors --help --ANSI > /tmp/runblock_out.txt && echo "OK, /tmp/runblock_out2.txt created"
-
-.. runblock:: console
-
-    $ touch /tmp/runblock_out2.txt && echo "OK, /tmp/runblock_out2.txt created"
-
-.. runblock:: pycon
-
-    >>> s = open('/tmp/runblock_out.txt').readlines()
-    >>> g = open('/tmp/runblock_out2.txt', 'w')
-    >>> g.write('.. ansi-block::\n\n')
-    >>> for i in s:
-    ...  g.write('   '+i)
-
 .. include:: /tmp/runblock_out2.txt
+
+Alors ?
+
+.. ansi-block::
+   
+   Ca marche ? 
+   ^[[01;32mANSI Colors utility ^[[01;31mmodule^[[0;39;49m and ^[[01;34mscript^[[0;39;49m.
+       ^[[4mmailto:naereen-corporation@laposte.net^[[24m.
+       ^[[4mhttps://sites.google.com/site/naereencorp^[[24m.
+
 
 .. include:: .bottom.fr.rst
