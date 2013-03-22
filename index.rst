@@ -3,12 +3,11 @@
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson personal web page
 
+######################################################
 Bienvenue sur la page web personnelle de Lilian Besson
-======================================================
-
+######################################################
 A propos de moi
 ---------------
-
 .. sidebar:: Autre(s) langue(s)
 
    Cette page est en *français*.
@@ -19,14 +18,12 @@ Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
-
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
 **et je suis le master d'informatique du MPRI**
 **et le master de mathématiques appliquée de l'ÉNS de Cachan.**
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
- 
  N'hésitez pas à me *contacter* :
   1. par courier ::
   
@@ -48,6 +45,13 @@ Adresses de contact
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
+.. sidebar:: CV
+
+   Mon *CV* est disponible ici `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_ (en anglais).
+   Il est réalisé en ``LaTeX`` avec le package *moderncv*.
+   Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
+   est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
+
 
  Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
   1. via mes dépôts *git* sur mon compte *bitbucket*, 
@@ -60,7 +64,6 @@ Mes projets en ligne
 
 Stage de M1
 ^^^^^^^^^^^
-
 J'ai trouvé un **stage de recherche** pour le 
 troisième trimestre 2012/2013 (entre le 06 Juin et le 09 Août).
 
@@ -70,18 +73,10 @@ sous la direction de *Peter O'Hearn* et *Jules Villard*,
 
   *Si vous avez un plan logement, n'hésitez pas à me contacter.*
 
-.. sidebar:: CV
-
-   Mon *CV* est disponible ici `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_ (en anglais).
-   Il est réalisé en ``LaTeX`` avec le package *moderncv*.
-   Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
-   est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
-
 ------------------------------------------------------------------------------
 
 Stage de L3
 ^^^^^^^^^^^
-
 J'ai fait mon stage de second semestre de L3 de maths, 
 sous la direction de `Florian de Vuyst <http://fdevuyst.jimdo.com/enseignement/>`_, 
 sur la modélisation numérique d'équations différentielles de mécaniques des fluides, 
@@ -97,7 +92,6 @@ est téléchargeable ici : `code_stage.zip <publis/code_stage.zip>`_.
 
 Naereen Corp
 ^^^^^^^^^^^^
-
 Mon site perso pour accueillir certains de mes projets de programmation 
 et de développement. Il est réalisé avec Google Site, 
 `sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
@@ -109,13 +103,11 @@ La ``Naereen Corp.`` a aussi une page Facebook,
 
 Autres pages
 ------------
-
 Je vous invite tout particulièrement à aller regarder ce dossier `publis/ <publis/>`_, 
 contenant plusieurs projets (un peu en vrac).
 
 ANSI Colors
 ^^^^^^^^^^^
-
 .. pypi-release:: ANSIColors-balises
    :prefix: La dernière version est ici 
             (normalement, l'extension non officielle cheeseshop
@@ -138,7 +130,6 @@ Actuellement, il a déjà été téléchargé plus de 650 fois (et n'est en lign
 
 Gedit : Tools
 ^^^^^^^^^^^^^
-
 Je suis l'auteur d'une collection de scripts, pour **gedit**, 
 à utiliser avec le *plugin* ``Externals Tools``.
 
@@ -150,7 +141,6 @@ Et aussi, des explications, des démonstrations, et une doc en français sont di
 
 Projet Réseau : MPRI Bomberman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre.
 Il s'agit d'un jeu de ``Bomberman``, en réseau.
 
@@ -167,10 +157,14 @@ et de scripts de ma conception, et elle est aussi consultable
 
 Infos sur ma clé PGP
 ^^^^^^^^^^^^^^^^^^^^
-
-Pour des explications sur ma clé PGP, savoir comment la récupérer,
+Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
 l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
 `cette page ci <pgp.html>`_ peut être utile.
+
+Coloration syntaxique pour **GNU/Nano**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
+de la *coloration syntaxique* dans l'éditeur **GNU/Nano**.
 
 Pages de démonstrations
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -191,7 +185,6 @@ J'embarque aussi des pages d'exemples et des tutoriels sur la syntaxe du
 langage **rST** :
 
   * `<demo.html>`_;
-  * :ref:`rest_syntax`;
   * `<rest_syntax.html>`_.
 
 Slides
@@ -214,7 +207,7 @@ Autres pages en rST
    index_en
    CV_Lilian_BESSON.fr
    NanoSyntax
-   trademarks
+   Précisions sur les marques commerciales citées (en anglais) <trademarks>
    pgp
    math
    graph
