@@ -32,7 +32,7 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
     $ du -h *.rst .*.rst
 
 Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
-fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_ :
+fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
 .. runblock:: console
 
