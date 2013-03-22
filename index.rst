@@ -53,7 +53,7 @@ Mes projets en ligne
    est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
 
 
- Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
+Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
   1. via mes dépôts *git* sur mon compte *bitbucket*, 
      `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
   2. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
@@ -201,7 +201,7 @@ Autres pages en rST
 -------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered: 2
    
    index_en
@@ -214,6 +214,5 @@ Autres pages en rST
    gnuplot
    runblock
    Liste de problèmes à régler <todo>
-
 
 .. include:: .bottom.fr.rst

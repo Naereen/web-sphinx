@@ -3,9 +3,9 @@
    :description lang=en: Lilian Besson personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
+###################################
 Welcome to Lilian Besson on the web
-===================================
-
+###################################
 .. warning::
    
    Those web pages **are still in construction** !
@@ -19,7 +19,6 @@ Welcome to Lilian Besson on the web
 
 Who am I ?
 ----------
-
 I am **Lilian Besson**, a **french** student at ENS de Cachan, 
 a *french* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently in a double MSc in both of those topics.
@@ -40,7 +39,6 @@ I'm studying *mathematics* and *Computer Science*, and I'm currently in a double
 
 Table of contents
 -----------------
-
 .. toctree::
    :maxdepth: 2
    :numbered: 2
@@ -49,6 +47,5 @@ Table of contents
    slides
    demo
    rest_syntax
-
 
 .. include:: .bottom.en.rst
