@@ -2,14 +2,18 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with Sphinx.
+Version 2 !
 
 ----
 
 ### Author:
 Lilian Besson.
 
-### Language:
-reStructuredText
+### Languages:
+ * reStructuredText
+ * Django Templating
+ * Javascript
+ * Python
 
 License
 -------
