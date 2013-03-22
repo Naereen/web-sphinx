@@ -65,7 +65,7 @@ todo_include_todos = True
 
 # image format used for the different builders. ``latex`` and ``html`` fromats
 #  are supported.
-gnuplot_format = dict(latex='pdf', html='png')
+gnuplot_format = dict(latex='pdf', html='svg')
 
 autorun_languages = {}
 autorun_languages['pycon'] = u'python -'

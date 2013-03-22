@@ -12,7 +12,7 @@ Des graphiques avec GNU Plot
    En ce moment, je teste la fonctionnalité d'embarquer ces images au format
    ``PNG``.
 
-   Une autre raison possible est un soucis du **serveur d'Apache**
+   Une autre raison possible est un soucis du **serveur Apache**
    qui héberge ces pages.
 
 
@@ -93,6 +93,11 @@ Conclusion
 Ces exemples montrent un peu ce qu'on peut faire, 
 très facilement, grâce aux extensions 'non-officielles' de Sphinx 
 (en l'occurence, l'extension **gnuplot** dans ce cas là).
+
+.. todo::
+   
+   Comprendre pourquoi la sortie **PNG** n'accepte pas plusieurs graphiques
+   sur une même image. En attendant, je remet en **SVG**.
 
 ------------------------------------------------------------------------------
 
