@@ -23,7 +23,7 @@ Par exemple, la date courante :
 
 .. runblock:: console
     
-    $ echo "Date: `date`. Dossier: `pwd`. Dossier absolu: `pwd -P`..."
+    $ echo "Date: `date`. Dossier: `pwd`."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
@@ -31,7 +31,8 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
     
     $ du -h *.rst .*.rst
 
-Ou bien encore, on peut réaliser une signature *GPG* à la volée du fichier courant :
+Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
+fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_ :
 
 .. runblock:: console
 

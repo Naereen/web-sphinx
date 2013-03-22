@@ -357,7 +357,7 @@ epub_copyright = u'2013, Lilian Besson'
 epub_language = 'fr'
 
 # The scheme of the identifier. Typical schemes are ISBN or URL.
-#epub_scheme = ''
+epub_scheme = 'URL'
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
@@ -381,10 +381,10 @@ epub_language = 'fr'
 #epub_exclude_files = []
 
 # The depth of the table of contents in toc.ncx.
-#epub_tocdepth = 3
+epub_tocdepth = 3
 
 # Allow duplicate toc entries.
-#epub_tocdup = True
+epub_tocdup = True
 
 # (c) 2011-13
 # 
