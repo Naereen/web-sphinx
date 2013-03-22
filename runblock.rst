@@ -97,7 +97,7 @@ vous voyez plein de ``[1m`` ou ``[0;39;49m``.
 
 Peut-être qu'avec l'extension **ansi** du dépot ``sphinx-contrib``.
 
-.. include:: /tmp/runblock_out2.txt
+.. include:: /tmp/runblock_out2.rst
 
 Alors ?
 
