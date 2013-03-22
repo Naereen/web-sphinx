@@ -97,7 +97,7 @@ slides:
 	./.slides.sh
 
 git:
-	git add *.rst README.md Makefile conf.py .*.rst .templates
+	git add *.rst README.md Makefile conf.py .*.rst .templates CV*.pdf
 	git commit -m "auto"
 	git push
 
