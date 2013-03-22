@@ -50,7 +50,7 @@ pour chaque unités de sens (ou catégories) :
 
    **Normalement**, le mot '*vert*' est en vert, et '*mauve*' est en ... mauve.
    Le support de couleur pour ces deux phrases *est encore expérimental*.
-   Le fichier `.special.rst <.special.rst>`_ définit les composants nécessaires.
+   Le fichier .special.rst définit les composants nécessaires.
    Cela doit normalement fonctionner en **HTML** mais pas en **PDF**.
 
 
