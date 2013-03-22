@@ -7,7 +7,7 @@
 #
 #	__author__='Lilian BESSON'
 #	__email__='lilian.besson@normale.fr'
-#	__version__='12.5'
+#	__version__='13.8'
 #	__date__='mer. 13/03/2013 at 12h:59m:27s '
 #
 
@@ -37,7 +37,7 @@ local:	cleanALL all notify
 
 complete:	cleanALL all sendAll notify
 
-all:	html cv.en cv.fr slides
+all:	html cv.en cv.fr slides git
 
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
@@ -46,12 +46,6 @@ notify_archive: archive
 	notify-send "Sphinx : archiving" "Generating archive : done ! (~/pages_web_sphinx.tar.xz)"
 
 cleanALL: clean_build clean_pyc
-
-#pychecker:
-#	pychecker -# 1000 -t -9 -v -g -n -a -I -8 -1 -A -S self --changetypes -6 -q -m -c -f [A-Z]*.py
-
-#pyflakes:
-#	pyflakes [A-Z]*.py
 
 archive: clean_pyc
 	if [ -f ~/pages_web_sphinx.tar.xz ]; then mv -f ~/pages_web_sphinx.tar.xz ~/Documents/ ; fi
@@ -92,7 +86,6 @@ coverage:
 
 cv.fr:
 	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.fr.pdf -c CV_Lilian_BESSON.fr.rst
-#	rst2latex --title="CV Lilian BESSON (fr)" -t --no-source-link --language=fr --use-verbatim-when-possible -q --tab-width=4  CV_Lilian_BESSON.fr.rst CV_Lilian_BESSON.fr.latex
 	$(CP) CV_Lilian_BESSON.fr.pdf .build/html/
 
 cv.en:
@@ -100,14 +93,12 @@ cv.en:
 #	rst2latex --title="CV Lilian BESSON (en)" -t --no-source-link --language=en --use-verbatim-when-possible -q --tab-width=4  CV_Lilian_BESSON.en.rst CV_Lilian_BESSON.en.latex
 	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
 
-# experimental
 slides:
 	./.slides.sh
 
 git:
-	git add $(BUILDDIR)/ *.rst README.md Makefile conf.py .*.rst
-	git add .templates/
-	git commit -m "Autocommit (at `date`), on `pwd`..."
+	git add *.rst README.md Makefile conf.py .*.rst .templates
+	git commit -m "auto"
 	git push
 
 ########################## End of custom stuffs ###############################
