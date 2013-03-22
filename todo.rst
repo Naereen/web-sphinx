@@ -10,14 +10,14 @@ De tels soucis peuvent être déclarés via : ::
 
     Voici un soucis.
 
+------------------------------------------------------------------------------
+
 La liste
 ========
-
 .. todolist::
 
 À propos
 --------
-
 Cette fonctionnalité est issue de l'**extension** officielle 
 ``todolist``.
 

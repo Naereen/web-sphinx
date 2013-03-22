@@ -6,7 +6,6 @@
 ######################
 Résumé : Lilian Besson
 ######################
-
 .. sidebar:: Other language(s)
 
    This page is in *english*.
@@ -17,7 +16,6 @@ Résumé : Lilian Besson
 
 Contact address
 ---------------
-
 * :First name: **Besson**
 * :Last name: **Lilian**
 * :Email: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (remove the brackets)
@@ -85,12 +83,12 @@ Miscellaneous
 
 ---------------------------------------------------------------------
 
+##################
 Academic Education
-==================
+##################
 
 Currently (**2012-2013**): First-year MSc (*Master*)
 ----------------------------------------------------
-
  * **Mathematics** MSc (*Since Sept. 2012*)
   * :University(ies): ÉNS de Cachan & Paris Diderot University (Paris VII);
   * :Domain(s): Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation.
@@ -114,9 +112,9 @@ Currently (**2012-2013**): First-year MSc (*Master*)
  
  * **TOEIC** (*english test*) got with the mark **900/990**.
 
+
 BSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * :Title: Finite volumes method on :nVidia: graphic cards, applied to solve the *compressible Euler* problem;
  * :Supervisor: Pr. Florian de Vuyst;
  * :Description: 
@@ -136,10 +134,8 @@ BSc internship and thesis
     (`Image Processing on Line <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     August 2012.
 
-
 **2010-2011** : Second-year BSc & *Classe Préparatoire*
 -------------------------------------------------------
-
  * *Classe Préparatoire*, second year (**MP\***)
   * :University(ies): `Lycée Thiers <http://www.lyc-thiers.ac-aix-marseille.fr/webphp/newsite/index2.php>`_ (Marseille, France) & Aix-Marseille 1 University;
   * :Studying: maths, chemistry, physics, engineering, computer science, philosophy, litterature, English and Spanish;
@@ -148,7 +144,6 @@ BSc internship and thesis
 
 '*Grandes Écoles*' entrance exams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  1. Accepted and **matriculed** at *École Normale Supérieure de Cachan* (*July 2011*)
    * :Rank: **99/1200**;
    * :Matriculated: at the maths department, student with the special French status *élève-normalien*.
@@ -165,7 +160,6 @@ BSc internship and thesis
 
 **2009-2010** : First-year BSc & *Classe Préparatoire*
 ------------------------------------------------------
-
  * *Classe Préparatoire*, first year (**MPSI**)
   * :University(ies): Lycée Thiers (Marseille, France) & Aix-Marseille 1 University;
   * :Studying: maths, chemistry, physics, engineering, computer science, philosophy, litterature, English and Spanish;
@@ -174,7 +168,6 @@ BSc internship and thesis
 
 '*Grandes Écoles*' entrance exams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * Accepted at *École des Mines* (at Alès) (*July 2011*)
   * :Rank: **14/4000**;
   * :Mark: **18.2/20**;
@@ -183,7 +176,6 @@ BSc internship and thesis
 
 Other diplomas
 --------------
-
  * **Driving license**, got in Briançon (*February 2012*).
  
  * **High-scool certificate** (French *Baccalaureat*) (*June 2009*)
@@ -191,25 +183,25 @@ Other diplomas
   * :Mark: **15.7/20**, *magna cum laude*;
   * :Options: **Scientific** high-scool certificate with specialization in **mathematics**, and intensive **theater**.
 
+------------------------------------------------------------------------------
 
 Other research experience
 -------------------------
-
 MSc programming projects (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * **MPRI Bomberman** : a multiplayer Bomberman game with formal semantics and a open protocole (MPRI lecture 1-21.).
-   On-line `here on BitBucket <https://bitbucket.org/lbesson/mpri-bomberman>`_,
+   On-line `here on BitBucket lbesson/mpri-bomberman 
+   <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : a :Python 2: script and module to use colours in a terminal. 
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 650 download by now).
-   Or also `here on BitBucket <https://bitbucket.org/lbesson/ansi-colors>`_,
+   Or also `here on BitBucket lbesson/ansi-colors 
+   <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
 
 BSc programming projects (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * A small ``Tetravex`` game (with an automatic puzzle resolution), in **OCaml**, involving graphical programming and precise algorithmic work (second semester project);
  * ``mocaml``: an enhanced toplevel and an experimental **IDE** for **OCaml**, written in **Bash** and **OCaml** (for Windows and **GNU/Linux**). This project is dead now;
  * ``C--``: compiler from a subset of :C: to :x86: assembly, with formal semantics, written in **OCaml** (first semester project);
@@ -219,17 +211,14 @@ BSc programming projects (2011-2012)
 
 Second-year BSc research project (2010-2011)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * :Title: *Tropical algebras & linear systems applied to mobility problems*;
  * :Supervisors: **Agnès Borel** (*Lycée Thiers*) & Pr. **Glenn Merlet** (*Aix-Marseille I University*);
  * :Abstract: general study of tropical algebras, time processes (Petri nets and Markov chains). Dikjstra algorithm, tropical and time dependant implemented with `Maple 12 <http://www.maplesoft.com/products/maple/>`_.
 
 First-year BSc research project (2009-2010)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * :Title: *The Chess board, a dynamic surface*;
  * :Supervisors: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM !*).
-
 
 .. include:: .bottom.en.rst

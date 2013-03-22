@@ -11,7 +11,6 @@ Exemples
 --------
 pycon
 ~~~~~
-
 .. runblock:: pycon
    
     >>> for i in range(5):
@@ -20,7 +19,6 @@ pycon
 
 console
 ~~~~~~~
-
 Par exemple, la date courante :
 
 .. runblock:: console

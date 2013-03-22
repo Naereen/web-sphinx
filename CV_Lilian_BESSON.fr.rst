@@ -6,7 +6,6 @@
 ###############################
 Curriculum Vitæ : Lilian Besson
 ###############################
-
 .. sidebar:: Autre(s) langue(s)
 
    Cette page est en *français*.
@@ -16,7 +15,6 @@ Curriculum Vitæ : Lilian Besson
 
 Adresse de contact
 ------------------
-
 * :Nom: **Besson**
 * :Prénom: **Lilian**
 * :Couriel: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (retirez les crochets)
@@ -81,7 +79,6 @@ Divers
 * :Expérience internationale: Nombreux voyages (*en indépendant*) en Espagne, Allemagne, Suède, Italie, Royaumes-Unis, États-Unis, Irelande, Canada, Suisse **depuis 2004**;
 * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
 * :Sports: escalade, trek, VTT, natation.
-  
 
 ---------------------------------------------------------------------
 
@@ -91,7 +88,6 @@ Formation académique
 
 Actuellement (**2012-2013**) : Première année de Master (M1)
 ------------------------------------------------------------
-
  * M1 de **Mathématiques** (*Depuis Sept. 2012*)
   * :Université(s): ÉNS de Cachan & Université Paris Diderot (Paris VII);
   * :Domaine(s): Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs.
@@ -102,7 +98,6 @@ Actuellement (**2012-2013**) : Première année de Master (M1)
 
 **2011-2012** : Troisième et dernière année de Licence
 ------------------------------------------------------
-
  * Licence de **Mathématiques** (*Sept. 2011 à Juillet 2012*)
   * :Université(s): ÉNS de Cachan & Paris Diderot Université (Paris VII);
   * :Domaine(s): Analyse fonctionnelle, intégration, algèbre, arithmétique, EDOs et EDPs, topologie, géométrie différentielle;
@@ -117,7 +112,6 @@ Actuellement (**2012-2013**) : Première année de Master (M1)
 
 Stage et rapport de stage de L3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * :Titre: Méthodes de volumes finis sur carte graphiques :nVidia: pour résoudre le problème d'Euler compressible;
  * :Encadrant: Pr. Florian de Vuyst;
  * :Description: 
@@ -138,10 +132,8 @@ Stage et rapport de stage de L3
     (`Image Processing on Line <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     Août 2012.
 
-
 **2010-2011** : Seconde année de Licence & *Classe Préparatoire*
 ----------------------------------------------------------------
-
  * *Classe Préparatoire*, seconde année (**MP\***)
   * :Université(s): `Lycée Thiers <http://www.lyc-thiers.ac-aix-marseille.fr/webphp/newsite/index2.php>`_ (Marseille, France) & Université d'Aix-Marseille 1;
   * :Matières: maths, chimie, physique, science de l'ingénieur, informatique, philosophie, littérature, anglais et espagnol;
@@ -150,7 +142,6 @@ Stage et rapport de stage de L3
 
 Éxamens d'entrées aux *Grandes Écoles*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  1. Accepté et **admis** à *École Normale Supérieure de Cachan* (*Juillet 2011*)
    * :Rang: **99/1200**;
    * :Admis: au département de mathématiques, étudiant au statut élève-normalien (fonctionnaire stagiaire).
@@ -164,10 +155,8 @@ Stage et rapport de stage de L3
    * :Rang: **2/890**;
    * Admission refusée.
 
-
 **2009-2010** : Première année de Licence & *Classe Préparatoire*
 -----------------------------------------------------------------
-
  * *Classe Préparatoire*, première année (**MPSI**)
   * :Université(s): Lycée Thiers (Marseille, France) & Université d'Aix-Marseille 1;
   * :Matières: maths, chimie, physique, science de l'ingénieur, informatique, philosophie, littérature, anglais et espagnol;
@@ -176,16 +165,13 @@ Stage et rapport de stage de L3
 
 Éxamens d'entrées aux *Grandes Écoles*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * Accepté à *École des Mines* d'Alès (*Juillet 2011*)
   * :Rang: **14/4000**;
   * :Note: **18.2/20**;
   * Admission refusée.
 
-
 Autres diplômes
 ---------------
-
  * **Permis de conduire**, obtenu à Briançon (*Février 2012*).
  
  * **Baccalaureat** (*Juin 2009*)
@@ -193,26 +179,25 @@ Autres diplômes
   * :Note: **15.7/20**, *magna cum laude*;
   * :Options: **Bac S**-Science de la Vie, option **mathématiques**, et option renforcée **théâtre**.
 
+------------------------------------------------------------------------------
 
 Autres expériences de recherche
 -------------------------------
-
 Projets de programmation en M1 (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * **MPRI Bomberman** : un jeu de :Bomberman: multi-joueur, avec un sémantique formelle et un protocole (*presque*) optimal et ouvert (MPRI cours 1-21.).
-   Disponible en ligne `ici sur BitBucket <https://bitbucket.org/lbesson/mpri-bomberman>`_,
+   Disponible en ligne `ici sur BitBucket lbesson/mpri-bomberman
+   <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : un script et un module pour :Python 2: pour utiliser les couleurs en mode textuel dans un terminal.
    Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 650 téléchargements pour l'instant).
-   Ou aussi `ici sur BitBucket <https://bitbucket.org/lbesson/ansi-colors>`_,
+   Ou aussi `ici sur BitBucket lbesson/ansi-colors
+   <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.
-
 
 Projets de programmation en L3 (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
  * Un petit jeu de ``Tetravex`` (avec résolution automatique des puzzles), en **OCaml**, incluant de la programmation graphique et un travail algorithmique précis (projet de second semestre);
  * ``mocaml``: un toplevel amélioré et un **EDI** expérimental pour **OCaml**, écrits **Bash** et **OCaml** (pour Windows et **GNU/Linux**). *Ce projet n'est plus maintenu*;
  * ``C--``: un compilateur d'un sous-ensemble du language :C: vers l'assembleur :x86:, avec une sémantique formelle, écrit en **OCaml** (projet de premier semestre);
@@ -222,7 +207,6 @@ Projets de programmation en L3 (2011-2012)
 
 Projet de recherche en **MP\*** (L2, 2010-2011)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Dans le cadre des **TIPE** (*Travaux d'Iniative Personnelle Encadrés*) :
  * :Titre: *Algèbre tropicale & système linéaire appliqués à des problèmes de mobilités*;
  * :Superviseurs: **Agnès Borel** (*Lycée Thiers*) & Pr. **Glenn Merlet** (*Université Aix-Marseille I*);
@@ -230,11 +214,9 @@ Dans le cadre des **TIPE** (*Travaux d'Iniative Personnelle Encadrés*) :
 
 Projet de recherche en **MPSI** (L1, 2009-2010)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Dans le cadre des **TIPE** (*Travaux d'Iniative Personnelle Encadrés*) :
  * :Titre: *Le plateau d'échec, une surface dynamique*;
  * :Superviseurs: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Résumé: implémentation d'un jeu d'échec pour deux joueurs, et d'une IA (assez inefficace, naïve et plutôt lente, mais fonctionnelle). Près de **7000 lignes de code en TI-Basic**, un des projets pour calculette *TI-82* les plus importants (*un vieux modèle : 6 MHz, 28 Ko de RAM !*).
-
 
 .. include:: .bottom.fr.rst

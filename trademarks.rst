@@ -11,21 +11,18 @@ This page is written to clarify some *'legal'* points.
 
 About
 -----
-
  This little page is intented to quote the trademarks I quote 
  in the other pages. And also to give an almost exhaustive 
  list of the software and usefull website I'm using for my projects.
 
 Institutions
 ------------
-
  I'm trying to keep a list of all quoted institution, 
  and to clarify here the one which I am connected to
  and the others.
 
 ENS de Cachan
 ~~~~~~~~~~~~~
-
  Just to precise : I am a **student** at ENS de Cachan. 
  Not a teacher, not anything else than a student.
 
@@ -44,10 +41,8 @@ ENS de Cachan
    and also that a significant part of my work is **related** to the work 
    “I have to do *at school*”.
    
-
 CMLA (Maths research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
  The CMLA is the Mathematics research institute of ENS de Cachan.
  
  Again, I am **not** a member of the CMLA. At least, a lot of 
@@ -61,10 +56,8 @@ CMLA (Maths research institute)
    but that means a part of this content is related to the work 
    “I have to do *at school*”.
  
-
 LSV (*CS* research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
  The LSV is the Computer Science lab research of ENS de Cachan.
  
  Again, I am **not** a member of the LSV. At least, a lot of 
@@ -78,10 +71,8 @@ LSV (*CS* research institute)
    but that a part of the content is related to the work 
    “I have to do *at school*”.
 
-
 CNRS (French scientific research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
  The CNRS is the French Institude for Scientific Research 
  ("Centre National de la Recherche Scientifique").
  
@@ -98,18 +89,15 @@ CNRS (French scientific research institute)
    of the CNRS name or logo.
    If you find of I forgot to erase, please inform me.
  
-
 ------------------------------------------------------------------------------
 
 Trademarks
 ----------
-
  All the quoted trademarks on this page and on all the page on this domain 
  are the respective properties of their owners.
  
 A non exhaustive list
 ~~~~~~~~~~~~~~~~~~~~~
-
  I'm trying here to keep a list of all the trademarks I quote in my pages.
  If I forgot one, and if that bother you, please 
  `contact me <mailto:lilian DOT besson AT normale DOT fr>`_.
@@ -147,12 +135,10 @@ In particular,
  * Ghostery is © and ® of Ghostery™,
  * and many others...
 
-
 ------------------------------------------------------------------------------
 
 Used softwares
 --------------
-
 I usually try to quote and to say what software I used to produce the different available files
 on each of my web pages and projects descriptions, 
 but to be more precise, I'm also trying to quote them all here.

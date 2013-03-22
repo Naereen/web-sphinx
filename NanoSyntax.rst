@@ -11,7 +11,6 @@ Coloration syntaxique pour GNU Nano
 
 Qu'est-ce que la coloration syntaxique ?
 ----------------------------------------
-
 Il s'agit d'une notion *assez récente* : pour faciliter l'édition d'un **document**, 
 il est plus facile de le *voir* dans différentes couleurs, 
 et d'associer à chaque élément de la syntaxe du langage une couleur particulière.
@@ -28,7 +27,6 @@ et d'associer à chaque élément de la syntaxe du langage une couleur particuli
 
 De quoi je parle ?
 ~~~~~~~~~~~~~~~~~~
-
 Imaginez que vous rédigiez un devoir d'Histoire par exemple, avec un stylo et une feuille de papier. 
 Ce devoir est constitué de paragraphes, eux-mêmes rassemblés en phrase.
 
@@ -76,7 +74,6 @@ mais plutôt une description :
 
 Pourquoi syntaxique ?
 ~~~~~~~~~~~~~~~~~~~~~
-
 Bien sûr, cela fait quelques années que je ne rédige plus de devoir d'Histoire, 
 donc, me diriez-vous, quel rapport avec ce que je fais ?
 
@@ -89,7 +86,6 @@ Et bien voilà le détail de l'analogie précédente :
 
 Exemple
 ^^^^^^^
-
 Par exemple, un tel *langage* peut être :
  * le langage que j'utilise pour générer cette page web, appelé ``reStructuredText``. 
  * ou le langage de la page elle même : ``HTML 1``.
@@ -116,7 +112,6 @@ illustrent bien le concept de **coloration syntaxique** d'un langage de programm
 
 Définir une telle syntaxe
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-
 En général, on utilise une notion venue de nos cours 
 de *langages formels* : les expressions régulières (ou rationelles), 
 aussi raccourci en *regexp*.
@@ -143,7 +138,6 @@ Pour plus de détail, je vous renvoie à `cette page wikipédia
 
 Comment **GNU/Nano** permet-il de définir de telles syntaxes ?
 --------------------------------------------------------------
-
 **GNU/Nano** est un éditeur assez simpliste, bien moins développé que 
 **Emacs**, **Vim** ou **Eclipse**.
 Et ainsi, il n'est peut être pas très approprié pour gérer des projets complets.
@@ -152,14 +146,13 @@ Mais il peut être pratique pour rapidement éditer un fichier en console.
 **GNU/Nano** permet naturellement de colorer le code qu'on édite, 
 comme le montre la capture d'écran en haut de *cette* page.
 
-Et si j'ai choisi Nano comme exemple, c'est parce qu'il est **très facile** 
+Et si j'ai choisi **Nano** comme exemple, c'est parce qu'il est **très facile** 
 de définir une **syntaxe** pour que Nano la colore comme on le souhaite.
 En fait, de tous les systèmes que auxquels j'ai touché, c'est le plus simple 
-(celui de Jota est presque aussi simple).
+(celui de **Jota** est presque aussi simple).
 
 Un fichier **.nanorc**
 ~~~~~~~~~~~~~~~~~~~~~~
-
 Tout ce dont aura besoin **Nano** pour colorer un certain type de fichiers est un
 *fichier de configuration*, avec comme extension **.nanorc** (mais ce n'est qu'une convention).
 
@@ -185,7 +178,6 @@ On définit enfin les noms propres : ::
 
 Quel résultat ?
 ~~~~~~~~~~~~~~~
-
 L'image suivante montre le résultat :
 
 .. image:: exemple.histoire.png
@@ -228,7 +220,6 @@ Pour savoir comment *charger* ce fichier ``histoire.nanorc`` au démarrage de
 
 Comment utiliser ces fichiers **.nanorc**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Pour les utiliser, il faut éditer le fichier ``$HOME/.nanorc``, 
 qui doit contenir des lignes ``include "path/to/the/lang.nanorc"``.
 
@@ -243,12 +234,10 @@ Ensuite, il suffit de rajouter les deux lignes suivantes à son fichier ``$HOME/
     ## Pour les devoirs d'Histoire
     include "~/.nano/histoire.nanorc"
 
-
 ------------------------------------------------------------------------------------------------
 
 Le dossier NanoSyntax/
 ----------------------
-
 `Ce dossier <NanoSyntax/>`_ contient de nombreux fichiers pour la coloration syntaxique via **GNU Nano**, 
 l'éditeur *en ligne de commande* du projet **GNU**.
 
@@ -258,7 +247,6 @@ comme l'utilisation du curseur, l'autorisation à suspendre l'édition (``Ctrl+Z
 
 Fichier jouet
 ~~~~~~~~~~~~~
-
 Le fichier exemple ``histoire.nanorc`` est là `NanoSyntax/histoire.nanorc <NanoSyntax/histoire.nanorc>`_.
 
 .. image:: histoire.nanorc.png
@@ -269,7 +257,6 @@ Le fichier exemple ``histoire.nanorc`` est là `NanoSyntax/histoire.nanorc <Nano
 
 Sources des différents fichiers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Seuls `ocaml.nanorc <NanoSyntax/ocaml.nanorc>`_, 
 `reST.nanorc <NanoSyntax/reST.nanorc>`_ et
 `python.nanorc <NanoSyntax/python.nanorc>`_ ont été modifiés par moi 
@@ -293,7 +280,6 @@ uniquement pour ce projet (nouvelles pages web, entièrement avec **Sphinx**).
 
 Autres références
 -----------------
-
 Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages là:
 
 * `naereencorp/tools/gtksourceview <https://sites.google.com/site/naereencorp/tools/gtksourceview>`_,
@@ -316,7 +302,7 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
 
 Me contacter
 ------------
-
-Si vous avez des questions, des suggestions d'améliorations, ou des bugs (mauvaise coloration par exemple), n'hésitez pas à me contacter !. 
+Si vous avez des questions, des suggestions d'améliorations, ou des bugs 
+(mauvaise coloration par exemple), n'hésitez pas à me contacter !. 
 
 .. include:: .bottom.fr.rst

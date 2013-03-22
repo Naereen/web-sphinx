@@ -1,5 +1,6 @@
+############################
 Des graphiques avec GNU Plot
-============================
+############################
 
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphes 
  écrits avec une balise ``.. gnuplot::``.
@@ -17,7 +18,6 @@ Des graphiques avec GNU Plot
 
 Exemples
 --------
-
 Premier, :math:`x \mapsto \sin(x)` (avec une grille mise avec ``set grid``) :
 
 .. gnuplot::
@@ -51,9 +51,8 @@ différencier les différents graphiques :
    replot 1/(1+exp(-x))
    replot 1/(1+exp(-4*x))
 
-Tableaux
---------
-
+Tableau(x)
+----------
 On peut aussi faire des graphes, et en faire des colonnes :
 
 +--------------------------+----------------------------+----------------------------+
@@ -77,9 +76,8 @@ dans un seul (avec ``replot``) :
    replot 1/(1+exp(-x))
    replot 0.5*(1+sgn(x))
 
-En 3D
------
-
+En 3D : une surface
+-------------------
 .. gnuplot::
    :title: Surface
    :size: 1100,700
@@ -90,10 +88,8 @@ En 3D
    replot x**2 + y**2
    replot abs(x)+abs(y)
 
-
 Conclusion
 ----------
-
 Ces exemples montrent un peu ce qu'on peut faire, 
 très facilement, grâce aux extensions 'non-officielles' de Sphinx 
 (en l'occurence, l'extension **gnuplot** dans ce cas là).
@@ -102,23 +98,19 @@ très facilement, grâce aux extensions 'non-officielles' de Sphinx
 
 Espace d'expérimentation
 ------------------------
-
 Pour les citations et les notes de bas de pages
 
 Footnote
 ~~~~~~~~
-
 Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
 
 Citation
 ~~~~~~~~
-
 Lorem ipsum [c1]_ dolor sit amet ... [c2]_
 
+------------------------------------------------------------------------------
 
 A la fin de la page :
-
-----
 
 .. rubric:: Footnotes
 

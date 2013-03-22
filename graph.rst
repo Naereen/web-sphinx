@@ -1,9 +1,9 @@
+#############################
 Des graphes DOT avec GraphViz
-=============================
+#############################
 
 Des graphes ?
 -------------
-
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
  écrits avec une balise ``.. graphviz::``, et censés être rendus avec Graphviz.
 
@@ -24,10 +24,8 @@ Des graphes ?
 
 Exemples
 --------
-
 ``.. graphviz::``:
 ~~~~~~~~~~~~~~~~~~
-
 **Sphinx** permet de réaliser la transformation suivante :
 
 .. graphviz::
@@ -39,7 +37,6 @@ Exemples
 
 ``.. digraph::``:
 ~~~~~~~~~~~~~~~~~
-
 **Sphinx autodoc** permet de réaliser la transformation suivante :
 
 .. digraph:: autodoc
@@ -49,7 +46,6 @@ Exemples
 
 ``.. graph::``:
 ~~~~~~~~~~~~~~~
-
 **pdflatex** permet de réaliser la transformation suivante :
 
 .. graph:: latex
@@ -66,14 +62,13 @@ Exemples
 
 ``.. graphviz::``
 ~~~~~~~~~~~~~~~~~
-
  On peut aussi aller chercher un fichier externe.
  Voici par exemple un graphe de dépendances (pour mon prjoet réseau)
  généré via ``pyreverse`` :
 
 .. graphviz:: graph1.dot
 
-----
+------------------------------------------------------------------------------
 
 Cette page permet aussi de tester la fonctionnalité ajouté par l'extension
 *non-officielle* ``sphinx.ext.todolist``.
