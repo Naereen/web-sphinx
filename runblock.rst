@@ -1,22 +1,40 @@
 #################################################
 Exécuter du code lors de la génération de la page
 #################################################
-Un test
--------
 
  Je teste ici la fonctionnalité "expérimentale" d'exécuter du code lors de la
- génération de la web, avec une balise ``.. runcode::``.
+ génération de la web, avec une balise ``.. runblock::``.
 
 Exemples
 --------
 pycon
 ~~~~~
+La première directive est ``..runblock:: pycon``.
+Elle fait appel à **Python**, mais utilise la syntaxe d'une session
+intéractive de l'intérpreteur.
+
+Par exemple, le code suivant : ::
+
+    .. runblock:: pycon
+
+       >>> for i in range(5):
+       ...  print i
+
+
+produira la sortie suivante :
+
 .. runblock:: pycon
    
     >>> for i in range(5):
     ...  print i
 
 
+**Mais**, cette extension **runcode** permet aussi de faire plus !
+
+------------------------------------------------------------------------------
+
+Exemples plus intéressants
+--------------------------
 console
 ~~~~~~~
 Par exemple, la date courante :
@@ -76,5 +94,7 @@ octave
     >> printf('Matrice random, taille %ix%i, determinant = %f.\n', 100, 100, det(rand(100,100)))
     >> d = det(rand(100,100))
     >> fprintf('%f\n\n', d)
+
+Je ne sais pas ce qui empêche cet exemple de marcher, mais je cherche.
 
 .. include:: .bottom.fr.rst
