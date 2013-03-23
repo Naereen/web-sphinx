@@ -29,7 +29,7 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
 .. runblock:: console
     
-    $ ls -arth *.rst .*.rst
+    $ ls -larth *.rst .*.rst
 
 Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
 fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
