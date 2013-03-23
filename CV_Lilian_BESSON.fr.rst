@@ -61,10 +61,10 @@ Langages de programmation
 
 Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 ------------------------------------------------------------------------
-* :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office, Microsoft Word, **Markdown** & **reStructuredText**;
-* :Éditeurs de texte: **gEdit** (Ubuntu, Windows), Notepad++ (Windows), Jota Text Editor (Android);
+* :Systèmes d'exploitation: **Microsoft Windows**, Mac OS X, Android (2.2), **GNU/Linux** (notamment les distributions *Ångström*, *Ubuntu (11.10)*, *Debian* & *OpenWRT*);
+* :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
+* :Éditeurs de texte: **gEdit** (Ubuntu, Windows), Jota Text Editor (Android), **GNU Nano** (Linux);
 * :Générateurs de documentation: **OCamlDoc** pour OCaml, **PyDOC** & **Sphinx** pour Python;
-* :Systèmes d'exploitation: **Microsoft Windows** (Xp, Vista, 7), Mac OS X, Android (2.2), **GNU/Linux** (notamment les distributions *Ångström*, *Ubuntu (11.10)*, *Debian* & *OpenWRT*);
 * :Administration réseau avec GNU/Linux: expérience avec le logiciel et le matériel réseau.
 
 

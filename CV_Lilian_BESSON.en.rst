@@ -62,10 +62,10 @@ Programming Languages
 
 Computer skills
 ---------------
-* :Text processing: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office, Microsoft Word, **Markdown** & **reStructuredText**;
-* :Text editors: **gEdit** (Ubuntu, Windows), Notepad++ (Windows), Jota Text Editor (Android);
+* :Operating Systems: **Microsoft Windows**, Mac OS X, **Android** (2.2), **GNU/Linux** (with *Ångström*, *Ubuntu (11.10)*, *Debian* and *OpenWRT*);
+* :Text processing: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
+* :Text editors: **gEdit** (Linux, Windows), Jota Text Editor (Android), **GNU Nano** (Linux);
 * :Documentation generators: **OCamlDoc** for OCaml, **PyDOC** & **Sphinx** for Python;
-* :Operating Systems: **Microsoft Windows** (Xp, Vista, 7), Mac OS X, Android (2.2), **GNU/Linux** (with *Ångström*, *Ubuntu (11.10)*, *Debian* and *OpenWRT*);
 * :Net administration on Linux: experience with net hardware and software, and net monitoring with **GNU/Linux**.
 
 Miscellaneous
