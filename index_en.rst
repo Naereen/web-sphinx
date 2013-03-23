@@ -11,6 +11,8 @@ Welcome to Lilian Besson on the web
    Those web pages **are still in construction** !
    In particular, the english versions of each pages are *not* yet available.
    But, I'm working on it !
+   Last update was made |today|.
+   This project is in version |version|, release |release|
 
 .. sidebar:: Other language(s)
 

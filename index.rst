@@ -8,10 +8,12 @@ Bienvenue sur la page web personnelle de Lilian Besson
 ######################################################
 A propos de moi
 ---------------
-.. sidebar:: Autre(s) langue(s)
+.. sidebar:: En anglais ?
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   Ces pages ont été générés le |today|.
+   Ce project en est à la version |version| (|release|).
 
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
