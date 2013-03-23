@@ -7,8 +7,8 @@
 #
 #	__author__='Lilian BESSON'
 #	__email__='lilian.besson@normale.fr'
-#	__version__='13.8'
-#	__date__='mer. 13/03/2013 at 12h:59m:27s '
+#	__version__='13.9'
+#	__date__='dim. 24/03/2013 at 12h:59m:27s '
 #
 
 # You can set these variables from the command line.
@@ -97,7 +97,7 @@ slides:
 	./.slides.sh
 
 git:
-	git add *.rst README.md Makefile conf.py .*.rst .templates CV*.pdf
+	git add *.rst README.md Makefile conf.py .*.rst .templates/ *.js
 	git commit -m "auto"
 	git push
 
