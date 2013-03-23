@@ -41,7 +41,7 @@ extensions = [
 #	'sphinxcontrib.googleanalytics',
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
-	'sphinxcontrib.ansi',
+#	'sphinxcontrib.ansi',
 	]
 
 ##############################################################################
@@ -102,7 +102,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '0.6'
+version = '1.1'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -114,7 +114,8 @@ language = u"fr"
 # non-false value, then it is used:
 today = ''
 # Else, today_fmt is used as the format for a strftime call.
-today_fmt = u'%d/%m/%Y, %Hh:%Mm:%Ss'
+# today_fmt = u'%d/%m/%Y, %Hh:%Mm:%Ss'
+today_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -225,7 +226,8 @@ html_add_permalinks = True
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = u'%A %d/%m/%Y, %Hh:%Mm:%Ss'
+# html_last_updated_fmt = u'%A %d/%m/%Y, %Hh:%Mm:%Ss'
+html_last_updated_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
