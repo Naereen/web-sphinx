@@ -7,7 +7,7 @@ Version 2 !
 Whare are those pages ?
 -----------------------
 
-On line :
+### On line :
  * http://perso.crans.org/besson/ ;
  * http://www.dptinfo.ens-cachan.fr/~lbesson/ .
 
@@ -21,6 +21,27 @@ Lilian Besson.
  * Django Templating
  * Javascript
  * Python
+
+----
+
+Requirements ?
+--------------
+
+This project use the following software :
+
+ * LaTeX (pdflatex & hevea);
+ * GNU Make;
+ * git;
+ * rsynx or scp;
+ * ack-grep or grep;
+ * Sphinx;
+ * rst2pdf, rst2html, rst2s5;
+ * the following Sphinx contrib extensions :
+
+    * cheeseshop;
+    * gnuplot;
+    * autorun;
+ * (optional) ocaml, octave, to embed examples.
 
 License
 -------
