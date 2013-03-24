@@ -53,12 +53,13 @@ Copyrights
  i) **OCaml** est © et ® Inria, et est publié sour la licence MIT.
 
  ii) **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
-     Pour plus d'infos, voir `ocsigen <http://www.ocsigen.org/js_of_ocaml/>`_.
+     Pour plus d'infos, voir `ocsigen.org/js_of_ocaml 
+     <http://www.ocsigen.org/js_of_ocaml/>`_.
 
 
 Remerciements
 -------------
- i) Merci aux auteurs de **js_of_ocaml** (voir `ocsigen`_).
+ i) Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_).
 
  ii) Merci aux auteurs d'**OCaml**.
 
