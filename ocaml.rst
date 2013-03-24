@@ -40,6 +40,14 @@ J'utilise aussi une balise ``HTML`` appelée ``noscript``,
 qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
 supporte pas Javascript.
 
+.. todo::
+
+   Voir pourquoi le focus de la page va en bas dès qu'on utilise le toplevel.
+
+.. todo:: Faire pareil pour un toplevel python ?
+
+.. todo:: Passer à OCaml 4.00.1 ?
+
 Copyrights
 ----------
  i) **OCaml** est © et ® Inria, et est publié sour la licence MIT.
