@@ -176,9 +176,17 @@ sur ces pages là :
 
   * `<math.html>`_;
   * `<graph.html>`_;
-  * `<gnuplot.html>`_;
-  * `<runblock.html>`_;
-  * `<ocaml.html>`_.
+  * `<gnuplot_embed.html>`_;
+  * `<runblock.html>`_.
+
+Javascript et outils embarqués
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+J'expérimente depuis peu l'intégration de scripts **Javascript**
+dans des pages webs produites avec Sphinx (*comme celle-ci*) :
+
+  * `<ocaml.html>`_, un toplevel complet d'``OCaml 3.12.1``,
+    directement dans un navigateur web **:)** !
+  * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot`` (© Christian Huettig).
 
 Démonstrations
 ~~~~~~~~~~~~~~
@@ -213,10 +221,11 @@ Autres pages en rST
    pgp
    math
    graph
-   gnuplot
+   gnuplot_embed
    runblock
    Liste de problèmes à régler <todo>
    ocaml
+   gnuplot
    admin
 
 .. include:: .bottom.fr.rst
