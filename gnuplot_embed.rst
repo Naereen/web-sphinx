@@ -7,7 +7,8 @@ Des graphiques avec GNU Plot
 
  Une autre page intéressante à propos de **GNU Plot** est
  `<http://gnuplot.respawned.com/>`_.
- Je vais tenter d'embarquer la même boucle *ripl* dans une autre page.
+ Je vais tenter d'embarquer la même boucle *ripl* dans une autre page,
+ à priori celle là `<gnuplot.html>`_.
 
 .. warning::
 
