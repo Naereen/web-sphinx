@@ -42,19 +42,20 @@ On peut aussi utiliser la balise ``.. math::`` sans retourner à la ligne :
 
 Encore des exemples
 -------------------
- L'option ``:label:`` permet ensuite de faire référence à l'équation.
+L'option ``:label:`` permet ensuite de faire référence à l'équation.
+Par exemple, la formule dite d'Euler sera indiquée avec l'option
+``:label:euler``.
 
 .. math:: e^{i\pi} + 1 = 0
    :label: euler
 
 J'aime l'équation :eq:`euler` 
 (qui a été élue 'plus belle formule' de l'histoire des Mathématiques en 1991 !)
+donc j'y fait référence, avec le code ``:eq:`euleur```.
 
 On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code```.
-
-Un dernier pour la route ?
 J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
-(on rappelle que :math:`\int_{0}^{2} x dx = \frac{3}{2}`).
+(on rappelle que :math:`\int_{0}^{2} x .dx = \frac{3}{2}`).
 
 ------------------------------------------------------------------------------
 

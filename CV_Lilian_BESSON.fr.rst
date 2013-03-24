@@ -6,7 +6,7 @@
 ###############################
 Curriculum Vitæ : Lilian Besson
 ###############################
-.. sidebar:: Autre(s) langue(s)
+.. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <CV_Lilian_BESSON.en.html>`_ 
@@ -191,7 +191,7 @@ Projets de programmation en M1 (2012-2013)
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
-   Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 650 téléchargements pour l'instant).
+   Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 700 téléchargements pour l'instant).
    Ou aussi `ici sur BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.

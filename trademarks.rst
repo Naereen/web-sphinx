@@ -140,6 +140,7 @@ In particular,
  * Naereen Corp. is © of Lilian Besson (yes, it's me !),
  * Graphviz, the DOT command line tool and the DOT graph language, are © of AT&T research labs on graphs,
  * Ghostery is © and ® of Ghostery™,
+ * HeVeA is © of Luc Marranget,
  * and many others...
 
 ------------------------------------------------------------------------------
@@ -197,6 +198,7 @@ So, I used the following software :
  * JDownloader, as the best Youtube downloader, even if it is written in Java...
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
  * Arandr and ArandrAuto to handle multi screens on Ubuntu,
+ * HeVeA, as a powerfull LaTeX to HTML convertion tool,
  * and many others...
 
 .. include:: .bottom.en.rst

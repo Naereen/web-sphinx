@@ -9,7 +9,7 @@ Des graphiques avec GNU Plot
 
    Si les graphes suivants ne sont pas affichés, c'est probablement
    parce que votre navigateur ne supporte pas les images ``SVG``.
-   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** *:)* !
+   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
 
    Une autre raison possible est un soucis du **serveur Apache**
    qui héberge ces pages.

@@ -6,7 +6,7 @@
 ######################
 Résumé : Lilian Besson
 ######################
-.. sidebar:: Other language(s)
+.. sidebar:: Other language : in French
 
    This page is in *english*.
    Maybe you would like to see it in `french <CV_Lilian_BESSON.fr.html>`_.
@@ -195,7 +195,7 @@ MSc programming projects (2012-2013)
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal. 
-   Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 650 download by now).
+   Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 700 download by now).
    Or also `here on BitBucket lbesson/ansi-colors 
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
