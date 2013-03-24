@@ -215,6 +215,7 @@ Autres pages en rST
    gnuplot
    runblock
    Liste de problèmes à régler <todo>
+   ocaml
    admin
 
 .. include:: .bottom.fr.rst
