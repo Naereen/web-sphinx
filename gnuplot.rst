@@ -5,6 +5,10 @@ Des graphiques avec GNU Plot
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphes 
  écrits avec une balise ``.. gnuplot::``.
 
+ Une autre page intéressante à propos de **GNU Plot** est
+ `<http://gnuplot.respawned.com/>`_.
+ Je vais tenter d'embarquer la même boucle *ripl* dans une autre page.
+
 .. warning::
 
    Si les graphes suivants ne sont pas affichés, c'est probablement
