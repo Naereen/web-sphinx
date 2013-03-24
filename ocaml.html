@@ -1,0 +1,31 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>OCaml toplevel</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" src="toplevel.js"></script>
+  </head>
+  <body id="toplevel">
+  
+
+<div style="white-space: pre;" id="output">        Objective Caml version 3.12.1
+
+# let x = 10+10;;
+val x : int = 20
+# let y = x * 3;;
+val y : int = 60
+# String.make x 'a';;
+- : string = "aaaaaaaaaaaaaaaaaaaa"
+# sin 1.;;
+- : float = 0.841470984807896505
+# let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
+val fact : int -&gt; float = &lt;fun&gt;
+# fact 20;;
+- : float = 2.43290200817664e+18
+</div><textarea cols="80" rows="10">let x = 10+10;;
+let y = x * 3;;
+String.make x 'a';;
+sin 1.;;
+let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
+fact 20;;
+</textarea><br><input value="Send" type="button"></body></html>
