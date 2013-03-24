@@ -35,6 +35,9 @@ This project use the following software :
  * rsynx or scp;
  * ack-grep or grep;
  * Sphinx;
+ * GNU Plot;
+ * GPG;
+ * GraphViz;
  * rst2pdf, rst2html, rst2s5;
  * the following Sphinx contrib extensions :
 
