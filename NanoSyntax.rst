@@ -21,7 +21,7 @@ et d'associer à chaque élément de la syntaxe du langage une couleur particuli
 .. image:: .nanorc.png
    :scale: 100 %
    :align: center
-   :alt: Un exemple de coloration de code OCaml avec GNU Nano
+   :alt: Un exemple de coloration de code rST avec GNU Nano
 
 --------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ pour chaque unités de sens (ou catégories) :
 
    **Normalement**, le mot '*vert*' est en vert, et '*mauve*' est en ... mauve.
    Le support de couleur pour ces deux phrases *est encore expérimental*.
-   Le fichier .special.rst définit les composants nécessaires.
+   Le fichier ``.special.rst`` définit les composants nécessaires.
    Cela doit normalement fonctionner en **HTML** mais pas en **PDF**.
 
 
@@ -63,7 +63,7 @@ Voici le même morceau de texte, mais un peu coloré :
    Delacroix was a painter, but he has no link at all with 1515 (yes this example is stupid).
 
 
-**C'est ce qu'on appelle de la coloration catégoricale**.
+**C'est ce qu'on appelle de la coloration catégoricale** (ou syntaxique).
 
 Imaginez bien qu'un outil qui serait conçu pour colorer automatiquement vos devoirs d'Histoire 
 n'aurait pas un immense dictionnaire fixé à l'avance, associant à chaque mot sa couleur, 
@@ -88,7 +88,7 @@ Exemple
 ^^^^^^^
 Par exemple, un tel *langage* peut être :
  * le langage que j'utilise pour générer cette page web, appelé ``reStructuredText``. 
- * ou le langage de la page elle même : ``HTML 1``.
+ * ou le langage de la page elle même : ``HTML``.
 
 Un exemple du paragraphe précédent, en ``reStructuredText``:
 
@@ -96,7 +96,7 @@ Un exemple du paragraphe précédent, en ``reStructuredText``:
    
    Par exemple, un tel *langage* peut être :
    * le langage que j'utilise pour générer cette page web, appelé ``reStructuredText``. 
-   * ou le langage de la page elle même : ``HTML 1``.
+   * ou le langage de la page elle même : ``HTML``.
 
 Ou le code HTML produit par `Sphinx <http://sphinx-doc.org>`_ :
 
@@ -105,10 +105,12 @@ Ou le code HTML produit par `Sphinx <http://sphinx-doc.org>`_ :
    <dt>Par exemple, un tel <em>langage</em> peut être :</dt>
    <dd><ul class="first last simple">
    <li>le langage que j’utilise pour générer cette page web, appelé <tt class="docutils literal"><span class="pre">reStructuredText</span></tt>.</li>
-   <li>ou le langage de la page elle même : <tt class="docutils literal"><span class="pre">HTML</span> <span class="pre">1</span></tt>.</li>
+   <li>ou le langage de la page elle même : <tt class="docutils literal"><span class="pre">HTML</span></tt>.</li>
 
 J'espère que ces trois exemples (source rST, code HTML produit, et rendu visuel du paragraphe), 
 illustrent bien le concept de **coloration syntaxique** d'un langage de programmation.
+
+------------------------------------------------------------------------------
 
 Définir une telle syntaxe
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +160,7 @@ Tout ce dont aura besoin **Nano** pour colorer un certain type de fichiers est u
 
 Pour l'exemple des devoir d'histoire, laissez moi vous montrer comment 
 concevoir un tel fichier **histoire.nanorc**.
-Le fichier complet est `ici NanoSyntax/histoire.nanorc <NanoSyntax/histoire.nanorc>`_.
+Le fichier complet est ici `<NanoSyntax/histoire.nanorc>`_.
 
 Il faut d'abord définir quelle syntaxe on explique : ::
 
@@ -209,7 +211,10 @@ On peut aussi utiliser la commande ``icolor`` pour capturer sans tenir compte
 de la casse.
 
 
-Les **regexps** utilisées suivent la syntaxe des *Perl regexps*, un standard dans le monde Unix (aussi utilisée par Bash pour les filtres de fichiers, ou par *grep* pour le motif de recherche).
+Les **regexps** utilisées suivent la syntaxe des *Perl regexps*,
+un standard dans le monde Unix
+(aussi utilisée par Bash pour les filtres de fichiers,
+ou par *grep* pour le motif de recherche).
 
 Une autre syntaxe possible est : ::
    
@@ -221,11 +226,12 @@ Pour savoir comment *charger* ce fichier ``histoire.nanorc`` au démarrage de
 Comment utiliser ces fichiers **.nanorc**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Pour les utiliser, il faut éditer le fichier ``$HOME/.nanorc``, 
-qui doit contenir des lignes ``include "path/to/the/lang.nanorc"``.
+qui doit contenir des lignes de la forme ``include "path/to/lang.nanorc"``.
 
 Il est conseillé de créer un dossier ``$HOME/.nano/`` 
-et d'y mettre les fichiers customisés de coloration, 
-et d'adapter ou de rajouter la ligne de son ``$HOME.nanorc`` en conséquence.
+d'y mettre les fichiers de coloration, 
+et de rajouter une ligne dans son ``$HOME.nanorc`` pour inclure chaque
+fichier rajouté (ou alors d'utiliser `<NanoSyntax/.nanorc>`_).
 
 Ainsi, dans notre exemple pour les devoirs d'Histoire, on peut copier 
 le fichier ``histoire.nanorc`` dans ``$HOME/.nano``. 
@@ -247,20 +253,21 @@ comme l'utilisation du curseur, l'autorisation à suspendre l'édition (``Ctrl+Z
 
 Fichier jouet
 ~~~~~~~~~~~~~
-Le fichier exemple ``histoire.nanorc`` est là `NanoSyntax/histoire.nanorc <NanoSyntax/histoire.nanorc>`_.
+Le fichier exemple ``histoire.nanorc`` est là `<NanoSyntax/histoire.nanorc>`_.
 
 .. image:: histoire.nanorc.png
    :scale: 100 %
    :align: center
-   :alt: Nano permet de colorer correctement ces fichiers .nanorc
+   :alt: Nano permet de colorer correctement ses fichiers .nanorc
 
 
 Sources des différents fichiers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Seuls `ocaml.nanorc <NanoSyntax/ocaml.nanorc>`_, 
-`reST.nanorc <NanoSyntax/reST.nanorc>`_ et
+`reST.nanorc <NanoSyntax/reST.nanorc>`_,
+`<NanoSyntax/.nanorc>`_,
 `python.nanorc <NanoSyntax/python.nanorc>`_ ont été modifiés par moi 
-(ils sont sous licence GPL2). 
+(ils sont sous licence GPL3, voir `<LICENSE>`_ pour plus d'infos). 
 
 Pour les autres, certains viennent des fichiers installés avec le paquet **nano**.
 D'autres viennent d'une collection de ``.nanorc`` trouvée sur `doc.ubuntu-fr.org <http://doc.ubuntu-fr.org>`_.
@@ -275,6 +282,8 @@ reStructuredText
 ^^^^^^^^^^^^^^^^
 En particulier, `reST.nanorc <NanoSyntax/reST.nanorc>`_ a été créé par moi 
 uniquement pour ce projet (nouvelles pages web, entièrement avec **Sphinx**).
+Je continue de l'améliorer chaque fois que je découvre un nouvel élément de
+la syntaxe du merveilleux langage qu'est le **reStructuredText**.
 
 --------------------------------------------------------------------------------
 
@@ -286,14 +295,15 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
   le même genre de travail, pour l'éditeur **Gedit**, éditeur de code officiel du projet **GNOME**.
   De nouvelles descriptions de langages pour ``OCaml``, ``Python``, ``rST``, ``CUDA``, 
   ``scala``, ``Octave`` etc.
-  Notamment, ce fichier `rst.lang <https://sites.google.com/site/naereencorp/tools/gtksourceview/rst.lang?attredirects=0&d=1>`_,
+  Notamment, ce fichier `rst.lang <https://sites.google.com/site/naereencorp/tools/gtksourceview/rst.lang>`_,
   qui a été élaboré en même temps que `reST.nanorc <NanoSyntax/reST.nanorc>`_.
   
 * `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
   est le meilleur éditeur de code sur téléphone ou tablette **Android**, 
   dont j'ai réalisé une partie de la coloration syntaxique 
   (``OCaml``, ``CUDA`` ainsi que de l'aide pour ``LaTeX``).
-  Par exemple, `ce fichier mll.mly.mli.ml.conf <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/mll.mly.mli.ml.conf>`_ 
+  Par exemple, `ce fichier mll.mly.mli.ml.conf 
+  <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/mll.mly.mli.ml.conf>`_ 
   pour la syntaxe d'``OCaml``.
   
 * `ColorML <https://sites.google.com/site/naereencorp/liste-des-projets/colorml>`_, est

@@ -2,7 +2,11 @@
 Liste de problèmes à régler
 ###########################
 
+À propos
+--------
 Cette page accueille une liste des problèmes à résoudre.
+
+Cette fonctionnalité viend de l'extension officielle ``sphinx.ext.todo``.
 
 De tels soucis peuvent être déclarés via : ::
 
@@ -13,12 +17,7 @@ De tels soucis peuvent être déclarés via : ::
 ------------------------------------------------------------------------------
 
 La liste
-========
-.. todolist::
-
-À propos
 --------
-Cette fonctionnalité est issue de l'**extension** officielle 
-``todolist``.
+.. todolist::
 
 .. include:: .bottom.fr.rst

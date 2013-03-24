@@ -11,7 +11,7 @@ pycon
 ~~~~~
 La première directive est ``..runblock:: pycon``.
 Elle fait appel à **Python**, mais utilise la syntaxe d'une session
-intéractive de l'intérpreteur.
+interactive de l'intérpreteur.
 
 Par exemple, le code suivant : ::
 
@@ -95,6 +95,8 @@ octave
     >> d = det(rand(100,100))
     >> fprintf('%f\n\n', d)
 
-Je ne sais pas ce qui empêche cet exemple de marcher, mais je cherche.
+.. todo::
+
+   Je ne sais pas ce qui empêche cet exemple de marcher, mais je cherche.
 
 .. include:: .bottom.fr.rst

@@ -1,11 +1,11 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, PGP, GPG
+   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, PGP, GPG, public key, RSA key
    :description lang=en: PGP public key
    :description lang=fr: Clé publique PGP
 
-#########################################
+##########################################
  Informations sur ma clé publique **PGP**
-#########################################
+##########################################
 Qu'est-ce ?
 -----------
  Je ne saurais pas expliquer mieux que l'ami *Wikipedia* : 
@@ -24,8 +24,9 @@ que je propose au téléchargement.
 Cela permet pour vous d'être sûr de ce que vous téléchargez : ma clé étant privé 
 je suis (normalement) le seul à pouvoir émettre ces signatures.
 
-La plupart des ``urls`` que je donne sur mes pages webs 
-peuvent être suffixé de ``.asc`` pour voir la signature du fichier.
+La plupart des ``urls`` de fichiers que je donne sur mes pages webs
+peuvent permettre de récuper la signature du fichier en question en ratjout
+``.asc`` à la fin.
 
 Exemple
 ~~~~~~~
@@ -75,7 +76,7 @@ Exemple
     $ export LANG=en && gpg --verify ~/.bashrc.asc ~/.bashrc
 
 
-.. note::
+.. note:: À propos de runcode
     
    Cet exemple règle la langue du terminal en anglais (:code:`export LANG=en`),
    car l'extension *non-officielle* ``runcode`` (qui permet d'intégrer le 

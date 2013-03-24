@@ -60,20 +60,20 @@ J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
 
 Autres **expérimentations** : des couleurs ?
 --------------------------------------------
-
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
 styles (CSS) dans les fichiers **.rst** écrits pour ces pages webs.
 
 Et j'utilise la balise ``.. role::`` pour déclarer des rôles aux différentes
 couleurs : black gray silver white maroon red magenta fuchsia pink orange 
-yellow lime green olive teal cyan aqua blue navy purple.
+yellow lime green olive teal cyan aqua blue navy purple, et le role spécial
+``u`` pour souligner.
 
 Exemples :
 
  * la couleur :black:`black`;
  * la couleur :gray:`gray`;
  * la couleur :silver:`silver`;
- * la couleur :white:`white`;
+ * la couleur :white:`white` (white);
  * la couleur :maroon:`maroon`;
  * la couleur :red:`red`;
  * la couleur :magenta:`magenta`;

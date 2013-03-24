@@ -1,5 +1,5 @@
 .. meta::
-   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, résumé
+   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, trademarks, ®, ©, (c), (r), marques, commerciales
    :description lang=en: Precision on quoted trademarks on this web site
    :description lang=fr: Quelques précisions sur les marques commerciales citées sur ce cite
 
@@ -14,6 +14,13 @@ About
  This little page is intented to quote the trademarks I quote 
  in the other pages. And also to give an almost exhaustive 
  list of the software and usefull website I'm using for my projects.
+
+ .. warning::
+
+    This page is still in contruction !
+    And my english is not yet perfect, so sorry in advance for my bad english !
+
+------------------------------------------------------------------------------
 
 Institutions
 ------------
@@ -106,7 +113,7 @@ In particular,
  * Matlab is © and ® of MathWorks,
  * Windows is © and ® of Microsoft,
  * TI, TI-Basic and TI-82 is © of Texas Instrument,
- * Jota Text Editor is © and ® of *Aquamarine Networks*,
+ * Jota Text Editor is © and ® of Aquamarine Networks,
  * GnuPG, Octave, Nano, Gnu Make, Gedit are © and ® of The Gnu Software Foundation,
  * TOEIC is © of ETS,
  * CUDA and nVidia CUDA are © and ® of nVidia,
@@ -124,7 +131,7 @@ In particular,
  * VLC is ® and © of the Videolan Foundation,
  * Facebook is © and ® of Facebook Inc.,
  * Android, Google Play and Android Market are © and ® of Google Inc.,
- * MIT, mit.edu refer both to the *Massachusetts Institute of Technology*,
+ * MIT, mit.edu refer both to the Massachusetts Institute of Technology,
  * Ångström is a © and ® of The Ångström Distribution foundation,
  * Debian is © and ® of The Debian Project,
  * Doxygen is © of Dimitri van Heesch,
