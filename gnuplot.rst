@@ -9,8 +9,7 @@ Des graphiques avec GNU Plot
 
    Si les graphes suivants ne sont pas affichés, c'est probablement
    parce que votre navigateur ne supporte pas les images ``SVG``.
-   En ce moment, je teste la fonctionnalité d'embarquer ces images au format
-   ``PNG``.
+   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** *:)* !
 
    Une autre raison possible est un soucis du **serveur Apache**
    qui héberge ces pages.
@@ -18,23 +17,23 @@ Des graphiques avec GNU Plot
 
 Exemples
 --------
-Premier, :math:`x \mapsto \sin(x)` (avec une grille mise avec ``set grid``) :
+Premier, :math:`x \mapsto \sin(x)` :
 
 .. gnuplot::
    :title: Sinus
    
-   set grid 
    plot sin(x)
 
 
-Second, :math:`x \mapsto \cos(x*x+1.3)`. 
-On peut forcer la taille avec l'option ``:size:`` pour la 
+Second, :math:`x \mapsto \cos(x*x+1.3)` (avec une grille mise avec ``set grid``). 
+On peut forcer la taille avec l'option ``:size:`` pour la
 directive ``.. gnuplot::`` :
 
 .. gnuplot::
    :title: Cosinus
    :size: 600,500
-   
+
+   set grid    
    plot cos(x*x+1.3)
 
 
@@ -99,6 +98,11 @@ très facilement, grâce aux extensions 'non-officielles' de Sphinx
    Comprendre pourquoi la sortie **PNG** n'accepte pas plusieurs graphiques
    sur une même image. En attendant, je remet en **SVG**.
 
+.. todo::
+
+   Expliquer pourquoi j'ai pris comme exemple la sigmoide, l'arctangente,
+   et la fonction *signe* (*cf* cours d'Apprentissage).
+
 ------------------------------------------------------------------------------
 
 Espace d'expérimentation
@@ -126,6 +130,5 @@ A la fin de la page :
 
 .. [c1] Texte de la première citation.
 .. [c2] Texte de la seconde citation.
-
 
 .. include:: .bottom.fr.rst

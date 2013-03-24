@@ -12,17 +12,19 @@
 
 .. note:: Sphinx et reStructuredText
 
-   Toutes remarques, questions, ou notifications de bugs peuvent être posées 
-   via `cette page <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
-   Des précisions sur les droits de copies, de propriétés intellectuelles, 
-   sur les institutions et les marques citées sont disponibles 
+   Toutes remarques, questions, ou notifications de bugs peuvent être posées
+   via cette page
+   `lbesson/web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   Des précisions sur les droits de copies, de propriétés intellectuelles,
+   sur les institutions et les marques citées sont disponibles
    `sur cette page (en anglais) <trademarks.html>`_.
 
 .. warning:: Javacsript et Google Analytics ®
 
-   J'utilise du ``Javascript``, et du *templating* Django pour intégrer **Google Analytics** à ces pages là.
-   Pour désactiver ces outils (que certains qualifient d'espionnage de l'utilisateur), il suffit de désactiver Javascript :
-   cela peut (sûrement) être fait via le menu de préférence de votre navigateur.
-   Ou alors, des *extensions* comme `Ghostery <http://www.ghostery.com/>`_ peuvent permettre de bloquer les traqueurs.
+   J'utilise du ``Javascript``, et du *templating* Django pour intégrer
+   dynamiquement **Google Analytics** à ces pages là.
+   Pour désactiver ces outils, vous pouvez (au choix) désactiver Javascript
+   (sûrement via le menu de préférence de votre navigateur),
+   ou alors utiliser `Ghostery <http://www.ghostery.com/>`_.
 
 .. (c) Lilian Besson, 2011-2013.

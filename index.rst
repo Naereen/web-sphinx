@@ -12,8 +12,7 @@ A propos de moi
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
-   Ces pages ont été générés le |today|.
-   Ce project en est à la version |version| (|release|).
+   Ces pages ont été générées le |today|.
 
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
@@ -21,8 +20,8 @@ Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
-**et je suis le master d'informatique du MPRI**
-**et le master de mathématiques appliquée de l'ÉNS de Cachan.**
+**et je suis le master de recherche en informatique de Paris (le MPRI)**
+**et le master de mathématiques appliquées de l'ÉNS de Cachan.**
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
@@ -50,7 +49,7 @@ Mes projets en ligne
 .. sidebar:: CV
 
    Mon *CV* est disponible ici `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_ (en anglais).
-   Il est réalisé en ``LaTeX`` avec le package *moderncv*.
+   Il est réalisé en ``LaTeX`` avec le paquet *moderncv*.
    Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
    est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
 

@@ -5,9 +5,9 @@ Des graphes DOT avec GraphViz
 Des graphes ?
 -------------
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
- écrits avec une balise ``.. graphviz::``, et censés être rendus avec Graphviz.
+ écrits avec une balise ``.. graphviz::``, et censés être rendus avec ``GraphViz``.
 
- Cette balises ``graphviz`` utilise le langage **DOT Graph** de description
+ Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
  de graphe (dirigé ou non). Ce langage est un standard dans le monde 
  informatique : ingénieurs, chercheurs, enseignants, tous l'utilisent !
 
@@ -15,8 +15,7 @@ Des graphes ?
 
    Si les graphes suivants ne sont pas affichés, c'est probablement
    parce que votre navigateur ne supporte pas les images ``SVG``.
-   En ce moment, je teste la fonctionnalité d'embarquer ces images au format
-   ``PNG``.
+   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** *:)* !
 
    Une autre raison possible est un soucis du **serveur Apache**
    qui héberge ces pages.
@@ -64,7 +63,8 @@ Exemples
 ~~~~~~~~~~~~~~~~~
  On peut aussi aller chercher un fichier externe.
  Voici par exemple un graphe de dépendances (pour mon prjoet réseau)
- généré via ``pyreverse`` :
+ généré via ``pyreverse``, et inclus via ``.. graphviz:: graph1.dot``
+ (le fichier est `<graph1.dot>`_).
 
 .. graphviz:: graph1.dot
 
@@ -79,6 +79,7 @@ un **TODO**, *i.e.* une chose à régler.
    
    Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
 
+
 Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
 ``.. totolist::``, comme par exemple dans la page `todo <todo.html>`_.
 
@@ -89,7 +90,6 @@ Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
 
 .. todo::
    
-   Comprendre pourquoi certains navigateurs n'afffichent pas bien les images
-   vectorielles **.svg**.
+   Trouver un butineur Android qui affiche bien les **SVG**.
 
 .. include:: .bottom.fr.rst

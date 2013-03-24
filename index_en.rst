@@ -11,8 +11,10 @@ Welcome to Lilian Besson on the web
    Those web pages **are still in construction** !
    In particular, the english versions of each pages are *not* yet available.
    But, I'm working on it !
+
    Last update was made |today|.
    This project is in version |version|, release |release|
+
 
 .. sidebar:: Other language(s)
 
@@ -35,7 +37,7 @@ I'm studying *mathematics* and *Computer Science*, and I'm currently in a double
 
    My *résumé* is available here `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_. 
    It is realised with ``LaTeX``, and the package *moderncv*. 
-   A second version, produced from ``reStructuredText`` file, 
+   A second version, produced from a ``reStructuredText`` file, 
    is also available here `CV_Lilian_BESSON.en <CV_Lilian_BESSON.en.html>`_.
 
 

@@ -12,7 +12,7 @@ Qu'est-ce ?
  `GPG sur Wikipedia <http://fr.wikipedia.org/wiki/GPG>`_.
  Une autre bonne référence est ce `wikibook sur GPG <http://fr.wikibooks.org/wiki/GPG>`_.
 
- Allez d'abord vous informer, ou vous rafraîcher les idées avant de lire d'avantage.
+ Allez d'abord vous informer, ou vous rafraîchir les idées avant de lire d'avantage.
 
 Où et quand m'en sers-je ?
 --------------------------

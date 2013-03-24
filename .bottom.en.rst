@@ -12,18 +12,19 @@
 
 .. note:: Sphinx and reStructuredTex
 
-   Those web pages are generated with the *tool* **Sphinx**, from 
+   Those web pages are generated with **Sphinx**, from
    ``reStructuredText`` source files.
-   Remarks, bug issues, or questions can be asked on `this page 
+   Feel free to ask any questions, or to report any bugs on `this page
    <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
-   Precision about copyrights, quoted trademarks and institutions are available 
-   `on this page <trademarks.html>`_.
+   Precision about copyrights, quoted trademarks and institutions are available
+   here `<trademarks.html>`_.
 
 .. warning:: Javascript and Google Analytics ®
 
-   I'm using ``Javascript``, and some Django *templating* to integrate 
-   **Google Analytics** on those pages.
-   To disable those tools, you just need to disable Javascript, 
-   probably with the preferences menu of your browser.
+   I'm using ``Javascript``, and some Django *templating* to dynamically
+   integrate **Google Analytics** on those pages.
+   To disable those tools, you can disable Javascript
+   (probably with the preferences menu of your browser);
+   or use something like `Ghostery <http://www.ghostery.com>`_.
 
 .. (c) Lilian Besson, 2011-2013.
