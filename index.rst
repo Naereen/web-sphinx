@@ -8,7 +8,7 @@ Bienvenue sur la page web personnelle de Lilian Besson
 ######################################################
 A propos de moi
 ---------------
-.. sidebar:: En anglais ?
+.. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.

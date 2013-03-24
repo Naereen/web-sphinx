@@ -16,7 +16,7 @@ Welcome to Lilian Besson on the web
    This project is in version |version|, release |release|
 
 
-.. sidebar:: Other language(s)
+.. sidebar:: Other language : in French
 
    This page is in *english*.
    Maybe you would like to see it in `french <index.html>`_.
