@@ -8,8 +8,8 @@ Whare are those pages ?
 -----------------------
 
 ### On line :
- * http://perso.crans.org/besson/ ;
- * http://www.dptinfo.ens-cachan.fr/~lbesson/ .
+ * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
+ * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") .
 
 ----
 
@@ -39,7 +39,7 @@ This project use the following software :
  * GPG;
  * GraphViz;
  * rst2pdf, rst2html, rst2s5;
- * the following Sphinx contrib extensions :
+ * and the following Sphinx contrib extensions :
 
     * cheeseshop;
     * gnuplot;
