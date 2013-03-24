@@ -11,6 +11,11 @@ Where are those pages ?
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
  * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") .
 
+About
+-----
+
+Some pages host my résumé, others are just experiments.
+
 ----
 
 ### Author:

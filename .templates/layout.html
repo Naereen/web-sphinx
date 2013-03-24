@@ -12,8 +12,8 @@
  * 
  * Those pages are hosted
  *  - here on the Cr@ns network http://perso.crans.org/besson;
- *  - and here at ENS de Cachan http://www.dptinfo.ens-cachan.fr/~lbesson.
- *
+ *  - here at ENS de Cachan http://www.dptinfo.ens-cachan.fr/~lbesson.
+ *  - and here at Python Hosted http://pythonhosted.org/ANSIColors-balises/.
  ************************************************************************** -->
   <!--
   <meta name="description" content="Page personnelle de Lilian BESSON, étudiant à l'ENS de Cachan, en mathématiques et informatique."></meta>
@@ -23,44 +23,33 @@
 	  <meta name="DC.Title"		content="Lilian Besson on the web"></meta>
 	  <meta name="DC.Language"	content="fr"></meta>
 	  <meta name="DC.Creator"	content="Lilian Besson"></meta>
-	  <meta name="DC.Subject"	content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan"></meta>
-	  <meta name="DC.Date"		content="2013-03-24"></meta>
+	  <meta name="DC.Subject"	content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan; GNU Nano; Ubuntu; gedit; GNUPlot; GraphViz"></meta>
+	  <meta name="DC.Date"		content="2013-03-25"></meta>
   <!-- End of Dublin Core Metadata -->
 
 <script type="text/javascript" src='_static/shortcuts.js'></script>
 <!-- Thanks to http://www.openjs.com/scripts/events/keyboard_shortcuts/ -->
 <script type="text/javascript">
-    shortcut.add("h",function() {
-                    window.confirm("The following shortcut are enabled : \n\
- - h : display this help message, \n\
- - i : go back to the index, \n\
+shortcut.add("?",function() {
+window.confirm("The following shortcuts are enabled : \n\
+ - ? : display this help message, \n\
  - Left : previous page (still in construction), \n\
  - Right : next page (still in construction). \n\
- (c) Lilian Besson.")
+  Lilian Besson (c) 2013.")
             },{
 	'type':'keydown'
             });
-
-    shortcut.add("i",function() {
-                    window.location.href = 'index.html';
+shortcut.add("Left",function() {
+window.alert("This shortcut is still in construction !");
             },{
 	'type':'keydown'
-            });
-
-    shortcut.add("Left",function() {
-                    window.location.href = 'index.html';
-            },{
-	'type':'keydown'
-            });
-
-    shortcut.add("Right",function() {
-                    var s = window.find('accesskey=');
-                    window.alert("This shortcut is still in construction... Search=" + s);
+            });    
+shortcut.add("Right",function() {
+window.alert("This shortcut is still in construction !");
             },{
 	'type':'keydown'
             });
 </script>
-
 {% endblock %}
 
 {% block footer %}
@@ -74,7 +63,7 @@
  * 
  * Those pages are hosted
  *  - here on the Cr@ns network http://perso.crans.org/besson;
- *  - and here at ENS de Cachan http://www.dptinfo.ens-cachan.fr/~lbesson;
+ *  - here at ENS de Cachan http://www.dptinfo.ens-cachan.fr/~lbesson;
  *  - and here at Python Hosted http://pythonhosted.org/ANSIColors-balises/.
  *
  * This document is a Django Template, to modify all the HTML pages produced
@@ -85,11 +74,8 @@
  * by hand all the produced HTML pages.
  *
  * Google Analytics is a trademark of Google Inc.
- *
- *****************************************************************************/
-  
+ *****************************************************************************/  
   my_id = 'UA-38514290-1';
-  
   switch(window.location.host) {
     case 'perso.crans.org':
         my_id = 'UA-38514290-1';
@@ -106,17 +92,13 @@
     default:
         break;
   }
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', my_id]);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  
 </script>
-
 {% endblock %}
