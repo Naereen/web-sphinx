@@ -4,7 +4,7 @@ Web Pages Sphinx
 The new generation of my web pages, generated with Sphinx.
 Version 2 !
 
-Whare are those pages ?
+Where are those pages ?
 -----------------------
 
 ### On line :
