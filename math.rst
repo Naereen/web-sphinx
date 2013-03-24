@@ -4,13 +4,13 @@
 
 Des maths ?
 -----------
- Je teste ici la fonctionnalité "expérimentale" d'embarquer des maths 
- écrits avec une balise ``.. math::``, et censées être rendues avec **MathJax**.
+ Je teste ici la fonctionnalité "expérimentale" d'embarquer des formules de maths
+ écrites avec une balise ``.. math::``, et censées être rendues avec **MathJax**.
 
  **MathJax** ? Allez voir `la page officielle <http://www.mathjax.org/>`_
  pour plus de détails.
  Il faut seulement savoir que **MathJax** permet d'afficher *facilement*
- des maths (écrites avec un code ``LaTeX``) joliment.
+ des maths (écrites en ``LaTeX`` ou en ``MathML``) joliment.
 
 Exemples
 --------
@@ -20,6 +20,9 @@ avec la balise de texte interprété ``:math:`code math```.
 
 Identités remarquables
 ~~~~~~~~~~~~~~~~~~~~~~
+Mais je peux aussi utiliser la directive ``.. math::`` pour faire un
+paragraphe de formules :
+
 .. math::
 
    (a + b)^2 = a^2 + 2ab + b^2
@@ -45,12 +48,13 @@ Encore des exemples
    :label: euler
 
 J'aime l'équation :eq:`euler` 
-(qui a été élue 'plus belle formule' de l'Histoire des mathématiques en 1991 !)
+(qui a été élue 'plus belle formule' de l'histoire des Mathématiques en 1991 !)
 
+On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code```.
 
-On peut aussi faire comme ``$ math code $`` en LaTeX avec ``:math:`math code```.
-
-Comme :math:`\int_{0}^{1} x^2 dx = \frac{1}{3}`.
+Un dernier pour la route ?
+J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
+(on rappelle que :math:`\int_{0}^{2} x dx = \frac{3}{2}`).
 
 ------------------------------------------------------------------------------
 

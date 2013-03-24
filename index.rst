@@ -127,16 +127,15 @@ Son code source est hébergé sur
 
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 650 fois (et n'est en ligne que depuis le mardi 5 mars).
+Actuellement, il a déjà été téléchargé plus de 700 fois (et n'est en ligne que depuis le mardi 5 mars).
 
 Gedit : Tools
 ^^^^^^^^^^^^^
-Je suis l'auteur d'une collection de scripts, pour **gedit**, 
+Je suis en train de rédiger une collection de scripts, pour **gedit**, 
 à utiliser avec le *plugin* ``Externals Tools``.
 
 Ce projet est hébergé sur 
 `BitBucket.org/lbesson/gedit-tools <https://bitbucket.org/lbesson/gedit-tools/>`_.
-
 Et aussi, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/gedit <https://sites.google.com/site/naereencorp/gedit/>`_.
 
@@ -151,8 +150,7 @@ Le projet est surtout hebergé sur **BitBucket**
 Vous pouvez consulter la documentation de ce projet, 
 réalisée automatiquement avec **Sphinx**, 
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
-
-La documentation est aussi générée automatiquement avec PyDoc, 
+Une autre version de la documentation est aussi générée automatiquement avec PyDoc, 
 et de scripts de ma conception, et elle est aussi consultable 
 `ici publis/Bomberman/ <publis/Bomberman/>`_.
 
@@ -160,12 +158,13 @@ Infos sur ma clé PGP
 ^^^^^^^^^^^^^^^^^^^^
 Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
 l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
-`cette page ci <pgp.html>`_ peut être utile.
+cette page ci `<pgp.html>`_ peut être utile.
 
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
-de la *coloration syntaxique* dans l'éditeur **GNU/Nano**.
+de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
+fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment).
 
 Pages de démonstrations
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -183,7 +182,8 @@ sur ces pages là :
 Démonstrations
 ~~~~~~~~~~~~~~
 J'embarque aussi des pages d'exemples et des tutoriels sur la syntaxe du
-langage **rST** :
+langage **rST** (avant tout pour tester la coloration du **rST** via 
+**GNU Nano** ou **gedit**, toujours en amélioration) :
 
   * `<demo.html>`_;
   * `<rest_syntax.html>`_.
