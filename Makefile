@@ -53,7 +53,10 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
-send: send_dpt send_zamok
+send: send_public send_dpt send_zamok
+
+send_public:
+	$(CP) -r .build/html/ .build/html/.* ~/Public/
 
 send_dpt:
 	$(CP) -r .build/html/ .build/html/.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
