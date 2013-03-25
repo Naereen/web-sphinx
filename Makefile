@@ -37,7 +37,7 @@ local:	cleanALL all notify
 
 complete:	cleanALL all sendAll notify
 
-all:	html cv.en cv.fr slides git
+all:	html git
 
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
@@ -77,8 +77,8 @@ clean_pyc:
 clean_build:
 	rm -rf $(BUILDDIR)/*
 	mkdir --parents $(BUILDDIR)/html/_static/
-########	cp scripts/*.js $(BUILDDIR)/html/_static/
-	cp -r scripts/* $(BUILDDIR)/html/_static/
+	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
+##	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
 
 pyDoc:
 	/usr/local/bin/makePydoc.sh

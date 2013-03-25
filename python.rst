@@ -53,7 +53,6 @@ Le toplevel
     <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
     <h2>Sortie du toplevel</h2>
     <textarea id="output" style="font-family: monospace; width: 90%" rows="8"></textarea>
-    <hr>
 
 ------------------------------------------------------------------------------
 
