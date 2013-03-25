@@ -49,7 +49,5 @@ Table of contents
    
    CV_Lilian_BESSON.en
    slides
-   demo
-   rest_syntax
 
 .. include:: .bottom.en.rst

@@ -227,7 +227,7 @@ html_add_permalinks = True
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
 # html_last_updated_fmt = u'%A %d/%m/%Y, %Hh:%Mm:%Ss'
-html_last_updated_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
+html_last_updated_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
