@@ -26,7 +26,7 @@ Le toplevel
      var input = document.getElementById('input')
         , output = document.getElementById('output')
         , button = document.getElementById('button')
-        , worker = new Worker('dist/worker.js')
+        , worker = new Worker('_static/worker.js')
         , loaded = false
         , handler = function (e) {
      if (!loaded) {
