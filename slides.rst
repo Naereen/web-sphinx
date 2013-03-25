@@ -113,7 +113,7 @@ Introduction
 
   .. class:: handout
 
-  A variety of themes are available.  See `Example Themes`_, below.
+  A variety of themes are available.
 
 * ``rst2s5.py``
 

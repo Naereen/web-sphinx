@@ -161,13 +161,13 @@ Une copie locale de cette page originale est
 
 GNU Plot
 ~~~~~~~~
- ``GNU Plot`` est © et ® du projet **GNU**, voir
- `Gnuplot 4.6.1 <http://gnuplot.sourceforge.net/>`_ pour plus
-  de détails.
+``GNU Plot`` est © et ® du projet **GNU**, voir
+`Gnuplot 4.6.1 <http://gnuplot.sourceforge.net/>`_ pour plus
+de détails.
 
 Emscripten
 ~~~~~~~~~~
- Le compilateur utilisé par Christian Huettig est
- ``Emscripten``, voir `<https://github.com/kripken/emscripten>`_ pour plus de détails.
+Le compilateur utilisé par Christian Huettig est
+``Emscripten``, voir `<https://github.com/kripken/emscripten>`_ pour plus de détails.
 
 .. include:: .bottom.fr.rst
