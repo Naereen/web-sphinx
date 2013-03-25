@@ -25,7 +25,7 @@ L'éditeur
    position: relative;
    height: 700px;
    width:  90%;
-   fontsize: 22pt;
+   fontsize: 46pt;
    }
    </style>
    <noscript><span style="color:red" align="center">
@@ -45,7 +45,7 @@ L'éditeur
    var editor = ace.edit("editor");
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
-   editor.setFontSize(22);
+   editor.setFontSize(46);
    editor.setShowInvisibles(true);
    editor.setShowMarginColumn(79);
    editor.setShowPrintMargin(true);
