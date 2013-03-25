@@ -21,21 +21,10 @@ L'éditeur
 .. raw:: html
 
     <style type="text/css" media="screen">
-    #editor4 {
-     position: absolute;
-     top:   0;
-     left:  0;
-     bottom:0;
-     right: 0;
-    }
     #editor {
      position: relative;
-     height: 400px;
-     width:  400px;
-     font-size: 18pt;
-    }
-    #editor3 {
-     padding-right: 0; margin-left: auto; font-size: 11pt; margin-right: auto; display: block;
+     height: 500px;
+     width:  85%;
     }
     </style>
    <noscript><span style="color:red" align="center">
@@ -56,7 +45,7 @@ L'éditeur
     <script>
     var editor = ace.edit("editor");
     editor.setTheme("ace/theme/twilight");
-    editor.setFontSize(18);
+    editor.setFontSize(22);
     editor.setShowInvisibles(true);
     editor.setShowPrintMargin(true);
     editor.getSession().setMode("ace/mode/python");
