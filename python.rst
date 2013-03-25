@@ -26,46 +26,45 @@ Le toplevel
      var input = document.getElementById('input')
         , output = document.getElementById('output')
         , button = document.getElementById('button')
-        , worker = new Worker('_static/worker.js')
+        , worker = new Worker('_static/python/worker.js')
         , loaded = false
         , handler = function (e) {
-     if (!loaded) {
-        loaded = true;
-        button.value = "Execute";
-        input.disabled = false;
-        button.disabled = false;
-        return;
-       }
-       output.value += e.data;
-   };
+          if (!loaded) {
+             loaded = true;
+             button.value = "Execute";
+             input.disabled = false;
+             button.disabled = false;
+             return;
+           }
+     output.value += e.data;
+     };
 
-   worker.addEventListener('message', handler, false);
+     worker.addEventListener('message', handler, false);
  
-   button.onclick = function() {
-       worker.postMessage(input.value);
-   };
+     button.onclick = function() {
+          worker.postMessage(input.value);
+     };
    };
    window.onload = start;
    </script>
 
 
 Entrée du toplevel
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
+
 .. raw::html
 
-   <textarea disabled="true" id="input" style="font-family: monospace; width: 80%" rows="8">
-   from sys import *
-   print("--- Version: %s ---" % version)
-   </textarea>
-   <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
+   <textarea disabled="true" id="input" style="font-family: monospace; width: 80%" rows="8">print 2**8</textarea>
+   <input disabled="true" id="button" type="button" value="chargement....." style="display: block; margin: auto" />
 
 
 Sortie du toplevel
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
+
 .. raw::html
 
-   <textarea id="output" style="font-family: monospace; width: 80%" rows="8">
-   </textarea>
+   <textarea id="output" style="font-family: monospace; width: 80%" rows="8"></textarea>
+
 
 ------------------------------------------------------------------------------
 
