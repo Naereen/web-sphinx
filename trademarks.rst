@@ -141,6 +141,8 @@ In particular,
  * Graphviz, the DOT command line tool and the DOT graph language, are © of AT&T research labs on graphs,
  * Ghostery is © and ® of Ghostery™,
  * HeVeA is © of Luc Marranget,
+ * Nintendo, for some pictures of Link and Zelda (© & ®),
+ * ACE (and ace.js) is © & ® of AjaxOrg,
  * and many others...
 
 ------------------------------------------------------------------------------
@@ -199,6 +201,7 @@ So, I used the following software :
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
  * Arandr and ArandrAuto to handle multi screens on Ubuntu,
  * HeVeA, as a powerfull LaTeX to HTML convertion tool,
+ * js_of_ocaml, and toplevel.js, as a OCaml toplevel written in Javascript,
  * and many others...
 
 .. include:: .bottom.en.rst

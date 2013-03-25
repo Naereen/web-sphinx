@@ -48,7 +48,7 @@ extensions = [
 # Here is the good place to put special options for those exterior extensions
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
-graphviz_output_format = 'png'
+graphviz_output_format = 'svg'
 
 # Additional command-line arguments to give to dot, as a list.
 # The default is an empty list.
@@ -102,7 +102,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.1'
+version = '1.2'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
