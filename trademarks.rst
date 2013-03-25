@@ -20,6 +20,13 @@ About
     This page is still in contruction !
     And my english is not yet perfect, so sorry in advance for my bad english !
 
+
+.. image:: .python-powered.png
+   :scale: 100 %
+   :align: center
+   :alt: Python powered :)
+   :target: index.html
+
 ------------------------------------------------------------------------------
 
 Institutions

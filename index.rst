@@ -184,7 +184,9 @@ Javascript et outils embarqués
 J'expérimente depuis peu l'intégration de scripts **Javascript**
 dans des pages webs produites avec Sphinx (*comme celle-ci*) :
 
-  * `<ocaml.html>`_, un toplevel complet d'``OCaml 3.12.1``,
+  * `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
+    directement dans un navigateur web **:)** !
+  * `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
     directement dans un navigateur web **:)** !
   * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``
     (le projet initial est © Christian Huettig).
@@ -227,6 +229,7 @@ Autres pages en rST
    gnuplot_embed
    runblock
    Liste de problèmes à régler <todo>
+   python
    ocaml
    gnuplot
    ace
