@@ -20,7 +20,6 @@ L'éditeur
 
     <style type="text/css" media="screen">
     #editor {
-/* TODO: just be sure that this is alright */
      position: absolute;
      top: 0;
      right: 0;
