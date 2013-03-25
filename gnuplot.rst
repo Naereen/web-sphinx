@@ -27,7 +27,7 @@ Le toplevel
     </style>
     
     Optional: Grant the program read-access to a specific file on your 
-    local computer. This file is _not_ uploaded anywhere. Use it for data 
+    local computer. This file is not uploaded anywhere. Use it for data 
     files that you want to use in your script.<br>
     <input id="files" name="files[]" multiple="" type="file">
     <output id="list"></output>
@@ -39,7 +39,7 @@ Le toplevel
     set output 'out.svg'
     # set terminal svg size 600,400 dynamic enhanced fname 'arial'  fsize 10 mousing name "heatmaps_3" butt solid
     # set output 'heatmaps.3.svg'
-    plot cos(x**2)
+    plot cos(x**2),sin(x**2)
     </textarea>
     </td></tr></tbody></table>
     <br clear="all">
@@ -47,10 +47,10 @@ Le toplevel
     <h2 style="float: left;">Output:</h2>
     <textarea class="emscripten" id="output" rows="8">
     </textarea>
-    <script src="gnuplot_api.js"></script>
+    <script src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">
 
-    gnuplot.init('gnuplot.js');
+    gnuplot.init('_static/gnuplot.js');
     gnuplot.onOutput = function(text) {
     document.getElementById('output').value += text + '\n';
     document.getElementById('output').scrollTop = 99999;
