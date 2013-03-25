@@ -48,6 +48,7 @@ Le toplevel
    window.onload = start;
    </script>
 
+
 Entrée du toplevel
 ~~~~~~~~~~~~~~~~~~
 .. raw::html
@@ -56,14 +57,15 @@ Entrée du toplevel
    from sys import *
    print("--- Version: %s ---" % version)
    </textarea>
-   <input disabled="true" id="button" type="button" value="Chargement......" style="display: blo
-ck; margin: auto" />
+   <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
+
 
 Sortie du toplevel
 ~~~~~~~~~~~~~~~~~~
 .. raw::html
 
-   <textarea id="output" style="font-family: monospace; width: 80%" rows="8"></textarea>
+   <textarea id="output" style="font-family: monospace; width: 80%" rows="8">
+   </textarea>
 
 ------------------------------------------------------------------------------
 
