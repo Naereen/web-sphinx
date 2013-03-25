@@ -77,8 +77,7 @@ clean_pyc:
 clean_build:
 	rm -rf $(BUILDDIR)/*
 	mkdir --parents $(BUILDDIR)/html/_static/
-########	cp toplevel.js shortcuts.js $(BUILDDIR)/html/_static/
-	cp *.js $(BUILDDIR)/html/_static/
+	cp scripts/*.js $(BUILDDIR)/html/_static/
 
 pyDoc:
 	/usr/local/bin/makePydoc.sh
