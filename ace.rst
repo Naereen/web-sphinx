@@ -31,17 +31,15 @@ L'éditeur
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
-    <div id="editor">
-    #!/usr/bin/env python
-    #-*- encoding: utf-8 -*-
-    def foo(items):
-      x = "Ceci est un exemple"
-      return(x)
-    # Voilà un bête exemple en Python
-    import sys
-    from random import *
-    foo(sys.stderr)
-    </div>
+    <div id="editor">#!/usr/bin/env python
+   #-*- encoding: utf-8 -*-
+   def foo(items):
+     x = "Ceci est un exemple"
+     return(x)
+   # Voilà un bête exemple en Python
+   import sys
+   from random import *
+   foo(sys.stderr)</div>
     <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
     <script>
     var editor = ace.edit("editor");
