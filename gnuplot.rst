@@ -62,7 +62,7 @@ Graphe et entrée texte
     set terminal svg enhanced size 700,500 fname 'calibri' fsize 10 mouse jsdir "_static/"
     set output 'out.svg'
     # Allez y, essayer d'entrer votre propre graphe ici à la place !
-    plot cos(x*10)*exp(-x**2), cos(5*x)*exp(-x**2), cos(x)*exp(-x**2)
+    plot cos(x*8)*exp(-x**2), cos(x*4)*exp(-x**2), cos(x)*exp(-x**2)
     </textarea>
     </td></tr></tbody></table>
     <br clear="all">
