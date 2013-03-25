@@ -19,8 +19,9 @@ L'éditeur
 .. raw:: html
 
     <style type="text/css" media="screen">
-    #editor { 
+    #editor {
         position: absolute;
+        align: center;
         top: 0;
         right: 0;
         bottom: 0;

@@ -162,6 +162,8 @@ J'utilise aussi une balise ``HTML`` appelée ``noscript``,
 qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
 supporte pas Javascript.
 
+.. todo:: Comprendre pourquoi le buffer d'input ne s'actualise pas bien (?).
+
 Copyrights
 ----------
 Cette page est *directement inspirée* de la page officielle.
