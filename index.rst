@@ -229,6 +229,7 @@ Autres pages en rST
    Liste de problèmes à régler <todo>
    ocaml
    gnuplot
+   ace
    admin
 
 .. include:: .bottom.fr.rst
