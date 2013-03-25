@@ -37,20 +37,28 @@ window.confirm("The following shortcuts are enabled : \n\
  - Right : next page (still in construction). \n\
   Lilian Besson (c) 2013.")
             },{
-	'type':'keydown'
-        'disable_in_input':true
+'type':'keydown',
+'propagate':false,
+'disable_in_input':true,
+'target':document
             });
+
 shortcut.add("Left",function() {
 window.alert("This shortcut is still in construction !");
             },{
-	'type':'keydown',
-        'disable_in_input':true
+'type':'keydown',
+'propagate':false,
+'disable_in_input':true,
+'target':document
             });    
+
 shortcut.add("Right",function() {
 window.alert("This shortcut is still in construction !");
             },{
-	'type':'keydown'
-        'disable_in_input':true
+'type':'keydown',
+'propagate':false,
+'disable_in_input':true,
+'target':document
             });
 </script>
 {% endblock %}

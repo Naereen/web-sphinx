@@ -87,16 +87,16 @@ coverage:
 	@echo
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
-cv.fr:
+cv.fr:	CV_Lilian_BESSON.fr.pdf
 	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.fr.pdf -c CV_Lilian_BESSON.fr.rst
 	$(CP) CV_Lilian_BESSON.fr.pdf .build/html/
 
-cv.en:
+cv.en:	CV_Lilian_BESSON.en.pdf
 	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.en.pdf -c CV_Lilian_BESSON.en.rst
 #	rst2latex --title="CV Lilian BESSON (en)" -t --no-source-link --language=en --use-verbatim-when-possible -q --tab-width=4  CV_Lilian_BESSON.en.rst CV_Lilian_BESSON.en.latex
 	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
 
-slides:
+slides:	slides.rst
 	./.slides.sh
 
 git:
