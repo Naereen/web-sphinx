@@ -7,8 +7,8 @@
 #
 #	__author__='Lilian BESSON'
 #	__email__='lilian.besson@normale.fr'
-#	__version__='13.9'
-#	__date__='dim. 24/03/2013 at 12h:59m:27s '
+#	__version__='13.9.2'
+#	__date__='lundi 25/03/2013 at 12h:59m:27s '
 #
 
 # You can set these variables from the command line.
@@ -48,8 +48,8 @@ notify_archive: archive
 cleanALL: clean_build clean_pyc
 
 archive: clean_pyc
-	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Documents/ ; fi
-	tar -Jcvf ~/web-sphinx.tar.xz ./ > /dev/null
+	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
+	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz.log
 
 sendAll: notify_archive send
 
@@ -75,10 +75,12 @@ clean_pyc:
 	@echo "All *.pyc (Python compiled scripts) and *.py~ (temporary copies) files have been deleted !"
 
 clean_build:
-	rm -rf $(BUILDDIR)/*
+	rm -rf $(BUILDDIR)/doctrees
+	rm -rf $(BUILDDIR)/html/*.* $(BUILDDIR)/html/.*.*
+	rm -rf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
-##	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
+	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
 
 pyDoc:
 	/usr/local/bin/makePydoc.sh
