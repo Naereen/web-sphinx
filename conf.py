@@ -115,7 +115,8 @@ language = u"fr"
 today = ''
 # Else, today_fmt is used as the format for a strftime call.
 # today_fmt = u'%d/%m/%Y, %Hh:%Mm:%Ss'
-today_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
+# today_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
+today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
