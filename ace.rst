@@ -19,13 +19,15 @@ L'éditeur
 .. raw:: html
 
     <style type="text/css" media="screen">
-    #editor {
+    #editorold {
      position: absolute;
      top:   250px;
      left:  250px;
      bottom:450px;
      right: 450px;
     }
+    #editor { padding-right: 0; margin-left: auto; font-size: 11pt; margin-right: auto; disp
+lay: block; }
     </style>
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
