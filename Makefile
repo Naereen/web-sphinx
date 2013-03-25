@@ -37,7 +37,7 @@ local:	cleanALL all notify
 
 complete:	cleanALL all sendAll notify
 
-all:	html git
+all:	html
 
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
