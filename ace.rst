@@ -27,15 +27,19 @@ L'éditeur
         left: 0;
     }
     </style>
-    <div id="editor">function foo(items) {
-    var x = "Ceci est en couleurs.";
-    return x;
+    <div id="editor">
+    #!/usr/bin/env python
+    #-*- encoding: utf-8 -*-
+    def foo(items):
+      x = "Ceci est un exemple"
+      return(x)
+    # Voilà un bête exemple en Python
     }</div>
     <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
     <script>
     var editor = ace.edit("editor");
     editor.setTheme("ace/theme/monokai");
-    editor.getSession().setMode("ace/mode/javascript");
+    editor.getSession().setMode("ace/mode/python");
     </script>
 
 ------------------------------------------------------------------------------
@@ -53,6 +57,12 @@ qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
 supporte pas Javascript.
 
 .. todo:: Conclure !
+
+.. todo::
+   Embarquer le script “ace.js” localement. Utilise Amazon Cloud, 
+   pour le moment, et ça ne me va pas.
+
+.. todo:: Trouver un moyen d'enregistrer le fichier édité !
 
 Copyrights
 ----------

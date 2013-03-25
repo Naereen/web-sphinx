@@ -186,7 +186,10 @@ dans des pages webs produites avec Sphinx (*comme celle-ci*) :
 
   * `<ocaml.html>`_, un toplevel complet d'``OCaml 3.12.1``,
     directement dans un navigateur web **:)** !
-  * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot`` (© Christian Huettig).
+  * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``
+    (le projet initial est © Christian Huettig).
+  * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
+    pour l'instant ne supporte pas l'enregistrement.
 
 .. Démonstrations
    ~~~~~~~~~~~~~~
