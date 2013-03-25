@@ -21,20 +21,18 @@ L'éditeur
 .. raw:: html
 
     <style type="text/css" media="screen">
-    #editor {
+    #editor4 {
      position: absolute;
      top:   0;
      left:  0;
      bottom:0;
      right: 0;
     }
-    #editor2 {
+    #editor {
      position: relative;
-     top:   250px;
-     left:  250px;
-     bottom:450px;
-     right: 450px;
-     font-size: 16pt;
+     height: 400px;
+     width:  400px;
+     font-size: 18pt;
     }
     #editor3 {
      padding-right: 0; margin-left: auto; font-size: 11pt; margin-right: auto; display: block;
@@ -50,7 +48,10 @@ L'éditeur
       x = "Ceci est un exemple"
       return(x)
     # Voilà un bête exemple en Python
-    }</div>
+    import sys
+    from random import *
+    foo(sys.stderr)
+    </div>
     <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
     <script>
     var editor = ace.edit("editor");
@@ -58,7 +59,6 @@ L'éditeur
     editor.setFontSize(18);
     editor.setShowInvisibles(true);
     editor.setShowPrintMargin(true);
-    editor.
     editor.getSession().setMode("ace/mode/python");
     </script>
 
