@@ -21,10 +21,10 @@ L'éditeur
     <style type="text/css" media="screen">
     #editor {
      position: absolute;
-     top: 0;
-     right: 0;
-     bottom: 0;
-     left: 0;
+     top:   250px;
+     left:  250px;
+     bottom:450px;
+     right: 450px;
     }
     </style>
    <noscript><span style="color:red" align="center">
