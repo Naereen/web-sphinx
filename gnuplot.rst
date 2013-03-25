@@ -25,6 +25,17 @@ Ce fichier **n'est envoyé nul part** : il est utilisé par ``gnuplot.js``,
 qui est un script qui s'exécute **localement**
 sur :u:`votre propre machine.`
 
+Graphe et entrée texte
+~~~~~~~~~~~~~~~~~~~~~~
++--------------------------------------+-------------------------------------+
+| À gauche, le graphique, au format    | À droite, une entrée texte,         |
+| **SVG**. Pour le moment, un seul à   | comme **GNU Plot** en console.      |
+| la fois !                            |                                     |
+|                                      |                                     |
+|                                      | Les premières lignes doivent être   |
+|                                      | gardées comme ça.                   |
++--------------------------------------+-------------------------------------+
+
 .. raw:: html
 
     <style>
