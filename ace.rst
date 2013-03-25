@@ -18,14 +18,19 @@ L'éditeur
 
 .. raw:: html
 
-    <style type="text/css" media="screen">
+    <style type="text/css">
     #editor {
-        position: absolute;
+/*
+ * First try
+     position: absolute;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+*/
         align: center;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
+/*        float: left;*/
+        width: 630px;
     }
     </style>
    <noscript><span style="color:red" align="center">
