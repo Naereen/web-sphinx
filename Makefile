@@ -135,9 +135,9 @@ clean:	clean_pyc clean_build
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
 	@echo "Searching for warnings ..."
-	@grep --color=auto WARNING /tmp/sphinx.log
+	@grep -i --color=auto WARNING /tmp/sphinx.log || echo "No warning : very good job :)"
 	@echo "Searching for errors ..."
-	@grep --color=auto ERROR /tmp/sphinx.log	
+	@grep -i --color=auto ERROR /tmp/sphinx.log || echo "No error : good job :)"
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 

@@ -23,12 +23,12 @@ un fichier de données venant de votre propre ordinateur.
 
 Ce fichier **n'est envoyé nul part** : il est utilisé par ``gnuplot.js``,
 qui est un script qui s'exécute **localement**
-sur :yellow:`votre propre machine.`
+sur :u:`votre propre machine.`
 
 .. raw:: html
 
     <style>
-    .emscripten { padding-right: 0; margin-left: auto; font-size: 10px; margin-right: auto; display: block; }
+    .emscripten { padding-right: 0; margin-left: auto; font-size: 11px; margin-right: auto; display: block; }
     canvas.emscripten { border: 1px solid black; }
     textarea.emscripten { font-family: monospace; width: 80%; }
     div.emscripten { text-align: center; }
