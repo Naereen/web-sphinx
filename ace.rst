@@ -25,6 +25,7 @@ L'éditeur
      position: relative;
      height: 500px;
      width:  85%;
+     fontsize: 18pt;
     }
     </style>
    <noscript><span style="color:red" align="center">
@@ -47,8 +48,12 @@ L'éditeur
     editor.setTheme("ace/theme/twilight");
     editor.setFontSize(22);
     editor.setShowInvisibles(true);
+    editor.setShowMarginColumn(79);
     editor.setShowPrintMargin(true);
+    editor.setShowFoldWidgets(true);
     editor.getSession().setMode("ace/mode/python");
+
+    window.alert("Éditeur ACE bien initialisé. La sauvegarde n'est pas encore implémentée...")
     </script>
 
 ------------------------------------------------------------------------------
