@@ -38,16 +38,19 @@ window.confirm("The following shortcuts are enabled : \n\
   Lilian Besson (c) 2013.")
             },{
 	'type':'keydown'
+        'disable_in_input':true
             });
 shortcut.add("Left",function() {
 window.alert("This shortcut is still in construction !");
             },{
-	'type':'keydown'
+	'type':'keydown',
+        'disable_in_input':true
             });    
 shortcut.add("Right",function() {
 window.alert("This shortcut is still in construction !");
             },{
 	'type':'keydown'
+        'disable_in_input':true
             });
 </script>
 {% endblock %}
