@@ -25,17 +25,6 @@ Ce fichier **n'est envoyé nul part** : il est utilisé par ``gnuplot.js``,
 qui est un script qui s'exécute **localement**
 sur :u:`votre propre machine.`
 
-Graphe et entrée texte
-~~~~~~~~~~~~~~~~~~~~~~
-+--------------------------------------+-------------------------------------+
-| À gauche, le graphique, au format    | À droite, une entrée texte,         |
-| **SVG**. Pour le moment, un seul à   | comme **GNU Plot** en console.      |
-| la fois !                            |                                     |
-|                                      |                                     |
-|                                      | Les premières lignes doivent être   |
-|                                      | gardées comme ça.                   |
-+--------------------------------------+-------------------------------------+
-
 .. raw:: html
 
     <style>
@@ -49,15 +38,31 @@ Graphe et entrée texte
     <input id="files" name="files[]" multiple="" type="file">
     <output id="list"></output>
 
+Graphe et entrée texte
+~~~~~~~~~~~~~~~~~~~~~~
++--------------------------------------+-------------------------------------+
+| À gauche, le graphique, au format    | À droite, une entrée texte,         |
+| **SVG**. Pour le moment, un seul à   | comme **GNU Plot** en console.      |
+| la fois !                            |                                     |
+|                                      |                                     |
+|                                      | Les 2 premières lignes doivent être |
+|                                      | gardées comme ça.                   |
++--------------------------------------+-------------------------------------+
+
+.. raw:: html
+
+    <noscript><span style="color:red" align="center">
+    Attention: votre navigateur semble ne pas supporter Javascript !</span>
+    </noscript>
+
     <table class="noborder"><tbody><tr><td>
     <img src="blob:7716fba5-e3f5-4826-b26f-45f3c2f2758a" frameborder="0" id="gnuimg" type="image/svg+xml" class="float-right" height="500" width="600">
     </td><td style="width:100%;" valign="top">
-    <textarea class="emscripten" id="gnuplot" rows="35" onkeyup="scriptChange()">set terminal svg enhanced size 700,500 fname 'calibri' fsize 10 mouse jsdir "_static/"
+    <textarea class="emscripten" id="gnuplot" rows="35" onkeyup="scriptChange()">
+    set terminal svg enhanced size 700,500 fname 'calibri' fsize 10 mouse jsdir "_static/"
     set output 'out.svg'
-    # set terminal svg size 600,400 dynamic enhanced fname 'arial'  fsize 10 mousing name "heatmaps_3" butt solid
-    # set output 'heatmaps.3.svg'
     # Allez y, essayer d'entrer votre propre graphe ici à la place !
-    plot cos(x**2), sin(x**2)
+    plot cos(x*10)*exp(-x**2), cos(5*x)*exp(-x**2), cos(x)*exp(-x**2)
     </textarea>
     </td></tr></tbody></table>
     <br clear="all">

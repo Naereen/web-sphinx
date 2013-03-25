@@ -27,6 +27,9 @@ L'éditeur
         left: 0;
     }
     </style>
+   <noscript><span style="color:red" align="center">
+   Attention: votre navigateur semble ne pas supporter Javascript !</span>
+   </noscript>
     <div id="editor">
     #!/usr/bin/env python
     #-*- encoding: utf-8 -*-
