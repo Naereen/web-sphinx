@@ -2,6 +2,8 @@
  Un éditeur de texte intégré
 ##############################
 
+.. warning:: Cette page n'est pas terminée !
+
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des
 scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
 
@@ -32,6 +34,7 @@ L'éditeur
      left:  250px;
      bottom:450px;
      right: 450px;
+     font-size: 16pt;
     }
     #editor3 {
      padding-right: 0; margin-left: auto; font-size: 11pt; margin-right: auto; display: block;
@@ -52,6 +55,10 @@ L'éditeur
     <script>
     var editor = ace.edit("editor");
     editor.setTheme("ace/theme/twilight");
+    editor.setFontSize(18);
+    editor.setShowInvisibles(true);
+    editor.setShowPrintMargin(true);
+    editor.
     editor.getSession().setMode("ace/mode/python");
     </script>
 
