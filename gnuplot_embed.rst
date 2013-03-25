@@ -1,14 +1,13 @@
-############################
-Des graphiques avec GNU Plot
-############################
+##############################
+ Des graphiques avec GNU Plot
+##############################
 
  Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphes 
  écrits avec une balise ``.. gnuplot::``.
 
- Une autre page intéressante à propos de **GNU Plot** est
- `<http://gnuplot.respawned.com/>`_.
- Je vais tenter d'embarquer la même boucle *ripl* dans une autre page,
- à priori celle là `<gnuplot.html>`_.
+ J'ai aussi intégré un boucle *ripl* dans ma page `<gnuplot.html>`_,
+ qui permet de voir (*en temps réel*) un graphique évoluer dès que l'entrée
+ du toplevel change.
 
 .. warning::
 

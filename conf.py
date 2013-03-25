@@ -217,7 +217,7 @@ html_favicon = u"favicon.ico"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['.static']
+# html_static_path = ['.static']
 
 #Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
 html_add_permalinks = True
