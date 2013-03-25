@@ -37,7 +37,7 @@ local:	cleanALL all notify
 
 complete:	cleanALL all sendAll notify
 
-all:	html
+all:	html scripts
 
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
@@ -76,8 +76,10 @@ clean_pyc:
 
 clean_build:
 	rm -rf $(BUILDDIR)/doctrees
-	rm -rf $(BUILDDIR)/html/*.* $(BUILDDIR)/html/.*.*
+	rm -rf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
 	rm -rf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
+
+scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
 	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
