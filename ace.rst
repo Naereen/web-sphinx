@@ -23,9 +23,9 @@ L'éditeur
     <style type="text/css" media="screen">
     #editor {
      position: relative;
-     height: 500px;
-     width:  85%;
-     fontsize: 18pt;
+     height: 700px;
+     width:  90%;
+     fontsize: 22pt;
     }
     </style>
    <noscript><span style="color:red" align="center">
@@ -44,14 +44,16 @@ L'éditeur
     </div>
     <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
     <script>
+    var ace = require("lib/ace");
+
     var editor = ace.edit("editor");
     editor.setTheme("ace/theme/twilight");
+    editor.getSession().setMode("ace/mode/python");
     editor.setFontSize(22);
     editor.setShowInvisibles(true);
     editor.setShowMarginColumn(79);
     editor.setShowPrintMargin(true);
     editor.setShowFoldWidgets(true);
-    editor.getSession().setMode("ace/mode/python");
 
     window.alert("Éditeur ACE bien initialisé. La sauvegarde n'est pas encore implémentée...")
     </script>
