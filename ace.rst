@@ -20,18 +20,18 @@ L'éditeur
 
 .. raw:: html
 
-    <style type="text/css" media="screen">
-    #editor {
-     position: relative;
-     height: 700px;
-     width:  90%;
-     fontsize: 22pt;
-    }
-    </style>
+   <style type="text/css" media="screen">
+   #editor {
+   position: relative;
+   height: 700px;
+   width:  90%;
+   fontsize: 22pt;
+   }
+   </style>
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
-    <div id="editor">#!/usr/bin/env python
+   <div id="editor">#!/usr/bin/env python
    #-*- encoding: utf-8 -*-
    def foo(items):
      x = "Ceci est un exemple"
@@ -40,19 +40,18 @@ L'éditeur
    import sys
    from random import *
    foo(sys.stderr)</div>
-    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
-    <script>
-    var editor = ace.edit("editor");
-    editor.setTheme("ace/theme/twilight");
-    editor.getSession().setMode("ace/mode/python");
-    editor.setFontSize(22);
-    editor.setShowInvisibles(true);
-    editor.setShowMarginColumn(79);
-    editor.setShowPrintMargin(true);
-    editor.setShowFoldWidgets(true);
-
-    window.alert("Éditeur ACE bien initialisé. La sauvegarde n'est pas encore implémentée...")
-    </script>
+   <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script>
+   var editor = ace.edit("editor");
+   editor.setTheme("ace/theme/twilight");
+   editor.getSession().setMode("ace/mode/python");
+   editor.setFontSize(22);
+   editor.setShowInvisibles(true);
+   editor.setShowMarginColumn(79);
+   editor.setShowPrintMargin(true);
+   editor.setShowFoldWidgets(true);
+   window.alert("~~~ ACE Text Editor is well initialized ~~~")
+   </script>
 
 ------------------------------------------------------------------------------
 
@@ -75,6 +74,8 @@ supporte pas Javascript.
    pour le moment, et ça ne me va pas.
 
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
+
+.. todo:: Trouver un moyen d'utiliser cet “éditeur” pour les toplevel OCaml et GNU Plot.
 
 Copyrights
 ----------
