@@ -26,11 +26,11 @@ Le toplevel
    <div id="toplevel" align=left></div>
 
 
-OCaml Powered :)
-^^^^^^^^^^^^^^^^
+.. OCaml Powered :)
+.. ^^^^^^^^^^^^^^^^
 
 .. image:: .ocaml-powered.png
-   :scale: 100 %
+   :scale: 130 %
    :align: center
    :alt: OCaml powered :)
    :target: http://caml.inria.fr
