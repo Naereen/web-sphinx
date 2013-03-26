@@ -16,6 +16,14 @@ About
 
 Some pages host my résumé, others are just experiments.
 
+Other repo
+----------
+
+To limit the size of this one, I used an other repo to store
+the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
+
+This second repo mainly hosts some Javascript scripts (GNU Plot toplevel, OCaml toplevel, shortcuts.js), and also a **complete** Python distribution, used with python.opt.js to embed a Python toplevel in my web pages (I know, it's useless, by so funny !).
+
 ----
 
 ### Author:
