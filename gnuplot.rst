@@ -147,7 +147,7 @@ Graphe et entrée texte
     }
     document.getElementById('files').addEventListener('change', handleFileSelect, false);
     </script>
-    
+   <script>window.alert("~~~ GNUPlot toplevel is well initialized ~~~");</script>
 
 ------------------------------------------------------------------------------
 

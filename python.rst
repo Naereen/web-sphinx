@@ -48,7 +48,8 @@ Le toplevel
         };
       };
       window.onload = start;
-    </script>
+   </script>
+   <script>window.alert("~~~ Python 2.7.2 toplevel is well initialized ~~~")</script>
     <h2>Entrée du toplevel</h2>
     <textarea disabled="true" id="input" style="font-family: monospace; width: 90%" rows="8">print 'Bonjour, le monde !'</textarea>
     <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
@@ -56,8 +57,8 @@ Le toplevel
     <textarea id="output" style="font-family: monospace; width: 90%" rows="8"></textarea>
 
 
-Python Powered :)
-^^^^^^^^^^^^^^^^^
+.. Python Powered :)
+.. ^^^^^^^^^^^^^^^^^
 
 .. image:: .python-powered.png
    :scale: 200 %

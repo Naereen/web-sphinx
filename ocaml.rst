@@ -24,6 +24,7 @@ Le toplevel
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
    <div id="toplevel" align=left></div>
+   <script>window.alert("~~~ OCaml toplevel is well initialized ~~~");</script>
 
 
 .. OCaml Powered :)
