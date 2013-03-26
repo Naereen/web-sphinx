@@ -81,7 +81,7 @@ On peut aussi faire des graphes, et en faire des colonnes :
 +--------------------------+----------------------------+----------------------------+
 
 Mais des fois, c'est plus commode de mettre trois graphes 
-dans un seul (avec ``replot``) :
+dans un seul (sans ``replot``, mais avec ``plot f1(x),f2(x)``) :
 
 .. gnuplot::
    :title: Arctangente, Sigmoide et Signe
@@ -97,9 +97,7 @@ En 3D : une surface
    
    set xrange [0:1]
    set yrange [0:1]
-   splot x**4 + y**4
-   replot x**2 + y**2
-   replot abs(x)+abs(y)
+   splot x**4 + y**4, abs(x)+abs(y)
 
 Conclusion
 ----------
