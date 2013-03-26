@@ -46,7 +46,6 @@ L'éditeur
    var editor = ace.edit("editor");
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
-/*   editor.setFontSize(46); */
    editor.setShowInvisibles(true);
    editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
