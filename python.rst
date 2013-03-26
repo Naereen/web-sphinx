@@ -68,6 +68,13 @@ J'utilise aussi une balise ``HTML`` appelée ``noscript``,
 qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
 supporte pas Javascript.
 
+Hébergements
+------------
+
+Les scripts **Javascript** utilisés sur mes pages sont désormais
+hébergé sur ce dépot git : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+
 Copyrights
 ----------
 Le **toplevel** Python embarqué ici est implémenté en **Javascript**,

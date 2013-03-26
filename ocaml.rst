@@ -46,6 +46,13 @@ supporte pas Javascript.
 
 .. todo:: Passer à OCaml 4.00.1 ?
 
+Hébergements
+------------
+
+Les scripts **Javascript** utilisés sur mes pages sont désormais
+hébergé sur ce dépot git : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+
 Copyrights
 ----------
  i) **OCaml** est © et ® Inria, et est publié sour la licence MIT.

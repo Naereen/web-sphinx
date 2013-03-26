@@ -164,6 +164,13 @@ supporte pas Javascript.
 
 .. todo:: Comprendre pourquoi le buffer d'input ne s'actualise pas bien (?).
 
+Hébergements
+------------
+
+Les scripts **Javascript** utilisés sur mes pages sont désormais
+hébergé sur ce dépot git : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+
 Copyrights
 ----------
 Cette page est *directement inspirée* de la page officielle.
