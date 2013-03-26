@@ -148,10 +148,10 @@ In particular,
 ------------------------------------------------------------------------------
 
 .. image:: .python-powered.png
-   :scale: 100 %
+   :scale: 200 %
    :align: center
    :alt: Python powered :)
-   :target: index.html
+   :target: http://python.org
 
 Used softwares
 --------------
