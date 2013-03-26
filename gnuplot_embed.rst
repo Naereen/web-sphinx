@@ -25,6 +25,8 @@ dès que l'entrée du toplevel change.
 
 Exemples
 --------
+Sinus, simple
+^^^^^^^^^^^^^
 Premier, :math:`x \mapsto \sin(x)` :
 
 .. gnuplot::
@@ -32,31 +34,37 @@ Premier, :math:`x \mapsto \sin(x)` :
    
    plot sin(x)
 
-
+Cosinus, avec une grille
+^^^^^^^^^^^^^^^^^^^^^^^^
 Second, :math:`x \mapsto \cos(x*x+1.3)` (avec une grille mise avec ``set grid``). 
 On peut forcer la taille avec l'option ``:size:`` pour la
 directive ``.. gnuplot::`` :
 
 .. gnuplot::
    :title: Cosinus
-   :size: 600,500
+   :size: 100,100
 
    set grid    
    plot cos(x*x+1.3)
 
-
+Plusieurs graphiques sur une même fenêtre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
-On peut mettre plusieurs graphiques sur une même fenêtre, 
-avec la commande ``replot``, qui gère les couleurs pour pouvoir
-différencier les différents graphiques :
+
+.. error:: Changement de GNU Plot 4.4 à 4.6.2
+
+   J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
+   et ça brise la commande ``replot``.
+   
+   Avant, on pouvait mettre plusieurs graphiques sur une même fenêtre, 
+   avec la commande ``replot``, qui gère les couleurs pour pouvoir
+   différencier les différents graphiques :
 
 .. gnuplot::
    :title: Sigmoide(s)
    :size: 1100,700
    
-   plot 1/(1+exp(-0.25*x))
-   replot 1/(1+exp(-x))
-   replot 1/(1+exp(-4*x))
+   plot 1/(1+exp(-0.25*x)),1/(1+exp(-x)),1/(1+exp(-4*x))
 
 Tableau(x)
 ----------
@@ -79,9 +87,7 @@ dans un seul (avec ``replot``) :
    :title: Arctangente, Sigmoide et Signe
    :size: 1100,700
 
-   plot 0.5+atan(x)/pi
-   replot 1/(1+exp(-x))
-   replot 0.5*(1+sgn(x))
+   plot 0.5+atan(x)/pi,1/(1+exp(-x)),0.5*(1+sgn(x))
 
 En 3D : une surface
 -------------------
