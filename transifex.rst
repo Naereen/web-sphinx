@@ -37,7 +37,7 @@ Interface de traduction
   Voici un apercu de l'interface :
 
 .. image:: .transifex.png
-   :scale: 70%
+   :scale: 85%
    :align: center
    :alt: Une capture d'écran de l'interface de Transifex.com (© et ® Transifex)
    :target: https://www.transifex.com
@@ -71,19 +71,21 @@ Résultat
 
 .. raw:: html
 
-     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-     <script type="text/javascript" src="https://www.transifex.com/projects/p/bitbucketorg/resource/bitbucket-django/chart/inc_js/"></script>
-     <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
+   <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+   <script type="text/javascript" src="https://www.transifex.com/projects/p/bitbucketorg/resource/bitbucket-django/chart/inc_js/"></script>
+   <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
+   <h3>Graphique importé grâce à l'API de Transifex, © et ® Transifex<h3>
 
+------------------------------------------------------------------------------
 
- Joli graphique non ?
+Joli graphique non ?
 
- La traduction française a atteint **100**%, dans les 12h30,
- et est donc la première terminée.
+La traduction française a atteint 100%, dans les 12h30,
+et est donc la première terminée.
 
- **Bravo à nous !**
+**Bravo à nous !**
 
- Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
+Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
 
 ------------------------------------------------------------------------------
 
@@ -91,5 +93,11 @@ Et après ?
 ----------
  Cette petite aventure m'a intéressé dans les projets de traductions,
  et je pense que je vais chercher à **en faire plus régulièrement !**
+
+Me proposer une traduction
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Ainsi, si vous êtes intéressé par une traduction (FR->EN ou EN->FR)
+ de votre site, logiciel ou autre,
+ n'hésitez pas à me `contacter <index.html>`_.
 
 .. include:: .bottom.fr.rst
