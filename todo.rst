@@ -14,6 +14,20 @@ De tels soucis peuvent être déclarés via : ::
 
     Voici un soucis.
 
+TODO génériques
+---------------
+Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
+sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
+
+.. todo::
+
+   Trouver une solution pour embarquer la dernière actualisation, via :
+    * `web-sphinx/rss <https://bitbucket.org/lbesson/web-sphinx/rss>`_;
+    * `web-sphinx-scripts/rss <https://bitbucket.org/lbesson/web-sphinx-scripts/rss>`_.
+
+.. todo:: Sinon, le faire à la main ?
+
+
 ------------------------------------------------------------------------------
 
 Toujours grâce à cette extension, il suffit d'utiliser la directive
