@@ -1,8 +1,8 @@
 .. include:: .special.rst
 
----------------------------------------------------------------------
+.. ---------------------------------------------------------------------
 
-.. note:: Sphinx et reStructuredText
+.. .. note:: Sphinx et reStructuredText
 
    * Toutes remarques, questions, ou notifications de bugs peuvent être posées
      via cette page
@@ -13,7 +13,7 @@
      sur les institutions et les marques citées sont disponibles
      `sur cette page (en anglais) <trademarks.html>`_.
 
-.. warning:: Javacsript et Google Analytics ®
+.. .. warning:: Javacsript et Google Analytics ®
 
    J'utilise du ``Javascript``, et du *templating* Django pour intégrer
    dynamiquement **Google Analytics** à ces pages là.
