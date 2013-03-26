@@ -25,7 +25,7 @@ L'éditeur
    position: relative;
    height: 700px;
    width:  90%;
-   fontsize: 46pt;
+   fontsize: 24pt;
    }
    </style>
    <noscript><span style="color:red" align="center">
@@ -45,9 +45,9 @@ L'éditeur
    var editor = ace.edit("editor");
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
-   editor.setFontSize(46);
+/*   editor.setFontSize(46); */
    editor.setShowInvisibles(true);
-   editor.setShowMarginColumn(79);
+   editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
    window.alert("~~~ ACE Text Editor is well initialized ~~~")
@@ -67,15 +67,13 @@ J'utilise aussi une balise ``HTML`` appelée ``noscript``,
 qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
 supporte pas Javascript.
 
-.. todo:: Conclure !
-
 .. todo::
    Embarquer le script "ace.js" localement. Utilise Amazon Cloud, 
    pour le moment, et ça ne me va pas.
 
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
 
-.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml et GNU Plot.
+.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml, Python et GNU Plot.
 
 Copyrights
 ----------
