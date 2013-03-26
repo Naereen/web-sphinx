@@ -70,5 +70,14 @@ Remerciements
       La page de référence pour ces morceaux de code est 
       `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
 
+------------------------------------------------------------------------------
+OCaml Powered :)
+----------------
+
+.. image:: .ocaml-powered.png
+   :scale: 200 %
+   :align: center
+   :alt: OCaml powered :)
+   :target: http://caml.inria.fr
 
 .. include:: .bottom.fr.rst

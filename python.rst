@@ -85,6 +85,8 @@ pour plus de détails.
 Ce projet est distribué sous la licence **MIT**.
 
 ------------------------------------------------------------------------------
+Python Powered :)
+-----------------
 
 .. image:: .python-powered.png
    :scale: 200 %
