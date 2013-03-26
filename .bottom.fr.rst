@@ -14,7 +14,9 @@
 
    Toutes remarques, questions, ou notifications de bugs peuvent être posées
    via cette page
-   `lbesson/web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   `web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   Si cela concerne un des scripts présents sur mes pages, veuillez utiliser
+   `web-sphinx-scripts/issues <https://bitbucket.org/lbesson/web-sphinx-scripts/issues>`_.
    Des précisions sur les droits de copies, de propriétés intellectuelles,
    sur les institutions et les marques citées sont disponibles
    `sur cette page (en anglais) <trademarks.html>`_.
