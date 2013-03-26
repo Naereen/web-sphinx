@@ -55,6 +55,16 @@ Le toplevel
     <h2>Sortie du toplevel</h2>
     <textarea id="output" style="font-family: monospace; width: 90%" rows="8"></textarea>
 
+
+Python Powered :)
+^^^^^^^^^^^^^^^^^
+
+.. image:: .python-powered.png
+   :scale: 200 %
+   :align: center
+   :alt: Python powered :)
+   :target: http://python.org
+
 ------------------------------------------------------------------------------
 
 À propos
@@ -86,13 +96,5 @@ pour plus de détails.
 Ce projet est distribué sous la licence **MIT**.
 
 ------------------------------------------------------------------------------
-Python Powered :)
------------------
-
-.. image:: .python-powered.png
-   :scale: 200 %
-   :align: center
-   :alt: Python powered :)
-   :target: http://python.org
 
 .. include:: .bottom.fr.rst

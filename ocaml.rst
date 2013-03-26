@@ -25,6 +25,16 @@ Le toplevel
    </noscript>
    <div id="toplevel" align=left></div>
 
+
+OCaml Powered :)
+^^^^^^^^^^^^^^^^
+
+.. image:: .ocaml-powered.png
+   :scale: 100 %
+   :align: center
+   :alt: OCaml powered :)
+   :target: http://caml.inria.fr
+
 ------------------------------------------------------------------------------
 
 À propos
@@ -72,13 +82,5 @@ Remerciements
       `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
 
 ------------------------------------------------------------------------------
-OCaml Powered :)
-----------------
-
-.. image:: .ocaml-powered.png
-   :scale: 200 %
-   :align: center
-   :alt: OCaml powered :)
-   :target: http://caml.inria.fr
 
 .. include:: .bottom.fr.rst
