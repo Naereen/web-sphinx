@@ -65,6 +65,9 @@ window.alert("This shortcut is still in construction !");
 
 {% block footer %}
 {{ super() }}
+<div class="footer">This page uses <a href="http://analytics.google.com/">
+Google Analytics</a> to collect statistics. You can disable it by blocking
+the JavaScript coming from www.google-analytics.com.
 <script type="text/javascript">
 /*****************************************************************************
  * This file is (c) Lilian Besson, 2011-2013.
@@ -112,4 +115,5 @@ window.alert("This shortcut is still in construction !");
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+</div>
 {% endblock %}
