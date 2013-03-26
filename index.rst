@@ -15,7 +15,6 @@ A propos de moi
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
    Ces pages ont été générées le |today|.
 
-
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
 Recherche et étude
