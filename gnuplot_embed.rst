@@ -2,7 +2,8 @@
  Des graphiques avec **GNU Plot**
 ##################################
 
-Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphes 
+Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphiques
+ou des graphes de fonctions
 écrits avec une directive **rST** ``.. gnuplot::``.
 
 Voir aussi
