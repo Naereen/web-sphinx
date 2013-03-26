@@ -110,4 +110,13 @@ Offer me a to do a translation
   of your website, software or otherwise
   do not hesitate to `contact me <index.html>`_.
 
+Update their web-service
+^^^^^^^^^^^^^^^^^^^^^^^^
+  I think the web site *transifex* is awesome !
+
+  But, the lack of statistics overview for a translation project appears to
+  be annoying, so I asked them `here on support.transifex.com 
+  <http://support.transifex.com/customer/en/portal/questions/908374-see-some-statistics-for-a-translation-project-?new=908374>`_
+  if there is a way to add this kind of functionnality.
+
 .. include:: .bottom.en.rst

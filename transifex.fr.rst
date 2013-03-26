@@ -106,4 +106,24 @@ Me proposer de réaliser une traduction
   de votre site, logiciel ou autre,
   n'hésitez pas à me `contacter <index.html>`_.
 
+Améliorer leur web-service
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Tout d'abord une précision : je trouve le site *transifex* **absolûment**
+  **incroyable** ! Tout fonctionne parfaitement bien, **tout est fluide**, et cela
+  rend le travail de traduction encore plus agréable !
+
+  Mais ce n'est pas pour autant qu'il est parfait.
+  La traduction française est encore balbutiante, ce qui, avouons le,
+  fait assez tache pour *un site de traduction* :)
+
+  Et enfin, je trouve qu'il manque la possibilité de voir
+  certaines statistiques d'un projet de traduction, comme par exemple :
+   * le nombre moyen de relecture d'une phrase;
+   * le nombre de phrases traduites par chaque participants;
+   * ou alors l'évolution temporelle du nombre de phrases traduites.
+ 
+  C'est donc tout naturellement que j'ai ouvert une demande publique
+  pour demander une amélioration, qui se trouve `là sur support.transifex.com
+  <http://support.transifex.com/customer/en/portal/questions/908374-see-some-statistics-for-a-translation-project-?new=908374>`_.
+
 .. include:: .bottom.fr.rst
