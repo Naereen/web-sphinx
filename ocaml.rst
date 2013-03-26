@@ -32,7 +32,7 @@ Comme dans `.special.rst <_sources/.special.txt>`_,
 j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
 
-:cyan:`C'est simple, c'est propre.`
+:blue:`C'est simple, c'est propre.`
 
 J'utilise aussi une balise ``HTML`` appelée ``noscript``,
 qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
