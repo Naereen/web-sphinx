@@ -48,7 +48,6 @@ Cette directive sert à décrire des graphes **dirigés**.
 de réaliser la transformation suivante :
 
 .. digraph:: autodoc
-   :title: autodoc
 
    ".py" -> ".rst" -> ".html";
 
@@ -98,6 +97,7 @@ généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
 .. graphviz:: .graph.dot
 
 ------------------------------------------------------------------------------
+
 Extension ``sphinx.ext.todolist``
 ---------------------------------
 Cette page permet aussi de tester la fonctionnalité ajouté par l'extension

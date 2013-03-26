@@ -123,9 +123,10 @@ Améliorer leur web-service
 
   Et enfin, je trouve qu'il manque la possibilité de voir
   certaines statistiques d'un projet de traduction, comme par exemple :
-   * le nombre moyen de relecture d'une phrase;
-   * le nombre de phrases traduites par chaque participants;
-   * ou alors l'évolution temporelle du nombre de phrases traduites.
+
+   i. le nombre moyen de relecture d'une phrase;
+   ii. le nombre de phrases traduites par chaque participants;
+   iii. ou alors l'évolution temporelle du nombre de phrases traduites.
  
   C'est donc tout naturellement que j'ai ouvert une demande publique
   pour demander une amélioration, qui se trouve `là sur support.transifex.com

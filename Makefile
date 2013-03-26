@@ -31,13 +31,25 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp
 
-total:	cleanALL all notify_archive sendAll notify
+total:	cleanALL all notify_archive sendAll notify warnings severes errors
 
-local:	cleanALL all notify
+local:	cleanALL all notify git warnings severes errors
 
 complete:	cleanALL all sendAll notify
 
 all:	html scripts
+
+warnings:
+	@echo "Searching for warnings ..."
+	@grep --color=always WARNING /tmp/sphinx.log || echo "No warning : very very good job :)"
+
+severes:
+	@echo "Searching for severes ..."
+	@grep --color=always SEVERE /tmp/sphinx.log || echo "No severe : very good job :)"
+
+errors:
+	@echo "Searching for errors ..."
+	@grep --color=always ERROR /tmp/sphinx.log || echo "No error : good job :)"
 
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
@@ -139,13 +151,6 @@ clean:	clean_pyc clean_build
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
-	@echo "Searching for warnings ..."
-	@grep --color=always WARNING /tmp/sphinx.log || echo "No warning : very very good job :)"
-	@echo "Searching for severes ..."
-	@grep --color=always SEVERE /tmp/sphinx.log || echo "No severe : very good job :)"
-	@echo "Searching for errors ..."
-	@grep --color=always ERROR /tmp/sphinx.log || echo "No error : good job :)"
-	@echo "Searching done..."
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/transifex.html; fi
 
