@@ -1,0 +1,175 @@
+##master-page:HomepageTemplate
+##master-date:2009-11-09 18:48:28
+#format wiki
+#language fr
+== (Wiki) Naereen ==
+
+||<tablestyle="text-align: center;"> {{http://perso.crans.org/besson/besson.png}} Adresse électronique : <<MailTo(n a e r e e n AT crans DOT org)>>. || <<TableOfContents>> ||
+
+ Officiellement, je suis Lilian Besson. Naereen, c'est pour les intimes :).
+ Mes pages perso sont disponibles sur l'espace du Cr@ns : http://perso.crans.org/besson/, avec un CV à jour, des liens vers mes projets, des infos sur mes travaux dans le cadre de l'ENS etc.
+
+=== Sphinx et rST ===
+ Mes nouvelles pages perso sont écrites en reStructuredText, un langage à balise très puissant, et j'utilise Sphinx pour générer les pages ''HTML''.
+
+ Je joue beaucoup avec Sphinx, alors si vous êtes curieux, allez faire un tour sur http://perso.crans.org/besson/#pages-de-demonstrations !
+
+----
+== Me trouver sur le campus ==
+ Je suis souvent en cours, au Cournot (troisième étage C305 / 309), ou en salle 411. Et depuis peu, à Sophie Germain (P7) pour les cours d'info.
+
+=== Téléphone ... maison ? ===
+
+ On peut aussi me joindre par téléphone au numéro (binaire) suivant : 100101011101001100111101100001_2.
+ Pour ceux qui préfèrent une belle décomposition : 11*179*439*727 !
+
+----
+== Séminaire(s) Cr@ns ==
+ J'ai fait un séminaire sur les outils de documentation de code, le mardi 19 février.
+ Les slides et les ressources sont disponibles en ligne : ici http://perso.crans.org/besson/publis/seminaire_crans/.
+
+----
+
+== Me trouver ailleurs sur le net ==
+
+=== Pages perso : 2 ===
+
+Voir ici aussi http://www.dptinfo.ens-cachan.fr/~lbesson/.
+ C'est de plus un miroir pour http://perso.crans.org/besson, que je vais sûrement laisser tomber d'ici quelques temps.
+ Et, ''non'', on ne nous force pas avoir une page perso au département d'informatique.
+
+=== Mon site GoogleSite ===
+
+J'héberge mes nouveaux projets de programmation et d' '''ordinateurique''' sur un site réalisé avec l'outil !GoogleSite http://sites.google.com/site/naereencorp/.
+ Je précise que je fais ça sur mon temps libre, un peu par plaisir, un peu par l'envie d'apprendre.
+ Ce site et les différents projets que je tente d'y publier est en construction quasi-constante.
+ Je développe, explore et expérimente beaucoup, et ce site est l'occasion de faire partager et de publier quelques résultats de ces explorations.
+ L'aspect global du site est plutôt fait pour m'amuser, mais son contenu a (je l'espère) un minimum d'intérêt, et reflète un certain travail.
+ Inutile donc de me faire remarquer ''qu'il ne fait pas pro'', ou alors ''qu'il est inutile'' : c'est normal.
+ Par contre, je suis ouvert pour discuter du contenu, et de tout ce dont je parle dans ce site.
+
+En particulier, je m'intéresse aux sujets suivants :
+ 1. ''Zenity'', ''notify-send'', et leur utilisations via ''Python'' ou ''OCaml'';
+ 2. ''Gedit'', l'éditeur de texte du bureau ''Gnome'' (rédaction de scripts pour le plugin ''External Tools'', rédaction de plug-ins, définition de langage pour la coloration syntaxique, profil de couleurs, astuces etc);
+ 3. Couleurs ANSI: les utiliser, en Bash, en Python et en OCaml;
+ 4. Gnu Nano, l'éditeur en ligne de commande du projet GNU.
+
+=== Ma page BitBucket ===
+
+Certains projets ''plus sérieux'' (ou plus complet ou plus intéressant) sont hébergés sur mon compte ''BitBucket'' ici : https://bitbucket.org/lbesson/.
+Notamment, ANSIColors et MPRI-Bomberman (décrits plus bas).
+J'aime beaucoup BitBucket, notamment pour la qualité de leur interface web.
+Je participe actuellement à sa traduction en français, voir plus d'info : http://perso.crans.org/besson/transifex.fr.html !
+
+=== Ma page Facebook ===
+
+Vous pouvez aussi me trouver sur Facebook : http://www.facebook.com/naereencorp.lbesson, ma page me sert aussi de blog où je poste de très régulier petits billets !
+ * Pour ceux qui aiment Facebook, ajoutez moi en ami !
+ * Pour ceux qui n'aiment pas Facebook, oups désolé d'en parler ici !
+
+----
+
+== Mes études ==
+Je suis normalien, inscrit au département de ''maths''.
+En 2011/2012, j'ai suivi le double cursus pour les deux licences de mathématiques et d'informatique.
+ Et je récidive en 2012/2013 pour les deux M1 !
+
+ Je serais en stage en 2013 pour les mois de Juin, Juillet et Août au Royaume-Unis à l'UCL (''University College London'') à Londres, sous la direction de Jules Villard et Peter O'Hearn. Je ferais vraisemblablement de la logique de séparation, appliquée à des problèmes de vérification issus du monde des Intelligences Artificielles.
+ Je suis d'ailleurs à la recherche d'un logement : si vous avez un plan miracle, contactez moi !!
+
+----
+
+== Mes occupations ==
+
+Quand je ne suis pas en train de bosser, en cours ou chez moi, et que je dors pas, je m'occupe comme je peux :
+ * un peu de jeux vidéos (Skyrim, Pokémon, Fire Emblem pour citer ceux explorés dans l'année passée),
+ * musique et humour (fan sempiternel du '''Donjon de Naheulbeuk''' !),
+ * programmation en OCaml, Python, et Bash (principalement),
+ * cuisine.
+
+=== Sujets informatiques ===
+
+Je suis particulièrement intéressé par les sujets informatiques suivants :
+ * coloration syntaxique. A propos, jetez un oeil ici : http://perso.crans.org/besson/NanoSyntax ou https://sites.google.com/site/naereencorp/tools/gtksourceview );
+ * simulation numérique (voir mon travail de stage de maths http://perso.crans.org/besson/publis/rapport_stage.pdf, ou mes TPs d'optimisation numérique (M1,Semestre1) et d'EDP (M1,Semestre2));
+ * automatisation et aide à la programmation (méta-programmation) (voir mes projets MOcaml ou makePyDoc (https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc) , ou mes scripts Gedit par exemple);
+ * applications en consoles (par exemple ZenityToDialog, ou OCamlPlot ou encore ColorML);
+ * maîtrise d'outils en lignes de consoles et enrobage dans des scripts Bash (voir mes scripts Nautilus, mon bashrc/bash_aliases, par exemple ici http://perso.crans.org/besson/publis/bin/ etc...).
+
+=== Services et réalisations ===
+
+Si vous avez besoin d'aide pour quelque chose qui concerne de pas trop loin un des sujets précédents, n'hésitez pas à me demander !
+
+Exemple de réalisation cette année :
+ * création d'un __daemon__ de notification pour mon mini pc sous '''Angström''', afin d'informer correctement de l'état de la batterie (https://sites.google.com/site/naereencorp/liste-des-projets/angstrom );
+ * création d'un script Bash pour automatiser la génération d'une documentation pour un projet Python (en utilisant PyDoc), et pour faciliter la maîtrise de Sphinx et Doxygen (générateurs de documentation). Enrobage avec d'autres scripts de ma conception dans le projet makePyDoc (ici : https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc );
+ * création d'un petit clone de __rlwrap__ en Python, pour mon mini pc sous Angstrom pour lequel je n'arrive pas à cross-compiler (si tu as déjà entendu parler de ça, écris moi :/) ici : (https://sites.google.com/site/naereencorp/liste-des-projets/pyrlwrap/),
+ * modification de fichiers définissant les syntaxes des langages que j'utilise (OCaml, Python, CUDA, Scala, reStructuredText, Octave) pour la coloration syntaxique : sous GNU Nano, gedit ou Gobby 0.5 avec GTK-SourceView, Jota Text Editor (sur Android);
+ * développement de plusieurs modules utilitaires en Python : notify, mail, ou Matrix par exemple.
+ * Amélioration des '''plugins''' permettant d'embarquer des terminaux dans ''Nautilus'' et ''Gedit'' (sous Ubuntu, respectivement explorateur de fichiers, et éditeur de textes). Voir là pour plus de détails : https://sites.google.com/site/naereencorp/gedit/.
+
+== ANSI Colors ==
+
+ ANSIColors permet d'utiliser les séquences d'échappements ANSI pour afficher du texte avec de la couleur dans un terminal !
+
+Exemple :
+      {{{#!highlight python
+# Pour simplement écrire coloré :
+from ANSIColors import printc
+printc("Voici du texte, écrit normalement.<red>ca c'est rouge !<reset><Black>et ça sur un fond noir !<reset><green><Blue>maintenant, c'est vert clair sur un fond bleu<reset>")
+
+# On peut aussi changer le titre du terminal !
+from ANSIColors import xtitle
+xtitle(".: Voici mon super titre :.")
+
+# On peut aussi écrire dans un fichier, ou un pseudo-fichier !
+from ANSIColors import writec
+import sys
+writec("<red> un soucis <question> <reset> voila c'est normal ici...", fn=sys.stderr)
+      }}}
+
+ En particulier, ''ANSIColors'' a pris un peu d'ampleur, et est désormais hébergé ici : (https://bitbucket.org/lbesson/ansi-colors) et est encore en développement.
+
+ Notamment, il fonctionne sur ''Mac OS X'', et sait détecter intelligemment si les couleurs sont supportés sur la sortie (''i.e.'' désactive les couleurs si utilisés via un pipe |, ou via un > pour écrire dans un fichier !).
+
+ Il est aussi disponible via PyPi : il peut s'installer via 'sudo pip install ANSIColors-balises' sur '''GNU/Linux'''.
+ Ou via l'interface web : https://pypi.python.org/pypi/ANSIColors-balises.
+
+ Sa documentation est aussi accessible ici : http://pythonhosted.org/ANSIColors-balises.
+ N'hésitez pas à l'installer, à le tester, et à me communiquer vos avis, questions, bugs ou demandes par email ou IRC, je serais ravi de pouvoir encore l'améliorer !
+
+== MPRI Bomberman ==
+ C'est un jeu de '''Bomberman''', multi-joueur, réalisé pour le cours 1-21 du MPRI (Master d'informatique).
+ Écrit en Python, mon implémentation est légère, multi-plateforme, rapide et performante.
+ Elle possède de plus une interface textuelle (encore en développement) et une interface graphique.
+
+ Le jeu est muni d'un protocole efficace, et ouvert (clairement spécifié dans un rapport disponible en ligne), ainsi que d'une sémantique propre.
+ Pour plus de détails, voir :
+  * http://perso.crans.org/besson/publis/Bomberman/ sur l'espace perso du Cr@ns. Donne des détails d'installation, en français;
+  * https://bitbucket.org/lbesson/mpri-bomberman/ (en anglais).
+ N'hésitez pas à l'installer, à le tester, et à me communiquer vos avis, questions, bugs ou demandes par email ou IRC, je serais ravi de savoir que des gens s'y sont intéressés....
+
+----
+
+== Gedit ==
+
+ Je suis un utilisateur intensif de gedit, l'éditeur de texte du projet GNOME.
+ Et comme je suis curieux, je le bidouille.
+ Voir notamment ces deux pages : https://sites.google.com/site/naereencorp/gedit et http://perso.crans.org/besson/publis/gedit.
+
+=== Gedit tools ===
+ Grâce au ''plugin'' gedit-external-tools, il est possible d'étendre gedit '''dynamiquement''' par des scripts, en Python ou en Bash par exemple,
+ la page http://perso.crans.org/besson/publis/gedit-tools ou le dépôt git https://bitbucket.org/lbesson/gedit-tools parlent de ça.
+
+=== Gedit coloration ===
+ J'aime jouer avec GTK SourceView, la bibliothèque de coloration et d'édition de code du projet GNU.
+ J'ai bien amélioré la coloration pour OCaml, Python, ou encore CUDA.
+ Et j'ai aussi créé le fichier [[https://sites.google.com/site/naereencorp/tools/gtksourceview/rst.lang |rst.lang]] pour colorer le ''reStructuredText'', langage à balise utilisé par Sphinx.
+
+----
+
+== Applications Android ==
+Voir la page que nous avons créé ([[VieCrans/ApplicationsAndroid]]) pour une liste (''presque exhaustive'') des '''meilleures applications utiles pour Android'''.
+
+----
+CatégoriePagePersonnelle CatégoriePagePublique
