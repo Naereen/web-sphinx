@@ -50,6 +50,7 @@ L'éditeur
    editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
+   editor.setFontSize(32);
    window.alert("~~~ ACE Text Editor is well initialized ~~~")
    </script>
 

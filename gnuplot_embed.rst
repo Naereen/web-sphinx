@@ -116,7 +116,7 @@ En 3D : une surface
 Une seconde surface
 -------------------
 .. gnuplot::
-   :title: "3D gnuplot demo - contour plot on base grid"
+   :title: 3D gnuplot demo - contour plot on base grid
 
    set view 60, 30, 0.85, 1.1
    set samples 20, 20
@@ -134,7 +134,7 @@ Un dernier exemple
 Inspiré de `ce script <http://gnuplot.sourceforge.net/demo/fillcrvs.6.gnu>`_.
 
 .. gnuplot::
-   :title: "Let's smile with parametric filled curves"
+   :title: Let's smile with parametric filled curves
 
    unset border
    set dummy t,y
