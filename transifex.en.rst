@@ -4,75 +4,79 @@
    :description lang=en: About the French translation of the web site bitbucket.org
 
 ##############################
- Traductions de BitBucket.org
+ Translation de BitBucket.org
 ##############################
 
-.. sidebar:: Autre langue : en anglais ?
+.. sidebar:: Other language : in French
 
-   Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   This page is in *english*.
+   Maybe you would like to see it in `french <transifex.fr.html>`_.
 
-Le mardi 26 mars, `bitbucket <https://bitbucket.org/>`_ annonçait
-un discret message informant du projet de traductions du site.
 
-Curieux, je suis allé jeter un oeil au logiciel utilisé.
+On Tuesday, March 26, `bitbucket <https://bitbucket.org/>`_ announced
+a discreet message advising of the proposed translations of the site.
 
-Traduction **EN** :math:`\rightarrow` **FR**
+Curious, I went take a look at the software.
+
+Translation **EN** :math:`\rightarrow` **FR**
 --------------------------------------------
 Transifex
 ^^^^^^^^^
- C'est ainsi que s'appelle l'a plateforme utilisée pour la traduction.
+ That's how the translation platform they used is called.
 
- Quelques instants plus tard, j'avais créé un compte, et je m'inscrivais
- donc pour ce projet de traduction (voir `profile/Naereen
- <https://www.transifex.com/accounts/profile/Naereen/>`_).
+ A few moments later, I had created an account,
+ and I therefore chair me for this translation project (see 
+ `profile/Naereen  <https://www.transifex.com/accounts/profile/Naereen/>`_).
 
- À peine le temps de me faire un café (il était 5h06 du matin ^^),
- que ma demande avait été validée, par l'administrateur `Justen Stepka
- <https://www.transifex.com/accounts/profile/jstepka/>`_.
+ Barely time to get a coffee (it was 5:06 in the morning ^^),
+ that my application had been validated by the administrator
+ `Justen Stepka <https://www.transifex.com/accounts/profile/jstepka/>`_.
 
-Avancement
-^^^^^^^^^^
+Progress
+^^^^^^^^
 
- La traduction en était a **11%** à ma connexion,
- avec le chiffre sobre de 1389 phrases ou termes à traduire.
+ The translation was advanced at **11%** when I logged in,
+ with the sober figure of 1389 phrases or words to translate.
 
-Interface de traduction
-^^^^^^^^^^^^^^^^^^^^^^^
-  Voici un apercu de l'interface :
+Translation interface
+^^^^^^^^^^^^^^^^^^^^^
+  Here is a preview of the interface:
 
 .. image:: .transifex.png
    :scale: 85%
    :align: center
-   :alt: Une capture d'écran de l'interface de Transifex.com (© et ® Transifex)
+   :alt: A screen capture to the interface of Transifex.com (© & ® Transifex)
    :target: https://www.transifex.com
 
 
-Difficultés rencontrées
-^^^^^^^^^^^^^^^^^^^^^^^
- La principale difficulité, c'est le fait de ne pas être seul à traduire.
+Difficulties encountered
+^^^^^^^^^^^^^^^^^^^^^^^^
+ The main difficulie is the fact of not being alone to translate.
 
- La plateforme `transifex <https://www.transifex.com>`_ propose en effet un
- édition multi-utilisateurs. Et heureusement !
+ `Transifex <https://www.transifex.com>`_ platform offers a multi-user edition.
 
- Ça accélère considérablement le travail.
+ And fortunately!
 
- Sauf quand l'autre traducteur s'est mis en tête d'utiliser des termes absurdes
- , comme *ticket* pour *issues*. Ou lorsqu'il décide de traduire *email* par
- *mail*, alors qu'en français on dit *courriel*.
+ It significantly accelerates the work.
 
- Sinon, traduire les termes techniques *push*, *pull*, *commit*, *tag*,
- *head*, *master*, *merge*, *fork* et autres se révèlent assez dur.
- Du coup, on a gardé *fork* en français, car ni lui (**oliv.rm**) ni moi
- n'avons trouvé de terme correct sur le coup.
+ Except when the other translator is using absurd terms,
+ as *ticket* for issues.
+ Or when he decided to translate email by mail,
+ ignoring that in French we say *courriel*.
 
-  **Toute idée est la bienvenue :) !**
+ Otherwise, to translate the terms technical *push*, *pull*, *commit*, *tag*,
+ *head*, *master*, *merge*, *fork*
+ and others prove to be relativly hard to translate.
 
-Résultat
---------
+ Suddenly, fork was kept as *fork* in French because neither he (**oliv.rm**)
+ or me have found a correct term instantly.
 
- Le diagramme suivant devrait montrer le résultat (en temps réel)
- de l'évolution des traductions de bitbucket :
+  **Any idea is welcomed :)!**
+
+Result
+------
+ The following embedded diagram should show the result (in real time)
+ of the evolution of translations for bitbucket.org website :
 
 .. raw:: html
 
@@ -83,29 +87,27 @@ Résultat
 
 ------------------------------------------------------------------------------
 
-Joli graphique non ?
+Nice graphic right ?
 
-La traduction française a atteint 100%, dans les 12h30,
-et est donc la première terminée.
+The French translation has reached 100%, within 12 h 30, 
+and is therefore the first completed.
 
-**Bravo à nous !**
+**Congrats to us !**
 
-Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
-
+A few revisions later, and to 1 pm it was really finished.
 ------------------------------------------------------------------------------
 
-Et après ?
+And after?
 ----------
- Cette petite aventure m'a permis de voir comment fonctionne
- un projet de traduction de sites webs ou de logiciels,
- et je pense que je vais chercher à **en faire plus régulièrement !**
+ This little adventure got me interested in translation projects,
+ and I think I'll look at make it **more regularly** !
 
-Me proposer une traduction
-^^^^^^^^^^^^^^^^^^^^^^^^^^
- Ainsi, si vous êtes intéressé par une traduction 
- (FR :math:`\rightarrow` EN ou 
+Offer me a to do a translation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ So, if you are interested in a translation
+ (FR :math:`\rightarrow` EN or
  EN :math:`\rightarrow`FR)
- de votre site, logiciel ou autre,
- n'hésitez pas à me `contacter <index.html>`_.
+ of your website, software or otherwise
+ do not hesitate to `contact me <index.html>`_.
 
-.. include:: .bottom.fr.rst
+.. include:: .bottom.en.rst

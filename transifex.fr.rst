@@ -3,14 +3,13 @@
    :description lang=fr: À propos de la traduction de bitbucket.org
    :description lang=en: About the French translation of the web site bitbucket.org
 
-##############################
- Traductions de BitBucket.org
-##############################
-
+#############################
+ Traduction de BitBucket.org
+#############################
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   Peut-être préférez-vous la consulter en `anglais <transifex.fr.html>`_.
 
 Le mardi 26 mars, `bitbucket <https://bitbucket.org/>`_ annonçait
 un discret message informant du projet de traductions du site.
@@ -24,12 +23,12 @@ Transifex
  C'est ainsi que s'appelle l'a plateforme utilisée pour la traduction.
 
  Quelques instants plus tard, j'avais créé un compte, et je m'inscrivais
- donc pour ce projet de traduction (voir `profile/Naereen
- <https://www.transifex.com/accounts/profile/Naereen/>`_).
+ donc pour ce projet de traduction (voir 
+ `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_).
 
  À peine le temps de me faire un café (il était 5h06 du matin ^^),
- que ma demande avait été validée, par l'administrateur `Justen Stepka
- <https://www.transifex.com/accounts/profile/jstepka/>`_.
+ que ma demande avait été validée, par l'administrateur 
+ `Justen Stepka <https://www.transifex.com/accounts/profile/jstepka/>`_.
 
 Avancement
 ^^^^^^^^^^
@@ -50,7 +49,7 @@ Interface de traduction
 
 Difficultés rencontrées
 ^^^^^^^^^^^^^^^^^^^^^^^
- La principale difficulité, c'est le fait de ne pas être seul à traduire.
+ La principale difficulté, c'est le fait de ne pas être seul à traduire.
 
  La plateforme `transifex <https://www.transifex.com>`_ propose en effet un
  édition multi-utilisateurs. Et heureusement !
@@ -70,7 +69,6 @@ Difficultés rencontrées
 
 Résultat
 --------
-
  Le diagramme suivant devrait montrer le résultat (en temps réel)
  de l'évolution des traductions de bitbucket :
 
@@ -100,8 +98,8 @@ Et après ?
  un projet de traduction de sites webs ou de logiciels,
  et je pense que je vais chercher à **en faire plus régulièrement !**
 
-Me proposer une traduction
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Me proposer de réaliser une traduction
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Ainsi, si vous êtes intéressé par une traduction 
  (FR :math:`\rightarrow` EN ou 
  EN :math:`\rightarrow`FR)
