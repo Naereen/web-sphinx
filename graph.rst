@@ -34,8 +34,8 @@ Exemples
 
    digraph Sphinx {
       "fichiers texte (.rst)" -> "pages web (.html)";
-      "fichiers texte (.rst)" -> "pages de manuel";
-      "fichiers texte (.rst)" -> "fichier LaTeX" -> "fichier PDF";
+      "fichiers texte (.rst)" -> "pages de manuel (.1)";
+      "fichiers texte (.rst)" -> "fichier LaTeX";
       "fichiers texte (.rst)" -> "pages web (.epub)";
    }
 
@@ -62,6 +62,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 
 .. graph:: latex
 
+   "fichier LaTeX" -- "fichier PDF"
    ".tex" -- ".pdf";
    "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.pdf";
 
@@ -70,6 +71,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 
 .. graph:: hevea
 
+   "fichier LaTeX" -- "page web (HTML)"
    ".tex" -- ".html";
    "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.hevea.html";
 
@@ -84,8 +86,9 @@ Dans les Hautes-Alpes, il y a notamment les villes suivantes :
 
    "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Briançon";
    "Mont-Dauphin" -- "Guillestre";
-   "L'Argentière" -- "Valouise" -- "Puis St-Vincent";
+   "L'Argentière" -- "Valouise" -- "Puit St-Vincent";
    "Briançon" -- "Montgenèvre";
+   "Embrun" -- "Les Orres";
 
 Un fichier externe
 ~~~~~~~~~~~~~~~~~~
