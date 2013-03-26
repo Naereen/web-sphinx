@@ -26,7 +26,6 @@ L'éditeur
    position: relative;
    height: 700px;
    width:  90%;
-   fontsize: 24pt;
    }
    </style>
    <noscript><span style="color:red" align="center">
@@ -44,13 +43,13 @@ L'éditeur
    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
+   editor.setFontSize(14);
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
    editor.setShowInvisibles(true);
    editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
-   editor.setFontSize(32);
    window.alert("~~~ ACE Text Editor is well initialized ~~~")
    </script>
 
