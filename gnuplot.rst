@@ -1,6 +1,7 @@
 #######################################
  Un **toplevel** ``GNU Plot`` embarqué
 #######################################
+.. include:: .special.rst
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des
 scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.

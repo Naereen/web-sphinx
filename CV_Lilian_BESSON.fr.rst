@@ -6,6 +6,7 @@
 #####################################
  **Curriculum Vitæ** : Lilian Besson
 #####################################
+.. include:: .special.rst
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.

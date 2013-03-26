@@ -1,11 +1,13 @@
 ###################################
  Des graphes DOT avec **GraphViz**
 ###################################
+.. include:: .special.rst
 
 Des graphes ?
 -------------
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
-écrits avec une balise ``.. graphviz::``, et censés être rendus avec ``GraphViz``.
+écrits avec une balise ``.. graphviz::``, et censés être rendus avec 
+`GraphViz <http://www.graphviz.org/>`_.
 
 Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
 de graphe (dirigé ou non). Ce langage est un standard dans le monde 

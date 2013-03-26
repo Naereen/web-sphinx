@@ -1,6 +1,7 @@
 ############################
  Liste des **trucs à voir**
 ############################
+.. include:: .special.rst
 
 ACE (éditeur de texte en JS)
 ----------------------------

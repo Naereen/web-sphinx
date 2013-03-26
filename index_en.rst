@@ -6,6 +6,7 @@
 ##############################################
  Welcome to the web page of **Lilian Besson**
 ##############################################
+.. include:: .special.rst
 .. warning::
    
    Those web pages **are still in construction** !

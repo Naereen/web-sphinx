@@ -1,6 +1,7 @@
 ##############################
  Un éditeur de texte intégré
 ##############################
+.. include:: .special.rst
 
 .. warning:: Cette page n'est pas terminée !
 

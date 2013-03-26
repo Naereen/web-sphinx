@@ -1,6 +1,7 @@
 ##################################
  Des graphiques avec **GNU Plot**
 ##################################
+.. include:: .special.rst
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphiques
 ou des graphes de fonctions
@@ -10,7 +11,7 @@ Voir aussi
 ----------
 J'ai aussi intégré un boucle *ripl* dans ma page `<gnuplot.html>`_,
 qui permet de voir (*en temps réel*) la sortie graphique évoluer
-dès que l'entrée du toplevel change.
+:maroon:`dès que l'entrée du toplevel change`.
 
 .. warning::
 

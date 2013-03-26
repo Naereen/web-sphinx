@@ -1,6 +1,7 @@
 ##########################################
  Liste de problèmes à régler (TODO liste)
 ##########################################
+.. include:: .special.rst
 
 À propos
 --------

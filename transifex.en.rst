@@ -6,6 +6,7 @@
 ##############################
  Translation of BitBucket.org
 ##############################
+.. include:: .special.rst
 
 .. sidebar:: Other language : in French
 

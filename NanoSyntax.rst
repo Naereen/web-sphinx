@@ -6,6 +6,7 @@
 #########################################
  Coloration syntaxique pour **GNU Nano**
 #########################################
+.. include:: .special.rst
 
  Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
 

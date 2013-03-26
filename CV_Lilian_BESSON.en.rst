@@ -6,6 +6,7 @@
 ############################
  **Résumé** : Lilian Besson
 ############################
+.. include:: .special.rst
 .. sidebar:: Other language : in French
 
    This page is in *english*.
