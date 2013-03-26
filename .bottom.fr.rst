@@ -1,17 +1,17 @@
 .. include:: .special.rst
+
 ---------------------------------------------------------------------
+
 .. note:: Sphinx et reStructuredText
 
-   Toutes remarques, questions, ou notifications de bugs peuvent être posées
-   via cette page
-   `web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
-
-   Si cela concerne un des scripts présents sur mes pages, veuillez utiliser
-   `web-sphinx-scripts/issues <https://bitbucket.org/lbesson/web-sphinx-scripts/issues>`_.
-
-   Des précisions sur les droits de copies, de propriétés intellectuelles,
-   sur les institutions et les marques citées sont disponibles
-   `sur cette page (en anglais) <trademarks.html>`_.
+   * Toutes remarques, questions, ou notifications de bugs peuvent être posées
+     via cette page
+     `web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   * Si cela concerne un des scripts présents sur mes pages, veuillez utiliser
+     `web-sphinx-scripts/issues <https://bitbucket.org/lbesson/web-sphinx-scripts/issues>`_.
+   * Des précisions sur les droits de copies, de propriétés intellectuelles,
+     sur les institutions et les marques citées sont disponibles
+     `sur cette page (en anglais) <trademarks.html>`_.
 
 .. warning:: Javacsript et Google Analytics ®
 
@@ -19,7 +19,6 @@
    dynamiquement **Google Analytics** à ces pages là.
 
    Pour désactiver ces outils, vous pouvez (au choix) désactiver Javascript
-   (sûrement via le menu de préférence de votre navigateur),
    ou alors utiliser `Ghostery <http://www.ghostery.com/>`_.
 
 .. (c) Lilian Besson, 2011-2013.
