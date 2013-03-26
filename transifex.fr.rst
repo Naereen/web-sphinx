@@ -68,7 +68,10 @@ Difficultés rencontrées
  Du coup, on a gardé *fork* en français, car ni lui (**oliv.rm**) ni moi
  n'avons trouvé de terme correct sur le coup.
 
-  **Toute idée est la bienvenue :) !**
+ .. note:: Actualisation
+
+    Quelqu'un a décidé d'utiliser le terme "*bifurcation*" pour désigner
+    un "fork", et "*bifurquer*" pour désigner le verbe "to fork".
 
 Résultat
 --------

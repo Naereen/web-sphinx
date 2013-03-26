@@ -73,7 +73,10 @@ Difficulties encountered
  Suddenly, fork was kept as *fork* in French because neither he (**oliv.rm**)
  or me have found a correct term instantly.
 
-  **Any idea is welcomed :)!**
+ .. note:: Update
+
+    Someone decided to use "*bifurcation*" to design a "fork",
+    and "*bifurquer*" to design the verb "to fork".
 
 Result
 ------
