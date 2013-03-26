@@ -107,4 +107,4 @@ Et aussi
 J'utilise aussi de plus en plus **GPG** pour *signer* ou *chiffrer* mes
 emails, abandonnant ainsi Hotmail pour la rédaction de mails.
 
-.. include:: .bottom.fr.rstv
+.. include:: .bottom.fr.rst

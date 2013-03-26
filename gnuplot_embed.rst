@@ -135,11 +135,11 @@ Espace d'expérimentation
 Pour les citations et les notes de bas de pages
 
 Footnote
-~~~~~~~~
+^^^^^^^^
 Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
 
 Citation
-~~~~~~~~
+^^^^^^^^
 Lorem ipsum [c1]_ dolor sit amet ... [c2]_
 
 ------------------------------------------------------------------------------
