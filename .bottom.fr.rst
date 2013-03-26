@@ -1,5 +1,3 @@
-.. include:: .special.rst
-
 .. ---------------------------------------------------------------------
 
 .. .. note:: Sphinx et reStructuredText

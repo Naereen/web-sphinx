@@ -1,10 +1,5 @@
-.. (c) 2012-2013 Lilian Besson
-.. (c) Naereen CORP.
+.. (c) 2012-2013 Lilian Besson - Naereen CORP.
 .. ...........................................................................
-.. Put here directives if you want to include them in all produced files.
-
-.. .. section-numbering::
-
 .. Color profiles for Sphinx.
 
 .. raw:: html
@@ -33,6 +28,7 @@
 
 .. .. raw:: latex
 ..  en.wikibooks.org/wiki/LaTeX/Colors
+..  TODO ?
 
 .. role:: black
 .. role:: gray
@@ -55,8 +51,4 @@
 .. role:: navy
 .. role:: purple
 
-.. role:: tiny
-.. role:: huge
 .. role:: u
-
-.. ...........................................................................
