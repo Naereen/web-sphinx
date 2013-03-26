@@ -1,6 +1,6 @@
-############################
-401/403 : Permission Refusée
-############################
+##################################
+ **401/403** : Permission Refusée
+##################################
 
 .. warning::
 
@@ -9,7 +9,9 @@
    Certains sous dossiers de mes pages persos ne sont pas ouverts au public.
 
    Si le problème persiste, et que vous pensez que la page en question *devrait* être en accès libre,
-   n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_).
+   n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_),
+   ou en via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
+   <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
 
 .. sidebar:: Retourner à l'accueil
 
