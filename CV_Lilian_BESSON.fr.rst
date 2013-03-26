@@ -1,11 +1,11 @@
 .. meta::
-   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, CV
+   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, CV, résumé, Curriculum
    :description lang=fr: CV de Lilian Besson
    :description lang=en: Lilian Besson personal résumé
 
-###############################
-Curriculum Vitæ : Lilian Besson
-###############################
+#####################################
+ **Curriculum Vitæ** : Lilian Besson
+#####################################
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.

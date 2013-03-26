@@ -3,9 +3,9 @@
    :description lang=en: Lilian Besson personal résumé
    :description lang=fr: CV de Lilian Besson
 
-######################
-Résumé : Lilian Besson
-######################
+############################
+ **Résumé** : Lilian Besson
+############################
 .. sidebar:: Other language : in French
 
    This page is in *english*.
