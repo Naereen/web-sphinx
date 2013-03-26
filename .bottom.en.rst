@@ -1,23 +1,16 @@
 .. include:: .special.rst
-
-.. .. topic:: Links
-      :class: hidden print
-
-      .. target-notes:: :class: hidden print
-
-.. .. contents:: Table of Contents
-      :depth: 1
-
 ---------------------------------------------------------------------
-
 .. note:: Sphinx and reStructuredTex
 
    Those web pages are generated with **Sphinx**, from
    ``reStructuredText`` source files.
+
    Feel free to ask any questions, or to report any bugs on this page
    `web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+
    If this is about one of the Javascript piece of code I used, please use
    `web-sphinx-scripts/issues <https://bitbucket.org/lbesson/web-sphinx-scripts/issues>`_.
+
    Precision about copyrights, quoted trademarks and institutions are available
    here `<trademarks.html>`_.
 
@@ -25,6 +18,7 @@
 
    I'm using ``Javascript``, and some Django *templating* to dynamically
    integrate **Google Analytics** on those pages.
+
    To disable those tools, you can disable Javascript
    (probably with the preferences menu of your browser);
    or use something like `Ghostery <http://www.ghostery.com>`_.
