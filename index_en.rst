@@ -49,5 +49,6 @@ Table of contents
    
    CV_Lilian_BESSON.en
    slides
+   transifex.en
 
 .. include:: .bottom.en.rst

@@ -243,7 +243,7 @@ Autres pages en rST
    ocaml
    gnuplot
    ace
-   transifex
+   transifex.fr
    Liste de problèmes à régler <todo>
    admin
 
