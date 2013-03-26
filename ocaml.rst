@@ -42,8 +42,6 @@ supporte pas Javascript.
 
    Voir pourquoi le focus de la page va en bas dès qu'on utilise le toplevel.
 
-.. todo:: Faire pareil pour un toplevel python ?
-
 .. todo:: Passer à OCaml 4.00.1 ?
 
 Hébergements
