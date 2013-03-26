@@ -59,10 +59,12 @@ Difficulties encountered
 
  It significantly accelerates the work.
 
- Except when the other translator is using absurd terms,
- as *ticket* for issues.
- Or when he decided to translate email by mail,
- ignoring that in French we say *courriel*.
+ Except when the other translator is using terms different than mine,
+ as *ticket* for issues, and I wanted to use *bug* or 
+ *signalement de bug*.
+
+ But the collaboration went well, and I think this highly increase
+ the translation's quality.
 
  Otherwise, to translate the terms technical *push*, *pull*, *commit*, *tag*,
  *head*, *master*, *merge*, *fork*

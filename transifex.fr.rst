@@ -56,9 +56,12 @@ Difficultés rencontrées
 
  Ça accélère considérablement le travail.
 
- Sauf quand l'autre traducteur s'est mis en tête d'utiliser des termes absurdes
- , comme *ticket* pour *issues*. Ou lorsqu'il décide de traduire *email* par
- *mail*, alors qu'en français on dit *courriel*.
+ Sauf quand l'autre traducteur commence à utiliser des termes différents des
+ miens, comme *ticket* pour *issues*, ou *email* pour *mail*, 
+ alors que je voulais utiliser *courriel*.
+
+ Mais à part ça, la collaboration s'est très bien passé, et je pense
+ qu'il s'agit d'un des aspects clés permettant une bonne traduction.
 
  Sinon, traduire les termes techniques *push*, *pull*, *commit*, *tag*,
  *head*, *master*, *merge*, *fork* et autres se révèlent assez dur.
