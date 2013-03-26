@@ -172,32 +172,32 @@ Pages de démonstrations
 -----------------------
 Extensions non officielles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'expérimente certains outils de **Sphinx**,
-ainsi que certaines extensions *non-officielles*,
-sur ces pages là :
+ J'expérimente certains outils de **Sphinx**,
+ ainsi que certaines extensions *non-officielles*,
+ sur ces pages là :
 
-  * `<math.html>`_, présente plusieurs façons d'écrire des maths en **rST**;
-  * `<graph.html>`_, présente une façon d'embarquer des graphes via le langage
-    **DOT Graph** (et les visualiser avec *GraphViz*);
-  * `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques
-    généré à partir de commande **GNU Plot**;
-  * `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
-    **shell** dans les pages web (avec un exemple en **OCaml** entre autres).
+   * `<math.html>`_, présente plusieurs façons d'écrire des maths en **rST**;
+   * `<graph.html>`_, présente une façon d'embarquer des graphes via le langage
+     **DOT Graph** (et les visualiser avec *GraphViz*);
+   * `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques
+     généré à partir de commande **GNU Plot**;
+   * `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
+     **shell** dans les pages web (avec un exemple en **OCaml** entre autres).
 
 Javascript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'expérimente depuis peu l'intégration de scripts **Javascript**
-dans des pages webs produites avec Sphinx (*comme celle-ci*) :
+ J'expérimente depuis peu l'intégration de scripts **Javascript**
+ dans des pages webs produites avec Sphinx (*comme celle-ci*) :
 
-  * `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
-    directement dans un navigateur web **:)** !
-  * `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-    directement dans un navigateur web **:)** !
-  * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
-    évaluation instantannée dès que la zone de texte est changée
-    (le projet initial est propriété de Christian Huettig ©).
-  * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
-    pour l'instant **ne supporte pas** l'enregistrement.
+   * `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
+     directement dans un navigateur web **:)** !
+   * `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
+     directement dans un navigateur web **:)** !
+   * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
+     évaluation instantannée dès que la zone de texte est changée
+     (le projet initial est propriété de Christian Huettig ©).
+   * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
+     pour l'instant **ne supporte pas** l'enregistrement.
 
 .. Démonstrations
    ^^^^^^^^^^^^^^
@@ -210,11 +210,16 @@ dans des pages webs produites avec Sphinx (*comme celle-ci*) :
 
 Slides
 ^^^^^^
-J'expérimente aussi un outil pour réaliser des slides en **rST** :
+ J'expérimente aussi un outil pour réaliser des slides en **rST** :
 
-  * `<slides.html>`_ (page intégrée au rendu via Sphinx);
-  * `<slides.simple.html>`_ (page sobre);
-  * `<slides.s5.html>`_ (slide, créé avec ``rst2s5``).
+   * `<slides.html>`_ (page intégrée au rendu via Sphinx);
+   * `<slides.simple.html>`_ (page sobre);
+   * `<slides.s5.html>`_ (slide, créé avec ``rst2s5``).
+
+Traductions
+^^^^^^^^^^^
+ La page `<transifex.html>`_ parle de traductions de logiciels
+ et de sites webs.
 
 --------------------------------------------------------------------
 
@@ -239,6 +244,7 @@ Autres pages en rST
    ocaml
    gnuplot
    ace
+   transifex
    admin
 
 .. include:: .bottom.fr.rst

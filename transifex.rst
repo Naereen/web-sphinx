@@ -7,29 +7,39 @@ un discret message informant du projet de traductions du site.
 
 Curieux, je suis allé jeter un oeil au logiciel utilisé.
 
+Traduction **EN** :math:`\rightarrow` **FR**
+--------------------------------------------
 Transifex
----------
-
+^^^^^^^^^
  C'est ainsi que s'appelle l'a plateforme utilisée pour la traduction.
 
  Quelques instants plus tard, j'avais créé un compte, et je m'inscrivais
- donc pour ce projet de traduction.
+ donc pour ce projet de traduction (voir `profile/Naereen
+ <https://www.transifex.com/accounts/profile/Naereen/>`_).
 
  À peine le temps de me faire un café (il était 5h06 du matin ^^),
- que ma demande avait été validée.
+ que ma demande avait été validée, par l'administrateur `Justen Stepka
+ <https://www.transifex.com/accounts/profile/jstepka/>`_.
 
-Traduction **EN** :math:`\rightarrow` **FR**
---------------------------------------------
+Avancement
+^^^^^^^^^^
 
  La traduction en était a **11%** à ma connexion,
  avec le chiffre sobre de 1389 phrases ou termes à traduire.
 
-.. todo:: inclure une vue de l'interface de traduction.
+Interface de traduction
+^^^^^^^^^^^^^^^^^^^^^^^
+  Voici un apercu de l'interface :
+
+.. image:: .transifex.png
+   :scale: 70%
+   :align: center
+ 
+.. todo:: vérifier la vue de l'interface de traduction.
 
 
 Difficultés rencontrées
------------------------
-
+^^^^^^^^^^^^^^^^^^^^^^^
  La principale difficulité, c'est le fait de ne pas être seul à traduire.
 
  La plateforme `transifex <https://www.transifex.com>`_ propose en effet un
@@ -48,11 +58,13 @@ Difficultés rencontrées
 
   **Toute idée est la bienvenue :) !**
 
+------------------------------------------------------------------------------
+
 Résultat
 --------
 
-Le diagramme suivant devrait montrer le résultat (en temps réel)
-de l'évolution des traductions de bitbucket :
+ Le diagramme suivant devrait montrer le résultat (en temps réel)
+ de l'évolution des traductions de bitbucket :
 
 .. raw:: html
 
@@ -61,9 +73,15 @@ de l'évolution des traductions de bitbucket :
      <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
 
 
+ La traduction française a atteint **100%**, dans les 12h30.
+
+ Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
+
+.. todo:: inclure une capture ?
+
+
 Et après ?
 ----------
-
  Cette petite aventure m'a intéressé dans les projets de traductions,
  et je pense que je vais chercher à **en faire plus régulièrement !**
 
