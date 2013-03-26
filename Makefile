@@ -140,11 +140,11 @@ clean:	clean_pyc clean_build
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
 	@echo "Searching for warnings ..."
-	@grep --color=auto WARNING /tmp/sphinx.log || echo "No warning : very very good job :)"
+	@grep --color=always WARNING /tmp/sphinx.log || echo "No warning : very very good job :)"
 	@echo "Searching for severes ..."
-	@grep --color=auto SEVERE /tmp/sphinx.log || echo "No severe : very good job :)"
+	@grep --color=always SEVERE /tmp/sphinx.log || echo "No severe : very good job :)"
 	@echo "Searching for errors ..."
-	@grep --color=auto ERROR /tmp/sphinx.log || echo "No error : good job :)"
+	@grep --color=always ERROR /tmp/sphinx.log || echo "No error : good job :)"
 	@echo "Searching done..."
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/transifex.html; fi
