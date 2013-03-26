@@ -1,9 +1,9 @@
-#################################################
-Exécuter du code lors de la génération de la page
-#################################################
+########################
+ Extension **runblock**
+########################
 
  Je teste ici la fonctionnalité "expérimentale" d'exécuter du code lors de la
- génération de la web, avec une balise ``.. runblock::``.
+ génération de la web, avec une directive ``.. runblock::``.
 
 Exemples
 --------
@@ -84,19 +84,15 @@ ocaml-stdin
     # let rec f = function 0 -> 1 | n -> n *( f (n-1)) in
     # print_int (f 11);;
 
+Voir aussi
+----------
+D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
+ * des maths, écrites en **LaTeX**, `<math.html>`_;
+ * des graphiques GNU Plot :ref:`gnuplot`;
+ * des graphis, écrits en **DOT Graph**, visualisés avec GraphViz, `<graph.html>`_;
+ * un toplevel **Python**, `<python.html>`_;
+ * un toplevel **GNU Plot**, `<ocaml.html>`_;
+ * un toplevel **OCaml**, `<ocaml.html>`_.
 
-octave
-^^^^^^
-:red:`Ne marche pas encore bien.`
-
-.. runblock:: octave
-    
-    >> printf('Matrice random, taille %ix%i, determinant = %f.\n', 100, 100, det(rand(100,100)))
-    >> d = det(rand(100,100))
-    >> fprintf('%f\n\n', d)
-
-.. todo::
-
-   Je ne sais pas ce qui empêche cet exemple de marcher, mais je cherche.
 
 .. include:: .bottom.fr.rst

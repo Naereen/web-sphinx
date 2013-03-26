@@ -70,12 +70,12 @@ supporte pas Javascript.
 .. todo:: Conclure !
 
 .. todo::
-   Embarquer le script “ace.js” localement. Utilise Amazon Cloud, 
+   Embarquer le script "ace.js" localement. Utilise Amazon Cloud, 
    pour le moment, et ça ne me va pas.
 
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
 
-.. todo:: Trouver un moyen d'utiliser cet “éditeur” pour les toplevel OCaml et GNU Plot.
+.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml et GNU Plot.
 
 Copyrights
 ----------

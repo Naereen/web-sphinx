@@ -169,6 +169,8 @@ supporte pas Javascript.
    Faire pareil avec Octave, voir `weboctave.mimuw.edu.pl 
    <http://weboctave.mimuw.edu.pl/weboctave/web/index.php>`_.
 
+.. todo:: Voir pour diminuer la taille de l'input, et changer le nom "foo" en "input".
+
 Hébergements
 ------------
 
