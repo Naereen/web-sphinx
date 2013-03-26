@@ -87,27 +87,25 @@ Result
 
 ------------------------------------------------------------------------------
 
-Nice graphic right ?
+  **Nice graphic right ?**
+  The French translation has reached 100%, within 12 h 30, 
+  and is therefore the first completed.
 
-The French translation has reached 100%, within 12 h 30, 
-and is therefore the first completed.
-
-**Congrats to us !**
-
-A few revisions later, and to 1 pm it was really finished.
+  **Congrats to us !**
+  A few revisions later, and to 1 pm it was really finished.
 ------------------------------------------------------------------------------
 
 And after?
 ----------
- This little adventure got me interested in translation projects,
- and I think I'll look at make it **more regularly** !
+  This little adventure got me interested in translation projects,
+  and I think I'll look at make it **more regularly** !
 
 Offer me a to do a translation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- So, if you are interested in a translation
- (FR :math:`\rightarrow` EN or
- EN :math:`\rightarrow` FR)
- of your website, software or otherwise
- do not hesitate to `contact me <index.html>`_.
+  So, if you are interested in a translation
+  (FR :math:`\rightarrow` EN or
+  EN :math:`\rightarrow` FR)
+  of your website, software or otherwise
+  do not hesitate to `contact me <index.html>`_.
 
 .. include:: .bottom.en.rst

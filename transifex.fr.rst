@@ -81,29 +81,27 @@ Résultat
 
 ------------------------------------------------------------------------------
 
-Joli graphique non ?
-
-La traduction française a atteint 100%, dans les 12h30,
+  **Joli graphique non ?**
+  La traduction française a atteint 100%, dans les 12h30,
 et est donc la première terminée.
 
-**Bravo à nous !**
-
-Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
+  **Bravo à nous !**
+  Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
 
 ------------------------------------------------------------------------------
 
 Et après ?
 ----------
- Cette petite aventure m'a permis de voir comment fonctionne
- un projet de traduction de sites webs ou de logiciels,
- et je pense que je vais chercher à **en faire plus régulièrement !**
+  Cette petite aventure m'a permis de voir comment fonctionne
+  un projet de traduction de sites webs ou de logiciels,
+  et je pense que je vais chercher à **en faire plus régulièrement !**
 
 Me proposer de réaliser une traduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Ainsi, si vous êtes intéressé par une traduction 
- (FR :math:`\rightarrow` EN ou 
- EN :math:`\rightarrow` FR)
- de votre site, logiciel ou autre,
- n'hésitez pas à me `contacter <index.html>`_.
+  Ainsi, si vous êtes intéressé par une traduction 
+  (FR :math:`\rightarrow` EN ou 
+  EN :math:`\rightarrow` FR)
+  de votre site, logiciel ou autre,
+  n'hésitez pas à me `contacter <index.html>`_.
 
 .. include:: .bottom.fr.rst
