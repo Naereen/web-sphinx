@@ -50,7 +50,7 @@ Autres informations à propos de moi
 Langues parlées
 ---------------
 * :Français: **langue maternelle**;
-* :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en Avril 2012, avec la note :900/990:;
+* :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en Avril 2012, avec la note *900/990*;
 * :Espagnol: **débutant**, écrit et parlé, commun uniquement;
 
 Langages de programmation

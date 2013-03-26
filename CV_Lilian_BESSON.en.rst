@@ -51,7 +51,7 @@ Extra informations about me
 Spoken Languages
 ----------------
 * :French: **native**;
-* :English: **fluent**, speaking and writing, usual and scientific. **TOEIC** got in April 2012, with the mark :900/990:;
+* :English: **fluent**, speaking and writing, usual and scientific. **TOEIC** got in April 2012, with the mark *900/990*;
 * :Spanish: **beginner**, speaking and writing, usual only;
 
 Programming Languages
