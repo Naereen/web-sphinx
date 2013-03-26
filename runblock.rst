@@ -88,7 +88,7 @@ Voir aussi
 ----------
 D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
  * des maths, écrites en **LaTeX**, `<math.html>`_;
- * des graphiques GNU Plot :ref:`gnuplot`;
+ * des graphiques GNU Plot `<gnuplot.html>`_;
  * des graphis, écrits en **DOT Graph**, visualisés avec GraphViz, `<graph.html>`_;
  * un toplevel **Python**, `<python.html>`_;
  * un toplevel **GNU Plot**, `<ocaml.html>`_;

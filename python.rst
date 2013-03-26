@@ -56,13 +56,6 @@ Le toplevel
 
 ------------------------------------------------------------------------------
 
-.. image:: .python-powered.png
-   :scale: 100 %
-   :align: center
-   :alt: Python powered :)
-   :target: index.html
-
-
 À propos
 --------
 Comme dans `.special.rst <_sources/.special.txt>`_,
@@ -90,5 +83,11 @@ et viens du projet Empythoned (voir cette page
 pour plus de détails.
 
 Ce projet est distribué sous la licence **MIT**.
+
+.. image:: .python-powered.png
+   :scale: 100 %
+   :align: center
+   :alt: Python powered :)
+   :target: index.html
 
 .. include:: .bottom.fr.rst
