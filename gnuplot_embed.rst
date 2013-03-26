@@ -123,11 +123,6 @@ très facilement, grâce aux extensions 'non-officielles' de Sphinx
    Comprendre pourquoi la sortie **PNG** n'accepte pas plusieurs graphiques
    sur une même image. En attendant, je remet en **SVG**.
 
-.. todo::
-
-   Expliquer pourquoi j'ai pris comme exemple la sigmoide, l'arctangente,
-   et la fonction *signe* (*cf* cours d'Apprentissage).
-
 ------------------------------------------------------------------------------
 
 Espace d'expérimentation
@@ -149,7 +144,7 @@ A la fin de la page :
 .. rubric:: Footnotes
 
 .. [#f1] Texte de la première note de bas de page.
-.. [#f2] Texte de la seconde note de bas de page..
+.. [#f2] Texte de la seconde note de bas de page ?
 
 .. rubric:: Citations
 
