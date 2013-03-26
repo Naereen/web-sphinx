@@ -4,7 +4,7 @@
    :description lang=en: About the French translation of the web site bitbucket.org
 
 ##############################
- Translation de BitBucket.org
+ Translation of BitBucket.org
 ##############################
 
 .. sidebar:: Other language : in French
@@ -83,7 +83,7 @@ Result
    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
    <script type="text/javascript" src="https://www.transifex.com/projects/p/bitbucketorg/resource/bitbucket-django/chart/inc_js/"></script>
    <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
-   <h4>Graphique importé grâce à l'API de Transifex, © et ® Transifex</h4>
+   <h4>Embedded chart thanks to Transifex's API, © & ® of Transifex</h4>
 
 ------------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ Offer me a to do a translation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  So, if you are interested in a translation
  (FR :math:`\rightarrow` EN or
- EN :math:`\rightarrow`FR)
+ EN :math:`\rightarrow` FR)
  of your website, software or otherwise
  do not hesitate to `contact me <index.html>`_.
 

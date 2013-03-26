@@ -76,7 +76,7 @@ Résultat
 
    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
    <script type="text/javascript" src="https://www.transifex.com/projects/p/bitbucketorg/resource/bitbucket-django/chart/inc_js/"></script>
-   <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
+   <div id="txchart-bitbucketorg-bitbucket-django">Chargement du graphique</div>
    <h4>Graphique importé grâce à l'API de Transifex, © et ® Transifex</h4>
 
 ------------------------------------------------------------------------------
@@ -102,7 +102,7 @@ Me proposer de réaliser une traduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Ainsi, si vous êtes intéressé par une traduction 
  (FR :math:`\rightarrow` EN ou 
- EN :math:`\rightarrow`FR)
+ EN :math:`\rightarrow` FR)
  de votre site, logiciel ou autre,
  n'hésitez pas à me `contacter <index.html>`_.
 
