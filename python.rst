@@ -1,6 +1,6 @@
-#################################
- Un toplevel ``Python`` embarqué
-#################################
+#####################################
+ Un **toplevel** ``Python`` embarqué
+#####################################
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des
 scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
