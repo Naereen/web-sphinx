@@ -1,6 +1,6 @@
-###########################
-Liste de problèmes à régler
-###########################
+##########################################
+ Liste de problèmes à régler (TODO liste)
+##########################################
 
 À propos
 --------
@@ -16,8 +16,13 @@ De tels soucis peuvent être déclarés via : ::
 
 ------------------------------------------------------------------------------
 
+Toujours grâce à cette extension, il suffit d'utiliser la directive
+``.. todolist::`` pour afficher la liste des différents **TODO**
+écrits dans d'autres pages.
+
 La liste
 --------
+
 .. todolist::
 
 .. include:: .bottom.fr.rst

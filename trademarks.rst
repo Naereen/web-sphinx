@@ -3,9 +3,9 @@
    :description lang=en: Precision on quoted trademarks on this web site
    :description lang=fr: Quelques précisions sur les marques commerciales citées sur ce cite
 
-#####################################
-Precision about the quoted trademarks
-#####################################
+###########################################
+ Precision about the quoted **trademarks**
+###########################################
 
 This page is written to clarify some *'legal'* points.
 
@@ -19,13 +19,6 @@ About
 
     This page is still in contruction !
     And my english is not yet perfect, so sorry in advance for my bad english !
-
-
-.. image:: .python-powered.png
-   :scale: 100 %
-   :align: center
-   :alt: Python powered :)
-   :target: index.html
 
 ------------------------------------------------------------------------------
 
@@ -154,6 +147,12 @@ In particular,
 
 ------------------------------------------------------------------------------
 
+.. image:: .python-powered.png
+   :scale: 100 %
+   :align: center
+   :alt: Python powered :)
+   :target: index.html
+
 Used softwares
 --------------
 I usually try to quote and to say what software I used to produce the different available files
@@ -209,6 +208,7 @@ So, I used the following software :
  * Arandr and ArandrAuto to handle multi screens on Ubuntu,
  * HeVeA, as a powerfull LaTeX to HTML convertion tool,
  * js_of_ocaml, and toplevel.js, as a OCaml toplevel written in Javascript,
+ * emscripten, to embed GNU Plot and Python,
  * and many others...
 
 .. include:: .bottom.en.rst
