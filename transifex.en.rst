@@ -7,6 +7,11 @@
  Traductions de BitBucket.org
 ##############################
 
+.. sidebar:: Autre langue : en anglais ?
+
+   Cette page est en *français*.
+   Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+
 Le mardi 26 mars, `bitbucket <https://bitbucket.org/>`_ annonçait
 un discret message informant du projet de traductions du site.
 
@@ -91,12 +96,15 @@ Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
 
 Et après ?
 ----------
- Cette petite aventure m'a intéressé dans les projets de traductions,
+ Cette petite aventure m'a permis de voir comment fonctionne
+ un projet de traduction de sites webs ou de logiciels,
  et je pense que je vais chercher à **en faire plus régulièrement !**
 
 Me proposer une traduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Ainsi, si vous êtes intéressé par une traduction (FR->EN ou EN->FR)
+ Ainsi, si vous êtes intéressé par une traduction 
+ (FR :math:`\rightarrow` EN ou 
+ EN :math:`\rightarrow`FR)
  de votre site, logiciel ou autre,
  n'hésitez pas à me `contacter <index.html>`_.
 
