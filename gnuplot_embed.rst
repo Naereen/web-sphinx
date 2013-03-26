@@ -42,7 +42,7 @@ directive ``.. gnuplot::`` :
 
 .. gnuplot::
    :title: Cosinus
-   :size: 100,100
+   :size: 300,300
 
    set grid    
    plot cos(x*x+1.3)
@@ -51,14 +51,26 @@ Plusieurs graphiques sur une même fenêtre
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
 
-.. error:: Changement de GNU Plot 4.4 à 4.6.2
+.. note:: À propos de la sigmoïde
+
+   Cette fonction est très utilisé dans le cours de *Machine Learning*,
+   que j'ai suivis au S2 de mon M1 d'info,
+   en tant que **fonction de transfert pour les réseaux neuronaux**.
+
+   Je présente donc quelques graphes de cette fonction,
+   ainsi que d'autres alternatives avec l'``arctangente``
+   ou la fonction ``signe``.
+
+.. warning:: Changement de GNU Plot 4.4 à 4.6.2
 
    J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
    et ça brise la commande ``replot``.
    
    Avant, on pouvait mettre plusieurs graphiques sur une même fenêtre, 
    avec la commande ``replot``, qui gère les couleurs pour pouvoir
-   différencier les différents graphiques :
+   différencier les différents graphiques.
+
+Désormais, j'utilise ``plot f1(x),f2(x)``.
 
 .. gnuplot::
    :title: Sigmoide(s)
@@ -81,7 +93,8 @@ On peut aussi faire des graphes, et en faire des colonnes :
 +--------------------------+----------------------------+----------------------------+
 
 Mais des fois, c'est plus commode de mettre trois graphes 
-dans un seul (sans ``replot``, mais avec ``plot f1(x),f2(x)``) :
+dans un seul (plus comme ``plot f1(x)`` puis
+``replot f2(x)``, mais avec ``plot f1(x),f2(x)``) :
 
 .. gnuplot::
    :title: Arctangente, Sigmoide et Signe

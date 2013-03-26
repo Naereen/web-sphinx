@@ -239,12 +239,12 @@ Autres pages en rST
    graph
    gnuplot_embed
    runblock
-   Liste de problèmes à régler <todo>
    python
    ocaml
    gnuplot
    ace
    transifex
+   Liste de problèmes à régler <todo>
    admin
 
 .. include:: .bottom.fr.rst
