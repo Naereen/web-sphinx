@@ -56,6 +56,13 @@ Le toplevel
 
 ------------------------------------------------------------------------------
 
+.. image:: .python-powered.png
+   :scale: 100 %
+   :align: center
+   :alt: Python powered :)
+   :target: index.html
+
+
 À propos
 --------
 Comme dans `.special.rst <_sources/.special.txt>`_,
