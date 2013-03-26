@@ -65,9 +65,9 @@ Exemples
  On peut aussi aller chercher un fichier externe.
  Voici par exemple un graphe de dépendances (pour mon prjoet réseau)
  généré via ``pyreverse``, et inclus via ``.. graphviz:: graph1.dot``
- (le fichier est `<graph1.dot>`_).
+ (le fichier est `<.graph.dot>`_).
 
-.. graphviz:: graph1.dot
+.. graphviz:: .graph.dot
 
 ------------------------------------------------------------------------------
 
