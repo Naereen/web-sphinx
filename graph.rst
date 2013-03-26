@@ -46,6 +46,7 @@ Cette directive sert à décrire des graphes **dirigés**.
 de réaliser la transformation suivante :
 
 .. digraph:: autodoc
+   :title: autodoc
 
    ".py" -> ".rst" -> ".html";
 
@@ -53,17 +54,37 @@ de réaliser la transformation suivante :
 ~~~~~~~~~~~~~~~
 Cette directive sert à décrire des graphes **non-dirigés**.
 
-**pdflatex** permet de réaliser la transformation suivante :
+**LaTeX**
+^^^^^^^^^
+**pdflatex** permet de réaliser la transformation suivante
+(avec comme exemple mon CV écrit en **LaTeX**) :
 
 .. graph:: latex
 
    ".tex" -- ".pdf";
+   "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.pdf";
+
+**HeVeA** permet de réaliser la transformation suivante
+(avec comme exemple mon CV écrit en **LaTeX**) :
+
+.. graph:: hevea
+
+   ".tex" -- ".html";
+   "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.hevea.html";
+
+Les Hautes-Alpes
+^^^^^^^^^^^^^^^^
+Je suis né et j'ai vécu dans les *Hautes-Alpes* jusqu'à mes **16 ans**,
+avant de partir étudier au Lycée Thiers de Marseille.
 
 Dans les Hautes-Alpes, il y a notamment les villes suivantes :
 
 .. graph:: alpes
 
    "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Briançon";
+   "Mont-Dauphin" -- "Guillestre";
+   "L'Argentière" -- "Valouise" -- "Puis St-Vincent";
+   "Briançon" -- "Montgenèvre";
 
 Un fichier externe
 ~~~~~~~~~~~~~~~~~~
@@ -75,27 +96,18 @@ généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
 .. graphviz:: .graph.dot
 
 ------------------------------------------------------------------------------
-
+Extension ``sphinx.ext.todolist``
+---------------------------------
 Cette page permet aussi de tester la fonctionnalité ajouté par l'extension
 *non-officielle* ``sphinx.ext.todolist``.
 Cette extension ajoute une directive ``.. todo::`` qui permet de déclarer
 un **TODO**, *i.e.* une chose à régler.
 
-.. todo::
-   
-   Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
-
+.. todo:: Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
 
 Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
-``.. totolist::``, comme par exemple dans la page `todo <todo.html>`_.
+``.. totolist::``, comme dans la page `todo <todo.html>`_.
 
-.. todo::
-   
-   Comprendre pourquoi les **.svg** sont bien rendus sur ``perso.crans.org``
-   mais pas sur ``www.dptinfo.ens-cachan.fr``.
-
-.. todo::
-   
-   Trouver un butineur Android qui affiche bien les **SVG**.
+.. todo:: Trouver un butineur Android qui affiche bien les **SVG**.
 
 .. include:: .bottom.fr.rst
