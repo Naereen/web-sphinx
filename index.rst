@@ -154,8 +154,8 @@ Une autre version de la documentation est aussi générée automatiquement avec 
 et de scripts de ma conception, et elle est aussi consultable 
 `ici publis/Bomberman/ <publis/Bomberman/>`_.
 
-Infos sur ma clé PGP
-^^^^^^^^^^^^^^^^^^^^
+Infos sur ma **clé PGP**
+^^^^^^^^^^^^^^^^^^^^^^^^
 Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
 l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
 cette page ci `<pgp.html>`_ peut être utile.
