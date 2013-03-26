@@ -166,10 +166,12 @@ Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
 de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
 fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment).
 
+------------------------------------------------------------------------------
+
 Pages de démonstrations
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 Extensions non officielles
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'expérimente certains outils de **Sphinx**,
 ainsi que certaines extensions *non-officielles*,
 sur ces pages là :
@@ -183,7 +185,7 @@ sur ces pages là :
     **shell** dans les pages web (avec un exemple en **OCaml** entre autres).
 
 Javascript et outils embarqués
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'expérimente depuis peu l'intégration de scripts **Javascript**
 dans des pages webs produites avec Sphinx (*comme celle-ci*) :
 
@@ -198,7 +200,7 @@ dans des pages webs produites avec Sphinx (*comme celle-ci*) :
     pour l'instant **ne supporte pas** l'enregistrement.
 
 .. Démonstrations
-   ~~~~~~~~~~~~~~
+   ^^^^^^^^^^^^^^
    J'embarque aussi des pages d'exemples et des tutoriels sur la syntaxe du
    langage **rST** (avant tout pour tester la coloration du **rST** via 
    **GNU Nano** ou **gedit**, toujours en amélioration) :
@@ -207,7 +209,7 @@ dans des pages webs produites avec Sphinx (*comme celle-ci*) :
      * `<rest_syntax.html>`_.
 
 Slides
-~~~~~~
+^^^^^^
 J'expérimente aussi un outil pour réaliser des slides en **rST** :
 
   * `<slides.html>`_ (page intégrée au rendu via Sphinx);
