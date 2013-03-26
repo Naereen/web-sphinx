@@ -114,8 +114,10 @@ En 3D : une surface
    splot x**4 + y**4, abs(x)+abs(y)
 
 Une seconde surface
+-------------------
 .. gnuplot::
    :title: "3D gnuplot demo - contour plot on base grid"
+
    set view 60, 30, 0.85, 1.1
    set samples 20, 20
    set isosamples 21, 21
@@ -133,6 +135,7 @@ Inspiré de `ce script <http://gnuplot.sourceforge.net/demo/fillcrvs.6.gnu>`_.
 
 .. gnuplot::
    :title: "Let's smile with parametric filled curves"
+
    unset border
    set dummy t,y
    set grid nopolar
