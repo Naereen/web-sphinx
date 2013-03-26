@@ -3,9 +3,9 @@
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson personal web page
 
-######################################################
-Bienvenue sur la page web personnelle de Lilian Besson
-######################################################
+############################################################
+ Bienvenue sur la page web personnelle de **Lilian Besson**
+############################################################
 A propos de moi
 ---------------
 .. sidebar:: Autre langue : en anglais ?

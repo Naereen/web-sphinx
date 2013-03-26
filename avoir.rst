@@ -1,6 +1,6 @@
-#########################
- Liste des trucs a voir
-#########################
+############################
+ Liste des **trucs à voir**
+############################
 
 ACE (éditeur de texte en JS)
 ----------------------------
@@ -14,7 +14,5 @@ Uglify
 ------
 Voir peut-être `<http://marijnhaverbeke.nl/uglifyjs>`_.
 Pour raccourcir la taille des scripts JS embarqués ?
-
-
 
 .. include:: .bottom.fr.rst

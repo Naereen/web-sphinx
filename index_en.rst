@@ -3,9 +3,9 @@
    :description lang=en: Lilian Besson personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-###################################
-Welcome to Lilian Besson on the web
-###################################
+##############################################
+ Welcome to the web page of **Lilian Besson**
+##############################################
 .. warning::
    
    Those web pages **are still in construction** !
