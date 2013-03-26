@@ -9,7 +9,7 @@
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <transifex.fr.html>`_.
+   Peut-être préférez-vous la consulter en `anglais <transifex.en.html>`_.
 
 Le mardi 26 mars, `bitbucket <https://bitbucket.org/>`_ annonçait
 un discret message informant du projet de traductions du site.
@@ -81,9 +81,8 @@ Résultat
 
 ------------------------------------------------------------------------------
 
-  **Joli graphique non ?**
-  La traduction française a atteint 100%, dans les 12h30,
-et est donc la première terminée.
+  **Joli graphique non ?** La traduction française a atteint 100%,
+  dans les 12h30, et fut donc la première terminée.
 
   **Bravo à nous !**
   Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
