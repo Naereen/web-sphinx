@@ -1,3 +1,8 @@
+.. meta::
+   :keywords: Lilian Besson, Transifex, Bitbucket, Traduction, Translation
+   :description lang=fr: À propos de la traduction de bitbucket.org
+   :description lang=en: About the French translation of the web site bitbucket.org
+
 ##############################
  Traductions de BitBucket.org
 ##############################
@@ -34,8 +39,8 @@ Interface de traduction
 .. image:: .transifex.png
    :scale: 70%
    :align: center
- 
-.. todo:: vérifier la vue de l'interface de traduction.
+   :alt: Une capture d'écran de l'interface de Transifex.com (© et ® Transifex)
+   :target: https://www.transifex.com
 
 
 Difficultés rencontrées
@@ -58,8 +63,6 @@ Difficultés rencontrées
 
   **Toute idée est la bienvenue :) !**
 
-------------------------------------------------------------------------------
-
 Résultat
 --------
 
@@ -73,12 +76,16 @@ Résultat
      <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
 
 
- La traduction française a atteint **100%**, dans les 12h30.
+ Joli graphique non ?
+
+ La traduction française a atteint **100**%, dans les 12h30,
+ et est donc la première terminée.
+
+ **Bravo à nous !**
 
  Quelques révisions plus tard, et vers 13h c'était vraiment terminé.
 
-.. todo:: inclure une capture ?
-
+------------------------------------------------------------------------------
 
 Et après ?
 ----------
