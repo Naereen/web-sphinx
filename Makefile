@@ -147,7 +147,7 @@ html:
 	@grep --color=auto ERROR /tmp/sphinx.log || echo "No error : good job :)"
 	@echo "Searching done..."
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
-	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -s $(BUILDDIR)/html/transifex.fr.html $(BUILDDIR)/html/transifex.html ; fi
+	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -s transifex.fr.html $(BUILDDIR)/transifex.html; fi
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
