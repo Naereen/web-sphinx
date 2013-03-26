@@ -84,10 +84,12 @@ pour plus de détails.
 
 Ce projet est distribué sous la licence **MIT**.
 
+------------------------------------------------------------------------------
+
 .. image:: .python-powered.png
-   :scale: 100 %
+   :scale: 200 %
    :align: center
    :alt: Python powered :)
-   :target: index.html
+   :target: http://python.org
 
 .. include:: .bottom.fr.rst
