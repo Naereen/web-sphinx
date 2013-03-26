@@ -1,15 +1,15 @@
-#############################
-Des graphes DOT avec GraphViz
-#############################
+###################################
+ Des graphes DOT avec **GraphViz**
+###################################
 
 Des graphes ?
 -------------
- Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
- écrits avec une balise ``.. graphviz::``, et censés être rendus avec ``GraphViz``.
+Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
+écrits avec une balise ``.. graphviz::``, et censés être rendus avec ``GraphViz``.
 
- Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
- de graphe (dirigé ou non). Ce langage est un standard dans le monde 
- informatique : ingénieurs, chercheurs, enseignants, tous l'utilisent !
+Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
+de graphe (dirigé ou non). Ce langage est un standard dans le monde 
+informatique : ingénieurs, chercheurs, enseignants, tous l'utilisent !
 
 .. warning::
 
@@ -32,40 +32,45 @@ Exemples
 
    digraph Sphinx {
       "fichiers texte (.rst)" -> "pages web (.html)";
+      "fichiers texte (.rst)" -> "pages de manuel";
+      "fichiers texte (.rst)" -> "fichier LaTeX" -> "fichier PDF";
+      "fichiers texte (.rst)" -> "pages web (.epub)";
    }
 
 
 ``.. digraph::``:
 ~~~~~~~~~~~~~~~~~
-**Sphinx autodoc** permet de réaliser la transformation suivante :
+Cette directive sert à décrire des graphes **dirigés**.
+
+**Sphinx autodoc** et mon script ``pytorst.py`` permettent 
+de réaliser la transformation suivante :
 
 .. digraph:: autodoc
 
    ".py" -> ".rst" -> ".html";
 
-
 ``.. graph::``:
 ~~~~~~~~~~~~~~~
+Cette directive sert à décrire des graphes **non-dirigés**.
+
 **pdflatex** permet de réaliser la transformation suivante :
 
 .. graph:: latex
 
    ".tex" -- ".pdf";
 
+Dans les Hautes-Alpes, il y a notamment les villes suivantes :
 
-**HeVeA** permet de réaliser la transformation suivante :
+.. graph:: alpes
 
-.. graph:: hevea
+   "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Briançon";
 
-   ".tex" -- ".html" -- ".htoc";
-
-
-``.. graphviz::``
-~~~~~~~~~~~~~~~~~
- On peut aussi aller chercher un fichier externe.
- Voici par exemple un graphe de dépendances (pour mon prjoet réseau)
- généré via ``pyreverse``, et inclus via ``.. graphviz:: graph1.dot``
- (le fichier est `<.graph.dot>`_).
+Un fichier externe
+~~~~~~~~~~~~~~~~~~
+On peut aussi aller chercher un *fichier externe*.
+Voici par exemple un graphe de dépendances (pour mon projet réseau)
+généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
+(le fichier est **.graph.dot**).
 
 .. graphviz:: .graph.dot
 

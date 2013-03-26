@@ -1,10 +1,10 @@
-################
-Écrire des maths
-################
+###############################
+ Écrire des *maths* en **rST**
+###############################
 
 Des maths ?
 -----------
- Je teste ici la fonctionnalité "expérimentale" d'embarquer des formules de maths
+ Je teste ici la possibilité d'embarquer des formules de maths
  écrites avec une balise ``.. math::``, et censées être rendues avec **MathJax**.
 
  **MathJax** ? Allez voir `la page officielle <http://www.mathjax.org/>`_
@@ -58,6 +58,15 @@ J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
 (on rappelle que :math:`\int_{0}^{2} x .dx = \frac{3}{2}`).
 
 ------------------------------------------------------------------------------
+
+Voir aussi
+----------
+D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
+ * des graphiques GNU Plot :ref:`gnuplot`;
+ * des graphis, écrits en **DOT Graph**, visualisés avec GraphViz, `<graph.html>`_;
+ * un toplevel **Python**, `<python.html>`_;
+ * un toplevel **GNU Plot**, `<ocaml.html>`_;
+ * un toplevel **OCaml**, `<ocaml.html>`_.
 
 Autres **expérimentations** : des couleurs ?
 --------------------------------------------

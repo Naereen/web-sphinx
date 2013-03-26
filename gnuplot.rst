@@ -1,6 +1,6 @@
-###################################
- Un toplevel ``GNU Plot`` embarqué
-###################################
+#######################################
+ Un **toplevel** ``GNU Plot`` embarqué
+#######################################
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des
 scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
@@ -164,6 +164,11 @@ supporte pas Javascript.
 
 .. todo:: Comprendre pourquoi le buffer d'input ne s'actualise pas bien (?).
 
+.. todo:: 
+
+   Faire pareil avec Octave, voir `weboctave.mimuw.edu.pl 
+   <http://weboctave.mimuw.edu.pl/weboctave/web/index.php>`_.
+
 Hébergements
 ------------
 
@@ -193,6 +198,7 @@ de détails.
 Emscripten
 ~~~~~~~~~~
 Le compilateur utilisé par Christian Huettig est
-``Emscripten``, voir `<https://github.com/kripken/emscripten>`_ pour plus de détails.
+``Emscripten``, voir `<https://github.com/kripken/emscripten>`_
+pour plus de détails.
 
 .. include:: .bottom.fr.rst
