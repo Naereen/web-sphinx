@@ -4,51 +4,41 @@
 {{ super() }}
   <!-- Dublin Core Metadata -->
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"></link>
-	  <meta name="DC.Title"		content="Lilian Besson on the web"></meta>
-	  <meta name="DC.Language"	content="fr"></meta>
-	  <meta name="DC.Creator"	content="Lilian Besson"></meta>
-	  <meta name="DC.Subject"	content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan; GNU Nano; Ubuntu; gedit; GNUPlot; GraphViz; GPG; LaTeX; rST; Octave"></meta>
-	  <meta name="DC.Date"		content="2013-03-26"></meta>
+    <meta name="DC.Title" content="Lilian Besson on the web"></meta>
+    <meta name="DC.Language" content="fr"></meta>
+    <meta name="DC.Creator" content="Lilian Besson"></meta>
+    <meta name="DC.Subject" content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan; GNU Nano; Ubuntu; gedit; GNUPlot; GraphViz; GPG; LaTeX; rST; Octave"></meta>
+    <meta name="DC.Date" content="2013-03-26"></meta>
   <!-- End of Dublin Core Metadata -->
-<link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss"/>
+  <!-- RSS workflow (from bitbucket.org) -->
+    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss"/>
   <!-- Colors -->
-.black {color:black}
-.gray {color:gray}
-.silver {color:silver}
-.white {color:white}
-.maroon {color:maroon} </style>
-     <style type="text/css"> 
-.red {color:red} </style>
-     <style type="text/css"> 
-.magenta {color:magenta} </style>
-     <style type="text/css"> 
-.fuchsia {color:fuchsia} </style>
-     <style type="text/css"> 
-.pink {color:pink} </style>
-     <style type="text/css"> 
-.orange {color:orange} </style>
-     <style type="text/css"> 
-.yellow {color:yellow} </style>
-     <style type="text/css"> 
-.lime {color:lime} </style>
-     <style type="text/css"> 
-.green {color:green} </style>
-     <style type="text/css"> 
-.olive {color:olive} </style>
-     <style type="text/css"> 
-.teal {color:teal} </style>
-     <style type="text/css"> 
-.cyan {color:cyan} </style>
-     <style type="text/css"> 
-.aqua {color:aqua} </style>
-     <style type="text/css"> 
-.blue {color:blue} </style>
-     <style type="text/css"> 
-.navy {color:navy} </style>
-     <style type="text/css"> 
-.purple {color:purple} </style>
-     <style type="text/css"> 
-.u {text-decoration: underline} 
+  <style type="text/rss">
+    .black {color:black}
+    .gray {color:gray}
+    .silver {color:silver}
+    .white {color:white}
+    .maroon {color:maroon}
+    .red {color:red}
+    .magenta {color:magenta}
+    .fuchsia {color:fuchsia}
+    .pink {color:pink}
+    .orange {color:orange}
+    .yellow {color:yellow}
+    .lime {color:lime}
+    .green {color:green}
+    .olive {color:olive}
+    .teal {color:teal}
+    .cyan {color:cyan}
+    .aqua {color:aqua}
+    .blue {color:blue}
+    .navy {color:navy}
+    .purple {color:purple}
+
+    .u {text-decoration: underline} 
+    .o {text-decoration: overline} 
+    .blink {text-decoration: blink} 
+    .line-through {text-decoration: line-through} 
 </style>
 <script type="text/javascript">
 /*****************************************************************************
@@ -97,6 +87,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 <script type="text/javascript" src='_static/shortcuts.js'></script>
 <!-- Thanks to http://www.openjs.com/scripts/events/keyboard_shortcuts/ -->
 <script type="text/javascript">
@@ -133,8 +124,8 @@ window.alert("This shortcut is still in construction !");
 
 {% block footer %}
 {{ super() }}
-<!-- TODO: find a way to change the following paragraphs with the language of the page -->
 <!-- TODO: find a way to find the language of the page -->
+<!-- TODO: find a way to change the following paragraphs with the language of the page -->
 <!-- <div class="footer">This page uses <a href="http://analytics.google.com/">
 Google Analytics</a> to collect statistics. You can disable it by blocking
 the JavaScript coming from www.google-analytics.com, or by using something
