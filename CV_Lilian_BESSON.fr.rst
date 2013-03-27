@@ -36,7 +36,7 @@ Candidature
 
 Autres informations à propos de moi
 ------------------------------------
-* :Date de Naissance: 12 Janvier 1993. Age : **20 ans**.
+* :Date de Naissance: 12 Janvier 1993. Âge : 20 ans.
 * :Statut actuel: Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en seconde année. Étudiant en **mathématiques** et **informatique**.
 * :Pages sur le web:
 
@@ -56,7 +56,7 @@ Langues parlées
 
 Langages de programmation
 -------------------------
-* :Niveau basique: **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Caml Light**;
+* :Niveau basique: **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 * :Niveau intermédiaire: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
 * :Niveau avancé: **Python** (2.7) (*script et orienté objet*), *Texas Instrument*-BASICs (*langage embarqué pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (3.12) (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
 
@@ -64,7 +64,7 @@ Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 ------------------------------------------------------------------------
 * :Systèmes d'exploitation: **Microsoft Windows**, Mac OS X, Android (2.2), **GNU/Linux** (notamment les distributions *Ångström*, *Ubuntu (11.10)*, *Debian* & *OpenWRT*);
 * :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
-* :Éditeurs de texte: **gEdit** (Ubuntu, Windows), Jota Text Editor (Android), **GNU Nano** (Linux);
+* :Éditeurs de texte: Expert avec **gEdit** & **GNU Nano** (Ubuntu, Windows), Jota Text Editor (Android);
 * :Générateurs de documentation: **OCamlDoc** pour OCaml, **PyDOC** & **Sphinx** pour Python;
 * :Administration réseau avec GNU/Linux: expérience avec le logiciel et le matériel réseau.
 
@@ -78,18 +78,23 @@ Divers
  - volontaire pour apprendre et développer de nouvelles compétences;
  - passionné de nouvelles technologies;
 * :Expérience internationale: Nombreux voyages (*en indépendant*) en Espagne, Allemagne, Suède, Italie, Royaumes-Unis, États-Unis, Irelande, Canada, Suisse **depuis 2004**;
+* :Autres expériences:
+ - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
+ - Joueur semi-profession à *Magic The Gathering*, durant 5 ans (**2004-2009**).
+   Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
+   Premier joueur départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
 * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
 * :Sports: escalade, trek, VTT, natation.
 
 ---------------------------------------------------------------------
 
-####################
-Formation académique
-####################
+######################
+ Formation académique
+######################
 
 Actuellement (**2012-2013**) : Première année de Master (M1)
 ------------------------------------------------------------
- * M1 de **Mathématiques** (*Depuis Sept. 2012*)
+ * M1 de **Mathématiques** (*Depuis Sept. 2012*) (déjà validé)
   * :Université(s): ÉNS de Cachan & Université Paris Diderot (Paris VII);
   * :Domaine(s): Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs.
  
@@ -129,8 +134,8 @@ Stage et rapport de stage de L3
     Simulation intéractive en 2D, avec :openGL:.
  * :Publication:
     Sur ma page personnelle, le `rapport de stage <publis/rapport_stage.pdf>`_.
-    Aussi publié dans le **journal IPOL** 
-    (`Image Processing on Line <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
+    Aussi publié dans le **journal IPOL** (`Image Processing on Line
+    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     Août 2012.
 
 **2010-2011** : Seconde année de Licence & *Classe Préparatoire*

@@ -57,7 +57,7 @@ Spoken Languages
 
 Programming Languages
 ----------------------
-* :Basic: **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Caml Light**;
+* :Basic: **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 * :Intermediate: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
 * :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (3.12) (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
 
@@ -65,7 +65,7 @@ Computer skills
 ---------------
 * :Operating Systems: **Microsoft Windows**, Mac OS X, **Android** (2.2), **GNU/Linux** (with *Ångström*, *Ubuntu (11.10)*, *Debian* and *OpenWRT*);
 * :Text processing: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
-* :Text editors: **gEdit** (Linux, Windows), Jota Text Editor (Android), **GNU Nano** (Linux);
+* :Text editors: Expert with **gEdit** & **GNU Nano** (Linux, Windows), Jota Text Editor (Android);
 * :Documentation generators: **OCamlDoc** for OCaml, **PyDOC** & **Sphinx** for Python;
 * :Net administration on Linux: experience with net hardware and software, and net monitoring with **GNU/Linux**.
 
@@ -78,19 +78,24 @@ Miscellaneous
  - eager to learn and develop new skills;
  - passionate of new technologies;
 * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland **since 2004**;
+* :Other experience:
+ - Theater and clown lessons, during 6 years (**2003-2009**);
+ - Semi-professional player of *Magic The Gathering*, during 5 years (**2004-2009**).
+   Many national tournaments, a few internations competition (Sweden, Spain, Italy).
+   Department champion for 3 years (in *Briançon*, Hautes-Alpes, 05100, France).
 * :Entertainment: painting, role playing game, theater, video games, cinema, programmation, fantasy litterature and poetry;
 * :Sports: climbing, trek, mountain bike, swimming.
 
 
 ---------------------------------------------------------------------
 
-##################
-Academic Education
-##################
+####################
+ Academic Education
+####################
 
 Currently (**2012-2013**): First-year MSc (*Master*)
 ----------------------------------------------------
- * **Mathematics** MSc (*Since Sept. 2012*)
+ * **Mathematics** MSc (*Since Sept. 2012*) (well validated)
   * :University(ies): ÉNS de Cachan & Paris Diderot University (Paris VII);
   * :Domain(s): Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation.
  
