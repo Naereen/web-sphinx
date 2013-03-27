@@ -16,8 +16,8 @@ S'abonner au flux
  * ou sur cette image :
 
 .. image:: .rss.gif
-   :scale: 100%
-   :align: left
+   :scale: 120%
+   :align: right
    :alt: Flux RSS (bitbucket.org/lbesson/web-sphinx/rss)
    :target: https://bitbucket.org/lbesson/web-sphinx/rss
 
@@ -28,17 +28,27 @@ Le flux
 .. raw:: html
 
    <script language="javascript" type="text/javascript" src="http://www.cap-sizun.com/rss-js.php?flux=https%3A%2F%2Fbitbucket.org%2Flbesson%2Fweb-sphinx%2Frss&nb_items=10&desc=1&nb_car=350&photos=0" charset="ISO-8859-1"></script>
-   <noscript><a href="https://bitbucket.org/lbesson/web-sphinx" title="Sur BitBucket !">Mon dépôt git</a></noscript>
+   <noscript>
+   <a href="https://bitbucket.org/lbesson/web-sphinx" title="Sur BitBucket !">Mon dépôt git</a>
+   </noscript>
 
 Second essai
 ------------
 
 .. raw:: html
+
    <script language="javascript" src="http://www.generateit.net/rss-javascript/feed2js.php?src=http%3A%2F%2Fbitbucket.org%2Flbesson%2Fweb-sphinx%2Frss&amp;chan=y&amp;num=10&amp;date=y&amp;tz=+1&amp;targ=y&amp;utf=y&amp;pc=y&amp;html=a" type="text/javascript"></script>
 
    <noscript>
    <a href="http://www.generateit.net/rss-javascript/feed2js.php?src=http%3A%2F%2Fbitbucket.org%2Flbesson%2Fweb-sphinx%2Frss&amp;chan=y&amp;num=10&amp;date=y&amp;tz=+1&amp;targ=y&amp;utf=y&amp;pc=y&amp;html=y">View RSS feed</a>
    </noscript>
+
+Encore un autre essai
+---------------------
+
+.. raw:: html
+
+   <script language='javascript' src='http://www.rss2java.com/feed.php?number=0&date=1&desc=2&html=2&new=1&url=http%3A%2F%2Fbitbucket.org%2Flbesson%2Fweb-sphinx%2Frss'></script><noscript><a href='http://www.rss2java.com/' target=_blank>RSS2JAVA</a></noscript>
 
 À propos
 --------
