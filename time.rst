@@ -51,7 +51,14 @@ L'horloge
    .val2 {background: #2B5573}
    .val3 {background: #006400}
    </style>
+   <script src="_static/horloge.js"></script>
 
+   <div id="trs">
+    <div><FONT color="green"><B>Temps = Heure : Minute : Seconde</B></FONT></div>
+    <div><i>Heure = <div id="hour"><div class="val val0"></div><div class="val val2"></div><div class="val val0"></div><div class="val val2"></div></div></i></div>
+    <div><i>Minute = <div id="minute"><div class="val val1"></div><div class="val val1"></div><div class="val val2"></div><div class="val val0"></div></div></i></div>
+    <div><i>Seconde = <div id="second"><div class="val val1"></div><div class="val val0"></div><div class="val val0"></div><div class="val val0"></div></div></i></div>
+   </div>
 
 ------------------------------------------------------------------------------
 
