@@ -14,12 +14,18 @@
 L'horloge
 ---------
 
+  Cette horloge est un peu particulière : elle est en base 3 !
+
+   * un boule :grey:`blanche` est **0**;
+   * un boule :orange:`orange` est **1**;
+   * un boule :blue:`bleue` est **2**.
+
+
 .. raw:: html
 
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
-   <script src="_static/jquery.js"></script>
    <style type="text/css">
    .content {
      text-align: center;
@@ -52,8 +58,7 @@ L'horloge
    .val3 {background: #006400}
    </style>
    <script src="_static/horloge.js"></script>
-
-   <div id="trs">
+   <div id="trs" align="center">
     <div><FONT color="green"><B>Temps = Heure : Minute : Seconde</B></FONT></div>
     <div><i>Heure = <div id="hour"><div class="val val0"></div><div class="val val2"></div><div class="val val0"></div><div class="val val2"></div></div></i></div>
     <div><i>Minute = <div id="minute"><div class="val val1"></div><div class="val val1"></div><div class="val val2"></div><div class="val val0"></div></div></i></div>

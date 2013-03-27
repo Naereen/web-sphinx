@@ -199,15 +199,6 @@ Javascript et outils embarqués
    * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
      pour l'instant **ne supporte pas** l'enregistrement.
 
-.. Démonstrations
-   ^^^^^^^^^^^^^^
-   J'embarque aussi des pages d'exemples et des tutoriels sur la syntaxe du
-   langage **rST** (avant tout pour tester la coloration du **rST** via 
-   **GNU Nano** ou **gedit**, toujours en amélioration) :
-   
-     * `<demo.html>`_;
-     * `<rest_syntax.html>`_.
-
 Slides
 ^^^^^^
  J'expérimente aussi un outil pour réaliser des slides en **rST** :
@@ -258,6 +249,7 @@ Autres pages en rST
    rss
    transifex.fr
    Liste de problèmes à régler <todo>
+   time
    admin
 
 .. include:: .bottom.fr.rst
