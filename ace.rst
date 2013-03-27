@@ -21,8 +21,9 @@ L'éditeur
    <style type="text/css" media="screen">
    #editor {
     position: relative;
-    height: 600px;
-    width:  100%;
+    font-size: 34pt;
+    height: 700px;
+    width: 100%;
    }
    </style>
    <noscript><span style="color:red" align="center">
@@ -46,7 +47,6 @@ L'éditeur
    editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
-   editor.setFontSize(18);
    window.alert("~~~ L'éditeur de texte ACE semble être bien initialisé ~~~")
    </script>
 
