@@ -27,4 +27,11 @@
 .. role:: blink
 .. role:: line
 
+.. role:: it
+.. role:: ob
+
+.. role:: center
+.. role:: left
+.. role:: right
+
 .. (c) Lilian Besson, 2011-2013
