@@ -17,7 +17,7 @@ L'horloge
   Cette horloge est un peu particulière : elle est en base 3 !
 
    * un boule blanche est **0**;
-   * un boule :orange:`orange` est **1**;
+   * un boule :green:`verte` est **1**;
    * un boule :blue:`bleue` est **2**.
 
 
