@@ -15,6 +15,7 @@ S'abonner au flux
    :alt: Flux RSS (bitbucket.org/lbesson/web-sphinx/rss)
    :target: https://bitbucket.org/lbesson/web-sphinx/rss
 
+Il y a deux solutions :
 
  * `en cliquant sur ce texte <https://bitbucket.org/lbesson/web-sphinx/rss>`_;
  * ou sur cette image :
