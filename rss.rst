@@ -10,14 +10,14 @@ Sphinx.
 S'abonner au flux
 -----------------
 .. image:: .rss.png
-   :scale: 120%
+   :scale: 140%
    :align: right
    :alt: Flux RSS (bitbucket.org/lbesson/web-sphinx/rss)
-   :target: https://bitbucket.org/lbesson/web-sphinx/rss
+   :target: http://bitbucket.org/lbesson/web-sphinx/rss
 
 Il y a deux solutions :
 
- * `en cliquant sur ce texte <https://bitbucket.org/lbesson/web-sphinx/rss>`_;
+ * `en cliquant sur ce texte <http://bitbucket.org/lbesson/web-sphinx/rss>`_;
  * ou sur cette image :
 
 Le flux
@@ -34,7 +34,7 @@ Le flux
 
 À propos
 --------
-
-.. todo:: Remplir cette section. Et ajouter la page qq part !
+ Pour le moment, j'utilise un *web-service* de **generateit.net**.
+ Je cherche une solution pour le faire indépendemment d'un autre site.
 
 .. include:: .bottom.fr.rst
