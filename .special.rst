@@ -23,5 +23,8 @@
 .. role:: purple
 
 .. role:: u
+.. role:: o
+.. role:: blink
+.. role:: line
 
 .. (c) Lilian Besson, 2011-2013
