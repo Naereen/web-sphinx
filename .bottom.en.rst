@@ -1,4 +1,7 @@
+.. (c) Lilian Besson, 2011-2013
  
+.. todo:: Find a way to change the ``footer`` to embed the following paragraphs.
+
 ---------------------------------------------------------------------
 
 .. note:: Sphinx and reStructuredTex
