@@ -4,8 +4,6 @@
 
 .. raw:: html
 
-     <link rel="alternate" type="application/rss+xml" title="Suivre les modifications" href="https://bitbucket.org/lbesson/web-sphinx/rss"/>
-
      <style> .black {color:black} </style>
      <style> .gray {color:gray} </style>
      <style> .silver {color:silver} </style>
