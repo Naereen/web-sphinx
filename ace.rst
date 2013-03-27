@@ -37,17 +37,17 @@ L'éditeur
    import sys
    from random import *
    foo(sys.stderr)</div>
-   <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
-   editor.setFontSize(14);
+   editor.setFontSize(18);
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
    editor.setShowInvisibles(true);
    editor.setPrintMarginColumn(79);
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
+   editor.setFontSize(18);
    window.alert("~~~ ACE Text Editor is well initialized ~~~")
    </script>
 
@@ -75,7 +75,8 @@ supporte pas Javascript.
 
 Copyrights
 ----------
-**ACE** est © et ® AjaxOrg. Voir la page officielle du projet, 
-`ajaxorg.github.com/ace <http://ajaxorg.github.com/ace/#nav=about>`_.
+ **ACE** est © et ® d'AjaxOrg.
+ Voir la page officielle du projet, `ajaxorg.github.com/ace
+ <http://ajaxorg.github.com/ace/#nav=about>`_.
 
 .. include:: .bottom.fr.rst

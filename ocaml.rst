@@ -20,7 +20,9 @@ Le toplevel
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
+   <div align=center>
    <div id="toplevel" align=left></div>
+   </div>
    <script>window.alert("~~~ OCaml toplevel is well initialized ~~~")</script>
 
 .. image:: .ocaml-powered.png
