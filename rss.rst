@@ -16,10 +16,10 @@ S'abonner au flux
  * ou sur cette image :
 
 .. image:: .rss.gif
-   :size: 100%
+   :scale: 100%
    :align: left
    :alt: Flux RSS (bitbucket.org/lbesson/web-sphinx/rss)
-   :target: https://bitbucket.org/lbesson/web-sphinx/rss)
+   :target: https://bitbucket.org/lbesson/web-sphinx/rss
 
 
 Le flux
