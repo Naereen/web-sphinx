@@ -60,7 +60,7 @@ Hébergements
 ------------
 
 Les scripts **Javascript** utilisés sur mes pages sont désormais
-hébergé sur ce dépot git : `lbesson/web-sphinx-scripts 
+hébergés sur ce dépot git : `lbesson/web-sphinx-scripts 
 <https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
 
 Copyrights
