@@ -12,7 +12,7 @@
    This page is in *english*.
    Maybe you would like to see it in `french <CV_Lilian_BESSON.fr.html>`_.
    I'm trying to keep those two files absolutly equivalent.
-   A **PDF** version is also available `CV_Lilian_BESSON.en.pdf <CV_Lilian_BESSON.en.pdf>`_
+   A **PDF** version is also available `CV_Lilian_BESSON.pdf <CV_Lilian_BESSON.pdf>`_
 
 
 Contact address

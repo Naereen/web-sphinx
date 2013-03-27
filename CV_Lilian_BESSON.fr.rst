@@ -12,7 +12,7 @@
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <CV_Lilian_BESSON.en.html>`_ 
    (le contenu est équivalent).
-   Une version en **PDF** est disponible `CV_Lilian_BESSON.fr.pdf <CV_Lilian_BESSON.fr.pdf>`_.
+   Une version en **PDF** est disponible `CV_Lilian_BESSON.pdf <CV_Lilian_BESSON.pdf>`_.
 
 Adresse de contact
 ------------------
