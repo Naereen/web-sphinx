@@ -3,14 +3,11 @@
 ####################################
 .. include:: .special.rst
 
-Je teste ici la fonctionnalité "expérimentale" d'embarquer des
-scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
-
 .. warning::
 
-   À priori, cette superbe page devrait 
+   À priori, cette page et son terminal embarqué devraient
    **fonctionner sur n'importe quel navigateur**,
-   pour peu :green:`qu'il supporte Javascript` !
+   pour peu :yellow:`qu'il supporte Javascript` !
 
 ------------------------------------------------------------------------------
 
@@ -24,11 +21,7 @@ Le toplevel
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
    <div id="toplevel" align=left></div>
-   <script>window.alert("~~~ OCaml toplevel is well initialized ~~~");</script>
-
-
-.. OCaml Powered :)
-.. ^^^^^^^^^^^^^^^^
+   <script>window.alert("~~~ OCaml toplevel is well initialized ~~~")</script>
 
 .. image:: .ocaml-powered.png
    :scale: 130 %
@@ -58,10 +51,9 @@ supporte pas Javascript.
 
 Hébergements
 ------------
-
 Les scripts **Javascript** utilisés sur mes pages sont désormais
-hébergés sur ce dépot git : `lbesson/web-sphinx-scripts 
-<https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
@@ -70,7 +62,6 @@ Copyrights
  ii) **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
      Pour plus d'infos, voir `ocsigen.org/js_of_ocaml 
      <http://www.ocsigen.org/js_of_ocaml/>`_.
-
 
 Remerciements
 -------------
@@ -81,7 +72,5 @@ Remerciements
  iii) Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
       La page de référence pour ces morceaux de code est 
       `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
-
-------------------------------------------------------------------------------
 
 .. include:: .bottom.fr.rst

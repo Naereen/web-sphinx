@@ -5,10 +5,7 @@
 
 .. warning:: Cette page n'est pas terminée !
 
-Je teste ici la fonctionnalité "expérimentale" d'embarquer des
-scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
-
-.. warning::
+.. important::
 
    À priori, cette superbe page devrait 
    **fonctionner sur n'importe quel navigateur**,

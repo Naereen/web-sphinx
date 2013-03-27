@@ -3,12 +3,9 @@
 #####################################
 .. include:: .special.rst
 
-Je teste ici la fonctionnalité "expérimentale" d'embarquer des
-scripts (en **Javascript**) dans des pages webs générées avec **Sphinx**.
+.. important::
 
-.. warning::
-
-   À priori, cette superbe page devrait 
+   À priori, cette page et son terminal embarqué devraient
    **fonctionner sur n'importe quel navigateur**,
    pour peu :green:`qu'il supporte Javascript` !
 
@@ -64,7 +61,7 @@ Le toplevel
 .. ^^^^^^^^^^^^^^^^^
 
 .. image:: .python-powered.png
-   :scale: 200 %
+   :scale: 120 %
    :align: center
    :alt: Python powered :)
    :target: http://python.org
@@ -87,8 +84,8 @@ Hébergements
 ------------
 
 Les scripts **Javascript** utilisés sur mes pages sont désormais
-hébergés sur ce dépot git : `lbesson/web-sphinx-scripts 
-<https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
@@ -98,7 +95,5 @@ et vient du projet Empythoned (voir cette page
 pour plus de détails.
 
 Ce projet est distribué sous la licence **MIT**.
-
-------------------------------------------------------------------------------
 
 .. include:: .bottom.fr.rst
