@@ -91,7 +91,7 @@ clean_build:
 	rm -rf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
 	rm -rf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
 
-scripts:
+scripts: clean_pyc
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
 	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
