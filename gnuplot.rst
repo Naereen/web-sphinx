@@ -31,7 +31,7 @@ sur :u:`votre propre machine.`
 
 .. raw:: html
 
-    <style>
+    <style type="text/css">
      .emscripten { padding-right: 0; margin-left: auto; font-size: 11px; margin-right: auto; display: block; }
      canvas.emscripten { border: 1px solid black; }
      textarea.emscripten { font-family: monospace; width: 80%; font-size: 14pt; }
@@ -45,8 +45,8 @@ Graphe et entrée texte
 ~~~~~~~~~~~~~~~~~~~~~~
 +--------------------------------------+-------------------------------------+
 | À gauche, le graphique, au format    | À droite, une entrée texte,         |
-| **SVG**. Pour le moment, un seul à   | comme **GNU Plot** en console.      |
-| la fois !                            |                                     |
+| **SVG**.                             | comme **GNU Plot** en console.      |
+| Pour l'instant, un seul ...          |                                     |
 |                                      |                                     |
 | Il est possible d'enregister ce      | Les 2 premières lignes doivent être |
 | graphe, n'importe quand.             | gardées comme ça.                   |

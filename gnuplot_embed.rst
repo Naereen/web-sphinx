@@ -61,7 +61,8 @@ Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
 .. warning:: Changement de GNU Plot 4.4 à 4.6.2
 
    J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
-   et ça brise la commande ``replot``.
+   et la nouvelle version semble avoir brisé la rétrocompatibilité,
+   notamment le comportement de la commande ``replot``.
    
    Avant, on pouvait mettre plusieurs graphiques sur une même fenêtre, 
    avec la commande ``replot``, qui gère les couleurs pour pouvoir
@@ -156,11 +157,6 @@ Conclusion
 Ces exemples montrent un peu ce qu'on peut faire, 
 très facilement, grâce aux extensions 'non-officielles' de Sphinx 
 (en l'occurence, l'extension **gnuplot** dans ce cas là).
-
-.. todo::
-   
-   Comprendre pourquoi la sortie **PNG** n'accepte pas plusieurs graphiques
-   sur une même image. En attendant, je remet en **SVG**.
 
 ------------------------------------------------------------------------------
 
