@@ -2,28 +2,21 @@
  
 ---------------------------------------------------------------------
 
-.. note:: Valideurs CSS et HTML
-
-   Voici deux liens vers les services du **World Wide Web** Consortium (W3C),
-   qui permettent de :
-   valider les feuilles de styles (**CSS**) de mes pages,
-   ainsi que le contenu de la page (**HTML**) :
-
-  +------------------------------------------------------------------+---------------------+
-  |  .. image::  http://jigsaw.w3.org/css-validator/images/vcss      |                     |
-  |     :align:  right                                               | Vérifier les        |
-  |     :width:  88px                                                | feuilles de style   |
-  |     :height: 31px                                                | (**CSS**) !         |
-  |     :target: http://jigsaw.w3.org/css-validator/check/referer    |                     |
-  |     :alt: Feuille de style (CSS 3.0) valide                      |                     |
-  +------------------------------------------------------------------+---------------------+
-  |  .. image::  http://www.w3.org/Icons/valid-xhtml10               |                     |
-  |     :align:  right                                               | Vérifier la page    |
-  |     :width:  88px                                                | **HTML** !          |
-  |     :height: 31px                                                |                     |
-  |     :target: http://validator.w3.org/check?uri=referer           |                     |
-  |     :alt: Page (XHTML 1.0 strict) valide !                       |                     |
-  +------------------------------------------------------------------+---------------------+
+  +---------------------------------------------------------------+--------------------+
+  |  .. image::  http://jigsaw.w3.org/css-validator/images/vcss   |                    |
+  |     :align:  right                                            | Vérifier les       |
+  |     :width:  88px                                             | feuilles de style  |
+  |     :height: 31px                                             | (**CSS**) !        |
+  |     :target: http://jigsaw.w3.org/css-validator/check/referer |                    |
+  |     :alt: Feuille de style (CSS 3.0) valide                   |                    |
+  +---------------------------------------------------------------+--------------------+
+  |  .. image::  http://www.w3.org/Icons/valid-xhtml10            |                    |
+  |     :align:  right                                            | Vérifier la page   |
+  |     :width:  88px                                             | **HTML** !         |
+  |     :height: 31px                                             |                    |
+  |     :target: http://validator.w3.org/check?uri=referer        |                    |
+  |     :alt: Page (XHTML 1.0 strict) valide !                    |                    |
+  +---------------------------------------------------------------+--------------------+
 
 .. -----------------------------------------------------------------------------
 
