@@ -19,46 +19,40 @@ Le toplevel
    <noscript><span style="color:red" align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
-    <script>
-      function start() {
-        var input = document.getElementById('input')
-          , output = document.getElementById('output')
-          , button = document.getElementById('button')
-          , worker = new Worker('_static/python/worker.js')
-          , loaded = false
-          , handler = function (e) {
-            if (!loaded) {
-              loaded = true;
-              button.value = "Exécute";
-              input.disabled = false;
-              button.disabled = false;
-              return;
-            }
-            output.value += e.data;
-          };
-
-
-        worker.addEventListener('message', handler, false);
-
-        button.onclick = function() {
-          worker.postMessage(input.value);
-        };
+   <script>
+    function start() {
+     var input = document.getElementById('input')
+       , output = document.getElementById('output')
+       , button = document.getElementById('button')
+       , worker = new Worker('_static/python/worker.js')
+       , loaded = false
+       , handler = function (e) {
+         if (!loaded) {
+           loaded = true;
+           button.value = "Exécute";
+           input.disabled = false;
+           button.disabled = false;
+           return;
+         }
+         output.value += e.data;
       };
-      window.onload = start;
+      worker.addEventListener('message', handler, false);
+      button.onclick = function() {
+        worker.postMessage(input.value);
+      };
+   };
+   window.onload = start;
    </script>
-   <h2>Entrée du toplevel</h2>
+   <h4>Entrée du toplevel :</h4>
    <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="8">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
    </textarea>
    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
-   <h2>Sortie du toplevel</h2>
+   <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
    <script>window.alert("~~~ Python 2.7.2 toplevel is well initialized ~~~")</script>
 
-
-.. Python Powered :)
-.. ^^^^^^^^^^^^^^^^^
 
 .. image:: .python-powered.png
    :scale: 120 %
@@ -82,18 +76,15 @@ supporte pas Javascript.
 
 Hébergements
 ------------
-
-Les scripts **Javascript** utilisés sur mes pages sont désormais
-hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
-<https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
+ Les scripts **Javascript** utilisés sur mes pages sont désormais
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
-Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
-et vient du projet Empythoned (voir cette page 
-`github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
-pour plus de détails.
-
-Ce projet est distribué sous la licence **MIT**.
+ Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
+ et vient du projet Empythoned (voir cette page 
+ `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
+ pour plus de détails.
 
 .. include:: .bottom.fr.rst

@@ -7,7 +7,7 @@
 
 .. important::
 
-   À priori, cette superbe page devrait 
+   À priori, cette page devrait 
    **fonctionner sur n'importe quel navigateur**,
    pour peu :green:`qu'il supporte Javascript` !
 
@@ -20,9 +20,9 @@ L'éditeur
 
    <style type="text/css" media="screen">
    #editor {
-   position: relative;
-   height: 700px;
-   width:  90%;
+    position: relative;
+    height: 600px;
+    width:  100%;
    }
    </style>
    <noscript><span style="color:red" align="center">
@@ -38,6 +38,7 @@ L'éditeur
    from random import *
    foo(sys.stderr)</div>
    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
    editor.setFontSize(14);

@@ -3,7 +3,7 @@
 ####################################
 .. include:: .special.rst
 
-.. warning::
+.. important::
 
    À priori, cette page et son terminal embarqué devraient
    **fonctionner sur n'importe quel navigateur**,
@@ -51,26 +51,26 @@ supporte pas Javascript.
 
 Hébergements
 ------------
-Les scripts **Javascript** utilisés sur mes pages sont désormais
-hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
-<https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
+ Les scripts **Javascript** utilisés sur mes pages sont désormais
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
- i) **OCaml** est © et ® Inria, et est publié sour la licence MIT.
+ * **OCaml** est © et ® Inria, et est publié sour la licence MIT.
 
- ii) **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
+ * **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
      Pour plus d'infos, voir `ocsigen.org/js_of_ocaml 
      <http://www.ocsigen.org/js_of_ocaml/>`_.
 
 Remerciements
 -------------
- i) Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_).
+ * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_).
 
- ii) Merci aux auteurs d'**OCaml**.
+ * Merci aux auteurs d'**OCaml**.
 
- iii) Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
-      La page de référence pour ces morceaux de code est 
-      `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
+ * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
+   La page de référence pour ces morceaux de code est 
+   `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
 
 .. include:: .bottom.fr.rst

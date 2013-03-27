@@ -3,9 +3,9 @@
 #######################################
 .. include:: .special.rst
 
-.. warning::
+.. important::
 
-   À priori, cette superbe page devrait 
+   À priori, cette page devrait et son terminal embarqué
    **fonctionner sur n'importe quel navigateur**,
    pour peu :orange:`qu'il supporte Javascript` !
 
