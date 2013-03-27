@@ -16,4 +16,19 @@ Uglify
 Voir peut-être `<http://marijnhaverbeke.nl/uglifyjs>`_.
 Pour raccourcir la taille des scripts JS embarqués ?
 
+Espace d'expérimentations
+-------------------------
+
+D'autres rôles :
+
+ * :u:`souligné`, avec ``:u:`texte```;
+ * :o:`surligné`, avec ``:o:`texte```;
+ * :blink:`clignotant`, avec ``:blink:`texte```;
+ * :line:`barré`, avec ``:line:`texte```;
+ * :it:`italique`, avec ``:it:`texte```;
+ * :ob:`oblique`, avec ``:ob:`texte```;
+ * :center:`centré`, avec ``:center:`texte```;
+ * :left:`aligné à gauche`, avec ``:left:`texte```;
+ * :right:`aligné à droite`, avec ``:right:`texte```.
+
 .. include:: .bottom.fr.rst
