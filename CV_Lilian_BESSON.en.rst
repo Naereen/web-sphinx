@@ -148,7 +148,7 @@ BSc internship and thesis
   * :Mark: **17.9/20**;
   * :Rank: **1/33**.
 
-'*Grandes Écoles*' entrance exams
+"*Grandes Écoles*" entrance exams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  1. Accepted and **matriculed** at *École Normale Supérieure de Cachan* (*July 2011*)
    * :Rank: **99/1200**;
@@ -172,7 +172,7 @@ BSc internship and thesis
   * :Mark: **17.3/20**;
   * :Rank: **1/46**.
 
-'*Grandes Écoles*' entrance exams
+"*Grandes Écoles*" entrance exams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * Accepted at *École des Mines* (at Alès) (*July 2011*)
   * :Rank: **14/4000**;
