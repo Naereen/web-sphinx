@@ -16,7 +16,7 @@ L'horloge
 
   Cette horloge est un peu particulière : elle est en base 3 !
 
-   * un boule :grey:`blanche` est **0**;
+   * un boule blanche est **0**;
    * un boule :orange:`orange` est **1**;
    * un boule :blue:`bleue` est **2**.
 
@@ -36,7 +36,7 @@ L'horloge
      display: inline-block;
      box-shadow: 0 0 4px #EEEEEE;
      text-align: right;
-     margin-top: 50px;
+     margin-top: 20px;
    }
    #trs, .val {
      -webkit-border-radius: 10px;
@@ -53,7 +53,7 @@ L'horloge
      margin-left: 5px;
    }
    .val0 {background: #F8F8F0}
-   .val1 {background: #F29400}
+   .val1 {background: #03CF00}
    .val2 {background: #2B5573}
    .val3 {background: #006400}
    </style>
