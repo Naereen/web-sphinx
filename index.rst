@@ -225,7 +225,7 @@ Flux RSS
 ^^^^^^^^^
  Depuis peu, j'ai ajouté à ces pages une information sur un flux **RSS**.
  Il s'agit de ce flux `lbesson/web-sphinx/rss 
- <http://bitbucket.org/lbesson/web-sphin/rss`>.
+ <http://bitbucket.org/lbesson/web-sphin/rss>`_.
 
  Normalement, un bon navigateur propose de s'abonner à ce flux, sur n'importe
  quelle page.
