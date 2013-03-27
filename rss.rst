@@ -9,7 +9,7 @@ Sphinx.
 
 S'abonner au flux
 -----------------
-.. image:: .rss.gif
+.. image:: .rss.png
    :scale: 120%
    :align: right
    :alt: Flux RSS (bitbucket.org/lbesson/web-sphinx/rss)
