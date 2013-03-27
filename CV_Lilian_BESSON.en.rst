@@ -206,6 +206,9 @@ MSc programming projects (2012-2013)
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
 
+ * French translation of the website `bitbucket.org <https://bitbucket.org>`_ (March 2013),
+   with `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
+
 BSc programming projects (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * A small ``Tetravex`` game (with an automatic puzzle resolution), in **OCaml**, involving graphical programming and precise algorithmic work (second semester project);

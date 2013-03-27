@@ -202,6 +202,9 @@ Projets de programmation en M1 (2012-2013)
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.
 
+ * Traduction française du site `bitbucket.org <https://bitbucket.org>`_ (Mars 2013),
+   via la plateforme `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
+
 Projets de programmation en L3 (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * Un petit jeu de ``Tetravex`` (avec résolution automatique des puzzles), en **OCaml**, incluant de la programmation graphique et un travail algorithmique précis (projet de second semestre);
