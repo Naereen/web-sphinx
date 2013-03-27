@@ -149,7 +149,7 @@ In particular,
 ------------------------------------------------------------------------------
 
 .. image:: .python-powered.png
-   :scale: 200 %
+   :scale: 120 %
    :align: center
    :alt: Python powered :)
    :target: http://python.org
