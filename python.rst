@@ -93,7 +93,7 @@ hébergés sur ce dépot git : `lbesson/web-sphinx-scripts
 Copyrights
 ----------
 Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
-et viens du projet Empythoned (voir cette page 
+et vient du projet Empythoned (voir cette page 
 `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
 pour plus de détails.
 
