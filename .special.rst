@@ -2,6 +2,7 @@
 .. ...........................................................................
 .. Color profiles for Sphinx.
 .. raw:: html
+
    <head>
      <style type="text/css"> .black {color:black} </style>
      <style type="text/css"> .gray {color:gray} </style>
