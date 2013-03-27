@@ -31,4 +31,8 @@ D'autres rôles :
  * :left:`aligné à gauche`, avec ``:left:`texte```;
  * :right:`aligné à droite`, avec ``:right:`texte```.
 
+.. center::
+
+   Voilà un essai non *inliné*.
+
 .. include:: .bottom.fr.rst
