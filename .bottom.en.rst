@@ -1,10 +1,10 @@
 .. (c) Lilian Besson, 2011-2013
  
-.. todo:: Find a way to change the ``footer`` to embed the following paragraphs.
+.. .. todo:: Find a way to change the ``footer`` to embed the following paragraphs.
 
----------------------------------------------------------------------
+.. ---------------------------------------------------------------------
 
-.. note:: Sphinx and reStructuredTex
+.. .. note:: Sphinx and reStructuredTex
 
    * Feel free to ask any questions, or to report any bugs on this page
      `web-sphinx/issues <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
@@ -13,7 +13,7 @@
    * Precision about copyrights, quoted trademarks and institutions are available
      here `<trademarks.html>`_.
 
-.. warning:: Javascript and Google Analytics ®
+.. .. warning:: Javascript and Google Analytics ®
 
    I'm using ``Javascript``, and some Django *templating* to dynamically
    integrate **Google Analytics** on those pages.
