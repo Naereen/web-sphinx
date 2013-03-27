@@ -1,33 +1,6 @@
 .. (c) 2012-2013 Lilian Besson - Naereen CORP.
 .. ...........................................................................
 .. Color profiles for Sphinx.
-.. raw:: html
-
-   <head>
-     <style type="text/css"> .black {color:black} </style>
-     <style type="text/css"> .gray {color:gray} </style>
-     <style type="text/css"> .silver {color:silver} </style>
-     <style type="text/css"> .white {color:white} </style>
-     <style type="text/css"> .maroon {color:maroon} </style>
-     <style type="text/css"> .red {color:red} </style>
-     <style type="text/css"> .magenta {color:magenta} </style>
-     <style type="text/css"> .fuchsia {color:fuchsia} </style>
-     <style type="text/css"> .pink {color:pink} </style>
-     <style type="text/css"> .orange {color:orange} </style>
-     <style type="text/css"> .yellow {color:yellow} </style>
-     <style type="text/css"> .lime {color:lime} </style>
-     <style type="text/css"> .green {color:green} </style>
-     <style type="text/css"> .olive {color:olive} </style>
-     <style type="text/css"> .teal {color:teal} </style>
-     <style type="text/css"> .cyan {color:cyan} </style>
-     <style type="text/css"> .aqua {color:aqua} </style>
-     <style type="text/css"> .blue {color:blue} </style>
-     <style type="text/css"> .navy {color:navy} </style>
-     <style type="text/css"> .purple {color:purple} </style>
-     <!-- Other(s) -->
-     <style type="text/css"> .u {text-decoration: underline} </style>
-   </head>
-
 .. role:: black
 .. role:: gray
 .. role:: silver
