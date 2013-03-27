@@ -1,4 +1,27 @@
-.. ---------------------------------------------------------------------
+ 
+---------------------------------------------------------------------
+
+.. note:: Valideurs CSS et HTML
+
+   Voici deux liens vers les services du **World Wide Web** Consortium (W3C),
+   qui permettent de valider les feuilles de styles (**CSS**) de mes pages,
+   ainsi que le contenu de la page (**HTML**) :
+
+   .. image::  http://jigsaw.w3.org/css-validator/images/vcss
+      :align:  left
+      :width:  88px
+      :height: 31px
+      :target: http://jigsaw.w3.org/css-validator/check/referer
+      :alt: Feuille de style (CSS) valide ! 
+
+   .. image::  http://jigsaw.w3.org/css-validator/images/vcss
+      :align:  left
+      :width:  88px
+      :height: 31px
+      :target: http://jigsaw.w3.org/css-validator/check/referer
+      :alt: Feuille de style (CSS) valide ! 
+
+.. -----------------------------------------------------------------------------
 
 .. .. note:: Sphinx et reStructuredText
 
