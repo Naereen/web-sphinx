@@ -127,11 +127,11 @@ Son code source est hébergé sur
 
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 700 fois (et n'est en ligne que depuis le mardi 5 mars).
+Actuellement, il a déjà été téléchargé plus de 700 fois.
 
 Gedit : Tools
 ^^^^^^^^^^^^^
-Je suis en train de rédiger une collection de scripts, pour **gedit**, 
+Je travaille actuellement sur une collection de scripts, pour **gedit**, 
 à utiliser avec le *plugin* ``Externals Tools``.
 
 Ce projet est hébergé sur 

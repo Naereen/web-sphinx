@@ -66,7 +66,7 @@ Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 * :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
 * :Éditeurs de texte: Expert avec **gEdit** & **GNU Nano** (Ubuntu, Windows), Jota Text Editor (Android);
 * :Générateurs de documentation: **OCamlDoc** pour OCaml, **PyDOC** & **Sphinx** pour Python;
-* :Administration réseau avec GNU/Linux: expérience avec le logiciel et le matériel réseau.
+* :Administration système: expérience avec le logiciel et le matériel réseau, admin système via GNU Linux.
 
 
 Divers
@@ -82,7 +82,7 @@ Divers
  - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
  - Joueur semi-profession à *Magic The Gathering*, durant 5 ans (**2004-2009**).
    Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
-   Premier joueur départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
+   Chamion départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
 * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
 * :Sports: escalade, trek, VTT, natation.
 

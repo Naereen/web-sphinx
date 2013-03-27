@@ -67,7 +67,7 @@ Computer skills
 * :Text processing: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
 * :Text editors: Expert with **gEdit** & **GNU Nano** (Linux, Windows), Jota Text Editor (Android);
 * :Documentation generators: **OCamlDoc** for OCaml, **PyDOC** & **Sphinx** for Python;
-* :Net administration on Linux: experience with net hardware and software, and net monitoring with **GNU/Linux**.
+* :System administration: experience with net hardware and software, and net monitoring with **GNU/Linux**.
 
 Miscellaneous
 -------------
@@ -78,12 +78,12 @@ Miscellaneous
  - eager to learn and develop new skills;
  - passionate of new technologies;
 * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland **since 2004**;
-* :Other experience:
+* :Other experiences:
  - Theater and clown lessons, during 6 years (**2003-2009**);
  - Semi-professional player of *Magic The Gathering*, during 5 years (**2004-2009**).
    Many national tournaments, a few internations competition (Sweden, Spain, Italy).
-   Department champion for 3 years (in *Briançon*, Hautes-Alpes, 05100, France).
-* :Entertainment: painting, role playing game, theater, video games, cinema, programmation, fantasy litterature and poetry;
+   Department champion for 3 years (in *Hautes-Alpes*, 05, France).
+* :Entertainment: painting, role playing games, theater, video games, cinema, programmation, fantasy litterature and poetry;
 * :Sports: climbing, trek, mountain bike, swimming.
 
 
@@ -136,8 +136,8 @@ BSc internship and thesis
     Interactive 2D simulation with :openGL:.
  * :Published:
     On my web page, the `bachelor thesis, in French <publis/rapport_stage.pdf>`_.
-    Also published on the **IPOL journal**
-    (`Image Processing on Line <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
+    Also published on the **IPOL journal** (`Image Processing on Line 
+    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     August 2012.
 
 **2010-2011** : Second-year BSc & *Classe Préparatoire*
@@ -226,5 +226,4 @@ First-year BSc research project (2009-2010)
  * :Title: *The Chess board, a dynamic surface*;
  * :Supervisors: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM !*).
-
 .. include:: .bottom.en.rst
