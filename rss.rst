@@ -27,7 +27,7 @@ Le flux
 
 .. raw:: html
 
-   <script language="JavaScript" type="text/javascript" src="http://www.cap-sizun.com/rss-js.php?flux=https://bitbucket.org/lbesson/web-sphinx/rss?sujet=articles&nb_items=5&desc=1&nb_car=150&photos=0" charset="ISO-8859-1"></script>
+   <script language="javascript" type="text/javascript" src="http://www.cap-sizun.com/rss-js.php?flux=https://bitbucket.org/lbesson/web-sphinx/rss&nb_items=10&desc=1&nb_car=350&photos=0" charset="ISO-8859-1"></script>
    <noscript><a href="https://bitbucket.org/lbesson/web-sphinx" title="Sur BitBucket !">Mon dépôt git</a></noscript>
 
 À propos
