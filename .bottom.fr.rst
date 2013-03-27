@@ -2,21 +2,14 @@
  
 ---------------------------------------------------------------------
 
-  +---------------------------------------------------------------+--------------------+
-  |  .. image::  http://jigsaw.w3.org/css-validator/images/vcss   |                    |
-  |     :align:  right                                            | Vérifier les       |
-  |     :width:  88px                                             | feuilles de style  |
-  |     :height: 31px                                             | (**CSS**) !        |
-  |     :target: http://jigsaw.w3.org/css-validator/check/referer |                    |
-  |     :alt: Feuille de style (CSS 3.0) valide                   |                    |
-  +---------------------------------------------------------------+--------------------+
-  |  .. image::  http://www.w3.org/Icons/valid-xhtml10            |                    |
-  |     :align:  right                                            | Vérifier la page   |
-  |     :width:  88px                                             | **HTML** !         |
-  |     :height: 31px                                             |                    |
-  |     :target: http://validator.w3.org/check?uri=referer        |                    |
-  |     :alt: Page (XHTML 1.0 strict) valide !                    |                    |
-  +---------------------------------------------------------------+--------------------+
+  +---------------------------------------------------------------+--------------------+---------------------------------------------------------------+--------------------+
+  |  .. image::  http://jigsaw.w3.org/css-validator/images/vcss   |                    |  .. image::  http://www.w3.org/Icons/valid-xhtml10            |                    |
+  |     :align:  left                                             | Vérifier les       |     :align:  right                                            | Vérifier la page   |
+  |     :width:  88px                                             | feuilles de style  |     :width:  88px                                             | **HTML** !         |
+  |     :height: 31px                                             | (**CSS**) !        |     :height: 31px                                             |                    |
+  |     :target: http://jigsaw.w3.org/css-validator/check/referer |                    |     :target: http://validator.w3.org/check?uri=referer        |                    |
+  |     :alt: Feuille de style (CSS 3.0) valide                   |                    |     :alt: Page (XHTML 1.0 strict) valide !                    |                    |
+  +---------------------------------------------------------------+--------------------+---------------------------------------------------------------+--------------------+
 
 .. -----------------------------------------------------------------------------
 
