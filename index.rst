@@ -221,6 +221,18 @@ Traductions
  La page `<transifex.html>`_ parle de traductions de logiciels
  et de sites webs.
 
+Flux RSS
+^^^^^^^^^
+ Depuis peu, j'ai ajouté à ces pages une information sur un flux **RSS**.
+ Il s'agit de ce flux `lbesson/web-sphinx/rss 
+ <http://bitbucket.org/lbesson/web-sphin/rss`>.
+
+ Normalement, un bon navigateur propose de s'abonner à ce flux, sur n'importe
+ quelle page.
+ Pour plus d'informations, ou pour lire directement les dernières entrées
+ du *flux*, la page `<rss.html>`_ est là pour ça.
+ (:red:`attention, toujours en expérimentation` !)
+
 --------------------------------------------------------------------
 
 Autres pages en rST
@@ -243,6 +255,7 @@ Autres pages en rST
    ocaml
    gnuplot
    ace
+   rss
    transifex.fr
    Liste de problèmes à régler <todo>
    admin
