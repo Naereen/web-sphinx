@@ -33,15 +33,11 @@ extensions = [
 	'sphinx.ext.viewcode',
 	'sphinx.ext.autosummary',
 	'sphinx.ext.graphviz',
-#	'sphinx.ext.refcounting',
-#	'sphinx.ext.extlinks',
 ####### Sphinx Contrib
 ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
 	'sphinxcontrib.cheeseshop',
-#	'sphinxcontrib.googleanalytics',
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
-#	'sphinxcontrib.ansi',
 	]
 
 ##############################################################################
@@ -50,19 +46,8 @@ extensions = [
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
 
-# Additional command-line arguments to give to dot, as a list.
-# The default is an empty list.
-# This is the right place to set global graph, node or edge attributes via dot’s -G, -N and -E options.
-# graphviz_dot_args = ""    
-
 # If this is True, todo and todolist produce output, else they produce nothing. The default is False.
 todo_include_todos = True
-
-# True by default, use it to turn off tracking.
-# googleanalytics_enabled = True
-
-# UA id for your site
-# googleanalytics_id = u'UA-38514290-8'
 
 # image format used for the different builders. ``latex`` and ``html`` fromats
 #  are supported.
@@ -102,7 +87,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.2'
+version = '1.4'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -114,8 +99,6 @@ language = u"fr"
 # non-false value, then it is used:
 today = ''
 # Else, today_fmt is used as the format for a strftime call.
-# today_fmt = u'%d/%m/%Y, %Hh:%Mm:%Ss'
-# today_fmt = u'%A %d %B %Y, %Hh:%Mm:%Ss'
 today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
@@ -146,15 +129,6 @@ pygments_style = 'sphinx'
 # Merci à Vincent Le Gallic pour ça.
 autodoc_member_order = 'bysource'
 autodoc_default_flags = ['members', 'private-members']
-
-# -- Options for RST generic ---------------------------------------------------
-
-# A string of reStructuredText that will be included at the end of every source file that is read. This is the right place to add substitutions that should be available in every file.
-rst_epilog = """.. (c) Lilian Besson - 2011-13"""
-
-# A string of reStructuredText that will be included at the beginning of every source file that is read.
-rst_prolog = """.. add by rst_prolog"""
-
  
 # -- Options for HTML output ---------------------------------------------------
 
@@ -236,7 +210,8 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**': ['localtoc.html', 'searchbox.html', 'sourcelink.html', 'globaltoc.html'],
+   '**': ['localtoc.html', 'searchbox.html', 'sourcelink.html'],
+#   '**': ['localtoc.html', 'searchbox.html', 'sourcelink.html', 'globaltoc.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
