@@ -19,10 +19,6 @@ qui permet de voir (*en temps réel*) la sortie graphique évoluer
    parce que votre navigateur ne supporte pas les images ``SVG``.
    Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
 
-   Une autre raison possible est un soucis du **serveur Apache**
-   qui héberge ces pages. J'ai normalement corrigé le soucis sur les deux
-   serveurs (celui du *Cr@ns* et du *dptinfo de l'ENS*).
-
 
 Exemples
 --------

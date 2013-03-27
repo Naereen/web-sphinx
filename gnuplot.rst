@@ -9,6 +9,12 @@
    **fonctionner sur n'importe quel navigateur**,
    pour peu :orange:`qu'il supporte Javascript` !
 
+.. warning::
+
+   Si le graphes (plus bas à gauche) n'est sont pas affiché, c'est
+   sûrement parce que votre navigateur ne supporte pas les images ``SVG``.
+   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
+
 ------------------------------------------------------------------------------
 
 Le toplevel
