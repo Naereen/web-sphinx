@@ -23,7 +23,7 @@ Le toplevel
    <div align=center>
    <div id="toplevel" align=left></div>
    </div>
-   <script>window.alert("~~~ OCaml toplevel is well initialized ~~~")</script>
+   <script>window.alert("~~~ Le terminal OCaml (3.12.1) semble bien initialisé ! ~~~")</script>
 
 .. image:: .ocaml-powered.png
    :scale: 130 %

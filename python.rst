@@ -71,8 +71,7 @@ Le toplevel
    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-   <script>window.alert("~~~ Python 2.7.2 toplevel is well initialized ~~~")</script>
-
+   <script>window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~")</script>
 
 .. image:: .python-powered.png
    :scale: 120 %

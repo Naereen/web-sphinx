@@ -40,7 +40,6 @@ L'éditeur
    <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
-   editor.setFontSize(18);
    editor.setTheme("ace/theme/twilight");
    editor.getSession().setMode("ace/mode/python");
    editor.setShowInvisibles(true);
@@ -48,7 +47,7 @@ L'éditeur
    editor.setShowPrintMargin(true);
    editor.setShowFoldWidgets(true);
    editor.setFontSize(18);
-   window.alert("~~~ ACE Text Editor is well initialized ~~~")
+   window.alert("~~~ L'éditeur de texte ACE semble être bien initialisé ~~~")
    </script>
 
 ------------------------------------------------------------------------------
