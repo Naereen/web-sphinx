@@ -1,9 +1,8 @@
 .. (c) 2012-2013 Lilian Besson - Naereen CORP.
 .. ...........................................................................
 .. Color profiles for Sphinx.
-
 .. raw:: html
-
+   <head>
      <style type="text/css"> .black {color:black} </style>
      <style type="text/css"> .gray {color:gray} </style>
      <style type="text/css"> .silver {color:silver} </style>
@@ -24,11 +23,9 @@
      <style type="text/css"> .blue {color:blue} </style>
      <style type="text/css"> .navy {color:navy} </style>
      <style type="text/css"> .purple {color:purple} </style>
+     <!-- Other(s) -->
      <style type="text/css"> .u {text-decoration: underline} </style>
-
-.. .. raw:: latex
-..  en.wikibooks.org/wiki/LaTeX/Colors
-..  TODO ?
+   </head>
 
 .. role:: black
 .. role:: gray
@@ -52,3 +49,5 @@
 .. role:: purple
 
 .. role:: u
+
+.. (c) Lilian Besson, 2011-2013
