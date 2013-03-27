@@ -48,16 +48,16 @@ Le toplevel
         };
       };
       window.onload = start;
-    </script>
-    <h2>Entrée du toplevel</h2>
-    <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="8">print 'Bonjour, le monde !'
-    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
-    print {i*6 for i in range(8)}	# ensemble en compréhension
-    </textarea>
-    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
-    <h2>Sortie du toplevel</h2>
-    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-    <script>window.alert("~~~ Python 2.7.2 toplevel is well initialized ~~~")</script>
+   </script>
+   <h2>Entrée du toplevel</h2>
+   <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="8">print 'Bonjour, le monde !'
+   print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
+   print {i*6 for i in range(8)}	# ensemble en compréhension
+   </textarea>
+   <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
+   <h2>Sortie du toplevel</h2>
+   <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
+   <script>window.alert("~~~ Python 2.7.2 toplevel is well initialized ~~~")</script>
 
 
 .. Python Powered :)
