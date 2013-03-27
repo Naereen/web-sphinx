@@ -123,4 +123,9 @@ Update their web-service
   <http://support.transifex.com/customer/en/portal/questions/908374-see-some-statistics-for-a-translation-project-?new=908374>`_
   if there is a way to add this kind of functionnality.
 
+More screenshots
+^^^^^^^^^^^^^^^^
+  More screenshots about this can be found on my Facebook page
+  `there <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
+
 .. include:: .bottom.en.rst
