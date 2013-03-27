@@ -47,6 +47,26 @@ Le toplevel
    <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="8">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
+   #
+   # Un second exemple
+   import time
+   now = time.localtime()
+   hour = now.tm_hour
+   if hour < 8: print 'sleeping'
+   elif hour < 9: print 'commuting'
+   elif hour < 17: print 'working'
+   elif hour < 18: print 'commuting'
+   elif hour < 20: print 'eating'
+   elif hour < 22: print 'resting'
+   else: print 'sleeping'
+   # Un dernier exemple
+   def factorial(n):
+     if n == 0: return 1
+     else: return n * factorial(n - 1)
+   print factorial(11)
+   # input fonctionne-t-elle ?
+   name = raw_input('Quel est votre nom, noble visiteur ?\n')
+   print 'Salut, noble %s.' % name
    </textarea>
    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
    <h4>Sortie du toplevel :</h4>
@@ -61,6 +81,16 @@ Le toplevel
    :target: http://python.org
 
 ------------------------------------------------------------------------------
+
+Autres pages
+------------
+ Ce terminal est aussi disponible ici `<_static/python/index.html>`_.
+
+ Sinon, *normalement*, le sous dossier `<Python>`_ contient une copie locale
+ de la documentation de **Python 2.7.3**.
+
+ Et enfin, l'archive `<Python/Python-3.3.0-custom.tar.xz>`_ est un copie
+ de Python 3.3 que je modifie (petit à petit) pour m'amuser.
 
 À propos
 --------
