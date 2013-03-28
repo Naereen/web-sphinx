@@ -1,15 +1,14 @@
 {% extends "!layout.html" %}
 
 {% block rootrellink %}
-   <li><img src="{{ pathto('_static/.besson.png', 1) }}" alt=""
-    style="height:32px; widht:32px; vertical-align: middle; margin-top: -1px"/></li>
-   <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
-   <li><a href="#">{{ title }}</a></li>
+ <li><img src="{{ pathto('_static/.besson.png', 1) }}" alt=""
+  style="height:32px; widht:32px; vertical-align: middle; margin-top: -1px"/></li>
+<!-- <li><a href="#">{{ title }}</a>{{ reldelim1 }}</li> -->
+ <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 <!--   <li>(v{{ version|e }} {{ release|e }} - Dernière modification {{ last_updated|e }})</li> -->
 {% endblock %}
 
 {% block extrahead %}
-{{ super() }}
   <!-- Dublin Core Metadata -->
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
     <meta name="DC.Title" content="Lilian Besson on the web" />
@@ -167,6 +166,7 @@ location.href="{{ next.link|e }}";
             });
 {% endif %}
 </script>
+{{ super() }}
 {% endblock %}
 
 {% block footer %}

@@ -46,7 +46,6 @@ Table of contents
 -----------------
 .. toctree::
    :maxdepth: 2
-   :numbered: 2
    
    CV_Lilian_BESSON.en
    transifex.en
