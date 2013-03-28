@@ -37,7 +37,7 @@ local:	cleanALL all notify git warnings severes errors
 
 complete:	cleanALL all sendAll notify
 
-all:	html scripts
+all:	html scripts pdf_all
 
 warnings:
 	@echo "Searching for warnings ..."
