@@ -29,7 +29,8 @@ then
 	mv -v "$logfile" "$logfile~~"
 fi
 
-echo -e "I will generate two PDF files (.pdf and .fromrst.pdf) for each of the following files:"
+echo -e "I will generate a PDF file (.pdf) for each of the following files (.rst):"
+#echo -e "I will generate two PDF files (.pdf and .fromrst.pdf) for each of the following files:"
 
 echo -e "${magenta} I will write my output log to ${u}${black} '$logfile:1:1' ${reset}${white}"
 echo -e "INIT: $0 at `date`" > "$logfile"
@@ -51,25 +52,25 @@ do
 	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
-	rst2pdf --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
-	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
+	rst2pdf --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.pdf" "$file" && \
+	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
-	listTEX="$listTEX ${file%.rst}.tex" && \
-	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
+#	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
+#	listTEX="$listTEX ${file%.rst}.tex" && \
+#	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF
-	pdflatex  -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" >> "$logfile"
-	if [ -f ".build/pdf/${file%.rst}.pdf" ]; then
-		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
-		echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....$white"
-		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
+#	pdflatex  -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" >> "$logfile"
+#	if [ -f ".build/pdf/${file%.rst}.pdf" ]; then
+#		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
+#		echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....$white"
+#		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
 ##		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
-		mv -fv "${file%.rst}.tex" /tmp/
-		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" ".build/pdf/${file%.rst}.toc" /tmp/
-	fi
+#		mv -fv "${file%.rst}.tex" /tmp/
+#		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" ".build/pdf/${file%.rst}.toc" /tmp/
+#	fi
 
 	echo -e "$green*** Done: for the file '$file' ***$white"
 	if [ ! "0" = "0$STEP" ]; then
@@ -78,11 +79,11 @@ do
 	echo -e "$u${red}**********************************${reset}${white}"
 done
 
-echo -e "\n Done : the following fromrst.pdf files have been produced :"
-echo -e "$listPDFfromRSTs"
-echo -e "\n Done : the following LaTeX files have been produced :"
-echo -e "$listTEX"
-echo -e "\n Done : the following PDF files have been produced :"
-echo -e "$listPDFs"
+echo -e "\n Done : the following PDF files have been produced (from .rst, with ${blue}rst2pdf${white}:"
+echo -e "${green}$listPDFfromRSTs${white}"
+#echo -e "\n Done : the following LaTeX files have been produced :"
+#echo -e "$listTEX"
+#echo -e "\n Done : the following PDF files have been produced :"
+#echo -e "$listPDFs"
 
-echo -e "$u${red}**********************************${reset}${white}"
+echo -e "$u${cyan}**********************************${reset}${white}"
