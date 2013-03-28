@@ -1,5 +1,11 @@
 {% extends "!layout.html" %}
 
+{% block rootrellink %}
+   <li><img src="{{ pathto('_images/favicon.ico', 1) }}" alt=""
+                 style="vertical-align: middle; margin-top: -1px"/></li>
+   <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
+{% endblock %}
+
 {% block extrahead %}
 {{ super() }}
   <!-- Dublin Core Metadata -->
