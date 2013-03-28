@@ -22,8 +22,6 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 .. todo:: terminer de bosser sur .templates/*.html
 
-.. todo:: trouver un moyen d'activer les raccourcis clavier.
-
 .. todo:: idée : utiliser .templates/*.html pour changer le code rajouter en haut,en base (previous next), et lui faire rajouter un raccourcis.
 
 ------------------------------------------------------------------------------

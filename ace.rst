@@ -21,7 +21,7 @@ L'éditeur
    <style type="text/css" media="screen">
    #editor {
     position: relative;
-    font-size: 24pt;
+    font-size: 20pt;
     height: 700px;
     width: 100%;
    }
