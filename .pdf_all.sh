@@ -34,7 +34,7 @@ echo -e "INIT: $0 at `date`" > "$logfile"
 
 ls --color=auto *.rst || exit 1
 
-read -p "[o]ui/[N]ON ? " ok
+#read -p "[o]ui/[N]ON ? " ok
 
 echo -e "OK: I'm going to begin...."
 
@@ -49,13 +49,13 @@ do
 	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
-	rst2pdf -s ./.style.rst2pdf --compressed --verbose --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
+	rst2pdf --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-	rst2latex --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --verbose --section-subtitles "$file" "${file%.rst}.tex" && \
+	rst2latex --verbose --config=conf.py --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF
@@ -70,7 +70,7 @@ do
 	fi
 
 	echo -e "$green*** Done: for the file '$file' ***$white"
-	read -p "[o]ui/[N]ON ? " ok
+	#read -p "[o]ui/[N]ON ? " ok
 	echo -e "$u${red}**********************************${reset}${white}"
 done
 

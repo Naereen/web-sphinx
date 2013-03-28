@@ -113,6 +113,46 @@
       strike: false
       commands: []
 
+    black:
+      parent: base
+      textColor: black
+
+    gray:
+      parent: base
+      textColor: gray
+
+    silver:
+      parent: base
+      textColor: silver
+
+    magenta:
+      parent: base
+      textColor: magenta
+
+    fuchsia:
+      parent: base
+      textColor: fuchsia
+
+    pink:
+      parent: base
+      textColor: pink
+
+    lime:
+      parent: base
+      textColor: lime
+
+    olive:
+      parent: base
+      textColor: olive
+
+    aqua:
+      parent: base
+      textColor: aqua
+
+    purple:
+      parent: base
+      textColor: purple
+
     white:
       parent: base
       textColor: white
