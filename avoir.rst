@@ -27,12 +27,5 @@ D'autres rôles :
  * :line:`barré`, avec ``:line:`texte```;
  * :it:`italique`, avec ``:it:`texte```;
  * :ob:`oblique`, avec ``:ob:`texte```;
- * :center:`centré`, avec ``:center:`texte```;
- * :left:`aligné à gauche`, avec ``:left:`texte```;
- * :right:`aligné à droite`, avec ``:right:`texte```.
-
-.. center::
-
-   Voilà un essai non *inliné*.
 
 .. include:: .bottom.fr.rst
