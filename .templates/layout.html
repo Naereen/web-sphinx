@@ -2,7 +2,7 @@
 
 {% block rootrellink %}
    <li><img src="{{ pathto('_static/favicon.ico', 1) }}" alt=""
-    style="height:16px; widht:16px; vertical-align: middle; margin-top: -1px"/></li>
+    style="height:24px; widht:24px; vertical-align: middle; margin-top: -1px"/></li>
    <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 
@@ -17,7 +17,8 @@
     <meta name="DC.Date" content="2013-03-26" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from bitbucket.org) -->
-    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss"/>
+    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="{{ pathto('_static/.besson.png', 1) }}" />
   <!-- Colors -->
   <style type="text/css">
     .black {color:black}
