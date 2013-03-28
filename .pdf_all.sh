@@ -17,7 +17,7 @@
 
 . ~/.color.sh
 
-STEP="$1"
+#STEP="$1"
 
 echo -e "${green}$0: begin to work, on $PWD.${white}"
 
@@ -45,9 +45,11 @@ listPDFfromRSTs=""
 listTEX=""
 listPDFs=""
 
-for file in *.rst
-##for file in `cat .pdf_all.list`
+##for file in *.rst
+for file in `cat .pdf_all.list`
+for file in "$@"
 do
+#file="${file}.rst"
 	echo -e "$u${red}**********************************************${reset}${white}"
 	echo -e "\n\n Examining the file '$file'..."
 
@@ -55,6 +57,11 @@ do
 	rst2pdf --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
+
+# A test
+	echo "%% Generate by Lilian Besson. (c) 2011-2013" >> ".build/html/${file%.rst}.pdf"
+	echo "%% Last version on line : http://perso.crans.org/besson/_sources/$file" >> ".build/html/${file%.rst}.pdf"
+	echo "%%EOF" >> ".build/html/${file%.rst}.pdf"
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
