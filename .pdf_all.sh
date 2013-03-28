@@ -55,7 +55,7 @@ do
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-	rst2latex --verbose --config=conf.py --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
+	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --config=conf.py --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF
