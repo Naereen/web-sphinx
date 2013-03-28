@@ -12,6 +12,9 @@
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf and rst2latex -> pdflatex
 
+VOIR=""
+test="no"
+
 for i in "$@"; do
  case "$i" in
  -h|--help|-?|--?)
@@ -22,6 +25,7 @@ for i in "$@"; do
    echo -e "	--help: to print this help message."
    echo -e "Options:"
    echo -e "	--view: to open the PDF after their generation."
+   echo -e "	--test: add additionnal contents to the PDF."
    echo -e ""
    echo -e "The style sheel must be '.style.rst2pdf'."
    echo -e ""
@@ -29,6 +33,15 @@ for i in "$@"; do
    echo -e "Released under the term of the GPL v3 Licence."
    echo -e "In particular, $0 is provide WITHOUT ANY WARANTY."
    exit 0
+  ;;
+ --view)
+   VOIR="--view"
+   shift
+  ;;
+ --test)
+  test="yes"
+  echo -e "Option: --test: additionnal contents will be added to the PDF."
+  shift
   ;;
  *)
   ;;
@@ -39,11 +52,6 @@ done
 
 if [ ! -f "`pwd -P`/.style.rst2pdf" ]; then
  echo -e "${red} The style sheet .style.rst2pdf is absent : I'll try without it...."
-fi
-
-VOIR="$1"
-if [ "0$VOIR" = "0--view" ]; then
- shift
 fi
 
 #echo -e "${green}$0: begin to work, on $PWD.${white}"
@@ -83,6 +91,7 @@ do
 	listPDFfromRSTs="$listPDFfromRSTs .build/pdf/${file%.rst}.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
+if [ "0yes" = "0$test" ]; then
 # A test
 	cat ".build/pdf/${file%.rst}.pdf" | \
 	sed s{'Author \(\)'{'Author (Lilian Besson (and I add my name in each of my PDFs with sed !))'{ | \
@@ -96,6 +105,7 @@ do
 	echo "%%EOF" >> ".build/pdf/${file%.rst}.pdf"
 
 	rm -vf ".build/pdf/${file%.rst}.pdf"~
+fi
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
 #	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
