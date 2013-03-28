@@ -37,7 +37,7 @@ done
 
 . ~/.color.sh
 
-if [ ! -f .style.rst2pdf ]; then
+if [ ! -f "`pwd -P`/.style.rst2pdf" ]; then
  echo -e "${red} The style sheet .style.rst2pdf is absent : I'll try without it...."
 fi
 
@@ -84,6 +84,11 @@ do
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
 # A test
+	cat ".build/pdf/${file%.rst}.pdf" | \
+	sed s{'<< /Author ()'{'<< /Author (Lilian Besson)' | \
+	sed s{' /Creator (\(unspecified\))'{' /Creator (pdf_all.sh by Lilian Besson - http://bitbucket.org/lbesson)' > ".build/pdf/${file%.rst}.pdf"~
+
+# A second test
 	echo "%% Generate by Lilian Besson. (c) 2011-2013" >> ".build/pdf/${file%.rst}.pdf"
 	echo "%% Last version on line : http://perso.crans.org/besson/_sources/$file" >> ".build/pdf/${file%.rst}.pdf"
 	echo "%%EOF" >> ".build/pdf/${file%.rst}.pdf"
@@ -117,5 +122,10 @@ echo -e "${green}$listPDFfromRSTs${white}"
 #echo -e "$listTEX"
 #echo -e "\n Done : the following PDF files have been produced :"
 #echo -e "$listPDFs"
+
+if [ "0$VOIR" = "0--view" ]; then
+ echo "Opening $listPDFfromRSTs.........."
+ evince "$listPDFfromRSTs" 2> /dev/null &
+fi
 
 echo -e "$u${cyan}**********************************${reset}${white}"

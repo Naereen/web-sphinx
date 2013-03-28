@@ -6,9 +6,9 @@
 #	https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc
 #
 #	__author__='Lilian BESSON'
-#	__email__='lilian.besson@normale.fr'
-#	__version__='13.9.2'
-#	__date__='lundi 25/03/2013 at 12h:59m:27s '
+#	__email__='lilian DOT besson AT normale D O T fr'
+#	__version__='11'
+#	__date__='jeudi 28/03/2013 at 12h:59m:27s '
 #
 
 # You can set these variables from the command line.
@@ -105,7 +105,7 @@ coverage:
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
 pdf_all:	./.pdf_all.sh
-	./.pdf_all.sh
+	./.pdf_all.sh trademarks.rst transifex.*.rst CV_Lilian_BESSON.*.rst index.rst index_en.rst
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
 cv.fr:	CV_Lilian_BESSON.fr.pdf
