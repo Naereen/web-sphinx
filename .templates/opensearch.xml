@@ -1,0 +1,4 @@
+{% extends "!opensearch.xml" %}
+{% block extra -%}
+<Image type="image/x-icon">http://perso.crans.org/_images/favicon.ico</Image>
+{% endblock %}
