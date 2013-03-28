@@ -64,9 +64,6 @@ Le toplevel
      if n == 0: return 1
      else: return n * factorial(n - 1)
    print factorial(11)
-   # input fonctionne-t-elle ?
-   name = raw_input('Quel est votre nom, noble visiteur ?\n')
-   print 'Salut, noble %s.' % name
    </textarea>
    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
    <h4>Sortie du toplevel :</h4>
