@@ -1,4 +1,5 @@
 {% extends "!sourcelink.html" %}
+{% super() %}
 <h3>{{ _('Cette page dans en .txt et en .pdf') }}</h3>
 <ul class="this-page-menu">
   <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
