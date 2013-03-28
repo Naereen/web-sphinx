@@ -103,7 +103,7 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build']
+exclude_patterns = ['.build', '.git', '.tmp', '.temp', 'tmp', 'temp', 'scripts']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -198,11 +198,10 @@ html_favicon = u".besson.png"
 html_add_permalinks = True
 
 #Encoding of HTML output files. Default is 'utf-8'. Note that this encoding name must both be a valid Python encoding name and a valid HTML charset value.
-#html_output_encoding = u"utf-8"
+html_output_encoding = u"utf-8"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-# html_last_updated_fmt = u'%A %d/%m/%Y, %Hh:%Mm:%Ss'
 html_last_updated_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
@@ -211,8 +210,9 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
+   'index': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
+   'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdf.html'],
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
-#   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to

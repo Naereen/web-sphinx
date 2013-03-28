@@ -1,12 +1,1 @@
 .. (c) Lilian Besson, 2011-2013
- 
----------------------------------------------------------------------
-
-.. +--------------------+---------------------------------------------------------------+---------------------------------------------------------------+--------------------+
-   |                    |  .. image::  http://jigsaw.w3.org/css-validator/images/vcss   |  .. image::  http://www.w3.org/Icons/valid-xhtml10            |                    |
-   | Vérifier les       |     :align:  left                                             |     :align:  right                                            | Vérifier la page   |
-   | feuilles de style  |     :width:  88px                                             |     :width:  88px                                             | **HTML** !         |
-   | (**CSS**) !        |     :height: 31px                                             |     :height: 31px                                             |                    |
-   |                    |     :target: http://jigsaw.w3.org/css-validator/check/referer |     :target: http://validator.w3.org/check?uri=referer        |                    |
-   |                    |     :alt: Feuille de style (CSS 3.0) valide                   |     :alt: Page (XHTML 1.0 strict) valide !                    |                    |
-   +--------------------+---------------------------------------------------------------+---------------------------------------------------------------+--------------------+
