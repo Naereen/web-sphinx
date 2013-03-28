@@ -155,11 +155,9 @@ clean:	clean_pyc clean_build
 	-rm -rf $(BUILDDIR)/*
 
 html:
-	cp ~/.bashrc.asc ./
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/html/transifex.html; fi
-	rm -vf ./.bashrc.asc
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
