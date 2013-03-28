@@ -15,7 +15,9 @@
 #  .*.rst: are NOT used : specials and included only files
 #  *.rst: ARE used (all of them). 
 
-echo -e "$0: begin to work, on $PWD."
+. ~/.color.sh
+
+echo -e "${green}$0: begin to work, on $PWD.${white}"
 
 mkdir -v --parents .build/pdf/
 
@@ -33,13 +35,15 @@ listPDFs=""
 
 for file in *.rst
 do
-	echo -e "\n Examining the file '$file'..."
+	echo -e "$u${red}******************************************${reset}****"
+	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
 	rst2pdf -s ./.style.rst2pdf --compressed --verbose --language=fr  --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
-	echo -e " '.build/pdf/${file%.rst}.pdf' well generated ...."
+	echo -e " '.build/pdf/${file%.rst}.pdf' well generated ....\n\n"
 
+	echo -e "$u${red}******************************************${reset}****"
 # rST -----> LaTeX
 	rst2latex --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --verbose --language=fr --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
@@ -50,13 +54,13 @@ do
 		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
 		echo -e " '.build/pdf/${file%.rst}.pdf' well generated ...."
 		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
-		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
+##		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
 		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
 	fi
 
 	echo -e "*** Done: for the file '$file' ***"
 	read -p "[o]ui/[N]ON ? " ok
-	echo -e "**********************************"
+	echo -e "$u${red}******************************${reset}****"
 done
 
 echo -e "\n Done : the following fromrst.pdf files have been produced :"
@@ -66,4 +70,4 @@ echo -e "$listTEX"
 echo -e "\n Done : the following PDF files have been produced :"
 echo -e "$listPDFs"
 
-echo -e "**********************************"
+echo -e "$u${red}******************************${reset}****"

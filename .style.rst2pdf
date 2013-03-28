@@ -113,6 +113,74 @@
       strike: false
       commands: []
 
+    white:
+      parent: base
+      textColor: white
+
+    maroon:
+      parent: base
+      textColor: maroon
+
+    red:
+      parent: base
+      textColor: red
+
+    orange:
+      parent: base
+      textColor: orange
+
+    yellow:
+      parent: base
+      textColor: yellow
+
+    green:
+      parent: base
+      textColor: green
+
+    teal:
+      parent: base
+      textColor: teal
+
+    cyan:
+      parent: base
+      textColor: cyan
+
+    blue:
+      parent: base
+      textColor: blue
+
+    navy:
+      parent: base
+      textColor: navy
+
+    u:
+      parent: base
+      underline: true
+
+    o:
+      parent: base
+      underline: true
+
+    blink:
+      parent: base
+      textColor: yellow
+
+    line:
+      parent: base
+      backColor: teal
+
+    it:
+      parent: base
+      fontName: stdItalic
+
+    ob:
+      parent: base
+      fontName: stdBoldItalic
+
+    red:
+      parent: base
+      textColor: red
+
     normal:
       parent: base
 
