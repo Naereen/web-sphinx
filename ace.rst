@@ -26,7 +26,7 @@ L'éditeur
     width: 100%;
    }
    </style>
-   <noscript><span style="color:red" align="center">
+   <noscript><span style="color:red" text-align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
    <div id="editor">#!/usr/bin/env python

@@ -17,7 +17,7 @@ Le toplevel
 .. raw:: html
 
    <script type="text/javascript" src="_static/toplevel.js"></script>
-   <noscript><span style="color:red" align="center">
+   <noscript><span style="color:red" text-align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
    <div align=center>
