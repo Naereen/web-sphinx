@@ -12,20 +12,24 @@
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf
 
-echo -e "\n\n Copying `ls *.rst` in .build/html/ ....."
-mkdir --parents .build/pdf/
-cp *.rst .build/pdf/
-cp .style.rst2pdf .build/pdf/
+echo -e "$0: begin to work, on $PWD."
+
+##echo -e "\n\n Copying `ls *.rst` in .build/html/ ....."
+mkdir -v --parents .build/pdf/
+#cp -v .*.rst *.rst .build/pdf/
+#cp -v .style.rst2pdf .build/pdf/
 
 oldPWD="`pwd`"
 echo -e "\n Going to .build/pdf/ ....."
-cd .build/pdf/
+#cd .build/pdf/
+
+read -p "[o]ui/[N]ON ? " ok
 
 listPDFfromRSTs=""
 listTEX=""
 listPDFs=""
 
-for file in *.rst
+for file in transifex*.rst
 do
 	echo -e "\n Examining the file '$file'..."
 
@@ -33,7 +37,7 @@ do
 	listPDFfromRSTs="$listPDFfromRSTs ${file%.rst}.fromrst.pdf" && \
 	echo -e " '${file%.rst}.pdf' well generated ...."
 
-	rst2latex -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o "${file%.rst}.tex" "$file" && \
+	rst2latex -l fr --baseurl="http://perso.crans.org/besson/" "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e " '${file%.rst}.tex' well generated ...."
 	pdflatex "${file%.rst}.tex" && \

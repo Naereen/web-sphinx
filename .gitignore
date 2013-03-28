@@ -1,6 +1,7 @@
 *.py[co]
 *~
 .temp/
+.tmp/
 .build/
 scripts/
 CV_Lilian_BESSON.*.pdf
