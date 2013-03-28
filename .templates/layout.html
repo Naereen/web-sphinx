@@ -97,8 +97,8 @@
 shortcut.add("h",function() {
 window.confirm("The following shortcuts are enabled : \n\
  - h : display this help message, \n\
- - Left : previous page (still in construction), \n\
- - Right : next page (still in construction). \n\
+ - Left : previous page ({{ previous.title|e }}), \n\
+ - Right : next page ({{ next.title|e }}). \n\
   Lilian Besson (c) 2013.")
             },{
 'type':'keydown',
@@ -107,7 +107,7 @@ window.confirm("The following shortcuts are enabled : \n\
 'target':document
             });
 shortcut.add("Left",function() {
-window.alert("This shortcut is still in construction !");
+location.href="{{ previous.link|e }}";
             },{
 'type':'keydown',
 'propagate':false,
@@ -115,7 +115,7 @@ window.alert("This shortcut is still in construction !");
 'target':document
             });    
 shortcut.add("Right",function() {
-window.alert("This shortcut is still in construction !");
+location.href="{{ previous.link|e }}";
             },{
 'type':'keydown',
 'propagate':false,
@@ -162,3 +162,17 @@ désactivé en bloquant le JavaScript venant de www.google-analytics.com,
 ou via quelque chose comme <a href="http://www.ghostery.com">Ghostery</a>.
 </div>
 {% endblock %}
+
+{% block sidebarsourcelink %}
+{%- if show_source and has_source and sourcename %}
+<h3>{{ _('Cette page') }}</h3>
+<ul class="this-page-menu">
+  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
+         rel="nofollow">Voir la version PDF</a></li>
+  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}"
+         rel="nofollow">Voir le fichier source</a></li>
+</ul>
+{%- endif %}
+{% endblock %}
+
+
