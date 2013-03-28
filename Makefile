@@ -104,6 +104,10 @@ coverage:
 	@echo
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
+pdf_all:	./.pdf_all.sh
+	./.pdf_all.sh
+	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
+
 cv.fr:	CV_Lilian_BESSON.fr.pdf
 	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.fr.pdf -c CV_Lilian_BESSON.fr.rst
 	$(CP) CV_Lilian_BESSON.fr.pdf .build/html/
@@ -113,8 +117,9 @@ cv.en:	CV_Lilian_BESSON.en.pdf
 #	rst2latex --title="CV Lilian BESSON (en)" -t --no-source-link --language=en --use-verbatim-when-possible -q --tab-width=4  CV_Lilian_BESSON.en.rst CV_Lilian_BESSON.en.latex
 	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
 
-slides:	slides.rst
+slides:	.slides.sh
 	./.slides.sh
+	@echo "Build finished. The HTML5 + S5 slides are in $(BUILDDIR)/html."
 
 git:
 	git add *.rst README.md Makefile conf.py .*.rst .templates/
