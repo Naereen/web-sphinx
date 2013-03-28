@@ -15,9 +15,35 @@
 #  .*.rst: are NOT used : specials and included only files
 #  *.rst: ARE used (all of them). 
 
+for i in "$@"; do
+ case "$i" in
+ -h|--help|-?|--?)
+   echo -e "${yellow}$0 --help | [options] file1.rst [file2.rst]${white}"
+   echo -e ""
+   echo -e "Generate one PDF file from rST files file1.rst file2.rst ... with ${blue}rst2pdf${white}."
+   echo -e "Help:"
+   echo -e "	--help: to print this help message."
+   ecjo -e "Options:"
+   echo -e "	--view: to open the PDF after their generation."
+   echo -e ""
+   echo -e "Copyrights: (c) Lilian Besson 2011-2013."
+   echo -e "Released under the term of the GPL v3 Licence."
+   echo -e "In particular, $0 is provide WITHOUT ANY WARANTY."
+  ;;
+ *)
+   echo "Type --help to print the help."
+  ;;
+done
+
 . ~/.color.sh
 
 #STEP="$1"
+
+VOIR="$1"
+
+if [ "0$VOIR" = "0--view" ]; then
+ shift
+fi
 
 echo -e "${green}$0: begin to work, on $PWD.${white}"
 
@@ -46,7 +72,7 @@ listTEX=""
 listPDFs=""
 
 ##for file in *.rst
-for file in `cat .pdf_all.list`
+##for file in `cat .pdf_all.list`
 for file in "$@"
 do
 #file="${file}.rst"
@@ -55,13 +81,13 @@ do
 
 # rST -----> PDF
 	rst2pdf --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.pdf" "$file" && \
-	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.pdf" && \
+	listPDFfromRSTs="$listPDFfromRSTs .build/pdf/${file%.rst}.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
 # A test
-	echo "%% Generate by Lilian Besson. (c) 2011-2013" >> ".build/html/${file%.rst}.pdf"
-	echo "%% Last version on line : http://perso.crans.org/besson/_sources/$file" >> ".build/html/${file%.rst}.pdf"
-	echo "%%EOF" >> ".build/html/${file%.rst}.pdf"
+	echo "%% Generate by Lilian Besson. (c) 2011-2013" >> ".build/pdf/${file%.rst}.pdf"
+	echo "%% Last version on line : http://perso.crans.org/besson/_sources/$file" >> ".build/pdf/${file%.rst}.pdf"
+	echo "%%EOF" >> ".build/pdf/${file%.rst}.pdf"
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
