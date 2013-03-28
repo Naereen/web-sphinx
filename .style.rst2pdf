@@ -177,9 +177,10 @@
       parent: base
       fontName: stdBoldItalic
 
-    red:
+    todo:
       parent: base
       textColor: red
+      underline: true
 
     normal:
       parent: base

@@ -43,6 +43,7 @@ listTEX=""
 listPDFs=""
 
 for file in *.rst
+##for file in `cat .pdf_all.list`
 do
 	echo -e "$u${red}**********************************************${reset}${white}"
 	echo -e "\n\n Examining the file '$file'..."
