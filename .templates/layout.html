@@ -1,9 +1,10 @@
 {% extends "!layout.html" %}
 
 {% block rootrellink %}
-   <li><img src="{{ pathto('_static/favicon.ico', 1) }}" alt=""
-    style="height:24px; widht:24px; vertical-align: middle; margin-top: -1px"/></li>
+   <li><img src="{{ pathto('_static/.besson.png', 1) }}" alt=""
+    style="height:32px; widht:32px; vertical-align: middle; margin-top: -1px"/></li>
    <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
+   <li>{{ title }} (v{{ version}} {{ release }})</li>
 {% endblock %}
 
 {% block extrahead %}
