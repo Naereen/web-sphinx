@@ -51,7 +51,7 @@ do
 	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
-	rst2pdf --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
+	rst2pdf --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
