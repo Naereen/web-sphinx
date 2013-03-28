@@ -10,18 +10,11 @@
 #	__date__='jeu. 28/03/2013 at 11h:31m:10s '
 #
 # A simple script to automatize the generation fo one PDF file
-# from rST files, with rst2pdf
+# from rST files, with rst2pdf and rst2latex -> pdflatex
 
 echo -e "$0: begin to work, on $PWD."
 
-##echo -e "\n\n Copying `ls *.rst` in .build/html/ ....."
 mkdir -v --parents .build/pdf/
-#cp -v .*.rst *.rst .build/pdf/
-#cp -v .style.rst2pdf .build/pdf/
-
-oldPWD="`pwd`"
-echo -e "\n Going to .build/pdf/ ....."
-#cd .build/pdf/
 
 read -p "[o]ui/[N]ON ? " ok
 
@@ -33,33 +26,29 @@ for file in transifex*.rst
 do
 	echo -e "\n Examining the file '$file'..."
 
-	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o "${file%.rst}.fromrst.pdf" "$file" && \
-	listPDFfromRSTs="$listPDFfromRSTs ${file%.rst}.fromrst.pdf" && \
-	echo -e " '${file%.rst}.pdf' well generated ...."
+	rst2pdf -s ./.style.rst2pdf --compressed --verbose --language=fr --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
+	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
+	echo -e " '.build/pdf/${file%.rst}.pdf' well generated ...."
 
-	rst2latex -l fr --baseurl="http://perso.crans.org/besson/" "$file" "${file%.rst}.tex" && \
+	rst2latex --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --verbose --language=fr --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e " '${file%.rst}.tex' well generated ...."
-	pdflatex "${file%.rst}.tex" && \
+	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" && \
 	listPDFs="$listPDFs ${file%.rst}.pdf" && \
-	pdflatex "${file%.rst}.tex" && \
-	echo -e " '${file%.rst}.pdf' well generated ...."
-
+	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" && \
+	echo -e " '${file%.rst}.pdf' well generated ...." && \
+	echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux && \
+	mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/ && \
+	mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
 	echo -e "*** Done: for the file '$file' ***"
 	echo -e "**********************************"
 done
 
-echo -e "\n Coming back to the main directory....."
-cd "$oldPWD"
-
-echo -e "\n Erasing `ls .build/pdf/*.rst` ....."
-rm -vf .build/pdf/*.rst
-
 echo -e "\n Done : the following fromrst.pdf files have been produced :"
-echo "$listPDFfromRSTs"
+echo -e "$listPDFfromRSTs"
 echo -e "\n Done : the following LaTeX files have been produced :"
-echo "$listTEX"
+echo -e "$listTEX"
 echo -e "\n Done : the following PDF files have been produced :"
-echo "$listPDFs"
+echo -e "$listPDFs"
 
 echo -e "**********************************"
