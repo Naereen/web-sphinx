@@ -1,0 +1,12 @@
+{% extends "!sourcelink.html" %}
+{% block sidebarsourcelink %}
+<h3>{{ _('Cette page dans en .txt et en .pdf') }}</h3>
+<ul class="this-page-menu">
+  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
+         rel="nofollow">Voir la version PDF</a></li>
+  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}"
+         rel="nofollow">Voir le fichier source</a></li>
+</ul>
+{% endblock %}
+
+
