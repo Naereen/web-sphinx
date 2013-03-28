@@ -95,7 +95,7 @@ do
 	echo "%% The last version of this file is on line : \n%% http://perso.crans.org/besson/_sources/$file" >> ".build/pdf/${file%.rst}.pdf"
 	echo "%%EOF" >> ".build/pdf/${file%.rst}.pdf"
 
-	rm -rf ".build/pdf/${file%.rst}.pdf"~
+	rm -vf ".build/pdf/${file%.rst}.pdf"~
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
 #	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
