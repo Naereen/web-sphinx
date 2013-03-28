@@ -35,12 +35,19 @@ Exemple
  Par exemple, mon `.bashrc <publis/bin/.bashrc>`_ a une signature
  `.bashrc.asc <publis/bin/.bashrc.asc>`_.
 
- Cette signature ressemble à ça :
+ Cette signature ressemble à ça (fichier ``~/.bashrc.asc``) :
+
+.. include:: /home/lilian/.bashrc.asc
+
+
+Avec l'extension ``sphinx.ext.runblock``, il devrait être possible d'embarquer
+la commande qui permet de créer cette signature (et sa sortie) :
 
  .. runblock:: console
 
     $ gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
+ .. warning:: Seulement pour la version **HTML** !
 
 Comment utiliser ces fichiers **.asc** ?
 ----------------------------------------
