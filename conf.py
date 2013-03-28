@@ -239,7 +239,7 @@ html_show_copyright = True
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
 # base URL from which the finished HTML is served.
-#html_use_opensearch = ''
+html_use_opensearch = 'http://perso.crans.org/besson/'
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
@@ -252,10 +252,14 @@ htmlhelp_basename = 'LilianBesson'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
 'pointsize': '10pt',
+
+# Get LaTeX to handle Unicode correctly
+'inputenc': r'\usepackage[utf8x]{inputenc}',
+'utf8extra': ''
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
@@ -264,8 +268,15 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LilianBesson.tex', u'Lilian Besson on the web Documentation',
+  ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
    u'Lilian Besson', 'howto'),
+  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
+   u'Lilian Besson', 'howto'),
+  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+   u'Lilian Besson', 'howto'),
+  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'CV - Lilian BESSON',
+   u'Lilian Besson', 'howto'),
+# add more !
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -281,6 +292,16 @@ latex_show_pagerefs = True
 
 # If true, show URL addresses after external links.
 latex_show_urls = True
+
+# Additional stuff for the LaTeX preamble.
+latex_preamble = r'''
+\authoraddress{
+  \strong{Lilian Besson}\\
+  Email: \email{lilian.besson@normale.fr}
+}
+\let\Verbatim=\OriginalVerbatim
+\let\endVerbatim=\endOriginalVerbatim
+'''
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
