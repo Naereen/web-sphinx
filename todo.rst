@@ -20,14 +20,11 @@ TODO génériques
 Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
-.. todo::
+.. todo:: terminer de bosser sur .templates/*.html
 
-   Trouver une solution pour embarquer la dernière actualisation, via :
-    * `web-sphinx/rss <https://bitbucket.org/lbesson/web-sphinx/rss>`_;
-    * `web-sphinx-scripts/rss <https://bitbucket.org/lbesson/web-sphinx-scripts/rss>`_.
+.. todo:: trouver un moyen d'activer les raccourcis clavier.
 
-.. todo:: Sinon, le faire à la main ?
-
+.. todo:: idée : utiliser .templates/*.html pour changer le code rajouter en haut,en base (previous next), et lui faire rajouter un raccourcis.
 
 ------------------------------------------------------------------------------
 
