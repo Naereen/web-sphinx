@@ -1,3 +1,14 @@
+# Style Sheet to use with rst2pdf
+# (c) Lilian Besson 2011-2013
+#
+# Check out the last version
+# https://bitbucket.org/lbesson/web-sphinx/src/
+#  -> .style.rst2pdf
+#
+# Help me to improve this !
+# mailto:lilian DOT besson AT normale DOT fr
+#
+
 
   # List any fonts you would like to embed in the PDF here
   embeddedFonts: []
@@ -14,8 +25,8 @@
     margin-left: 1cm
     margin-right: 1cm
     margin-gutter: 0cm
-    spacing-header: 5mm
-    spacing-footer: 5mm
+    spacing-header: 4mm
+    spacing-footer: 4mm
 
     # The first template is one of the 'pageTemplates"
     # (See next section)
@@ -81,7 +92,7 @@
     stdMonoBoldItalic: Courier-BoldOblique
     stdSerif: Times-Roman
 
-  linkColor: navy
+  linkColor: green
 
   styles:
     base:

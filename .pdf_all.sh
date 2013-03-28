@@ -17,6 +17,8 @@
 
 . ~/.color.sh
 
+STEP="$1"
+
 echo -e "${green}$0: begin to work, on $PWD.${white}"
 
 mkdir -v --parents .build/pdf/
@@ -55,7 +57,7 @@ do
 
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --config=conf.py --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
+	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF
@@ -66,11 +68,13 @@ do
 		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
 ##		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
 		mv -fv "${file%.rst}.tex" /tmp/
-		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
+		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" ".build/pdf/${file%.rst}.toc" /tmp/
 	fi
 
 	echo -e "$green*** Done: for the file '$file' ***$white"
-	#read -p "[o]ui/[N]ON ? " ok
+	if [ ! "0" = "0$STEP" ]; then
+	 read -p "[o]ui/[N]ON ? " ok
+	fi
 	echo -e "$u${red}**********************************${reset}${white}"
 done
 
