@@ -45,15 +45,17 @@ do
 	listTEX="$listTEX ${file%.rst}.tex" && \
 	echo -e " '${file%.rst}.tex' well generated ...." && \
 # LaTeX ---> PDF
-	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" && \
-	listPDFs="$listPDFs ${file%.rst}.pdf" && \
-	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" && \
-	echo -e " '${file%.rst}.pdf' well generated ...." && \
-	echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux" && \
-	mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/ && \
-	mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
+	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex"
+	if [ -f ".build/pdf/${file%.rst}.pdf" ]; then
+		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
+		echo -e " '.build/pdf/${file%.rst}.pdf' well generated ...."
+		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
+		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
+		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
+	fi
 
 	echo -e "*** Done: for the file '$file' ***"
+	read -p "[o]ui/[N]ON ? " ok
 	echo -e "**********************************"
 done
 
