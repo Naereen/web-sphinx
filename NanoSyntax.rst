@@ -8,6 +8,20 @@
 #########################################
 .. include:: .special.rst
 
+.. sidebar:: Liens directs vers les *vrais* fichiers de coloration
+
+   Cette page est un *tutoriel*.
+   Les fichiers intéressants sont dans le sous dossier `<NanoSyntax/>`_.
+   
+   En particulier :
+   
+    * `.nanorc <NanoSyntax/.nanorc>`_;
+    * `reST.nanorc <NanoSyntax/reST.nanorc>`_ pour **reStructuredText** (fait entièrement par moi);
+    * `caml.nanorc <NanoSyntax/caml.nanorc>`_ pour **OCaml** (amélioré);
+    * `python.nanorc <NanoSyntax/python.nanorc>`_ pour **Python** (amélioré);
+    * `cuda.nanorc <NanoSyntax/cuda.nanorc>`_ pour **CUDA** (grandement amélioré);
+
+
 Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
 
 Qu'est-ce que la coloration syntaxique ?
