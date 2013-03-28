@@ -5,71 +5,70 @@
 #	https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc
 #
 #	__author__='Lilian BESSON'
-#	__email__='lilian.besson@normale.fr'
-#	__version__='0.1'
-#	__date__='jeu. 28/03/2013 at 11h:31m:10s '
+#	__email__='lilian DOT besson AT normale D O T fr'
+#	__version__='1.0'
+#	__date__='jeu. 28/03/2013 at 04h03m'
 #
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf and rst2latex -> pdflatex
-#
-#  .*.rst: are NOT used : specials and included only files
-#  *.rst: ARE used (all of them). 
 
 for i in "$@"; do
  case "$i" in
  -h|--help|-?|--?)
-   echo -e "${yellow}$0 --help | [options] file1.rst [file2.rst]${white}"
+   echo -e "$0 --help | [options] file1.rst [file2.rst]"
    echo -e ""
-   echo -e "Generate one PDF file from rST files file1.rst file2.rst ... with ${blue}rst2pdf${white}."
+   echo -e "Generate one PDF file from rST files file1.rst file2.rst ... with rst2pdf."
    echo -e "Help:"
    echo -e "	--help: to print this help message."
-   ecjo -e "Options:"
+   echo -e "Options:"
    echo -e "	--view: to open the PDF after their generation."
+   echo -e ""
+   echo -e "The style sheel must be '.style.rst2pdf'."
    echo -e ""
    echo -e "Copyrights: (c) Lilian Besson 2011-2013."
    echo -e "Released under the term of the GPL v3 Licence."
    echo -e "In particular, $0 is provide WITHOUT ANY WARANTY."
+   exit 0
   ;;
  *)
-   echo "Type --help to print the help."
   ;;
+ esac
 done
 
 . ~/.color.sh
 
-#STEP="$1"
+if [ ! -f .style.rst2pdf ]; then
+ echo -e "${red} The style sheet .style.rst2pdf is absent : I'll try without it...."
+fi
 
 VOIR="$1"
-
 if [ "0$VOIR" = "0--view" ]; then
  shift
 fi
 
-echo -e "${green}$0: begin to work, on $PWD.${white}"
-
+#echo -e "${green}$0: begin to work, on $PWD.${white}"
 mkdir -v --parents .build/pdf/
 
-logfile="/tmp/$0.$$.log"
-if [ -f "$logfile" ];
-then
-	mv -v "$logfile" "$logfile~~"
-fi
+#logfile="/tmp/$0.$$.log"
+#if [ -f "$logfile" ];
+#then
+#	mv -v "$logfile" "$logfile~~"
+#fi
 
-echo -e "I will generate a PDF file (.pdf) for each of the following files (.rst):"
+echo -e "I will generate a PDF file (.pdf) for each of the following files (.rst): $@"
 #echo -e "I will generate two PDF files (.pdf and .fromrst.pdf) for each of the following files:"
 
-echo -e "${magenta} I will write my output log to ${u}${black} '$logfile:1:1' ${reset}${white}"
-echo -e "INIT: $0 at `date`" > "$logfile"
+#echo -e "${magenta} I will write my output log to ${u}${black} '$logfile:1:1' ${reset}${white}"
+#echo -e "INIT: $0 at `date`" > "$logfile"
 
-ls --color=auto *.rst || exit 1
+#ls --color=auto *.rst || exit 1
 
 #read -p "[o]ui/[N]ON ? " ok
-
-echo -e "OK: I'm going to begin...."
+#echo -e "OK: I'm going to begin...."
 
 listPDFfromRSTs=""
-listTEX=""
-listPDFs=""
+#listTEX=""
+#listPDFs=""
 
 ##for file in *.rst
 ##for file in `cat .pdf_all.list`
