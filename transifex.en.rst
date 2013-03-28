@@ -19,8 +19,8 @@ a discreet message advising of the proposed translations of the site.
 
 Curious, I went take a look at the software.
 
-Translation **EN** :math:`\rightarrow` **FR**
----------------------------------------------
+Translation **EN** *→* **FR**
+-----------------------------
 Transifex
 ^^^^^^^^^
  That's how the translation platform they used is called.

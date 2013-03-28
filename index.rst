@@ -230,8 +230,8 @@ Autres pages
 ------------
 
 .. toctree::
+   :numbered:
    :titlesonly:
-   :maxdepth: 2
    
    index_en
    CV_Lilian_BESSON.fr

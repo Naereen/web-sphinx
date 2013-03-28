@@ -18,8 +18,8 @@ un discret message informant du projet de traductions du site.
 
 Curieux, je suis allé jeter un oeil au logiciel utilisé.
 
-Traduction **EN** :math:`\rightarrow` **FR**
---------------------------------------------
+Traduction **EN** *→* **FR**
+----------------------------
 Transifex
 ^^^^^^^^^
  C'est ainsi que s'appelle l'a plateforme utilisée pour la traduction.
