@@ -1,20 +1,20 @@
 {% extends "!layout.html" %}
 
 {% block rootrellink %}
-   <li><img src="{{ pathto('_images/favicon.ico', 1) }}" alt=""
-                 style="vertical-align: middle; margin-top: -1px"/></li>
+   <li><img src="{{ pathto('_static/favicon.ico', 1) }}" alt=""
+    style="height:16px; widht:16px; vertical-align: middle; margin-top: -1px"/></li>
    <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 
 {% block extrahead %}
 {{ super() }}
   <!-- Dublin Core Metadata -->
-  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"></link>
-    <meta name="DC.Title" content="Lilian Besson on the web"></meta>
-    <meta name="DC.Language" content="fr"></meta>
-    <meta name="DC.Creator" content="Lilian Besson"></meta>
-    <meta name="DC.Subject" content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan; GNU Nano; Ubuntu; gedit; GNUPlot; GraphViz; GPG; LaTeX; rST; Octave"></meta>
-    <meta name="DC.Date" content="2013-03-26"></meta>
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+    <meta name="DC.Title" content="Lilian Besson on the web" />
+    <meta name="DC.Language" content="fr" />
+    <meta name="DC.Creator" content="Lilian Besson" />
+    <meta name="DC.Subject" content="Computer Science; Maths; OCaml; Python; Cr@ns; ENS de Cachan; GNU Nano; Ubuntu; gedit; GNUPlot; GraphViz; GPG; LaTeX; rST; Octave" />
+    <meta name="DC.Date" content="2013-03-26" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from bitbucket.org) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss"/>
@@ -105,10 +105,10 @@ window.confirm("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}
-+" - Gauche (←) : page précédente ({{ prev.link|e }}), \n"
++" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"
 {% endif %}
 {% if next %}
-+" - Droite (→) : page suivante ({{ next.link|e }}). \n"
++" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"
 {% endif %}
 +"\n Cette fonctionnalité est encore en développement !\n"
 +" Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss !\n"
@@ -128,6 +128,14 @@ location.href="{{ prev.link|e }}";
 'disable_in_input':true,
 'target':document
             });    
+shortcut.add("p",function() {
+location.href="{{ prev.link|e }}";
+            },{
+'type':'keydown',
+'propagate':false,
+'disable_in_input':true,
+'target':document
+            });    
 {% endif %}
 shortcut.add("i",function() {
 location.href="index.html";
@@ -139,6 +147,14 @@ location.href="index.html";
             });    
 {% if next %}
 shortcut.add("Right",function() {
+location.href="{{ next.link|e }}";
+            },{
+'type':'keydown',
+'propagate':false,
+'disable_in_input':true,
+'target':document
+            });
+shortcut.add("n",function() {
 location.href="{{ next.link|e }}";
             },{
 'type':'keydown',
