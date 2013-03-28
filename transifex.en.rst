@@ -49,8 +49,7 @@ Translation interface
    :alt: A screen capture to the interface of Transifex.com (© & ® Transifex)
    :target: https://www.transifex.com
 
-
-Difficulties encountered
+Encountered difficulties
 ^^^^^^^^^^^^^^^^^^^^^^^^
  The main difficulie is the fact of not being alone to translate.
 
