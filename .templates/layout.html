@@ -96,32 +96,40 @@
 <script type="text/javascript">
 shortcut.add("h",function() {
 window.confirm("The following shortcuts are enabled : \n\
- - h : display this help message, \n\
- - Left : previous page ({{ previous.title|e }}), \n\
- - Right : next page ({{ next.title|e }}). \n\
-  Lilian Besson (c) 2013.")
+ - h : display this help message, \n"
+{% if prev %}
++" - Left : previous page ({{ prev.link|e }}), \n"
+{% endif %}
+{% if next %}
++" - Right : next page ({{ next.link|e }}). \n"
+{% endif %}
++"  Lilian Besson (c) 2013.")
             },{
 'type':'keydown',
 'propagate':false,
 'disable_in_input':true,
 'target':document
             });
+{% if prev %}
 shortcut.add("Left",function() {
-location.href="{{ previous.link|e }}";
+location.href="{{ prev.link|e }}";
             },{
 'type':'keydown',
 'propagate':false,
 'disable_in_input':true,
 'target':document
             });    
+{% endif %}
+{% if next %}
 shortcut.add("Right",function() {
-location.href="{{ previous.link|e }}";
+location.href="{{ next.link|e }}";
             },{
 'type':'keydown',
 'propagate':false,
 'disable_in_input':true,
 'target':document
             });
+{% endif %}
 </script>
 {% endblock %}
 
