@@ -21,7 +21,16 @@ echo -e "${green}$0: begin to work, on $PWD.${white}"
 
 mkdir -v --parents .build/pdf/
 
+logfile="/tmp/$0.$$.log"
+if [ -f "$logfile" ];
+then
+	mv -v "$logfile" "$logfile~~"
+fi
+
 echo -e "I will generate two PDF files (.pdf and .fromrst.pdf) for each of the following files:"
+
+echo -e "${magenta} I will write my output log to ${u}${black} '$logfile:1:1' ${reset}${white}"
+echo -e "INIT: $0 at `date`" > "$logfile"
 
 ls --color=auto *.rst || exit 1
 
@@ -35,32 +44,33 @@ listPDFs=""
 
 for file in *.rst
 do
-	echo -e "$u${red}******************************************${reset}****"
+	echo -e "$u${red}**********************************************${reset}${white}"
 	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
-	rst2pdf -s ./.style.rst2pdf --compressed --verbose --language=fr  --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
+	rst2pdf -s ./.style.rst2pdf --compressed --verbose --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.fromrst.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/html/${file%.rst}.fromrst.pdf" && \
-	echo -e " '.build/pdf/${file%.rst}.pdf' well generated ....\n\n"
+	echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....\n\n$white"
 
-	echo -e "$u${red}******************************************${reset}****"
+	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-	rst2latex --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --verbose --language=fr --section-subtitles "$file" "${file%.rst}.tex" && \
+	rst2latex --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --verbose --section-subtitles "$file" "${file%.rst}.tex" && \
 	listTEX="$listTEX ${file%.rst}.tex" && \
-	echo -e " '${file%.rst}.tex' well generated ...." && \
+	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF
-	pdflatex -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex"
+	pdflatex  -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" >> "$logfile"
 	if [ -f ".build/pdf/${file%.rst}.pdf" ]; then
 		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
-		echo -e " '.build/pdf/${file%.rst}.pdf' well generated ...."
+		echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....$white"
 		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
 ##		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
+		mv -fv "${file%.rst}.tex" /tmp/
 		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" /tmp/
 	fi
 
-	echo -e "*** Done: for the file '$file' ***"
+	echo -e "$green*** Done: for the file '$file' ***$white"
 	read -p "[o]ui/[N]ON ? " ok
-	echo -e "$u${red}******************************${reset}****"
+	echo -e "$u${red}**********************************${reset}${white}"
 done
 
 echo -e "\n Done : the following fromrst.pdf files have been produced :"
@@ -70,4 +80,4 @@ echo -e "$listTEX"
 echo -e "\n Done : the following PDF files have been produced :"
 echo -e "$listPDFs"
 
-echo -e "$u${red}******************************${reset}****"
+echo -e "$u${red}**********************************${reset}${white}"
