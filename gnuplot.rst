@@ -154,8 +154,7 @@ Graphe et entrée texte
 Comme dans `.special.rst <_sources/.special.txt>`_,
 j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
-
-:blue:`C'est simple, c'est propre.`
+:blue:`C'est simple, c'est propre !`
 
 .. todo::
 
@@ -187,8 +186,6 @@ Copyrights
 
  La page officielle du projet est 
  `gnuplot.respawned.com <http://gnuplot.respawned.com/>`_.
- Une copie locale de cette page originale est
- `<gnuplot.old.html>`_.
 
  La seule différence entre la page originale et celle-ci est le fait que
  celle ci est **intégrée** dans les pages de mon projet *Sphinx* (et donc,

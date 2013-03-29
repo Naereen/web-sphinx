@@ -38,4 +38,7 @@ Le flux
  Pour le moment, j'utilise un *web-service* de **generateit.net**.
  Je cherche une solution pour le faire indépendemment d'un autre site.
 
+ Je cherche aussi une solution n'utilisant pas le PHP.
+ Parce que c'est moche le PHP...
+
 .. include:: .bottom.fr.rst

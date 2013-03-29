@@ -38,8 +38,8 @@ L'éditeur **ACE**
    import sys
    from random import *
    foo(sys.stderr)</div>
-   <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
    editor.setTheme("ace/theme/twilight");
