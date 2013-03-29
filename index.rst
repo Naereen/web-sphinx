@@ -13,7 +13,9 @@ A propos de moi
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
-   Ces pages ont été générées le |today|.
+
+   Ces pages ont été générées le |today| pour la dernière fois.
+
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
@@ -21,20 +23,21 @@ Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
 **et je suis le master de recherche en informatique de Paris (le MPRI)**
-**et le master de mathématiques appliquées de l'ÉNS de Cachan.**
+:blink:`et` **le master de mathématiques appliquées de l'ÉNS de Cachan.**
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
  N'hésitez pas à me *contacter* :
-  1. par courier ::
+
+  #. par courier ::
   
         Mr Lilian Besson,
         Chambre B216,
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France
-  2. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
-  3. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ 
+  #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ 
      (*il faut remplacer DOT par . et AT par @*).
 
      .. image:: .telephone.png
@@ -42,7 +45,7 @@ Adresses de contact
         :align: right
         :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
         
-  4. ou par téléphone si c'est urgent ou important :
+  #. ou par téléphone (:silver:`si c'est urgent ou important`) :
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
@@ -55,12 +58,12 @@ Mes projets en ligne
 
 
 Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
-  1. via mes dépôts *git* sur mon compte *bitbucket*, 
+  #. via mes dépôts *git* sur mon compte *bitbucket*, 
      `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  2. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
-  3. ou via mon profil *Launchpad*, 
+  #. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
+  #. ou via mon profil *Launchpad*, 
      `launchpat.net/~lbesson <https://launchpad.net/~lbesson>`_;
-  4. ou encore sur ma page personnelle *Wikipédia*, 
+  #. ou encore sur ma page personnelle *Wikipédia*, 
      `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
 
 Stage de M1
@@ -72,7 +75,7 @@ Il se déroulera à l'**UCL** (:u:`University College of London`),
 sous la direction de *Peter O'Hearn* et *Jules Villard*,
 à propos de logique de séparation.
 
-  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
+  :cyan:`Si vous avez un plan logement, n'hésitez pas à me contacter.`
 
 ------------------------------------------------------------------------------
 
@@ -84,12 +87,12 @@ sur la modélisation numérique d'équations différentielles de mécaniques des
 les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA`` 
 pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
-Notre rapport de stage peut etre téléchargé ici 
-`rapport_stage.pdf <publis/rapport_stage.pdf>`_,
-les slides de la soutenance finale sont disponibles ici 
-`Slides_soutenance.pdf <publis/Slides_soutenance.pdf>`_,
+Notre rapport de stage peut être téléchargé, ici :
+`rapport_stage.pdf <publis/rapport_stage.pdf>`_ (en français),
+les slides de la soutenance finale sont disponibles
+`Slides_soutenance.pdf <publis/Slides_soutenance.pdf>`_ (:maroon:`attention, 160 Mo !`),
 et enfin une archive contenant nos codes sources *(distribués sous licence GPL)* 
-est téléchargeable ici : `code_stage.zip <publis/code_stage.zip>`_.
+est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
 
 Naereen Corp
 ^^^^^^^^^^^^
@@ -99,6 +102,29 @@ et de développement. Il est réalisé avec Google Site,
 
 La ``Naereen Corp.`` a aussi une page Facebook, 
 `facebook.com/naereen.corp <https://www.facebook.com/naereen.corp>`_.
+
+.. sidebar:: À propos de Naereen
+
+   **Naereen** est mon pseudo, que j'utilise :blue:`partout`.
+   C'est un prénom oriental *féminin*, porté notamment en Iran, et en Syrie.
+   
+   Partout où je m'en sers, je suis le seul à m'en être servi, même en
+   considérant des variations d'écritures. Et ce *partout* prend en compte :
+
+    * World of Warcraft, Rift, Warhammer online (mes années lycées) et d'autres;
+    * multiples forums, sites communautaires en lignes, français et anglais
+      (`SDEN <http://www.sden.org/>` par exemple);
+    * au Cr@ns;
+    * sur Transifex, Wikipédia et d'autres sites très utilisés;
+    * etc;
+   
+   *Bref*, j'utilise ce pseudo partout depuis la classe de Seconde, et il me plaît.
+   
+   D'où vient-il ? Du personnage de Noreen dans le roman "L'Arène", édition
+   *Fleuve Noir*, écrit par William R. Forstchen. Ce roman se passe dans l'univers
+   de Magic L'Assemblée, très célèbre jeu de carte à jouer et à collectionner.
+   
+   Noreen a dérivé vers Naereen, que j'orthographie aussi Næreen quand je peux.
 
 --------------------------------------------------------------------
 
@@ -265,6 +291,5 @@ Liste des autres pages
    ace
    rss
    transifex.fr
-   Liste de problèmes à régler <todo>
    time
    admin

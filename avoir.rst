@@ -18,30 +18,28 @@ Pour raccourcir la taille des scripts JS embarqués ?
 
 Espace d'expérimentations
 -------------------------
-
 .. versionadded:: 1.4
 
-   D'autres rôles :
+D'autres rôles :
 
-    * :u:`souligné`, avec ``:u:`texte```;
-    * :o:`surligné`, avec ``:o:`texte```;
-    * :blink:`clignotant`, avec ``:blink:`texte```;
-    * :line:`barré`, avec ``:line:`texte```;
-    * :it:`italique`, avec ``:it:`texte```;
-    * :ob:`oblique`, avec ``:ob:`texte```.
+ * :u:`souligné`, avec ``:u:`texte```;
+ * :o:`surligné`, avec ``:o:`texte```;
+ * :blink:`clignotant`, avec ``:blink:`texte```;
+ * :line:`barré`, avec ``:line:`texte```;
+ * :it:`italique`, avec ``:it:`texte```;
+ * :ob:`oblique`, avec ``:ob:`texte```.
 
 Valideurs CSS et HTML
 ---------------------
-
 .. versionadded:: 1.5
 
-   Deux liens vers les valideurs **CSS** et **HTML** du W3C sont désormais
-   intégrés dans le bas de la page.
+Deux liens vers les valideurs **CSS** et **HTML** du W3C sont désormais
+intégrés dans le bas de la page.
 
-   Une des deux images est codée en *base64*, pour essayer.
+Une des deux images est codée en *base64*, pour essayer.
 
-   L'autre est :
+L'autre est :
 
-   .. image:: .valid-xhtml10.png
+.. image:: .valid-xhtml10.png
 
 .. include:: .bottom.fr.rst
