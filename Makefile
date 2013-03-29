@@ -127,6 +127,11 @@ git:
 	git commit -m "auto"
 	git push
 
+pdf:
+	$(SPHINXBUILD)-b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
+	@echo
+	@echo "Build finished. The PDF files are in $(BUILDDIR)/pdf."
+
 ########################## End of custom stuffs ###############################
 ###############################################################################
 
