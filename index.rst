@@ -75,7 +75,7 @@ Il se déroulera à l'**UCL** (:u:`University College of London`),
 sous la direction de *Peter O'Hearn* et *Jules Villard*,
 à propos de logique de séparation.
 
-  :cyan:`Si vous avez un plan logement, n'hésitez pas à me contacter.`
+  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
 
 ------------------------------------------------------------------------------
 
@@ -96,13 +96,13 @@ est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
 
 .. sidebar:: À propos de Naereen
 
-   **Naereen** est mon pseudo, que j'utilise :blue:`partout`.
-   C'est un prénom oriental *féminin*, porté notamment en Iran, et en Syrie.
-   
-   Partout où je m'en sers, je suis le seul à m'en être servi, même en
+   **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise :blue:`partout`.
+   C'est un *prénom oriental féminin*, porté notamment en Iran, et en Syrie.
+ 
+..   Partout où je m'en sers, je suis le seul à m'en être servi, même en
    considérant des variations d'écritures.
    
-   .. Et ce *partout* prend en compte :
+   Et ce *partout* prend en compte :
 
     * World of Warcraft, Rift, Warhammer online (mes années lycées) et d'autres;
     * multiples forums, sites communautaires en lignes, français et anglais

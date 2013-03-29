@@ -51,6 +51,8 @@ Pages in English
 ----------------
 .. toctree::
    :maxdepth: 3
+   :numbered:
+   :titlesonly:
    
    CV_Lilian_BESSON.en
    transifex.en

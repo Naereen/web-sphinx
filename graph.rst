@@ -31,7 +31,7 @@ Exemples
    digraph Sphinx {
       "fichiers texte (.rst)" -> "pages web (.html)";
       "fichiers texte (.rst)" -> "pages de manuel (.1)";
-      "fichiers texte (.rst)" -> "fichier LaTeX";
+      "fichiers texte (.rst)" -> "fichiers LaTeX (.tex)";
       "fichiers texte (.rst)" -> "pages web (.epub)";
    }
 
