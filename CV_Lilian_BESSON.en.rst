@@ -59,7 +59,7 @@ Programming Languages
 ----------------------
 * :Basic: **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 * :Intermediate: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
-* :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (3.12) (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
+* :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
 
 Computer skills
 ---------------

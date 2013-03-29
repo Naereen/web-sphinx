@@ -58,7 +58,7 @@ Langages de programmation
 -------------------------
 * :Niveau basique: **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 * :Niveau intermédiaire: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
-* :Niveau avancé: **Python** (2.7) (*script et orienté objet*), *Texas Instrument*-BASICs (*langage embarqué pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (3.12) (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
+* :Niveau avancé: **Python** (2.7) (*script et orienté objet*), *Texas Instrument*-BASICs (*langage embarqué pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
 
 Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 ------------------------------------------------------------------------
