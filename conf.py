@@ -219,8 +219,8 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   'index': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
+   'index*': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.html'],
 }
 

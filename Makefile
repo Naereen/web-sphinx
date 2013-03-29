@@ -65,7 +65,7 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
-send: send_public send_dpt send_zamok send_latexpdf send_pdf
+send: send_public send_dpt send_zamok send_pdf send_latexpdf
 
 send_latexpdf:
 	$(CP) .build/latex/CV*.pdf besson@zamok.crans.org:~/www/
