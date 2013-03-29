@@ -63,7 +63,7 @@ Programming Languages
 
 Computer skills
 ---------------
-* :Operating Systems: **Microsoft Windows**, Mac OS X, **Android** (2.2), **GNU/Linux** (with *Ångström*, *Ubuntu (11.10)*, *Debian* and *OpenWRT*);
+* :Operating Systems: **Microsoft Windows**, Mac OS X, **Android** (2.2), **GNU/Linux** (with *Ångström*, **Ubuntu**, *Debian* and *OpenWRT*);
 * :Text processing: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
 * :Text editors: Expert with **gEdit** & **GNU Nano** (Linux, Windows), Jota Text Editor (Android);
 * :Documentation generators: **OCamlDoc** for OCaml, **PyDOC** & **Sphinx** for Python;
@@ -97,11 +97,11 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 ----------------------------------------------------
  * **Mathematics** MSc (*Since Sept. 2012*) (well validated)
   * :University(ies): ÉNS de Cachan & Paris Diderot University (Paris VII);
-  * :Domain(s): Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation.
+  * :Domain(s): Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation, exterior calculus.
  
  * **Computer Science** MSc (*Since Sept. 2012*)
   * :University(ies): ÉNS de Cachan & Paris Diderot University (Paris VII);
-  * :Domain(s): Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning.
+  * :Domain(s): Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
 
 **2011-2012** : Third-year BSc (Bachelor, *licence* in French)
 --------------------------------------------------------------
@@ -121,7 +121,7 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
 BSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
- * :Title: Finite volumes method on :nVidia: graphic cards, applied to solve the *compressible Euler* problem;
+ * :Title: "Finite volumes method on *nVidia* graphic cards, applied to solve the *compressible Euler* problem";
  * :Supervisor: Pr. Florian de Vuyst;
  * :Description: 
     Math internship at `CMLA <http://www.cmla.ens-cachan.fr/>`_ (*Centre des mathématiques et de leurs applications*, 
@@ -133,7 +133,7 @@ BSc internship and thesis
     Numerical simulation, 
     sequential using :C: and `VTK <http://www.vtk.org>`_, 
     and parallel using `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_.
-    Interactive 2D simulation with :openGL:.
+    Interactive 2D simulation with *openGL*.
  * :Published:
     On my web page, the `bachelor thesis, in French <publis/rapport_stage.pdf>`_.
     Also published on the **IPOL journal** (`Image Processing on Line 
@@ -229,4 +229,5 @@ First-year BSc research project (2009-2010)
  * :Title: *The Chess board, a dynamic surface*;
  * :Supervisors: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM !*).
+
 .. include:: .bottom.en.rst

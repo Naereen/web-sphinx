@@ -62,7 +62,7 @@ Langages de programmation
 
 Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 ------------------------------------------------------------------------
-* :Systèmes d'exploitation: **Microsoft Windows**, Mac OS X, Android (2.2), **GNU/Linux** (notamment les distributions *Ångström*, *Ubuntu (11.10)*, *Debian* & *OpenWRT*);
+* :Systèmes d'exploitation: **Microsoft Windows**, Mac OS X, Android (2.2), **GNU/Linux** (notamment les distributions *Ångström*, **Ubuntu**, *Debian* & *OpenWRT*);
 * :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
 * :Éditeurs de texte: Expert avec **gEdit** & **GNU Nano** (Ubuntu, Windows), Jota Text Editor (Android);
 * :Générateurs de documentation: **OCamlDoc** pour OCaml, **PyDOC** & **Sphinx** pour Python;
@@ -96,11 +96,11 @@ Actuellement (**2012-2013**) : Première année de Master (M1)
 ------------------------------------------------------------
  * M1 de **Mathématiques** (*Depuis Sept. 2012*) (déjà validé)
   * :Université(s): ÉNS de Cachan & Université Paris Diderot (Paris VII);
-  * :Domaine(s): Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs.
+  * :Domaine(s): Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
  
  * M1 d'**Informatique** (*Depuis Sept. 2012*)
   * :Université(s): ÉNS de Cachan & Université Paris Diderot (Paris VII);
-  * :Domaine(s): Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Noteov et algorithmes randomisés, programmation réseau, apprentissage.
+  * :Domaine(s): Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
 
 **2011-2012** : Troisième et dernière année de Licence
 ------------------------------------------------------
@@ -118,7 +118,7 @@ Actuellement (**2012-2013**) : Première année de Master (M1)
 
 Stage et rapport de stage de L3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- * :Titre: Méthodes de volumes finis sur carte graphiques :nVidia: pour résoudre le problème d'Euler compressible;
+ * :Titre: "Méthodes de volumes finis sur carte graphiques *nVidia* pour résoudre le problème d'Euler compressible";
  * :Encadrant: Pr. Florian de Vuyst;
  * :Description: 
     Stage de L3 de mathématiques, au `CMLA <http://www.cmla.ens-cachan.fr/>`_ 
@@ -131,7 +131,7 @@ Stage et rapport de stage de L3
     Simulation numérique, 
     séquentielle en utilisant le language :C: et le standard d'affichage `VTK <http://www.vtk.org>`_, 
     et parallèle en utilisant le language `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_. 
-    Simulation intéractive en 2D, avec :openGL:.
+    Simulation intéractive en 2D, avec *openGL*.
  * :Publication:
     Sur ma page personnelle, le `rapport de stage <publis/rapport_stage.pdf>`_.
     Aussi publié dans le **journal IPOL** (`Image Processing on Line
