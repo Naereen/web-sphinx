@@ -87,7 +87,7 @@ do
 	echo -e "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
-	rst2pdf --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.txt.pdf" "$file" && \
+	rst2pdf --raw-html --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.txt.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/pdf/${file%.rst}.txt.pdf" && \
 	echo -e "$blue '.build/pdf/${file%.rst}.txt.pdf' well generated ....\n\n$white"
 

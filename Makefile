@@ -90,6 +90,7 @@ clean_build:
 	rm -rf $(BUILDDIR)/doctrees
 	rm -rf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
 	rm -rf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
+	rm -rf $(BUILDDIR)/latex
 
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
@@ -219,9 +220,11 @@ latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
 	## here we have to modify the $(BUILDDIR)/latex/Makefile file
-	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error -interaction=nonstopmode'/ > $(BUILDDIR)/latex/Makefile~
+	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error'/ > $(BUILDDIR)/latex/Makefile~
 	cat $(BUILDDIR)/latex/Makefile~ > $(BUILDDIR)/latex/Makefile
+	@echo "Makefile for PDF output well modified..."
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf
+	$(MAKE) -C $(BUILDDIR)/latex clean
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
 text:

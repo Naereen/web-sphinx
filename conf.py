@@ -38,6 +38,8 @@ extensions = [
 	'sphinxcontrib.cheeseshop',
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
+####### From reportLab
+	'rst2pdf.pdfbuilder'
 	]
 
 ##############################################################################
@@ -280,14 +282,13 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
-   u'Lilian Besson', 'howto'),
-#  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
-#   u'Lilian Besson', 'howto'),
-#  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
-#   u'Lilian Besson', 'howto'),
-#  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
-#   u'Lilian Besson', 'howto'),
-# add more !
+   u'Lilian Besson', 'howto', True),
+  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
+   u'Lilian Besson', 'howto', True),
+  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+   u'Lilian Besson', 'howto', True),
+  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
+   u'Lilian Besson', 'howto', True)
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
