@@ -12,9 +12,6 @@ Le toplevel
 .. raw:: html
 
    <script type="text/javascript" src="_static/toplevel.js"></script>
-   <noscript><span style="color:red" text-align="center">
-   Attention: votre navigateur semble ne pas supporter Javascript !</span>
-   </noscript>
    <div align=center>
    <div id="toplevel" align=left></div>
    </div>
@@ -33,12 +30,7 @@ Le toplevel
 Comme dans `.special.rst <_sources/.special.txt>`_,
 j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
-
 :blue:`C'est simple, c'est propre.`
-
-J'utilise aussi une balise ``HTML`` appelée ``noscript``,
-qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
-supporte pas Javascript.
 
 .. todo::
 

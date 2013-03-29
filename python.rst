@@ -11,9 +11,6 @@ Le toplevel
 
 .. raw:: html
 
-   <noscript><span style="color:red" text-align="center">
-   Attention: votre navigateur semble ne pas supporter Javascript !</span>
-   </noscript>
    <script>
     function start() {
      var input = document.getElementById('input')
@@ -88,12 +85,7 @@ Autres pages
 Comme dans `.special.rst <_sources/.special.txt>`_,
 j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
-
 :navy:`C'est simple, c'est propre.`
-
-J'utilise aussi une balise ``HTML`` appelée ``noscript``,
-qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
-supporte pas Javascript.
 
 Hébergements
 ------------

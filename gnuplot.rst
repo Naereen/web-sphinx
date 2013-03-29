@@ -54,9 +54,6 @@ Graphe et entrée texte
 
 .. raw:: html
 
-    <noscript><span style="color:red" text-align="center">
-    Attention: votre navigateur semble ne pas supporter Javascript !</span>
-    </noscript>
     <table class="noborder"><tbody><tr><td>
     <img src="blob:7716fba5-e3f5-4826-b26f-45f3c2f2758a" frameborder="0" id="gnuimg" type="image/svg+xml" class="float-right" height="500" width="600">
     </td><td style="width:100%;" valign="top">
@@ -159,10 +156,6 @@ j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
 
 :blue:`C'est simple, c'est propre.`
-
-J'utilise aussi une balise ``HTML`` appelée ``noscript``,
-qui, le cas échéant, permet de signaler à l'utilisateur que son navigateur ne
-supporte pas Javascript.
 
 .. todo::
 

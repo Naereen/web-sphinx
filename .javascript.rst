@@ -2,6 +2,13 @@
    
    Cette page embarque un ou plusieurs script(s) écrits en
    `JavaScript <https://developer.mozilla.org/fr/docs/JavaScript>`_.
-   À priori, cela devrait **fonctionner sur n'importe quel navigateur**,
-   pour peu :green:`qu'il supporte JavaScript` !
-   En particulier, la version **PDF** de cette page est inutile, ou presque...
+   À priori, cela devrait fonctionner sur *n'importe quel navigateur*
+   assez récent, pour peu qu'il *supporte JavaScript* !
+   Par ailleurs, la version **PDF** de cette page est inutile, ou presque...
+..   Vous pouvez signaler un bug d'un de ces scripts par `cette page <http://bitbucket.org/lbesson/web-sphinx-scripts/issues/>`_.
+
+.. raw:: html
+
+   <noscript><span style="color:red" text-align="center">
+   Attention: votre navigateur semble ne pas supporter Javascript !</span>
+   </noscript>
