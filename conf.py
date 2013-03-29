@@ -451,10 +451,10 @@ epub_tocdup = True
 # would mean that specific document would be compressed
 # regardless of the global pdf_compressed setting.
 pdf_documents = [
-  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr', u'CV - Lilian BESSON',
    u'Lilian Besson'),
-  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
-   u'Lilian Besson')
+#  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en', u'Résumé - Lilian BESSON',
+#   u'Lilian Besson')
 ]
 
 # A comma-separated list of custom stylesheets. Example:

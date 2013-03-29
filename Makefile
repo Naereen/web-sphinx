@@ -138,7 +138,7 @@ git:
 	git push
 
 pdf:
-	$(SPHINXBUILD)-b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
+	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
 	@echo
 	@echo "Build finished. The PDF files are in $(BUILDDIR)/pdf."
 
