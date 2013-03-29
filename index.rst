@@ -94,22 +94,15 @@ les slides de la soutenance finale sont disponibles
 et enfin une archive contenant nos codes sources *(distribués sous licence GPL)* 
 est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
 
-Naereen Corp
-^^^^^^^^^^^^
-Mon site perso pour accueillir certains de mes projets de programmation 
-et de développement. Il est réalisé avec Google Site, 
-`sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
-
-La ``Naereen Corp.`` a aussi une page Facebook, 
-`facebook.com/naereen.corp <https://www.facebook.com/naereen.corp>`_.
-
 .. sidebar:: À propos de Naereen
 
    **Naereen** est mon pseudo, que j'utilise :blue:`partout`.
    C'est un prénom oriental *féminin*, porté notamment en Iran, et en Syrie.
    
    Partout où je m'en sers, je suis le seul à m'en être servi, même en
-   considérant des variations d'écritures. Et ce *partout* prend en compte :
+   considérant des variations d'écritures.
+   
+   .. Et ce *partout* prend en compte :
 
     * World of Warcraft, Rift, Warhammer online (mes années lycées) et d'autres;
     * multiples forums, sites communautaires en lignes, français et anglais
@@ -125,6 +118,20 @@ La ``Naereen Corp.`` a aussi une page Facebook,
    de Magic L'Assemblée, très célèbre jeu de carte à jouer et à collectionner.
    
    Noreen a dérivé vers Naereen, que j'orthographie aussi Næreen quand je peux.
+   Et la Naereen Corp. désigne mon site *Google Site*.
+   Pourquoi Corp. ? Aucun souvenir...
+   Quand j'ai créé ce site, il fallait trouver un nom. Mettre mon vrai nom ne
+   m'allait pas. Mettre juste "naereen" non plus.
+   J'ai mis "naereencorp" !
+
+Naereen Corp.
+^^^^^^^^^^^^^
+Mon site perso pour accueillir certains de mes projets de programmation 
+et de développement. Il est réalisé avec Google Site, 
+`sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
+
+La ``Naereen Corp.`` a aussi une page Facebook, 
+`facebook.com/naereen.corp <https://www.facebook.com/naereen.corp>`_.
 
 --------------------------------------------------------------------
 
