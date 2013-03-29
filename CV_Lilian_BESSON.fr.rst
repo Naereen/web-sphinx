@@ -44,7 +44,7 @@ Autres informations à propos de moi
    * soit sur le site du *Cr@ns* : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
    * ou sur le site du département d'informatique de l'*ÉNS de Cachan* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
   2. mon compte *bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge mes projets de programmation;
-  3. mon site perso `https://sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_.
+  3. mon site perso `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_.
 
 ---------------------------------------------------------------------
 
