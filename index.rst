@@ -23,7 +23,7 @@ Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
 **et je suis le master de recherche en informatique de Paris (le MPRI)**
-:blink:`et` **le master de mathématiques appliquées de l'ÉNS de Cachan.**
+et **le master de mathématiques appliquées de l'ÉNS de Cachan.**
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
@@ -98,31 +98,7 @@ est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
 
    **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise :blue:`partout`.
    C'est un *prénom oriental féminin*, porté notamment en Iran, et en Syrie.
- 
-..   Partout où je m'en sers, je suis le seul à m'en être servi, même en
-   considérant des variations d'écritures.
-   
-   Et ce *partout* prend en compte :
 
-    * World of Warcraft, Rift, Warhammer online (mes années lycées) et d'autres;
-    * multiples forums, sites communautaires en lignes, français et anglais
-      (`SDEN <http://www.sden.org/>` par exemple);
-    * au Cr@ns;
-    * sur Transifex, Wikipédia et d'autres sites très utilisés;
-    * etc;
-   
-   *Bref*, j'utilise ce pseudo partout depuis la classe de Seconde, et il me plaît.
-   
-   D'où vient-il ? Du personnage de Noreen dans le roman "L'Arène", édition
-   *Fleuve Noir*, écrit par William R. Forstchen. Ce roman se passe dans l'univers
-   de Magic L'Assemblée, très célèbre jeu de carte à jouer et à collectionner.
-   
-   Noreen a dérivé vers Naereen, que j'orthographie aussi Næreen quand je peux.
-   Et la Naereen Corp. désigne mon site *Google Site*.
-   Pourquoi Corp. ? Aucun souvenir...
-   Quand j'ai créé ce site, il fallait trouver un nom. Mettre mon vrai nom ne
-   m'allait pas. Mettre juste "naereen" non plus.
-   J'ai mis "naereencorp" !
 
 Naereen Corp.
 ^^^^^^^^^^^^^
