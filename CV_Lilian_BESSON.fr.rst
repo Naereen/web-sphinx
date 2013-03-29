@@ -19,13 +19,13 @@ Adresse de contact
  * :Nom: **Besson**
  * :Prénom: **Lilian**
  * :Courriel: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (retirez les crochets)
- * **Adresse** (postale) ::
-  
-         Mr Lilian Besson,
-         Appartement B216,
-         70, rue Camille Desmoulins,
-         94230 - Cachan
-         France
+ * Adresse postale ::
+
+       Mr Lilian Besson,
+       Appartement B216,
+       70, rue Camille Desmoulins,
+       94230 - Cachan
+       France
 
 Candidature
 -----------
@@ -101,12 +101,14 @@ Divers
 Actuellement (**2012-2013**) : première année de Master (M1)
 ------------------------------------------------------------
  * M1 de **Mathématiques** (*Depuis Sept. 2012*) (déjà validé)
-  * :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
-  * :Domaines: Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
+
+   - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
+   - :Domaines: Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
  
  * M1 d'**Informatique** (*Depuis Sept. 2012*)
-  * :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
-  * :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
+
+   - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
+   - :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
 
 **2011-2012** : troisième et dernière année de Licence
 ------------------------------------------------------

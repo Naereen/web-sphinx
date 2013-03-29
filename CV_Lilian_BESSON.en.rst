@@ -20,13 +20,13 @@ Contact address
  * :First name: **Besson**
  * :Last name: **Lilian**
  * :Email: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (remove the brackets)
- * **Address** (postal) ::
+ * Postal address ::
     
-         Mr Lilian Besson,
-         Appartement B216,
-         70, rue Camille Desmoulins,
-         94230 - Cachan
-         France
+       Mr Lilian Besson,
+       Appartement B216,
+       70, rue Camille Desmoulins,
+       94230 - Cachan
+       France
 
 Application
 -----------
@@ -115,9 +115,9 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
  * **Mathematics** BSc (*September 2011 to July 2012*)
 
-   - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
-   - :Domains: Functional analysis, integration, algebras, arithmetic, partial and ordinary differential equations, topology, differential geometry;
-   - :Mark: 15.2/20, *magna cum laude*.
+     - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
+     - :Domains: Functional analysis, integration, algebras, arithmetic, partial and ordinary differential equations, topology, differential geometry;
+     - :Mark: 15.2/20, *magna cum laude*.
  
  * **Computer Science** BSc (*September 2011 to July 2012*)
 
@@ -161,7 +161,7 @@ BSc internship and thesis
 "*Grandes Écoles*" entrance exams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  #. Accepted and **matriculed** at *École Normale Supérieure de Cachan* (*July 2011*)
-y
+
     * :Rank: **99/1200**;
     * :Matriculated: at the maths department, student with the special French status *élève-normalien*.
 
@@ -232,9 +232,7 @@ BSc programming projects (2011-2012)
  * ``C--``: compiler from a subset of ``C`` to ``x86`` assembler, with formal semantics, written in **OCaml** (first semester project);
  * For **Android** apps :
 
-   - Syntaxical coloration and collaboration for `Jota Text Editor 
-     <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-     (about 4 millions downloads !);
+   - Syntaxical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
    - Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android 
      <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ app,
      a non-official project for the **OCaml** language,
