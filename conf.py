@@ -281,12 +281,12 @@ latex_elements = {
 latex_documents = [
   ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
    u'Lilian Besson', 'howto'),
-  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
-   u'Lilian Besson', 'howto'),
-  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
-   u'Lilian Besson', 'howto'),
-  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'CV - Lilian BESSON',
-   u'Lilian Besson', 'howto'),
+#  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
+#   u'Lilian Besson', 'howto'),
+#  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+#   u'Lilian Besson', 'howto'),
+#  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
+#   u'Lilian Besson', 'howto'),
 # add more !
 ]
 
@@ -306,12 +306,47 @@ latex_show_urls = True
 
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[pdftex]{graphicx}
+\usepackage[babel=true]{csquotes}
+\usepackage{lastpage}
+\usepackage[landscape]{geometry}
+%%  \geometry{left=49.5pt, right=49.5pt}
+%%\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
+
+\usepackage{fancyhdr}
+  \pagestyle{fancy}
+
+   \lhead[Lilian Besson]{}
+   \rhead[]{Lilian Besson}
+   \lhead[]{\today}
+   \rhead[\today]{}
+   \lfoot[\thepage]{}
+   \rfoot[]{\thepage}
+   \cfoot{\thepage\/\pageref{LastPage}}
+   
+   \renewcommand{\headrulewidth}{0.4pt}
+   \renewcommand{\footrulewidth}{0.4pt}
+
+pagenumbering{arabic}
+
 \authoraddress{
   \strong{Lilian Besson}\\
   Email: \email{lilian.besson@normale.fr}
 }
 \let\Verbatim=\OriginalVerbatim
 \let\endVerbatim=\endOriginalVerbatim
+
+\hypersetup{
+  backref
+%       ,pdfpagemode=FullScreen
+%       ,pdfstartview={Fit}
+%       ,pdftitle={Lilian BESSON}
+%       ,colorlinks=true,
+}
 '''
 
 # Documents to append as an appendix to all manuals.
