@@ -2,6 +2,7 @@
  Flux RSS
 ##########
 .. include:: .special.rst
+.. include:: .javascript.rst
 
 Je tente ici d'inclure un flux **RSS** dans une page générée par
 Sphinx.
