@@ -37,7 +37,7 @@ local:	cleanALL all notify git warnings severes errors
 
 complete:	cleanALL all sendAll notify
 
-all:	html scripts pdf_all
+all:	html scripts pdf_all latexpdf
 
 warnings:
 	@echo "Searching for warnings ..."
@@ -65,7 +65,17 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
-send: send_public send_dpt send_zamok
+send: send_public send_dpt send_zamok send_cv
+
+send_cv:
+	$(CP) .build/latex/CV*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	$(CP) .build/latex/CV*.pdf besson@zamok.crans.org:~/www/
+	$(CP) .build/latex/CV*.pdf ~/Public/
+
+send_pdf:
+	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
+	$(CP) .build/pdf/*.pdf ~/Public/pdf/
 
 send_public:
 	$(CP) -r .build/html/ .build/html/.* ~/Public/
@@ -225,11 +235,10 @@ latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
 	## here we have to modify the $(BUILDDIR)/latex/Makefile file
-	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error'/ > $(BUILDDIR)/latex/Makefile~
-	cat $(BUILDDIR)/latex/Makefile~ > $(BUILDDIR)/latex/Makefile
-	@echo "Makefile for PDF output well modified..."
-	$(MAKE) -C $(BUILDDIR)/latex all-pdf
-	$(MAKE) -C $(BUILDDIR)/latex clean
+#	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error'/ > $(BUILDDIR)/latex/Makefile~
+#	cat $(BUILDDIR)/latex/Makefile~ > $(BUILDDIR)/latex/Makefile
+#	@echo "Makefile for PDF output well modified..."
+	$(MAKE) -C $(BUILDDIR)/latex all-pdf clean
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
 text:

@@ -281,19 +281,19 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
-   u'Lilian Besson', 'howto', True),
-  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
-   u'Lilian Besson', 'howto', True),
-  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
-   u'Lilian Besson', 'howto', True),
+#  ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
+#   u'Lilian Besson', 'howto'),
+#  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
+#   u'Lilian Besson', 'howto'),
   ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
-   u'Lilian Besson', 'howto', True)
+   u'Lilian Besson', 'howto'),
+  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+   u'Lilian Besson', 'howto'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = ".besson.png"
+# latex_logo = ".besson.png"
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -307,11 +307,11 @@ latex_show_urls = True
 
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
-\usepackage{amsmath}
+%\usepackage{amsmath}
 %\usepackage{amsthm}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage[pdftex]{graphicx}
+%\usepackage{amsfonts}
+%\usepackage{amssymb}
+%\usepackage[pdftex]{graphicx}
 % \DeclareGraphicsExtensions{.pdf,.eps,.png,.jpg}
 
 \usepackage[babel=true]{csquotes}
@@ -321,18 +321,17 @@ latex_preamble = r'''
 %\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
 
 \usepackage{fancyhdr}
-%  \pagestyle{fancy}
+  \pagestyle{fancy}
 
-   \lhead[Lilian Besson]{}
-   \rhead[]{Lilian Besson}
-   \lhead[]{\today}
-   \rhead[\today]{}
-   \lfoot[\thepage]{}
-   \rfoot[]{\thepage}
-   \cfoot{\thepage\/\pageref{LastPage}}
+   \lhead[Curriculum Vitae]{\today}
+   \rhead[\today]{Curriculum Vitae}
+   \chead{Lilian Besson}
+%   \lfoot[\thepage]{}
+%   \rfoot[]{\thepage}
+   \cfoot{\thepage\ $/$ \pageref{LastPage}}
    
-%   \renewcommand{\headrulewidth}{0.4pt}
-%   \renewcommand{\footrulewidth}{0.4pt}
+   \renewcommand{\headrulewidth}{0.4pt}
+   \renewcommand{\footrulewidth}{0.4pt}
 
 \pagenumbering{arabic}
 
@@ -340,15 +339,16 @@ latex_preamble = r'''
   %\strong{Lilian Besson}\\
   Email: \email{lilian.besson@normale.fr}
 }
+
 \let\Verbatim=\OriginalVerbatim
 \let\endVerbatim=\endOriginalVerbatim
 
 \hypersetup{
-  backref
-%       ,pdfpagemode=FullScreen
-%       ,pdfstartview={Fit}
-%       ,pdftitle={Lilian BESSON}
-       ,colorlinks=true
+   backref
+%  ,pdfpagemode=FullScreen
+%  ,pdfstartview={Fit}
+%  ,pdftitle={Lilian BESSON}
+   ,colorlinks=true
 }
 '''
 
