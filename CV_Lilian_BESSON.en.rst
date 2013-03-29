@@ -23,7 +23,7 @@ Contact address
 * **Address** (postal) ::
     
         Mr Lilian Besson,
-        Chambre B216,
+        Appartement B216,
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France

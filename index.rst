@@ -29,10 +29,10 @@ Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
  N'hésitez pas à me *contacter* :
 
-  #. par courier ::
+  #. par courrier (`→ plan Open Street Map <http://osm.org/go/0BOchV4ns-->`_)  ::
   
         Mr Lilian Besson,
-        Chambre B216,
+        Appartement B216,
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France
