@@ -307,18 +307,20 @@ latex_show_urls = True
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
 \usepackage{amsmath}
-\usepackage{amsthm}
+%\usepackage{amsthm}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage[pdftex]{graphicx}
+% \DeclareGraphicsExtensions{.pdf,.eps,.png,.jpg}
+
 \usepackage[babel=true]{csquotes}
 \usepackage{lastpage}
-\usepackage[landscape]{geometry}
-%%  \geometry{left=49.5pt, right=49.5pt}
-%%\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
+%\usepackage[landscape]{geometry}
+%  \geometry{left=49.5pt, right=49.5pt}
+%\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
 
 \usepackage{fancyhdr}
-  \pagestyle{fancy}
+%  \pagestyle{fancy}
 
    \lhead[Lilian Besson]{}
    \rhead[]{Lilian Besson}
@@ -328,13 +330,13 @@ latex_preamble = r'''
    \rfoot[]{\thepage}
    \cfoot{\thepage\/\pageref{LastPage}}
    
-   \renewcommand{\headrulewidth}{0.4pt}
-   \renewcommand{\footrulewidth}{0.4pt}
+%   \renewcommand{\headrulewidth}{0.4pt}
+%   \renewcommand{\footrulewidth}{0.4pt}
 
-pagenumbering{arabic}
+\pagenumbering{arabic}
 
 \authoraddress{
-  \strong{Lilian Besson}\\
+  %\strong{Lilian Besson}\\
   Email: \email{lilian.besson@normale.fr}
 }
 \let\Verbatim=\OriginalVerbatim
@@ -345,7 +347,7 @@ pagenumbering{arabic}
 %       ,pdfpagemode=FullScreen
 %       ,pdfstartview={Fit}
 %       ,pdftitle={Lilian BESSON}
-%       ,colorlinks=true,
+       ,colorlinks=true
 }
 '''
 

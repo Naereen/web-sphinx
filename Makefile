@@ -218,6 +218,9 @@ latex:
 latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
+	## here we have to modify the $(BUILDDIR)/latex/Makefile file
+	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error -interaction=nonstopmode'/ > $(BUILDDIR)/latex/Makefile~
+	cat $(BUILDDIR)/latex/Makefile~ > $(BUILDDIR)/latex/Makefile
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
