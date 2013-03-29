@@ -154,6 +154,19 @@ Une autre version de la documentation est aussi générée automatiquement avec 
 et de scripts de ma conception, et elle est aussi consultable 
 `ici publis/Bomberman/ <publis/Bomberman/>`_.
 
+------------------------------------------------------------------------------
+
+.. sidebar:: Versions PDF de certaines pages
+
+   Certaines des pages de ce site sont aussi disponibles en version **PDF**.
+   Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
+   latérale, dans la section "Cette page en .txt et en .pdf".
+
+   Ces versions **PDF** sont encore expérimentales, notamment car les extensions
+   "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le
+   moment !
+
+
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
@@ -165,6 +178,11 @@ Coloration syntaxique pour **GNU/Nano**
 Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
 de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
 fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment).
+
+Traductions
+^^^^^^^^^^^
+ La page `<transifex.html>`_ parle de traductions de logiciels
+ et de sites webs.
 
 ------------------------------------------------------------------------------
 
@@ -199,6 +217,11 @@ Javascript et outils embarqués
    * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
      pour l'instant **ne supporte pas** l'enregistrement.
 
+.. warning:: Seulement en **HTML**
+
+   :red:`Attention`: ces pages nécessitent *Javascript*, et ne sont disponibles
+   qu'en **HTML**, pas en **PDF**.
+
 Slides
 ^^^^^^
  J'expérimente aussi un outil pour réaliser des slides en **rST** :
@@ -206,11 +229,6 @@ Slides
    * `<slides.html>`_ (page intégrée au rendu via Sphinx);
    * `<slides.simple.html>`_ (page sobre);
    * `<slides.s5.html>`_ (slide, créé avec ``rst2s5``).
-
-Traductions
-^^^^^^^^^^^
- La page `<transifex.html>`_ parle de traductions de logiciels
- et de sites webs.
 
 Flux RSS
 ^^^^^^^^^
@@ -222,12 +240,11 @@ Flux RSS
  quelle page.
  Pour plus d'informations, ou pour lire directement les dernières entrées
  du *flux*, la page `<rss.html>`_ est là pour ça.
- (:red:`attention, toujours en expérimentation` !)
 
 --------------------------------------------------------------------
 
-Autres pages
-------------
+Liste des autres pages
+----------------------
 
 .. toctree::
    :numbered:
@@ -251,5 +268,3 @@ Autres pages
    Liste de problèmes à régler <todo>
    time
    admin
-
-.. include:: .bottom.fr.rst

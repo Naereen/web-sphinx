@@ -109,8 +109,8 @@ And after?
 Offer me a to do a translation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   So, if you are interested in a translation
-  (FR :math:`\rightarrow` EN or
-  EN :math:`\rightarrow` FR)
+  (FR → EN or
+  EN → FR)
   of your website, software or otherwise
   do not hesitate to `contact me <index.html>`_.
 

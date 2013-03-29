@@ -106,8 +106,8 @@ Et après ?
 Me proposer de réaliser une traduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   Ainsi, si vous êtes intéressé par une traduction 
-  (FR :math:`\rightarrow` EN ou 
-  EN :math:`\rightarrow` FR)
+  (FR → EN ou 
+  EN → FR)
   de votre site, logiciel ou autre,
   n'hésitez pas à me `contacter <index.html>`_.
 
