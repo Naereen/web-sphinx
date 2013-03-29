@@ -1,0 +1,7 @@
+.. warning:: JavaScript est requis !
+   
+   Cette page embarque un ou plusieurs script(s) écrits en
+   `JavaScript <https://developer.mozilla.org/fr/docs/JavaScript>`_.
+   À priori, cela devrait **fonctionner sur n'importe quel navigateur**,
+   pour peu :green:`qu'il supporte JavaScript` !
+   En particulier, la version **PDF** de cette page est inutile, ou presque...

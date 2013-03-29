@@ -7,11 +7,12 @@ Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphiques
 ou des graphes de fonctions
 écrits avec une directive **rST** ``.. gnuplot::``.
 
-Voir aussi
-----------
-J'ai aussi intégré un boucle *ripl* dans ma page `<gnuplot.html>`_,
-qui permet de voir (*en temps réel*) la sortie graphique évoluer
-:maroon:`dès que l'entrée du toplevel change`.
+.. seealso::
+
+   Boucle *ripl*
+      J'ai aussi intégré un boucle *ripl* dans ma page `<gnuplot.html>`_,
+      qui permet de voir (*en temps réel*) la sortie graphique évoluer
+      :maroon:`dès que l'entrée du toplevel change`.
 
 .. warning::
 
