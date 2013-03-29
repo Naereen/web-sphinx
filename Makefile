@@ -65,17 +65,17 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
-send: send_public send_dpt send_zamok send_cv
+send: send_public send_dpt send_zamok send_latexpdf send_pdf
 
-send_cv:
-	$(CP) .build/latex/CV*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+send_latexpdf:
 	$(CP) .build/latex/CV*.pdf besson@zamok.crans.org:~/www/
 	$(CP) .build/latex/CV*.pdf ~/Public/
+	$(CP) .build/latex/CV*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 
 send_pdf:
-	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
 	$(CP) .build/pdf/*.pdf ~/Public/pdf/
+	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_public:
 	$(CP) -r .build/html/ .build/html/.* ~/Public/

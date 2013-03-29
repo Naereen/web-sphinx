@@ -220,8 +220,8 @@ html_use_smartypants = True
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
    'index': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
-   'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdf.html'],
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
+   'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
@@ -461,7 +461,7 @@ pdf_documents = [
 pdf_stylesheets = ['sphinx','kerning','a4']
 
 # A list of folders to search for stylesheets. Example:
-pdf_style_path = ['.', '_styles']
+# pdf_style_path = ['.', '_styles']
 
 # Create a compressed PDF
 # Use True/False or 1/0
