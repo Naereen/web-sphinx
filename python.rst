@@ -2,12 +2,7 @@
  Un **toplevel** ``Python`` embarqué
 #####################################
 .. include:: .special.rst
-
-.. important::
-
-   À priori, cette page et son terminal embarqué devraient
-   **fonctionner sur n'importe quel navigateur**,
-   pour peu :green:`qu'il supporte Javascript` !
+.. include:: .javascript.rst
 
 ------------------------------------------------------------------------------
 

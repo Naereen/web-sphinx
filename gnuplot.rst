@@ -3,13 +3,13 @@
 #######################################
 .. include:: .special.rst
 
-.. important::
+.. warning:: Javascript est requis
 
    À priori, cette page devrait et son terminal embarqué
    **fonctionner sur n'importe quel navigateur**,
    pour peu :orange:`qu'il supporte Javascript` !
 
-.. warning::
+.. warning:: Images vectorielles SVG
 
    Si le graphes (plus bas à gauche) n'est sont pas affiché, c'est
    sûrement parce que votre navigateur ne supporte pas les images ``SVG``.

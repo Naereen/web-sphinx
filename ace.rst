@@ -2,14 +2,7 @@
  Un éditeur de texte intégré
 ##############################
 .. include:: .special.rst
-
-.. warning:: Cette page n'est pas terminée !
-
-.. important::
-
-   À priori, cette page devrait 
-   **fonctionner sur n'importe quel navigateur**,
-   pour peu :green:`qu'il supporte Javascript` !
+.. include:: .javascript.rst
 
 ------------------------------------------------------------------------------
 
