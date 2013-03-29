@@ -140,11 +140,17 @@ html_theme = 'default'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
+# Put the sidebar on the right side. Defaults to false.
 #    "rightsidebar": "true",
-#    "relbarbgcolor": "black",
+# Add an experimental JavaScript snippet that makes the sidebar collapsible via a button on its side. Doesn’t work together with “rightsidebar” or “stickysidebar”. Defaults to false.
     "collapsiblesidebar" : True,
-    "externalrefs" : True,
-# other parameters
+# Display external links differently from internal links. Defaults to false.
+#    "externalrefs" : True,
+# Make the sidebar “fixed” so that it doesn’t scroll out of view for long body content. This may not work well with all browsers. Defaults to false.
+    "stickysidebar" : False,
+###########################
+# other parameters : colors
+#    "relbarbgcolor": "black",
 #    footerbgcolor (CSS color): Background color for the footer line.
 #    footertextcolor (CSS color): Text color for the footer line.
 #    sidebarbgcolor (CSS color): Background color for the sidebar.
@@ -159,6 +165,7 @@ html_theme_options = {
 #    textcolor (CSS color): Body text color.
 #    linkcolor (CSS color): Body link color.
 #    visitedlinkcolor (CSS color): Body color for visited links.
+     "visitedlinkcolor" : "#7A208C",
 #    headbgcolor (CSS color): Background color for headings.
 #    headtextcolor (CSS color): Text color for headings.
 #    headlinkcolor (CSS color): Link color for headings.
