@@ -211,6 +211,7 @@ So, I used the following software :
  * js_of_ocaml, and toplevel.js, as a OCaml toplevel written in Javascript,
  * emscripten, to embed GNU Plot and Python,
  * html2rest, a Python script to convert HTML to rST,
+ * `Generate It <http://www.generateit.net>`_, for some services,
  * and many others...
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
