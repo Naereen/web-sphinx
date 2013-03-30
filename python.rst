@@ -22,10 +22,12 @@ Le toplevel
        , handler = function (e) {
          if (!loaded) {
            loaded = true;
-           button.value = "Exécute";
-           clean.value = "Efface";
+           button.value = "Exécute le code courant";
+           clean.value = "Efface l'entrée";
            input.disabled = false;
            button.disabled = false;
+           clean.disabled = false;
+           window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~");
            return;
          }
          output.value += e.data;
@@ -61,12 +63,17 @@ Le toplevel
      if n == 0: return 1
      else: return n * factorial(n - 1)
    print factorial(11)
+   # Démonstration
+   import sys, os
+   print "Version: %s" % sys.version
+   print "Dossier courant: %s" % os.getcwd()
+   # Ajoutez votre propre commande Python :
    </textarea>
-   <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
-   <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Efface" style="display: block; margin: auto" />
+   <input disabled="true" id="button" type="button" value="Chargement......" style="margin: auto" />
+   <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-   <script>window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~")</script>
+   <input disabled="false" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto" />
 
 .. image:: .python-powered.png
    :scale: 120 %
