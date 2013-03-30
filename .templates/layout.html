@@ -19,7 +19,7 @@
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from bitbucket.org) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
-    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="{{ pathto('_static/.besson.png', 1) }}" />
+    <link rel="shortcut icon" type="image/png" href="{{ pathto('_static/.besson.png', 1) }}" />
   <!-- Colors -->
   <style type="text/css">
     .black {color:black}
@@ -106,12 +106,8 @@ shortcut.add("h",function() {
 window.confirm("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
-{% if prev %}
-+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"
-{% endif %}
-{% if next %}
-+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"
-{% endif %}
+{% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
+{% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
 +"\n Cette fonctionnalité est encore en développement !\n"
 +" Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss !\n"
 +"    Lilian Besson (c) 2013.")
@@ -121,8 +117,7 @@ window.confirm("Les raccourcis claviers suivants sont activés : \n"
 'disable_in_input':true,
 'target':document
             });
-{% if prev %}
-shortcut.add("Left",function() {
+{% if prev %}shortcut.add("Left",function() {
 location.href="{{ prev.link|e }}";
             },{
 'type':'keydown',
@@ -137,8 +132,7 @@ location.href="{{ prev.link|e }}";
 'propagate':false,
 'disable_in_input':true,
 'target':document
-            });    
-{% endif %}
+            });    {% endif %}
 shortcut.add("i",function() {
 location.href="index.html";
             },{
@@ -147,8 +141,7 @@ location.href="index.html";
 'disable_in_input':true,
 'target':document
             });    
-{% if next %}
-shortcut.add("Right",function() {
+{% if next %}shortcut.add("Right",function() {
 location.href="{{ next.link|e }}";
             },{
 'type':'keydown',
@@ -163,8 +156,7 @@ location.href="{{ next.link|e }}";
 'propagate':false,
 'disable_in_input':true,
 'target':document
-            });
-{% endif %}
+            });{% endif %}
 </script>
 {{ super() }}
 {% endblock %}

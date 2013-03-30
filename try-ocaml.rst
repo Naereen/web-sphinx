@@ -20,7 +20,6 @@ Le toplevel
    <div class="content">
     <div class="container">
      <div class="row">
-     
       <div class="span7">
        <h1 id="main-title">Try OCaml</h1>
         <p id="short-intro">OCaml is a strongly typed functional language. It is concise
@@ -49,12 +48,12 @@ Le toplevel
         version: 2,
         type: 'profile',
         rpp: 4,
-        interval: 30000,
+        interval: 10000,
         width: 'auto',
         height: 300,
          theme: {
          shell: {
-          background: '#ffffff',
+          background: '#3E0061',
           color: '#000000'
          },
          tweets: {
@@ -96,6 +95,13 @@ Le toplevel
    </div></div></div></div>
    <script type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
    <script>window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
+
+.. Réinclure les CSS de Sphinx ?
+.. .. raw:: html
+
+   <link rel="stylesheet" href="_static/default.css" type="text/css" />
+   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
 
 .. image:: .ocaml-powered.png
    :scale: 130 %
