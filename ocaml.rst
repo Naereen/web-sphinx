@@ -13,9 +13,11 @@ Le toplevel
 
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align=center>
-   <div id="toplevel" align=left></div>
-   </div>
+   <div id="toplevel" align=left>
    <script>window.alert("~~~ Le terminal OCaml (3.12.1) semble bien initialisé ! ~~~")</script>
+   </div>
+   <input type="button" value="Clean" onclick="toplevel.value=''" style="align: left"></input>
+   </div>
 
 .. image:: .ocaml-powered.png
    :scale: 130 %

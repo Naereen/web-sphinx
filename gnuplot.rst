@@ -67,8 +67,8 @@ Graphe et entrée texte
     <br clear="all">
     <hr>
     <h2 style="float: left;">Messages de sorties :</h2>
-    <textarea class="emscripten" id="output" rows="10">
-    </textarea>
+    <textarea class="emscripten" id="output" rows="10" style="font-family: monospace; font-size: 8pt"></textarea>
+    <input disabled="false" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block" />
     <script src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">
     gnuplot.init('_static/gnuplot.js');
@@ -79,6 +79,12 @@ Graphe et entrée texte
     gnuplot.onError = function(text) {
      document.getElementById('output').value += 'Erreur : ' + text + '\n';
      document.getElementById('output').scrollTop = 99999;
+    };
+    var output = document.getElementById('output');
+    var cleanout = document.getElementById('cleanout');
+    cleanout.disabled = false;
+    cleanout.onclick = function() {
+         output.value = "";
     };
     var lastTAContent = '';
     function scriptChange() {
