@@ -43,14 +43,15 @@ Adresses de contact
         :scale: 100 %
         :align: right
         :alt:   Mon adresse courriel.
+        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
 
-  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ 
-     (*il faut remplacer DOT par . et AT par @*).
+  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_  :
 
      .. image:: .telephone.png
         :scale: 130 %
         :align: right
         :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+        :target: callto:100101011101001100111101100001_2
         
   #. ou par téléphone (:silver:`si c'est urgent ou important`) :
 

@@ -19,6 +19,12 @@ L'éditeur **ACE**
    Vous pouvez m'aider via mon dépôt public `lbesson/web-sphinx-scripts
    <https://bitbucket.org/lbesson/web-sphinx-scripts/>`_ !
 
+.. seealso::
+
+   Démonstration plus complète
+      La page `Kitchen-Sink <http://ace.ajax.org/build/kitchen-sink.html>`_
+      présente une démo plus complète de l'éditeur **ACE**.
+
 .. raw:: html
 
    <style type="text/css" media="screen">
