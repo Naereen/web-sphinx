@@ -36,12 +36,10 @@ Le toplevel
        </div>
        <div class="alert-message block-message info" id="lesson-text">
             Type <code>lesson 1</code> to start the tutorial. <br />
-            <em>(click on the code to insert)</em>
-       </div>
+            <em>(click on the code to insert)</em></div>
        <div id="lesson-message"></div>
        <div id="languages"></div>
        <div id="menu-lessons"></div>
-
      <script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
      <script type="text/javascript">
         new TWTR.Widget({
@@ -52,16 +50,16 @@ Le toplevel
         width: 'auto',
         height: 300,
          theme: {
-         shell: {
-          background: '#3E0061',
-          color: '#000000'
+          shell: {
+           background: '#3E0061',
+           color: '#000000'
+          },
+          tweets: {
+           background: '#ddf4fb',
+           color: '#15156b',
+           links: '#0a0f07'
+          }
          },
-         tweets: {
-          background: '#ddf4fb',
-          color: '#15156b',
-          links: '#0a0f07'
-         }
-        },
         features: {
          scrollbar: true,
          loop: false,
@@ -70,28 +68,26 @@ Le toplevel
         }
         }).render().setUser('tryocaml').start();
      </script>
-
     </div>
-
     <div class="span9 ocaml">
      <div id="toplevel-container">
       <div id="dragndrop"><img src="_static/try-ocaml/arrow.png" width="140" height="70"/></div>
-           <pre id="output"></pre>
-           <div id="sharp">#</div>
-           <div id="toplevel"></div>
+      <pre id="output"></pre>
+      <div id="sharp">#</div>
+      <div id="toplevel"></div>
      </div>
      <div id="buttons"></div>
      <div id="graphics"></div>
-        <table class="zebra-striped">
-            <thead><tr><th id="text-commands">Commands</th><th id="text-effects">Effects</th></tr></thead>
-            <tr><td id="text-enter">Enter / Return</td> <td id="text-submit">Submit code</td></tr>
-            <tr><td id="text-arrows">Up / Down</td><td id="text-history">Cycle through history</td></tr>
-            <tr><td id="text-newline">Shift + Enter</td><td id="text-multiline">Multiline edition</td></tr>
-            <tr><td><code>lesson 1</code></td> <td id="text-lesson-1">Move to lesson 1</td></tr>
-            <tr><td><code>step 1</code></td> <td id="text-step-1">Move to step 1 of the current lesson</td></tr>
-            <tr><td><code>lessons ()</code></td> <td id="text-lessons">See available lessons</td></tr>
-            <tr><td><code>steps ()</code></td> <td id="text-steps">See available steps in the current lesson</td></tr>
-          </table>
+      <table class="zebra-striped">
+       <thead><tr><th id="text-commands">Commands</th><th id="text-effects">Effects</th></tr></thead>
+        <tr><td id="text-enter">Enter / Return</td> <td id="text-submit">Submit code</td></tr>
+        <tr><td id="text-arrows">Up / Down</td><td id="text-history">Cycle through history</td></tr>
+        <tr><td id="text-newline">Shift + Enter</td><td id="text-multiline">Multiline edition</td></tr>
+        <tr><td><code>lesson 1</code></td> <td id="text-lesson-1">Move to lesson 1</td></tr>
+        <tr><td><code>step 1</code></td> <td id="text-step-1">Move to step 1 of the current lesson</td></tr>
+        <tr><td><code>lessons ()</code></td> <td id="text-lessons">See available lessons</td></tr>
+        <tr><td><code>steps ()</code></td> <td id="text-steps">See available steps in the current lesson</td></tr>
+      </table>
    </div></div></div></div>
    <script type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
    <script>window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
