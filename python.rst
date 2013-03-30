@@ -16,12 +16,14 @@ Le toplevel
      var input = document.getElementById('input')
        , output = document.getElementById('output')
        , button = document.getElementById('button')
+       , clean = document.getElementById('clean')
        , worker = new Worker('_static/python/worker.js')
        , loaded = false
        , handler = function (e) {
          if (!loaded) {
            loaded = true;
            button.value = "Exécute";
+           clean.value = "Efface";
            input.disabled = false;
            button.disabled = false;
            return;
@@ -31,6 +33,9 @@ Le toplevel
       worker.addEventListener('message', handler, false);
       button.onclick = function() {
         worker.postMessage(input.value);
+      };
+      clean.onclick = function() {
+        input.value = "";
       };
    };
    window.onload = start;
@@ -58,6 +63,7 @@ Le toplevel
    print factorial(11)
    </textarea>
    <input disabled="true" id="button" type="button" value="Chargement......" style="display: block; margin: auto" />
+   <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Efface" style="display: block; margin: auto" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
    <script>window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~")</script>
