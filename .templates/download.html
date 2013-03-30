@@ -1,28 +1,17 @@
 {% extends "layout.html" %}
 {% set title = 'Téléchargement' %}
-
 {% block body %}
 <h1>Télécharger ces pages en PDF</h1>
-
 {% if last_updated %}<p><b>Dernière modification le : {{ last_updated }}.</b></p>{% endif %}
-
 <p>Ces pages web sont générées avec <strong>Sphinx</strong>.
 Et lors de leurs générations, un de mes scripts produit aussi une version PDF de certaines pages.</p>
-
 <p>Le dossier <a href="pdf/">pdf/</a> est là pour vous permettre de télécharger
 les fichiers PDF ainsi produits.</p>
-
 <p>Cette fonctionnalité est encore en développement !</p>
-
 <h2>Problèmes</h2>
-
 <p>Si vous rencontrez une difficulté quelconque ou que vous avez des questions,
 veuillez utiliser la page <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.</p>
-
 <h2>À propos</h2>
-
 <p>Cette page est générée grâce à .templates/download.html .</p>
-
 <p>Cette page est inspirée de la documentation de Python.</p>
-
 {% endblock %}
