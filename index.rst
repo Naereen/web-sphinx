@@ -207,32 +207,39 @@ Extensions non officielles
    * `<graph.html>`_, présente une façon d'embarquer des graphes via le langage
      **DOT Graph** (et les visualiser avec *GraphViz*);
    * `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques
-     généré à partir de commande **GNU Plot**;
+     générés à partir de commande **GNU Plot**;
    * `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
      **shell** dans les pages web (avec un exemple en **OCaml** entre autres).
 
-Javascript et outils embarqués
+JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- J'expérimente depuis peu l'intégration de scripts **Javascript**
- dans des pages webs produites avec Sphinx (*comme celle-ci*) :
-
-   * `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
+ Certaines pages présentent aussi l'intégration de projets sympas, écrits
+ en **JavaScript** :
+ 
+   #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
      directement dans un navigateur web **:)** !
-   * `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
+   #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
+     avec quelques lessons (interactives), en anglais ou français
+     (copié depuis `try.ocamlpro.com <http://try.ocamlpro.com/>`_).
+   #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
      directement dans un navigateur web **:)** !
-   * `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
+   #. `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
      évaluation instantannée dès que la zone de texte est changée
-     (le projet initial est propriété de Christian Huettig ©).
-   * `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
+     (le projet initial est propriété de Christian Huettig).
+   #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
      pour l'instant **ne supporte pas** l'enregistrement.
+
+   #. d'autres sont en cours de développement, notamment un toplevel
+      ``GNU Octave,`` que j'espère faire fonctionner comme ceux pour Python
+      ou OCaml.
 
 .. warning:: Seulement en **HTML**
 
-   :red:`Attention`: ces pages nécessitent *Javascript*, et ne sont disponibles
+   :red:`Attention`: ces pages nécessitent *JavaScript*, et ne sont disponibles
    qu'en **HTML**, pas en **PDF**.
 
-Slides
-^^^^^^
+Des slides en **rST**
+^^^^^^^^^^^^^^^^^^^^^
  J'expérimente aussi un outil pour réaliser des slides en **rST** :
 
    * `<slides.html>`_ (page intégrée au rendu via Sphinx);
@@ -245,10 +252,11 @@ Flux RSS
  Il s'agit de ce flux `lbesson/web-sphinx/rss 
  <http://bitbucket.org/lbesson/web-sphin/rss>`_.
 
- Normalement, un bon navigateur propose de s'abonner à ce flux, sur n'importe
- quelle page.
+ Normalement, un bon navigateur propose de s'abonner à ce flux, 
+ et ce sur n'importe quelle page.
  Pour plus d'informations, ou pour lire directement les dernières entrées
- du *flux*, la page `<rss.html>`_ est là pour ça.
+ du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
+ moment, fait appel à un script hebergé ailleurs).
 
 --------------------------------------------------------------------
 
@@ -270,6 +278,7 @@ Liste des autres pages
    runblock
    python
    ocaml
+   try-ocaml
    gnuplot
    ace
    rss

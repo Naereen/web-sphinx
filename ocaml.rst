@@ -25,6 +25,20 @@ Le toplevel
 
 ------------------------------------------------------------------------------
 
+.. seealso::
+
+   Try Ocaml
+      La page `<try-ocaml.html>`_ présente **Try OCaml**, directement copié
+      depuis `try.ocamlpro.com <http://try.ocamlpro.com>`_, qui présente les 
+      avantages suivants :
+      
+       * version d'OCaml à jour (4.00.1);
+       * leçons intéractives en français ou en anglais;
+       * support du "drag & drop" de fichiers;
+       * permet de télécharger l'historique des entrées;
+       * etc
+
+
 À propos
 --------
 Comme dans `.special.rst <_sources/.special.txt>`_,

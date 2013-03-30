@@ -71,7 +71,6 @@ Le toplevel
     </div>
     <div class="span9 ocaml">
      <div id="toplevel-container">
-      <div id="dragndrop"><img src="_static/try-ocaml/arrow.png" width="140" height="70"/></div>
       <pre id="output"></pre>
       <div id="sharp">#</div>
       <div id="toplevel"></div>
@@ -106,6 +105,16 @@ Le toplevel
    :target: http://caml.inria.fr
 
 ------------------------------------------------------------------------------
+
+.. seealso::
+
+   Toplevel OCaml
+      La page `<ocaml.html>`_ présente un toplevel OCaml plus simpliste,
+      non à-jour, mais qui à l'avantage d'être plus simple à mettre en place
+      (un seul fichier, `<_static/toplevel.js>`_),
+      et d'être directement obtenu par compilation via **js_of_ocaml**
+      du toplevel OCaml "officiel" (la commande 'ocaml' installée avec OCaml).
+
 
 Hébergements
 ------------
