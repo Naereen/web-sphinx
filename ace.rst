@@ -46,6 +46,8 @@ L'éditeur **ACE**
     editor.setPrintMarginColumn(79);
     editor.setShowPrintMargin(true);
     editor.setShowFoldWidgets(true);
+    editor.getSession().setUseWrapMode(true);
+    editor.setHighlightActiveLine(false);
    window.alert("~~~ L'éditeur de texte ACE semble être bien initialisé ~~~")
    </script>
 

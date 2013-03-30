@@ -42,8 +42,9 @@ L'autre est :
 
 .. image:: .valid-xhtml10.png
 
-Je précise que le CSS est valide (aucune erreur !),
-mais que le XHTML non, à cause de Sphinx : il signale certaines erreurs, mais
-elles ne viennent pas du code que j'ai rajouté.
+Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
+
+ * aucune erreur pour les feuilles **CSS** !
+ * aucune erreur pour les pages **XHTML** 1.0 Transitional !
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
