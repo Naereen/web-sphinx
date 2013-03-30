@@ -204,4 +204,4 @@ Emscripten
  <https://github.com/kripken/emscripten>`_
  pour plus de détails.
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

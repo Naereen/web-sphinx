@@ -71,4 +71,4 @@ Copyrights
  Voir la page officielle du projet, `ajaxorg.github.com/ace
  <http://ajaxorg.github.com/ace/#nav=about>`_.
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

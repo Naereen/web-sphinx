@@ -24,4 +24,4 @@
    :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
    :target: index.html
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

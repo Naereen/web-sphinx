@@ -33,4 +33,4 @@ La liste
 
 .. todolist::
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

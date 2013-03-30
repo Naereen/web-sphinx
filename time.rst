@@ -72,4 +72,4 @@ Hébergements
  hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

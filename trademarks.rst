@@ -213,4 +213,4 @@ So, I used the following software :
  * html2rest, a Python script to convert HTML to rST,
  * and many others...
 
-.. include:: .bottom.en.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

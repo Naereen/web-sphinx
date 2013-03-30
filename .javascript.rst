@@ -12,3 +12,5 @@
    <noscript><span style="color:red" text-align="center">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
    </noscript>
+
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

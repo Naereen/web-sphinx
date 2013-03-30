@@ -42,4 +42,4 @@ L'autre est :
 
 .. image:: .valid-xhtml10.png
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

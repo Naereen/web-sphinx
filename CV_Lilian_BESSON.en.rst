@@ -250,4 +250,4 @@ First-year BSc research project (2009-2010)
  * :Supervisors: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM !*).
 
-.. include:: .bottom.en.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

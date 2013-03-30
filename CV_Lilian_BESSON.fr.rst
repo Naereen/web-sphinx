@@ -252,4 +252,4 @@ Dans le cadre des **TIPE** (*Travaux d'Iniative Personnelle Encadrés*) :
  * :Superviseurs: Dr. **Yassine Dakhli** (*Lycée Thiers*);
  * :Résumé: implémentation d'un jeu d'échec pour deux joueurs, et d'une IA (assez inefficace, naïve et plutôt lente, mais fonctionnelle). Près de **7000 lignes de code en TI-Basic**, un des projets pour calculette *TI-82* les plus importants (*un vieux modèle : 6 MHz, 28 Ko de RAM !*).
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

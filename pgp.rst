@@ -111,4 +111,4 @@ Et aussi
 J'utilise aussi de plus en plus **GPG** pour *signer* ou *chiffrer* mes
 emails, abandonnant ainsi Hotmail pour la rédaction de mails.
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

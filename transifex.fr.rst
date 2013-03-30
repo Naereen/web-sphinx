@@ -137,4 +137,4 @@ Plus de captures d'écrans
   Plus de captures d'écrans à propos de ça peuvent être trouvée sur ma page Facebook,
   `ici <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
 
-.. include:: .bottom.fr.rst
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/

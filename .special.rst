@@ -1,5 +1,3 @@
-.. (c) 2012-2013 Lilian Besson - Naereen CORP.
-.. ...........................................................................
 .. Color profiles for Sphinx.
 .. role:: black
 .. role:: gray
@@ -34,4 +32,4 @@
 .. role:: left
 .. role:: right
 
-.. (c) Lilian Besson, 2011-2013
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
