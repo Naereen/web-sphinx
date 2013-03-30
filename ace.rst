@@ -22,32 +22,30 @@ L'éditeur **ACE**
 .. raw:: html
 
    <style type="text/css" media="screen">
-   #editor {
-    position: relative;
-    font-size: 20pt;
-    height: 700px;
-    width: 100%;
-   }
+    #editor {
+      position:  relative;
+      font-size: 21pt;
+      height:    700px;
+      width:     100%;
+    }
    </style>
-   <div id="editor">#!/usr/bin/env python
-   #-*- encoding: utf-8 -*-
-   def foo(items):
-     x = "Ceci est un exemple"
-     return(x)
-   # Voilà un bête exemple en Python
-   import sys
-   from random import *
-   foo(sys.stderr)</div>
+   <div id="editor">let x = 10+10;;
+   let y = x * 3;;
+   String.make x 'a';;
+   sin 1.;;
+   let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
+   fact 20;;
+   </div>
    <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    var editor = ace.edit("editor");
-   editor.setTheme("ace/theme/twilight");
-   editor.getSession().setMode("ace/mode/python");
-   editor.setShowInvisibles(true);
-   editor.setPrintMarginColumn(79);
-   editor.setShowPrintMargin(true);
-   editor.setShowFoldWidgets(true);
+    editor.setTheme("ace/theme/twilight");
+    editor.getSession().setMode("ace/mode/ocaml");
+    editor.setShowInvisibles(true);
+    editor.setPrintMarginColumn(79);
+    editor.setShowPrintMargin(true);
+    editor.setShowFoldWidgets(true);
    window.alert("~~~ L'éditeur de texte ACE semble être bien initialisé ~~~")
    </script>
 
@@ -61,9 +59,9 @@ L'éditeur **ACE**
  :blue:`C'est simple, c'est propre.`
 
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
-
 .. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml, Python et GNU Plot.
-.. todo:: Stocker localement le script !!
+.. todo:: Stocker localement le script !
+.. todo:: Embarquer les contrôles, notamment ceux permettant de régler le mode d'édition.
 
 Copyrights
 ----------
