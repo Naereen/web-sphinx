@@ -40,9 +40,9 @@ Adresses de contact
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
      
      .. image:: .courriel.png
-        :scale: 100 %
+        :scale: 120 %
         :align: right
-        :alt:   Mon adresse courriel.
+        :alt:   Mon adresse courriel, dans une image png...
         :target: mailto:lilian DOT besson AT ens-cachan DOT fr
 
   #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_  :
@@ -70,7 +70,7 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
      `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
   #. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
   #. ou via mon profil *Launchpad*, 
-     `launchpat.net/~lbesson <https://launchpad.net/~lbesson>`_;
+     `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
   #. ou encore sur ma page personnelle *Wikipédia*, 
      `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
 

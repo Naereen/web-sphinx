@@ -13,12 +13,6 @@
    In particular, the english versions of each pages are *not* yet available.
    But, I'm working on it !
 
-.. note::
-
-   Last update was made |today|.
-   This project is in version |version|, release |release|
-
-
 .. sidebar:: Other language : in French
 
    This page is in *english*.
@@ -30,14 +24,39 @@ I am **Lilian Besson**, a **french** student at ENS de Cachan,
 a *french* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently
 in *two* different MSc (one in each of those domains).
-  
-Feel free to *contact* me :
 
-  #. either with my *bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_;
+Contact addresses
+^^^^^^^^^^^^^^^^^
+ Feel free to *contact* me :
+ 
+  #. by mail (`→ Open Street Map direct link <http://osm.org/go/0BOchV4ns-->`_)  ::
+
+        Mr Lilian Besson,
+        Appartement B216,
+        70, rue Camille Desmoulins,
+        94230 - Cachan,
+        France
+ 
   #. or via *Facebook* `facebook.com/naereencorp.lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
-  #. or via my *Google Site* site `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_;
-  #. or via *email* `lilian DOT besson AT ens-cachan DOT fr <mailto:lilian DOT besson AT ens-cachan DOT fr>`_.
 
+     .. image:: .courriel.png
+        :scale: 120 %
+        :align: right
+        :alt:   My email address, in a PNG picture...
+        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
+
+  #. or via *email* `lilian DOT besson AT ens-cachan DOT fr <mailto:lilian DOT besson AT ens-cachan DOT fr>`_;
+
+     .. image:: .telephone.png
+        :scale: 130 %
+        :align: right
+        :alt:   My phone number, in a PNG picture...
+        :target: callto:100101011101001100111101100001_2
+
+  #. or by phone (:silver:`only if it is important`) :
+
+My projects on-line
+^^^^^^^^^^^^^^^^^^^
 .. sidebar:: Résumé
 
    My *résumé* is available here `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_. 
@@ -46,6 +65,26 @@ Feel free to *contact* me :
    A second version, produced from a ``reStructuredText`` file, 
    is also available here `CV_Lilian_BESSON.en <CV_Lilian_BESSON.en.html>`_.
 
+
+Feel free to *contact* me :
+
+  #. either with my *bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_;
+  #. or via my *Google Site* site `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_;
+  #. or via my *Launchpad* profile `launchpad.net/~lbesson
+     <https://launchpad.net/~lbesson>`_;
+  #. or with my personal *Wikipedia* page `User:Naereen
+     <http://en.wikipedia.org/wiki/User:Naereen>`_.
+
+MSc internship
+^^^^^^^^^^^^^^
+I found an internship for the third semester of my Maths & CS MSc
+(06 June to 09 August).
+
+It will take place at **UCL** (:u:`University College of London`),
+under the direction of *Peter O'Hearn* and *Jules Villard*,
+about separtion logic.
+
+------------------------------------------------------------------------------
 
 Pages in English
 ----------------
