@@ -167,6 +167,7 @@ j'utilise la directive ``.. raw:: html`` pour
 
    Faire pareil avec Octave, voir `weboctave.mimuw.edu.pl 
    <http://weboctave.mimuw.edu.pl/weboctave/web/index.php>`_.
+   Actuellement en essai, ici `<octave.html>`_.
 
 .. todo:: Voir pour changer le nom "foo" en "input".
 
