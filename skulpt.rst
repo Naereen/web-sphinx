@@ -9,14 +9,18 @@
 Le toplevel
 -----------
 
+.. seealso::
+
+   Python Emscripten (`<python.html>`_)
+      Cette page intègre une autre implémentation en *JavaScript* de Python.
+      Compilée à partir du compilateur Emscripten (bytecode → JavaScript).
+
 .. raw:: html
 
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
    <script src="_static/skulpt.js" type="text/javascript"></script>
    <script src="_static/builtin.js" type="text/javascript"></script>
    <script type="text/javascript">
-   // output functions are configurable. This one just appends some text
-   // to a pre element.
    function outf(text) {
     var mypre = document.getElementById("output");
     mypre.innerHTML = mypre.innerHTML + text;
@@ -26,12 +30,6 @@ Le toplevel
     throw "File not found: '" + x + "'";
     return Sk.builtinFiles["files"][x];
    }
-    
-   // Here's everything you need to run a python program in skulpt
-   // grab the code from your textarea
-   // get a reference to your pre element for output
-   // configure the output function
-   // call Sk.importMainWithBody()
    function runit() {
     var prog = document.getElementById("yourcode").value;
     var mypre = document.getElementById("output");
@@ -41,16 +39,32 @@ Le toplevel
     Sk.configure({output:outf, read:builtinRead});
     eval(Sk.importMainWithBody("<stdin>",false,prog));
    }
+   var clean = document.getElementById('clean');
+   var cleanout = document.getElementById('cleanout');
+   clean.value = "Efface l'entrée";
+   cleanout.value = "Efface la sortie";
+   clean.disabled = false;
+   cleanout.disabled = false;
+   clean.onclick = function() {
+         input.value = "";
+   };
+   cleanout.onclick = function() {
+         output.value = "";
+   };
+   window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
    <form>
-   <textarea id="yourcode" cols="40" rows="10">import turtle    
+   <textarea id="yourcode" cols="40" rows="10" style="font-family: monospace">
+   import turtle    
    t = turtle.Turtle()
    t.forward(100)
    print "Hello World"
    </textarea><br/>
-   <button type="button" onclick="runit()">Run</button>
+   <button type="button" onclick="runit()">Exécute le code courant</button>
+   <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    </form>
    <pre id="output" ></pre>
+   <input disabled="true" id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
    <canvas id="mycanvas" ></mycanvas>
 
 

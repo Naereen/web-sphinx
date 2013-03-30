@@ -9,6 +9,12 @@
 Le toplevel
 -----------
 
+.. seealso::
+
+   Skulpt (`<skulpt.html>`_)
+      Skulpt est une autre implémentation en *JavaScript* de Python.
+      Il semble aussi posséder un genre d'interface graphique :) !
+
 .. raw:: html
 
    <script>
