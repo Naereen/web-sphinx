@@ -41,4 +41,4 @@ Le flux
  Je cherche aussi une solution n'utilisant pas le PHP.
  Parce que c'est moche le PHP...
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

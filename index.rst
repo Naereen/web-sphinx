@@ -285,4 +285,4 @@ Liste des autres pages
    time
    admin
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

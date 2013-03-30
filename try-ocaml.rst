@@ -134,4 +134,4 @@ Remerciements
    La page de référence pour ces morceaux de code est 
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

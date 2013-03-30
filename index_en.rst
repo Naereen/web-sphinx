@@ -57,4 +57,4 @@ Pages in English
    CV_Lilian_BESSON.en
    transifex.en
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

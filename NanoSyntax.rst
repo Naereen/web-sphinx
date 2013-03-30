@@ -332,4 +332,4 @@ Me contacter
 Si vous avez des questions, des suggestions d'améliorations, ou des bugs 
 (mauvaise coloration par exemple), n'hésitez pas à me contacter !
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

@@ -111,4 +111,4 @@ Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
 
 .. todo:: Trouver un butineur Android qui affiche bien les **SVG**.
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

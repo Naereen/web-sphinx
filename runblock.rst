@@ -95,4 +95,4 @@ D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
  * un toplevel **GNU Plot**, `<gnuplot_embed.html>`_;
  * un toplevel **OCaml**, `<ocaml.html>`_.
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-spĥinx/
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
