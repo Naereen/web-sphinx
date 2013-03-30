@@ -71,8 +71,10 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
   #. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
   #. ou via mon profil *Launchpad*, 
      `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
-  #. ou encore sur ma page personnelle *Wikipédia*, 
+  #. ou sur ma page personnelle *Wikipédia*, 
      `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
+  #. ou encore sur *Transifex* `profile/Naereen
+     <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
 Stage de M1
 ^^^^^^^^^^^

@@ -73,7 +73,9 @@ Feel free to *contact* me :
   #. or via my *Launchpad* profile `launchpad.net/~lbesson
      <https://launchpad.net/~lbesson>`_;
   #. or with my personal *Wikipedia* page `User:Naereen
-     <http://en.wikipedia.org/wiki/User:Naereen>`_.
+     <http://en.wikipedia.org/wiki/User:Naereen>`_;
+  #. or on *Transifex* `profile/Naereen
+     <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
 MSc internship
 ^^^^^^^^^^^^^^
