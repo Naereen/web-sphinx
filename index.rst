@@ -36,7 +36,14 @@ Adresses de contact
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France
+        
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+     
+     .. image:: .courriel.png
+        :scale: 100 %
+        :align: right
+        :alt:   Mon adresse courriel.
+
   #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ 
      (*il faut remplacer DOT par . et AT par @*).
 
