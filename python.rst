@@ -17,6 +17,7 @@ Le toplevel
        , output = document.getElementById('output')
        , button = document.getElementById('button')
        , clean = document.getElementById('clean')
+       , cleanout = document.getElementById('cleanout')
        , worker = new Worker('_static/python/worker.js')
        , loaded = false
        , handler = function (e) {
@@ -24,9 +25,11 @@ Le toplevel
            loaded = true;
            button.value = "Exécute le code courant";
            clean.value = "Efface l'entrée";
+           cleanout.value = "Efface la sortie";
            input.disabled = false;
            button.disabled = false;
            clean.disabled = false;
+           cleanout.disabled = false;
            window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~");
            return;
          }
@@ -38,6 +41,9 @@ Le toplevel
       };
       clean.onclick = function() {
         input.value = "";
+      };
+      cleanout.onclick = function() {
+        output.value = "";
       };
    };
    window.onload = start;
@@ -73,7 +79,7 @@ Le toplevel
    <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-   <input disabled="false" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto" />
+   <input disabled="true" id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
 
 .. image:: .python-powered.png
    :scale: 120 %
