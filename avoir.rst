@@ -23,11 +23,11 @@ Espace d'expérimentations
 D'autres rôles :
 
  * :u:`souligné`, avec ``:u:`texte```;
- * :o:`surligné`, avec ``:o:`texte```;
  * :blink:`clignotant`, avec ``:blink:`texte```;
+ * :o:`surligné`, avec ``:o:`texte```;
  * :line:`barré`, avec ``:line:`texte```;
  * :it:`italique`, avec ``:it:`texte```;
- * :ob:`oblique`, avec ``:ob:`texte```.
+ * :ob:`oblique`, avec ``:ob:`texte``` (comme italique semble-t-il).
 
 Valideurs CSS et HTML
 ---------------------
@@ -41,5 +41,9 @@ Une des deux images est codée en *base64*, pour essayer.
 L'autre est :
 
 .. image:: .valid-xhtml10.png
+
+Je précise que le CSS est valide (aucune erreur !),
+mais que le XHTML non, à cause de Sphinx : il signale certaines erreurs, mais
+elles ne viennent pas du code que j'ai rajouté.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
