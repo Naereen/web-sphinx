@@ -68,7 +68,7 @@ Graphe et entrée texte
     <hr>
     <h2 style="float: left;">Messages de sorties :</h2>
     <textarea class="emscripten" id="output" rows="10" cols="80" style="font-family: monospace; font-size: 8pt"></textarea>
-    <input disabled="false" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block" />
+    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block" />
     <script src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">
     gnuplot.init('_static/gnuplot.js');
