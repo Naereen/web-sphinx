@@ -15,7 +15,7 @@ Le toplevel
 
    <script type="text/javascript">
     function start() {
-     var input = document.getElementById('input')
+     var input = document.getElementById('textarea')
        , output = document.getElementById('output')
        , button = document.getElementById('button')
        , clean = document.getElementById('clean')
@@ -51,7 +51,7 @@ Le toplevel
    window.onload = start;
    </script>
    <h4>Entrée du toplevel :</h4>
-   <textarea disabled="disabled" id="input" style="font-family: monospace; width: 100%" rows="24" cols="80">print 'Bonjour, le monde !'
+   <textarea disabled="disabled" id="textarea" style="font-family: monospace; width: 100%" rows="24" cols="80">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
    # Un exemple, comme celui pour OCaml
@@ -65,6 +65,7 @@ Le toplevel
    print "Dossier courant: %s" % os.getcwd()
    # Ajoutez votre propre commande Python :
    </textarea>
+   <script type="text/javascript" src="_static/ace_python.js"></script>
    <input disabled="disabled" id="button" type="button" value="Chargement......" style="margin: auto" />
    <input disabled="disabled" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    <h4>Sortie du toplevel :</h4>
