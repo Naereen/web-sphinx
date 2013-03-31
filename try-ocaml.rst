@@ -40,34 +40,6 @@ Le toplevel
        <div id="lesson-message"></div>
        <div id="languages"></div>
        <div id="menu-lessons"></div>
-     <script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
-     <script type="text/javascript">
-        new TWTR.Widget({
-        version: 2,
-        type: 'profile',
-        rpp: 4,
-        interval: 10000,
-        width: 'auto',
-        height: 300,
-         theme: {
-          shell: {
-           background: '#3E0061',
-           color: '#000000'
-          },
-          tweets: {
-           background: '#ddf4fb',
-           color: '#15156b',
-           links: '#0a0f07'
-          }
-         },
-        features: {
-         scrollbar: true,
-         loop: false,
-         live: false,
-         behavior: 'default'
-        }
-        }).render().setUser('tryocaml').start();
-     </script>
     </div>
     <div class="span9 ocaml">
      <div id="toplevel-container">
