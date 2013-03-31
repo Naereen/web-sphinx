@@ -40,7 +40,7 @@ Le toplevel
     return Sk.builtinFiles["files"][x];
    }
    function runit() {
-    var prog = document.getElementById("yourcode").value;
+    var prog = document.getElementById("textarea").value;
     var mypre = document.getElementById("output");
     mypre.innerHTML = '';
     Sk.canvas = "mycanvas";
@@ -50,7 +50,7 @@ Le toplevel
    }
    </script>
    <form>
-   <textarea id="yourcode" cols="80" rows="11" style="font-family: monospace">
+   <textarea id="textarea" style="font-family: monospace; width: 100%" rows="24" cols="80">
    import turtle
    t = turtle.Turtle()
    for c in ['red', 'green', 'yellow', 'blue']:
@@ -60,14 +60,16 @@ Le toplevel
    print "Hello World !"
    # Le module sys n'est pas disponible.
    # Rentrez vos propres commandes !
-   </textarea><br/>
+   </textarea>
+   <script type="text/javascript" src="_static/ace_python.js"></script>
+   <br/>
    <button type="button" onclick="runit()">Exécute le code courant</button>
    <input id="cleanin" type="button" value="Chargement....." style="margin: auto" />
    </form>
    <pre id="output" ></pre>
    <input id="cleanout" type="button" value="Chargement....." style="margin: auto" />
    <script type="text/javascript">
-   var yourcode = document.getElementById('yourcode');
+   var textarea = document.getElementById('textarea');
    var output = document.getElementById('output');
    var cleanin = document.getElementById('cleanin');
    var cleanout = document.getElementById('cleanout');
@@ -76,7 +78,7 @@ Le toplevel
    cleanin.disabled = false;
    cleanout.disabled = false;
    cleanin.onclick = function() {
-         yourcode.value = "";
+         textarea.value = "";
    };
    cleanout.onclick = function() {
          output.value = "";
