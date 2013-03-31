@@ -86,7 +86,8 @@ Le toplevel
      window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
    <br/><br/>
-   <canvas id="mycanvas">
+   <canvas id="mycanvas"
+           style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas les canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
    </canvas>

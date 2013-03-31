@@ -101,8 +101,6 @@ Libraire standard
  
  Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
 
-.. todo:: Intégrer ACE pour colorer l'input !
-
 Autres pages
 ------------
  Ce terminal est aussi disponible ici `<_static/python/index.html>`_.
