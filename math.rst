@@ -13,6 +13,12 @@ Des maths ?
  Il faut seulement savoir que **MathJax** permet d'afficher *facilement*
  des maths (écrites en ``LaTeX`` ou en ``MathML``) joliment.
 
+.. warning:: Ne fonctionne plus !
+
+   Depuis peu (samedi 30 mars ~ 16h), cette page n'affiche plus correctement
+   les codes LaTeX avec MathJax.
+   Je n'ai pas encore résolu le problème !
+
 Exemples
 --------
 On remarque qu'on peut tout d'abord écrire des maths sans passer

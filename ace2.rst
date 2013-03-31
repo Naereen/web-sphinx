@@ -8,22 +8,22 @@
 
 L'éditeur **ACE**
 -----------------
-
 .. warning:: Nécessite une connexion Internet active.
 
    :red:`Attention, pour le moment`, j'utilise un miroir, proposé par les
    développeurs d'**ACE**, afin d'"accélérer le chargement" (d'après eux).
    Par contre, ça empèche d'utiliser la page *localement*.
-   
-   Mais je suis en train d'améliorer ça !
-   Vous pouvez m'aider via mon dépôt public `lbesson/web-sphinx-scripts
-   <https://bitbucket.org/lbesson/web-sphinx-scripts/>`_ !
 
 .. seealso::
 
    Démonstration plus complète
-      La page `Kitchen-Sink <http://ace.ajax.org/build/kitchen-sink.html>`_
-      présente une démo plus complète de l'éditeur **ACE**.
+      La page `<ace.html>`_ présente une démo plus complète de cet éditeur,
+      avec notamment :
+      
+       * un onglet permettant de changer les paramètres;
+       * un stockage local donc indépendant d'un service annexe (et plus rapide il me semble);
+       * une traduction française des messages d'erreurs (en cours).
+
 
 .. raw:: html
 
@@ -62,8 +62,6 @@ L'éditeur **ACE**
 
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
 .. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml, Python et GNU Plot.
-.. todo:: Stocker localement le script !
-.. todo:: Embarquer les contrôles, notamment ceux permettant de régler le mode d'édition.
 
 Copyrights
 ----------

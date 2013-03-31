@@ -92,8 +92,11 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script type="text/javascript" src="_static/simpleimagetrail.js"></script>
 <script type="text/javascript" src='_static/shortcuts.js'></script>
-<!-- Thanks to http://www.openjs.com/scripts/events/keyboard_shortcuts/ -->
+<!-- Thanks to :
+ * http://www.openjs.com/scripts/events/keyboard_shortcuts/ (for the script)
+ * http://questionablecontent.com (for the idea) -->
 <script type="text/javascript">
 shortcut.add("h",function() {
 window.confirm("Les raccourcis claviers suivants sont activés : \n"
@@ -101,8 +104,7 @@ window.confirm("Les raccourcis claviers suivants sont activés : \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
 {% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
-+"\n Cette fonctionnalité est encore en développement !\n"
-+" Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss !\n"
++"\n Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss !\n"
 +"    Lilian Besson (c) 2013.")
             },{
 'type':'keydown',
@@ -155,7 +157,6 @@ location.href="{{ next.link|e }}";
 {% endblock %}
 {% block footer %}
 {{ super() }}
-<script type="text/javascript" src="_static/simpleimagetrail.js"></script>
 <div class="footer">Toutes remarques, questions, ou notifications de bugs peuvent être posées via cette page
 <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.
 <br/>Si ça concerne un des scripts présents sur mes pages, veuillez utiliser
