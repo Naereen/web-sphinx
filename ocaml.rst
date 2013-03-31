@@ -38,6 +38,21 @@ Le toplevel
        * permet de télécharger l'historique des entrées;
        * etc
 
+.. warning::
+
+   Cette version du toplevel n'est pas à jour.
+   
+   Et je n'ai pas réussi à la recompiler. Il semblerait que le dossier 'toplevel'
+   distribué dans l'archive de js_of_ocaml ne soit pas à jour (dernière modification
+   il y a 14 mois, or la dernière version d'OCaml (4.00.1) est sortie en Octobre).
+   
+   Et je n'ai ni le temps ni l'envie de le modifier.
+   
+   C'est bête, j'aurais bien aimé ajouter des ``id="input"`` à l'entrée,
+   pour permettre de l'éditer avec **ACE**, ou alors régler le bug qui scroll
+   vers le bas lors de l'appuis du bouton "Send".
+   
+   Dommage !
 
 À propos
 --------
@@ -45,12 +60,6 @@ Comme dans `.special.rst <_sources/.special.txt>`_,
 j'utilise la directive ``.. raw:: html`` pour
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
 :blue:`C'est simple, c'est propre.`
-
-.. todo::
-
-   Voir pourquoi le focus de la page va en bas dès qu'on utilise le toplevel.
-
-.. todo:: Passer à OCaml 4.00.1 ?
 
 Hébergements
 ------------
