@@ -59,14 +59,7 @@ Le toplevel
       </table>
    </div></div></div></div>
    <script type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
-   <script>window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
-
-.. Réinclure les CSS de Sphinx ?
-.. .. raw:: html
-
-   <link rel="stylesheet" href="_static/default.css" type="text/css" />
-   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-
+   <script type="text/javascript">window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
 
 .. image:: .ocaml-powered.png
    :scale: 130 %

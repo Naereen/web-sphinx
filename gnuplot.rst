@@ -150,7 +150,7 @@ Graphe et entrée texte
     }
     document.getElementById('files').addEventListener('change', handleFileSelect, false);
    </script>
-   <script>window.alert("~~~ Le terminal GNUPlot semble bien initialisé !
+   <script type="text/javascript">window.alert("~~~ Le terminal GNUPlot semble bien initialisé !
    Allez-y, expérimentez quelques commandes GNU Plot ! ~~~");</script>
 
 ------------------------------------------------------------------------------

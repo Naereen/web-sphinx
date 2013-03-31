@@ -11,7 +11,7 @@ Le toplevel
 
 .. raw:: html
 
-   <script>
+   <script type="text/javascript">
     function start() {
      var input = document.getElementById('input')
        , output = document.getElementById('output')

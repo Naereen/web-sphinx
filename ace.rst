@@ -44,7 +44,7 @@ L'éditeur **ACE**
    </div>
    <script src="_static/ace.js" type="text/javascript" charset="utf-8"></script>
    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
-   <script>
+   <script type="text/javascript">
    var editor = ace.edit("editor");
     editor.setTheme("ace/theme/twilight");
     editor.getSession().setMode("ace/mode/ocaml");
