@@ -33,21 +33,6 @@ Le toplevel
     Sk.configure({output:outf, read:builtinRead});
     eval(Sk.importMainWithBody("<stdin>",false,prog));
    }
-   var yourcode = document.getElementById('yourcode');
-   var output = document.getElementById('output');
-   var clean = document.getElementById('clean');
-   var cleanout = document.getElementById('cleanout');
-   clean.value = "Efface l'entrée";
-   cleanout.value = "Efface la sortie";
-   clean.disabled = false;
-   cleanout.disabled = false;
-   clean.onclick = function() {
-         yourcode.value = "";
-   };
-   cleanout.onclick = function() {
-         output.value = "";
-   };
-   window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
    <form>
    <textarea id="yourcode" cols="40" rows="10" style="font-family: monospace">
@@ -60,10 +45,27 @@ Le toplevel
    print "Hello World !"
    </textarea><br/>
    <button type="button" onclick="runit()">Exécute le code courant</button>
-   <input disabled="true" id="clean" type="button" onclick="yourcode.value=''" value="Chargement....." style="margin: auto" />
+   <input id="cleanin" type="button" value="Chargement....." style="margin: auto" />
    </form>
    <pre id="output" ></pre>
-   <input disabled="true" id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
+   <input id="cleanout" type="button" value="Chargement....." style="margin: auto" />
+   <script type="text/javascript">
+   var yourcode = document.getElementById('yourcode');
+   var output = document.getElementById('output');
+   var cleanin = document.getElementById('cleanin');
+   var cleanout = document.getElementById('cleanout');
+   cleanin.value = "Efface l'entrée";
+   cleanout.value = "Efface la sortie";
+   cleanin.disabled = false;
+   cleanout.disabled = false;
+   cleanin.onclick = function() {
+         yourcode.value = "";
+   };
+   cleanout.onclick = function() {
+         output.value = "";
+   };
+   window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
+   </script>
    <canvas id="mycanvas" ></mycanvas>
 
 

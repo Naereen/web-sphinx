@@ -286,6 +286,7 @@ Liste des autres pages
    gnuplot_embed
    runblock
    python
+   skulpt
    ocaml
    try-ocaml
    gnuplot
