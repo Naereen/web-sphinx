@@ -18,11 +18,14 @@ L'éditeur **ACE** (second essai)
    let y = x * 3;;
    String.make x 'a';;
    sin 1.;;
-   let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
+   let rec fact n = 
+     if n = 0
+     then 1.
+     else float n *. fact (n - 1)
+   ;;
    fact 20;;
    </textarea>
-   <script type="text/javascript" src="_static/ace_main.js">
-   </script>
+   <script type="text/javascript" src="_static/ace_main.js"></script>
 
 ------------------------------------------------------------------------------
 
