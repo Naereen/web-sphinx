@@ -225,25 +225,22 @@ JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Certaines pages présentent aussi l'intégration de projets sympas, écrits
  en **JavaScript** :
- 
-   #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
-      directement dans un navigateur web **:)** !
-   #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
-      avec quelques lessons (interactives), en anglais ou français
-      (copié depuis `try.ocamlpro.com <http://try.ocamlpro.com/>`_).
+
    #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
       directement dans un navigateur web **:)** !
    #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
       directement dans un navigateur web **:)**,
       avec un genre d'interface *web*.
+   #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
+      directement dans un navigateur web **:)** !
+   #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
+      avec quelques lessons (interactives), en anglais ou français
+      (copié depuis `try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    #. `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
       évaluation instantannée dès que la zone de texte est changée
-      (le projet initial est propriété de Christian Huettig).
+      (le projet initial est propriété de Christian Huettig). 
    #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
       pour l'instant **ne supporte pas** l'enregistrement.
-   #. d'autres sont en cours de développement, notamment un toplevel
-      ``GNU Octave,`` que j'espère faire fonctionner comme ceux pour Python
-      ou OCaml.
 
 .. warning:: Seulement en **HTML**
 

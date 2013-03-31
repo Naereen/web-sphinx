@@ -2,6 +2,7 @@
    :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GNU, Gnu, Nano, gedit, histoire, Naereen
    :description lang=fr: Coloration syntaxique pour GNU Nano
    :description lang=en: Syntactical coloration for GNU Nano
+
 #########################################
  Coloration syntaxique pour **GNU Nano**
 #########################################
