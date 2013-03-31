@@ -9,6 +9,8 @@
 Le toplevel
 -----------
 
+.. warning:: Utilise une balise ``<anvas``
+
 .. raw:: html
 
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
@@ -68,7 +70,10 @@ Le toplevel
    };
    window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
-   <canvas id="mycanvas" />
+   <canvas id="mycanvas">
+    Il semblerait que votre navigateur ne supporte pas les canvas.
+    La sortie graphique via le module ''turtle'' est donc non disponible !
+   </canvas>
 
 
 .. image:: .python-powered.png
