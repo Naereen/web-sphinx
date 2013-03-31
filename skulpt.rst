@@ -9,7 +9,14 @@
 Le toplevel
 -----------
 
-.. warning:: Utilise une balise ``<anvas``
+.. warning::
+
+   Utilise une balise ``canvas``, donc non compatible XHTML 1.0 Transitionnal !
+   :red:`Cette page n'est pas bien formée.`
+   
+   Et elle nécessite donc un navigateur compatible HTML 5.
+
+------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -84,12 +91,13 @@ Le toplevel
 
 ------------------------------------------------------------------------------
 
+.. warning:: Les modules sys et os ne sont pas disponibles.
+
 .. seealso::
 
    Python Emscripten (`<python.html>`_)
       Cette page intègre une autre implémentation en *JavaScript* de Python.
       Compilée à partir du compilateur Emscripten (bytecode → JavaScript).
-
 
 Autres pages
 ------------
