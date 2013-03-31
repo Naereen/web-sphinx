@@ -83,6 +83,17 @@ Le toplevel
       Skulpt est une autre implémentation en *JavaScript* de Python.
       Il semble aussi posséder un genre d'interface graphique :) !
 
+Libraire standard
+-----------------
+
+ En utilisant un débuggeur JavaScript, comme `FireBug
+ <https://getfirebug.com/whatisfirebug>`_, il est possible de voir les appels
+ aux fichiers de la librairie Python.
+ 
+ Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
+
+.. todo:: Intégrer ACE pour colorer l'input !
+
 Autres pages
 ------------
  Ce terminal est aussi disponible ici `<_static/python/index.html>`_.
