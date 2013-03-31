@@ -15,6 +15,12 @@ Le toplevel
    :red:`Cette page n'est pas bien formée.`
    
    Et elle nécessite donc un navigateur compatible HTML 5.
+   
+   Malgré ça, cette version de l'interprète Python semble plus accessible que
+   la première mise en place (`<python.html>`_), en particulier **Skulpt**
+   semble plus compatible avec les navigateurs des smartphones (si ce n'est
+   pas votre cas, un retour ou une remarque me ferait plaisir, voir
+   `<index.html>`_ pour me contacter !).
 
 ------------------------------------------------------------------------------
 

@@ -9,6 +9,8 @@
 Le toplevel
 -----------
 
+.. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
+
 .. raw:: html
 
    <script type="text/javascript">
