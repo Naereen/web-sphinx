@@ -4,8 +4,6 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
-.. warning:: Page non encore terminée !
-
 ------------------------------------------------------------------------------
 
 Le toplevel
