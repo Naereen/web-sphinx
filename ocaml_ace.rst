@@ -13,6 +13,20 @@ Le toplevel
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align="center">
    <div id="toplevel" align="left">
+   <textarea id="textarea"
+    style="position: relative; font-size: 22pt; height: 700px; width: 100%"
+   >(* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
+   let x = 10+10;;
+   let y = x * 3;;
+   String.make x 'a';;
+   sin 1.;;
+   let rec fact n =
+     if n = 0
+     then 1.
+     else float n *. fact (n - 1)
+   ;;
+   fact 20;;
+   </textarea>
    <script type="text/javascript" src="_static/ace_ocaml.js"></script>
    <script type="text/javascript">window.alert("~~~ Le terminal OCaml (3.12.1) semble bien initialisé ! ~~~")</script>
    </div></div>
