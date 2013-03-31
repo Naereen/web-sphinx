@@ -38,7 +38,7 @@ sur :u:`votre propre machine.`
      div.emscripten { text-align: center; }
      table.noborder { border: 0; vertical-align: text-top; }
     </style>
-    <input id="files" name="files[]" multiple="" type="file">
+    <input id="files" name="files[]" multiple="" type="file"></input>
     <output id="list"></output>
 
 Graphe et entrée texte

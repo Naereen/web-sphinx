@@ -27,15 +27,10 @@ L'éditeur **ACE**
 
 .. raw:: html
 
-   <style type="text/css" media="screen">
-    #editor {
-      position:  relative;
-      font-size: 21pt;
-      height:    700px;
-      width:     100%;
-    }
-   </style>
-   <div id="editor">let x = 10+10;;
+   <div id="editor" 
+        style="position: relative; font-size: 21pt; height: 700px; width: 100%"
+   >(* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
+   let x = 10+10;;
    let y = x * 3;;
    String.make x 'a';;
    sin 1.;;
