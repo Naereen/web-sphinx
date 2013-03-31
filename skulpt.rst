@@ -68,7 +68,7 @@ Le toplevel
    };
    window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
-   <canvas id="mycanvas" ></mycanvas>
+   <canvas id="mycanvas" />
 
 
 .. image:: .python-powered.png

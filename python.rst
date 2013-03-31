@@ -52,24 +52,12 @@ Le toplevel
    <textarea disabled="disabled" id="input" style="font-family: monospace; width: 100%" rows="24" cols="80">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
-   #
-   # Un second exemple
-   import time
-   now = time.localtime()
-   hour = now.tm_hour
-   if hour < 8: print 'sleeping'
-   elif hour < 9: print 'commuting'
-   elif hour < 17: print 'working'
-   elif hour < 18: print 'commuting'
-   elif hour < 20: print 'eating'
-   elif hour < 22: print 'resting'
-   else: print 'sleeping'
-   # Un dernier exemple
+   # Un exemple, comme celui pour OCaml
    def factorial(n):
      if n == 0: return 1
      else: return n * factorial(n - 1)
    print factorial(11)
-   # Démonstration
+   # Dernier exemple, montre la version
    import sys, os
    print "Version: %s" % sys.version
    print "Dossier courant: %s" % os.getcwd()
@@ -78,8 +66,8 @@ Le toplevel
    <input disabled="disabled" id="button" type="button" value="Chargement......" style="margin: auto" />
    <input disabled="disabled" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    <h4>Sortie du toplevel :</h4>
-   <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-   <input disabled id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
+   <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
+   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
 
 .. image:: .python-powered.png
    :scale: 120 %
