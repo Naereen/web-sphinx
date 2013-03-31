@@ -68,7 +68,7 @@ My projects on-line
 
 Feel free to *contact* me :
 
-  #. either with my *bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_;
+  #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
   #. or via my *Google Site* site `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_;
   #. or via my *Launchpad* profile `launchpad.net/~lbesson
      <https://launchpad.net/~lbesson>`_;
