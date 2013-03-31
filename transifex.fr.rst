@@ -45,7 +45,7 @@ Interface de traduction
 .. image:: .transifex.png
    :scale: 85%
    :align: center
-   :alt: Une capture d'écran de l'interface de Transifex.com (© et ® Transifex)
+   :alt: Une capture d'écran de l'interface de Transifex.com (© Transifex)
    :target: https://www.transifex.com
 
 
@@ -124,9 +124,9 @@ Améliorer leur web-service
   Et enfin, je trouve qu'il manque la possibilité de voir
   certaines statistiques d'un projet de traduction, comme par exemple :
 
-   i. le nombre moyen de relecture d'une phrase;
-   ii. le nombre de phrases traduites par chaque participants;
-   iii. ou alors l'évolution temporelle du nombre de phrases traduites.
+   #. le nombre moyen de relecture d'une phrase;
+   #. le nombre de phrases traduites par chaque participants;
+   #. ou alors l'évolution temporelle du nombre de phrases traduites.
  
   C'est donc tout naturellement que j'ai ouvert une demande publique
   pour demander une amélioration, qui se trouve `là sur support.transifex.com

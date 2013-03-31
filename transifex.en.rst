@@ -46,7 +46,7 @@ Translation interface
 .. image:: .transifex.png
    :scale: 85%
    :align: center
-   :alt: A screen capture to the interface of Transifex.com (© & ® Transifex)
+   :alt: A screen capture to the interface of Transifex.com (© Transifex)
    :target: https://www.transifex.com
 
 Encountered difficulties
