@@ -3,27 +3,22 @@
 ############################
 .. include:: .special.rst
 
-ACE (éditeur de texte en JS)
-----------------------------
- * `<http://ace.ajax.org/#nav=embedding>`_;
- * `<http://ace.ajax.org/#nav=howto>`_.
- * voir si possible de l'utiliser pour remplacer les champs 'input' des
-   toplevels ``OCaml`` et ``GNU Plot`` (des pages `<ocaml.html>`_
-   et `<gnuplot.html>`_).
-
 Uglify
 ------
 Voir peut-être `<http://marijnhaverbeke.nl/uglifyjs>`_.
 Pour raccourcir la taille des scripts JS embarqués ?
 
+------------------------------------------------------------------------------
+
 Espace d'expérimentations
 -------------------------
 .. versionadded:: 1.4
 
-D'autres rôles :
+D'autres rôles (rajoutés grâce à `<_sources/.special.txt>`_ et au travail
+réalisé pour `.templates/layout.html` :
 
  * :u:`souligné`, avec ``:u:`texte```;
- * :blink:`clignotant`, avec ``:blink:`texte```;
+ * :blink:`clignotant`, avec ``:blink:`texte``` (pas toujours supporté !);
  * :o:`surligné`, avec ``:o:`texte```;
  * :line:`barré`, avec ``:line:`texte```;
  * :it:`italique`, avec ``:it:`texte```;
@@ -46,5 +41,11 @@ Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
 
  * aucune erreur pour les feuilles **CSS** !
  * aucune erreur pour les pages **XHTML** 1.0 Transitional !
+
+.. warning:: Pas toujours parfaits
+
+   Certaines pages ne passent pas le test CSS ou XHTML, à cause de bout de
+   code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
+   par exemple).
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

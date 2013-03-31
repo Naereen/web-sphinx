@@ -11,8 +11,7 @@ L'éditeur **ACE**
 .. warning:: Nécessite une connexion Internet active.
 
    :red:`Attention, pour le moment`, j'utilise un miroir, proposé par les
-   développeurs d'**ACE**, afin d'"accélérer le chargement" (d'après eux).
-   Par contre, ça empèche d'utiliser la page *localement*.
+   développeurs d'**ACE**. Par contre, ça empèche d'utiliser la page *localement*.
 
 .. seealso::
 
@@ -22,7 +21,7 @@ L'éditeur **ACE**
       
        * un onglet permettant de changer les paramètres;
        * un stockage local donc indépendant d'un service annexe (et plus rapide il me semble);
-       * une traduction française des messages d'erreurs (en cours).
+       * une traduction française de l'onglet des paramètres.
 
 
 .. raw:: html

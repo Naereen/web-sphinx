@@ -232,7 +232,7 @@ BSc programming projects (2011-2012)
  * ``C--``: compiler from a subset of ``C`` to ``x86`` assembler, with formal semantics, written in **OCaml** (first semester project);
  * For **Android** apps :
 
-   - Syntaxical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
+   - Syntactical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
    - Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android 
      <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ app,
      a non-official project for the **OCaml** language,

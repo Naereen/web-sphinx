@@ -157,10 +157,10 @@ Graphe et entrée texte
 
 À propos
 --------
-Comme dans `.special.rst <_sources/.special.txt>`_,
-j'utilise la directive ``.. raw:: html`` pour
-**embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
-:blue:`C'est simple, c'est propre !`
+ Comme dans `.special.rst <_sources/.special.txt>`_,
+ j'utilise la directive ``.. raw:: html`` pour
+ **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
+ :blue:`C'est simple, c'est propre !`
 
 .. todo::
 
@@ -168,14 +168,6 @@ j'utilise la directive ``.. raw:: html`` pour
    En fait, le script semble garder en mémoire les entrées précédentes,
    et lorsqu'on recharge la page, le buffer d'input ne prend pas les données
    que je lui demande.
-
-.. todo:: 
-
-   Faire pareil avec Octave, voir `weboctave.mimuw.edu.pl 
-   <http://weboctave.mimuw.edu.pl/weboctave/web/index.php>`_.
-   Actuellement en essai, ici `<octave.html>`_.
-
-.. todo:: Voir pour changer le nom "foo" en "input".
 
 Hébergements
 ------------

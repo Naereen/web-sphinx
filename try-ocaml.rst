@@ -11,17 +11,16 @@
    Je n'ai toujours pas réglé certaines erreurs CSS, signalées par le
    valideur W3C.
    Notamment, les feuilles CSS de **Try OCaml** chamboulent complètement
-   l'apparence de la page, et c'est laid.
+   l'apparence de la page, et c'est laid !
    
 .. todo:: Régler ce soucis de feuilles de styles !
 
 Le toplevel
 -----------
-
 .. raw:: html
 
-   <link type="text/css" href="_static/try-ocaml/bootstrap.css" rel="stylesheet" />
-   <link type="text/css" href="_static/try-ocaml/style.css" rel="stylesheet" />
+   <style type="text/css" src="_static/try-ocaml/bootstrap.css"></style>
+   <style type="text/css" src="_static/try-ocaml/style.css"></style>
    <script type="text/javascript" src="jquery-1.4.2.min.js"></script>
    <script type="text/javascript" src="jquery.console.js"></script>
    <div class="content">
@@ -71,7 +70,7 @@ Le toplevel
    <script type="text/javascript">window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
 
 .. image:: .ocaml-powered.png
-   :scale: 130 %
+   :scale: 140 %
    :align: center
    :alt: OCaml powered :)
    :target: http://caml.inria.fr
@@ -81,11 +80,9 @@ Le toplevel
 .. seealso::
 
    Toplevel OCaml
-      La page `<ocaml.html>`_ présente un toplevel OCaml plus simpliste,
+      La page `<ocaml.html>`_ présente un toplevel ``OCaml`` plus simpliste,
       non à-jour, mais qui à l'avantage d'être plus simple à mettre en place
-      (un seul fichier, `<_static/toplevel.js>`_),
-      et d'être directement obtenu par compilation via **js_of_ocaml**
-      du toplevel OCaml "officiel" (la commande 'ocaml' installée avec OCaml).
+      (un seul fichier, `<_static/toplevel.js>`_, pas de jeu de CSS).
 
 
 Hébergements
@@ -96,12 +93,11 @@ Hébergements
 
 Copyrights
 ----------
- * **OCaml** est © et ® Inria, et est publié sour la licence MIT.
+ * **OCaml** est © et ® INRIA;
  * **Try OCaml** est © et ® OCaml Pro.
 
 Remerciements
 -------------
-
  * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    La page de référence pour ces morceaux de code est 
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.

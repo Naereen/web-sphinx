@@ -56,10 +56,10 @@ Le toplevel
 
 À propos
 --------
-Comme dans `.special.rst <_sources/.special.txt>`_,
-j'utilise la directive ``.. raw:: html`` pour
-**embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
-:blue:`C'est simple, c'est propre.`
+ Comme dans `.special.rst <_sources/.special.txt>`_,
+ j'utilise la directive ``.. raw:: html`` pour
+ **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
+ :blue:`C'est simple, c'est propre.`
 
 Hébergements
 ------------
@@ -69,7 +69,7 @@ Hébergements
 
 Copyrights
 ----------
- * **OCaml** est © et ® Inria, et est publié sour la licence MIT.
+ * **OCaml** est © et ® INRIA;
 
  * **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
      Pour plus d'infos, voir `ocsigen.org/js_of_ocaml 
@@ -77,9 +77,9 @@ Copyrights
 
 Remerciements
 -------------
- * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_).
+ * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_);
 
- * Merci aux auteurs d'**OCaml**.
+ * Merci aux auteurs d'**OCaml**;
 
  * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    La page de référence pour ces morceaux de code est 
