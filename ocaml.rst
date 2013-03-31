@@ -54,6 +54,21 @@ Le toplevel
    
    Dommage !
 
+Un exemple de programme OCaml
+-----------------------------
+ Le toplevel se charge avec les quelques lignes suivantes dans son *buffer*
+ d'entrée :
+
+.. code-block:: ocaml
+
+   let x = 10+10;;
+   let y = x * 3;;
+   String.make x 'a';;
+   sin 1.;;
+   let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
+   fact 20;;
+
+
 À propos
 --------
  Comme dans `.special.rst <_sources/.special.txt>`_,
