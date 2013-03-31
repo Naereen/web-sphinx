@@ -12,8 +12,8 @@ Le toplevel
 .. raw:: html
 
    <script type="text/javascript" src="_static/toplevel.js"></script>
-   <div align=center>
-   <div id="toplevel" align=left>
+   <div align="center">
+   <div id="toplevel" align="left">
    <script type="text/javascript">window.alert("~~~ Le terminal OCaml (3.12.1) semble bien initialisé ! ~~~")</script>
    </div></div>
 
