@@ -66,25 +66,26 @@ Le toplevel
    <button type="button" onclick="runit()">Exécute le code courant</button>
    <input id="cleanin" type="button" value="Chargement....." style="margin: auto" />
    </form>
-   <pre id="output" ></pre>
+   <pre id="output" ></pre><br/>
    <input id="cleanout" type="button" value="Chargement....." style="margin: auto" />
    <script type="text/javascript">
-   var textarea = document.getElementById('textarea');
-   var output = document.getElementById('output');
-   var cleanin = document.getElementById('cleanin');
-   var cleanout = document.getElementById('cleanout');
-   cleanin.value = "Efface l'entrée";
-   cleanout.value = "Efface la sortie";
-   cleanin.disabled = false;
-   cleanout.disabled = false;
-   cleanin.onclick = function() {
-         textarea.value = "";
-   };
-   cleanout.onclick = function() {
-         output.value = "";
-   };
-   window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
+     var textarea = document.getElementById('textarea');
+     var output = document.getElementById('output');
+     var cleanin = document.getElementById('cleanin');
+     var cleanout = document.getElementById('cleanout');
+     cleanin.value = "Efface l'entrée";
+     cleanout.value = "Efface la sortie";
+     cleanin.disabled = false;
+     cleanout.disabled = false;
+     cleanin.onclick = function() {
+           textarea.value = "";
+     };
+     cleanout.onclick = function() {
+           output.value = "";
+     };
+     window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
    </script>
+   <br/><br/>
    <canvas id="mycanvas">
     Il semblerait que votre navigateur ne supporte pas les canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
@@ -100,6 +101,8 @@ Le toplevel
 ------------------------------------------------------------------------------
 
 .. warning:: Les modules sys et os ne sont pas disponibles.
+
+.. todo:: Bouton "Efface l'entrée" plus disponible.
 
 .. seealso::
 

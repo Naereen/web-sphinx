@@ -6,21 +6,10 @@
 
 ------------------------------------------------------------------------------
 
-.. warning:: Erreurs CSS
-
-   Je n'ai toujours pas réglé certaines erreurs CSS, signalées par le
-   valideur W3C.
-   Notamment, les feuilles CSS de **Try OCaml** chamboulent complètement
-   l'apparence de la page, et c'est laid !
-   
-.. todo:: Régler ce soucis de feuilles de styles !
-
 Le toplevel
 -----------
 .. raw:: html
 
-   <style type="text/css" src="_static/try-ocaml/bootstrap.css"></style>
-   <style type="text/css" src="_static/try-ocaml/style.css"></style>
    <script type="text/javascript" src="jquery-1.4.2.min.js"></script>
    <script type="text/javascript" src="jquery.console.js"></script>
    <div class="content">

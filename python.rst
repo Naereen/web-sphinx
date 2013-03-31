@@ -86,6 +86,12 @@ Le toplevel
       Skulpt est une autre implémentation en *JavaScript* de Python.
       Il semble aussi posséder un genre d'interface graphique :) !
 
+.. todo::
+   
+   Le bouton "Efface l'entrée" est inactif pour le moment
+   (depuis que j'ai rajouté ACE pour colorer et faciliter l'édition de la zone
+   d'entrée de texte).
+
 Libraire standard
 -----------------
 
