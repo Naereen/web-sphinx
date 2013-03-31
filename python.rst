@@ -49,7 +49,7 @@ Le toplevel
    window.onload = start;
    </script>
    <h4>Entrée du toplevel :</h4>
-   <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="24">print 'Bonjour, le monde !'
+   <textarea disabled id="input" style="font-family: monospace; width: 100%" rows="24" cols="80">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
    #
@@ -75,11 +75,11 @@ Le toplevel
    print "Dossier courant: %s" % os.getcwd()
    # Ajoutez votre propre commande Python :
    </textarea>
-   <input disabled="true" id="button" type="button" value="Chargement......" style="margin: auto" />
-   <input disabled="true" id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
+   <input disabled id="button" type="button" value="Chargement......" style="margin: auto" />
+   <input disabled id="clean" type="button" onclick="input.value=''" value="Chargement....." style="margin: auto" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8"></textarea>
-   <input disabled="true" id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
+   <input disabled id="cleanout" type="button" onclick="output.value=''" value="Chargement....." style="margin: auto" />
 
 .. image:: .python-powered.png
    :scale: 120 %
