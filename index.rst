@@ -233,6 +233,9 @@ JavaScript et outils embarqués
       (copié depuis `try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
       directement dans un navigateur web **:)** !
+   #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
+      directement dans un navigateur web **:)**,
+      avec un genre d'interface *web*.
    #. `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
       évaluation instantannée dès que la zone de texte est changée
       (le projet initial est propriété de Christian Huettig).

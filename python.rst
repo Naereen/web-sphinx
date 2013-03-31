@@ -49,7 +49,7 @@ Le toplevel
    window.onload = start;
    </script>
    <h4>Entrée du toplevel :</h4>
-   <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="8">print 'Bonjour, le monde !'
+   <textarea disabled="true" id="input" style="font-family: monospace; width: 100%" rows="16">print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}	# dictionnaire en compréhension
    print {i*6 for i in range(8)}	# ensemble en compréhension
    #
