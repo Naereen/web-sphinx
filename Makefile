@@ -78,14 +78,14 @@ send_pdf:
 	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_public:
-	$(CP) -r .build/html/ .build/html/.* ~/Public/
+	$(CP) -r .build/html/ ~/Public/
 
 send_dpt:
-	$(CP) -r .build/html/ .build/html/.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	$(CP) ~/web-sphinx.tar.xz lbesson@ssh.dptinfo.ens-cachan.fr:~/
 
 send_zamok:
-	$(CP) -r .build/html/ .build/html/.* besson@zamok.crans.org:~/www/
+	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
 	$(CP) ~/web-sphinx.tar.xz besson@zamok.crans.org:~/
 
 pytorst:
