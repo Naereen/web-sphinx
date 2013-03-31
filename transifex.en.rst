@@ -106,13 +106,12 @@ And after?
   This little adventure got me interested in translation projects,
   and I think I'll look at make it **more regularly** !
 
-Offer me a to do a translation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Offer me to do a translation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   So, if you are interested in a translation
-  (FR → EN or
-  EN → FR)
+  (FR → EN or EN → FR)
   of your website, software or otherwise
-  do not hesitate to `contact me <index.html>`_.
+  do not hesitate to contact me (`you will find out how here <index.html>`_).
 
 Update their web-service
 ^^^^^^^^^^^^^^^^^^^^^^^^

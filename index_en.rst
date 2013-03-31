@@ -37,7 +37,7 @@ Contact addresses
         94230 - Cachan,
         France
  
-  #. or via *Facebook* `facebook.com/naereencorp.lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+  #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
 
      .. image:: .courriel.png
         :scale: 120 %
@@ -45,7 +45,7 @@ Contact addresses
         :alt:   My email address, in a PNG picture...
         :target: mailto:lilian DOT besson AT ens-cachan DOT fr
 
-  #. or via *email* `lilian DOT besson AT ens-cachan DOT fr <mailto:lilian DOT besson AT ens-cachan DOT fr>`_;
+  #. or via `email <mailto:lilian DOT besson AT ens-cachan DOT fr>`_;
 
      .. image:: .telephone.png
         :scale: 130 %
@@ -97,5 +97,6 @@ Pages in English
    
    CV_Lilian_BESSON.en
    transifex.en
+   trademarks
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
