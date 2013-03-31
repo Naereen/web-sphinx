@@ -85,14 +85,4 @@ ocaml-stdin
     # let rec f = function 0 -> 1 | n -> n *( f (n-1)) in
     # print_int (f 11);;
 
-Voir aussi
-----------
-D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
- * des maths, écrites en **LaTeX**, `<math.html>`_;
- * des graphiques, avec **GNU Plot**, `<gnuplot_embed.html>`_;
- * des graphis, écrits en **DOT Graph**, visualisés avec GraphViz, `<graph.html>`_;
- * un toplevel **Python**, `<python.html>`_;
- * un toplevel **GNU Plot**, `<gnuplot_embed.html>`_;
- * un toplevel **OCaml**, `<ocaml.html>`_.
-
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

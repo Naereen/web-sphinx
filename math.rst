@@ -60,16 +60,6 @@ J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
 
 ------------------------------------------------------------------------------
 
-Voir aussi
-----------
-D'autres pages parlent de l'utilisation de **Sphinx** pour embarquer :
- * des graphiques GNU Plot `<gnuplot_embed.html>`_;
- * des graphes, écrits en **DOT Graph**, visualisés avec GraphViz, `<graph.html>`_;
- * un toplevel **Python**, `<python.html>`_;
- * un toplevel **GNU Plot**, `<gnuplot.html>`_;
- * un toplevel **OCaml**, `<ocaml.html>`_;
- * embarquer le résultat d'une commande *shell*, `<runblock.html>`_.
-
 Autres **expérimentations** : des couleurs ?
 --------------------------------------------
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
