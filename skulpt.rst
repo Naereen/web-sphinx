@@ -35,14 +35,16 @@ Le toplevel
    }
    </script>
    <form>
-   <textarea id="yourcode" cols="40" rows="10" style="font-family: monospace">
-   import turtle, sys, os, random
+   <textarea id="yourcode" cols="80" rows="11" style="font-family: monospace">
+   import turtle
    t = turtle.Turtle()
    for c in ['red', 'green', 'yellow', 'blue']:
        t.color(c)
        t.forward(75)
        t.left(90)
    print "Hello World !"
+   # Le module sys n'est pas disponible.
+   # Rentrez vos propres commandes !
    </textarea><br/>
    <button type="button" onclick="runit()">Exécute le code courant</button>
    <input id="cleanin" type="button" value="Chargement....." style="margin: auto" />
