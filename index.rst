@@ -81,7 +81,7 @@ Stage de M1
 J'ai trouvé un **stage de recherche** pour le 
 troisième trimestre 2012/2013 (entre le 06 Juin et le 09 Août).
 
-Il se déroulera à l'**UCL** (:u:`University College of London`),
+Il se déroulera à l'**UCL** (:under:`University College of London`),
 sous la direction de *Peter O'Hearn* et *Jules Villard*,
 à propos de logique de séparation.
 

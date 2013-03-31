@@ -27,7 +27,7 @@ un fichier de données venant de votre propre ordinateur.
 
 Ce fichier **n'est envoyé nul part** : il est utilisé par ``gnuplot.js``,
 qui est un script qui s'exécute **localement**
-sur :u:`votre propre machine.`
+sur :under:`votre propre machine.`
 
 .. raw:: html
 

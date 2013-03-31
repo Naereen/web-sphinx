@@ -69,12 +69,14 @@ J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
 Autres **expérimentations** : des couleurs ?
 --------------------------------------------
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
-styles (CSS) dans les fichiers **.rst** écrits pour ces pages webs.
+rôles dans les fichiers **.rst** écrits pour ces pages webs,
+et ces rôles sont mis en relation avec des styles CSS définis dans
+.templates/layout.html, le template Jinja qui contrôlle l'apparence et le rendu
+de toutes mes pages produites avec Sphinx.
 
-Et j'utilise la balise ``.. role::`` pour déclarer des rôles aux différentes
-couleurs : black gray silver white maroon red magenta fuchsia pink orange 
-yellow lime green olive teal cyan aqua blue navy purple, et le role spécial
-``u`` pour souligner.
+Notamment, les différentes couleurs suivantes sont disponibles :
+black gray silver white maroon red magenta fuchsia pink orange 
+yellow lime green olive teal cyan aqua blue navy purple.
 
 Exemples :
 
@@ -97,7 +99,8 @@ Exemples :
  * la couleur :aqua:`aqua`;
  * la couleur :blue:`blue`;
  * la couleur :navy:`navy`;
- * la couleur :purple:`purple`;
- * ceci est :u:`underlined`.
+ * la couleur :purple:`purple`.
+
+D'autres exemples sont disponibles là `<avoir.html>`_.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

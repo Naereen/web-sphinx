@@ -20,8 +20,8 @@
 .. role:: navy
 .. role:: purple
 
-.. role:: u
-.. role:: o
+.. role:: under
+.. role:: over
 .. role:: blink
 .. role:: line
 

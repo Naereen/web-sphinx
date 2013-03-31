@@ -17,9 +17,9 @@ Espace d'expérimentations
 D'autres rôles (rajoutés grâce à `<_sources/.special.txt>`_ et au travail
 réalisé pour `.templates/layout.html` :
 
- * :u:`souligné`, avec ``:u:`texte```;
+ * :under:`souligné`, avec ``:under:`texte```;
  * :blink:`clignotant`, avec ``:blink:`texte``` (pas toujours supporté !);
- * :o:`surligné`, avec ``:o:`texte```;
+ * :over:`surligné`, avec ``:over:`texte```;
  * :line:`barré`, avec ``:line:`texte```;
  * :it:`italique`, avec ``:it:`texte```;
  * :ob:`oblique`, avec ``:ob:`texte``` (comme italique semble-t-il).

@@ -82,7 +82,7 @@ MSc internship
 I found an internship for the third semester of my Maths & CS MSc
 (06 June to 09 August).
 
-It will take place at **UCL** (:u:`University College of London`),
+It will take place at **UCL** (:under:`University College of London`),
 under the direction of *Peter O'Hearn* and *Jules Villard*,
 about separtion logic.
 
