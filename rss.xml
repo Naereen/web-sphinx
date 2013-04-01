@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="updates.xslt" ?>
+
+<rss version="2.0">
+ <channel>
+      <title>Lilian Besson - on the web</title>
+      <link>http://perso.crans.org/besson</link>
+      <description>Un essai de flux RSS</description>
+      <language>fr</language>
+      <copyright>© 2013, Lilian Besson</copyright>
+      <managingEditor>naereen@crans.org</managingEditor>
+      <webMaster>naereen@crans.org</webMaster>
+      <category>Exemple</category>
+      <generator>Painstakingly written by hand</generator>
+      <ttl>60</ttl>
+
+      <image>
+        <title>Logo de mon site</title>
+        <url>http://perso.crans.org/besson/_static/.besson_transparent.png</url>
+        <link>http://perso.crans.org/besson/rss.html</link>
+        <description>Toutes mes expérimentations web sur perso.crans.org/besson !</description>
+        <height>241</height>
+        <width>150</width>
+      </image>
+      
+      <item>
+       <title>Premier item !</title>
+       <link>http://facebook.com/naereencorp.lbesson</link>
+       <description>Un lien vers ma page Facebook</description>
+       <pubDate>Mon, 1 April 2013 09:49:43 GMT</pubDate>
+      </item>
+      
+  </channel>
+</rss>

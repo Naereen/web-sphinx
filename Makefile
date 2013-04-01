@@ -174,6 +174,8 @@ html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/html/transifex.html; fi
+	$(CP) rss.xml $(BUILDDIR)/html/
+	@echo "RSS flow -> in $(BUILDDIR)/html/."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
