@@ -7,7 +7,7 @@ Je tente ici d'inclure un flux **RSS** dans une page générée par Sphinx.
 
 S'abonner au flux
 -----------------
-.. image:: .rss.png
+.. image:: .valid-rss.png
    :scale: 140%
    :align: right
    :alt: Flux RSS (perso.crans.org/besson/rss.xml)
