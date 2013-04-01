@@ -257,7 +257,7 @@ Des slides en **rST**
 
 Flux RSS
 ^^^^^^^^^
- Depuis peu, j'ai ajouté à ces pages une information sur un flux **RSS**.
+ Depuis peu, j'ai ajouté à ces pages des informations sur des flux **RSS**.
  Il s'agit de ce flux `lbesson/web-sphinx/rss 
  <http://bitbucket.org/lbesson/web-sphin/rss>`_.
 
@@ -266,6 +266,8 @@ Flux RSS
  Pour plus d'informations, ou pour lire directement les dernières entrées
  du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
  moment, fait appel à un script hebergé ailleurs).
+ 
+ Et un nouveau flux est en train d'être mis en place : `<rss.xml>`_ !
 
 --------------------------------------------------------------------
 
