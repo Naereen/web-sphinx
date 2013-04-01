@@ -86,6 +86,13 @@ Le toplevel
       Skulpt est une autre implémentation en *JavaScript* de Python.
       Il semble aussi posséder un genre d'interface graphique :) !
 
+.. seealso::
+
+   SymPy Live (`<http://live.sympy.org/>`_)
+      Est encore un autre terminal Python s'exécutant dans un navigateur.
+      Avec SymPy installé (calcul symbolique en Python), et en interprétant
+      la sortie de SymPy comme du code LaTeX, rendu avec MathJax.
+
 .. todo::
    
    Le bouton "Efface l'entrée" est inactif pour le moment

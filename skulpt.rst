@@ -111,6 +111,13 @@ Le toplevel
       Cette page intègre une autre implémentation en *JavaScript* de Python.
       Compilée à partir du compilateur Emscripten (bytecode → JavaScript).
 
+.. seealso::
+
+   SymPy Live (`<http://live.sympy.org/>`_)
+      Est encore un autre terminal Python s'exécutant dans un navigateur.
+      Avec SymPy installé (calcul symbolique en Python), et en interprétant
+      la sortie de SymPy comme du code LaTeX, rendu avec MathJax.
+
 Autres pages
 ------------
  Le premier terminal **Python** que j'ai intégré dans mes pages est là

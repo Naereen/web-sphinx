@@ -71,6 +71,9 @@ send_latexpdf:
 	$(CP) .build/latex/CV*.pdf besson@zamok.crans.org:~/www/
 	$(CP) .build/latex/CV*.pdf ~/Public/
 	$(CP) .build/latex/CV*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	$(CP) .build/latex/*.pdf besson@zamok.crans.org:~/www/pdf/
+	$(CP) .build/latex/*.pdf ~/Public/pdf/
+	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_pdf:
 	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
