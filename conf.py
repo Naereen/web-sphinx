@@ -288,6 +288,8 @@ latex_documents = [
    u'Lilian Besson', 'howto'),
   ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
    u'Lilian Besson', 'howto'),
+  ('math', 'math.tex', u'Lilian Besson - Des Maths en rST',
+   u'Lilian Besson', 'howto'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
