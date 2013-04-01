@@ -7,17 +7,18 @@ Je tente ici d'inclure un flux **RSS** dans une page générée par Sphinx.
 
 S'abonner au flux
 -----------------
-.. image:: .valid-rss.png
-   :scale: 140%
-   :align: right
-   :alt: Flux RSS (perso.crans.org/besson/rss.xml)
-   :target: http://perso.crans.org/besson/rss.xml
-
 Il y a deux flux :
 
  * Celui produit par Bitbucket d'après mes commits au dépôt *lbesson/web-sphinx/*.
    On peut s'y abonner facilement, il suffit de `cliquer sur ce texte 
    <http://bitbucket.org/lbesson/web-sphinx/rss>`_;
+
+.. image:: .valid-rss.png
+   :scale: 100%
+   :align: right
+   :alt: Flux RSS (perso.crans.org/besson/rss.xml)
+   :target: http://perso.crans.org/besson/rss.xml
+
  * ou celui que j'écrit moi-même. On peut s'y abonner en cliquant sur cette image :
 
 Le flux 1
@@ -45,5 +46,15 @@ Le flux 2
 
  Je cherche aussi une solution n'utilisant pas le PHP.
  Parce que c'est moche le PHP...
+
+Flux valide ?
+-------------
+.. image:: .valid-rss.png
+   :alt: "[Valid RSS]"	
+   :title: Validez mon flux RSS
+   :target: http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml
+   :align: right
+
+Normalement, le flux écrit à la main est valide, comme le montre le lien suivant :
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
