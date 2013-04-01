@@ -192,20 +192,20 @@ Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
 l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
 cette page ci `<pgp.html>`_ peut être utile.
 
-.. sidebar:: Pour *Jota Text Editor* & *Jota +*
-
-   Et pour les applications Android `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
-  (et son fork `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
-   
-    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
-    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
-
-
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
 de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
 fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment).
+
+.. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
+
+   Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
+   et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
+   
+    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
+    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
+
 
 Traductions
 ^^^^^^^^^^^
