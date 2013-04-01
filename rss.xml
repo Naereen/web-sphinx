@@ -26,8 +26,8 @@
        <title>Ça marche ! Ça marche !</title>
        <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide</description>
-       <guid>http://perso.crans.org/besson/rss.html</guid>
-       <pubDate>Mon, 01 Apr 2013 10:49:43</pubDate>
+       <guid>https://bitbucket.org/lbesson/web-sphinx-scripts</guid>
+       <pubDate>Mon, 01 Apr 2013 10:49:43 GMT</pubDate>
       </item>
 
       <item>
@@ -35,7 +35,7 @@
        <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
        <guid>http://perso.crans.org/besson/rss.html</guid>
-       <pubDate>Mon, 01 Apr 2013 10:03:43</pubDate>
+       <pubDate>Mon, 01 Apr 2013 10:03:43 GMT</pubDate>
       </item>
       
       <item>
@@ -43,7 +43,7 @@
        <link>http://facebook.com/naereencorp.lbesson</link>
        <description>Un lien vers ma page Facebook</description>
        <guid>http://perso.crans.org/besson/rss.xml</guid>
-       <pubDate>Mon, 01 Apr 2013 09:49:43</pubDate>
+       <pubDate>Mon, 01 Apr 2013 09:49:43 GMT</pubDate>
       </item>
       
   </channel>
