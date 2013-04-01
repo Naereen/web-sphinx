@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with Sphinx.
-Version 2 !
+Currently this *projet* is in version 1.6 !
 
 Where are those pages ?
 -----------------------
@@ -15,6 +15,7 @@ About
 -----
 
 Some pages host my résumé, others are just experiments.
+A few pages talks about some point I am interesting on.
 
 Other repo
 ----------
@@ -22,7 +23,10 @@ Other repo
 To limit the size of this one, I used an other repo to store
 the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
 
-This second repo mainly hosts some Javascript scripts (GNU Plot toplevel, OCaml toplevel, shortcuts.js), and also a **complete** Python distribution, used with python.opt.js to embed a Python toplevel in my web pages (I know, it's useless, by so funny !).
+This second repo mainly hosts some Javascript scripts 
+(GNU Plot & OCaml & Python toplevel, shortcuts.js, simpletrailimage.js), 
+and also a **complete** Python distribution, 
+used with python.opt.js to embed a Python toplevel in my web pages (I know, it's useless, but so funny !).
 
 ----
 
@@ -30,10 +34,10 @@ This second repo mainly hosts some Javascript scripts (GNU Plot toplevel, OCaml 
 Lilian Besson.
 
 ### Languages:
- * reStructuredText
- * Django Templating
- * Javascript
- * Python
+ * reStructuredText (mainly)
+ * Jinja Templating (for changing appearance of the web pages)
+ * Javascript (for some interactive stuff)
+ * Python (for Sphinx parametring)
 
 ----
 
@@ -42,14 +46,15 @@ Requirements ?
 
 This project use the following software :
 
+ * Python 2.7.3;
  * LaTeX (pdflatex & hevea);
  * GNU Make;
  * git;
  * rsynx or scp;
  * ack-grep or grep;
  * Sphinx;
- * GNU Plot;
- * GPG;
+ * GNU Plot & GNU Octave;
+ * GNU PG (OpenPGP);
  * GraphViz;
  * rst2pdf, rst2html, rst2s5;
  * and the following Sphinx contrib extensions :
@@ -57,10 +62,12 @@ This project use the following software :
     * cheeseshop;
     * gnuplot;
     * autorun;
+
  * (optional) ocaml, octave, to embed examples.
 
 License
 -------
 
-This project is released under the **GPLv3 license**, for more details, take a look at the LICENSE file in the source.
+This project is released under the **GPLv3 license**, for more details,
+take a look at the LICENSE file in the source.
 *Basically, that allow you to use all or part of the project for you own business.*

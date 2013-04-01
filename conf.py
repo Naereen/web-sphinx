@@ -89,7 +89,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.5'
+version = '1.6'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
