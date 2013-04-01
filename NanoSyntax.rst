@@ -21,15 +21,6 @@
     * `cuda.nanorc <NanoSyntax/cuda.nanorc>`_ pour **CUDA** (grandement amélioré);
 
 
-.. sidebar:: Pour *Jota Text Editor* & *Jota +*
-
-   Et pour les applications Android `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
-  (et son fork `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
-   
-    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
-    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
-
-
 Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
 
 Qu'est-ce que la coloration syntaxique ?
