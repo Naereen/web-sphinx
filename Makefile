@@ -133,7 +133,7 @@ slides:	.slides.sh
 	@echo "Build finished. The HTML5 + S5 slides are in $(BUILDDIR)/html."
 
 git:
-	git add *.rst README.md Makefile conf.py .*.rst .templates/
+	git add *.rst README.md Makefile conf.py .*.rst .templates/ rss.xml
 	git commit -m "auto"
 	git push
 

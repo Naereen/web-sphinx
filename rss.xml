@@ -23,7 +23,7 @@
       
       <item>
        <title>Second item !</title>
-       <link>http://bitbucket.org/lbesson/rss</link>
+       <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
        <guid>http://perso.crans.org/besson/rss.html</guid>
        <pubDate>Mon, 01 April 2013 10:03:43 GMT</pubDate>
