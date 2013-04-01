@@ -18,7 +18,16 @@
     * `reST.nanorc <NanoSyntax/reST.nanorc>`_ pour **reStructuredText** (fait entièrement par moi);
     * `caml.nanorc <NanoSyntax/caml.nanorc>`_ pour **OCaml** (amélioré);
     * `python.nanorc <NanoSyntax/python.nanorc>`_ pour **Python** (amélioré);
-    * `cuda.nanorc <NanoSyntax/cuda.nanorc>`_ pour **CUDA** (grandement amélioré).
+    * `cuda.nanorc <NanoSyntax/cuda.nanorc>`_ pour **CUDA** (grandement amélioré);
+
+
+.. sidebar:: Pour *Jota Text Editor* & *Jota +*
+
+   Et pour les applications Android `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
+  (et son fork `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
+   
+    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
+    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
 
 Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
@@ -314,12 +323,14 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
   qui a été élaboré en même temps que `reST.nanorc <NanoSyntax/reST.nanorc>`_.
   
 * `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
+  (et son fork `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_)
   est le meilleur éditeur de code sur téléphone ou tablette **Android**, 
   dont j'ai réalisé une partie de la coloration syntaxique 
   (``OCaml``, ``CUDA`` ainsi que de l'aide pour ``LaTeX``).
   Par exemple, `ce fichier mll.mly.mli.ml.conf 
   <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/mll.mly.mli.ml.conf>`_ 
   pour la syntaxe d'``OCaml``.
+  Je suis en train de réalisé le fichier de conf pour le **reST** !
   
 * `ColorML <https://sites.google.com/site/naereencorp/liste-des-projets/colorml>`_, est
   un parseur, pretty-printer *expérimental* en ``OCaml`` pour colorer du code ``OCaml`` 
