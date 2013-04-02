@@ -18,7 +18,7 @@
     * `reST.nanorc <NanoSyntax/reST.nanorc>`_ pour **reStructuredText** (fait entièrement par moi);
     * `caml.nanorc <NanoSyntax/caml.nanorc>`_ pour **OCaml** (amélioré);
     * `python.nanorc <NanoSyntax/python.nanorc>`_ pour **Python** (amélioré);
-    * `cuda.nanorc <NanoSyntax/cuda.nanorc>`_ pour **CUDA** (grandement amélioré);
+    * `cu.nanorc <NanoSyntax/cu.nanorc>`_ pour **CUDA** (grandement amélioré);
 
 
 Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
