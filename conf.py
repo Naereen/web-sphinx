@@ -66,6 +66,10 @@ autorun_languages['ocaml_prefix_chars'] = 2
 autorun_languages['octave'] = u'/usr/bin/octave --silent --verbose --traditional --persist'
 autorun_languages['octave_prefix_chars'] = 3
 
+autorun_languages['wolf'] = u'wolf'
+autorun_languages['wolf_prefix_chars'] = 7
+# 7 = len('$ wolf ')
+
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.
