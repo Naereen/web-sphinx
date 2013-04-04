@@ -1,15 +1,20 @@
 ###############################################
- Utiliser Wolfram Alpha (en ligne de commande)
+ Utiliser Wolfram|Alpha (en ligne de commande)
 ###############################################
 .. include:: .special.rst
 
-Wolfram Alpha ?
+Wolfram|Alpha ?
 ---------------
  Si vous ne connaissez pas, allez faire un tour sur la page principale,
  `www.wolframalpha.com/ <http://www.wolframalpha.com/>`_.
 
  Merci à `Romain Vernoux <http://vernoux.fr>`_
  qui m'a fait découvrir cet outil l'an dernier !
+ 
+  * **Wolfram|Alpha** est © et ® Wolfram Research Company;
+  * ``wolf`` est © `Gabriel Horner <https://github.com/cldwalker>`_;
+  * ``ruby`` et ``nokogiri`` sont la propriétés de leurs auteurs respectifs.
+ 
 
 Wolf : un client pour Wolfram Alpha ?
 -------------------------------------
@@ -82,8 +87,8 @@ Tester le tout
 
 ------------------------------------------------------------------------------
 
-Exemples
---------
+Exemples : directement embarqués ?
+----------------------------------
  Normalement, avec l'extension `runblock <runblock.html>`_, il doit être possible
  d'embarquer le résultat d'un appel à ``wolf`` directement dans la page !
 
@@ -91,8 +96,8 @@ Exemples
 
     $ wolf 0+0
 
-Un premier exemple, tiré du cours de logique (L3)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un premier exemple
+^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
     $ wolf "distance Paris New York"
