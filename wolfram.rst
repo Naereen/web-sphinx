@@ -22,31 +22,31 @@ ruby1.9.1
  Pour l'installer **sur Ubuntu 11.10** (et plus récent), il est nécessaire
  d'installer les paquets ``ruby1.9.1`` et ``ruby1.9.1-dev`` :
 
-.. code-block:: bash
+ .. code-block:: bash
 
-   sudo apt-get install ruby1.9.1 ruby1.9.1-dev
+    sudo apt-get install ruby1.9.1 ruby1.9.1-dev
 
 nokogiri
 ^^^^^^^^
  Ensuite, il faut installer `Nokogiri 
  <http://nokogiri.org/tutorials/installing_nokogiri.html>`_ :
 
-.. code-block:: bash
+ .. code-block:: bash
 
-   sudo apt-get install ri1.9.1 rdoc1.9.1 irb1.9.1
-   sudo apt-get install libreadline-ruby1.9.1 libruby1.9.1 libopenssl-ruby1.9.1
-   # nokogiri requirements
-   sudo apt-get install libxslt-dev libxml2-dev
-   # Attention: là ça change du tutoriel officiel
-   sudo gem1.9.1 install nokogiri
+    sudo apt-get install ri1.9.1 rdoc1.9.1 irb1.9.1
+    sudo apt-get install libreadline-ruby1.9.1 libruby1.9.1 libopenssl-ruby1.9.1
+    # nokogiri requirements
+    sudo apt-get install libxslt-dev libxml2-dev
+    # Attention: là ça change du tutoriel officiel
+    sudo gem1.9.1 install nokogiri
 
 wolf
 ^^^^
  Et enfin, il faut installer ``wolf`` :
 
-.. code-block:: bash
+ .. code-block:: bash
 
-   sudo gem1.9.1 install wolf
+    sudo gem1.9.1 install wolf
 
 ------------------------------------------------------------------------------
 
@@ -59,6 +59,8 @@ Obtenir une clé d'application
  Pour l'info, c'est une petite chaîne de caractère qui ressemble à ça : ::
 
      3HHP2W-UUPQUT6997
+
+ .. warning:: Ceci n'est pas une clé valide !
 
 Enregistrer la clé
 ------------------
@@ -75,9 +77,7 @@ Tester le tout
  compréhensibles, donc si le premier test vous engueule, il doit aussi donner
  les infos nécessaires pour corriger l'installation.
  
-.. warning::
-
-   Le problème le plus fréquent est une confusion entre ruby1.8 et ruby1.9.1 !
+ .. warning:: Le problème le plus fréquent est une confusion entre ruby1.8 et ruby1.9.1 !
 
 ------------------------------------------------------------------------------
 
@@ -86,70 +86,49 @@ Exemples
  Normalement, avec l'extension `runblock <runblock.html>`_, il doit être possible
  d'embarquer le résultat d'un appel à ``wolf`` directement dans la page !
 
-.. runblock:: wolf
+ .. runblock:: console
 
-   $ wolf 0+0
-
-.. note:: Cela nécessite de modifier ``conf.py``
-
-   Il faut rajouter les lignes suivantes :
-   
-   .. code-block:: python
-   
-      autorun_languages['wolf'] = u'wolf'
-      autorun_languages['wolf_prefix_chars'] = 7
-      # 7 = len('$ wolf ')
+    $ wolf 0+0
 
 Un premier exemple, tiré du cours de logique (L3)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. runblock:: wolf
+ .. runblock:: console
 
-   $ wolf "((P => Q) || ((not P) => (not Q))) & ((Q & R) => (not P))"
+    $ wolf "distance Paris New York"
 
-La sortie, formatée par Sphinx :
+------------------------------------------------------------------------------
 
-Input
-+--------------------------------+
-| ((P=>Q)||(¬P=>¬Q))&&(Q&&R=>¬P) |
-+--------------------------------+
+D'autres essais ?
+-----------------
 
-Truth table
-+---+---+---+--------------------------------+
-| P | Q | R | ((P=>Q)||(¬P=>¬Q))&&(Q&&R=>¬P) |
-| T | T | T | F                              |
-| T | T | F | T                              |
-| T | F | T | T                              |
-| T | F | F | T                              |
-| F | T | T | T                              |
-| F | T | F | T                              |
-| F | F | T | T                              |
-| F | F | F | T                              |
-+---+---+---+--------------------------------+
+.. warning:: En cours de rédaction.
 
-Minimal forms
-+------+-----------------+
-| DNF  | ¬P||¬Q||¬R      |
-| CNF  | ¬P||¬Q||¬R      |
-| ANF  | ¬(P&&Q&&R)      |
-| NOR  | ¬(¬Pnor¬Qnor¬R) |
-| NAND | PnandQnandR     |
-| AND  | ¬(P&&Q&&R)      |
-| OR   | ¬P||¬Q||¬R      |
-+------+-----------------+
+Résoudre une équation
+^^^^^^^^^^^^^^^^^^^^^
 
-Other forms
-+------+---------------------------+
-| ESOP | (¬Q&&R)xor(¬P&&Q&&R)xor¬R |
-| ITE  | (P&&¬(Q&&R))||¬P          |
-+------+---------------------------+
 
-Truth density
-+-----------+
-| 7/8=87.5% |
-+-----------+
+------------------------------------------------------------------------------
 
-Boolean operator number
-+--------------------------------------+
-| 127 with variable ordering {P, Q, R} |
-+--------------------------------------+
+À propos
+--------
+ Pour embarquer la commande et la sortie de ``wolf``, j'utilise le morceau
+ de code suivant :
+ 
+ .. code-block:: rst
+ 
+    .. runblock:: console
+    
+       $ wolf "ma question"
 
+Faiblesse de cette méthode
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Une première faiblesse de ``.. runblock:: console`` pour exécuter ``wolf question``
+ est la limitation à des caractères ASCII imposée par l'extension `runblock 
+ <runblock.html>`_ (limitation déjà signalée dans cette page, où je suis forcé
+ de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
+
+Un extension ?
+^^^^^^^^^^^^^^
+ On pourrait envisager de faire une extension Sphinx qui, comme `gnuplot
+ <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des
+ tableaux produits par *Wolfram|Alpha*.

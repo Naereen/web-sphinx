@@ -63,11 +63,14 @@ autorun_languages['ocaml-stdin_prefix_chars'] = 2
 autorun_languages['ocaml'] = u'ocaml -init /dev/null'
 autorun_languages['ocaml_prefix_chars'] = 2
 
-autorun_languages['octave'] = u'/usr/bin/octave --silent --verbose --traditional --persist'
+autorun_languages['octave'] = u'/usr/bin/octave --silent --verbose --traditional'
 autorun_languages['octave_prefix_chars'] = 3
 
+autorun_languages['pypy'] = u'pypy -S -'
+autorun_languages['pypy_prefix_chars'] = 0
+
 autorun_languages['wolf'] = u'wolf'
-autorun_languages['wolf_prefix_chars'] = 7
+autorun_languages['wolf_prefix_chars'] = 0
 # 7 = len('$ wolf ')
 
 ##############################################################################
