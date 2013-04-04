@@ -23,6 +23,14 @@
       </image>
       
       <item>
+       <title>L'éditeur de texte ACE fonctionne pour les toplevels Python et Skulpt !</title>
+       <link>http://feed1.w3.org/check.cgi?url=http%3A//www.dptinfo.ens-cachan.fr/~lbesson/rss.xml</link>
+       <description>Flux valide (2)</description>
+       <guid>https://bitbucket.org/lbesson/web-sphinx/issues</guid>
+       <pubDate>Thu, 04 Apr 2013 10:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Ça marche ! Ça marche !</title>
        <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide</description>
