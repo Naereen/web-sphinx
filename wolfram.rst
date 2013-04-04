@@ -1,6 +1,6 @@
-##############################################
- Utilise Wolfram Alpha (en ligne de commande)
-##############################################
+###############################################
+ Utiliser Wolfram Alpha (en ligne de commande)
+###############################################
 .. include:: .special.rst
 
 Wolfram Alpha ?
@@ -8,7 +8,8 @@ Wolfram Alpha ?
  Si vous ne connaissez pas, allez faire un tour sur la page principale,
  `www.wolframalpha.com/ <http://www.wolframalpha.com/>`_.
 
- Merci à Romain Vernoux qui m'a fait découvrir cet outil l'an dernier !
+ Merci à `Romain Vernoux <http://vernoux.fr>`_
+ qui m'a fait découvrir cet outil l'an dernier !
 
 Wolf : un client pour Wolfram Alpha ?
 -------------------------------------
@@ -105,7 +106,25 @@ D'autres essais ?
 
 Résoudre une équation
 ^^^^^^^^^^^^^^^^^^^^^
+ .. runblock:: console
+ 
+    $ wolf "x^3 - sinx = e^-x"
 
+Afficher les prévisions météo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ .. runblock:: console
+  
+    $ wolf weather
+
+Des informations sur :math:`\pi`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ .. runblock:: console
+  
+    $ wolf weather
+
+D'autres exemples
+^^^^^^^^^^^^^^^^^
+ Il suffit d'aller piocher `là bas <http://www.wolframalpha.com/examples/>`_.
 
 ------------------------------------------------------------------------------
 
@@ -132,3 +151,5 @@ Un extension ?
  On pourrait envisager de faire une extension Sphinx qui, comme `gnuplot
  <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des
  tableaux produits par *Wolfram|Alpha*.
+
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
