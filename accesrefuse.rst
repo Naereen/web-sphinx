@@ -21,7 +21,7 @@
 ---------------------------------------------------------------------
 
 .. image:: .error.jpg
-   :scale: 100 %
+   :scale: 150 %
    :align: center
    :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
    :target: index.html
