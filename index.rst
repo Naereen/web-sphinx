@@ -228,7 +228,9 @@ Extensions non officielles
    * `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques
      générés à partir de commande **GNU Plot**;
    * `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
-     **shell** dans les pages web (avec un exemple en **OCaml** entre autres).
+     **shell** dans les pages web (avec un exemple en **OCaml** entre autres);
+   * `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
+     de commande, à *Wolfram|Alpha*, et embarque quelques exemples avec runblock.
 
 JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -115,18 +115,6 @@ Résoudre une équation
  
     $ wolf "x^3 - sinx = e^-x"
 
-Afficher les prévisions météo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- .. runblock:: console
-  
-    $ wolf weather
-
-Des informations sur :math:`\pi`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- .. runblock:: console
-  
-    $ wolf weather
-
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
  Il suffit d'aller piocher `là bas <http://www.wolframalpha.com/examples/>`_.
