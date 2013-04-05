@@ -19,6 +19,8 @@ A propos de moi
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
+.. warning:: Je suis en weekend, au Luxembourg !
+
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
@@ -196,7 +198,7 @@ Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
 de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
-fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment).
+fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
 .. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
 
