@@ -23,6 +23,14 @@
       </image>
       
       <item>
+       <title>Direction Luxembourg !</title>
+       <link>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</link>
+       <description>Weekend surprise !</description>
+       <guid>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</guid>
+       <pubDate>Thu, 05 Apr 2013 08:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>L'éditeur de texte ACE fonctionne pour les toplevels Python et Skulpt !</title>
        <link>http://feed1.w3.org/check.cgi?url=http%3A//www.dptinfo.ens-cachan.fr/~lbesson/rss.xml</link>
        <description>Flux valide (2)</description>
