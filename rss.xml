@@ -23,11 +23,27 @@
       </image>
       
       <item>
-       <title>Direction Luxembourg !</title>
+       <title>Fichier de coloration pour le rST, ajouté à Jota Text Editor.</title>
+       <link>http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf</link>
+       <description>Traduction de mon fichier rest.nanorc pour Jota Text Editor</description>
+       <guid>http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf</guid>
+       <pubDate>Sat, 06 Apr 2013 19:49:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>De retour du Luxembourg !</title>
+       <link>http://fr.wikipedia.org/wiki/Luxembourg</link>
+       <description>Weekend surprise, le retour.</description>
+       <guid>http://fr.wikipedia.org/wiki/Luxembourg</guid>
+       <pubDate>Sat, 06 Apr 2013 18:49:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>Direction le Luxembourg !</title>
        <link>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</link>
        <description>Weekend surprise !</description>
        <guid>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</guid>
-       <pubDate>Thu, 05 Apr 2013 08:49:43 GMT</pubDate>
+       <pubDate>Fri, 05 Apr 2013 13:09:43 GMT</pubDate>
       </item>
 
       <item>
