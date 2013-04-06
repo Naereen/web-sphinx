@@ -19,7 +19,7 @@ A propos de moi
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
-.. warning:: Je suis en weekend, au Luxembourg !
+.. warning:: J'étais au Luxembourg ce weekend !
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
