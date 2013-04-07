@@ -75,6 +75,7 @@ Désormais, j'utilise ``plot f1(x),f2(x)``.
    :title: Sigmoide(s)
    :size: 1100,700
    
+   set grid
    plot 1/(1+exp(-0.25*x)),1/(1+exp(-x)),1/(1+exp(-4*x))
 
 Tableau(x)
@@ -86,6 +87,7 @@ On peut aussi faire des graphes, et en faire des colonnes :
 |    :title: Arctangente   |    :title: Sigmoide        |    :title: Signe           |
 |    :size: 400,400        |    :size: 400,400          |    :size: 400,400          |
 |                          |                            |                            |
+|    set grid              |    set grid                |    set grid                |
 |    plot 0.5+atan(x)/pi   |    plot 1/(1+exp(-x))      |    plot 0.5*(1+sgn(x))     |
 +--------------------------+----------------------------+----------------------------+
 |.. centered:: Arctangente |.. centered:: Sigmoide      |.. centered:: Signe         |
@@ -98,7 +100,8 @@ dans un seul (plus comme ``plot f1(x)`` puis
 .. gnuplot::
    :title: Arctangente, Sigmoide et Signe
    :size: 1100,700
-
+   
+   set grid
    plot 0.5+atan(x)/pi,1/(1+exp(-x)),0.5*(1+sgn(x))
 
 En 3D : une surface
