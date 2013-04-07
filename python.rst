@@ -11,6 +11,8 @@ Le toplevel
 
 .. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
 
+.. warning:: Ne fonctionne pas bien encore (ne tient pas compte des modifications de l'entrée: exécute toujours le même script !)...
+
 .. raw:: html
 
    <script type="text/javascript">

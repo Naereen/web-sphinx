@@ -24,6 +24,8 @@ Le toplevel
 
 ------------------------------------------------------------------------------
 
+.. warning:: Ne fonctionne pas bien encore (ne tient pas compte des modifications de l'entrée: exécute toujours le même script !)...
+
 .. raw:: html
 
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
