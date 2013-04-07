@@ -108,7 +108,7 @@ En 3D : une surface
 -------------------
 .. gnuplot::
    :title: Surface
-   :size: 1100,700
+   :size: 1200,700
    
    set xrange [0:1]
    set yrange [0:1]
@@ -118,6 +118,7 @@ Une seconde surface
 -------------------
 .. gnuplot::
    :title: 3D gnuplot demo - contour plot on base grid
+   :size: 1200,700
 
    set view 60, 30, 0.85, 1.1
    set samples 20, 20
@@ -136,6 +137,7 @@ Inspiré de `ce script <http://gnuplot.sourceforge.net/demo/fillcrvs.6.gnu>`_.
 
 .. gnuplot::
    :title: Let's smile with parametric filled curves
+   :size: 1200,700
 
    unset border
    set dummy t,y
