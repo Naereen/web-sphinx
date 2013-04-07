@@ -29,7 +29,6 @@ extensions = [
 	'sphinx.ext.todo', 
 	'sphinx.ext.autodoc', 
 	'sphinx.ext.coverage', 
-	'sphinx.ext.mathjax', 
 	'sphinx.ext.viewcode',
 	'sphinx.ext.autosummary',
 	'sphinx.ext.graphviz',
@@ -39,7 +38,9 @@ extensions = [
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
 ####### From reportLab
-	'rst2pdf.pdfbuilder'
+	'rst2pdf.pdfbuilder',
+####### Change the order ?
+	'sphinx.ext.mathjax'
 	]
 
 ##############################################################################

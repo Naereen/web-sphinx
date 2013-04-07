@@ -13,11 +13,18 @@ Des maths ?
  Il faut seulement savoir que **MathJax** permet d'afficher *facilement*
  des maths (écrites en ``LaTeX`` ou en ``MathML``) joliment.
 
-.. warning:: Ne fonctionne plus !
+.. warning:: Ne fonctionnait plus, mais là c'est de nouveau bon...
 
-   Depuis peu (samedi 30 mars ~ 16h), cette page n'affiche plus correctement
+   Depuis peu (samedi 30 mars ~ 16h), cette page n'affichait plus correctement
    les codes LaTeX avec MathJax.
-   Je n'ai pas encore résolu le problème !
+   Le problème venait de l'ordre d'importation des extensions **Sphinx**.
+   
+   Dans ``conf.py``, il y a le paragraphe : ::
+   
+       extensions = [ 'sphinx.ext.todo', ..., 'sphinx.ext.mathjax' ]
+   
+   Eh bien il se trouve que **MathJax** se désactive si on importe
+   ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
 
 Exemples
 --------
