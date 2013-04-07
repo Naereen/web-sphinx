@@ -137,4 +137,44 @@ Plus de captures d'écrans
   Plus de captures d'écrans à propos de ça peuvent être trouvée sur ma page Facebook,
   `ici <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
 
+------------------------------------------------------------------------------
+
+La suite
+--------
+ Depuis le premier jour de traduction, des bouts de phrases et des mots
+ continuent d'être mis en ligne par les deux administrateurs `jstepka 
+ <https://www.transifex.com/accounts/profile/jstepka/>`_ et `nvenegas
+ <https://www.transifex.com/accounts/profile/nvenegas/>`_.
+ 
+ Ainsi, tous les deux ou trois jours, le taux de complétion du projet
+ repasse de 100% à 97% ou 98%.
+ 
+ Dès que je le vois, je tente de compléter la traduction, souvent il s'agit
+ d'un vingtaine de nouvelles phrases.
+
+Avancement de la traduction française
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ L'image suivante montre l'avancement de la traduction française de *bitbucket.org* :
+
+.. image:: .transifex_complete.png
+   :scale: 85%
+   :align: center
+   :alt: Capture d'écran de la partie française du projet de traduction
+   :target: https://www.transifex.com/projects/p/bitbucketorg/translate/#fr/bitbucket-django
+
+Mon profil
+^^^^^^^^^^
+ Enfin, l'image suivante montre mon profil, qui permet d'apprendre
+ par exemple que j'ai traduit 7669 mots (chiffre calculé le dimanche 7
+ avril, non à jour) sur le projet "French" de *bitbucket.org*.
+ 
+ Ainsi, cela permet d'apprendre notamment que sur les **9293** mots du projet,
+ j'en ai traduit près de **82.5%** (chiffre datant du 07/04, non à-jour) !
+
+.. image:: .transifex_profileNaereen.png
+   :scale: 85%
+   :align: center
+   :alt: Capture d'écran de mon profil, concentré sur le projet bitbucket.org
+   :target: https://www.transifex.com/accounts/profile/Naereen/
+ 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

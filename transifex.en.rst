@@ -127,4 +127,46 @@ More screenshots
   More screenshots about this can be found on my Facebook page
   `there <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
 
+------------------------------------------------------------------------------
+
+What's next ?
+-------------
+ Since the first day of translation, some piece of sentences and some words
+ are still frequently added to the project, mainly by the two administrators
+ `jstepka <https://www.transifex.com/accounts/profile/jstepka/>`_ and
+ `nvenegas <https://www.transifex.com/accounts/profile/nvenegas/>`_.
+ 
+ That's why, each 2 or 3 days, the completion rate of the project
+ for the French language go down to 97% or 98% again.
+
+ So, as soon as I see this, I try to complete again the translation process,
+ by translating about 20 or 30 sentences.
+
+About the French translation : 9200 words !
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ The following screenshot shows the progression of the French translation :
+
+.. image:: .transifex_complete.png
+   :scale: 85%
+   :align: center
+   :alt: Screenshot showing the progression of the French translation
+   :target: https://www.transifex.com/projects/p/bitbucketorg/translate/#fr/bitbucket-django
+
+My profile
+^^^^^^^^^^
+ Enfin, l'image suivante montre mon profil, qui permet d'apprendre
+ And this last screenshot shows my (private) profile,
+ which show for example that I translated about 7669 words on the French
+ part of the translation project of *bitbucket.org* !
+ (this figure is probably out-dated, I wrote this paragraph the 7th April)
+
+ So, this allow to compute that I translated about **82.5** of the **9293**
+ words of the project. (again, this figure might be out-dated)
+
+.. image:: .transifex_profileNaereen.png
+   :scale: 85%
+   :align: center
+   :alt: Screenshot of my private profile, focused on the project bitbucket.org
+   :target: https://www.transifex.com/accounts/profile/Naereen/
+
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
