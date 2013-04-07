@@ -169,7 +169,7 @@ Mon profil
  avril, non à jour) sur le projet "French" de *bitbucket.org*.
  
  Ainsi, cela permet d'apprendre notamment que sur les **9293** mots du projet,
- j'en ai traduit près de **82.5%** (chiffre datant du 07/04, non à-jour) !
+ j'en ai traduit près de **82.5 %** (chiffre datant du 07/04, non à-jour) !
 
 .. image:: .transifex_profileNaereen.png
    :scale: 85%

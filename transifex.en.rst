@@ -160,7 +160,7 @@ My profile
  part of the translation project of *bitbucket.org* !
  (this figure is probably out-dated, I wrote this paragraph the 7th April)
 
- So, this allow to compute that I translated about **82.5** of the **9293**
+ So, this allow to compute that I translated about **82.5 %** of the **9293**
  words of the project. (again, this figure might be out-dated)
 
 .. image:: .transifex_profileNaereen.png
