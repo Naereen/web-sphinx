@@ -25,7 +25,7 @@ a *french* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently
 in *two* different MSc (one in each of those domains).
 
-.. warning:: I was in Luxembourg for the weekend !
+.. note:: I was in Luxembourg for the weekend !
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^
@@ -81,12 +81,12 @@ Feel free to *contact* me :
 
 MSc internship
 ^^^^^^^^^^^^^^
-I found an internship for the third semester of my Maths & CS MSc
-(06 June to 09 August).
+ I found an internship for the third semester of my Maths & CS MSc
+ (03 June to 09 August).
 
-It will take place at **UCL** (:under:`University College of London`),
-under the direction of *Peter O'Hearn* and *Jules Villard*,
-about separtion logic.
+ It will take place at **UCL** (:under:`University College of London`),
+ under the direction of *Peter O'Hearn* and *Jules Villard*,
+ about separation logic.
 
 ------------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash
+   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GPG, Nano, Wolfram|Alpha, CV
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson personal web page
 
@@ -19,7 +19,7 @@ A propos de moi
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
-.. warning:: J'étais au Luxembourg ce weekend !
+.. note:: J'étais au Luxembourg ce weekend !
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
@@ -187,32 +187,35 @@ et de scripts de ma conception, et elle est aussi consultable
    "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le
    moment !
 
-
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
-l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
-cette page ci `<pgp.html>`_ peut être utile.
+ Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
+ l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
+ cette page ci `<pgp.html>`_ peut être utile.
 
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
-de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
-fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
+ Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
+ de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
+ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
-.. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
+ .. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
 
-   Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-   et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
+    Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
+    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
    
-    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
-    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
-
+     * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
+     * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
 Traductions
 ^^^^^^^^^^^
  La page `<transifex.html>`_ parle de traductions de logiciels
  et de sites webs.
+
+Wolfram|Alpha
+^^^^^^^^^^^^^
+ La page `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
+ de commande, à *Wolfram|Alpha*, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
 ------------------------------------------------------------------------------
 
@@ -231,8 +234,6 @@ Extensions non officielles
      générés à partir de commande **GNU Plot**;
    * `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
      **shell** dans les pages web (avec un exemple en **OCaml** entre autres);
-   * `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
-     de commande, à *Wolfram|Alpha*, et embarque quelques exemples avec runblock.
 
 JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -240,25 +241,24 @@ JavaScript et outils embarqués
  en **JavaScript** :
 
    #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-      directement dans un navigateur web **:)** !
+      directement dans un navigateur web **:)**, avec un éditeur qui
+      colore l'entrée du toplevel !
    #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
       directement dans un navigateur web **:)**,
-      avec un genre d'interface *web*.
+      avec un genre d'interface *graphique* (module ``Turtle`` disponible).
    #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
       directement dans un navigateur web **:)** !
    #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
-      avec quelques lessons (interactives), en anglais ou français
-      (copié depuis `try.ocamlpro.com <http://try.ocamlpro.com/>`_).
+      avec quelques lessons (interactives), en anglais ou français.
    #. `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
-      évaluation instantannée dès que la zone de texte est changée
-      (le projet initial est propriété de Christian Huettig). 
+      évaluation instantannée dès que la zone de texte est changée.
    #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
       pour l'instant **ne supporte pas** l'enregistrement.
 
-.. warning:: Seulement en **HTML**
+ .. warning:: Seulement en **HTML**
 
-   :red:`Attention`: ces pages nécessitent *JavaScript*, et ne sont disponibles
-   qu'en **HTML**, pas en **PDF**.
+    :red:`Attention`: ces pages nécessitent *JavaScript*, et ne sont disponibles
+    qu'en **HTML**, pas en **PDF**.
 
 Des slides en **rST**
 ^^^^^^^^^^^^^^^^^^^^^
@@ -270,17 +270,11 @@ Des slides en **rST**
 
 Flux RSS
 ^^^^^^^^^
- Depuis peu, j'ai ajouté à ces pages des informations sur des flux **RSS**.
- Il s'agit de ce flux `lbesson/web-sphinx/rss 
- <http://bitbucket.org/lbesson/web-sphin/rss>`_.
+ Depuis peu, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 
- Normalement, un bon navigateur propose de s'abonner à ce flux, 
- et ce sur n'importe quelle page.
- Pour plus d'informations, ou pour lire directement les dernières entrées
- du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
- moment, fait appel à un script hebergé ailleurs).
- 
- Et un nouveau flux est en train d'être mis en place : `<rss.xml>`_ !
+  Pour plus d'informations, ou pour lire directement les dernières entrées
+  du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
+  moment, fait appel à un script hebergé ailleurs).
 
 --------------------------------------------------------------------
 
@@ -291,11 +285,10 @@ Liste des autres pages
    :numbered:
    :titlesonly:
    
-   index_en
    CV_Lilian_BESSON.fr
-   NanoSyntax
-   Précisions sur les marques commerciales citées (en anglais) <trademarks>
+   rss
    pgp
+   NanoSyntax
    math
    graph
    gnuplot_embed
@@ -306,10 +299,11 @@ Liste des autres pages
    try-ocaml
    gnuplot
    ace
-   rss
    transifex.fr
    wolfram
    time
+   Page d'accueil (en anglais) <index_en>
+   Précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

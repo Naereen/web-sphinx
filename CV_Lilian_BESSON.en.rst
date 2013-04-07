@@ -81,7 +81,7 @@ Miscellaneous
    - eager to learn and develop new skills;
    - passionate of new technologies;
 
- * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland **since 2004**;
+ * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg **since 2004**;
  * :Other experiences:
 
    - Theater and clown lessons, during 6 years (**2003-2009**);
