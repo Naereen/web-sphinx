@@ -311,17 +311,18 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
   De nouvelles descriptions de langages pour ``OCaml``, ``Python``, ``rST``, ``CUDA``, 
   ``scala``, ``Octave`` etc.
   Notamment, ce fichier `rst.lang <https://sites.google.com/site/naereencorp/tools/gtksourceview/rst.lang>`_,
-  qui a été élaboré en même temps que `reST.nanorc <NanoSyntax/reST.nanorc>`_.
+  qui a été élaboré en même temps que `reST.nanorc <NanoSyntax/reST.nanorc>`_ pour le ``rST``.
   
 * `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ 
   (et son fork `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_)
   est le meilleur éditeur de code sur téléphone ou tablette **Android**, 
   dont j'ai réalisé une partie de la coloration syntaxique 
-  (``OCaml``, ``CUDA`` ainsi que de l'aide pour ``LaTeX``).
-  Par exemple, `ce fichier mll.mly.mli.ml.conf 
+  (``OCaml``, ``CUDA`` ainsi que de l'aide pour ``LaTeX``, et récemment ``rST``).
+  Par exemple, ce fichier `mll.mly.mli.ml.conf 
   <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/mll.mly.mli.ml.conf>`_ 
-  pour la syntaxe d'``OCaml``.
-  Je suis en train de réalisé le fichier de conf pour le **reST** !
+  pour la syntaxe d'``OCaml``. Et ce fichier `rst.reST.rest.conf
+  <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf>`_
+  est pour le ``reStructuredText`` !
   
 * `ColorML <https://sites.google.com/site/naereencorp/liste-des-projets/colorml>`_, est
   un parseur, pretty-printer *expérimental* en ``OCaml`` pour colorer du code ``OCaml`` 
