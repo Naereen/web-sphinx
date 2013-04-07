@@ -322,7 +322,8 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
   <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/mll.mly.mli.ml.conf>`_ 
   pour la syntaxe d'``OCaml``. Et ce fichier `rst.reST.rest.conf
   <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf>`_
-  est pour le ``reStructuredText`` !
+  est pour le ``reStructuredText`` ! Il a été ajouté à Jota depuis la v0.2.31 et à Jota + depuis
+  la v0.3.10 !
   
 * `ColorML <https://sites.google.com/site/naereencorp/liste-des-projets/colorml>`_, est
   un parseur, pretty-printer *expérimental* en ``OCaml`` pour colorer du code ``OCaml`` 

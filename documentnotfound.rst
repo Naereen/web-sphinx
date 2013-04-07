@@ -14,7 +14,7 @@
 
 .. sidebar:: Retourner à l'accueil
 
-   Cette page n'est pas intéressante, aller plutôt consulter `celle là <index.html>`_.
+<   Cette page n'est pas intéressante, allez plutôt consulter `celle là <index.html>`_.
    
 ---------------------------------------------------------------------
 
