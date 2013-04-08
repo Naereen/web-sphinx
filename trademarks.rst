@@ -42,12 +42,12 @@ ENS de Cachan
  
  I entered to this school by passing a national exam, in 2011.
 
-.. note::
+ .. note::
  
-   So, when I quote 'ENS de Cachan', in my pages or in my source codes, 
-   that **always** means that I'm a student, 
-   and also that a significant part of my work is **related** to the work 
-   “I have to do *at school*”.
+    So, when I quote 'ENS de Cachan', in my pages or in my source codes, 
+    that **always** means that I'm a student, 
+    and also that a significant part of my work is **related** to the work 
+    “I have to do *at school*”.
    
 CMLA (Maths research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,12 +57,12 @@ CMLA (Maths research institute)
  the maths teachers I heard during the past two years are related to the CMLA, 
  but nothing else.
 
-.. note::
+ .. note::
  
-   So, when I quote 'CMLA', in my pages or in my source codes, 
-   that **never** means that I'm a member of CMLA, 
-   but that means a part of this content is related to the work 
-   “I have to do *at school*”.
+    So, when I quote 'CMLA', in my pages or in my source codes, 
+    that **never** means that I'm a member of CMLA, 
+    but that means a part of this content is related to the work 
+    “I have to do *at school*”.
  
 LSV (*CS* research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,12 +72,12 @@ LSV (*CS* research institute)
  the CS teachers I heard in the last two years are related to the LSV, 
  but nothing else.
 
-.. note::
+ .. note::
  
-   So, when I quote 'LSV', in my pages or in my source codes, 
-   that **never** means that I'm a member of LSV, 
-   but that a part of the content is related to the work 
-   “I have to do *at school*”.
+    So, when I quote 'LSV', in my pages or in my source codes, 
+    that **never** means that I'm a member of LSV, 
+    but that a part of the content is related to the work 
+    “I have to do *at school*”.
 
 CNRS (French scientific research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,12 +90,12 @@ CNRS (French scientific research institute)
  on a few pages.
  **For this, I sincerely appologize** : I will no longer do such a thing.
  
-.. note::
+ .. note::
  
-   I'm trying to clean up some of my old codes, 
-   and my old web pages, to erase all occurrences 
-   of the CNRS name or logo.
-   If you find of I forgot to erase, please inform me.
+    I'm trying to clean up some of my old codes, 
+    and my old web pages, to erase all occurrences 
+    of the CNRS name or logo.
+    If you find of I forgot to erase, please inform me.
  
 ------------------------------------------------------------------------------
 
@@ -206,10 +206,11 @@ So, I used the following software :
  * tanuki, eole.crans.org and other FTP server on the Cr@ns local network for a constant source of new movies, and series episodes,
  * JDownloader, as the best Youtube downloader, even if it is written in Java...
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
- * Arandr and ArandrAuto to handle multi screens on Ubuntu,
- * HeVeA, as a powerfull LaTeX to HTML convertion tool,
+ * Arandr and ArandrAuto (my script) to handle multi screens on Ubuntu,
+ * HeVeA, as a powerfull LaTeX to HTML conversion tool,
  * js_of_ocaml, and toplevel.js, as a OCaml toplevel written in Javascript,
  * emscripten, to embed GNU Plot and Python,
+ * Skulpt, as an other Python toplevel written in JavaScript,
  * html2rest, a Python script to convert HTML to rST,
  * `Generate It <http://www.generateit.net>`_, for some services,
  * and many others...
