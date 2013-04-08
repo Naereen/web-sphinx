@@ -69,11 +69,6 @@ autorun_languages['octave_prefix_chars'] = 3
 
 autorun_languages['pypy'] = u'pypy -S -'
 autorun_languages['pypy_prefix_chars'] = 0
-
-autorun_languages['wolf'] = u'wolf'
-autorun_languages['wolf_prefix_chars'] = 0
-# 7 = len('$ wolf ')
-
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.
@@ -97,7 +92,7 @@ copyright = u'2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.6'
+version = '1.6.2'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -295,8 +290,6 @@ latex_documents = [
   ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
    u'Lilian Besson', 'howto'),
   ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
-   u'Lilian Besson', 'howto'),
-  ('math', 'math.tex', u'Lilian Besson - Des Maths en rST',
    u'Lilian Besson', 'howto'),
 ]
 
