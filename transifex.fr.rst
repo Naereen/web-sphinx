@@ -165,11 +165,11 @@ Avancement de la traduction française
 Mon profil
 ^^^^^^^^^^
  Enfin, l'image suivante montre mon profil, qui permet d'apprendre
- par exemple que j'ai traduit 7669 mots (chiffre calculé le dimanche 7
- avril, non à jour) sur le projet "French" de *bitbucket.org*.
+ par exemple que j'ai traduit 7918 mots (chiffre calculé le lundi 08
+ avril, à jour) sur le projet "French" de *bitbucket.org*.
  
- Ainsi, cela permet d'apprendre notamment que sur les **9293** mots du projet,
- j'en ai traduit près de **82.5 %** (chiffre datant du 07/04, non à-jour) !
+ Ainsi, cela permet d'apprendre notamment que sur les **9359** mots du projet,
+ j'en ai traduit près de **84.6 %** (chiffre datant du 08/04, à-jour) !
 
 .. image:: .transifex_profileNaereen.png
    :scale: 85%
