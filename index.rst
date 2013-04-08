@@ -19,8 +19,6 @@ A propos de moi
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
-.. note:: J'étais au Luxembourg ce weekend !
-
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**

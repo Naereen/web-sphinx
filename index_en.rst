@@ -25,8 +25,6 @@ a *french* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently
 in *two* different MSc (one in each of those domains).
 
-.. note:: I was in Luxembourg for the weekend !
-
 Contact addresses
 ^^^^^^^^^^^^^^^^^
  Feel free to *contact* me :
