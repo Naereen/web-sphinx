@@ -31,13 +31,9 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp
 
-total:	cleanALL all notify_archive sendAll notify warnings severes errors
+total: html send_public send_zamok send_dpt warnings severes errors
 
-local:	cleanALL all notify git warnings severes errors
-
-complete:	cleanALL all sendAll notify
-
-all:	html scripts pdf_all latexpdf
+local: html send_public warnings severes errors
 
 warnings:
 	@echo "Searching for warnings ..."
@@ -104,10 +100,11 @@ clean_pyc:
 	@echo "All *.pyc (Python compiled scripts) and *.py~ (temporary copies) files have been deleted !"
 
 clean_build:
-	rm -rf $(BUILDDIR)/doctrees
-	rm -rf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
-	rm -rf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
-	rm -rf $(BUILDDIR)/latex
+	rm -vrf $(BUILDDIR)/doctrees
+	rm -vrf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
+	rm -vrf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
+	rm -vrf $(BUILDDIR)/latex
+	rm -vrf $(BUILDDIR)/pdf
 
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
@@ -122,7 +119,7 @@ coverage:
 	@echo
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
-pdf_all:	./.pdf_all.sh
+pdf_all: ./.pdf_all.sh
 	./.pdf_all.sh trademarks.rst transifex.*.rst CV_Lilian_BESSON.*.rst index.rst index_en.rst
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
