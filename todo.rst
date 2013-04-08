@@ -19,6 +19,8 @@ TODO génériques
 Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
+.. todo:: Terminer l'intégration d'ACE aux toplevels Python et Skulpt.
+
 ------------------------------------------------------------------------------
 
 Toujours grâce à cette extension, il suffit d'utiliser la directive
