@@ -225,18 +225,18 @@ Albums photos
  
  Non, des photos montrant :
 
-  * `une collection de belles couvertures de CD trouvées par VLC (automatiquement)
-     <http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202&type=1&l=4da79d6fe1>`_;
-  * `quelques résultats de certains projets de programmation
-     <http://www.facebook.com/media/set/?set=a.3265799682688.2158706.1198154202&type=1&l=d7cae11413>`_;
-  * `des photos de ma collection de figurines (Warhammer, Warhammer 40.000, lSdA lJdB, etc)
-     <http://www.facebook.com/media/set/?set=a.1377895166255.2054711.1198154202&type=1&l=85ff5e2571>`_;
-  * `des images “relatant” la traduction de bitbucket.org via Transifex
-     <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_;
-  * `des photos du jeu de Bomberman
-     <http://www.facebook.com/media/set/?set=a.10200608470713052.2199565.1198154202&type=1&l=6fe3f8d894>`_
-     réalisé en Janvier et Février 2013. Pour plus d'infos, voir `<publis/Bomberman>`_
-     ou `bitbucket.org/lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman>`_.
+  * `une collection de belles couvertures de CD trouvées par VLC (automatiquement) 
+    <http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202&type=1&l=4da79d6fe1>`_;
+  * `quelques résultats de certains projets de programmation 
+    <http://www.facebook.com/media/set/?set=a.3265799682688.2158706.1198154202&type=1&l=d7cae11413>`_;
+  * `des photos de ma collection de figurines (Warhammer, Warhammer 40.000, lSdA lJdB, etc) 
+    <http://www.facebook.com/media/set/?set=a.1377895166255.2054711.1198154202&type=1&l=85ff5e2571>`_;
+  * `des images “relatant” la traduction de bitbucket.org via Transifex 
+    <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_;
+  * `des photos du jeu de Bomberman 
+    <http://www.facebook.com/media/set/?set=a.10200608470713052.2199565.1198154202&type=1&l=6fe3f8d894>`_
+    réalisé en Janvier et Février 2013. Pour plus d'infos, voir `<publis/Bomberman>`_
+    ou `bitbucket.org/lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman>`_.
 
 ------------------------------------------------------------------------------
 
