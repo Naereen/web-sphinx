@@ -21,10 +21,18 @@
         <height>120</height>
         <width>75</width>
       </image>
+
+      <item>
+       <title>FreeDNS : un concept intéressant.</title>
+       <link>http://freedns.afraid.org/subdomain/</link>
+       <description>FreeDNS est un service web, gratuit (et libre), permettant d'établir facilement des redirections : besson.qc.to = perso.crans.org/besson/</description>
+       <quid>http://besson.qc.to</guid>
+       <pubDate>Thu, 18 Apr 2013 00:49:43 GMT</pubDate>
+      </item>
       
       <item>
        <title>Couvertures de CD trouvées par VLC (automatiquement).</title>
-       <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202&type=1&l=4da79d6fe1</link>
+       <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202</link>
        <description>VLC 2.0+ télécharge seul des couvertures de CD et images représentatives de la chanson écoutée. Et ça marche du tonnerre !</description>
        <guid>http://perso.crans.org/besson/photos/</guid>
        <pubDate>Wed, 17 Apr 2013 01:49:43 GMT</pubDate>
