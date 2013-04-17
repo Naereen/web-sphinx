@@ -23,10 +23,10 @@
       </image>
 
       <item>
-       <title>FreeDNS : un concept intéressant.</title>
+       <title>FreeDNS : un concept sympa.</title>
        <link>http://freedns.afraid.org/subdomain/</link>
-       <description>FreeDNS est un service web, gratuit (et libre), permettant d'établir facilement des redirections : besson.qc.to = perso.crans.org/besson/</description>
-       <quid>http://besson.qc.to</guid>
+       <description>FreeDNS est un service web, gratuit (et libre) !</description>
+       <guid>http://besson.qc.to</guid>
        <pubDate>Thu, 18 Apr 2013 00:49:43 GMT</pubDate>
       </item>
       
