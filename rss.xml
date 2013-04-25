@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Projet Kaggle</title>
+       <link>https://bitbucket.org/lbesson/projet-kaggle</link>
+       <description>Projet Kaggle en ML</description>
+       <guid>http://perso.crans.org/besson/publis/kaggle/.build/html/</guid>
+       <pubDate>Thu, 25 Apr 2013 05:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>FreeDNS : un concept sympa.</title>
        <link>http://freedns.afraid.org/subdomain/</link>
        <description>FreeDNS est un service web, gratuit (et libre) !</description>

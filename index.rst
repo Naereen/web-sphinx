@@ -173,6 +173,22 @@ Une autre version de la documentation est aussi générée automatiquement avec 
 et de scripts de ma conception, et elle est aussi consultable 
 `ici publis/Bomberman/ <publis/Bomberman/>`_.
 
+Projet d'apprentissage : Kaggle Titanic
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
+j'ai fait un petit projet. Suivant les consignes de la plate-forme Kaggle,
+ce projet a pour but de faire de la classification de données, afin de mettre
+à jour le passager type ayant survécu au naufrage du Titanic.
+
+Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
+`ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
+
+En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le prix
+du ticket etc, et leur classification selon survivant et victime. Et le but est
+de prévoir la même chose pour 418 autres passagers.
+La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
+du nombre de prédictions correctes. Pour le moment, je n'ai pas dépasse 78%...
+
 ------------------------------------------------------------------------------
 
 .. sidebar:: Versions PDF de certaines pages
