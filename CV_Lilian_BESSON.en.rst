@@ -224,6 +224,8 @@ MSc programming projects (2012-2013)
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
  * French translation of the website `bitbucket.org <https://bitbucket.org>`_ (March 2013),
    with `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
+ * Kaggle Titanic ML project, `here lbesson/projet-kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_
+   or `publis/kaggle <publis/kaggle/.build/html>`_.
 
 BSc programming projects (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

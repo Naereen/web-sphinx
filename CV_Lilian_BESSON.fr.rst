@@ -60,7 +60,7 @@ Langages de programmation
 -------------------------
  * :Niveau basique: **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
  * :Niveau intermédiaire: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
- * :Niveau avancé: **Python** (2.7) (*script et orienté objet*), *Texas Instrument*-BASICs (*langage embarqué pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
+ * :Niveau avancé: **Python** (2.7) (*script, numérique et orienté objet*), *Texas Instrument*-BASICs (*langages embarqués pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
 
 Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Divers
    - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
    - Joueur semi-profession à *Magic The Gathering*, durant 5 ans (**2004-2009**).
      Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
-     Chamion départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
+     Champion départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
 
  * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
  * :Sports: escalade, trek, VTT, natation.
@@ -225,6 +225,9 @@ Projets de programmation en M1 (2012-2013)
 
  * Traduction française du site `bitbucket.org <https://bitbucket.org>`_ (Mars 2013),
    via la plateforme `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
+
+ * Projet d'apprentissage (Kaggle Titanic), `ici lbesson/projet-kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_
+   ou `publis/kaggle <publis/kaggle/.build/html>`_.
 
 Projets de programmation en L3 (2011-2012)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
