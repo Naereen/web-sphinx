@@ -216,7 +216,7 @@ Coloration syntaxique pour **GNU/Nano**
  .. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
 
     Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_) :
+    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
    
      * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
      * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
