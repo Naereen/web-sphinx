@@ -187,7 +187,7 @@ En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le pri
 du ticket etc, et leur classification selon survivant et victime. Et le but est
 de prévoir la même chose pour 418 autres passagers.
 La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
-du nombre de prédictions correctes. Pour le moment, je n'ai pas dépasse 78%...
+du nombre de prédictions correctes. Pour le moment, je n'ai pas dépassé 78%...
 
 ------------------------------------------------------------------------------
 
