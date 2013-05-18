@@ -213,6 +213,7 @@ So, I used the following software :
  * Skulpt, as an other Python toplevel written in JavaScript,
  * html2rest, a Python script to convert HTML to rST,
  * `Generate It <http://www.generateit.net>`_, for some services,
+ * Gravatar and Worldpress,
  * and many others...
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
