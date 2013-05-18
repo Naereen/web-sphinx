@@ -229,8 +229,8 @@ Coloration syntaxique pour **GNU/Nano**
 Traductions
 ^^^^^^^^^^^
  La page `<transifex.html>`_ parle de traductions de logiciels
- et de sites webs. :red:`Je suis disponible pour toutes traductions FR->EN
- ou EN->FR !` (dans ce domaine là)
+ et de sites webs. :red:`Je suis disponible pour toutes traductions FR→EN
+ ou EN→FR !` (dans ce domaine là)
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
