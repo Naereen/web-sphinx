@@ -214,6 +214,7 @@ So, I used the following software :
  * html2rest, a Python script to convert HTML to rST,
  * `Generate It <http://www.generateit.net>`_, for some services,
  * Gravatar and Worldpress,
+ * FreeDNS for shortlink (http://besson.qc.to and others),
  * and many others...
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
