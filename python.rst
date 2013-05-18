@@ -6,8 +6,8 @@
 
 ------------------------------------------------------------------------------
 
-Le toplevel
------------
+Le toplevel (en béta)
+---------------------
 
 .. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
 
