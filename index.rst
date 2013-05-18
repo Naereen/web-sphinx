@@ -1,7 +1,7 @@
 .. meta::
    :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GPG, Nano, Wolfram|Alpha, CV
    :description lang=fr: Page personnelle de Lilian Besson sur le web
-   :description lang=en: Lilian Besson personal web page
+   :description lang=en: Lilian Besson's personal web page
 
 ############################################################
  Bienvenue sur la page web personnelle de **Lilian Besson**
@@ -14,7 +14,7 @@ A propos de moi
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
 
-   Ces pages ont été générées le |today| pour la dernière fois.
+   Ces pages ont été générées le |today| pour la *dernière fois*.
 
 
 Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
@@ -29,7 +29,7 @@ Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
  N'hésitez pas à me *contacter* :
 
-  #. par courrier (`→ plan Open Street Map <http://osm.org/go/0BOchV4ns-->`_)  ::
+  #. par courrier (`→ plan Open Street Map <http://osm.org/go/0BOchV4ns-->`_), en France  ::
   
         Mr Lilian Besson,
         Appartement B216,
@@ -53,7 +53,7 @@ Adresses de contact
         :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
         :target: callto:100101011101001100111101100001_2
         
-  #. ou par téléphone (:silver:`si c'est urgent ou important`) :
+  #. ou par téléphone (:red:`si c'est urgent ou important`) :
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
@@ -85,7 +85,10 @@ Il se déroulera à l'**UCL** (:under:`University College of London`),
 sous la direction de *Peter O'Hearn* et *Jules Villard*,
 à propos de logique de séparation.
 
-  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
+..  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
+
+Et la pénible étape de :blink:`je-cherche-un-lieu-où-dormir-dans-la-ville-la-plus-chère-d'Europe`
+semble terminée : **OUF** !
 
 ------------------------------------------------------------------------------
 
@@ -100,7 +103,7 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 Notre rapport de stage peut être téléchargé, ici :
 `rapport_stage.pdf <publis/rapport_stage.pdf>`_ (en français),
 les slides de la soutenance finale sont disponibles
-`Slides_soutenance.pdf <publis/Slides_soutenance.pdf>`_ (:maroon:`attention, 160 Mo !`),
+`Slides_soutenance.pdf <publis/Slides_soutenance.pdf>`_ (:red:`attention, 160 Mo !`),
 et enfin une archive contenant nos codes sources *(distribués sous licence GPL)* 
 est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
 
@@ -146,11 +149,12 @@ Son code source est hébergé sur
 
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 700 fois.
+Actuellement, il a déjà été téléchargé plus de 1100 fois
+(le total affiché sur Pypi est réinitialisé pour chaque nouvelles versions !).
 
 Gedit : Tools
 ^^^^^^^^^^^^^
-Je travaille actuellement sur une collection de scripts, pour **gedit**, 
+J'ai travaillé en Mars 2013 sur une collection de scripts, pour **gedit**, 
 à utiliser avec le *plugin* ``Externals Tools``.
 
 Ce projet est hébergé sur 
@@ -160,34 +164,35 @@ Et aussi, des explications, des démonstrations, et une doc en français sont di
 
 Projet Réseau : MPRI Bomberman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre.
-Il s'agit d'un jeu de ``Bomberman``, en réseau.
+J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
+Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
+formalisé, ouvert et optimal (enfin, quasi). *Et il marche super bien :)*
 
-Le projet est surtout hebergé sur **BitBucket** 
-`ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
+ Le projet est surtout hebergé sur **BitBucket** 
+ `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 
-Vous pouvez consulter la documentation de ce projet, 
-réalisée automatiquement avec **Sphinx**, 
-`ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
-Une autre version de la documentation est aussi générée automatiquement avec PyDoc, 
-et de scripts de ma conception, et elle est aussi consultable 
-`ici publis/Bomberman/ <publis/Bomberman/>`_.
+ Vous pouvez consulter la documentation de ce projet, 
+ réalisée automatiquement avec **Sphinx**, 
+ `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
+ Une autre version de la documentation est aussi générée automatiquement avec PyDoc, 
+ et de scripts de ma conception, et elle est aussi consultable 
+ `ici publis/Bomberman/ <publis/Bomberman/>`_.
 
 Projet d'apprentissage : Kaggle Titanic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
 j'ai fait un petit projet. Suivant les consignes de la plate-forme Kaggle,
 ce projet a pour but de faire de la classification de données, afin de mettre
-à jour le passager type ayant survécu au naufrage du Titanic.
+à jour le *"passager type"* ayant survécu au naufrage du Titanic.
 
-Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
-`ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
+ Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
+ `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 
-En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le prix
-du ticket etc, et leur classification selon survivant et victime. Et le but est
-de prévoir la même chose pour 418 autres passagers.
-La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
-du nombre de prédictions correctes. Pour le moment, je n'ai pas dépassé 78%...
+ En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le prix
+ du ticket etc, et leur classification selon survivant et victime. Et le but est
+ de prévoir la même chose pour 418 autres passagers.
+ La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
+ du nombre de prédictions correctes. Pour le moment, je n'ai pas dépassé 78%...
 
 ------------------------------------------------------------------------------
 
@@ -213,7 +218,7 @@ Coloration syntaxique pour **GNU/Nano**
  de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
  fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
- .. note:: Pour *Jota Text Editor* & *Jota +* : un tutoriel est aussi en route...
+ .. note:: Pour *Jota Text Editor* & *Jota +* (un tutoriel est aussi en route !)
 
     Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
     et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
@@ -224,7 +229,8 @@ Coloration syntaxique pour **GNU/Nano**
 Traductions
 ^^^^^^^^^^^
  La page `<transifex.html>`_ parle de traductions de logiciels
- et de sites webs.
+ et de sites webs. :red:`Je suis disponible pour toutes traductions FR->EN
+ ou EN->FR !` (dans ce domaine là)
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
@@ -278,10 +284,10 @@ JavaScript et outils embarqués
  en **JavaScript** :
 
    #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-      directement dans un navigateur web **:)**, avec un éditeur qui
-      colore l'entrée du toplevel !
+      directement dans un navigateur web, avec un éditeur qui
+      colore l'entrée du toplevel (*toujours en béta*) !
    #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
-      directement dans un navigateur web **:)**,
+      directement dans un navigateur web (*toujours en béta*),
       avec un genre d'interface *graphique* (module ``Turtle`` disponible).
    #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
       directement dans un navigateur web **:)** !

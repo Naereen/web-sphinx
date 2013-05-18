@@ -1,6 +1,6 @@
 .. meta::
    :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash
-   :description lang=en: Lilian Besson personal web page
+   :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
 ##############################################
@@ -29,7 +29,7 @@ Contact addresses
 ^^^^^^^^^^^^^^^^^
  Feel free to *contact* me :
  
-  #. by mail (`→ Open Street Map direct link <http://osm.org/go/0BOchV4ns-->`_)  ::
+  #. by mail (`→ Open Street Map direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
         Appartement B216,
@@ -53,7 +53,7 @@ Contact addresses
         :alt:   My phone number, in a PNG picture...
         :target: callto:100101011101001100111101100001_2
 
-  #. or by phone (:silver:`only if it is important`) :
+  #. or by phone (:red:`only if it is important`) :
 
 My projects on-line
 ^^^^^^^^^^^^^^^^^^^
@@ -79,12 +79,14 @@ Feel free to *contact* me :
 
 MSc internship
 ^^^^^^^^^^^^^^
- I found an internship for the third semester of my Maths & CS MSc
+ I found an internship for the third semester of my Maths MSc and CS MSc
  (03 June to 09 August).
 
  It will take place at **UCL** (:under:`University College of London`),
  under the direction of *Peter O'Hearn* and *Jules Villard*,
  about separation logic.
+
+ And the looking-for-a-place-to-live phasis seems to be done now...
 
 ------------------------------------------------------------------------------
 
