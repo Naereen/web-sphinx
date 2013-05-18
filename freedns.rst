@@ -27,7 +27,7 @@ FreeDNS ?
  **Ou pas !**
 
  Bref, c'est pas super crucial.
- *→ La page d'accueil est `par là <index.html>`_ !*.
+ → La page d'accueil est `par là <index.html>`_ !
 
 Liste des sous-domaines que j'utilise
 -------------------------------------
