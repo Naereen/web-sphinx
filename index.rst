@@ -79,7 +79,7 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
 Stage de M1
 ^^^^^^^^^^^
 J'ai trouvé un **stage de recherche** pour le 
-troisième trimestre 2012/2013 (entre le 06 Juin et le 09 Août).
+troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
 Il se déroulera à l'**UCL** (:under:`University College of London`),
 sous la direction de *Peter O'Hearn* et *Jules Villard*,
