@@ -81,7 +81,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'index_fr'
 
 	# General information about the project.
 project = u'Lilian Besson on the web'
@@ -223,7 +223,7 @@ html_use_smartypants = True
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
-   'index': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
+   'index_*': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.html'],
 }
 
@@ -283,7 +283,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-#  ('index', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
+#  ('index_fr', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
 #   u'Lilian Besson', 'howto'),
 #  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
 #   u'Lilian Besson', 'howto'),
@@ -366,7 +366,7 @@ latex_preamble = r'''
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'lilianbesson', u'Lilian Besson on the web Documentation',
+    ('index_fr', 'lilianbesson_fr', u'Lilian Besson on the web Documentation',
      [u'Lilian Besson'], 1)
 ]
 
@@ -380,7 +380,7 @@ man_show_urls = True
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LilianBessonontheweb', u'Lilian Besson on the web Documentation',
+  ('index_fr', 'LilianBessonontheweb', u'Lilian Besson on the web Documentation',
    u'Lilian Besson', 'LilianBessonontheweb', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -448,7 +448,7 @@ epub_tocdup = True
 # The options element is a dictionary that lets you override
 # this config per-document.
 # For example,
-# ('index', u'MyProject', u'My Project', u'Author Name',
+# ('index_fr', u'MyProject', u'My Project', u'Author Name',
 # dict(pdf_compressed = True))
 # would mean that specific document would be compressed
 # regardless of the global pdf_compressed setting.
