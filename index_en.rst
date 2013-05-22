@@ -16,7 +16,7 @@
 .. sidebar:: Other language : in French
 
    This page is in *english*.
-   Maybe you would like to see it in `french <index.html>`_.
+   Maybe you would like to see it in `french <index_fr.html>`_.
 
 Who am I ?
 ----------
