@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Page d'accueil adaptée à la langue</title>
+       <link>https://bitbucket.org/lbesson/projet-kaggle/rss</link>
+       <description>index.html donne index_fr.html ou index_en.html selon la langue de l'utilisateur !</description>
+       <guid>http://naereen.qc.to/</guid>
+       <pubDate>Wed, 22 May 2013 01:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Projet Kaggle</title>
        <link>https://bitbucket.org/lbesson/projet-kaggle</link>
        <description>Projet Kaggle en ML</description>
