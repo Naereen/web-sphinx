@@ -82,7 +82,7 @@ J'ai trouvé un **stage de recherche** pour le
 troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
 Il se déroulera à l'**UCL** (:under:`University College of London`),
-sous la direction de *Peter O'Hearn* et *Jules Villard*,
+sous la direction de *Peter Jules*,
 à propos de logique de séparation.
 
 ..  *Si vous avez un plan logement, n'hésitez pas à me contacter.*

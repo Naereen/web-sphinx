@@ -83,7 +83,7 @@ MSc internship
  (03 June to 09 August).
 
  It will take place at **UCL** (:under:`University College of London`),
- under the direction of *Peter O'Hearn* and *Jules Villard*,
+ under the direction of *Peter Jules*,
  about separation logic.
 
  And the looking-for-a-place-to-live phasis seems to be done now...
