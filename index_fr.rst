@@ -344,6 +344,7 @@ Liste des autres pages
    ace
    transifex.fr
    wolfram
+   freedns
    time
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
