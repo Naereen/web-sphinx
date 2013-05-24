@@ -42,7 +42,6 @@ Graphe et entrée texte
 +--------------------------------------+-------------------------------------+
 | À gauche, le graphique, au format    | À droite, une entrée texte,         |
 | **SVG**.                             | comme **GNU Plot** en console.      |
-| Pour l'instant, un seul ...          |                                     |
 |                                      |                                     |
 | Il est possible d'enregister ce      | Les 2 premières lignes doivent être |
 | graphe, n'importe quand.             | gardées comme ça.                   |
