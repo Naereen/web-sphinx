@@ -3,11 +3,7 @@
 #######################################
 .. include:: .special.rst
 
-.. warning:: Javascript est requis
-
-   À priori, cette page devrait et son terminal embarqué
-   **fonctionner sur n'importe quel navigateur**,
-   pour peu :orange:`qu'il supporte Javascript` !
+.. include:: .javascript.rst
 
 .. warning:: Images vectorielles SVG
 
