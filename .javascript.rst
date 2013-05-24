@@ -12,20 +12,18 @@
    <style type="text/css">
     #no_javascript.ir {
      position: fixed;
-     top: 40%;
-     right: 0px;
-     width: 37px;
-     height: 154px;
-     z-index: 100;
+     top: 4px;
+     right: 20%;
+     width: 500px;
+     height: 10px;
+     z-index: 0;
+     color: red;
      background-image: url("_images/javascript.png");
     }
    </style>
    <noscript><span style="color:red">
    Attention: votre navigateur semble ne pas supporter Javascript !</span>
-   <a href="http://www.enable-javascript.com/fr/" target="_blank" class="ir" id="no_javascript">Voir comment activer Javascript !</a>
-   <!--
-   <a href="http://www.enable-javascript.com/fr/" target="_blank" class="ir" id="no_javascript">Voir comment activer Javascript !</a>
-   -->
+   <a href="http://www.enable-javascript.com/fr/" target="_blank" class="ir" id="no_javascript">Apprendre comment activer Javascript !</a>
    </noscript>
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
