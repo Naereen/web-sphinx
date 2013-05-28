@@ -7,6 +7,7 @@
  Bienvenue sur la page web personnelle de **Lilian Besson**
 ############################################################
 .. include:: .special.rst
+
 A propos de moi
 ---------------
 .. sidebar:: Autre langue : en anglais ?
