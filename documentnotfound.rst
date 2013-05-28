@@ -7,10 +7,11 @@
 
    :red:`Oups, on dirait que vous avez voulu accéder à une page qui n'existe pas`.
 
+
    .. raw:: html
    
       <script type="text/javascript">
-       document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+" ?</a>")
+       document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+" ?</a>"
        +"(L'erreur continuera sûrement...)")
       </script>
 
