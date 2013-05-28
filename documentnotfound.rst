@@ -7,6 +7,9 @@
 
    :red:`Oups, on dirait que vous avez voulu accéder à une page qui n'existe pas`.
 
+   Cette erreur peut être dûe à un lien mort (erreur de ma faute),
+   ou à une adresse incorrecte rentrée dans votre navigateur (erreur de votre faute).
+
 
    .. raw:: html
    
