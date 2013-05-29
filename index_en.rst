@@ -1,12 +1,13 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash
+   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, LSV, UCL, CS, Math, GPG, PGP, gedit, Nano, GNU
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-##############################################
- Welcome to the web page of **Lilian Besson**
-##############################################
+################################################
+ Welcome to the web page of **Lilian Besson** !
+################################################
 .. include:: .special.rst
+
 .. warning::
    
    Those web pages **are still in construction** !
@@ -17,6 +18,9 @@
 
    This page is in *english*.
    Maybe you would like to see it in `french <index_fr.html>`_.
+   
+   Now, the page `<index.html>`_ redirects to index_fr or index_en, according
+   to the preference of your browser.
 
 Who am I ?
 ----------
@@ -83,8 +87,8 @@ MSc internship
  (03 June to 09 August).
 
  It will take place at **UCL** (:under:`University College of London`),
- under the direction of *Peter Jules*,
- about separation logic.
+ under the direction of *Jules Villard* (and *Peter O'Hearn*),
+ about separation logic (and probably others things!).
 
  And the looking-for-a-place-to-live phasis seems to be done now...
 

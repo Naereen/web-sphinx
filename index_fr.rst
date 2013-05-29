@@ -1,11 +1,11 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GPG, Nano, Wolfram|Alpha, CV
+   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GPG, Nano, Wolfram|Alpha, CV, LSV, UCL, CS, Math, PGP, gedit, GNU
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson's personal web page
 
-############################################################
- Bienvenue sur la page web personnelle de **Lilian Besson**
-############################################################
+##############################################################
+ Bienvenue sur la page web personnelle de **Lilian Besson** !
+##############################################################
 .. include:: .special.rst
 
 A propos de moi
@@ -14,11 +14,15 @@ A propos de moi
 
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   
+   Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
+   au mieux selon les préférences de votre navigateur.
+   Certaines pages ne sont pas encore traduites, mais j'y travaille !
 
    Ces pages ont été générées le |today| pour la *dernière fois*.
 
 
-Je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
+Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
@@ -83,10 +87,8 @@ J'ai trouvé un **stage de recherche** pour le
 troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
 Il se déroulera à l'**UCL** (:under:`University College of London`),
-sous la direction de *Peter Jules*,
-à propos de logique de séparation.
-
-..  *Si vous avez un plan logement, n'hésitez pas à me contacter.*
+sous la direction de *Jules Villard* (et *Peter O'Hearn*),
+à propos de logique de séparation (et sûrement d'autres choses!).
 
 Et la pénible étape de :blink:`je-cherche-un-lieu-où-dormir-dans-la-ville-la-plus-chère-d'Europe`
 semble terminée : **OUF** !
@@ -151,7 +153,7 @@ Son code source est hébergé sur
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de 1100 fois
-(le total affiché sur Pypi est réinitialisé pour chaque nouvelles versions !).
+(le total n'est désormais plus affiché sur Pypi !).
 
 Gedit : Tools
 ^^^^^^^^^^^^^
@@ -182,9 +184,9 @@ formalisé, ouvert et optimal (enfin, quasi). *Et il marche super bien :)*
 Projet d'apprentissage : Kaggle Titanic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
-j'ai fait un petit projet. Suivant les consignes de la plate-forme Kaggle,
-ce projet a pour but de faire de la classification de données, afin de mettre
-à jour le *"passager type"* ayant survécu au naufrage du Titanic.
+j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http://kaggle.com/>`_,
+ce projet a pour but de faire de la *classification de données*, afin d'exhiber
+le *"passager type"* ayant survécu au naufrage du Titanic.
 
  Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
  `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
@@ -193,7 +195,9 @@ ce projet a pour but de faire de la classification de données, afin de mettre
  du ticket etc, et leur classification selon survivant et victime. Et le but est
  de prévoir la même chose pour 418 autres passagers.
  La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
- du nombre de prédictions correctes. Pour le moment, je n'ai pas dépassé 78%...
+ du nombre de prédictions correctes.
+ 
+ J'ai soutenu ce projet le mercredi 22 2013, j'attend donc ma note.
 
 ------------------------------------------------------------------------------
 
@@ -230,8 +234,9 @@ Coloration syntaxique pour **GNU/Nano**
 Traductions
 ^^^^^^^^^^^
  La page `<transifex.html>`_ parle de traductions de logiciels
- et de sites webs. :red:`Je suis disponible pour toutes traductions FR→EN
- ou EN→FR !` (dans ce domaine là)
+ et de sites webs. 
+ 
+ :red:`Je suis disponible pour toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
@@ -243,8 +248,8 @@ Albums photos
  Ma page `Facebook <http://www.facebook.com/naereencorp.lbesson>`_ héberge
  notamment quelques albums photos.
 
- Des photos de moi ? Que non point ! Quelle connerie de publier des photos de soi
- en ligne !
+ Des photos de moi ? Que non point ! 
+ :gray:`Quelle connerie de publier des photos de soi en ligne !`
  
  Non, des photos montrant :
 
@@ -284,12 +289,6 @@ JavaScript et outils embarqués
  Certaines pages présentent aussi l'intégration de projets sympas, écrits
  en **JavaScript** :
 
-   #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-      directement dans un navigateur web, avec un éditeur qui
-      colore l'entrée du toplevel (*toujours en béta*) !
-   #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
-      directement dans un navigateur web (*toujours en béta*),
-      avec un genre d'interface *graphique* (module ``Turtle`` disponible).
    #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
       directement dans un navigateur web **:)** !
    #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
@@ -298,6 +297,12 @@ JavaScript et outils embarqués
       évaluation instantannée dès que la zone de texte est changée.
    #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
       pour l'instant **ne supporte pas** l'enregistrement.
+   #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
+      directement dans un navigateur web, avec un éditeur qui
+      colore l'entrée du toplevel (*toujours en béta*) !
+   #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
+      directement dans un navigateur web (*toujours en béta*),
+      avec un genre d'interface *graphique* (module ``Turtle`` disponible).
 
  .. warning:: Seulement en **HTML**
 
@@ -314,7 +319,7 @@ Des slides en **rST**
 
 Flux RSS
 ^^^^^^^^^
- Depuis peu, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
+ Depuis Avril 2013, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 
   Pour plus d'informations, ou pour lire directement les dernières entrées
   du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
