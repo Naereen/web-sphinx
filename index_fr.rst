@@ -17,7 +17,7 @@ A propos de moi
    
    Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
    au mieux selon les préférences de votre navigateur.
-   Certaines pages ne sont pas encore traduites, mais j'y travaille !
+   Certaines pages ne sont pas encore traduites, mais *j'y travaille* !
 
    Ces pages ont été générées le |today| pour la *dernière fois*.
 
@@ -27,8 +27,8 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
 **Je suis actuellement en seconde année à l'ÉNS de Cachan,**
-**et je suis le master de recherche en informatique de Paris (le MPRI)**
-et **le master de mathématiques appliquées de l'ÉNS de Cachan.**
+**et je termine la première année du master de recherche en informatique de Paris (le MPRI)**
+et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan.**
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
@@ -41,6 +41,15 @@ Adresses de contact
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France
+ 
+  #. par courrier (`→ plan Open Street Map <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
+
+        Mr Lilian Besson,
+        University College London
+        Dept. of Computer Science
+        66-72 Gower Street
+        London WC1E 6BT
+        Royaume-Uni
         
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
      
@@ -88,10 +97,8 @@ troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
 Il se déroulera à l'**UCL** (:under:`University College of London`),
 sous la direction de *Jules Villard* (et *Peter O'Hearn*),
-à propos de logique de séparation (et sûrement d'autres choses!).
-
-Et la pénible étape de :blink:`je-cherche-un-lieu-où-dormir-dans-la-ville-la-plus-chère-d'Europe`
-semble terminée : **OUF** !
+à propos de logique de séparation, de problèmes d'IA, et des liens possibles
+entre ces deux domaines...
 
 ------------------------------------------------------------------------------
 
@@ -152,7 +159,7 @@ Son code source est hébergé sur
 
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 1100 fois
+Actuellement, il a déjà été téléchargé plus de 2000 fois
 (le total n'est désormais plus affiché sur Pypi !).
 
 Gedit : Tools
@@ -198,6 +205,20 @@ le *"passager type"* ayant survécu au naufrage du Titanic.
  du nombre de prédictions correctes.
  
  J'ai soutenu ce projet le mercredi 22 2013, j'attend donc ma note.
+
+Projet d'été 2013 : Py-Pokemon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ J'ai commencé un projet, pour m'occuper durant l'été, en Python : Py-Pokemon.
+ Plus de détails sur `bitbucket.org/lbesson/py-pokemon/ <https://bitbucket.org/lbesson/py-pokemon/>`_,
+ ou sur ce site `<publis/py-pokemon/>`_.
+
+ J'utilise une base de donnée déjà existante, réalisée par `eevee <http://veekun.com/>`_.
+
+ L'objectif est de mettre au point un simulateur de combats Pokemon, un générateur
+ automatique de dresseurs adverses, et une IA pour les combats.
+ Le second objectif est d'utiliser ce cadre pour pouvoir évaluer la *"qualité"* d'une
+ équipe en la faisant combattre un grand nombre d'adversaires aléatoires (une peu
+ comme une méthode de Monte-Carlo).
 
 ------------------------------------------------------------------------------
 
@@ -322,8 +343,8 @@ Flux RSS
  Depuis Avril 2013, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 
   Pour plus d'informations, ou pour lire directement les dernières entrées
-  du *flux*, la page `<rss.html>`_ est là pour ça (:red:`Note:` pour le
-  moment, fait appel à un script hebergé ailleurs).
+  du *flux*, la page `<rss.html>`_ est là pour ça.
+.. (:red:`Note:` pour le moment, fait appel à un script hebergé ailleurs).
 
 --------------------------------------------------------------------
 

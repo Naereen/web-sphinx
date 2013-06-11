@@ -36,10 +36,19 @@ Contact addresses
   #. by mail (`→ Open Street Map direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
-        Appartement B216,
+        Appartement B216,,
         70, rue Camille Desmoulins,
         94230 - Cachan,
         France
+ 
+  #. by mail (`→ Open Street Map direct link <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
+
+        Mr Lilian Besson,
+        University College London
+        Dept. of Computer Science
+        66-72 Gower Street
+        London WC1E 6BT
+        UK
  
   #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
 
@@ -88,9 +97,7 @@ MSc internship
 
  It will take place at **UCL** (:under:`University College of London`),
  under the direction of *Jules Villard* (and *Peter O'Hearn*),
- about separation logic (and probably others things!).
-
- And the looking-for-a-place-to-live phasis seems to be done now...
+ about separation logic, AI problems, and the links between those two domains..
 
 ------------------------------------------------------------------------------
 
