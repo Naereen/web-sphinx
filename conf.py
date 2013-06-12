@@ -13,6 +13,9 @@
 
 import sys, os
 
+reload(sys)
+sys.setdefaultencoding("UTF-8")
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -32,6 +35,9 @@ extensions = [
 	'sphinx.ext.viewcode',
 	'sphinx.ext.autosummary',
 	'sphinx.ext.graphviz',
+	'sphinx.ext.doctest',
+#	'sphinx.ext.pngmath',
+	'sphinx.ext.intersphinx',
 ####### Sphinx Contrib
 ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
 	'sphinxcontrib.cheeseshop',
@@ -40,7 +46,9 @@ extensions = [
 ####### From reportLab
 	'rst2pdf.pdfbuilder',
 ####### Change the order ?
-	'sphinx.ext.mathjax'
+	'sphinx.ext.mathjax',
+####### From Pokedex
+        'pokedex.doc.tabledoc'
 	]
 
 ##############################################################################
@@ -134,7 +142,12 @@ pygments_style = 'sphinx'
 # Merci à Vincent Le Gallic pour ça.
 autodoc_member_order = 'bysource'
 autodoc_default_flags = ['members', 'private-members']
- 
+
+# Intersphinx
+intersphinx_mapping = {
+  'sqlalchemy': ('http://www.sqlalchemy.org/docs', None)
+}
+
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

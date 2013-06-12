@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Doc du projet Pokedex - © Eeevee</title>
+       <link>http://veekun.com</link>
+       <description>Py-Pokemon avance, en utilisant le (colossal) travail réalisé par Eevee (Veekun)!</description>
+       <guid>https://bitbucket.org/lbesson/py-pokemon/</guid>
+       <pubDate>Wed, 12 Jun 2013 05:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Page d'accueil adaptée à la langue</title>
        <link>https://bitbucket.org/lbesson/projet-kaggle/rss</link>
        <description>index.html donne index_fr.html ou index_en.html selon la langue de l'utilisateur !</description>
