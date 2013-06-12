@@ -30,11 +30,14 @@ Recherche et étude
 **et je termine la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan.**
 
+L'année prochaine (2013/2014), j'ai prévu de préparer le concours de l'`agregation <http://agreg.org/>`_,
+via la préparation proposée par l'ENS Cachan.
+
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
  N'hésitez pas à me *contacter* :
 
-  #. par courrier (`→ plan Open Street Map <http://osm.org/go/0BOchV4ns-->`_), en France  ::
+  #. par courrier (`→ plan 1 OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France  ::
   
         Mr Lilian Besson,
         Appartement B216,
@@ -42,7 +45,7 @@ Adresses de contact
         94230 - Cachan,
         France
  
-  #. par courrier (`→ plan Open Street Map <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
+  #. par courrier (`→ plan 2 OpenStreetMap <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
 
         Mr Lilian Besson,
         University College London
@@ -344,6 +347,7 @@ Flux RSS
 
   Pour plus d'informations, ou pour lire directement les dernières entrées
   du *flux*, la page `<rss.html>`_ est là pour ça.
+
 .. (:red:`Note:` pour le moment, fait appel à un script hebergé ailleurs).
 
 --------------------------------------------------------------------

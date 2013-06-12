@@ -29,11 +29,13 @@ a *french* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently
 in *two* different MSc (one in each of those domains).
 
+In 2013/2014, I will follow the preparation class for the French `agregation <http://agreg.org/>`_ exam.
+
 Contact addresses
 ^^^^^^^^^^^^^^^^^
  Feel free to *contact* me :
  
-  #. by mail (`→ Open Street Map direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
+  #. by mail (`→ OpenStreetMap direct link 1 <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
         Appartement B216,,
@@ -41,7 +43,7 @@ Contact addresses
         94230 - Cachan,
         France
  
-  #. by mail (`→ Open Street Map direct link <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
+  #. by mail (`→ OpenStreetMap direct link 2 <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
 
         Mr Lilian Besson,
         University College London
