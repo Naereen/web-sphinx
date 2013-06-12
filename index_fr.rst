@@ -216,6 +216,7 @@ Projet d'été 2013 : Py-Pokemon
  ou sur ce site `<publis/py-pokemon/>`_.
 
  J'utilise une base de donnée déjà existante, réalisée par `eevee <http://veekun.com/>`_.
+ Une documentation (presque) complète est présente ici `<pokedex-doc/>`_.
 
  L'objectif est de mettre au point un simulateur de combats Pokemon, un générateur
  automatique de dresseurs adverses, et une IA pour les combats.
@@ -377,6 +378,7 @@ Liste des autres pages
    wolfram
    freedns
    time
+   pokedex-doc/index
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin

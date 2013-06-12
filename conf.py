@@ -238,6 +238,7 @@ html_sidebars = {
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
    'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.html'],
+   'pokedex-doc/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
