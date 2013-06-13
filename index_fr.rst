@@ -132,9 +132,6 @@ Mon site perso pour accueillir certains de mes projets de programmation
 et de développement. Il est réalisé avec Google Site, 
 `sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
 
-La ``Naereen Corp.`` a aussi une page Facebook, 
-`facebook.com/naereen.corp <https://www.facebook.com/naereen.corp>`_.
-
 --------------------------------------------------------------------
 
 Autres pages
