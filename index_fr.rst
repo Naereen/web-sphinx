@@ -166,7 +166,6 @@ Gedit : Tools
 ^^^^^^^^^^^^^
 J'ai travaillé en Mars 2013 sur une collection de scripts, pour **gedit**, 
 à utiliser avec le *plugin* ``Externals Tools``.
-
 Ce projet est hébergé sur 
 `BitBucket.org/lbesson/gedit-tools <https://bitbucket.org/lbesson/gedit-tools/>`_.
 Et aussi, des explications, des démonstrations, et une doc en français sont disponibles 
@@ -177,16 +176,15 @@ Projet Réseau : MPRI Bomberman
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
 Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
 formalisé, ouvert et optimal (enfin, quasi). *Et il marche super bien :)*
+Le projet est surtout hebergé sur **BitBucket** 
+`ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 
- Le projet est surtout hebergé sur **BitBucket** 
- `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
-
- Vous pouvez consulter la documentation de ce projet, 
- réalisée automatiquement avec **Sphinx**, 
- `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
- Une autre version de la documentation est aussi générée automatiquement avec PyDoc, 
- et de scripts de ma conception, et elle est aussi consultable 
- `ici publis/Bomberman/ <publis/Bomberman/>`_.
+Vous pouvez consulter la documentation de ce projet, 
+réalisée automatiquement avec **Sphinx**, 
+`ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
+Une autre version de la documentation est aussi générée automatiquement avec PyDoc, 
+et de scripts de ma conception, et elle est aussi consultable 
+`ici publis/Bomberman/ <publis/Bomberman/>`_.
 
 Projet d'apprentissage : Kaggle Titanic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -194,21 +192,20 @@ Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
 j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http://kaggle.com/>`_,
 ce projet a pour but de faire de la *classification de données*, afin d'exhiber
 le *"passager type"* ayant survécu au naufrage du Titanic.
+Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
+`ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 
- Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
- `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
-
- En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le prix
- du ticket etc, et leur classification selon survivant et victime. Et le but est
- de prévoir la même chose pour 418 autres passagers.
- La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
- du nombre de prédictions correctes.
+En pratique, j'ai près de 900 passagers, dont on connaît le nom, l'age, le prix
+du ticket etc, et leur classification selon survivant et victime. Et le but est
+de prévoir la même chose pour 418 autres passagers.
+La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
+du nombre de prédictions correctes.
  
- J'ai soutenu ce projet le mercredi 22 2013, j'attend donc ma note.
+J'ai soutenu ce projet le mercredi 22 2013, j'attend donc ma note.
 
 Projet d'été 2013 : Py-Pokemon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- J'ai commencé un projet, pour m'occuper durant l'été, en Python : Py-Pokemon.
+ J'ai commencé un projet, pour m'occuper durant l'été, en Python : :red:`Py-Pokemon`.
  Plus de détails sur `bitbucket.org/lbesson/py-pokemon/ <https://bitbucket.org/lbesson/py-pokemon/>`_,
  ou sur ce site `<publis/py-pokemon/>`_.
 
@@ -230,8 +227,7 @@ Projet d'été 2013 : Py-Pokemon
    latérale, dans la section "Cette page en .txt et en .pdf".
 
    Ces versions **PDF** sont encore expérimentales, notamment car les extensions
-   "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le
-   moment !
+   "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
 
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -256,9 +252,8 @@ Coloration syntaxique pour **GNU/Nano**
 Traductions
 ^^^^^^^^^^^
  La page `<transifex.html>`_ parle de traductions de logiciels
- et de sites webs. 
- 
- :red:`Je suis disponible pour toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
+ et de sites webs.
+ :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
@@ -342,11 +337,8 @@ Des slides en **rST**
 Flux RSS
 ^^^^^^^^^
  Depuis Avril 2013, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
-
-  Pour plus d'informations, ou pour lire directement les dernières entrées
-  du *flux*, la page `<rss.html>`_ est là pour ça.
-
-.. (:red:`Note:` pour le moment, fait appel à un script hebergé ailleurs).
+ Pour plus d'informations, ou pour lire directement les dernières entrées
+ du *flux*, la page `<rss.html>`_ est là pour ça.
 
 --------------------------------------------------------------------
 
@@ -375,7 +367,7 @@ Liste des autres pages
    wolfram
    freedns
    time
-   pokedex-doc/index
+   Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin
