@@ -100,7 +100,7 @@ Miscellaneous
 
 Currently (**2012-2013**): First-year MSc (*Master*)
 ----------------------------------------------------
- * **Mathematics** MSc (*Since Sept. 2012*) (well validated)
+ * **Mathematics** MSc (*Since Sept. 2012*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation, exterior calculus.
@@ -109,6 +109,15 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
+
+MSc internship and thesis
+^^^^^^^^^^^^^^^^^^^^^^^^^
+.. warning::
+
+   I'm currently doing my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
+   and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
+   at `UCL <http://cs.ucl.ac.uk>`_ in London.
+   I'm working on Artificial Intelligence, and separation logic.
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)
 --------------------------------------------------------------
@@ -218,7 +227,7 @@ MSc programming projects (2012-2013)
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
  * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal. 
-   Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 1100 download by now).
+   Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 2000 download by now).
    Or also `here on BitBucket lbesson/ansi-colors 
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.

@@ -3,13 +3,6 @@
 ############################
 .. include:: .special.rst
 
-Uglify
-------
-Voir peut-être `<http://marijnhaverbeke.nl/uglifyjs>`_.
-Pour raccourcir la taille des scripts JS embarqués ?
-
-------------------------------------------------------------------------------
-
 Espace d'expérimentations
 -------------------------
 .. versionadded:: 1.4
@@ -41,6 +34,7 @@ Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
 
  * aucune erreur pour les feuilles **CSS** !
  * aucune erreur pour les pages **XHTML** 1.0 Transitional !
+ * aucune erreur pour le flux RSS !
 
 .. warning:: Pas toujours parfaits
 

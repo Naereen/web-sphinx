@@ -72,6 +72,12 @@ Adresses de contact
         
   #. ou par téléphone (:red:`si c'est urgent ou important`) :
 
+.. raw:: html
+
+   <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
+   onClick="parent.location='mailto:naereen@crans.org?subject=[Web Sphinx]'">
+   </form>
+
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
 .. sidebar:: CV
@@ -98,8 +104,9 @@ Stage de M1
 J'ai trouvé un **stage de recherche** pour le 
 troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
-Il se déroulera à l'**UCL** (:under:`University College of London`),
-sous la direction de *Jules Villard* (et *Peter O'Hearn*),
+Il se déroule actuellement à l'**UCL** (:under:`University College of London`),
+sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_
+(et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_),
 à propos de logique de séparation, de problèmes d'IA, et des liens possibles
 entre ces deux domaines...
 

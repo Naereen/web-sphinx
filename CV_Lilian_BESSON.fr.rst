@@ -100,7 +100,7 @@ Divers
 
 Actuellement (**2012-2013**) : première année de Master (M1)
 ------------------------------------------------------------
- * M1 de **Mathématiques** (*Depuis Sept. 2012*) (déjà validé)
+ * M1 de **Mathématiques** (*Depuis Sept. 2012*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
@@ -109,6 +109,15 @@ Actuellement (**2012-2013**) : première année de Master (M1)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
+
+Stage et rapport de stage de M1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. warning::
+
+   Je suis actuellement en train de faire mon stage de fin de M1,
+   avec `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_, et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
+   dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
+   Je travaille sur les liens entre l'Intelligence Artificielle et les logiques de séparation.
 
 **2011-2012** : troisième et dernière année de Licence
 ------------------------------------------------------
@@ -200,7 +209,7 @@ Autres diplômes
 ---------------
  * **Permis de conduire**, obtenu à Briançon (*Février 2012*).
  
- * **Baccalaureat** (*Juin 2009*)
+ * **Baccalauréat** (*Juin 2009*)
 
    - :Lycée: Lycée d'Altitude (*Briançon*);
    - :Note: **15.7/20**, *magna cum laude*;
@@ -218,7 +227,7 @@ Projets de programmation en M1 (2012-2013)
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
-   Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 1100 téléchargements pour l'instant).
+   Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (près de 2000 téléchargements pour l'instant).
    Ou aussi `ici sur BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.

@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Nouvelle version de Sphinx (1.2b)</title>
+       <link>https://bitbucket.org/birkenfeld/sphinx/overview</link>
+       <description>Version Beta.</description>
+       <guid>http://besson.qc.to/</guid>
+       <pubDate>Tue, 18 Jun 2013 05:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Doc du projet Pokedex - © Eeevee</title>
        <link>http://veekun.com</link>
        <description>Py-Pokemon avance, en utilisant le (colossal) travail réalisé par Eevee (Veekun)!</description>

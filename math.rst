@@ -13,19 +13,6 @@ Des maths ?
  Il faut seulement savoir que **MathJax** permet d'afficher *facilement*
  des maths (écrites en ``LaTeX`` ou en ``MathML``) joliment.
 
-.. warning:: Ne fonctionnait plus, mais là c'est de nouveau bon...
-
-   Depuis peu (samedi 30 mars ~ 16h), cette page n'affichait plus correctement
-   les codes LaTeX avec MathJax.
-   Le problème venait de l'ordre d'importation des extensions **Sphinx**.
-   
-   Dans ``conf.py``, il y a le paragraphe : ::
-   
-       extensions = [ 'sphinx.ext.todo', ..., 'sphinx.ext.mathjax' ]
-   
-   Eh bien il se trouve que **MathJax** se désactive si on importe
-   ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
-
 Exemples
 --------
 On remarque qu'on peut tout d'abord écrire des maths sans passer
@@ -70,6 +57,21 @@ donc j'y fait référence, avec le code ``:eq:`euleur```.
 On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code```.
 J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
 (on rappelle que :math:`\int_{0}^{2} x .dx = \frac{3}{2}`).
+
+Un soucis ?
+-----------
+.. warning:: Ne fonctionnait plus, mais là c'est de nouveau bon...
+
+   Depuis peu (samedi 30 mars ~ 16h), cette page n'affichait plus correctement
+   les codes LaTeX avec MathJax.
+   Le problème venait de l'ordre d'importation des extensions **Sphinx**.
+   
+   Dans ``conf.py``, il y a le paragraphe : ::
+   
+       extensions = [ 'sphinx.ext.todo', ..., 'sphinx.ext.mathjax' ]
+   
+   Eh bien il se trouve que **MathJax** se désactive si on importe
+   ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
 
 ------------------------------------------------------------------------------
 

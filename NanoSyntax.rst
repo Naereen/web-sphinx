@@ -7,7 +7,7 @@
  Coloration syntaxique pour **GNU Nano**
 #########################################
 .. include:: .special.rst
-.. sidebar:: Liens directs vers les *vrais* fichiers de coloration
+.. note:: Liens directs vers les *vrais* fichiers de coloration
 
    Cette page est un *tutoriel*.
    Les fichiers intéressants sont dans le sous dossier `<NanoSyntax/>`_.
@@ -273,7 +273,7 @@ Sources des différents fichiers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Seuls `ocaml.nanorc <NanoSyntax/ocaml.nanorc>`_, 
 `reST.nanorc <NanoSyntax/reST.nanorc>`_,
-`<NanoSyntax/.nanorc>`_,
+`.nanorc <NanoSyntax/.nanorc>`_,
 `python.nanorc <NanoSyntax/python.nanorc>`_ ont été modifiés par moi 
 (ils sont sous licence GPL3, voir `<LICENSE>`_ pour plus d'infos). 
 
@@ -292,6 +292,13 @@ En particulier, `reST.nanorc <NanoSyntax/reST.nanorc>`_ a été créé par moi
 uniquement pour ce projet (nouvelles pages web, entièrement avec **Sphinx**).
 Je continue de l'améliorer chaque fois que je découvre un nouvel élément de
 la syntaxe du merveilleux langage qu'est le **reStructuredText**.
+
+STRIPS
+^^^^^^
+Pour mon stage, j'ai travaillé sur le modèle **STRIPS** pour la modélisation
+d'un monde dynamique. J'ai utilisé ce `solveur strips <https://github.com/tansey/strips>`_.
+Et j'ai créé ce fichier `strips.nanorc <NanoSyntax/strips.nanorc>`_ pour colorer
+les exemples de modélisations manipulées par le solveur.
 
 --------------------------------------------------------------------------------
 

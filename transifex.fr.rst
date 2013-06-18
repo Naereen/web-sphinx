@@ -134,7 +134,7 @@ Améliorer leur web-service
 
 Plus de captures d'écrans
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-  Plus de captures d'écrans à propos de ça peuvent être trouvée sur ma page Facebook,
+  Plus de captures d'écrans à propos de ça peuvent être trouvées sur ma page Facebook,
   `ici <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
 
 ------------------------------------------------------------------------------

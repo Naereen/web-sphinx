@@ -70,6 +70,12 @@ Contact addresses
 
   #. or by phone (:red:`only if it is important`) :
 
+.. raw:: html
+
+   <form><input type="button" value="Contact-me by email" title="Click to send me an email !"
+   onClick="parent.location='mailto:naereen@crans.org?subject=[Web Sphinx]'">
+   </form>
+
 My projects on-line
 ^^^^^^^^^^^^^^^^^^^
 .. sidebar:: Résumé
@@ -97,7 +103,7 @@ MSc internship
  I found an internship for the third semester of my Maths MSc and CS MSc
  (03 June to 09 August).
 
- It will take place at **UCL** (:under:`University College of London`),
+ It takes place at **UCL** (:under:`University College of London`),
  under the direction of *Jules Villard* (and *Peter O'Hearn*),
  about separation logic, AI problems, and the links between those two domains..
 
