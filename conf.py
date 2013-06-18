@@ -47,6 +47,7 @@ extensions = [
 	'rst2pdf.pdfbuilder',
 ####### Change the order ?
 	'sphinx.ext.mathjax',
+	'sphinxcontrib.email',
 ####### From Pokedex
         'pokedex.doc.tabledoc'
 	]
