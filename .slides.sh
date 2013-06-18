@@ -5,7 +5,7 @@
 #	https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc
 #
 #	__author__='Lilian BESSON'
-#	__email__='lilian.besson@normale.fr'
+#	__email__='lilian[.]besson[@]normale[.]fr'
 #	__version__='0.1'
 #	__date__='jeu. 21/03/2013 at 11h:31m:10s '
 #

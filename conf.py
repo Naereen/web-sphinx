@@ -354,7 +354,7 @@ latex_preamble = r'''
 
 \authoraddress{
   %\strong{Lilian Besson}\\
-  Email: \email{lilian.besson@normale.fr}
+  Email: \email{lilian[.]besson[@]ens-cachan[.]fr}
 }
 
 \let\Verbatim=\OriginalVerbatim
@@ -558,5 +558,5 @@ pdf_fit_background_mode = 'scale'
 # (c) 2011-13
 # 
 # Lilian Besson
-# mailto:lbesson@ens-cachan.fr
+# mailto:lbesson[@]ens-cachan[.]fr
 #
