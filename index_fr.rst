@@ -62,7 +62,7 @@ Adresses de contact
         :alt:   Mon adresse courriel, dans une image png...
         :target: mailto:lilian DOT besson AT ens-cachan DOT fr
 
-  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_  :
+  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ :
 
      .. image:: .telephone.png
         :scale: 130 %
@@ -75,7 +75,7 @@ Adresses de contact
 .. raw:: html
 
    <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
-   onClick="parent.location='mailto:naereen@crans.org?subject=[Web Sphinx]'">
+   onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[Web Sphinx]'"></input>
    </form>
 
 Mes projets en ligne
@@ -208,7 +208,7 @@ de prévoir la même chose pour 418 autres passagers.
 La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
 du nombre de prédictions correctes.
  
-J'ai soutenu ce projet le mercredi 22 2013, j'attend donc ma note.
+J'ai soutenu ce projet le mercredi 22 Mai 2013, j'attend donc ma note.
 
 Projet d'été 2013 : Py-Pokemon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
