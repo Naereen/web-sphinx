@@ -14,14 +14,16 @@
    .. raw:: html
    
       <script type="text/javascript">
-       document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+" ?</a>"
+       document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
        +"(L'erreur continuera sûrement...)")
       </script>
 
    Si le problème persiste, et que vous pensez que la page en question *devrait* exister,
    n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_),
-   ou en via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
+   ou en *signalant un bug* via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
    <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
+   
+---------------------------------------------------------------------
 
 .. sidebar:: Retourner à l'accueil
 
