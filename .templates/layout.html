@@ -161,21 +161,25 @@ location.href="{{ next.link|e }}";
 {{ super() }}
 <div class="footer">Toutes remarques, questions, ou notifications de bugs peuvent être posées via cette page
 <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.
-<br/>Si ça concerne un des scripts présents sur mes pages, veuillez utiliser
+<br/>Si cela concerne un des scripts présents sur mes pages, veuillez utiliser
 <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.
 <br/>Des précisions sur les droits de copies, de propriétés intellectuelles,
 sur les institutions et les marques citées sont disponibles
 <a class="reference external" href="trademarks.html">sur cette page</a> (en anglais).
+<br/>
+Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
+pour collecter des statistiques, ce qui peut être désactivé en bloquant le JavaScript
+venant de www.google-analytics.com, ou via quelque chose comme
+<a href="http://www.ghostery.com">Ghostery</a>.
+<br/>
+<a href="http://www.nano-editor.org">
+<img class="center" alt="Edited with GNU Nano"
+     src="data:image/png;base64,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" /> </a>
 <a class="reference external image-reference" href="http://validator.w3.org/check?uri=referer">
 <img style="width:88px;height:31px" class="align-right"
      src="_images/.valid-xhtml10.png" alt="XHTML 1.0 valide !" /></a>
 <a class="reference external image-reference" href="http://jigsaw.w3.org/css-validator/check/referer">
 <img style="width:88px;height:31px" class="align-left" alt="CSS Valide !"
      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAABjFBMVEUAAAAHCAkLCwsPERMTFBUTFhgcHBwaHiEcICMjIyMiJyskKi4oKCgnLTEoLjMrMjYuNTozMzMxOD07Ozs1PUI4QEY8Rkw/SVBLS0xBS1JPT1BJVFtUVVVbW1tEXW9NWGFQXGVZXmJVYWtYZW9baXNlZWVra2xgb3licXx7e3sAWpwIX58fW4cJYJ8NYqERZaIVaKQaa6YebagybZkhb6klcqopdawxea85dKE1fLA4frJoeIRuf4s8gbNEhrZHiLdKirlVkb1alL9rg5dwgY10hpJ8j512kad/k6BdlsBjmsJpnsRtocZ1pcl8qsyBg4WJjpaXl5eYmJiBlKKGmqiInayQl6CNorGZoaqjpaarq620tLS/v7+Crs6GsM+FsNCJs9GbssKft8iQt9SVutWYvNebvtihusulvtCfwdqjw9upw9WqxtqsyNywy96yzeC20OPCwsLMzMzU1NTY2NjA1ufG2ujN3+zT4+7d6fLn5+fs7Ozi7PPp8fbu9Pjz8/Py9/r1+Pv+/v7MzMx+ha5eAAAAhHRSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCX0ja+AAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgARslrPgAAAu9JREFUSMftlf9TEkEUwBclv9WQ5gkHUpCWju8auKGUxNLILzNiGIppfifHxEHulkj8kiCw/ePt3npw2ClOwm+9mX339jH7Yffte29RtuGy/psJypL6ksd3ly+x580BrzcL/PU/2AycCkTp6sRogkEuJSnAJExI8fNQlmyW/x18DjIl5iDEwCngskiIiJDluOfYDJy5WyjG4JRqPxSonodwIX8Acomso0cjvdaWi3vEOArbVAchRbUM54SMMtPVS6PwcuSmGGfMt10DzsE4XQ1A43oCYzTcbE6s7KdyUQfPeewD3/DRjNM+mMRqvL/Ps3YDGKCSFT4ahQMAPyGLECUFP5zQq+usyQonsnS3e7AXPX5iXVHjqEPoGDAHvwJG5uAwPXoYgpCh8ciRCMCnS1IWjeA4aktivIetHSpW0vRv9jA+Mu0Vr7W7vwKnaBR8AQWiebbrsAwwXiJLRvAgGtTW2VGrfQXjGbr/mbQZ+O1VVnFwAXwYIiVp7AA+svmJHxTywwj2oGFtXXrChtA7egLBgux/Y9XJK65eeSEaB0wmgWcGIQsQqa28WdSl4MwhPqSHRQ6cVDNHra23cHXwDoCvTLMB4FKbYxi9VtI29MAjeHGL4LWhWeyw9TtQv85TQvvcqHJ18CnAB1aC8J6jFAhccKtY5GBlWGgX1vCE0NU3kcZxx8PuF0kdHARf4hq30oQC8F0rwQTZn9dCMbXFyUNb1QLJGErCYDOetF3hPqvpbhHIayV4Rq1oIeWHVPnpL8a1/KxX0gucF53SPtJ0bdvEQaZzbwgpySABK71sm9vdiZbqtk0lBFWR5q714/K29qE9jZwtyHKEtgly7G7r2WDe89v7TiUXKDfR2EYfrnAb/YJEOHe38U8Tu0HfbjPevEWJ7bcZj+nO7n1eaVU15hk28RvAm3VlY5VKjKllplaXuB1brvpj3L+8Ojukg0W3KLpcrprhFvnQ5qIoOkUmdjaYonMn9zq5V7dFhurRwH8AqGY+zFuBk5IAAAAASUVORK5CYII=" /></a>
-<br/>
-Cette page utilise <a href="http://analytics.google.com/">
-Google Analytics</a> pour collecter des statistiques, ce qui peut être
-désactivé en bloquant le JavaScript venant de www.google-analytics.com,
-ou via quelque chose comme <a href="http://www.ghostery.com">Ghostery</a>.
 </div>
 {% endblock %}

@@ -1,15 +1,10 @@
 {%- if show_source and has_source and sourcename %}
 <h3>{{ _('Cette page en .txt et en .pdf') }}</h3>
 <ul class="this-page-menu">
-  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
-         rel="nofollow">Voir la version PDF</a></li>
-  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}"
-         rel="nofollow">Voir le fichier source</a></li>
-  <li><br/><a href="{{ pathto('download')|e }}" rel="nofollow">Page de téléchargement</a></li>
-<!-- Still not ok.
-  <li><a href="#" title="Ajoutez cette page à vos marques-pages !" 
-             onclick="bookmarkthis('Lilian Besson on the web', 'http://perso.crans.org/besson');return false;">
-  <img src="_static/favorites.gif" alt="Ajoutez aux favoris" border="0" height="16" width="16"></a></li>
--->
+ <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
+        rel="nofollow">Voir la version PDF</a></li>
+ <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}"
+        rel="nofollow">Voir le fichier source</a></li>
+ <li><br/><a href="{{ pathto('download')|e }}" rel="nofollow">Page de téléchargement</a></li>
 </ul>
 {%- endif %}

@@ -94,14 +94,14 @@ master_doc = 'index_fr'
 
 	# General information about the project.
 project = u'Lilian Besson on the web'
-copyright = u'2013, Lilian Besson'
+copyright = u'2011-2013, Lilian Besson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '1.7'
+version = '1.7.2'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
