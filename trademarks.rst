@@ -217,4 +217,52 @@ So, I used the following software :
  * FreeDNS for shortlink (http://besson.qc.to and others),
  * and many others...
 
+------------------------------------------------------------------------------
+
+Some links
+----------
+
+.. image:: .firefox_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site is optimized for Firefox.
+   :target: http://www.mozilla.org/en-US/firefox/all/
+
+.. image:: .google_analytics_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site use Google Analytics.
+   :target: http://www.google.com/analytics/
+
+.. image:: .made_with_nano_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: Those pages are written with GNU Nano
+   :target: http://www.nano-editor.org/
+
+.. image:: .opensource_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site is an Open Source project, released with the GPLv3 License.
+   :target: http://www.gnu.org/licenses/gpl.html
+
+.. image:: .python_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site used Python..
+   :target: http://www.python.org/download/
+
+.. image:: .sphinx_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site is made with Sphinx.
+   :target: http://sphinx-doc.org/install.html
+
+.. image:: .ubuntu_80_15.png
+   :scale: 100 %
+   :align: center
+   :alt: This site is made on Ubuntu 11.10.
+   :target: http://www.ubuntu.com/about/about-ubuntu
+
+
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
