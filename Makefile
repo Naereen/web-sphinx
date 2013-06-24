@@ -30,6 +30,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # Custom items
 CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp
+GPG = gpg --detach-sign --armor --quiet 
 
 total: html send_public send_zamok send_dpt warnings severes errors
 
@@ -58,18 +59,23 @@ cleanALL: clean_build clean_pyc
 archive: clean_pyc
 	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
+	$(GPG) ~/web-sphinx.tar.xz
 
 sendAll: notify_archive send
 
 send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
 
-send_latexpdf:
-	$(CP) .build/latex/CV*.pdf besson@zamok.crans.org:~/www/
-	$(CP) .build/latex/CV*.pdf ~/Public/
-	$(CP) .build/latex/CV*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+send_latexpdf: gpglatex
+	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc besson@zamok.crans.org:~/www/
+	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc ~/Public/
+	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	$(CP) .build/latex/*.pdf besson@zamok.crans.org:~/www/pdf/
 	$(CP) .build/latex/*.pdf ~/Public/pdf/
 	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+
+gpglatex:
+	$(GPG) .build/latex/CV_Lilian_BESSON.en.pdf
+	$(GPG) .build/latex/CV_Lilian_BESSON.fr.pdf
 
 send_pdf:
 	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
@@ -81,15 +87,18 @@ send_public:
 
 send_dpt:
 	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) ~/web-sphinx.tar.xz lbesson@ssh.dptinfo.ens-cachan.fr:~/
+	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/
 
 send_zamok:
 	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
-	$(CP) ~/web-sphinx.tar.xz besson@zamok.crans.org:~/
+	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/
 
-rss:
-	$(CP) rss.xml $(BUILDDIR)/html/
+rss:	gpgrss
+	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/
 	@echo "RSS flow -> in $(BUILDDIR)/html/."
+
+gpgrss:
+	$(GPG) rss.xml
 
 pytorst:
 	/usr/local/bin/pytorst.sh *.py
@@ -120,7 +129,7 @@ coverage:
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
 pdf_all: ./.pdf_all.sh
-	./.pdf_all.sh trademarks.rst transifex.*.rst CV_Lilian_BESSON.*.rst index.rst index_en.rst
+	./.pdf_all.sh [A-Za-z]*.rst
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
 cv.fr:	CV_Lilian_BESSON.fr.pdf
@@ -129,7 +138,6 @@ cv.fr:	CV_Lilian_BESSON.fr.pdf
 
 cv.en:	CV_Lilian_BESSON.en.pdf
 	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.en.pdf -c CV_Lilian_BESSON.en.rst
-#	rst2latex --title="CV Lilian BESSON (en)" -t --no-source-link --language=en --use-verbatim-when-possible -q --tab-width=4  CV_Lilian_BESSON.en.rst CV_Lilian_BESSON.en.latex
 	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
 
 slides:	.slides.sh
