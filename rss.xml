@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Update CV :)</title>
+       <link>http://perso.crans.org/besson/cv.html</link>
+       <description>Pour suivre les modifications du CV en PDF.</description>
+       <guid>http://bitbucket.org/lbesson/cv/</guid>
+       <pubDate>Mon, 24 Jun 2013 10:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Nouveau style de couleurs (mauve et violet)</title>
        <link>http://sphinx-doc.org/theming.html#builtin-themes</link>
        <description>À partir du thème basic, changement de couleurs !</description>

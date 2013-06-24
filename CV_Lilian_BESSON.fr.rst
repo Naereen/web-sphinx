@@ -29,7 +29,7 @@ Adresse de contact
 
 Candidature
 -----------
- * :Du 1 Février 2014 au 31 Août 2014: stage de recherche de fin de Master 2. En *Informatique* ou en *Mathématiques*;
+ * :Du 1 Février 2015 au 31 Août 2015: stage de recherche de fin de Master 2. En *Informatique* ou en *Mathématiques*;
  * :Lieux préférés: USA, RU, Canada, Suède, Norvège, Finlande, Danemark;
  * :Domaine de recherche: programmation, équations différentielles, algèbres tropicales, calcul parallèle, GPU, cryptographie, sémantique et compilation.
  * :Remarque: aucune subvention n'est requise.
@@ -40,13 +40,9 @@ Autres informations à propos de moi
  * :Statut actuel: Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en seconde année. Étudiant en **mathématiques** et **informatique**.
  * :Pages sur le web:
 
-   #. mes pages web personnelles :
-
-      - soit sur le site du *Cr@ns* : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
-      - ou sur le site du département d'informatique de l'*ÉNS de Cachan* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
+   #. mes pages web personnelles sur le site du département d'informatique de l'*ÉNS de Cachan* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
 
    #. mon compte *bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge mes projets de programmation;
-   #. mon site perso `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_.
 
 ---------------------------------------------------------------------
 
@@ -58,8 +54,8 @@ Langues parlées
 
 Langages de programmation
 -------------------------
- * :Niveau basique: **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
- * :Niveau intermédiaire: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
+ * :Niveau basique: **Maple**, **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
+ * :Niveau intermédiaire: **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
  * :Niveau avancé: **Python** (2.7) (*script, numérique et orienté objet*), *Texas Instrument*-BASICs (*langages embarqués pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
 
 Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
@@ -103,7 +99,7 @@ Actuellement (**2012-2013**) : première année de Master (M1)
  * M1 de **Mathématiques** (*Depuis Sept. 2012*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
-   - :Domaines: Analyse complexe, probabilité et martingales, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
+   - :Domaines: Analyse complexe, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
  
  * M1 d'**Informatique** (*Depuis Sept. 2012*)
 
@@ -112,12 +108,12 @@ Actuellement (**2012-2013**) : première année de Master (M1)
 
 Stage et rapport de stage de M1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. warning::
+ .. warning::
 
-   Je suis actuellement en train de faire mon stage de fin de M1,
-   avec `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_, et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
-   dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
-   Je travaille sur les liens entre l'Intelligence Artificielle et les logiques de séparation.
+    Je suis actuellement en train de faire mon stage de fin de M1,
+    avec `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_, et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
+    dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
+    Je travaille sur les liens entre l'Intelligence Artificielle et les logiques de séparation.
 
 **2011-2012** : troisième et dernière année de Licence
 ------------------------------------------------------

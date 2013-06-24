@@ -30,7 +30,7 @@ Contact address
 
 Application
 -----------
- * :From 1 Frebruary 2014 to 31 August 2014: Second year MSc research internship. In *Computer Science* or *Mathematics*;
+ * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
  * :Prefered locations: USA, UK, Canada, Sweden, Norway, Finland, Danmark;
  * :Prefered research domains: programming, differential equations, tropical algebras, time processes, parallel computation, GPU, cryptography, semantics, compilation.
  * :Remark: no subvention is required.
@@ -41,13 +41,9 @@ Extra informations about me
  * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in second year. Studying **mathematics** and **Computer Science**.
  * :Webpages:
 
-    #. my personal web pages :
-
-       - either on the *Cr@ns website* : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
-       - or on the *ÉNS de Cachan CS department* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
+    #. my personal web pages on the *ÉNS de Cachan CS department* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
 
     #. my *bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_, which hosts my programming project;
-    #. my *Google Site* website `sites.google.com/site/naereencorp <https://sites.google.com/site/naereencorp>`_.
 
 ---------------------------------------------------------------------
 
@@ -59,8 +55,8 @@ Spoken Languages
 
 Programming Languages
 ----------------------
- * :Basic: **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
- * :Intermediate: **Maple**, **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
+ * :Basic: **Maple**, **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
+ * :Intermediate: **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
  * :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
 
 Computer skills
@@ -89,8 +85,8 @@ Miscellaneous
      Many national tournaments, a few internations competition (Sweden, Spain, Italy).
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
- * :Entertainment: painting, role playing games, theater, video games, cinema, programmation, fantasy litterature and poetry;
- * :Sports: climbing, trek, mountain bike, swimming.
+ * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy litterature and poetry;
+ * :Sports: climbing, trek, mountain bike, patinette, swimming.
 
 ------------------------------------------------------------------------------
 
@@ -103,7 +99,7 @@ Currently (**2012-2013**): First-year MSc (*Master*)
  * **Mathematics** MSc (*Since Sept. 2012*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
-   - :Domains: Complex analysis, probability and martingales, functional analysis and numerical optimization, *Partial Differential Equations* approximation, exterior calculus.
+   - :Domains: Complex analysis, functional analysis and numerical optimization, exterior calculus, *Partial Differential Equations* approximation.
  
  * **Computer Science** MSc (*Since Sept. 2012*)
 
@@ -112,12 +108,12 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
 MSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-.. warning::
+ .. warning::
 
-   I'm currently doing my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
-   and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
-   at `UCL <http://cs.ucl.ac.uk>`_ in London.
-   I'm working on Artificial Intelligence, and separation logic.
+    I'm currently doing my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
+    and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
+    at `UCL <http://cs.ucl.ac.uk>`_ in London.
+    I'm working on Artificial Intelligence, and separation logic.
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)
 --------------------------------------------------------------
@@ -226,13 +222,16 @@ MSc programming projects (2012-2013)
    On-line `here on BitBucket lbesson/mpri-bomberman 
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
+   
  * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal. 
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (about 2000 download by now).
    Or also `here on BitBucket lbesson/ansi-colors 
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
+   
  * French translation of the website `bitbucket.org <https://bitbucket.org>`_ (March 2013),
    with `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
+   
  * Kaggle Titanic ML project, `here lbesson/projet-kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_
    or `publis/kaggle <publis/kaggle/.build/html>`_.
 
