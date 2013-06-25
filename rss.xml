@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Update Makefiles : add an automatic .asc GPG signature for 'important' files.</title>
+       <link>http://bitbucket.org/lbesson/web-sphinx/</link>
+       <description>Pour + de sécurité!</description>
+       <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
+       <pubDate>Mon, 24 Jun 2013 16:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Update CV :)</title>
        <link>http://perso.crans.org/besson/cv.html</link>
        <description>Pour suivre les modifications du CV en PDF.</description>
