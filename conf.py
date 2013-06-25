@@ -255,6 +255,7 @@ html_sidebars = {
    'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    'CV*': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.html'],
    'pokedex-doc/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
+   'stageM1/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
@@ -325,7 +326,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-# latex_logo = ".besson.png"
+#latex_logo = ".besson_transparent.png"
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -339,37 +340,36 @@ latex_show_urls = True
 
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
-%\usepackage{amsmath}
-%\usepackage{amsthm}
-%\usepackage{amsfonts}
-%\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+
+\usepackage[babel=true]{csquotes}
+\usepackage{color}
+
 %\usepackage[pdftex]{graphicx}
 % \DeclareGraphicsExtensions{.pdf,.eps,.png,.jpg}
 
 \usepackage[babel=true]{csquotes}
 \usepackage{lastpage}
-%\usepackage[landscape]{geometry}
-%  \geometry{left=49.5pt, right=49.5pt}
-%\usepackage[top=2in, bottom=1.5in, left=1in, right=1in]{geometry}
+\usepackage[top=0.9in, bottom=0.8in, left=0.6in, right=0.6in, landscape]{geometry}
 
 \usepackage{fancyhdr}
   \pagestyle{fancy}
 
-   \lhead[Curriculum Vitae]{\today}
-   \rhead[\today]{Curriculum Vitae}
+   \lhead{\today}
+   \rhead{Curriculum Vitae}
+%   \lhead[Curriculum Vitae]{\today}
+%   \rhead[\today]{Curriculum Vitae}
    \chead{Lilian Besson}
 %   \lfoot[\thepage]{}
 %   \rfoot[]{\thepage}
    \cfoot{\thepage\ $/$ \pageref{LastPage}}
    
-   \renewcommand{\headrulewidth}{0.4pt}
-   \renewcommand{\footrulewidth}{0.4pt}
-
 \pagenumbering{arabic}
 
 \authoraddress{
   %\strong{Lilian Besson}\\
-  Email: \email{lilian[.]besson[@]ens-cachan[.]fr}
+  email: \email{lilian[.]besson[@]ens-cachan[.]fr}
 }
 
 \let\Verbatim=\OriginalVerbatim
@@ -379,7 +379,7 @@ latex_preamble = r'''
    backref
 %  ,pdfpagemode=FullScreen
 %  ,pdfstartview={Fit}
-%  ,pdftitle={Lilian BESSON}
+   ,pdftitle={CV - Lilian BESSON}
    ,colorlinks=true
 }
 '''
@@ -388,7 +388,7 @@ latex_preamble = r'''
 #latex_appendices = []
 
 # If false, no module index is generated.
-#latex_domain_indices = True
+latex_domain_indices = False
 
 
 # -- Options for manual page output --------------------------------------------

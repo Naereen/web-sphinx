@@ -73,26 +73,15 @@ Exemple
 
 
  Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
- télécharger les bons fichiers, cela devrait vous donner un message comme :
+ télécharger les bons fichiers, cela devrait vous donner un message comme ::
+
+     $ gpg --verify ~/.bashrc.asc ~/.bashrc
+     gpg: Signature made Sun Mar 31 14:46:31 2013 BST using RSA key ID C108F8A0
+     gpg: BAD signature from "Lilian Besson (for Naereen CORP.) <lbesson[@]ens-cachan[.]fr>"
  
- .. runblock:: console
-
-    $ export LANG=en && gpg --verify ~/.bashrc.asc ~/.bashrc
-
-
-.. note:: À propos de runcode
-    
-   Cet exemple règle la langue du terminal en anglais (:code:`export LANG=en`),
-   car l'extension *non-officielle* ``runcode`` (qui permet d'intégrer le 
-   résultat d'une commande ``shell`` dans la page produite par **Sphinx**)
-   ne permet pas de gérer des caractères non *ASCII 128*.
-
 Ma clé publique
 ---------------
 L'**empreinte publique** de ma clé est **C108F8A0**.
-
-.. Voici un lien pour enregistrer ma clé publique 
-.. `PGP_Lilian_BESSON.asc <PGP_Lilian_BESSON.asc>`_.
 
 Une méthode pour récupérer ma clé est de la **rechercher** directement 
 sur un des deux serveurs suivants :
