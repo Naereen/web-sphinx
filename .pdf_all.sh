@@ -6,8 +6,8 @@
 #
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='1.0'
-#	__date__='jeu. 28/03/2013 at 04h03m'
+#	__version__='1.1'
+#	__date__='mar. 25/06/2013 at 22h14m'
 #
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf and rst2latex -> pdflatex
@@ -108,7 +108,7 @@ if [ "0yes" = "0$test" ]; then
 fi
 	echo -e "$u${red}**********************************************${reset}${white}"
 # rST -----> LaTeX
-#	rst2latex --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
+#	rst2latex.py --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
 #	listTEX="$listTEX ${file%.rst}.tex" && \
 #	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
 # LaTeX ---> PDF

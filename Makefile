@@ -130,13 +130,14 @@ coverage:
 
 pdf_all: ./.pdf_all.sh
 	./.pdf_all.sh [A-Za-z]*.rst
+	-pkill gnuplot
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
-cv.fr:	CV_Lilian_BESSON.fr.pdf
+cv.fr:	CV_Lilian_BESSON.fr.rst
 	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.fr.pdf -c CV_Lilian_BESSON.fr.rst
 	$(CP) CV_Lilian_BESSON.fr.pdf .build/html/
 
-cv.en:	CV_Lilian_BESSON.en.pdf
+cv.en:	CV_Lilian_BESSON.en.rst
 	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.en.pdf -c CV_Lilian_BESSON.en.rst
 	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
 
