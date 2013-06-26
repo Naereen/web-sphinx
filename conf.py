@@ -253,10 +253,11 @@ html_use_smartypants = True
 html_sidebars = {
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
    'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
-   'CV*.en': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html'],
-   'CV*.fr': ['localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html'],
-   'pokedex-doc/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
-   'stageM1/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
+   'CV*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html'],
+   'CV*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html'],
+   '*/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
+#   'pokedex-doc/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
+#   'stageM1/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
