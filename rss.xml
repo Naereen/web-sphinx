@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Update .templates/layout.html to embed scripts and pictures in page in subdir (Bug fix).</title>
+       <link>http://bitbucket.org/lbesson/web-sphinx/</link>
+       <description>Pour + de sécurité!</description>
+       <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
+       <pubDate>Wed, 26 Jun 2013 12:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Update Makefiles : add an automatic .asc GPG signature for 'important' files.</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Pour + de sécurité!</description>
