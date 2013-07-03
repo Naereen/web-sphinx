@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Un nouveau truc : embarquer un site statique via bitbucket.org... a creuser ?</title>
+       <link>http://lbesson.bitbucket.org</link>
+       <description>Pour + de sécurité!</description>
+       <guid>http://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
+       <pubDate>Wed, 03 Jul 2013 17:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Update .templates/layout.html to embed scripts and pictures in page in subdir (Bug fix).</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Pour + de sécurité!</description>
