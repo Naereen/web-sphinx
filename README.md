@@ -46,22 +46,23 @@ Requirements ?
 
 This project use the following software :
 
- * Python 2.7.3;
+ * Python 2.7+;
  * LaTeX (pdflatex & hevea);
  * GNU Make;
  * git;
- * rsynx or scp;
+ * rsynx (or scp);
  * ack-grep or grep;
- * Sphinx;
+ * Sphinx (v1+);
  * GNU Plot & GNU Octave;
  * GNU PG (OpenPGP);
- * GraphViz;
+ * GraphViz & Dot graph;
  * rst2pdf, rst2html, rst2s5;
  * and the following Sphinx contrib extensions :
 
     * cheeseshop;
     * gnuplot;
     * autorun;
+    * graphviz;
 
  * (optional) ocaml, octave, to embed examples.
 
