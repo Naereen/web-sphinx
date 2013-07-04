@@ -1,5 +1,4 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, GPG, Nano, Wolfram|Alpha, CV, LSV, UCL, CS, Math, PGP, gedit, GNU
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson's personal web page
 

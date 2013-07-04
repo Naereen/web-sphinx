@@ -1,5 +1,4 @@
 .. meta::
-   :keywords: Lilian Besson, Transifex, Bitbucket, Traduction, Translation
    :description lang=fr: À propos de la traduction de bitbucket.org
    :description lang=en: About the French translation of the web site bitbucket.org
 

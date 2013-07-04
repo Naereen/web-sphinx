@@ -1,5 +1,4 @@
 .. meta::
-   :keywords: Lilian Besson, Python, Ocaml, Sphinx, ÉNS de Cachan, Cr@ns, Bash, PGP, GPG, public key, RSA key
    :description lang=en: PGP public key
    :description lang=fr: Clé publique PGP
 

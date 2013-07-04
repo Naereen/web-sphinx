@@ -1,5 +1,4 @@
 .. meta::
-   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, résumé
    :description lang=en: Lilian Besson personal résumé
    :description lang=fr: CV de Lilian Besson
 

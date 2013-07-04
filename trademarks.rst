@@ -1,5 +1,4 @@
 .. meta::
-   :keywords: Lilian Besson, ÉNS de Cachan, Cr@ns, trademarks, ®, ©, (c), (r), marques, commerciales
    :description lang=en: Precision on quoted trademarks on this web site
    :description lang=fr: Quelques précisions sur les marques commerciales citées sur ce cite
 
