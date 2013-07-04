@@ -30,7 +30,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # Custom items
 CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp
-GPG = gpg --detach-sign --armor --quiet 
+GPG = gpg --detach-sign --armor --quiet --yes
 
 total: html send_public send_zamok send_dpt warnings severes errors
 
