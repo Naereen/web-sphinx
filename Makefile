@@ -73,9 +73,19 @@ send_latexpdf: gpglatex
 	$(CP) .build/latex/*.pdf ~/Public/pdf/
 	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
-gpglatex:
+meta=/tmp/CV_Lilian_BESSON.meta
+
+gpglatex: latexpdf
+	pdftk .build/latex/CV_Lilian_BESSON.en.pdf dump_data output $(meta)
+	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=.build/latex/CV_Lilian_BESSON.en.pdf~ .build/latex/CV_Lilian_BESSON.en.pdf
+	pdftk .build/latex/CV_Lilian_BESSON.en.pdf~ update_info $(meta) output .build/latex/CV_Lilian_BESSON.en.pdf
 	$(GPG) .build/latex/CV_Lilian_BESSON.en.pdf
+
+	pdftk .build/latex/CV_Lilian_BESSON.fr.pdf dump_data output $(meta)
+	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=.build/latex/CV_Lilian_BESSON.fr.pdf~ .build/latex/CV_Lilian_BESSON.fr.pdf
+	pdftk .build/latex/CV_Lilian_BESSON.fr.pdf~ update_info $(meta) output .build/latex/CV_Lilian_BESSON.fr.pdf
 	$(GPG) .build/latex/CV_Lilian_BESSON.fr.pdf
+	rm -f $((meta)
 
 send_pdf:
 	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
@@ -247,10 +257,6 @@ latex:
 latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
-	## here we have to modify the $(BUILDDIR)/latex/Makefile file
-#	cat $(BUILDDIR)/latex/Makefile | sed s/'pdflatex'/'pdflatex -file-line-error'/ > $(BUILDDIR)/latex/Makefile~
-#	cat $(BUILDDIR)/latex/Makefile~ > $(BUILDDIR)/latex/Makefile
-#	@echo "Makefile for PDF output well modified..."
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf clean
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
