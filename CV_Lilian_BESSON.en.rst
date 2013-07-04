@@ -137,7 +137,7 @@ MSc internship and thesis
 BSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
  * :Title: *"Finite volumes method on nVidia graphic cards, applied to solve the compressible Euler problem"*;
- * :Supervisor: Pr. Florian de Vuyst;
+ * :Supervisor: `Pr. Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_;
  * :Description: 
     Math internship at `CMLA <http://www.cmla.ens-cachan.fr/>`_ (*Centre des mathématiques et de leurs applications*, 
     ÉNS de Cachan math lab research), 

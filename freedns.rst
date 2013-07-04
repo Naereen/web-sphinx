@@ -1,6 +1,6 @@
-####################################################
- FreeDNS : un service web pour le moins intéressant
-####################################################
+######################################################
+ FreeDNS : un service web pour le moins “intéressant”
+######################################################
 .. include:: .special.rst
 
 .. warning:: Style familier !
@@ -36,12 +36,16 @@ Liste des sous-domaines que j'utilise
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_ vers http://www.dptinfo.ens-cachan.fr/~lbesson;
 
- * `naereencorp.qc.to <http://naereencorp.qc.to>`_ vers https://sites.google.com/site/naereencorp;
+ * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_ vers https://bitbucket.org/lbesson/;
+
+ * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_ vers http://perso.crans.org/besson/cv.pdf;
+
+.. * `naereencorp.qc.to <http://naereencorp.qc.to>`_ vers https://sites.google.com/site/naereencorp;
 
  * `naereen.qc.to <http://naereen.qc.to>`_ vers http://perso.crans.org/besson;
 
- * `lbesson.ftp.sh <http://lbesson.qc.to>`_ vers mon CV (ce qui est drôle avec celui là
-   c'est la forme du lien : .ftp.sh, on dirait un script Shell...).
+.. * `lbesson.ftp.sh <http://lbesson.qc.to>`_ vers mon CV (ce qui est drôle avec celui là
+..   c'est la forme du lien : .ftp.sh, on dirait un script Shell...).
 
 .. note::
 

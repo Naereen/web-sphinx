@@ -135,7 +135,7 @@ Stage et rapport de stage de M1
 Stage et rapport de stage de L3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * :Titre: *"Méthodes de volumes finis sur carte graphiques nVidia pour résoudre le problème d'Euler compressible"*;
- * :Encadrant: Pr. Florian de Vuyst;
+ * :Encadrant: `Pr. Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_;
  * :Description: 
     Stage de L3 de mathématiques, au `CMLA <http://www.cmla.ens-cachan.fr/>`_ 
     (*Centre des mathématiques et de leurs applications*, 
