@@ -13,7 +13,7 @@
 # from rST files, with rst2pdf and rst2latex -> pdflatex
 
 VOIR=""
-test="no"
+test="yes"
 
 for i in "$@"; do
  case "$i" in
