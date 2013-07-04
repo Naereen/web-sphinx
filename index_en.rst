@@ -38,18 +38,19 @@ Contact addresses
   #. by mail (`→ OpenStreetMap direct link 1 <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
-        Appartement B216,,
-        70, rue Camille Desmoulins,
+        ENS Cachan,
+        Dept. de Mathématiques,
+        41, avenue du Président Wilson,
         94230 - Cachan,
         France
  
   #. by mail (`→ OpenStreetMap direct link 2 <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
 
         Mr Lilian Besson,
-        University College London
-        Dept. of Computer Science
-        66-72 Gower Street
-        London WC1E 6BT
+        University College London,
+        Dept. of Computer Science,
+        Gower Street,
+        London WC1E 6BT,
         UK
  
   #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;

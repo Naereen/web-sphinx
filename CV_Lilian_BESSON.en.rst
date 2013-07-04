@@ -23,9 +23,10 @@ Contact address
  * Postal address ::
     
        Mr Lilian Besson,
-       Appartement B216,
-       70, rue Camille Desmoulins,
-       94230 - Cachan
+       ENS Cachan,
+       Dept. de Mathématiques,
+       41, avenue du Président Wilson,
+       94230 - Cachan,
        France
 
 Application
