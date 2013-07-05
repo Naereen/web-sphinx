@@ -49,7 +49,11 @@ extensions = [
 	'sphinx.ext.mathjax',
 #	'sphinxcontrib.email',
 ####### From Pokedex
-        'pokedex.doc.tabledoc'
+        'pokedex.doc.tabledoc',
+####### New from pypi
+	'sphinx_pyreverse', # .. uml:: path_to_module
+	'sphinx_git', # .. git_changelog::
+	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'http://bitbucket.org/birkenfeld/sphinx-contrib',
 	]
 
 ##############################################################################
@@ -78,6 +82,9 @@ autorun_languages['octave_prefix_chars'] = 3
 
 autorun_languages['pypy'] = u'pypy -S -'
 autorun_languages['pypy_prefix_chars'] = 0
+
+# sphinxcontrib.bitbucket
+bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.

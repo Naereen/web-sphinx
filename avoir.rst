@@ -42,4 +42,32 @@ Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
    code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
    par exemple).
 
+------------------------------------------------------------------------------
+
+D'autres ajouts
+---------------
+
+``sphinx_git``
+^^^^^^^^^^^^^^
+
+.. git_changelog::
+
+
+``sphinx_pyreverse``
+^^^^^^^^^^^^^^^^^^^^
+
+.. uml:: conf
+
+
+``sphinxcontrib.bitbucket``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ See :bbissue:`3`.
+
+ And see :bbchangeset:`some-long-hash-value`.
+
+D'autres
+^^^^^^^^
+
+.. todo:: A venir.
+
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
