@@ -240,7 +240,7 @@ Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
  Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
  l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
- cette page ci `<pgp.html>`_ peut être utile.
+ cette page `<pgp.html>`_ peut être utile.
 
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -273,7 +273,7 @@ Albums photos
  notamment quelques albums photos.
 
  Des photos de moi ? Que non point ! 
- :gray:`Quelle connerie de publier des photos de soi en ligne !`
+ :red:`Quelle connerie de publier des photos de soi en ligne !`
  
  Non, des photos montrant :
 
@@ -346,6 +346,20 @@ Flux RSS
  Depuis Avril 2013, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
  Pour plus d'informations, ou pour lire directement les dernières entrées
  du *flux*, la page `<rss.html>`_ est là pour ça.
+
+Autres liens
+^^^^^^^^^^^^
+ En vrac,
+
+ #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/publis/NanoSyntax/mutt.nanorc>`_.
+
+ #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
+
+ #. `<http://naereen.qc.to>`_;
+
+ #. `<http://lbesson.bitbucket.org>`_ :red:`New!`;
+
+.. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
 
 --------------------------------------------------------------------
 
