@@ -56,7 +56,7 @@ D'autres ajouts
 ``sphinx_pyreverse``
 ^^^^^^^^^^^^^^^^^^^^
 
-.. uml:: conf
+.. uml:: scripts/python/lib/python2.7/json
 
 
 ``sphinxcontrib.bitbucket``
