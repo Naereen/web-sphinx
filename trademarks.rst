@@ -214,6 +214,7 @@ So, I used the following software :
  * `Generate It <http://www.generateit.net>`_, for some services,
  * Gravatar and Worldpress,
  * FreeDNS for shortlink (http://besson.qc.to and others),
+ * Pixlr online picture editor (`<http://pixlr.com/editor/>`_),
  * and many others...
 
 ------------------------------------------------------------------------------
