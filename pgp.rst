@@ -123,8 +123,8 @@ J'utilise **Mut 1.5.21** pour rédiger et lire mes mails.
 Voir la page officielle pour plus de détails : `<http://mutt.org>`_.
 
 Mes fichiers de conf'
-^^^^^^^^^^^^^^^^^^^^^
-Vous pouvez trouver notamment ici `<publis/mutt/>`_ mes fichiers de configurations
+~~~~~~~~~~~~~~~~~~~~~
+Vous pouvez trouver notamment ici `<publis/muttrc/>`_ mes fichiers de configurations
 pour mutt (enfin, les fichiers ne contenant aucune info privée).
 
 Il faut placer `.muttrc` dans votre `$HOME`, et le contenu du dossier `mutt/`
@@ -141,7 +141,7 @@ Le jeu de couleur fourni vient du projet `solarized
 
 
 Astuces
-^^^^^^^
+~~~~~~~
 
  * Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
  
