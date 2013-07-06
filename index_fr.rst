@@ -351,7 +351,7 @@ Autres liens
 ^^^^^^^^^^^^
  En vrac,
 
- #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/publis/NanoSyntax/mutt.nanorc>`_.
+ #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
 
  #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 

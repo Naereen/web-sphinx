@@ -108,7 +108,7 @@ copyright = u'2011-2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.8'
+version = '1.8.1'
 # The full version, including alpha/beta/rc tags.
 release = u"public"
 
@@ -258,7 +258,7 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html'],
+   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html'],
    'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
    'CV*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html'],
    'CV*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html'],

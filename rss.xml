@@ -23,9 +23,17 @@
       </image>
 
       <item>
+       <title>Les résultats du bac'13 sont tombés !</title>
+       <link>http://cv.lbesson.qc.to</link>
+       <description>4 ans que j'ai mon bac, souvenirs souvenirs... Bref, bien joué Guillaume!</description>
+       <guid>http://bitbucket.org/lbesson/cv</guid>
+       <pubDate>Fri, 05 Jul 2013 17:49:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Un nouveau truc : embarquer un site statique via bitbucket.org... a creuser ?</title>
        <link>http://lbesson.bitbucket.org</link>
-       <description>Pour + de sécurité!</description>
+       <description>Marche bien, mais le serveur est pas Apache, donc pas drôle!</description>
        <guid>http://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
        <pubDate>Wed, 03 Jul 2013 17:49:43 GMT</pubDate>
       </item>
@@ -33,7 +41,7 @@
       <item>
        <title>Update .templates/layout.html to embed scripts and pictures in page in subdir (Bug fix).</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
-       <description>Pour + de sécurité!</description>
+       <description>Done</description>
        <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
        <pubDate>Wed, 26 Jun 2013 12:49:43 GMT</pubDate>
       </item>
