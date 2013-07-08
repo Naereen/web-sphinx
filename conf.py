@@ -303,6 +303,8 @@ html_use_opensearch = 'http://perso.crans.org/besson/'
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'LilianBesson'
 
+# Suffix for section numbers. Default: ". ". Set to " " to suppress the final dot on section numbers.
+html_secnumber_suffix = " "
 
 # -- Options for LaTeX output --------------------------------------------------
 
