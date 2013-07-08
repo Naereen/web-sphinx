@@ -187,7 +187,8 @@ html_theme_options = {
 #    sidebartextcolor (CSS color): Text color for the sidebar.
     "sidebartextcolor"	: "white",
 #    sidebarlinkcolor (CSS color): Link color for the sidebar.
-    "sidebarlinkcolor"	: "#C58ACE",
+    "sidebarlinkcolor"	: "#F4DFF7",
+#    "sidebarlinkcolor"	: "#C58ACE",
 #    relbarbgcolor (CSS color): Background color for the relation bar.
     "relbarbgcolor"	: "#4D1351",
 #    relbartextcolor (CSS color): Text color for the relation bar.

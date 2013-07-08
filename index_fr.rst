@@ -367,7 +367,6 @@ Liste des autres pages
 ----------------------
 
 .. toctree::
-   :numbered:
    :titlesonly:
    
    CV_Lilian_BESSON.fr

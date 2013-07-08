@@ -18,6 +18,9 @@
     * `caml.nanorc <NanoSyntax/caml.nanorc>`_ pour **OCaml** (amélioré);
     * `python.nanorc <NanoSyntax/python.nanorc>`_ pour **Python** (amélioré);
     * `cu.nanorc <NanoSyntax/cu.nanorc>`_ pour **CUDA** (grandement amélioré);
+    
+   Une archive est disponible `<nanorc.tar.bz2>`_. Elle contient tous les fichiers
+   ``.nanorc`` et ``$HOME/.nanorc/*.nanorc``.
 
 
 Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
