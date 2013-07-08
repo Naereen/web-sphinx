@@ -112,7 +112,7 @@ MSc internship
 Pages in English
 ----------------
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :titlesonly:
    
    CV_Lilian_BESSON.en

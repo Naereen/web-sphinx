@@ -367,6 +367,7 @@ Liste des autres pages
 ----------------------
 
 .. toctree::
+   :maxdepth: 2
    :titlesonly:
    
    CV_Lilian_BESSON.fr

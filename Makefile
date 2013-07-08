@@ -66,6 +66,7 @@ sendAll: notify_archive send
 send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
 
 send_latexpdf: gpglatex
+	-pkill gnuplot
 	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc besson@zamok.crans.org:~/www/
 	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc ~/Public/
 	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
