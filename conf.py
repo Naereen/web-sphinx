@@ -54,6 +54,7 @@ extensions = [
 	'sphinx_pyreverse', # .. uml:: path_to_module
 	'sphinx_git', # .. git_changelog::
 	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'http://bitbucket.org/birkenfeld/sphinx-contrib',
+	'hieroglyph', # https://github.com/nyergler/hieroglyph
 	]
 
 ##############################################################################
