@@ -143,6 +143,7 @@ In particular,
  * HeVeA is © of Luc Marranget,
  * Nintendo, for some pictures of Link and Zelda (© & ®),
  * ACE (and ace.js) is © & ® of AjaxOrg,
+ * `Studio B, Visual Communication <http://www.studiob-ct.com/index.html>`_,
  * and many others...
 
 ------------------------------------------------------------------------------
