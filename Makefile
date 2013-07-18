@@ -58,6 +58,7 @@ cleanALL: clean_build clean_pyc
 
 archive: clean_pyc
 	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
+	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.tar.xz
 
