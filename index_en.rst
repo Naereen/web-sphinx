@@ -10,21 +10,21 @@
 .. warning::
    
    Those web pages **are still in construction** !
-   In particular, the english versions of each pages are *not* yet available.
+   In particular, the English versions of each pages are *not* yet available.
    But, I'm working on it !
 
 .. sidebar:: Other language : in French
 
-   This page is in *english*.
-   Maybe you would like to see it in `french <index_fr.html>`_.
+   This page is in *English*.
+   Maybe you would like to see it in `French <index_fr.html>`_.
    
    Now, the page `<index.html>`_ redirects to index_fr or index_en, according
    to the preference of your browser.
 
 Who am I ?
 ----------
-I am **Lilian Besson**, a **french** student at ENS de Cachan, 
-a *french* University, near Paris.
+I am **Lilian Besson**, a **French** student at ENS de Cachan, 
+a *French* University, near Paris.
 I'm studying *mathematics* and *Computer Science*, and I'm currently
 in *two* different MSc (one in each of those domains).
 

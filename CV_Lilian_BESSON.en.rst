@@ -8,8 +8,8 @@
 .. include:: .special.rst
 .. sidebar:: Other language : in French
 
-   This page is in *english*.
-   Maybe you would like to see it in `french <CV_Lilian_BESSON.fr.html>`_.
+   This page is in *English*.
+   Maybe you would like to see it in `French <CV_Lilian_BESSON.fr.html>`_.
    I'm trying to keep those two files absolutly equivalent.
    A **PDF** version is also available `CV_Lilian_BESSON.pdf <CV_Lilian_BESSON.pdf>`_
 
@@ -86,7 +86,7 @@ Miscellaneous
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
  * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy litterature and poetry;
- * :Sports: climbing, trek, mountain bike, patinette, swimming.
+ * :Sports: climbing, trek, mountain bike, kick scooter, swimming.
 
 ------------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ MSc internship and thesis
    - :Domains: Logic, semantics, cryptography, algorithmic, graph theory, lambda calculus, compilation, parallel computation, formal calculus;
    - :Mark: 14.7/20, *magna cum laude*.
  
- * **TOEIC** (*english test*) got with the mark **900/990**.
+ * **TOEIC** (*English test*) got with the mark **900/990**.
 
 
 BSc internship and thesis

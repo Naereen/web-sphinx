@@ -9,8 +9,8 @@
 
 .. sidebar:: Other language : in French
 
-   This page is in *english*.
-   Maybe you would like to see it in `french <transifex.fr.html>`_.
+   This page is in *English*.
+   Maybe you would like to see it in `French <transifex.fr.html>`_.
 
 
 On Tuesday, March 26, `bitbucket <https://bitbucket.org/>`_ announced

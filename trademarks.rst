@@ -18,7 +18,7 @@ About
  .. warning::
 
     This page is still in contruction !
-    And my english is not yet perfect, so sorry in advance for my bad english !
+    And my English is not yet perfect, so sorry in advance for my bad English !
 
 ------------------------------------------------------------------------------
 
