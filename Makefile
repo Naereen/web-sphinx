@@ -1,14 +1,8 @@
 # Makefile for Sphinx documentation
-#
-#
-#	This script is designed to be used with makePydoc
-#	The reference page for this software is :
-#	https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc
-#
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='11'
-#	__date__='jeudi 28/03/2013 at 12h:59m:27s '
+#	__version__='15'
+#	__date__='dimanche 28/07/2013 at 12h:59m:27s'
 #
 
 # You can set these variables from the command line.
@@ -265,6 +259,7 @@ latexpdf:
 	@echo "Running LaTeX files through pdflatex..."
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf clean
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
+	-pkill gnuplot
 
 text:
 	$(SPHINXBUILD) -b text $(ALLSPHINXOPTS) $(BUILDDIR)/text

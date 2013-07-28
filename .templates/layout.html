@@ -9,45 +9,46 @@
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-    <meta name="DC.Title" content="Lilian Besson on the web" />
+    <meta name="DC.Title" content="Lilian Besson sur le web" />
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Cr@ns,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-18-07" />
+    <meta name="DC.Date" content="2013-28-07" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
     <link rel="shortcut icon" type="image/png" href="{{ pathto('_static/.besson.png', true)|e }}" />
-  <!-- Colors -->
-  <style type="text/css">
-    .black {color:black}
-    .gray {color:gray}
-    .silver {color:silver}
-    .white {color:white}
-    .maroon {color:maroon}
-    .red {color:red}
-    .magenta {color:magenta}
-    .fuchsia {color:fuchsia}
-    .pink {color:pink}
-    .orange {color:orange}
-    .yellow {color:yellow}
-    .lime {color:lime}
-    .green {color:green}
-    .olive {color:olive}
-    .teal {color:teal}
-    .cyan {color:cyan}
-    .aqua {color:aqua}
-    .blue {color:blue}
-    .navy {color:navy}
-    .purple {color:purple}
+  <!-- Colors and text decoration.
+   For example, :black:`text in black` or :blink:`text blinking` in rST -->
+   <style type="text/css">
+    .black	{color:black}
+    .gray	{color:gray}
+    .silver	{color:silver}
+    .white	{color:white}
+    .maroon	{color:maroon}
+    .red	{color:red}
+    .magenta	{color:magenta}
+    .fuchsia	{color:fuchsia}
+    .pink	{color:pink}
+    .orange	{color:orange}
+    .yellow	{color:yellow}
+    .lime	{color:lime}
+    .green	{color:green}
+    .olive	{color:olive}
+    .teal	{color:teal}
+    .cyan	{color:cyan}
+    .aqua	{color:aqua}
+    .blue	{color:blue}
+    .navy	{color:navy}
+    .purple	{color:purple}
 
-    .under {text-decoration: underline} 
-    .over {text-decoration: overline} 
-    .blink {text-decoration: blink} 
-    .line {text-decoration: line-through}
-    .it {font-style: italic}
-    .ob {font-style: oblique}
-</style>
+    .under	{text-decoration: underline} 
+    .over	{text-decoration: overline} 
+    .blink	{text-decoration: blink} 
+    .line	{text-decoration: line-through}
+    .it		{font-style: italic}
+    .ob		{font-style: oblique}
+   </style>
 <script type="text/javascript">
 /*****************************************************************************
  * This file is © Lilian Besson, 2011-2013.
@@ -56,14 +57,15 @@
  * This file layout.html is part of my web pages, generated with Sphinx.
  * 
  * Those pages are hosted
- *  - here on the Cr@ns network, http://perso.crans.org/besson;
- *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson;
+ *  - here on the Cr@ns network, http://perso.crans.org/besson (or http://besson.qc.to);
+ *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson (or http://lbesson.qc.to);
+ *  - here on Bitbucket, http://lbesson.bitbucket.org;
  *
  * This document is a Jinja Template, to modify all the HTML pages produced
- * by Sphinx. It have to be in the '.templates'.
+ * by Sphinx. It have to be in the '.templates' folder.
  *
  * This template is designed to embed a simple piece of code, written in
- * Javascript, to the Google Analytics web service, without modifying
+ * Javascript, to include the "Google Analytics" web service, without modifying
  * by hand all the produced HTML pages.
  * ( Google Analytics is a trademark of Google Inc.)
  *****************************************************************************/  
@@ -105,8 +107,8 @@ window.confirm("Les raccourcis claviers suivants sont activés : \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
 {% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
-+"\n Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss !\n"
-+"    Lilian Besson (c) 2013.")
++"\n Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss ou http://perso.crans.org/besson/rss.xml !\n"
++"    Lilian Besson © 2013.")
             },{
 'type':'keydown',
 'propagate':false,
