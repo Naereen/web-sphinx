@@ -166,8 +166,7 @@ Son code source est hébergé sur
 
 Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
 `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 2000 fois
-(le total n'est désormais plus affiché sur Pypi !).
+Actuellement, il a déjà été téléchargé plus de 2500 fois !
 
 Gedit : Tools
 ^^^^^^^^^^^^^
