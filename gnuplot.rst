@@ -7,9 +7,9 @@
 
 .. warning:: Images vectorielles SVG
 
-   Si le graphes (plus bas à gauche) n'est sont pas affiché, c'est
+   Si le graphe (plus bas à gauche) n'est pas affiché, c'est
    sûrement parce que votre navigateur ne supporte pas les images ``SVG``.
-   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
+   Dans ce cas, un seul conseil : adoptez `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/all/>`_ :) !
 
 ------------------------------------------------------------------------------
 

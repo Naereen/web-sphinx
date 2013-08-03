@@ -42,7 +42,7 @@ Par exemple, la date courante :
 
 .. runblock:: console
     
-    $ echo "Date: `date`. Dossier: `pwd`."
+    $ LANG=en; echo "Date: `date`. Folder: `pwd`."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 

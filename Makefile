@@ -93,11 +93,11 @@ send_public:
 
 send_dpt:
 	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/
+	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok:
 	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
-	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/
+	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
 
 rss:	gpgrss
 	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/
