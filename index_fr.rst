@@ -209,20 +209,20 @@ du nombre de prédictions correctes.
  
 J'ai soutenu ce projet le mercredi 22 Mai 2013, j'attend donc ma note.
 
-Projet d'été 2013 : Py-Pokemon
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- J'ai commencé un projet, pour m'occuper durant l'été, en Python : :red:`Py-Pokemon`.
- Plus de détails sur `bitbucket.org/lbesson/py-pokemon/ <https://bitbucket.org/lbesson/py-pokemon/>`_,
- ou sur ce site `<publis/py-pokemon/>`_.
+.. Projet d'été 2013 : Py-Pokemon
+.. ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+..  J'ai commencé un projet, pour m'occuper durant l'été, en Python : :red:`Py-Pokemon`.
+..  Plus de détails sur `bitbucket.org/lbesson/py-pokemon/ <https://bitbucket.org/lbesson/py-pokemon/>`_,
+..  ou sur ce site `<publis/py-pokemon/>`_.
 
- J'utilise une base de donnée déjà existante, réalisée par `eevee <http://veekun.com/>`_.
- Une documentation (presque) complète est présente ici `<pokedex-doc/>`_.
+..  J'utilise une base de donnée déjà existante, réalisée par `eevee <http://veekun.com/>`_.
+..  Une documentation (presque) complète est présente ici `<pokedex-doc/>`_.
 
- L'objectif est de mettre au point un simulateur de combats Pokemon, un générateur
- automatique de dresseurs adverses, et une IA pour les combats.
- Le second objectif est d'utiliser ce cadre pour pouvoir évaluer la *"qualité"* d'une
- équipe en la faisant combattre un grand nombre d'adversaires aléatoires (une peu
- comme une méthode de Monte-Carlo).
+..  L'objectif est de mettre au point un simulateur de combats Pokemon, un générateur
+..  automatique de dresseurs adverses, et une IA pour les combats.
+..  Le second objectif est d'utiliser ce cadre pour pouvoir évaluer la *"qualité"* d'une
+..  équipe en la faisant combattre un grand nombre d'adversaires aléatoires (une peu
+..  comme une méthode de Monte-Carlo).
 
 ------------------------------------------------------------------------------
 

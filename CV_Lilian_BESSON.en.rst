@@ -28,12 +28,12 @@ Contact address
        94230 - Cachan,
        France
 
-Application
------------
- * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
- * :Prefered locations: USA, UK, Canada, Sweden, Norway, Finland, Danmark;
- * :Prefered research domains: programming, differential equations, tropical algebras, time processes, parallel computation, GPU, cryptography, semantics, compilation.
- * :Remark: no subvention is required.
+.. Application
+.. -----------
+..  * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
+..  * :Prefered locations: USA, UK, Canada, Sweden, Norway, Finland, Danmark;
+..  * :Prefered research domains: programming, differential equations, tropical algebras, time processes, parallel computation, GPU, cryptography, semantics, compilation.
+..  * :Remark: no subvention is required.
 
 Extra informations about me
 ---------------------------
