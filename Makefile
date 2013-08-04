@@ -69,6 +69,10 @@ send_latexpdf: gpglatex
 	$(CP) .build/latex/*.pdf ~/Public/pdf/
 	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
+fixperms:
+	chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log 
+	chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log 
+
 meta=/tmp/CV_Lilian_BESSON.meta
 
 gpglatex: latexpdf
@@ -83,7 +87,7 @@ gpglatex: latexpdf
 	$(GPG) .build/latex/CV_Lilian_BESSON.fr.pdf
 	rm -f $((meta)
 
-send_pdf:
+send_pdf: fixperms
 	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
 	$(CP) .build/pdf/*.pdf ~/Public/pdf/
 	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
@@ -91,11 +95,11 @@ send_pdf:
 send_public:
 	$(CP) -r .build/html/ ~/Public/
 
-send_dpt:
+send_dpt: fixperms
 	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
-send_zamok:
+send_zamok: fixperms
 	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
 
