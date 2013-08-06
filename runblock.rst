@@ -42,20 +42,20 @@ Par exemple, la date courante :
 
 .. runblock:: console
     
-    $ LANG=en; echo "Date: `date`. Folder: `pwd`."
+    $ LANG=en ; echo "Date: `date`. Folder: `pwd`."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
 .. runblock:: console
     
-    $ ls -larth *.rst .*.rst
+    $ LANG=en ls -larth *.rst .*.rst
 
 Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
 fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
 .. runblock:: console
 
-    $ gpg --quiet -o - --armor --detach-sign runblock.rst
+    $ LANG=en gpg --quiet -o - --armor --detach-sign runblock.rst
 
 Des ajouts
 ~~~~~~~~~~

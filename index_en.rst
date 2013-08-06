@@ -42,15 +42,15 @@ Contact addresses
         41, avenue du Président Wilson,
         94230 - Cachan,
         France
- 
-  #. by mail (`→ OpenStreetMap direct link 2 <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
 
-        Mr Lilian Besson,
-        University College London,
-        Dept. of Computer Science,
-        Gower Street,
-        London WC1E 6BT,
-        UK
+..  #. by mail (`→ OpenStreetMap direct link 2 <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
+..  
+..        Mr Lilian Besson,
+..        University College London,
+..        Dept. of Computer Science,
+..        Gower Street,
+..        London WC1E 6BT,
+..        UK
  
   #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
 
@@ -100,12 +100,15 @@ Feel free to *contact* me :
 
 MSc internship
 ^^^^^^^^^^^^^^
- I found an internship for the third semester of my Maths MSc and CS MSc
- (03 June to 09 August).
+ I did an internship for the third semester of my Maths MSc and CS MSc
+ from 03 June to 09 August.
 
- It takes place at **UCL** (:under:`University College of London`),
+ I worked at **UCL** (:under:`University College of London`),
  under the direction of *Jules Villard* (and *Peter O'Hearn*),
- about separation logic, AI problems, and the links between those two domains..
+ about separation logic, planning in `AI`, 
+ and the study of modularity in those two domains.
+
+ A link to my report and the slides for my talks will soon be available.
 
 ------------------------------------------------------------------------------
 

@@ -39,7 +39,7 @@ Exemple
 
  .. runblock:: console
 
-    $ gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
+    $ LANG=en gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
  .. warning:: Seulement pour la version **HTML** !
 
@@ -80,9 +80,12 @@ Exemple
  Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
  télécharger les bons fichiers, cela devrait vous donner un message comme ::
 
-     $ gpg --verify ~/.bashrc.asc ~/.bashrc
-     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
-     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
+ .. runblock:: console 
+
+    $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
+
+..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
+..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
  
 Ma clé publique
 ---------------
@@ -130,11 +133,13 @@ pour mutt (enfin, les fichiers ne contenant aucune info privée).
 Il faut placer `.muttrc` dans votre `$HOME`, et le contenu du dossier `mutt/`
 dans `$HOME/.mutt/`.
 
-Il faut ensuite écrire un couple de fichier `account.truc` et 
-`signature-truc.muttrc` par compte de messagerie que vous souhaitez utiliser.
+Il faut ensuite écrire un couple de fichier `truc.account.muttrc` et 
+`truc.signature.muttrc` par compte de messagerie que vous souhaitez utiliser.
+Il est possible d'utiliser un fichier `truc.password.gpg` pour stocker un 
+mot de passe pour un serveur SMTP, POP ou IMAP de façon crypté par GPG.
 
 Adaptez enfin le `.muttrc` pour charger les bons fichiers (dans mon cas,
-`truc=ens` ou `truc=crans`).
+`truc=ens` et `truc=crans`).
 
 Le jeu de couleur fourni vient du projet `solarized
 <https://github.com/altercation/mutt-colors-solarized>`_.
@@ -145,9 +150,10 @@ Astuces
 
  * Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
  
- * Ne stockez pas vos mots de passes dans votre `~/.mutt/account.truc` !
+ * Ne stockez pas vos mots de passes en clair dans vos fichiers de configurations
+   dans  `~/.mutt/` !
  
- * Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/muttrc.truc`
+ * Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/truc.muttrc`
    afin de lancer plus vite *mutt* sur un seul de vos comptes.
  
  * Il est possible d'utiliser ses contacts Google pour créer un fichier

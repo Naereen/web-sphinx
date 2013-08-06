@@ -45,14 +45,14 @@ Adresses de contact
         94230 - Cachan,
         France
  
-  #. par courrier (`→ plan 2 OpenStreetMap <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
-
-        Mr Lilian Besson,
-        University College London
-        Dept. of Computer Science,
-        Gower Street,
-        London WC1E 6BT,
-        Royaume-Uni
+..  #. par courrier (`→ plan 2 OpenStreetMap <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
+..  
+..        Mr Lilian Besson,
+..        University College London
+..        Dept. of Computer Science,
+..        Gower Street,
+..        London WC1E 6BT,
+..        Royaume-Uni
         
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
      
@@ -101,14 +101,17 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
 
 Stage de M1
 ^^^^^^^^^^^
-J'ai trouvé un **stage de recherche** pour le 
-troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
+ J'ai effectué un **stage de recherche** pour le 
+ troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
-Il se déroule actuellement à l'**UCL** (:under:`University College of London`),
-sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_
-(et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_),
-à propos de logique de séparation, de problèmes d'IA, et des liens possibles
-entre ces deux domaines...
+ J'ai travaillé à l'**UCL** (:under:`University College of London`),
+ sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_
+ (et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_),
+ à propos de logique de séparation, de planning en `AI`, 
+ et de l'étude de la modularité dans ces deux domaines.
+
+ Un lien vers le rapport de stage et les diapositives pour les présentations
+ seront bientôt disponibles.
 
 ------------------------------------------------------------------------------
 
