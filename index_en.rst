@@ -32,7 +32,16 @@ In 2013/2014, I will follow the preparation class for the French `agregation <ht
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^
- Feel free to *contact* me :
+.. sidebar:: Direct button to send me an email!
+
+   .. raw:: html
+
+      <form><input type="button" value="Contact-me by email" title="Click to send me an email !"
+      onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[WebSphinx]'"></input>
+      </form>
+
+
+Feel free to *contact* me :
  
   #. by mail (`→ OpenStreetMap direct link 1 <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
@@ -42,15 +51,6 @@ Contact addresses
         41, avenue du Président Wilson,
         94230 - Cachan,
         France
-
-..  #. by mail (`→ OpenStreetMap direct link 2 <http://osm.org/go/euu4lBXqH--?layers=MN>`_), in the UK ::
-..  
-..        Mr Lilian Besson,
-..        University College London,
-..        Dept. of Computer Science,
-..        Gower Street,
-..        London WC1E 6BT,
-..        UK
  
   #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
 
@@ -69,12 +69,6 @@ Contact addresses
         :target: callto:100101011101001100111101100001_2
 
   #. or by phone (:red:`only if it is important`) :
-
-.. raw:: html
-
-   <form><input type="button" value="Contact-me by email" title="Click to send me an email !"
-   onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[Web Sphinx]'"></input>
-   </form>
 
 My projects on-line
 ^^^^^^^^^^^^^^^^^^^

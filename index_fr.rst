@@ -34,7 +34,16 @@ via la préparation proposée par l'ENS Cachan.
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
- N'hésitez pas à me *contacter* :
+.. sidebar:: Lien direct pour m'envoyer un mail !
+
+   .. raw:: html
+
+      <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
+      onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[WebSphinx]'"></input>
+      </form>
+
+
+N'hésitez pas à me *contacter* :
 
   #. par courrier (`→ plan 1 OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France  ::
   
@@ -45,15 +54,6 @@ Adresses de contact
         94230 - Cachan,
         France
  
-..  #. par courrier (`→ plan 2 OpenStreetMap <http://osm.org/go/euu4lBXqH--?layers=MN>`_), au Royaume-Uni ::
-..  
-..        Mr Lilian Besson,
-..        University College London
-..        Dept. of Computer Science,
-..        Gower Street,
-..        London WC1E 6BT,
-..        Royaume-Uni
-        
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
      
      .. image:: .courriel.png
@@ -71,12 +71,6 @@ Adresses de contact
         :target: callto:100101011101001100111101100001_2
         
   #. ou par téléphone (:red:`si c'est urgent ou important`) :
-
-.. raw:: html
-
-   <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
-   onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[Web Sphinx]'"></input>
-   </form>
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
