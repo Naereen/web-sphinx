@@ -78,11 +78,13 @@ Exemple
 
 
  Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
- télécharger les bons fichiers, cela devrait vous donner un message comme ::
+ télécharger les bons fichiers, cela devrait vous donner un message comme :
 
  .. runblock:: console 
 
     $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
+
+ .. warning:: Seulement pour la version **HTML** !
 
 ..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
 ..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
@@ -144,20 +146,18 @@ Adaptez enfin le `.muttrc` pour charger les bons fichiers (dans mon cas,
 Le jeu de couleur fourni vient du projet `solarized
 <https://github.com/altercation/mutt-colors-solarized>`_.
 
-
 Astuces
 ~~~~~~~
-
- * Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
+* Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
  
- * Ne stockez pas vos mots de passes en clair dans vos fichiers de configurations
-   dans  `~/.mutt/` !
+* Ne stockez pas vos mots de passes en clair dans vos fichiers de configurations
+  dans  `~/.mutt/` !
  
- * Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/truc.muttrc`
-   afin de lancer plus vite *mutt* sur un seul de vos comptes.
+* Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/truc.muttrc`
+  afin de lancer plus vite *mutt* sur un seul de vos comptes.
  
- * Il est possible d'utiliser ses contacts Google pour créer un fichier
-   `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
-   via la touche TAB dans *mutt*, avec **goobook**.
+* Il est possible d'utiliser ses contacts Google pour créer un fichier
+  `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
+  via la touche TAB dans *mutt*, avec **goobook**.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
