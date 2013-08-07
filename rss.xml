@@ -8,7 +8,7 @@
       <copyright>© 2013, Lilian Besson</copyright>
       <managingEditor>naereen@crans.org (Lilian Besson)</managingEditor>
       <webMaster>naereen@crans.org (Lilian Besson)</webMaster>
-      <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Cr@ns, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon</category>
+      <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Cr@ns, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff</category>
       <generator>Painstakingly written by hand</generator>
       <ttl>1</ttl>
       <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
@@ -23,9 +23,17 @@
       </image>
 
       <item>
+       <title>Dotcore, le seul blog que j'ai consulté plus de deux fois, est excellent !</title>
+       <link>http://dotcore.tumblr.com</link>
+       <description>Rapports et slides en cours de conclusion. Soutenance faite sur place. Bientôt les vacances ! Stop stop j'ai hâte !</description>
+       <guid>http://besson.qc.to/cv.en.html</guid>
+       <pubDate>Wed, 07 Aug 2013 22:04:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Dernière semaine à Londres !</title>
        <link>http://lbesson.qc.to/stageM1/</link>
-       <description>Raports en cours de conclusion, slides bien avancés !</description>
+       <description>Rapports en cours de conclusion, slides bien avancés !</description>
        <guid>http://lbesson.bitbucket.org/</guid>
        <pubDate>Sun, 04 Aug 2013 11:04:43 GMT</pubDate>
       </item>

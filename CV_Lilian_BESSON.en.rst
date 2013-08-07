@@ -106,14 +106,15 @@ Currently (**2012-2013**): First-year MSc (*Master*)
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
 
+
 MSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
- .. warning::
+ I done my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
+ and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
+ at `UCL <http://cs.ucl.ac.uk>`_ in London.
+ I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains..
+ My report and slides for the talks on September are still in redaction!
 
-    I'm currently doing my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
-    and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
-    at `UCL <http://cs.ucl.ac.uk>`_ in London.
-    I'm working on Artificial Intelligence, and separation logic.
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)
 --------------------------------------------------------------
