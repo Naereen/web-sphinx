@@ -197,13 +197,13 @@ So, I used the following software :
  * Icon Converter, from `softicons.com <http://www.softicons.com/icon-tools/icon-converter>`_,
  * Ubuntu 11.10, Unity 4.30, Compiz 0.9.6 as the best OS, the best desktop manager and definitly the best window manager !
  * htop, as a text mod for managing processes on my PCs,
- * vrun, a telnet command line client for VLC (thanks to Nit from the Cr@ns association for this one),
+ * vrun, a telnet command line client for VLC (thanks to Nit from the Crans association for this one),
  * `doc.ubuntu-fr.org <http://doc.ubuntu-fr.org>`_ as a constant and almost perfect source of inspirations,
  * Wikipedia and all related Wikimedia project,
  * Google Calendar, ang Google Analytics, respectivly to store calendars online, and to monitor my web pages,
  * Javascript and Django templating (for Sphinx) to automatically embbed the Google Analytics script,
  * caml2html, pyhtmlizer and pygmentize to generate HTML pages from source code,
- * tanuki, eole.crans.org and other FTP server on the Cr@ns local network for a constant source of new movies, and series episodes,
+ * tanuki, eole.crans.org and other FTP server on the Crans local network for a constant source of new movies, and series episodes,
  * JDownloader, as the best Youtube downloader, even if it is written in Java...
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
  * Arandr and ArandrAuto (my script) to handle multi screens on Ubuntu,
