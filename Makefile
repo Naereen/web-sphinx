@@ -26,7 +26,7 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html warnings severes errors
+total: html obscure warnings severes errors
 
 local: html send_public warnings severes errors
 
@@ -68,6 +68,11 @@ send_latexpdf: gpglatex
 	$(CP) .build/latex/*.pdf besson@zamok.crans.org:~/www/pdf/
 	$(CP) .build/latex/*.pdf ~/Public/pdf/
 	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+
+obscure:
+	@echo "Launching ./.obscure_email.sh ..."
+	-./.obscure_email.sh
+	@echo "Email addresses have been hiden :)"
 
 fixperms:
 	chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log 

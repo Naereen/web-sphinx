@@ -30,7 +30,7 @@ do
   do
    ( GREP_COLOR="4;01;36" $GREP -I @$j "$i" ) >/dev/null && \
    ( echo -e "${reset}${green}       \\--->$ For the file ${u}$i$reset$white"
-     cat "$i" | sed s/@$j/'[AT]$j'/  > "$i"~ | colordiff "$i" "$i"~
+     cat "$i" | sed s/@$j/[AT]$j/  > "$i"~ | colordiff "$i" "$i"~
      mv -i "$i~" "$i" )
   done
  done
