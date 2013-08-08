@@ -101,10 +101,12 @@ send_public:
 	$(CP) -r .build/html/ ~/Public/
 
 send_dpt: fixperms
+	rm -I *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
+	rm -I *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
 

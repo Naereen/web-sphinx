@@ -115,7 +115,7 @@ Et aussi
 --------
 J'utilise aussi de plus en plus **GPG** pour *signer* ou *chiffrer* mes
 emails, abandonnant ainsi Hotmail pour la rédaction de mails.
-Le paragraphe suivant est consacré à *mutt*, un client de message en console.
+Le paragraphe suivant est consacré à *mutt*, un client de messagerie en console.
 
 ------------------------------------------------------------------------------
 
