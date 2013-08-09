@@ -92,8 +92,8 @@ Feel free to *contact* me :
   #. or on *Transifex* `profile/Naereen
      <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
-MSc internship
-^^^^^^^^^^^^^^
+MSc internship : "*Towards modularity for planning and robot programs verification*"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  I did an internship for the third semester of my Maths MSc and CS MSc
  from 03 June to 09 August.
 
@@ -102,7 +102,8 @@ MSc internship
  about separation logic, planning in `AI`, 
  and the study of modularity in those two domains.
 
- A link to my report and the slides for my talks will soon be available.
+ Links to my reports (maths and CS)
+ and the slides for my talks will be available very soon !
 
 ------------------------------------------------------------------------------
 

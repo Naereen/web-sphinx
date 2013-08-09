@@ -109,11 +109,17 @@ Actuellement (**2012-2013**) : première année de Master (M1)
 
 Stage et rapport de stage de M1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- J'étais en stage pour la fin de M1,
- avec `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_, et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
- dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
- J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
- Le rapport et les slides sont encore en rédactions !
+* :Titre: *"Towards modularity for planning and robot programs verification"*;
+
+* :Encadrant: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
+   et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
+
+* :Localisation: 
+   dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
+
+* :Description:
+   J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
+   Des liens vers mes rapports et les slides pour les soutenances de septembre seront bientôt disponibles !
 
 
 **2011-2012** : troisième et dernière année de Licence

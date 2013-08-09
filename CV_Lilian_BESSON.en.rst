@@ -109,11 +109,17 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
 MSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
- I done my MSc internship, with `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
- and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_, at the `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
- at `UCL <http://cs.ucl.ac.uk>`_ in London.
- I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains..
- My report and slides for the talks on September are still in redaction!
+* :Title: *"Towards modularity for planning and robot programs verification"*;
+
+* :Supervisor: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
+   and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
+
+* :Where: with `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
+   at `UCL <http://cs.ucl.ac.uk>`_ in London;
+
+* :Description:
+   I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains..
+   My report and slides for the talks on September will be available soon !
 
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)

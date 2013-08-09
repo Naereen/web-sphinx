@@ -93,8 +93,8 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
   #. ou encore sur *Transifex* `profile/Naereen
      <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
-Stage de M1
-^^^^^^^^^^^
+Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  J'ai effectué un **stage de recherche** pour le 
  troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 
@@ -104,7 +104,7 @@ Stage de M1
  à propos de logique de séparation, de planning en `AI`, 
  et de l'étude de la modularité dans ces deux domaines.
 
- Un lien vers le rapport de stage et les diapositives pour les présentations
+ Des liens vers le rapport de stage et les diapositives pour les présentations
  seront bientôt disponibles.
 
 ------------------------------------------------------------------------------
