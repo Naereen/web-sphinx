@@ -109,7 +109,7 @@ Actuellement (**2012-2013**) : première année de Master (M1)
 
 Stage et rapport de stage de M1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* :Titre: *"Towards modularity for planning and robot programs verification"*;
+* :Titre: *"Modularité pour la planification et la vérification de programmes pour robots"*;
 
 * :Encadrant: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
    et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
