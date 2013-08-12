@@ -145,7 +145,7 @@ coverage:
 	@echo
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
 
-pdf_all: ./.pdf_all.sh
+pdf: ./.pdf_all.sh
 	./.pdf_all.sh [A-Za-z]*.rst
 	-pkill gnuplot
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
@@ -167,7 +167,7 @@ git:
 	git commit -m "auto"
 	git push
 
-pdf:
+rst2pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
 	@echo
 	@echo "Build finished. The PDF files are in $(BUILDDIR)/pdf."
