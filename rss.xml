@@ -27,7 +27,7 @@
        <link>http://lbesson.qc.to/stageM1/slides/</link>
        <description>Rapports et rapports presque "parfaits" ! TODO:Conclure slides réduits pour les maths...</description>
        <guid>http://lbesson.bitbucket.org/</guid>
-       <pubDate>Fir, 09 Aug 2013 08:04:43 GMT</pubDate>
+       <pubDate>Fri, 09 Aug 2013 08:04:43 GMT</pubDate>
       </item>
 
       <item>
@@ -42,7 +42,7 @@
        <title>Dernière semaine à Londres !</title>
        <link>http://lbesson.qc.to/stageM1/</link>
        <description>Rapports en cours de conclusion, slides bien avancés !</description>
-       <guid>http://lbesson.bitbucket.org/</guid>
+       <guid>http://lbesson.bitbucket.org/index.html</guid>
        <pubDate>Sun, 04 Aug 2013 11:04:43 GMT</pubDate>
       </item>
 
@@ -74,7 +74,7 @@
        <title>Update Makefiles : add an automatic .asc GPG signature for 'important' files.</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Pour + de sécurité!</description>
-       <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
+       <guid>http://bitbucket.org/lbesson/web-sphinx-scripts/rss</guid>
        <pubDate>Mon, 24 Jun 2013 16:49:43 GMT</pubDate>
       </item>
 
@@ -130,7 +130,7 @@
        <title>FreeDNS : un concept sympa.</title>
        <link>http://freedns.afraid.org/subdomain/</link>
        <description>FreeDNS est un service web, gratuit (et libre) !</description>
-       <guid>http://besson.qc.to</guid>
+       <guid>http://besson.qc.to/freedns.html</guid>
        <pubDate>Thu, 18 Apr 2013 00:49:43 GMT</pubDate>
       </item>
       
@@ -138,7 +138,7 @@
        <title>Couvertures de CD trouvées par VLC (automatiquement).</title>
        <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202</link>
        <description>VLC 2.0+ télécharge seul des couvertures de CD et images représentatives de la chanson écoutée. Et ça marche du tonnerre !</description>
-       <guid>http://perso.crans.org/besson/photos/</guid>
+       <guid>http://perso.crans.org/besson/dl/</guid>
        <pubDate>Wed, 17 Apr 2013 01:49:43 GMT</pubDate>
       </item>
       
@@ -194,7 +194,7 @@
        <title>Premier item !</title>
        <link>http://facebook.com/naereencorp.lbesson</link>
        <description>Un lien vers ma page Facebook</description>
-       <guid>http://perso.crans.org/besson/rss.xml</guid>
+       <guid>http://besson.qc.to/rss.xml</guid>
        <pubDate>Mon, 01 Apr 2013 09:49:43 GMT</pubDate>
       </item>
       
