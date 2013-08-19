@@ -1,4 +1,4 @@
-.. meta::
+ .. meta::
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
@@ -43,7 +43,7 @@ Contact addresses
 
 Feel free to *contact* me :
  
-  #. by mail (`→ OpenStreetMap direct link 1 <http://osm.org/go/0BOchV4ns-->`_), in France  ::
+  #. by mail (`→ OpenStreetMap direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
         ENS Cachan,
