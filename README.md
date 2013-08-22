@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with Sphinx.
-Currently this *projet* is in version 1.8.2 !
+Currently this *projet* is in version 1.8.3 !
 
 Where are those pages ?
 -----------------------
@@ -15,10 +15,10 @@ About
 -----
 
 Some pages host my résumé, others are just experiments.
-A few pages talks about some point I am interesting on.
+A few pages talk about some points I am interesting on.
 
-Other repo
-----------
+Other repos
+-----------
 
 To limit the size of this one, I used an other repo to store
 the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
