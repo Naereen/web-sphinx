@@ -77,7 +77,7 @@ Divers
    - volontaire pour apprendre et développer de nouvelles compétences;
    - passionné de nouvelles technologies;
 
- * :Expérience internationale: Nombreux voyages (*en stop notamment*) en Espagne, Allemagne, Suède, Italie, Royaumes-Unis, États-Unis, Irelande, Canada, Suisse, Luxembourg **depuis 2004**;
+ * :Expérience internationale: Nombreux voyages (*en stop notamment*) en Espagne, Allemagne, Suède, Italie, Royaume-Uni, États-Unis, Irelande, Canada, Suisse, Luxembourg **depuis 2004**;
  * :Autres expériences:
 
    - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
