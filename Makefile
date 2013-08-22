@@ -75,8 +75,8 @@ obscure:
 	@echo "Email addresses have been hiden :)"
 
 fixperms:
-	chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log 
-	chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log 
+	chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep modifi
+	chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep modifi
 
 meta=/tmp/CV_Lilian_BESSON.meta
 
