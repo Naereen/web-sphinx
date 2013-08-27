@@ -39,7 +39,7 @@ Adresses de contact
    .. raw:: html
 
       <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
-      onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[WebSphinx]'"></input>
+      onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[web-sphinx]'"></input>
       </form>
 
 
