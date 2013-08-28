@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with Sphinx.
-Currently this *projet* is in version 1.8.3 !
+Currently this *projet* is in version 1.8.4 !
 
 Where are those pages ?
 -----------------------
