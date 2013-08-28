@@ -33,16 +33,16 @@ Projets
 
 Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_.
 
-`<publis/Bomberman/>`_
-^^^^^^^^^^^^^^^^^^^^^^^
+`Bomberman <publis/Bomberman/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Le jeu de **Bomberman** en réseau réalisé de Nov. 2012 à Fév. 2013
  pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
 
  :État: *À-jour.*
 
 
-`<publis/MOcamlPlot/>`_
-^^^^^^^^^^^^^^^^^^^^^^^
+`MOcamlPlot <publis/MOcamlPlot/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
  Propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
  et plein de trucs géniaux !
@@ -50,8 +50,8 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  :État: *N'est plus maintenu!*
 
 
-`<publis/Zenity/>`_
-^^^^^^^^^^^^^^^^^^^
+`Zenity <publis/Zenity/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
  Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon
  sûre, *typée* et amusante.
  Par example :
@@ -67,8 +67,8 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  :État: *N'est plus maintenu!*
 
 
-`<publis/ansi-colors/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^
+`ansi-colors <publis/ansi-colors/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
  et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
  Il est aussi héberger sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
@@ -79,8 +79,8 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  :État: *À-jour.*
 
 
-`<publis/kaggle/>`_
-^^^^^^^^^^^^^^^^^^^
+`kaggle <publis/kaggle/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan``
  en mai 2013.
  Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
@@ -90,15 +90,15 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  :État: *À-jour.*
 
 
-`<publis/nautilus-scripts>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`nautilus-scripts <publis/nautilus-scripts/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Des scripts pour **Gnome Nautilus**.
 
  :État: *N'est plus maintenu!*
 
 
-`<publis/gedit-tools>`_
-^^^^^^^^^^^^^^^^^^^^^^^
+`gedit-tools <publis/gedit-tools/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Des scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
 
  :État: *N'est plus maintenu!*
@@ -116,29 +116,29 @@ Scripts et binaires
 Fichiers de configuration
 -------------------------
 
-`<publis/conky/>`_
-^^^^^^^^^^^^^^^^^^
+`conky <publis/conky/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^
  Configuration pour **GNU Conky**.
 
  :État: *À-jour.*
 
 
-`<publis/gedit-coloration/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`gedit-coloration <publis/gedit-coloration/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Configuration pour **GTK-SourceView** (avec gedit ou gobby).
 
  :État: *À-jour.*
 
 
-`<publis/gedit/>`_
-^^^^^^^^^^^^^^^^^^
+`gedit <publis/gedit/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^
  Divers plugins pour **Gnome Gedit**..
 
  :État: *À-jour.*
 
 
-`<publis/muttrc/>`_
-^^^^^^^^^^^^^^^^^^^
+`muttrc <publis/muttrc/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
  Configuration pour **Mutt**.
 
  :État: *À-jour.*

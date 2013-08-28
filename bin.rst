@@ -29,24 +29,33 @@
 Liste des scripts
 -----------------
 
-* `<publis/bin/ARANDR_resolution_auto.sh>`_,
+* `ARANDR_resolution_auto.sh <publis/bin/ARANDR_resolution_auto.sh>`_,
   pour changer la configuration des écrans automatiquement.
+
   :État: *Toujours expérimental*.
 
-* `<publis/bin/pdflatex>`_,
+
+* `pdflatex <publis/bin/pdflatex>`_,
   un script colorant la sortie de ``/usr/bin/pdflatex`` pour la rendre plus lisible.
+
   :État: *Toujours en conception*.
 
-* `<publis/bin/chktex>`_,
+
+* `chktex <publis/bin/chktex>`_,
   un script colorant la sortie de ``chktex`` pour la rendre plus lisible.
+
   :État: *Toujours en conception*.
 
-* `<publis/bin/series.sh>`_,
+
+* `series.sh <publis/bin/series.sh>`_,
   un script pour automatiser la lecture de l'épisode suivant de la série en cours de lecture.
+
   :État: *Toujours expérimental*.
 
-* `<publis/bin/CheckDownload_Pypi.sh>`_,
+
+* `CheckDownload_Pypi.sh <publis/bin/CheckDownload_Pypi.sh>`_,
   un script pour consulter l'historique de téléchargement d'un projet hébergé sur Pypi.
+
   :État: *Terminé*.
 
 
