@@ -38,6 +38,8 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  Le jeu de **Bomberman** en réseau réalisé de Nov. 2012 à Fév. 2013
  pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
 
+ :État: *À-jour.*
+
 
 `<publis/MOcamlPlot/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,7 +47,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  Propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
  et plein de trucs géniaux !
 
- *N'est plus maintenu!*
+ :État: *N'est plus maintenu!*
 
 
 `<publis/Zenity/>`_
@@ -62,7 +64,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
     reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
 
 
- *N'est plus maintenu!*
+ :État: *N'est plus maintenu!*
 
 
 `<publis/ansi-colors/>`_
@@ -74,6 +76,9 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  .. pypi-release:: ANSIColors-balises 
 
 
+ :État: *À-jour.*
+
+
 `<publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^
  Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan``
@@ -81,6 +86,8 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
  toutes les différentes composantes d'un projet de programmation
  (codes, documentations, rapports, slides etc).
+
+ :État: *À-jour.*
 
 
 `<publis/nautilus-scripts>`_
@@ -113,20 +120,28 @@ Fichiers de configuration
 ^^^^^^^^^^^^^^^^^^
  Configuration pour **GNU Conky**.
 
+ :État: *À-jour.*
+
 
 `<publis/gedit-coloration/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Configuration pour **GTK-SourceView** (avec gedit ou gobby).
+
+ :État: *À-jour.*
 
 
 `<publis/gedit/>`_
 ^^^^^^^^^^^^^^^^^^
  Divers plugins pour **Gnome Gedit**..
 
+ :État: *À-jour.*
+
 
 `<publis/muttrc/>`_
 ^^^^^^^^^^^^^^^^^^^
  Configuration pour **Mutt**.
+
+ :État: *À-jour.*
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

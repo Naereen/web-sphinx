@@ -50,4 +50,7 @@ Liste des scripts
   :État: *Terminé*.
 
 
+.. todo:: Terminer !
+
+
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

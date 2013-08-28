@@ -369,6 +369,8 @@ Liste des autres pages
    wolfram
    freedns
    time
+   publis
+   bin
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
