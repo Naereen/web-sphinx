@@ -132,7 +132,7 @@ Fichiers de configuration
 
 `gedit <publis/gedit/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
- Divers plugins pour **Gnome Gedit**..
+ Divers plugins pour **Gnome Gedit**.
 
  :État: *À-jour.*
 
