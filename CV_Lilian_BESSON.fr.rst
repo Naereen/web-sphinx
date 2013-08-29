@@ -86,7 +86,7 @@ Divers
      Champion départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
 
  * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
- * :Sports: escalade, trek, VTT, natation.
+ * :Sports: escalade, trek, VTT, trottinette, natation, autostop.
 
 ---------------------------------------------------------------------
 

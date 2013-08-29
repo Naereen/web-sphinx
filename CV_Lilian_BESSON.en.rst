@@ -86,7 +86,7 @@ Miscellaneous
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
  * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy litterature and poetry;
- * :Sports: climbing, trek, mountain bike, kick scooter, swimming.
+ * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking.
 
 ------------------------------------------------------------------------------
 
