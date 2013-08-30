@@ -5,7 +5,24 @@
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 {% block extrahead %}
-  <meta name="author" content="Lilian Besson" />
+  <!-- 
+ *****************************************************************************
+ * This file is © Lilian Besson, 2011-2013.
+ * I'm a Computer Science and Mathematics student, at ENS de Cachan.
+ * 
+ * This file layout.html is part of my web pages, generated with Sphinx.
+ * 
+ * Those pages are hosted
+ *  - here on the Crans network, http://perso.crans.org/besson (or http://besson.qc.to);
+ *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson (or http://lbesson.qc.to);
+ *  - here on Bitbucket, http://lbesson.bitbucket.org;
+ *  - sometimes on my machine, http://jarvis.crans.org/ (only locally on the crans network).
+ *
+ * This document is a Jinja Template, to modify all the HTML pages produced
+ * by Sphinx. It have to be in the '.templates' folder.
+ *****************************************************************************
+   -->
+  <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -51,19 +68,6 @@
    </style>
 <script type="text/javascript">
 /*****************************************************************************
- * This file is © Lilian Besson, 2011-2013.
- * I'm a Computer Science and Mathematics student, at ENS de Cachan.
- * 
- * This file layout.html is part of my web pages, generated with Sphinx.
- * 
- * Those pages are hosted
- *  - here on the Crans network, http://perso.crans.org/besson (or http://besson.qc.to);
- *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson (or http://lbesson.qc.to);
- *  - here on Bitbucket, http://lbesson.bitbucket.org;
- *
- * This document is a Jinja Template, to modify all the HTML pages produced
- * by Sphinx. It have to be in the '.templates' folder.
- *
  * This template is designed to embed a simple piece of code, written in
  * Javascript, to include the "Google Analytics" web service, without modifying
  * by hand all the produced HTML pages.
@@ -75,9 +79,17 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  /***************************************************************************
+   * Here are set the default values for these variables,
+   * corresponding to the default domain. 
+   ***************************************************************************/
   var my_id = 'UA-38514290-1';
   var my_domain = 'crans.org';
 
+  /***************************************************************************
+   * Here a case-by-case analysis is done to change this variable
+   * when the page is located on another web server.
+   ***************************************************************************/
   switch(window.location.host) {
     case 'perso.crans.org':
         my_id = 'UA-38514290-1';
@@ -91,17 +103,15 @@
         my_id = 'UA-38514290-14';
         my_domain = 'bitbucket.org';
         break;
-    case 'besson.crans.org':
-        my_id = 'UA-38514290-1';
-        my_domain = 'crans.org';
-        break;
     default:
         break;
   }
 
+  /* New method. */
   ga('create', my_id, my_domain);
   ga('send', 'pageview');
 
+  /* Old method. */
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', my_id]);
   _gaq.push(['_setDomainName', my_domain]);
