@@ -1,0 +1,30 @@
+<h3>{{ _('Cette page sur un autre serveur ?') }}</h3>
+{% if pagename %}
+{{ pagename|e }}
+{% endif %}
+<ul class="this-page-menu">
+ <script type="text/javascript">
+  switch(window.location.host) {
+    case 'jarvis.crans.org':
+        document.write("<br>Sur <a href=\"lbesson.qc.to\">lbesson.qc.to</a> ?\n");
+        document.write("<br>Sur besson.qc.to ?\n");
+        break;
+    case 'perso.crans.org':
+        document.write("<br>Sur lbesson.qc.to ?\n");
+        document.write("<br>Sur jarvis.crans.org ?\n");
+        break;
+    case 'www.dptinfo.ens-cachan.fr':
+        document.write("<br>Sur besson.qc.to ?\n");
+        document.write("<br>Sur jarvis.crans.org ?\n");
+        break;
+    default:
+        document.write("<br>Error :(");
+        break;
+  }
+ </script>
+ <noscript>
+   Essayez sur <a href="http://jarvis.crans.org/">jarvis.crans.org</a>.</br>
+   Essayez sur <a href="http://perso.crans.org/besson/">perso.crans.org/besson/</a>.</br>
+   Essayez sur <a href="http://www.dptinfo.ens-cachan.fr/~lbesson">www.dptinfo.ens-cachan.fr/~lbesson/</a>.</br>
+ </noscript>
+</ul>

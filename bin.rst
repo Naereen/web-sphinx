@@ -29,6 +29,18 @@
 Liste des scripts
 -----------------
 
+* `quotes.sh <publis/bin/quotes.sh>`_,
+  pour récupérer une citation (aléatoire ou non) depuis `<http://fr.wikiquote.org/wiki/Kaamelott/>`_.
+
+  :État: *Toujours en amélioration!*.
+
+* `makequotes.sh <publis/bin/quotes.sh>`_,
+  pour construire une liste de citation 
+  (une fichier texte avec une citation complète par ligne).
+  Utilise `quotes.sh`.
+
+  :État: *Toujours en amélioration!*.
+
 * `ARANDR_resolution_auto.sh <publis/bin/ARANDR_resolution_auto.sh>`_,
   pour changer la configuration des écrans automatiquement.
 

@@ -260,13 +260,11 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html'],
-   'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html'],
-   'CV*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html'],
-   'CV*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html'],
-   '*/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
-#   'pokedex-doc/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
-#   'stageM1/*': ['localtoc.html', 'searchbox.html', 'relations.html'],
+   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   'CV*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
+   'CV*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
+   '*/*': ['localtoc.html', 'searchbox.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to

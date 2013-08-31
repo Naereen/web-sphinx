@@ -61,12 +61,25 @@ D'autres ajouts
 
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- See :bbissue:`3`.
+ Un signalement d'erreur via bitbucket :bbissue:`3`.
 
- And see :bbchangeset:`some-long-hash-value`.
+ Et une modification, indiquée via son hash long
+ (822ba395fceeac8e8a2a25b571503ec790e4fe35)
+ :bbchangeset:`822ba395fceeac8e8a2a25b571503ec790e4fe35`.
 
 D'autres
 ^^^^^^^^
+
+ Cette ligne Bash affiche une citation aléatoire.
+ Actuellement, ``~/.quotes.txt`` est une liste très complète
+ des meilleurs citations de Kaamelott.
+ 
+ Cette liste est obtenue à partir des deux scripts suivants,
+ depuis les données du site `<http://fr.wikiquote.org/wiki/Kaamelott/>`_ :
+ 
+  * `quotes.sh <publis/bin/quotes.sh>`_ to find one quote,
+
+  * `makequotes.sh <publis/bin/makequotes.sh>`_ to build a quotes.txt file.
 
 .. runblock:: console
 
