@@ -68,6 +68,10 @@ D'autres ajouts
 D'autres
 ^^^^^^^^
 
+.. runblock:: console
+
+   $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii 
+
 .. todo:: A venir.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

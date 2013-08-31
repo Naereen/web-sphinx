@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with Sphinx.
-Currently this *projet* is in version 1.8.4 !
+Currently this *projet* is in version 1.8.5 (beta release) !
 
 Where are those pages ?
 -----------------------
@@ -10,12 +10,13 @@ Where are those pages ?
 ### On line :
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
  * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") .
+ * [jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only (and only from the crans local network) ;
 
 About
 -----
 
-Some pages host my résumé, others are just experiments.
-A few pages talk about some points I am interesting on.
+Some pages host my résumé, others are just experiments, about Sphinx and many other things.
+A few pages talk about some points I am interesting on (GNU Nano, gedit, Pokémon etc)...
 
 Other repos
 -----------
@@ -64,7 +65,8 @@ This project use the following software :
     * autorun;
     * graphviz;
 
- * (optional) ocaml, octave, to embed examples.
+ * (optional) ocaml, octave, to embed examples;
+ * many others, but cannot list them all.
 
 License
 -------
