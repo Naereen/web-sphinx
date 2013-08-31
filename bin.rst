@@ -34,7 +34,7 @@ Liste des scripts
 
   :État: *Toujours en amélioration!*.
 
-* `makequotes.sh <publis/bin/quotes.sh>`_,
+* `makequotes.sh <publis/bin/makequotes.sh>`_,
   pour construire une liste de citation 
   (une fichier texte avec une citation complète par ligne).
   Utilise `quotes.sh`.
