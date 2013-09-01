@@ -25,12 +25,18 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^
-**Je suis actuellement en seconde année à l'ÉNS de Cachan,**
-**et je termine la première année du master de recherche en informatique de Paris (le MPRI)**
+**Je suis actuellement en troisième année à l'ÉNS de Cachan,**
+et en 2013/2014, je prépare le concours national de l'`agregation <http://agreg.org/>`_,
+via la préparation proposée par l'ENS Cachan, en option informatique.
+(*L'objectif étant de devenir prof. en classes préparatoires.*)
+
+
+En 2011/2012, j'ai validé deux licences, en **maths** et en **informatique**
+(L3, *Bachelor of Science* en anglais).
+
+En 2012/2013, j'ai validé **la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan.**
 
-L'année prochaine (2013/2014), j'ai prévu de préparer le concours de l'`agregation <http://agreg.org/>`_,
-via la préparation proposée par l'ENS Cachan.
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
@@ -104,8 +110,10 @@ Stage de M1 : "*Modularité pour la planification et la vérification de program
  à propos de logique de séparation, de planning en `AI`, 
  et de l'étude de la modularité dans ces deux domaines.
 
- Des liens vers le rapport de stage et les diapositives pour les présentations
- seront bientôt disponibles.
+ Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
+ et mes slides (en français): `<slidesM1Info13.pdf>`_.
+ :red:`Seulement sur www.dptinfo.ens-cachan.fr pour l'instant !`
+
 
 ------------------------------------------------------------------------------
 

@@ -25,10 +25,13 @@ Who am I ?
 ----------
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
-I'm studying *mathematics* and *Computer Science*, and I'm currently
-in *two* different MSc (one in each of those domains).
 
-In 2013/2014, I will follow the preparation class for the French `agregation <http://agreg.org/>`_ exam.
+In 2011/2012 I graduated two different Bachelors of Science,
+and in 2012/2013 two first half of Masters of Science,
+in *mathematics* and *Computer Science*.
+
+In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
+to eventually become a Maths teacher in “classes préparatoires”.
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^
@@ -102,8 +105,9 @@ MSc internship : "*Towards modularity for planning and robot programs verificati
  about separation logic, planning in `AI`, 
  and the study of modularity in those two domains.
 
- Links to my reports (maths and CS)
- and the slides for my talks will be available very soon !
+ My report (in English): `<rapportM1Info13.pdf>`_,
+ and my slides (in French): `<slidesM1Info13.pdf>`_.
+ :red:`Only on www.dptinfo.ens-cachan.fr !`
 
 ------------------------------------------------------------------------------
 

@@ -38,7 +38,7 @@ Contact address
 Extra informations about me
 ---------------------------
  * :Date of Birth: January 12 1993. Age : **20**.
- * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in second year. Studying **mathematics** and **Computer Science**.
+ * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in third year. Studying **mathematics** and **Computer Science**.
  * :Webpages:
 
     #. my personal web pages on the *ÉNS de Cachan CS department* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
@@ -94,14 +94,15 @@ Miscellaneous
  Academic Education
 ####################
 
-Currently (**2012-2013**): First-year MSc (*Master*)
-----------------------------------------------------
- * **Mathematics** MSc (*Since Sept. 2012*)
+**2012-2013**: First-year MSc (*Master*)
+----------------------------------------
+
+ * **Mathematics** MSc (*Sept. 2012 to August 2013*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Complex analysis, functional analysis and numerical optimization, exterior calculus, *Partial Differential Equations* approximation.
  
- * **Computer Science** MSc (*Since Sept. 2012*)
+ * **Computer Science** MSc (*Sept. 2012 to August 2013*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
@@ -109,6 +110,7 @@ Currently (**2012-2013**): First-year MSc (*Master*)
 
 MSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
 * :Title: *"Towards modularity for planning and robot programs verification"*;
 
 * :Supervisor: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
@@ -118,20 +120,22 @@ MSc internship and thesis
    at `UCL <http://cs.ucl.ac.uk>`_ in London;
 
 * :Description:
-   I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains..
-   My report and slides for the talks on September will be available soon !
+   I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains.
+   My report (in English): `<rapportM1Info13.pdf>`_,
+   and my slides (in French): `<slidesM1Info13.pdf>`_.
+   :red:`Only on www.dptinfo.ens-cachan.fr !`
 
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)
 --------------------------------------------------------------
 
- * **Mathematics** BSc (*September 2011 to July 2012*)
+ * **Mathematics** BSc (*Sept. 2011 to July 2012*)
 
      - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
      - :Domains: Functional analysis, integration, algebras, arithmetic, partial and ordinary differential equations, topology, differential geometry;
      - :Mark: 15.2/20, *magna cum laude*.
  
- * **Computer Science** BSc (*September 2011 to July 2012*)
+ * **Computer Science** BSc (*Sept. 2011 to July 2012*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Logic, semantics, cryptography, algorithmic, graph theory, lambda calculus, compilation, parallel computation, formal calculus;

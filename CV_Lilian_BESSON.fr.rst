@@ -37,7 +37,7 @@ Adresse de contact
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: 12 Janvier 1993. Âge : 20 ans.
- * :Statut actuel: Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en seconde année. Étudiant en **mathématiques** et **informatique**.
+ * :Statut actuel: Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année. Étudiant en **mathématiques** et **informatique**.
  * :Pages sur le web:
 
    #. mes pages web personnelles sur le site du département d'informatique de l'*ÉNS de Cachan* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
@@ -94,14 +94,14 @@ Divers
  Formation académique
 ######################
 
-Actuellement (**2012-2013**) : première année de Master (M1)
-------------------------------------------------------------
- * M1 de **Mathématiques** (*Depuis Sept. 2012*)
+**2012-2013** : première année de Master (M1)
+---------------------------------------------
+ * M1 de **Mathématiques** (*Sept. 2012 à Août 2013*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Analyse complexe, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
  
- * M1 d'**Informatique** (*Depuis Sept. 2012*)
+ * M1 d'**Informatique** (*Sept. 2012 à Août 2013*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
@@ -119,7 +119,9 @@ Stage et rapport de stage de M1
 
 * :Description:
    J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
-   Des liens vers mes rapports et les slides pour les soutenances de septembre seront bientôt disponibles !
+   Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
+   et mes slides (en français): `<slidesM1Info13.pdf>`_.
+   :red:`Seulement sur www.dptinfo.ens-cachan.fr pour l'instant !`
 
 
 **2011-2012** : troisième et dernière année de Licence
