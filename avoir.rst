@@ -67,8 +67,12 @@ D'autres ajouts
  (822ba395fceeac8e8a2a25b571503ec790e4fe35)
  :bbchangeset:`822ba395fceeac8e8a2a25b571503ec790e4fe35`.
 
-D'autres
-^^^^^^^^
+------------------------------------------------------------------------------
+
+.. versionadded:: 1.8
+
+Citation random !
+^^^^^^^^^^^^^^^^^
 
  Cette ligne Bash affiche une citation aléatoire.
  Actuellement, ``~/.quotes.txt`` est une liste très complète
@@ -84,6 +88,25 @@ D'autres
 .. runblock:: console
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+
+------------------------------------------------------------------------------
+
+.. versionadded:: 1.8
+
+Tests : auto mailto: ?
+^^^^^^^^^^^^^^^^^^^^^^
+
+Une différence entre les trois liens suivants ?
+
+* moi.supermoi@domain.extension .
+
+* :blue:`supermoi.moi@otherdomain.ext` .
+
+* `<mailto:supermoi@domain.ext>`_.
+
+
+Autres
+------
 
 .. todo:: A venir.
 
