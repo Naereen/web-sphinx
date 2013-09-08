@@ -63,8 +63,35 @@
     .over	{text-decoration: overline} 
     .blink	{text-decoration: blink} 
     .line	{text-decoration: line-through}
+
     .it		{font-style: italic}
     .ob		{font-style: oblique}
+   </style>
+  <!-- Style pour les badges en bas de la page. 
+   Merci à http://www.crans.org/ pour l'inspiration -->
+   <style type="text/css">
+    div#supportBadges {
+       margin:1em; text-align:center;
+    }
+    #supportBadges ul {
+       padding:0; display:inline;
+    }
+    #supportBadges li {
+       display:inline;
+    }
+    #supportBadges a {
+       margin-right:5px; opacity:0.5;
+    }
+    #supportBadges a:hover {
+       opacity:1;  
+    }
+    ul#timings {
+       clear:left; text-align:center; max-width:800px; margin:auto;
+    }
+    ul#timings li {
+       list-style-type:none; display:inline;
+       font-size:0.7em; color:#333; padding:0 0.2em;
+    }
    </style>
 <script type="text/javascript">
 /*****************************************************************************
@@ -209,25 +236,29 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 pour collecter des statistiques, ce qui peut être désactivé avec
 <a href="http://www.ghostery.com">Ghostery</a> par exemple.
 <br/>
-<a class="reference external image-reference" href="http://www.mozilla.org/en-US/firefox/all/"><img alt="Optimized for Firefox, tested on Firefox 22.0" src="{{ pathto('_images/.firefox_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://www.google.com/analytics/"><img alt="Use Google Analytics" src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://www.nano-editor.org/"><img alt="Written with GNU Nano 2.3.2" src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://www.gnu.org/licenses/gpl.html"><img alt="Those pages are an Open Source project, released with the GPLv3 License" src="{{ pathto('_images/.opensource_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://www.python.org/download/"><img alt="Python powered :)" src="{{ pathto('_images/.python_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://sphinx-doc.org/install.html"><img alt="Made with Sphinx 1.3" src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
-<a class="reference external image-reference" href="http://www.ubuntu.com/about/about-ubuntu"><img alt="Made on Ubuntu 12.04.2" src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
+<div id="supportBadges">
+<ul>
+<li><a class="reference external image-reference" href="http://www.mozilla.org/en-US/firefox/all/"><img alt="Optimized for Firefox, tested on Firefox 22.0" src="{{ pathto('_images/.firefox_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://www.google.com/analytics/"><img alt="Use Google Analytics" src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://www.nano-editor.org/"><img alt="Written with GNU Nano 2.3.2" src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://www.gnu.org/licenses/gpl.html"><img alt="Those pages are an Open Source project, released with the GPLv3 License" src="{{ pathto('_images/.opensource_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://www.python.org/download/"><img alt="Python powered :)" src="{{ pathto('_images/.python_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://sphinx-doc.org/install.html"><img alt="Made with Sphinx 1.3" src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="reference external image-reference" href="http://www.ubuntu.com/about/about-ubuntu"><img alt="Made on Ubuntu 12.04.2" src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 <script type="text/javascript">
  if (window.location.host == 'jarvis.crans.org')
  {
- document.write("<a class=\"reference external image-reference\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>") 
+ document.write("<li><a class=\"reference external image-reference\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
  else
  {
- document.write("<a class=\"reference external image-reference\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>") 
+ document.write("<li><a class=\"reference external image-reference\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
 </script>
 <noscript>
-<a class="reference external image-reference" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
+<li><a class="reference external image-reference" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
+</ul>
+</div>
 </div>
 {% endblock %}
