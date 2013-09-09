@@ -160,7 +160,7 @@ BSc internship and thesis
     and parallel using `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_.
     Interactive 2D simulation with *openGL*.
  * :Published:
-    On my web page, the `bachelor thesis, in French <publis/rapport_stage.pdf>`_.
+    On my web page, the `bachelor thesis, in French <publis/rapportL3Maths12.pdf>`_.
     Also published on the **IPOL journal** (`Image Processing on Line 
     <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     August 2012.

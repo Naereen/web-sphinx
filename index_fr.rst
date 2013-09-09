@@ -112,7 +112,6 @@ Stage de M1 : "*Modularité pour la planification et la vérification de program
 
  Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
  et mes slides (en français): `<slidesM1Info13.pdf>`_.
- :red:`Seulement sur www.dptinfo.ens-cachan.fr pour l'instant !`
 
 
 ------------------------------------------------------------------------------
@@ -126,11 +125,11 @@ les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA``
 pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
 Notre rapport de stage peut être téléchargé, ici :
-`rapport_stage.pdf <publis/rapport_stage.pdf>`_ (en français),
+`rapportL3Maths12.pdf <publis/rapportL3Maths12.pdf>`_ (en français),
 les slides de la soutenance finale sont disponibles
-`Slides_soutenance.pdf <publis/Slides_soutenance.pdf>`_ (:red:`attention, 160 Mo !`),
+`slidesL3Maths12.pdf <publis/slidesL3Maths12.pdf>`_ (:red:`attention, 160 Mo !`),
 et enfin une archive contenant nos codes sources *(distribués sous licence GPL)* 
-est téléchargeable, `code_stage.zip <publis/code_stage.zip>`_.
+est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 .. sidebar:: À propos de Naereen
 

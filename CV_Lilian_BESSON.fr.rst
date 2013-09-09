@@ -157,7 +157,7 @@ Stage et rapport de stage de L3
     et parallèle en utilisant le language `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_. 
     Simulation intéractive en 2D, avec *openGL*.
  * :Publication:
-    Sur ma page personnelle, le `rapport de stage <publis/rapport_stage.pdf>`_.
+    Sur ma page personnelle, le `rapport de stage <publis/rapportL3Maths12.pdf>`_.
     Aussi publié dans le **journal IPOL** (`Image Processing on Line
     <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
     Août 2012.
