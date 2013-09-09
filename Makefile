@@ -1,3 +1,4 @@
+#!/usr/bin/env /usr/bin/make
 # Makefile for Sphinx documentation
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
@@ -26,7 +27,7 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html obscure warnings severes errors
+total: html images obscure warnings severes errors
 
 local: html send_public warnings severes errors
 
@@ -58,6 +59,9 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
+images:
+	-$(CP) .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
+
 send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
 
 send_latexpdf: gpglatex
@@ -75,8 +79,8 @@ obscure:
 	@echo "Email addresses have been hiden :)"
 
 fixperms:
-	chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep modifi
-	chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep modifi
+	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
+	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
 meta=/tmp/CV_Lilian_BESSON.meta
 
@@ -99,6 +103,7 @@ send_pdf: fixperms
 
 send_public:
 	$(CP) -r .build/html/ ~/Public/
+	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 
 send_dpt: fixperms
 	-rm -vf *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
