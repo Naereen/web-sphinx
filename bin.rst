@@ -29,8 +29,31 @@
 Liste des scripts
 -----------------
 
+.. note:: Contribuer ?
+
+    Tous ces scripts fonctionnent normalement correctement sur ma machine (Ubuntu 12.04.3 LTS, GNU Bash v4.2).
+    Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
+    voir même échouent complètement.
+    **Tout retour d'utilisation est le bienvenue**.
+    
+    Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues?action=new>`_,
+    ou encore m'envoyer un mail.
+    
+    *Par ailleurs* toute contribution est la bienvenue, et sera intégrée dans les prochaines versions
+    du script concerné
+    (ces scripts sont distribués sous les termes de la `licence GPLv3 <LICENSE>`_).
+
+
+.. Liste des scripts
+
+* `PDFCompress <publis/bin/PDFCompress>`_,
+  un script pour automatiquement signer, compresser ou encore changer les méta-données d'un ou plusieur document(s) PDF.
+
+  :État: *Toujours en amélioration !*
+
+
 * `quotes.sh <publis/bin/quotes.sh>`_,
-  pour récupérer une citation (aléatoire ou non) depuis `<http://fr.wikiquote.org/wiki/Kaamelott/>`_.
+  pour récupérer une citation (aléatoire ou non) depuis `<http://wikiquote.org>`_.
 
   :État: *Toujours en amélioration!*.
 
@@ -41,22 +64,17 @@ Liste des scripts
 
   :État: *Toujours en amélioration!*.
 
-* `ARANDR_resolution_auto.sh <publis/bin/ARANDR_resolution_auto.sh>`_,
-  pour changer la configuration des écrans automatiquement.
-
-  :État: *Toujours expérimental*.
-
 
 * `pdflatex <publis/bin/pdflatex>`_,
   un script colorant la sortie de ``/usr/bin/pdflatex`` pour la rendre plus lisible.
 
-  :État: *Toujours en conception*.
+  :État: *Toujours en amélioration !*
 
 
 * `chktex <publis/bin/chktex>`_,
   un script colorant la sortie de ``chktex`` pour la rendre plus lisible.
 
-  :État: *Toujours en conception*.
+  :État: *Toujours en amélioration !*
 
 
 * `series.sh <publis/bin/series.sh>`_,
