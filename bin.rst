@@ -22,7 +22,7 @@
 
 .. sidebar:: Retourner à l'accueil
 
-   Si cette page ne joue intéresse pas, allez plutôt consulter `celle là <index.html>`_.
+   Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
    
 ---------------------------------------------------------------------
 
