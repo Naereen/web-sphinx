@@ -87,7 +87,14 @@ Crypter ses fichiers
 * `TrueCrypt <http://www.truecrypt.org/>`_, pour crypter à la volée un disque (réel ou virtuel)
   entier. Semble assez efficace. Est gratuit et open source (mais non libre).
 
-* ` <>`_,
+
+* `wuala <https://www.wuala.com/fr/download/linux>`_ est un service gratuit de stockage
+  de fichiers dans les nuages. Il se clame sécurisé (et en a tout l'air).
+  Apparamment, une application pour Ubuntu (à-la Dropbox).
+  Propose 5 Go.
+
+* `SpiderOak <https://spideroak.com/opendownload/>`_ fait pareil.
+  Propose 2 Go.
 
 * ` <>`_,
 
@@ -95,9 +102,27 @@ Crypter ses fichiers
 
 * ` <>`_,
 
-* ` <>`_,
 
-* ` <>`_,
+---------------------------------------------------------------------
+
+Outils de "communication" à usage unique
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `CryptoCat <https://crypto.cat/>`_ propose un système de chat
+  sécurisé (?).
+
+* `PrivNote <https://privnote.com/>`_ permet de créer des notes à
+  usage unique, il suffit de transmettre une URL pour transmettre le message.
+
+* `NoPlaintext <https://noplaintext.com/>`_ fait la même chose.
+  Une bonne idée est de chaîner les différents services.
+
+* `ZeroBin <http://sebsauvage.net/paste/>`_ est un pastebin (un presse-papier
+  éléctronique, pour faire des copier-coller) à usage unique, sécurisé par AES 256.
+  Mention spéciale pour le “Kittens will die if you abuse this service” dans la
+  note en haut de page :) !
+
+* `CryptoBin <https://cryptobin.org/>`_ est pareil.
 
 
 ---------------------------------------------------------------------
