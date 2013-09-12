@@ -44,6 +44,13 @@ Liste des outils
 
 ---------------------------------------------------------------------
 
+
+Distribution Linux "la plus sécurisée"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * `<https://tails.boum.org/index.fr.html>`_ Tails
+   : The Amnesic Incognite Live System.
+
 Crypter ses communications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -56,14 +63,6 @@ Crypter ses communications
 * `SNOW <http://www.darkside.com.au/snow/>`_, pour intégrer un message dans un fichier
   texte sous la forme d'espaces en fin de lignes.
   Faut quand même être sacrément velu pour envisager ça !
-
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
 
 
 ---------------------------------------------------------------------
@@ -96,17 +95,15 @@ Crypter ses fichiers
 * `SpiderOak <https://spideroak.com/opendownload/>`_ fait pareil.
   Propose 2 Go.
 
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
-
 
 ---------------------------------------------------------------------
 
 Outils de "communication" à usage unique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `anonbox.net <https://anonbox.net/fr/>`_ propose une adresse email
+  à usage unique (un seul message reçu, en plain text ascii, avec les pièces
+  jointes encodées en base64 : un courriel dans sa forme brute quoi).
 
 * `CryptoCat <https://crypto.cat/>`_ propose un système de chat
   sécurisé (?).
@@ -139,30 +136,20 @@ Protéger sa vie privée
 * `jHead <http://www.sentex.net/~mwandel/jhead/>`_, est du même genre.
   Consultez `<http://www.sentex.net/~mwandel/jhead/usage.html>`_ pour une documentation.
 
-* ` <>`_,
 
-* ` <>`_,
+* `Privly <https://priv.ly/>`_ est un concept bizarre.
 
-* ` <>`_,
 
-* ` <>`_,
+---------------------------------------------------------------------
 
-* ` <>`_,
+Gérer ses mots de passe
+^^^^^^^^^^^^^^^^^^^^^^^
 
-* ` <>`_,
+* `Pass Phrase Generator <https://www.fourmilab.ch/javascrypt/pass_phrase.html>`_.
 
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
-
-* ` <>`_,
-
-* not done yet !
-
+* `The Password Meter <http://www.passwordmeter.com/>`_, un site joli pour tester la solidité
+  de ses mots de passe.
+  Fonctionne *super* bien.
 
 
 .. todo:: Terminer !
