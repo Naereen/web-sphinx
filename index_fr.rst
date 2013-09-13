@@ -16,7 +16,7 @@ A propos de moi
    
    Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
    au mieux selon les préférences de votre navigateur.
-   Certaines pages ne sont pas encore traduites, mais *j'y travaille* !
+   Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
 
    Ces pages ont été générées le |today| pour la *dernière fois*.
 
@@ -31,11 +31,13 @@ via la préparation proposée par l'ENS Cachan, en option informatique.
 (*L'objectif étant de devenir prof. en classes préparatoires.*)
 
 
-En 2011/2012, j'ai obtenu deux licences, en **maths** et en **informatique**
+En 2011/2012, j'ai obtenu deux licences, en **maths** et en **informatique**,
+mention Bien
 (L3, *Bachelor of Science* en anglais).
 
 En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
-et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan.**
+et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
+les deux avec une mention Bien.
 
 
 Adresses de contact
@@ -113,6 +115,9 @@ Stage de M1 : "*Modularité pour la planification et la vérification de program
  Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
  et mes slides (en français): `<slidesM1Info13.pdf>`_.
 
+ :Notes: Jules m'a donné **19/20**.
+         Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**,
+         et j'attends encore la réponse du jury du dpt maths.
 
 ------------------------------------------------------------------------------
 
@@ -124,11 +129,13 @@ sur la modélisation numérique d'équations différentielles de mécaniques des
 les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA`` 
 pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
-Notre rapport de stage peut être téléchargé, ici :
+J'ai avons obtenu 17/20 pour nos travaux.
+Le rapport de stage peut être téléchargé, ici :
 `rapportL3Maths12.pdf <publis/rapportL3Maths12.pdf>`_ (en français),
 les slides de la soutenance finale sont disponibles
 `slidesL3Maths12.pdf <publis/slidesL3Maths12.pdf>`_ (:red:`attention, 160 Mo !`),
-et enfin une archive contenant nos codes sources *(distribués sous licence GPL)* 
+et enfin une archive contenant certains codes sources *(distribués sous licence GPL)* 
+de nos simulations (en ``C``, et en ``CUDA``)
 est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 .. sidebar:: À propos de Naereen
@@ -147,8 +154,10 @@ et de développement. Il est réalisé avec Google Site,
 
 Autres pages
 ------------
-Je vous invite tout particulièrement à aller regarder ce dossier `publis/ <publis/>`_, 
-contenant plusieurs projets (un peu en vrac).
+ Je vous invite tout particulièrement à aller regarder ces deux pages 
+ `<publis.html>`_ et `<bin.html>`_ 
+ qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
+ je travaille de temps en temps.
 
 ANSI Colors
 ^^^^^^^^^^^
@@ -211,7 +220,7 @@ de prévoir la même chose pour 418 autres passagers.
 La plate-forme Kaggle s'occupe ensuite de noter la proposition en fonction
 du nombre de prédictions correctes.
  
-J'ai soutenu ce projet le mercredi 22 Mai 2013, j'attend donc ma note.
+J'ai soutenu ce projet le mercredi 22 Mai 2013, et j'ai eu 15/20.
 
 ------------------------------------------------------------------------------
 
@@ -282,6 +291,10 @@ Albums photos
 
 Pages de démonstrations
 -----------------------
+
+`<demo.html>`_ est là pour tester les fonctionnalités de base
+du langage *reStructuredText*. :red:`Je n'en suis pas l'auteur.`
+
 Extensions non officielles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
  J'expérimente certains outils de **Sphinx**,
@@ -335,10 +348,8 @@ Flux RSS
  Pour plus d'informations, ou pour lire directement les dernières entrées
  du *flux*, la page `<rss.html>`_ est là pour ça.
 
-Autres liens
-^^^^^^^^^^^^
- En vrac,
-
+Liens externes
+^^^^^^^^^^^^^^
  #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
 
  #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
@@ -378,6 +389,8 @@ Liste des autres pages
    time
    publis
    bin
+   vieprivee
+   tutoweb
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>

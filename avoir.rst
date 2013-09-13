@@ -109,21 +109,47 @@ Test JavaScript
 ^^^^^^^^^^^^^^^
 .. versionadded:: 1.8.6
 
+
  Donne des infos sur le navigateur utilisé par le visiteur :
 
 .. raw:: html
 
    <noscript>Exemple non disponible sans JavaScript...</noscript>
    <script type="text/javascript"> 
-    txt = "<p>Browser CodeName: " + navigator.appCodeName + "</p>";
-    txt+= "<p>Browser Name: " + navigator.appName + "</p>";
-    txt+= "<p>Browser Version: " + navigator.appVersion + "</p>";
-    txt+= "<p>Cookies Enabled: " + navigator.cookieEnabled + "</p>";
-    txt+= "<p>Platform: " + navigator.platform + "</p>";
-    txt+= "<p>User-agent header: " + navigator.userAgent + "</p>";
-    txt+= "<p>User-agent language: " + navigator.systemLanguage + "</p>";
-   
-    document.getElementById("example").innerHTML=txt;
+    window.document.write(
+      "<p>Browser CodeName: " + navigator.appCodeName + "</p>"
+    + "<p>Browser Name: " + navigator.appName + "</p>"
+    + "<p>Browser Version: " + navigator.appVersion + "</p>"
+    + "<p>Cookies Enabled: " + navigator.cookieEnabled + "</p>"
+    + "<p>Platform: " + navigator.platform + "</p>"
+    + "<p>User-agent header: " + navigator.userAgent + "</p>"
+    + "<p>User-agent language: " + navigator.systemLanguage + "</p>")
+   </script>
+
+
+ Précise quelle page est affichée :
+
+.. raw:: html
+
+   <noscript>Exemple non disponible sans JavaScript...</noscript>
+   <script type="text/javascript">
+    window.document.write("<ul><li>Page " + window.location.pathname + ",</li>")
+    window.document.write("<li>Hosted on " + window.location.host + ",</li>")
+    window.document.write("<li>Protocol is " + window.location.protocol + ",</li>")
+    window.document.write("<li>Port is " + window.location.port + "</li></ul>") 
+   </script>
+
+
+ Donne des infos sur l'écran :
+
+
+.. raw:: html
+
+   <noscript>Exemple non disponible sans JavaScript...</noscript>
+   <script type="text/javascript">
+    window.document.write("Taille d'écran "
+     + screen.availWidth + "x"
+     + screen.availHeight ) 
    </script>
 
 

@@ -1,3 +1,8 @@
+##########################################
+ Un genre de tutoriel pour "faire du web"
+##########################################
+
+
 Quelques conseils, et pointeurs pour commencer à faire des pages webs.
 
 Pour HTML & CSS
@@ -114,21 +119,20 @@ Quelques derniers conseils
 --------------------------
 
  * éviter de mettre des caractères non ascii dans les noms de fichiers/dossiers.
+
  * prendre conscience des problèmes d'encodages de caractères tôt (exemple de référence: http://www.siteduzero.com/informatique/tutoriels/dynamisez-vos-sites-web-avec-javascript/resoudre-les-problemes-d-encodage).
+
  * éviter les majuscules dans les noms de fichiers/dossiers.
+
  * ne JAMAIS mettre son adresse mail ou son téléphone en clair dans n'importe quel fichier accessible en http,
    le plus simple est de mettre prenom.nom[AT]domain[DOT]fr ou un autre dans le genre,
    le mieux est de générer une image email.png qui montre ton adresse (comme http://www.text2image.com). Problème d'accessibilité pour les aveugles, pas top si tu veux avoir une page vraiment accessible. Et problème pour les gens qui naviguent en console, ou sans image.
+
  * ne jamais utiliser de contenu que tu n'as pas le droit d'utiliser, ou de distribuer des fichiers sur lesquels tu n'as aucun droit (personne ne respecte ça, et personne te dira rien même si tu utilise ta page perso pour distribuer des films piratés, mais quand même...).
+
  * être conscient que les moteurs de recherche enregistrent des captures de tes pages, au moins hebdomadairement. Donc une page pourrie que tu as supprimé pour toujours être trouvée dans les résultats de google, et vues par les utilisateurs.
    Morale de l'histoire: faire *vraiment* gaffe à ce que met et ce que tu écrit, une fois que c'est en ligne tu perd tout contrôle dessus.
 
 ----
 
 Ce document est rédigé en espérant qu'il soit utile.
-Par Lilian Besson,
-French student in Mathematics & Computer Science at ÉNS Cachan,
-
- * mailto:Lilian.BESSON@ens-cachan.fr
-
- * http://www.dptinfo.ens-cachan.fr/~lbesson/

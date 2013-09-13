@@ -26,9 +26,9 @@ Who am I ?
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
 
-In 2011/2012 I graduated two different Bachelors of Science,
-and in 2012/2013 two first half of Masters of Science,
-in *mathematics* and *Computer Science*.
+In 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
+and in 2012/2013 I graduated two first half of Masters of Science,
+in *mathematics* and *Computer Science* (again, both with *magna cum laude*).
 
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
 to eventually become a Maths teacher in “classes préparatoires”.
@@ -107,7 +107,11 @@ MSc internship : "*Towards modularity for planning and robot programs verificati
 
  My report (in English): `<rapportM1Info13.pdf>`_,
  and my slides (in French): `<slidesM1Info13.pdf>`_.
- :red:`Only on www.dptinfo.ens-cachan.fr !`
+
+ :Mark: Jules gave me **19/20**.
+        I got the mark **17.7/20** from the Computer Science jury
+        at ENS Cachan,
+        and I'm still waiting for the mark from the Maths jury.
 
 ------------------------------------------------------------------------------
 
@@ -120,5 +124,7 @@ Pages in English
    CV_Lilian_BESSON.en
    transifex.en
    trademarks
+   demo
+   packing
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
