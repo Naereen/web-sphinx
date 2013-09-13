@@ -1,5 +1,14 @@
 {% extends "!layout.html" %}
 {% block rootrellink %}
+ <li> <!-- Display info is Javascipt available. -->
+  <script type="text/javascript">
+   window.document.write("Hosted on " + window.location.host + ".")
+   window.document.write("Hosted on " + window.location.host + ".")
+  </script>
+  <noscript>
+   <span style="color:red">(JavaScript is disabled)</span>
+  </noscript>
+ </li>
  <li><img src="{{ pathto('_static/.besson.png', true)|e }}" alt=""
   style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
@@ -159,13 +168,15 @@
  * http://questionablecontent.com (for the idea) -->
 <script type="text/javascript">
 shortcut.add("h",function() {
-window.confirm("Les raccourcis claviers suivants sont activés : \n"
+window.alert("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
 {% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
-+"\n Abonnez vous au flux RSS : http://bitbucket.org/lbesson/wep-sphinx/rss ou http://perso.crans.org/besson/rss.xml !\n"
-+"    Lilian Besson © 2013.")
++"\n Abonnez vous à un de ces flux RSS :\n"
++"  - http://bitbucket.org/lbesson/wep-sphinx/rss\n" 
++"  - http://perso.crans.org/besson/rss.xml\n"
++" Ce site est maintenu par Lilian Besson © 2013.")
             },{
 'type':'keydown',
 'propagate':false,
@@ -246,6 +257,11 @@ pour collecter des statistiques, ce qui peut être désactivé avec
 <li><a class="reference external image-reference" href="http://www.python.org/download/"><img alt="Python 2.7.3 powered :)" src="{{ pathto('_images/.python_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="reference external image-reference" href="http://sphinx-doc.org/install.html"><img alt="Made with Sphinx 1.2b1" src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="reference external image-reference" href="http://www.ubuntu.com/about/about-ubuntu"><img alt="Made on Ubuntu 12.04.3 LTS" src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<!-- A little script to know which web server is used.
+     In fact, it is a simple analysis over the hostname :
+      - Apache is used on almost every other server I used,
+      - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013).
+ -->
 <script type="text/javascript">
  if (window.location.host == 'jarvis.crans.org')
  {

@@ -105,6 +105,30 @@ Une différence entre les trois liens suivants ?
 * `<mailto:supermoi@domain.ext>`_.
 
 
+Test JavaScript
+^^^^^^^^^^^^^^^
+.. versionadded:: 1.8.6
+
+ Donne des infos sur le navigateur utilisé par le visiteur :
+
+.. raw:: html
+
+   <noscript>Exemple non disponible sans JavaScript...</noscript>
+   <script type="text/javascript"> 
+    txt = "<p>Browser CodeName: " + navigator.appCodeName + "</p>";
+    txt+= "<p>Browser Name: " + navigator.appName + "</p>";
+    txt+= "<p>Browser Version: " + navigator.appVersion + "</p>";
+    txt+= "<p>Cookies Enabled: " + navigator.cookieEnabled + "</p>";
+    txt+= "<p>Platform: " + navigator.platform + "</p>";
+    txt+= "<p>User-agent header: " + navigator.userAgent + "</p>";
+    txt+= "<p>User-agent language: " + navigator.systemLanguage + "</p>";
+   
+    document.getElementById("example").innerHTML=txt;
+   </script>
+
+
+------------------------------------------------------------------------------
+
 Autres
 ------
 

@@ -5,18 +5,24 @@
  {% if last_updated %}
   <p><b>Dernière modification le : {{ last_updated }}.</b></p>
  {% else %}
-  <p><b>Oups, il semblerait qu'il y ait un gros soucis avec ces pages... pas de last_updated !</b></p>
+  <p><b>
+   <span style="color:red">
+    Oups, il semblerait qu'il y ait un gros soucis avec ces pages... pas de last_updated !
+   </span>
+  </b></p>
  {% endif %}
 <h2>Télécharger ces pages en PDF</h2>
  <p>Ces pages web sont générées avec <strong>Sphinx</strong>.
 Et lors de leurs générations, un de mes scripts produit aussi une version PDF de certaines pages (avec rst2pdf).</p>
- <p>Le dossier <a href="pdf/">pdf/</a> est là pour vous permettre de télécharger
+ <p>Le dossier <a href="{{ pathto('pdf/', true)|e }}">pdf/</a> est là pour vous permettre de télécharger
 les fichiers PDF ainsi produits.</p>
  <p>Cette fonctionnalité est encore en développement !</p>
 <br/>
 <h2>Dossier de téléchargement</h2>
  <p>Le dossier <a href="dl/">dl/</a> est là pour télécharger des archives, et des documents particuliers.</p>
- <p>L'accès à ce dossier nécessite un pseudo/mot de passe. Il est possible d'en demander un par email, si nécessaire, à l'adresse suivante <a href="mailto:naereen[@]crans[.]org?subject=[web-sphinx]">naereen[@]crans[.]org</a>.</p>
+ <p>L'accès à ce dossier nécessite un nom d'utilisateur et un mot de passe.
+  Il est possible d'en demander un par email, si nécessaire, à l'adresse suivante 
+  <a href="mailto:naereen[@]crans[.]org?subject=[web-sphinx]">naereen[@]crans[.]org</a>.</p>
 <h2>Problèmes</h2>
  <p>Si vous rencontrez une difficulté quelconque ou que vous avez des questions,
 veuillez utiliser la page <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.</p>

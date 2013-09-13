@@ -56,7 +56,7 @@ auxquelles vous faites confiance (trust-ring).
    :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
-En ce qui concerne `ma clé publique<Lilian_Besson.asc>`_, il faut :
+En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
 
  #. **la télécharger**, comme expliqué au paragraphe suivant;
  #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
