@@ -29,7 +29,7 @@ GPG = gpg --detach-sign --armor --quiet --yes
 
 total: html images obscure warnings severes errors
 
-local: html send_public warnings severes errors
+local: html images obscure send_public warnings severes errors
 
 warnings:
 	@echo "Searching for warnings ..."

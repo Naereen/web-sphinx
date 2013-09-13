@@ -48,18 +48,33 @@ Comment utiliser ces fichiers **.asc** ?
 Il est possible de **vérifier** ces signatures, avec ma clé publique.
 
 Il faut *importer* ma clé publique dans votre répertoire de clés 
-auxquelles vous faites confiance (trustring).
+auxquelles vous faites confiance (trust-ring).
 
-.. image:: .gpgpublickey_80_15.png
-   :scale: 120 %
-   :align: right
-   :alt: R4096/C1108F8A0
+.. image::  .gpgpublickey_80_15.png
+   :scale:  120 %
+   :align:  right
+   :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
-En ce qui concerne *ma* clé, il faut :
+En ce qui concerne `ma clé publique<Lilian_Besson.asc>`_, il faut :
 
- 1. **la télécharger**, comme expliqué au paragraphe suivant;
- 2. **l'importer dans votre répertoire de clé** (local sur chaque machine) : ::
+ #. **la télécharger**, comme expliqué au paragraphe suivant;
+ #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
+    au résultat suivant :
+    
+    .. runblock:: console
+    
+       gpg --export --armor $GPGKEY | md5sum
+       md5sum ~/Lilian_Besson.asc
+       gpg --export --armor $GPGKEY | sha256sum
+       sha256sum ~/Lilian_Besson.asc
+       
+   
+   À quoi cela sert-il ? Cela vous permet de vérifier que vous avez bien téléchargé
+   l'armor-art (*ie.* version ASCII) de ma clé publique.
+ 
+ 
+ #. **l'importer dans votre répertoire de clé** (local sur chaque machine) : ::
       
       gpg --import Lilian_Besson.asc
 
@@ -89,14 +104,37 @@ Exemple
 ..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
 ..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
  
+
+ .. note:: 
+
+    J'ai écrit un petit script pour *automatiquement* cacher les adresses courriel
+    écrite par ces commandes *gpg* dans les pages générées avec Sphinx et l'extension
+    runblock.
+
+    *Pourquoi ?* Pour rien. Ou si en fait. Pour tenter d'éviter de laisser mes adresses
+    éléctroniques en clair dans les **nouveaux** documents que je produit.
+
+    *Pourquoi seulement nouveaux ?* Parce que je ne savais pas que des *bot*s peuvent
+    scanner des millions de pages par jour à la recherche d'adresse électronique,
+    afin d'envoyer du spam.
+    Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
+    truc.machin@domain.ext et utilise plutôt un format du genre
+    truc.machin[@] ou [AT].
+    
+    Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/b04cdecdbaa0486f6249ba3689cff6fb39175916/.obscure_email.sh?at=master>`_
+    réalise cette substitution automatiquement, pour tous les documents
+    textuels générés via Sphinx, avant de les envoyer vers un serveur.
+    Comme ça, c'est facile et automatique :)
+
+
 Ma clé publique
 ---------------
 L'**empreinte publique** de ma clé est **C108F8A0**.
 
-.. image:: .gpgmypublickey_80_15.png
-   :scale: 120 %
-   :align: right
-   :alt: R4096/C1108F8A0
+.. image::  .gpgmypublickey_80_15.png
+   :scale:  120 %
+   :align:  right
+   :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
 Une méthode pour récupérer ma clé est de la **rechercher** directement 
