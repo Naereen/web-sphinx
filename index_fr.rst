@@ -129,7 +129,7 @@ sur la modélisation numérique d'équations différentielles de mécaniques des
 les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA`` 
 pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
-J'ai avons obtenu 17/20 pour nos travaux.
+J'ai obtenu 17/20 pour nos travaux.
 Le rapport de stage peut être téléchargé, ici :
 `rapportL3Maths12.pdf <publis/rapportL3Maths12.pdf>`_ (en français),
 les slides de la soutenance finale sont disponibles
