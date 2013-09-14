@@ -123,7 +123,6 @@ MSc internship and thesis
    I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains.
    My report (in English): `<rapportM1Info13.pdf>`_,
    and my slides (in French): `<slidesM1Info13.pdf>`_.
-   :red:`Only on www.dptinfo.ens-cachan.fr !`
 
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)

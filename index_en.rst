@@ -40,7 +40,7 @@ Contact addresses
    .. raw:: html
 
       <form><input type="button" value="Contact-me by email" title="Click to send me an email !"
-      onClick="parent.location='mailto:naereen[@]crans[.]org?subject=[web-sphinx]'"></input>
+      onclick="parent.location='mailto:naereen[@]crans[.]org?subject=[web-sphinx]'"></input>
       </form>
 
 

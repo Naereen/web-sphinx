@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-      <title>Lilian Besson - on the web</title>
+      <title>Lilian Besson via RSS</title>
       <link>http://perso.crans.org/besson/</link>
-      <description>Un essai de flux RSS</description>
+      <description>Flux RSS pour les pages web de Lilian Besson</description>
       <language>fr</language>
       <copyright>© 2013, Lilian Besson</copyright>
-      <managingEditor>naereen@crans.org (Lilian Besson)</managingEditor>
-      <webMaster>naereen@crans.org (Lilian Besson)</webMaster>
+      <managingEditor>naereen[@]crans.org (Lilian Besson)</managingEditor>
+      <webMaster>naereen[@]crans.org (Lilian Besson)</webMaster>
       <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Crans, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff</category>
-      <generator>Painstakingly written by hand</generator>
+      <generator>Painstakingly written by hand :)</generator>
       <ttl>1</ttl>
       <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -21,6 +21,14 @@
         <height>120</height>
         <width>75</width>
       </image>
+
+      <item>
+       <title>Direction la Savoie pour un marriage et un baptême !</title>
+       <link>http://lbesson.qc.to/publis.html</link>
+       <description>Premier problème de 6h : c'est long :(</description>
+       <guid>http://besson.qc.to/bin.html</guid>
+       <pubDate>Fri, 13 Sep 2013 19:04:43 GMT</pubDate>
+      </item>
 
       <item>
        <title>Début de la prépa Agreg :)</title>

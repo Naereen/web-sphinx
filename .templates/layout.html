@@ -18,7 +18,7 @@
     + window.location.host
     + window.location.port
     + window.location.pathname
-    + "</a>'</span><li/>")
+    + "</a>'</span></li>")
  </script>
  <noscript>
   <li><span style="color:red">(JavaScript is disabled)</span></li>
@@ -247,7 +247,7 @@ location.href="{{ next.link|e }}";
  window.document.write(
    "<span style=\"color: grey\">User-agent: "
   + navigator.userAgent + "."
- + "</br>Taille d'écran <span style=\"color: white\">"
+ + "<br/>Taille d'écran <span style=\"color: white\">"
   + screen.availWidth + "x"
   + screen.availHeight + "</span>. "
  + " <span style=\"color: grey\">Page '"
@@ -264,7 +264,7 @@ location.href="{{ next.link|e }}";
  + "</a>'.</span></span>"
  );
 </script>
-</br><p>
+<br/><p>
 <a class="reference external image-reference" href="http://validator.w3.org/check?uri=referer">
 <img style="width:88px;height:31px" class="align-right"
      src="{{ pathto('_images/.valid-xhtml10.png', true)|e }}" alt="XHTML 1.0 valide ?" /></a>

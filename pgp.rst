@@ -64,10 +64,10 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
     
     .. runblock:: console
     
-       gpg --export --armor $GPGKEY | md5sum
-       md5sum ~/Lilian_Besson.asc
-       gpg --export --armor $GPGKEY | sha256sum
-       sha256sum ~/Lilian_Besson.asc
+       $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | md5sum
+       $ md5sum ~/Lilian_Besson.asc
+       $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
+       $ sha256sum ~/Lilian_Besson.asc
        
    
    À quoi cela sert-il ? Cela vous permet de vérifier que vous avez bien téléchargé
@@ -104,6 +104,8 @@ Exemple
 ..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
 ..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
  
+
+ Normalement, ça marche ;)
 
  .. note:: 
 

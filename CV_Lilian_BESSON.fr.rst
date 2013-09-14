@@ -121,7 +121,6 @@ Stage et rapport de stage de M1
    J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
    Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
    et mes slides (en français): `<slidesM1Info13.pdf>`_.
-   :red:`Seulement sur www.dptinfo.ens-cachan.fr pour l'instant !`
 
 
 **2011-2012** : troisième et dernière année de Licence
