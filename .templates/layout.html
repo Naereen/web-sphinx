@@ -181,8 +181,47 @@
 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.js', true)|e }}"></script> -->
 
-<!-- Smooth Scroll plugin -->
+<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ $('div.body a').smoothScroll();
+ $('div.sphinxsidebar a').smoothScroll({
+  offset: -50,
+
+  // one of 'top' or 'left'
+  direction: 'top',
+
+  // only use if you want to override default behavior
+  scrollTarget: null,
+
+  // fn(opts) function to be called before scrolling occurs.
+  // `this` is the element(s) being scrolled
+  beforeScroll: function() {},
+
+  // fn(opts) function to be called after scrolling occurs.
+  // `this` is the triggering element
+  afterScroll: function() {},
+
+  easing: 'swing',
+  speed:  300,
+
+  // coefficient for "auto" speed
+  autoCoefficent: 2,
+
+  // $.fn.smoothScroll only: whether to prevent the default click action
+  preventDefault: true,
+ });
+});
+</script>
+
+<!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
+<script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
+<script type="text/javascript">
+ $('div.spĥinxsidebar').waypoint(function(direction) {
+   notify('Direction example triggered scrolling ' + direction);
+ });
+</script>
 
 <!-- scrollUp plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
@@ -210,7 +249,7 @@
  });
 </script>
 
-<!-- Shortcuts.js -- Thanks to :
+<!-- Shortcuts.js - - - Thanks to :
  * http://www.openjs.com/scripts/events/keyboard_shortcuts/ (for the script)
  * http://questionablecontent.com (for the idea) -->
 <script type="text/javascript" src="{{ pathto('_static/shortcuts.js', true)|e }}"></script>

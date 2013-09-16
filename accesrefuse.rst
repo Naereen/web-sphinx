@@ -11,7 +11,8 @@
 
 
    .. raw:: html
-   
+
+      <script type="text/javascript" src="_static/referrer.js"></script>
       <script type="text/javascript">
        document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
        +"(L'erreur continuera sûrement...)")
