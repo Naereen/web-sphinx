@@ -3,6 +3,28 @@
 ############################
 .. include:: .special.rst
 
+.. versionadded:: 1.9
+
+.. raw:: html
+
+   <h2 class="my-sticky-element">Sticky Elements</h2>
+   <script type="text/javascript">
+   $(document).ready(function() {
+   	$('.my-sticky-element').waypoint('sticky');
+   	});
+   </script>
+   <script type="text/javascript">
+   $('#example-direction').waypoint(function(direction) {
+     window.alert('Direction example triggered scrolling ' + direction);
+     }, { offset: 25%} );
+   $('#example-basic').waypoint(function() {
+     window.alert('Basic example callback triggered.');
+     });
+   $('example-basic').waypoint(function() {
+     window.alert('Basic example callback triggered.');
+     });
+   </script>
+
 Espace d'expérimentations
 -------------------------
 .. versionadded:: 1.4
@@ -114,6 +136,9 @@ Test JavaScript
 
 .. raw:: html
 
+   <pre id="example-basic">
+    <br>#example-basic a été passé.</br>
+   </pre>
    <noscript>Exemple non disponible sans JavaScript...</noscript>
    <script type="text/javascript"> 
     window.document.write(
@@ -145,6 +170,9 @@ Test JavaScript
 
 .. raw:: html
 
+   <pre id="example-direction">
+    <br>#example-direction a été passé.</br>
+   </pre>
    <noscript>Exemple non disponible sans JavaScript...</noscript>
    <script type="text/javascript">
     window.document.write("Taille d'écran "

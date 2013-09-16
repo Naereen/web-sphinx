@@ -8,8 +8,8 @@
 #
 version='0.3'
 LANG='en'
-LANGUAGE='en'
-LC_ALL='en'
+##LANGUAGE='en'
+##LC_ALL='en'
 
 # If possible, use .color.sh (http://perso.crans.org/besson/publis/bin/.color.sh)
 [ -f ~/.color.sh ] && ( . ~/.color.sh ; clear )

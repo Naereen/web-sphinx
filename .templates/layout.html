@@ -91,6 +91,12 @@
     .it		{font-style: italic}
     .ob		{font-style: oblique}
    </style>
+  <!-- Style pour la barre de début de page. TODO FIXME TODO FIXME
+   Merci à http://imakewebthings.com/jquery-waypoints/#get-started pour l'inspiration -->
+   <style type="text/css">
+    
+   </style>
+
   <!-- Style pour les badges en bas de la page. 
    Merci à http://www.crans.org/ pour l'inspiration -->
    <style type="text/css">
@@ -217,11 +223,26 @@ $(document).ready(function() {
 
 <!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
-<script type="text/javascript">
- $('div.spĥinxsidebar').waypoint(function(direction) {
-   notify('Direction example triggered scrolling ' + direction);
- });
-</script>
+<style type="text/css">
+h2.my-sticky-element {
+ text-align:center;
+ background:#6a6272;
+ color:#eae2f2;
+ width:460px;
+ margin:0 auto;
+ font-size:24px;
+}
+.my-sticky-element.stuck {
+ position:fixed;
+ top:0;
+ box-shadow:0 2px 4px rgba(0, 0, 0, .3);
+}
+</style>
+<!-- <script type="text/javascript">
+$('.my-sticky-element').waypoint('sticky', {
+  offset: 30 // Apply "stuck" when element 30px from top
+})
+</script> -->
 
 <!-- scrollUp plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
@@ -311,7 +332,7 @@ $(document).ready(function() {
   'target':document
             });{% endif %}
 </script>
-<script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script>
+<!-- <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script> -->
 {{ super() }}
 {% endblock %}
 
