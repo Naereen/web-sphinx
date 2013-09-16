@@ -7,7 +7,7 @@
 # A simple script to hide email address in Sphinx generated web pages.
 #
 version='0.3'
-LANG='en'
+##LANG='en'
 ##LANGUAGE='en'
 ##LC_ALL='en'
 
