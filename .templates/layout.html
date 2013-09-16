@@ -4,6 +4,7 @@
   style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
+
 {% block relbaritems %}
  <!-- Display info is Javascipt available. -->
  <script type="text/javascript">
@@ -24,6 +25,7 @@
   <li><span style="color:red">(JavaScript is disabled)</span></li>
  </noscript> 
 {% endblock %}
+
 {% block extrahead %}
   <!-- 
  *****************************************************************************
@@ -53,8 +55,10 @@
     <meta name="DC.Date" content="2013-16-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
-    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
-    <link rel="shortcut icon" type="image/png" href="{{ pathto('_static/.besson.png', true)|e }}" />
+    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
+          href="http://perso.crans.org/besson/rss.xml" />
+    <link rel="shortcut icon" type="image/png"
+          href="{{ pathto('_static/.besson.png', true)|e }}" />
   <!-- Colors and text decoration.
    For example, :black:`text in black` or :blink:`text blinking` in rST -->
    <style type="text/css">
@@ -177,20 +181,23 @@
 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.js', true)|e }}"></script> -->
 
+<!-- Smooth Scroll plugin -->
+<script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
+
 <!-- scrollUp plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
 <style type="text/css"> /* Image style */
-#scrollUp {
-  bottom: 20px;
-  left:   25px;
-  height: 38px; /* Height of image */
-  width:  38px; /* Width  of image */
-  background: url({{ pathto('_images/.top.png', true)|e }}) no-repeat;
-}
+ #scrollUp {
+   bottom: 20px;
+   left:   25px;
+   height: 38px; /* Height of image */
+   width:  38px; /* Width  of image */
+   background: url({{ pathto('_images/.top.png', true)|e }}) no-repeat;
+ }
 </style>
 <script type="text/javascript">
-$(function () {
-  $.scrollUp({
+ $(function () {
+   $.scrollUp({
     scrollName: 'scrollUp',     // Element ID
     topDistance: '300',         // Distance from top before showing element (px)
     topSpeed: 300,              // Speed back to top (ms)
@@ -199,8 +206,8 @@ $(function () {
     animationOutSpeed: 200,     // Animation out speed (ms)
     scrollText: '',// Text for element
     activeOverlay: false,       // Set CSS color to display scrollUp active point, e.g '#00FFFF'
-  });
-});
+   });
+ });
 </script>
 
 <!-- Shortcuts.js -- Thanks to :
@@ -208,8 +215,8 @@ $(function () {
  * http://questionablecontent.com (for the idea) -->
 <script type="text/javascript" src="{{ pathto('_static/shortcuts.js', true)|e }}"></script>
 <script type="text/javascript">
-shortcut.add("h",function() {
-window.alert("Les raccourcis claviers suivants sont activés : \n"
+ shortcut.add("h",function() {
+  window.alert("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
@@ -219,55 +226,56 @@ window.alert("Les raccourcis claviers suivants sont activés : \n"
 +"  - http://perso.crans.org/besson/rss.xml\n"
 +" Ce site est maintenu par Lilian Besson © 2013.")
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });
 {% if prev %}shortcut.add("Left",function() {
-location.href="{{ prev.link|e }}";
+  location.href="{{ prev.link|e }}";
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });    
-shortcut.add("p",function() {
-location.href="{{ prev.link|e }}";
+ shortcut.add("p",function() {
+  location.href="{{ prev.link|e }}";
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });    {% endif %}
-shortcut.add("i",function() {
-location.href="index.html";
+ shortcut.add("i",function() {
+  location.href="index.html";
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });    
 {% if next %}shortcut.add("Right",function() {
-location.href="{{ next.link|e }}";
+  location.href="{{ next.link|e }}";
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });
-shortcut.add("n",function() {
-location.href="{{ next.link|e }}";
+ shortcut.add("n",function() {
+  location.href="{{ next.link|e }}";
             },{
-'type':'keydown',
-'propagate':false,
-'disable_in_input':true,
-'target':document
+  'type':'keydown',
+  'propagate':false,
+  'disable_in_input':true,
+  'target':document
             });{% endif %}
 </script>
 <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script>
 {{ super() }}
 {% endblock %}
+
 <!-- Now the footer -->
 {% block footer %}
 {{ super() }}
