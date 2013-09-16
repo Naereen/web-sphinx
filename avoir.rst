@@ -2,8 +2,16 @@
  Liste des **trucs à voir**
 ############################
 .. include:: .special.rst
+.. include:: .javascript.rst
 
+Tests JavaScript
+----------------
+
+Sticky Elements
+^^^^^^^^^^^^^^^
 .. versionadded:: 1.9
+
+Devrait permettre (un jour) d'avoir la barre supérieure fixe.
 
 .. raw:: html
 
@@ -24,6 +32,31 @@
      window.alert('Basic example callback triggered.');
      });
    </script>
+
+
+TimeAgo
+^^^^^^^
+Affiche des dates.
+
+Directement avec un script :
+
+.. raw:: html
+
+   <script type="text/javascript">
+   window.document.write("<br>Now: " + 
+    jQuery.timeago(new Date()) + "</br>" );
+   //=> "less than a minute ago"
+   window.document.write("<br>2008-07-17" + 
+    jQuery.timeago("2008-07-17") + "</br>" );
+   //=> "5 years ago"
+   </script>
+
+
+Ou avec un ``<abbr class="timeago">`` :
+
+.. raw:: html
+
+   <abbr class="timeago" title="2008-07-17T09:24:17Z">July 17, 2008</abbr>
 
 Espace d'expérimentations
 -------------------------

@@ -221,6 +221,14 @@ $(document).ready(function() {
 });
 </script>
 
+<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
+<script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+   jQuery("abbr.timeago").timeago();
+ });
+</script>
+
 <!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
 <style type="text/css">
