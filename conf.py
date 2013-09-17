@@ -262,8 +262,8 @@ html_use_smartypants = True
 html_sidebars = {
    '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
    'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   'CV*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
-   'CV*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
+   'cv*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
+   'cv*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
    '*/*': ['localtoc.html', 'searchbox.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
 }
 
@@ -329,9 +329,9 @@ latex_documents = [
 #   u'Lilian Besson', 'howto'),
 #  ('index_en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
 #   u'Lilian Besson', 'howto'),
-  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en.tex', u'Résumé - Lilian BESSON',
+  ('cv.en', 'cv.en.tex', u'Résumé - Lilian BESSON',
    u'Lilian Besson', 'howto'),
-  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr.tex', u'CV - Lilian BESSON',
+  ('cv.fr', 'cv.fr.tex', u'CV - Lilian BESSON',
    u'Lilian Besson', 'howto'),
 ]
 
@@ -344,10 +344,10 @@ latex_documents = [
 latex_use_parts = True
 
 # If true, show page references after internal links.
-latex_show_pagerefs = True
+latex_show_pagerefs = False
 
 # If true, show URL addresses after external links.
-latex_show_urls = True
+latex_show_urls = False
 
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
@@ -372,16 +372,16 @@ latex_preamble = r'''
 \usepackage[babel=true]{csquotes}
 \usepackage{hyperref}
 \usepackage{lastpage}
-\usepackage[scale=0.85]{geometry}
+\usepackage[scale=0.80]{geometry}
 %%\usepackage[top=0.9in, bottom=0.8in, left=0.6in, right=0.6in, landscape]{geometry}
 
 \usepackage{fancyhdr}
   \pagestyle{fancy}
 
    \lhead{Last Changed: \today}
-   \chead{Curriculum Vitæ}
-%   \lhead[Curriculum Vitae]{\today}
-%   \rhead[\today]{Curriculum Vitae}
+   \chead{Curriculum Vit\ae{}}
+%   \lhead[Curriculum Vit\ae{}]{\today}
+%   \rhead[\today]{Curriculum Vit\ae{}}
    \rhead{Lilian Besson}
    \lfoot{PDF\LaTeX{} from \texttt{reST}}
    \cfoot[]{}
@@ -399,10 +399,10 @@ latex_preamble = r'''
 
 \hypersetup{
    backref
-%  ,pdfpagemode=FullScreen
-%  ,pdfstartview={Fit}
-   ,pdftitle={CV - Lilian BESSON}
-   ,colorlinks=true
+%  ,pdfpagemode={FullScreen}
+   ,pdfstartview={Fit}
+   ,pdftitle={Lilian BESSON - Curriculum Vit\ae{}}
+   ,colorlinks={true}
 }
 '''
 
@@ -506,9 +506,9 @@ epub_tocdup = True
 # regardless of the global pdf_compressed setting.
 pdf_documents = [
   ('trademarks', u'Trademarks', u'Quoted Trademarks', u'Superman\\Lilian Besson'),
-#  ('CV_Lilian_BESSON.fr', 'CV_Lilian_BESSON.fr', u'CV - Lilian BESSON',
+#  ('cv.fr', 'cv.fr', u'CV - Lilian BESSON',
 #   u'Lilian Besson'),
-#  ('CV_Lilian_BESSON.en', 'CV_Lilian_BESSON.en', u'Résumé - Lilian BESSON',
+#  ('cv.en', 'cv.en', u'Résumé - Lilian BESSON',
 #   u'Lilian Besson')
 ]
 

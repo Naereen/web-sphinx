@@ -84,10 +84,10 @@ Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
 .. sidebar:: CV
 
-   Mon *CV* est disponible ici `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_ (en anglais).
+   Mon *CV* est disponible ici `<cv.pdf>`_ (en anglais).
    Il est réalisé en ``LaTeX`` avec le paquet *moderncv*.
    Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
-   est disponible ici `CV_Lilian_BESSON.fr <CV_Lilian_BESSON.fr.html>`_.
+   est disponible ici `cv.fr <cv.fr.html>`_.
 
 
 Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
@@ -354,7 +354,7 @@ Liens externes
 
  #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 
- #. `<http://naereen.qc.to>`_;
+ #. `<http://besson.or.gs>`_;
 
  #. `<http://lbesson.bitbucket.org>`_ :red:`New!`;
 
@@ -369,7 +369,7 @@ Liste des autres pages
    :maxdepth: 2
    :titlesonly:
    
-   CV_Lilian_BESSON.fr
+   cv.fr
    rss
    pgp
    NanoSyntax

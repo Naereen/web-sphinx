@@ -77,11 +77,11 @@ My projects on-line
 ^^^^^^^^^^^^^^^^^^^
 .. sidebar:: Résumé
 
-   My *résumé* is available here `CV_Lilian_BESSON <CV_Lilian_BESSON.html>`_. 
+   My *résumé* is available here `<cv.pdf>`_. 
    It is realised with ``LaTeX``, and the package *moderncv*. 
 
    A second version, produced from a ``reStructuredText`` file, 
-   is also available here `CV_Lilian_BESSON.en <CV_Lilian_BESSON.en.html>`_.
+   is also available here `cv.en <cv.en.html>`_.
 
 
 Feel free to *contact* me :
@@ -121,7 +121,7 @@ Pages in English
    :maxdepth: 2
    :titlesonly:
    
-   CV_Lilian_BESSON.en
+   cv.en
    transifex.en
    trademarks
    demo

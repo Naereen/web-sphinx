@@ -9,9 +9,9 @@
 .. sidebar:: Other language : in French
 
    This page is in *English*.
-   Maybe you would like to see it in `French <CV_Lilian_BESSON.fr.html>`_.
+   Maybe you would like to see it in `French <cv.fr.html>`_.
    I'm trying to keep those two files absolutly equivalent.
-   A **PDF** version is also available `CV_Lilian_BESSON.pdf <CV_Lilian_BESSON.pdf>`_
+   A **PDF** version is also available `cv.pdf <cv.pdf>`_
 
 
 Contact address
@@ -101,11 +101,13 @@ Miscellaneous
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Complex analysis, functional analysis and numerical optimization, exterior calculus, *Partial Differential Equations* approximation.
+   - :Mark: 15.25/20, *magna cum laude*.
  
  * **Computer Science** MSc (*Sept. 2012 to August 2013*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
+   - :Mark: ?/20, *magna cum laude*. (mark not get yet)
 
 
 MSc internship and thesis
@@ -132,7 +134,7 @@ MSc internship and thesis
 
      - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
      - :Domains: Functional analysis, integration, algebras, arithmetic, partial and ordinary differential equations, topology, differential geometry;
-     - :Mark: 15.2/20, *magna cum laude*.
+     - :Mark: 14.27/20, *magna cum laude*.
  
  * **Computer Science** BSc (*Sept. 2011 to July 2012*)
 

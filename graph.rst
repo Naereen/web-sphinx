@@ -60,7 +60,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 
    "fichier LaTeX" -- "fichier PDF"
    ".tex" -- ".pdf";
-   "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.pdf";
+   "cv.tex" -- "cv.pdf";
 
 **HeVeA** permet de réaliser la transformation suivante
 (avec comme exemple mon CV écrit en **LaTeX**) :
@@ -69,7 +69,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 
    "fichier LaTeX" -- "page web (HTML)"
    ".tex" -- ".html";
-   "CV_Lilian_BESSON.tex" -- "CV_Lilian_BESSON.hevea.html";
+   "cv.tex" -- "cv.hevea.html";
 
 Les Hautes-Alpes
 ^^^^^^^^^^^^^^^^

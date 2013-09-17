@@ -2,8 +2,8 @@
 # Makefile for Sphinx documentation
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='15'
-#	__date__='dimanche 28/07/2013 at 12h:59m:27s'
+#	__version__='16'
+#	__date__='mardi 17/09/2013 at 12h:59m:27s'
 #
 
 # You can set these variables from the command line.
@@ -66,12 +66,12 @@ send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
 
 send_latexpdf: gpglatex
 	-pkill gnuplot
-	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc besson@zamok.crans.org:~/www/
-	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc ~/Public/
-	$(CP) .build/latex/CV*.pdf .build/latex/CV*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) .build/latex/*.pdf besson@zamok.crans.org:~/www/pdf/
-	$(CP) .build/latex/*.pdf ~/Public/pdf/
-	$(CP) .build/latex/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
+	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
+	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
+	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
+	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 obscure:
 	@echo "Launching ./.obscure_email.sh ..."
@@ -82,37 +82,30 @@ fixperms:
 	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
 	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
-meta=/tmp/CV_Lilian_BESSON.meta
+meta=/tmp/cv.meta
 
 gpglatex: latexpdf
-	pdftk .build/latex/CV_Lilian_BESSON.en.pdf dump_data output $(meta)
-	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=.build/latex/CV_Lilian_BESSON.en.pdf~ .build/latex/CV_Lilian_BESSON.en.pdf
-	pdftk .build/latex/CV_Lilian_BESSON.en.pdf~ update_info $(meta) output .build/latex/CV_Lilian_BESSON.en.pdf
-	$(GPG) .build/latex/CV_Lilian_BESSON.en.pdf
-
-	pdftk .build/latex/CV_Lilian_BESSON.fr.pdf dump_data output $(meta)
-	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=.build/latex/CV_Lilian_BESSON.fr.pdf~ .build/latex/CV_Lilian_BESSON.fr.pdf
-	pdftk .build/latex/CV_Lilian_BESSON.fr.pdf~ update_info $(meta) output .build/latex/CV_Lilian_BESSON.fr.pdf
-	$(GPG) .build/latex/CV_Lilian_BESSON.fr.pdf
-	rm -f $((meta)
+	cp -fv $(BUILDDIR)/latex/cv*.pdf ./
+	PDFCompress --sign cv*.pdf
+	mv -fv ./cv*.pdf* $(BUILDDIR)/latex/
 
 send_pdf: fixperms
-	$(CP) .build/pdf/*.pdf besson@zamok.crans.org:~/www/pdf/
-	$(CP) .build/pdf/*.pdf ~/Public/pdf/
-	$(CP) .build/pdf/*.pdf lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
+	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
+	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_public:
-	$(CP) -r .build/html/ ~/Public/
+	$(CP) -r $(BUILDDIR)/html/ ~/Public/
 	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 
 send_dpt: fixperms
 	-rm -vf *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
-	$(CP) -r .build/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
 	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
-	$(CP) -r .build/html/ besson@zamok.crans.org:~/www/
+	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
 	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
 
 rss:	gpgrss
@@ -140,6 +133,10 @@ clean_build:
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
+
+scripts-rec: scripts
+	mkdir --parents $(BUILDDIR)/html/_static/
+	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
 	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
 
 pyDoc:
@@ -155,13 +152,13 @@ pdf: ./.pdf_all.sh
 	-pkill gnuplot
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
-cv.fr:	CV_Lilian_BESSON.fr.rst
-	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.fr.pdf -c CV_Lilian_BESSON.fr.rst
-	$(CP) CV_Lilian_BESSON.fr.pdf .build/html/
+cv.fr:	cv.fr.rst
+	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o cv.fr.pdf -c cv.fr.rst
+	$(CP) cv.fr.pdf $(BUILDDIR)/html/
 
-cv.en:	CV_Lilian_BESSON.en.rst
-	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o CV_Lilian_BESSON.en.pdf -c CV_Lilian_BESSON.en.rst
-	$(CP) CV_Lilian_BESSON.en.pdf .build/html/
+cv.en:	cv.en.rst
+	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o cv.en.pdf -c cv.en.rst
+	$(CP) cv.en.pdf $(BUILDDIR)/html/
 
 slides:	.slides.sh
 	./.slides.sh
@@ -207,13 +204,16 @@ clean:	clean_pyc clean_build
 
 hieroglyph:
 	$(SPHINXBUILD) -b slides $(ALLSPHINXOPTS) $(BUILDDIR)/slides 2>&1 | tee /tmp/sphinx.log
-	@echo "Build finished. The HTML slidess are in $(BUILDDIR)/slides."
+	@echo "Build finished. The HTML slides are in $(BUILDDIR)/slides."
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1 | tee /tmp/sphinx.log
 	-if [ -f "scripts/jquery.js" ]; then cp -f -v "scripts/jquery.js" $(BUILDDIR)/html/_static/; fi
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	-if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/html/transifex.html; fi
+
+gpghtml: ./.gpghtml.sh
+	./.gpghtml.sh
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml

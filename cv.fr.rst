@@ -9,9 +9,9 @@
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <CV_Lilian_BESSON.en.html>`_ 
+   Peut-être préférez-vous la consulter en `anglais <cv.en.html>`_ 
    (le contenu est équivalent).
-   Une version en **PDF** est disponible `CV_Lilian_BESSON.pdf <CV_Lilian_BESSON.pdf>`_.
+   Une version en **PDF** est disponible `cv.pdf <cv.pdf>`_.
 
 Adresse de contact
 ------------------
@@ -100,11 +100,13 @@ Divers
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Analyse complexe, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
+   - :Note: 15.25/20, *magna cum laude*.
  
  * M1 d'**Informatique** (*Sept. 2012 à Août 2013*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
+   - :Note: ?/20, *magna cum laude*. (note finale pas encore obtenue)
 
 
 Stage et rapport de stage de M1

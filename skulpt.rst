@@ -125,8 +125,8 @@ Autres pages
  Le premier terminal **Python** que j'ai intégré dans mes pages est là
  `<python.html>`_.
 
-.. Sinon, *normalement*, le sous dossier `<Python>`_ contient une copie locale
-.. de la documentation de **Python 2.7.3**.
+ Sinon, *normalement*, le sous dossier `<python-doc/>`_ contient une copie locale
+ de la documentation de **Python 2.7.3**.
 
 .. Et enfin, l'archive `<Python/Python-3.3.0-custom.tar.xz>`_ est un copie
 .. de Python 3.3 que je modifie (petit à petit) pour m'amuser.
