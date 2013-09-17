@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /.moi.jpg
+Disallow: /_images/.moi.jpg
+Disallow: /admin.html
+Disallow: /*.asc
+Disallow: /*.tar.*
+Disallow: /Lilian_Besson.public.asc

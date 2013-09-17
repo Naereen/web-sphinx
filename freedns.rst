@@ -32,20 +32,29 @@ FreeDNS ?
 Liste des sous-domaines que j'utilise
 -------------------------------------
 
- * `besson.qc.to <http://besson.qc.to>`_ vers http://perso.crans.org/besson;
+ * `besson.qc.to <http://besson.qc.to>`_ 
+    vers http://perso.crans.org/besson;
 
- * `lbesson.qc.to <http://lbesson.qc.to>`_ vers http://www.dptinfo.ens-cachan.fr/~lbesson;
+ * `lbesson.qc.to <http://lbesson.qc.to>`_
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson;
 
- * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_ vers https://bitbucket.org/lbesson/;
+ * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_
+    vers https://bitbucket.org/lbesson/;
 
- * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_ vers http://perso.crans.org/besson/cv.pdf;
+ * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
+    vers http://perso.crans.org/besson/cv.pdf;
+
+ * `besson.or.gs <http://besson.or.gs>`_
+    vers http://perso.crans.org/besson;
+
 
 .. * `naereencorp.qc.to <http://naereencorp.qc.to>`_ vers https://sites.google.com/site/naereencorp;
 
- * `naereen.qc.to <http://naereen.qc.to>`_ vers http://perso.crans.org/besson;
+..  * `naereen.qc.to <http://naereen.qc.to>`_ vers http://perso.crans.org/besson;
 
 .. * `lbesson.ftp.sh <http://lbesson.qc.to>`_ vers mon CV (ce qui est drôle avec celui là
 ..   c'est la forme du lien : .ftp.sh, on dirait un script Shell...).
+
 
 .. note::
 

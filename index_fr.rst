@@ -2,9 +2,9 @@
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson's personal web page
 
-##########################################################
- Bienvenue sur la page personnelle de **Lilian Besson** !
-##########################################################
+#############################################################
+ Bienvenue sur les pages personnelles de **Lilian Besson** !
+#############################################################
 .. include:: .special.rst
 
 A propos de moi
@@ -310,6 +310,12 @@ Extensions non officielles
 
 JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Toutes les pages utilisent du JavaScript pour de nombreuses petites
+ fonctionnalités. Certaines sont expliquées dans la page `<js.html>`_ (en cours de rédaction).
+ Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
+ `web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
+
+
  Certaines pages présentent aussi l'intégration de projets sympas, écrits
  en **JavaScript** :
 
@@ -353,9 +359,11 @@ Liens externes
 
  #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 
- #. `<http://besson.or.gs>`_;
+ #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`;
 
- #. `<http://lbesson.bitbucket.org>`_ :red:`New!`;
+ #. `<http://lbesson.bitbucket.org>`_;
+
+ #. `<https://jarvis.crans.org>`_;
 
 .. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
 

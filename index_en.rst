@@ -2,9 +2,9 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-################################################
- Welcome to the web page of **Lilian Besson** !
-################################################
+###########################################
+ Welcome to **Lilian Besson**'s web page !
+###########################################
 .. include:: .special.rst
 
 .. warning::
