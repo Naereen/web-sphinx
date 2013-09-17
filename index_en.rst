@@ -26,12 +26,12 @@ Who am I ?
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
 
-In 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
-and in 2012/2013 I graduated two first half of Masters of Science,
-in *mathematics* and *Computer Science* (again, both with *magna cum laude*).
-
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
 to eventually become a Maths teacher in “classes préparatoires”.
+
+In 2012/2013 I graduated two first half of Masters of Science,
+in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
+and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^

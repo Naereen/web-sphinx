@@ -27,7 +27,7 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure warnings severes errors
+total: html images obscure send_public send_zamok send_dpt warnings severes errors
 
 local: html images obscure send_public warnings severes errors
 
@@ -101,12 +101,12 @@ send_public:
 send_dpt: fixperms
 	-rm -vf *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
+	-$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
 	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
-	$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
+	-$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
 
 rss:	gpgrss
 	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/

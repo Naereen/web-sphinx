@@ -30,14 +30,13 @@ et en 2013/2014, je prépare le concours national de l'`agregation <http://agreg
 via la préparation proposée par l'ENS Cachan, en option informatique.
 (*L'objectif étant de devenir prof. en classes préparatoires.*)
 
+En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
+et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
+les deux avec une mention Bien.
 
 En 2011/2012, j'ai obtenu deux licences, en **maths** et en **informatique**,
 mention Bien
 (L3, *Bachelor of Science* en anglais).
-
-En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
-et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
-les deux avec une mention Bien.
 
 
 Adresses de contact
