@@ -8,9 +8,12 @@
 .. include:: .special.rst
 .. sidebar:: Autre langue : en anglais ?
 
-   Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <cv.en.html>`_ 
-   (le contenu est équivalent).
+   .. Cette page est en *français*.
+   .. Peut-être préférez-vous la consulter en `anglais <cv.en.html>`_ 
+   .. (le contenu est équivalent).
+
+   :red:`This page is written in *French*. Maybe you would like to read the `English <cd.en.html>`_ version ?`
+   
    Une version en **PDF** est disponible `cv.pdf <cv.pdf>`_.
 
 Adresse de contact

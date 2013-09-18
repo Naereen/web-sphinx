@@ -9,10 +9,14 @@
 
 A propos de moi
 ---------------
+Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
+
 .. sidebar:: Autre langue : en anglais ?
 
-   Cette page est en *français*.
-   Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   .. Cette page est en *français*.
+   .. Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   
+   :red:`This page is written in *French*. Maybe you would like to read the `English <index_en.html>`_ version ?`
    
    Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
    au mieux selon les préférences de votre navigateur.
@@ -21,7 +25,6 @@ A propos de moi
    Ces pages ont été générées le |today| pour la *dernière fois*.
 
 
-Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
 
 Recherche et étude
 ^^^^^^^^^^^^^^^^^^

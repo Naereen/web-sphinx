@@ -7,24 +7,21 @@
 ###########################################
 .. include:: .special.rst
 
-.. warning::
-   
-   Those web pages **are still in construction** !
-   In particular, the English versions of each pages are *not* yet available.
-   But, I'm working on it !
-
-.. sidebar:: Other language : in French
-
-   This page is in *English*.
-   Maybe you would like to see it in `French <index_fr.html>`_.
-   
-   Now, the page `<index.html>`_ redirects to index_fr or index_en, according
-   to the preference of your browser.
-
 Who am I ?
 ----------
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
+
+.. sidebar:: Other language : in French
+
+   .. This page is in *English*.
+   .. Maybe you would like to see it in `French <index_fr.html>`_.
+   
+   :red:`Cette page est en anglais. Peut-être voulez-vous la voir `en français <index_fr.html>`_ ?`
+   
+   Now, the page `<index.html>`_ should redirect to index_fr or index_en, according
+   to the preference of your browser.
+
 
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
 to eventually become a Maths teacher in “classes préparatoires”.
@@ -32,6 +29,13 @@ to eventually become a Maths teacher in “classes préparatoires”.
 In 2012/2013 I graduated two first half of Masters of Science,
 in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
 and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
+
+.. warning::
+   
+   Those web pages **are still in construction** !
+   In particular, the English versions of each pages are *not* yet available.
+   But, I'm working on it !
+
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^

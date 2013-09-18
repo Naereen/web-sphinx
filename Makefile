@@ -27,9 +27,9 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure send_public send_zamok send_dpt warnings severes errors
+total: html gpghtml images obscure send_public send_zamok send_dpt warnings severes errors
 
-local: html images obscure send_public warnings severes errors
+local: html gpghtml images obscure send_public warnings severes errors
 
 warnings:
 	@echo "Searching for warnings ..."
