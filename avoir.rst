@@ -16,22 +16,49 @@ Devrait permettre (un jour) d'avoir la barre supérieure fixe.
 .. raw:: html
 
    <h2 class="my-sticky-element">Sticky Elements</h2>
+
+
+.. raw:: html
+
+   <!-- FIXME -->
    <script type="text/javascript">
    $(document).ready(function() {
-   	$('.my-sticky-element').waypoint('sticky');
-   	});
+     $('.my-sticky-element').waypoint('sticky');
+   });
    </script>
+   <!-- FIXME -->
    <script type="text/javascript">
    $('#example-direction').waypoint(function(direction) {
      window.alert('Direction example triggered scrolling ' + direction);
-     }, { offset: 25%} );
-   $('#example-basic').waypoint(function() {
+     }, { offset: 25} );
+   $('example-direction').waypoint(function(direction) {
+     window.alert('Direction example triggered scrolling ' + direction);
+     }, { offset: 25} );
+   $('.#example-direction').waypoint(function(direction) {
+     window.alert('Direction example triggered scrolling ' + direction);
+     }, { offset: 25} );
+   $('.example-direction').waypoint(function(direction) {
+     window.alert('Direction example triggered scrolling ' + direction);
+     }, { offset: 25} );
+   
+  $('#example-basic').waypoint(function() {
      window.alert('Basic example callback triggered.');
      });
    $('example-basic').waypoint(function() {
      window.alert('Basic example callback triggered.');
      });
+   $('.#example-basic').waypoint(function() {
+     window.alert('Basic example callback triggered.');
+     });
+   $('.example-basic').waypoint(function() {
+     window.alert('Basic example callback triggered.');
+     });
    </script>
+
+
+.. raw:: html
+
+   <h2 class="my-sticky-element">Sticky Elements</h2>
 
 
 TimeAgo
@@ -146,6 +173,13 @@ Citation random !
 
 ------------------------------------------------------------------------------
 
+.. raw:: html
+
+   <pre id="example-basic">
+    <br>#example-basic a été passé.</br>
+   </pre>
+
+
 .. versionadded:: 1.8
 
 Tests : auto mailto: ?
@@ -169,9 +203,6 @@ Test JavaScript
 
 .. raw:: html
 
-   <pre id="example-basic">
-    <br>#example-basic a été passé.</br>
-   </pre>
    <noscript>Exemple non disponible sans JavaScript...</noscript>
    <script type="text/javascript"> 
     window.document.write(

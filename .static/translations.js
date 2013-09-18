@@ -17,7 +17,7 @@ Documentation.addTranslations({
   "Hide Search Matches": "Cacher les r\u00e9sultats de la recherche", 
   "Permalink to this definition": "Lien permanent vers cette d\u00e9finition", 
   "Permalink to this headline": "Lien permanent vers ce titre"
- }
+ },
  "Collapse sidebar": "Fermer la barre lat\u00e9rale",
  "Expand sidebar": "Ouvrir la barre lat\u00e9rale",
 });
