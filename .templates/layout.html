@@ -8,7 +8,8 @@
 {% block relbaritems %}
  <!-- Display info is Javascipt available. -->
  <script type="text/javascript">
-   window.document.write("<li><span style=\"color: grey\">Page '"
+  function writeLocationOfThePage(arg1, arg2) {
+   window.document.write(arg1 + "<span style=\"color: grey\">Page '"
     + "<a style=\"color: grey\" href=\""
     + window.location.protocol + "//"
     + window.location.host
@@ -19,7 +20,9 @@
     + window.location.host
     + window.location.port
     + window.location.pathname
-    + "</a>'</span></li>")
+    + "</a>'</span>" + arg2)
+  };
+  writeLocationOfThePage("<li>", "</li>");
  </script>
  <noscript>
   <li><span style="color:red">(JavaScript is disabled)</span></li>
@@ -52,7 +55,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-16-13" />
+    <meta name="DC.Date" content="2013-18-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -178,9 +181,8 @@
   })();
 </script>
 
-<!-- External scripts -->
+<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
-<!-- <script type="text/javascript" src="{{ pathto('_static/jquery.js', true)|e }}"></script> -->
 
 <!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
@@ -208,7 +210,7 @@ $(document).ready(function() {
   speed:  300,
 
   // coefficient for "auto" speed
-  autoCoefficent: 2,
+  autoCoefficent: 3,
 
   // $.fn.smoothScroll only: whether to prevent the default click action
   preventDefault: true,
@@ -354,8 +356,9 @@ $(document).ready(function() {
   + navigator.userAgent + "."
  + "<br/>Taille d'écran <span style=\"color: white\">"
   + screen.availWidth + "x"
-  + screen.availHeight + "</span>. "
- + " <span style=\"color: grey\">Page '"
+  + screen.availHeight + "</span>.  ");
+  writeLocationOfThePage("", "");
+ /*+ " <span style=\"color: grey\">Page '"
   + "<a style=\"color: grey\" href=\""
    + window.location.protocol + "//"
    + window.location.host
@@ -367,7 +370,7 @@ $(document).ready(function() {
   + window.location.port
   + window.location.pathname
  + "</a>'.</span></span>"
- );
+ );*/
 </script>
 Votre adresse IP est <script type="text/javascript" src="http://l2.io/ip.js"></script><noscript>inconnue</noscript>.
 <br/><p>
@@ -378,7 +381,6 @@ Votre adresse IP est <script type="text/javascript" src="http://l2.io/ip.js"></s
 <img style="width:88px;height:31px;margin-left=100px" class="align-left" alt="CSS Valide ?"
      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAABjFBMVEUAAAAHCAkLCwsPERMTFBUTFhgcHBwaHiEcICMjIyMiJyskKi4oKCgnLTEoLjMrMjYuNTozMzMxOD07Ozs1PUI4QEY8Rkw/SVBLS0xBS1JPT1BJVFtUVVVbW1tEXW9NWGFQXGVZXmJVYWtYZW9baXNlZWVra2xgb3licXx7e3sAWpwIX58fW4cJYJ8NYqERZaIVaKQaa6YebagybZkhb6klcqopdawxea85dKE1fLA4frJoeIRuf4s8gbNEhrZHiLdKirlVkb1alL9rg5dwgY10hpJ8j512kad/k6BdlsBjmsJpnsRtocZ1pcl8qsyBg4WJjpaXl5eYmJiBlKKGmqiInayQl6CNorGZoaqjpaarq620tLS/v7+Crs6GsM+FsNCJs9GbssKft8iQt9SVutWYvNebvtihusulvtCfwdqjw9upw9WqxtqsyNywy96yzeC20OPCwsLMzMzU1NTY2NjA1ufG2ujN3+zT4+7d6fLn5+fs7Ozi7PPp8fbu9Pjz8/Py9/r1+Pv+/v7MzMx+ha5eAAAAhHRSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCX0ja+AAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgARslrPgAAAu9JREFUSMftlf9TEkEUwBclv9WQ5gkHUpCWju8auKGUxNLILzNiGIppfifHxEHulkj8kiCw/ePt3npw2ClOwm+9mX339jH7Yffte29RtuGy/psJypL6ksd3ly+x580BrzcL/PU/2AycCkTp6sRogkEuJSnAJExI8fNQlmyW/x18DjIl5iDEwCngskiIiJDluOfYDJy5WyjG4JRqPxSonodwIX8Acomso0cjvdaWi3vEOArbVAchRbUM54SMMtPVS6PwcuSmGGfMt10DzsE4XQ1A43oCYzTcbE6s7KdyUQfPeewD3/DRjNM+mMRqvL/Ps3YDGKCSFT4ahQMAPyGLECUFP5zQq+usyQonsnS3e7AXPX5iXVHjqEPoGDAHvwJG5uAwPXoYgpCh8ciRCMCnS1IWjeA4aktivIetHSpW0vRv9jA+Mu0Vr7W7vwKnaBR8AQWiebbrsAwwXiJLRvAgGtTW2VGrfQXjGbr/mbQZ+O1VVnFwAXwYIiVp7AA+svmJHxTywwj2oGFtXXrChtA7egLBgux/Y9XJK65eeSEaB0wmgWcGIQsQqa28WdSl4MwhPqSHRQ6cVDNHra23cHXwDoCvTLMB4FKbYxi9VtI29MAjeHGL4LWhWeyw9TtQv85TQvvcqHJ18CnAB1aC8J6jFAhccKtY5GBlWGgX1vCE0NU3kcZxx8PuF0kdHARf4hq30oQC8F0rwQTZn9dCMbXFyUNb1QLJGErCYDOetF3hPqvpbhHIayV4Rq1oIeWHVPnpL8a1/KxX0gucF53SPtJ0bdvEQaZzbwgpySABK71sm9vdiZbqtk0lBFWR5q714/K29qE9jZwtyHKEtgly7G7r2WDe89v7TiUXKDfR2EYfrnAb/YJEOHe38U8Tu0HfbjPevEWJ7bcZj+nO7n1eaVU15hk28RvAm3VlY5VKjKllplaXuB1brvpj3L+8Ojukg0W3KLpcrprhFvnQ5qIoOkUmdjaYonMn9zq5V7dFhurRwH8AqGY+zFuBk5IAAAAASUVORK5CYII=" /></a>
 <!-- Paragraphe final -->
-<!-- <p class="pull-right"><a href="#">Retourner en haut (en attendant d'avoir un joli bouton pour le faire seul)</a></p> -->
 Toutes remarques, questions, ou notifications de bugs peuvent être posées via cette page
 <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.
 <br/>Si cela concerne un des scripts JavaScript présents sur mes pages, veuillez utiliser
@@ -419,7 +421,7 @@ pour collecter des statistiques, ce qui peut être désactivé avec
 <li><a class="reference external image-reference" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
 </ul>
+</div>
+</div>
 <!-- End of the part generated by .templating/layout.html -->
-</div>
-</div>
 {% endblock %}

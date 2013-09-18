@@ -400,6 +400,7 @@ Liste des autres pages
    time
    publis
    bin
+   js
    vieprivee
    tutoweb
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>

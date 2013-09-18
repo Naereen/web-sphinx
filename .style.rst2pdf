@@ -98,7 +98,7 @@
     base:
       parent: null
       fontName: stdFont
-      fontSize: 8
+      fontSize: 10
       leading: 12
       leftIndent: 0
       rightIndent: 0
@@ -266,59 +266,59 @@
 
     toc2:
       parent: toc
-      leftIndent: 20
+      leftIndent: 5
 
     toc3:
       parent: toc
-      leftIndent: 40
+      leftIndent: 10
 
     toc4:
       parent: toc
-      leftIndent: 60
+      leftIndent: 20
 
     toc5:
       parent: toc
-      leftIndent: 80
+      leftIndent: 30
 
     toc6:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc7:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc8:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc9:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc10:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc11:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc12:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc13:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc14:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     toc15:
       parent: toc
-      leftIndent: 100
+      leftIndent: 40
 
     footer:
       parent: normal
@@ -353,7 +353,7 @@
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
              [RIGHTPADDING, [ 0, 0 ], [ 1, -1 ], 0 ]
-      colWidths: ["20", null]
+      colWidths: [5pt, null]
 
     bullet-list-item:
       parent: bodytext
@@ -363,7 +363,7 @@
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
              [RIGHTPADDING, [ 0, 0 ], [ 1, -1 ], 0 ]
-      colWidths: [20pt,null]
+      colWidths: [5pt,null]
 
     item-list-item:
       parent: bodytext
@@ -371,7 +371,7 @@
     definition-list-term:
       parent: normal
       fontName: stdBold
-      spaceBefore: 4
+      spaceBefore: 3
       spaceAfter: 0
       keepWithNext: false
 
@@ -384,7 +384,7 @@
       firstLineIndent: 0
       bulletIndent: 0
       spaceBefore: 0
-      colWidths: [20pt,null]
+      colWidths: [5pt,null]
       commands: []
                     [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
                     [LEFTPADDING, [ 0, 0 ], [ -1, -1 ], 0 ]
@@ -412,7 +412,7 @@
       parent: normal
       keepWithNext: true
       spaceBefore: 12
-      spaceAfter: 6
+      spaceAfter: 4
 
     title:
       parent: heading
@@ -424,7 +424,7 @@
 
     subtitle:
       parent: title
-      spaceBefore: 12
+      spaceBefore: 8
       fontSize: 75%
 
     heading1:
@@ -691,7 +691,7 @@
             [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
             [TOPPADDING, [ 0, 0 ], [ -1, -1 ], 0 ]
         colWidths: [3cm, null]
-        spaceBefore: 6
+        spaceBefore: 2
 
     option-list:
         commands: []

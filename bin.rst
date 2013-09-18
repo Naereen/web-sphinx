@@ -34,7 +34,7 @@ Liste des scripts
     Tous ces scripts fonctionnent normalement correctement sur ma machine (Ubuntu 12.04.3 LTS, GNU Bash v4.2).
     Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
     voir même échouent complètement.
-    **Tout retour d'utilisation est le bienvenue**.
+    **Tout retour d'utilisation est le bienvenu**.
     
     Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues?action=new>`_,
     ou encore m'envoyer un mail.

@@ -64,7 +64,7 @@ images:
 
 send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
 
-send_latexpdf: gpglatex
+send_latexpdf: fixperms
 	-pkill gnuplot
 	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
 	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
@@ -88,6 +88,11 @@ gpglatex: latexpdf
 	cp -fv $(BUILDDIR)/latex/cv*.pdf ./
 	PDFCompress --sign cv*.pdf
 	mv -fv ./cv*.pdf* $(BUILDDIR)/latex/
+
+gpgpdf: pdf
+	cp -fv $(BUILDDIR)/pdf/*.pdf ./
+	PDFCompress --no-compress --no-keep --sign *.pdf
+	mv -fv ./*.pdf* $(BUILDDIR)/pdf/
 
 send_pdf: fixperms
 	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
