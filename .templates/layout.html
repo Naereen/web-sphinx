@@ -230,27 +230,26 @@ $(document).ready(function() {
 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
 <style type="text/css">
-.my-sticky-element {
- text-align: center;
- margin:     0 auto;
- font-size:  24px;
-}
-.my-sticky-element.stuck {
- position:   fixed;
- top:        0;
- box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
+ .my-sticky-element {
+   margin:     0 auto;
+ }
+ .my-sticky-element.stuck {
+   position:   fixed;
+   top:        0;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
+ }
 </style>
 <script type="text/javascript">
-$(document).ready(function() {
- $('.related').waypoint('sticky', {
-   offset: 0 // Apply "stuck" when element 30px from top
+ $(document).ready(function() {
+  $('.related').waypoint('sticky', {
+    offset: 0 // Apply "stuck" when element 0px from top
+  });
  });
-});
-$(document).ready(function() {
- $('.my-sticky-element').waypoint('sticky', {
-   offset: 0 // Apply "stuck" when element 30px from top
+ $(document).ready(function() {
+  $('.my-sticky-element').waypoint('sticky', {
+    offset: 30 // Apply "stuck" when element 30px from top
+  });
  });
-});
 </script>
 
 <!-- scrollUp plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->

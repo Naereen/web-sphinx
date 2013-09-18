@@ -101,10 +101,6 @@ Exemple
 
  .. warning:: Seulement pour la version **HTML** !
 
-..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
-..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
- 
-
  Normalement, ça marche ;)
 
  .. note:: 
@@ -116,7 +112,7 @@ Exemple
     *Pourquoi ?* Pour rien. Ou si en fait. Pour tenter d'éviter de laisser mes adresses
     éléctroniques en clair dans les **nouveaux** documents que je produit.
 
-    *Pourquoi seulement nouveaux ?* Parce que je ne savais pas que des *bot*s peuvent
+    *Pourquoi seulement nouveaux ?* Parce que je ne savais pas que des *bots* peuvent
     scanner des millions de pages par jour à la recherche d'adresse électronique,
     afin d'envoyer du spam.
     Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
@@ -127,6 +123,10 @@ Exemple
     réalise cette substitution automatiquement, pour tous les documents
     textuels générés via Sphinx, avant de les envoyer vers un serveur.
     Comme ça, c'est facile et automatique :)
+
+
+..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
+..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
 
 
 Ma clé publique

@@ -1,4 +1,14 @@
+{#
+    .templates/sourcepdf.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Add links to a PDF and a .txt version of each pages.
+
+    :copyright: Copyright 2013 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
 {%- if show_source and has_source and sourcename %}
+<div class="will-be-sticky">
 <h3>{{ _('Cette page en PDF ou en texte seul') }}</h3>
 <ul class="this-page-menu">
  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}"
@@ -7,4 +17,5 @@
         rel="nofollow">Voir le fichier source rST</a></li>
  <li><br><a href="{{ pathto('download')|e }}" rel="nofollow">Page de téléchargement</a></li><br/>
 </ul>
+</div>
 {%- endif %}
