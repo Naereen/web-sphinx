@@ -20,6 +20,23 @@ div.clearer {
 /* -- a test FIXME ----------------------------------------------------------- */
 
 div.will-be-sticky {
+    padding: 10px 5px 0 10px;
+    float: left;
+    width: 230px;
+    font-size: 90%;
+    top: 40px;
+}
+
+div.will-be-sticky.stuck {
+    position: fixed;
+}
+
+div.is-sticky {
+    padding: 10px 5px 0 10px;
+    float: left;
+    width: 230px;
+    font-size: 90%;
+    bottom: 240px;
     position: fixed;
 }
 
