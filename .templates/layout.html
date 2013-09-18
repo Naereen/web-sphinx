@@ -91,11 +91,6 @@
     .it		{font-style: italic}
     .ob		{font-style: oblique}
    </style>
-  <!-- Style pour la barre de début de page. TODO FIXME TODO FIXME
-   Merci à http://imakewebthings.com/jquery-waypoints/#get-started pour l'inspiration -->
-   <style type="text/css">
-    /* FIXME */
-   </style>
 
   <!-- Style pour les badges en bas de la page. 
    Merci à http://www.crans.org/ pour l'inspiration -->
@@ -230,28 +225,28 @@ $(document).ready(function() {
 </script>
 
 <!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
-<!-- <script type="text/javascript" src="{{ pathto('_static/waypoints.js', true)|e }}"></script> -->
 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
 <style type="text/css">
 .my-sticky-element {
- text-align:center;
- background:#6a6272;
- color:#eae2f2;
- width:460px;
- margin:0 auto;
- font-size:24px;
+ text-align: center;
+ margin:     0 auto;
+ font-size:  24px;
 }
 .my-sticky-element.stuck {
- position:fixed;
- top:0;
- box-shadow:0 2px 4px rgba(0, 0, 0, .3);
-}
+ position:   fixed;
+ top:        0;
+ box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
 </style>
 <script type="text/javascript">
 $(document).ready(function() {
+ $('.related').waypoint('sticky', {
+   offset: 0 // Apply "stuck" when element 30px from top
+ });
+});
+$(document).ready(function() {
  $('.my-sticky-element').waypoint('sticky', {
-   offset: 30 // Apply "stuck" when element 30px from top
+   offset: 0 // Apply "stuck" when element 30px from top
  });
 });
 </script>

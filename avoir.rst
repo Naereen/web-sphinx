@@ -15,7 +15,7 @@ Devrait permettre (un jour) d'avoir la barre supérieure fixe.
 
 .. raw:: html
 
-   <h2 class="my-sticky-element">Sticky Elements</h2>
+   <h2 class="my-sticky-element">Sticky Element 1</h2>
 
 
 .. raw:: html
@@ -58,7 +58,7 @@ Devrait permettre (un jour) d'avoir la barre supérieure fixe.
 
 .. raw:: html
 
-   <h2 class="my-sticky-element">Sticky Elements</h2>
+   <h2 class="my-sticky-element">Sticky Element 2</h2>
 
 
 TimeAgo
@@ -176,7 +176,14 @@ Citation random !
 .. raw:: html
 
    <pre id="example-basic">
-    <br>#example-basic a été passé.</br>
+    <br>id example-basic a été passé.</br>
+   </pre>
+
+
+.. raw:: html
+
+   <pre class="example-basic">
+    <br>class example-basic a été passé.</br>
    </pre>
 
 
@@ -235,7 +242,10 @@ Test JavaScript
 .. raw:: html
 
    <pre id="example-direction">
-    <br>#example-direction a été passé.</br>
+    <br>id example-direction a été passé.</br>
+   </pre>
+   <pre class="example-direction">
+    <br>class example-direction a été passé.</br>
    </pre>
    <noscript>Exemple non disponible sans JavaScript...</noscript>
    <script type="text/javascript">
