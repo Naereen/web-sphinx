@@ -1,21 +1,16 @@
 {%- if show_source and has_source and sourcename %}
-<!-- <h3>{{ _('Mon CV en anglais ?') }}</h3>
-<ul class="this-page-menu">
-  <li><a href="cv.en.html"
-         rel="nofollow">Voir la version anglaise, en HTML.</a></li></br>
-</ul><br/> -->
 <h3>{{ _('My résumé in English ?') }}</h3>
 <ul class="this-page-menu">
-  <li><a href="cv.en.html"
-         rel="nofollow">Consult the English version, in HTML.</a></li></br>
+  <li><a style="text-decoration: underline" href="cv.en.html"
+         rel="nofollow">Consult it in English</a>, in HTML.</li></br>
 </ul><br/>
 <h3>{{ _('Mon CV en PDF') }}</h3>
 <ul class="this-page-menu">
-  <li><a href="cv.pdf"
+  <li><a style="text-decoration: underline" href="cv.pdf"
          rel="nofollow">Voir la version PDF</a>, compilée depuis LaTeX par pdflatex.</li></br></br>
-  <li><a href="cv.fr.pdf"
+  <li><a style="text-decoration: underline" href="cv.fr.pdf"
          rel="nofollow">Voir la version PDF</a>, compilée depuis rST (avec rst2latex et pdflatex), en français.</li></br>
-  <li><a href="cv.en.pdf"
+  <li><a style="text-decoration: underline" href="cv.en.pdf"
          rel="nofollow">Voir la version PDF</a>, compilée depuis rST (avec rst2latex et pdflatex), en anglais.</li></br>
 </ul>
 {%- endif %}

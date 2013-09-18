@@ -16,7 +16,8 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
    .. Cette page est en *français*.
    .. Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
    
-   :red:`This page is written in *French*. Maybe you would like to read the `English <index_en.html>`_ version ?`
+   :red:`This page is written in *French*. Maybe you would like to read the`
+   `English <index_en.html>`_ :red:`version ?`
    
    Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
    au mieux selon les préférences de votre navigateur.

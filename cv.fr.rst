@@ -12,7 +12,8 @@
    .. Peut-être préférez-vous la consulter en `anglais <cv.en.html>`_ 
    .. (le contenu est équivalent).
 
-   :red:`This page is written in *French*. Maybe you would like to read the `English <cd.en.html>`_ version ?`
+   :red:`This page is written in *French*. Maybe you would like to read the`
+   `English <cd.en.html>`_ :red:`version ?`
    
    Une version en **PDF** est disponible `cv.pdf <cv.pdf>`_.
 

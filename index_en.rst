@@ -17,7 +17,8 @@ a *French* University, near Paris.
    .. This page is in *English*.
    .. Maybe you would like to see it in `French <index_fr.html>`_.
    
-   :red:`Cette page est en anglais. Peut-être voulez-vous la voir `en français <index_fr.html>`_ ?`
+   :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
+   `en français <index_fr.html>`_ :red:`?`
    
    Now, the page `<index.html>`_ should redirect to index_fr or index_en, according
    to the preference of your browser.
