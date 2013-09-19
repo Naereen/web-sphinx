@@ -104,13 +104,13 @@ Divers
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Analyse complexe, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
-   - :Note: 15.25/20, *magna cum laude*.
+   - :Note: 14.4/20, *magna cum laude*.
  
  * M1 d'**Informatique** (*Sept. 2012 à Août 2013*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Programmation fonctionnelle et typage, protocoles cryptographiques, compilation, chaînes de Markov et algorithmes randomisés, programmation réseau, apprentissage, logique calculatoire.
-   - :Note: ?/20, *magna cum laude*. (note finale pas encore obtenue)
+   - :Note: 15.25/20, *magna cum laude*.
 
 
 Stage et rapport de stage de M1
@@ -125,8 +125,8 @@ Stage et rapport de stage de M1
 
 * :Description:
    J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
-   Mon rapport (en anglais): `<rapportM1Info13.pdf>`_,
-   et mes slides (en français): `<slidesM1Info13.pdf>`_.
+   Mon rapport (en anglais): `rapportM1Info13.pdf <http://besson.qc.to/rapportM1Info13.pdf>`_,
+   et mes slides (en français): `slidesM1Info13.pdf <http://besson.qc.to/slidesM1Info13.pdf>`_.
 
 
 **2011-2012** : troisième et dernière année de Licence

@@ -105,13 +105,13 @@ Miscellaneous
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Complex analysis, functional analysis and numerical optimization, exterior calculus, *Partial Differential Equations* approximation.
-   - :Mark: 15.25/20, *magna cum laude*.
+   - :Mark: 14.4/20, *magna cum laude*.
  
  * **Computer Science** MSc (*Sept. 2012 to August 2013*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Functional programming and typing, cryptographic protocols, compilation, Markov chains and random algorithms, net programming, maching learning, logic.
-   - :Mark: ?/20, *magna cum laude*. (mark not get yet)
+   - :Mark: 15.25/20, *magna cum laude*.
 
 
 MSc internship and thesis
@@ -127,8 +127,8 @@ MSc internship and thesis
 
 * :Description:
    I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains.
-   My report (in English): `<rapportM1Info13.pdf>`_,
-   and my slides (in French): `<slidesM1Info13.pdf>`_.
+   My report (in English): `rapportM1Info13.pdf <http://besson.qc.to/rapportM1Info13.pdf>`_,
+   and my slides (in French): `slidesM1Info13.pdf <http://besson.qc.to/slidesM1Info13.pdf>`_.
 
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)

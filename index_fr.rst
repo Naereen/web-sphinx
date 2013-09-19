@@ -120,7 +120,7 @@ Stage de M1 : "*Modularité pour la planification et la vérification de program
 
  :Notes: Jules m'a donné **19/20**.
          Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**,
-         et j'attends encore la réponse du jury du dpt maths.
+         et le jury de mathématiques à l'ENS Cachan m'a donné **18.50/20**.
 
 ------------------------------------------------------------------------------
 

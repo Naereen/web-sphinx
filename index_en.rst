@@ -116,7 +116,7 @@ MSc internship : "*Towards modularity for planning and robot programs verificati
  :Mark: Jules gave me **19/20**.
         I got the mark **17.7/20** from the Computer Science jury
         at ENS Cachan,
-        and I'm still waiting for the mark from the Maths jury.
+        and **18.50/20** from the Maths jury at ENS Cachan.
 
 ------------------------------------------------------------------------------
 
