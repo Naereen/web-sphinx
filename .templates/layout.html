@@ -47,6 +47,12 @@
  * by Sphinx. It have to be in the '.templates' folder.
  *****************************************************************************
    -->
+ <!--<script type"text/javascript">
+  window.document.write("<meta name=\"title\" content=\"Loading...\" />");
+  $(document).ready(function() {
+   window.document.write("<meta name=\"title\" content=\"Loaded !\" />");
+  });
+ </script>-->
   <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
@@ -246,8 +252,8 @@ $(document).ready(function() {
   $('.related').waypoint('sticky', {
     offset: 0 // Apply "stuck" when element 0px from top
   });
-  $('.will-be-stick').waypoint('sticky', {
-    offset: 5 // Apply "stuck" when element 0px from top
+  $('.will-be-sticky').waypoint('sticky', {
+    offset: 0 // Apply "stuck" when element 0px from top
   });
   $('.my-sticky-element').waypoint('sticky', {
     offset: 30 // Apply "stuck" when element 30px from top

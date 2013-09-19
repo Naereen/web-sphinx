@@ -23,8 +23,9 @@ div.will-be-sticky {
     padding: 10px 5px 0 10px;
     float: left;
     width: 230px;
+    margin-left: -100%;
     font-size: 90%;
-    top: 40px;
+    bottom: 340px;
 }
 
 div.will-be-sticky.stuck {

@@ -1,25 +1,30 @@
-###############################
- **404** : Erreur "Non trouvé"
-###############################
+##################################
+ **401/403** : Permission Refusée
+##################################
 .. include:: .special.rst
 
 .. warning::
 
-   :red:`Oups, on dirait que vous avez voulu accéder à une page qui n'existe pas`.
-
-   Cette erreur peut être dûe à un lien mort (erreur de ma faute),
-   ou à une adresse incorrecte rentrée dans votre navigateur (erreur de votre faute).
+   :red:`Oups, on dirait que vous avez voulu accéder à une page sans y avoir le droit.`
+   
+   Certains sous dossiers de mes pages persos ne sont pas ouverts au public.
 
 
    .. raw:: html
-   
+
       <script type="text/javascript" src="_static/referrer.js"></script>
       <script type="text/javascript">
+      if (document.referrer != ""){
        document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
-        + " (L'erreur continuera sûrement...)")
+        + " (L'erreur continuera sûrement...)");
+      }
+      else{
+       document.write("<span style="color:red">Accès direct à cette page d'erreur détectée !</span>");
+      };
       </script>
 
-   Si le problème persiste, et que vous pensez que la page en question *devrait* exister,
+
+   Si le problème persiste, et que vous pensez que la page en question *devrait* être en accès libre,
    n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_),
    ou en *signalant un bug* via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
    <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
@@ -33,7 +38,7 @@
 ---------------------------------------------------------------------
 
 .. image:: .error.jpg
-   :scale: 150 %
+   :scale: 140 %
    :align: center
    :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
    :target: index.html
