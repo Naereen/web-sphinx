@@ -260,11 +260,13 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   'index_fr': ['localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   'cv*.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
-   'cv*.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
-   '*/*': ['localtoc.html', 'searchbox.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   '**':    ['linkpdf.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   '**.en': ['linkpdf.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   '**_en': ['linkpdf.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   'index_fr': ['linkpdf.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   'cv**.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
+   'cv**.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
+   '*/*': ['linkpdf.html', 'localtoc.html', 'searchbox.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
