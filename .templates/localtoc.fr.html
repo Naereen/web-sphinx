@@ -1,0 +1,13 @@
+{#
+    .templates/localtoc.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Sphinx sidebar template: local table of contents. (fr version)
+
+    :copyright: Copyright 2013 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
+{%- if display_toc %}
+  <h3><a href="{{ pathto(master_doc) }}">Table des Matières locale</a></h3>
+  {{ toc }}
+{%- endif %}

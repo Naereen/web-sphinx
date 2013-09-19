@@ -260,19 +260,20 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':    ['linkpdf.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   '**.en': ['linkpdf.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   '**_en': ['linkpdf.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   'index_fr': ['linkpdf.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdf.html', 'relations.html', 'globaltoc.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
-   'cv**.en': ['sourcepdfcv.en.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.en.html', 'sidebar_gpg.html'],
-   'cv**.fr': ['sourcepdfcv.fr.html', 'localtoc.html', 'searchbox.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.html'],
-   '*/*': ['linkpdf.html', 'localtoc.html', 'searchbox.html', 'relations.html', 'sidebar_gpg.html', 'sidebar_otherserver.html'],
+   '**':       ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
+   '*.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
+   '*_en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
+   'index_fr': ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
+   'cv*.fr': ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
+   'cv*.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
+   '*/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 html_additional_pages = {
-    'download': 'download.html',
+    'download.fr': 'download.fr.html',
+    'download.en': 'download.en.html',
 }
 
 # If false, no module index is generated.

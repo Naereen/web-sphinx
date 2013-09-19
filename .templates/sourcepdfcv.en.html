@@ -1,10 +1,19 @@
+{#
+    .templates/sourcepdfcv.en.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    For the CV, show links to PDF. (en version)
+
+    :copyright: Copyright 2013 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
 {%- if show_source and has_source and sourcename %}
-<h3>{{ _('Mon CV en Français ?') }}</h3>
+<h3>Mon CV en Français ?</h3>
 <ul class="this-page-menu">
   <li><a style="text-decoration: underline" href="cv.fr.html"
          rel="nofollow">Lisez-le en français</a>, en HTML.</li>
 </ul><br/>
-<h3>{{ _('My résumé in PDF') }}</h3>
+<h3>My résumé in PDF</h3>
 <ul class="this-page-menu">
   <li><a style="text-decoration: underline" href="cv.pdf"
          rel="nofollow">Go to the PDF version</a>, compiled from LaTeX with pdflatex.</li></br></br>

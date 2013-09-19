@@ -1,8 +1,8 @@
 {#
-    .templates/searchbox.html
-    ~~~~~~~~~~~~~~~~~~~~~~~~~
+    .templates/searchbox.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    The search box.
+    The search box. (fr version)
 
     :copyright: Copyright 2013 Lilian Besson
     :license: GPLv3, see LICENSE for details.
@@ -10,7 +10,7 @@
 {%- if pagename != "search" %}
 <div class="will-not-be-sticky">
 <div id="searchbox" style="display: none">
-  <h3>{{ _('Recherche rapide') }}</h3>
+  <h3>Recherche rapide</h3>
     <form class="search" action="{{ pathto('search') }}" method="get">
       <input type="text" name="q" />
       <input type="submit" value="Go !" />
@@ -18,7 +18,7 @@
       <input type="hidden" name="area" value="default" />
     </form>
     <p class="searchtip" style="font-size: 90%">
-    {{ _('Saisissez un mot clef.') }}
+    Saisissez un mot clef.
     </p>
 </div>
 <script type="text/javascript">$('#searchbox').show(0);</script>
