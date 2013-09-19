@@ -47,6 +47,7 @@
  * by Sphinx. It have to be in the '.templates' folder.
  *****************************************************************************
    -->
+ <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
  <script type"text/javascript">
   var title_backup = window.document.title;
   window.parent.document.title="Chargement en cours " + 
@@ -384,7 +385,21 @@ $(document).ready(function() {
  + "</a>'.</span></span>"
  );*/
 </script>
-Votre adresse IP est <script type="text/javascript" src="http://l2.io/ip.js"></script><noscript>inconnue</noscript>.
+<!-- Display a custom message if local or on the Crans Network -->
+Votre adresse IP est <script type="text/javascript">window.document.write(myip)</script><noscript>inconnue</noscript>.
+<script type="text/javascript">
+ switch (myip.substring(0,7)) {
+ case '127.0.0.':
+   window.document.write(" <span style=\"color: red\">Adresse locale !</span>");
+   break;
+ case '138.231': 
+   window.document.write(" <span style=\"color: green\">Adresse sur le campus !</span>");
+   break;
+ default:
+   window.document.write(" <span style=\"color: grey\">Adresse non locale.</span>");
+   break;
+ };
+</script>
 <br/><p>
 <a class="reference external image-reference" href="http://validator.w3.org/check?uri=referer">
 <img style="width:88px;height:31px;margin-right=100px" class="align-right"
@@ -422,11 +437,11 @@ pour collecter des statistiques, ce qui peut être désactivé avec
 <script type="text/javascript">
  if (window.location.host == 'jarvis.crans.org')
  {
- document.write("<li><a class=\"reference external image-reference\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1 on " + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
+ window.document.write("<li><a class=\"reference external image-reference\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1 on " + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
  else
  {
- document.write("<li><a class=\"reference external image-reference\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on " + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
+ window.document.write("<li><a class=\"reference external image-reference\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on " + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
 </script>
 <noscript>
