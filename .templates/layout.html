@@ -47,13 +47,11 @@
  * by Sphinx. It have to be in the '.templates' folder.
  *****************************************************************************
    -->
- <!--<script type"text/javascript">
-  // window.document.write("<meta name=\"title\" content=\"Loading...\" />");
-  window.document.write("Loading...");
-  /* $(document).ready(function() {
-   window.document.write("<meta name=\"title\" content=\"Loaded !\" />");
-  }); */
- </script>-->
+ <script type"text/javascript">
+  var title_backup = window.document.title;
+  window.parent.document.title="Chargement en cours " + 
+   window.parent.document.title;
+ </script>
   <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
@@ -351,6 +349,11 @@ $(document).ready(function() {
             });{% endif %}
 </script>
 <!-- <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script> -->
+ <script type"text/javascript">
+  $(document).ready(function() {
+   window.parent.document.title=title_backup;
+  });
+ </script>
 {{ super() }}
 {% endblock %}
 
