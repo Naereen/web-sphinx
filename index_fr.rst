@@ -96,7 +96,6 @@ Mes projets en ligne
 Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
   #. via mes dépôts *git* sur mon compte *bitbucket*, 
      `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  #. ou via mon site `Google Site <https://sites.google.com/site/naereencorp>`_;
   #. ou via mon profil *Launchpad*, 
      `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
   #. ou sur ma page personnelle *Wikipédia*, 
@@ -147,11 +146,12 @@ est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
    C'est un *prénom oriental féminin*, porté notamment en Iran, et en Syrie.
 
 
-Naereen Corp.
-^^^^^^^^^^^^^
-Mon site perso pour accueillir certains de mes projets de programmation 
-et de développement. Il est réalisé avec Google Site, 
-`sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
+.. Naereen Corp.
+.. ^^^^^^^^^^^^^
+.. Mon site perso pour accueillir certains de mes projets de programmation 
+.. et de développement. Il est réalisé avec Google Site, 
+.. `sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
+
 
 --------------------------------------------------------------------
 

@@ -48,14 +48,6 @@ Liste des sous-domaines que j'utilise
     vers http://perso.crans.org/besson;
 
 
-.. * `naereencorp.qc.to <http://naereencorp.qc.to>`_ vers https://sites.google.com/site/naereencorp;
-
-..  * `naereen.qc.to <http://naereen.qc.to>`_ vers http://perso.crans.org/besson;
-
-.. * `lbesson.ftp.sh <http://lbesson.qc.to>`_ vers mon CV (ce qui est drôle avec celui là
-..   c'est la forme du lien : .ftp.sh, on dirait un script Shell...).
-
-
 .. note::
 
    Il n'y en a que 5, c'est normal, c'est la limite d'un compte gratuit.

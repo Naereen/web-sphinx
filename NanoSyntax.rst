@@ -308,7 +308,7 @@ Autres références
 -----------------
 Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages là:
 
-* `naereencorp/tools/gtksourceview <https://sites.google.com/site/naereencorp/tools/gtksourceview>`_,
+* `<publis/gedit-coloration/languages-specs/>`_,
   le même genre de travail, pour l'éditeur **Gedit**, éditeur de code officiel du projet **GNOME**.
   De nouvelles descriptions de langages pour ``OCaml``, ``Python``, ``rST``, ``CUDA``, 
   ``scala``, ``Octave`` etc.
