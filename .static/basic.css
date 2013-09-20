@@ -43,6 +43,125 @@ div.is-sticky {
  */
 }
 
+/* -- href with extra properties -------------------------------------------- */
+
+/* jsfiddle.net tDQWN */
+/*
+a[title]:hover:after {
+  content: attr(title);
+  padding: 4px 8px;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  white-space: nowrap;
+  z-index: 20px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+*/
+
+a[class*="external"]:after {
+    color: #F4DFF7;
+    content: "+";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[class*="internal"]:after {
+    color: #F4DFF7;
+    content: ".";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[href*="perso.crans.org"]:after {
+    color: #C200D3;
+    content: "p";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+/*a[href*="jarvis"]:after {
+    color: #C200D3;
+    content: "j";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}*/
+
+a[href*="www.dptinfo.ens-cachan.fr/~lbesson"]:after {
+    color: #C200D3;
+    content: "d";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+/*
+a[href^="mailto"] {
+    color:blue;
+}
+a[href^="mailto"]:hover:after {
+    color:blue;
+    content: " > " attr(title);
+} 
+*/
+
+a[href$="pdf"]:after {
+    color: #00AA00;
+    content: "PDF";
+    font-size: 8px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[href^="https"]:after {
+    color: #00AA00;
+    content: "s";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[href$="png"]:after {
+    color: #C200D3;
+    content: "PNG";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[href$="jpg"]:after {
+    color: #C200D3;
+    content: "jpg";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
 /* -- relbar ---------------------------------------------------------------- */
 
 div.related {
@@ -71,7 +190,6 @@ div.related li.right {
 div.related.stuck {
     position:   fixed;
     top:        0;
-    bow-shadow: 0 5px 9px rgba(0, 0, 0, .3);
 }
 
 /* -- sidebar --------------------------------------------------------------- */
