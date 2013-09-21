@@ -79,11 +79,12 @@ avant de partir étudier au Lycée Thiers de Marseille.
 Dans les Hautes-Alpes, il y a notamment les villes suivantes :
 
 .. graph:: alpes
-
-   "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Briançon";
+   
+   "Bri" [color="red", style="bold", label="Briançon"];
+   "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Bri";
    "Mont-Dauphin" -- "Guillestre";
    "L'Argentière" -- "Valouise" -- "Puit St-Vincent";
-   "Briançon" -- "Montgenèvre";
+   "Bri" -- "Montgenèvre";
    "Embrun" -- "Les Orres";
 
 Un fichier externe
