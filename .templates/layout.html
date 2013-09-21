@@ -56,14 +56,15 @@
  * by Sphinx. It have to be in the '.templates' folder.
  *****************************************************************************
    -->
- <!-- Getting IP from l2.io (and store it to the variable myip). -->
- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
  <!-- Trying to change the title. Fail by now. -->
  <script type"text/javascript">
+  var myip = "unknown"; // have to be initialized before calling l2.io/ip.js?var=myip
   var title_backup = window.document.title;
   window.parent.document.title="Chargement en cours " + 
    window.parent.document.title;
  </script>
+ <!-- Getting IP from l2.io (and store it to the variable myip). -->
+ <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
   <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
