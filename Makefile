@@ -27,9 +27,9 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html gpghtml images obscure send_public send_zamok send_dpt warnings severes errors
+total: html gpghtml images obscure send_jarvis send_zamok send_dpt warnings severes errors
 
-local: html gpghtml images obscure send_public warnings severes errors
+local: html gpghtml images obscure send_jarvis warnings severes errors
 
 warnings:
 	@echo "Searching for warnings ..."
@@ -62,7 +62,7 @@ sendAll: notify_archive send
 images:
 	-$(CP) .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
 
-send: rss send_public send_zamok send_dpt send_pdf send_latexpdf
+send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
 
 send_latexpdf: fixperms
 	-pkill gnuplot
@@ -99,7 +99,7 @@ send_pdf: fixperms
 	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
 	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
-send_public:
+send_jarvis:
 	$(CP) -r $(BUILDDIR)/html/ ~/Public/
 	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 

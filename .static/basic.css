@@ -80,14 +80,14 @@ a[class*="external"]:after {
     top: -7px;
 }
 
-a[class*="internal"]:after {
+/* a[class*="internal"]:after {
     color: #F4DFF7;
     content: "";
     font-size: 10px;
     font-weight: normal;
     position: relative;
     top: -7px;
-}
+} */
 
 a[href*="perso.crans.org"]:after {
     color: #C200D3;
@@ -116,10 +116,28 @@ a[href*="www.dptinfo.ens-cachan.fr/~lbesson"]:after {
     top: -7px;
 }
 
-/*
+a[href*="besson.qc.to"]:after {
+    color: #C200D3;
+    content: "qc.to";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
+a[href*="besson.or.gs"]:after {
+    color: #C200D3;
+    content: "or.gs";
+    font-size: 10px;
+    font-weight: normal;
+    position: relative;
+    top: -7px;
+}
+
 a[href^="mailto"] {
     color:blue;
 }
+/*
 a[href^="mailto"]:hover:after {
     color:blue;
     content: " > " attr(title);

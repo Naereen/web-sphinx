@@ -260,13 +260,20 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':       ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
-   '*.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
-   '*_en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
-   'index_fr': ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
-   'cv*.fr': ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
-   'cv*.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html', 'sidebar_gpg.en.html', 'sidebar_otherserver.en.html'],
-   '*/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html'],
+   '**':       ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
+         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+   '*.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
+         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+   '*_en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
+         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+   'index_fr': ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
+         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+   'cv*.fr': ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
+         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+   'cv*.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
+         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+   '*/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
+         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
@@ -297,7 +304,7 @@ html_show_copyright = True
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
 # base URL from which the finished HTML is served.
-html_use_opensearch = 'http://perso.crans.org/besson/'
+html_use_opensearch = 'http://besson.qc.to/'
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
