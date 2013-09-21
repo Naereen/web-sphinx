@@ -36,7 +36,6 @@ Le toplevel
        * leçons intéractives en français ou en anglais;
        * support du "drag & drop" de fichiers;
        * permet de télécharger l'historique des entrées;
-       * etc
 
 .. warning::
 

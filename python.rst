@@ -5,6 +5,7 @@
 .. include:: .javascript.rst
 
 ------------------------------------------------------------------------------
+
 Le toplevel
 -----------
 .. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
@@ -38,7 +39,7 @@ Le toplevel
    print "Dossier courant: %s" % os.getcwd()
    # Ajoutez votre propre commande Python :
    </pre>
-   <script src="scripts/ace-builds/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="_static/scripts/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    // Launch ACE
    var editor = ace.edit("editor");
@@ -97,12 +98,13 @@ Le toplevel
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
 
+
 +--------------------------------+-------------------------------+ 
 | .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
-|  :scale: 120 %                 |   :scale: 60 %                |
-|   :align: left                 |   :align: right               |
-|   :alt: Python powered :)      |   :alt: ACE powered :)        |
-|  :target: http://python.org    |   :target: http://ace.c9.io/  |
+|    :scale: 120 %               |    :scale: 60 %               |
+|    :align: center              |    :align: center             |
+|    :alt: Python powered :)     |    :alt: ACE powered :)       |
+|    :target: http://python.org  |    :target: http://ace.c9.io/ |
 +--------------------------------+-------------------------------+
 
 ------------------------------------------------------------------------------

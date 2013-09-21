@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>L'éditeur ACE a été remis en place, avec succès, pour le toplevel Python !</title>
+       <link>http://besson.qc.to/python.html</link>
+       <description>www.dptinfo.ens-cachan.fr/~lbesson est cassé :( en ce moment !</description>
+       <guid>http://git.lbesson.qc.to/web-sphinx-scripts/</guid>
+       <pubDate>Sat, 21 Sep 2013 19:04:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Un peu de JavaScript cette semaine...</title>
        <link>http://besson.or.gs/</link>
        <description>Waypoint et Waypoint sticky, TimeAgo, etc</description>

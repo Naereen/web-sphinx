@@ -28,7 +28,6 @@ Le toplevel (en béta)
 
 .. raw:: html
 
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
    <script src="_static/skulpt.js" type="text/javascript"></script>
    <script src="_static/builtin.js" type="text/javascript"></script>
    <script type="text/javascript">
@@ -48,7 +47,7 @@ Le toplevel (en béta)
     Sk.canvas = "mycanvas";
     Sk.pre = "output";
     Sk.configure({output:outf, read:builtinRead});
-    eval(Sk.importMainWithBody("<stdin>",false,prog));
+    eval(Sk.importMainWithBody("<stdin>", false, prog));
    }
    </script>
    <form>
