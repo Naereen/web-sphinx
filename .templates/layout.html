@@ -274,14 +274,19 @@ $(document).ready(function() {
 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
 <style type="text/css"> /* Image style */
  #scrollUpLeft {
-   bottom: 20px;
+   bottom: 40px;
    left:   25px;
    height: 38px; /* Height of image */
    width:  38px; /* Width  of image */
    background: url({{ pathto('_images/.top.png', true)|e }});
  }
+ #scrollUpRight {
+   bottom: 40px;
+   right:  150px;
+ }
 </style>
 <script type="text/javascript">
+$(document).ready(function() {
  $(function () {
    $.scrollUp({
     scrollName: 'scrollUpLeft', // Element ID
@@ -294,17 +299,6 @@ $(document).ready(function() {
     activeOverlay: false,       // Set CSS color to display scrollUp active point, e.g '#00FFFF'
    });
  });
-</script>
-<style type="text/css"> /* Image style */
- #scrollUpRight {
-   bottom: 20px;
-   right:  25px;
-   height: 38px; /* Height of image */
-   width:  38px; /* Width  of image */
-   background: url({{ pathto('_images/.top.png', true)|e }});
- }
-</style>
-<script type="text/javascript">
  $(function () {
    $.scrollUp({
     scrollName: 'scrollUpRight',// Element ID
@@ -317,6 +311,7 @@ $(document).ready(function() {
     activeOverlay: false,       // Set CSS color to display scrollUp active point, e.g '#00FFFF'
    });
  });
+});
 </script>
 
 <!-- Shortcuts.js - - - Thanks to :
@@ -446,7 +441,7 @@ Toutes remarques, questions, ou notifications de bugs peuvent être posées via 
 <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.
 <br/>Des précisions sur les droits de copies,
 sur les institutions et les marques citées sont disponibles
-<a class="reference external" href="trademarks.html">sur cette page</a> (en anglais).
+<a class="reference external" href="trademarks.html">en anglais</a>.
 <br/>
 Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 pour collecter des statistiques, ce qui peut être désactivé avec

@@ -72,7 +72,7 @@ a[title]:hover:after {
 */
 
 a[class*="external"]:after {
-    color: #F4DFF7;
+    color: #00AA00;
     content: "+";
     font-size: 10px;
     font-weight: normal;
@@ -82,7 +82,7 @@ a[class*="external"]:after {
 
 a[class*="internal"]:after {
     color: #F4DFF7;
-    content: ".";
+    content: "";
     font-size: 10px;
     font-weight: normal;
     position: relative;
