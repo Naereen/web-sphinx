@@ -101,7 +101,7 @@ Le toplevel
 
 +--------------------------------+-------------------------------+ 
 | .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
-|    :scale: 120 %               |    :scale: 60 %               |
+|    :scale: 120 %               |    :scale: 40 %               |
 |    :align: right               |    :align: left               |
 |    :alt: Python powered :)     |    :alt: ACE powered :)       |
 |    :target: http://python.org  |    :target: http://ace.c9.io/ |
@@ -133,7 +133,7 @@ Autres pages
 ------------
  Ce terminal est aussi disponible ici `<_static/python/index.html>`_, mais avec l'apparence la plus simpliste.
 
- Sinon, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
+ Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
 
 À propos
 --------
