@@ -162,6 +162,9 @@
   .social-icons li a.facebook {
     /* background-position: 0 2px; */
       background-image: url({{ pathto('_images/.facebook.png', true)|e }});
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
   }
   .social-icons li a.twitter {
       background-image: url({{ pathto('_images/.twitter.png', true)|e }});
@@ -473,6 +476,12 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <a class="image-reference" href="http://www.ubuntu.com/about/about-ubuntu">
  <img alt="Made on Ubuntu 12.04.3 LTS" 
       src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" 
+      style="width: 80.0px; height: 15.0px;" />
+</a></li>
+<li>
+<a class="image-reference" href="http://try.github.io" >
+ <img alt="Source code hosted on Bitbucket.org managed with Git" 
+      src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" />
 </a></li>
 <!-- A little script to know which web server is used.
