@@ -160,7 +160,7 @@
 	}
   /* Social Icons in the sidebar */
   .social-icons li a.facebook {
-      background-position: 0 2px;
+    /* background-position: 0 2px; */
       background-image: url({{ pathto('_images/.facebook.png', true)|e }});
   }
   .social-icons li a.twitter {
@@ -186,6 +186,7 @@
       text-indent: -9000px;
       transition: all 0.2s ease 0s;
       width: 35px;
+      text-align: center;
   }
    </style>
   <!-- JavaScript external sources -->
@@ -219,8 +220,8 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   /* Here are set the default values for these variables,
    * corresponding to the default domain. */
-  var my_id = 'UA-38514290-1';
-  var my_domain = 'crans.org';
+  var my_id = 'UA-38514290-1'
+    , my_domain = 'crans.org';
   /* Here a case-by-case analysis is done to change this variable
    * when the page is located on another web server. */
   switch(window.location.host) {

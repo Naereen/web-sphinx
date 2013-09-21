@@ -19,8 +19,8 @@ Le toplevel
         font-size: 18px;
         position: relative;
         height: 450px;
-        width: 80%;
-        margin-left: 50px;
+        width: 90%;
+        margin-left: 40px;
     }
    </style>
    <pre id="editor">
@@ -55,7 +55,7 @@ Le toplevel
     function start() {
      var output = document.getElementById('output')
        , button = document.getElementById('button')
-       , clean = document.getElementById('clean')
+       , cleanin = document.getElementById('cleanin')
        , cleanout = document.getElementById('cleanout')
        , worker = new Worker('_static/python/worker.js')
        , loaded = false
@@ -63,10 +63,10 @@ Le toplevel
          if (!loaded) {
            loaded = true;
            button.value = "Exécute le code courant";
-           clean.value = "Efface l'entrée";
+           cleanin.value = "Efface l'entrée";
            cleanout.value = "Efface la sortie";
            button.disabled = false;
-           clean.disabled = false;
+           cleanin.disabled = false;
            cleanout.disabled = false;
            window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~");
            return;
@@ -77,22 +77,24 @@ Le toplevel
       // Boutons
       button.onclick = function() {
         worker.postMessage(editor.getValue());
-        window.alert("Interprétation en cours...");
+        window.alert("Interprétation en cours de :\n" + editor.getValue());
       };
-      clean.onclick = function() {
+      cleanin.onclick = function() {
+        var tmpvalue = editor.getValue();
         editor.setValue("");
-        window.alert("Zone d'édition vidée !");
+        window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
       };
       cleanout.onclick = function() {
+        var tmpvalue = output.value;
         output.value = "";
-        window.alert("Sortie du toplevel vidée !");
+        window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
       };
    };
    window.onload = start;
    </script>
 
    <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto" />
-   <input disabled="disabled" id="clean" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
+   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
 
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>

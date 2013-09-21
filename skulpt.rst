@@ -6,8 +6,8 @@
 
 ------------------------------------------------------------------------------
 
-Le toplevel (en béta)
----------------------
+Le toplevel
+-----------
 
 .. warning::
 
@@ -24,87 +24,134 @@ Le toplevel (en béta)
 
 ------------------------------------------------------------------------------
 
-.. warning:: Ne fonctionne pas bien encore (ne tient pas compte des modifications de l'entrée: exécute toujours le même script !)...
+.. warning:: Pas encore bien fonctionnel... J'ai re commencé à installer ACE, mais c'est pas facile !
 
 .. raw:: html
 
-   <script src="_static/skulpt.js" type="text/javascript"></script>
-   <script src="_static/builtin.js" type="text/javascript"></script>
-   <script type="text/javascript">
-   function outf(text) {
-    var mypre = document.getElementById("output");
-    mypre.innerHTML = mypre.innerHTML + text;
-   }
-   function builtinRead(x) {
-    if (Sk.builtinFiles === undefined || Sk.builtinFiles["files"][x] === undefined)
-    throw "File not found: '" + x + "'";
-    return Sk.builtinFiles["files"][x];
-   }
-   function runit() {
-    var prog = document.getElementById("textarea").value;
-    var mypre = document.getElementById("output");
-    mypre.innerHTML = '';
-    Sk.canvas = "mycanvas";
-    Sk.pre = "output";
-    Sk.configure({output:outf, read:builtinRead});
-    eval(Sk.importMainWithBody("<stdin>", false, prog));
-   }
-   </script>
-   <form>
-   <textarea id="textarea" style="font-family: monospace; width: 100%" rows="24" cols="80">
+   <h4>Toplevel Python 2.7.3 Skulpt avec l'éditeur ACE</h4>
+   <style type="text/css" media="screen">
+    #editor { 
+        font-family: monospace;
+        font-size: 18px;
+        position: relative;
+        height: 450px;
+        width: 90%;
+        margin-left: 40px;
+    }
+   </style>
+   <pre id="editor">
+   # Une démonstration de skulpt.js, utilisant l'éditeur ACE.js :) !
+   print("Démonstration du module turtle en cours :) !")
    import turtle
    t = turtle.Turtle()
    for c in ['red', 'green', 'yellow', 'blue']:
        t.color(c)
        t.forward(75)
        t.left(90)
-   print "Hello World !"
-   # Le module sys n'est pas disponible.
-   # Rentrez vos propres commandes !
-   </textarea>
-   <script type="text/javascript" src="_static/ace_python.js"></script>
-   <br/>
-   <button type="button" onclick="runit()">Exécute le code courant</button>
-   <input id="cleanin" type="button" value="Chargement....." style="margin: auto" />
-   </form>
-   <pre id="output" ></pre><br/>
-   <input id="cleanout" type="button" value="Chargement....." style="margin: auto" />
-   <script type="text/javascript">
-     var textarea = document.getElementById('textarea');
-     var output = document.getElementById('output');
-     var cleanin = document.getElementById('cleanin');
-     var cleanout = document.getElementById('cleanout');
-     cleanin.value = "Efface l'entrée";
-     cleanout.value = "Efface la sortie";
-     cleanin.disabled = false;
-     cleanout.disabled = false;
-     cleanin.onclick = function() {
-           textarea.value = "";
-     };
-     cleanout.onclick = function() {
-           output.value = "";
-     };
-     window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
-   </script>
-   <br/><br/>
+   t.forward(75)
+   for c in ['red', 'green', 'yellow', 'blue']:
+       t.color(c)
+       t.forward(75)
+       t.right(90)
+   # Ajoutez votre propre commande Python :
+   </pre>
+   </br>
+   <script src="_static/skulpt.js" type="text/javascript"></script>
+   <script src="_static/builtin.js" type="text/javascript"></script>
+   <script src="_static/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
+
+   <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto" onclick="window.alert(\"Nothing :(...\")" />
+   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
+   </br>
+   <h4>Sortie du toplevel :</h4>
+   <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
+   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
+   </br>
+   </br>
    <canvas id="mycanvas"
            style="border-style: solid;" width="400" height="400">
-    Il semblerait que votre navigateur ne supporte pas les canvas.
+    Il semblerait que votre navigateur ne supporte pas la balise canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
    </canvas>
+   </br></br>
+
+   <script type="text/javascript">
+   // $(document).ready(function() {
+    window.onload = function() {
+       window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser... ~~~");
+       // Launch ACE
+       var editor = ace.edit("editor");
+       // ACE Option. See http://ace.c9.io/#nav=howto for more options.
+       editor.setTheme("ace/theme/cobalt");
+       editor.getSession().setMode("ace/mode/python");
+       editor.getSession().setTabSize(4);
+       editor.getSession().setUseWrapMode(true);
+       editor.setHighlightActiveLine(true);
+       editor.setShowPrintMargin(false);
+       editor.setReadOnly(false);  // true to make it non-editable
+       var output = document.getElementById('output');
+      // Skulpt I/O stuff
+       function outf(text) {
+          window.alert("Écriture de '" + text + "' en sortie.");
+          output.innerHTML = output.innerHTML + text;
+       };
+       function builtinRead(x) {
+          if (Sk.builtinFiles === undefined || Sk.builtinFiles["files"][x] === undefined)
+          throw "File not found: '" + x + "'";
+          return Sk.builtinFiles["files"][x];
+       };
+       function runit() {
+          var prog = editor.getValue();
+          window.alert("Interprétation en cours de :\n" + prog);
+          output.innerHTML = '';
+          Sk.canvas = "mycanvas";
+          Sk.pre = "output";
+          Sk.configure({output:outf, read:builtinRead});
+          eval(Sk.importMainWithBody("<stdin>", false, prog));
+          window.alert("Interprétation terminée. Résultat:\n" + output.value);
+      };
+      // Skulpt buttons stuff.
+      var button = document.getElementById('button');
+        button.value = "Exécute le code courant";
+        button.disabled = false;
+        button.onclick = function() {
+          window.alert("Interprétation commencée...");
+          runit();
+        };
+      var cleanin = document.getElementById('cleanin');
+        cleanin.value = "Efface l'entrée";
+        cleanin.disabled = false;
+        cleanin.onclick = function() {
+          var tmpvalue = editor.getValue();
+          editor.setValue("");
+          window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
+        };
+      var cleanout = document.getElementById('cleanout');
+        cleanout.value = "Efface la sortie";
+        cleanout.disabled = false;
+        cleanout.onclick = function() {
+          var tmpvalue = output.value;
+          output.value = "";
+          window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
+        };
+       // Done !
+       window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
+     };
+   // });
+   </script>
 
 
-.. image:: .python-powered.png
-   :scale: 120 %
-   :align: center
-   :alt: Python powered :)
-   :target: http://python.org
++--------------------------------+-------------------------------+ 
+| .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
+|    :scale: 120 %               |    :scale: 40 %               |
+|    :align: right               |    :align: left               |
+|    :alt: Python powered :)     |    :alt: ACE powered :)       |
+|    :target: http://python.org  |    :target: http://ace.c9.io/ |
++--------------------------------+-------------------------------+
 
 ------------------------------------------------------------------------------
 
 .. warning:: Les modules sys et os ne sont pas disponibles.
-
-.. todo:: Bouton "Efface l'entrée" plus disponible.
 
 .. seealso::
 
@@ -124,11 +171,9 @@ Autres pages
  Le premier terminal **Python** que j'ai intégré dans mes pages est là
  `<python.html>`_.
 
- Sinon, *normalement*, le sous dossier `<python-doc/>`_ contient une copie locale
+ Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale
  de la documentation de **Python 2.7.3**.
 
-.. Et enfin, l'archive `<Python/Python-3.3.0-custom.tar.xz>`_ est un copie
-.. de Python 3.3 que je modifie (petit à petit) pour m'amuser.
 
 À propos
 --------

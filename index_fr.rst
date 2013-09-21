@@ -32,7 +32,9 @@ Recherche et étude
 **Je suis actuellement en troisième année à l'ÉNS de Cachan,**
 et en 2013/2014, je prépare le concours national de l'`agregation <http://agreg.org/>`_,
 via la préparation proposée par l'ENS Cachan, en option informatique.
-(*L'objectif étant de devenir prof. en classes préparatoires.*)
+(*L'objectif étant de devenir prof. en classes préparatoires*,
+ *ou à l'étranger*, ou agent secret, ou super héros, ou spationaute,
+ ou je ne sais pas pourquoi vous lisez encore cette description inutile et égoïste!).
 
 En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
@@ -323,20 +325,21 @@ JavaScript et outils embarqués
  Certaines pages présentent aussi l'intégration de projets sympas, écrits
  en **JavaScript** :
 
-   #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
-      directement dans un navigateur web **:)** !
-   #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
-      avec quelques lessons (interactives), en anglais ou français.
-   #. `<gnuplot.html>`_, une boucle *ripl* pour ``GNU Plot``, *i.e.* une
-      évaluation instantannée dès que la zone de texte est changée.
-   #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
-      pour l'instant **ne supporte pas** l'enregistrement.
    #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
       directement dans un navigateur web, avec un éditeur qui
       colore l'entrée du toplevel (*toujours en béta*) !
    #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
       directement dans un navigateur web (*toujours en béta*),
       avec un genre d'interface *graphique* (module ``Turtle`` disponible).
+   #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
+      directement dans un navigateur web **:)** !
+   #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
+      avec quelques lessons (interactives), en anglais ou français.
+   #. `<gnuplot.html>`_, une boucle `REPL <https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>`_
+     pour ``GNU Plot``, *i.e.* une évaluation instantannée dès que la zone de texte est changée.
+   #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
+      pour l'instant **ne supporte pas** l'enregistrement.
+
 
  .. warning:: Seulement en **HTML**
 
@@ -363,11 +366,11 @@ Liens externes
 
  #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 
- #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`;
+ #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`. Cette redirection est proposée par `FreeDNS <freedns.html>`_ en mode ``cloak``, c'est-à-dire cachée : on peut naviguer `<http://besson.or.gs>`_ sans savoir vraiment où est hébergée la page.
 
- #. `<http://lbesson.bitbucket.org>`_;
+ #. `<http://lbesson.bitbucket.org>`_ (pour l'instant, juste un lien pointant vers une autre page);
 
- #. `<https://jarvis.crans.org>`_;
+ #. `<https://jarvis.crans.org>`_ ma machine !
 
 .. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
 

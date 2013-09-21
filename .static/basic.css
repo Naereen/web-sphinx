@@ -45,34 +45,6 @@ div.is-sticky {
 
 /* -- href with extra properties -------------------------------------------- */
 
-/* a { white-space: nowrap; } */
-
-/* jsfiddle.net tDQWN */
-/*
-a[title]:hover:after {
-  content: attr(title);
-  padding: 4px 8px;
-  color: #333;
-  position: absolute;
-  left: 0;
-  top: 100%;
-  white-space: nowrap;
-  z-index: 20px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  -moz-box-shadow: 0px 0px 4px #222;
-  -webkit-box-shadow: 0px 0px 4px #222;
-  box-shadow: 0px 0px 4px #222;
-  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
-  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
-}
-*/
-
 a[class*="external"]:after {
     color: #00AA00;
     content: "+";
@@ -139,12 +111,6 @@ a[href*="besson.or.gs"]:after {
 a[href^="mailto"] {
     color:blue;
 }
-/*
-a[href^="mailto"]:hover:after {
-    color:blue;
-    content: " > " attr(title);
-} 
-*/
 
 a[href$="pdf"]:after {
     color: #00AA00;

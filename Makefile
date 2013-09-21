@@ -99,7 +99,7 @@ send_pdf: fixperms
 	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
 	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
-send_jarvis:
+send_jarvis: fixperms
 	$(CP) -r $(BUILDDIR)/html/ ~/Public/
 	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 
