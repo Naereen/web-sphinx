@@ -38,7 +38,7 @@ Le toplevel
    print "Dossier courant: %s" % os.getcwd()
    # Ajoutez votre propre commande Python :
    </pre>
-   <script src="ace-builds/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="scripts/ace-builds/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    // Launch ACE
    var editor = ace.edit("editor");
@@ -100,7 +100,7 @@ Le toplevel
 +--------------------------------+-------------------------------+ 
 | .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
 |  :scale: 120 %                 |   :scale: 60 %                |
-|   :align: center               |   :align: center              |
+|   :align: left                 |   :align: right               |
 |   :alt: Python powered :)      |   :alt: ACE powered :)        |
 |  :target: http://python.org    |   :target: http://ace.c9.io/  |
 +--------------------------------+-------------------------------+
