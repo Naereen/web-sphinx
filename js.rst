@@ -34,14 +34,15 @@ Pas les miens
 ^^^^^^^^^^^^^
 * `jQuery <_static/jquery.js>`_,
   librairie célèbre. Incluse par défaut par Sphinx 
-  (pour la gestion de la barre latérale). Simplement mis à jour !
+  (pour la gestion de la barre latérale). Simplement mise à jour !
 
-* `ace <_static/ace/>`_,
-  un éditeur de texte en JS. Intégration aux toplevels Python et Ocaml
+* `ace <_static/ace-new/>`_,
+  un éditeur de texte en JS. Intégration aux toplevels Python (`<python.html>`_ et `<skulpt.html>`_)
+  et Ocaml (`<ocaml.html>`_ et `<try-ocaml.html>`_), ou en solo (`<ace.html>`_) 
   toujours en développement.
 
 * `gnuplot.js <_static/gnuplot.js>`_ et `gnuplot_api.js <_static/gnuplot_api.js>`_
-  pour le terminal GNUPlot embarqué (voir `<gnuplot.html>`_).
+  pour le `terminal GNUPlot embarqué <gnuplot.html>`_.
 
 * `skulpt.js <_static/skulpt.js>`_ et `python <_static/python/>`_
   pour les terminaux Python embarqués.
@@ -51,6 +52,9 @@ Pas les miens
 
 * `shortcuts.js <_static/shortcuts.js>`_ pour définir des raccourcis clavier
   (essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p').
+
+* `<http://l2.io/>`_ pour afficher l'IP de l'utilisateur, et afficher un contenu "bonus"
+  seulement sur le campus de l'ENS Cachan :)
 
 Les plugins jQuery
 ^^^^^^^^^^^^^^^^^^
@@ -69,6 +73,10 @@ Pas les miens mais adaptés
 * `horloge.js <_static/horloge.js>`_ pour `<time.html>`_.
 
 * `simpleimagetrail.js <_static/simpleimagetrail.js>`_ (désactivé par défaut).
+
+* `forkit.js <_static/forkit.js>`_ (la bannière rouge qui bouge en haut à droite)
+  et `fokus.min.js <_static/fokus.min.js>`_ (la page donne le focus lors de la sélection d'un élément)
+  viennent de `hakim.se <http://hakim.se/>`_. Merci à lui !
 
 Les miens
 ^^^^^^^^^

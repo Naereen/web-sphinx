@@ -62,7 +62,7 @@ Ensuite, quelques autres pointeurs ou conseils,
 Apache
 ------
  Si le serveur web que tu utilisera est sous Apache, tu pourra configurer "facilement" des choses
- comme le type des fichiers (par exemple forcé le type UTF-8 pour des fichiers particulier, genre http://perso.crans.org/besson/publis/voicemail.conf.UTF8 qui s'affiche mal car le défaut est ISO-8859-1),
+ comme le type des fichiers (par exemple forcer le type UTF-8 pour des fichiers particulier, genre http://perso.crans.org/besson/bin/pdflatex qui peut s'afficher mal car le défaut est ISO-8859-1),
  ou l'accès à un sous-dossier par mot de passe (exemple http://perso.crans.org/besson/cours1m1 ou http://lbesson.qc.to/dl/).
  Référence: http://www.htaccesstools.com/
 
