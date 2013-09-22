@@ -324,6 +324,23 @@ $(document).ready(function() {
    });
  });
 });
+/* TimeAgo jQuery plugin, French options. Source : https://github.com/rmm5t/jquery-timeago/blob/master/locales/jquery.timeago.fr.js */
+jQuery.timeago.settings.strings = {
+   // environ ~= about, it's optional
+   prefixAgo: "il y a",
+   prefixFromNow: "d'ici",
+   seconds: "moins d'une minute",
+   minute: "environ une minute",
+   minutes: "environ %d minutes",
+   hour: "environ une heure",
+   hours: "environ %d heures",
+   day: "environ un jour",
+   days: "environ %d jours",
+   month: "environ un mois",
+   months: "environ %d mois",
+   year: "un an",
+   years: "%d ans"
+};
 /* Shortcuts.js */
  shortcut.add("h",function() {
   window.alert("Les raccourcis claviers suivants sont activés : \n"
@@ -381,14 +398,19 @@ $(document).ready(function() {
   'disable_in_input':true,
   'target':document
             });{% endif %}
- {% if last_updated %}shortcut.add("u",function() { //%d %b %Y
-  var last_updated_value = {{ last_updated }};
-  var day = last_updated_value.substring(0, 1);
-  var month = last_updated_value.substring(3, 6); // FIXME convert Sep -> 09, Oct -> 10 ect...
-  var year = last_updated_value.substring(8, 12);
-  window.alert("Cette page a été générée le " + last_updated_value + "\nSoit " +
-   jQuery.timeago( "22" + "-" + "09" + "-" + "2013" ) 
-   + "." );
+ {% if last_updated %}shortcut.add("u",function() { //'%d %b %Y, %Hh:%Mm:%Ss'
+  var last_updated_value = "{{ last_updated }}";
+    var day   = last_updated_value.substring(0, 2) || "01";
+    var month = last_updated_value.substring(3, 6) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+    var year  = last_updated_value.substring(7, 11) || "2013";
+    var hours = last_updated_value.substring(13, 15) || "12";
+    var mins  = last_updated_value.substring(17, 19) || "00";
+    var secs  = last_updated_value.substring(21, 23) || "00";
+  window.alert(" Cette page a été générée le " + last_updated_value
+   //+ ".\n Valeur donnée à jQuery.TimeAgo:" + year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00"
+   + ".\nSoit " + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00")
+   + ".\n" + "Jour: " + day + ", Mois: " + month + ", Année: " + year
+   + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!");
             },{
   'type':'keydown',
   'propagate':true,

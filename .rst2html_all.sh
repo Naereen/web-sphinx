@@ -3,7 +3,7 @@
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
 #	__version__='0.1'
-#	__date__='mar. 17/09/2013 at 22h14m'
+#	__date__='mar. 22/09/2013 at 22h14m'
 #
 # A simple script to generate simple HTML pages from rST sources.
 
