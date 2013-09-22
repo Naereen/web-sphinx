@@ -59,6 +59,14 @@ archive: clean_pyc
 
 sendAll: notify_archive send
 
+send_simple:
+	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html besson@zamok.crans.org:~/www/_images/
+	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html ~/Public/_images/
+	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/_images/
+
+simplehtml: ./.rst2html_all.sh
+	./.rst2html_all.sh *.rst .*.rst
+
 images:
 	-$(CP) .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
 
@@ -129,11 +137,7 @@ clean_pyc:
 	@echo "All *.pyc (Python compiled scripts) and *.py~ (temporary copies) files have been deleted !"
 
 clean_build:
-	rm -vrf $(BUILDDIR)/doctrees
-	rm -vrf $(BUILDDIR)/html/[a-zA-Z]*.* $(BUILDDIR)/html/.[a-zA-Z]*
-	rm -vrf $(BUILDDIR)/html/_images $(BUILDDIR)/html/_static
-	rm -vrf $(BUILDDIR)/latex
-	rm -vrf $(BUILDDIR)/pdf
+	rm -vrf $(BUILDDIR)/*
 
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
