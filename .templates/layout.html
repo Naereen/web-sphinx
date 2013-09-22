@@ -57,7 +57,7 @@
  *****************************************************************************
    -->
  <!-- Trying to change the title. Fail by now. -->
- <script type"text/javascript">
+ <script type="text/javascript">
   var myip = "unknown"; // have to be initialized before calling l2.io/ip.js?var=myip
   var title_backup = window.document.title;
   window.parent.document.title="Chargement en cours " + 
@@ -73,13 +73,15 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-20-13" />
+    <meta name="DC.Date" content="2013-22-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
           href="http://perso.crans.org/besson/rss.xml" />
     <link rel="shortcut icon" type="image/png"
           href="{{ pathto('_static/.besson.png', true)|e }}" />
+  <!-- CSS for forkit.js -->
+  <link rel="stylesheet" href="_static/forkit.css">
   <!-- ************************************************* -->
   <!-- CSS style (one big is quicker than many small...) -->
    <style type="text/css">
@@ -380,16 +382,25 @@ $(document).ready(function() {
   'target':document
             });{% endif %}
 </script>
- <script type"text/javascript">
+ <script type="text/javascript">
   $(document).ready(function() {
    window.parent.document.title=title_backup;
   });
  /* Put here all JS code, and its dependencies before. */
  </script>
+<!-- The ribbon -->
+<div class="theribbon">
+<a class="forkit" data-text="On Facebook" data-text-detached="Friend me !" href="https://www.facebook.com/naereencorp.lbesson">
+ <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://a248.e.akamai.net/camo.github.com/e6bef7a091f5f3138b8cd40bc3e114258dd68ddf/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Friend me on Facebook">
+ </a>
+<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+</div>
 {{ super() }}
 {% endblock %}
 <!-- Now the footer -->
 {% block footer %}
+  <!-- Fokus -->
+   <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
 {{ super() }}
 <div class="footer">
 <!-- A short script to print parameters of the page -->
@@ -397,7 +408,7 @@ $(document).ready(function() {
  window.document.write(
    "<span style=\"color: grey\">User-agent: "
   + navigator.userAgent + "."
- + "<br/>Taille d'écran <span style=\"color: white\">"
+ + "</br>Taille d'écran <span style=\"color: white\">"
   + screen.availWidth + "x"
   + screen.availHeight + "</span>.  ");
   writeLocationOfThePage("", "");
@@ -482,7 +493,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <a class="image-reference" href="http://try.github.io" >
  <img alt="Source code hosted on Bitbucket.org managed with Git" 
       src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
+      style="width: 36.0px; height: 15.0px;" />
 </a></li>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :

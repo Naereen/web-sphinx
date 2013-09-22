@@ -130,6 +130,7 @@ Le toplevel
         cleanout.value = "Efface la sortie";
         cleanout.disabled = false;
         cleanout.onclick = function() {
+          var output = document.getElementById('output');
           var tmpvalue = output.value;
           output.value = "";
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);

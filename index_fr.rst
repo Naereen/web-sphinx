@@ -68,14 +68,6 @@ N'hésitez pas à me *contacter* :
         France
  
   #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
-     
-     .. image:: .courriel.png
-        :scale: 120 %
-        :align: right
-        :alt:   Mon adresse courriel, dans une image png...
-        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
-
-  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ :
 
      .. image:: .telephone.png
         :scale: 130 %
@@ -84,6 +76,14 @@ N'hésitez pas à me *contacter* :
         :target: callto:100101011101001100111101100001_2
         
   #. ou par téléphone (:red:`si c'est urgent ou important`) :
+     
+     .. image:: .courriel.png
+        :scale: 120 %
+        :align: right
+        :alt:   Mon adresse courriel, dans une image png...
+        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
+
+  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ :
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^

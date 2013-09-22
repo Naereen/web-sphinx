@@ -85,6 +85,7 @@ Le toplevel
         window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
       };
       cleanout.onclick = function() {
+        var output = document.getElementById('output');
         var tmpvalue = output.value;
         output.value = "";
         window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
@@ -101,8 +102,8 @@ Le toplevel
    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
 
 
-+--------------------------------+-------------------------------+ 
-| .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
++--------------------------------+-------------------------------+
+| .. image:: .python-powered.png | .. image:: .ace-powered.png   |
 |    :scale: 120 %               |    :scale: 40 %               |
 |    :align: right               |    :align: left               |
 |    :alt: Python powered :)     |    :alt: ACE powered :)       |
