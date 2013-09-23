@@ -148,13 +148,6 @@ est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
    C'est un *prénom oriental féminin*, porté notamment en Iran, et en Syrie.
 
 
-.. Naereen Corp.
-.. ^^^^^^^^^^^^^
-.. Mon site perso pour accueillir certains de mes projets de programmation 
-.. et de développement. Il est réalisé avec Google Site, 
-.. `sites.google.com/site/naereencorp/ <https://sites.google.com/site/naereencorp/>`_.
-
-
 --------------------------------------------------------------------
 
 Autres pages
@@ -166,11 +159,6 @@ Autres pages
 
 ANSI Colors
 ^^^^^^^^^^^
-.. pypi-release:: ANSIColors-balises
-   :prefix: La dernière version est ici 
-            (normalement, l'extension non officielle cheeseshop
-            permet d'intégrer directement un lien de téléchargement)
-   :class: sidebar
 
 Je suis l'auteur d'un petit module / script pour manipuler les *couleurs* ANSI
 (*i.e.* en mode textuel, dans un terminal).

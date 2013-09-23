@@ -73,10 +73,15 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
  Il est aussi héberger sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 
- .. pypi-release:: ANSIColors-balises 
-
-
  :État: *À-jour.*
+
+
+.. pypi-release:: ANSIColors-balises
+   :prefix: La dernière version est ici 
+            (normalement, l'extension non officielle cheeseshop
+            permet d'intégrer directement un lien de téléchargement)
+   :class: sidebar
+
 
 
 `kaggle <publis/kaggle/>`_
