@@ -39,23 +39,6 @@
 {% endblock %}
 
 {% block extrahead %}
-  <!-- 
- *****************************************************************************
- * This file is © Lilian Besson, 2011-2013.
- * I'm a Computer Science and Mathematics student, at ENS de Cachan.
- * 
- * This file layout.html is part of my web pages, generated with Sphinx.
- * 
- * Those pages are hosted
- *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to;
- *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson or http://lbesson.qc.to;
- *  - here on Bitbucket, http://lbesson.bitbucket.org;
- *  - sometimes on my machine, http://jarvis.crans.org/ (only locally on the crans network).
- *
- * This document is a Jinja Template, to modify all the HTML pages produced
- * by Sphinx. It have to be in the '.templates' folder.
- *****************************************************************************
-   -->
  <!-- Trying to change the title. Fail by now. -->
  <script type="text/javascript">
   var myip = "unknown"; // have to be initialized before calling l2.io/ip.js?var=myip
@@ -73,7 +56,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-22-13" />
+    <meta name="DC.Date" content="2013-23-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -168,15 +151,6 @@
       margin-left: auto;
       margin-right: auto;
   }
-  .social-icons li a.twitter {
-      background-image: url({{ pathto('_images/.twitter.png', true)|e }});
-  }
-  .social-icons li a.googleplus {
-      background-image: url({{ pathto('_images/.google+.png', true)|e }});
-  }
-  .social-icons li a.linkedin {
-      background-image: url({{ pathto('_images/.linkedin.png', true)|e }});
-  }
   .social-icons li a:hover {
       background-color: #666666;
       transition: all 0.2s ease 0s;
@@ -194,6 +168,20 @@
       text-align: center;
   }
    </style>
+<!-- The ribbon -->
+<div class="theribbon">
+<a class="forkit" data-text="On Facebook" data-text-detached="Friend me !" href="https://www.facebook.com/naereencorp.lbesson">
+ <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
+<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+</div>
+{{ super() }}
+{% endblock %}
+<!-- Now the footer -->
+{% block footer %}
+  <!-- Fokus -->
+   <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
+{{ super() }}
+<div class="footer">
   <!-- JavaScript external sources -->
 	<!-- Referrer.js (only for error pages). -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script> -->
@@ -423,21 +411,6 @@ jQuery.timeago.settings.strings = {
   });
  /* Put here all JS code, and its dependencies before. */
  </script>
-<!-- The ribbon -->
-<div class="theribbon">
-<a class="forkit" data-text="On Facebook" data-text-detached="Friend me !" href="https://www.facebook.com/naereencorp.lbesson">
- <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook">
- </a>
-<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
-</div>
-{{ super() }}
-{% endblock %}
-<!-- Now the footer -->
-{% block footer %}
-  <!-- Fokus -->
-   <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
-{{ super() }}
-<div class="footer">
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
  window.document.write(
@@ -549,6 +522,21 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <li><a class="image-reference" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
 </ul>
-</div></div>
+</div></div> 
+<!--  *****************************************************************************
+ * This file is © Lilian Besson, 2011-2013.
+ * I'm a Computer Science and Mathematics student, at ENS de Cachan.
+ * 
+ * This file layout.html is part of my web pages, generated with Sphinx.
+ * 
+ * Those pages are hosted
+ *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to;
+ *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson or http://lbesson.qc.to;
+ *  - here on Bitbucket, http://lbesson.bitbucket.org;
+ *  - sometimes on my machine, http://jarvis.crans.org/ (only locally on the crans network).
+ *
+ * This document is a Jinja Template, to modify all the HTML pages produced
+ * by Sphinx. It have to be in the '.templates' folder.
+ ***************************************************************************** -->
 <!-- End of the part generated by .templating/layout.html -->
 {% endblock %}

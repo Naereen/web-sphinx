@@ -12,7 +12,7 @@
    .. Maybe you would like to see it in `French <cv.fr.html>`_.
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
-   `en français <cd.fr.html>`_ :red:`?`
+   `en français <cv.fr.html>`_ :red:`?`
    
    I'm trying to keep those two files absolutly equivalent.
    A pretty **PDF** version is also available `cv.pdf <cv.pdf>`_ !
