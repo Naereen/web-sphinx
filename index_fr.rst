@@ -47,14 +47,6 @@ mention Bien
 
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
-.. sidebar:: Lien direct pour m'envoyer un mail !
-
-   .. raw:: html
-
-      <form><input type="button" value="Contactez-moi par courriel" title="Clickez pour m'envoyer un courriel !"
-      onclick="parent.location='mailto:naereen[@]crans[.]org?subject=[web-sphinx]'"></input>
-      </form>
-
 
 N'hésitez pas à me *contacter* :
 
@@ -75,15 +67,15 @@ N'hésitez pas à me *contacter* :
         :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
         :target: callto:100101011101001100111101100001_2
         
-  #. ou par téléphone (:red:`si c'est urgent ou important`) :
+  #. ou par téléphone (:red:`si c'est urgent ou important`):
      
      .. image:: .courriel.png
         :scale: 120 %
         :align: right
         :alt:   Mon adresse courriel, dans une image png...
-        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
+        :target: mailto:Lilian.Besson＠ens-cachan.fr
 
-  #. ou par *email* `à cette adresse <mailto:lilian DOT besson AT ens-cachan DOT fr>`_ :
+  #. ou par *email* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^

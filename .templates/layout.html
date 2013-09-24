@@ -19,23 +19,13 @@
  <script type="text/javascript">
   function writeLocationOfThePage(arg1, arg2) {
    window.document.write(arg1 + "<span style=\"color: grey\">Page '"
-    + "<a style=\"color: grey\" href=\""
-    + window.location.protocol + "//"
-    + window.location.host
-    + window.location.port
-    + window.location.pathname
-    + "\">"
-    + window.location.protocol + "//"
-    + window.location.host
-    + window.location.port
-    + window.location.pathname
+    + "<a style=\"color: grey\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname
+    + "\">" + window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname
     + "</a>'</span>" + arg2)
   };
   writeLocationOfThePage("<li>", "</li>");
  </script>
- <noscript>
-  <li><span style="color:red">(JavaScript is disabled)</span></li>
- </noscript> 
+ <noscript><li><span style="color:red">(JavaScript is disabled)</span></li></noscript> 
 {% endblock %}
 
 {% block extrahead %}
@@ -56,7 +46,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-23-13" />
+    <meta name="DC.Date" content="2013-24-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -65,9 +55,7 @@
           href="{{ pathto('_static/.besson.png', true)|e }}" />
   <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="_static/forkit.css">
-  <!-- ************************************************* -->
-  <!-- CSS style (one big is quicker than many small...) -->
-   <style type="text/css">
+  <style type="text/css">
   /* Colors and text decoration.
    For example, :black:`text in black` or :blink:`text blinking` in rST. */
     .black	{color:black}
@@ -200,28 +188,27 @@
 	 * http://www.openjs.com/scripts/events/keyboard_shortcuts/ (for the script)
 	 * http://questionablecontent.com (for the idea) -->
 	 <script type="text/javascript" src="{{ pathto('_static/shortcuts.js', true)|e }}"></script>
+	<!-- MouseTrap.hs (http://craig.is/killing/mice) -->
+	 <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
+if (typeof console !== 'undefined') { console.log("Starting main JS content. (C) Lilian BESSON, 2011-2013."); }
+// Put all "embedded" script into a $(document).ready(function() {... });
+ $(document).ready(function() {
 /* This template is designed to embed a simple piece of code, written in
  * Javascript, to include the "Google Analytics" web service, without modifying
  * by hand all the produced HTML pages. ( Google Analytics is a trademark of Google Inc.) */  
- $(document).ready(function() {
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   /* Here are set the default values for these variables,
    * corresponding to the default domain. */
-  var my_id = 'UA-38514290-1'
-    , my_domain = 'crans.org';
+  var my_id = 'UA-38514290-1', my_domain = 'crans.org';
   /* Here a case-by-case analysis is done to change this variable
    * when the page is located on another web server. */
   switch(window.location.host) {
-    case 'perso.crans.org':
-        my_id = 'UA-38514290-1';
-        my_domain = 'crans.org';
-        break;
     case 'www.dptinfo.ens-cachan.fr':
         my_id = 'UA-38514290-2';
         my_domain = 'dptinfo.ens-cachan.fr';
@@ -231,8 +218,7 @@
         my_domain = 'bitbucket.org';
         break;
     default:
-        break;
-  };
+        break; };
   /* New method. */
   ga('create', my_id, my_domain);
   ga('send', 'pageview');
@@ -248,11 +234,8 @@
   /*  ga.src = 'http://www.google-analytics.com/ga.js'; */
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
- });
-/* Smooth Scroll jQuery plugin  */
-$(document).ready(function() {
- $('div.body a').smoothScroll();
- $('div.sphinxsidebar a').smoothScroll({
+ // Smooth Scroll jQuery plugin
+ $('a').smoothScroll({
   offset: -34,
   direction: 'top', // one of 'top' or 'left'
   scrollTarget: null, // only use if you want to override default behavior
@@ -268,13 +251,7 @@ $(document).ready(function() {
   // $.fn.smoothScroll only: whether to prevent the default click action
   preventDefault: true,
  });
-});
-/* TimeAgo jQuery plugin. Pas utilisé vraiment encore. */
- jQuery(document).ready(function() {
-   jQuery("abbr.timeago").timeago();
- });
-/* Waypoints jQuery plugin. Marche pas bien encore pour la sidebar. */
- $(document).ready(function() {
+ /* Waypoints jQuery plugin. Marche pas bien encore pour la sidebar. */
   $('.related').waypoint('sticky', {
     offset: 0 // Apply "stuck" when element 0px from top
   });
@@ -284,11 +261,8 @@ $(document).ready(function() {
   $('.my-sticky-element').waypoint('sticky', {
     offset: 50 // Apply "stuck" when element 30px from top
   });
- });
-/* scrollUp jQuery plugin */
-$(document).ready(function() {
- $(function () {
-   $.scrollUp({
+ /* scrollUp jQuery plugin */
+ $(function () { $.scrollUp({
     scrollName: 'scrollUpLeft', // Element ID
     topDistance: '300',         // Distance from top before showing element (px)
     topSpeed: 300,              // Speed back to top (ms)
@@ -297,10 +271,8 @@ $(document).ready(function() {
     animationOutSpeed: 200,     // Animation out speed (ms)
     scrollText: '',             // Text for element
     activeOverlay: false,       // Set CSS color to display scrollUp active point, e.g '#00FFFF'
-   });
- });
- $(function () {
-   $.scrollUp({
+   }); });
+ $(function () { $.scrollUp({
     scrollName: 'scrollUpRight',// Element ID
     topDistance: '300',         // Distance from top before showing element (px)
     topSpeed: 300,              // Speed back to top (ms)
@@ -309,107 +281,69 @@ $(document).ready(function() {
     animationOutSpeed: 200,     // Animation out speed (ms)
     scrollText: 'right',       // Text for element
     activeOverlay: false,       // Set CSS color to display scrollUp active point, e.g '#00FFFF'
-   });
- });
-});
-/* TimeAgo jQuery plugin, French options. Source : https://github.com/rmm5t/jquery-timeago/blob/master/locales/jquery.timeago.fr.js */
-jQuery.timeago.settings.strings = {
+   }); });
+ /* TimeAgo jQuery plugin, French options. Source : https://github.com/rmm5t/jquery-timeago/blob/master/locales/jquery.timeago.fr.js */
+ jQuery("abbr.timeago").timeago();
+ jQuery.timeago.settings.strings = {
    // environ ~= about, it's optional
-   prefixAgo: "il y a",
-   prefixFromNow: "d'ici",
-   seconds: "moins d'une minute",
-   minute: "environ une minute",
-   minutes: "environ %d minutes",
-   hour: "environ une heure",
-   hours: "environ %d heures",
-   day: "environ un jour",
-   days: "environ %d jours",
-   month: "environ un mois",
-   months: "environ %d mois",
-   year: "un an",
-   years: "%d ans"
-};
-/* Shortcuts.js */
- shortcut.add("h",function() {
+   prefixAgo: "il y a", prefixFromNow: "d'ici", seconds: "moins d'une minute", minute: "environ une minute", minutes: "environ %d minutes", hour: "environ une heure", hours: "environ %d heures", day: "environ un jour", days: "environ %d jours", month: "environ un mois", months: "environ %d mois", year: "un an", years: "%d ans"
+  };
+ /* Shortcuts.js */
+ shortcut.add("h", function() {
   window.alert("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
 {% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
-+"\n Abonnez vous à un de ces flux RSS :\n"
++"\n Abonnez-vous à un de ces flux RSS :\n"
 +"  - http://bitbucket.org/lbesson/wep-sphinx/rss\n" 
 +"  - http://perso.crans.org/besson/rss.xml\n"
 +" Ce site est maintenu par Lilian Besson © 2013.")
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });
-{% if prev %}shortcut.add("Left",function() {
-  location.href="{{ prev.link|e }}";
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });    
- shortcut.add("p",function() {
-  location.href="{{ prev.link|e }}";
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });    {% endif %}
- shortcut.add("i",function() {
-  location.href="index.html";
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });    
-{% if next %}shortcut.add("Right",function() {
-  location.href="{{ next.link|e }}";
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });
- shortcut.add("n",function() {
-  location.href="{{ next.link|e }}";
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });{% endif %}
- {% if last_updated %}shortcut.add("u",function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-  var last_updated_value = "{{ last_updated }}";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });
+{% if prev %}shortcut.add("Left", function() {
+   location.href="{{ prev.link|e }}";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });    
+ shortcut.add("p", function() {
+   location.href="{{ prev.link|e }}";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
+ shortcut.add("i", function() {
+   location.href="index.html";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });    
+{% if next %}shortcut.add("Right", function() {
+   location.href="{{ next.link|e }}";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });
+ shortcut.add("n", function() {
+   location.href="{{ next.link|e }}";
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
+ {% if last_updated %}shortcut.add("u", function() { //'%d %b %Y, %Hh:%Mm:%Ss'
+   var last_updated_value = "{{ last_updated }}";
     var day   = last_updated_value.substring(0, 2) || "01";
     var month = last_updated_value.substring(3, 6) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7, 11) || "2013";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
-  window.alert(" Cette page a été générée le " + last_updated_value
-   //+ ".\n Valeur donnée à jQuery.TimeAgo:" + year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00"
-   + ".\nSoit " + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00")
-   + ".\n" + "Jour: " + day + ", Mois: " + month + ", Année: " + year
-   + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!");
-            },{
-  'type':'keydown',
-  'propagate':true,
-  'disable_in_input':true,
-  'target':document
-            });{% endif %}
+   window.alert(" Cette page a été générée le " + last_updated_value
+    + ".\nSoit " + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00")
+    + ".\n" + "Jour: " + day + ", Mois: " + month + ", Année: " + year
+    + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!");
+  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
  // Restore the first title.
-  $(document).ready(function() {
    window.parent.document.title=title_backup;
-  });
- /* Put here all JS code, and its dependencies before. */
+ // MouseTrap (http://craig.is/killing/mice)
+    // single keys
+	Mousetrap.bind('4', function() { window.alert("MouseTrap: react to '4' (down). (MouseTrap is still in testing...)"); });
+	Mousetrap.bind('x', function() { window.alert("MouseTrap: react to 'x' (up). (MouseTrap is still in testing...)"); }, 'keyup');
+	// combinations
+	Mousetrap.bind('command+shift+k', function() { window.alert("MouseTrap: react to 'command+shift+k'. (MouseTrap is still in testing...).");	});
+	Mousetrap.bind(['command+k', 'ctrl+k'], function() { window.alert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
+	Mousetrap.bind('mod+z', function() { window.alert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
+	// gmail style sequences
+	Mousetrap.bind('g i', function() { window.alert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); });
+	Mousetrap.bind('* a', function() { window.alert("MouseTrap: react to '* a'. (MouseTrap is still in testing...)"); });
+// Put here all JS code, and its dependencies before.
+// Closing the $(document).ready call
+ });
  </script>
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
@@ -429,6 +363,7 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
    window.document.write(" <span style=\"color: red\">(locale).</span>");
    break;
  case '138.231': 
+   if (myip = '138.231.139.176'){ Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" }); };
    window.document.write(" <span style=\"color: green\">(sur le campus de l'ENS Cachan !).</span>");
    break;
  default:
@@ -523,12 +458,10 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 </noscript>
 </ul>
 </div></div> 
-<!--  *****************************************************************************
+<!--
  * This file is © Lilian Besson, 2011-2013.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
- * 
  * This file layout.html is part of my web pages, generated with Sphinx.
- * 
  * Those pages are hosted
  *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to;
  *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson or http://lbesson.qc.to;
@@ -537,6 +470,5 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  *
  * This document is a Jinja Template, to modify all the HTML pages produced
  * by Sphinx. It have to be in the '.templates' folder.
- ***************************************************************************** -->
-<!-- End of the part generated by .templating/layout.html -->
+End of the part generated by .templating/layout.html -->
 {% endblock %}

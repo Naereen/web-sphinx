@@ -42,14 +42,6 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^
-.. sidebar:: Direct button to send me an email!
-
-   .. raw:: html
-
-      <form><input type="button" value="Contact-me by email" title="Click to send me an email !"
-      onclick="parent.location='mailto:naereen[@]crans[.]org?subject=[web-sphinx]'"></input>
-      </form>
-
 
 Feel free to *contact* me :
  
@@ -68,9 +60,9 @@ Feel free to *contact* me :
         :scale: 120 %
         :align: right
         :alt:   My email address, in a PNG picture...
-        :target: mailto:lilian DOT besson AT ens-cachan DOT fr
+        :target: mailto:lilian.besson＠ens-cachan.fr
 
-  #. or via `email <mailto:lilian DOT besson AT ens-cachan DOT fr>`_;
+  #. or via email `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_;
 
      .. image:: .telephone.png
         :scale: 130 %
