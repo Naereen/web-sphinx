@@ -39,6 +39,7 @@ Le toplevel
    print "Dossier courant: %s" % os.getcwd()
    # Ajoutez votre propre commande Python :
    </pre>
+   <!-- Load ACE Text Editor (new version) -->
    <script src="_static/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
    <script>
    // Launch ACE
