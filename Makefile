@@ -68,7 +68,7 @@ simplehtml: ./.rst2html_all.sh
 	./.rst2html_all.sh *.rst .*.rst
 
 images:
-	-$(CP) .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
+	-$(CP) .*.gif *.gif .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
 
 send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
 
