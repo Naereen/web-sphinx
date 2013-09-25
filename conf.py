@@ -109,7 +109,7 @@ copyright = u'2011-2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.9.4'
+version = '1.9.5'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -231,7 +231,7 @@ html_short_title = u"Lilian Besson"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = u".besson_transparent.png"
+# html_logo = u".besson_transparent.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -272,8 +272,8 @@ html_sidebars = {
          'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
    'cv**.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
          'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
-   '**/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+   '**/*':      ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
+         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to

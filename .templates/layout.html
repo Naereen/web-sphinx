@@ -24,13 +24,13 @@
 
 {% block relbaritems %}<!-- Display info is Javascipt available. -->
  <script type="text/javascript">
-  function writeLocationOfThePage(arg1, arg2) {
-   window.document.write(arg1 + "<span style=\"color: grey\">Page '"
-    + "<a style=\"color: grey\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname
+  function writeLocationOfThePage(arg1, arg2, argstyle1, argstyle2) {
+   window.document.write(arg1 + "<span style=\"" + argstyle1 + "\">Page '"
+    + "<a style=\"" + argstyle2 + "\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname
     + "\">" + window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname
     + "</a>'</span>" + arg2)
   };
-  writeLocationOfThePage("<li>", "</li>");
+  writeLocationOfThePage("<li>", "</li>", "color: grey; font-size: 80%", "color: grey");
  </script>
  <noscript><li><span style="color: grey">(JavaScript is disabled)</span></li></noscript> 
 {% endblock %}
@@ -60,7 +60,7 @@
     <link rel="shortcut icon" type="image/png"
           href="{{ pathto('_static/.besson.png', true)|e }}" />
   <!-- CSS for forkit.js -->
-  <link rel="stylesheet" href="_static/forkit.css">
+  <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}">
   <style type="text/css">
   /* Colors and text decoration.
    For example, :black:`text in black` or :blink:`text blinking` in rST. */
@@ -188,10 +188,6 @@
 	 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
-	<!-- Shortcuts.js - - - Thanks to :
-	 * http://www.openjs.com/scripts/events/keyboard_shortcuts/ (for the script)
-	 * http://questionablecontent.com (for the idea) -->
-	 <script type="text/javascript" src="{{ pathto('_static/shortcuts.js', true)|e }}"></script>
 	<!-- MouseTrap.hs (http://craig.is/killing/mice) -->
 	 <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
     <!-- Fokus -->
@@ -294,8 +290,8 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
    // environ ~= about, it's optional
    prefixAgo: "il y a", prefixFromNow: "d'ici", seconds: "moins d'une minute", minute: "environ une minute", minutes: "environ %d minutes", hour: "environ une heure", hours: "environ %d heures", day: "environ un jour", days: "environ %d jours", month: "environ un mois", months: "environ %d mois", year: "un an", years: "%d ans"
   };
- /* Shortcuts.js */
- shortcut.add("h", function() {
+ // MouseTrap (http://craig.is/killing/mice)
+ Mousetrap.bind(["h", "?"], function() {
   window.alert("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
@@ -304,24 +300,11 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
 +"\n Abonnez-vous à un de ces flux RSS :\n"
 +"  - http://bitbucket.org/lbesson/wep-sphinx/rss\n" 
 +"  - http://perso.crans.org/besson/rss.xml\n"
-+" Ce site est maintenu par Lilian Besson © 2013.")
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });
-{% if prev %}shortcut.add("Left", function() {
-   location.href="{{ prev.link|e }}";
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });    
- shortcut.add("p", function() {
-   location.href="{{ prev.link|e }}";
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
- shortcut.add("i", function() {
-   location.href="index.html";
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });    
-{% if next %}shortcut.add("Right", function() {
-   location.href="{{ next.link|e }}";
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });
- shortcut.add("n", function() {
-   location.href="{{ next.link|e }}";
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
- {% if last_updated %}shortcut.add("u", function() { //'%d %b %Y, %Hh:%Mm:%Ss'
++" Ce site est maintenu par Lilian Besson © 2013.") });
+{% if prev %}Mousetrap.bind(["left", "p"], function() { location.href="{{ prev.link|e }}"; });{% endif %}
+ Mousetrap.bind(["i", "home"], function() { location.href="index.html";});    
+{% if next %}Mousetrap.bind(["right", "n"], function() { location.href="{{ next.link|e }}";});{% endif %}
+{% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
    var last_updated_value = "{{ last_updated }}";
     var day   = last_updated_value.substring(0, 2) || "01";
     var month = last_updated_value.substring(3, 6) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
@@ -333,20 +316,14 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
     + ".\nSoit " + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00")
     + ".\n" + "Jour: " + day + ", Mois: " + month + ", Année: " + year
     + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!");
-  }, {'type':'keydown', 'propagate':true, 'disable_in_input':true, 'target':document });{% endif %}
- // Restore the first title.
-   window.parent.document.title=title_backup;
- // MouseTrap (http://craig.is/killing/mice)
-    // single keys
-	Mousetrap.bind('4', function() { window.alert("MouseTrap: react to '4' (down). (MouseTrap is still in testing...)"); });
+ });{% endif %}
 	Mousetrap.bind('x', function() { window.alert("MouseTrap: react to 'x' (up). (MouseTrap is still in testing...)"); }, 'keyup');
 	// combinations
-	Mousetrap.bind('command+shift+k', function() { window.alert("MouseTrap: react to 'command+shift+k'. (MouseTrap is still in testing...).");	});
 	Mousetrap.bind(['command+k', 'ctrl+k'], function() { window.alert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
 	Mousetrap.bind('mod+z', function() { window.alert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
-	// gmail style sequences
 	Mousetrap.bind('g i', function() { window.alert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); });
-	Mousetrap.bind('* a', function() { window.alert("MouseTrap: react to '* a'. (MouseTrap is still in testing...)"); });
+ // Restore the first title.
+   window.parent.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
  });
@@ -359,7 +336,7 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
  + "</br>Taille d'écran <span style=\"color: white\">"
   + screen.availWidth + "x"
   + screen.availHeight + "</span>.  ");
-  writeLocationOfThePage("", "");
+  writeLocationOfThePage("", "", "color: grey; font-size: 80%", "color: grey");
 </script>
 <!-- Display a custom message if local or on the Crans Network -->
 Votre adresse IP est <script type="text/javascript">window.document.write(myip)</script><noscript>inconnue</noscript>
