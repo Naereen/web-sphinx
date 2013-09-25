@@ -8,24 +8,21 @@
     :license: GPLv3, see LICENSE for details.
 #}
 {% extends "!layout.html" %}
+
 {% block doctype %}<!DOCTYPE html>{% endblock %}
 {% block rootrellink %}
- <li><img src="{{ pathto('_static/.besson.png', true)|e }}" alt=""
-  style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></li>
+ <li><img src="{{ pathto('_static/.besson.png', true)|e }}" alt="" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" />»</li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
+{# Expériences. Liste des blocks utilisables.
+	{% block relbar1 %}{{ super() }}{% endblock %}
+	{% block relbar2 %}{{ super() }}{% endblock %}
+	{% block sidebar1 %}{{ sidebar() }}{% endblock %}
+	{% block sidebar2 %}{% endblock %}
+	{% block sidebarlogo %}{{ super() }}{% endblock %}
+#}
 
-{% block relbar1 %}
-{{ super() }}
-{% endblock %}
-
-{# To remove the relbar in the bottom of HTML documents. #}
-{% block relbar2 %}
-{{ super() }}
-{% endblock %}
-
-{% block relbaritems %}
- <!-- Display info is Javascipt available. -->
+{% block relbaritems %}<!-- Display info is Javascipt available. -->
  <script type="text/javascript">
   function writeLocationOfThePage(arg1, arg2) {
    window.document.write(arg1 + "<span style=\"color: grey\">Page '"
@@ -35,15 +32,15 @@
   };
   writeLocationOfThePage("<li>", "</li>");
  </script>
- <noscript><li><span style="color:red">(JavaScript is disabled)</span></li></noscript> 
+ <noscript><li><span style="color: grey">(JavaScript is disabled)</span></li></noscript> 
 {% endblock %}
 
 {% block extrahead %}
  <script type="text/javascript">
   var myip = "unknown"; // have to be initialized before calling l2.io/ip.js?var=myip
   var title_backup = window.document.title;
-  window.parent.document.title="Chargement en cours " + 
-   window.parent.document.title;
+  if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
+  window.parent.document.title="Chargement en cours...";
  </script>
  <!-- Getting IP from l2.io (and store it to the variable myip). -->
  <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
@@ -175,8 +172,6 @@
 {% endblock %}
 <!-- Now the footer -->
 {% block footer %}
-  <!-- Fokus -->
-   <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
 {{ super() }}
 <div class="footer">
   <!-- JavaScript external sources -->
@@ -199,6 +194,8 @@
 	 <script type="text/javascript" src="{{ pathto('_static/shortcuts.js', true)|e }}"></script>
 	<!-- MouseTrap.hs (http://craig.is/killing/mice) -->
 	 <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
+    <!-- Fokus -->
+	 <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">

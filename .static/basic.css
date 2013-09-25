@@ -54,14 +54,7 @@ a[class*="external"]:after {
     top: -7px;
 }
 
-/* a[class*="internal"]:after {
-    color: #F4DFF7;
-    content: "";
-    font-size: 10px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-} */
+a[class="image-reference"]:after{ }
 
 a[href*="perso.crans.org"]:after {
     color: #C200D3;
@@ -71,15 +64,6 @@ a[href*="perso.crans.org"]:after {
     position: relative;
     top: -7px;
 }
-
-/*a[href*="jarvis"]:after {
-    color: #C200D3;
-    content: "j";
-    font-size: 10px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-}*/
 
 a[href*="www.dptinfo.ens-cachan.fr/~lbesson"]:after {
     color: #C200D3;
@@ -93,7 +77,7 @@ a[href*="www.dptinfo.ens-cachan.fr/~lbesson"]:after {
 a[href*="besson.qc.to"]:after {
     color: #C200D3;
     content: "qc.to";
-    font-size: 10px;
+    font-size: 7px;
     font-weight: normal;
     position: relative;
     top: -7px;
@@ -102,7 +86,7 @@ a[href*="besson.qc.to"]:after {
 a[href*="besson.or.gs"]:after {
     color: #C200D3;
     content: "or.gs";
-    font-size: 10px;
+    font-size: 7px;
     font-weight: normal;
     position: relative;
     top: -7px;
@@ -133,7 +117,7 @@ a[href^="https"]:after {
 a[href$="png"]:after {
     color: #C200D3;
     content: "PNG";
-    font-size: 10px;
+    font-size: 8px;
     font-weight: normal;
     position: relative;
     top: -7px;
@@ -142,7 +126,7 @@ a[href$="png"]:after {
 a[href$="jpg"]:after {
     color: #C200D3;
     content: "jpg";
-    font-size: 10px;
+    font-size: 8px;
     font-weight: normal;
     position: relative;
     top: -7px;
@@ -188,7 +172,7 @@ div.sphinxsidebar {
     float: left;
     width: 230px;
     margin-left: -100%;
-    font-size: 90%;
+    font-size: 95%;
 }
 
 div.sphinxsidebar ul {
