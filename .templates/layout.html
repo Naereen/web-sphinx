@@ -40,7 +40,7 @@
   var myip = "unknown"; // have to be initialized before calling l2.io/ip.js?var=myip
   var title_backup = window.document.title;
   if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
-  window.parent.document.title="Chargement en cours...";
+  window.document.title="Chargement en cours...";
  </script>
   <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
@@ -50,7 +50,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-25-13" />
+    <meta name="DC.Date" content="2013-26-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -265,7 +265,14 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
       };
     window.console.log('[INFO] [noty] Default parameters set :' + $.noty.defaults );
 	function myalert(texttoprint, extradict) {
-		if ($.noty != undefined){ noty({text: texttoprint} + extradict); }
+		if ($.noty != undefined){
+			if (extradict != undefined){
+			 var args = extradict;
+			 args.text = texttoprint;
+			 noty(args);
+			} 
+			else {noty({text: texttoprint});}
+		}
 		else {
 			window.console.log("[ERROR] An alert was displayed with window.alert instead of noty. Maybe noty is not available ?"
 				+ "\n[INFO] myalert called with texttoprint=" + texttoprint + ", and extradict=" + extradict);
@@ -328,15 +335,15 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   };
  // MouseTrap (http://craig.is/killing/mice)
  Mousetrap.bind(["h", "?"], function() {
-  myalert("Les raccourcis claviers suivants sont activés : \n"
-+" - h : affiche ce message d'aide, \n"
-+" - i : retourne à l'index, \n"
-{% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
-{% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). \n"{% endif %}
-+"\n Abonnez-vous à un de ces flux RSS :\n"
-+"  - http://bitbucket.org/lbesson/wep-sphinx/rss\n" 
-+"  - http://perso.crans.org/besson/rss.xml\n"
-+" Ce site est maintenu par Lilian Besson © 2013.", {layout:'center', type:'information'}); });
+  myalert("Les raccourcis claviers suivants sont activés : </br>\n"
++" - h : affiche ce message d'aide, </br>\n"
++" - i : retourne à l'index, </br>\n"
+{% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), </br>\n"{% endif %}
+{% if next %}+" - Droite (→ ou n) : page suivante ({{ next.link|e }}). </br>\n"{% endif %}
++"</br>\n Abonnez-vous à un de ces flux RSS :</br>\n"
++"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
++"  - <a href=\"http://besson.qc.to/rss\">besson.qc.to/rss</a></br>\n"
++"Ce site est maintenu par Lilian Besson © 2013.", {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { location.href="{{ next.link|e }}";});{% endif %}
@@ -359,13 +366,13 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 	Mousetrap.bind('mod+z', function() { myalert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
 	Mousetrap.bind('g i', function() { myalert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); });
  // Restore the first title.
-   window.parent.document.title=title_backup;
+   window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
  });
  </script>
 <!-- Getting IP from l2.io (and store it to the variable myip). -->
-<!-- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script> -->
+ <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
  window.document.write(
@@ -466,6 +473,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <li><a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
   <script type="text/javascript">
+  var namePage=window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname; 
    noty({
     text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
     buttons: [
@@ -473,19 +481,20 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
           // this = button element
           // $noty = $noty element
           $noty.close();
-          noty({text: "Voilà qui fait plaisir !", timeout: '1500', type: 'success'});
+          noty({text: "Voilà qui fait plaisir ! Merci de votre participation :)", type: 'success'});
         }
       }, 
       {addClass: 'btn btn-danger', text: 'Non !!', onClick: function($noty) {
           $noty.close();
-          noty({text: "Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-           "\n Via https://bitbucket.org/web-sphinx/issues?status=new&status=open", 
-           type: 'error', timeout: false, onClick: function(){
-           	 console.log("[INFO] Opening a new window with https://bitbucket.org/web-sphinx/issues?status=new&status=open.");
-             window.open("https://bitbucket.org/web-sphinx/issues?status=new&status=open") && 
-              window.location.href("https://bitbucket.org/web-sphinx/issues?status=new&status=open");
+          noty({text: "Oups ! Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
+           "\n Via <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color:green\">c'est facile !</span>", 
+           type: 'warning', timeout: false, onClick: function($noty){
+           	 $noty.close();
+           	 console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
+             window.open("https://bitbucket.org/lbesson/web-sphinx/issues/new") || 
+              window.location.href("https://bitbucket.org/lbesson/web-sphinx/issues/new");
              return false;
-          } });
+          }, closeWith:[] });
         }
       }
     ]
