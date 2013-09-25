@@ -42,8 +42,6 @@
   if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
   window.parent.document.title="Chargement en cours...";
  </script>
- <!-- Getting IP from l2.io (and store it to the variable myip). -->
- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
   <meta name="author" content="Lilian BESSON" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
@@ -61,6 +59,7 @@
           href="{{ pathto('_static/.besson.png', true)|e }}" />
   <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}">
+  <link rel="stylesheet" href="{{ pathto('_static/buttons.css', true)|e }}">
   <style type="text/css">
   /* Colors and text decoration.
    For example, :black:`text in black` or :blink:`text blinking` in rST. */
@@ -84,12 +83,10 @@
     .blue	{color:blue}
     .navy	{color:navy}
     .purple	{color:purple}
-
     .under	{text-decoration: underline} 
     .over	{text-decoration: overline} 
     .blink	{text-decoration: blink} 
     .line	{text-decoration: line-through}
-
     .it		{font-style: italic}
     .ob		{font-style: oblique}
   /* Style pour les badges en bas de la page. 
@@ -137,9 +134,8 @@
 		bottom: 40px;
 		right:  150px;
 	}
-  /* Social Icons in the sidebar */
+  /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
   .social-icons li a.facebook {
-    /* background-position: 0 2px; */
       background-image: url({{ pathto('_images/.facebook.png', true)|e }});
       display: block;
       margin-left: auto;
@@ -162,9 +158,8 @@
       text-align: center;
   }
    </style>
-<!-- The ribbon -->
 <div class="theribbon">
-<a class="forkit" data-text="On Facebook" data-text-detached="Friend me !" href="https://www.facebook.com/naereencorp.lbesson">
+<a class="forkit" data-text="On Facebook" data-text-detached="Friend me !" href="http://www.facebook.com/naereencorp.lbesson">
  <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
 <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 </div>
@@ -192,10 +187,15 @@
 	 <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
     <!-- Fokus -->
 	 <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
+    <!-- Beta Test for noty. (Source: http://needim.github.io/noty/#installation) -->
+     <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
+     <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
+     <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
+     <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
-if (typeof console !== 'undefined') { console.log("Starting main JS content. (C) Lilian BESSON, 2011-2013."); }
+if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2013."); }
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
 /* This template is designed to embed a simple piece of code, written in
@@ -236,6 +236,42 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
   /*  ga.src = 'http://www.google-analytics.com/ga.js'; */
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+ /* jQuery.noty plugin */
+    $.noty.defaults = {
+        layout: 'bottomRight',
+        theme: 'defaultTheme',
+        type: 'alert',
+        text: 'Default text for a noty notification (change it !).',
+        dismissQueue: true, // If you want to use queue feature set this true
+        template: '<div class="noty_message"><span class="noty_text"></span><div class="noty_close"></div></div>',
+        animation: {
+            open: {height: 'toggle'},
+            close: {height: 'toggle'},
+            easing: 'swing',
+            speed: 200 // opening & closing animation speed
+        },
+        timeout: false, // delay for closing event. Set false for sticky notifications
+        force: true, // adds notification to the beginning of queue when set to true
+        modal: false,
+        maxVisible: 9, // you can set max visible notification for dismissQueue true option
+        closeWith: ['click'], // ['click', 'button', 'hover']
+        callback: {
+            onShow: function() {},
+            afterShow: function() {},
+            onClose: function() {},
+            afterClose: function() {}
+        },
+        buttons: false // an array of buttons
+      };
+    window.console.log('[INFO] [noty] Default parameters set :' + $.noty.defaults );
+	function myalert(texttoprint, extradict) {
+		if ($.noty != undefined){ noty({text: texttoprint} + extradict); }
+		else {
+			window.console.log("[ERROR] An alert was displayed with window.alert instead of noty. Maybe noty is not available ?"
+				+ "\n[INFO] myalert called with texttoprint=" + texttoprint + ", and extradict=" + extradict);
+			window.alert(texttoprint);
+		};
+	};
  // Smooth Scroll jQuery plugin
  $('a').smoothScroll({
   offset: -34,
@@ -292,7 +328,7 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
   };
  // MouseTrap (http://craig.is/killing/mice)
  Mousetrap.bind(["h", "?"], function() {
-  window.alert("Les raccourcis claviers suivants sont activés : \n"
+  myalert("Les raccourcis claviers suivants sont activés : \n"
 +" - h : affiche ce message d'aide, \n"
 +" - i : retourne à l'index, \n"
 {% if prev %}+" - Gauche (← ou p) : page précédente ({{ prev.link|e }}), \n"{% endif %}
@@ -300,7 +336,7 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
 +"\n Abonnez-vous à un de ces flux RSS :\n"
 +"  - http://bitbucket.org/lbesson/wep-sphinx/rss\n" 
 +"  - http://perso.crans.org/besson/rss.xml\n"
-+" Ce site est maintenu par Lilian Besson © 2013.") });
++" Ce site est maintenu par Lilian Besson © 2013.", {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { location.href="{{ next.link|e }}";});{% endif %}
@@ -312,22 +348,24 @@ if (typeof console !== 'undefined') { console.log("Starting main JS content. (C)
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
-   window.alert(" Cette page a été générée le " + last_updated_value
+   myalert(" Cette page a été générée le " + last_updated_value
     + ".\nSoit " + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00")
     + ".\n" + "Jour: " + day + ", Mois: " + month + ", Année: " + year
-    + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!");
+    + ".\n(C) Lilian BESSON 2011-2013\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'alert'});
  });{% endif %}
-	Mousetrap.bind('x', function() { window.alert("MouseTrap: react to 'x' (up). (MouseTrap is still in testing...)"); }, 'keyup');
+	Mousetrap.bind('x', function() { myalert("MouseTrap: react to 'x' (up). (MouseTrap is still in testing...)"); }, 'keyup');
 	// combinations
-	Mousetrap.bind(['command+k', 'ctrl+k'], function() { window.alert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
-	Mousetrap.bind('mod+z', function() { window.alert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
-	Mousetrap.bind('g i', function() { window.alert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); });
+	Mousetrap.bind(['command+k', 'ctrl+k'], function() { myalert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
+	Mousetrap.bind('mod+z', function() { myalert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
+	Mousetrap.bind('g i', function() { myalert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); });
  // Restore the first title.
    window.parent.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
  });
  </script>
+<!-- Getting IP from l2.io (and store it to the variable myip). -->
+<!-- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script> -->
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
  window.document.write(
@@ -343,10 +381,17 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
 <script type="text/javascript">
  switch (myip.substring(0,7)) {
  case '127.0.0.':
+   console.log("[ERROR] Should not consult pages with a local server (some functionalities are disabled)...")
    window.document.write(" <span style=\"color: red\">(locale).</span>");
+   noty({text: 'You should not consult pages with a local server (some functionalities are disabled)...'});
    break;
  case '138.231': 
-   if (myip = '138.231.139.176'){ Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" }); };
+   // put here custom code for the webmaster
+   if (myip = '138.231.139.176'){
+      Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" });
+      noty({text: 'Welcome master ! Every think seem to work just fine !\nThis is the a notification, send with jQuery.noty, of type success.',
+         type: 'information', layout: 'center'});
+   };
    window.document.write(" <span style=\"color: green\">(sur le campus de l'ENS Cachan !).</span>");
    break;
  default:
@@ -361,7 +406,6 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
 <a class="image-reference" href="http://jigsaw.w3.org/css-validator/check/referer">
  <img style="width:88px;height:31px;margin-left:100px" class="align-left" alt="CSS Valide ?"
      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAABjFBMVEUAAAAHCAkLCwsPERMTFBUTFhgcHBwaHiEcICMjIyMiJyskKi4oKCgnLTEoLjMrMjYuNTozMzMxOD07Ozs1PUI4QEY8Rkw/SVBLS0xBS1JPT1BJVFtUVVVbW1tEXW9NWGFQXGVZXmJVYWtYZW9baXNlZWVra2xgb3licXx7e3sAWpwIX58fW4cJYJ8NYqERZaIVaKQaa6YebagybZkhb6klcqopdawxea85dKE1fLA4frJoeIRuf4s8gbNEhrZHiLdKirlVkb1alL9rg5dwgY10hpJ8j512kad/k6BdlsBjmsJpnsRtocZ1pcl8qsyBg4WJjpaXl5eYmJiBlKKGmqiInayQl6CNorGZoaqjpaarq620tLS/v7+Crs6GsM+FsNCJs9GbssKft8iQt9SVutWYvNebvtihusulvtCfwdqjw9upw9WqxtqsyNywy96yzeC20OPCwsLMzMzU1NTY2NjA1ufG2ujN3+zT4+7d6fLn5+fs7Ozi7PPp8fbu9Pjz8/Py9/r1+Pv+/v7MzMx+ha5eAAAAhHRSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCX0ja+AAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgARslrPgAAAu9JREFUSMftlf9TEkEUwBclv9WQ5gkHUpCWju8auKGUxNLILzNiGIppfifHxEHulkj8kiCw/ePt3npw2ClOwm+9mX339jH7Yffte29RtuGy/psJypL6ksd3ly+x580BrzcL/PU/2AycCkTp6sRogkEuJSnAJExI8fNQlmyW/x18DjIl5iDEwCngskiIiJDluOfYDJy5WyjG4JRqPxSonodwIX8Acomso0cjvdaWi3vEOArbVAchRbUM54SMMtPVS6PwcuSmGGfMt10DzsE4XQ1A43oCYzTcbE6s7KdyUQfPeewD3/DRjNM+mMRqvL/Ps3YDGKCSFT4ahQMAPyGLECUFP5zQq+usyQonsnS3e7AXPX5iXVHjqEPoGDAHvwJG5uAwPXoYgpCh8ciRCMCnS1IWjeA4aktivIetHSpW0vRv9jA+Mu0Vr7W7vwKnaBR8AQWiebbrsAwwXiJLRvAgGtTW2VGrfQXjGbr/mbQZ+O1VVnFwAXwYIiVp7AA+svmJHxTywwj2oGFtXXrChtA7egLBgux/Y9XJK65eeSEaB0wmgWcGIQsQqa28WdSl4MwhPqSHRQ6cVDNHra23cHXwDoCvTLMB4FKbYxi9VtI29MAjeHGL4LWhWeyw9TtQv85TQvvcqHJ18CnAB1aC8J6jFAhccKtY5GBlWGgX1vCE0NU3kcZxx8PuF0kdHARf4hq30oQC8F0rwQTZn9dCMbXFyUNb1QLJGErCYDOetF3hPqvpbhHIayV4Rq1oIeWHVPnpL8a1/KxX0gucF53SPtJ0bdvEQaZzbwgpySABK71sm9vdiZbqtk0lBFWR5q714/K29qE9jZwtyHKEtgly7G7r2WDe89v7TiUXKDfR2EYfrnAb/YJEOHe38U8Tu0HfbjPevEWJ7bcZj+nO7n1eaVU15hk28RvAm3VlY5VKjKllplaXuB1brvpj3L+8Ojukg0W3KLpcrprhFvnQ5qIoOkUmdjaYonMn9zq5V7dFhurRwH8AqGY+zFuBk5IAAAAASUVORK5CYII=" /></a>
-<!-- Paragraphe final -->
 Toutes remarques, questions, ou notifications de bugs peuvent être posées via cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>.<br/>
 Si ça concerne des scripts, veuillez utiliser
@@ -371,74 +415,82 @@ Des précisions sur les droits de copies, sur les institutions et les marques ci
 Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://www.ghostery.com">Ghostery</a>.<br/>
-<div id="supportBadges">
-<ul>
-<li>
-<a class="image-reference" href="http://www.mozilla.org/en-US/firefox/all/">
+<div id="supportBadges"><ul>
+<li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
  <img alt="Optimized for Firefox, tested on Firefox 24.0" 
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://www.google.com/analytics/">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Google Analytics" href="http://www.google.com/analytics/">
  <img alt="Use Google Analytics" 
       src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://www.nano-editor.org/">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
  <img alt="Written with GNU Nano 2.3.2" 
       src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://www.gnu.org/licenses/gpl.html">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="GPL v3" href="http://www.gnu.org/licenses/gpl.html">
  <img alt="These pages are an Open Source project, released with the GPLv3 License" 
       src="{{ pathto('_images/.opensource_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://www.python.org/download/">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Python" href="http://www.python.org/download/">
  <img alt="Python 2.7.3 powered :)" 
       src="{{ pathto('_images/.python_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://sphinx-doc.org/install.html">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Sphinx" href="http://sphinx-doc.org/install.html">
  <img alt="Made with Sphinx 1.2b1" 
       src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://www.ubuntu.com/about/about-ubuntu">
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Ubuntu 12.04" href="http://www.ubuntu.com/about/about-ubuntu">
  <img alt="Made on Ubuntu 12.04.3 LTS" 
       src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" 
-      style="width: 80.0px; height: 15.0px;" />
-</a></li>
-<li>
-<a class="image-reference" href="http://try.github.io" >
+      style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/" >
  <img alt="Source code hosted on Bitbucket.org managed with Git" 
       src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
-      style="width: 36.0px; height: 15.0px;" />
-</a></li>
+      style="width: 36.0px; height: 15.0px;" /></a></li>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
-      - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013).
- -->
+      - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
 <script type="text/javascript">
- if (window.location.host == 'jarvis.crans.org')
+ if (window.location.host.substring(0,7) == 'jarvis')
  {
- window.document.write("<li><a class=\"image-reference\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1 on " + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
+ window.document.write("<li><a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1 on " + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
  else
  {
- window.document.write("<li><a class=\"image-reference\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on " + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
+ window.document.write("<li><a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on " + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
 </script>
 <noscript>
-<li><a class="image-reference" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
+  <script type="text/javascript">
+   noty({
+    text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
+    buttons: [
+      {addClass: 'btn btn-primary', text: 'Il semblerait...', onClick: function($noty) {
+          // this = button element
+          // $noty = $noty element
+          $noty.close();
+          noty({text: "Voilà qui fait plaisir !", timeout: '1500', type: 'success'});
+        }
+      }, 
+      {addClass: 'btn btn-danger', text: 'Non !!', onClick: function($noty) {
+          $noty.close();
+          noty({text: "Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
+           "\n Via https://bitbucket.org/web-sphinx/issues?status=new&status=open", 
+           type: 'error', timeout: false, onClick: function(){
+           	 console.log("[INFO] Opening a new window with https://bitbucket.org/web-sphinx/issues?status=new&status=open.");
+             window.open("https://bitbucket.org/web-sphinx/issues?status=new&status=open") && 
+              window.location.href("https://bitbucket.org/web-sphinx/issues?status=new&status=open");
+             return false;
+          } });
+        }
+      }
+    ]
+   });
+  </script>
 </ul>
 </div></div> 
 <!--

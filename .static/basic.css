@@ -54,7 +54,7 @@ a[class*="external"]:after {
     top: -7px;
 }
 
-a[class="image-reference"]:after{ }
+a[class="image-reference"]:after{ content: ""}
 
 a[href*="perso.crans.org"]:after {
     color: #C200D3;
