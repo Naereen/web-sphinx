@@ -265,8 +265,8 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
       };
     window.console.log('[INFO] [noty] Default parameters set :' + $.noty.defaults );
 	function myalert(texttoprint, extradict) {
-		if ($.noty != undefined){
-			if (extradict != undefined){
+		if ($.noty !== undefined){
+			if (extradict !== undefined){
 			 var args = extradict;
 			 args.text = texttoprint;
 			 noty(args);
@@ -394,9 +394,11 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
    break;
  case '138.231': 
    // put here custom code for the webmaster
-   if (myip = '138.231.139.176'){
+   if (myip == '138.231.139.176'){
       Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" });
-      noty({text: 'Welcome master ! Every think seem to work just fine !\nThis is the a notification, send with jQuery.noty, of type success.',
+      Mousetrap.bind('g', function() { location.href="https://gravatar.com/naereen" });
+      Mousetrap.bind('b', function() { location.href="https://bitbucket.org/lbesson/" });
+      noty({text: 'Welcome master ! Every think seem to work just fine !\n</br>This is a test notification, send with jQuery.noty, of type success.',
          type: 'information', layout: 'center'});
    };
    window.document.write(" <span style=\"color: green\">(sur le campus de l'ENS Cachan !).</span>");
