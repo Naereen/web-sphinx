@@ -20,7 +20,7 @@
         + " (L'erreur continuera sûrement...)");
       }
       else{
-       document.write("<span style="color:red">Accès direct à cette page d'erreur détectée !</span>");
+       document.write("<span style=\"color:red\">Accès direct à cette page d'erreur détectée !</span>");
       };
       </script>
 

@@ -137,6 +137,8 @@ a[href$="jpg"]:after {
 div.related {
     width: 100%;
     font-size: 90%;
+    position:   fixed;
+    top:        0;
 }
 
 div.related h3 {
@@ -157,6 +159,7 @@ div.related li.right {
     float: right;
     margin-right: 5px;
 }
+
 div.related.stuck {
     position:   fixed;
     top:        0;
@@ -166,13 +169,29 @@ div.related.stuck {
 
 div.sphinxsidebarwrapper {
     padding: 10px 5px 0 10px;
+    direction:ltr;
 }
 
 div.sphinxsidebar {
     float: left;
+    top: 31px; /* Change this if horizontal top bar is not sticky. */
     width: 230px;
-    margin-left: -100%;
-    font-size: 95%;
+  /*  margin-left: -100%; */
+    font-size: 90%;
+    margin-left:;
+  /* float: none; */
+/* Make the sidebar scrollable */
+   /* height: calc(100% - 60px); */
+   /* height: 85%; */
+    bottom: 0px;
+    direction:rtl;  /* Right To Left */ 
+    overflow-y: auto !important;
+    position: fixed;
+    overflow-x: hidden;
+}
+
+div.sphinxsidebar.stuck {
+    position: auto;
 }
 
 div.sphinxsidebar ul {
@@ -381,6 +400,9 @@ div.sidebar {
     background-color: #ffe;
     width: 40%;
     float: right;
+    /* margin-left: 0;
+    position: fixed;
+    float: none; */
 }
 
 p.sidebar-title {
@@ -649,6 +671,7 @@ span.eqno {
     div.documentwrapper,
     div.bodywrapper {
         margin: 0 !important;
+    /*    margin-top: 30px; */
         width: 100%;
     }
 

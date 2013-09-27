@@ -142,6 +142,7 @@ clean_build:
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
+	$(CP) .static/* $(BUILDDIR)/html/_static/
 
 scripts-rec: scripts
 	mkdir --parents $(BUILDDIR)/html/_static/

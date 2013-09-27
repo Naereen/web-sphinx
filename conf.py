@@ -60,6 +60,14 @@ extensions = [
 ##############################################################################
 # Here is the good place to put special options for those exterior extensions
 
+# The path to the JavaScript file to include in the HTML files in order to load MathJax.
+# The default is the http:// URL that loads the JS files from the MathJax CDN. If you want MathJax to be available offline, you have to donwload it and set this value to a different path.
+# The path can be absolute or relative; if it is relative, it is relative to the _static directory of the built docs.
+# For example, if you put MathJax into the static path of the Sphinx docs, this value would be MathJax/MathJax.js.
+# If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
+# You can also give a full http:// URL different from the CDN URL.
+mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&locale=fr"
+
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
 
@@ -109,7 +117,7 @@ copyright = u'2011-2013, Lilian Besson'
 # built documents.
 #
 # The short X.Y version.
-version = '1.9.5'
+version = '1.9.6'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -170,9 +178,9 @@ html_theme_options = {
 # Put the sidebar on the right side. Defaults to false.
 #    "rightsidebar": "true",
 # Add an experimental JavaScript snippet that makes the sidebar collapsible via a button on its side. Doesn’t work together with “rightsidebar” or “stickysidebar”. Defaults to false.
-    "collapsiblesidebar" : True,
+    "collapsiblesidebar" : False,
 # Display external links differently from internal links. Defaults to false.
-#    "externalrefs" : True,
+    "externalrefs" : True,
 # Make the sidebar “fixed” so that it doesn’t scroll out of view for long body content. This may not work well with all browsers. Defaults to false.
     "stickysidebar" : False,
 ###########################
@@ -180,7 +188,7 @@ html_theme_options = {
 #    footerbgcolor (CSS color): Background color for the footer line.
     "footerbgcolor"	: "#351642",
 #    footertextcolor (CSS color): Text color for the footer line.
-#    "footertextcolor"	: "blue",
+    "footertextcolor"	: "grey",
 #    sidebarbgcolor (CSS color): Background color for the sidebar.
     "sidebarbgcolor"	: "#351642",
 #    sidebarbtncolor (CSS color): Background color for the sidebar collapse button (used when collapsiblesidebar is true).
@@ -261,19 +269,19 @@ html_use_smartypants = True
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
    '**':       ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
    '**.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    '**_en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    'index_fr': ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
-         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
    'cv**.fr': ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
-         'sidebar_gpg.fr.html', 'sidebar_otherserver.fr.html', 'social_icons.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
    'cv**.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
-         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    '**/*':      ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'sidebar_otherserver.en.html', 'social_icons.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
@@ -287,7 +295,7 @@ html_additional_pages = {
 html_domain_indices = True
 
 # If false, no index is generated.
-html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 html_split_index = False
@@ -307,7 +315,7 @@ html_show_copyright = True
 html_use_opensearch = 'http://besson.qc.to/'
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
-#html_file_suffix = None
+# html_file_suffix = ".html"
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'LilianBesson'

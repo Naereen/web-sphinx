@@ -50,7 +50,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-26-13" />
+    <meta name="DC.Date" content="2013-27-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -306,6 +306,9 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   $('.my-sticky-element').waypoint('sticky', {
     offset: 50 // Apply "stuck" when element 30px from top
   });
+  $('.sphinxsidebar').waypoint('sticky', {
+    offset: 400 // Apply "stuck" when element 30px from top
+  });
  /* scrollUp jQuery plugin */
  $(function () { $.scrollUp({
     scrollName: 'scrollUpLeft', // Element ID
@@ -372,7 +375,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  });
  </script>
 <!-- Getting IP from l2.io (and store it to the variable myip). -->
- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
+<!-- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>-->
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
  window.document.write(
@@ -457,12 +460,16 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="Source code hosted on Bitbucket.org managed with Git" 
       src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
       style="width: 36.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
+ <img alt="Powered by MathJax"
+      src="http://cdn.mathjax.org/mathjax/badge/mj_logo_60x12.png"
+      style="width: 60.0px; height: 12.0px;" /></a></li>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
       - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
 <script type="text/javascript">
- if (window.location.host.substring(0,7) == 'jarvis')
+ if (window.location.host.substring(0,6) == 'jarvis')
  {
  window.document.write("<li><a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.1 on " + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>") 
  }
