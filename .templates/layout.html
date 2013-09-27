@@ -81,7 +81,7 @@
     div#supportBadges { margin:1em; text-align:center; }
     #supportBadges ul { padding:0; display:inline; }
     #supportBadges li { display:inline; }
-    #supportBadges a { margin-right:5px; opacity:0.6; }
+    #supportBadges a { margin-right:1px; opacity:0.6; }
     #supportBadges a:hover { opacity:1; }
 /* waypoint sticky elements */
 	.my-sticky-element { margin: 0 auto; }
@@ -117,11 +117,22 @@
       text-align: center;
   }
 </style>
+<script type="text/javascript" src="{{ pathto('_static/nbl.min.js', true)|e }}" data-nbl="[
+  '{{ pathto('_static/forkit.js', true)|e }}',
+function(){ console.log('[nbl] Loading forkit, jQuery.noty, MouseTrap with NBL.js ...'); } ]">
+</script>
+<!--
+  '{{ pathto('_static/noty/jquery.noty.js', true)|e }}',
+  '{{ pathto('_static/noty/layouts/center.js', true)|e }}',
+  '{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}',
+  '{{ pathto('_static/noty/themes/default.js', true)|e }}', 
+  '{{ pathto('_static/mousetrap.min.js', true)|e }}', 
+-->
 <a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
 <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
-   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+   <!--<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>-->
   <!-- Beta Test for noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
+  <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
@@ -154,6 +165,7 @@
         buttons: false // an array of buttons
       };
   function alert(texttoprint, extradict) {
+    console.log("\n[INFO] alert called with texttoprint=" + texttoprint + ", and extradict=" + extradict);
     if ($.noty !== undefined){
       if (extradict !== undefined){ var args = extradict; args.text = texttoprint; noty(args); } 
       else { noty({text: texttoprint}); }
@@ -185,21 +197,32 @@
 {{ super() }}
 <div class="footer">
   <!-- JavaScript external sources -->
+  <script type="text/javascript">
+  nbl.l([
+    '{{ pathto("_static/jquery.timeago.js", true)|e }}',
+    '{{ pathto("_static/jquery.scrollUp.min.js", true)|e }}',
+    '{{ pathto("_static/waypoints.min.js", true)|e }}',
+    '{{ pathto("_static/waypoints-sticky.js", true)|e }}',
+    '{{ pathto("_static/fokus.min.js", true)|e }}',
+    '{{ pathto("_static/jcaption.min.js", true)|e }}',
+   function(){ if (typeof console !== 'undefined') { console.log('[nbl] Loading jQuery.smooth-scroll, jQuery.TimeAgo, jQuery.scrollUp, waypoints, waypoints-sticky, fokus with NBL.js ...'); } }
+  ]);
+  </script>
 	<!-- Referrer.js (only for error pages). -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script> -->
 	<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
+	<script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
+	 <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script> -->
 	<!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
-	 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
+	 <!-- <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script> -->
+	 <!-- <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script> -->
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
+	 <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script> -->
     <!-- Fokus -->
-	 <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
+	 <!-- <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script> -->
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
@@ -298,6 +321,25 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 	Mousetrap.bind(['command+k', 'ctrl+k'], function() { alert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
 	Mousetrap.bind('mod+z', function() { alert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
 	Mousetrap.bind('g i', function() { alert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); }); */
+// jQuery.jCaption plugin
+   $('img').jcaption({
+    wrapperElement: 'div',   // Element to wrap the image and caption in
+    wrapperClass: 'caption', // Class for wrapper element
+    captionElement: 'p',     // Caption Element
+    imageAttr: 'alt',        // Attribute of image to use as caption source
+    requireText: true,       // If true, it checks to make sure there is caption copy before running on each image
+    copyStyle: false,        // Should inline style be copied from img element to wrapper
+    removeStyle: true,       // Strip inline style from image
+    removeAlign: true,       // Strip align attribute from image
+    copyAlignmentToClass: false, // Assign the value of the image's align attribute as a class to the wrapper
+    copyFloatToClass: true,      // Assign the value of the image's float value as a class to the wrapper
+    autoWidth: true,         // Assign a width to the wrapper that matches the image
+    animate: false,          // Animate on hover over the image
+    show: {opacity: 'show'}, // Show Animation
+    showDuration: 200,       // Hide Animation
+    hide: {opacity: 'hide'},
+    hideDuration: 200 
+  });
  // Restore the first title.
    window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
@@ -328,11 +370,11 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
  case '138.231': 
    // put here custom code for the webmaster
    if ((myip == '138.231.139.176') || (window.location.host.substring(0,6) == 'jarvis')) {
-      noty({text: 'Welcome master ! Every think seem to work just fine !' + 
+      alert( ('Welcome master ! Every think seem to work just fine !' + 
          '\n</br>This is a test notification, send with jQuery.noty, of type success.' + 
          '\n</br>Shortcuts: f → facebook, g → gravatar, b → bitbucket' + 
-         '\n</br>Shortcuts: c c → check css, c h → check HTML, c r → check rss',
-         type: 'success', layout: 'center'});
+         '\n</br>Shortcuts: c c → check css, c h → check HTML, c r → check rss'),
+         {type: 'success', layout: 'center'});
       Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" });
       Mousetrap.bind('g', function() { location.href="https://gravatar.com/naereen" });
       Mousetrap.bind('b', function() { location.href="https://bitbucket.org/lbesson/" });
