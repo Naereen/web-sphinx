@@ -18,7 +18,6 @@ div.clearer {
 }
 
 /* -- a test FIXME ----------------------------------------------------------- */
-
 div.will-be-sticky {
  /*   padding: 10px 5px 0 10px;
     float: left;
@@ -28,11 +27,9 @@ div.will-be-sticky {
     bottom: 340px;
  */
 }
-
 div.will-be-sticky.stuck {
   /*  position: fixed; */
 }
-
 div.is-sticky {
  /*   padding: 10px 5px 0 10px;
     float: left;
@@ -47,14 +44,12 @@ div.is-sticky {
 
 a[class*="external"]:after {
     color: #00AA00;
-    content: "+";
+    content: "↗";
     font-size: 10px;
     font-weight: normal;
     position: relative;
     top: -7px;
 }
-
-a[class="image-reference"]:after{ content: ""}
 
 a[href*="perso.crans.org"]:after {
     color: #C200D3;
@@ -114,23 +109,20 @@ a[href^="https"]:after {
     top: -7px;
 }
 
-a[href$="png"]:after {
+a[href$="png"]:after,
+a[href$="jpg"]:after,
+a[href$="gif"]:after,
+a[href$="JPG"]:after,
+a[href$="jepg"]:after {
     color: #C200D3;
-    content: "PNG";
+    content: "§";
     font-size: 8px;
     font-weight: normal;
     position: relative;
     top: -7px;
 }
 
-a[href$="jpg"]:after {
-    color: #C200D3;
-    content: "jpg";
-    font-size: 8px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-}
+a[class*="image"]:after{ content:; }
 
 /* -- relbar ---------------------------------------------------------------- */
 
@@ -165,18 +157,95 @@ div.related.stuck {
     top:        0;
 }
 
+/* -- Meny ------------------------------------------------------------------ */
+.meny {
+    display: none;
+    padding: 20px;
+    overflow: auto;
+    background: #333;
+    color: #eee;
+
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+    .meny ul {
+        margin-top: 10px;
+    }
+        .meny ul li {
+            display: inline-block;
+            width: 200px;
+            list-style: none;
+            font-size: 20px;
+            padding: 3px 10px;
+        }
+            .meny ul li:before {
+                content: '-';
+                margin-right: 5px;
+                color: rgba( 255, 255, 255, 0.2 );
+            }
+
+/**
+ * Hint graphic that appears while menu is inactive
+ */
+.meny-arrow {
+    position: fixed;
+    z-index: 10;
+
+    border: 10px solid transparent;
+
+    -webkit-transition: opacity 0.4s ease 0.4s;
+       -moz-transition: opacity 0.4s ease 0.4s;
+        -ms-transition: opacity 0.4s ease 0.4s;
+         -o-transition: opacity 0.4s ease 0.4s;
+            transition: opacity 0.4s ease 0.4s;
+}
+    .meny-left .meny-arrow {
+        left: 14px;
+        top: 50%;
+        margin-top: -16px;
+        border-left: 16px solid #333;
+    }
+    .meny-right .meny-arrow {
+        right: 14px;
+        top: 50%;
+        margin-top: -16px;
+        border-right: 16px solid #333;
+    }
+    .meny-top .meny-arrow {
+        left: 50%;
+        top: 14px;
+        margin-left: -16px;
+        border-top: 16px solid #333;
+    }
+    .meny-bottom .meny-arrow {
+        left: 50%;
+        bottom: 14px;
+        margin-left: -16px;
+        border-bottom: 16px solid #333;
+    }
+    .meny-active .meny-arrow {
+        opacity: 0;
+
+        -webkit-transition: opacity 0.2s ease;
+           -moz-transition: opacity 0.2s ease;
+            -ms-transition: opacity 0.2s ease;
+             -o-transition: opacity 0.2s ease;
+                transition: opacity 0.2s ease;
+    }
+
 /* -- sidebar --------------------------------------------------------------- */
 
 div.sphinxsidebarwrapper {
     padding: 10px 5px 0 10px;
-    direction:ltr;
+    direction:ltr; /* Left To Right, WARNING */
 }
 
 div.sphinxsidebar {
     float: left;
     top: 31px; /* Change this if horizontal top bar is not sticky. */
     width: 230px;
-  /*  margin-left: -100%; */
+  /*  margin-left: -100%; */ /* Disable if not making scrollable sidebar */
     font-size: 90%;
     margin-left:;
   /* float: none; */
@@ -184,7 +253,7 @@ div.sphinxsidebar {
    /* height: calc(100% - 60px); */
    /* height: 85%; */
     bottom: 0px;
-    direction:rtl;  /* Right To Left */ 
+    direction:rtl; /* Right To Left, WARNING */
     overflow-y: auto !important;
     position: fixed;
     overflow-x: hidden;
