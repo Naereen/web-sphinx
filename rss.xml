@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Plein de nouveaux trucs (JavaScript), et refonte de lbesson.bitbucket.org !</title>
+       <link>http://lbesson.bitbucket.org?p=top</link>
+       <description>www.dptinfo.ens-cachan.fr/~lbesson est toujours cassé...</description>
+       <guid>http://lbesson.bitbucket.org?p=right/</guid>
+       <pubDate>Sat, 28 Sep 2013 12:04:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>L'éditeur ACE a été remis en place, avec succès, pour le toplevel Python !</title>
        <link>http://besson.qc.to/python.html</link>
        <description>www.dptinfo.ens-cachan.fr/~lbesson est cassé :( en ce moment !</description>

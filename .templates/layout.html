@@ -230,7 +230,10 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
     <!-- jcaption jQuery plugin (source: http://www.gethifi.com/blog/jcaption-a-jquery-plugin-for-simple-image-captions) -->
    <script type="text/javascript" src="{{ pathto('_static/jcaption.min.js', true)|e }}"></script>
   <!-- Meny.js (https://github.com/hakimel/meny) -->
-   <script type="text/javascript" src="{{ pathto('_static/meny.min.js', true)|e }}"></script>
+  <!-- <script type="text/javascript" src="{{ pathto('_static/meny.min.js', true)|e }}"></script> -->
+  <!-- jQuery Fancy-Scroll plugin (https://github.com/peachananr/fancy-scroll) -->
+  <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.fancy-scroll.min.js', true)|e }}"></script> -->
+
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
@@ -349,7 +352,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     hideDuration: 200 
   }); */
  // Initialize Meny (source: https://github.com/hakimel/meny). FIXME: still in béta.
- if (window.location.host.substring(0,6) == 'jarvis') {
+ /* if (window.location.host.substring(0,6) == 'jarvis') {
    var meny = undefined;
    var Menyposition = Meny.getQuery().p || 'left';
    Mousetrap.bind('m a', function () {
@@ -383,7 +386,16 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     });
     alert('Le menu latéral Meny peut être intialisé avec "m a" (position:' + Menyposition
      + ').<br>\n Puis les raccourcis suivants seront disponibles : "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
-  }
+  } */
+// fancy_scroll, from https://github.com/peachananr/fancy-scroll
+/*  $(window).fancy_scroll({
+  animation: "bounce", // Options available are bounce (like on iOS), or glow (like on Android 4.0+)
+    bounceDistance: 50, // ONLY for bounce effect: The distance in pixels that page will overflow. Default is 50 pixels.
+    //glowColor: "#02A1FA", // ONLY for glow effect: The colour of the glow effect. Default is #02A1FA (blueish).
+    animDuration: "0.3s", // The animation duration. Can take milliseconds (200ms) or seconds value (0.2s). Default is 0.2s
+    animEasing: "cubic-bezier(0.175, 0.885, 0.420, 1.310)", 
+    // This field accept css easing options. Options available are: linear, ease-in, ease-out, ease-in-out or you can generate it with the tool available here: http://matthewlein.com/ceaser/
+ }); */
 // Restore the first title.
    window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
