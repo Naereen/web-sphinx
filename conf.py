@@ -66,7 +66,7 @@ extensions = [
 # For example, if you put MathJax into the static path of the Sphinx docs, this value would be MathJax/MathJax.js.
 # If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
 # You can also give a full http:// URL different from the CDN URL.
-mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&locale=fr"
+mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'

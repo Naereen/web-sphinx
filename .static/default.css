@@ -22,13 +22,13 @@ body {
     color: #000;
     margin: 0;
     padding: 0;
-   /* background-color: #222; */
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
     background-repeat: repeat;
 }
 
 div.document {
   background-color: #351642;
+   margin: 31px 0 0 0;
 }
 
 div.documentwrapper {
@@ -37,8 +37,8 @@ div.documentwrapper {
 }
 
 div.bodywrapper {
-    /*margin: 31 0 0 230px; */  /* Disable if using meny */
-    margin: 31px 0 0 0;
+    /* margin: 31px 0 0 0; */
+    margin: 31px 0 0 230px;  /* Disable if using meny */
 }
 
 div.body {
@@ -52,7 +52,7 @@ div.footer {
     padding: 9px 0 9px 0;
     text-align: center;
     font-size: 75%;
-   /* margin-left: 230px; */ /* Disable if using meny */
+    margin-left: 230px; /* Disable if using meny */
 }
 
 div.footer a {

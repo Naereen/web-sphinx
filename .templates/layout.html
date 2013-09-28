@@ -37,7 +37,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-27-13" />
+    <meta name="DC.Date" content="2013-28-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -127,9 +127,6 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
   '{{ pathto('_static/noty/themes/default.js', true)|e }}', 
   '{{ pathto('_static/mousetrap.min.js', true)|e }}', 
 -->
-<a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
-   <!--<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>-->
   <!-- Beta Test for noty. (Source: http://needim.github.io/noty/#installation) -->
   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
@@ -177,6 +174,8 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
   };
 </script>
 {{ super() }}
+<a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
 {% endblock %}
 
 {% block relbaritems %}<!-- Display info if Javascipt available. -->
@@ -189,10 +188,16 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
   };
   writeLocationOfThePage("<li>", "</li>", "color: grey; font-size: 100%", "color: grey; text-decoration: underline");
  </script>
- <noscript><li><span style="color: grey">(JavaScript is disabled)</span></li></noscript> 
+ <noscript><li><span style="color: red">(JavaScript is disabled)</span></li></noscript> 
+{% endblock %}
+
+{% block document %}
+<div class="meny-arrow"></div>
+{{ super() }}
 {% endblock %}
 
 {% block footer %}
+   <!--<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>-->
 {{ super() }}
 <div class="footer">
   <!-- JavaScript external sources -->
@@ -224,6 +229,8 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 	 <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
     <!-- jcaption jQuery plugin (source: http://www.gethifi.com/blog/jcaption-a-jquery-plugin-for-simple-image-captions) -->
    <script type="text/javascript" src="{{ pathto('_static/jcaption.min.js', true)|e }}"></script>
+  <!-- Meny.js (https://github.com/hakimel/meny) -->
+   <script type="text/javascript" src="{{ pathto('_static/meny.min.js', true)|e }}"></script>
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
@@ -341,7 +348,41 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     hide: {opacity: 'hide'},
     hideDuration: 200 
   }); */
- // Restore the first title.
+ // Initialize Meny (source: https://github.com/hakimel/meny)
+ var meny = undefined;
+ var Menyposition = Meny.getQuery().p || 'left';
+ Mousetrap.bind('m a', function () {
+   meny = Meny.create({
+      // The element that will be animated in from off screen
+      menuElement: document.querySelector( '.sphinxsidebar' ),
+      // The contents that gets pushed aside while Meny is active
+      contentsElement: document.querySelector( '.documentwrapper' ),
+      // [optional] The alignment of the menu (top/right/bottom/left)
+      position: Menyposition,
+      // The height of the menu (when using top/bottom position)
+      height: 200,
+      // The width of the menu (when using left/right position)
+      width: 235,
+      // Use mouse movement to automatically open/close
+      mouse: true,
+      // [optional] Distance from mouse (in pixels) when menu should open
+      threshold: 40,
+      // Use touch swipe events to open/close
+      touch: true
+    });
+    // API Methods:
+     Mousetrap.bind('m o', function() { meny.open(); });
+     Mousetrap.bind('m f', function() { meny.close(); });
+     Mousetrap.bind('m s', function() { (meny.isOpen()) ? meny.close() : meny.open(); });
+    // Events:
+     meny.addEventListener( 'open', function(){ console.log( 'open' ); } );
+     meny.addEventListener( 'close', function(){ console.log( 'close' ); } );
+     alert('Le menu latéral Meny a été intialisé (position:' + Menyposition
+      + ').<br>\n Raccourcis: "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
+  });
+  alert('Le menu latéral Meny peut être intialisé avec "m a" (position:' + Menyposition
+   + ').<br>\n Puis les raccourcis suivants seront disponibles : "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
+// Restore the first title.
    window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call

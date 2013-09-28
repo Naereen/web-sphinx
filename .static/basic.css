@@ -247,7 +247,7 @@ div.sphinxsidebar {
     width: 230px;
   /*  margin-left: -100%; */ /* Disable if not making scrollable sidebar */
     font-size: 90%;
-    margin-left:;
+    margin-left: 0;
   /* float: none; */
 /* Make the sidebar scrollable */
    /* height: calc(100% - 60px); */
@@ -260,7 +260,7 @@ div.sphinxsidebar {
 }
 
 div.sphinxsidebar.stuck {
-    position: auto;
+    position: fixed;
 }
 
 div.sphinxsidebar ul {
