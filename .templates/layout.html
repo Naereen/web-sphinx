@@ -348,40 +348,42 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     hide: {opacity: 'hide'},
     hideDuration: 200 
   }); */
- // Initialize Meny (source: https://github.com/hakimel/meny)
- var meny = undefined;
- var Menyposition = Meny.getQuery().p || 'left';
- Mousetrap.bind('m a', function () {
-   meny = Meny.create({
-      // The element that will be animated in from off screen
-      menuElement: document.querySelector( '.sphinxsidebar' ),
-      // The contents that gets pushed aside while Meny is active
-      contentsElement: document.querySelector( '.documentwrapper' ),
-      // [optional] The alignment of the menu (top/right/bottom/left)
-      position: Menyposition,
-      // The height of the menu (when using top/bottom position)
-      height: 200,
-      // The width of the menu (when using left/right position)
-      width: 235,
-      // Use mouse movement to automatically open/close
-      mouse: true,
-      // [optional] Distance from mouse (in pixels) when menu should open
-      threshold: 40,
-      // Use touch swipe events to open/close
-      touch: true
+ // Initialize Meny (source: https://github.com/hakimel/meny). FIXME: still in béta.
+ if (window.location.host.substring(0,6) == 'jarvis') {
+   var meny = undefined;
+   var Menyposition = Meny.getQuery().p || 'left';
+   Mousetrap.bind('m a', function () {
+     meny = Meny.create({
+        // The element that will be animated in from off screen
+        menuElement: document.querySelector( '.sphinxsidebar' ),
+        // The contents that gets pushed aside while Meny is active
+        contentsElement: document.querySelector( '.documentwrapper' ),
+        // [optional] The alignment of the menu (top/right/bottom/left)
+        position: Menyposition,
+        // The height of the menu (when using top/bottom position)
+        height: 200,
+        // The width of the menu (when using left/right position)
+        width: 235,
+        // Use mouse movement to automatically open/close
+        mouse: true,
+        // [optional] Distance from mouse (in pixels) when menu should open
+        threshold: 40,
+        // Use touch swipe events to open/close
+        touch: true
+      });
+      // API Methods:
+       Mousetrap.bind('m o', function() { meny.open(); });
+       Mousetrap.bind('m f', function() { meny.close(); });
+       Mousetrap.bind('m s', function() { (meny.isOpen()) ? meny.close() : meny.open(); });
+      // Events:
+       meny.addEventListener( 'open', function(){ console.log( 'open' ); } );
+       meny.addEventListener( 'close', function(){ console.log( 'close' ); } );
+       alert('Le menu latéral Meny a été intialisé (position:' + Menyposition
+        + ').<br>\n Raccourcis: "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
     });
-    // API Methods:
-     Mousetrap.bind('m o', function() { meny.open(); });
-     Mousetrap.bind('m f', function() { meny.close(); });
-     Mousetrap.bind('m s', function() { (meny.isOpen()) ? meny.close() : meny.open(); });
-    // Events:
-     meny.addEventListener( 'open', function(){ console.log( 'open' ); } );
-     meny.addEventListener( 'close', function(){ console.log( 'close' ); } );
-     alert('Le menu latéral Meny a été intialisé (position:' + Menyposition
-      + ').<br>\n Raccourcis: "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
-  });
-  alert('Le menu latéral Meny peut être intialisé avec "m a" (position:' + Menyposition
-   + ').<br>\n Puis les raccourcis suivants seront disponibles : "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
+    alert('Le menu latéral Meny peut être intialisé avec "m a" (position:' + Menyposition
+     + ').<br>\n Puis les raccourcis suivants seront disponibles : "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
+  }
 // Restore the first title.
    window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
