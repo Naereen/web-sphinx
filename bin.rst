@@ -136,7 +136,7 @@ Liste des scripts
   un script pour définir de nombreuses couleurs ANSI pour GNU Bash,
   utilisé dans de nombreux autres scripts. Automatiquement généré avec `<publis/ansi-colors/>`_.
   Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant
-  dans ``~/.color.sh`` (*placez le dans votre ``$HOME``).
+  dans votre ``$HOME``.
 
   :État: *Parfait*.
 
