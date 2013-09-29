@@ -37,7 +37,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-28-13" />
+    <meta name="DC.Date" content="2013-29-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
     <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -47,6 +47,7 @@
   <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/buttons.css', true)|e }}">
+  <link rel="stylesheet" href="{{ pathto('_static/nprogress.css', true)|e }}">
   <style type="text/css">
   /* Colors and text decoration.
    For example, :black:`text in black` or :blink:`text blinking` in rST. */
@@ -134,8 +135,10 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
    <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
+  <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
+   <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
 <script type="text/javascript">
- if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty plugin..."); }
+ if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty plugin..."); };
  /* jQuery.noty plugin */
     $.noty.defaults = {
         layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
@@ -191,15 +194,18 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
  <noscript><li><span style="color: red">(JavaScript is disabled)</span></li></noscript> 
 {% endblock %}
 
-{% block document %}
-<div class="meny-arrow"></div>
-{{ super() }}
-{% endblock %}
+{#
+  {% block document %}
+  <!--<script type="text/javascript">(window.location.hostname.match(/jarvis/gi)) ? NProgress.start();</script>-->
+  {{ super() }}
+  {% endblock %}
+#}
 
 {% block footer %}
    <!--<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>-->
 {{ super() }}
 <div class="footer">
+<script type="text/javascript">NProgress.start();</script>
   <!-- JavaScript external sources -->
  <!-- <script type="text/javascript">
   nbl.l([
@@ -208,12 +214,9 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
     '{{ pathto("_static/waypoints.min.js", true)|e }}',
     '{{ pathto("_static/waypoints-sticky.js", true)|e }}',
     '{{ pathto("_static/fokus.min.js", true)|e }}',
-    '{{ pathto("_static/jcaption.min.js", true)|e }}',
    function(){ if (typeof console !== 'undefined') { console.log('[nbl] Loading jQuery.smooth-scroll, jQuery.TimeAgo, jQuery.scrollUp, waypoints, waypoints-sticky, fokus with NBL.js ...'); } }
   ]);
   </script> -->
-	<!-- Referrer.js (only for error pages). -->
-	 <!-- <script type="text/javascript" src="{{ pathto('_static/referrer.js', true)|e }}"></script> -->
 	<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
@@ -227,17 +230,15 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
     <!-- Fokus -->
 	 <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script>
-    <!-- jcaption jQuery plugin (source: http://www.gethifi.com/blog/jcaption-a-jquery-plugin-for-simple-image-captions) -->
-   <script type="text/javascript" src="{{ pathto('_static/jcaption.min.js', true)|e }}"></script>
-  <!-- Meny.js (https://github.com/hakimel/meny) -->
-  <!-- <script type="text/javascript" src="{{ pathto('_static/meny.min.js', true)|e }}"></script> -->
-  <!-- jQuery Fancy-Scroll plugin (https://github.com/peachananr/fancy-scroll) -->
-  <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.fancy-scroll.min.js', true)|e }}"></script> -->
+   <script type="text/javascript">
+      NProgress.inc();
+    </script>
 
 
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
 if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2013."); }
+  NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
 /* Automatically add Google Analytics web service (a trademark of Google Inc.) */  
@@ -281,6 +282,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   // $.fn.smoothScroll only: whether to prevent the default click action
   preventDefault: true,
  });
+  NProgress.inc();
  /* Waypoints jQuery plugin. offset: 0 // Apply "stuck" when element 0px from top */
   $('.will-be-sticky').waypoint('sticky', { offset: 0 });
   $('.my-sticky-element').waypoint('sticky', { offset: 50 });
@@ -300,6 +302,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  jQuery.timeago.settings.strings = {
    prefixAgo: "il y a", prefixFromNow: "d'ici", seconds: "moins d'une minute", minute: "environ une minute", minutes: "environ %d minutes", hour: "environ une heure", hours: "environ %d heures", day: "environ un jour", days: "environ %d jours", month: "environ un mois", months: "environ %d mois", year: "un an", years: "%d ans"
   };
+  NProgress.inc();
  // MouseTrap (http://craig.is/killing/mice)
  Mousetrap.bind(["h", "?"], function() {
   alert("Les raccourcis claviers suivants sont activés : </br>\n"
@@ -373,6 +376,7 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
  default:
    if (myip !== "inconnue") { window.document.write(" <span style=\"color: grey\">(non locale).</span>"); }
    break;};
+  NProgress.inc();
 </script>
 <br/>
 Une remarque ? Une question ? Cette page
@@ -434,12 +438,16 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  window.document.write("<li><a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on "
   + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>"); 
  };
+  NProgress.inc();
 </script>
 <noscript>
 <li><a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
-  <script type="text/javascript">
-   noty({
+</ul>
+<script type="text/javascript">
+  $(window).load(function(){
+   setTimeout(function(){ NProgress.done(); }, 1000);
+   setTimeout(function(){ noty({
     text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Il semblerait...', onClick: function($noty) {
@@ -453,17 +461,17 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
           noty({text: "<span style=\"font-weight:bold\">Oups !</span> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
            type: 'warning', timeout: false, onClick: function($noty){
-           	 $noty.close();
-           	 console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
+             $noty.close();
+             console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
              window.open("https://bitbucket.org/lbesson/web-sphinx/issues/new");
-             return false;
+             return false; // still does not work !
           } });
         }
       }
     ]
-   });
-  </script>
-</ul>
+    }) }, 3000);
+  });
+</script>
 </div></div> 
 <!--
  * This file is © Lilian Besson, 2011-2013.

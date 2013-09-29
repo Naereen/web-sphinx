@@ -161,9 +161,9 @@ autodoc_member_order = 'bysource'
 autodoc_default_flags = ['members', 'private-members']
 
 # Intersphinx
-intersphinx_mapping = {
-  'sqlalchemy': ('http://www.sqlalchemy.org/docs', None)
-}
+#intersphinx_mapping = {
+#  'sqlalchemy': ('http://www.sqlalchemy.org/docs', None)
+#}
 
 # -- Options for HTML output ---------------------------------------------------
 
