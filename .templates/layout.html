@@ -282,7 +282,6 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   preventDefault: true,
  });
  /* Waypoints jQuery plugin. offset: 0 // Apply "stuck" when element 0px from top */
-  // $('.related').waypoint('sticky', { offset: 0 });
   $('.will-be-sticky').waypoint('sticky', { offset: 0 });
   $('.my-sticky-element').waypoint('sticky', { offset: 50 });
  /* scrollUp jQuery plugin */
@@ -310,7 +309,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 {% if next %}+" - Droite (→ ou n) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
-+"  - <a href=\"http://besson.qc.to/rss\">besson.qc.to/rss</a></br>\n"
++"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
 +"Ce site est maintenu par Lilian Besson © 2013.", {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
@@ -327,75 +326,6 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
     + ".</br></br>\n(C) Lilian BESSON 2011-2013.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
- /*	Mousetrap.bind('x', function() { alert("MouseTrap: react to 'x' (up). (MouseTrap is still in testing...)"); }, 'keyup');
-	// combinations
-	Mousetrap.bind(['command+k', 'ctrl+k'], function() { alert("MouseTrap: react to 'ctrl+k'. (MouseTrap is still in testing...)."); });
-	Mousetrap.bind('mod+z', function() { alert("MouseTrap: react to 'mod+z'. (MouseTrap is still in testing...)."); });
-	Mousetrap.bind('g i', function() { alert("MouseTrap: react to 'g i'. (MouseTrap is still in testing...)"); }); */
-// jQuery.jCaption plugin
-/*   $('img').jcaption({
-    wrapperElement: 'div',   // Element to wrap the image and caption in
-    wrapperClass: 'caption', // Class for wrapper element
-    captionElement: 'p',     // Caption Element
-    imageAttr: 'alt',        // Attribute of image to use as caption source
-    requireText: true,       // If true, it checks to make sure there is caption copy before running on each image
-    copyStyle: true,         // Should inline style be copied from img element to wrapper
-    removeStyle: false,      // Strip inline style from image
-    removeAlign: false,      // Strip align attribute from image
-    copyAlignmentToClass: true, // Assign the value of the image's align attribute as a class to the wrapper
-    copyFloatToClass: true,     // Assign the value of the image's float value as a class to the wrapper
-    autoWidth: true,         // Assign a width to the wrapper that matches the image
-    animate: true,           // Animate on hover over the image
-    show: {opacity: 'show'}, // Show Animation
-    showDuration: 200,       // Hide Animation
-    hide: {opacity: 'hide'},
-    hideDuration: 200 
-  }); */
- // Initialize Meny (source: https://github.com/hakimel/meny). FIXME: still in béta.
- /* if (window.location.host.substring(0,6) == 'jarvis') {
-   var meny = undefined;
-   var Menyposition = Meny.getQuery().p || 'left';
-   Mousetrap.bind('m a', function () {
-     meny = Meny.create({
-        // The element that will be animated in from off screen
-        menuElement: document.querySelector( '.sphinxsidebar' ),
-        // The contents that gets pushed aside while Meny is active
-        contentsElement: document.querySelector( '.documentwrapper' ),
-        // [optional] The alignment of the menu (top/right/bottom/left)
-        position: Menyposition,
-        // The height of the menu (when using top/bottom position)
-        height: 200,
-        // The width of the menu (when using left/right position)
-        width: 235,
-        // Use mouse movement to automatically open/close
-        mouse: true,
-        // [optional] Distance from mouse (in pixels) when menu should open
-        threshold: 40,
-        // Use touch swipe events to open/close
-        touch: true
-      });
-      // API Methods:
-       Mousetrap.bind('m o', function() { meny.open(); });
-       Mousetrap.bind('m f', function() { meny.close(); });
-       Mousetrap.bind('m s', function() { (meny.isOpen()) ? meny.close() : meny.open(); });
-      // Events:
-       meny.addEventListener( 'open', function(){ console.log( 'open' ); } );
-       meny.addEventListener( 'close', function(){ console.log( 'close' ); } );
-       alert('Le menu latéral Meny a été intialisé (position:' + Menyposition
-        + ').<br>\n Raccourcis: "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
-    });
-    alert('Le menu latéral Meny peut être intialisé avec "m a" (position:' + Menyposition
-     + ').<br>\n Puis les raccourcis suivants seront disponibles : "m o" pour ouvrir, "m f" pour fermer, "m s" pour alterner.' );
-  } */
-// fancy_scroll, from https://github.com/peachananr/fancy-scroll
-/*  $(window).fancy_scroll({
-  animation: "bounce", // Options available are bounce (like on iOS), or glow (like on Android 4.0+)
-    bounceDistance: 50, // ONLY for bounce effect: The distance in pixels that page will overflow. Default is 50 pixels.
-    //glowColor: "#02A1FA", // ONLY for glow effect: The colour of the glow effect. Default is #02A1FA (blueish).
-    animDuration: "0.3s", // The animation duration. Can take milliseconds (200ms) or seconds value (0.2s). Default is 0.2s
-    animEasing: "cubic-bezier(0.175, 0.885, 0.420, 1.310)", 
-    // This field accept css easing options. Options available are: linear, ease-in, ease-out, ease-in-out or you can generate it with the tool available here: http://matthewlein.com/ceaser/
- }); */
 // Restore the first title.
    window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
