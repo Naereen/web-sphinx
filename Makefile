@@ -89,17 +89,15 @@ gpgpdf: pdf
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
 	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
-	$(CP) .static/* $(BUILDDIR)/html/_static/
+	-$(CP) .static/* $(BUILDDIR)/html/_static/
 
 scripts-rec: scripts
-	mkdir --parents $(BUILDDIR)/html/_static/
-	$(CP) scripts/*.js $(BUILDDIR)/html/_static/
-	$(CP) -r scripts/* $(BUILDDIR)/html/_static/
+	-$(CP) -r scripts/* $(BUILDDIR)/html/_static/
 
 send_pdf: fixperms
-	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
-	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
-	$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
+	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
+	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_jarvis: fixperms
 	$(CP) -r $(BUILDDIR)/html/ ~/Public/
@@ -122,12 +120,12 @@ send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
 
 send_latexpdf: fixperms
 	-pkill gnuplot
-	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
-	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
-	$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
-	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
-	$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
+	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
+	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
+	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
+	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 sendAll: notify_archive send
 
