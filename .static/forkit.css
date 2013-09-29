@@ -6,6 +6,7 @@
 	width: 200px; height: 150px;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
+    z-index:95;
 }
 .forkit-curtain {
 	text-align: center;

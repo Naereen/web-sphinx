@@ -50,9 +50,7 @@ notify:
 notify_archive: archive
 	notify-send "Sphinx : archiving" "Generating archive : done ! (~/web-sphinx.tar.xz)"
 
-cleanALL: clean_build clean_pyc
-
-archive: clean_pyc
+archive: clean
 	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
 	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
@@ -140,7 +138,7 @@ send_simple:
 
 ################################# Builders ####################################
 
-clean:	clean_pyc
+clean:
 	-rm -rfv /tmp/$(BUILDDIR)/
 	##-mkdir --parents /tmp/$(BUILDDIR)/
 	-mv -vf $(BUILDDIR)/ /tmp/
