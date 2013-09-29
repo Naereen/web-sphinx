@@ -6,10 +6,7 @@
  Scripts et binaires (du dossier `<publis/bin/>`_)
 ###################################################
 .. include:: .special.rst
-.. warning::
 
-   :red:`Cette page est en cours de rédaction...`
-   
 ---------------------------------------------------------------------
 
 À-propos
@@ -18,7 +15,7 @@
  Cette page est là pour décrire les divers éléments du dossier
  `<publis/bin/>`_.
 
- Ce dossier contient un certain nombre de petits logiciels, scripts ou autres.
+ Ce dossier contient un certain nombre de petits logiciels, scripts ou autres utilitaires.
 
 .. sidebar:: Retourner à l'accueil
 
@@ -36,7 +33,7 @@ Liste des scripts
     voir même échouent complètement.
     **Tout retour d'utilisation est le bienvenu**.
     
-    Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues?action=new>`_,
+    Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues/new>`_,
     ou encore m'envoyer un mail.
     
     *Par ailleurs* toute contribution est la bienvenue, et sera intégrée dans les prochaines versions
@@ -46,35 +43,74 @@ Liste des scripts
 
 .. Liste des scripts
 
-* `PDFCompress <publis/bin/PDFCompress>`_,
-  un script pour automatiquement signer, compresser ou encore changer les méta-données d'un ou plusieur document(s) PDF.
+* `dl.sh <publis/bin/dl.sh>`_,
+  un script (modifié à chaque utilisé) télécharger tous les documents présents sur une page web.
+  Assez expérimental, car l'analyse du code HTML de la page dépend de chaque cas.
 
-  :État: *Toujours en amélioration !*
+  :État: *Expérimental*.
+
+
+* `gravatar.py <publis/bin/gravatar.py>`_,
+  un exemple d'utilisation simple de l'API de `gravatar <https://fr.gravatar.com/>`_.
+
+  :État: *Simpliste*, mais fonctionne :).
+
+
+* `CheckDownload_Pypi.sh <publis/bin/CheckDownload_Pypi.sh>`_,
+  un tout petit script pour lire les statistiques de téléchargement d'un paquet
+  hébergé sur sur `pypi <https://pypi.python.org/>`_.
+
+  :État: *Parfait*.
+
+
+* `proxy.sh <publis/bin/proxy.sh>`_,
+  un script pour lancer un serveur *SOCKS* facilement, avec une machine locale du réseau (interne) du `crans <https://www.crans.org>`_.
+
+  :État: *Parfait*.
+
+
+* `PDFCompress <publis/bin/PDFCompress>`_,
+  un script pour automatiquement signer, compresser ou encore changer les méta-données d'un ou plusieur document(s) PDF, en ligne de commande.
+  Très utile, notamment avant d'envoyer des PDFs sur un serveur web.
+  Selon le type de PDF, l'efficacité de la compression varie de 5% a 400% !
+
+  :État: *Stable et efficace*.
+
+
+.. sidebar:: Uniquement sur Ubuntu
+
+   Attention: ces scripts sont écrits pour ma machine (Ubuntu 12.04.3),
+   et donc ne sont testés que sur cette plateforme.
+   La plupart peuvent fonctionnés ailleurs, mais je ne pourrais être responsable
+   d'un quelconque disfonctionnement dûs à l'un de ces scripts.
+
+   Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_.
 
 
 * `quotes.sh <publis/bin/quotes.sh>`_,
   pour récupérer une citation (aléatoire ou non) depuis `<http://wikiquote.org>`_.
 
-  :État: *Toujours en amélioration!*.
+  :État: *Stable*.
+
 
 * `makequotes.sh <publis/bin/makequotes.sh>`_,
   pour construire une liste de citation 
   (une fichier texte avec une citation complète par ligne).
   Utilise `quotes.sh`.
 
-  :État: *Toujours en amélioration!*.
+  :État: *Stable*.
 
 
 * `pdflatex <publis/bin/pdflatex>`_,
   un script colorant la sortie de ``/usr/bin/pdflatex`` pour la rendre plus lisible.
 
-  :État: *Toujours en amélioration !*
+  :État: *Stable et performant*
 
 
 * `chktex <publis/bin/chktex>`_,
   un script colorant la sortie de ``chktex`` pour la rendre plus lisible.
 
-  :État: *Toujours en amélioration !*
+  :État: *Stable et performant*
 
 
 * `series.sh <publis/bin/series.sh>`_,
@@ -83,15 +119,8 @@ Liste des scripts
   :État: *Toujours expérimental*.
 
 
-* `CheckDownload_Pypi.sh <publis/bin/CheckDownload_Pypi.sh>`_,
-  un script pour consulter l'historique de téléchargement d'un projet hébergé sur Pypi.
-
-  :État: *Terminé*.
-
-
 * `pytorst.sh <publis/bin/pytorst.sh>`_,
-  un script pour automatiser l'écriture d'un fichier .rst
-  pour documenter un script via Sphinx.
+  un script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
 
   :État: *Terminé*.
 
@@ -106,13 +135,16 @@ Liste des scripts
 * `.color.sh <publis/bin/.color.sh>`_,
   un script pour définir de nombreuses couleurs ANSI pour GNU Bash,
   utilisé dans de nombreux autres scripts. Automatiquement généré avec `<publis/ansi-colors/>`_.
+  Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant
+  dans ``~/.color.sh`` (*placez le dans votre ``$HOME``).
 
-  :État: *Terminé*.
+  :État: *Parfait*.
 
 
 * `vrun <publis/bin/vrun>`_,
   un script pour contrôler ``vlc`` en ligne de commande,
   est utilisé dans ``series.sh``, et ``.bash_aliases``.
+  *N'est pas écrit par moi !*
 
   :État: *Terminé*.
 
@@ -124,33 +156,33 @@ Liste des scripts
 
 
 * `.pythonrc <publis/bin/.pythonrc>`_,
-  script ``Python`` lancé au démarrage du toplevel ``Python``.
+  fichier d'initialisation ``Python`` lancé au démarrage du toplevel ``Python``.
 
   :État: *Terminé*.
 
 
 * `.ocamlinit <publis/bin/.ocamlinit>`_,
-  script ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
+  fichier d'initialisation ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
 
   :État: *Terminé*.
 
 
 * `Battery.sh <publis/bin/Battery.sh>`_,
-  un script pour récupérer les informations sur la batterie du laptop.
+  un script pour récupérer les informations sur la batterie de votre ordinateur.
 
-  :État: *Terminé*.
+  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
 * `GoingSleep.sh <publis/bin/GoingSleep.sh>`_,
   un script pour mettre l'ordinateur en veille depuis un accès ssh.
 
-  :État: *Terminé*.
+  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
 * `Volume.sh <publis/bin/Volume.sh>`_,
-  un script pour manipuler le volume du laptop en ligne de commande.
+  un script pour manipuler le volume de votre ordinateur en ligne de commande.
 
-  :État: *Terminé*.
+  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
 ------------------------------------------------------------------------------
@@ -168,9 +200,6 @@ GNU Bash
   Profil complémentaire pour GNU Bash, définition d'alias et de fonctions.
 
   :État: *Terminé*, mais toujours en amélioration.
-
-
-.. todo:: Terminer !
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
