@@ -19,9 +19,9 @@
 	{% block relbar1 %}{{ super() }}{% endblock %}
 	{% block sidebar1 %}{{ sidebar() }}{% endblock %}
 	{% block sidebar2 %}{% endblock %}
-	{% block sidebarlogo %}{{ super() }}{% endblock %}
 #}
-  {% block relbar2 %}{% endblock %}
+{% block sidebarlogo %}{% endblock %}
+{% block relbar2 %}{% endblock %}
 
 {% block extrahead %}
  <script type="text/javascript">
@@ -320,7 +320,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}";
+   var last_updated_value = "{{ last_updated }}" || "01 10 2013, 00h:30m:14s";
     var day   = last_updated_value.substring(0, 2) || "01";
     var month = last_updated_value.substring(3, 6) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7, 11) || "2013";
@@ -328,7 +328,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
    alert(" Cette page a été générée le " + last_updated_value
-    + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "09" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
+    + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "10" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
     + ".</br></br>\n(C) Lilian BESSON 2011-2013.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
 // Restore the first title.
@@ -347,10 +347,10 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  + "</br>Taille d'écran <span style=\"color: white\">"
   + screen.availWidth + "x"
   + screen.availHeight + "</span>.  ");
-  writeLocationOfThePage("", "", "color: grey; font-size: 90%", "color: grey");
+  writeLocationOfThePage("", "", "color: grey; font-size: 105%", "color: grey");
 </script>
 <!-- Display a custom message if local or on the Crans Network -->
-Votre adresse IP est <script type="text/javascript">window.document.write(myip)</script><noscript>inconnue</noscript>.
+<!-- Votre adresse IP est <script type="text/javascript">window.document.write(myip)</script><noscript>inconnue</noscript>.
 <script type="text/javascript">
  switch (myip.substring(0,7)) {
  case '127.0.0.':
@@ -379,8 +379,11 @@ Votre adresse IP est <script type="text/javascript">window.document.write(myip)<
    if (myip !== "inconnue") { window.document.write(" <span style=\"color: grey\">(non locale).</span>"); }
    break;};
   NProgress.inc();
-</script>
+</script> -->
 <br/>
+<!-- FIXME -->
+{% include 'hashlong.html' ignore missing %}
+Last change <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/{{ hashlong }}</a><br>
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
 Si ça concerne des scripts, veuillez utiliser
