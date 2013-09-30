@@ -43,6 +43,8 @@ extensions = [
 	'sphinxcontrib.cheeseshop',
 	'sphinxcontrib.gnuplot',
 	'sphinxcontrib.autorun',
+######## Sphinx Spelling http://sphinxcontrib-spelling.readthedocs.org/en/latest/install.html
+	'sphinxcontrib.spelling',
 ####### From reportLab
 	'rst2pdf.pdfbuilder',
 ####### Change the order ?
@@ -94,6 +96,17 @@ autorun_languages['pypy_prefix_chars'] = 0
 
 # sphinxcontrib.bitbucket
 bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
+
+# String specifying the language, as understood by PyEnchant and enchant. Defaults to en_US for US English.
+# spelling_lang='fr' # 'fr_FR'
+
+# String specifying a file containing a list of words known to be spelled correctly but that do not appear in the language dictionary selected by spelling_lang.
+# The file should contain one word per line. Refer to the PyEnchant tutorial for details.
+spelling_word_list_filename='spelling_wordlist.txt'
+
+# Boolean controlling whether suggestions for misspelled words are printed. Defaults to False. 
+spelling_show_suggestions=False
+
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.

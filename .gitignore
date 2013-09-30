@@ -8,4 +8,5 @@ scripts/
 *.asc
 stageM1/
 uml_images/
+blog/
 *.log

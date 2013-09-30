@@ -65,7 +65,6 @@ fixperms:
 	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
 	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
-###############################################################################
 ################################ GPG signs ####################################
 
 gpgrss:
@@ -149,10 +148,12 @@ git:
 pdf: ./.pdf_all.sh
 	./.pdf_all.sh [A-Za-z]*.rst
 	-pkill gnuplot
+	@echo
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
 rss:	gpgrss
 	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/
+	@echo
 	@echo "RSS flow -> in $(BUILDDIR)/html/."
 
 cv.fr:	cv.fr.rst
@@ -165,6 +166,7 @@ cv.en:	cv.en.rst
 
 slides:	.slides.sh
 	./.slides.sh
+	@echo
 	@echo "Build finished. The HTML5 + S5 slides are in $(BUILDDIR)/html."
 
 simplehtml: ./.rst2html_all.sh
@@ -181,6 +183,7 @@ hieroglyph:
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
+	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	##-if [ -f "$(BUILDDIR)/html/transifex.fr.html" ]; then ln -f -s transifex.fr.html $(BUILDDIR)/html/transifex.html; fi
 
@@ -188,6 +191,14 @@ coverage:
 	$(SPHINXBUILD) -b coverage $(ALLSPHINXOPTS) $(BUILDDIR)/coverage
 	@echo
 	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
+
+
+spelling:
+	mv -f -v ./gnuplot_embed.rst /tmp/
+	$(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(BUILDDIR)/spelling
+	mv -f -v /tmp/ ./gnuplot_embed.rst
+	@echo
+	@echo "Spelling checker messages written to $(BUILDDIR)/spelling."
 
 #################################### Help #####################################
 
