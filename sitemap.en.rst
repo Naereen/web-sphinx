@@ -11,7 +11,6 @@
 * `Download page <download.en.html>`_,
 
 .. toctree::
-   :numbered:
 
    index_en
    index_fr

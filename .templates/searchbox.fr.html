@@ -8,7 +8,6 @@
     :license: GPLv3, see LICENSE for details.
 #}
 {%- if pagename != "search" %}
-<div class="will-not-be-sticky">
 <div id="searchbox" style="display: none">
   <h3>Recherche rapide</h3>
     <form class="search" action="{{ pathto('search') }}" method="get">
@@ -20,4 +19,7 @@
     <p class="searchtip" style="font-size: 80%">Saisissez un mot clef.</p>
 </div>
 <script type="text/javascript">$('#searchbox').show(0);</script>
-</div>{%- endif %}
+{%- endif %}
+{%- if pagename != "sitemap.fr" %}
+  <h4><a href="{{ pathto('sitemap.fr.html', true)|e }}" title="Consulter cette page !">Plan du Site</a></h4>
+{%- endif %}

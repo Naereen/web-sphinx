@@ -7,15 +7,13 @@
     :copyright: Copyright 2013 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
-{%- if show_source and has_source and sourcename %}
-<div class="will-not-be-sticky">
 <h3>Other formats</h3>
 <ul class="this-page-menu">
+{%- if show_source and has_source and sourcename %}
  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}" title="PDF version" 
         rel="nofollow">Show a PDF version (experimental)</a></li>
  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version" 
-        rel="nofollow">Show the source (.rst)</a></li>
- <li><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></li><br/>
-</ul>
-</div>
+        rel="nofollow">Show the source (.rst)</a></li><br>
 {%- endif %}
+ <li><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></li>
+</ul>
