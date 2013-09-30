@@ -205,9 +205,9 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 #}
 
 {% block footer %}
-   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script
 {{ super() }}
 <div class="footer">
+  <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script
   <script type="text/javascript">NProgress.start();</script>
   <!-- JavaScript external sources -->
   <!-- <script type="text/javascript">
