@@ -38,7 +38,7 @@ Liste des scripts
     
     *Par ailleurs* toute contribution est la bienvenue, et sera intégrée dans les prochaines versions
     du script concerné
-    (ces scripts sont distribués sous les termes de la `licence GPLv3 <LICENSE>`_).
+    (ces scripts sont distribués sous les termes de la `licence GPLv3 <LICENSE.html>`_).
 
 
 .. Liste des scripts

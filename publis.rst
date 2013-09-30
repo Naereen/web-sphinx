@@ -6,9 +6,6 @@
  Publications diverses (du dossier `<publis/>`_)
 #################################################
 .. include:: .special.rst
-.. warning::
-
-   :red:`Cette page est en cours de rédaction...`
    
 ---------------------------------------------------------------------
 
@@ -25,7 +22,14 @@
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne joue intéresse pas, allez plutôt consulter `celle là <index.html>`_.
-   
+
+
+.. note:: Conditions de distribution
+
+   Chaque projets listés sur cette page est distribué *librement*,
+   sous les termes de la `licence GPLv3 <LICENSE.html>`_.
+
+
 ---------------------------------------------------------------------
 
 Projets

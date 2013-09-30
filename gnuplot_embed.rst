@@ -14,6 +14,7 @@ ou des graphes de fonctions
       qui permet de voir (*en temps réel*) la sortie graphique évoluer
       :maroon:`dès que l'entrée du toplevel change`.
 
+
 .. warning::
 
    Si les graphes suivants ne sont pas affichés, c'est probablement
@@ -32,6 +33,7 @@ Premier, :math:`x \mapsto \sin(x)` :
    
    plot sin(x)
 
+
 Cosinus, avec une grille
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Second, :math:`x \mapsto \cos(x*x+1.3)` (avec une grille mise avec ``set grid``). 
@@ -44,6 +46,7 @@ directive ``.. gnuplot::`` :
 
    set grid    
    plot cos(x*x+1.3)
+
 
 Plusieurs graphiques sur une même fenêtre
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -59,6 +62,7 @@ Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
    ainsi que d'autres alternatives avec l'``arctangente``
    ou la fonction ``signe``.
 
+
 .. warning:: Changement de GNU Plot 4.4 à 4.6.2
 
    J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
@@ -69,6 +73,7 @@ Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
    avec la commande ``replot``, qui gère les couleurs pour pouvoir
    différencier les différents graphiques.
 
+
 Désormais, j'utilise ``plot f1(x),f2(x)``.
 
 .. gnuplot::
@@ -77,6 +82,7 @@ Désormais, j'utilise ``plot f1(x),f2(x)``.
    
    set grid
    plot 1/(1+exp(-0.25*x)),1/(1+exp(-x)),1/(1+exp(-4*x))
+
 
 Tableau(x)
 ----------
@@ -104,6 +110,7 @@ dans un seul (plus comme ``plot f1(x)`` puis
    set grid
    plot 0.5+atan(x)/pi,1/(1+exp(-x)),0.5*(1+sgn(x))
 
+
 En 3D : une surface
 -------------------
 .. gnuplot::
@@ -113,6 +120,7 @@ En 3D : une surface
    set xrange [0:1]
    set yrange [0:1]
    splot x**4 + y**4, abs(x)+abs(y)
+
 
 Une seconde surface
 -------------------
@@ -130,6 +138,7 @@ Une seconde surface
    set zlabel "Z axis" 
    set zlabel  offset character 1, 0, 0 font "" textcolor lt -1 norotate
    splot x**2-y**2
+
 
 Un dernier exemple
 ------------------

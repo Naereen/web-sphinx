@@ -47,6 +47,7 @@ de réaliser la transformation suivante :
 
    ".py" -> ".rst" -> ".html";
 
+
 ``.. graph::``:
 ~~~~~~~~~~~~~~~
 Cette directive sert à décrire des graphes **non-dirigés**.
@@ -62,6 +63,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
    ".tex" -- ".pdf";
    "cv.tex" -- "cv.pdf";
 
+
 **HeVeA** permet de réaliser la transformation suivante
 (avec comme exemple mon CV écrit en **LaTeX**) :
 
@@ -71,9 +73,11 @@ Cette directive sert à décrire des graphes **non-dirigés**.
    ".tex" -- ".html";
    "cv.tex" -- "cv.hevea.html";
 
+
 Les Hautes-Alpes
 ^^^^^^^^^^^^^^^^
-Je suis né et j'ai vécu dans les *Hautes-Alpes* jusqu'à mes **16 ans**,
+Je suis né et j'ai vécu à :red:`Briançon`,
+dans les *Hautes-Alpes* jusqu'à mes **16 ans**,
 avant de partir étudier au Lycée Thiers de Marseille.
 
 Dans les Hautes-Alpes, il y a notamment les villes suivantes :
@@ -86,6 +90,7 @@ Dans les Hautes-Alpes, il y a notamment les villes suivantes :
    "L'Argentière" -- "Valouise" -- "Puit St-Vincent";
    "Bri" -- "Montgenèvre";
    "Embrun" -- "Les Orres";
+
 
 Un fichier externe
 ~~~~~~~~~~~~~~~~~~

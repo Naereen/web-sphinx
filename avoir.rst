@@ -114,15 +114,18 @@ L'autre est :
 
 Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
 
- * aucune erreur pour les feuilles **CSS** !
- * aucune erreur pour les pages **XHTML** 1.0 Transitional !
+ * aucune erreur sérieuse pour les feuilles **CSS** !
+ * aucune erreur grave pour les pages **XHTML** 1.0 Transitional !
  * aucune erreur pour le flux RSS !
 
-.. warning:: Pas toujours parfaits
+.. warning:: Mes pages ne sont plus parfaites ...
 
-   Certaines pages ne passent pas le test CSS ou XHTML, à cause de bout de
+   Aucunes pages ne passent pas le test XHTML, à cause de bout de
    code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
    par exemple).
+   
+   Aucunes pages ne passent le test CSS, à cause de la feuille
+   `buttons.css <_static/buttons.css>`_.
 
 ------------------------------------------------------------------------------
 
@@ -167,9 +170,11 @@ Citation random !
 
   * `makequotes.sh <publis/bin/makequotes.sh>`_ to build a quotes.txt file.
 
+
 .. runblock:: console
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+
 
 ------------------------------------------------------------------------------
 
@@ -223,7 +228,7 @@ Test JavaScript
    </script>
 
 
- Précise quelle page est affichée :
+ Précise quelle page est affichée (désormais intégré dans le ``footer``) :
 
 .. raw:: html
 
@@ -236,7 +241,7 @@ Test JavaScript
    </script>
 
 
- Donne des infos sur l'écran :
+ Donne des infos sur l'écran (désormais intégré dans le ``footer``) :
 
 
 .. raw:: html
@@ -260,6 +265,6 @@ Test JavaScript
 Autres
 ------
 
-.. todo:: A venir.
+.. todo:: A continuer.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

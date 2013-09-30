@@ -136,3 +136,5 @@ Quelques derniers conseils
 ----
 
 Ce document est rédigé en espérant qu'il soit utile.
+
+.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

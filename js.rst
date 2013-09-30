@@ -7,24 +7,25 @@
 ###########################################################################################
 .. include:: .special.rst
 .. include:: .javascript.rst
-.. warning:: Cette page est en cours de rédaction...
 
 ---------------------------------------------------------------------
 
 À-propos
 --------
 
- Cette page est là pour décrire les divers **scripts JavaScript stockés dans le dépôt**
- `web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
+Cette page est là pour décrire les divers **scripts JavaScript stockés dans le dépôt**
+`web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
 
- Mais aussi pour **décrire chaque utilisation de JS pour de nombreuses
- petites fonctionnalités dans chacune des pages** (afficher une information différente selon
- la localisation de la page ou encore afficher la résolution d'écran utilée pour afficher,
- par exemple).
+Mais aussi pour **décrire chaque utilisation de JS pour de nombreuses
+petites fonctionnalités dans chacune des pages** (afficher une information différente selon
+la localisation de la page ou encore afficher la résolution d'écran utilée pour afficher,
+par exemple).
+
 
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
+
 
 ---------------------------------------------------------------------
 
@@ -44,35 +45,39 @@ Pas les miens
 * `gnuplot.js <_static/gnuplot.js>`_ et `gnuplot_api.js <_static/gnuplot_api.js>`_
   pour le `terminal GNUPlot embarqué <gnuplot.html>`_.
 
-* `skulpt.js <_static/skulpt.js>`_ et `python <_static/python/>`_
+* `skulpt.js <_static/skulpt.js>`_ et `python.js <_static/python/>`_
   pour les terminaux Python embarqués.
 
 * `toplevel.js <_static/toplevel.js>`_ et `try-ocaml <_static/try-ocaml/>`_
   pour les terminaux OCaml embarqués.
 
-* `shortcuts.js <_static/shortcuts.js>`_ pour définir des raccourcis clavier
-  (essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p').
+* `mousetrap.min.js <_static/mousetrap.min.js>`_ pour définir des raccourcis clavier
+  (essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p', ou 'u' par exemple).
 
 * `<http://l2.io/>`_ pour afficher l'IP de l'utilisateur, et afficher un contenu "bonus"
-  seulement sur le campus de l'ENS Cachan :)
+  seulement sur le campus de l'ENS Cachan :). :red:`Plus utilisé!`
 
 Les plugins jQuery
 ^^^^^^^^^^^^^^^^^^
-* `jquery.scrollUp <_static/jquery.scrollUp.min.js>`_ pour ajouter un bouton
+* `jquery.scrollUp.min.js <_static/jquery.scrollUp.min.js>`_ pour ajouter un bouton
   pour remonter au sommet de la page, dans la barre latérale *(en bas à gauche :) !)*.
 
-* `jquery.smooth-scroll <_static/jquery.smooth-scroll.min.js>`_ pour permettre
+* `jquery.smooth-scroll.min.js <_static/jquery.smooth-scroll.min.js>`_ pour permettre
   le défilement fluide lors du clic d'un lien **interne** à une page.
 
-* `jquery.timeago <_static/jquery.timeago.js>`_ (toujours en béta).
+* `jquery.timeago.js <_static/jquery.timeago.js>`_ (toujours en béta).
 
-* `waypoints <_static/waypoints.min.js>`_ (toujours en béta).
+* `waypoints.min.js <_static/waypoints.min.js>`_ et
+  `waypoints-sticky.js <_static/waypoints-sticky.js>`_ (toujours en béta).
 
 Pas les miens mais adaptés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `horloge.js <_static/horloge.js>`_ pour `<time.html>`_.
 
 * `simpleimagetrail.js <_static/simpleimagetrail.js>`_ (désactivé par défaut).
+
+* `nprogress.js <_static/nprogress.js>`_ et `nprogress.ccs <_static/nprogress.ccs>`_
+  pour afficher une barre de progression dans le bas de la page (en :cyan:`cyan`).
 
 * `forkit.js <_static/forkit.js>`_ (la bannière rouge qui bouge en haut à droite)
   et `fokus.min.js <_static/fokus.min.js>`_ (la page donne le focus lors de la sélection d'un élément)
@@ -94,7 +99,7 @@ Liste (non exhaustive) des autres utilisations de JS
 * Pour les détails du navigateur (user-agent), la taille d'écran, la localisation et l'adresse IP dans la barre inférieure...
 * Pour déterminer quel serveur est utilisé (afin d'afficher l'image de NGinx ou d'Apache) en bas...
 * Pour proposer de voir la page sur un autre serveur (ex. jarvis propose lbesson.qc.to et besson.qc.to)...
-* Pour ajouter des ``window.alert`` dans `<gnuplot.html>`_, `<ocaml.html>`_ ou encore `<python.html>`_...
+* Pour ajouter des ``alert`` dans `<gnuplot.html>`_, `<ocaml.html>`_ ou encore `<python.html>`_...
 * Pour utiliser le convertisseur *RSS* > *HTML* de **generateit.net** dans `<rss.html>`_...
 * Pour embarquer un graphique de progression de la traduction de Bitbucket.org sur `<transifex.fr.html>`_ et `<transifex.en.html>`_...
 * Et pour tester des choses dans `<avoir.html>`_ !

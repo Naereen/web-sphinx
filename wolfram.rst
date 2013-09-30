@@ -109,8 +109,6 @@ Un premier exemple
 D'autres essais ?
 -----------------
 
-.. warning:: En cours de rédaction.
-
 Résoudre une équation
 ^^^^^^^^^^^^^^^^^^^^^
  .. runblock:: console

@@ -277,7 +277,7 @@ Seuls `ocaml.nanorc <NanoSyntax/ocaml.nanorc>`_,
 `reST.nanorc <NanoSyntax/reST.nanorc>`_,
 `.nanorc <NanoSyntax/.nanorc>`_,
 `python.nanorc <NanoSyntax/python.nanorc>`_ ont été modifiés par moi 
-(ils sont sous licence GPL3, voir `<LICENSE>`_ pour plus d'infos). 
+(ils sont sous licence GPL3, voir `<LICENSE.html>`_ pour plus d'infos). 
 
 Pour les autres, certains viennent des fichiers installés avec le paquet **nano**.
 D'autres viennent d'une collection de ``.nanorc`` trouvée sur `doc.ubuntu-fr.org <http://doc.ubuntu-fr.org>`_.

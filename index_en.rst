@@ -14,9 +14,6 @@ a *French* University, near Paris.
 
 .. sidebar:: Other language : in French
 
-   .. This page is in *English*.
-   .. Maybe you would like to see it in `French <index_fr.html>`_.
-   
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
    `en français <index_fr.html>`_ :red:`?`
    
@@ -25,13 +22,15 @@ a *French* University, near Paris.
 
 
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
-to eventually become a Maths teacher in “classes préparatoires”,
-or secret agent, or a super hero, or an elephant hunter, or I don't know why are
-you still reading this useless and very selfish description.
+to eventually become a Maths teacher in “classes préparatoires”
+(*or secret agent, or a super hero, or an elephant hunter, or I don't know why are*
+*you still reading this useless and very selfish description*).
+
 
 In 2012/2013 I graduated two first half of Masters of Science,
 in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
 and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
+
 
 .. warning::
    

@@ -348,7 +348,10 @@ Liens externes
 
  #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`. Cette redirection est proposée par `FreeDNS <freedns.html>`_ en mode ``cloak``, c'est-à-dire cachée : on peut naviguer `<http://besson.or.gs>`_ sans savoir vraiment où est hébergée la page.
 
- #. `<http://lbesson.bitbucket.org>`_ (pour l'instant, juste un lien pointant vers une autre page);
+ #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
+    d'afficher n'importe quelle page (par exemple, 
+    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
+    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
  #. `<https://jarvis.crans.org>`_ ma machine !
 
@@ -390,5 +393,6 @@ Liste des autres pages
    Page d'accueil (en anglais) <index_en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin
+
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
