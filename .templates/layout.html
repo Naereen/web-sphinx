@@ -199,7 +199,6 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 
 {#
   {% block document %}
-  <!--<script type="text/javascript">(window.location.hostname.match(/jarvis/gi)) ? NProgress.start();</script>-->
   {{ super() }}
   {% endblock %}
 #}
@@ -207,7 +206,7 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 {% block footer %}
 {{ super() }}
 <div class="footer">
-  <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script
+  <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
   <script type="text/javascript">NProgress.start();</script>
   <!-- JavaScript external sources -->
   <!-- <script type="text/javascript">
@@ -260,7 +259,6 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
         break;
     default:
         break; };
-  if (typeof console !== 'undefined') { console.log("[INFO] Sending info to Google Analytics: id=" + my_id + ", domain=" + my_domain); }
   /* New method. */
   ga('create', my_id, my_domain); ga('send', 'pageview');
   /* Old method. */
@@ -271,6 +269,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+  if (typeof console !== 'undefined') { console.log("[INFO] Sending info to Google Analytics: id=" + my_id + ", domain=" + my_domain); }
  // Smooth Scroll jQuery plugin
  $('a').smoothScroll({
   offset: -31, direction: 'top', // one of 'top' or 'left'
