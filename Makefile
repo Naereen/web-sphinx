@@ -181,7 +181,12 @@ hieroglyph:
 	$(SPHINXBUILD) -b slides $(ALLSPHINXOPTS) $(BUILDDIR)/slides 2>&1
 	@echo "Build finished. The HTML slides are in $(BUILDDIR)/slides."
 
-html:
+hashlong: ./.hashlong.sh
+	./.hashlong.sh
+	@echo
+	@echo ".templates/hashlong.html updated."
+
+html: hashlong
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."

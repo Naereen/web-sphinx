@@ -382,8 +382,12 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 </script> -->
 <br/>
 <!-- FIXME -->
-{% include 'hashlong.html' ignore missing %}
-Last change <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/{{ hashlong }}</a><br>
+{% include "hashlong.html" %}
+{% if hashlongvalue %}
+ <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/{{ hashlongvalue }}" title="Last modification">Dernier changement</a> (lien à-jour).<br>
+{% else %}
+ <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/2754d048a9553079384f8d351045e1702fc0a0a8" title="Last modification">Dernier changement</a> (lien non à-jour).<br>
+{% endif %}
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
 Si ça concerne des scripts, veuillez utiliser
