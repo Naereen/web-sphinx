@@ -175,7 +175,7 @@ BSc internship and thesis
  *Classe Préparatoire*, second year (**MP\***)
 
    - :Universities: `Lycée Thiers <http://www.lyc-thiers.ac-aix-marseille.fr/webphp/newsite/index2.php>`_ (Marseille, France) & Aix-Marseille 1 University;
-   - :Studying: maths, chemistry, physics, engineering, computer science, philosophy, litterature, English and Spanish;
+   - :Studying: maths, chemistry, physics, engineering, computer science, philosophy, literature, English and Spanish;
    - :Mark: **17.9/20**;
    - :Rank: **1/33**.
 
@@ -206,7 +206,7 @@ BSc internship and thesis
  *Classe Préparatoire*, first year (**MPSI**)
 
    - :Universities: Lycée Thiers (Marseille, France) & Aix-Marseille 1 University;
-   - :Studying: maths, chemistry, physics, engineering, computer science, philosophy, litterature, English and Spanish;
+   - :Studying: maths, chemistry, physics, engineering, computer science, philosophy, literature, English and Spanish;
    - :Mark: **17.3/20**;
    - :Rank: **1/46**.
 
