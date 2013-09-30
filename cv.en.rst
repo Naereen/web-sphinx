@@ -79,7 +79,7 @@ Miscellaneous
    - problem-solving and communication skills;
    - good understanding and use of the actual web and generic technologies;
    - eager to learn and develop new skills;
-   - passionate of new technologies;
+   - passionate about new technologies;
 
  * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg **since 2004**;
  * :Other experiences:
@@ -89,7 +89,7 @@ Miscellaneous
      Many national tournaments, a few internations competition (Sweden, Spain, Italy).
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
- * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy litterature and poetry;
+ * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy literature and poetry;
  * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking.
 
 ------------------------------------------------------------------------------
@@ -222,11 +222,11 @@ Other diplomas
 --------------
  * **Driving license**, got in Briançon (*February 2012*).
  
- * **High-scool certificate** (French *Baccalaureat*) (*June 2009*)
+ * **High-school certificate** (French *Baccalaureat*) (*June 2009*)
 
    - :University: Lycée d'Altitude (*Briançon*);
    - :Mark: **15.7/20**, *magna cum laude*;
-   - :Options: **Scientific** high-scool certificate with specialization in **mathematics**, and intensive **theater**.
+   - :Options: **Scientific** high-school certificate with specialization in **mathematics**, and intensive **theater**.
 
 ------------------------------------------------------------------------------
 
