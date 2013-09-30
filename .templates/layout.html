@@ -11,7 +11,8 @@
 
 {% block doctype %}<!DOCTYPE html>{% endblock %}
 {% block rootrellink %}
- <li><img src="{{ pathto('_static/.besson.png', true)|e }}" alt="" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" />»</li>
+ <li><a href="http://lbesson.bitbucket.org" title="Page principale : http://lbesson.bitbucket.org/">
+  <img src="{{ pathto('_static/.besson.png', true)|e }}" alt="" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 {# Expériences. Liste des blocks utilisables.
@@ -29,21 +30,21 @@
   if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
   window.document.title="Chargement en cours...";
  </script>
-  <meta name="author" content="Lilian BESSON" />
+  <meta name="author" content="Lilian BESSON (lbesson.bitbucket.org)" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
     <meta name="DC.Title" content="Lilian Besson sur le web" />
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
-    <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+" />
-    <meta name="DC.Date" content="2013-29-13" />
+    <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques" />
+    <meta name="DC.Date" content="2013-30-13" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
-    <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
-          href="http://perso.crans.org/besson/rss.xml" />
-    <link rel="shortcut icon" type="image/png"
-          href="{{ pathto('_static/.besson.png', true)|e }}" />
+  <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
+        href="http://perso.crans.org/besson/rss.xml" />
+  <link rel="shortcut icon" type="image/png"
+        href="{{ pathto('_static/.besson.png', true)|e }}" />
   <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/buttons.css', true)|e }}">
@@ -128,8 +129,8 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
   '{{ pathto('_static/noty/themes/default.js', true)|e }}', 
   '{{ pathto('_static/mousetrap.min.js', true)|e }}', 
 -->
-  <!-- Beta Test for noty. (Source: http://needim.github.io/noty/#installation) -->
-  <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
+  <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
+   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
@@ -137,8 +138,10 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
    <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
+  <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
+   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 <script type="text/javascript">
- if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty plugin..."); };
+ if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit..."); };
  /* jQuery.noty plugin */
     $.noty.defaults = {
         layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
@@ -178,7 +181,7 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 </script>
 {{ super() }}
 <a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Friend me on Facebook" /></a>
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Ajoutez moi comme ami sur Facebook !" /></a>
 {% endblock %}
 
 {% block relbaritems %}<!-- Display info if Javascipt available. -->
@@ -202,20 +205,20 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 #}
 
 {% block footer %}
-   <!--<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>-->
+   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script
 {{ super() }}
 <div class="footer">
-<script type="text/javascript">NProgress.start();</script>
+  <script type="text/javascript">NProgress.start();</script>
   <!-- JavaScript external sources -->
- <!-- <script type="text/javascript">
-  nbl.l([
+  <!-- <script type="text/javascript">
+   nbl.l([
     '{{ pathto("_static/jquery.timeago.js", true)|e }}',
     '{{ pathto("_static/jquery.scrollUp.min.js", true)|e }}',
     '{{ pathto("_static/waypoints.min.js", true)|e }}',
     '{{ pathto("_static/waypoints-sticky.js", true)|e }}',
     '{{ pathto("_static/fokus.min.js", true)|e }}',
-   function(){ if (typeof console !== 'undefined') { console.log('[nbl] Loading jQuery.smooth-scroll, jQuery.TimeAgo, jQuery.scrollUp, waypoints, waypoints-sticky, fokus with NBL.js ...'); } }
-  ]);
+    function(){ if (typeof console !== 'undefined') { console.log('[nbl] Loading jQuery.smooth-scroll, jQuery.TimeAgo, jQuery.scrollUp, waypoints, waypoints-sticky, fokus with NBL.js ...'); } }
+   ]);
   </script> -->
 	<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->

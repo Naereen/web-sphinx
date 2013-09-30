@@ -268,17 +268,17 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':       ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
+   '**':        ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
          'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
    '**.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    '**_en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
-   'index_fr': ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
+   'index_fr':  ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
          'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
-   'cv**.fr': ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
+   'cv.fr':     ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
          'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
-   'cv**.en': ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
+   'cv.en':     ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    '**/*':      ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
