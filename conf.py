@@ -12,6 +12,8 @@
 # serve to show the default.
 
 import sys, os, subprocess
+import tinkerer
+import tinkerer.paths
 
 reload(sys)
 sys.setdefaultencoding("UTF-8")
@@ -276,7 +278,8 @@ html_favicon = u".besson.png"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['.static']
+html_static_path = [ '.static' ]
+# , tinkerer.paths.static ] ## FIXME add this to use tinkerer
 
 #Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
 html_add_permalinks = True
@@ -368,7 +371,7 @@ html_secnumber_suffix = " "
 tagline = 'Contenu de la variable conf.py::tagline !'
 
 # Change this to the description of your blog
-description = 'Un est de blog avec Tinkerer'
+description = 'Un test de blog avec Tinkerer'
 
 # Change this to your blog root URL (required for RSS feed)
 # FIXME
