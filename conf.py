@@ -131,8 +131,9 @@ source_suffix = '.rst'
 master_doc = 'index_fr'
 
 # General information about the project.
+author = u'Lilian Besson'
 project = u'Lilian Besson on the web'
-copyright = u'2011-2013, Lilian Besson'
+copyright = u'2011-2013, ' + author
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -359,6 +360,20 @@ htmlhelp_basename = 'LilianBesson'
 
 # Suffix for section numbers. Default: ". ". Set to " " to suppress the final dot on section numbers.
 html_secnumber_suffix = " "
+
+
+# -- Options for Tinkerer blog engine ------------------------------------------
+
+# Change this to the tagline of your blog
+tagline = 'Contenu de la variable conf.py::tagline !'
+
+# Change this to the description of your blog
+description = 'Un est de blog avec Tinkerer'
+
+# Change this to your blog root URL (required for RSS feed)
+# FIXME
+website = 'http://besson.qc.to/blog/'
+
 
 # -- Options for LaTeX output --------------------------------------------------
 
