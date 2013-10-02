@@ -263,7 +263,9 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   ga('create', my_id, my_domain); ga('send', 'pageview');
   /* Old method. */
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', my_id]); _gaq.push(['_setDomainName', my_domain]); _gaq.push(['_setAllowLinker', true]); _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAccount', my_id]);
+  // _gaq.push(['_setDomainName', my_domain]);
+  _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
