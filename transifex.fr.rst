@@ -146,7 +146,7 @@ La suite
  <https://www.transifex.com/accounts/profile/nvenegas/>`_.
  
  Ainsi, tous les deux ou trois jours, le taux de complétion du projet
- repasse de 100% à 97% ou 98%.
+ repasse de 100% à 98% ou 99%.
  
  Dès que je le vois, je tente de compléter la traduction, souvent il s'agit
  d'un vingtaine de nouvelles phrases.
@@ -164,11 +164,11 @@ Avancement de la traduction française
 Mon profil
 ^^^^^^^^^^
  Enfin, l'image suivante montre mon profil, qui permet d'apprendre
- par exemple que j'ai traduit 7918 mots (chiffre calculé le lundi 08
- avril, à jour) sur le projet "French" de *bitbucket.org*.
+ par exemple que j'ai traduit 11000 mots (chiffre calculé le vendredi 04 Octobre,
+ à jour) sur le projet "French" de *bitbucket.org*.
  
- Ainsi, cela permet d'apprendre notamment que sur les **9359** mots du projet,
- j'en ai traduit près de **84.6 %** (chiffre datant du 08/04, à-jour) !
+ Ainsi, cela permet d'apprendre notamment que sur les **12268** mots du projet,
+ j'en ai traduit près de **94.6 %** (chiffre datant du 04 Octobre, à-jour) !
 
 .. image:: .transifex_profileNaereen.png
    :scale: 85%

@@ -136,13 +136,13 @@ What's next ?
  `nvenegas <https://www.transifex.com/accounts/profile/nvenegas/>`_.
  
  That's why, each 2 or 3 days, the completion rate of the project
- for the French language go down to 97% or 98% again.
+ for the French language go down to 98% or 99% again.
 
  So, as soon as I see this, I try to complete again the translation process,
  by translating about 20 or 30 sentences.
 
-About the French translation : 9359 words !
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+About the French translation : 12268 words !
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  The following screenshot shows the progression of the French translation :
 
 .. image:: .transifex_complete.png
@@ -153,13 +153,12 @@ About the French translation : 9359 words !
 
 My profile
 ^^^^^^^^^^
- Enfin, l'image suivante montre mon profil, qui permet d'apprendre
  And this last screenshot shows my (private) profile,
- which show for example that I translated about 7918 words on the French
+ which show for example that I translated about 11000 words on the French
  part of the translation project of *bitbucket.org* !
- (this figure is probably out-dated, I wrote this paragraph the 8th April)
+ (this figure is probably out-dated, I wrote this paragraph the 4th October)
 
- So, this allow to compute that I translated about **84.6 %** of the **9359**
+ So, this allow to compute that I translated about **94.6 %** of the **12268**
  words of the project. (again, this figure might be out-dated)
 
 .. image:: .transifex_profileNaereen.png
