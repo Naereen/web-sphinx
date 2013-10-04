@@ -316,10 +316,10 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "01 10 2013, 00h:30m:14s";
-    var day   = last_updated_value.substring(0, 2) || "01";
-    var month = last_updated_value.substring(3, 6) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
-    var year  = last_updated_value.substring(7, 11) || "2013";
+   var last_updated_value = "{{ last_updated }}" || "04 10 2013, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "01";
+    var month = last_updated_value.substring(3,  6 ) || "10"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+    var year  = last_updated_value.substring(7,  11) || "2013";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
