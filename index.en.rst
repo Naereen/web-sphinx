@@ -15,10 +15,10 @@ a *French* University, near Paris.
 .. sidebar:: Other language : in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
-   `en français <index_fr.html>`_ :red:`?`
+   `en français <index.fr.html>`_ :red:`?`
    
-   Now, the page `<index.html>`_ should redirect to index_fr or index_en, according
-   to the preference of your browser.
+   Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
+   or `<index.en.html>`_, according to the preference of your browser.
 
 
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,

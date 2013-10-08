@@ -14,13 +14,10 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
 .. sidebar:: Autre langue : en anglais ?
 
    .. Cette page est en *français*.
-   .. Peut-être préférez-vous la consulter en `anglais <index_en.html>`_.
+   .. Peut-être préférez-vous la consulter en `anglais <index.en.html>`_.
    
-   :red:`This page is written in French. Maybe you would like to read the`
-   `English <index_en.html>`_ :red:`version ?`
-   
-   Normalement, `<index.html>`_ pointe vers la page en français ou en anglais, 
-   au mieux selon les préférences de votre navigateur.
+   Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
+   ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
    Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
 
    Ces pages ont été générées le |today| pour la *dernière fois*.
@@ -390,7 +387,7 @@ Liste des autres pages
    vieprivee
    tutoweb
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
-   Page d'accueil (en anglais) <index_en>
+   Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin
 

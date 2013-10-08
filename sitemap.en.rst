@@ -10,10 +10,14 @@
 * `Research page <search.html>`_,
 * `Download page <download.en.html>`_,
 
+-----------------------------------------------------------------------------
+
 .. toctree::
 
-   index_en
-   index_fr
+   index.en
+   index.fr
+   403
+   404
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/lbesson/web-sphinx/
