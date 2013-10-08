@@ -59,9 +59,6 @@ L'éditeur **ACE**
  **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
  :blue:`C'est simple, c'est propre.`
 
-.. todo:: Trouver un moyen d'enregistrer le fichier édité !
-.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml, Python et GNU Plot.
-
 Copyrights
 ----------
  **ACE** est © et ® d'AjaxOrg.
