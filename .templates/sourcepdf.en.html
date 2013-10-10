@@ -13,7 +13,15 @@
  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}" title="PDF version" 
         rel="nofollow">Show a PDF version (experimental)</a></li>
  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version" 
-        rel="nofollow">Show the source (.rst)</a></li><br>
-{%- endif %}
+        rel="nofollow">Show the source (.rst)</a></li>
+ <script type="text/javascript">
+  var url = window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname + ".asc";
+  console.log("[INFO] url=" + url);
+  window.document.write("<li><a href=\"" + url + "\" title=\"GPG signature ?\">GPG signature (.asc)</a></li>");
+ </script>
+ <noscript>
+ <li><a href="gpg.html">Learn how to verify GPG signature ?</a></li>
+ </noscript>
+{%- endif %}<br>
  <li><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></li>
 </ul>

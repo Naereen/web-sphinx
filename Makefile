@@ -147,6 +147,7 @@ git:
 
 pdf: ./.pdf_all.sh
 	./.pdf_all.sh [A-Za-z]*.rst
+	-rm $(BUILDIR)/pdf/admin.txt.pdf
 	-pkill gnuplot
 	@echo
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
@@ -171,6 +172,7 @@ slides:	.slides.sh
 
 simplehtml: ./.rst2html_all.sh
 	./.rst2html_all.sh *.rst .*.rst
+	-rm $(BUILDIR)/simplehtml/admin.*
 
 rst2pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
