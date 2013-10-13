@@ -22,7 +22,7 @@ for j in crans ens normale sfr hotmail laposte gmail
 do
  echo -e "${reset}${magenta}---> For the addresses ${u}*@$j$reset$white"
 
- for t in html txt js doctree
+ for t in html txt js doctree py sh ml c
  do
   echo -e "${reset}${blue}   \\---> For the file type ${u}$t$reset$white"
 
