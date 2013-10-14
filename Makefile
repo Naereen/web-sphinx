@@ -82,6 +82,7 @@ gpgpdf: pdf
 	cp -fv $(BUILDDIR)/pdf/*.pdf ./
 	PDFCompress --no-compress --no-keep --sign *.pdf
 	mv -fv ./*.pdf* $(BUILDDIR)/pdf/
+	-rm -fv $(BUILDDIR)/admin.*
 
 ################################# Senders #####################################
 
@@ -172,7 +173,7 @@ slides:	.slides.sh
 
 simplehtml: ./.rst2html_all.sh
 	./.rst2html_all.sh *.rst .*.rst
-	-rm $(BUILDIR)/simplehtml/admin.*
+	-rm $(BUILDDIR)/simplehtml/admin.*
 
 rst2pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
