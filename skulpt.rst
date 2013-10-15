@@ -156,13 +156,13 @@ Le toplevel
 
 .. seealso::
 
-   Python Emscripten (`<python.html>`_)
+   `Python Emscripten <python.html>`_
       Cette page intègre une autre implémentation en *JavaScript* de Python.
       Compilée à partir du compilateur Emscripten (bytecode → JavaScript).
 
 .. seealso::
 
-   SymPy Live (`<http://live.sympy.org/>`_)
+   `SymPy Live <http://live.sympy.org/>`_
       Est encore un autre terminal Python s'exécutant dans un navigateur.
       Avec SymPy installé (calcul symbolique en Python), et en interprétant
       la sortie de SymPy comme du code LaTeX, rendu avec MathJax.
@@ -175,13 +175,6 @@ Autres pages
  Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale
  de la documentation de **Python 2.7.3**.
 
-
-À propos
---------
- Comme dans `.special.rst <_sources/.special.txt>`_,
- j'utilise la directive ``.. raw:: html`` pour
- **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
- :navy:`C'est simple, c'est propre.`
 
 Hébergements
 ------------
