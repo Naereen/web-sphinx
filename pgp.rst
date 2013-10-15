@@ -26,8 +26,9 @@ Cela permet pour vous d'être sûr de ce que vous téléchargez : ma clé étant
 je suis (normalement) le seul à pouvoir émettre ces signatures.
 
 La plupart des ``urls`` de fichiers que je donne sur mes pages webs
-peuvent permettre de récuper la signature du fichier en question en rajoutant
-``.asc`` à la fin.
+peuvent permettre de récupérer la signature du fichier en question en rajoutant
+``.asc`` à la fin. Exemple: `<cv.pdf>`_ et `<cv.pdf.asc>`_, ou
+cette page : `<pgp.html>`_ et `<pgp.html.asc>`_.
 
 Exemple
 ~~~~~~~

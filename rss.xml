@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>http://besson.or.gs marche super bien, avec http://lbesson.bitbucket.org !</title>
+       <link>http://besson.or.gs/bin/.bashrc</link>
+       <description>http://www.dptinfo.ens-cachan.fr/~lbesson est plus cassé (mais désormais redirige vers http://besson.qc.to)!</description>
+       <guid>http://besson.or.gs/bin/.bash_aliases</guid>
+       <pubDate>Wed, 16 Oct 2013 00:04:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Plein de nouveaux trucs (JavaScript), et refonte de lbesson.bitbucket.org !</title>
        <link>http://lbesson.bitbucket.org?p=top</link>
        <description>www.dptinfo.ens-cachan.fr/~lbesson est toujours cassé...</description>
