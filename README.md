@@ -1,8 +1,8 @@
 Web Pages Sphinx
 ================
 
-The new generation of my web pages, generated with Sphinx v*1.2b1*.
-Currently this *projet* is in version *1.9.6* (*public* release) !
+The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.2b2*.
+Currently this *projet* is in version *1.9.7* (*public* release) !
 
 Where are those pages ?
 -----------------------
@@ -48,16 +48,16 @@ Requirements ?
 This project use the following software :
 
  * Python 2.7+;
- * LaTeX (pdflatex & hevea);
- * GNU Make;
- * git;
+ * LaTeX (pdflatex, and hevea);
+ * Gnu Make (other versions of Make should *NOT* work);
+ * git (not required);
  * rsynx (or scp);
  * ack-grep or grep;
- * Sphinx (v1+);
- * GNU Plot & GNU Octave;
- * GNU PG (OpenPGP);
- * GraphViz & Dot graph;
- * rst2pdf, rst2html, rst2s5;
+ * Sphinx (v1.2+);
+ * GnuPlot and Gnu Octave;
+ * GnuPG;
+ * GraphViz, Dot graph;
+ * rst2pdf, rst2html, rst2s5 (included in the docutils package);
  * and the following Sphinx contrib extensions :
 
     * cheeseshop;
@@ -72,5 +72,6 @@ License
 -------
 
 This project is released under the **GPLv3 license**, for more details,
-take a look at the LICENSE file in the source.
+take a look at the [LICENSE file](http://besson.qc.to/LICENSE.html) in the source.
+
 *Basically, that allow you to use all or part of the project for you own business.*

@@ -121,7 +121,7 @@ spelling_show_suggestions=False
 templates_path = ['.templates']
 
 # The suffix of source filenames.
-source_suffix = '.rst'
+source_suffix = u'.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -139,7 +139,7 @@ copyright = u'2011-2013, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '1.9.6'
+version = '1.9.7'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 

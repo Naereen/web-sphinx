@@ -15,8 +15,13 @@
  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version" 
         rel="nofollow">Show the source (.rst)</a></li>
  <script type="text/javascript">
+  var path = "{{ sourcename }}";
   var url = window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname + ".asc";
   console.log("[INFO] url=" + url);
+  window.document.write("<li><a class=\"external-reference\" href=\"https://bitbucket.org/lbesson/web-sphinx/src/master/"
+                         + path.replace(".txt", ".rst")
+                         + "\" title=\"On the git repository that hosts the source of the page " + path
+                         + " !\">Show the source on Bitbucket</a></li>");
   window.document.write("<li><a href=\"" + url + "\" title=\"GPG signature ?\">GPG signature (.asc)</a></li>");
  </script>
  <noscript>

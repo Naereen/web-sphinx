@@ -93,7 +93,7 @@ Exemple
 
 
  Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
- télécharger les bons fichiers, cela devrait vous donner un message comme :
+ téléchargé les bons fichiers, cela devrait vous donner un message comme :
 
  .. runblock:: console 
 
@@ -113,13 +113,13 @@ Exemple
     éléctroniques en clair dans les **nouveaux** documents que je produit.
 
     *Pourquoi seulement nouveaux ?* Parce que je ne savais pas que des *bots* peuvent
-    scanner des millions de pages par jour à la recherche d'adresse électronique,
+    scanner des millions de pages par jour à la recherche d'adresses électroniques,
     afin d'envoyer du spam.
     Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
     truc.machin@domain.ext et utilise plutôt un format du genre
     truc.machin[@] ou [AT].
     
-    Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/b04cdecdbaa0486f6249ba3689cff6fb39175916/.obscure_email.sh?at=master>`_
+    Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/master/.obscure_email.sh>`_
     réalise cette substitution automatiquement, pour tous les documents
     textuels générés via Sphinx, avant de les envoyer vers un serveur.
     Comme ça, c'est facile et automatique :)
