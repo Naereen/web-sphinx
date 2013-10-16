@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Travail sur la bash completion pour PDFCompress series.sh</title>
+       <link>http://besson.or.gs/bin/PDFCompress.bash_completion</link>
+       <description>!</description>
+       <guid>http://besson.qc.to/bin/PDFCompress.bash_completion</guid>
+       <pubDate>Wed, 16 Oct 2013 21:04:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>http://besson.or.gs marche super bien, avec http://lbesson.bitbucket.org !</title>
        <link>http://besson.or.gs/bin/.bashrc</link>
        <description>http://www.dptinfo.ens-cachan.fr/~lbesson est plus cassé (mais désormais redirige vers http://besson.qc.to)!</description>

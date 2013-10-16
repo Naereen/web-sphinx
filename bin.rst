@@ -73,6 +73,8 @@ Liste des scripts
   un script pour automatiquement signer, compresser ou encore changer les méta-données d'un ou plusieur document(s) PDF, en ligne de commande.
   Très utile, notamment avant d'envoyer des PDFs sur un serveur web.
   Selon le type de PDF, l'efficacité de la compression varie de 5% a 400% !
+  
+  :red:`Il est désormais muni d'un fichier de bash completion,` `PDFCompress.bash_completion <publis/bin/PDFCompress.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
 
   :État: *Stable et efficace*.
 
@@ -116,6 +118,8 @@ Liste des scripts
 * `series.sh <publis/bin/series.sh>`_,
   un script pour automatiser la lecture de l'épisode suivant de la série en cours de lecture.
 
+  :red:`Il est désormais muni d'un fichier de bash completion,` `series.sh.bash_completion <publis/bin/series.sh.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
+
   :État: *Toujours expérimental*.
 
 
@@ -145,6 +149,8 @@ Liste des scripts
   un script pour contrôler ``vlc`` en ligne de commande,
   est utilisé dans ``series.sh``, et ``.bash_aliases``.
   *N'est pas écrit par moi !*
+
+  :red:`Il est muni d'un fichier de bash completion,` `vrun.bash_completion <publis/bin/vrun.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
 
   :État: *Terminé*.
 
