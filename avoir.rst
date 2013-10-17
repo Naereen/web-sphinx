@@ -4,6 +4,92 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
+Tests MathJax
+-------------
+En rST
+^^^^^^
+
+Normalement, on peut inclure des maths avec ``:math:`code LaTeX```
+ou alors avec ``.. math:: code LaTeX sur une seule ligne``
+ou enfin avec ``.. math:: \n\n    code LaTeX\n    sur plusieurs lignes``
+(où ``\n`` est un sauté de ligne).
+
+Ceci est bien détaillé dans `<math.html>`_.
+
+.. code-block:: rst
+
+   Quand :math:`a > 0` alors il y a deux solutions à
+
+   .. math:: ax^2 + bx + c = 0
+
+   et elles sont exactement 
+
+   .. math::
+      
+      x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
+
+
+Ce qui donne :
+
+Quand :math:`a > 0` alors il y a deux solutions à
+
+.. math:: ax^2 + bx + c = 0
+
+et elles sont exactement 
+
+.. math::
+      
+   x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
+
+
+En HTML
+^^^^^^^
+
+Mais il semblerait qu'on puisse aussi, *en HTML*, utiliser ``\(code LaTeX\)`` (inliné)
+ou ``$$code LaTeX$$`` (non inliné).
+Une autre méthode est d'utiliser une balise ``<script>``
+de type ``math/tex`` (un type inventé par et pour `MathJax <http://mathjax.org>`_).
+
+.. code-block:: html
+
+   Quand \(a > 0\) alors il y a deux solutions à
+   $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
+
+
+Ce qui donne (en incluant du HTML avec ``.. raw:: html``):
+
+.. raw:: html
+
+   Quand \(a > 0\) alors il y a deux solutions à
+   $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
+
+
+Ce que je voulais expérimenter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
+``$$code LaTeX non inliné$$`` **directement dans un document rST** !
+
+Et bien, testons !
+
+Quand \(a > 0\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+et elles sont exactement 
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}.$$
+
+
+.. warning::
+
+   Normalement, ``\[code\]`` devrait faire comme ``$$code$$`` !
+
+
+:blink:`Alors ?!`
+
+
+------------------------------------------------------------------------------
+
 Tests JavaScript
 ----------------
 
