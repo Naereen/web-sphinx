@@ -80,21 +80,21 @@ Et bien, testons le code *rst* suivant :
 
 .. code-block:: rst 
 
-   Quand \(a > 0\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+   Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
    et elles sont exactement 
    $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 
 Ce qui donne :
 
-Quand \(a > 0\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
 et elles sont exactement 
 $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 .. warning::
 
    Avec ``$$code ... encore du code$$``, et donc aussi
-   ``\(code...\)`` il *faut* échapper les
+   ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
    
    Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
