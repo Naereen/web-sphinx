@@ -6,6 +6,9 @@
 
 Tests MathJax
 -------------
+
+.. versionadded:: 1.9.7
+
 En rST
 ^^^^^^
 
@@ -71,21 +74,40 @@ Ce qui donne (en incluant du HTML avec ``.. raw:: html``):
 Ce que je voulais expérimenter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
-``$$code LaTeX non inliné$$`` **directement dans un document rST** !
+``$$code LaTeX non inliné$$`` **directement en rST** !
 
-Et bien, testons !
+Et bien, testons le code *rst* suivant :
+
+.. code-block:: rst 
+
+   Quand \(a > 0\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+
+Ce qui donne :
 
 Quand \(a > 0\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
 et elles sont exactement 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}.$$
+$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+.. warning::
+
+   Avec ``$$code ... encore du code$$``, et donc aussi
+   ``\(code...\)`` il *faut* échapper les
+   ``\`` sinon rien ne marche.
+   
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
+   n'utilise que ``\``.
 
 
 .. warning::
 
-   Normalement, ``\[code\]`` devrait faire comme ``$$code$$`` !
+   Normalement, ``\[code LaTeX non inliné\]``
+   devrait faire comme ``$$code LaTeX non inliné$$`` !
 
 
-:blink:`Alors ?!`
+:blink:`Alors ?!` Ça marche bien :)
 
 
 ------------------------------------------------------------------------------
@@ -97,7 +119,8 @@ Sticky Elements
 ^^^^^^^^^^^^^^^
 .. versionadded:: 1.9
 
-Devrait permettre (un jour) d'avoir la barre supérieure fixe.
+Aurait pu permettre d'avoir la barre latérale
+mobile un moment, puis fixe quand a atteind le bas. Toujours pas résolu !
 
 .. raw:: html
 
