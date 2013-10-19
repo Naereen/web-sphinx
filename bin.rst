@@ -20,8 +20,25 @@
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
+
+
+------------------------------------------------------------------------------
+
+GNU Bash
+--------
+
+* `.bashrc <publis/bin/.bashrc>`_,
+  Profil pour GNU Bash.
+
+  :État: *Terminé*, mais toujours en amélioration.
+
+
+* `.bash_aliases <publis/bin/.bash_aliases>`_,
+  Profil complémentaire pour GNU Bash, définition d'alias et de fonctions.
+
+  :État: *Terminé*, mais toujours en amélioration.
    
----------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 Liste des scripts
 -----------------
@@ -83,7 +100,7 @@ Liste des scripts
 
    Attention: ces scripts sont écrits pour ma machine (Ubuntu 12.04.3),
    et donc ne sont testés que sur cette plateforme.
-   La plupart peuvent fonctionnés ailleurs, mais je ne pourrais être responsable
+   La plupart peuvent fonctionnér ailleurs, mais je ne pourrais être responsable
    d'un quelconque disfonctionnement dûs à l'un de ces scripts.
 
    Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_.
@@ -142,7 +159,7 @@ Liste des scripts
   Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant
   dans votre ``$HOME``.
 
-  :État: *Parfait*.
+  :État: *Parfait* (enfin, presque).
 
 
 * `vrun <publis/bin/vrun>`_,
@@ -189,23 +206,6 @@ Liste des scripts
   un script pour manipuler le volume de votre ordinateur en ligne de commande.
 
   :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
-
-
-------------------------------------------------------------------------------
-
-GNU Bash
---------
-
-* `.bashrc <publis/bin/.bashrc>`_,
-  Profil pour GNU Bash.
-
-  :État: *Terminé*, mais toujours en amélioration.
-
-
-* `.bash_aliases <publis/bin/.bash_aliases>`_,
-  Profil complémentaire pour GNU Bash, définition d'alias et de fonctions.
-
-  :État: *Terminé*, mais toujours en amélioration.
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
