@@ -6,12 +6,10 @@
 
 Tests MathJax
 -------------
-
 .. versionadded:: 1.9.7
 
 En rST
 ^^^^^^
-
 Normalement, on peut inclure des maths avec ``:math:`code LaTeX```
 ou alors avec ``.. math:: code LaTeX sur une seule ligne``
 ou enfin avec ``.. math:: \n\n    code LaTeX\n    sur plusieurs lignes``
@@ -47,7 +45,6 @@ et elles sont exactement
 
 En HTML
 ^^^^^^^
-
 Mais il semblerait qu'on puisse aussi, *en HTML*, utiliser ``\(code LaTeX\)`` (inliné)
 ou ``$$code LaTeX$$`` (non inliné).
 Une autre méthode est d'utiliser une balise ``<script>``
@@ -107,8 +104,9 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
    devrait faire comme ``$$code LaTeX non inliné$$`` !
 
 
-:blink:`Alors ?!` Ça marche bien :)
-
+:blink:`Alors ?!` Ça marche bien :) Normalement, les trois paragraphes
+(en rST avec ``:math:``, en HTML avec ``.. raw:: html`` et directement avec ``\(code LaTeX\)``)
+affichent la même chose.
 
 ------------------------------------------------------------------------------
 
@@ -172,10 +170,8 @@ mobile un moment, puis fixe quand a atteind le bas. Toujours pas résolu !
 
 TimeAgo
 ^^^^^^^
-Affiche des dates.
-
-Directement avec un script :
-
+Affiche des dates,
+directement avec un script :
 .. raw:: html
 
    <script type="text/javascript">
@@ -189,7 +185,6 @@ Directement avec un script :
 
 
 Ou avec un ``<abbr class="timeago">`` :
-
 .. raw:: html
 
    <abbr class="timeago" title="2008-07-17T09:24:17Z">July 17, 2008</abbr>
@@ -198,7 +193,7 @@ Espace d'expérimentations
 -------------------------
 .. versionadded:: 1.4
 
-D'autres rôles (rajoutés grâce à `<_sources/.special.txt>`_ et au travail
+D'autres rôles (rajoutés grâce à `.special.rst <_sources/.special.txt>`_ et au travail
 réalisé pour `.templates/layout.html` :
 
  * :under:`souligné`, avec ``:under:`texte```;
@@ -229,29 +224,29 @@ Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
 
 .. warning:: Mes pages ne sont plus parfaites ...
 
-   Aucunes pages ne passent pas le test XHTML, à cause de bout de
+   Aucunes pages ne passent désormais le test XHTML, à cause de bout de
    code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
    par exemple).
    
-   Aucunes pages ne passent le test CSS, à cause de la feuille
+   Aucunes pages ne passent désormais le test CSS, à cause de la feuille
    `buttons.css <_static/buttons.css>`_.
+   
+   :red:`Mais j'y travaille ! J'essaie de nétoyer au mieux les modèles de pages, et le code de chaque pages. Dans ce but, tout retour est le bienvenu ! Le traqueur de bug est là pour ça :`
+   `<http://besson.qc.to/git/web-sphinx/issues/new/>`_.
 
 ------------------------------------------------------------------------------
 
 D'autres ajouts
 ---------------
-
 ``sphinx_git``
 ^^^^^^^^^^^^^^
-
+Une liste des dernières modifications. Une liste plus complète
+peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphinx/rss>`_.
 .. git_changelog::
-
 
 ``sphinx_pyreverse``
 ^^^^^^^^^^^^^^^^^^^^
-
 .. uml:: scripts/python/lib/python2.7/json
-
 
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -267,7 +262,6 @@ D'autres ajouts
 
 Citation random !
 ^^^^^^^^^^^^^^^^^
-
  Cette ligne Bash affiche une citation aléatoire.
  Actuellement, ``~/.quotes.txt`` est une liste très complète
  des meilleurs citations de Kaamelott.
@@ -275,9 +269,9 @@ Citation random !
  Cette liste est obtenue à partir des deux scripts suivants,
  depuis les données du site `<http://fr.wikiquote.org/wiki/Kaamelott/>`_ :
  
-  * `quotes.sh <publis/bin/quotes.sh>`_ to find one quote,
+  * `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
 
-  * `makequotes.sh <publis/bin/makequotes.sh>`_ to build a quotes.txt file.
+  * `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
 
 
 .. runblock:: console
@@ -287,6 +281,8 @@ Citation random !
 
 ------------------------------------------------------------------------------
 
+Suite des tests JavaScripts (sticky elements)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. raw:: html
 
    <pre id="example-basic">
@@ -301,10 +297,9 @@ Citation random !
    </pre>
 
 
-.. versionadded:: 1.8
-
 Tests : auto mailto: ?
 ^^^^^^^^^^^^^^^^^^^^^^
+.. versionadded:: 1.8
 
 Une différence entre les trois liens suivants ?
 
@@ -319,8 +314,7 @@ Test JavaScript
 ^^^^^^^^^^^^^^^
 .. versionadded:: 1.8.6
 
-
- Donne des infos sur le navigateur utilisé par le visiteur :
+Donne des infos sur le navigateur utilisé par le visiteur (intégré dans le *footer*) :
 
 .. raw:: html
 
@@ -337,7 +331,7 @@ Test JavaScript
    </script>
 
 
- Précise quelle page est affichée (désormais intégré dans le ``footer``) :
+Précise quelle page est affichée (désormais intégré dans la barre horizontale) :
 
 .. raw:: html
 
@@ -350,8 +344,7 @@ Test JavaScript
    </script>
 
 
- Donne des infos sur l'écran (désormais intégré dans le ``footer``) :
-
+Donne des infos sur l'écran (désormais intégré dans le *footer*) :
 
 .. raw:: html
 
@@ -368,12 +361,5 @@ Test JavaScript
      + screen.availHeight ) 
    </script>
 
-
-------------------------------------------------------------------------------
-
-Autres
-------
-
-.. todo:: A continuer.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
