@@ -172,6 +172,7 @@ TimeAgo
 ^^^^^^^
 Affiche des dates,
 directement avec un script :
+
 .. raw:: html
 
    <script type="text/javascript">
@@ -185,6 +186,7 @@ directement avec un script :
 
 
 Ou avec un ``<abbr class="timeago">`` :
+
 .. raw:: html
 
    <abbr class="timeago" title="2008-07-17T09:24:17Z">July 17, 2008</abbr>
@@ -242,11 +244,15 @@ D'autres ajouts
 ^^^^^^^^^^^^^^
 Une liste des dernières modifications. Une liste plus complète
 peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphinx/rss>`_.
+
 .. git_changelog::
+
 
 ``sphinx_pyreverse``
 ^^^^^^^^^^^^^^^^^^^^
+
 .. uml:: scripts/python/lib/python2.7/json
+
 
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

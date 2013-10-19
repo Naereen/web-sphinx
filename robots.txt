@@ -18,6 +18,7 @@ Disallow: /i/
 Disallow: /s/
 Disallow: /ui/
 Disallow: /agreg/
+Disallow: /stageM1/
 Disallow: /_images/
 Disallow: /_modules/
 Disallow: /_static/

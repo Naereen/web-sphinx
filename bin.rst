@@ -100,7 +100,7 @@ Liste des scripts
 
    Attention: ces scripts sont écrits pour ma machine (Ubuntu 12.04.3),
    et donc ne sont testés que sur cette plateforme.
-   La plupart peuvent fonctionnér ailleurs, mais je ne pourrais être responsable
+   La plupart peuvent fonctionner ailleurs, mais je ne pourrais être responsable
    d'un quelconque disfonctionnement dûs à l'un de ces scripts.
 
    Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_.

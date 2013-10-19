@@ -28,7 +28,7 @@
   var myip = "inconnue"; // have to be initialized before calling l2.io/ip.js?var=myip
   var title_backup = window.document.title;
   if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
-  window.document.title="Chargement en cours...";
+  /* window.document.title="Chargement en cours..."; */
  </script>
   <meta name="author" content="Lilian BESSON (lbesson.bitbucket.org)" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
@@ -38,7 +38,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques" />
-    <meta name="DC.Date" content="2013-18-10" />
+    <meta name="DC.Date" content="2013-19-10" />
     <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17"></meta>
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
@@ -329,7 +329,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     + ".</br></br>\n(C) Lilian BESSON 2011-2013.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
 // Restore the first title.
-   window.document.title=title_backup;
+//   window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
  });
