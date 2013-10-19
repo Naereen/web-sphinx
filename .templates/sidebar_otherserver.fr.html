@@ -17,16 +17,16 @@
  <script type="text/javascript">
   switch(window.location.host) {
     case 'jarvis.crans.org':
-        document.write("Sur <span style=\"text-decoration:underline\"><a href=\"http://besson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">besson.qc.to</a></span>\n");
-        document.write("</br>Sur <span style=\"text-decoration:underline\"><a href=\"http://lbesson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">lbesson.qc.to</a></span>\n");
+        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection besson.qc.to!\" href=\"http://besson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">besson.qc.to</a></span>\n");
+        document.write("</br>Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection lbesson.qc.to!\" href=\"http://lbesson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">lbesson.qc.to</a></span>\n");
         break;
     case 'perso.crans.org':
-        document.write("Sur <span style=\"text-decoration:underline\"><a href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
-        document.write("</br>Sur <span style=\"text-decoration:underline\"><a href=\"http://lbesson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">lbesson.qc.to</a></span>\n");
+        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Seulement sur le campus de l'ENS Cachan!\" href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
+        document.write("</br>Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection lbesson.qc.to!\" href=\"http://lbesson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">lbesson.qc.to</a></span>\n");
         break;
     case 'www.dptinfo.ens-cachan.fr':
-        document.write("Sur <span style=\"text-decoration:underline\"><a href=\"http://besson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">besson.qc.to</a></span>\n");
-        document.write("Sur <span style=\"text-decoration:underline\"><a href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
+        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection besson.qc.to!\" href=\"http://besson.qc.to/{{ pagename|e }}{{ file_suffix|e }}\">besson.qc.to</a></span>\n");
+        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Seulement sur le campus de l'ENS Cachan!\" href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
         break;
     default:
         document.write("Error, this page is hosted on an unknown location...");
@@ -37,11 +37,11 @@
   JavaScript n'est pas activé !
   La détection automatique du domaine utilisé n'est pas disponible...
   <br/>
-   Essayez sur <span style="text-decoration:underline"><a href="http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}">jarvis.crans.org</a></span>.
+   Essayez sur <span style="text-decoration:underline"><a title=\"Seulement sur le campus de l'ENS Cachan (hébergé sur ma machine)!\" href="http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}">jarvis.crans.org</a></span>.
    <br/>
-   Essayez sur <span style="text-decoration:underline"><a href="http://perso.crans.org/besson/{{ pagename|e }}{{ file_suffix|e }}">perso.crans.org/besson/</a></span>.
+   Essayez sur <span style="text-decoration:underline"><a title=\"Hébergé par le crans!\" href="http://perso.crans.org/besson/{{ pagename|e }}{{ file_suffix|e }}">perso.crans.org/besson/</a></span>.
    <br/>
-   Essayez sur <span style="text-decoration:underline"><a href="http://www.dptinfo.ens-cachan.fr/~lbesson/{{ pagename|e }}{{ file_suffix|e }}">www.dptinfo.ens-cachan.fr/~lbesson/</a></span>.
+   Essayez sur <span style="text-decoration:underline"><a title=\"Hébergé par le département d'informatique de l'ENS Cachan!\" href="http://www.dptinfo.ens-cachan.fr/~lbesson/{{ pagename|e }}{{ file_suffix|e }}">www.dptinfo.ens-cachan.fr/~lbesson/</a></span>.
    <br/>
  </noscript>
 </ul>
