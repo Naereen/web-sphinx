@@ -18,7 +18,7 @@ GREP="grep --color=always --line-buffered"
 
 echo -e "${clear}${reset}${yellow}Starting to hide email addresses (`basename $0` $version)${reset}\n"
 
-for j in crans ens normale sfr hotmail laposte gmail
+for j in crans ens normale sfr hotmail laposte gmail live
 do
  echo -e "${reset}${magenta}---> For the addresses ${u}*@$j$reset$white"
 
