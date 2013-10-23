@@ -31,12 +31,26 @@ Mais aussi pour tester des fonctionnalités sympas offertes par `bitbucket <http
 
 ---------------------------------------------------------------------
 
-Expérimentations
-----------------
+Liens directs
+-------------
+Historique pour un fichier
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Par exemple: pour `bin/PDFCompress <https://bitbucket.org/lbesson/home/history-node/master/bin/PDFCompress>`_.
 
+Une ligne spécifique
+^^^^^^^^^^^^^^^^^^^^
+Par exemple: pour `.bashrc <https://bitbucket.org/lbesson/home/src/master/.bashrc#cl-463>`_ à la ligne 463.
+
+Fichier direct
+^^^^^^^^^^^^^^
+Par exemple: pour `bin/series.sh <https://bitbucket.org/lbesson/home/raw/master/bin/series.sh>`_.
+
+Inclure un fichier avec ``?t=embed``
+------------------------------------
 Comment ça marche ?
 ^^^^^^^^^^^^^^^^^^^
-
+Motif
+~~~~~
 Bitbucket.org permet d'inclure un fichier (avec coloration syntaxique et tout)
 facilement, avec le morceau de code ``HTML`` suivant :
 
@@ -45,11 +59,13 @@ facilement, avec le morceau de code ``HTML`` suivant :
    <script type="text/javascript" src="https://bitbucket.org/PSEUDO/REPOSITORY/src/master/PATH"></script>
 
 
+Exemple
+~~~~~~~
 Il faut remplacer :
 
  #. *PSEUDO* par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
  #. *REPOSITORY* par le nom du dépôt (par exemple, pour moi, `home <https://bitbucket.org/lbesson/home>`_);
- #. *PATH* par le chemin du fichier (par exesmple, `bin/pdflatex <https://bitbucket.org/lbesson/home/src/bin/pdflatex>`_).
+ #. *PATH* par le chemin du fichier (par exemple, `bin/pdflatex <https://bitbucket.org/lbesson/home/src/master/bin/pdflatex>`_).
 
 Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
 
@@ -58,6 +74,8 @@ Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple p
    <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex"></script>
 
 
+En reStructuredText
+~~~~~~~~~~~~~~~~~~~
 Enfin, j'inclue ça dans une page générée avec Sphinx avec le code ``rST`` suivant :
 
 .. code-block:: rst
@@ -65,26 +83,27 @@ Enfin, j'inclue ça dans une page générée avec Sphinx avec le code ``rST`` su
    .. raw:: html
 
       <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?embed=t">Fichier bin/pdflatex</script>
-      <noscript>Pas de JavaScript pour inclure le fichier <a href="http://besson.qc.to/git/home/src/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
+      <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/home/raw/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
 
 
-
+Exemples
+^^^^^^^^
 bin/pdflatex
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 .. raw:: html
 
    <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?embed=t">Fichier bin/pdflatex</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="http://besson.qc.to/git/home/src/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
+   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/home/raw/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
 
 
-bin/PDFCompress
-^^^^^^^^^^^^^^^
+Un fichier rST
+~~~~~~~~~~~~~~
 
 .. raw:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/PDFCompress?embed=t">Fichier bin/PDFCompress</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="http://besson.qc.to/git/home/src/master/bin/PDFCompress">bin/PDFCompress</a>.</noscript>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/web-sphinx/src/master/embed.rst?embed=t">Fichier embed.rst</script>
+   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/embed.rst">embed.rst</a>.</noscript>
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
