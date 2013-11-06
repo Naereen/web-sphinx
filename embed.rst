@@ -14,7 +14,6 @@
 
 À-propos
 --------
-
 Cette page est là pour décrire certains **scripts** (en Bash, Python, JavaScript notamment)
 stockés dans les dépôts
 `web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, et 
@@ -56,7 +55,7 @@ facilement, avec le morceau de code ``HTML`` suivant :
 
 .. code-block:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/PSEUDO/REPOSITORY/src/master/PATH"></script>
+   <script type="text/javascript" src="https://bitbucket.org/PSEUDO/REPOSITORY/src/master/PATH?t=embed"></script>
 
 
 Exemple
@@ -65,13 +64,13 @@ Il faut remplacer :
 
  #. *PSEUDO* par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
  #. *REPOSITORY* par le nom du dépôt (par exemple, pour moi, `home <https://bitbucket.org/lbesson/home>`_);
- #. *PATH* par le chemin du fichier (par exemple, `bin/pdflatex <https://bitbucket.org/lbesson/home/src/master/bin/pdflatex>`_).
+ #. *PATH* par le chemin du fichier (par exemple, `bin/pdflatex <https://bitbucket.org/lbesson/home/src/master/bin/pdflatex>`_ qui est aussi `ici bin/pdflatex <bin/pdflatex>`_).
 
 Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
 
 .. code-block:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex"></script>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?t=embed"></script>
 
 
 En reStructuredText
