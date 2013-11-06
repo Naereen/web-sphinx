@@ -1,0 +1,27 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta content="Page personnelle de Lilian Besson sur le web" lang="fr" name="description" />
+  <meta content="Lilian Besson's personal web page" lang="en" name="description" />
+  <meta name="author" content="Lilian BESSON (lbesson.bitbucket.org)" />
+
+  <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
+  <link rel="shortcut icon" type="image/png" href="http://perso.crans.org/besson/.besson.png" />
+  <link rel="stylesheet" href="http://perso.crans.org/besson/_static/forkit.css" />
+  <link rel="stylesheet" href="http://perso.crans.org/besson/_static/nprogress.css" />
+
+  <title><!--#echo var="SERVER_NAME" -->:<!--#echo var="REQUEST_URI" --></title>
+
+  <a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
+   <img style="position: absolute; top: -30; right: 0; border: 0;" src="http://perso.crans.org/besson/_images/.forkit_ribbon.png" alt="Ajoutez moi comme ami sur Facebook !" /></a>
+
+  <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.js"></script>
+  <script type="text/javascript" src="http://perso.crans.org/besson/_static/nprogress.js"></script>
+  <script type="text/javascript" src="http://perso.crans.org/besson/_static/forkit.js"></script>
+
+  <script type="text/javascript">NProgress.start();</script>
+
+</head>
+<body>
+  <h1>Index of <!--#echo var="REQUEST_URI" --></h1>
+  <h5>En cours d'installation...</h5>
