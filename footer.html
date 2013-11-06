@@ -36,22 +36,6 @@ if (window.location.hostname == 'perso.crans.org'){
 </div>
 <script type="text/javascript">$('#searchbox').show(0);</script>
   <h3><a href="sitemap.fr.html" title="Consulter cette page !">Plan du Site</a></h3>
-<h3>Autres formats</h3>
-<ul class="this-page-menu">
- <li><a href="pdf/header.txt.pdf" title="Version PDF" 
-        rel="nofollow">Voir la version PDF (expérimentale)</a></li>
- <li><a href="_sources/header.txt" title="Version txt"
-        rel="nofollow">Voir le fichier source rST</a></li>
- <script type="text/javascript">
-  var path = "header.txt";
-  var url = window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname + ".asc";
-  console.log("[INFO] url=" + url);
-  window.document.write("<li><a class=\"external-reference\" href=\"https://bitbucket.org/lbesson/web-sphinx/src/master/"
-                         + path.replace(".txt", ".rst")
-                         + "\" title=\"Dans le dépôt git qui héberge la source de la page " + path
-                         + " !\">Voir le fichier source sur Bitbucket</a></li>");
-  window.document.write("<li><a href=\"" + url + "\" title=\"Signature GPG ?\">Signature GPG (.asc)</a></li>");
- </script>
  <noscript>
  <li><a href="gpg.html">Apprendre comment vérifier une signature GPG ?</a></li>
  </noscript><br>
@@ -78,52 +62,6 @@ if (window.location.hostname == 'perso.crans.org'){
     <li><p style="font-size: 80%">Tél.: <a href="tel:100101011101001100111101100001_2">+336 2841 2257</a></p></li>
     <li><p style="font-size: 80%; color: blue"><a href="mailto:besson[at]crans[.]org">besson[at]crans[.]org</a></p></li>
   </ul>
-<h3>W3C validators</h3>
-<div id="supportBadges">
-<a class="image-reference" href="http://validator.w3.org/check?uri=referer" title="XHTML validator" >
- <img style="width:88px;height:31px" alt="XHTML 1.0 valide ?"
-     src="http://perso.crans.org/besson/_images/.valid-xhtml10.png" /></a>
-<a class="image-reference" href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS3 validator" >
- <img style="width:88px;height:31px" alt="CSS Valide ?"
-     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAABjFBMVEUAAAAHCAkLCwsPERMTFBUTFhgcHBwaHiEcICMjIyMiJyskKi4oKCgnLTEoLjMrMjYuNTozMzMxOD07Ozs1PUI4QEY8Rkw/SVBLS0xBS1JPT1BJVFtUVVVbW1tEXW9NWGFQXGVZXmJVYWtYZW9baXNlZWVra2xgb3licXx7e3sAWpwIX58fW4cJYJ8NYqERZaIVaKQaa6YebagybZkhb6klcqopdawxea85dKE1fLA4frJoeIRuf4s8gbNEhrZHiLdKirlVkb1alL9rg5dwgY10hpJ8j512kad/k6BdlsBjmsJpnsRtocZ1pcl8qsyBg4WJjpaXl5eYmJiBlKKGmqiInayQl6CNorGZoaqjpaarq620tLS/v7+Crs6GsM+FsNCJs9GbssKft8iQt9SVutWYvNebvtihusulvtCfwdqjw9upw9WqxtqsyNywy96yzeC20OPCwsLMzMzU1NTY2NjA1ufG2ujN3+zT4+7d6fLn5+fs7Ozi7PPp8fbu9Pjz8/Py9/r1+Pv+/v7MzMx+ha5eAAAAhHRSTlP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCX0ja+AAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgARslrPgAAAu9JREFUSMftlf9TEkEUwBclv9WQ5gkHUpCWju8auKGUxNLILzNiGIppfifHxEHulkj8kiCw/ePt3npw2ClOwm+9mX339jH7Yffte29RtuGy/psJypL6ksd3ly+x580BrzcL/PU/2AycCkTp6sRogkEuJSnAJExI8fNQlmyW/x18DjIl5iDEwCngskiIiJDluOfYDJy5WyjG4JRqPxSonodwIX8Acomso0cjvdaWi3vEOArbVAchRbUM54SMMtPVS6PwcuSmGGfMt10DzsE4XQ1A43oCYzTcbE6s7KdyUQfPeewD3/DRjNM+mMRqvL/Ps3YDGKCSFT4ahQMAPyGLECUFP5zQq+usyQonsnS3e7AXPX5iXVHjqEPoGDAHvwJG5uAwPXoYgpCh8ciRCMCnS1IWjeA4aktivIetHSpW0vRv9jA+Mu0Vr7W7vwKnaBR8AQWiebbrsAwwXiJLRvAgGtTW2VGrfQXjGbr/mbQZ+O1VVnFwAXwYIiVp7AA+svmJHxTywwj2oGFtXXrChtA7egLBgux/Y9XJK65eeSEaB0wmgWcGIQsQqa28WdSl4MwhPqSHRQ6cVDNHra23cHXwDoCvTLMB4FKbYxi9VtI29MAjeHGL4LWhWeyw9TtQv85TQvvcqHJ18CnAB1aC8J6jFAhccKtY5GBlWGgX1vCE0NU3kcZxx8PuF0kdHARf4hq30oQC8F0rwQTZn9dCMbXFyUNb1QLJGErCYDOetF3hPqvpbhHIayV4Rq1oIeWHVPnpL8a1/KxX0gucF53SPtJ0bdvEQaZzbwgpySABK71sm9vdiZbqtk0lBFWR5q714/K29qE9jZwtyHKEtgly7G7r2WDe89v7TiUXKDfR2EYfrnAb/YJEOHe38U8Tu0HfbjPevEWJ7bcZj+nO7n1eaVU15hk28RvAm3VlY5VKjKllplaXuB1brvpj3L+8Ojukg0W3KLpcrprhFvnQ5qIoOkUmdjaYonMn9zq5V7dFhurRwH8AqGY+zFuBk5IAAAAASUVORK5CYII=" /></a>
-</div>
-<h3>Voir cette page sur un autre serveur</h3>
-<!-- DEBUG
- Nom de la page : header
- Suffixe de la page : .html 
- Marche mieux qu'avec du JavaScript (ex. http://jarvis/index.en n'a pas de file_suffix si déterminé par JS mais en a un déterminé par Jinja).
--->
-<ul class="this-page-menu">
- <script type="text/javascript">
-  switch(window.location.host) {
-    case 'jarvis.crans.org':
-        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection besson.qc.to!\" href=\"http://besson.qc.to/header.html\">besson.qc.to</a></span>\n");
-        document.write("</br>Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection lbesson.qc.to!\" href=\"http://lbesson.qc.to/header.html\">lbesson.qc.to</a></span>\n");
-        break;
-    case 'perso.crans.org':
-        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Seulement sur le campus de l'ENS Cachan!\" href=\"http://jarvis.crans.org/header.html\">jarvis.crans.org</a></span>\n");
-        document.write("</br>Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection lbesson.qc.to!\" href=\"http://lbesson.qc.to/header.html\">lbesson.qc.to</a></span>\n");
-        break;
-    case 'www.dptinfo.ens-cachan.fr':
-        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Merci à freedns.afraid.org pour la redirection besson.qc.to!\" href=\"http://besson.qc.to/header.html\">besson.qc.to</a></span>\n");
-        document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Seulement sur le campus de l'ENS Cachan!\" href=\"http://jarvis.crans.org/header.html\">jarvis.crans.org</a></span>\n");
-        break;
-    default:
-        document.write("Error, this page is hosted on an unknown location...");
-        break;
-  }
- </script>
- <noscript>
-  JavaScript n'est pas activé !<br>
-  La détection automatique du domaine utilisé n'est pas disponible...
-  <br/>
-   Essayez sur <span style="text-decoration:underline"><a title="Seulement sur le campus de l'ENS Cachan (hébergé sur ma machine)!" href="http://jarvis.crans.org/header.html">jarvis.crans.org</a></span>.
-   <br/>
-   Essayez sur <span style="text-decoration:underline"><a title="Hébergé par le crans!" href="http://perso.crans.org/besson/header.html">perso.crans.org/besson/</a></span>.
-   <br/>
-   Essayez sur <span style="text-decoration:underline"><a title="Hébergé par le département d'informatique de l'ENS Cachan!" href="http://www.dptinfo.ens-cachan.fr/~lbesson/header.html">www.dptinfo.ens-cachan.fr/~lbesson/</a></span>.
-   <br/>
- </noscript>
 </ul>
 <p></p>
         </div>
@@ -331,6 +269,8 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="Optimized for Firefox, tested on Firefox 25.0" 
       src="http://perso.crans.org/besson/_images/.firefox_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
+<li><a class="image-reference" title="Apaxy" href="https://github.com/AdamWhitcroft/Apaxy"
+      title="Directory listing theme by Apaxy">
 <li><a class="image-reference" title="Google Analytics" href="http://www.google.com/analytics/">
  <img alt="Use Google Analytics" 
       src="http://perso.crans.org/besson/_images/.google_analytics_80_15.png" 
