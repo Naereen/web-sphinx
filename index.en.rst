@@ -6,11 +6,29 @@
  Welcome to **Lilian Besson**'s web page !
 ###########################################
 .. include:: .special.rst
-
 Who am I ?
 ----------
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
+In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam.
+
+A quick word about me
+^^^^^^^^^^^^^^^^^^^^^
+ I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
+ I also like using new technologies, and enjoy design tiny pieces of software or web content
+ for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
+ or Linux command line tools (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_, or `python <python.html>`_).
+ I like to cook, usually soups, steamed vegetables or marmelades.
+
+A quick word about this site
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
+ when I have the time, hoping it can be useful to someone (at least me, but who knows...).
+ :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the GPLv3 License.`
+
+ This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
+ so if you are here for something in particular, I hope you will not be disapointed
+ (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
 
 .. sidebar:: Other language : in French
 
@@ -21,10 +39,11 @@ a *French* University, near Paris.
    or `<index.en.html>`_, according to the preference of your browser.
 
 
-In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam,
-to eventually become a Maths teacher in “classes préparatoires”
-(*or secret agent, or a super hero, or an elephant hunter, or I don't know why are*
-*you still reading this useless and very selfish description*).
+------------------------------------------------------------------------------
+
+.. to eventually become a Maths teacher in “classes préparatoires”
+.. (*or secret agent, or a super hero, or an elephant hunter, or I don't know why are*
+.. *you still reading this useless and very selfish description*).
 
 
 In 2012/2013 I graduated two first half of Masters of Science,

@@ -6,10 +6,32 @@
  Bienvenue sur les pages personnelles de **Lilian Besson** !
 #############################################################
 .. include:: .special.rst
-
 A propos de moi
 ---------------
-Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan.
+Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
+(grande école près de Paris, France).
+**Je suis actuellement en troisième année**
+et en 2013/2014, je prépare le concours national de l'`agregation <http://agreg.org/>`_ en option informatique.
+
+Un petit mot sur moi
+^^^^^^^^^^^^^^^^^^^^
+ J'aime randonner et camper, voyager en France et en Europe, principalement en auto-stop.
+ J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels
+ ou des pages webs, comme par exemple `du javascript <js.html>`_, des tutoriels
+ (sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
+ ou encore des outils en lignes de commande pour Linux (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_ ou `python <python.html>`_).
+ J'aime aussi cuisiner, régulièrement des soupes, légumes à la vapeur, ou des confitures.
+
+Un petit mot sur ce site
+^^^^^^^^^^^^^^^^^^^^^^^^
+ Je développe ce petit site (actuellement `<http://perso.crans.org/besson>`_)
+ sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
+ :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la License GPLv3.`
+
+ Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
+ sont effectivement visités quotidiennement par des gens du monde entier :
+ j'espère ne pas décevoir ces visiteurs
+ (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
 
 .. sidebar:: Autre langue : en anglais ?
 
@@ -23,15 +45,11 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
    Ces pages ont été générées le |today| pour la *dernière fois*.
 
 
+------------------------------------------------------------------------------
 
-Recherche et étude
-^^^^^^^^^^^^^^^^^^
-**Je suis actuellement en troisième année à l'ÉNS de Cachan,**
-et en 2013/2014, je prépare le concours national de l'`agregation <http://agreg.org/>`_,
-via la préparation proposée par l'ENS Cachan, en option informatique.
-(*L'objectif étant de devenir prof. en classes préparatoires*,
-*ou à l'étranger*, ou agent secret, ou super héros, ou spationaute,
-ou je ne sais pas pourquoi vous lisez encore cette description inutile et égoïste!).
+.. (*L'objectif étant de devenir prof. en classes préparatoires*,
+.. *ou à l'étranger*, ou agent secret, ou super héros, ou spationaute,
+.. ou je ne sais pas pourquoi vous lisez encore cette description inutile et égoïste!).
 
 En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
