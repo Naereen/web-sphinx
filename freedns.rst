@@ -44,7 +44,8 @@ Liste des sous-domaines que j'utilise
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
     vers http://perso.crans.org/besson/cv.pdf en mode :red:`cloak`;
 
- * `besson.or.gs <http://besson.or.gs>`_ en mode :red:`cloak`, c'est-à-dire cachée : on peut naviguer `<http://besson.or.gs>`_ sans savoir vraiment où est hébergée la page.
+ * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélerer l'accès,
+   comme par exemple `<http://besson.or.gs/bin/pdflatex>`_..
 
 
 .. note::
