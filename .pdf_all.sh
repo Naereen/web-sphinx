@@ -1,46 +1,51 @@
 #!/bin/bash
 #
-#	This script is designed to be used with makePydoc, update__date__ and pylint.
-#	The reference page for this software is : 
-#	https://sites.google.com/site/naereencorp/liste-des-projets/makepydoc
-#
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='1.1'
-#	__date__='mar. 25/06/2013 at 22h14m'
+#	__version__='1.5'
+#	__date__='mer. 13/11/2013 at 08h21m'
 #
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf and rst2latex -> pdflatex
+# Last version: http://besson.qc.to/git/web-sphinx/src/master/.pdf_all.sh
+# or https://bitbucket.org/lbesson/web-sphinx/src/master/.pdf_all.sh
 
 VOIR=""
 test="yes"
+ECHO="echo -e"
 
 for i in "$@"; do
  case "$i" in
  -h|--help|-?|--?)
-   echo -e "$0 --help | [options] file1.rst [file2.rst]"
-   echo -e ""
-   echo -e "Generate one PDF file from rST files file1.rst file2.rst ... with rst2pdf."
-   echo -e "Help:"
-   echo -e "	--help: to print this help message."
-   echo -e "Options:"
-   echo -e "	--view: to open the PDF after their generation."
-   echo -e "	--test: add additionnal contents to the PDF."
-   echo -e ""
-   echo -e "The style sheel must be '.style.rst2pdf'."
-   echo -e ""
-   echo -e "Copyrights: (c) Lilian Besson 2011-2013."
-   echo -e "Released under the term of the GPL v3 Licence."
-   echo -e "In particular, $0 is provide WITHOUT ANY WARANTY."
+   $ECHO "$0 --help | [options] file1.rst [file2.rst]"
+   $ECHO ""
+   $ECHO "Generate one PDF file from rST files file1.rst file2.rst ... with rst2pdf."
+   $ECHO "Help:"
+   $ECHO "	--help:	to print this help message."
+   $ECHO "Options:"
+   $ECHO "	--view:	to open the PDF after their creation (with evince)."
+   $ECHO "	--compress:	to compress the PDF after their creation (with PDFCompress)."
+   $ECHO "	--test:	add additionnal content to the PDF (by hand)."
+   $ECHO ""
+   $ECHO "The style sheel must be '.style.rst2pdf'."
+   $ECHO ""
+   $ECHO "Copyrights: (C) Lilian Besson 2011-2013."
+   $ECHO "Last version: http://besson.qc.to/git/web-sphinx/src/master/.pdf_all.sh"
+   $ECHO "Released under the term of the GPL v3 Licence (http://besson.qc.to/LICENSE.html)."
+   $ECHO "In particular, $0 is provided WITHOUT ANY WARANTY."
    exit 0
   ;;
  --view)
-   VOIR="--view"
+   VOIR="view"
+   shift
+  ;;
+ --compress)
+   COMPRESS="compress"
    shift
   ;;
  --test)
   test="yes"
-  echo -e "Option: --test: additionnal contents will be added to the PDF."
+  $ECHO "Option: --test: additionnal contents will be added to the PDF."
   shift
   ;;
  *)
@@ -48,48 +53,27 @@ for i in "$@"; do
  esac
 done
 
-. ~/.color.sh
+[ -f "~/.color.sh" ] && . ~/.color.sh
 
 if [ ! -f "`pwd -P`/.style.rst2pdf" ]; then
- echo -e "${red} The style sheet .style.rst2pdf is absent : I'll try without it...."
+ $ECHO "${red} The style sheet .style.rst2pdf is absent : I'll try without it...."
 fi
 
-#echo -e "${green}$0: begin to work, on $PWD.${white}"
+#$ECHO "${green}$0: begin to work, on $PWD.${white}"
 mkdir -v --parents .build/pdf/
 
-#logfile="/tmp/$0.$$.log"
-#if [ -f "$logfile" ];
-#then
-#	mv -v "$logfile" "$logfile~~"
-#fi
-
-echo -e "I will generate a PDF file (.txt.pdf) for each of the following files (.rst): $@"
-#echo -e "I will generate two PDF files (.pdf and .fromrst.pdf) for each of the following files:"
-
-#echo -e "${magenta} I will write my output log to ${u}${black} '$logfile:1:1' ${reset}${white}"
-#echo -e "INIT: $0 at `date`" > "$logfile"
-
-#ls --color=auto *.rst || exit 1
-
-#read -p "[o]ui/[N]ON ? " ok
-#echo -e "OK: I'm going to begin...."
+$ECHO "I will generate a PDF file (.txt.pdf) for each of the following files (.rst): $@"
 
 listPDFfromRSTs=""
-#listTEX=""
-#listPDFs=""
-
-##for file in *.rst
-##for file in `cat .pdf_all.list`
 for file in "$@"
 do
-#file="${file}.rst"
-	echo -e "$u${red}**********************************************${reset}${white}"
-	echo -e "\n\n Examining the file '$file'..."
+	$ECHO "$u${red}**********************************************${reset}${white}"
+	$ECHO "\n\n Examining the file '$file'..."
 
 # rST -----> PDF
 	rst2pdf --default-dpi=200 --inline-links --verbose -s ./.style.rst2pdf --compressed --baseurl="http://perso.crans.org/besson/" -o ".build/pdf/${file%.rst}.txt.pdf" "$file" && \
 	listPDFfromRSTs="$listPDFfromRSTs .build/pdf/${file%.rst}.txt.pdf" && \
-	echo -e "$blue '.build/pdf/${file%.rst}.txt.pdf' well generated ....\n\n$white"
+	$ECHO "$blue '.build/pdf/${file%.rst}.txt.pdf' well generated ....\n\n$white"
 
 if [ "0yes" = "0$test" ]; then
 # A test
@@ -106,39 +90,26 @@ if [ "0yes" = "0$test" ]; then
 
 	rm -vf ".build/pdf/${file%.rst}.txt.pdf"~
 fi
-	echo -e "$u${red}**********************************************${reset}${white}"
-# rST -----> LaTeX
-#	rst2latex.py --embed-stylesheet --graphicx-option="pdftex" --documentoptions=10pt,a4paper --verbose --generator --time --source-url ="http://perso.crans.org/besson/_sources/$file" --report="none" --section-subtitles "$file" "${file%.rst}.tex" && \
-#	listTEX="$listTEX ${file%.rst}.tex" && \
-#	echo -e "$blue '${file%.rst}.tex' well generated ....$white" && \
-# LaTeX ---> PDF
-#	pdflatex  -file-line-error -interaction=nonstopmode -output-directory=.build/pdf/ "${file%.rst}.tex" >> "$logfile"
-#	if [ -f ".build/pdf/${file%.rst}.pdf" ]; then
-#		listPDFs="$listPDFs .build/pdf/${file%.rst}.pdf"
-#		echo -e "$blue '.build/pdf/${file%.rst}.pdf' well generated ....$white"
-#		echo -e "Erasing: ${file%.rst}.tex ${file%.rst}.log ${file%.rst}.out ${file%.rst}.aux"
-##		mv -fv "${file%.rst}.tex" "${file%.rst}.log" "${file%.rst}.out" "${file%.rst}.aux" /tmp/
-#		mv -fv "${file%.rst}.tex" /tmp/
-#		mv -fv ".build/pdf/${file%.rst}.log" ".build/pdf/${file%.rst}.out" ".build/pdf/${file%.rst}.aux" ".build/pdf/${file%.rst}.toc" /tmp/
-#	fi
+	$ECHO "$u${red}**********************************************${reset}${white}"
 
-	echo -e "$green*** Done: for the file '$file' ***$white"
+	$ECHO "$green*** Done: for the file '$file' ***$white"
 	if [ ! "0" = "0$STEP" ]; then
 	 read -p "[o]ui/[N]ON ? " ok
 	fi
-	echo -e "$u${red}**********************************${reset}${white}"
+	$ECHO "$u${red}**********************************${reset}${white}"
 done
 
-echo -e "\n Done : the following (.txt.pdf) PDF files have been produced (from .rst, with ${blue}rst2pdf${white}:"
-echo -e "${green}$listPDFfromRSTs${white}"
-#echo -e "\n Done : the following LaTeX files have been produced :"
-#echo -e "$listTEX"
-#echo -e "\n Done : the following PDF files have been produced :"
-#echo -e "$listPDFs"
+$ECHO "\n Done : the following (.txt.pdf) PDF files have been produced (from .rst, with ${blue}rst2pdf${white}:"
+$ECHO "${green}$listPDFfromRSTs${white}"
 
-if [ "0$VOIR" = "0--view" ]; then
- echo "Opening $listPDFfromRSTs.........."
- evince "$listPDFfromRSTs" 2> /dev/null &
+if [ "0$COMPRESS" = "0compress" ]; then
+ echo "Compressing $listPDFfromRSTs.........."
+ PDFCompress "$listPDFfromRSTs" 2> /dev/null &
 fi
 
-echo -e "$u${cyan}**********************************${reset}${white}"
+if [ "0$VOIR" = "0view" ]; then
+ echo "Opening $listPDFfromRSTs.........."
+ evince "$listPDFfromRSTs" &>/dev/null&
+fi
+
+$ECHO "$u${cyan}**********************************${reset}${white}"

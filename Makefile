@@ -148,10 +148,15 @@ git:
 
 pdf: ./.pdf_all.sh
 	./.pdf_all.sh [A-Za-z]*.rst
-	-rm $(BUILDIR)/pdf/admin.txt.pdf
+	-rm $(BUILDDIR)/pdf/admin*pdf
 	-pkill gnuplot
 	@echo
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
+
+compresspdf: 
+	cd $(BUILDDIR)/pdf/ ; PDFCompress --force --no-zenity --sign *pdf ; cd ../..
+	@echo
+	@echo "Compression finished. The PDFs files are compressed now (in $(BUILDDIR)/pdf)."
 
 rss:	gpgrss
 	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/

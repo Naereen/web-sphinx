@@ -368,4 +368,6 @@ Donne des infos sur l'écran (désormais intégré dans le *footer*) :
    </script>
 
 
+.. http://❥.ws/fb.lbesson
+
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
