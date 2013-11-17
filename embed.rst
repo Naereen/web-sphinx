@@ -8,8 +8,6 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
-.. warning:: En cours de rédaction (le 23-10-2013) !
-
 ---------------------------------------------------------------------
 
 À-propos
