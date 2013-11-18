@@ -23,9 +23,17 @@
       </image>
 
       <item>
+       <title>Un weekend à Berlin, leçon 122 vendredi, et toujours plus de démos JS & Sphinx sur ce site.</title>
+       <link>http://besson.or.gs/sparkline.html</link>
+       <description>sparkline.html : une démo de JQuery.SparkLine, un plugin JQuery pour faire de minis graphiques dans une page web.</description>
+       <guid>http://besson.qc.to/i/sparkline.html</guid>
+       <pubDate>mon, 18 Nov 2013 20:48:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Retour de vacances !</title>
        <link>http://besson.or.gs/embed.html</link>
-       <description>Du stop, du stop et du stop ! Près de 700km (à vue d'oeil, calcul complet pas encore fait)! ?</description>
+       <description>Du stop, du stop et du stop ! Près de 700km (à vue d'oeil, calcul complet pas encore fait !) ?</description>
        <guid>http://besson.qc.to/i/embed.html</guid>
        <pubDate>Wed, 30 Oct 2013 16:04:43 GMT</pubDate>
       </item>

@@ -30,13 +30,15 @@ Des graphiques intégrés dans la page
 ------------------------------------
 Importer le script
 ^^^^^^^^^^^^^^^^^^
-Il faut d'abord charger le script `jquery.sparkline.js <_static/jquery.sparkline.min.js>`_,
+Il faut d'abord charger la bibliothèque `jquery <http://jquery.com/>`_,
+et ensuite le script `jquery.sparkline.js <_static/jquery.sparkline.min.js>`_,
 avec une balise ``.. raw:: html`` et la commande *HTML*
 ``<script type="text/javascript" src="_static/jquery.sparkline.min.js"></script>``.
 
 
 .. raw:: html
 
+   <script type="text/javascript" src="_static/jquery.js"></script>
    <!-- SparkLine.js (http://omnipotent.net/jquery.sparkline) -->
    <script type="text/javascript" src="_static/jquery.sparkline.min.js"></script>
 

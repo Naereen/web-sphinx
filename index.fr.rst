@@ -402,6 +402,8 @@ Liste des autres pages
    publis
    bin
    js
+   embed
+   sparkline
    vieprivee
    tutoweb
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
