@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.2b2*.
-Currently this *projet* is in version *1.9.7* (*public* release) !
+Currently this *projet* is in version *1.9.8* (*public* release) !
 
 Where are those pages ?
 -----------------------

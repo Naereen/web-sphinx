@@ -107,7 +107,7 @@ autorun_languages['pypy_prefix_chars'] = 0
 
 # sphinxcontrib.bitbucket
 bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
-bitbucket_project_url = 'http://besson.qc.to/git/web-sphinx'
+#bitbucket_project_url = 'http://besson.qc.to/git/web-sphinx'
 
 # String specifying the language, as understood by PyEnchant and enchant. Defaults to en_US for US English.
 # spelling_lang='fr' # 'fr_FR'
@@ -143,7 +143,7 @@ copyright = u'2011-2013, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '1.9.7'
+version = '1.9.8'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -162,7 +162,7 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build', '.git', '.tmp', '.temp', 'tmp', 'temp', 'scripts']
+exclude_patterns = ['.build', '.git', '.tmp', '.temp', 'tmp', 'temp', 'scripts', 'blog']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -353,7 +353,7 @@ html_show_copyright = True
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
 # base URL from which the finished HTML is served.
-html_use_opensearch = 'http://besson.qc.to/'
+html_use_opensearch = 'http://perso.crans.org/besson/'
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 # html_file_suffix = ".html"
@@ -375,7 +375,7 @@ description = 'Un test de blog avec Tinkerer'
 
 # Change this to your blog root URL (required for RSS feed)
 # FIXME
-website = 'http://besson.qc.to/blog/'
+website = 'http://perso.crans.org/besson/'
 
 
 # -- Options for LaTeX output --------------------------------------------------
