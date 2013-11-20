@@ -24,12 +24,14 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 .. todo:: Installer un Blog (`<http://besson.qc.to/blog/>`_) avec Tinkerer
 
    Un script pour automatiquement ajouter l'entrée dans blog/index.html.
-   
    Il faut trier les articles par blog/annee/mois/jour/titre/.
    
    Objectif: actualiser le blog par mail ou texto (pas ssh).
    Réfléchir: un cron qui lit les mails, en cherche un commençant par [blog] envoyé par moi,
    et ajoute le contenu du mail comme nouvel article.
+   
+   Ça à l'air pas mal, je continue de tester et je le mettrai en ligne quand j'en serais
+   content.
 
 
 ------------------------------------------------------------------------------
