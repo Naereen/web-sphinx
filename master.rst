@@ -17,6 +17,8 @@ Pages du blog
    :maxdepth: 1
 
    2013/11/21/test_numero_3
+   2013/11/21/test_2
+   2013/11/21/test_1
    2013/11/20/hello_world_
 
 
