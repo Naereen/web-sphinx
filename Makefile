@@ -137,9 +137,10 @@ send_simple:
 ################################# Builders ####################################
 
 clean:
-	-rm -rfv /tmp/$(BUILDDIR)/
-	##-mkdir --parents /tmp/$(BUILDDIR)/
+	#-rm -rfv /tmp/$(BUILDDIR)/
 	-mv -vf $(BUILDDIR)/ /tmp/
+	-mv -vf blog/ /tmp/
+	-mkdir --parents $(BUILDDIR)/html/
 
 git:
 	git add *.rst README.md Makefile conf.py .*.rst .templates/ rss.xml
@@ -200,6 +201,16 @@ html: hashlong
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
+mkblog:
+	tinker --build 2>&1
+
+blog:
+	-rm -f blog/html/.javascript.html blog/html/.special.html 
+	#-mv -u -v -i -t $(BUILDDIR)/html blog/html/*
+	-$(CP) -r blog/ $(BUILDDIR)
+	@echo
+	@echo "Build finished. The HTML pages for the blog are in blog/html."
+
 coverage:
 	$(SPHINXBUILD) -b coverage $(ALLSPHINXOPTS) $(BUILDDIR)/coverage
 	@echo
@@ -249,6 +260,7 @@ helpsend:
 helpbuild:
 	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  html       to make standalone HTML files"
+	@echo "  blog       to make standalone HTML files with Tinkerer"
 	@echo "  gpghtml    to sign every standalone HTML files"
 	@echo "  gpgrss     to sign and send the RSS file (rss.xml)"
 	@echo "  gpglatex   to make LaTeX files and run them through pdflatex"

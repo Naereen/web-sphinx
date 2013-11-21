@@ -323,6 +323,8 @@ html_sidebars = {
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
    '**/*':      ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
+   '201*/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
