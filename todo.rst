@@ -6,6 +6,11 @@
 --------
 Cette page accueille une liste des problèmes à résoudre.
 
+.. sidebar:: Liste plus à jour
+
+   Une liste "à jour" de chose à faire (privée) est
+   là `TODO.html <dl/.p/TODO.html>`_.
+
 Cette fonctionnalité viend de l'extension officielle ``sphinx.ext.todo``.
 
 De tels soucis peuvent être déclarés via : ::
