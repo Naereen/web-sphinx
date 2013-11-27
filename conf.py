@@ -77,9 +77,6 @@ extensions = [
 # If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
 # You can also give a full http:// URL different from the CDN URL.
 mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
-# Beta for the last MathJax version http://www.mathjax.org/mathjax-v2-3-beta-now-available/
-#mathjax_path = "http://beta.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
-# Not nice enough (échange d'images ? pour les aperçus au survol de la souris ? WFT !)
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
