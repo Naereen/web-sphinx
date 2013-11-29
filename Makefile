@@ -65,6 +65,9 @@ fixperms:
 	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
 	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
+sitemap:
+	-@(cd scripts/sitemap/ && $(MAKE))
+
 ################################ GPG signs ####################################
 
 gpgrss:
