@@ -56,6 +56,7 @@ Spoken Languages
  * :French: **native**;
  * :English: **fluent**, speaking and writing, usual and scientific. **TOEIC** got in April 2012, with the mark *900/990*;
  * :Spanish: **beginner**, speaking and writing, usual only;
+ * :Japanese: **beginner** from Sept. 2013, hiragana only;
 
 Programming Languages
 ----------------------
@@ -90,7 +91,7 @@ Miscellaneous
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
  * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy literature and poetry;
- * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking.
+ * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking, badminton.
 
 ------------------------------------------------------------------------------
 
