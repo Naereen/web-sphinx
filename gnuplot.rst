@@ -2,7 +2,6 @@
  Un **toplevel** ``GNU Plot`` embarqué
 #######################################
 .. include:: .special.rst
-
 .. include:: .javascript.rst
 
 .. warning:: Images vectorielles SVG
@@ -157,13 +156,6 @@ Graphe et entrée texte
  **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
  :blue:`C'est simple, c'est propre !`
 
-.. todo::
-
-   Comprendre pourquoi le buffer d'input ne s'actualise pas bien (?).
-   En fait, le script semble garder en mémoire les entrées précédentes,
-   et lorsqu'on recharge la page, le buffer d'input ne prend pas les données
-   que je lui demande.
-
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
@@ -188,8 +180,10 @@ Copyrights
 GNU Plot
 ~~~~~~~~
  ``GNU Plot`` est © et ® du projet **GNU**, voir la page officielle
- `GNUPlot <http://gnuplot.sourceforge.net/>`_ pour plus
+ `GNUPlot <http://www.gnuplot.info/>`_ pour plus
  de détails.
+ Par exemple, de nombreuses démos sont présentes ici
+ `<http://www.gnuplot.info/demo_canvas/>`_.
 
 Emscripten
 ~~~~~~~~~~

@@ -394,6 +394,7 @@ Liste des autres pages
    ocaml
    try-ocaml
    gnuplot
+   gnuplot.new
    ace
    transifex.fr
    wolfram
@@ -406,6 +407,7 @@ Liste des autres pages
    sparkline
    vieprivee
    tutoweb
+   master
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
