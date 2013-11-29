@@ -143,9 +143,11 @@ Graphe et entrée texte
      document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
     }
     document.getElementById('files').addEventListener('change', handleFileSelect, false);
-   </script>
-   <script type="text/javascript">window.alert("~~~ Le terminal GNUPlot semble bien initialisé !
-   Allez-y, expérimentez quelques commandes GNU Plot ! ~~~");</script>
+    $(document).ready(function() {
+        alert("Le terminal GNUPlot v4.6.3 semble bien initialisé !")
+    });
+    </script>
+
 
 ------------------------------------------------------------------------------
 

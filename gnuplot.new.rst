@@ -58,12 +58,9 @@ Graphe et entrée texte
     <img src="" id="gnuimg" type="image/svg+xml" width="600" height="400" class="float-right"/>
     </td><td style="width:100%;" valign="top">
     <textarea class="emscripten" id="gnuplot" rows="20" cols="80" onkeyup="scriptChange()">
-    # Conserver les premières lignes
+    # Conserver les deux premières lignes
     set terminal svg enhanced size 600,500 fname 'calibri' fsize 10 mouse jsdir "_static/"
-    # set terminal svg enhanced size 1000,700
-    set output 'out.svg'
-    # set terminal svg size 600,400 dynamic enhanced fname 'arial'  fsize 10 mousing name "heatmaps_3" butt solid 
-    # set output 'heatmaps.3.svg'
+    set output 'sortie.svg'
     ##########################################################################
     set format cb "%4.1f"
     set view 49, 28, 1, 1.48
@@ -100,7 +97,7 @@ Graphe et entrée texte
     <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block" />
     <script type="text/javascript" src="_static/gnuplot_api.new.js"></script>
     <script type="text/javascript">
-    gnuplot = new Gnuplot('gnuplot.new.js');
+    gnuplot = new Gnuplot('_static/gnuplot.new.js');
     gnuplot.onOutput = function(text) {
         document.getElementById('output').value += text + '\n';
         document.getElementById('output').scrollTop = 99999;
@@ -121,13 +118,12 @@ Graphe et entrée texte
             lastTAContent = val;
             runScript();
         }
-    }
-    ;
+    };
     files = {};
     if (localStorage["gnuplot.files"])
         files = JSON.parse(localStorage["gnuplot.files"]);
     for (var key in files)
-        gnuplot.onOutput("Found locally stored file: " + key + " with " + files[key].length + " bytes.");
+        gnuplot.onOutput("Fichier local trouvé : " + key + " avec " + files[key].length + " octets.");
     var runScript = function() {
         var editor = document.getElementById('gnuplot');   // textarea
         var start = Date.now();
@@ -136,10 +132,10 @@ Graphe et entrée texte
             gnuplot.putFile(f, files[f]);
 
         gnuplot.run(editor.value, function(e) {
-            gnuplot.onOutput('Execution took ' + (Date.now() - start) / 1000 + 's.');
-            gnuplot.getFile('out.svg', function(e) {
+            gnuplot.onOutput('Le calcul a pris ' + (Date.now() - start) / 1000 + 's.');
+            gnuplot.getFile('sortie.svg', function(e) {
                 if (!e.content) {
-                    gnuplot.onError("Output file out.svg not found!");
+                    gnuplot.onError("Fichier de sortie sortie.svg pas trouvé !");
                     return;
                 }
                 var img = document.getElementById('gnuimg');
@@ -150,7 +146,7 @@ Graphe et entrée texte
                     img.src = window.URL.createObjectURL(blob);
                 } catch (err) { // in case blob / URL missing, fallback to data-uri
                     if (!window.blobalert) {
-                        alert('Warning - your browser does not support Blob-URLs, using data-uri with a lot more memory and time required. Err: ' + err);
+                        alert('Attention : votre navigateur ne supporte pas les URLs de type BLOB. Le script va donc devoir utiliser des URI de données, ce qui requiert plus de mémoire et de temps :( ! Err: ' + err)
                         window.blobalert = true;
                     }
                     var rstr = '';
@@ -180,7 +176,7 @@ Graphe et entrée texte
                 var fname = f.name;
                 reader.onloadend = function(e) {
                     if (e.target.result) {
-                        gnuplot.onOutput(fname + ": Read success - storing in browser. " + e.target.result.length);
+                        gnuplot.onOutput(fname + ": Lecture réussie - stockage du côté client (le fichier n'est pas envoyé à travers le réseau). " + e.target.result.length);
                         files[fname] = e.target.result;
                         localStorage["gnuplot.files"] = JSON.stringify(files);
                     }
@@ -192,40 +188,26 @@ Graphe et entrée texte
         document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
     }
     document.getElementById('files').addEventListener('change', handleFileSelect, false);
+    var cleanout = document.getElementById('cleanout');
+    cleanout.disabled = false;
+    cleanout.onclick = function() { document.getElementById('output').value = ""; };
+    $(document).ready(function() {
+        alert("Le terminal GNUPlot v4.6.3 semble bien initialisé !")
+    });
     </script>
-    <script type="text/javascript">window.alert("~~~ Le terminal GNUPlot semble bien initialisé !
-   Allez-y, expérimentez quelques commandes GNU Plot ! ~~~");
-    </script>
+
 
 ------------------------------------------------------------------------------
-
-À propos
---------
- Comme dans `.special.rst <_sources/.special.txt>`_,
- j'utilise la directive ``.. raw:: html`` pour
- **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
- :blue:`C'est simple, c'est propre !`
-
-Hébergements
-------------
- Les scripts **Javascript** utilisés sur mes pages sont désormais
- hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
- <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
  Cette page est *directement inspirée* de la page officielle.
-
  Les deux scripts utilisés ici, `gnuplot.new.js <_static/gnuplot.new.js>`_,
- et `gnuplot_api.new.js <_static/gnuplot_api.new.js>`_ ont été écrits par
+ et `gnuplot_api.new.js <_static/gnuplot_api.new.js>`_ sont la dernière version du projet écrit par
  Christian Huettig.
 
  La page officielle du projet est 
  `gnuplot.respawned.com <http://gnuplot.respawned.com/>`_.
-
- La seule différence entre la page originale et celle-ci est le fait que
- celle ci est **intégrée** dans les pages de mon projet *Sphinx* (et donc,
- qu'elle est écrite en **rST** et pas en **HTML**).
 
 GNU Plot
 ~~~~~~~~
