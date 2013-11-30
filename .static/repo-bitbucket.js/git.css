@@ -6,7 +6,7 @@
  */
 
 * {
-	margin: 5px;
+	margin: 0;
 	padding: 0;
 }
 
@@ -15,8 +15,8 @@ body {
 }
 
 a {
-	/*color: #600099;*/
-	/*text-decoration: underline;*/
+	color: white;
+	text-decoration: none;
 
 	-webkit-transition: 0.15s color ease;
 	   -moz-transition: 0.15s color ease;
@@ -25,11 +25,7 @@ a {
 	        transition: 0.15s color ease;
 }
 	a:hover {
-		color: red;
-	}
-	a[href="#"]:after {
-	  content: "*";
-	  color: red;
+		/*color: red;*/
 	}
 
 h1,
@@ -43,7 +39,7 @@ h3 {
 }
 
 .repocontent {
-	padding: 10	px;
+	padding: 10px 10px;
 }
 
 .bodycontent {
@@ -81,11 +77,24 @@ h3 {
 			        transition: 0.15s color ease;
 		}
 			.bodycontent ul li:hover {
-				color: red;
-				text-decoration: underline;
+				/*color: red;*/
+				/*text-decoration: underline;*/
 			}
-			.bodycontent ul li:before {
+/*			.bodycontent ul li:before {
 				content: '~';
 				margin-right: 5px;
 				color: rgba( 255, 255, 255, 0.2 );
-			}
+			}*/
+
+	.bodycontent ul a {
+		/*float:right;*/
+		display:inline;
+		/*text-align:right;*/
+		/*margin-right:10px;*/
+	}
+	.bodycontent ul a{
+		color:white
+	}
+	.bodycontent ul a:hover{
+		color:#0d88c1;
+	}
