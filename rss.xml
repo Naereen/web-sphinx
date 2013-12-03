@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Re-publication de ZenityOCaml !</title>
+       <link>http://perso.crans.org/besson/publis/Zenity/</link>
+       <description>Utiliser Zenity avec OCaml de façon typée.</description>
+       <guid>http://besson.or.gs/publis/Zenity</guid>
+       <pubDate>Tue, 03 Dec 2013 20:48:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Bêta de generateglisse.sh : une superbe gallerie photo pour mes pages webs.</title>
        <link>http://besson.qc.to/generateglisse.sh/</link>
        <description>generateglisse.sh: un script pour automatiquement généré (côté serveur) une gallerie photo pour le web (côté client).</description>
