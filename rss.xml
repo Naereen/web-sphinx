@@ -23,11 +23,27 @@
       </image>
 
       <item>
+       <title>Bêta de generateglisse.sh : une superbe gallerie photo pour mes pages webs.</title>
+       <link>http://besson.qc.to/generateglisse.sh/</link>
+       <description>generateglisse.sh: un script pour automatiquement généré (côté serveur) une gallerie photo pour le web (côté client).</description>
+       <guid>http://besson.qc.to/bin/generateglisse.sh/</guid>
+       <pubDate>Sun, 01 Dec 2013 22:48:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>Bêta de generatejplayer.sh : un lecteur de musique pour mes pages webs.</title>
+       <link>http://besson.qc.to/generatejplayer.sh/</link>
+       <description>generatejplayer.sh: un script pour automatiquement généré (côté serveur) un lecteur de musique (organisée par dossiers) pour le web (côté client).</description>
+       <guid>http://besson.qc.to/bin/generatejplayer.sh/</guid>
+       <pubDate>Sun, 01 Dec 2013 20:48:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Un weekend à Berlin, leçon 122 vendredi, et toujours plus de démos JS et Sphinx sur ce site.</title>
        <link>http://besson.or.gs/sparkline.html</link>
        <description>sparkline.html : une démo de JQuery.SparkLine, un plugin JQuery pour faire de minis graphiques dans une page web.</description>
        <guid>http://besson.qc.to/i/sparkline.html</guid>
-       <pubDate>mon, 18 Nov 2013 20:48:43 GMT</pubDate>
+       <pubDate>Mon, 18 Nov 2013 20:48:43 GMT</pubDate>
       </item>
 
       <item>
