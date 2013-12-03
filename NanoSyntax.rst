@@ -308,7 +308,7 @@ Autres références
 -----------------
 Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages là:
 
-* `<publis/gedit-coloration/languages-specs/>`_,
+* `<publis/gedit-coloration/language-specs/>`_,
   le même genre de travail, pour l'éditeur **Gedit**, éditeur de code officiel du projet **GNOME**.
   De nouvelles descriptions de langages pour ``OCaml``, ``Python``, ``rST``, ``CUDA``, 
   ``scala``, ``Octave`` etc.
@@ -325,11 +325,11 @@ Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages 
   pour la syntaxe d'``OCaml``. Et ce fichier `rst.reST.rest.conf
   <http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf>`_
   est pour le ``reStructuredText`` ! Il a été ajouté à Jota depuis la v0.2.31 et à Jota + depuis
-  la v0.3.10 !
+  la v0.3.10 ! Jota et Jota+ ont été téléchargés plus de 6 millions de fois à eux deux !
   
 * `ColorML <https://sites.google.com/site/naereencorp/liste-des-projets/colorml>`_, est
   un parseur, pretty-printer *expérimental* en ``OCaml`` pour colorer du code ``OCaml`` 
-  et afficher le résultat dans un terminal.
+  et afficher le résultat dans un terminal. :red:`Plus maintenu, mon site googlesite est fermé.`
 
 Me contacter
 ------------
