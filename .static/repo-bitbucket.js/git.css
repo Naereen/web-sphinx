@@ -39,7 +39,12 @@ h3 {
 }
 
 .repocontent {
-	padding: 10px 10px;
+	position: relative;
+	z-index: 0;
+/*  	padding: 10px 10px */
+	padding-top: 8%;
+/*	margin-top: 10%;*/
+	overflow: auto;
 }
 
 .bodycontent {
@@ -48,8 +53,12 @@ h3 {
 	background-repeat: repeat;
 
 	font-family: 'Lato', Helvetica, sans-serif;
-	font-size: 15px;
+	font-size: 18px;
 	color: #222;
+
+	margin-top: 0;
+	position: fixed;
+	z-index: 50;
 
 	padding: 19px;
 	overflow: auto;
@@ -64,10 +73,9 @@ h3 {
 		margin-top: 4px;
 	}
 		.bodycontent ul li {
-			width: 180px;
+			width: 220px;
 			display: inline-block;
 			list-style: none;
-			font-size: 16px;
 			padding: 3px 10px;
 
 			-webkit-transition: 0.15s color ease;
