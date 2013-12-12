@@ -6,10 +6,9 @@
  Welcome to **Lilian Besson**'s web page !
 ###########################################
 .. include:: .special.rst
-.. include:: whatsnew.en.rst
-
 Who am I ?
 ----------
+.. include:: whatsnew.en.rst
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam.
