@@ -1,6 +1,6 @@
 .. sidebar:: What's new here ?
  
-    #. A nice looking minimalistic home page on `<http://jarvis.bitbucket.org>`_,
+    #. A nice looking minimalistic home page on `<http://lbesson.bitbucket.org/jarvis.html>`_,
     #. A programming project (mini game in OCaml) is here (`<agreg/modelisation/projet/>`_),
     #. A web (HTML5 and JavaScript) interface to display content of git repositories, like `<git/web-sphinx/>`_ for instance,
     #. Two scripts `<generateglisse.sh>`_ to make a nice photo gallery, and `<generatejplayer.sh>`_ to make a music player, automatically (server side, static),
