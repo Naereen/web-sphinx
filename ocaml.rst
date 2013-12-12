@@ -12,43 +12,21 @@ Le toplevel
 .. raw:: html
 
    <h4>Toplevel OCaml 4.00.1</h4>
-   <style type="text/css" media="screen">
-    #toplevel { 
+   <style type="text/css" media="screen">#toplevel { 
         font-family: monospace;
         font-size: 18px;
         position: relative;
         height: 450px;
         width: 90%;
-        margin-left: 40px;
-    }
-   </style>
+        margin-left: 40px;}</style>
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align="center"><div id="toplevel" align="left"></div></div>
-   </br>
-   <script type="text/javascript">
+   </br><script type="text/javascript">
     window.alert("~~~ Le terminal OCaml (4.00.1) commence à s'initialiser... ~~~");
-    $(document).ready(function() {
-   // window.onload = function() {
-      var output = document.getElementById('output');
-      // Skulpt buttons stuff.
-      var cleanout = document.getElementById('cleanout');
-        cleanout.value = "Efface la sortie";
-        cleanout.disabled = false;
-        cleanout.onclick = function() {
-          var output = document.getElementById('output');
-          var tmpvalue = output.value;
-          output.value = "";
-          window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
-      };
-     // Done !
-   // };
-    });
     $(document).ready(function() {
       window.alert("~~~ Le terminal OCaml (4.00.1) semble bien initialisé ! ~~~");
     });
    </script>
-   </br></br>
-   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
    </br></br>
 
 
