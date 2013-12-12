@@ -244,7 +244,7 @@ help:
 	@echo "  obscure    to hide email addresses for HTML pages in BUILDDIR/html/"
 	@echo "  fixperms   to adjust permissions of files in BUILDDIR/"
 	@echo "  helpbuild  to see a more detailed help for builder comands"
-	@echo "  helpbuild  to see a more detailed help for sender comands"
+	@echo "  helpsend  to see a more detailed help for sender comands"
 
 helpsend:
 	@echo "Help for custom senders (by Lilian BESSON, https://bitbucket.org/lbesson/web-sphinx/)"
