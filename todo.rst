@@ -24,6 +24,8 @@ TODO génériques
 Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
+.. todo:: Voir https://github.com/manuels/texlive.js ?
+
 .. todo:: Terminer l'intégration d'ACE aux toplevels Skulpt et OCaml.
 
 .. todo:: Installer un Blog (`<http://besson.qc.to/blog/>`_) avec Tinkerer

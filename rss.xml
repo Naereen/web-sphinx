@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Projet de modélisation en OCaml (jeu de labyrinthe-démineur) !</title>
+       <link>http://besson.qc.to/agreg/modelisation/projet/</link>
+       <description>Tellement cohérent de nous faire faire ça cette année...</description>
+       <guid>http://besson.qc.to/projet.7z</guid>
+       <pubDate>Thu, 12 Dec 2013 01:20:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Re-publication de ZenityOCaml !</title>
        <link>http://perso.crans.org/besson/publis/Zenity/</link>
        <description>Utiliser Zenity avec OCaml de façon typée.</description>

@@ -6,6 +6,8 @@
  Bienvenue sur les pages personnelles de **Lilian Besson** !
 #############################################################
 .. include:: .special.rst
+.. include:: whatsnew.fr.rst
+
 A propos de moi
 ---------------
 Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
@@ -20,7 +22,7 @@ Un petit mot sur moi
  ou des pages webs, comme par exemple `du javascript <js.html>`_, des tutoriels
  (sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
  ou encore des outils en lignes de commande pour Linux (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_ ou `python <python.html>`_).
- J'aime aussi cuisiner, régulièrement des soupes, légumes à la vapeur, ou des confitures.
+.. J'aime aussi cuisiner, régulièrement des soupes, légumes à la vapeur, ou des confitures.
 
 Un petit mot sur ce site
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -33,31 +35,21 @@ Un petit mot sur ce site
  j'espère ne pas décevoir ces visiteurs
  (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
 
-.. sidebar:: Autre langue : en anglais ?
-
-   .. Cette page est en *français*.
-   .. Peut-être préférez-vous la consulter en `anglais <index.en.html>`_.
-   
-   Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
-   ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
-   Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
-
-   Ces pages ont été générées le |today| pour la *dernière fois*.
-
-
 ------------------------------------------------------------------------------
-
-.. (*L'objectif étant de devenir prof. en classes préparatoires*,
-.. *ou à l'étranger*, ou agent secret, ou super héros, ou spationaute,
-.. ou je ne sais pas pourquoi vous lisez encore cette description inutile et égoïste!).
 
 En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
 les deux avec une mention Bien.
 
 En 2011/2012, j'ai obtenu deux licences, en **maths** et en **informatique**,
-mention Bien
-(L3, *Bachelor of Science* en anglais).
+mention Bien (L3, *Bachelor of Science* en anglais).
+
+
+.. sidebar:: Autre langue : en anglais ?
+   
+   Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
+   ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
+   Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
 
 
 Adresses de contact

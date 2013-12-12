@@ -6,6 +6,8 @@
  Welcome to **Lilian Besson**'s web page !
 ###########################################
 .. include:: .special.rst
+.. include:: whatsnew.en.rst
+
 Who am I ?
 ----------
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
@@ -18,7 +20,7 @@ A quick word about me
  I also like using new technologies, and enjoy design tiny pieces of software or web content
  for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
  or Linux command line tools (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_, or `python <python.html>`_).
- I like to cook, usually soups, steamed vegetables or marmelades.
+.. I like to cook, usually soups, steamed vegetables or marmelades.
 
 A quick word about this site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -30,21 +32,8 @@ A quick word about this site
  so if you are here for something in particular, I hope you will not be disapointed
  (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
 
-.. sidebar:: Other language : in French
-
-   :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
-   `en français <index.fr.html>`_ :red:`?`
-   
-   Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
-   or `<index.en.html>`_, according to the preference of your browser.
-
 
 ------------------------------------------------------------------------------
-
-.. to eventually become a Maths teacher in “classes préparatoires”
-.. (*or secret agent, or a super hero, or an elephant hunter, or I don't know why are*
-.. *you still reading this useless and very selfish description*).
-
 
 In 2012/2013 I graduated two first half of Masters of Science,
 in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
@@ -56,6 +45,14 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
    Those web pages **are still in construction** !
    In particular, the English versions of each pages are *not* yet available.
    But, I'm working on it !
+
+
+.. sidebar:: Other language : in French
+
+   :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
+   `en français <index.fr.html>`_ :red:`?`   
+   Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
+   or `<index.en.html>`_, according to the preference of your browser.
 
 
 Contact addresses
