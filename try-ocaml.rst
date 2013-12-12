@@ -34,6 +34,15 @@ Le toplevel
        <div id="lesson-message"></div>
        <div id="languages"></div>
        <div id="menu-lessons"></div>
+          <table class="zebra-striped">
+            <tr><td id="text-x"><code>lesson 1</code></td> <td id="">Simple Expressions</td></tr>
+            <tr><td id="text-x"><code>lesson 2</code></td> <td id="">Imperative Programming</td></tr>
+            <tr><td id="text-x"><code>lesson 3</code></td> <td id="">Functions</td></tr>
+            <tr><td id="text-x"><code>lesson 4</code></td> <td id="">Pattern Matching</td></tr>
+            <tr><td id="text-x"><code>lesson 5</code></td> <td id="">Syntax Traps</td></tr>
+            <tr><td id="text-x"><code>lesson 19</code></td> <td id="">The Graphics module</td></tr>
+            <tr><td id="text-x"><code>lesson 20</code></td> <td id="">New Features in 3.12.1</td></tr>
+          </table>
     </div>
     <div class="span9 ocaml">
      <div id="toplevel-container">
@@ -54,7 +63,7 @@ Le toplevel
         <tr><td><code>steps ()</code></td> <td id="text-steps">See available steps in the current lesson</td></tr>
       </table>
    </div></div></div></div>
-   <script type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
+   <script type="text/javascript" src="_static/try-ocaml.new/try-ocaml.js"></script>
    <script type="text/javascript">window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
 
 .. image:: .ocaml-powered.png
@@ -89,5 +98,10 @@ Remerciements
  * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    La page de référence pour ces morceaux de code est 
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
+   
+ * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
+
+ * Merci aux auteurs d'**OCaml**;
+
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

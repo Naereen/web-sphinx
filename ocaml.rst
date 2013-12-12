@@ -11,7 +11,7 @@ Le toplevel
 
 .. raw:: html
 
-   <h4>Toplevel OCaml 3.12.1 avec l'éditeur ACE</h4>
+   <h4>Toplevel OCaml 4.00.1</h4>
    <style type="text/css" media="screen">
     #toplevel { 
         font-family: monospace;
@@ -24,32 +24,13 @@ Le toplevel
    </style>
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align="center"><div id="toplevel" align="left"></div></div>
-   <script src="_static/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
    </br>
    <script type="text/javascript">
-    window.alert("~~~ Le terminal OCaml (3.12.1) commence à s'initialiser... ~~~");
+    window.alert("~~~ Le terminal OCaml (4.00.1) commence à s'initialiser... ~~~");
     $(document).ready(function() {
    // window.onload = function() {
-       // Launch ACE
-      var editor = ace.edit("toplevel");
-       // ACE Option. See http://ace.c9.io/#nav=howto for more options.
-       editor.setTheme("ace/theme/cobalt");
-       editor.getSession().setMode("ace/mode/ocaml");
-       editor.getSession().setTabSize(8);
-       editor.getSession().setUseWrapMode(true);
-       editor.setHighlightActiveLine(true);
-       editor.setShowPrintMargin(false);
-       editor.setReadOnly(false);  // true to make it non-editable
       var output = document.getElementById('output');
       // Skulpt buttons stuff.
-      var cleanin = document.getElementById('cleanin');
-        cleanin.value = "Efface l'entrée";
-        cleanin.disabled = false;
-        cleanin.onclick = function() {
-          var tmpvalue = editor.getValue();
-          editor.setValue("");
-          window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
-        };
       var cleanout = document.getElementById('cleanout');
         cleanout.value = "Efface la sortie";
         cleanout.disabled = false;
@@ -63,11 +44,10 @@ Le toplevel
    // };
     });
     $(document).ready(function() {
-      window.alert("~~~ Le terminal OCaml (3.12.1) semble bien initialisé ! ~~~");
+      window.alert("~~~ Le terminal OCaml (4.00.1) semble bien initialisé ! ~~~");
     });
    </script>
    </br></br>
-   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
    </br></br>
 
@@ -75,13 +55,13 @@ Le toplevel
 .. Ceci est un commentaire inutile.
 
 
-+----------------------------------+-------------------------------+
-| .. image:: .ocaml-powered.png    | .. image:: .ace-powered.png   |
-|    :scale: 130 %                 |    :scale: 40 %               |
-|    :align: right                 |    :align: left               |
-|    :alt: OCaml powered :)        |    :alt: ACE powered :)       |
-|    :target: http://caml.inria.fr |    :target: http://ace.c9.io/ |
-+----------------------------------+-------------------------------+
++----------------------------------+
+| .. image:: .ocaml-powered.png    |
+|    :scale: 130 %                 |
+|    :align: right                 |
+|    :alt: OCaml powered :)        |
+|    :target: http://caml.inria.fr |
++----------------------------------+
 
 ------------------------------------------------------------------------------
 
@@ -96,23 +76,7 @@ Le toplevel
        * leçons intéractives en français ou en anglais;
        * support du "drag & drop" de fichiers;
        * permet de télécharger l'historique des entrées;
-
-
-.. warning::
-
-   Cette version du toplevel n'est pas à jour.
-   
-   Et je n'ai pas réussi à la recompiler. Il semblerait que le dossier 'toplevel'
-   distribué dans l'archive de js_of_ocaml ne soit pas à jour (dernière modification
-   il y a 14 mois, or la dernière version d'OCaml (4.00.1) est sortie en Octobre).
-   
-   Et je n'ai ni le temps ni l'envie de le modifier.
-   
-   C'est bête, j'aurais bien aimé ajouter des ``id="input"`` à l'entrée,
-   pour permettre de l'éditer avec **ACE**, ou alors régler le bug qui scroll
-   vers le bas lors de l'appuis du bouton "Send".
-   
-   Dommage !
+       * support de Graphics (!);
 
 
 Un exemple de programme OCaml
@@ -128,6 +92,7 @@ Un exemple de programme OCaml
    sin 1.;;
    let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
    fact 20;;
+   "abc" < "def";;
 
 
 À propos
@@ -153,7 +118,7 @@ Copyrights
 
 Remerciements
 -------------
- * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_);
+ * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
 
  * Merci aux auteurs d'**OCaml**;
 
