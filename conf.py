@@ -140,7 +140,7 @@ copyright = u'2011-2013, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '1.9.8'
+version = '1.9.9'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 

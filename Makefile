@@ -198,7 +198,7 @@ hashlong: ./.hashlong.sh
 	@echo
 	@echo ".templates/hashlong.html updated."
 
-html: hashlong
+html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
 	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html 
 	@echo
