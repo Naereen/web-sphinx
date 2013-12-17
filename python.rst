@@ -126,18 +126,17 @@ Le toplevel
 
 Libraire standard
 -----------------
-
- En utilisant un débuggeur JavaScript, comme `FireBug
- <https://getfirebug.com/whatisfirebug>`_, il est possible de voir les appels
- aux fichiers de la librairie Python.
+En utilisant un débuggeur JavaScript, comme `FireBug
+<https://getfirebug.com/whatisfirebug>`_, il est possible de voir les appels
+aux fichiers de la librairie Python.
  
- Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
+Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
 
 Autres pages
 ------------
- Ce terminal est aussi disponible ici `<_static/python/index.html>`_, mais avec l'apparence la plus simpliste.
+Ce terminal est aussi disponible ici `<_static/python/index.html>`_, mais avec l'apparence la plus simpliste.
 
- Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
+Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
 
 À propos
 --------
@@ -146,14 +145,14 @@ Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. 
 
 Hébergements
 ------------
- Les scripts **Javascript** utilisés sur mes pages sont hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
- <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
+Les scripts **Javascript** utilisés sur mes pages sont hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+<https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
- Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
- et vient du projet Empythoned (voir cette page 
- `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
- pour plus de détails.
+Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
+et vient du projet Empythoned (voir cette page 
+`github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
+pour plus de détails.
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

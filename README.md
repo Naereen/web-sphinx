@@ -1,26 +1,24 @@
 Web Pages Sphinx
 ================
 
-The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.2b2*.
-Currently this *projet* is in version *1.9.8* (*public* release) !
+The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.2b3*.
+Currently this *projet* is in version *1.9.9* (*public* release) !
 
 Where are those pages ?
 -----------------------
 
 ### On line :
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
- * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") .
+ * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") is now just a redirection to the precedent one.
  * [jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only (and only from the crans local network) ;
 
 About
 -----
-
 Some pages host my résumé, others are just experiments, about Sphinx and many other things.
 A few pages talk about some points I am interesting on (GNU Nano, gedit, Pokémon etc)...
 
 Other repos
 -----------
-
 To limit the size of this one, I used an other repo to store
 the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
 

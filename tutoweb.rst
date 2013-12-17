@@ -135,6 +135,7 @@ Quelques derniers conseils
 
 ----
 
-Ce document est rédigé en espérant qu'il soit utile.
+Ce document est rédigé en espérant qu'il soit utile. Et n'est pas à jour.
+Et ne le sera pas. En effet : il est **vraiment inutile** !
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

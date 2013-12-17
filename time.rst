@@ -8,12 +8,11 @@
 
 L'horloge
 ---------
+Cette horloge est un peu particulière : elle est en base 3 !
 
-  Cette horloge est un peu particulière : elle est en base 3 !
-
-   * un boule blanche est **0**;
-   * un boule :green:`verte` est **1**;
-   * un boule :blue:`bleue` est **2**.
+ * un boule blanche est **0**;
+ * un boule :green:`verte` est **1**;
+ * un boule :blue:`bleue` est **2**.
 
 
 .. raw:: html
@@ -59,10 +58,11 @@ L'horloge
 
 À propos
 --------
- Comme dans `.special.rst <_sources/.special.txt>`_,
- j'utilise la directive ``.. raw:: html`` pour
- **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
- :navy:`C'est simple, c'est propre.`
+Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. raw:: html`` pour
+**embarquer du code** ``HTML`` dans la page produite par **Sphinx**. :navy:`C'est simple, c'est propre.`
+
+Cette page était juste la pour une démo (première intégration de ``HTML`` et ``JavaScript`` dans *Sphinx*),
+maintenant elle sert à rien.
 
 Hébergements
 ------------

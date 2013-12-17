@@ -12,6 +12,8 @@
 
 -----------------------------------------------------------------------------
 
+The whole sitemap is `there in a XML file <sitemap.xml>`_, or `gzipped <sitemap.xml.gz>`_.
+
 .. toctree::
 
    index.en

@@ -16,6 +16,9 @@
 Cette page est là pour décrire les divers **scripts JavaScript stockés dans le dépôt**
 `web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
 
+.. warning:: Pas à jour (il faudrait que je la reprenne un peu, pas le temps)
+
+
 Mais aussi pour **décrire chaque utilisation de JS pour de nombreuses
 petites fonctionnalités dans chacune des pages** (afficher une information différente selon
 la localisation de la page ou encore afficher la résolution d'écran utilée pour afficher,

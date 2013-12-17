@@ -119,7 +119,7 @@ Scripts et binaires
 -------------------
  Voir la page `<bin.html>`_ pour plus de description sur les scripts et les binaires
  contenus dans le dossier `<publis/bin/>`_.
-   
+
 ---------------------------------------------------------------------
 
 Fichiers de configuration
@@ -152,5 +152,14 @@ Fichiers de configuration
 
  :État: *À-jour.*
 
+---------------------------------------------------------------------
+
+Divers
+------
+
+`webcomics.pdf <publis/webcomics.pdf>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Un article sur `<http://questionablecontent.net>`_ pour la dernière Sauce
+ (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

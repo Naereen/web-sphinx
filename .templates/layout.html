@@ -24,12 +24,6 @@
 {% block relbar2 %}{% endblock %}
 
 {% block extrahead %}
- <script type="text/javascript">
-  var myip = "inconnue"; // have to be initialized before calling l2.io/ip.js?var=myip
-  var title_backup = window.document.title;
-  if (typeof console !== 'undefined') { console.log("Sauvegarde du titre de la page : " + title_backup); };
-  /* window.document.title="Chargement en cours..."; */
- </script>
   <meta name="author" content="Lilian BESSON (lbesson.bitbucket.org)" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
@@ -38,7 +32,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchiking" />
-    <meta name="DC.Date" content="2013-30-11" />
+    <meta name="DC.Date" content="2013-17-12" />
     <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
@@ -79,8 +73,7 @@
     .line	{text-decoration: line-through}
     .it		{font-style: italic}
     .ob		{font-style: oblique}
-  /* Style pour les badges en bas de la page. 
-   Merci à http://www.crans.org/ pour l'inspiration. */
+  /* Style pour les badges en bas de la page. */
     div#supportBadges { margin:1em; text-align:center; }
     #supportBadges ul { padding:0; display:inline; }
     #supportBadges li { display:inline; }
@@ -119,17 +112,6 @@
       text-align: center;
   }
 </style>
-<script type="text/javascript" src="{{ pathto('_static/nbl.min.js', true)|e }}" data-nbl="[
-  '{{ pathto('_static/forkit.js', true)|e }}',
-function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
-</script>
-<!-- , jQuery.noty, MouseTrap
-  '{{ pathto('_static/noty/jquery.noty.js', true)|e }}',
-  '{{ pathto('_static/noty/layouts/center.js', true)|e }}',
-  '{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}',
-  '{{ pathto('_static/noty/themes/default.js', true)|e }}', 
-  '{{ pathto('_static/mousetrap.min.js', true)|e }}', 
--->
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
@@ -141,8 +123,6 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
    <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
    <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
-  <!-- SparkLine.js (http://omnipotent.net/jquery.sparkline) -->
-  <!-- <script type="text/javascript" src="{{ pathto('_static/jquery.sparkline.min.js', true)|e }}"></script> -->
 <script type="text/javascript">
  if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit..."); };
  /* jQuery.noty plugin */
@@ -210,17 +190,6 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 <div class="footer">
   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
   <script type="text/javascript">NProgress.start();</script>
-  <!-- JavaScript external sources -->
-  <!-- <script type="text/javascript">
-   nbl.l([
-    '{{ pathto("_static/jquery.timeago.js", true)|e }}',
-    '{{ pathto("_static/jquery.scrollUp.min.js", true)|e }}',
-    '{{ pathto("_static/waypoints.min.js", true)|e }}',
-    '{{ pathto("_static/waypoints-sticky.js", true)|e }}',
-    '{{ pathto("_static/fokus.min.js", true)|e }}',
-    function(){ if (typeof console !== 'undefined') { console.log('[nbl] Loading jQuery.smooth-scroll, jQuery.TimeAgo, jQuery.scrollUp, waypoints, waypoints-sticky, fokus with NBL.js ...'); } }
-   ]);
-  </script> -->
 	<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
 	 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
@@ -232,8 +201,6 @@ function(){ console.log('[nbl] Loading forkit with NBL.js ...'); } ]">
 	 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
-    <!-- Fokus -->
-	 <!-- <script type="text/javascript" src="{{ pathto('_static/fokus.min.js', true)|e }}"></script> -->
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
 if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2013."); }
@@ -319,9 +286,9 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "20 11 2013, 00h:30m:14s";
+   var last_updated_value = "{{ last_updated }}" || "17 12 2013, 00h:30m:14s";
     var day   = last_updated_value.substring(0,  2 ) || "01";
-    var month = last_updated_value.substring(3,  6 ) || "10"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+    var month = last_updated_value.substring(3,  6 ) || "12"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2013";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
@@ -330,63 +297,19 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "11" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
     + ".</br></br>\n(C) Lilian BESSON 2011-2013.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
-// Restore the first title.
-//   window.document.title=title_backup;
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
  });
  </script>
-<!-- Getting IP from l2.io (and store it to the variable myip). FIXME -->
-<!-- <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>-->
 <!-- A short script to print parameters of the page -->
 <script type="text/javascript">
- window.document.write(
-   "<span style=\"color: grey\">User-agent: "
-  + navigator.userAgent + "."
- + "</br>Taille d'écran <span style=\"color: white\">"
-  + screen.availWidth + "x"
-  + screen.availHeight + "</span>.  ");
+  window.document.write("<span style=\"color: grey\">User-agent: " + navigator.userAgent + "."
+   + "</br>Taille d'écran <span style=\"color: white\">"
+   + screen.availWidth + "x" + screen.availHeight + "</span>.  ");
   writeLocationOfThePage("", "", "color: grey; font-size: 105%", "color: grey");
 </script>
-<!-- Display a custom message if local or on the Crans Network -->
-<!-- Votre adresse IP est <script type="text/javascript">window.document.write(myip)</script><noscript>inconnue</noscript>.
-<script type="text/javascript">
- switch (myip.substring(0,7)) {
- case '127.0.0.':
-   console.log("[ERROR] Should not consult pages with a local server (some functionalities are disabled)...")
-   window.document.write(" <span style=\"color: red\">(locale).</span>");
-   noty({text: 'You should not consult pages with a local server (some functionalities are disabled)...'});
-   break;
- case '138.231': 
-   // put here custom code for the webmaster
-   if ((myip == '138.231.139.176') || (window.location.host.substring(0,6) == 'jarvis')) {
-      alert( ('Welcome master ! Every think seem to work just fine !' + 
-         '\n</br>This is a test notification, send with jQuery.noty, of type success.' + 
-         '\n</br>Shortcuts: f → facebook, g → gravatar, b → bitbucket' + 
-         '\n</br>Shortcuts: c c → check css, c h → check HTML, c r → check rss'),
-         {type: 'success', layout: 'center'});
-      Mousetrap.bind('f', function() { location.href="https://www.facebook.com/naereencorp.lbesson" });
-      Mousetrap.bind('g', function() { location.href="https://gravatar.com/naereen" });
-      Mousetrap.bind('b', function() { location.href="https://bitbucket.org/lbesson/" });
-      Mousetrap.bind('c c', function() { location.href="http://jigsaw.w3.org/css-validator/check/referer" });
-      Mousetrap.bind('c h', function() { location.href="http://validator.w3.org/check?uri=referer" });
-      Mousetrap.bind('c r', function() { location.href="http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml" });
-   };
-   window.document.write(" <span style=\"color: green\">(sur le campus de l'ENS Cachan !).</span>");
-   break;
- default:
-   if (myip !== "inconnue") { window.document.write(" <span style=\"color: grey\">(non locale).</span>"); }
-   break;};
-  NProgress.inc();
-</script> -->
 <br/>
-<!-- FIXME -->
-{% include "hashlong.html" %}
-{% if hashlongvalue %}
- <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/{{ hashlongvalue }}" title="Last modification">Dernier changement</a> (lien à-jour).<br>
-{% else %}
- <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modification">Dernier changement</a> (lien par défaut).<br>
-{% endif %}
+ <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modification">Dernier changement</a>.<br>
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
 Si ça concerne des scripts, veuillez utiliser
@@ -430,17 +353,17 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="Source code hosted on Bitbucket.org, managed with Git 1.7.9.5"
       src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
       style="width: 36.0px; height: 15.0px;" /></a></li>
-<!-- <li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
+<li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
  <img alt="Powered by MathJax 2.3"
-      src="http://cdn.mathjax.org/mathjax/badge/mj_logo_60x12.png"
-      style="width: 60.0px; height: 12.0px;" /></a></li> -->
+      src="{{ pathto('.mathjax_60_12.png', true)|e }}"
+      style="width: 60.0px; height: 12.0px;" /></a></li>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
       - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
 <script type="text/javascript">
  if (window.location.host.substring(0,6) == 'jarvis') {
- window.document.write("<li><a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.3 on "
+ window.document.write("<li><a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
   + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a></li>"); 
  }
  else {
@@ -489,7 +412,6 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  * Those pages are hosted
  *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to;
  *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson or http://lbesson.qc.to;
- *  - here on Bitbucket, http://lbesson.bitbucket.org;
  *  - sometimes on my machine, http://jarvis.crans.org/ (only locally on the crans network).
  *
  * This document is a Jinja Template, to modify all the HTML pages produced

@@ -12,6 +12,8 @@
 
 -----------------------------------------------------------------------------
 
+La sitemap complète est disponible `ici dans un fichier XML <sitemap.xml>`_, ou `gzippé <sitemap.xml.gz>`_.
+
 .. toctree::
 
    index.fr

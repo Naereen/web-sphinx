@@ -99,7 +99,7 @@ Remerciements
    La page de référence pour ces morceaux de code est 
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
    
- * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
+ * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
 
  * Merci aux auteurs d'**OCaml**;
 
