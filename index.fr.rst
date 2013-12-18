@@ -21,6 +21,7 @@ J'aime utiliser les nouvelles technologies, mais aussi développer de petits log
 ou des pages webs, comme par exemple `du javascript <js.html>`_, des tutoriels
 (sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
 ou encore des outils en lignes de commande pour Linux (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_ ou `python <python.html>`_).
+
 .. J'aime aussi cuisiner, régulièrement des soupes, légumes à la vapeur, ou des confitures.
 
 Un petit mot sur ce site

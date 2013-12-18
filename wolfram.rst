@@ -117,7 +117,9 @@ Résoudre une équation
 
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
- Il suffit d'aller piocher `là bas <http://www.wolframalpha.com/examples/>`_.
+ Par exemple `<wolfram.example>`_ montre la sortie de la requette "``distance Paris Montreal``".
+
+ Pour plus d'inspiration, il suffit d'aller piocher `là bas <http://www.wolframalpha.com/examples/>`_.
 
 ------------------------------------------------------------------------------
 

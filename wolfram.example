@@ -1,0 +1,33 @@
+Input interpretation
++----------+--------------------------+----------------------+
+| distance | from                     | Paris, Ile-de-France |
+| to       | Montreal, Quebec, Canada |                      |
++----------+--------------------------+----------------------+
+
+Result
++-----------------------+
+| 5519 km  (kilometers) |
++-----------------------+
+
+Unit conversions
++------------+
+| 3429 miles |
++------------+
+
+Direct travel times
++---------------------------------------------+-----------------------+
+| aircraft  (550 mph)                         | 6 hours 15 minutes    |
+| sound                                       | 4 hours 30 minutes    |
+| light in fiber                              | 26 ms  (milliseconds) |
+| light in vacuum                             | 18 ms  (milliseconds) |
+| (assuming constant-speed great-circle path) |                       |
++---------------------------------------------+-----------------------+
+
+Map
+
+
+Fraction of earth circumference
++---------------+
+| 0.14 ~~ 1 / 7 |
++---------------+
+

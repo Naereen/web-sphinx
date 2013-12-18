@@ -156,7 +156,6 @@ Fichiers de configuration
 
 Divers
 ------
-
 `webcomics.pdf <publis/webcomics.pdf>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Un article sur `<http://questionablecontent.net>`_ pour la dernière Sauce

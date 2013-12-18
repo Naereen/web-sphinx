@@ -19,6 +19,7 @@ A quick word about me
   I also like using new technologies, and enjoy design tiny pieces of software or web content
   for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
   or Linux command line tools (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_, or `python <python.html>`_).
+  
   .. I like to cook, usually soups, steamed vegetables or marmelades.
 
 A quick word about this site
