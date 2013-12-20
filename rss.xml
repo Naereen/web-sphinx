@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-      <title>Lilian Besson via RSS</title>
+      <title>Lilian Besson's RSS</title>
       <link>http://perso.crans.org/besson/</link>
       <description>Flux RSS pour les pages web de Lilian Besson</description>
       <language>fr</language>
       <copyright>© 2013, Lilian Besson</copyright>
-      <managingEditor>naereen[@]crans.org (Lilian Besson)</managingEditor>
-      <webMaster>naereen[@]crans.org (Lilian Besson)</webMaster>
-      <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Crans, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff</category>
-      <generator>Painstakingly written by hand :)</generator>
+      <managingEditor>jarvis.spam@laposte.net (Lilian Besson)</managingEditor>
+      <webMaster>jarvis.spam@laposte.net (Lilian Besson)</webMaster>
+      <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Crans, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff, Agreg</category>
+      <generator>Painstakingly written by hand with GNU Nano v2.3.2 :)</generator>
       <ttl>1</ttl>
       <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
 
       <image>
-        <title>Lilian Besson via RSS</title>
+        <title>Lilian Besson's RSS</title>
         <url>http://perso.crans.org/besson/_static/.besson_transparent.png</url>
         <link>http://perso.crans.org/besson/</link>
         <description>Toutes mes expérimentations web sur perso.crans.org/besson !</description>
         <height>120</height>
         <width>75</width>
       </image>
+
+      <item>
+       <title>Je continue de planifier mon année prochaine...</title>
+       <link>http://besson.qc.to/fb/</link>
+       <description>(post sur http://besson.qc.to/fb)
+Ce soir, au service des relations internationales, pour trouver un poste de jeune prof à l'étranger les 6 premiers mois de l'année prochaine, on me sort :
+"Oui oui, vous serez payé [à Galatasaray, Turquie], mais ça fait pas beaucoup. C'est raisonnable quoi." me dit-elle [J'acquiesce, disant que ça me suffira pour vivre et même mettre un peu de côté, 800€/mois en Turquie ça suffit],
+"Mais pour un normalien "futur¹ agrégé", MOI JE VEUX PLUS !" enchaîne-t-elle.
+
+Que répondre à ça ;) ?
+(¹: j'espère)
+       </description>
+       <guid>http://besson.qc.to/voyage/</guid>
+       <pubDate>Thu, 19 Dec 2013 18:03:43 GMT</pubDate>
+      </item>
 
       <item>
        <title>Projet de modélisation en OCaml : soutenance terminée ! On attend la note !</title>
