@@ -379,7 +379,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <script type="text/javascript">
   $(window).load(function(){
    setTimeout(function(){ NProgress.done(); }, 1000);
-   setTimeout(function(){ noty({
+ /*  setTimeout(function(){ noty({
     text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Il semblerait...', onClick: function($noty) {
@@ -402,6 +402,18 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       }
     ]
     }) }, 3000);
+  */
+   setTimeout(function(){ noty({
+    text: 'Joyeux Noël à vous !', timeout: false, layout: "center",
+    buttons: [
+      {addClass: 'btn btn-primary', text: 'Merci !', onClick: function($noty) {
+          $noty.close();
+          noty({text: "<span style=\"font-weight:bold\">Voilà qui fait plaisir ! Merci de votre réaction positive :)</span>"
+           + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
+        }
+      }
+    ]
+    }) }, 800);
   });
 </script>
 </div></div> 
