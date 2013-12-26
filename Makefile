@@ -2,13 +2,13 @@
 # Makefile for Sphinx web builder
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='17'
-#	__date__='dimanche 29/09/2013 at 21h:59m:27s'
+#	__version__='18'
+#	__date__='Jeudi 26/12/2013 at 19h:16m:27s'
 #   __web__='https://bitbucket.org/lbesson/web-sphinx'
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -j 10 -w /tmp/sphinx.log
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = /home/lilian/.local/bin/sphinx-build
 PAPER         =
 BUILDDIR      = .build
 
