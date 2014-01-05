@@ -112,62 +112,6 @@ affichent la même chose.
 
 Tests JavaScript
 ----------------
-
-Sticky Elements
-^^^^^^^^^^^^^^^
-.. versionadded:: 1.9
-
-Aurait pu permettre d'avoir la barre latérale
-mobile un moment, puis fixe quand a atteind le bas. Toujours pas résolu !
-
-.. raw:: html
-
-   <h2 class="my-sticky-element">Sticky Element 1</h2>
-
-
-.. raw:: html
-
-   <!-- FIXME -->
-   <script type="text/javascript">
-   $(document).ready(function() {
-     $('.my-sticky-element').waypoint('sticky');
-   });
-   </script>
-   <!-- FIXME -->
-   <script type="text/javascript">
-   $('#example-direction').waypoint(function(direction) {
-     window.alert('Direction example triggered scrolling ' + direction);
-     }, { offset: 25} );
-   $('example-direction').waypoint(function(direction) {
-     window.alert('Direction example triggered scrolling ' + direction);
-     }, { offset: 25} );
-   $('.#example-direction').waypoint(function(direction) {
-     window.alert('Direction example triggered scrolling ' + direction);
-     }, { offset: 25} );
-   $('.example-direction').waypoint(function(direction) {
-     window.alert('Direction example triggered scrolling ' + direction);
-     }, { offset: 25} );
-   
-  $('#example-basic').waypoint(function() {
-     window.alert('Basic example callback triggered.');
-     });
-   $('example-basic').waypoint(function() {
-     window.alert('Basic example callback triggered.');
-     });
-   $('.#example-basic').waypoint(function() {
-     window.alert('Basic example callback triggered.');
-     });
-   $('.example-basic').waypoint(function() {
-     window.alert('Basic example callback triggered.');
-     });
-   </script>
-
-
-.. raw:: html
-
-   <h2 class="my-sticky-element">Sticky Element 2</h2>
-
-
 TimeAgo
 ^^^^^^^
 Affiche des dates,
@@ -196,7 +140,7 @@ Espace d'expérimentations
 .. versionadded:: 1.4
 
 D'autres rôles (rajoutés grâce à `.special.rst <_sources/.special.txt>`_ et au travail
-réalisé pour `.templates/layout.html` :
+réalisé pour `.static/hacks.css` :
 
  * :under:`souligné`, avec ``:under:`texte```;
  * :blink:`clignotant`, avec ``:blink:`texte``` (pas toujours supporté !);
@@ -218,13 +162,13 @@ L'autre est :
 
 .. image:: .valid-xhtml10.png
 
-Résultats attendus (et :blink:`enfin` obtenus depuis peu) :
+Résultats attendus :
 
- * aucune erreur sérieuse pour les feuilles **CSS** !
- * aucune erreur grave pour les pages **XHTML** 1.0 Transitional !
+ * aucune erreur **sérieuse** pour les feuilles **CSS** !
+ * aucune erreur **grave** pour les pages **XHTML** 1.0 Transitional !
  * aucune erreur pour le flux RSS !
 
-.. warning:: Mes pages ne sont plus parfaites ...
+.. warning:: Mes pages ne sont plus correctes sémantiquement ...
 
    Aucunes pages ne passent désormais le test XHTML, à cause de bout de
    code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
@@ -269,103 +213,18 @@ peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphin
 Citation random !
 ^^^^^^^^^^^^^^^^^
  Cette ligne Bash affiche une citation aléatoire.
- Actuellement, ``~/.quotes.txt`` est une liste très complète
- des meilleurs citations de Kaamelott.
+ Actuellement, ``~/.quotes.txt`` est une liste très complète des meilleurs citations de Kaamelott.
  
  Cette liste est obtenue à partir des deux scripts suivants,
  depuis les données du site `<http://fr.wikiquote.org/wiki/Kaamelott/>`_ :
  
   * `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
-
   * `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
 
 
 .. runblock:: console
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
-
-
-------------------------------------------------------------------------------
-
-Suite des tests JavaScripts (sticky elements)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. raw:: html
-
-   <pre id="example-basic">
-    <br>id example-basic a été passé.</br>
-   </pre>
-
-
-.. raw:: html
-
-   <pre class="example-basic">
-    <br>class example-basic a été passé.</br>
-   </pre>
-
-
-Tests : auto mailto: ?
-^^^^^^^^^^^^^^^^^^^^^^
-.. versionadded:: 1.8
-
-Une différence entre les trois liens suivants ?
-
-* moi.supermoi@domain.extension .
-
-* :blue:`supermoi.moi@otherdomain.ext` .
-
-* `<mailto:supermoi@domain.ext>`_.
-
-
-Test JavaScript
-^^^^^^^^^^^^^^^
-.. versionadded:: 1.8.6
-
-Donne des infos sur le navigateur utilisé par le visiteur (intégré dans le *footer*) :
-
-.. raw:: html
-
-   <noscript>Exemple non disponible sans JavaScript...</noscript>
-   <script type="text/javascript"> 
-    window.document.write(
-      "<p>Browser CodeName: " + navigator.appCodeName + "</p>"
-    + "<p>Browser Name: " + navigator.appName + "</p>"
-    + "<p>Browser Version: " + navigator.appVersion + "</p>"
-    + "<p>Cookies Enabled: " + navigator.cookieEnabled + "</p>"
-    + "<p>Platform: " + navigator.platform + "</p>"
-    + "<p>User-agent header: " + navigator.userAgent + "</p>"
-    + "<p>User-agent language: " + navigator.systemLanguage + "</p>")
-   </script>
-
-
-Précise quelle page est affichée (désormais intégré dans la barre horizontale) :
-
-.. raw:: html
-
-   <noscript>Exemple non disponible sans JavaScript...</noscript>
-   <script type="text/javascript">
-    window.document.write("<ul><li>Page " + window.location.pathname + ",</li>")
-    window.document.write("<li>Hosted on " + window.location.host + ",</li>")
-    window.document.write("<li>Protocol is " + window.location.protocol + ",</li>")
-    window.document.write("<li>Port is " + window.location.port + "</li></ul>") 
-   </script>
-
-
-Donne des infos sur l'écran (désormais intégré dans le *footer*) :
-
-.. raw:: html
-
-   <pre id="example-direction">
-    <br>id example-direction a été passé.</br>
-   </pre>
-   <pre class="example-direction">
-    <br>class example-direction a été passé.</br>
-   </pre>
-   <noscript>Exemple non disponible sans JavaScript...</noscript>
-   <script type="text/javascript">
-    window.document.write("Taille d'écran "
-     + screen.availWidth + "x"
-     + screen.availHeight ) 
-   </script>
 
 
 .. http://❥.ws/fb.lbesson

@@ -4,7 +4,7 @@
 
     Page principale. (default version)
 
-    :copyright: Copyright 2013 Lilian Besson
+    :copyright: Copyright 2013-2014 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 {% extends "!layout.html" %}
@@ -31,92 +31,23 @@
     <meta name="DC.Title" content="Lilian Besson sur le web" />
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
-    <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchiking" />
-    <meta name="DC.Date" content="2014-01-02" />
+    <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
+    <meta name="DC.Date" content="2014-01-05" />
     <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
-  <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
         href="http://perso.crans.org/besson/rss.xml" />
   <link rel="shortcut icon" type="image/png"
         href="{{ pathto('_static/.besson.png', true)|e }}" />
-  <!-- CSS for forkit.js -->
-  <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}">
+  <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}"> <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="{{ pathto('_static/buttons.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/nprogress.css', true)|e }}">
-  <style type="text/css">
-  /* Colors and text decoration.
-   For example, :black:`text in black` or :blink:`text blinking` in rST. */
-    .black	{color:black}
-    .gray	{color:gray}
-    .silver	{color:silver}
-    .white	{color:white}
-    .maroon	{color:maroon}
-    .red	{color:red}
-    .magenta	{color:magenta}
-    .fuchsia	{color:fuchsia}
-    .pink	{color:pink}
-    .orange	{color:orange}
-    .yellow	{color:yellow}
-    .lime	{color:lime}
-    .green	{color:green}
-    .olive	{color:olive}
-    .teal	{color:teal}
-    .cyan	{color:cyan}
-    .aqua	{color:aqua}
-    .blue	{color:blue}
-    .navy	{color:navy}
-    .purple	{color:purple}
-    .under	{text-decoration: underline} 
-    .over	{text-decoration: overline} 
-    .blink	{text-decoration: blink} 
-    .line	{text-decoration: line-through}
-    .it		{font-style: italic}
-    .ob		{font-style: oblique}
-  /* Style pour les badges en bas de la page. */
-    div#supportBadges { margin:1em; text-align:center; }
-    #supportBadges ul { padding:0; display:inline; }
-    #supportBadges li { display:inline; }
-    #supportBadges a { margin-right:1px; opacity:0.6; }
-    #supportBadges a:hover { opacity:1; }
-/* waypoint sticky elements */
-	.my-sticky-element { margin: 0 auto; }
-	.my-sticky-element.stuck {
-		position: fixed; top: 31px;
-		box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
-	}
-/* Image style for scrollUp jQuery plugin */
-	#scrollUpLeft {
-		bottom: 50px; left:   212px;
-		height: 38px; width:  38px; /* Height,Width of image */
-		background: url({{ pathto('_images/.top.png', true)|e }});
-	}
-/* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
-  .social-icons li a.facebook {
-      background-image: url({{ pathto('_images/.facebook.png', true)|e }});
-      display: block; margin-left: auto; margin-right: auto;
-  }
-  .social-icons li a:hover {
-      background-color: #666666;
-      transition: all 0.2s ease 0s;
-  }
-  .social-icons li a {
-      background: none no-repeat scroll center top #464646;
-      border: 2px solid #F6F6F6;
-      border-radius: 50% 50% 50% 50%;
-      display: block;
-      height: 35px; width: 35px;
-      margin: 0;
-      text-indent: -9000px;
-      transition: all 0.2s ease 0s;
-      text-align: center;
-  }
-</style>
+  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}">
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
-   <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
-   <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
-   <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
+    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
+    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
+    <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
@@ -162,8 +93,8 @@
     }; };
 </script>
 {{ super() }}
-<a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_images/.forkit_ribbon.png', true)|e }}" alt="Ajoutez moi comme ami sur Facebook !" /></a>
+<a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="https://www.facebook.com/naereencorp.lbesson">
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="" alt="Ajoutez moi comme ami sur Facebook !" /></a>
 {% endblock %}
 
 {% block relbaritems %}<!-- Display info if Javascipt available. -->
@@ -190,15 +121,10 @@
 <div class="footer">
   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
   <script type="text/javascript">NProgress.start();</script>
-	<!-- Simple Image Trail (using _static/simpleimagetrail.gif) script (disable by default) -->
-	 <!-- <script type="text/javascript" src="{{ pathto('_static/simpleimagetrail.js', true)|e }}"></script> -->
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
-	<!-- jQuery Waypoints plugin (source : http://imakewebthings.com/jquery-waypoints/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/waypoints.min.js', true)|e }}"></script>
-	 <script type="text/javascript" src="{{ pathto('_static/waypoints-sticky.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
   <!-- JavaScript (one big is quicker than many small...) -->
@@ -251,9 +177,6 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   preventDefault: true,
  });
   NProgress.inc();
- /* Waypoints jQuery plugin. offset: 0 // Apply "stuck" when element 0px from top */
-  $('.will-be-sticky').waypoint('sticky', { offset: 0 });
-  $('.my-sticky-element').waypoint('sticky', { offset: 50 });
  /* scrollUp jQuery plugin */
  $(function () { $.scrollUp({
     scrollName: 'scrollUpLeft', // Element ID
@@ -294,7 +217,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
    alert(" Cette page a été générée le " + last_updated_value
-    + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "11" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
+    + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
     + ".</br></br>\n(C) Lilian BESSON 2011-2014.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
 // Put here all JS code, and its dependencies before.
@@ -309,7 +232,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
   writeLocationOfThePage("", "", "color: grey; font-size: 105%", "color: grey");
 </script>
 <br/>
- <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modification">Dernier changement</a>.<br>
+ <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modifications">Derniers changements</a>.<br>
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
 Si ça concerne des scripts, veuillez utiliser
@@ -355,7 +278,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       style="width: 36.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
  <img alt="Powered by MathJax 2.3"
-      src="{{ pathto('.mathjax_60_12.png', true)|e }}"
+      src="{{ pathto('_images/.mathjax_60_12.png', true)|e }}"
       style="width: 60.0px; height: 12.0px;" /></a></li>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :
@@ -379,16 +302,16 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <script type="text/javascript">
   $(window).load(function(){
    setTimeout(function(){ NProgress.done(); }, 1000);
- /*  setTimeout(function(){ noty({
+   setTimeout(function(){ noty({
     text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
     buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-primary', text: 'Il semblerait...', onClick: function($noty) {
+      {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
           $noty.close();
-          noty({text: "<span style=\"font-weight:bold\">Voilà qui fait plaisir ! Merci de votre participation :)</span>"
+          noty({text: "<span style=\"font-weight:bold\">Normal, je code bien :)</span>"
            + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
         }
       }, 
-      {addClass: 'btn btn-danger', text: 'Non !!', onClick: function($noty) {
+      {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
           $noty.close();
           noty({text: "<span style=\"font-weight:bold\">Oups !</span> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
@@ -402,18 +325,6 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       }
     ]
     }) }, 3000);
-  */
-   setTimeout(function(){ noty({
-    text: 'Joyeux Noël à vous !', timeout: false, layout: "center",
-    buttons: [
-      {addClass: 'btn btn-primary', text: 'Merci !', onClick: function($noty) {
-          $noty.close();
-          noty({text: "<span style=\"font-weight:bold\">Voilà qui fait plaisir ! Merci de votre réaction positive :)</span>"
-           + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
-        }
-      }
-    ]
-    }) }, 800);
   });
 </script>
 </div></div> 

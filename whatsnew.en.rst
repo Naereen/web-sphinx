@@ -1,5 +1,6 @@
 .. sidebar:: What's new here ?
  
+   #. Merry Christmas and Happy New Year !
    #. A short oral presentation for the programming project (mini game in OCaml, see `<agreg/modelisation/projet/rapport.html>`_ in *French*),
    #. A nice looking minimalistic home page on `<http://lbesson.bitbucket.org/jarvis.html>`_,
    #. A web (HTML5 and JavaScript) interface to display content of git repositories, like `<git/web-sphinx/>`_ for instance,

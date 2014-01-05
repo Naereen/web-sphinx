@@ -1,5 +1,6 @@
 .. sidebar:: Quoi de neuf ?
 
+   #. Joyeux Noël et bonne année !
    #. La soutenance pour le projet de modélisation pour l'agreg (`<agreg/modelisation/projet/rapport.html>`_) est passée ;) !
    #. Une jolie page d'accueil (en développement) sur `<http://lbesson.bitbucket.org/jarvis.html>`_,
    #. Une interface web pour mes dépôts git, comme `<git/web-sphinx/>`_ par exemple,
