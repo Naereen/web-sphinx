@@ -85,4 +85,4 @@ ocaml-stdin
     # let rec f = function 0 -> 1 | n -> n *( f (n-1)) in
     # print_int (f 11);;
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

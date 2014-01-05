@@ -103,4 +103,4 @@ Un fichier rST
    <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/embed.rst">embed.rst</a>.</noscript>
 
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

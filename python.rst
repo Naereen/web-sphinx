@@ -155,4 +155,4 @@ et vient du projet Empythoned (voir cette page
 `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
 pour plus de détails.
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

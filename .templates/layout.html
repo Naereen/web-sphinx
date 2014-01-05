@@ -32,7 +32,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchiking" />
-    <meta name="DC.Date" content="2013-17-12" />
+    <meta name="DC.Date" content="2014-01-02" />
     <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
   <!-- End of Dublin Core Metadata -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
@@ -203,7 +203,7 @@
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
-if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2013."); }
+if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2014."); }
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
@@ -281,21 +281,21 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
-+"Ce site est maintenu par Lilian Besson © 2013.", {layout:'center', type:'information'}); });
++"Ce site est maintenu par Lilian Besson © 2011-2014.", {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "17 12 2013, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "01";
-    var month = last_updated_value.substring(3,  6 ) || "12"; // FIXME convert Sep -> 09, Oct -> 10 ect...
-    var year  = last_updated_value.substring(7,  11) || "2013";
+   var last_updated_value = "{{ last_updated }}" || "02 01 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "02";
+    var month = last_updated_value.substring(3,  6 ) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+    var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
    alert(" Cette page a été générée le " + last_updated_value
     + "</br></br>\nSoit <span style=\"font-weight:bold\">" + jQuery.timeago( year + "-" + "11" + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</span>"
-    + ".</br></br>\n(C) Lilian BESSON 2011-2013.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
+    + ".</br></br>\n(C) Lilian BESSON 2011-2014.</br>\n Merci au plugin jQuery.TimeAgo pour le calcul!", {layout:'center', type:'success'});
  });{% endif %}
 // Put here all JS code, and its dependencies before.
 // Closing the $(document).ready call
@@ -418,7 +418,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 </script>
 </div></div> 
 <!--
- * This file is © Lilian Besson, 2011-2013.
+ * This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
  * This file layout.html is part of my web pages, generated with Sphinx.
  * Those pages are hosted

@@ -201,4 +201,4 @@ Astuces
   `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
   via la touche TAB dans *mutt*, avec **goobook**.
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -6,4 +6,4 @@
    #. Two scripts `<generateglisse.sh>`_ to make a nice photo gallery, and `<generatejplayer.sh>`_ to make a music player, automatically (server side, static),
    #. An `article <publis/webcomics.pdf>`_ on `QuestionableContent <http://questionablecontent.net>`_ for the last "La Sauce" (ENS Cachan's campus newspaper),
  
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -6,4 +6,4 @@
    #. Deux scripts, `<generateglisse.sh>`_ une gallerie photo et `<generatejplayer.sh>`_ un lecteur de musique, tout deux automatiques (côté serveur en statique),
    #. Un `article <publis/webcomics.pdf>`_ sur `QuestionableContent <http://questionablecontent.net>`_ dans la dernière *Sauce* (journal du campus),
  
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

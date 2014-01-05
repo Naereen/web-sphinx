@@ -79,4 +79,4 @@ Pourquoi ? Principalement parce que le principal responsable le demande :
 
     --- Josh
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -161,4 +161,4 @@ Divers
  Un article sur `<http://questionablecontent.net>`_ pour la dernière Sauce
  (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -222,4 +222,4 @@ So, I used the following software :
 
  Merci de m'avoir lu jusqu'au bout !
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

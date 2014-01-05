@@ -167,4 +167,4 @@ My profile
    :alt: Screenshot of my private profile, focused on the project bitbucket.org
    :target: https://www.transifex.com/accounts/profile/Naereen/
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
