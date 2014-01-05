@@ -32,7 +32,7 @@ printc("<magenta>[LOG]<white> Using python, version %s on %s." % (sys.version, s
 # -- General configuration -----------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
-needs_sphinx = '1.1'
+needs_sphinx = '1.3'
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
@@ -64,7 +64,7 @@ extensions = [
 	'sphinx_pyreverse', # .. uml:: path_to_module
 	'sphinx_git', # .. git_changelog::
 	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'http://bitbucket.org/birkenfeld/sphinx-contrib',
-	'hieroglyph', # https://github.com/nyergler/hieroglyph
+	#'hieroglyph', # https://github.com/nyergler/hieroglyph
 	]
 
 ##############################################################################

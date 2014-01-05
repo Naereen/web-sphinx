@@ -8,7 +8,6 @@
  Liste d'outils de sécurité informatique
 #########################################
 .. include:: .special.rst
-.. warning:: Cette page est en cours de rédaction...
    
 ---------------------------------------------------------------------
 
