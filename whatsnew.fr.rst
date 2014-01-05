@@ -1,10 +1,15 @@
-.. sidebar:: Quoi de neuf ?
+.. raw:: html
 
-   #. Joyeux Noël et bonne année !
-   #. La soutenance pour le projet de modélisation pour l'agreg (`<agreg/modelisation/projet/rapport.html>`_) est passée ;) !
-   #. Une jolie page d'accueil (en développement) sur `<http://lbesson.bitbucket.org/jarvis.html>`_,
-   #. Une interface web pour mes dépôts git, comme `<git/web-sphinx/>`_ par exemple,
-   #. Deux scripts, `<generateglisse.sh>`_ une gallerie photo et `<generatejplayer.sh>`_ un lecteur de musique, tout deux automatiques (côté serveur en statique),
-   #. Un `article <publis/webcomics.pdf>`_ sur `QuestionableContent <http://questionablecontent.net>`_ dans la dernière *Sauce* (journal du campus),
+   <div class="sidebar" style="font-size:80%; width: 30%;">
+   <p class="first sidebar-title">Quoi de neuf ?</p>
+   <ol class="last arabic simple">
+   <li>La soutenance pour le projet de modélisation pour l’agreg (<a class="reference external" href="agreg/modelisation/projet/rapport.html">agreg/modelisation/projet/rapport.html</a>) est passée ;) !</li>
+   <li>Une jolie page d’accueil (en développement) sur <a class="reference external" href="http://lbesson.bitbucket.org/jarvis.html">http://lbesson.bitbucket.org/jarvis.html</a>,</li>
+   <li>Une interface web pour mes dépôts git, comme <a class="reference external" href="git/web-sphinx/">git/web-sphinx/</a> par exemple,</li>
+   <li>Deux scripts, <a class="reference external" href="generateglisse.sh">generateglisse.sh</a> une gallerie photo et <a class="reference external" href="generatejplayer.sh">generatejplayer.sh</a> un lecteur de musique, tout deux automatiques (côté serveur en statique),</li>
+   <li>Un <a class="reference external" href="publis/webcomics.pdf">article</a> sur <a class="reference external" href="http://questionablecontent.net">QuestionableContent</a> dans la dernière <em>Sauce</em> (journal du campus),</li>
+   </ol>
+   </div>
+
  
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

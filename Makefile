@@ -27,9 +27,12 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp  ## If you do not have rsync installed
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html gpghtml images obscure send_jarvis send_zamok send_dpt check
+total: blog gpghtml images obscure send_jarvis send_zamok send_dpt check
+local: blog gpghtml images obscure send_jarvis check
 
-local: html gpghtml images obscure send_jarvis check
+totalh: html gpghtml images obscure send_jarvis send_zamok send_dpt check
+localh: html gpghtml images obscure send_jarvis check
+
 check: warnings severes errors
 
 warnings:
@@ -207,7 +210,7 @@ html:
 mkblog:
 	tinker --build 2>&1
 
-blog:
+blog:   mkblog
 	-rm -f blog/html/.javascript.html blog/html/.special.html 
 	#-mv -u -v -i -t $(BUILDDIR)/html blog/html/*
 	-$(CP) -r blog/ $(BUILDDIR)
