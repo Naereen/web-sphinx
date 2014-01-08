@@ -44,10 +44,7 @@
   <link rel="stylesheet" href="{{ pathto('_static/nprogress.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}">
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.js', true)|e }}"></script>
-    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/center.js', true)|e }}"></script>
-    <script type="text/javascript" src="{{ pathto('_static/noty/layouts/bottomRight.js', true)|e }}"></script>
-    <script type="text/javascript" src="{{ pathto('_static/noty/themes/default.js', true)|e }}"></script>
+   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
@@ -58,8 +55,8 @@
  if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit..."); };
  /* jQuery.noty plugin */
     $.noty.defaults = {
-        layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
-        text: 'Default text for a noty notification (change it !).',
+        layout: 'bottom', theme: 'defaultTheme', type: 'alert',
+        text: 'Default <b>text</b> for a noty notification (change it !).',
         dismissQueue: true, // If you want to use queue feature set this true
         template: '<div class="noty_message"><span class="noty_text"></span><div class="noty_close"></div></div>',
         animation: {
