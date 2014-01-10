@@ -2,9 +2,9 @@
 # Makefile for Sphinx web builder
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='18'
-#	__date__='Jeudi 26/12/2013 at 19h:16m:27s'
-#   __web__='https://bitbucket.org/lbesson/web-sphinx'
+#	__version__='18.1'
+#	__date__='Jeudi 10/01/2014 at 19h:16m:27s'
+#	__web__='https://bitbucket.org/lbesson/web-sphinx'
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -v -j 10 -w /tmp/sphinx.log
@@ -27,11 +27,11 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 #CP = scp  ## If you do not have rsync installed
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: blog gpghtml images obscure send_jarvis send_zamok send_dpt check
-local: blog gpghtml images obscure send_jarvis check
+total: html gpghtml images obscure send_jarvis send_zamok send_dpt check
+local: html gpghtml images obscure send_jarvis check
 
-totalh: html gpghtml images obscure send_jarvis send_zamok send_dpt check
-localh: html gpghtml images obscure send_jarvis check
+totalb: blog gpghtml images obscure send_jarvis send_zamok send_dpt check
+localb: blog gpghtml images obscure send_jarvis check
 
 check: warnings severes errors
 
@@ -208,7 +208,7 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 mkblog:
-	tinker --build 2>&1
+	tinker --build 2>&1 | tee /tmp/sphinx.log
 
 blog:   mkblog
 	-rm -f blog/html/.javascript.html blog/html/.special.html 

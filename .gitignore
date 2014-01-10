@@ -8,3 +8,4 @@ scripts/
 *.asc
 uml_images/
 *.log
+blog/
