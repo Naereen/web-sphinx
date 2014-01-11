@@ -73,6 +73,46 @@ Soucis à l'importation des modules
    Eh bien il se trouve que **MathJax** se désactive si on importe
    ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
 
+Une syntaxe encore plus concise ?
+---------------------------------
+.. versionadded:: 1.9.7
+
+Un exemple sympa
+^^^^^^^^^^^^^^^^
+Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
+``$$code LaTeX non inliné$$`` **directement en rST** !
+
+Et bien, testons le code *rst* suivant :
+
+.. code-block:: rst 
+
+   Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+
+Ce qui donne :
+
+Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+et elles sont exactement 
+$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+.. warning:: Un léger défaut
+
+   Avec ``$$code ... encore du code$$``, et donc aussi
+   ``\(code LaTeX\)`` il *faut* échapper les
+   ``\`` sinon rien ne marche.
+   
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
+   n'utilise que ``\``.
+
+
+.. warning:: Deux syntaxes équivalents !
+
+   Normalement, ``\[code LaTeX non inliné\]``
+   devrait faire comme ``$$code LaTeX non inliné$$`` !
+
+
 ------------------------------------------------------------------------------
 
 Autres **expérimentations** : des couleurs ?
@@ -80,12 +120,16 @@ Autres **expérimentations** : des couleurs ?
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
 rôles dans les fichiers **.rst** écrits pour ces pages webs,
 et ces rôles sont mis en relation avec des styles CSS définis dans
-.templates/layout.html, le template Jinja qui contrôlle l'apparence et le rendu
-de toutes mes pages produites avec Sphinx.
+`.templates/layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_
+le template Jinja qui contrôle l'apparence et le rendu de toutes mes pages produites avec Sphinx.
 
 Notamment, les différentes couleurs suivantes sont disponibles :
 black gray silver white maroon red magenta fuchsia pink orange 
 yellow lime green olive teal cyan aqua blue navy purple.
+
+Ceci est rendu possible avec
+ * `.special.rst <https://bitbucket.org/lbesson/web-sphinx/raw/master/.special.rst>`_ inclus en haut de chaque fichier rST (nécessaire)
+ * `hacks.css <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css>`_ inclus dans chaque page web via les templates.
 
 Exemples :
 

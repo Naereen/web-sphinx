@@ -16,7 +16,6 @@ Cette page est là pour présenter l'utilisation de
 `JQuery SparkLine <http://omnipotent.net/jquery.sparkline>`_
 dans des pages webs générées avec `Sphinx <http://sphinx-doc.org>`_.
 
-
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
@@ -33,7 +32,6 @@ et ensuite le script `jquery.sparkline.js <_static/jquery.sparkline.min.js>`_,
 avec une balise ``.. raw:: html`` et la commande *HTML*
 ``<script type="text/javascript" src="_static/jquery.sparkline.min.js"></script>``.
 
-
 .. raw:: html
 
    <script type="text/javascript" src="_static/jquery.js"></script>
@@ -48,7 +46,6 @@ et la commande *HTML* ``<script type="text/javascript">...</script>"``.
 
 On en génère 4, comme dans l'exemple sur la 
 `page de doc <http://omnipotent.net/jquery.sparkline/#s-docs>`_.
-
 
 .. raw:: html
 
@@ -79,7 +76,6 @@ Toujours pareil, on utilise ``.. raw:: html`` en *rST* pour inclure
 du code *HTML* (voir la source de cette page, 
 `sparkline.rst <https://bitbucket.org/lbesson/web-sphinx/src/master/sparkline.rst>`_).
 
-
 .. raw:: html
 
    <p>Inline Sparkline: <span class="inlinesparkline">1,4,4,7,5,9,10</span>.</p>
@@ -97,7 +93,6 @@ Et voilà !
 Un exemple plus sympa
 ---------------------
 On va essayer de faire un exemple plus intéressant ?
-
 
 .. raw:: html
 
@@ -154,10 +149,9 @@ On va essayer de faire un exemple plus intéressant ?
 
 Un autre exemple
 ----------------
-Un essai d'utilisation des données générées par Google Analytics
-pour afficher un petit graphique d'activité sur le site sur les derniers jours.
-
-.. 38514290
+J'ai essayer d'utiliser des données générées par Google Analytics
+pour afficher un petit graphique d'activité sur le site sur les derniers jours,
+mais sans succès :(
 
 ---------------------------------------------------------------------
 

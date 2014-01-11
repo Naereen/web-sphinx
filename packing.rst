@@ -1,9 +1,11 @@
-The Universal Packing List
-==========================
+############################
+ The Universal Packing List
+############################
+
+.. warning:: I'm *NOT* the author of this fun page
 
 Things to do before you leave
 -----------------------------
-
 To do for most trips
 ~~~~~~~~~~~~~~~~~~~~
  * Wash the dishes
@@ -20,7 +22,6 @@ To do for most trips
  * Get maps
  * Forward (or hold) delivery of newspapers and magazines
 
-
 To do for longer trips
 ~~~~~~~~~~~~~~~~~~~~~~
  * Balance your bank account
@@ -35,10 +36,8 @@ To do for longer trips
  * Hold delivery of snail mail
  * Wax boots
 
-
 Clothes
 -------
-
 Unisex clothes
 ~~~~~~~~~~~~~~
  * Underwear
@@ -46,94 +45,80 @@ Unisex clothes
  * T-shirts
  * Shorts
  * Socks
- * Trousers ( Pants, Jeans )
+ * Trousers (Pants, Jeans)
  * Sweater
- * Cap ( Hat )
-
+ * Cap (Hat)
 
 Shoes
 ~~~~~
  * Walking shoes
- * Sandals ( Flip-flops )
-
+ * Sandals (Flip-flops)
 
 Optional clothes
 ~~~~~~~~~~~~~~~~
  * Belt
  * Raincoat
  * Umbrella
- * Swimming trunks ( Bikini )
- * Pyjamas ( Pajamas )
+ * Swimming trunks (Bikini)
+ * Pyjamas (Pajamas)
  * Beach pants
  * Jewelry
 
-
 Clothes for cold weather
 ~~~~~~~~~~~~~~~~~~~~~~~~
- * Jacket ( Wind breaker )
-
+ * Jacket (Wind breaker)
 
 Money and documents
 -------------------
-
 Basic documents
 ~~~~~~~~~~~~~~~
- * Insurance certificate ( Health Insurance card )
- * Cash
- * Credit/ATM cards ( Visa, Eurocard/Mastercard, American Express etc )
+ * Insurance certificate (Health Insurance card)
+ * Cash (not too much)
+ * Credit/ATM cards (Visa, Eurocard/Mastercard, American Express etc)
  * Driver's license
  * ID card
 
-
 Optional documents
 ~~~~~~~~~~~~~~~~~~
- * International Student Identification Card ( ISIC )
+ * International Student Identification Card (ISIC)
  * Tourist organization certificate
-
 
 For carrying money and documents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Wallet
  * Paper folder
 
-
 Maps
 ~~~~
  * Small scale map
  * Large scale map
-
 
 Books
 ~~~~~
  * Novels
  * Guidebook
 
-
 Equipment
 ---------
-
 Things for packing
 ~~~~~~~~~~~~~~~~~~
- * Backpack ( Rucksack )
- * Small extra backpack ( Knap sack, Day pack )
- * Plastic bags ( Ziploc )
+ * Backpack (Rucksack)
+ * Small extra backpack (Knap sack, Day pack)
+ * Plastic bags (Ziploc®)
  * Stuff Sack
  * Luggage tags
-
 
 Things for sleeping
 ~~~~~~~~~~~~~~~~~~~
  * Sleeping bag
  * Tent
- * Sheets ( Bed covers )
+ * Sheets (Bed covers)
  * Pillowcase
  * Sleeping mattress
 
-
 Eating equipment
 ~~~~~~~~~~~~~~~~
- * Multi-tool ( Folding knife )
-
+ * Multi-tool (Folding knife)
 
 Miscellaneous equipment
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -142,24 +127,21 @@ Miscellaneous equipment
  * Sunglasses
  * Keys
 
-
 Extra things
 ~~~~~~~~~~~~
  * Extra straps
  * Safety pins
 
-
 Hygiene
 -------
-
 Hygiene
 ~~~~~~~
- * Toilet bag ( Bathroom bag, Necessaire )
+ * Toilet bag (Bathroom bag, Necessaire)
  * Razor
  * Extra blades for Razor
- * Shaving gel ( Shaving foam )
+ * Shaving gel (Shaving foam)
  * Electric shaver
- * Toothbrush ( Electric toothbrush with charger )
+ * Toothbrush (Electric toothbrush with charger)
  * Toothpaste
  * Soap
  * Soap box
@@ -171,57 +153,50 @@ Hygiene
  * Extra glasses
  * Reading glasses
 
-
 Hygiene (optional)
 ~~~~~~~~~~~~~~~~~~
  * Comb
  * Hair brush
  * Barrettes, headbands, hair ties
- * Clothes pegs ( Clothes pins )
+ * Clothes pegs (Clothes pins)
  * Laundry bag
  * Fingernail clippers
  * Moisturizer
  * Qtips
  * Tweezers
 
-
 Health
 ------
-
 General health items
 ~~~~~~~~~~~~~~~~~~~~
  * Prescription medicine
  * Condoms
- * Sore tape ( Adhesive tape )
+ * Sore tape (Adhesive tape)
  * Insect repellent
- * Band-Aids ( Plaster )
+ * Band-Aids (Plaster)
  * First aid kit
  * Water bottle
  * Water purifying filter
-
 
 Pills, tablets and medicines
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Motion sickness tablets
  * Fever tablets
  * Pain killers
- * Allergy pills ( Anti-histamines )
-
+ * Allergy pills (Anti-histamines)
 
 Electrical stuff
 ----------------
-
 General electrical items
 ~~~~~~~~~~~~~~~~~~~~~~~~
- * Smartphone ( Android, iPhone )
+ * Smartphone (Android®, iPhone®)
  * Charger to Smartphone/Cell Phone
  * Multi Power Outlet
  * Computer
  * Watch
- * Flashlight ( Torch )
+ * Flashlight (Torch)
  * Bookmark reading light
  * Extra batteries for your camera, flash, torch, watch, MP3-player and GPS
-
 
 Camera equipment
 ~~~~~~~~~~~~~~~~
@@ -231,15 +206,12 @@ Camera equipment
  * Battery charger for camera
  * Associated cables
 
-
 Generic photo equipment
 ~~~~~~~~~~~~~~~~~~~~~~~
  * Camera bag
 
-
 Mountain equipment
 ------------------
-
 Hiking equipment
 ~~~~~~~~~~~~~~~~
  * Hiking trousers

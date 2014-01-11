@@ -4,7 +4,7 @@
 
 Mon site sert aussi de blog, même si pour l'instant,
 les commentaires des lecteurs ne sont pas encore disponibles
-(mais ça arrive).
+(mais ça arrivera peut-être).
 
 But du blog
 ^^^^^^^^^^^

@@ -117,8 +117,7 @@ Exemple
     scanner des millions de pages par jour à la recherche d'adresses électroniques,
     afin d'envoyer du spam.
     Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
-    truc.machin@domain.ext et utilise plutôt un format du genre
-    truc.machin[@] ou [AT].
+    truc.machin@domain.ext et utilise plutôt un format du genre truc.machin[@] ou [AT].
     
     Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/master/.obscure_email.sh>`_
     réalise cette substitution automatiquement, pour tous les documents
@@ -160,9 +159,6 @@ Le paragraphe suivant est consacré à *mutt*, un client de messagerie en consol
 
 ------------------------------------------------------------------------------
 
-.. Courriel : pourquoi utiliser mutt ?
-.. ===================================
-
 Mutt
 ----
 J'utilise **Mut 1.5.21** pour rédiger et lire mes mails.
@@ -190,13 +186,13 @@ Le jeu de couleur fourni vient du projet `solarized
 Astuces
 ~~~~~~~
 * Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
- 
+
 * Ne stockez pas vos mots de passes en clair dans vos fichiers de configurations
   dans  `~/.mutt/` !
- 
+
 * Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/truc.muttrc`
   afin de lancer plus vite *mutt* sur un seul de vos comptes.
- 
+
 * Il est possible d'utiliser ses contacts Google pour créer un fichier
   `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
   via la touche TAB dans *mutt*, avec **goobook**.

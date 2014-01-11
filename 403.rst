@@ -3,7 +3,7 @@
 ##################################
 .. include:: .special.rst
 
-.. warning::
+.. warning:: Page d'erreur 403 !
 
    :red:`Oups, on dirait que vous avez voulu accéder à une page sans y avoir le droit.`
    
@@ -29,12 +29,14 @@
    ou en *signalant un bug* via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
    <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
    
+
 ---------------------------------------------------------------------
 
 .. sidebar:: Retourner à l'accueil
 
    Cette page n'est pas intéressante, allez plutôt consulter `celle là <index.html>`_.
    
+
 ---------------------------------------------------------------------
 
 .. image:: .error.jpg
@@ -42,5 +44,6 @@
    :align: center
    :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
    :target: index.html
+
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

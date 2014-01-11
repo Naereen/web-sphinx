@@ -11,13 +11,10 @@
 
 À-propos
 --------
+Cette page est là pour décrire les divers éléments du dossier `<publis/>`_.
 
- Cette page est là pour décrire les divers éléments du dossier
- `<publis/>`_.
-
- Ce dossier contient un certain nombre de petites publications
- (logiciels, scripts ou autres);
- ainsi que certains projets plus importants.
+Ce dossier contient un certain nombre de petites publications
+(logiciels, scripts ou autres); ainsi que certains projets plus importants.
 
 .. sidebar:: Retourner à l'accueil
 
@@ -34,8 +31,15 @@
 
 Projets
 -------
-
 Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_.
+
+`puzzle <publis/puzzle/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
+ pour le cours de programmation 2. J'avais eu 17/20.
+ Remis à neuf, et nétoyé récemment pour aider une élève en L3 d'informatique à Orsay.
+
+ :État: *Fonctionne bien* mais plus maintenu
 
 `Bomberman <publis/Bomberman/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,19 +49,19 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  :État: *À-jour.*
 
 
-`MOcamlPlot <publis/MOcamlPlot/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`MOcamlPlot <publis/MOcamlPlot.zip>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
  Propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
  et plein de trucs géniaux !
 
- :État: *N'est plus maintenu!*
+ :État: *N'est plus maintenu!* Devrait peut-être fonctionner. Mais pas sûr.
 
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon
- sûre, *typée* et amusante.
+ Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon sûre, *typée* et amusante.
+ Fonctionne *comme ça* : pas besoin d'installation (juste inclure le fichier zenity.ml et zenity.mli dans votre projet).
  Par example :
 
  .. code-block:: ocaml
@@ -68,7 +72,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
     reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
 
 
- :État: *N'est plus maintenu!*
+ :État: *N'est plus maintenu activement* mais fonctionne avec la dernière version d'OCaml (4.01.0) et de Zenity.
 
 
 `ansi-colors <publis/ansi-colors/>`_
@@ -77,7 +81,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
  et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
  Il est aussi héberger sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 
- :État: *À-jour.*
+ :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
 
 
 .. pypi-release:: ANSIColors-balises
@@ -90,11 +94,10 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan``
- en mai 2013.
+ Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan`` en mai 2013.
  Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
  toutes les différentes composantes d'un projet de programmation
- (codes, documentations, rapports, slides etc).
+ (codes, documentations, rapports, slides etc). J'avais eu 15/20.
 
  :État: *À-jour.*
 
@@ -117,8 +120,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 
 Scripts et binaires
 -------------------
- Voir la page `<bin.html>`_ pour plus de description sur les scripts et les binaires
- contenus dans le dossier `<publis/bin/>`_.
+Voir la page `<bin.html>`_ pour plus de description sur les scripts et les binaires contenus dans le dossier `<publis/bin/>`_.
 
 ---------------------------------------------------------------------
 
@@ -160,5 +162,10 @@ Divers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Un article sur `<http://questionablecontent.net>`_ pour la dernière Sauce
  (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
+
+`seminaire_crans.pdf <publis/seminaire_crans/seminaire_crans.pdf>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Les slides du séminaire sur les outils de documentation fait en Mars 2013
+ pour le `crans <http://www.crans.org>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

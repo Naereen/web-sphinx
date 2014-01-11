@@ -23,7 +23,7 @@
    ``.nanorc`` et ``$HOME/.nanorc/*.nanorc``.
 
 
-Un des sujets informatiques qui m'intéresse et m'amuse beaucoup, c'est la *coloration syntaxique*.
+Un des sujets informatiques qui m'intéressait et m'amusait beaucoup, c'est la *coloration syntaxique*.
 
 Qu'est-ce que la coloration syntaxique ?
 ----------------------------------------

@@ -2,16 +2,14 @@
  Utiliser Wolfram|Alpha (en ligne de commande)
 ###############################################
 .. include:: .special.rst
-
-.. todo:: Update this tutorial !
+.. todo:: Vérifier de temps en temps que ce tutoriel est à jour !
 
 Wolfram|Alpha ?
 ---------------
  Si vous ne connaissez pas, allez faire un tour sur la page principale,
  `www.wolframalpha.com/ <http://www.wolframalpha.com/>`_.
 
- Merci à `Romain Vernoux <http://vernoux.fr>`_
- qui m'a fait découvrir cet outil l'an dernier !
+ Merci à `Romain Vernoux <http://vernoux.fr>`_ qui m'a fait découvrir cet outil l'an dernier !
  
   * **Wolfram|Alpha** est © et ® Wolfram Research Company;
   * ``wolf`` est © `Gabriel Horner <https://github.com/cldwalker>`_;
@@ -68,7 +66,8 @@ Obtenir une clé d'application
 
      3HHP2W-UUPQUT6997
 
- .. warning:: Ceci n'est pas une clé valide !
+
+.. warning:: Ceci n'est pas une clé valide !
 
 Enregistrer la clé
 ------------------
@@ -115,6 +114,14 @@ Résoudre une équation
  
     $ wolf "x^3 - sinx = e^-x"
 
+Base de données de pokémon
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Un ajout drôle qui a fait pas mal parler de lui !
+
+ .. runblock:: console
+ 
+    $ wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
  Par exemple `<wolfram.example>`_ montre la sortie de la requette "``distance Paris Montreal``".
@@ -143,8 +150,8 @@ Faiblesse de cette méthode
 
 Un extension ?
 ^^^^^^^^^^^^^^
- On pourrait envisager de faire une extension Sphinx qui, comme `gnuplot
- <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des
- tableaux produits par *Wolfram|Alpha*.
+ On pourrait envisager de faire une extension Sphinx qui,
+ comme `gnuplot <gnuplot_embed.html>`_, permettrait d'embarquer
+ des graphiques et des tableaux produits par *Wolfram|Alpha*.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

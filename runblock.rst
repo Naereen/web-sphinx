@@ -57,6 +57,60 @@ fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
     $ LANG=en gpg --quiet -o - --armor --detach-sign runblock.rst
 
+Autres exemples
+~~~~~~~~~~~~~~~
+
+*figlet* pour afficher du texte en ASCII art :
+
+.. runblock:: console
+
+    $ LANG=en figlet "C'est  joli  non  ?"
+
+
+Mon script `<bin/series.sh>`_ permet de lire automatiquement l'épisode suivant
+d'une série télé, et utilise un fichier *~/current* pour savoir quel dossier lire :
+
+.. runblock:: console
+
+    $ echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current\`\"` :)"
+
+
+Le script `<bin/CheckDownload_Pypi.sh>`_ permet de consulter les statistiques de téléchargement
+d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/pypi/ANSIColors-balises !
+
+.. runblock:: console
+
+    $ echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :" 
+    $ ~/bin/CheckDownload_Pypi.sh | tail -n3
+
+
+État du dépôt git (montre quels fichiers sont nouveaux (*N*), modifiés (*M*) ou supprimés (*D*)) :
+
+.. runblock:: console
+
+    $ git status --porcelain 
+
+
+Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes/txt>`_) :
+
+.. runblock:: console
+
+    $ cowthink -W 160 -f /usr/share/cowsay/cows/moose.cow "Et vous trouvez ca drole ?"
+
+
+Afficher une image en ASCII :
+
+.. runblock:: console
+
+    $ convert ~/.link.png jpg:- | jp2a -b - --size=31x20
+
+Et :
+
+.. runblock:: console
+
+    $ convert ~/.link.png jpg:- | jp2a -b -
+
+
 Des ajouts
 ~~~~~~~~~~
 Dans le fichier ``conf.py``, on peut créer de nouveaux types de **runblock**,

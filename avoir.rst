@@ -135,8 +135,8 @@ Ou avec un ``<abbr class="timeago">`` :
 
    <abbr class="timeago" title="2008-07-17T09:24:17Z">July 17, 2008</abbr>
 
-Espace d'expérimentations
--------------------------
+Couleurs et styles
+------------------
 .. versionadded:: 1.4
 
 D'autres rôles (rajoutés grâce à `.special.rst <_sources/.special.txt>`_ et au travail

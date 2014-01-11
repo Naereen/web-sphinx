@@ -8,6 +8,8 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
+.. todo:: Maintenir cette page à jour !
+
 ---------------------------------------------------------------------
 
 À-propos
@@ -15,9 +17,6 @@
 
 Cette page est là pour décrire les divers **scripts JavaScript stockés dans le dépôt**
 `web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_.
-
-.. warning:: Pas à jour (il faudrait que je la reprenne un peu, pas le temps)
-
 
 Mais aussi pour **décrire chaque utilisation de JS pour de nombreuses
 petites fonctionnalités dans chacune des pages** (afficher une information différente selon
@@ -57,9 +56,6 @@ Pas les miens
 * `mousetrap.min.js <_static/mousetrap.min.js>`_ pour définir des raccourcis clavier
   (essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p', ou 'u' par exemple).
 
-* `<http://l2.io/>`_ pour afficher l'IP de l'utilisateur, et afficher un contenu "bonus"
-  seulement sur le campus de l'ENS Cachan :). :red:`Plus utilisé!`
-
 Les plugins jQuery
 ^^^^^^^^^^^^^^^^^^
 * `jquery.scrollUp.min.js <_static/jquery.scrollUp.min.js>`_ pour ajouter un bouton
@@ -69,9 +65,6 @@ Les plugins jQuery
   le défilement fluide lors du clic d'un lien **interne** à une page.
 
 * `jquery.timeago.js <_static/jquery.timeago.js>`_ (toujours en béta).
-
-* `waypoints.min.js <_static/waypoints.min.js>`_ et
-  `waypoints-sticky.js <_static/waypoints-sticky.js>`_ (toujours en béta).
 
 Pas les miens mais adaptés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -106,6 +99,5 @@ Liste (non exhaustive) des autres utilisations de JS
 * Pour utiliser le convertisseur *RSS* > *HTML* de **generateit.net** dans `<rss.html>`_...
 * Pour embarquer un graphique de progression de la traduction de Bitbucket.org sur `<transifex.fr.html>`_ et `<transifex.en.html>`_...
 * Et pour tester des choses dans `<avoir.html>`_ !
-
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

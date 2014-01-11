@@ -1,6 +1,6 @@
-#######################
- Une horloge en base 3
-#######################
+#########################
+ Une horloge *en base 3*
+#########################
 .. include:: .special.rst
 .. include:: .javascript.rst
 
@@ -8,7 +8,7 @@
 
 L'horloge
 ---------
-Cette horloge est un peu particulière : elle est en base 3 !
+Cette horloge est un peu particulière : elle est *en base 3* !
 
  * un boule blanche est **0**;
  * un boule :green:`verte` est **1**;
@@ -62,12 +62,13 @@ Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. 
 **embarquer du code** ``HTML`` dans la page produite par **Sphinx**. :navy:`C'est simple, c'est propre.`
 
 Cette page était juste la pour une démo (première intégration de ``HTML`` et ``JavaScript`` dans *Sphinx*),
-maintenant elle sert à rien.
+maintenant elle sert à rien (si ce n'est avoir une superbe horloge en base 3 :) !!).
 
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
  hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
+
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

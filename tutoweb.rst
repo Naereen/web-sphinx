@@ -2,22 +2,18 @@
  Un genre de tutoriel pour "faire du web"
 ##########################################
 
-
 Quelques conseils, et pointeurs pour commencer à faire des pages webs.
 
 Pour HTML & CSS
 ---------------
-
  * références absolues pour toutes les normes utilisées sur le web : http://www.w3schools.com/
    avec notamment des références sur CSS (http://www.w3schools.com/cssref/default.asp) et HTML (http://www.w3schools.com/tags/default.asp).
 
  * validateurs CSS (http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fperso.crans.org%2Fbesson%2Fmath.html). Tu pourra utiliser http://jigsaw.w3.org/css-validator/validator?uri=TON_URL pour vérifier si besoin les CSS des pages écrites/produites (en remplaçant TON_URL par ton url).
  * et HTML (http://validator.w3.org/check?uri=http%3a%2f%2fperso.crans.org%2fbesson%2fmath.html - cette page montre des erreurs non encore réglées dans mes pages, par exemple), idem http://validator.w3.org/check?uri=TON_URL.
 
-
 Pour générer des pages moches à partir d'autres langages
 --------------------------------------------------------
-
 HeVeA
 ^^^^^
  A partir de LaTeX, écrit en OCaml, et par un gars de l'INRIA : http://hevea.inria.fr/
@@ -38,21 +34,17 @@ Markdown
 
 Pour faire un blog
 ------------------
-
  * Tumblr,
  * Wordpess,
  * il y en a sûrement d'autres, mais je connais pas.
 
 Pour générer des pages un peu moins moches
 ------------------------------------------
-
 Moi j'utilise Sphinx (http://sphinx-doc.org) et le langage associé est rST (référence: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html).
 rST en tant que tel est un bon langage à balise, mieux que Markdown ou autre.
 
  - Exemple de source : http://perso.crans.org/besson/_sources/slides.txt
-
  - Exemple de rendu simple avec rst2html (même commande que Markdown : rst2html file.txt > file.html) : http://perso.crans.org/besson/slides.simple.html
-
  - Exemple de rendu avec Sphinx : http://perso.crans.org/besson/slides.html
 
 ----
@@ -117,19 +109,13 @@ JavaScript ou PHP
 
 Quelques derniers conseils
 --------------------------
-
  * éviter de mettre des caractères non ascii dans les noms de fichiers/dossiers.
-
  * prendre conscience des problèmes d'encodages de caractères tôt (exemple de référence: http://www.siteduzero.com/informatique/tutoriels/dynamisez-vos-sites-web-avec-javascript/resoudre-les-problemes-d-encodage).
-
  * éviter les majuscules dans les noms de fichiers/dossiers.
-
  * ne JAMAIS mettre son adresse mail ou son téléphone en clair dans n'importe quel fichier accessible en http,
    le plus simple est de mettre prenom.nom[AT]domain[DOT]fr ou un autre dans le genre,
    le mieux est de générer une image email.png qui montre ton adresse (comme http://www.text2image.com). Problème d'accessibilité pour les aveugles, pas top si tu veux avoir une page vraiment accessible. Et problème pour les gens qui naviguent en console, ou sans image.
-
  * ne jamais utiliser de contenu que tu n'as pas le droit d'utiliser, ou de distribuer des fichiers sur lesquels tu n'as aucun droit (personne ne respecte ça, et personne te dira rien même si tu utilise ta page perso pour distribuer des films piratés, mais quand même...).
-
  * être conscient que les moteurs de recherche enregistrent des captures de tes pages, au moins hebdomadairement. Donc une page pourrie que tu as supprimé pour toujours être trouvée dans les résultats de google, et vues par les utilisateurs.
    Morale de l'histoire: faire *vraiment* gaffe à ce que met et ce que tu écrit, une fois que c'est en ligne tu perd tout contrôle dessus.
 

@@ -28,7 +28,7 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 GPG = gpg --detach-sign --armor --quiet --yes
 
 total: html gpghtml images obscure send_jarvis send_zamok send_dpt check
-local: html gpghtml images obscure send_jarvis check
+local: html images send_jarvis check
 
 totalb: blog gpghtml images obscure send_jarvis send_zamok send_dpt check
 localb: blog gpghtml images obscure send_jarvis check

@@ -5,6 +5,11 @@
  reStructuredText Demonstration
 ================================
 
+.. warning:: Not written by me (Lilian Besson)
+
+   I'm a **NOT** the writer of this document !
+
+
 .. Above is the document title, and below is the subtitle.
    They are transformed from section titles after parsing.
 
@@ -522,7 +527,7 @@ Substitution Definitions
 
 An inline image (|example|) example:
 
-.. |EXAMPLE| image:: images/biohazard.png
+.. |EXAMPLE| image:: .facebook.png
 
 (Substitution definitions are not visible in the HTML source.)
 
