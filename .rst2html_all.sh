@@ -8,7 +8,7 @@
 # A simple script to generate simple HTML pages from rST sources.
 
 STYLE=".rst2html_all.css"
-RST2HTML="rst2html --date --no-source-link --quiet --warnings=/tmp/rst2html.log --language=fr --link-stylesheet --stylesheet=${STYLE}"
+RST2HTML="rst2html --report=info --halt=none --date --no-source-link --quiet --warnings=/tmp/rst2html.log --language=fr --link-stylesheet --stylesheet=${STYLE}"
 LANG="en"
 BUILDDIR=".build"
 

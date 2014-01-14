@@ -78,7 +78,7 @@ Une syntaxe encore plus concise ?
 .. versionadded:: 1.9.7
 
 Un exemple sympa
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
 ``$$code LaTeX non inliné$$`` **directement en rST** !
 

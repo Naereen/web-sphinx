@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Hey, j'ai 21 ans !!</title>
+       <link>http://besson.qc.to/iteri.html</link>
+       <description>un court article à propos des fonctions List.iteri et Array.iteri en OCaml</description>
+       <guid>http://besson.or.gs/iteri.html</guid>
+       <pubDate>Sun, 12 Jan 2014 18:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Joyeux Noël !</title>
        <link>https://fr.wikipedia.org/wiki/Noël#.C2.AB_Joyeux_No.C3.ABl_.C2.BB_dans_toutes_les_langues</link>
        <description>Enjoy !</description>
