@@ -68,6 +68,9 @@ C'est ainsi qu'en décembre 2013, nous avions perdu quelques minutes à trouver 
 et inclure un petit *"patch"* v3.12 → v4.01.0 en ajoutant *à la main* le code de List.iteri
 dans nos projets [#projet]_.
 
+En particulier, ce lien [#patch]_ montre les modifications effectuées sur mon code lors
+de la découverte de ce bug.
+
 Bref, on aurait aimé les avoir plus tôt !
 -----------------------------------------
 Voilà un titre qui résume bien le message de ce petit post.
@@ -80,9 +83,12 @@ Voilà un titre qui résume bien le message de ce petit post.
 
 .. [#listiter] :Documentation: `List.iter <http://caml.inria.fr/pub/docs/manual-ocaml/libref/List.html#VALiter>`_ dans la doc du module List;
 
-.. [#arraydiff] :Source: le `diff pour array.ml <http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/release/4.01.0/stdlib/array.ml?r1=1740&r2=1741&>`_ qui a introduit *Array.iteri* (sur le *svn* de l'INRIA),
+.. [#arraydiff] :Source: le `diff pour array.ml <http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/release/4.01.0/stdlib/array.ml?r1=1740&r2=1741&>`_ qui a introduit *Array.iteri* (sur le *svn* de l'INRIA);
 
-.. [#listdiff] :Source: le `diff pour list.ml <http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/trunk/stdlib/list.ml?r1=10761&r2=10760&pathrev=10761>`_ qui a introduit *List.iteri* (sur le *svn* de l'INRIA),
-.. [#projet] :Voir: le `rapport <http://besson.qc.to/a/m/projet/rapport.html>`_ du projet minijeu fait en décembre 2013 pour l'épreuve de modélisation de l'agrég.
+.. [#listdiff] :Source: le `diff pour list.ml <http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/trunk/stdlib/list.ml?r1=10761&r2=10760&pathrev=10761>`_ qui a introduit *List.iteri* (sur le *svn* de l'INRIA);
+
+.. [#projet] :Voir: le `rapport <http://besson.qc.to/a/m/projet/rapport.html>`_ du projet **Laby** fait en décembre 2013 pour l'épreuve de modélisation de l'agrég;
+
+.. [#patch] :Voir: le `commit <https://bitbucket.org/lbesson/agreg/diff/modelisation/projet/projet.ml?diff2=3318706bdc86&at=master>`_ rapportant la compatibilité avec OCaml v3.12.1 pour mon projet **Laby**.
 
 .. (c) Lilian Besson, 2013, https://bitbucket.org/lbesson/web-sphinx/
