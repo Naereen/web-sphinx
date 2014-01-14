@@ -50,7 +50,7 @@ errors:
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
 
-notify_archive: archive
+notify_archive: archive.7z
 	notify-send "Sphinx : archiving" "Generating archive : done ! (~/web-sphinx.tar.xz)"
 
 archive: clean
@@ -58,6 +58,12 @@ archive: clean
 	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.tar.xz
+
+archive.7z: clean
+	if [ -f ~/web-sphinx.7z ]; then mv -f ~/web-sphinx.7z ~/Dropbox/ ; fi
+	if [ -f ~/web-sphinx.7z.asc ]; then mv -f ~/web-sphinx.7z.asc ~/Dropbox/ ; fi
+	7z a -y ~/web-sphinx.7z ./ > /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
+	$(GPG) ~/web-sphinx.7z
 
 obscure:
 	@echo "Launching ./.obscure_email.sh ..."
