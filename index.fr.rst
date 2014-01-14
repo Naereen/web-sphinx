@@ -167,10 +167,7 @@ Sa documentation est hébergée sur
 `PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_.
 Son code source est hébergé sur 
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 3400 fois !
-
-.. Et enfin, des explications, des démonstrations, et une doc en français sont disponibles 
-.. `là naereencorp/tools/ansi-colors <https://sites.google.com/site/naereencorp/tools/ansi-colors/>`_.
+Actuellement, il a déjà été téléchargé plus de 4000 fois !
 
 Projet Réseau : MPRI Bomberman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -370,6 +367,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    skulpt
    ocaml
    try-ocaml
+   iteri
    gnuplot
    gnuplot.new
    ace
