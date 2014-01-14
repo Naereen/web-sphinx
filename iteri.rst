@@ -52,9 +52,9 @@ Très pratique pour éviter les boucles *for* !
 
 Deux fonctions qui ont tardées à venir
 --------------------------------------
-On constate que si *Array.iteri* a été codée en 1997 [#array]_,
+On constate que si *Array.iteri* a été codée en 1997 [#arraydiff]_,
 son équivalent pour les listes *List.iteri* n'a été ajoutée **qu'en... 2010**
-avec OCaml v4.00.1 ! (cf [#list]_)
+avec OCaml v4.00.1 ! (cf [#listdiff]_)
 
 
 Quel est le problème ?
