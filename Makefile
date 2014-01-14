@@ -2,8 +2,8 @@
 # Makefile for Sphinx web builder
 #	__author__='Lilian BESSON'
 #	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='18.1'
-#	__date__='Jeudi 10/01/2014 at 19h:16m:27s'
+#	__version__='18.2'
+#	__date__='Mardi 14/01/2014 at 19h:16m:27s'
 #	__web__='https://bitbucket.org/lbesson/web-sphinx'
 
 # You can set these variables from the command line.
@@ -18,8 +18,6 @@ PAPEROPT_letter = -D latex_paper_size=letter
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
-
-.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
 
 ###############################################################################
 # Custom items
@@ -47,6 +45,8 @@ errors:
 	@echo "Searching for errors ..."
 	@grep --color=always ERROR /tmp/sphinx.log || echo "No error : good job :)"
 
+############################ Archive builders ##################################
+
 notify:
 	notify-send "Sphinx" "Generating documentation : done !"
 
@@ -65,12 +65,15 @@ archive.7z: clean
 	time 7z u -y ~/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.7z
 
+##################### Fix perms and email addresses ###########################
+
 obscure:
 	@echo "Launching ./.obscure_email.sh ..."
 	-./.obscure_email.sh
 	@echo "Email addresses have been hiden :)"
 
 fixperms:
+	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
 	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
@@ -79,7 +82,7 @@ sitemap:
 
 ################################ GPG signs ####################################
 
-gpgrss:
+gpgrss: rss
 	$(GPG) rss.xml
 
 gpghtml: ./.gpghtml.sh
@@ -94,9 +97,13 @@ gpgpdf: pdf
 	cp -fv $(BUILDDIR)/pdf/*.pdf ./
 	PDFCompress --no-compress --no-keep --sign *.pdf
 	mv -fv ./*.pdf* $(BUILDDIR)/pdf/
-	-rm -fv $(BUILDDIR)/admin.*
+	-rm -fv $(BUILDDIR)/admin.*  $(BUILDDIR)/TODO.*
 
 ################################# Senders #####################################
+
+send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
+
+sendAll: notify_archive send
 
 scripts:
 	mkdir --parents $(BUILDDIR)/html/_static/
@@ -105,6 +112,9 @@ scripts:
 
 scripts-rec: scripts
 	-$(CP) -r scripts/* $(BUILDDIR)/html/_static/
+
+images:
+	-$(CP) .*.gif .*.png .*.jpg *.png $(BUILDDIR)/html/_images/
 
 send_pdf: fixperms
 	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
@@ -116,19 +126,12 @@ send_jarvis: fixperms
 	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 
 send_dpt: fixperms
-	-rm -vf *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	-$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
+	-$(CP) ~/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
-	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
 	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
-	-$(CP) ~/web-sphinx.tar.xz ~/web-sphinx.tar.xz.asc besson@zamok.crans.org:~/www/dl/
-
-images:
-	-$(CP) .*.gif *.gif .*.png .*.jpg *.png *.jpg $(BUILDDIR)/html/_images/
-
-send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
+	-$(CP) ~/web-sphinx.* besson@zamok.crans.org:~/www/dl/
 
 send_latexpdf: fixperms
 	-pkill gnuplot
@@ -138,8 +141,6 @@ send_latexpdf: fixperms
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
-
-sendAll: notify_archive send
 
 send_simple:
 	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html besson@zamok.crans.org:~/www/_images/
@@ -167,11 +168,11 @@ pdf: ./.pdf_all.sh
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
 compresspdf: 
-	cd $(BUILDDIR)/pdf/ ; PDFCompress --force --no-zenity --sign *pdf ; cd ../..
+	-(cd $(BUILDDIR)/pdf/ ; PDFCompress --force --no-zenity --sign *pdf ; cd ../..)
 	@echo
 	@echo "Compression finished. The PDFs files are compressed now (in $(BUILDDIR)/pdf)."
 
-rss:	gpgrss
+rss:
 	$(CP) rss.xml rss.xml.asc $(BUILDDIR)/html/
 	@echo
 	@echo "RSS flow -> in $(BUILDDIR)/html/."
@@ -190,22 +191,21 @@ slides:	.slides.sh
 	@echo "Build finished. The HTML5 + S5 slides are in $(BUILDDIR)/html."
 
 simplehtml: ./.rst2html_all.sh
-	./.rst2html_all.sh *.rst .*.rst
-	-rm $(BUILDDIR)/simplehtml/admin.*
+	-@mv -vf master.rst /tmp/
+	-./.rst2html_all.sh *.rst .*.rst
+	-@mv -vf /tmp/master.rst ./
+	-rm $(BUILDDIR)/simplehtml/admin.* $(BUILDDIR)/simplehtml/TODO.*
 
+# Deprecated
 rst2pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) $(BUILDDIR)/pdf
 	@echo
 	@echo "Build finished. The PDF files are in $(BUILDDIR)/pdf."
 
+# Inutile
 hieroglyph:
 	$(SPHINXBUILD) -b slides $(ALLSPHINXOPTS) $(BUILDDIR)/slides 2>&1
 	@echo "Build finished. The HTML slides are in $(BUILDDIR)/slides."
-
-hashlong: ./.hashlong.sh
-	./.hashlong.sh
-	@echo
-	@echo ".templates/hashlong.html updated."
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
@@ -223,18 +223,38 @@ blog:   mkblog
 	@echo
 	@echo "Build finished. The HTML pages for the blog are in blog/html."
 
-coverage:
-	$(SPHINXBUILD) -b coverage $(ALLSPHINXOPTS) $(BUILDDIR)/coverage
+# FIXME: ne doit plus marcher. De toutes façons, ne sert à rien
+epub:
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
 	@echo
-	@echo "Build finished. The coverage pages are in $(BUILDDIR)/coverage."
+	@echo "Build finished. The epub file is in $(BUILDDIR)/epub."
 
-
-spelling:
-	mv -f -v ./gnuplot_embed.rst /tmp/
-	$(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(BUILDDIR)/spelling
-	mv -f -v /tmp/ ./gnuplot_embed.rst
+latex:
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo
-	@echo "Spelling checker messages written to $(BUILDDIR)/spelling."
+	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex."
+	@echo "Run 'make' in that directory to run these through (pdf)latex" \
+	      "(use 'make latexpdf' here to do that automatically)."
+
+latexpdf:
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
+	@echo "Running LaTeX files through pdflatex..."
+	$(MAKE) -C $(BUILDDIR)/latex all-pdf clean
+	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
+	-pkill gnuplot
+
+changes:
+	-mv -vf gnuplot_embed.rst /tmp/
+	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes
+	-mv -vf /tmp/gnuplot_embed.rst ./
+	@echo
+	@echo "The overview file is in $(BUILDDIR)/changes."
+
+linkcheck:
+	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck | tee linkcheck.log
+	@echo
+	@echo "Link check complete; look for any errors in the above output " \
+	      "or in $(BUILDDIR)/linkcheck/output.txt."
 
 #################################### Help #####################################
 
@@ -277,115 +297,5 @@ helpbuild:
 	@echo "  gpgrss     to sign and send the RSS file (rss.xml)"
 	@echo "  gpglatex   to make LaTeX files and run them through pdflatex"
 	@echo "  gpgpdf     to make PDF files directly with rst2pdf"
-	@echo "  epub       to make an epub"
-	@echo "  gettext    to make PO message catalogs"
+	@echo "  linkcheck  to test every links in the sources"
 	@echo "  changes    to make an overview of all changed/added/deprecated items"
-
-################################# Old Stuff ###################################
-
-dirhtml:
-	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
-	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/dirhtml."
-
-singlehtml:
-	$(SPHINXBUILD) -b singlehtml $(ALLSPHINXOPTS) $(BUILDDIR)/singlehtml
-	@echo
-	@echo "Build finished. The HTML page is in $(BUILDDIR)/singlehtml."
-
-pickle:
-	$(SPHINXBUILD) -b pickle $(ALLSPHINXOPTS) $(BUILDDIR)/pickle
-	@echo
-	@echo "Build finished; now you can process the pickle files."
-
-json:
-	$(SPHINXBUILD) -b json $(ALLSPHINXOPTS) $(BUILDDIR)/json
-	@echo
-	@echo "Build finished; now you can process the JSON files."
-
-htmlhelp:
-	$(SPHINXBUILD) -b htmlhelp $(ALLSPHINXOPTS) $(BUILDDIR)/htmlhelp
-	@echo
-	@echo "Build finished; now you can run HTML Help Workshop with the" \
-	      ".hhp project file in $(BUILDDIR)/htmlhelp."
-
-qthelp:
-	$(SPHINXBUILD) -b qthelp $(ALLSPHINXOPTS) $(BUILDDIR)/qthelp
-	@echo
-	@echo "Build finished; now you can run "qcollectiongenerator" with the" \
-	      ".qhcp project file in $(BUILDDIR)/qthelp, like this:"
-	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/LilianBessonontheweb.qhcp"
-	@echo "To view the help file:"
-	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/LilianBessonontheweb.qhc"
-
-devhelp:
-	$(SPHINXBUILD) -b devhelp $(ALLSPHINXOPTS) $(BUILDDIR)/devhelp
-	@echo
-	@echo "Build finished."
-	@echo "To view the help file:"
-	@echo "# mkdir -p $$HOME/.local/share/devhelp/LilianBessonontheweb"
-	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/LilianBessonontheweb"
-	@echo "# devhelp"
-
-epub:
-	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
-	@echo
-	@echo "Build finished. The epub file is in $(BUILDDIR)/epub."
-
-latex:
-	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
-	@echo
-	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex."
-	@echo "Run 'make' in that directory to run these through (pdf)latex" \
-	      "(use 'make latexpdf' here to do that automatically)."
-
-latexpdf:
-	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
-	@echo "Running LaTeX files through pdflatex..."
-	$(MAKE) -C $(BUILDDIR)/latex all-pdf clean
-	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
-	-pkill gnuplot
-
-text:
-	$(SPHINXBUILD) -b text $(ALLSPHINXOPTS) $(BUILDDIR)/text
-	@echo
-	@echo "Build finished. The text files are in $(BUILDDIR)/text."
-
-man:
-	$(SPHINXBUILD) -b man $(ALLSPHINXOPTS) $(BUILDDIR)/man
-	@echo
-	@echo "Build finished. The manual pages are in $(BUILDDIR)/man."
-
-texinfo:
-	$(SPHINXBUILD) -b texinfo $(ALLSPHINXOPTS) $(BUILDDIR)/texinfo
-	@echo
-	@echo "Build finished. The Texinfo files are in $(BUILDDIR)/texinfo."
-	@echo "Run 'make' in that directory to run these through makeinfo" \
-	      "(use 'make info' here to do that automatically)."
-
-info:
-	$(SPHINXBUILD) -b texinfo $(ALLSPHINXOPTS) $(BUILDDIR)/texinfo
-	@echo "Running Texinfo files through makeinfo..."
-	make -C $(BUILDDIR)/texinfo info
-	@echo "makeinfo finished; the Info files are in $(BUILDDIR)/texinfo."
-
-gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
-	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
-
-changes:
-	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes
-	@echo
-	@echo "The overview file is in $(BUILDDIR)/changes."
-
-linkcheck:
-	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck
-	@echo
-	@echo "Link check complete; look for any errors in the above output " \
-	      "or in $(BUILDDIR)/linkcheck/output.txt."
-
-doctest:
-	$(SPHINXBUILD) -b doctest $(ALLSPHINXOPTS) $(BUILDDIR)/doctest
-	@echo "Testing of doctests in the sources finished, look at the " \
-	      "results in $(BUILDDIR)/doctest/output.txt."

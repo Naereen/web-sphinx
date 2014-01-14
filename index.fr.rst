@@ -136,7 +136,7 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 #. Les slides de la soutenance finale sont disponibles `slidesL3Maths12.pdf <publis/slidesL3Maths12.pdf>`_,
 #. Une archive contenant certains codes sources *(distribués sous licence GPL)*
    de nos simulations (en ``C``, et en ``CUDA``)
-  est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
+   est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 
 :Notes: Nous (Sophie, Maxime et moi) avions obtenu 17/20 pour nos travaux.
@@ -369,7 +369,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    try-ocaml
    iteri
    gnuplot
-   gnuplot.new
    ace
    transifex.fr
    wolfram

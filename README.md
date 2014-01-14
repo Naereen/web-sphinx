@@ -1,8 +1,8 @@
 Web Pages Sphinx
 ================
 
-The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.3*.
-Currently this *projet* is in version *1.9.9* (*public* release) !
+The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.3a*.
+Currently this *projet* is in version *2.0* (*alpha* release) !
 
 Where are those pages ?
 -----------------------

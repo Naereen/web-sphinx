@@ -72,7 +72,7 @@ d'une série télé, et utilise un fichier *~/current* pour savoir quel dossier 
 
 .. runblock:: console
 
-    $ echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current\`\"` :)"
+    $ echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
 
 
 Le script `<bin/CheckDownload_Pypi.sh>`_ permet de consulter les statistiques de téléchargement
@@ -88,7 +88,7 @@ d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/p
 
 .. runblock:: console
 
-    $ git status --porcelain 
+    $ git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
 
 
 Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes/txt>`_) :
@@ -102,13 +102,13 @@ Afficher une image en ASCII :
 
 .. runblock:: console
 
-    $ convert ~/.link.png jpg:- | jp2a -b - --size=31x20
+    $ convert ~/.link.png jpg:- | jp2a -b - --size=31x20 | recode utf8..tex | iconv -c -s -t ascii
 
 Et :
 
 .. runblock:: console
 
-    $ convert ~/.link.png jpg:- | jp2a -b -
+    $ convert ~/.link.png jpg:- | jp2a -b - | recode utf8..tex | iconv -c -s -t ascii
 
 
 Des ajouts
@@ -117,7 +117,12 @@ Dans le fichier ``conf.py``, on peut créer de nouveaux types de **runblock**,
 
 Il faut d'abord créér un dictionnaire vide appelé ``autorun_languages``.
 
-Et ensuite :
+.. code-block:: python
+
+   autorun_languages = {}
+
+Et ensuite ajouté une valeur 'truc' et 'truc_prefix_chars' pour rendre
+utilisable la balise ``.. code-block:: truc`` :
 
 .. code-block:: python
 
@@ -128,15 +133,17 @@ ocaml
 ^^^^^
 .. runblock:: ocaml
 
-    # let rec f = function 0 -> 1 | n -> n *( f (n-1)) in
+    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
     # print_int (f 11);;
+    # Printf.printf "\n        OCaml version %s" Sys.ocaml_version;;
 
 
 ocaml-stdin
 ^^^^^^^^^^^
 .. runblock:: ocaml-stdin
 
-    # let rec f = function 0 -> 1 | n -> n *( f (n-1)) in
+    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
     # print_int (f 11);;
+    # Printf.printf "\n        OCaml version %s" Sys.ocaml_version;;
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
