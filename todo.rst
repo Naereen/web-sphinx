@@ -25,16 +25,26 @@ TODO génériques
 Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
+.. todo:: Thème responsive ?
+
+   Adapter le thème pour le faire responsive
+   (afin de mieux gérer les appareils mobiles notamment).
+   En particulier, enlever la largeur fixe de la barre latérale verticale !
+   Désactiver GG Translate, forkit, noty, mousetrap, nprogress, smoothscroll et scrollup sur mobile !
+   Vérifier si toutes les petites images ne peuvent plus être optimisées ?
+
+
 .. todo:: Voir https://github.com/manuels/texlive.js ?
 
-.. todo:: Terminer l'intégration d'ACE aux toplevels Skulpt et OCaml.
+.. todo:: Terminer l'intégration d'ACE aux toplevels Skulpt, Python, GNUPlot et OCaml !
 
 .. todo:: Installer un Blog (`<http://besson.qc.to/blog/>`_) avec Tinkerer
 
    Un script pour automatiquement ajouter l'entrée dans blog/index.html.
    Il faut trier les articles par blog/annee/mois/jour/titre/.
    
-   Objectif: actualiser le blog par mail ou texto (pas ssh).
+   :Objectif: actualiser le blog par mail ou texto (pas ssh).
+ 
    Réfléchir: un cron qui lit les mails, en cherche un commençant par [blog] envoyé par moi,
    et ajoute le contenu du mail comme nouvel article.
    
