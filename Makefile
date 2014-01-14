@@ -60,9 +60,9 @@ archive: clean
 	$(GPG) ~/web-sphinx.tar.xz
 
 archive.7z: clean
-	if [ -f ~/web-sphinx.7z ]; then mv -f ~/web-sphinx.7z ~/Dropbox/ ; fi
-	if [ -f ~/web-sphinx.7z.asc ]; then mv -f ~/web-sphinx.7z.asc ~/Dropbox/ ; fi
-	time 7z a -y ~/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
+	#if [ -f ~/web-sphinx.7z ]; then mv -f ~/web-sphinx.7z ~/Dropbox/ ; fi
+	#if [ -f ~/web-sphinx.7z.asc ]; then mv -f ~/web-sphinx.7z.asc ~/Dropbox/ ; fi
+	time 7z u -y ~/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.7z
 
 obscure:

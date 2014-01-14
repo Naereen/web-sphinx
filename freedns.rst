@@ -2,7 +2,6 @@
  FreeDNS : un service web pour le moins “intéressant”
 ######################################################
 .. include:: .special.rst
-
 .. warning:: Style familier !
 
    J'utilise dans cette page un style plus "oral" que dans le reste de ce site.
@@ -10,7 +9,6 @@
 
 FreeDNS ?
 ---------
-
  Allez voir ici : `<http://freedns.afraid.org/>`_ !
 
  En bref, ça permet, à n'importe qui, d'obtenir un nom de domaine (sous-domaine en fait)
@@ -23,28 +21,25 @@ FreeDNS ?
  Enfin, l'occasion ne s'est pas encore présenté.
 
  Quand j'aurais des milliers de fan, je leur demanderai si "besson.qc.to" est plus
- simple à retenir que "perso.crans.org/besson"...
- **Ou pas !**
+ simple à retenir que "perso.crans.org/besson"...  **Ou pas !**
 
- Bref, c'est pas super crucial.
- → La page d'accueil est `par là <index.html>`_ !
+ Bref, c'est pas super crucial. → La page d'accueil est `par là <index.html>`_ !
 
 Liste des sous-domaines que j'utilise
 -------------------------------------
-
  * `besson.qc.to <http://besson.qc.to>`_ 
-    vers http://perso.crans.org/besson;
+    vers http://perso.crans.org/besson (pages perso). Le plus utilisé !
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson;
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson (autre page perso, identique);
 
  * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_
-    vers https://bitbucket.org/lbesson/;
+    vers https://bitbucket.org/lbesson/ (mes dépôts git);
 
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
-    vers http://perso.crans.org/besson/cv.pdf en mode :red:`cloak`;
+    vers http://perso.crans.org/besson/cv.pdf en mode :red:`cloak` (moche);
 
- * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélerer l'accès,
+ * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélérer l'accès,
    comme par exemple `<http://besson.or.gs/bin/pdflatex>`_..
 
 
@@ -54,9 +49,15 @@ Liste des sous-domaines que j'utilise
    Bien sûr, je pourrais faire d'autres comptes au besoin...
    Donc non.
 
+dot.tk
+------
+Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:`cloak`) :
+
+ * `naereen.tk <http://naereen.tk>`_ miroir pour ce site;
+ * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_).
+
 À l'origine de cette idée farfelue
 ----------------------------------
-
  Un camarade de l'ÉNS qui a utilisé ce service, pour faire pointer *tan.uk.to*
  vers son serveur, qui émule le comportement du site local (au Cr@ns) **tanuki**.
 
@@ -67,16 +68,16 @@ Liste des sous-domaines que j'utilise
 
 À propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
-
 :blink:`Cette page ne sert à rien !`
 
 Cette page permet seulement d'avoir au moins vers freedns.afraid.org
 sur une de mes pages.
 
-Pourquoi ? Principalement parce que le principal responsable le demande :
+Pourquoi ? Principalement parce que le développeur à l'origine de ce service le demande :
    
     If you could place a small text link somewhere on your site to http://freedns.afraid.org/ named "Free DNS" it would be greatly appreciated, to help raise search engine rankings and bring more users to the site, even if you don't think your site gets much traffic it would still help!
 
     --- Josh
+
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
