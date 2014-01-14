@@ -7,7 +7,7 @@
  * :copyright: Copyright 2007-2013 by the Sphinx team, see AUTHORS.
  * :license: BSD, see LICENSE for details.
  *
- * Modified by Lilian BESSON, (c) 2013
+ * Modified by Lilian BESSON, (c) 2013-2014
  *
  */
 
@@ -15,29 +15,6 @@
 
 div.clearer {
     clear: both;
-}
-
-/* -- a test FIXME ----------------------------------------------------------- */
-div.will-be-sticky {
- /*   padding: 10px 5px 0 10px;
-    float: left;
-    width: 230px;
-    margin-left: -100%;
-    font-size: 90%;
-    bottom: 340px;
- */
-}
-div.will-be-sticky.stuck {
-  /*  position: fixed; */
-}
-div.is-sticky {
- /*   padding: 10px 5px 0 10px;
-    float: left;
-    width: 230px;
-    font-size: 90%;
-    bottom: 240px;
-    position: fixed;
- */
 }
 
 /* -- href with extra properties -------------------------------------------- */
@@ -116,7 +93,7 @@ a[href^="https"]:after {
     top: -7px;
 }
 
-a[href$="png"]:after,
+/*a[href$="png"]:after,
 a[href$="jpg"]:after,
 a[href$="gif"]:after,
 a[href$="JPG"]:after,
@@ -128,7 +105,7 @@ a[href$="jepg"]:after {
     font-weight: normal;
     position: relative;
     top: -7px;
-}
+}*/
 
 a[class*="image"]:after{ content:""; }
 
@@ -141,92 +118,86 @@ div.related {
     top: 0;
     z-index: 100;
 }
+    div.related h3 {
+        display: none;
+    }
 
-div.related h3 {
-    display: none;
-}
+    div.related ul {
+        margin: 0;
+        padding: 0 0 0 10px;
+        list-style: none;
+    }
 
-div.related ul {
-    margin: 0;
-    padding: 0 0 0 10px;
-    list-style: none;
-}
+    div.related li {
+        display: inline;
+    }
 
-div.related li {
-    display: inline;
-}
-
-div.related li.right {
-    float: right;
-    margin-right: 5px;
-}
-
-div.related.stuck {
-    position:   fixed;
-    top:        0;
-}
+    div.related li.right {
+        float: right;
+        margin-right: 5px;
+    }
 
 /* -- sidebar --------------------------------------------------------------- */
+/* BETA responsive j'aimerais pouvoir faire apparaître la sidebar en slidant de gauche → droite
+(comme l'appli Google Play) sur petit écran
+Première étape: la cacher ! (ou la mettre au fond)
+Seconde étape: Désactiver GG Translate, forkit, noty, mousetrap, nprogress, smoothscroll et scrollup sur mobile ! */
 
 div.sphinxsidebarwrapper {
     padding: 10px 5px 0 10px;
-    direction:ltr; /* Left To Right, WARNING */
+    direction: ltr; /* Left To Right, WARNING */
 }
 
 div.sphinxsidebar {
     float: left;
     top: 31px; /* Change this if horizontal top bar is not sticky. */
-    width: 230px;
-  /*  margin-left: -100%; */ /* Disable if not making scrollable sidebar */
+    width: 230px;  /* BETA responsive */
+/*  margin-left: -100%; */ /* Disable if not making scrollable sidebar */
     font-size: 90%;
     margin-left: 0;
-  /* float: none; */
-/* Make the sidebar scrollable */
-   /* height: calc(100% - 60px); */
-   /* height: 85%; */
+/*  float: none; */
+/*  Make the sidebar scrollable */
+/*  height: calc(100% - 60px); */
+/*  height: 85%; */
     bottom: 0px;
-    direction:rtl; /* Right To Left, WARNING */
-    overflow-y: auto !important;
+    direction: rtl; /* Right To Left, WARNING */
+    overflow-y: auto !important;  /* BETA responsive */
     position: fixed;
-    overflow-x: hidden;
+    overflow-x: hidden;  /* BETA responsive */
 }
 
-div.sphinxsidebar.stuck {
-    position: fixed;
-}
+    div.sphinxsidebar ul {
+        list-style: none;
+    }
 
-div.sphinxsidebar ul {
-    list-style: none;
-}
+    div.sphinxsidebar ul ul,
+    div.sphinxsidebar ul.want-points {
+        margin-left: 20px;
+        list-style: square;
+    }
 
-div.sphinxsidebar ul ul,
-div.sphinxsidebar ul.want-points {
-    margin-left: 20px;
-    list-style: square;
-}
+    div.sphinxsidebar ul ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 
-div.sphinxsidebar ul ul {
-    margin-top: 0;
-    margin-bottom: 0;
-}
+    div.sphinxsidebar form {
+        margin-top: 10px;
+    }
 
-div.sphinxsidebar form {
-    margin-top: 10px;
-}
+    div.sphinxsidebar input {
+        border: 1px solid #98dbcc;
+        font-family: sans-serif;
+        font-size: 1em;
+    }
 
-div.sphinxsidebar input {
-    border: 1px solid #98dbcc;
-    font-family: sans-serif;
-    font-size: 1em;
-}
+    div.sphinxsidebar #searchbox input[type="text"] {
+        width: 170px; /* BETA responsive */
+    }
 
-div.sphinxsidebar #searchbox input[type="text"] {
-    width: 170px;
-}
-
-div.sphinxsidebar #searchbox input[type="submit"] {
-    width: 30px;
-}
+    div.sphinxsidebar #searchbox input[type="submit"] {
+        width: 30px;
+    }
 
 img {
     border: 0;
@@ -241,7 +212,6 @@ ul.search {
 
 ul.search li {
     padding: 5px 0 5px 20px;
-    /* background-image: url('file.png');*/
     background-repeat: no-repeat;
     background-position: 0 7px;
 }
@@ -399,7 +369,7 @@ div.sidebar {
     border: 1px solid #ddb;
     padding: 7px 7px 0 7px;
     background-color: #ffe;
-    width: 40%;
+    width: 30%; /* NEW */
     float: right;
     /* margin-left: 0;
     position: fixed;
