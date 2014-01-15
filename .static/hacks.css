@@ -31,18 +31,30 @@
   .line	{text-decoration: line-through}
   .it		{font-style: italic}
   .ob		{font-style: oblique}
+
 /* Style pour les badges en bas de la page. */
   div#supportBadges { margin:1em; text-align:center; }
     #supportBadges ul { padding:0; display:inline; }
     #supportBadges li { display:inline; }
     #supportBadges a { margin-right:1px; opacity:0.6; }
     #supportBadges a:hover { opacity:1; }
+
 /* Image style for scrollUp jQuery plugin */
 #scrollUpLeft {
 	bottom: 50px; left:   212px;
 	height: 38px; width:  38px;
 	background: url('http://perso.crans.org/besson/_images/.top.png');
 }
+
+/* BETA responsive */
+@media (max-width: 680px){
+  #scrollUpLeft {
+    left: auto;
+    right:   6px;
+    bottom: 6px;
+  }
+}
+
 /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
 .social-icons li a.facebook {
     background-image: url('http://perso.crans.org/besson/_images/.facebook.png');
