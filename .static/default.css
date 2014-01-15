@@ -68,9 +68,9 @@ Seconde étape: Désactiver
  - scrollup DONE
 sur mobile ! */
 @media (max-width: 680px){
-    body, div.body {
+    /*body, div.body {
         overflow-x: auto;
-    }
+    }*/
     div.bodywrapper {
         margin: 0 0 0 0;
     }
@@ -82,7 +82,12 @@ sur mobile ! */
     div.sphinxsidebar {
         width: 90%;
         position: relative;
-        overflow-x: auto;
+        /*overflow-x: auto;*/
+    }
+    div.sidebar {
+        float: none;
+        position: relative;
+        width: 98%;
     }
 }
 /* Fin BETA responsive */

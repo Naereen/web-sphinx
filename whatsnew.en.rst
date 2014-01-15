@@ -1,6 +1,6 @@
 .. raw:: html
 
-   <div class="sidebar" style="font-size:80%; width: 30%;">
+   <div class="sidebar" style="font-size:80%;">
    <p class="first sidebar-title">What’s new here ?</p>
    <ol class="last arabic simple">
    <li><a class="internal reference" href="iteri.html">iteri.html</a> a short article (in French) about List.iteri and Array.iteri in OCaml</li>
