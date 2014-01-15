@@ -10,6 +10,8 @@ Le toplevel
 -----------
 .. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
 
+.. warning:: Est cassé (en ce moment) !
+
 .. raw:: html
 
    <h4>Toplevel Python 2.7.2 avec l'éditeur ACE</h4>

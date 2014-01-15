@@ -10,7 +10,7 @@ Le toplevel
 -----------
 .. raw:: html
 
-   <script type="text/javascript" src="jquery.console.js"></script>
+   <!-- <script type="text/javascript" src="jquery.console.js"></script> -->
    <div class="content">
     <div class="container">
      <div class="row">

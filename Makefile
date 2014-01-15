@@ -51,7 +51,7 @@ notify:
 	notify-send "Sphinx" "Generating documentation : done !"
 
 notify_archive: archive.7z
-	notify-send "Sphinx : archiving" "Generating archive : done ! (~/web-sphinx.tar.xz)"
+	notify-send "Sphinx : archiving" "Generating archive : done ! (~/Dropbox/web-sphinx.7z)"
 
 archive: clean
 	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
@@ -60,10 +60,8 @@ archive: clean
 	$(GPG) ~/web-sphinx.tar.xz
 
 archive.7z: clean
-	#if [ -f ~/web-sphinx.7z ]; then mv -f ~/web-sphinx.7z ~/Dropbox/ ; fi
-	#if [ -f ~/web-sphinx.7z.asc ]; then mv -f ~/web-sphinx.7z.asc ~/Dropbox/ ; fi
-	time 7z u -y ~/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
-	$(GPG) ~/web-sphinx.7z
+	time 7z u -y ~/Dropbox/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
+	$(GPG) ~/Dropbox/web-sphinx.7z
 
 ##################### Fix perms and email addresses ###########################
 

@@ -9,6 +9,8 @@
 Le toplevel
 -----------
 
+.. warning:: Est cassé (en ce moment) !
+
 .. warning::
 
    Utilise une balise ``canvas``, donc non compatible XHTML 1.0 Transitionnal !
@@ -23,8 +25,6 @@ Le toplevel
    `<index.html>`_ pour me contacter !).
 
 ------------------------------------------------------------------------------
-
-.. warning:: Pas encore bien fonctionnel... J'ai re commencé à installer ACE, mais c'est pas facile !
 
 .. raw:: html
 
