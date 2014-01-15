@@ -125,11 +125,11 @@ send_jarvis: fixperms
 
 send_dpt: fixperms
 	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	-$(CP) ~/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
+	-$(CP) ~/Dropbox/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
 	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
-	-$(CP) ~/web-sphinx.* besson@zamok.crans.org:~/www/dl/
+	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
 
 send_latexpdf: fixperms
 	-pkill gnuplot
