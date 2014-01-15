@@ -8,7 +8,6 @@
     :license: GPLv3, see LICENSE for details.
 #}
 {% extends "!layout.html" %}
-
 {% block doctype %}<!DOCTYPE html>{% endblock %}
 {% block rootrellink %}
  <li><a href="http://lbesson.bitbucket.org" title="Page principale : http://lbesson.bitbucket.org/">
@@ -25,7 +24,7 @@
 
 {% block extrahead %}
   <!-- BETA responsive -->
-  <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1, target-densitydpi=device-dpi"/>
+  <meta name="viewport" content="width=device-width, maximum-scale=2.0, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian BESSON (lbesson.bitbucket.org)" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen" />
   <!-- Dublin Core Metadata -->
@@ -41,7 +40,8 @@
         href="http://perso.crans.org/besson/rss.xml" />
   <link rel="shortcut icon" type="image/png"
         href="{{ pathto('_static/.besson.png', true)|e }}" />
-  <link rel="stylesheet" href="{{ pathto('_static/forkit.css', true)|e }}"> <!-- CSS for forkit.js -->
+  <!-- BETA responsive -->
+  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}"> <!-- CSS for forkit.js -->
   <link rel="stylesheet" href="{{ pathto('_static/buttons.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/nprogress.css', true)|e }}">
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}">
@@ -57,7 +57,7 @@
  if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit..."); };
  /* jQuery.noty plugin */
     $.noty.defaults = {
-        layout: 'bottom', theme: 'defaultTheme', type: 'alert',
+        layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
         text: 'Default <b>text</b> for a noty notification (change it !).',
         dismissQueue: true, // If you want to use queue feature set this true
         template: '<div class="noty_message"><span class="noty_text"></span><div class="noty_close"></div></div>',
@@ -98,11 +98,15 @@
 
 {% block relbaritems %}<!-- Display info if Javascipt available. -->
  <script type="text/javascript">
+ </script>
+ <script type="text/javascript">
   function writeLocationOfThePage(beforetext, aftertext, openstyletext, openstylelink) {
+   if (screen.width > 480) {
    window.document.write(beforetext + "<span style=\"" + openstyletext + "\">Page '"
     + "<a style=\"" + openstylelink + "\" title=\"Cette page\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.pathname
     + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
-    + "</a>'</span>" + aftertext)
+    + "</a>'</span>" + aftertext);
+   };
   };
   writeLocationOfThePage("<li>", "</li>", "color: grey; font-size: 100%", "color: grey; text-decoration: underline");
  </script>
@@ -128,7 +132,7 @@
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
   <!-- JavaScript (one big is quicker than many small...) -->
 <script type="text/javascript">
-if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2014."); }
+console.log("[INFO] Starting main JS content when document will be ready ! (C) Lilian BESSON, 2011-2014.");
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
@@ -160,7 +164,7 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  if (typeof console !== 'undefined') { console.log("[INFO] Sending info to Google Analytics: id=" + my_id + ", domain=" + my_domain); }
+  console.log("[INFO] Sending info to Google Analytics: id=" + my_id + ", domain=" + my_domain);
  // Smooth Scroll jQuery plugin
  $('a').smoothScroll({
   offset: -31, direction: 'top', // one of 'top' or 'left'
@@ -223,14 +227,6 @@ if (typeof console !== 'undefined') { console.log("[INFO] Starting main JS conte
 // Closing the $(document).ready call
  });
  </script>
-<!-- A short script to print parameters of the page -->
-<script type="text/javascript">
-  window.document.write("<span style=\"color: grey\">User-agent: " + navigator.userAgent + "."
-   + "</br>Taille d'écran <span style=\"color: white\">"
-   + screen.availWidth + "x" + screen.availHeight + "</span>.  ");
-  writeLocationOfThePage("", "", "color: grey; font-size: 105%", "color: grey");
-</script>
-<br/>
  <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modifications">Derniers changements</a>.
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
@@ -301,29 +297,31 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <script type="text/javascript">
   $(window).load(function(){
    setTimeout(function(){ NProgress.done(); }, 1000);
-   setTimeout(function(){ noty({
-    text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
-    buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
-          $noty.close();
-          noty({text: "<span style=\"font-weight:bold\">Normal, je code bien :)</span>"
-           + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
+   if (screen.width > 680) {
+     setTimeout(function(){ noty({
+      text: 'Cette page vous paraît-elle bien écrite ?', timeout: false, layout: "bottomRight",
+      buttons: [ // this = button element, $noty = $noty element
+        {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
+            $noty.close();
+            noty({text: "<span style=\"font-weight:bold\">Normal, je code bien :)</span>"
+             + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
+          }
+        }, 
+        {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
+            $noty.close();
+            noty({text: "<span style=\"font-weight:bold\">Oups !</span> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
+             "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
+             type: 'warning', timeout: false, onClick: function($noty){
+               $noty.close();
+               console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
+               window.open("https://bitbucket.org/lbesson/web-sphinx/issues/new");
+               return false; // still does not work !
+            } });
+          }
         }
-      }, 
-      {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
-          $noty.close();
-          noty({text: "<span style=\"font-weight:bold\">Oups !</span> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
-           type: 'warning', timeout: false, onClick: function($noty){
-             $noty.close();
-             console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
-             window.open("https://bitbucket.org/lbesson/web-sphinx/issues/new");
-             return false; // still does not work !
-          } });
-        }
-      }
-    ]
-    }) }, 3000);
+      ]
+      }) }, 3000);
+    }
   });
 </script>
 </div></div> 
