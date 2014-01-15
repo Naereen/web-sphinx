@@ -138,10 +138,6 @@ div.related {
     }
 
 /* -- sidebar --------------------------------------------------------------- */
-/* BETA responsive j'aimerais pouvoir faire apparaître la sidebar en slidant de gauche → droite
-(comme l'appli Google Play) sur petit écran
-Première étape: la cacher ! (ou la mettre au fond)
-Seconde étape: Désactiver GG Translate, forkit, noty, mousetrap, nprogress, smoothscroll et scrollup sur mobile ! */
 
 div.sphinxsidebarwrapper {
     padding: 10px 5px 0 10px;
@@ -151,14 +147,10 @@ div.sphinxsidebarwrapper {
 div.sphinxsidebar {
     float: left;
     top: 31px; /* Change this if horizontal top bar is not sticky. */
-    width: 230px;  /* BETA responsive */
+    width: 230px;
 /*  margin-left: -100%; */ /* Disable if not making scrollable sidebar */
     font-size: 90%;
     margin-left: 0;
-/*  float: none; */
-/*  Make the sidebar scrollable */
-/*  height: calc(100% - 60px); */
-/*  height: 85%; */
     bottom: 0px;
     direction: rtl; /* Right To Left, WARNING */
     overflow-y: auto !important;  /* BETA responsive */
@@ -371,9 +363,6 @@ div.sidebar {
     background-color: #ffe;
     width: 30%; /* NEW */
     float: right;
-    /* margin-left: 0;
-    position: fixed;
-    float: none; */
 }
 
 p.sidebar-title {

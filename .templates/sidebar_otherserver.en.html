@@ -29,7 +29,7 @@
         document.write("</br>On <span style=\"text-decoration:underline\"><a title=\"Only on the cr@ns nextork!\" href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
         break;
     default:
-        document.write("Error, this page is hosted on an unknown location...");
+        document.write("Error, this page is hosted on an unknown location (" + window.location.host + ").<br>");
         break;
   }
  </script>

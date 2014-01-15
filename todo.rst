@@ -38,6 +38,8 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
    Désactiver GG Translate, forkit, noty, mousetrap, nprogress, smoothscroll et scrollup sur mobile !
    Vérifier si toutes les petites images ne peuvent plus être optimisées ?
 
+   C'est en cours !
+
 
 .. todo:: Voir https://github.com/manuels/texlive.js ?
 

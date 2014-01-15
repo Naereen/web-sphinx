@@ -29,7 +29,7 @@
         document.write("Sur <span style=\"text-decoration:underline\"><a title=\"Seulement sur le campus de l'ENS Cachan!\" href=\"http://jarvis.crans.org/{{ pagename|e }}{{ file_suffix|e }}\">jarvis.crans.org</a></span>\n");
         break;
     default:
-        document.write("Error, this page is hosted on an unknown location...");
+        document.write("Erreur, cette page semble hébergée sur un serveur inconnu (" + window.location.host + ").<br>");
         break;
   }
  </script>
