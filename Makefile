@@ -60,7 +60,7 @@ archive: clean
 	$(GPG) ~/web-sphinx.tar.xz
 
 archive.7z: clean
-	time 7z u -y ~/Dropbox/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
+	time 7z a -y ~/Dropbox/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/Dropbox/web-sphinx.7z
 
 ##################### Fix perms and email addresses ###########################

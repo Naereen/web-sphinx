@@ -41,12 +41,10 @@ GNU Bash
   :État: *Terminé*, mais toujours en amélioration.
 
 
-
 * `.bash_aliases <bin/.bash_aliases>`_,
   Profil complémentaire pour GNU Bash, définition d'alias et de fonctions.
 
   :État: *Terminé*, mais en amélioration constante..
-
    
 ------------------------------------------------------------------------------
 
@@ -79,7 +77,6 @@ Wrapper colorant la sortie de commandes courantes
   :État: *Stable et performant* :red:`New!`
 
 
-
 * `CP <bin/CP>`_,
   un script colorant la sortie de ``rsync`` pour la rendre plus lisible.
   *rsync* est utilisé avec les bonnes options, pour permettre un transfert de fichier efficace,
@@ -90,19 +87,16 @@ Wrapper colorant la sortie de commandes courantes
   :État: *Stable et performant* :red:`New!`
 
 
-
 * `pdflatex <bin/pdflatex>`_,
   un script colorant la sortie de ``pdflatex`` pour la rendre plus lisible (colore ce qui est important).
 
   :État: *Stable et performant*
 
 
-
 * `chktex <bin/chktex>`_,
   un script colorant la sortie de ``chktex`` pour la rendre plus lisible (colore ce qui est important).
 
   :État: *Stable et performant*
-
 
 
 Gallerie photo et lecteur de musique
@@ -117,7 +111,6 @@ Gallerie photo et lecteur de musique
   :État: *Super*
 
 
-
 * `generatejplayer.sh <bin/generatejplayer.sh>`_ (aller voir un démo `<generatejplayer.sh/>`_ ici),
   est un script pour générer de superbes playlist pour un dossier contenant des mp3.
   Utilise des fichiers disponibles dans le dossier `<bin/generatejplayer/>`_.
@@ -125,7 +118,6 @@ Gallerie photo et lecteur de musique
   (ou n'importe quel dossier dans votre *$PATH*).
 
   :État: *Presque parfait* (toujours quelques bugs sur certains caractères spéciaux dans les URLs, supporte juste les .mp3)
-
 
 
 Utilitaires divers
@@ -138,7 +130,6 @@ Utilitaires divers
   :État: *Expérimental* mais fonctionne très bien.
 
 
-
 * `dl.sh <bin/dl.sh>`_,
   un script (modifié à chaque utilisation) pour facilement télécharger tous les documents présents sur une page web.
   Assez expérimental, car l'analyse du code HTML de la page dépend de chaque cas.
@@ -146,12 +137,10 @@ Utilitaires divers
   :État: *Expérimental*.
 
 
-
 * `gravatar.py <bin/gravatar.py>`_,
   un exemple d'utilisation simple de l'API de `gravatar <https://fr.gravatar.com/>`_.
 
   :État: *Simpliste*, mais fonctionne :).
-
 
 
 * `CheckDownload_Pypi.sh <bin/CheckDownload_Pypi.sh>`_,
@@ -161,12 +150,10 @@ Utilitaires divers
   :État: *Parfait*.
 
 
-
 * `proxy.sh <bin/proxy.sh>`_,
   un script pour lancer un serveur *SOCKS* facilement, avec une machine locale du réseau (interne) du `crans <https://www.crans.org>`_.
 
   :État: *Parfait*.
-
 
 
 * `PDFCompress <bin/PDFCompress>`_,
@@ -183,7 +170,6 @@ Utilitaires divers
   :État: *Stable et efficace*.
 
 
-
 * `series.sh <bin/series.sh>`_,
   un script pour automatiser la lecture de l'épisode suivant de la série en cours de lecture.
 
@@ -192,19 +178,16 @@ Utilitaires divers
   :État: *Superbe*.
 
 
-
 * `pytorst.sh <bin/pytorst.sh>`_,
   un script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
 
   :État: *Terminé*.
 
 
-
 * `obscureemail.sh <bin/obscureemail.sh>`_,
   un script pour cacher les adresses emails dans tous les fichiers d'un répertoire.
 
   :État: *Assez dangereux* (à manipuler avec précaution).
-
 
 
 * `save_disk_daily.sh <bin/save_disk_daily.sh>`_,
@@ -214,14 +197,12 @@ Utilitaires divers
   :État: *Terminé*.
 
 
-
 * `.color.sh <bin/.color.sh>`_,
   un script pour définir de nombreuses couleurs ANSI pour GNU Bash,
   utilisé dans de nombreux autres scripts. Automatiquement généré avec `<publis/ansi-colors/>`_.
   Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant dans votre ``$HOME``.
 
   :État: *Parfait*.
-
 
 
 * `vrun <bin/vrun>`_,
@@ -234,13 +215,11 @@ Utilitaires divers
   :État: *Terminé*.
 
 
-
 * `searchgpg.sh <bin/searchgpg.sh>`_,
   permet de rechercher dans la base de donnée de `clés GPG <gpg.html>`_ du MIT
   (serveur `<http://pgp.mit.edu:11371/pks>`_) pour un nom ou prénom.
 
   :État: *Terminé*. Plus expérimental qu'autre chose.
-
 
   :Exemple:
 
@@ -261,7 +240,6 @@ Utilitaires divers
   :État: *Trop badass* mais quand même assez expérimental.
 
 
-
 Quelques scripts pour jouer avec des citations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -271,14 +249,12 @@ Quelques scripts pour jouer avec des citations
   :État: *Stable*.
 
 
-
 * `makequotes.sh <bin/makequotes.sh>`_,
   pour construire une liste de citation 
   (une fichier texte avec une citation complète par ligne).
   Utilise `quotes.sh`. A permis de construire `<publis/.quotes.txt>`_ !
 
   :État: *Stable*.
-
 
 * `RandQuote.sh <bin/RandQuote.sh>`_,
   pour afficher une citation aléatoire (graphiquement avec *zenity*)
@@ -287,13 +263,11 @@ Quelques scripts pour jouer avec des citations
   :État: *Super cool*.
 
 
-
 * `changemotd.sh <bin/changemotd.sh>`_,
   un script pour changer le "message of the day" (motd) interactivement
   (dans le terminal avec *dialog* ou graphiquement avec *zenity*)
 
   :État: *Fonctionnel*.
-
 
 
 Pour améliorer certains toplevels
@@ -307,12 +281,10 @@ Pour améliorer certains toplevels
   :État: *Superbe*.
 
 
-
 * Dans le même genre, `iocaml <bin/iocaml>`_ et `ocm <bin/ocm>`_
   sont deux expériences pour une meilleure utilisation du terminal ``OCaml``.
 
   :État: *Plutôt expérimental*.
-
 
 
 * `.octave.sh <bin/.octave.sh>`_,
@@ -321,19 +293,16 @@ Pour améliorer certains toplevels
   :État: *Terminé*.
 
 
-
 * `.pythonrc <bin/.pythonrc>`_,
   fichier d'initialisation ``Python`` lancé au démarrage du toplevel ``Python``.
 
   :État: *Terminé*.
 
 
-
 * `.ocamlinit <bin/.ocamlinit>`_,
   fichier d'initialisation ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
 
   :État: *Inintéressant*.
-
 
 
 Manipuler l'état de l'ordinateur (volume, batterie, ..)
@@ -345,19 +314,16 @@ Manipuler l'état de l'ordinateur (volume, batterie, ..)
   :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
-
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,
   un script pour mettre l'ordinateur en veille depuis un accès ssh.
 
   :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
-
 * `Volume.sh <bin/Volume.sh>`_,
   un script pour manipuler le volume de votre ordinateur en ligne de commande.
 
   :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
-
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
