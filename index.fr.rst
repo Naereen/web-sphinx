@@ -288,8 +288,8 @@ sur ces pages là :
 
 JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Toutes les pages utilisent du JavaScript pour de nombreuses petites
-fonctionnalités. Certaines sont expliquées dans la page `<js.html>`_ (en cours de rédaction).
+Toutes les pages utilisent du JavaScript pour de nombreuses petites fonctionnalités.
+Certaines sont expliquées dans la page `<js.html>`_ (en cours de rédaction).
 Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
 `web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
 
@@ -298,27 +298,19 @@ en **JavaScript** :
 
 #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
    directement dans un navigateur web, avec un éditeur qui
-   colore l'entrée du toplevel (*marche parfaitement*) !
+   colore l'entrée du toplevel (:red:`cassé en ce moment`) !
 #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
-   directement dans un navigateur web (*toujours en développement*),
+   directement dans un navigateur web (:red:`cassé en ce moment`) !
    avec un genre d'interface *graphique* (module ``Turtle`` disponible).
 #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
-   directement dans un navigateur web **:)** !
+   directement dans un navigateur web !
+   Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
 #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
-   avec quelques lessons (interactives), en anglais ou français.
+   avec quelques lessons (interactives). Propose désormais une implémentation *in-the-browser* du module ``Graphics`` !
 #. `<gnuplot.html>`_, une boucle `REPL <https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>`_
    pour ``GNU Plot``, *i.e.* une évaluation instantannée dès que la zone de texte est changée.
 #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
    pour l'instant **ne supporte pas** l'enregistrement.
-
-
-Des slides en **rST**
-^^^^^^^^^^^^^^^^^^^^^
-J'ai expérimenté un outil pour réaliser des slides en **rST** :
-
- * `<slides.html>`_ (page intégrée au rendu via Sphinx);
- * `<slides.simple.html>`_ (page sobre);
- * `<slides.s5.html>`_ (slide, créé avec ``rst2s5``).
 
 Flux RSS
 ^^^^^^^^^
