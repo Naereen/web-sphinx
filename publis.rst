@@ -37,7 +37,7 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
  Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
  pour le cours de programmation 2. J'avais eu 17/20.
- Remis à neuf, et nétoyé récemment pour aider une élève en L3 d'informatique à Orsay.
+ Remis à neuf, et nettoyé récemment pour aider une élève en L3 d'informatique à Orsay.
 
  :État: *Fonctionne bien* mais plus maintenu
 

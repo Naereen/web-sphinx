@@ -104,11 +104,11 @@ Afficher une image en ASCII :
 
     $ convert ~/.link.png jpg:- | jp2a -b - --size=31x20 | recode utf8..tex | iconv -c -s -t ascii
 
-Et :
+Et la mÃme en plus gros :
 
 .. runblock:: console
 
-    $ convert ~/.link.png jpg:- | jp2a -b - | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.png jpg:- | jp2a -b - --size=93x60 | recode utf8..tex | iconv -c -s -t ascii
 
 
 Des ajouts
@@ -135,7 +135,7 @@ ocaml
 
     # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
     # print_int (f 11);;
-    # Printf.printf "\n        OCaml version %s" Sys.ocaml_version;;
+    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
 
 ocaml-stdin
@@ -144,6 +144,6 @@ ocaml-stdin
 
     # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
     # print_int (f 11);;
-    # Printf.printf "\n        OCaml version %s" Sys.ocaml_version;;
+    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
