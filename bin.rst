@@ -225,7 +225,7 @@ Utilitaires divers
 
   .. runblock:: console
   
-      $ searchgpg.sh zelda 2>&1
+      $ searchgpg_nocolor.sh zelda 2>&1
 
 
 * `randomgifts.sh <bin/randomgifts.sh>`_,

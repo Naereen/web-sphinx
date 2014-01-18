@@ -108,7 +108,7 @@ Et la m√me en plus gros :
 
 .. runblock:: console
 
-    $ convert ~/.link.png jpg:- | jp2a -b - --size=93x60 | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.png jpg:- | jp2a -b - --size=62x30 | recode utf8..tex | iconv -c -s -t ascii
 
 
 Des ajouts
