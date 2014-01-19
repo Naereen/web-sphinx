@@ -14,20 +14,30 @@ La première directive est ``..runblock:: pycon``.
 Elle fait appel à **Python**, mais utilise la syntaxe d'une session
 interactive de l'intérpreteur.
 
-Par exemple, le code suivant : ::
+Par exemple, le code suivant :
 
-    .. runblock:: pycon
+.. code-block:: rst
 
-       >>> for i in range(5):
-       ...  print i
+   .. runblock:: pycon
+
+      >>> for i in range(5):
+      ...  print i
 
 
 produira la sortie suivante :
 
 .. runblock:: pycon
    
-    >>> for i in range(5):
-    ...  print i
+   >>> for i in range(5):
+   ...  print i
+
+
+On peut aussi vérifier la version de Python utilisée par l'extension :
+
+.. runblock:: pycon
+
+   >>> import sys
+   >>> print(sys.version)
 
 
 **Mais**, cette extension **runcode** permet aussi de faire plus !
@@ -104,7 +114,8 @@ Afficher une image en ASCII :
 
     $ convert ~/.link.png jpg:- | jp2a -b - --size=31x20 | recode utf8..tex | iconv -c -s -t ascii
 
-Et la m�me en plus gros :
+
+Et la même en plus gros :
 
 .. runblock:: console
 
@@ -113,24 +124,27 @@ Et la m�me en plus gros :
 
 Des ajouts
 ~~~~~~~~~~
-Dans le fichier ``conf.py``, on peut créer de nouveaux types de **runblock**,
+Dans le fichier `conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py>`_,
+on peut facilement créer des raccourcis pour faciliter l'unilisation de cette extension **runblock**.
 
-Il faut d'abord créér un dictionnaire vide appelé ``autorun_languages``.
+Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages``.
 
 .. code-block:: python
 
    autorun_languages = {}
 
-Et ensuite ajouté une valeur 'truc' et 'truc_prefix_chars' pour rendre
-utilisable la balise ``.. code-block:: truc`` :
+Et ensuite ajouté une valeur 'truc' (commande shell) et 'truc_prefix_chars' (taille des préfixes)
+pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en *rST*.
 
 .. code-block:: python
 
-    autorun_languages['ocaml'] = u'ocaml -init /dev/null'
-    autorun_languages['ocaml_prefix_chars'] = 2
+   autorun_languages['ocaml'] = u'ocaml -init /dev/null'
+   autorun_languages['ocaml_prefix_chars'] = 2
 
 ocaml
 ^^^^^
+Affiche le message de bienvenue et les ": unit = ()". Plutôt pénible.
+
 .. runblock:: ocaml
 
     # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
@@ -140,6 +154,8 @@ ocaml
 
 ocaml-stdin
 ^^^^^^^^^^^
+N'affiche plus ces messages inutiles, mais plus de coloration syntaxique. Zut !
+
 .. runblock:: ocaml-stdin
 
     # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
