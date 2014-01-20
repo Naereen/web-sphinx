@@ -20,24 +20,24 @@ Par exemple, le code suivant :
 
    .. runblock:: pycon
 
-      >>> for i in range(5):
-      ...  print i
+       >>> for i in range(5):
+       ...  print i
 
 
 produira la sortie suivante :
 
 .. runblock:: pycon
    
-   >>> for i in range(5):
-   ...  print i
+    >>> for i in range(5):
+    ...  print i
 
 
 On peut aussi vérifier la version de Python utilisée par l'extension :
 
 .. runblock:: pycon
 
-   >>> import sys
-   >>> print(sys.version)
+    >>> import sys
+    >>> print(sys.version)
 
 
 **Mais**, cette extension **runcode** permet aussi de faire plus !
@@ -138,8 +138,8 @@ pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en 
 
 .. code-block:: python
 
-   autorun_languages['ocaml'] = u'ocaml -init /dev/null'
-   autorun_languages['ocaml_prefix_chars'] = 2
+    autorun_languages['ocaml'] = u'ocaml -init /dev/null'
+    autorun_languages['ocaml_prefix_chars'] = 2
 
 ocaml
 ^^^^^
