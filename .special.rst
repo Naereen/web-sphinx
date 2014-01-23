@@ -28,6 +28,9 @@
 .. role:: it
 .. role:: ob
 
+.. role:: small
+.. role:: large
+
 .. role:: center
 .. role:: left
 .. role:: right
