@@ -23,9 +23,17 @@
       </image>
 
       <item>
+       <title>bin/CP !</title>
+       <link>http://besson.qc.to/bin/CP</link>
+       <description>Un petit script pour colorer la sortie du très pratique rsync (utilitaire en ligne de commande pour copier des fichiers, localement et via le réseau)</description>
+       <guid>http://besson.or.gs/bin/CP</guid>
+       <pubDate>Thu, 21 Jan 2014 10:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Hey, j'ai 21 ans !!</title>
        <link>http://besson.qc.to/iteri.html</link>
-       <description>un court article à propos des fonctions List.iteri et Array.iteri en OCaml</description>
+       <description>Un court article à propos des fonctions List.iteri et Array.iteri en OCaml</description>
        <guid>http://besson.or.gs/iteri.html</guid>
        <pubDate>Sun, 12 Jan 2014 18:03:43 GMT</pubDate>
       </item>
@@ -54,7 +62,7 @@ Que répondre à ça ;) ?
       </item>
 
       <item>
-       <title>Projet de modélisation en OCaml : soutenance terminée ! On attend la note !</title>
+       <title>Projet de modélisation en OCaml : soutenance terminée ! J'ai eu 19 !</title>
        <link>http://besson.qc.to/agreg/modelisation/projet/rapport.html</link>
        <description>Tellement cohérent de nous faire faire ça cette année...</description>
        <guid>http://besson.qc.to/projet.tar.gz</guid>
