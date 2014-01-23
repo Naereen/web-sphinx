@@ -10,39 +10,20 @@ A propos de moi
 ---------------
 .. include:: whatsnew.fr.rst
 Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
-(grande école près de Paris, France).
-**Je suis actuellement en troisième année**
-et en 2013/2014, je prépare le concours national de l'`agrégation <http://agreg.org/>`_ (en option *informatique*).
+(*grande école* près de Paris, France).
+**Je suis actuellement en troisième année** et en 2013/2014, je prépare le concours national de l'
+`agrégation <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
 
-Un petit mot sur moi
-^^^^^^^^^^^^^^^^^^^^
-J'aime randonner et camper, voyager en France et en Europe, principalement en auto-stop.
-J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels
-ou des pages webs, comme par exemple `du javascript <js.html>`_, des tutoriels
-(sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
-ou encore des outils en lignes de commande pour Linux (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_ ou `python <python.html>`_).
-
-.. J'aime aussi cuisiner, régulièrement des soupes, légumes à la vapeur, ou des confitures.
-
-Un petit mot sur ce site
-^^^^^^^^^^^^^^^^^^^^^^^^
-Je développe ce petit site (actuellement `<http://perso.crans.org/besson>`_)
-sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
-:gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
-
-Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
-sont effectivement visités quotidiennement par des gens du monde entier :
-j'espère ne pas décevoir ces visiteurs
-(`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
-
-------------------------------------------------------------------------------
-
+Études
+^^^^^^
 En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
 et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
 les deux avec une mention Bien.
 
 En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
 mention Bien (L3, *Bachelor of Science* en anglais).
+
+En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
 
 .. sidebar:: Autre langue : en anglais ?
    
@@ -51,37 +32,59 @@ mention Bien (L3, *Bachelor of Science* en anglais).
    Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
 
 
+.. container:: smallpar
+
+   **Un petit mot sur moi** :
+
+    J'aime randonner et camper, voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
+    J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
+    comme par exemple `du javascript <js.html>`_,
+    des tutoriels (sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
+    ou encore des outils en lignes de commande pour Linux (`plus de détails ici <bin.html>`_).
+
+   **Un petit mot sur ce site** :
+
+    Je développe ce petit site (actuellement `<http://perso.crans.org/besson>`_)
+    sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
+    :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
+
+    Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
+    sont effectivement visités quotidiennement par des gens du monde entier :
+    j'espère ne pas décevoir ces visiteurs !
+    (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_
+    peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
+
+
 Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
 Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
-  #. par courrier (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France  ::
-  
-        Mr Lilian Besson,
-        ENS Cachan,
-        Dept. de Mathématiques,
-        41, avenue du Président Wilson,
-        94230 - Cachan,
-        France
- 
-  #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+#. par courrier (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
-     .. image:: .telephone.png
-        :scale: 130 %
-        :align: right
-        :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
-        :target: callto:100101011101001100111101100001_2
-        
-  #. ou par téléphone (:red:`si c'est urgent ou important`):
-     
-     .. image:: .courriel.png
-        :scale: 120 %
-        :align: right
-        :alt:   Mon adresse courriel, dans une image png...
-        :target: mailto:Lilian.Besson＠ens-cachan.fr
+       Mr Lilian Besson,
+       ENS Cachan,
+       Dept. de Mathématiques,
+       41, avenue du Président Wilson,
+       94230 - Cachan,
+       France
 
-  #. ou par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
+#. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+   
+   .. image:: .telephone.png
+      :scale: 130 %
+      :align: right
+      :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+      :target: callto:100101011101001100111101100001_2
 
+#. ou par téléphone (:red:`si c'est urgent ou important`):
+   
+   .. image:: .courriel.png
+      :scale: 120 %
+      :align: right
+      :alt:   Mon adresse courriel, dans une image png...
+      :target: mailto:Lilian.Besson＠ens-cachan.fr
+
+#. ou par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
@@ -94,14 +97,18 @@ Mes projets en ligne
 
 
 Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
-  #. via mes dépôts *git* sur mon compte *bitbucket*, 
-     `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  #. ou via mon profil *Launchpad*, 
-     `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
-  #. ou sur ma page personnelle *Wikipédia*, 
-     `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
-  #. ou encore sur *Transifex* `profile/Naereen
-     <https://www.transifex.com/accounts/profile/Naereen/>`_.
+
+#. via mes dépôts *git* sur mon compte *bitbucket*, 
+   `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
+
+#. ou via mon profil *Launchpad*, 
+   `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
+
+#. ou sur ma page personnelle *Wikipédia*, 
+   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
+
+#. ou encore sur *Transifex* (plate-forme de traduction de logiciel et de sites web)
+   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,10 +158,10 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
 Autres pages
 ------------
-  Je vous invite tout particulièrement à aller regarder ces pages
-  `<publis.html>`_, `<bin.html>`_, ou encore `<js.html>`_
-  qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
-  je travaille *de temps en temps*.
+Je vous invite tout particulièrement à aller regarder ces pages
+`<publis.html>`_, `<bin.html>`_, ou encore `<js.html>`_
+qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
+je travaille *sur mon temps libre*.
 
 ANSI Colors
 ^^^^^^^^^^^
@@ -167,7 +174,7 @@ Sa documentation est hébergée sur
 `PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_.
 Son code source est hébergé sur 
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de 4000 fois !
+Actuellement, il a déjà été **téléchargé plus de 4000 fois !**
 
 Projet Réseau : MPRI Bomberman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -179,6 +186,7 @@ Le projet est surtout hebergé sur **BitBucket**
 
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**, 
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
+J'ai eu **16.9/20** pour ce projet.
 
 Projet d'apprentissage : Kaggle Titanic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -189,27 +197,29 @@ le *"passager type"* ayant survécu au naufrage du Titanic.
 Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
 `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 
-J'ai soutenu ce projet le mercredi 22 Mai 2013, et j'ai eu 15/20.
+J'ai soutenu ce projet le mercredi 22 Mai 2013, et j'ai eu **15/20**.
 
 Projet Labyrinthe-Démineur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails !
+Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai eu **19/20** !)
 
 ------------------------------------------------------------------------------
 
 .. sidebar:: Versions PDF de certaines pages
 
-   Certaines des pages de ce site sont aussi disponibles en version **PDF**.
-   Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
-   latérale, dans la section "Cette page en .txt et en .pdf".
+   .. container:: smallpar
 
-   Ces versions **PDF** sont encore expérimentales, notamment car les extensions
-   "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
+      Certaines des pages de ce site sont aussi disponibles en version **PDF**.
+      Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
+      latérale, dans la section "Cette page en .txt et en .pdf".
+   
+      Ces versions **PDF** sont encore expérimentales, notamment car les extensions
+      "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
 
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Pour des explications sur ma clé **PGP**, savoir comment la récupérer,
-l'importer, et vérifier l'intégrité des fichiers proposés en téléchargement ici,
+Pour des explications sur ma clé **PGP**, savoir comment la *récupérer*,
+l'*importer*, et *vérifier l'intégrité des fichiers* proposés en téléchargement ici,
 cette page `<pgp.html>`_ peut être utile.
 
 Coloration syntaxique pour **GNU/Nano**
@@ -220,15 +230,22 @@ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
 .. note:: Pour *Jota Text Editor* & *Jota +*
 
-   Et pour les **applications Android** `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
+   J'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
+   `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
    
     * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
     * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
+Flux RSS
+^^^^^^^^^
+Depuis *Avril 2013*, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
+Pour plus d'informations, ou pour lire directement les dernières entrées
+du *flux*, la page `<rss.html>`_ est là pour ça.
+
 Traductions
 ^^^^^^^^^^^
-La page `<transifex.html>`_ parle de traductions de logiciels et de sites webs.
+La page `<transifex.html>`_ parle de traductions de logiciels et de sites web.
 :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
 
 Wolfram|Alpha
@@ -236,40 +253,18 @@ Wolfram|Alpha
 La page `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
 de commande, à *Wolfram|Alpha*, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
-Albums photos 
-^^^^^^^^^^^^^
-Ma page `Facebook <http://www.facebook.com/naereencorp.lbesson>`_ héberge
-notamment quelques albums photos. Des photos de moi ? Que non point ! 
-:red:`Quelle connerie de publier des photos de soi en ligne !`
-
-Non, des photos montrant :
-
-#. `une collection de belles couvertures de CD trouvées par VLC (automatiquement) 
-   <http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202&type=1&l=4da79d6fe1>`_;
-#. `quelques résultats de certains projets de programmation 
-   <http://www.facebook.com/media/set/?set=a.3265799682688.2158706.1198154202&type=1&l=d7cae11413>`_;
-#. `des photos de ma collection de figurines (Warhammer, Warhammer 40.000, lSdA lJdB, etc) 
-   <http://www.facebook.com/media/set/?set=a.1377895166255.2054711.1198154202&type=1&l=85ff5e2571>`_;
-#. `des images “relatant” la traduction de bitbucket.org via Transifex 
-   <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_;
-#. `des photos du jeu de Bomberman 
-   <http://www.facebook.com/media/set/?set=a.10200608470713052.2199565.1198154202&type=1&l=6fe3f8d894>`_
-   réalisé en Janvier et Février 2013. Pour plus d'infos, voir `<publis/Bomberman>`_
-   ou `bitbucket.org/lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman>`_.
-
-.. versionadded:: 1.9.9
-
-   J'expérimente aussi une gallerie photo en *CSS3* et *JavaScript*, ici `<generateglisse.sh>`_
+Galerie photo et musique
+^^^^^^^^^^^^^^^^^^^^^^^^
+#. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, ici `<generateglisse.sh/>`_
    (actuellement, les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
-   J'expérimente aussi un lecteur de musique en *CSS3* et *JavaScript*, ici `<generatejplayer.sh>`_
+#. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, ici `<generatejplayer.sh/>`_
    (actuellement, les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_).
 
 ------------------------------------------------------------------------------
 
 Pages de démonstrations
 -----------------------
-
 `<demo.html>`_ est là pour tester les fonctionnalités de base
 du langage *reStructuredText*. :red:`Je n'en suis pas l'auteur.`
 
@@ -293,46 +288,34 @@ Certaines sont expliquées dans la page `<js.html>`_ (en cours de rédaction).
 Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
 `web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
 
-Certaines pages présentent aussi l'intégration de projets sympas, écrits
-en **JavaScript** :
-
-#. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-   directement dans un navigateur web, avec un éditeur qui
-   colore l'entrée du toplevel (:red:`cassé en ce moment`) !
-#. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
-   directement dans un navigateur web (:red:`cassé en ce moment`) !
-   avec un genre d'interface *graphique* (module ``Turtle`` disponible).
+Certaines pages présentent aussi l'intégration de projets sympas,
+écrits en **JavaScript** (pas pas moi) :
 #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
    directement dans un navigateur web !
    Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
 #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
    avec quelques lessons (interactives). Propose désormais une implémentation *in-the-browser* du module ``Graphics`` !
 #. `<gnuplot.html>`_, une boucle `REPL <https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>`_
-   pour ``GNU Plot``, *i.e.* une évaluation instantannée dès que la zone de texte est changée.
-#. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript,
-   pour l'instant **ne supporte pas** l'enregistrement.
-
-Flux RSS
-^^^^^^^^^
-Depuis Avril 2013, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
-Pour plus d'informations, ou pour lire directement les dernières entrées
-du *flux*, la page `<rss.html>`_ est là pour ça.
+   pour ``GNU Plot``, *i.e.* une évaluation instantannée **dès** que la zone de texte est changée.
+#. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript, pour l'instant **ne supporte pas** l'enregistrement;
+#. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
+   directement dans un navigateur web, avec un éditeur qui
+   colore l'entrée du toplevel (:red:`cassé en ce moment`) !
+#. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
+   directement dans un navigateur web avec un genre d'interface *graphique*
+   (module ``Turtle`` disponible). (:red:`cassé en ce moment`) !
 
 Liens externes
 ^^^^^^^^^^^^^^
 #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
-
 #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
-
 #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`. Cette redirection est proposée par `FreeDNS <freedns.html>`_ en mode ``cloak``, c'est-à-dire cachée : on peut naviguer `<http://besson.or.gs>`_ sans savoir vraiment où est hébergée la page.
-
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
    d'afficher n'importe quelle page (par exemple, 
    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
 #. `<https://jarvis.crans.org>`_ ma machine !
-
 #. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec dot.tk, un autre service gratuit.
 
 .. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
@@ -349,12 +332,16 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    
    cv.fr
    rss
+   publis
+   bin
+   js
    pgp
    NanoSyntax
    math
    graph
    gnuplot_embed
    runblock
+   transifex.fr
    python
    skulpt
    ocaml
@@ -362,21 +349,18 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    iteri
    gnuplot
    ace
-   transifex.fr
    wolfram
    freedns
    time
-   publis
-   bin
-   js
    embed
    sparkline
    vieprivee
    tutoweb
-   master
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
+   master
+   download.fr
    admin
 
 

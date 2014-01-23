@@ -6,8 +6,8 @@
  Welcome to **Lilian Besson**'s web page !
 ###########################################
 .. include:: .special.rst
-Who am I ?
-----------
+Who am I?
+---------
 .. include:: whatsnew.en.rst
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
@@ -15,30 +15,26 @@ In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam.
 
 A quick word about me
 ^^^^^^^^^^^^^^^^^^^^^
-  I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
-  I also like using new technologies, and enjoy design tiny pieces of software or web content
-  for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
-  or Linux command line tools (`bash <bin/.bash_aliases>`_, `vrun <bin/vrun>`_, or `python <python.html>`_).
-  
-  .. I like to cook, usually soups, steamed vegetables or marmelades.
+I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
+I also like using new technologies, and enjoy design tiny pieces of software or web content
+for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
+or Linux command line tools (`see this page for example (in French) <bin.html>`_).  
 
 A quick word about this site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
-  when I have the time, hoping it can be useful to someone (at least me, but who knows...).
-  :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
+I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
+when I have the time, hoping it can be useful to someone (at least me, but who knows...).
+:gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
 
-  This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
-  so if you are here for something in particular, I hope you will not be disapointed
-  (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
-
+This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
+so if you are here for something in particular, I hope you will not be disapointed
+(you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
 
 ------------------------------------------------------------------------------
 
 In 2012/2013 I graduated two first half of Masters of Science,
 in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
 and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
-
 
 .. warning::
    
@@ -57,7 +53,6 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
 
 Contact addresses
 ^^^^^^^^^^^^^^^^^
-
 Feel free to *contact* me :
  
   #. by mail (`→ OpenStreetMap direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
@@ -110,21 +105,20 @@ Feel free to *contact* me :
 
 MSc internship : "*Towards modularity for planning and robot programs verification*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- I did an internship for the third semester of my Maths MSc and CS MSc
- from 03 June to 09 August.
+I did an internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
- I worked at **UCL** (:under:`University College of London`),
- under the direction of *Jules Villard* (and *Peter O'Hearn*),
- about separation logic, planning in `AI`, 
- and the study of modularity in those two domains.
+I worked at **UCL** (:under:`University College of London`),
+under the direction of *Jules Villard* (and *Peter O'Hearn*),
+about separation logic, planning in `AI`, 
+and the study of modularity in those two domains.
 
- My report (in English): `<rapportM1Info13.pdf>`_,
- and my slides (in French): `<slidesM1Info13.pdf>`_.
+My report (in English): `<rapportM1Info13.pdf>`_,
+and my slides (in French): `<slidesM1Info13.pdf>`_.
 
- :Mark: Jules gave me **19/20**.
-        I got the mark **17.7/20** from the Computer Science jury
-        at ENS Cachan,
-        and **18.50/20** from the Maths jury at ENS Cachan.
+:Mark: Jules gave me **19/20**.
+       I got the mark **17.7/20** from the Computer Science jury
+       at ENS Cachan,
+       and **18.50/20** from the Maths jury at ENS Cachan.
 
 ------------------------------------------------------------------------------
 
@@ -136,6 +130,7 @@ Pages in English
    
    cv.en
    transifex.en
+   download.en
    trademarks
    demo
    packing
