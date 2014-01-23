@@ -82,7 +82,7 @@ d'une série télé, et utilise un fichier *~/current* pour savoir quel dossier 
 
 .. runblock:: console
 
-    $ echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
+    $ LANG=en echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
 
 
 Le script `<bin/CheckDownload_Pypi.sh>`_ permet de consulter les statistiques de téléchargement
@@ -90,7 +90,7 @@ d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/p
 
 .. runblock:: console
 
-    $ echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :" 
+    $ LANG=en echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :" 
     $ ~/bin/CheckDownload_Pypi.sh | tail -n3
 
 
@@ -98,7 +98,7 @@ d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/p
 
 .. runblock:: console
 
-    $ git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
+    $ LANG=en git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
 
 
 Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes/txt>`_) :

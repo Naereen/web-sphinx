@@ -85,6 +85,7 @@ gpgrss: rss
 
 gpghtml: ./.gpghtml.sh
 	./.gpghtml.sh
+	-rm -fv $(BUILDDIR)/html/_sources/admin.*  $(BUILDDIR)/html/_sources/TODO.*
 
 gpglatex: latexpdf
 	cp -fv $(BUILDDIR)/latex/cv*.pdf ./
@@ -95,7 +96,7 @@ gpgpdf: pdf
 	cp -fv $(BUILDDIR)/pdf/*.pdf ./
 	PDFCompress --no-compress --no-keep --sign *.pdf
 	mv -fv ./*.pdf* $(BUILDDIR)/pdf/
-	-rm -fv $(BUILDDIR)/admin.*  $(BUILDDIR)/TODO.*
+	-rm -fv $(BUILDDIR)/pdf/admin.*  $(BUILDDIR)/pdf/TODO.*
 
 ################################# Senders #####################################
 
