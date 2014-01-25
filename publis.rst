@@ -6,9 +6,6 @@
  Publications diverses (du dossier `<publis/>`_)
 #################################################
 .. include:: .special.rst
-   
----------------------------------------------------------------------
-
 À-propos
 --------
 Cette page est là pour décrire les divers éléments du dossier `<publis/>`_.
@@ -18,7 +15,7 @@ Ce dossier contient un certain nombre de petites publications
 
 .. sidebar:: Retourner à l'accueil
 
-   Si cette page ne joue intéresse pas, allez plutôt consulter `celle là <index.html>`_.
+   Si cette page ne joue intéresse pas, allez plutôt consulter celle là `<index.html>`_.
 
 
 .. note:: Conditions de distribution
@@ -77,12 +74,6 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 
 `ansi-colors <publis/ansi-colors/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
- et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
- Il est aussi héberger sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
-
- :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
-
 
 .. pypi-release:: ANSIColors-balises
    :prefix: La dernière version est ici 
@@ -90,6 +81,12 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
             permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
+
+ **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
+ et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
+ Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+
+ :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
 
 
 `kaggle <publis/kaggle/>`_
