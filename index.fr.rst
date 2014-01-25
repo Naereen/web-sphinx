@@ -25,13 +25,6 @@ mention Bien (L3, *Bachelor of Science* en anglais).
 
 En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
 
-.. sidebar:: Autre langue : en anglais ?
-   
-   Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
-   ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
-   Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
-
-
 .. container:: smallpar
 
    **Un petit mot sur moi** :
@@ -150,10 +143,11 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
 --------------------------------------------------------------------
 
-.. sidebar:: À propos de Naereen
-
-   **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise *partout*.
-   C'est un prénom *oriental* *féminin*, porté notamment en Iran, et en Syrie.
+.. sidebar:: Autre langue : en anglais ?
+   
+   Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
+   ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
+   Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
 
 
 Autres pages
@@ -319,6 +313,12 @@ Liens externes
 #. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec dot.tk, un autre service gratuit.
 
 .. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
+
+.. sidebar:: À propos de Naereen
+
+   **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise *partout*.
+   C'est un prénom *oriental* *féminin*, porté notamment en Iran, et en Syrie.
+
 
 --------------------------------------------------------------------
 

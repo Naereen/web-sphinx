@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Nouvelle version de jQuery !</title>
+       <link>http://besson.qc.to/_static/</link>
+       <description>J'espère que ça ne va rien casser.</description>
+       <guid>http://lbesson.qc.to/bin/CP</guid>
+       <pubDate>Sat, 25 Jan 2014 10:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>bin/CP !</title>
        <link>http://besson.qc.to/bin/CP</link>
        <description>Un petit script pour colorer la sortie du très pratique rsync (utilitaire en ligne de commande pour copier des fichiers, localement et via le réseau)</description>

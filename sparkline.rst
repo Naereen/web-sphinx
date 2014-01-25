@@ -92,7 +92,7 @@ Et voilà !
 
 Un exemple plus sympa
 ---------------------
-On va essayer de faire un exemple plus intéressant ?
+On va essayer un exemple **plus intéressant** ?
 
 .. raw:: html
 
@@ -149,9 +149,9 @@ On va essayer de faire un exemple plus intéressant ?
 
 Un autre exemple
 ----------------
-J'ai essayer d'utiliser des données générées par Google Analytics
+J'ai essayé d'utiliser des données générées par Google Analytics
 pour afficher un petit graphique d'activité sur le site sur les derniers jours,
-mais sans succès :(
+mais **sans succès :(**
 
 ---------------------------------------------------------------------
 

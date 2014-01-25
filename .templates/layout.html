@@ -33,7 +33,7 @@
     <meta name="DC.Language" content="fr" />
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
-    <meta name="DC.Date" content="2014-01-14" />
+    <meta name="DC.Date" content="2014-01-25" />
     <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
@@ -92,8 +92,8 @@
     }; };
 </script>
 {{ super() }}
-<a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="https://www.facebook.com/naereencorp.lbesson">
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="" alt="Ajoutez moi comme ami sur Facebook !" /></a>
+<a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Consultez mes dépôts git!" href="https://bitbucket.org/lbesson">
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="" alt="Consultez mes dépôts git!" /></a>
 {% endblock %}
 
 {% block relbaritems %}<!-- Display info if Javascipt available. -->
@@ -168,15 +168,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! (C) L
  // Smooth Scroll jQuery plugin
  $('a').smoothScroll({
   offset: -31, direction: 'top', // one of 'top' or 'left'
-  scrollTarget: null, // only use if you want to override default behavior
-  // fn(opts) function to be called before scrolling occurs.
-  // `this` is the element(s) being scrolled
-  beforeScroll: function() {},
-  // fn(opts) function to be called after scrolling occurs.
-  // `this` is the triggering element
-  afterScroll: function() {},
   easing: 'swing', speed:  300, autoCoefficent: 3, // coefficient for "auto" speed
-  // $.fn.smoothScroll only: whether to prevent the default click action
   preventDefault: true,
  });
   NProgress.inc();
@@ -212,7 +204,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! (C) L
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "14 01 2014, 00h:30m:14s";
+   var last_updated_value = "{{ last_updated }}" || "25 01 2014, 00h:30m:14s";
     var day   = last_updated_value.substring(0,  2 ) || "02";
     var month = last_updated_value.substring(3,  6 ) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
@@ -297,29 +289,21 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <script type="text/javascript">
   $(window).load(function(){
    setTimeout(function(){ NProgress.done(); }, 1000);
-   if (screen.width > 680) {
+   if (screen.width > 680) { // BETA responsive
      setTimeout(function(){ noty({
-      text: 'Cette page vous paraît-elle bien écrite ?', timeout: false,
+      text: 'Cette page vous paraît-elle <b>bien</b> écrite ?<br> J\'ai mis à jour jQuery, peut-être cela a-t-il généré quelques bugs ?', timeout: false,
       buttons: [ // this = button element, $noty = $noty element
         {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
             $noty.close();
-            noty({text: "<span style=\"font-weight:bold\">Normal, je code bien :)</span>"
+            noty({text: "<b>Normal, je code bien :)</b>"
              + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
-          }
-        }, 
+          }}, 
         {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
             $noty.close();
-            noty({text: "<span style=\"font-weight:bold\">Oups !</span> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
+            noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
              "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
-             type: 'warning', timeout: false, onClick: function($noty){
-               $noty.close();
-               console.log("[INFO] Opening a new window with https://bitbucket.org/lbesson/web-sphinx/issues/new.");
-               window.open("https://bitbucket.org/lbesson/web-sphinx/issues/new");
-               return false; // still does not work !
-            } });
-          }
-        }
-      ]
+             type: 'warning', timeout: false});
+          }}]
       }) }, 3000);
     }
   });
