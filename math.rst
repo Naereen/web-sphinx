@@ -52,7 +52,7 @@ Par exemple, la formule dite d'Euler sera indiquée avec l'option
 
 J'aime l'équation :eq:`euler` 
 (qui a été élue 'plus belle formule' de l'histoire des Mathématiques en 1991 !)
-donc j'y fait référence, avec le code ``:eq:`euleur```.
+donc j'y fait référence, avec le code ``:eq:`euler```.
 
 On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code```.
 J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
@@ -115,8 +115,8 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 ------------------------------------------------------------------------------
 
-Autres **expérimentations** : des couleurs ?
---------------------------------------------
+Autre **expérimentation** : des couleurs ?
+------------------------------------------
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
 rôles dans les fichiers **.rst** écrits pour ces pages webs,
 et ces rôles sont mis en relation avec des styles CSS définis dans

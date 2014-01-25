@@ -141,7 +141,7 @@ What's next ?
  So, as soon as I see this, I try to complete again the translation process,
  by translating about 20 or 30 sentences.
 
-About the French translation : 12268 words !
+About the French translation : 13000~ words !
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  The following screenshot shows the progression of the French translation :
 
@@ -154,11 +154,11 @@ About the French translation : 12268 words !
 My profile
 ^^^^^^^^^^
  And this last screenshot shows my (private) profile,
- which show for example that I translated about 11000 words on the French
+ which shows that I translated about 12500 words on the French
  part of the translation project of *bitbucket.org* !
- (this figure is probably out-dated, I wrote this paragraph the 4th October)
+ (this figure is probably out-dated, I wrote this paragraph the 25th January 2014)
 
- So, this allow to compute that I translated about **94.6 %** of the **12268**
+ So, this allows to compute that I translated about **97%** of the **13000~**
  words of the project. (again, this figure might be out-dated)
 
 .. image:: .transifex_profileNaereen.png

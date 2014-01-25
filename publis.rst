@@ -17,7 +17,6 @@ Ce dossier contient un certain nombre de petites publications
 
    Si cette page ne joue intéresse pas, allez plutôt consulter celle là `<index.html>`_.
 
-
 .. note:: Conditions de distribution
 
    Chaque projets listés sur cette page est distribué *librement*,
@@ -32,45 +31,42 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 
 `puzzle <publis/puzzle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
- pour le cours de programmation 2. J'avais eu 17/20.
- Remis à neuf, et nettoyé récemment pour aider une élève en L3 d'informatique à Orsay.
+Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
+pour le cours de programmation 2. J'avais eu 17/20.
+Remis à neuf, et nettoyé récemment pour aider une élève en L3 d'informatique à Orsay.
 
- :État: *Fonctionne bien* mais plus maintenu
+:État: *Fonctionne bien* mais plus maintenu.
 
 `Bomberman <publis/Bomberman/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Le jeu de **Bomberman** en réseau réalisé de Nov. 2012 à Fév. 2013
- pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
+Le jeu de **Bomberman** en réseau réalisé de Nov. 2012 à Fév. 2013
+pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
 
- :État: *À-jour.*
-
+:État: *À-jour.*
 
 `MOcamlPlot <publis/MOcamlPlot.zip>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
- Propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
- et plein de trucs géniaux !
+Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
+propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
+et plein de trucs géniaux !
 
- :État: *N'est plus maintenu!* Devrait peut-être fonctionner. Mais pas sûr.
-
+:État: *N'est plus maintenu!* Devrait peut-être fonctionner. Mais pas sûr.
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon sûre, *typée* et amusante.
- Fonctionne *comme ça* : pas besoin d'installation (juste inclure le fichier zenity.ml et zenity.mli dans votre projet).
- Par example :
+Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon sûre, *typée* et amusante.
+Fonctionne *comme ça* : pas besoin d'installation (juste inclure le fichier zenity.ml et zenity.mli dans votre projet).
+Par example :
 
- .. code-block:: ocaml
+.. code-block:: ocaml
 
-    open Zenity;;
-    let choose_color = color_selection ~title:"Choisir une couleur" () ;;
-    (* Permet de demander à l'utilisateur de choisir une couleur,
-    reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
+   open Zenity;;
+   let choose_color = color_selection ~title:"Choisir une couleur" () ;;
+   (* Permet de demander à l'utilisateur de choisir une couleur,
+   reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
 
 
- :État: *N'est plus maintenu activement* mais fonctionne avec la dernière version d'OCaml (4.01.0) et de Zenity.
-
+:État: *N'est plus maintenu activement* mais fonctionne avec la dernière version d'OCaml (4.01.0) et de Zenity.
 
 `ansi-colors <publis/ansi-colors/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,36 +77,34 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
             permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
+.. BUGFIX ?
 
- **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
- et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
- Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+**ANSIColors-balises** est un module ``Python`` pour manipuler facilement
+et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
+Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 
- :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
-
+:État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan`` en mai 2013.
- Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
- toutes les différentes composantes d'un projet de programmation
- (codes, documentations, rapports, slides etc). J'avais eu 15/20.
+Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Cachan`` en mai 2013.
+Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
+toutes les différentes composantes d'un projet de programmation
+(codes, documentations, rapports, slides etc). J'avais eu 15/20.
 
- :État: *À-jour.*
-
+:État: *À-jour.*
 
 `nautilus-scripts <publis/nautilus-scripts/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Des scripts pour **Gnome Nautilus**.
+Des scripts pour **Gnome Nautilus**.
 
- :État: *N'est plus maintenu!*
-
+:État: *N'est plus maintenu!*
 
 `gedit-tools <publis/gedit-tools/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Des scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
+Des scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
 
- :État: *N'est plus maintenu!*
+:État: *N'est plus maintenu!*
 
 
 ---------------------------------------------------------------------
@@ -123,33 +117,29 @@ Voir la page `<bin.html>`_ pour plus de description sur les scripts et les binai
 
 Fichiers de configuration
 -------------------------
-
 `conky <publis/conky/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
- Configuration pour **GNU Conky**.
+Configuration pour **GNU Conky**.
 
- :État: *À-jour.*
-
+:État: *À-jour.*
 
 `gedit-coloration <publis/gedit-coloration/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Configuration pour **GTK-SourceView** (avec gedit ou gobby).
+Configuration pour **GTK-SourceView** (avec gedit ou gobby).
 
- :État: *À-jour.*
-
+:État: *À-jour.*
 
 `gedit <publis/gedit/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
- Divers plugins pour **Gnome Gedit**.
+Divers plugins pour **Gnome Gedit**.
 
- :État: *À-jour.*
-
+:État: *À-jour.*
 
 `muttrc <publis/muttrc/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Configuration pour **Mutt**.
+Configuration pour **Mutt**.
 
- :État: *À-jour.*
+:État: *À-jour.*
 
 ---------------------------------------------------------------------
 
