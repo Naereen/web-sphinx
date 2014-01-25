@@ -284,17 +284,23 @@ Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
 
 Certaines pages présentent aussi l'intégration de projets sympas,
 écrits en **JavaScript** (pas pas moi) :
+
 #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
    directement dans un navigateur web !
    Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
+
 #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
    avec quelques lessons (interactives). Propose désormais une implémentation *in-the-browser* du module ``Graphics`` !
+
 #. `<gnuplot.html>`_, une boucle `REPL <https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>`_
    pour ``GNU Plot``, *i.e.* une évaluation instantannée **dès** que la zone de texte est changée.
+
 #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript, pour l'instant **ne supporte pas** l'enregistrement;
+
 #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
    directement dans un navigateur web, avec un éditeur qui
    colore l'entrée du toplevel (:red:`cassé en ce moment`) !
+
 #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
    directement dans un navigateur web avec un genre d'interface *graphique*
    (module ``Turtle`` disponible). (:red:`cassé en ce moment`) !

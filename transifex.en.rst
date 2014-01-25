@@ -142,7 +142,7 @@ What's next ?
  by translating about 20 or 30 sentences.
 
 About the French translation : 13000~ words !
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  The following screenshot shows the progression of the French translation :
 
 .. image:: .transifex_complete.png
