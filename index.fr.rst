@@ -6,7 +6,7 @@
  Bienvenue sur les pages personnelles de **Lilian Besson** !
 #############################################################
 .. include:: .special.rst
-A propos de moi
+À propos de moi
 ---------------
 .. include:: whatsnew.fr.rst
 Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
@@ -139,7 +139,7 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
    est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 
-:Notes: Nous (Sophie, Maxime et moi) avions obtenu 17/20 pour nos travaux.
+:Notes: Nous (Sophie Hecht, Maxime Isnard et moi) avions obtenu **17/20** pour nos travaux.
 
 --------------------------------------------------------------------
 
@@ -190,8 +190,7 @@ ce projet a pour but de faire de la *classification de données*, afin d'exhiber
 le *"passager type"* ayant survécu au naufrage du Titanic.
 Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
 `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
-
-J'ai soutenu ce projet le mercredi 22 Mai 2013, et j'ai eu **15/20**.
+J'ai eu **15/20** pour ce projet.
 
 Projet Labyrinthe-Démineur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -209,6 +208,7 @@ Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai e
    
       Ces versions **PDF** sont encore expérimentales, notamment car les extensions
       "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
+
 
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -228,8 +228,8 @@ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
    `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
    
-    * `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
-    * `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
+    #. `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
+    #. `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
 Flux RSS
 ^^^^^^^^^
@@ -260,11 +260,11 @@ Galerie photo et musique
 Pages de démonstrations
 -----------------------
 `<demo.html>`_ est là pour tester les fonctionnalités de base
-du langage *reStructuredText*. :red:`Je n'en suis pas l'auteur.`
+du langage *reStructuredText* :red:`(je n'en suis pas l'auteur)`.
 
 Extensions non officielles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'expérimente certains outils de **Sphinx**, ainsi que certaines extensions *non-officielles*,
+J'expérimente certaines fonctionnalités de **Sphinx**, ainsi que des extensions *non-officielles*,
 sur ces pages là :
 
 #. `<math.html>`_, présente plusieurs façons d'écrire des maths en **rST**;
