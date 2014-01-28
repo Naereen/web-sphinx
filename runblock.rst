@@ -133,7 +133,7 @@ Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages``.
 
    autorun_languages = {}
 
-Et ensuite ajouté une valeur 'truc' (commande shell) et 'truc_prefix_chars' (taille des préfixes)
+Et ensuite ajouter une valeur 'truc' (commande shell) et 'truc_prefix_chars' (taille des préfixes)
 pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en *rST*.
 
 .. code-block:: python
