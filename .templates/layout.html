@@ -92,7 +92,7 @@
     }; };
 </script>
 {{ super() }}
-<a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Consultez mes dépôts git!" href="https://bitbucket.org/lbesson">
+<a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Tout est OpenSource !" href="http://bitbucket.org/lbesson">
 <img style="position: absolute; top: 0; right: 0; border: 0;" src="" alt="Consultez mes dépôts git!" /></a>
 {% endblock %}
 
@@ -291,7 +291,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
    setTimeout(function(){ NProgress.done(); }, 1000);
    if (screen.width > 680) { // BETA responsive
      setTimeout(function(){ noty({
-      text: 'Cette page vous paraît-elle <b>bien</b> écrite ?<br> J\'ai mis à jour jQuery, peut-être cela a-t-il généré quelques bugs ?', timeout: false,
+      text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: false,
       buttons: [ // this = button element, $noty = $noty element
         {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
             $noty.close();

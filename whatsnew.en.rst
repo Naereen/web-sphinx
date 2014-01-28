@@ -3,7 +3,7 @@
    <div class="sidebar" style="font-size:75%;">
    <p class="first sidebar-title">What’s new here ?</p>
    <ol class="last arabic simple">
-   <li>Since a couple of days, I'm <i>correcting some Maths undergraduate written exams</i> ! I also started to work at <a href="http://www.cours-thales.fr/">Cours Thalès</a> on my spare time to teach some maths and CS to undergraduate student!</li>
+   <li>Last week, I <i>corrected some Maths undergraduate written exams</i> ! I also started to work at <a href="http://www.cours-thales.fr/">Cours Thalès</a> on my spare time to teach some maths and CS to undergraduate student!</li>
    <li><a class="internal reference" href="bin/CP">bin/CP</a>: a short script to colorized the output of the <i>awesome</i> <code>rsync</code> command,</li>
    <li><a class="internal reference" href="iteri.html">iteri.html</a> a short article (in French) about List.iteri and Array.iteri in OCaml,</li>
    <li>Hey, I'm 21 since the 12th January!</li>

@@ -130,7 +130,6 @@ Pages in English
    
    cv.en
    transifex.en
-   download.en
    trademarks
    demo
    packing
