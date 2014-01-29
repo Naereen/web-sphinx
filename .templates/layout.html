@@ -34,7 +34,7 @@
     <meta name="DC.Creator" content="Lilian Besson" />
     <meta name="DC.Subject" content="Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
     <meta name="DC.Date" content="2014-01-25" />
-    <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
+  <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site"
         href="http://perso.crans.org/besson/rss.xml" />
@@ -53,6 +53,8 @@
    <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
    <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+  <!-- vein.js (https://github.com/israelidanny/veinjs)-->
+   <script type="text/javascript" src="{{ pathto('_static/vein.js', true)|e }}"></script>
 <script type="text/javascript">
  if (typeof console !== 'undefined') { console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit..."); };
  /* jQuery.noty plugin */
@@ -289,6 +291,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <script type="text/javascript">
   $(window).load(function(){
    setTimeout(function(){ NProgress.done(); }, 1000);
+
    if (screen.width > 680) { // BETA responsive
      setTimeout(function(){ noty({
       text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: false,
@@ -305,7 +308,40 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
              type: 'warning', timeout: false});
           }}]
       }) }, 3000);
-    }
+    };
+
+   // BETA experimentation to dynamically change the color stylesheet.
+   if (screen.width > 680) { // BETA responsive
+     Mousetrap.bind(["s"], function() { noty({
+      text: 'Changer le <i>style</i> ?</br><small>(Cette fonctionnalité est toujours en bêta)</small>', timeout: false,
+      layout: 'center', type: 'info',
+      buttons: [ // this = button element, $noty = $noty element
+        {addClass: 'btn btn-info', text: "Non", onClick: function($noty) {
+            $noty.close();
+            alert("Le style vous plaît déjà ? Ravi de l'apprendre !");
+            $("head").append(
+             $("<link/>", {href: "{{ pathto('_static/default.css', true)|e }}", rel: "stylesheet"})
+            );
+          }}, 
+        {addClass: 'btn btn-success', text: 'En vert !', onClick: function($noty) {
+            $noty.close();
+            alert("<b>Il va faire tout vert !</b></br><small>Ta gueule !</small>");
+            $("head").append(
+             $("<link/>", {href: "{{ pathto('_static/green.css', true)|e }}", rel: "stylesheet"})
+            );
+            // $.vein.inject(["div.related"], {"background-color" : "darkgreen"}); // Un peu brutal
+          }}, 
+        {addClass: 'btn btn-warning', text: 'En orange !', onClick: function($noty) {
+            $noty.close();
+            alert("<b>Il va faire tout orange !</b></br><small>Ta gueule !</small>");
+            $("head").append(
+             $("<link/>", {href: "{{ pathto('_static/orange.css', true)|e }}", rel: "stylesheet"})
+            );
+            // $.vein.inject(["div.related"], {"background-color" : "orange"}); // Un peu brutal
+          }}
+      ]
+      }) });
+    };
   });
 </script>
 </div></div> 
