@@ -193,21 +193,23 @@ console.log("[INFO] Starting main JS content when document will be ready ! (C) L
   NProgress.inc();
  // MouseTrap (http://craig.is/killing/mice)
  Mousetrap.bind(["h", "?"], function() {
-  alert("Les raccourcis claviers suivants sont activés : </br>\n"
-+" - h : affiche ce message d'aide, </br>\n"
-+" - i : retourne à l'index, </br>\n"
-{% if prev %}+" - Gauche (← ou p) : <a href=\"{{ prev.link|e }}\">page précédente</a>,</br>\n"{% endif %}
-{% if next %}+" - Droite (→ ou n) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
+  alert("Les <b>raccourcis claviers</b> suivants sont activés : </br>\n"
++" - <b>h</b> : affiche <i>ce message d'aide</i>, </br>\n"
++" - <b>i</b> : retourne à l'index, </br>\n"
++" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut), </br>\n"
+{% if prev %}+" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"{{ prev.link|e }}\">page précédente</a>,</br>\n"{% endif %}
+{% if next %}+" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
-+"Ce site est maintenu par Lilian Besson © 2011-2014.", {layout:'center', type:'information'}); });
++"<small>Ce site est maintenu par Lilian Besson © 2011-2014</small>",
+  {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "25 01 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "02";
+   var last_updated_value = "{{ last_updated }}" || "29 01 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "29";
     var month = last_updated_value.substring(3,  6 ) || "01"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
@@ -305,27 +307,27 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
             $noty.close();
             noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
              "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
-             type: 'warning', timeout: false});
+             type: 'error', layout: 'center', timeout: false});
           }}]
       }) }, 3000);
     };
 
    // BETA experimentation to dynamically change the color stylesheet.
    if (screen.width > 680) { // BETA responsive
-     Mousetrap.bind(["s"], function() { noty({
+     Mousetrap.bind(["s", "S"], function() { noty({
       text: 'Changer le <i>style</i> ?</br><small>(Cette fonctionnalité est toujours en bêta)</small>', timeout: false,
       layout: 'center', type: 'info',
       buttons: [ // this = button element, $noty = $noty element
         {addClass: 'btn btn-info', text: "Non", onClick: function($noty) {
             $noty.close();
-            alert("Le style vous plaît déjà ? Ravi de l'apprendre !");
+            noty({text: "Le style vous plaît déjà ? Ravi de l'apprendre !", timeout: "5s"});
             $("head").append(
              $("<link/>", {href: "{{ pathto('_static/default.css', true)|e }}", rel: "stylesheet"})
             );
           }}, 
         {addClass: 'btn btn-success', text: 'En vert !', onClick: function($noty) {
             $noty.close();
-            alert("<b>Il va faire tout vert !</b></br><small>Ta gueule !</small>");
+            noty({text: "<b>Il va faire tout vert !</b></br><small>Ta gueule !</small>", timeout: "5s"});
             $("head").append(
              $("<link/>", {href: "{{ pathto('_static/green.css', true)|e }}", rel: "stylesheet"})
             );
@@ -333,7 +335,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
           }}, 
         {addClass: 'btn btn-warning', text: 'En orange !', onClick: function($noty) {
             $noty.close();
-            alert("<b>Il va faire tout orange !</b></br><small>Ta gueule !</small>");
+            noty({text: "<b>Il va faire tout orange !</b></br><small>Ta gueule !</small>", timeout: "5s"});
             $("head").append(
              $("<link/>", {href: "{{ pathto('_static/orange.css', true)|e }}", rel: "stylesheet"})
             );
