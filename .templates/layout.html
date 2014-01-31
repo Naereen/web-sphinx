@@ -103,12 +103,29 @@
  </script>
  <script type="text/javascript">
   function writeLocationOfThePage(beforetext, aftertext, openstyletext, openstylelink) {
-   if (screen.width > 480) {
-   window.document.write(beforetext + "<span style=\"" + openstyletext + "\">Page '"
-    + "<a style=\"" + openstylelink + "\" title=\"Cette page\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.pathname
-    + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
-    + "</a>'</span>" + aftertext);
-   };
+    if (screen.width > 480) {
+    window.document.write(beforetext + "<span style=\"" + openstyletext + "\">Page '"
+      + "<a style=\"" + openstylelink + "\" title=\"Cette page\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.pathname
+      + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
+      + "</a>'</span>" + aftertext);
+    };
+    var s = window.location.pathname;
+    var n = s.length;
+    var b = s.substring(0, n-8);
+    var e = s.substring(n-8);
+    console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
+    if (e == '.fr.html') {
+      window.document.write('<a class="image-reference" href="'
+        + b + '.en.html" title="En anglais ?" >'
+        + '<img style="width:31px; height:20px; position: relative; padding-left: 10px;"'
+        + 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>'); 
+    };
+    if (e == '.en.html') {
+      window.document.write('<a class="image-reference" href="'
+        + b + '.fr.html" title="In French?" >'
+        + '<img style="width:31px; height:20px; position: relative; padding-left: 10px;"'
+        + 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
+    };
   };
   writeLocationOfThePage("<li>", "</li>", "color: grey; font-size: 100%", "color: grey; text-decoration: underline");
  </script>

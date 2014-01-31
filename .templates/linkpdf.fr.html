@@ -8,27 +8,16 @@
     :license: GPLv3, see LICENSE for details.
 #}
 <div class="language-selector">
-<!-- <a class="image-reference" href="index.fr.html" title="Accueil en français" >
-	<img style="width:36px;height:23px;display:block;margin-left:auto;margin-right:auto"
-         src="{{ pathto('_images/.fr.gif', true)|e }}" alt="Accueil en français" /></a> -->
 <script type="text/javascript">
 	var s = window.location.pathname;
 	var n = s.length;
 	var b = s.substring(0, n-8);
 	var e = s.substring(n-8);
 	console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
-	if (e == '.fr.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.en.html" title="En anglais ?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-		    + 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>'); 
-	};
-	if (e == '.en.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.fr.html" title="In French?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
-	};
+	window.document.write('<a class="image-reference" href="'
+		+ b + '.en.html" title="En anglais ?" >'
+		+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
+		+ 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>');
 </script>
 </div>
 <!--<div id="google_translate_element"></div>

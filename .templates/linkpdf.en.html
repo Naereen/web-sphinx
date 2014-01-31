@@ -8,27 +8,16 @@
     :license: GPLv3, see LICENSE for details.
 #}
 <div class="language-selector">
-<!-- <a class="image-reference" href="index.en.html" title="Home page in English" >
-    <img style="width:36px;height:23px;display:block;margin-left:auto;margin-right:auto"
-         src="{{ pathto('_images/.en.gif', true)|e }}" alt="Home page in English" /></a> -->
 <script type="text/javascript">
 	var s = window.location.pathname;
 	var n = s.length;
 	var b = s.substring(0, n-8);
 	var e = s.substring(n-8);
 	console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
-	if (e == '.fr.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.en.html" title="En anglais ?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-		    + 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>'); 
-	};
-	if (e == '.en.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.fr.html" title="In French?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
-	};
+	window.document.write('<a class="image-reference" href="'
+		+ b + '.fr.html" title="In French?" >'
+		+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
+		+ 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
 </script>
 </div>
 <!--<div id="google_translate_element"></div>
@@ -43,5 +32,5 @@ if (window.location.hostname == 'perso.crans.org'){
 <h3>My résumé in PDF ?</h3>
 <ul class="this-page-menu">
  <li><a style="text-decoration: underline" href="cv.en.pdf" title="My PDF résumé!"
-         rel="nofollow">Consult my résumé cv.pdf</a> (in English).</li>
+         rel="nofollow">Consult my résumé</a> (in English).</li>
 </ul>
