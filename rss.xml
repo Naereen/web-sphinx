@@ -23,6 +23,16 @@
       </image>
 
       <item>
+       <title>Enfin un CV en français ET en anglais !</title>
+       <link>http://besson.qc.to/cv.fr.pdf</link>
+       <description>Au fait, la mise à jour de jquery s'est bien passée !
+       	Et, avez-vous testé la nouvelle fonctionnalité ajoutée à mon site ?
+        Il est désormais possible de changer la couleur du thème, en appuyant sur 's' puis en choisissant un des trois thèmes !</description>
+       <guid>https://bitbucket.org/lbesson/web-sphinx/src/master/.static/green.css</guid>
+       <pubDate>Fri, 31 Jan 2014 15:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Nouvelle version de jQuery !</title>
        <link>http://besson.qc.to/_static/</link>
        <description>J'espère que ça ne va rien casser.</description>

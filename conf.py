@@ -189,62 +189,6 @@ autodoc_default_flags = ['members', 'private-members']
 # a list of builtin themes.
 html_theme = 'default'
 
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-# FIXME: les valeurs ici n'ont plus d'importances, il faut modifier directement le CSS
-OLD_html_theme_options = {
-# Put the sidebar on the right side. Defaults to false.
-#    "rightsidebar": "true",
-# Add an experimental JavaScript snippet that makes the sidebar collapsible via a button on its side. Doesn’t work together with “rightsidebar” or “stickysidebar”. Defaults to false.
-    "collapsiblesidebar" : False,
-# Display external links differently from internal links. Defaults to false.
-    "externalrefs" : True,
-# Make the sidebar “fixed” so that it doesn’t scroll out of view for long body content. This may not work well with all browsers. Defaults to false.
-    "stickysidebar" : False,
-###########################
-# other parameters : colors (ref: http://sphinx-doc.org/theming.html)
-#    footerbgcolor (CSS color): Background color for the footer line.
-    "footerbgcolor"	: "#351642",
-#    footertextcolor (CSS color): Text color for the footer line.
-    "footertextcolor"	: "grey",
-#    sidebarbgcolor (CSS color): Background color for the sidebar.
-    "sidebarbgcolor"	: "#351642",
-#    sidebarbtncolor (CSS color): Background color for the sidebar collapse button (used when collapsiblesidebar is true).
-    "sidebarbtncolor"	: "#7E3B82",
-#    sidebartextcolor (CSS color): Text color for the sidebar.
-    "sidebartextcolor"	: "white",
-#    sidebarlinkcolor (CSS color): Link color for the sidebar.
-    "sidebarlinkcolor"	: "#F4DFF7",
-#    "sidebarlinkcolor"	: "#C58ACE",
-#    relbarbgcolor (CSS color): Background color for the relation bar.
-    "relbarbgcolor"	: "#4D1351",
-#    relbartextcolor (CSS color): Text color for the relation bar.
-    "relbartextcolor"	: "white",
-#    relbarlinkcolor (CSS color): Link color for the relation bar.
-    "relbarlinkcolor"	: "white",
-#    bgcolor (CSS color): Body background color.
-    "bgcolor"	: "white",
-#    textcolor (CSS color): Body text color.
-    "textcolor"	: "black",
-#    linkcolor (CSS color): Body link color.
-    "linkcolor"	: "#A200D3",
-#    visitedlinkcolor (CSS color): Body color for visited links.
-    "visitedlinkcolor"	: "#FF7A32",
-#    headbgcolor (CSS color): Background color for headings.
-    "headbgcolor"	: "#F0E1F7",
-#    headtextcolor (CSS color): Text color for headings.
-    "headtextcolor"	: "#4F2070",
-#    headlinkcolor (CSS color): Link color for headings.
-#    "headlinkcolor"	: "blue",
-#    codebgcolor (CSS color): Background color for code blocks.
-    "codebgcolor"	: "#CECFE2",
-#    codetextcolor (CSS color): Default text color for code blocks, if not set differently by the highlighting style.
-    "codetextcolor"	: "black",
-#    bodyfont (CSS font-family): Font for normal text.
-#    headfont (CSS font-family): Font for headings.
-}
-
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 
