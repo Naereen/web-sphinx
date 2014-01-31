@@ -2,15 +2,34 @@
     .templates/linkpdf.fr.html
     ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    Add links to cv.pdf on each French pages. (fr version)
+    Add links to cv.fr.pdf on each French pages.
 
     :copyright: Copyright 2013 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 <div class="language-selector">
-<a class="image-reference" href="index.fr.html" title="Page en Français" >
+<!-- <a class="image-reference" href="index.fr.html" title="Accueil en français" >
 	<img style="width:36px;height:23px;display:block;margin-left:auto;margin-right:auto"
-         src="{{ pathto('_images/.fr.gif', true)|e }}" alt="Page en Français" /></a>
+         src="{{ pathto('_images/.fr.gif', true)|e }}" alt="Accueil en français" /></a> -->
+<script type="text/javascript">
+	var s = window.location.pathname;
+	var n = s.length;
+	var b = s.substring(0, n-8);
+	var e = s.substring(n-8);
+	console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
+	if (e == '.fr.html') {
+		window.document.write('<a class="image-reference" href="'
+			+ b + '.en.html" title="En anglais ?" >'
+			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
+		    + 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>'); 
+	};
+	if (e == '.en.html') {
+		window.document.write('<a class="image-reference" href="'
+			+ b + '.fr.html" title="In French?" >'
+			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
+			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
+	};
+</script>
 </div>
 <!--<div id="google_translate_element"></div>
 <script type="text/javascript">
@@ -23,6 +42,6 @@ if (window.location.hostname == 'perso.crans.org'){
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
 <h3>Mon CV en PDF ?</h3>
 <ul class="this-page-menu">
- <li><a style="text-decoration: underline" href="cv.pdf" title="Mon CV en PDF !"
-         rel="nofollow">Voir mon CV en PDF</a> (en anglais).</li>
+ <li><a style="text-decoration: underline" href="cv.fr.pdf" title="Mon CV en PDF !"
+         rel="nofollow">Voir mon CV en PDF</a> (en français).</li>
 </ul>
