@@ -8,27 +8,16 @@
     :license: GPLv3, see LICENSE for details.
 #}
 {%- if show_source and has_source and sourcename %}
-<h3>My résumé in English ?</h3>
+<h3>My English résumé?</h3>
 <ul class="this-page-menu">
   <li><a style="text-decoration: underline" href="cv.en.html" title="Version anglaise"
          rel="nofollow">Consult it in English</a>, in HTML.</li></br>
 </ul>
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-if (window.location.hostname == 'perso.crans.org'){
- console.log("[GoogleTranslate] Initializing the translation plug-in...");
- function googleTranslateElementInit() {
-   new google.translate.TranslateElement({pageLanguage: 'fr', gaTrack: true, gaId: 'UA-38514290-1'}, 'google_translate_element');
- };};;
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <h3>Mon CV en PDF</h3>
 <ul class="this-page-menu">
-  <li><a style="text-decoration: underline" href="cv.pdf" title="Version PDF"
-         rel="nofollow">Voir la version PDF</a>, compilée depuis LaTeX par pdflatex.</li></br></br>
-  <li><a style="text-decoration: underline" href="cv.fr.pdf" title="Version PDF, depuis du rST"
-         rel="nofollow">Voir la version PDF</a>, compilée depuis rST (avec rst2latex et pdflatex), en français.</li></br>
-  <li><a style="text-decoration: underline" href="cv.en.pdf" title="Version PDF, depuis du rST"
-         rel="nofollow">Voir la version PDF</a>, compilée depuis rST (avec rst2latex et pdflatex), en anglais.</li></br>
+  <li><a style="text-decoration: underline" href="cv.fr.pdf" title="Version française PDF"
+         rel="nofollow">Voir la version française PDF</a>, compilée depuis LaTeX par pdflatex.</li></br>
+  <li><a style="text-decoration: underline" href="cv.en.pdf" title="Version anglaise PDF"
+         rel="nofollow">Voir la version anglais PDF</a>, compilée depuis LaTeX par pdflatex.</li></br>
 </ul>
 {%- endif %}
