@@ -1,5 +1,5 @@
 ######################################################
- FreeDNS : un service web pour le moins “intéressant”
+ FreeDNS : un service web pour le moins "intéressant"
 ######################################################
 .. include:: .special.rst
 .. warning:: Style familier !
@@ -40,14 +40,25 @@ Liste des sous-domaines que j'utilise
     vers http://perso.crans.org/besson/cv.pdf en mode :red:`cloak` (moche);
 
  * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélérer l'accès,
-   comme par exemple `<http://besson.or.gs/bin/pdflatex>`_..
+   comme par exemple `<http://besson.or.gs/bin/pdflatex>`_.
 
 
-.. note::
+.. note:: En fait non.
 
    Il n'y en a que 5, c'est normal, c'est la limite d'un compte gratuit.
    Bien sûr, je pourrais faire d'autres comptes au besoin...
    Donc non.
+
+Liste des autres sous-domaines que j'utilise
+--------------------------------------------
+ * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_ 
+    vers http://perso.crans.org/besson/jarvis.html
+
+ * `besson.k.vu <http://besson.k.vu>`_ et `jarvis.k.vu <http://jarvis.k.vu>`_
+    vers http://perso.crans.org/besson (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
+
+ * `naereen.uk.is <http://naereen.uk.is>`_
+    vers http://perso.crans.org/besson/ (aussi);
 
 dot.tk
 ------
@@ -59,7 +70,7 @@ Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:
 À l'origine de cette idée farfelue
 ----------------------------------
  Un camarade de l'ÉNS qui a utilisé ce service, pour faire pointer *tan.uk.to*
- vers son serveur, qui émule le comportement du site local (au Cr@ns) **tanuki**.
+ vers son serveur, qui émulait le comportement du site local (au Cr@ns) **tanuki**.
 
  C'est le "jeu de mot" formé par cette URL (tanukto ~ tanuki) qui m'a donné
  envie d'aller regarder de plus près c'te affaire !
