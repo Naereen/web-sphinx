@@ -23,6 +23,14 @@
       </image>
 
       <item>
+       <title>Un petit dossier /publis/latex/ pour stocker les feuilles de style et modèles.</title>
+       <link>http://besson.qc.to/publis/latex/</link>
+       <description>autotex,chktex,pdflatex: scripts. naereen*.sty: styles. template.tex: modèle utilisé par autotex.</description>
+       <guid>http://jarvis.k.vu/publis/latex/</guid>
+       <pubDate>Sat, 01 Feb 2014 11:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Enfin un CV en français ET en anglais !</title>
        <link>http://besson.qc.to/cv.fr.pdf</link>
        <description>Au fait, la mise à jour de jquery s'est bien passée !
