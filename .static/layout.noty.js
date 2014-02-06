@@ -3,11 +3,67 @@
  * :Copyrights: (C) 2014 Lilian Besson
  * :Licence: GPLv3 (see https://bitbucket.org/lbesson/web-sphinx/)
  */
+// A little foreplay with cookies
+  function createCookie(name, value, expires, path, domain) {
+    var cookie = name + "=" + escape(value) + ";";
+
+    if (expires) {
+      // If it's a date
+      if(expires instanceof Date) {
+        // If it isn't a valid date
+        if (isNaN(expires.getTime()))
+         expires = new Date();
+      }
+      else
+        expires = new Date(new Date().getTime() + parseInt(expires) * 1000 * 60 * 60 * 24);
+
+      cookie += "expires=" + expires.toGMTString() + ";";
+    }
+
+    if (path)
+      cookie += "path=" + path + ";";
+    if (domain)
+      cookie += "domain=" + domain + ";";
+
+    document.cookie = cookie;
+  };
+
+  function setCookie(cname, cvalue, exdays){
+    var d = new Date();
+    d.setTime(d.getTime()+(exdays*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+  };
+
+  function getCookie(cname) {
+    var regexp = new RegExp("(?:^" + cname + "|;\s*"+ cname + ")=(.*?)(?:;|$)", "g");
+    var result = regexp.exec(document.cookie);
+    return (result === null) ? null : result[1];
+  };
+
+  function useCookieToChangeStyle(newstyle) {
+    console.log("useCookieToChangeStyle(" + newstyle + ")");
+    // Set a cookie to know which style to use
+    if (getCookie("layoutstyle") == "") {
+      createCookie("layoutstyle", "purple", 30);
+      console.log("[layoutstyle] You know have a new cookie: " + getCookie("layoutstyle"));
+    }
+    else {
+      var newcolor = ((newstyle != "") ? newstyle : getCookie("layoutstyle"));
+      setCookie("layoutstyle", newcolor, 30);
+      console.log("[layoutstyle] Setting cookie to " + newcolor)
+    }
+    changeStyle(getCookie("layoutstyle"));
+  };
+
+  useCookieToChangeStyle("");
+
 // $(window).load(function(){
 $(document).ready(function(){
  setTimeout(function(){ NProgress.done(); }, 1000);
 
- if (screen.width > 680) { // BETA responsive
+ if (screen.width > 680) {
+ // BETA responsive
    setTimeout(function(){ noty({
     text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: false,
     buttons: [ // this = button element, $noty = $noty element
@@ -23,45 +79,15 @@ $(document).ready(function(){
            type: 'error', layout: 'center', timeout: false});
         }}]
     }) }, 3000);
-  };
 
- // A little foreplay with cookies
-  function setCookie(cname, cvalue, exdays){
-    var d = new Date();
-    d.setTime(d.getTime()+(exdays*24*60*60*1000));
-    var expires = "expires="+d.toGMTString();
-    document.cookie = cname + "=" + cvalue + "; " + expires;
-  };
-
-  function getCookie(cname) {
-    var name = cname + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0; i<ca.length; i++)
-    {
-    var c = ca[i].trim();
-    if (c.indexOf(name)==0) return c.substring(name.length,c.length);
-    }
-    return "";
-  };
-
-  function useCookieToChangeStyle(newstyle) {
-    console.log("useCookieToChangeStyle(" + newstyle + ")");
-    // Set a cookie to know which style to use
-    var newcolor = ((newstyle != "") ? newstyle : ( (getCookie("layoutstyle")!="") ? getCookie("layoutstyle") : "purple"));
-    console.log("[layoutstyle] Setting/Creating cookie to " + newcolor)
-    setCookie("layoutstyle", newcolor, 30);
-    // console.log("[layoutstyle] You know have a new cookie: " + getCookie("layoutstyle"));
-    changeStyle(getCookie("layoutstyle"));
-  };
-
-  useCookieToChangeStyle("");
- 
  // BETA experimentation to dynamically change the color stylesheet.
- if (screen.width > 680) { // BETA responsive
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
-    text: 'Quel style voulez-vous utiliser <i>désormais</i> ?</br></br>(Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>)', timeout: false,
-    layout: 'center', type: 'info',
+    text: ('Quel style voulez-vous utiliser <i>désormais</i> ?</br>'
+      + '</br><small>(Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
+      + ' Actuellement: ' + getCookie("layoutstyle") + ')</small>'
+    ),
+    timeout: false, layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-info', text: "Violet (défaut)", onClick: function($noty) {
           $noty.close();
