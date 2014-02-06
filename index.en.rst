@@ -13,15 +13,15 @@ I am **Lilian Besson**, a **French** student at ENS de Cachan,
 a *French* University, near Paris.
 In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam.
 
-A quick word about me
-^^^^^^^^^^^^^^^^^^^^^
+A few words about me
+^^^^^^^^^^^^^^^^^^^^
 I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
 I also like using new technologies, and enjoy design tiny pieces of software or web content
 for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
 or Linux command line tools (`see this page for example (in French) <bin.html>`_).  
 
-A quick word about this site
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A few words about this site
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
 when I have the time, hoping it can be useful to someone (at least me, but who knows...).
 :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.

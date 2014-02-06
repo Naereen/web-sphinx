@@ -59,14 +59,7 @@ div.footer {
     margin-left: 230px; /* Disable if using meny */
 }
 
-/* BETA responsive
-Première étape: la cacher ! (ou la mettre au fond)
-Seconde étape: Désactiver
- - GG Translate,
- - forkit DONE
- - noty,
- - scrollup DONE
-sur mobile ! */
+/* BETA responsive */
 @media (max-width: 680px){
     body, div.body {
         /*overflow-x: auto;*/
@@ -90,6 +83,16 @@ sur mobile ! */
         position: relative;
         width: 90%;
     }
+
+    div.related #locationOfThePage {
+        display: none;
+        /* visibility: hidden; */
+    }
+
+    div.related #locationOfThePage a {
+        display: none;
+        /* visibility: hidden; */
+    }
 }
 /* Fin BETA responsive */
 
@@ -104,9 +107,17 @@ div.related {
     color: white;
 }
 
-div.related a {
-    color: white;
-}
+    div.related a {
+        color: white;
+    }
+
+    div.related #locationOfThePage {
+        color: grey; font-size: 100%;
+    }
+
+    div.related #locationOfThePage a {
+        color: grey; text-decoration: underline
+    }
 
 div.sphinxsidebar {
 }

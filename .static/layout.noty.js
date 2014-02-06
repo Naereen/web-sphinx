@@ -14,16 +14,18 @@
         if (isNaN(expires.getTime()))
          expires = new Date();
       }
-      else
+      else {
         expires = new Date(new Date().getTime() + parseInt(expires) * 1000 * 60 * 60 * 24);
-
+      };
       cookie += "expires=" + expires.toGMTString() + ";";
-    }
+    };
 
-    if (path)
+    if (path) {
       cookie += "path=" + path + ";";
-    if (domain)
+    };
+    if (domain) {
       cookie += "domain=" + domain + ";";
+    };
 
     document.cookie = cookie;
   };
@@ -38,7 +40,7 @@
   function getCookie(cname) {
     var regexp = new RegExp("(?:^" + cname + "|;\s*"+ cname + ")=(.*?)(?:;|$)", "g");
     var result = regexp.exec(document.cookie);
-    return (result === null) ? null : result[1];
+    return (result === null) ? "" : result[1];
   };
 
   function useCookieToChangeStyle(newstyle) {
@@ -50,8 +52,9 @@
     }
     else {
       var newcolor = ((newstyle != "") ? newstyle : getCookie("layoutstyle"));
-      setCookie("layoutstyle", newcolor, 30);
+      newcolor = (newcolor == "") ? "purple" : newcolor;
       console.log("[layoutstyle] Setting cookie to " + newcolor)
+      setCookie("layoutstyle", newcolor, 30);
     }
     changeStyle(getCookie("layoutstyle"));
   };
@@ -60,12 +63,12 @@
 
 // $(window).load(function(){
 $(document).ready(function(){
- setTimeout(function(){ NProgress.done(); }, 1000);
+ setTimeout(function(){ NProgress.done(); }, 500);
 
  if (screen.width > 680) {
  // BETA responsive
    setTimeout(function(){ noty({
-    text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: 5000, closeWith: ['click']
+    text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
           $noty.close();
@@ -79,8 +82,6 @@ $(document).ready(function(){
            type: 'error', layout: 'center', timeout: false});
         }}]
     }) }, 3000);
-
- // BETA experimentation to dynamically change the color stylesheet.
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
     text: ('Quel style voulez-vous utiliser <i>désormais</i> ?</br>'
@@ -89,6 +90,9 @@ $(document).ready(function(){
     ),
     timeout: 5000, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
+      {addClass: 'btn btn-warning btn-sm', text: "Fermer", onClick: function($noty) {
+          $noty.close();
+        }}, 
       {addClass: 'btn btn-primary btn-sm', text: "Violet", onClick: function($noty) {
           useCookieToChangeStyle("purple");
           $noty.close();
