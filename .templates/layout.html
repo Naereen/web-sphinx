@@ -27,26 +27,26 @@
   <meta name="viewport" content="width=device-width, maximum-scale=2.0, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
-  <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" />
+  <!-- <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" /> -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
   <link rel="shortcut icon" type="image/png" href="{{ pathto('_static/.besson.png', true)|e }}" />
-  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}">
-  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}">
+  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
+  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
   <!-- BETA new version of bootstrap -->
   <!-- <link rel="stylesheet" media="screen" href="{{ pathto('_static/bootstrap.min.css', true)|e }}"> -->
   <!-- <link rel="stylesheet" media="screen" href="{{ pathto('_static/bootstrap-theme.min.css', true)|e }}"> -->
-  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}">
-  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}">
+  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
+   <script async type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
-   <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
+   <script async type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
    <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
-   <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
-<script type="text/javascript">
+   <script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+<script async type="text/javascript">
  console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit...");
  /* jQuery.noty plugin */
     $.noty.defaults = {
@@ -58,7 +58,7 @@
             open: {height: 'toggle'},
             close: {height: 'toggle'},
             easing: 'swing',
-            speed: 200 // opening & closing animation speed
+            speed: 200 // opening and closing animation speed
         },
         timeout: false, // delay for closing event. Set false for sticky notifications
         force: true, // adds notification to the beginning of queue when set to true
@@ -90,7 +90,7 @@
 {% endblock %}
 
 {% block relbaritems %}
- <script type="text/javascript">
+ <script async type="text/javascript">
   function writeLocationOfThePage(beforetext, aftertext) {
     if (screen.width > 480) {
     window.document.write(beforetext + "<span class=\"locationOfThePage\">"
@@ -141,15 +141,15 @@
 		    noty({text: ("<b>Il va faire tout " + newcolor + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
 	} };
   </script>
-	<script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
-	<script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
+	<script async type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
+	<script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
+	 <script async type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
+	 <script async type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
-<script type="text/javascript">
+	 <script async type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
+<script async type="text/javascript">
 console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2014.");
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
@@ -249,7 +249,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://www.ghostery.com">Ghostery</a>.
 <br>{% include "geekcode.en.html" %}
-<div id="supportBadges"><ul>
+<div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
  <img alt="Optimized for Firefox, tested on Firefox 26.0"
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}" 
@@ -290,7 +290,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
       - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
-<li><script type="text/javascript">
+<li><script async type="text/javascript">
 	if (window.location.host.substring(0,6) == 'jarvis') {
 	window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
 	+ window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 

@@ -37,11 +37,11 @@
   .smallpar { font-size: small; }
 
 /* Style pour les badges en bas de la page. */
-  div#supportBadges { margin:1em; text-align:center; }
-    #supportBadges ul { padding:0; display:inline; }
-    #supportBadges li { display:inline; }
-    #supportBadges a { margin-right:1px; opacity:0.6; }
-    #supportBadges a:hover { opacity:1; }
+  div.supportBadges { margin:1em; text-align:center; }
+  div.supportBadges ul { padding:0; display:inline; }
+  div.supportBadges li { display:inline; }
+  div.supportBadges a { margin-right:1px; opacity:0.6; }
+  div.supportBadges a:hover { opacity:1; }
 
 /* Image style for scrollUp jQuery plugin */
 #scrollUpLeft {
