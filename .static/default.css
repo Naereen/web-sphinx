@@ -1,6 +1,6 @@
 /*
  * default.css
- * ~~~~~~~~~~~~~
+ * ~~~~~~~~~~~
  *
  * Sphinx stylesheet -- default theme.
  *
@@ -13,9 +13,9 @@
 
 /*@import url("bootstrap.css");*/
 /*@import url("bootstrap-theme.css");*/
-html {
+/*html {
 	font-size: 100%;
-}
+}*/
 
 @import url("basic.css");
 

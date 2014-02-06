@@ -100,12 +100,10 @@ $(document).ready(function(){
       {addClass: 'btn btn-success btn-sm', text: 'Vert !', onClick: function($noty) {
           useCookieToChangeStyle("green");
           $noty.close();
-          // $.vein.inject(["div.related"], {"background-color" : "darkgreen"}); // Un peu brutal
         }}, 
       {addClass: 'btn btn-warning btn-sm', text: 'Orange !', onClick: function($noty) {
           useCookieToChangeStyle("orange");
           $noty.close();
-          // $.vein.inject(["div.related"], {"background-color" : "orange"}); // Un peu brutal
         }}
     ]
     }) });
