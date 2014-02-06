@@ -39,14 +39,14 @@
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script async type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
+   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script async type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
    <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script>
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
    <script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
-<script async type="text/javascript">
+<script type="text/javascript">
  console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit...");
  /* jQuery.noty plugin */
     $.noty.defaults = {
@@ -90,7 +90,7 @@
 {% endblock %}
 
 {% block relbaritems %}
- <script async type="text/javascript">
+ <script type="text/javascript">
   function writeLocationOfThePage(beforetext, aftertext) {
     if (screen.width > 480) {
     window.document.write(beforetext + "<span class=\"locationOfThePage\">"
@@ -149,7 +149,7 @@
 	 <script async type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 	 <script async type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
-<script async type="text/javascript">
+<script type="text/javascript">
 console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2014.");
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
@@ -290,7 +290,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
       - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
-<li><script async type="text/javascript">
+<li><script type="text/javascript">
 	if (window.location.host.substring(0,6) == 'jarvis') {
 	window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
 	+ window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
