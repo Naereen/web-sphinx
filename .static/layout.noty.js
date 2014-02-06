@@ -65,7 +65,7 @@ $(document).ready(function(){
  if (screen.width > 680) {
  // BETA responsive
    setTimeout(function(){ noty({
-    text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: false,
+    text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: 5000, closeWith: ['click']
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
           $noty.close();
@@ -84,23 +84,23 @@ $(document).ready(function(){
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
     text: ('Quel style voulez-vous utiliser <i>désormais</i> ?</br>'
-      + '</br><small>(Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
-      + ' Actuellement: ' + getCookie("layoutstyle") + ')</small>'
+      + '</br><small>Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
+      + ' Actuellement: ' + getCookie("layoutstyle") + '</small>'
     ),
-    timeout: false, layout: 'center', type: 'info',
+    timeout: 5000, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-info', text: "Violet (défaut)", onClick: function($noty) {
-          $noty.close();
+      {addClass: 'btn btn-primary btn-sm', text: "Violet", onClick: function($noty) {
           useCookieToChangeStyle("purple");
-        }}, 
-      {addClass: 'btn btn-success', text: 'Vert !', onClick: function($noty) {
           $noty.close();
+        }}, 
+      {addClass: 'btn btn-success btn-sm', text: 'Vert !', onClick: function($noty) {
           useCookieToChangeStyle("green");
+          $noty.close();
           // $.vein.inject(["div.related"], {"background-color" : "darkgreen"}); // Un peu brutal
         }}, 
-      {addClass: 'btn btn-warning', text: 'Orange !', onClick: function($noty) {
-          $noty.close();
+      {addClass: 'btn btn-warning btn-sm', text: 'Orange !', onClick: function($noty) {
           useCookieToChangeStyle("orange");
+          $noty.close();
           // $.vein.inject(["div.related"], {"background-color" : "orange"}); // Un peu brutal
         }}
     ]

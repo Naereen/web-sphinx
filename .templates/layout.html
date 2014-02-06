@@ -141,8 +141,18 @@
 {% block footer %}
 {{ super() }}
 <div class="footer">
-  <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
   <script type="text/javascript">NProgress.start();</script>
+  <script type="text/javascript">
+	function changeStyle(color) {
+		if (color != ""){
+			$("head").append(
+		    	$("<link/>", {href: ("_static/" + color + ".css?1"), rel: "stylesheet"})
+		    );
+		    noty({text: ("<b>Il va faire tout " + color + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
+	} };
+  </script>
+  <script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
+  <script type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
@@ -307,17 +317,6 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <li><a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li>
 </noscript>
 </ul>
-<script type="text/javascript">
-	function changeStyle(color) {
-		if (color != ""){
-			$("head").append(
-		    	$("<link/>", {href: ("_static/" + color + ".css?1"), rel: "stylesheet"})
-		    );
-		    noty({text: ("<b>Il va faire tout " + color + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
-	   	}
-	};
-</script>
-<script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
 </div></div> 
 <!--
  * This file is © Lilian Besson, 2011-2014.
