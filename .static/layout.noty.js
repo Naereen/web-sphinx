@@ -68,7 +68,7 @@ $(document).ready(function(){
  if (screen.width > 680) {
  // BETA responsive
    setTimeout(function(){ noty({
-    text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: 5000, closeWith: ['click'],
+    text: 'Cette page vous <b>plait-elle</b> ?', timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
           $noty.close();
@@ -90,7 +90,7 @@ $(document).ready(function(){
     ),
     timeout: 5000, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-warning btn-sm', text: "Fermer", onClick: function($noty) {
+      {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();
         }}, 
       {addClass: 'btn btn-primary btn-sm', text: "Violet", onClick: function($noty) {

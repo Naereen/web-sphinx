@@ -11,6 +11,12 @@
  *
  */
 
+/*@import url("bootstrap.css");*/
+/*@import url("bootstrap-theme.css");*/
+html {
+	font-size: 100%;
+}
+
 @import url("basic.css");
 
 /* -- page layout ----------------------------------------------------------- */
@@ -84,14 +90,9 @@ div.footer {
         width: 90%;
     }
 
-    div.related #locationOfThePage {
+    span.locationOfThePage {
         display: none;
-        /* visibility: hidden; */
-    }
-
-    div.related #locationOfThePage a {
-        display: none;
-        /* visibility: hidden; */
+        visibility: hidden; 
     }
 }
 /* Fin BETA responsive */
@@ -111,13 +112,14 @@ div.related {
         color: white;
     }
 
-    div.related #locationOfThePage {
-        color: grey; font-size: 100%;
+    span.locationOfThePage {
+        color: grey;
+        font-size: 100%;
     }
-
-    div.related #locationOfThePage a {
-        color: grey; text-decoration: underline
-    }
+	    span.locationOfThePage a {
+	        color: grey;
+	        text-decoration: underline;
+	    }
 
 div.sphinxsidebar {
 }
