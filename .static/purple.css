@@ -1,0 +1,28 @@
+/*
+ * purple.css
+ * ~~~~~~~~~~
+ *
+ * Sphinx stylesheet -- experimentation to dynamically change the color theme.
+ *
+ * :copyrights: Lilian BESSON, (c) 2014
+ * :license: GPL, see LICENSE for details
+ *
+ */
+
+body, div.document {
+    background-color: #351642; /* Purple Theme */
+}
+
+div.related {
+    background-color: #4D1351; /* Purple Theme */
+}
+
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    color: #750404; /* Purple Theme */
+    background-color: #F0E1F7; /* Purple Theme */
+}

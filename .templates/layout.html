@@ -308,61 +308,16 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 </noscript>
 </ul>
 <script type="text/javascript">
-  $(window).load(function(){
-   setTimeout(function(){ NProgress.done(); }, 1000);
-
-   if (screen.width > 680) { // BETA responsive
-     setTimeout(function(){ noty({
-      text: 'Cette page vous paraît-elle <b>bien</b> écrite ?', timeout: false,
-      buttons: [ // this = button element, $noty = $noty element
-        {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
-            $noty.close();
-            noty({text: "<b>Normal, je code bien :)</b>"
-             + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
-          }}, 
-        {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
-            $noty.close();
-            noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-             "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
-             type: 'error', layout: 'center', timeout: false});
-          }}]
-      }) }, 3000);
-    };
-
-   // BETA experimentation to dynamically change the color stylesheet.
-   if (screen.width > 680) { // BETA responsive
-     Mousetrap.bind(["s", "S"], function() { noty({
-      text: 'Changer le <i>style</i> ?</br>(Cette fonctionnalité est toujours en bêta)', timeout: false,
-      layout: 'center', type: 'info',
-      buttons: [ // this = button element, $noty = $noty element
-        {addClass: 'btn btn-info', text: "Non", onClick: function($noty) {
-            $noty.close();
-            noty({text: "Le style vous plaît déjà ? Ravi de l'apprendre !", timeout: 2000});
-            $("head").append(
-             $("<link/>", {href: "{{ pathto('_static/default.css', true)|e }}", rel: "stylesheet"})
-            );
-          }}, 
-        {addClass: 'btn btn-success', text: 'En vert !', onClick: function($noty) {
-            $noty.close();
-            noty({text: "<b>Il va faire tout vert !</b></br><small>Ta gueule !</small>", timeout: 2000});
-            $("head").append(
-             $("<link/>", {href: "{{ pathto('_static/green.css', true)|e }}", rel: "stylesheet"})
-            );
-            // $.vein.inject(["div.related"], {"background-color" : "darkgreen"}); // Un peu brutal
-          }}, 
-        {addClass: 'btn btn-warning', text: 'En orange !', onClick: function($noty) {
-            $noty.close();
-            noty({text: "<b>Il va faire tout orange !</b></br><small>Ta gueule !</small>", timeout: 2000});
-            $("head").append(
-             $("<link/>", {href: "{{ pathto('_static/orange.css', true)|e }}", rel: "stylesheet"})
-            );
-            // $.vein.inject(["div.related"], {"background-color" : "orange"}); // Un peu brutal
-          }}
-      ]
-      }) });
-    };
-  });
+	function changeStyle(color) {
+		if (color != ""){
+			$("head").append(
+		    	$("<link/>", {href: ("_static/" + color + ".css?1"), rel: "stylesheet"})
+		    );
+		    noty({text: ("<b>Il va faire tout " + color + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
+	   	}
+	};
 </script>
+<script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
 </div></div> 
 <!--
  * This file is © Lilian Besson, 2011-2014.
