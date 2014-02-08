@@ -27,16 +27,13 @@
   <meta name="viewport" content="width=device-width, maximum-scale=2.0, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
-  <!-- <meta name="google-translate-customization" content="a85661a1c6e97576-fa60e54e6e66fb19-g69b2d76b91463205-17" /> -->
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
   <link rel="shortcut icon" type="image/png" href="{{ pathto('_static/.besson.png', true)|e }}" />
   <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
   <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
-  <!-- BETA new version of bootstrap -->
-  <!-- <link rel="stylesheet" media="screen" href="{{ pathto('_static/bootstrap.min.css', true)|e }}"> -->
-  <!-- <link rel="stylesheet" media="screen" href="{{ pathto('_static/bootstrap-theme.min.css', true)|e }}"> -->
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/basic.css', true)|e }}" />
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
@@ -224,8 +221,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "06 02 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "06";
+   var last_updated_value = "{{ last_updated }}" || "08 02 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "08";
     var month = last_updated_value.substring(3,  6 ) || "02"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
