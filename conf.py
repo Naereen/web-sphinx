@@ -204,17 +204,17 @@ html_short_title = u"Lilian Besson"
 # of the sidebar.
 # html_logo = u".besson_transparent.png"
 
-# The name of an image file (within the static path) to use as favicon of the
-# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
-# pixels large.
-# html_favicon = u"favicon.ico"
-# html_favicon = u".besson.png"
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = [ '.static' ]
 # , tinkerer.paths.static ] ## FIXME add this to use tinkerer
+
+# The name of an image file (within the static path) to use as favicon of the
+# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+html_favicon = u".static/.favicon.ico"
+# html_favicon = u".besson.png"
 
 #Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
 html_add_permalinks = True
@@ -226,7 +226,7 @@ html_output_encoding = u"utf-8"
 # using the given strftime format.
 html_last_updated_fmt = u"%d %b %Y, %Hh:%Mm:%Ss"
 
-printc("<yellow>[INFO]<white> Using html_last_updated_fmt\n<u>%s<U>..." % html_last_updated_fmt)
+printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>%s<U>..." % html_last_updated_fmt)
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
