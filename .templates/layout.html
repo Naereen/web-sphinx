@@ -130,13 +130,13 @@
 {% block footer %}
 {{ super() }}
 <div class="footer">
-  <script type="text/javascript">NProgress.start();</script>
   <script type="text/javascript">
+  NProgress.start();
 	function changeStyle(newcolor) {
 		if (newcolor != "") {
-			console.log("[INFO] Loading the stylesheet '" + ("_static/" + newcolor + ".css") + "'");
+			console.log("[INFO] Loading the stylesheet '" + ("//perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
 			$("head").append(
-		    	$("<link/>", {href: ("_static/" + newcolor + ".css"), rel: "stylesheet"})
+		    	$("<link/>", {href: ("//perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
 		    noty({text: ("<b>Il va faire tout " + newcolor + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
 	} };
