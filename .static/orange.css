@@ -10,13 +10,11 @@
  */
 
 body, div.document {
-    background-color: #381B03; /* Orange Theme */
+    background-color: #331701; /* Orange Theme */
 }
-
 div.related {
-    background-color: #4F2A06; /* Orange Theme */
+    background-color: #5C2203; /* Orange Theme */
 }
-
 div.body h1,
 div.body h2,
 div.body h3,
@@ -24,5 +22,9 @@ div.body h4,
 div.body h5,
 div.body h6 {
     color: black; /* Orange Theme */
-    background-color: #F6FFC4; /* Orange Theme */
+    background-color: #EAF5AE; /* Orange Theme */
+}
+.forkit-curtain,
+.forkit .tag {
+	background: #FF6700; /* Orange Theme */
 }

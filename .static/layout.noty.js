@@ -93,7 +93,7 @@ $(document).ready(function(){
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();
         }}, 
-      {addClass: 'btn btn-primary btn-sm', text: "Violet", onClick: function($noty) {
+      {addClass: 'btn btn-primary btn-sm', text: "Violet !", onClick: function($noty) {
           useCookieToChangeStyle("purple");
           $noty.close();
         }}, 

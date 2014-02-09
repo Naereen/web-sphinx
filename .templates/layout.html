@@ -32,7 +32,6 @@
   <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
   <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
-  <!-- <link rel="stylesheet" href="{{ pathto('_static/basic.css', true)|e }}" /> -->
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
@@ -134,7 +133,7 @@
 			$("head").append(
 		    	$("<link/>", {href: ("//perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
-		    noty({text: ("<b>Il va faire tout " + newcolor + " !</b></br><small>Style bien changé ?</small>"), timeout: 2000});
+		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 2000});
 	} };
   </script>
 	<script async type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
@@ -220,8 +219,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "08 02 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "08";
+   var last_updated_value = "{{ last_updated }}" || "09 02 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "09";
     var month = last_updated_value.substring(3,  6 ) || "02"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";

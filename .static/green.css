@@ -10,19 +10,21 @@
  */
 
 body, div.document {
-    background-color: #081E02; /* Green Theme */
+    background-color: #051401; /* Green Theme */
 }
-
 div.related {
-    background-color: #15350C; /* Green Theme */
+    background-color: #1D4013; /* Green Theme */
 }
-
 div.body h1,
 div.body h2,
 div.body h3,
 div.body h4,
 div.body h5,
 div.body h6 {
-    color: #750404; /* Green Theme */
-    background-color: #E0FFD6; /* Green Theme */
+    color: #5E0303; /* Green Theme */
+    background-color: #D9FFCC; /* Green Theme */
+}
+.forkit-curtain,
+.forkit .tag {
+	background: #28840B; /* Green Theme */
 }

@@ -12,11 +12,9 @@
 body, div.document {
     background-color: #351642; /* Purple Theme */
 }
-
 div.related {
     background-color: #4D1351; /* Purple Theme */
 }
-
 div.body h1,
 div.body h2,
 div.body h3,
@@ -25,4 +23,8 @@ div.body h5,
 div.body h6 {
     color: #4F2070; /* Purple Theme */
     background-color: #F0E1F7; /* Purple Theme */
+}
+.forkit-curtain,
+.forkit .tag {
+	background: #3B5998; /* Purple Theme */
 }
