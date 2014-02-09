@@ -15,7 +15,7 @@
 --------
 Cette page est pas vraiment utile.
 
-Si ce n'est pour avoir une seule page présentant plein de liens vers  des services utiles (et variés).
+Si ce n'est pour avoir une seule page présentant plein de liens vers des services utiles (et variés).
 
 .. sidebar:: Retourner à l'accueil
 
@@ -30,10 +30,10 @@ Liste des outils
     N'hésitez pas à m'envoyer des liens supplémentaires !
 
 
-.. Liste des références
+.. note:: Liste des références
 
-* `article du monde "Comment protéger ses sources" 
-  <http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/>`_,
+   * `article du monde "Comment protéger ses sources" <http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/>`_,
+   * `securityinabox.org/fr <https://securityinabox.org/fr>`_ le guide de **référence ultime en sécurité informatique**.
 
 ---------------------------------------------------------------------
 

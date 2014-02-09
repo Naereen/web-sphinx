@@ -15,14 +15,16 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
 
 Études
 ^^^^^^
-En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
-et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
-les deux avec une mention Bien.
+* En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
+  et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
+  les deux avec une mention Bien.
 
-En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
-mention Bien (L3, *Bachelor of Science* en anglais).
+* En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
+  mention Bien (L3, *Bachelor of Science* en anglais).
 
-En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
+* En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
+
+* Avant ça, je vivais à Briançon (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S en 2009.
 
 .. container:: smallpar
 
@@ -82,13 +84,11 @@ Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
 .. sidebar:: CV
 
-   Mon *CV* est disponible ici `<cv.pdf>`_ (en anglais).
-   Il est réalisé en ``LaTeX`` avec le paquet *moderncv*.
-   Une version produite à partir d'un fichier écrit en ``reStructuredText`` 
-   est disponible ici `cv.fr <cv.fr.html>`_.
+   Mon *CV* est disponible ici `<cv.fr.pdf>`_ en français ou `<cv.en.pdf>`_ en anglais
+   (rédigé en ``LaTeX`` avec le paquet *moderncv* et compilé avec `PDFLaTeX <bin/pdflatex>`_).
 
 
-Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
+Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
 #. via mes dépôts *git* sur mon compte *bitbucket*, 
    `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
@@ -99,23 +99,21 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets en ligne :
 #. ou sur ma page personnelle *Wikipédia*, 
    `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
 
-#. ou encore sur *Transifex* (plate-forme de traduction de logiciel et de sites web)
+#. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'ai effectué un **stage de recherche** pour le 
 troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
-
 J'ai travaillé à l'**UCL** (:under:`University College of London`),
 sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_
 (et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_),
-à propos de logique de séparation, de planning en `AI`, 
+à propos de logique de séparation, de planification en `AI`, 
 et de l'étude de la modularité dans ces deux domaines.
 
 #. Mon rapport (en anglais) : `<rapportM1Info13.pdf>`_,
 #. Les slides (en français) : `<slidesM1Info13.pdf>`_.
-
 
 :Notes: Jules m'a donné **19/20**.
         Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**,
@@ -123,8 +121,8 @@ et de l'étude de la modularité dans ces deux domaines.
 
 ------------------------------------------------------------------------------
 
-Stage de L3
-^^^^^^^^^^^
+Stage de L3 (*Bachelor of Science*)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'ai fait mon stage de second semestre de L3 de maths, 
 sous la direction de `Florian de Vuyst <http://fdevuyst.jimdo.com/enseignement/>`_, 
 sur la modélisation numérique d'équations différentielles de mécaniques des fluides, 
@@ -138,7 +136,7 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
    est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 
-:Notes: Nous (Sophie Hecht, Maxime Isnard et moi) avions obtenu **17/20** pour nos travaux.
+:Note: Nous (Sophie Hecht, Maxime Isnard et moi) avions obtenu **17/20** pour nos travaux.
 
 --------------------------------------------------------------------
 
@@ -160,7 +158,6 @@ ANSI Colors
 ^^^^^^^^^^^
 Je suis l'auteur d'un petit module / script pour manipuler les *couleurs* ANSI
 (*i.e.* en mode textuel, dans un terminal).
-
 Ce module est hébergé sur 
 `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 Sa documentation est hébergée sur 
@@ -176,7 +173,6 @@ Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un p
 formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
 Le projet est surtout hebergé sur **BitBucket** 
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
-
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**, 
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
 J'ai eu **16.9/20** pour ce projet.
@@ -193,6 +189,7 @@ J'ai eu **15/20** pour ce projet.
 
 Projet Labyrinthe-Démineur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un petit jeu de labyrinthe-démineur, une sorte de mélange entre démineur et Bomberman, en ``OCaml``
 Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai eu **19/20** !)
 
 ------------------------------------------------------------------------------
@@ -238,16 +235,19 @@ du *flux*, la page `<rss.html>`_ est là pour ça.
 
 Traductions
 ^^^^^^^^^^^
-La page `<transifex.html>`_ parle de traductions de logiciels et de sites web.
+Depuis mars 2013, je participe à la traduction de différents logiciels et sites web.
 :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
+La page `<transifex.html>`_ présente de façon narrative le premier contact avec le site `transifex <http://www.transifex.com>`_.
+J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et plus récemment
+j'ai traduit en français le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
 La page `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
-de commande, à *Wolfram|Alpha*, et embarque quelques exemples avec ``sphinx.ext.runblock``.
+de commande, à `Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
-Galerie photo et musique
-^^^^^^^^^^^^^^^^^^^^^^^^
+Galerie photos et musiques
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, ici `<generateglisse.sh/>`_
    (actuellement, les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
@@ -258,8 +258,10 @@ Galerie photo et musique
 
 Pages de démonstrations
 -----------------------
-`<demo.html>`_ est là pour tester les fonctionnalités de base
-du langage *reStructuredText* :red:`(je n'en suis pas l'auteur)`.
+.. container:: smallpar
+
+   `<demo.html>`_ est là pour tester les fonctionnalités de base
+   du langage *reStructuredText* :red:`(je n'en suis pas l'auteur)`.
 
 Extensions non officielles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -308,13 +310,12 @@ Liens externes
 ^^^^^^^^^^^^^^
 #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
 #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
-#. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ :red:`New!`. Cette redirection est proposée par `FreeDNS <freedns.html>`_ en mode ``cloak``, c'est-à-dire cachée : on peut naviguer `<http://besson.or.gs>`_ sans savoir vraiment où est hébergée la page.
+#. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ ou `<http://besson.or.gs/publis/puzzle/>`_.
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
    d'afficher n'importe quelle page (par exemple, 
    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
-#. `<https://jarvis.crans.org>`_ ma machine !
 #. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec dot.tk, un autre service gratuit.
 
 .. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
@@ -360,6 +361,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    embed
    sparkline
    vieprivee
+   autostop
    tutoweb
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index.en>
