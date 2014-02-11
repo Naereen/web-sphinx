@@ -16,7 +16,7 @@ Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS 
 Études
 ^^^^^^
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
-  et **la première année du master de mathématiques appliquées de l'ÉNS de Cachan**,
+  et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
   les deux avec une mention Bien.
 
 * En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,

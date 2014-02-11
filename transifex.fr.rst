@@ -176,4 +176,41 @@ Mon profil
    :alt: Capture d'écran de mon profil, concentré sur le projet bitbucket.org
    :target: https://www.transifex.com/accounts/profile/Naereen/
  
+
+------------------------------------------------------------------------------
+
+Et après ?
+----------
+Je suis toujours intéressé par la traduction complète en français de n'importe
+quel logiciel ou site web, du moment que j'en suis fan et que je m'en sers souvent
+(et qu'il soit libre, open-source et gratuit).
+
+Aussi sur Transifex
+^^^^^^^^^^^^^^^^^^^
+Toujours sur Transifex, je participe aussi aux projets suivants :
+
+ * `Sphinx <http://sphinx-doc.org/>`_
+ * `XFCE <http://xfce.org>`_
+ * Gibberbot,
+ * et même le site Transifex !
+
+J'ai aussi été accepté dans les équipes suivantes, même si je n'y ai pas encore participé :
+
+ * Webmin,
+ * Roundcube,
+ * txt2tags,
+ * VLC,
+ * The Tor Project,
+ * GPG pour Android,
+ * Mozilla Webmaker.
+
+.. seealso:: Plus de détails sur mon `profil public sur Transifex <https://www.transifex.com/accounts/profile/Naereen/>`_
+
+Autres traductions
+^^^^^^^^^^^^^^^^^^
+.. seealso:: `linux-dash <https://bitbucket.org/lbesson/linux-dash>`_
+
+   En février 2014, j'ai démarré une bifurcation du projet `linux-dash <https://github.com/afaqurk/linux-dash/>`_ dans le but de le traduire.
+
+
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
