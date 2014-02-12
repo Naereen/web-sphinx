@@ -28,7 +28,7 @@ Statistiques concises
 * plus souvent des hommes que des femmes,
 * plus souvent des personnes seules ou en couple qu'avec des enfants,
 * plus souvent des gens ayant déjà fait du stop,
-* pas vraiment de constat sur l'âge, même si un peu plus souvent dans la trache 25/35 ans,
+* pas vraiment de constat sur l'âge, même si un peu plus souvent dans la tranche 25/35 ans,
 * souvent des distances assez longues (50/200 kms),
 * souvent des gens du coin (de départ ou d'arrivée).
 

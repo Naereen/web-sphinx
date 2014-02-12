@@ -133,5 +133,6 @@ Pages in English
    trademarks
    demo
    packing
+   autostop.en
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
