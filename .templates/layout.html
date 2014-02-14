@@ -129,9 +129,9 @@
   NProgress.start();
 	function changeStyle(newcolor) {
 		if (newcolor != "") {
-			console.log("[INFO] Loading the stylesheet '" + ("//perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
+			console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
 			$("head").append(
-		    	$("<link/>", {href: ("//perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
+		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
 		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 2000});
 	} };
@@ -219,8 +219,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "09 02 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "09";
+   var last_updated_value = "{{ last_updated }}" || "14 02 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "14";
     var month = last_updated_value.substring(3,  6 ) || "02"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
