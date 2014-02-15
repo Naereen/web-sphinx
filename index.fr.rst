@@ -11,7 +11,7 @@
 .. include:: whatsnew.fr.rst
 Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
 (*grande école* près de Paris, France).
-**Je suis actuellement en troisième année** et en 2013/2014, je prépare le concours national de l'`agrégation <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
+**Je suis actuellement en troisième année** et en 2013/2014, je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
 
 Études
 ^^^^^^

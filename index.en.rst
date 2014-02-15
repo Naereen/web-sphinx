@@ -11,7 +11,8 @@ Who am I?
 .. include:: whatsnew.en.rst
 I am **Lilian Besson**, a **French** student at ENS de Cachan, 
 a *French* University, near Paris.
-In 2013/2014, I am preparing the French `agregation <http://agreg.org/>`_ exam.
+In 2013/2014, I am preparing the French `agregation of Mathematics <http://agreg.org/>`_ exam 
+(major in Maths, minor in Computer Science).
 
 A few words about me
 ^^^^^^^^^^^^^^^^^^^^
