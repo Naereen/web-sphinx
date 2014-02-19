@@ -17,11 +17,11 @@ A quick overview
 ----------------
 In 2013
 ^^^^^^^
-Something like 800 kms (for american ignorants, go check on Wikipedia what kilometers are), and only in France.
+Something like 1800 kms (for american *ignorants*, go check on Wikipedia what kilometers are), and only in France.
 
 In 2012
 ^^^^^^^
-Less than 200kms, mainly in *Corsica* and the *Côte-d'Azur*.
+Less than 300kms, mainly in *Corsica* and the *Côte-d'Azur*.
 
 Some informals statistics
 -------------------------

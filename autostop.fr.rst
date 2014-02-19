@@ -17,11 +17,11 @@ Rapide total
 ------------
 En 2013
 ^^^^^^^
-Dans les 800kms, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 250 kms).
+Dans les 1800kms, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 450 kms).
 
 En 2012
 ^^^^^^^
-Dans les 200kms, en Corse et dans le sud de la France.
+Dans les 300kms, en Corse et dans le sud de la France.
 
 Statistiques concises
 ---------------------

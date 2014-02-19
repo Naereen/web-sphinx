@@ -3,6 +3,7 @@
  * :Copyrights: (C) 2014 Lilian Besson
  * :Licence: GPLv3 (see https://bitbucket.org/lbesson/web-sphinx/)
  */
+setTimeout(function(){ NProgress.done(); }, 10000);
 // A little foreplay with cookies
   function createCookie(name, value, expires, path, domain) {
     var cookie = name + "=" + escape(value) + ";";
@@ -61,12 +62,30 @@
 
   useCookieToChangeStyle("");
 
-// $(window).load(function(){
-$(document).ready(function(){
+$(window).load(function(){
+// $(document).ready(function(){
  setTimeout(function(){ NProgress.done(); }, 500);
 
  if (screen.width > 680) {
  // BETA responsive
+   setTimeout(function(){ noty({
+    text: ("Cette page utilise des <i>cookies</i>.\n"
+      +"<br> En navigant sur ce site, vous acceptez ses conditions d'utilisation."),
+    timeout: 5000, closeWith: ['click'],
+    buttons: [ // this = button element, $noty = $noty element
+      {addClass: 'btn btn-primary', text: "D'accord", onClick: function($noty) {
+          $noty.close();
+          noty({text: ("<b>Super !</b>\n"+
+              "</br>Au fait, il est possible de changer la couleur des pages en appuyant sur 's'."),
+            type: 'success'});
+        }}, 
+      {addClass: 'btn btn-danger', text: "Pas d'accord !", onClick: function($noty) {
+          $noty.close();
+          noty({text: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n"
+              +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.", 
+            type: 'error', layout: 'center', timeout: false});
+        }}]
+    }) }, 1000);
    setTimeout(function(){ noty({
     text: 'Cette page vous <b>plait-elle</b> ?', timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
@@ -81,14 +100,15 @@ $(document).ready(function(){
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
            type: 'error', layout: 'center', timeout: false});
         }}]
-    }) }, 3000);
+    }) }, 20000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
-    text: ('Quel style voulez-vous utiliser <i>désormais</i> ?</br>'
+    text: ('Quel style voulez-vous utiliser <i>désormais</i> ?\n</br>'
       + '</br><small>Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
-      + ' Actuellement: ' + getCookie("layoutstyle") + '</small>'
+      + ' Actuellement: ' + getCookie("layoutstyle") + '\n'
+      + '</br>En apprendre plus sur les <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?</small>'
     ),
-    timeout: 5000, closeWith: ['click'], layout: 'center', type: 'info',
+    timeout: false, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();

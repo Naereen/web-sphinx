@@ -219,8 +219,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "17 02 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "17";
+   var last_updated_value = "{{ last_updated }}" || "19 02 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "19";
     var month = last_updated_value.substring(3,  6 ) || "02"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
@@ -284,7 +284,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <!-- A little script to know which web server is used.
      In fact, it is a simple analysis over the hostname :
       - Apache is used on almost every other server I used,
-      - nginx is used on my personnal machine (as a test, august 2013 - sept. 2013). -->
+      - nginx is used on my personnal machine. -->
 <li><script type="text/javascript">
 	if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,9) == '127.0.0.1') ) {
 	window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
