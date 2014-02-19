@@ -133,7 +133,7 @@
 			$("head").append(
 		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
-		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 2000});
+		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 5000});
 	} };
   </script>
 	<script async type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>

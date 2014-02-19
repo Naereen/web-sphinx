@@ -62,8 +62,8 @@ setTimeout(function(){ NProgress.done(); }, 10000);
 
   useCookieToChangeStyle("");
 
-$(window).load(function(){
-// $(document).ready(function(){
+// $(window).load(function(){
+$(document).ready(function(){
  setTimeout(function(){ NProgress.done(); }, 500);
 
  if (screen.width > 680) {

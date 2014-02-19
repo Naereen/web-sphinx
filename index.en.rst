@@ -135,5 +135,6 @@ Pages in English
    demo
    packing
    autostop.en
+   cookies.en
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

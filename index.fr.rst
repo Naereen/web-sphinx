@@ -367,6 +367,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    master
    autostop.fr
+   cookies.fr
+   folders
    admin
 
 
