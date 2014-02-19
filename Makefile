@@ -54,12 +54,13 @@ notify_archive: archive.7z
 	notify-send "Sphinx : archiving" "Generating archive : done ! (~/Dropbox/web-sphinx.7z)"
 
 archive: clean
-	if [ -f ~/web-sphinx.tar.xz ]; then mv -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
-	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
+	if [ -f ~/web-sphinx.tar.xz ]; then mv -v -f ~/web-sphinx.tar.xz ~/Dropbox/ ; fi
+	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -v -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.tar.xz
 
 archive.7z: clean
+	if [ -f ~/Dropbox/web-sphinx.7z ]; then mv -v -f ~/Dropbox/web-sphinx.7z /tmp/ ; fi
 	time 7z a -y ~/Dropbox/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/Dropbox/web-sphinx.7z
 
