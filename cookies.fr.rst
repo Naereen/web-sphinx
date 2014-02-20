@@ -29,6 +29,7 @@ Ici, deux *cookies* sont utilisés :
    Il est possible de changer le style des pages en appuyant sur 's' ou 'S'.
    Une fenêtre interactive permet de choisir sa couleur favorite 
    (et elle rappelle aussi qu'un *cookie* est utilisé pour cette fonctionnalité).
+   Tout ceci requiert d'avoir activer `javascript <js.html>`_.
 
 #. Un autre petit fichier, utilisé par Sphinx pour stocker deux paramètres de navigation,
    rendus inutiles par mes trop nombreuses modifications sur 
@@ -37,6 +38,14 @@ Ici, deux *cookies* sont utilisés :
 
 S'y opposer ?
 -------------
+.. note:: Plus de détails
+
+   `Ce site <http://www.allaboutcookies.org/fr/>`_ est dédié aux explications
+   sur les cookies, et est bien plus complet que la description suivante.
+
+   Vous pouvez aussi consulter `wikihow.com/supprimer-les-cookies-de-votre-navigateur <http://fr.wikihow.com/supprimer-les-cookies-de-votre-navigateur>`_ par exemple.
+
+
 L'utilisateur peut s'opposer à l'enregistrement de *cookies*, 
 ou être prévenu avant d'accepter les cookies, 
 en configurant son ordinateur de la manière suivante :

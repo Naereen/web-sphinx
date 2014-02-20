@@ -23,6 +23,22 @@
       </image>
 
       <item>
+       <title>L'agreg, c'est demain !</title>
+       <link>http://cielmonagreg.tumblr.com/</link>
+       <description>L'agreg, c'est demain. Enfin, presque.</description>
+       <guid>http://jarvis.k.vu/a/a/agrint/</guid>
+       <pubDate>Thu, 20 Feb 2014 21:03:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>Traduction française de l'application linux-dash.</title>
+       <link>https://bitbucket.org/lbesson/linux-dash/</link>
+       <description>Le dév en parle (ici https://github.com/afaqurk/linux-dash/issues/147) et semble enthousiaste. Plus de détails sur le projet initial https://github.com/afaqurk/linux-dash.</description>
+       <guid>http://jarvis.k.vu/dash/</guid>
+       <pubDate>Fri, 14 Feb 2014 17:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>Un petit dossier /publis/latex/ pour stocker les feuilles de style et modèles.</title>
        <link>http://besson.qc.to/publis/latex/</link>
        <description>autotex,chktex,pdflatex: scripts. naereen*.sty: styles. template.tex: modèle utilisé par autotex.</description>

@@ -12,69 +12,47 @@ Cookies use policy
 ------------------
 .. warning:: I'm not done translating this page yet !
 
-L'accès à ce site **ne suppose pas** que l'utilisateur nous transmette des données personnelles le concernant.
+Using this site **does not** require you to send or give any personal data.
 
-L'utilisateur est informé que lors de ses visites sur ce site,
-un *cookie* peut être implanté dans son ordinateur.
+Every visitor is clearly informed that a *cookie* might be
+stored on his computer by visiting the website.
 
-Un *cookie* ne permet pas d'identifier l'utilisateur.
-De *manière générale*, il enregistre des informations relatives 
-à la navigation de son ordinateur sur le site 
-(les pages consultées, la date et l'heure de la consultation) 
-qui pourront être lues lors de ses visites ultérieures.
+Such a *cookie* **does not** allow the website to personaly identify the user.
+*Usually*, a *cookie* can store any information regarding the browsing
+history of a user on one website (consulted pages, dates and hours of viewing etc),
+and that history can be read later for every visit.
 
-*Mais ça, c'est en général*.
-Ici, deux *cookies* sont utilisés : 
+*But not here*.
+On my website, only two *cookies* are used : 
 
-#. Un tout petit fichier texte intitulé ``layoutstyle``, qui stocke le choix du style de couleur
-   (pour l'instant, *'green'*, *'purple'* ou *'orange'*).
-   Il est possible de changer le style des pages en appuyant sur 's' ou 'S'.
-   Une fenêtre interactive permet de choisir sa couleur favorite 
-   (et elle rappelle aussi qu'un *cookie* est utilisé pour cette fonctionnalité).
+#. A really small text file called ``layoutstyle``, to store the color style chosen by the user
+   (a simple value, either *'green'*, or *'orange'* or the default one, *'purple'*).
+   It is possible to change the color style of these pages by using the letters 's' or 'S' on your keeboard.
+   A small interactive window allow then to choose your favorite color 
+   (there is also a short message to recall that a *cookie* will be stored to save this choice).
+   All this require `javascript <js.html>`_ to be actived.
 
-#. Un autre petit fichier, utilisé par Sphinx pour stocker deux paramètres de navigation,
-   rendus inutiles par mes trop nombreuses modifications sur 
-   `layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_.
+#. An other incredibly small file is used by Sphinx to store a list of browsing parameters,
+   now useless because I basically changed every single line in the default 
+   `layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_ template file.
 
 
-S'y opposer ?
--------------
-L'utilisateur peut s'opposer à l'enregistrement de *cookies*, 
-ou être prévenu avant d'accepter les cookies, 
-en configurant son ordinateur de la manière suivante :
+How to deal with cookies
+------------------------
+.. note:: More details
 
-Pour Firefox
-^^^^^^^^^^^^
- * Choisissez le menu "Outils"> "Options",
- * Cliquez sur l'option "Vie privée",
- * Rubrique "Cookies".
+   `This website <http://www.allaboutcookies.org/manage-cookies/>`_ 
+   is dedicated to explain everything about *cookies*, 
+   and therefore is really more complete than the following explanation.
 
-Pour Microsoft Internet Explorer 6 et au delà
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   For instance, you can also check out `wikihow.com/Disable-Cookies <http://www.wikihow.com/Disable-Cookies>`_.
 
- * Choisissez le menu "Outils" (ou "Tools"), puis "Options Internet" (ou "Internet Options"),
- * Cliquez sur l'onglet "Confidentialité" (ou "Confidentiality"),
- * Sélectionnez le niveau souhaité à l'aide du curseur ou cliquez sur le bouton "avancé" pour personnaliser votre gestion des cookies.
 
-Pour Microsoft Internet Explorer 5
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- * Choisissez le menu "Outils" (ou "Tools"), puis "Option Internet" (ou "Internet Options"),
- * Cliquez sur l'onglet "Sécurité" (ou "Security"),
- * Sélectionnez "Internet" puis "Personnaliser le niveau" (ou "Custom Level"),
- * Repérez la rubrique "cookies" et choisissez l'option qui vous convient.
+A user can decide to block *cookies*, and therefore no cookies
+will be stored (and, obviously, the related functionalities won't work).
 
-Pour Opéra
-^^^^^^^^^^
- * Choisissez le menu "Fichier"> "Préférences",
- * Vie privée.
-
-Pour Google Chrome
-^^^^^^^^^^^^^^^^^^
- * Cliquez sur l'icône représentant une clé à molette qui est située dans la barre d'outils du navigateur.
- * Sélectionnez "Options" ("Préférences" sous Mac et Linux, "Paramètres" sur un Chromebook).
- * Choisissez l'onglet "Options avancées".
- * Cliquez sur l'option Paramètres de contenu de la section "Confidentialité".
- * Dans la boîte de dialogue "Paramètres de contenu" qui s'affiche, cliquez sur l'onglet "Cookies".
+You should know how to do it by yourself on your computer, but there is a
+`google research link to learn how to do it <http://lmgtfy.com/?q=How+to+prevent+cookies+from+being+stored+in+my+computer+%3F>`_.
 
 À-propos
 --------
