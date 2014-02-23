@@ -210,7 +210,7 @@ Autres traductions
 ^^^^^^^^^^^^^^^^^^
 .. seealso:: `linux-dash <https://bitbucket.org/lbesson/linux-dash>`_
 
-   En février 2014, j'ai démarré une bifurcation du projet `linux-dash <https://github.com/afaqurk/linux-dash/>`_ dans le but de le traduire.
+   En février 2014, j'ai démarré une bifurcation du projet `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ dans le but de le traduire.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

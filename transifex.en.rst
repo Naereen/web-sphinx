@@ -200,7 +200,7 @@ Other translations
 ^^^^^^^^^^^^^^^^^^
 .. seealso:: `linux-dash <https://bitbucket.org/lbesson/linux-dash>`_
 
-   In February 2014, I forked and translated the `linux-dash <https://github.com/afaqurk/linux-dash/>`_ project.
+   In February 2014, I forked and translated the `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ project.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

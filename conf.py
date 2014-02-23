@@ -76,7 +76,10 @@ extensions = [
 # For example, if you put MathJax into the static path of the Sphinx docs, this value would be MathJax/MathJax.js.
 # If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
 # You can also give a full http:// URL different from the CDN URL.
-mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
+
+# mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
+# NEW: to load MathJax asynchronously, I add it on .template/layout.html, and I load nprogress.js with mathjax_path instead
+mathjax_path = "nprogress.js?1"
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
@@ -133,7 +136,7 @@ copyright = u'2011-2014, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '2.1'
+version = '2.1.2'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -235,19 +238,19 @@ html_use_smartypants = True
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
    '**':        ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
    '**.en':     ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
    'index.fr':  ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
    'cv.fr':     ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
    'cv.en':     ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
    '**/*':      ['linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html', 'sidebar_otherserver.en.html'],
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
    '201*/*':      ['linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html', 'sidebar_otherserver.fr.html'],
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
