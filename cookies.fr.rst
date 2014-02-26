@@ -6,7 +6,6 @@
  Données personnelles de l'utilisateur (pas si personnelles)
 #############################################################
 .. include:: .special.rst
-.. warning:: Encore en rédaction !
 
 Politique d'utilisation des cookies
 -----------------------------------

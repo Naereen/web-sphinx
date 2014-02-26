@@ -6,11 +6,9 @@
  Not so personnal datas about the user of this website
 #######################################################
 .. include:: .special.rst
-.. warning:: Still in progress!
 
 Cookies use policy
 ------------------
-.. warning:: I'm not done translating this page yet !
 
 Using this site **does not** require you to send or give any personal data.
 

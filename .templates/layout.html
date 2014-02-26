@@ -151,36 +151,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
-/* Automatically add Google Analytics web service (a trademark of Google Inc.) */  
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  /* Here are set the default values for these variables,
-   * corresponding to the default domain. */
-  var my_id = 'UA-38514290-1',    my_domain = 'crans.org';
-  /* Here a case-by-case analysis is done to change this variable
-   * when the page is located on another web server. */
-  switch(window.location.host) {
-    case 'www.dptinfo.ens-cachan.fr':
-        my_id = 'UA-38514290-2';  my_domain = 'dptinfo.ens-cachan.fr';
-        break;
-    case 'lbesson.bitbucket.org':
-        my_id = 'UA-38514290-14'; my_domain = 'bitbucket.org';
-        break;
-    default:
-        break; };
-  /* New method. */
-  ga('create', my_id, my_domain); ga('send', 'pageview');
-  /* Old method. */
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', my_id]);
-  // _gaq.push(['_setDomainName', my_domain]);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  console.log("[INFO] Sending info to Google Analytics: id=" + my_id + ", domain=" + my_domain);
- // Smooth Scroll jQuery plugin
+// Smooth Scroll jQuery plugin
  $('a').smoothScroll({
   offset: -31, direction: 'top', // one of 'top' or 'left'
   easing: 'swing', speed:  300, autoCoefficent: 3, // coefficient for "auto" speed
@@ -236,6 +207,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
    setTimeout( function(){ NProgress.done(); }, 1000);
  });
  </script>
+ <script async type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}?1"></script>
  <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modifications">Derniers changements</a>.
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
