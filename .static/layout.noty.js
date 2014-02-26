@@ -71,19 +71,19 @@ $(document).ready(function(){
    setTimeout(function(){ noty({
     text: ("Cette page utilise des <i>cookies</i>.\n"
       +"<br> En navigant sur ce site, vous acceptez ses conditions d'utilisation."),
-    timeout: 5000, closeWith: ['click'],
+    closeWith: ['click'], timeout: 5000,
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: "D'accord", onClick: function($noty) {
           $noty.close();
           noty({text: ("<b>Super !</b>\n"+
               "</br>Au fait, il est possible de changer la couleur des pages en appuyant sur 's'."),
-            type: 'success'});
+            type: 'success', timeout: 5000});
         }}, 
       {addClass: 'btn btn-danger', text: "Pas d'accord !", onClick: function($noty) {
           $noty.close();
           noty({text: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n"
               +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.", 
-            type: 'error', layout: 'center', timeout: false});
+            type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 1000);
    setTimeout(function(){ noty({
@@ -91,14 +91,15 @@ $(document).ready(function(){
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
           $noty.close();
-          noty({text: "<b>Normal, je code bien :)</b>"
-           + "\n</br>N'hésitez pas à consulter d'autre pages !", type: 'success'});
+          noty({text: ("<b>Normal, je code bien :)</b>"
+            + "\n</br>N'hésitez pas à consulter d'autre pages !"),
+            type: 'success', timeout: 5000});
         }}, 
       {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
           $noty.close();
           noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
-           type: 'error', layout: 'center', timeout: false});
+           type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 20000);
    // Add the "s" command

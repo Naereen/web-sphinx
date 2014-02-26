@@ -1,22 +1,22 @@
 .. meta::
-   :description lang=fr: Google Analytics avec une petite image
    :description lang=en: Google Analytics with a beacon image
+   :description lang=fr: Google Analytics avec une petite image
 
 #################################################
- Utiliser Google Analytics avec une petite image
+ How to use Google Analytics with a beacon image
 #################################################
 .. include:: .special.rst
-.. warning:: Encore en rédaction !
+.. warning:: Still in progress!
 
-.. note:: Cette page parle de Google Analytics
+.. note:: This short page is focusing on Google Analytics
 
-   Pour plus de détails, il peut être utile d'aller s'informer ailleurs,
-    * par exemple sur `fr.wikipedia.org/wiki/Google_Analytics <https://fr.wikipedia.org/wiki/Google_Analytics>`_,
-    * ou sur `www.google.com/analytics <http://www.google.com/analytics/>`_.
+   For more informatio, it might be useful to consult first one of these pages:
+    * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,
+    * `www.google.com/analytics <http://www.google.com/analytics/>`_.
 
-
-Google Analytics, par défaut
-----------------------------
+«Vanilla» Google Analytics code
+-------------------------------
+.. warning:: I'm not done translating this page yet !
 
 Le code de base :
 
@@ -67,14 +67,14 @@ Intégrer cette image peut être fait en ``HTML`` avec le code suivant :
 
 .. code-block:: html
 
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel"></img>
+   <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel"></img>
 
 
 Ou bien avec le code ``rST`` suivant :
 
 .. code-block:: rst
 
-   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel
+   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel
 
 
 ------------------------------------------------------------------------------
@@ -82,16 +82,16 @@ Ou bien avec le code ``rST`` suivant :
 Enfin, il est possible d'utiliser un petit *badge* plutôt qu'une pixel invisible,
 en enlevant le ``?pixel`` à la fin de l'adresse URL.
 
- Par exemple : 
-
- .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html
-
-
- est obtenu avec le code ``rST`` suivant :
-
- .. code-block:: rst
-
-    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html
+  Par exemple : 
+ 
+  .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html
+  
+ 
+  est obtenu avec le code ``rST`` suivant :
+ 
+  .. code-block:: rst
+ 
+     .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html
 
 
 En pratique
@@ -126,7 +126,7 @@ Une seule pixel
 À titre d'exemple, une autre image sous forme d'une seule pixel est inséré,
 juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage.
 
-.. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/une-seule-pixel?pixel
+.. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/une-seule-pixel?pixel
 
 Sources
 -------
