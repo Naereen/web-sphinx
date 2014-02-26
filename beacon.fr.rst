@@ -44,14 +44,14 @@ Il faut alors l'inclure dans chaque page avec ce code ``HTML``
    <script async type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js?1"></script>
 
 
-En plus, le ``async`` accélèrera le chargement de la page 
+En plus, la balise ``async`` accélèrera le chargement de la page 
 en déférant l'exécution du script. Super !
 
 ------------------------------------------------------------------------------
 
 Une jolie astuce
 ----------------
-Ce `Post de blog`_ explique comment utiliser une image, 
+Ce `Post de blog`_ explique comment utiliser **une** image, 
 ou même une simple pixel pour simuler une communication avec Google Analytics.
 
 En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image, 
@@ -85,6 +85,10 @@ en enlevant le ``?pixel`` à la fin de l'adresse URL.
  Par exemple : 
 
  .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html
+    :scale: 250%
+    :align: center
+    :alt: Un petit badge « analytics | GA ».
+    :target: http://besson.qc.to/beacon.html
 
 
  est obtenu avec le code ``rST`` suivant :

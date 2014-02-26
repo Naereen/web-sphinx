@@ -10,7 +10,7 @@
 
 .. note:: This short page is focusing on Google Analytics
 
-   For more informatio, it might be useful to consult first one of these pages:
+   For more informations, it might be useful to consult first one of these pages:
     * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,
     * `www.google.com/analytics <http://www.google.com/analytics/>`_.
 
@@ -18,7 +18,7 @@
 -------------------------------
 .. warning:: I'm not done translating this page yet !
 
-Le code de base :
+The default code to add in every page is the following piece of JavaScript:
 
 .. code-block:: javascript
 
@@ -30,29 +30,29 @@ Le code de base :
    ga('send', 'pageview');
 
 
-Une version un peu plus consise
--------------------------------
-Et aussi plus facile à maintenir !
-Il suffit de créer un script ``ga.js`` contenant le morceau de code précédant,
-et l'ajouter sur votre site, n'importe où.
+A smaller piece of code
+-----------------------
+And also easier to maintain !
+You just have to create a small ``ga.js`` script contenaning 
+the previous piece of code, and add it somewhere on your website.
 
-Il faut alors l'inclure dans chaque page avec ce code ``HTML``
-à la fin du fichier (dans ``<bottom>`` ou à la fin de ``<body>``) :
+Then you have to load it in every webpage with one-line of ``HTML`` code
+at the end of the file (in the ``<bottom>`` paragraph or at the head of ``<body>``) :
 
 .. code-block:: html
 
    <script async type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js?1"></script>
 
 
-En plus, le ``async`` accélèrera le chargement de la page 
-en déférant l'exécution du script. Super !
+Moreover, the ``async`` tag will improve the speed of the page, by
+loading asynchronously the ``ga.js`` script. Awesome!
 
 ------------------------------------------------------------------------------
 
-Une jolie astuce
-----------------
-Ce `Post de blog`_ explique comment utiliser une image, 
-ou même une simple pixel pour simuler une communication avec Google Analytics.
+A pretty nice idea
+------------------
+That `blog post`_ explain how to use **one** image, 
+or even a single pixel to emulate a communication with Google Analytics.
 
 En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image, 
 dans un courriel ou une page web (comme par exemple une page d'accueil d'un projet
@@ -85,6 +85,10 @@ en enlevant le ``?pixel`` à la fin de l'adresse URL.
   Par exemple : 
  
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html
+    :scale: 250%
+    :align: center
+    :alt: A small « analytics | GA » badge.
+    :target: http://besson.qc.to/beacon.html
   
  
   est obtenu avec le code ``rST`` suivant :
@@ -132,8 +136,8 @@ Sources
 -------
 Deux pages du même auteur :
 
- #. `Post de blog <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
- #. `Page github <https://github.com/igrigorik/ga-beacon>`_ du projet.
+ #. `blog post <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
+ #. `github page <https://github.com/igrigorik/ga-beacon>`_ du projet.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/
