@@ -6,18 +6,15 @@
  Utiliser Google Analytics avec une petite image
 #################################################
 .. include:: .special.rst
-.. warning:: Encore en rédaction !
-
 .. note:: Cette page parle de Google Analytics
 
-   Pour plus de détails, il peut être utile d'aller s'informer ailleurs,
+   Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
     * par exemple sur `fr.wikipedia.org/wiki/Google_Analytics <https://fr.wikipedia.org/wiki/Google_Analytics>`_,
     * ou sur `www.google.com/analytics <http://www.google.com/analytics/>`_.
 
 
 Google Analytics, par défaut
 ----------------------------
-
 Le code de base :
 
 .. code-block:: javascript

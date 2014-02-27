@@ -6,8 +6,6 @@
  How to use Google Analytics with a beacon image
 #################################################
 .. include:: .special.rst
-.. warning:: Still in progress!
-
 .. note:: This short page is focusing on Google Analytics
 
    For more informations, it might be useful to consult first one of these pages:
@@ -16,8 +14,6 @@
 
 «Vanilla» Google Analytics code
 -------------------------------
-.. warning:: I'm not done translating this page yet !
-
 The default code to add in every page is the following piece of JavaScript:
 
 .. code-block:: javascript
