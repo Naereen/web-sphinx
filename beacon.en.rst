@@ -149,7 +149,7 @@ before the next paragraph. You shouldn't be able to see it, but with the proper
 debugging tool or be seeing the source of the page, 
 you will have confirmation that it is here !
 
-.. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/une-seule-pixel?pixel
+.. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/one-dead-pixel?pixel
 
 References
 ----------

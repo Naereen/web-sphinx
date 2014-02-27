@@ -51,7 +51,7 @@ en déférant l'exécution du script. Super !
 Une jolie astuce
 ----------------
 Ce `Post de blog`_ explique comment utiliser **une** image, 
-ou même une simple pixel pour simuler une communication avec Google Analytics.
+ou même un simple pixel pour "simuler" une communication avec Google Analytics.
 
 En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image, 
 dans un courriel ou une page web (comme par exemple une page d'accueil d'un projet
@@ -85,7 +85,7 @@ pour une page générée avec *Sphinx* comme celle que vous êtes en train de li
 
 ------------------------------------------------------------------------------
 
-Enfin, il est possible d'utiliser un petit *badge* plutôt qu'une pixel invisible,
+Enfin, il est possible d'utiliser un petit *badge* plutôt qu'un pixel invisible,
 en enlevant le ``?pixel`` à la fin de l'adresse URL.
 
   Par exemple : 
@@ -140,9 +140,9 @@ Par exemple, le premier mail écrit le 03 mars 2014 se terminera par :
    <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/1?pixel"></img>
 
 
-Une seule pixel
----------------
-À titre d'exemple, une autre image sous forme d'une seule pixel est inséré,
+Un seul pixel caché
+-------------------
+À titre d'exemple, une autre image sous forme d'un seul pixel est inséré,
 juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage.
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/une-seule-pixel?pixel
