@@ -36,6 +36,8 @@ Et aussi plus facile à maintenir !
 Il suffit de créer un script ``ga.js`` contenant le morceau de code précédant,
 et l'ajouter sur votre site, n'importe où.
 
+Par exemple : `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
+
 Il faut alors l'inclure dans chaque page avec ce code ``HTML``
 à la fin du fichier (dans ``<bottom>`` ou à la fin de ``<body>``) :
 
@@ -70,42 +72,58 @@ Intégrer cette image peut être fait en ``HTML`` avec le code suivant :
    <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel"></img>
 
 
-Ou bien avec le code ``rST`` suivant :
+Ou bien avec le code ``rST`` suivant, 
+pour une page générée avec *Sphinx* comme celle que vous êtes en train de lire :
 
 .. code-block:: rst
 
    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel
 
 
+.. tip:: Astuce pour Sphinx :
+
+   Embarquer une image avec une adresse URL *non-locale* comme ça
+   va déclencher un message d'avertissement lors de la génération des pages web,
+   par Sphinx, mais ça ne doit pas être une source d'inquiétude !
+
 ------------------------------------------------------------------------------
 
 Enfin, il est possible d'utiliser un petit *badge* plutôt qu'une pixel invisible,
 en enlevant le ``?pixel`` à la fin de l'adresse URL.
 
- Par exemple : 
+  Par exemple : 
+ 
+  .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/avec-un-badge
+     :scale: 250%
+     :align: center
+     :alt: Un petit badge « analytics | GA ».
+     :target: http://besson.qc.to/beacon.html
+  
+ 
+  est obtenu avec le code ``rST`` suivant :
+ 
+  .. code-block:: rst
+ 
+     .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/avec-un-badge
 
- .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html
-    :scale: 250%
-    :align: center
-    :alt: Un petit badge « analytics | GA ».
-    :target: http://besson.qc.to/beacon.html
+
+  .. note:: Une adresse URL quelconque ?
+
+     L'exemple donné ici montre une adresse URL virtuelle, parce que l'image précédente
+     a été téléchargée depuis ``appspot`` avec l'adresse du fichier *"virtuel"* ``beacon.fr.html/avec-un-badge``.
+     Il est en fait possible, avec cette méthode, d'utiliser n'importe quelle adresse URL,
+     la seule limite est votre imagination !
+     (hum, ça ressemblait drôlement à une pub pour des Legos... ou peut-être juste pour moi !)
 
 
- est obtenu avec le code ``rST`` suivant :
-
- .. code-block:: rst
-
-    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html
-
-
-En pratique
------------
+En pratique : comment rédiger un courriel en ``HTML`` ?
+-------------------------------------------------------
 Outlook, Thunderbird ou GMail permettent facilement de composer
 des courriels en ``HTML``, et donc il est facile d'ajouter une ligne à la fin du courriel
 pour y ajouter un traqueur.
 
 Il est même possible d'adopter une convention de nommage
-des adresses du service *beacon* pour surveiller « chaque courriel » :
+des adresses du service *beacon* pour surveiller « chaque courriel » indépendemment :
 
 .. code-block:: html
 

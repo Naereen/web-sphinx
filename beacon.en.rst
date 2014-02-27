@@ -36,6 +36,8 @@ And also easier to maintain !
 You just have to create a small ``ga.js`` script contenaning 
 the previous piece of code, and add it somewhere on your website.
 
+For instance: `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
+
 Then you have to load it in every webpage with one-line of ``HTML`` code
 at the end of the file (in the ``<bottom>`` paragraph or at the head of ``<body>``) :
 
@@ -54,90 +56,111 @@ A pretty nice idea
 That `blog post`_ explain how to use **one** image, 
 or even a single pixel to emulate a communication with Google Analytics.
 
-En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image, 
-dans un courriel ou une page web (comme par exemple une page d'accueil d'un projet
-sur bitbucket ou github).
+This tutorial explain how to add Google Analytics spying capacity
+to any piece of HTML, as any webpage, but even for an email !
+The main example he gives is for a github project homepage, that have
+to be written in ``Markdown``, without any ``<script>`` tag.
 
-Cette image est en fait récupérée via ``ga-beacon.appspot.com/UA-XXXXXX-YY`` 
-et va déclencher une visite, visible immédiatement dans le panneau Google Analytics associé
-(ici, ``UA-XXXXXX-YY`` est la clé associée au profil GA créé pour l'exemple).
+This image is downloaded from ``ga-beacon.appspot.com/UA-XXXXXX-YY``,
+and by downloading it, with the right Google Analytics key ``UA-XXXXXX-YY``,
+the browser or the email reader triggers a visit on the associated Google Analytics profile. 
+As a result, you can monitor *in real time* an email, it justs have to be written in plain ``HTML``.
 
 
-Intégrer cette image peut être fait en ``HTML`` avec le code suivant :
+Embed this picture is quite simple, and can be done with the following piece of ``HTML`` code :
 
 .. code-block:: html
 
    <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel"></img>
 
 
-Ou bien avec le code ``rST`` suivant :
+Or, for a *Sphinx*-generated webpage, with the following piece of ``rST`` code :
 
 .. code-block:: rst
 
    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel
 
 
+.. tip:: Sphinx tip :
+
+   Embedding an image with a *non-local* URL triggers a warning when
+   Sphinx builds the website, but that nothing you should be worried about !
+
 ------------------------------------------------------------------------------
 
-Enfin, il est possible d'utiliser un petit *badge* plutôt qu'une pixel invisible,
-en enlevant le ``?pixel`` à la fin de l'adresse URL.
+Eventually, it is also possible to use a small *badge*
+rather than an almost invisible pixel,
+simply by removing the ``?pixel`` at the end of the URL addresse.
 
-  Par exemple : 
+  For instance : 
  
-  .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html
+  .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
     :scale: 250%
     :align: center
     :alt: A small « analytics | GA » badge.
     :target: http://besson.qc.to/beacon.html
   
  
-  est obtenu avec le code ``rST`` suivant :
+  which is included with the following ``rST`` line of code :
  
   .. code-block:: rst
  
-     .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html
+     .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
 
 
-En pratique
------------
-Outlook, Thunderbird ou GMail permettent facilement de composer
-des courriels en ``HTML``, et donc il est facile d'ajouter une ligne à la fin du courriel
-pour y ajouter un traqueur.
+  .. note:: A customized URL for a customized path
 
-Il est même possible d'adopter une convention de nommage
-des adresses du service *beacon* pour surveiller « chaque courriel » :
+     Here you just saw an example of a customized URL, as the previous image
+     was loaded from ``appspot`` with the *"virtual"* file ``beacon.en.html/with-a-badge``.
+     You can use any URL you want, the only limitation is your imagination !
+     (hum, wait, that sounded like a Lego advertisement... or maybe just for me)
+
+
+How to write an HTML email ?
+----------------------------
+Outlook, Thunderbird or even GMail have an easy-to-use functionality
+to write and send ``HTML`` email, and therefore it is a piece of cake
+to add *one* line at the end of an email, to add a tracking *dead-pixel*.
+
+It might also be a good idea to use a clever naming protocol,
+allowing you to track and get statistics for every single emails you send :
 
 .. code-block:: html
 
    <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/27-02-2014/3?pixel"></img>
 
 
-L'exemple précédent montre la convention de nommage que j'utilises pour ma correspondance électronique : 
-chaque jour, on numérote les courriers sous la forme **JJ-MM-YYYY/NUM**, où **NUM** est le numéro du courrier envoyé ce jour là.
+That example shows the naming rule I'm using for my electronic mailing :
+every day, each email is named **DD-MM-YYYY/NUM**, where DD-MM-YYYY is the date
+(like 27-02-2014 for the 27th of February, 2014)
+and where **NUM** is the number of the email you sent that very day.
 
-Par exemple, le premier mail écrit le 03 mars 2014 se terminera par :
+For instance, the content of the forth email sent 
+on the 03 mars 2014 will contains that at its end :
 
 .. code-block:: html
 
-   Cordialement;<br>
+   Cheers;<br>
    -- <br>
    Lilian<br>
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/1?pixel"></img>
+   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/4?pixel"></img>
 
 
-Une seule pixel
----------------
-À titre d'exemple, une autre image sous forme d'une seule pixel est inséré,
-juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage.
+One dead-pixel ?
+----------------
+Just to show how it works, a one pixel picture is included right there,
+before the next paragraph. You shouldn't be able to see it, but with the proper
+debugging tool or be seeing the source of the page, 
+you will have confirmation that it is here !
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/une-seule-pixel?pixel
 
-Sources
--------
-Deux pages du même auteur :
+References
+----------
+Two articles, from the same genius guy :
 
- #. `blog post <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
- #. `github page <https://github.com/igrigorik/ga-beacon>`_ du projet.
+ #. `blog post <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ contains a detailed explanation on how to use beacon image to track visits on a github page or an email,
+ #. `github page <https://github.com/igrigorik/ga-beacon>`_ of his project.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/

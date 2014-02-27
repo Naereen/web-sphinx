@@ -3,6 +3,7 @@
    <div class="sidebar" style="font-size:75%;">
    <p class="first sidebar-title">What’s new around here?</p>
    <ol class="last arabic simple">
+   <li><a href="http://besson.qc.to/beacon.en.html">beacon.en.html</a>: a small demo of ga-beacon, or how to monitor a webpage activity with a one-pixel image,</li>
    <li><a href="https://bitbucket.org/lbesson/linux-dash">French translation</a> of <a href="https://github.com/afaqurk/linux-dash">linux-dash</a>;</li>
    <li>Last week, I corrected some Maths <i>undergraduate written exams</i> ! I also started to work at <a href="http://www.cours-thales.fr/">"Cours Thalès"</a> on my spare time to teach some maths and CS courses to undergraduate student!</li>
    <li><a class="internal reference" href="bin/CP">bin/CP</a>: a short script to colorized the output of the <i>awesome</i> <code>rsync</code> command,</li>
