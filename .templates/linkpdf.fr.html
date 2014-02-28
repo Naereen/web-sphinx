@@ -7,27 +7,6 @@
     :copyright: Copyright 2013 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
-<div class="language-selector">
-<script type="text/javascript">
-	var s = window.location.pathname;
-	var n = s.length;
-	var b = s.substring(0, n-8);
-	var e = s.substring(n-8);
-	console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
-	if (e == '.fr.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.en.html" title="En anglais ?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-			+ 'src="{{ pathto('_images/.en.gif', true)|e }}?1" alt="En anglais ?" /></a>'); 
-	};
-	if (e == '.en.html') {
-		window.document.write('<a class="image-reference" href="'
-			+ b + '.fr.html" title="In French?" >'
-			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}?1" alt="In French?" /></a>');
-	};
-</script>
-</div>
 <h3>Mon CV en PDF ?</h3>
 <ul class="this-page-menu">
  <li><a style="text-decoration: underline" href="cv.fr.pdf" title="Mon CV en PDF !"
