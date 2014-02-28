@@ -133,8 +133,9 @@ Pages in English
    transifex.en
    trademarks
    demo
+   cookies.en
+   beacon.en
    packing
    autostop.en
-   cookies.en
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

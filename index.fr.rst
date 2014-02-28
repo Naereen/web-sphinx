@@ -362,12 +362,13 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    sparkline
    vieprivee
    tutoweb
+   cookies.fr
+   beacon.fr
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
    master
    autostop.fr
-   cookies.fr
    folders
    admin
 
