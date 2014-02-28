@@ -43,6 +43,15 @@
   div.supportBadges a { margin-right:1px; opacity:0.6; }
   div.supportBadges a:hover { opacity:1; }
 
+/* Pour le drapeau de langue dans la barre supérieure */
+img.languageswitch {
+	width: 31px;
+	height: 20px;
+	/* position: absolute; */
+	/* margin: 5px 0 0 20%; */
+	/* margin: 5px 0 0 0; */
+}
+
 /* Image style for scrollUp jQuery plugin */
 #scrollUpLeft {
 	bottom: 50px; left:   212px;
