@@ -2,7 +2,6 @@
  Deux flux RSS
 ###############
 .. include:: .special.rst
-.. include:: .javascript.rst
 Cette page était une expérience pour inclure un flux **RSS** dans une page générée par Sphinx.
 
 S'abonner au flux
@@ -42,7 +41,7 @@ Flux valide ?
 -------------
 .. image:: .valid-rss.png
    :scale: 100%
-   :alt: "[Valid RSS]"
+   :alt: Valid RSS
    :target: http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml
    :align: right
 

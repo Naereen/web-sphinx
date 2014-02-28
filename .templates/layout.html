@@ -36,7 +36,7 @@
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}?1"></script>
   <!-- MathJax.js (http://mathjax.org/) async is quicker -->
-   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&locale=fr?1"></script>
+   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr?1"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script async type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}?1"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress) NEW is now loaded with conf.py:81@mathjax_path -->
@@ -221,15 +221,24 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://noscript.net/getit">NoScript</a>.
 <br>{% include "geekcode.en.html" %}
+<!-- <noscript> -->
+<img style="visibility: hidden; display: none;"
+     src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel"
+/>
+<!-- </noscript> -->
 <div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
  <img alt="Optimized for Firefox, tested on Firefox 27.0.1"
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}?1" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Google Analytics" href="http://www.google.com/analytics/">
- <img alt="Use Google Analytics" 
-      src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}?1" 
+ <img alt="Use Google Analytics"
+      src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}?1"
       style="width: 80.0px; height: 15.0px;" /></a></li>
+<!--
+      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?1"
+      style="width: 73.0px; height: 18.0px;" /></a></li>
+-->
 <li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
  <img alt="Written with GNU Nano 2.3.2" 
       src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}?1" 
@@ -265,11 +274,11 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <li><script type="text/javascript">
   if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,9) == '127.0.0.1') ) {
   window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
-  + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}?1\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
   }
   else {
   window.document.write("<a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.4 on "
-  + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}?1\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
   };
   NProgress.inc();
   </script>
@@ -278,9 +287,6 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   </noscript>
 </li></ul></div> 
 <script async type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}?1"></script>
-<!--<noscript>-->
-<img src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel"></img>
-<!--</noscript>-->
 </div>
 <!-- This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
