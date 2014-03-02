@@ -1,10 +1,10 @@
 #!/usr/bin/env /usr/bin/make
 # Makefile for Sphinx web builder
-#	__author__='Lilian BESSON'
-#	__email__='lilian DOT besson AT normale D O T fr'
-#	__version__='18.2'
-#	__date__='Mardi 14/01/2014 at 19h:16m:27s'
-#	__web__='https://bitbucket.org/lbesson/web-sphinx'
+# Author: Lilian BESSON
+# Email: lilian DOT besson AT normale D O T fr
+# Version: 19
+# Date: 03-03-14
+# Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -v -j 10 -w /tmp/sphinx.log
@@ -23,6 +23,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # Custom items
 CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp  ## If you do not have rsync installed
+CP = ~/bin/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
 total: html gpghtml images obscure send_jarvis send_zamok send_dpt check

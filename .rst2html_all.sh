@@ -48,7 +48,7 @@ mkdir -v --parents "$DIRECTION"
 
 ## for f in ./*.rst; do
 for f in "$@"; do
- ( ${RST2HTML} "$f" "${DIRECTION}${f%.rst}.html" && \
+ ( ${RST2HTML} "$f" "${DIRECTION}${f%.rst}.html" && AddGA.sh UA-38514290-1 "i" "${DIRECTION}${f%.rst}.html" && \
  echo -e "$f -> ${DIRECTION}${f%.rst}.html" ) || exit 2
 done
 
