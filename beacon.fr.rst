@@ -77,7 +77,7 @@ pour une page générée avec *Sphinx* comme celle que vous êtes en train de li
    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel
 
 
-.. tip:: Astuce pour Sphinx :
+.. warning:: Astuce pour Sphinx :
 
    Embarquer une image avec une adresse URL *non-locale* comme ça
    va déclencher un message d'avertissement lors de la génération des pages web,

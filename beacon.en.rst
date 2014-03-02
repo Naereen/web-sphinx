@@ -77,7 +77,7 @@ Or, for a *Sphinx*-generated webpage, with the following piece of ``rST`` code :
    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel
 
 
-.. tip:: Sphinx tip :
+.. warning:: Sphinx tip :
 
    Embedding an image with a *non-local* URL triggers a warning when
    Sphinx builds the website, but that nothing you should be worried about !
