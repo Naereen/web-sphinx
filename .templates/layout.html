@@ -195,9 +195,9 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "23 02 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "23";
-    var month = last_updated_value.substring(3,  6 ) || "02"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+   var last_updated_value = "{{ last_updated }}" || "02 03 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "02";
+    var month = last_updated_value.substring(3,  6 ) || "23"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
@@ -220,7 +220,7 @@ Des précisions sur les droits de copies, sur les institutions et les marques ci
 Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://noscript.net/getit">NoScript</a>.
-<br>{% include "geekcode.en.html" %}
+<br>{% include "geekcode.html" %}
 <!-- <noscript> -->
 <img style="visibility: hidden; display: none;"
      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel"
@@ -255,8 +255,8 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="Made with Sphinx 1.3a0" 
       src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}?1" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Ubuntu 12.04" href="http://www.ubuntu.com/about/about-ubuntu">
- <img alt="Made on Ubuntu 12.04.3 LTS" 
+<li><a class="image-reference" title="Ubuntu 12.04.04 LTS" href="http://www.ubuntu.com/about/about-ubuntu">
+ <img alt="Made on Ubuntu 12.04.4 LTS" 
       src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}?1" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/" >
