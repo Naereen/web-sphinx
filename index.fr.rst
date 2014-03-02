@@ -366,6 +366,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    tutoweb
    cookies.fr
    beacon.fr
+   alaskabombeh.fr
    Documentation du Pokédex (réalisée par Eevee) <pokedex-doc/index>
    Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
