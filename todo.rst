@@ -32,14 +32,7 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 .. todo:: Thème responsive ?
 
-   Adapter le thème pour le faire responsive
-   (afin de mieux gérer les appareils mobiles notamment).
-   En particulier, enlever la largeur fixe de la barre latérale verticale !
-   Désactiver GG Translate, forkit, noty, mousetrap, nprogress, smoothscroll et scrollup sur mobile !
-   Vérifier si toutes les petites images ne peuvent plus être optimisées ?
-
-   C'est presque bon ?
-
+   DONE : normalement c'est bon.
 
 .. todo:: Débugguer `<skulpt.html>`_ et `<python.html>`_ !
 
@@ -57,6 +50,8 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
    
    Ça à l'air pas mal, je continue de tester et je le mettrai en ligne quand j'en serais
    content.
+   
+   :Correction: En fait, Wordpress est vraiment trop badass !
 
 
 ------------------------------------------------------------------------------
