@@ -104,6 +104,7 @@ Outils de "communication" à usage unique
 
 * `CryptoBin <https://cryptobin.org/>`_ est pareil.
 
+* `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en p2p.
 
 ---------------------------------------------------------------------
 
