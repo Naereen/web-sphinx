@@ -9,12 +9,23 @@
 .. warning:: Encore en rédaction !
 
 Cette page sera bientôt une courte présentation de mon avis personnel 
-sur l'autostop, et pourquoi c'est vraiment un moyen intéressant et ludique de se déplacer.
+sur l'autostop, et pourquoi est-ce vraiment un moyen intéressant et ludique de se déplacer.
 
 Peut-être que j'inclurai ici une liste de voyages sympas faits en stop, peut-être pas.
 
+.. note:: Avec Google Maps ?
+
+   J'ai déjà vu que Google Maps permet d'enregistrer et de partager des *itinéraires* voiture
+   personnalisés, peut-être m'en servirais-je pour garder une trace de mes trajets en stop, 
+   et les partager ici.
+
+
 Rapide total
 ------------
+En 2014
+^^^^^^^
+Pas encore !
+
 En 2013
 ^^^^^^^
 Dans les 1800kms, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 450 kms).
@@ -22,6 +33,8 @@ Dans les 1800kms, uniquement en France (dans les Landes, en Normandie, souvent d
 En 2012
 ^^^^^^^
 Dans les 300kms, en Corse et dans le sud de la France.
+
+------------------------------------------------------------------------------
 
 Statistiques concises
 ---------------------

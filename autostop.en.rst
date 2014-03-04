@@ -13,8 +13,19 @@ on the matter of hitch-hiking, and why it is a really cool way to travel.
 
 Maybe I will include here a list of epic autostop achievments, maybe not.
 
+.. note:: With Google Maps ?
+
+   I know that Google Maps can be used to save and share custon car *itineraries*, 
+   maybe I will use that to keep a trace of my hitch-hiking trips and 
+   share them here. Or maybe not.
+
+
 A quick overview
 ----------------
+In 2014
+^^^^^^^
+Not yet.
+
 In 2013
 ^^^^^^^
 Something like 1800 kms (for american *ignorants*, go check on Wikipedia what kilometers are), and only in France.
