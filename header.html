@@ -17,31 +17,31 @@
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/underscore.js"></script>
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/doctools.js"></script>
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/translations.js"></script>
+    <script type="text/javascript" src="http://perso.crans.org/besson/_static/nprogress.js?1"></script>
     <link rel="search" type="application/opensearchdescription+xml"
           title="Recherchez dans "
           href="http://perso.crans.org/besson/_static/opensearch.xml"/>
-    <link rel="shortcut icon" href="http://perso.crans.org/besson/_static/.besson.png"/>
-    <link rel="top" title="" href="http://perso.crans.org/besson/index.html" />
+    <link rel="shortcut icon" href="http://perso.crans.org/besson/_static/.favicon.ico"/>
+    <link rel="top" title="" href="index.html" />
   <!-- BETA responsive -->
-  <meta name="viewport" content="width=device-width, maximum-scale=2.0, initial-scale=1, target-densitydpi=device-dpi"/>
+  <meta name="viewport" content="width=device-width, maximum-scale=2.5, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
-  <link rel="stylesheet" media="screen and (min-width: 680px)" href="http://perso.crans.org/besson/_static/forkit.css" />
-  <link rel="stylesheet" media="screen" href="http://perso.crans.org/besson/_static/buttons.css" />
-  <link rel="stylesheet" media="screen and (min-width: 380px)" href="http://perso.crans.org/besson/_static/nprogress.css" />
-  <link rel="stylesheet" href="http://perso.crans.org/besson/_static/hacks.css" />
+  <link rel="stylesheet" media="screen and (min-width: 680px)" href="http://perso.crans.org/besson/_static/forkit.css?1" />
+  <link rel="stylesheet" media="screen" href="http://perso.crans.org/besson/_static/buttons.css?1" />
+  <link rel="stylesheet" media="screen and (min-width: 380px)" href="http://perso.crans.org/besson/_static/nprogress.css?1" />
+  <link rel="stylesheet" href="http://perso.crans.org/besson/_static/hacks.css?1" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script type="text/javascript" src="http://perso.crans.org/besson/_static/noty/jquery.noty.packaged.min.js"></script>
+   <script type="text/javascript" src="http://perso.crans.org/besson/_static/noty/jquery.noty.packaged.min.js?1"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
-   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/mousetrap.min.js"></script>
-  <!-- NProgress.js (https://github.com/rstacruz/nprogress)-->
-   <script type="text/javascript" src="http://perso.crans.org/besson/_static/nprogress.js"></script>
+   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/mousetrap.min.js?1"></script>
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
-   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/forkit.js"></script>
+   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/forkit.js?1"></script>
 <script type="text/javascript">
  console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit...");
+ // NProgress.start(); // NOT before the end of <body>
  /* jQuery.noty plugin */
     $.noty.defaults = {
         layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
@@ -87,9 +87,12 @@
     <div class="related">
       <h3>Navigation</h3>
       <ul>
- <li><a href="http://lbesson.bitbucket.org" title="Page principale : http://lbesson.bitbucket.org/">
-  <img src="http://perso.crans.org/besson/_static/.besson.png" alt="" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
- <li><a href="http://perso.crans.org/besson/index.html">Lilian Besson</a> &raquo;</li>
+        <li class="right" >
+          <a href="http://perso.crans.org/besson/index.html" title="Index"
+             accesskey="I">Index</a> |</li>
+ <li><a href="http://perso.crans.org/besson/" title="Page principale">
+  <img src="http://perso.crans.org/besson/_static/.besson.png?1" alt="http://besson.qc.to/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
+ <li><a href="index.html">Lilian Besson</a> &raquo;</li>
 
  <script type="text/javascript">
   function writeLocationOfThePage(beforetext, aftertext) {
@@ -114,11 +117,12 @@
             
   <div class="section" id="affichage-des-dossiers">
 <h1>Affichage des dossiers<a class="headerlink" href="#affichage-des-dossiers" title="Lien permanent vers ce titre">¶</a></h1>
-<div class="admonition warning">
+<div class="admonition warning"><small>
 <p class="first admonition-title">Warning</p>
 <p class="last">L&#8217;affichage amélioré des répertoires avec Apache est un peu expérimental..
 N&#8217;hésitez pas à <a class="reference external" href="https://bitbucket.org/lbesson/wep-sphinx/issues/new">signaler un bug</a> si besoin est!</p>
-</div>
+</small></div>
 <div class="section" id="contenu-du-dossier">
 <h2>Contenu du dossier<a class="headerlink" href="#contenu-du-dossier" title="Lien permanent vers ce titre">¶</a></h2>
 </div>
+<div style="font-size: x-large;">
