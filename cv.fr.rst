@@ -27,6 +27,10 @@ Adresse de contact
        94230 - Cachan,
        France
 
+
+.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ !
+
+
 .. Candidature
 .. -----------
 ..  * :Du 1 Février 2015 au 31 Août 2015: stage de recherche de fin de Master 2. En *Informatique* ou en *Mathématiques*;

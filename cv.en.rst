@@ -29,6 +29,10 @@ Contact address
        94230 - Cachan,
        France
 
+
+.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_ !
+
+
 .. Application
 .. -----------
 ..  * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
