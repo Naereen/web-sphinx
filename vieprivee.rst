@@ -106,6 +106,9 @@ Outils de "communication" à usage unique
 
 * `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en p2p.
 
+* `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par AES 256. 
+  Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
+
 ---------------------------------------------------------------------
 
 Protéger sa vie privée
