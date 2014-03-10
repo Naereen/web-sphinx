@@ -125,7 +125,8 @@ Utilitaires divers
 
 * `autotex <bin/autotex>`_,
   un outil *expérimental* pour rapidement écrire du \\(LaTeX\\) sans en-têtes, juste en écrivant le contenu.
-  Repose sur `naereen.sty <publis/naereen.sty>`_ pour le style, et `template.tex <publis/template.tex>`_ à sauvegarder dans votre *$HOME*.
+  Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.tex <publis/latex/template.tex>`_ à sauvegarder dans votre *$HOME*.
+  D'autres feuilles de style sont disponibles dans le dossier `<publis/latex/>`_.
 
   :État: *Expérimental* mais fonctionne très bien.
 
@@ -186,6 +187,8 @@ Utilitaires divers
 
 * `obscureemail.sh <bin/obscureemail.sh>`_,
   un script pour cacher les adresses emails dans tous les fichiers d'un répertoire.
+  Par défaut, ne cherche que les adresses avec un domaine parmi ceux que j'utilises,
+  et ne modifie que les fichiers *plain/text*.
 
   :État: *Assez dangereux* (à manipuler avec précaution).
 
@@ -262,12 +265,36 @@ Quelques scripts pour jouer avec des citations
 
   :État: *Super cool*.
 
+* `MailRandQuote.sh <bin/RandQuote.sh>`_,
+  pour envoyer par email une citation aléatoire. Utilise `<bin/mail_ghost.py>`_.
+
+  :État: *Super cool*.
+
 
 * `changemotd.sh <bin/changemotd.sh>`_,
   un script pour changer le "message of the day" (motd) interactivement
   (dans le terminal avec *dialog* ou graphiquement avec *zenity*)
 
   :État: *Fonctionnel*.
+
+
+Une expérience: des exercices de maths reçus par email ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_.
+
+* `Exercice.sh <bin/Exercice.sh>`_,
+   récupère un exercice aléatoire. Lance *elinks* sur la page, à moins d'être appelé
+   avec l'option ``--static``. Encore expérimental pour récupérer le code TeX de chaque exo.
+   
+   :État: *Fonctionnel*.
+
+* `MailExercice.sh <bin/MailExercice.sh>`_,
+   envoie par email un exercice aléatoire. Peut être appelé avec l'option ``html`` pour envoyer
+   un email formaté en HTML, plus lisible (et qui embarque une autre expérience, l'analyse
+   d'audience via *ga-beacon*, voir `<beacon.html>`_ pour plus d'infos).
+   Encore expérimental pour formater le texte de chaque exercice de façon *vraiment* lisible..
+   
+   :État: *Super cool*.
 
 
 Pour améliorer certains toplevels
