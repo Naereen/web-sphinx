@@ -283,18 +283,18 @@ Une expérience: des exercices de maths reçus par email ?
 Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_.
 
 * `Exercice.sh <bin/Exercice.sh>`_,
-   récupère un exercice aléatoire. Lance *elinks* sur la page, à moins d'être appelé
-   avec l'option ``--static``. Encore expérimental pour récupérer le code TeX de chaque exo.
-   
-   :État: *Fonctionnel*.
+  récupère un exercice aléatoire. Lance *elinks* sur la page, à moins d'être appelé
+  avec l'option ``--static``. Encore expérimental pour récupérer le code TeX de chaque exo.
+
+  :État: *Fonctionnel*.
 
 * `MailExercice.sh <bin/MailExercice.sh>`_,
-   envoie par email un exercice aléatoire. Peut être appelé avec l'option ``html`` pour envoyer
-   un email formaté en HTML, plus lisible (et qui embarque une autre expérience, l'analyse
-   d'audience via *ga-beacon*, voir `<beacon.html>`_ pour plus d'infos).
-   Encore expérimental pour formater le texte de chaque exercice de façon *vraiment* lisible..
-   
-   :État: *Super cool*.
+  envoie par email un exercice aléatoire. Peut être appelé avec l'option ``html`` pour envoyer
+  un email formaté en HTML, plus lisible (et qui embarque une autre expérience, l'analyse
+  d'audience via *ga-beacon*, voir `<beacon.html>`_ pour plus d'infos).
+  Encore expérimental pour formater le texte de chaque exercice de façon *vraiment* lisible..
+
+  :État: *Super cool*.
 
 
 Pour améliorer certains toplevels

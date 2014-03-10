@@ -414,28 +414,41 @@ div.body p.centered {
 table.docutils {
     border: 0;
     border-collapse: collapse;
+/*    padding: 3px 8px 25px 5px; */
 }
 
 table.docutils td, table.docutils th {
-    padding: 1px 8px 1px 5px;
+    padding: 3px 8px 25px 5px;
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 5px solid #aaa;
 }
 
 table.field-list td, table.field-list th {
     border: 0 !important;
+/*    padding-bottom: 15px; */
 }
 
 table.footnote td, table.footnote th {
     border: 0 !important;
+/*    padding-bottom: 15px; */
 }
 
 th {
     text-align: left;
-    padding-right: 5px;
+    padding-right: 12px;
 }
+/*
+    th:after {
+        content: "";
+        z-index: 80;
+        font-size: 10px;
+        font-weight: normal;
+        position: relative;
+        bottom:10px;
+    }
+*/
 
 table.citation {
     border-left: solid 1px gray;
