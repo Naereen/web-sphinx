@@ -39,7 +39,7 @@ at the end of the file (in the ``<bottom>`` paragraph or at the head of ``<body>
 
 .. code-block:: html
 
-   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js?1"></script>
+   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js?1"></script>
 
 
 Moreover, the ``async`` tag will improve the speed of the page, by
@@ -67,7 +67,7 @@ Embed this picture is quite simple, and can be done with the following piece of 
 
 .. code-block:: html
 
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel" />
 
 
 Or, for a *Sphinx*-generated webpage, with the following piece of ``rST`` code :
@@ -91,7 +91,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
   For instance : 
  
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
-    :scale: 250%
+    :scale: 300%
     :align: center
     :alt: A small « analytics | GA » badge.
     :target: http://besson.qc.to/beacon.html
@@ -123,7 +123,7 @@ allowing you to track and get statistics for every single emails you send :
 
 .. code-block:: html
 
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/27-02-2014/3?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/27-02-2014/3?pixel" />
 
 
 That example shows the naming rule I'm using for my electronic mailing :
@@ -131,20 +131,20 @@ every day, each email is named **DD-MM-YYYY/NUM**, where DD-MM-YYYY is the date
 (like 27-02-2014 for the 27th of February, 2014)
 and where **NUM** is the number of the email you sent that very day.
 
-For instance, the content of the forth email sent 
-on the 03 mars 2014 will contains that at its end :
+For instance, the content of the forth email sent on the 11th of Mars 2014 
+will have the code **11-03-2014/4**, and therefore will contains that piece of ``HTML`` code at its end :
 
 .. code-block:: html
 
    Cheers;<br>
    -- <br>
    Lilian<br>
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/4?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/4?pixel" />
 
 
 One dead-pixel ?
 ----------------
-Just to show how it works, a one pixel picture is included right there,
+Just to show how it works, a *one-pixel picture* is included right there,
 before the next paragraph. You shouldn't be able to see it, but with the proper
 debugging tool or be seeing the source of the page, 
 you will have confirmation that it is here !
@@ -153,10 +153,10 @@ you will have confirmation that it is here !
 
 References
 ----------
-Two articles, from the same genius guy :
+Two articles (from the same genius guy) :
 
  #. `blog post <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ contains a detailed explanation on how to use beacon image to track visits on a github page or an email,
  #. `github page <https://github.com/igrigorik/ga-beacon>`_ of his project.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
