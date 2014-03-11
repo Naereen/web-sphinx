@@ -40,7 +40,7 @@ Il faut alors l'inclure dans chaque page avec ce code ``HTML``
 
 .. code-block:: html
 
-   <script async type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js?1"></script>
+   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js?1"></script>
 
 
 En plus, la balise ``async`` accélèrera le chargement de la page 
@@ -66,7 +66,7 @@ Intégrer cette image peut être fait en ``HTML`` avec le code suivant :
 
 .. code-block:: html
 
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel" />
 
 
 Ou bien avec le code ``rST`` suivant, 
@@ -91,7 +91,7 @@ en enlevant le ``?pixel`` à la fin de l'adresse URL.
   Par exemple : 
  
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/avec-un-badge
-     :scale: 250%
+     :scale: 300%
      :align: center
      :alt: Un petit badge « analytics | GA ».
      :target: http://besson.qc.to/beacon.html
@@ -130,29 +130,30 @@ des adresses du service *beacon* pour surveiller « chaque courriel » indépend
 L'exemple précédent montre la convention de nommage que j'utilise pour ma correspondance électronique : 
 chaque jour, on numérote les courriers sous la forme **JJ-MM-YYYY/NUM**, où **NUM** est le numéro du courrier envoyé ce jour là.
 
-Par exemple, le premier mail écrit le 03 mars 2014 se terminera par :
+Par exemple, le premier mail écrit le 11 mars 2014 correspond au code **11-03-2014/1** 
+et donc se terminera par le morceau de code ``HTML`` suivant :
 
 .. code-block:: html
 
    Cordialement;<br>
    -- <br>
    Lilian<br>
-   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/1?pixel" />
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/1?pixel" />
 
 
 Un seul pixel caché
 -------------------
-À titre d'exemple, une autre image sous forme d'un seul pixel est inséré,
-juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage.
+À titre d'exemple, une autre image sous forme d'*un seul pixel* est inséré,
+juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage (*FireBug* par exemple).
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/une-seule-pixel?pixel
 
 Sources
 -------
-Deux pages du même auteur :
+Deux pages (du même auteur) :
 
- #. `Post de blog <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
- #. `Page github <https://github.com/igrigorik/ga-beacon>`_ du projet.
+ #. `post de blog <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
+ #. `page github <https://github.com/igrigorik/ga-beacon>`_ du projet.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
