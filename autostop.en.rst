@@ -44,4 +44,4 @@ A few remarks on the nice drivers who are willing to take hitch-hikers :
 * not really able to notice any pattern in their age,
 * usually they are locals (living near the start point ou the destination).
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
