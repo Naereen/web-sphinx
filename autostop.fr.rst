@@ -45,4 +45,4 @@ Statistiques concises
 * souvent des distances assez longues (50/200 kms),
 * souvent des gens du coin (de départ ou d'arrivée).
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
