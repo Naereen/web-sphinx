@@ -124,10 +124,10 @@ des adresses du service *beacon* pour surveiller « chaque courriel » indépend
 
 .. code-block:: html
 
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/27-02-2014/3?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/7?pixel" />
 
 
-L'exemple précédent montre la convention de nommage que j'utilises pour ma correspondance électronique : 
+L'exemple précédent montre la convention de nommage que j'utilise pour ma correspondance électronique : 
 chaque jour, on numérote les courriers sous la forme **JJ-MM-YYYY/NUM**, où **NUM** est le numéro du courrier envoyé ce jour là.
 
 Par exemple, le premier mail écrit le 03 mars 2014 se terminera par :
@@ -137,7 +137,7 @@ Par exemple, le premier mail écrit le 03 mars 2014 se terminera par :
    Cordialement;<br>
    -- <br>
    Lilian<br>
-   <img src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/1?pixel"></img>
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-03-2014/1?pixel" />
 
 
 Un seul pixel caché
@@ -155,4 +155,4 @@ Deux pages du même auteur :
  #. `Page github <https://github.com/igrigorik/ga-beacon>`_ du projet.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
