@@ -25,13 +25,20 @@
 <!-- Début du flux -->
 
       <item>
+       <title>L'agreg, c'était aujourd'hui.</title>
+       <link>http://besson.k.vu/x/cielmonagreg.tumblr.com</link>
+       <description>L'agreg, c'est fini. Au moins, pour les écrits !</description>
+       <guid>http://besson.qc.to/beacon.en</guid>
+       <pubDate>Thu, 13 Mar 2014 18:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>L'agreg, c'est demain, vraiment !</title>
        <link>http://besson.qc.to/x/cielmonagreg.tumblr.com</link>
        <description>L'agreg, c'est demain. Fini les révisions, les écrits sont cette semaine !</description>
        <guid>http://besson.qc.to/vieprivee</guid>
        <pubDate>Mon, 10 Mar 2014 08:03:43 GMT</pubDate>
       </item>
-
 
       <item>
        <title>Redessiner l'Alaska à la Bombe H ?</title>
