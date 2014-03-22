@@ -3,7 +3,7 @@
    <div class="sidebar" style="font-size:75%;">
    <p class="first sidebar-title">Quoi de neuf par ici ?</p>
    <ol class="last arabic simple">
-   <li><i>« L'agreg, c'est demain » !</i> (nos épreuves écrites pour le concours national de l'<i>agrégation</i> se déroulent cette semaine),</li>
+   <li><i>« L'agreg, c'est demain » !</i> (nos épreuves écrites pour le concours national de l'<i>agrégation</i> se déroulaient le 12 et 13 mars),</li>
    <li><a href="http://besson.qc.to/beacon.fr.html">beacon.fr.html</a>: un petit tutoriel sur <i>ga-beacon</i>, une solution élégante pour mesurer l'audience d'une page web ou d'un courriel avec une image d'une pixel,</li>
    <li><a href="https://bitbucket.org/lbesson/linux-dash">Traduction française</a> de <a href="https://github.com/afaqurk/linux-dash">linux-dash</a>;</li>
    <li>En janvier, j'ai <i>corrigé des copies</i> (d'élèves de 1<sup>ère</sup> ES, en maths) ! Je me suis aussi engagé auprès des <a href="http://www.cours-thales.fr/">Cours Thalès</a> pour donner des cours particuliers !</li>

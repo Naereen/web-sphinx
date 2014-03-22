@@ -3,7 +3,7 @@
    <div class="sidebar" style="font-size:75%;">
    <p class="first sidebar-title">What’s new around here?</p>
    <ol class="last arabic simple">
-   <li><i>« L'agreg, c'est demain » !</i> (our written exams for the <i>« agrégation »</i> national exam are this week),</li>
+   <li>We had our written exams for the <i>« agrégation »</i> national exam the 12th and 13th Mars,</li>
    <li><a href="http://besson.qc.to/beacon.en.html">beacon.en.html</a>: a small demo of <i>ga-beacon</i>, or how to monitor a webpage activity with a one-pixel image,</li>
    <li><a href="https://bitbucket.org/lbesson/linux-dash">French translation</a> of <a href="https://github.com/afaqurk/linux-dash">linux-dash</a>;</li>
    <li>In January, I corrected some Maths <i>undergraduate written exams</i> ! I also started to work at <a href="http://www.cours-thales.fr/">"Cours Thalès"</a> on my spare time to teach some maths and CS courses to undergraduate student!</li>
