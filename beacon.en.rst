@@ -32,14 +32,14 @@ And also easier to maintain !
 You just have to create a small ``ga.js`` script contenaning 
 the previous piece of code, and add it somewhere on your website.
 
-For instance: `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
+For instance: `ga.js <http://besson.qc.to/_static/ga.js>`_.
 
 Then you have to load it in every webpage with one-line of ``HTML`` code
 at the end of the file (in the ``<bottom>`` paragraph or at the head of ``<body>``) :
 
 .. code-block:: html
 
-   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js?1"></script>
+   <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js?1"></script>
 
 
 Moreover, the ``async`` tag will improve the speed of the page, by

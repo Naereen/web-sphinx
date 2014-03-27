@@ -17,8 +17,8 @@ Il y a deux flux :
 .. image:: .valid-rss.png
    :scale: 100%
    :align: right
-   :alt: Flux RSS (perso.crans.org/besson/rss.xml)
-   :target: http://perso.crans.org/besson/rss.xml
+   :alt: Flux RSS (besson.qc.to/rss.xml)
+   :target: http://besson.qc.to/rss.xml
 
 
 .. warning:: generateit.net est fermé. Pas encore trouvé de service de remplacement
@@ -42,7 +42,7 @@ Flux valide ?
 .. image:: .valid-rss.png
    :scale: 100%
    :alt: Valid RSS
-   :target: http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml
+   :target: http://feed1.w3.org/check.cgi?url=http%3A//besson.qc.to/rss.xml
    :align: right
 
 Normalement, le flux écrit à la main est valide, comme le montre le lien suivant :

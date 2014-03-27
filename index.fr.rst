@@ -40,7 +40,7 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
 
    **Un petit mot sur ce site** :
 
-    Je développe ce petit site (actuellement `<http://perso.crans.org/besson>`_)
+    Je développe ce petit site (actuellement `<http://besson.qc.to>`_)
     sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
 

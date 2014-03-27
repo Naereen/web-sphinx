@@ -56,9 +56,9 @@ Le toplevel
    # Ajoutez votre propre commande Python :
    </pre>
    </br>
-   <script src="_static/skulpt.js" type="text/javascript"></script>
-   <script src="_static/builtin.js" type="text/javascript"></script>
-   <script src="_static/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="_static/skulpt.js?1" type="text/javascript"></script>
+   <script src="_static/builtin.js?1" type="text/javascript"></script>
+   <script src="_static/ace-new/ace.js?1" type="text/javascript" charset="utf-8"></script>
 
    <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto" onclick="window.alert(\"Nothing :(...\")" />
    <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
@@ -66,14 +66,12 @@ Le toplevel
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
-   </br>
-   </br>
+   </br></br>
    <canvas id="mycanvas"
            style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
-   </canvas>
-   </br></br>
+   </canvas></br></br>
 
    <script type="text/javascript">
    // $(document).ready(function() {
@@ -172,9 +170,7 @@ Autres pages
  Le premier terminal **Python** que j'ai intégré dans mes pages est là
  `<python.html>`_.
 
- Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale
- de la documentation de **Python 2.7.3**.
-
+.. Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
 
 Hébergements
 ------------

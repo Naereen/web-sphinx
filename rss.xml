@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
       <title>Lilian Besson's RSS</title>
-      <link>http://perso.crans.org/besson/</link>
+      <link>http://www.dptinfo.ens-cachan.fr/~lbesson/</link>
       <description>Flux RSS pour les pages web de Lilian Besson</description>
       <language>fr</language>
       <copyright>© 2013-2014, Lilian Besson</copyright>
@@ -11,13 +11,13 @@
       <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Crans, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff, Agreg, Autostop</category>
       <generator>Painstakingly written by hand with GNU Nano v2.3.2 on Ubuntu 12.04.4 LTS :)</generator>
       <ttl>1</ttl>
-      <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://www.dptinfo.ens-cachan.fr/~lbesson/rss.xml" rel="self" type="application/rss+xml" />
 
       <image>
         <title>Lilian Besson's RSS</title>
-        <url>http://perso.crans.org/besson/i/.besson_transparent.png</url>
-        <link>http://perso.crans.org/besson/</link>
-        <description>Toutes mes expérimentations web sur http://perso.crans.org/besson !</description>
+        <url>http://www.dptinfo.ens-cachan.fr/~lbesson/i/.besson_transparent.png</url>
+        <link>http://www.dptinfo.ens-cachan.fr/~lbesson/</link>
+        <description>Toutes mes expérimentations web sur http://besson.qc.to !</description>
         <height>120</height>
         <width>75</width>
       </image>
@@ -155,7 +155,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Re-publication de ZenityOCaml !</title>
-       <link>http://perso.crans.org/besson/publis/Zenity/</link>
+       <link>http://www.dptinfo.ens-cachan.fr/~lbesson/publis/Zenity/</link>
        <description>Utiliser Zenity avec OCaml de façon typée.</description>
        <guid>http://besson.or.gs/publis/Zenity</guid>
        <pubDate>Tue, 03 Dec 2013 20:48:43 GMT</pubDate>
@@ -253,7 +253,7 @@ Que répondre à ça ;) ?
        <title>Début de la prépa Agreg :)</title>
        <link>http://lbesson.qc.to/agreg/</link>
        <description>La rentrée, c'est maintenant ! Début de la prépa agreg, premiers TDs, premiers cours :)</description>
-       <guid>http://perso.crans.org/besson/agreg/</guid>
+       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/agreg/</guid>
        <pubDate>Fri, 06 Sep 2013 17:04:43 GMT</pubDate>
       </item>
 
@@ -331,7 +331,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Update CV :)</title>
-       <link>http://perso.crans.org/besson/cv.html</link>
+       <link>http://www.dptinfo.ens-cachan.fr/~lbesson/cv.html</link>
        <description>Pour suivre les modifications du CV en PDF.</description>
        <guid>http://bitbucket.org/lbesson/cv/</guid>
        <pubDate>Mon, 24 Jun 2013 10:49:43 GMT</pubDate>
@@ -373,7 +373,7 @@ Que répondre à ça ;) ?
        <title>Projet Kaggle</title>
        <link>https://bitbucket.org/lbesson/projet-kaggle</link>
        <description>Projet Kaggle en ML</description>
-       <guid>http://perso.crans.org/besson/publis/kaggle/.build/html/</guid>
+       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/publis/kaggle/.build/html/</guid>
        <pubDate>Thu, 25 Apr 2013 05:49:43 GMT</pubDate>
       </item>
 
@@ -389,7 +389,7 @@ Que répondre à ça ;) ?
        <title>Couvertures de CD trouvées par VLC (automatiquement).</title>
        <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202</link>
        <description>VLC 2.0+ télécharge seul des couvertures de CD et images représentatives de la chanson écoutée. Et ça marche du tonnerre !</description>
-       <guid>http://perso.crans.org/besson/dl/</guid>
+       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/dl/</guid>
        <pubDate>Wed, 17 Apr 2013 01:49:43 GMT</pubDate>
       </item>
       
@@ -427,7 +427,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Ça marche ! Ça marche !</title>
-       <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
+       <link>http://feed1.w3.org/check.cgi?url=http%3A//www.dptinfo.ens-cachan.fr/~lbesson/rss.xml</link>
        <description>Flux valide</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx-scripts</guid>
        <pubDate>Mon, 01 Apr 2013 10:49:43 GMT</pubDate>
@@ -437,7 +437,7 @@ Que répondre à ça ;) ?
        <title>Second item !</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
-       <guid>http://perso.crans.org/besson/rss.html</guid>
+       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/rss.html</guid>
        <pubDate>Mon, 01 Apr 2013 10:03:43 GMT</pubDate>
       </item>
       

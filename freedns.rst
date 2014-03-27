@@ -28,16 +28,16 @@ FreeDNS ?
 Liste des sous-domaines que j'utilise
 -------------------------------------
  * `besson.qc.to <http://besson.qc.to>`_ 
-    vers http://perso.crans.org/besson (pages perso). Le plus utilisé !
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson (pages perso). Le plus utilisé !
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson (autre page perso, identique);
+    aussi vers http://www.dptinfo.ens-cachan.fr/~lbesson;
 
  * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_
     vers https://bitbucket.org/lbesson/ (mes dépôts git);
 
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
-    vers http://perso.crans.org/besson/cv.pdf en mode :red:`cloak` (moche);
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf en mode :red:`cloak` (moche);
 
  * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélérer l'accès,
    comme par exemple `<http://besson.or.gs/bin/pdflatex>`_.
@@ -46,8 +46,7 @@ Liste des sous-domaines que j'utilise
 .. note:: En fait non.
 
    Il n'y en a que 5, c'est normal, c'est la limite d'un compte gratuit.
-   Bien sûr, je pourrais faire d'autres comptes au besoin...
-   Donc non.
+   Bien sûr, je pourrais faire d'autres comptes au besoin... Donc non.
 
 Liste des autres sous-domaines que j'utilise
 --------------------------------------------
@@ -55,10 +54,11 @@ Liste des autres sous-domaines que j'utilise
     vers http://perso.crans.org/besson/jarvis.html
 
  * `besson.k.vu <http://besson.k.vu>`_ et `jarvis.k.vu <http://jarvis.k.vu>`_
-    vers http://perso.crans.org/besson (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson 
+    (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
 
  * `naereen.uk.is <http://naereen.uk.is>`_
-    vers http://perso.crans.org/besson/ (aussi);
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson (aussi);
 
 dot.tk
 ------
