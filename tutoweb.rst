@@ -19,14 +19,14 @@ HeVeA
  A partir de LaTeX, écrit en OCaml, et par un gars de l'INRIA : http://hevea.inria.fr/
  Un exemple, http://www.dptinfo.ens-cachan.fr/~bdadoun/supply_chains/
 
- Peut-être une bonne idée, mais ne permet pas d'avoir quelque chose de très jolis.
+ Peut-être une bonne idée, mais ne permet pas d'avoir quelque chose de très jolie.
 
 Markdown
 ^^^^^^^^
  Petit langage genre Wiki, http://daringfireball.net/projects/markdown/syntax
  Permet ensuite de faire fichier.md -> fichier.html
  Avec : `markdown fichier.md > fichier.html` en Bash.
- Exemple : http://perso.crans.org/~besson/publis/kaggle/
+ Exemple : http://www.dptinfo.ens-cachan.fr/~lbesson/publis/kaggle/
 
  Assez limité, mais pratique pour faire une page simple rapidement.
 
@@ -36,16 +36,17 @@ Pour faire un blog
 ------------------
  * Tumblr,
  * Wordpess,
- * il y en a sûrement d'autres, mais je connais pas.
+ * il y en a sûrement d'autres, mais ils sont moins connus.
 
 Pour générer des pages un peu moins moches
 ------------------------------------------
 Moi j'utilise Sphinx (http://sphinx-doc.org) et le langage associé est rST (référence: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html).
-rST en tant que tel est un bon langage à balise, mieux que Markdown ou autre.
+rST en tant que tel est un bon langage à balise, moins que concis que Markdown 
+mais il est fourni avec plus de « plugins » (gnuplot, graphviz etc).
 
- - Exemple de source : http://www.dptinfo.ens-cachan.fr/~lbesson/_sources/slides.txt
- - Exemple de rendu simple avec rst2html (même commande que Markdown : rst2html file.txt > file.html) : http://www.dptinfo.ens-cachan.fr/~lbesson/slides.simple.html
- - Exemple de rendu avec Sphinx : http://www.dptinfo.ens-cachan.fr/~lbesson/slides.html
+ - Exemple de source : http://www.dptinfo.ens-cachan.fr/~lbesson/_sources/tutoweb.txt
+ - Exemple de rendu simple avec rst2html (même commande que Markdown : rst2html file.txt > file.html) : http://www.dptinfo.ens-cachan.fr/~lbesson/i/tutoweb.html
+ - Exemple de rendu avec Sphinx : http://www.dptinfo.ens-cachan.fr/~lbesson/tutoweb.html
 
 ----
 
@@ -70,10 +71,11 @@ Autre outils intéressants :
 Google Analytics
 ----------------
  Permet de faire de l'analyse précise des visites sur ton site, demande par contre de rajouter un peu de code (5 lignes de JavaScript à chaque page).
- Peu éthique, mais très pratique. Moi je m'en sert, et j'utilise les templates de Sphinx pour l'ajouter à chaque page :
- https://bitbucket.org/lbesson/web-sphinx/src/052edcac5f1c4952c88186668c53f7c209d0485c/.templates/layout.html?at=master
- ligne 51 à 95.
+ Peu éthique, mais très pratique. Moi je m'en sert, et j'utilise les templates de Sphinx pour l'ajouter à chaque page
+ via un lien à http://besson.qc.to/s/ga.js en interne.
  Plus de détails sur GA: http://www.google.com/analytics/
+ Aussi possible d'utiliser une simple image, voir même un simple pixel, pour analyser l'audience d'un courriel par exemple
+ (voir http://besson.qc.to/beacon.html)
 
 Outils google pour webmasters
 -----------------------------
@@ -89,13 +91,15 @@ scp, ftp, ssh, rsync
 
   - ssh: permet de faire de la maintenance, de supprimer des trucs facilement etc
 
-  - ftp,sftp,et autres: permet de monter le serveur comme une clé usb, pratique si tu veux utiliser un "drag 'n drop" pour copier tes fichiers,
+  - ftp, sftp, et autres: permet de monter le serveur comme une clé usb, pratique si tu veux utiliser un "drag 'n drop" pour copier tes fichiers,
 
-  - scp: comme `cp` en console,
+  - scp: comme ``cp`` en console,
 
   - rsync: bien mieux, moi j'utilise l'alias CP='/usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive', et une variable Sdpt='lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/' (remplace par exemple par Seleve='theozim@ssh.eleve.ens.fr:~/dossierAdequat/')
     ça permet de faire : CP page*.html dossier/ ${Seleve} : tu n'aura pas plus concis ou plus pratique.
     Et en plus, affiche la durée restante, autorise la reprise sur erreur, compresse, n'envoie que ce qui a changé et plein d'autres trucs cools.
+    *Note* j'ai fait un wrapper pour CP qui permet d'afficher sa sortie en couleur : http://besson.qc.to/bin/CP
+    (à sauvegarder dans ~/bin/ ou ~/.local/bin/, ou n'importe quel dossier qui est dans ton ``$PATH``).
 
 JavaScript ou PHP
 -----------------
@@ -110,12 +114,12 @@ JavaScript ou PHP
 Quelques derniers conseils
 --------------------------
  * éviter de mettre des caractères non ascii dans les noms de fichiers/dossiers.
- * prendre conscience des problèmes d'encodages de caractères tôt (exemple de référence: http://www.siteduzero.com/informatique/tutoriels/dynamisez-vos-sites-web-avec-javascript/resoudre-les-problemes-d-encodage).
+ * prendre conscience des problèmes d'encodages de caractères *tôt* (exemple de référence: http://www.siteduzero.com/informatique/tutoriels/dynamisez-vos-sites-web-avec-javascript/resoudre-les-problemes-d-encodage).
  * éviter les majuscules dans les noms de fichiers/dossiers.
- * ne JAMAIS mettre son adresse mail ou son téléphone en clair dans n'importe quel fichier accessible en http,
+ * ne pas mettre son adresse mail ou son téléphone en clair dans n'importe quel fichier accessible en http,
    le plus simple est de mettre prenom.nom[AT]domain[DOT]fr ou un autre dans le genre,
    le mieux est de générer une image email.png qui montre ton adresse (comme http://www.text2image.com). Problème d'accessibilité pour les aveugles, pas top si tu veux avoir une page vraiment accessible. Et problème pour les gens qui naviguent en console, ou sans image.
- * ne jamais utiliser de contenu que tu n'as pas le droit d'utiliser, ou de distribuer des fichiers sur lesquels tu n'as aucun droit (personne ne respecte ça, et personne te dira rien même si tu utilise ta page perso pour distribuer des films piratés, mais quand même...).
+ * ne jamais utiliser de contenu que tu n'as pas le droit d'utiliser, ou de distribuer des fichiers sur lesquels tu n'as aucun droit (personne ne respecte ça, et personne te dira rien même si tu utilise une page perso pour distribuer des films piratés, mais quand même...).
  * être conscient que les moteurs de recherche enregistrent des captures de tes pages, au moins hebdomadairement. Donc une page pourrie que tu as supprimé pour toujours être trouvée dans les résultats de google, et vues par les utilisateurs.
    Morale de l'histoire: faire *vraiment* gaffe à ce que met et ce que tu écrit, une fois que c'est en ligne tu perd tout contrôle dessus.
 
