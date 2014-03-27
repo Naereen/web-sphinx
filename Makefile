@@ -118,7 +118,7 @@ images:
 	-$(CP) .*.gif .*.png .*.jpg *.png $(BUILDDIR)/html/_images/
 
 send_pdf: fixperms
-	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
+	# -$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
 	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
 	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
@@ -131,20 +131,21 @@ send_dpt: fixperms
 	-$(CP) ~/Dropbox/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
-	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
-	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
+	##$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
+	##-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
+	@echo "ERROR: access to zamok.crans.org is suspended :("
 
 send_latexpdf: fixperms
 	-pkill gnuplot
-	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
+	# -$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
 	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
 	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
+	# -$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_simple:
-	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html besson@zamok.crans.org:~/www/_images/
+	# -$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html besson@zamok.crans.org:~/www/_images/
 	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html ~/Public/_images/
 	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/_images/
 
@@ -179,11 +180,11 @@ rss:
 	@echo "RSS flow -> in $(BUILDDIR)/html/."
 
 cv.fr:	cv.fr.rst
-	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o cv.fr.pdf -c cv.fr.rst
+	rst2pdf -s ./.style.rst2pdf -l fr --default-dpi=3000 --baseurl="http://www.dptinfo.ens-cachan.fr/~lbesson/" -o cv.fr.pdf -c cv.fr.rst
 	$(CP) cv.fr.pdf $(BUILDDIR)/html/
 
 cv.en:	cv.en.rst
-	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://perso.crans.org/besson/" -o cv.en.pdf -c cv.en.rst
+	rst2pdf -s ./.style.rst2pdf -l en --default-dpi=3000 --baseurl="http://www.dptinfo.ens-cachan.fr/~lbesson/" -o cv.en.pdf -c cv.en.rst
 	$(CP) cv.en.pdf $(BUILDDIR)/html/
 
 slides:	.slides.sh
