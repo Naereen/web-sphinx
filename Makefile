@@ -3,7 +3,7 @@
 # Author: Lilian BESSON
 # Email: lilian DOT besson AT normale D O T fr
 # Version: 19
-# Date: 03-03-14
+# Date: 27-03-14
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
