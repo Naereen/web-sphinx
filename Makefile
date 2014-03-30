@@ -131,9 +131,9 @@ send_dpt: fixperms
 	-$(CP) ~/Dropbox/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
-	##$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
-	##-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
-	@echo "ERROR: access to zamok.crans.org is suspended :("
+	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
+	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
+	# @echo "ERROR: access to zamok.crans.org is suspended :("
 
 send_latexpdf: fixperms
 	-pkill gnuplot
