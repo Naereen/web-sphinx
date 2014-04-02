@@ -11,6 +11,12 @@
 
 À-propos
 --------
+.. note:: Nouveau dépôt git :
+    
+    Tous mes scripts et petits programmes sont de nouveau publiquement disponibles sur le tout neuf 
+    `bin.git <https://bitbucket.org/lbesson/bin/>`_ (ou plus d'informations ici `README.html <bin/README.html>`_).
+
+
 Cette page est là pour décrire les divers éléments du dossier `<bin/>`_.
 
 Ce dossier contient un certain nombre de petits logiciels, scripts ou autres utilitaires.

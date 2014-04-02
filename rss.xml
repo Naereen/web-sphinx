@@ -25,11 +25,27 @@
 <!-- Début du flux -->
 
       <item>
-       <title>Réservez votre samedi après-midi !</title>
-       <link>http://jill-jenn.net/concert/</link>
-       <description>Concert rétro-gaming, jeux vidéos et animé.</description>
-       <guid>http://besson.qc.to/x/jill-jenn.net/concert</guid>
-       <pubDate>Sun, 23 Mar 2014 18:03:43 GMT</pubDate>
+       <title>bitbucket.org/lbesson/bin : un nouveau dépôt pour mes scripts Bash !</title>
+       <link>http://lbo.k.vu/bin/</link>
+       <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
+       <guid>http://besson.qc.to/s/squirt</guid>
+       <pubDate>Tue, 1 Apr 2014 19:03:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>SquirtFR : un signapplet pour lire plus vite que votre ombre !</title>
+       <link>http://lbo.k.vu/squirt</link>
+       <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
+       <guid>http://besson.qc.to/s/squirt</guid>
+       <pubDate>Tue, 1 Apr 2014 19:03:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>StarpDown.js v2 !</title>
+       <link>http://lbo.k.vu/md</link>
+       <description>StrapDown.js est un outil pour écrire des pages web très rapidement. Plus d'informations sont disponibles directement dans la page de présentation du projet, <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
+       <guid>http://besson.qc.to/s/md</guid>
+       <pubDate>Mon, 31 Mar 2014 18:03:43 GMT</pubDate>
       </item>
 
       <item>
