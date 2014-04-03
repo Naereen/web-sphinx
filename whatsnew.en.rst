@@ -3,7 +3,7 @@
    <div class="sidebar" style="font-size:75%;">
    <p class="first sidebar-title">What’s new around here?</p>
    <ol class="last arabic simple">
-   <li><a href="https://lbesson.bitbucket.org/md/">StrapDown.js</a>, fork from <a href="http://strapdownjs.com/">strapdownjs</a>, an incredible tool to write web pages directly with Markdown, <i>without</i> any serverside compilation,</li>
+   <li><a href="https://lbesson.bitbucket.org/md/">StrapDown.js</a>, is a simple web script designed to write beautiful and responsive web pages <i>directly</i> with Markdown (ie. without any server-side compilation),</li>
    <li><a href="https://lbesson.bitbucket.org/squirt/">French translation</a> for <a href="http://squirt.io/">Squirt</a>, a <i>bookmarklet</i> for reading web pages faster !</li>
    <li>We had our written exams for the <i>« agrégation »</i> national exam the 12th and 13th Mars,</li>
    <li><a href="http://besson.qc.to/beacon.en.html">beacon.en.html</a>: a small demo of <i>ga-beacon</i>, or how to monitor a webpage activity with a one-pixel image,</li>

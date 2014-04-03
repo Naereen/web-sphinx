@@ -8,13 +8,13 @@
 In the 50s, the **Lawrence Radiation Laboratory (LRL)** was a top-secret 
 american organism, which purpose was to *promote* the atomic bomb.
 
-.. warning:: Translation still in progress !
+At this time, even if this *product* is improving, 
+and if its production is inscreasing (as a consequence of the cold war),
+its popularity is falling down in the USA,
+mainly after a failed test in 1954 and the dangerous radioactives dusts that fall 
+to the neighbours islands inhabitants' (Castle Bravo sur l'atoll de Bikini).
 
-À cette époque, même si le *produit* fonctionne de mieux en mieux, 
-et si sa production s'accélère (contexte de guerre froide oblige), 
-sa popularité est en chute libre aux États-Unis, 
-notamment à cause d'un test raté en 1954, 
-et des graves retombées radioactives sur les populations des îles voisines (Castle Bravo sur l'atoll de Bikini).
+.. warning:: Translation still in progress !
 
 
 C'est ainsi qu'en 1957, quelques génies ([#teller]_)
