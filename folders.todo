@@ -1,0 +1,22 @@
+header.html:
+ * </body><head> a mettre au lieu du <!doctype html><html><head>
+ * remplacer les href="" et src="" en ajoutant http://perso.crans.org/besson/
+ * séparer le fichier en deux à la fin du <div id="contenu-du-dossier">
+ * enlever précédente et suivant dans le <div class="related"></div>
+ * éventuellement, raccourcir writeLocationOfThePage pour enlever le language switcher
+ * enlever mathjax
+ * enlever le link next et link prev dans l'en-tête (c'est ça qui fait pré-charger la page suivante)
+ * ajouter un <div style="font-size: x-large;"> à la fin
+
+folder.html:
+ * ajouter un </div> au début
+ * enlever le <div class="language-selector">
+ * ajouter un lien vers le PDF anglais aussi
+ * changer le lien action="" dans le <form>
+ * Mettre à jour le lien vers la sitemap
+ * enlever le lien vers la version PDF, mettre à jour le lien vers les sources
+ * enlever Page précédente/suivante dans la sidebar
+ * enlever le validateur CSS et l'image MathJax
+ * enlever les raccourcis clavier next et previous
+
+.. (c) Lilian Besson, https://bitbucket.org/lbesson/web-sphinx/src/master/folders.todo
