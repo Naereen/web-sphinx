@@ -151,8 +151,10 @@ send_simple:
 
 ################################# Builders ####################################
 
+forceclean:
+	-rm -rvI /tmp/$(BUILDDIR)/
+
 clean:
-	#-rm -rfv /tmp/$(BUILDDIR)/
 	-mv -vf $(BUILDDIR)/ /tmp/
 	-mv -vf blog/ /tmp/
 	-mkdir --parents $(BUILDDIR)/html/
