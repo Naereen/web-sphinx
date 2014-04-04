@@ -11,7 +11,7 @@
 {% block doctype %}<!DOCTYPE html>{% endblock %}
 {% block rootrellink %}
  <li><a href="http://besson.qc.to/" title="Page principale">
-  <img src="{{ pathto('_static/.besson.png', true)|e }}?1" alt="http://besson.qc.to/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
+  <img src="{{ pathto('_static/.besson.png', true)|e }}" alt="http://besson.qc.to/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 {# Expériences. Liste des blocks utilisables.
@@ -24,27 +24,26 @@
 
 {% block extrahead %}
   <!-- BETA responsive -->
-  <meta name="viewport" content="width=device-width, maximum-scale=2.5, initial-scale=1, target-densitydpi=device-dpi"/>
+  <meta name="viewport" content="width=device-width, maximum-scale=1.5, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
   <!-- RSS workflow (from besson.qc.to) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://besson.qc.to/rss.xml" />
-  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}?1" />
-  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}?1" />
-  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}?1" />
-  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}?1" />
+  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
+  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
+  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
-   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}?1"></script>
+   <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MathJax.js (http://mathjax.org/) async is quicker -->
-   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr?1"></script>
+   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
-   <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}?1"></script>
+   <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress) NEW is now loaded with conf.py:81@mathjax_path -->
-<!--   <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}?1"></script> -->
+<!--   <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script> -->
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
-   <script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}?1"></script>
+   <script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 <script type="text/javascript">
- console.log("[INFO] Loading jQuery.noty, Moustrap, NProgress and forkit...");
  // NProgress.start(); // NOT before the end of <body>
  /* jQuery.noty plugin */
     $.noty.defaults = {
@@ -83,7 +82,7 @@
     }; };
 </script>
 {{ super() }}
-<a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Tout est OpenSource !" href="http://bitbucket.org/lbesson">
+<a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Tout est OpenSource !" href="http://bitbucket.org/lbesson/web-sphinx/">
 <img style="position: absolute; top: 0; right: 0; border: 0;" alt="Consultez mes dépôts git!" /></a>
 {% endblock %}
 
@@ -104,16 +103,14 @@
     if (e == '.fr.html') {
       window.document.write('<li class="right"><a class="image-reference" href="'
         + b + '.en.html" title="En anglais ?" >'
-        // + '<img class="languageswitch" src="{{ pathto('_images/.en.gif', true)|e }}?1" alt="En anglais ?" />'
-        + 'En anglais ?'
-        + '</a> | </li>'); 
+        // + '<img class="languageswitch" src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" />'
+        + 'En anglais ?</a> | </li>'); 
     };
     if (e == '.en.html') {
       window.document.write('<li class="right"><a class="image-reference" href="'
         + b + '.fr.html" title="In French?" >'
-        // + '<img class="languageswitch" src="{{ pathto('_images/.fr.gif', true)|e }}?1" alt="In French?" />'
-        + 'In French?'
-        + '</a> | </li>');
+        // + '<img class="languageswitch" src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" />'
+        + 'In French?</a> | </li>');
     };
   };
   writeLocationOfThePage("<li>", "</li>");
@@ -134,20 +131,20 @@
   	NProgress.start();
 	function changeStyle(newcolor) {
 		if (newcolor != "") {
-			console.log("[INFO] Loading the stylesheet '" + ("http://besson.qc.to/_static/" + newcolor + ".css?1") + "'");
+			console.log("[INFO] Loading the stylesheet '" + ("http://besson.qc.to/_static/" + newcolor + ".css") + "'");
 			$("head").append(
-		    	$("<link/>", {href: ("http://besson.qc.to/_static/" + newcolor + ".css?1"), rel: "stylesheet"})
+		    	$("<link/>", {href: ("{{ pathto('_static/', true)|e }}" + newcolor + ".css"), rel: "stylesheet"})
 		    );
-		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 5000});
+		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
 	} };
   </script>
  	 <script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}?1"></script>
+	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}?1"></script>
+	 <script type="text/javascript" src="{{ pathto('_static/jquery.timeago.js', true)|e }}"></script>
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
-	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}?1"></script>
+	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
 <script type="text/javascript">
 console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2014.");
   NProgress.inc();
@@ -210,7 +207,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
    setTimeout( function(){ NProgress.done(); }, 1000);
  });
  </script>
- <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Last modifications">Derniers changements</a>.
+ <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Sur bitbucket !">Derniers changements</a>.
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
 Si ça concerne des scripts, veuillez utiliser
@@ -221,59 +218,48 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://noscript.net/getit">NoScript</a>.
 <br>{% include "geekcode.html" %}
-<!-- <noscript> -->
-<img style="visibility: hidden; display: none;"
-     src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel"
-/>
-<!-- </noscript> -->
+<img style="visibility: hidden; display: none;" alt="GA|Analytics"
+     src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" />
 <div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
- <img alt="Optimized for Firefox, tested on Firefox 27.0.1"
-      src="{{ pathto('_images/.firefox_80_15.png', true)|e }}?1" 
+ <img alt="Optimized for Firefox, tested on Firefox 28.0"
+      src="{{ pathto('_images/.firefox_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Google Analytics" href="http://www.google.com/analytics/">
- <img alt="Use Google Analytics"
-      src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}?1"
+<li><a class="image-reference" title="Google Analytics" href="https://www.google.com/analytics/">
+ <img alt="Uses Google Analytics"
+      src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<!--
-      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?1"
-      style="width: 73.0px; height: 18.0px;" /></a></li>
--->
 <li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
  <img alt="Written with GNU Nano 2.3.2" 
-      src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GPL v3" href="http://www.gnu.org/licenses/gpl.html">
  <img alt="These pages are an Open Source project, released with the GPLv3 License" 
-      src="{{ pathto('_images/.opensource_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.opensource_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Python" href="http://www.python.org/download/">
  <img alt="Python 2.7.3 powered :)" 
-      src="{{ pathto('_images/.python_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.python_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Sphinx" href="http://sphinx-doc.org/install.html">
  <img alt="Made with Sphinx 1.3a0" 
-      src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Ubuntu 12.04.04 LTS" href="http://www.ubuntu.com/about/about-ubuntu">
  <img alt="Made on Ubuntu 12.04.4 LTS" 
-      src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/" >
  <img alt="Source code hosted on Bitbucket.org, managed with Git 1.7.9.5"
-      src="{{ pathto('_images/.git_80_15.png', true)|e }}?1" 
+      src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
       style="width: 36.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
  <img alt="Powered by MathJax 2.3"
-      src="{{ pathto('_images/.mathjax_60_12.png', true)|e }}?1"
+      src="{{ pathto('_images/.mathjax_60_12.png', true)|e }}"
       style="width: 60.0px; height: 12.0px;" /></a></li>
-<!-- A little script to know which web server is used.
-     In fact, it is a simple analysis over the hostname :
-      - Apache is used on almost every other server I used,
-      - nginx is used on my personnal machine. -->
 <li><script type="text/javascript">
   if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,9) == '127.0.0.1') ) {
-  window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.4 on "
+  window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.7 on "
   + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}?1\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
   }
   else {
@@ -283,19 +269,18 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   NProgress.inc();
   </script>
   <noscript>
-  <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}?1" style="width: 80.0px; height: 15.0px;" /></a>
+  <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
   </noscript>
 </li></ul></div> 
-<script async type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}?1"></script>
+<script async type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
 </div>
 <!-- This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
  * This file layout.html is part of my web pages, generated with Sphinx.
  * Those pages are hosted
- *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to (DEAD);
+ *  - here on the Crans network, http://perso.crans.org/besson or http://besson.qc.to;
  *  - here at ENS de Cachan, http://www.dptinfo.ens-cachan.fr/~lbesson or http://lbesson.qc.to;
- *  - sometimes on my machine, http://jarvis.crans.org/ (only locally on the crans network).
- *
+ *  - sometimes on my machine, https://jarvis.crans.org/ (only locally on the crans network).
  * This document is a Jinja Template, to modify all the HTML pages produced
  * by Sphinx. It have to be in the '.templates' folder.
 End of the part generated by .templating/layout.html -->

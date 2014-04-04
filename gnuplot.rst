@@ -27,16 +27,16 @@ sur :under:`votre propre machine.`
 .. raw:: html
 
     <style type="text/css">
-    .emscripten { padding-right: 0; margin-left: auto; font-size: 10px; margin-right: auto; display: block; }
+    .emscripten { padding-right: 0; margin-left: auto; font-size: 12px; margin-right: auto; display: block; }
     canvas.emscripten { border: 1px solid black; }
     textarea.emscripten { font-family: monospace; width: 80%; }
     div.emscripten { text-align: center; }
     table.noborder { border: 0; vertical-align: text-top; }
     </style>
-    <button onclick="localStorage.removeItem('gnuplot.script');
+    <button class="btn btn-warning" onclick="localStorage.removeItem('gnuplot.script');
     localStorage.removeItem('gnuplot.files');
     window.location.reload(true)">Effacer le stockage local !</button>
-    <input id="files" name="files[]" multiple="" type="file"></input>
+    <input class="btn" id="files" name="files[]" multiple="" type="file"></input>
     <output id="list"></output>
 
 Graphe et entrée texte
@@ -85,13 +85,11 @@ Graphe et entrée texte
     GPFUN_sinc = "sinc(x,y) = sin(sqrt((x-20.)**2+(y-20.)**2))/sqrt((x-20.)**2+(y-20.)**2)"
     GPFUN_color = "color(x,y) = 10. * (1.1 + sin((x-20.)/5.)*cos((y-20.)/10.))"
     splot '++' using 1:2:(Z($1,$2)):(color($1,$2)) with pm3d title "4 data columns x/y/z/color"
-    </textarea>
-    </td></tr></tbody></table>
-    <br clear="all">
-    <hr>
+    </textarea></td></tr></tbody></table>
+    <br clear="all"><hr>
     <h2 style="float: left;">Messages de sorties :</h2>
-    <textarea class="emscripten" id="output" rows="10" cols="80" style="font-family: monospace; font-size: 8pt;">Chargement, veuillez patienter...</textarea>
-    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block;" />
+    <textarea id="output" rows="10" cols="50" style="font-family: monospace; font-size: 10pt;">Chargement, veuillez patienter...</textarea>
+    <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block;" />
     <script type="text/javascript" src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">
     gnuplot = new Gnuplot('_static/gnuplot.js');
@@ -160,7 +158,6 @@ Graphe et entrée texte
     scriptChange();
     function handleFileSelect(evt) {
         var _files = evt.target.files; // FileList object
-
         // files is a FileList of File objects. List some properties.
         var output = [];
         for (var i = 0, f; f = _files[i]; i++) {
@@ -177,7 +174,6 @@ Graphe et entrée texte
                         files[fname] = e.target.result;
                         localStorage["gnuplot.files"] = JSON.stringify(files);
                     }
-
                 };
                 reader.readAsText(f);
             })();
