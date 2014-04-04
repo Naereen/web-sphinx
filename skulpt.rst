@@ -75,10 +75,10 @@ La boucle itérative (**toplevel**)
    <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...')" />
    <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
    <br/>
-   <h4>Sortie du toplevel :</h4>
+   <h4>Sortie du toplevel :
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
    <pre id="output" style="font-family: monospace; width: 80%;"></pre>
-   <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput<code>.</span>
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" />
+   <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput<code>.</span><br/><hr/>
    <br/><br/>
    <canvas id="mycanvas" style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
