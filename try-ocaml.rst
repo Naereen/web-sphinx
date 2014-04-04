@@ -63,8 +63,10 @@ Le toplevel
         <tr><td><code>steps ()</code></td> <td id="text-steps">See available steps in the current lesson</td></tr>
       </table>
    </div></div></div></div>
-   <script type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
-   <script type="text/javascript">window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~")</script>
+   <script async type="text/javascript" src="_static/try-ocaml/try-ocaml.js"></script>
+   <script type="text/javascript">$(document).ready(function() {
+      window.alert("~~~ Le terminal Try OCaml (4.00.1) semble bien initialisé ! ~~~"); });
+   </script>
 
 .. image:: .ocaml-powered.png
    :scale: 140 %
@@ -99,7 +101,7 @@ Remerciements
    La page de référence pour ces morceaux de code est 
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
    
- * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
+ * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_) même si leur projet se semble plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
 
  * Merci aux auteurs d'**OCaml**;
 

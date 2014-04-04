@@ -26,8 +26,7 @@ Le toplevel
     $(document).ready(function() {
       window.alert("~~~ Le terminal OCaml (4.00.1) semble bien initialisé ! ~~~");
     });
-   </script>
-   </br></br>
+   </script></br></br>
 
 
 .. Ceci est un commentaire inutile.
@@ -50,11 +49,10 @@ Le toplevel
       depuis `try.ocamlpro.com <http://try.ocamlpro.com>`_, qui présente les 
       avantages suivants :
       
-       * version d'OCaml à jour (4.00.1);
-       * leçons intéractives en français ou en anglais;
-       * support du "drag & drop" de fichiers;
+       * leçons intéractives en anglais (plus de support du français avec la v4 !);
+       * support du "drag and drop" de fichiers;
        * permet de télécharger l'historique des entrées;
-       * support de Graphics (!);
+       * et le mieux : support du module Graphics !
 
 
 Un exemple de programme OCaml

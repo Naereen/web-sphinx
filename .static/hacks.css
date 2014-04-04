@@ -56,7 +56,7 @@ img.languageswitch {
 #scrollUpLeft {
 	bottom: 50px; left:   212px;
 	height: 38px; width:  38px;
-	background: url('http://perso.crans.org/besson/.top.png?hacks.css');
+	background: url('http://perso.crans.org/besson/_images/.top.png?hacks.css');
 }
 
 /* BETA responsive */
@@ -70,7 +70,7 @@ img.languageswitch {
 
 /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
 .social-icons li a.facebook {
-    background-image: url('http://perso.crans.org/besson/.facebook.png?hacks.css');
+    background-image: url('http://perso.crans.org/besson/_images/.facebook.png?hacks.css');
     display: block; margin-left: auto; margin-right: auto;
 }
 .social-icons li a:hover {

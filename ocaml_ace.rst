@@ -69,8 +69,8 @@ Le toplevel
     });
    </script>
    </br></br>
-   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
-   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="cleanin" type="button" class="btn btn-success" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
    </br></br>
 
 
