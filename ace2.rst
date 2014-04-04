@@ -28,7 +28,7 @@ L'éditeur **ACE**
 .. raw:: html
 
    <div id="editor" 
-        style="position: relative; font-size: 21pt; height: 700px; width: 100%"
+        style="position: relative; font-size: 21pt; height: 700px; width: 100%;"
    >(* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
    let x = 10+10;;
    let y = x * 3;;

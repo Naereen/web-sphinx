@@ -134,6 +134,7 @@ Pages in English
    demo
    cookies.en
    beacon.en
+   alaskabombeh.en
    packing
    autostop.en
 

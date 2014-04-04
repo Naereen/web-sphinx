@@ -95,11 +95,11 @@ Le toplevel
      window.onload = start;
    </script>
 
-   <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto" />
-   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
+   <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
    <h4>Sortie du toplevel :</h4>
-   <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
-   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
+   <textarea id="output" style="font-family: monospace; width: 100%;" rows="8" cols="80"></textarea>
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
 
 
 +--------------------------------+-------------------------------+

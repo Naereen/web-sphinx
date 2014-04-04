@@ -27,7 +27,7 @@ La boucle itérative (**toplevel**)
 
 .. raw:: html
 
-   <h4>Toplevel Python 2.7.3 Skulpt</h4>
+   <h4>Toplevel Python 2.7.3 Skulpt avec l'éditeur ACE</h4>
    <style type="text/css" media="screen">
     #editor { 
         font-family: monospace;
@@ -38,9 +38,9 @@ La boucle itérative (**toplevel**)
         margin-left: 40px;
     }
    </style>
-   <textarea id="editor" cols="85" rows="25">
-   # Demo with 'turtle' module
-   print("A demo of the 'turtle' module is in progress !")
+   <pre id="editor">
+   # Une démonstration de skulpt.js, utilisant l'éditeur ACE.js :) !
+   print("Démonstration du module turtle en cours :) !")
    import turtle
    t = turtle.Turtle()
    for c in ['red', 'green', 'yellow', 'blue']:
@@ -48,37 +48,26 @@ La boucle itérative (**toplevel**)
        t.forward(75)
        t.left(90)
    t.forward(75)
-   for c in ['blue', 'yellow', 'green', 'red']:
+   for c in ['red', 'green', 'yellow', 'blue']:
        t.color(c)
        t.forward(75)
        t.right(90)
-   # Demo with 'document' module
-   print("A demo of the 'document' module is in progress !")
-   import document
-   output = document.getElementById('output')
-   print output.value
-   # Second demo
-   spanoutput = document.getElementById('spanoutput')
-   print( (spanoutput.innerHTML if spanoutput.innerHTML else "Rien pour l'instant...") )
-   spanoutput.innerHTML = spanoutput.innerHTML + '<h5 style="color:red;">Skulpt can also access DOM !</h5>'
-   spanoutput.innerHTML = spanoutput.innerHTML + '<script type="text/javascript">window.alert("Alert sent from a <a href=\"http://www.python.org/\">Python</a> program, executed thanks to <a href=\"http://www.skulpt.org/\">skulpt.js</a> !");</script>'
-   # Third demo
-   spanoutput.innerHTML = spanoutput.innerHTML + '<img alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt"/>';
    # Ajoutez votre propre commande Python :
-   </textarea><br/>
-   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt.min.js?rst"></script>
-   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt-stdlib.js?rst"></script>
-   <!-- ACE ?
-     <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
-   -->
+   </pre>
+   <br/>
+   <script type="text/javascript" charset="utf-8" src="_static/skulpt.js"></script>
+   <script type="text/javascript" charset="utf-8" src="_static/builtin.js"></script>
+   <script type="text/javascript">
+    console.log("[INFO] Starting to load ACE.");
+   </script>
+   <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
 
-   <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...')" />
-   <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto;" onclick="window.alert(\"Nothing :(...\")" />
+   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
    <br/>
    <h4>Sortie du toplevel :</h4>
-   <pre id="output" style="font-family: monospace; width: 80%;"></pre>
-   <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput<code>.</span>
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" />
+   <textarea id="output" style="font-family: monospace; width: 100%;" rows="8" cols="80"></textarea>
+   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
    <br/><br/>
    <canvas id="mycanvas" style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
@@ -100,7 +89,6 @@ La boucle itérative (**toplevel**)
        editor.setShowPrintMargin(false);
        editor.setReadOnly(false);  // true to make it non-editable
        */
-       var input = document.getElementById('editor');
        var output = document.getElementById('output');
       // Skulpt I/O stuff
        function outf(text) {
@@ -113,8 +101,7 @@ La boucle itérative (**toplevel**)
           return Sk.builtinFiles["files"][x];
        };
        function runit() {
-          // var prog = editor.getValue();
-          var prog = input.value;
+          var prog = editor.getValue();
           window.alert("Interprétation en cours de :\n" + prog);
           output.innerHTML = '';
           Sk.canvas = "mycanvas";
@@ -135,17 +122,15 @@ La boucle itérative (**toplevel**)
         cleanin.value = "Efface l'entrée";
         cleanin.disabled = false;
         cleanin.onclick = function() {
-          // var tmpvalue = editor.getValue();
-          // editor.setValue("");
-          var tmpvalue = editor.value;
-          editor.value = '';
+          var tmpvalue = editor.getValue();
+          editor.setValue("");
           window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
         };
       var cleanout = document.getElementById('cleanout');
         cleanout.value = "Efface la sortie";
         cleanout.disabled = false;
         cleanout.onclick = function() {
-          // var output = document.getElementById('output');
+          var output = document.getElementById('output');
           var tmpvalue = output.value;
           output.value = "";
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);

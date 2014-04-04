@@ -90,8 +90,8 @@ Graphe et entrée texte
     <br clear="all">
     <hr>
     <h2 style="float: left;">Messages de sorties :</h2>
-    <textarea class="emscripten" id="output" rows="10" cols="80" style="font-family: monospace; font-size: 8pt">Chargement, veuillez patienter...</textarea>
-    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block" />
+    <textarea class="emscripten" id="output" rows="10" cols="80" style="font-family: monospace; font-size: 8pt;">Chargement, veuillez patienter...</textarea>
+    <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block;" />
     <script type="text/javascript" src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">
     gnuplot = new Gnuplot('_static/gnuplot.js');
