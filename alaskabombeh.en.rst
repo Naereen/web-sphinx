@@ -16,31 +16,36 @@ to the neighbours islands inhabitants' (Castle Bravo sur l'atoll de Bikini).
 
 .. warning:: Translation still in progress !
 
-
-C'est ainsi qu'en 1957, quelques génies ([#teller]_)
-du LRL décident de mettre tout en oeuvre pour améliorer l'image publique de la bombe atomique.
-Et quoi de mieux que de pacifier la bombe pour en faire un outil d'utilité publique :
-le projet s'intitule sobrement "Chariot", et a pour objectif d'utiliser la puissance de la bombe H pour bâtir, 
-*ex nihilo*, un grand port en Alaska, afin de faciliter le transport du charbon.
-
-
-Le plan paraît tout droit sorti d'un *nanar* : 
-six bombes sont prévues, deux grosses (une mégatonne), pour creuser le bassin du port, 
-et quatre *petites* (100 kilotonnes de TNT, *plus de six fois* la bombe d'Hiroshima) pour relier le bassin à la mer.
-Après les explosions, quelques semaines de constructions, *et pouf* : un port tout beau, tout neuf !
-Un port tout neuf, et en plus, "personne ne vit là haut dans le grand nord du Canada", donc pas de problème avec les radiations.
-
-Le projet est approuvé, et on lui trouve même slogan : *"Si votre montagne n'est pas à la bonne place, envoyez-nous juste une carte postale"*, 
-comme si, finalement, une bombe thermonucléaire n'était que de la dynamite, en un peu plus puissant.
+And that's why, in 1957, some genius (including [#teller]_) 
+guys from the LRL decided to do everything they can to improve the public image of the atomic bomb.
+And what better way to pacify the bomb that using it as a public utility tool :
+the project was plainly called `Project Chariot <https://en.wikipedia.org/wiki/Project_Chariot>`_,
+and its purpose was to use the mighty H bomb to build, from scratch,
+a gigantic harbor in the Alaska, at a strategic point to significantly improve the transport of coal.
 
 
-C'était sans compter la résistance d'un village Iñupiak ([#inupiak]_) situé à moins de 50 km du lieu choisi pour le nouveau port, 
-qui refusa toute possibilité pollution de ses territoires de chasse millénaires.
-Peut-être aussi que certains diplomates n'étaient pas enchanté par l'idée 
-d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abandonné en 1962.
+Than plan seems to be taken *verbatim* from a really bad science fiction novel :
+six bombs, two bigs ones (of one megaton), to dig a huge whole for the harbor basin, 
+and four *little* ones (100 TNT kiloton, which is still *six time* the Hiroshima bomb)
+to help connect the harbor to the ocean.
+After the explosions, just clean it up, and build there some houses, and all done, 
+a few weeks later, you have a shiny and clean new harbor !
+
+A shiny new harbor, and as "no one live there, that north in Alaska", so no problem with atomic radiations.
+
+The project is approved, and it even had a slogan : *"If your moutain is not at a convenient spot, just send us a postal card"*.
+As if, an atomic bomb was after all nothing more than a good old dynamite stick...
 
 
-**On n'a donc pas redessiné l'Alaska à la bombe atomique.**
+But that was without including the fierce resistance of an Iñupiak ([#inupiak]_) village,
+located at less than 50 kms (for american ignorants, that's about 31 miles, cf [#convert]_) of the located spot for the new harbor.
+As we could expect from them, they strictly refused any possibility of pollution of their hunting territory.
+
+Also, maybe some americans diplomats were not thrilled by the idea 
+to bring such bombs as close to the USSR : the Chariot project was abandoned in 1962.
+
+
+**And, that's why they did not redraw the Alaska with an atomic bomb.**
 
 ------------------------------------------------------------------------------
 
@@ -48,7 +53,8 @@ d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abando
 
    :Source: `cet article du Monde <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_
    
-   .. [#teller] Dont **Edward Teller**, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
-   .. [#inupiak] L'*inupiak*, ou *iñupiak* est une langue iniut, utilisée dans le grand nord de l'Alaska. Plus de détails ici `<https://fr.wikipedia.org/wiki/Inupiak>`_ par exemple.
+   .. [#teller] `Edward Teller <https://en.wikipedia.org/wiki/Edward_Teller>`_, considered as one of the father of the american atomic bomb, and director of the *LRL* from 1958 to 1960.
+   .. [#inupiak] L'*inupiak*, ou *iñupiak*  is a group of dialects of the Inuit language, spoken by the Inupiat people in northern and northwestern Alaska. This information is from `<https://en.wikipedia.org/wiki/Inupiak>`_.
+   .. [#convert] See `this kms to miles conversion tool <http://www.checkyourmath.com/convert/length/miles_km.php>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

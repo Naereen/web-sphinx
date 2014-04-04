@@ -6,17 +6,16 @@
 
 ------------------------------------------------------------------------------
 
-Le toplevel
------------
-
-.. warning:: Est cassé (en ce moment) !
+La boucle itérative (**toplevel**)
+----------------------------------
 
 .. warning::
 
    Utilise une balise ``canvas``, donc non compatible XHTML 1.0 Transitionnal !
    :red:`Cette page n'est pas bien formée.`
    
-   Et elle nécessite donc un navigateur compatible HTML 5.
+   Et elle nécessite donc `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
+   (voir aussi `html5readiness.com <http://html5readiness.com>`_)
    
    Malgré ça, cette version de l'interprète Python semble plus accessible que
    la première mise en place (`<python.html>`_), en particulier **Skulpt**
@@ -28,7 +27,7 @@ Le toplevel
 
 .. raw:: html
 
-   <h4>Toplevel Python 2.7.3 Skulpt avec l'éditeur ACE</h4>
+   <h4>Toplevel Python 2.7.3 Skulpt</h4>
    <style type="text/css" media="screen">
     #editor { 
         font-family: monospace;
@@ -39,9 +38,9 @@ Le toplevel
         margin-left: 40px;
     }
    </style>
-   <pre id="editor">
-   # Une démonstration de skulpt.js, utilisant l'éditeur ACE.js :) !
-   print("Démonstration du module turtle en cours :) !")
+   <textarea id="editor">
+   # Demo with 'turtle' module
+   print("A demo of the turtle module is in progress !")
    import turtle
    t = turtle.Turtle()
    for c in ['red', 'green', 'yellow', 'blue']:
@@ -53,31 +52,42 @@ Le toplevel
        t.color(c)
        t.forward(75)
        t.right(90)
+   # Demo with 'document' module
+   import document
+   pre = document.getElementById('output')
+   pre.innerHTML = '<h1 style="color:red; text-transform:uppercase;">Skulpt can also access DOM !</h1>'
+   # A second demo
+   linkEl = document.createElement('link')
+   linkEl.rel = 'shortcut icon';
+   linkEl.href = 'https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt';
+   document.head.appendChild(linkEl);
    # Ajoutez votre propre commande Python :
-   </pre>
-   </br>
-   <script src="_static/skulpt.js?1" type="text/javascript"></script>
-   <script src="_static/builtin.js?1" type="text/javascript"></script>
-   <script src="_static/ace-new/ace.js?1" type="text/javascript" charset="utf-8"></script>
+   </textarea>
+   <br/>
+   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt.min.js?rst"></script>
+   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt-stdlib.js?rst"></script>
 
-   <input disabled="disabled" id="button" type="button" value="Chargement..." style="margin: auto" onclick="window.alert(\"Nothing :(...\")" />
-   <input disabled="disabled" id="cleanin" type="button" onclick="editor.setValue('');" value="Chargement..." style="margin: auto" />
-   </br>
+   <!-- ACE ?
+     <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
+   -->
+
+   <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto" onclick="window.alert('Nothing :(...')" />
+   <input disabled="disabled" id="cleanin" type="button" class="btn btn-warning" onclick="input.value='';" value="Chargement..." style="margin: auto" />
+   <br/>
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%" rows="8" cols="80"></textarea>
-   <input disabled="disabled" id="cleanout" type="button" onclick="output.value=''" value="Chargement..." style="margin: auto" />
-   </br></br>
-   <canvas id="mycanvas"
-           style="border-style: solid;" width="400" height="400">
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto" />
+   <br/><br/>
+   <canvas id="mycanvas" style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
-   </canvas></br></br>
+   </canvas><br/><br/>
 
    <script type="text/javascript">
    // $(document).ready(function() {
     window.onload = function() {
        window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser... ~~~");
-       // Launch ACE
+       /* Launch ACE
        var editor = ace.edit("editor");
        // ACE Option. See http://ace.c9.io/#nav=howto for more options.
        editor.setTheme("ace/theme/cobalt");
@@ -87,6 +97,8 @@ Le toplevel
        editor.setHighlightActiveLine(true);
        editor.setShowPrintMargin(false);
        editor.setReadOnly(false);  // true to make it non-editable
+       */
+       var input = document.getElementById('editor');
        var output = document.getElementById('output');
       // Skulpt I/O stuff
        function outf(text) {
@@ -99,7 +111,8 @@ Le toplevel
           return Sk.builtinFiles["files"][x];
        };
        function runit() {
-          var prog = editor.getValue();
+          // var prog = editor.getValue();
+          var prog = input.value;
           window.alert("Interprétation en cours de :\n" + prog);
           output.innerHTML = '';
           Sk.canvas = "mycanvas";
@@ -120,15 +133,17 @@ Le toplevel
         cleanin.value = "Efface l'entrée";
         cleanin.disabled = false;
         cleanin.onclick = function() {
-          var tmpvalue = editor.getValue();
-          editor.setValue("");
+          // var tmpvalue = editor.getValue();
+          // editor.setValue("");
+          var tmpvalue = editor.value;
+          editor.value = '';
           window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
         };
       var cleanout = document.getElementById('cleanout');
         cleanout.value = "Efface la sortie";
         cleanout.disabled = false;
         cleanout.onclick = function() {
-          var output = document.getElementById('output');
+          // var output = document.getElementById('output');
           var tmpvalue = output.value;
           output.value = "";
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);

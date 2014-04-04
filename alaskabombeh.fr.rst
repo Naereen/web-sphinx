@@ -24,14 +24,14 @@ le projet s'intitule sobrement "Chariot", et a pour objectif d'utiliser la puiss
 Le plan paraît tout droit sorti d'un *nanar* : 
 six bombes sont prévues, deux grosses (une mégatonne), pour creuser le bassin du port, 
 et quatre *petites* (100 kilotonnes de TNT, *plus de six fois* la bombe d'Hiroshima) pour relier le bassin à la mer.
-Après les explosions, quelques semaines de constructions, *et pouf* : un port tout beau, tout neuf !
-Un port tout neuf, et en plus, "personne ne vit là haut dans le grand nord du Canada", donc pas de problème avec les radiations.
+Après les explosions, quelques semaines de construction, *et pouf* : un port tout beau, tout neuf !
+Un port tout neuf, et en plus, "personne ne vit là haut dans le grand nord de l'Alaska", donc pas de problème avec les radiations.
 
 Le projet est approuvé, et on lui trouve même slogan : *"Si votre montagne n'est pas à la bonne place, envoyez-nous juste une carte postale"*, 
 comme si, finalement, une bombe thermonucléaire n'était que de la dynamite, en un peu plus puissant.
 
 
-C'était sans compter la résistance d'un village Iñupiak ([#inupiak]_) situé à moins de 50 km du lieu choisi pour le nouveau port, 
+C'était sans compter la résistance d'un village Iñupiak ([#inupiak]_) situé à moins de 50 kms du lieu choisi pour le nouveau port, 
 qui refusa toute possibilité pollution de ses territoires de chasse millénaires.
 Peut-être aussi que certains diplomates n'étaient pas enchanté par l'idée 
 d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abandonné en 1962.
@@ -45,7 +45,7 @@ d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abando
 
    :Source: `cet article du Monde <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_
    
-   .. [#teller] Dont **Edward Teller**, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
+   .. [#teller] Dont `Edward Teller <https://fr.wikipedia.org/wiki/Edward_Teller>`_, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
    .. [#inupiak] L'*inupiak*, ou *iñupiak* est une langue iniut, utilisée dans le grand nord de l'Alaska. Plus de détails ici `<https://fr.wikipedia.org/wiki/Inupiak>`_ par exemple.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
