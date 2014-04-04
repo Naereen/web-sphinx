@@ -2,7 +2,7 @@
     .templates/language-selector.html
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    Add one link to switch the language of the page (English to French, or French to English).
+    Add one link to switch the language of the page (English to French, or French to English, soon more ?).
 
     :copyright: Copyright 2013 Lilian Besson
     :license: GPLv3, see LICENSE for details.
@@ -10,21 +10,19 @@
 <div class="language-selector">
 <script type="text/javascript">
 	var s = window.location.pathname;
-	var n = s.length;
-	var b = s.substring(0, n-8);
-	var e = s.substring(n-8);
+	var n = s.length; var b = s.substring(0, n-8); var e = s.substring(n-8);
 	console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
 	if (e == '.fr.html') {
 		window.document.write('<h3>Lire en anglais ?</h3><a class="image-reference" href="'
 			+ b + '.en.html" title="En anglais ?" >'
 			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-		    + 'src="{{ pathto('_images/.en.gif', true)|e }}?1" alt="En anglais ?" /></a>'); 
+		    + 'src="{{ pathto('_images/.en.gif', true)|e }}" alt="En anglais ?" /></a>'); 
 	};
 	if (e == '.en.html') {
-		window.document.write('<h3>This page in French ?</h3><a class="image-reference" href="'
+		window.document.write('<h3>Read it in French?</h3><a class="image-reference" href="'
 			+ b + '.fr.html" title="In French?" >'
 			+ '<img style="width:36px; height:23px; display:block; margin-left:auto; margin-right:auto;"'
-			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}?1" alt="In French?" /></a>');
+			+ 'src="{{ pathto('_images/.fr.gif', true)|e }}" alt="In French?" /></a>');
 	};
 </script>
 </div>

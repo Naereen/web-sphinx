@@ -8,8 +8,8 @@
     :license: GPLv3, see LICENSE for details.
 #}
 <h3>Other formats</h3>
-<ul class="this-page-menu">
 {%- if show_source and has_source and sourcename %}
+<ul class="this-page-menu">
  <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}" title="PDF version" 
         rel="nofollow">Show a PDF version (experimental)</a></li>
  <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version" 
@@ -19,14 +19,14 @@
   var url = window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname + ".asc";
   console.log("[INFO] url=" + url);
   window.document.write("<li><a class=\"external-reference\" href=\"https://bitbucket.org/lbesson/web-sphinx/src/master/"
-                         + path.replace(".txt", ".rst")
-                         + "\" title=\"On the git repository that hosts the source of the page " + path
-                         + " !\">Show the source on Bitbucket</a></li>");
+     + path.replace(".txt", ".rst")
+     + "\" title=\"On the git repository that hosts the source of the page " + path
+     + " !\">Show the source on Bitbucket</a></li>");
   window.document.write("<li><a href=\"" + url + "\" title=\"GPG signature ?\">GPG signature (.asc)</a></li>");
  </script>
  <noscript>
  <li><a href="gpg.html">Learn how to verify GPG signature ?</a></li>
- </noscript>
-{%- endif %}<br>
- <li><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></li>
-</ul>
+ </noscript><ul>
+{%- endif %}
+<h3><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></h3>
+
