@@ -14,7 +14,6 @@ its popularity is falling down in the USA,
 mainly after a failed test in 1954 and the dangerous radioactives dusts that fall 
 to the neighbours islands inhabitants' (Castle Bravo sur l'atoll de Bikini).
 
-.. warning:: Translation still in progress !
 
 And that's why, in 1957, some genius (including [#teller]_) 
 guys from the LRL decided to do everything they can to improve the public image of the atomic bomb.
@@ -46,6 +45,9 @@ to bring such bombs as close to the USSR : the Chariot project was abandoned in 
 
 
 **And, that's why they did not redraw the Alaska with an atomic bomb.**
+
+
+.. warning:: Translation still in progress !
 
 ------------------------------------------------------------------------------
 
