@@ -8,7 +8,7 @@
 .. include:: .special.rst
 À propos de moi
 ---------------
-Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'ÉNS de Cachan
+Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 **Je suis actuellement en troisième année** et en 2013/2014, 
 je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
@@ -34,15 +34,18 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
 
     J'aime randonner et camper, voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
     J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
-    comme par exemple `du javascript <js.html>`_,
-    des tutoriels (sur `wolf <wolfram.html>`_ ou `Nano <NanoSyntax.html>`_),
-    ou encore des outils en lignes de commande pour Linux (`plus de détails ici <bin.html>`_).
+    comme par exemple `du javascript <https://lbesson.bitbucket.org/md/>`_,
+    des tutoriels (sur `ga-beacon <beacon.fr.html>`_ ou `Nano <NanoSyntax.html>`_),
+    ou encore des outils en lignes de commande pour Linux (`plus de détails ici <bin.html>`_ ou 
+    sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
    **Un petit mot sur ce site** :
 
     Je développe ce petit site (actuellement `<http://besson.qc.to>`_)
     sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
+
+    `Qu'est-ce que l'Open Source, expliqué en Légo <https://youtu.be/a8fHgx9mE5U>`_.
 
     Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
     sont effectivement visités quotidiennement par des gens du monde entier :
@@ -87,7 +90,7 @@ Mes projets en ligne
 .. sidebar:: CV
 
    Mon *CV* est disponible ici `<cv.fr.pdf>`_ en français ou `<cv.en.pdf>`_ en anglais
-   (rédigé en ``LaTeX`` avec le paquet *moderncv* et compilé avec `PDFLaTeX <bin/pdflatex>`_).
+   (`rédigé <https://bitbucket.org/lbesson/cv>`_ en ``LaTeX`` avec le paquet *moderncv*, et compilé avec `PDFLaTeX <bin/pdflatex>`_).
 
 
 Vous pouvez aussi retrouver certains de mes travaux ou projets :
@@ -103,6 +106,7 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
+
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -152,35 +156,30 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
-`<publis.html>`_, `<bin.html>`_, ou encore `<js.html>`_
+`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore 
+`README.html <https://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
 je travaille *sur mon temps libre*.
 
-ANSI Colors
-^^^^^^^^^^^
-Je suis l'auteur d'un petit module / script pour manipuler les *couleurs* ANSI
-(*i.e.* en mode textuel, dans un terminal).
-Ce module est hébergé sur 
-`PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
-Sa documentation est hébergée sur 
-`PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_.
-Son code source est hébergé sur 
-`BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été **téléchargé plus de 4000 fois !**
+StrapDown.js v2 (03/2014)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Un petit outil pour rapidement produire de jolies pages web, en rédigeant 
+directement en *Markdown*, sans la moindre compilation côté serveur !
+La page de présentation et de démonstration est `là (StrapDown.js) <https://lbesson.bitbucket.org/md/>`_.
 
-Projet Réseau : MPRI Bomberman
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
-Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
-formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
-Le projet est surtout hebergé sur **BitBucket** 
-`ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
-Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**, 
-`ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
-J'ai eu **16.9/20** pour ce projet.
+SquirtFR (03/2014)
+^^^^^^^^^^^^^^^^^^
+Un signapplet (aussi appelé marque-page scripté) pour lire rapidement n'importe quelle page web,
+c'est `ici (SquirtFr) <https://lbesson.bitbucket.org/squirt/>`_, 
+avec plus d'informations sur le projet `ici (README.html) <https://lbesson.bitbucket.org/squirt/README.html>`_.
 
-Projet d'apprentissage : Kaggle Titanic
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Projet Labyrinthe-Démineur (12/2013)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un petit jeu de labyrinthe-démineur, une sorte de mélange entre démineur et Bomberman, en ``OCaml``
+Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai eu **19/20** !)
+
+Projet d'apprentissage : Kaggle Titanic (05/2013)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
 j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http://kaggle.com/>`_,
 ce projet a pour but de faire de la *classification de données*, afin d'exhiber
@@ -189,10 +188,27 @@ Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
 `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 J'ai eu **15/20** pour ce projet.
 
-Projet Labyrinthe-Démineur
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un petit jeu de labyrinthe-démineur, une sorte de mélange entre démineur et Bomberman, en ``OCaml``
-Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai eu **19/20** !)
+ANSI Colors (01~03/2013)
+^^^^^^^^^^^^^^^^^^^^^^^^
+En janvier et mars 2013, j'ai écrit un petit module et script 
+pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
+Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+Sa documentation est hébergée sur 
+`PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_,
+et son code source est hébergé sur 
+`BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
+Actuellement, il a déjà été téléchargé plus de **4000 fois** !
+
+Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
+Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
+formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
+Le projet est surtout hebergé sur **BitBucket** 
+`ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
+Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**, 
+`ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
+J'ai eu **16.9/20** pour ce projet.
 
 ------------------------------------------------------------------------------
 
@@ -251,10 +267,10 @@ de commande, à `Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelque
 Galerie photos et musiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, ici `<generateglisse.sh/>`_
-   (actuellement, les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
+   (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
 #. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, ici `<generatejplayer.sh/>`_
-   (actuellement, les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_).
+   (les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_).
 
 ------------------------------------------------------------------------------
 
@@ -320,7 +336,7 @@ Liens externes
 
 #. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec dot.tk, un autre service gratuit.
 
-.. note:: Ces liens ne servent à rien ! Ils ne sont que des redirections ;)
+.. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.
 
 .. sidebar:: À propos de Naereen
 

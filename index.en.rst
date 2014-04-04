@@ -8,8 +8,7 @@
 .. include:: .special.rst
 Who am I?
 ---------
-I am **Lilian Besson**, a **French** student at ENS de Cachan, 
-a *French* University, near Paris.
+I am **Lilian Besson**, a **French** student at ENS de Cachan, a *French* University, near Paris.
 In 2013/2014, I am preparing the French `agregation of Mathematics <http://agreg.org/>`_ exam 
 (major in Maths, minor in Computer Science).
 
@@ -19,14 +18,16 @@ A few words about me
 ^^^^^^^^^^^^^^^^^^^^
 I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
 I also like using new technologies, and enjoy design tiny pieces of software or web content
-for instance `nice javascript hacks <js.html>`_, tutorials (on `wolf <wolfram.html>`_ or `Nano <NanoSyntax.html>`_)
-or Linux command line tools (`see this page for example (in French) <bin.html>`_).  
+for instance `nice javascript hacks <https://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
+or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).  
 
 A few words about this site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I am working on this little website (currently, `<http://besson.qc.to/>`_)
 when I have the time, hoping it can be useful to someone (at least me, but who knows...).
 :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
+    
+`What means Open Source, explained with LEGO <https://youtu.be/a8fHgx9mE5U>`_.
 
 This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
 so if you are here for something in particular, I hope you will not be disapointed
@@ -90,9 +91,6 @@ My projects on-line
 
    My *résumé* is available here `<cv.pdf>`_. 
    It is realised with ``LaTeX``, and the package *moderncv*. 
-
-   A second version, produced from a ``reStructuredText`` file, 
-   is also available here `cv.en <cv.en.html>`_.
 
 
 Feel free to *contact* me :
