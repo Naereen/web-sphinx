@@ -23,9 +23,10 @@
      + "\" title=\"On the git repository that hosts the source of the page " + path
      + " !\">Show the source on Bitbucket</a></li>");
   window.document.write("<li><a href=\"" + url + "\" title=\"GPG signature ?\">GPG signature (.asc)</a></li>");
- </script>
+ </script><br/>
+ <li><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></li>
  <noscript>
  <li><a href="gpg.html">Learn how to verify GPG signature ?</a></li>
- </noscript><ul>
+ </noscript></ul>
 {%- endif %}
-<h4><a href="{{ pathto('download.en')|e }}" rel="nofollow">Download page</a></h4>
+<br/><hr/>
