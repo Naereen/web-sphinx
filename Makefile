@@ -213,7 +213,7 @@ hieroglyph:
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
-	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html 
+	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html $(BUILDDIR)/html/whatsnew.fr.html $(BUILDDIR)/html/whatsnew.en.html 
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 

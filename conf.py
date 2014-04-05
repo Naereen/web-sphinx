@@ -155,7 +155,7 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build', '.git', 'scripts', 'blog']
+exclude_patterns = ['.build', '.git', 'scripts', 'blog', 'whatsnew.fr.rst', 'whatsnew.en.rst']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None

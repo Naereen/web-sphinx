@@ -8,7 +8,13 @@
 .. include:: .special.rst
 
 :Source: http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/
-   
+
+.. seealso:: Slides par Micah Flee
+
+   `Ces slides <https://raw.githubusercontent.com/micahflee/slides/master/2013/10/sfpl_crypto.pdf>`_ 
+   sont très bien faits, et présentent rapidement l'importance des outils de crypto-sécurité.
+
+
 ---------------------------------------------------------------------
 
 À-propos
