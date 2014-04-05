@@ -213,4 +213,23 @@ Autres traductions
    En février 2014, j'ai démarré une bifurcation du projet `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ dans le but de le traduire.
 
 
+.. seealso:: `SquirtFR <https://lbesson.bitbucket.org/squirt/>`_
+
+   En avril 2014, j'ai démarré une bifurcation du projet `squirt.io <http://squirt.io/>`_ 
+   dans le but de le traduire, le nettoyer, et pouvoir l'embarquer localement 
+   et plus facilement (essayez la lecture rapide via la touche "q" allez-y !).
+
+
+.. seealso:: `StrapDown.js <https://lbesson.bitbucket.org/md/>`_
+
+   En avril 2014, j'ai démarré une bifurcation du projet `strapdown.js <http://strapdownjs.com/>`_ 
+   dans le but de le traduire, le nettoyer, et pouvoir l'embarquer localement et plus facile.
+
+
+.. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
+
+   En février 2014, j'ai codé un clone de `isup.me <http://isup.me/>`_ dans le but de le traduire, 
+   le rendre adaptatif (plus lisible sur téléphone), et d'apprendre à bidouiller un peu de *php*.
+
+
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

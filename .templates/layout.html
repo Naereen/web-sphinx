@@ -178,15 +178,16 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  // MouseTrap (http://craig.is/killing/mice)
  Mousetrap.bind(["h", "?"], function() {
   alert("Les <b>raccourcis claviers</b> suivants sont activés : </br>\n"
-+" - <b>h</b> : affiche <i>ce message d'aide</i>, </br>\n"
-+" - <b>i</b> : retourne à l'index, </br>\n"
-+" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut), </br>\n"
++" - <b>h</b> : affiche <i>ce message d'aide</i>,</br>\n"
++" - <b>i</b> : retourne à l'index,</br>\n"
++" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut),</br>\n"
++" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"https://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
 {% if prev %}+" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"{{ prev.link|e }}\">page précédente</a>,</br>\n"{% endif %}
 {% if next %}+" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
-+"<small>Ce site est maintenu par Lilian Besson © 2011-2014</small>",
++"<small>Ce site est la mis au point par Lilian Besson, © 2011-2014</small>",
   {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
@@ -203,6 +204,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
     + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</b>"
     + ".</br></br>\n© Lilian BESSON 2011-2014.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
+  Mousetrap.bind(["q"], function(){ sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);} } ); // Embed https://lbesson.bitbucket.org/squirt !
 // Put here all JS code, and its dependencies before closing the $(document).ready call
    setTimeout( function(){ NProgress.done(); }, 1000);
  });

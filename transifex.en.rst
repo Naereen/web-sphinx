@@ -203,4 +203,24 @@ Other translations
    In February 2014, I forked and translated the `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ project.
 
 
+.. seealso:: `SquirtFR <https://lbesson.bitbucket.org/squirt/>`_
+
+   In April 2014, I forked and translated `squirt.io <http://squirt.io/>`_, 
+   and I also changed a few things, to be able to embed it locally more easily 
+   (go on, try the speed-reading feature, with the shortcut "q" !).
+
+
+.. seealso:: `StrapDown.js <https://lbesson.bitbucket.org/md/>`_
+
+   In April 2014, I forked and translated `strapdown.js <http://strapdownjs.com/>`_ 
+   in order to clean it up, tweak it to change the styles, and to be able to embed it locally more easily.
+
+
+.. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
+
+   In February 2014, I wrote a small open-source clone of `isup.me <http://isup.me/>`_ 
+   in order to translate it, make it responsive (ie. more accessible on smartphones), 
+   and also in order to learn some *php*.
+
+
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
