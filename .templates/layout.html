@@ -131,9 +131,9 @@
   	NProgress.start();
 	function changeStyle(newcolor) {
 		if (newcolor != "") {
-			console.log("[INFO] Loading the stylesheet '" + ("http://besson.qc.to/_static/" + newcolor + ".css") + "'");
+			console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
 			$("head").append(
-		    	$("<link/>", {href: ("{{ pathto('_static/', true)|e }}" + newcolor + ".css"), rel: "stylesheet"})
+		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
 		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
 	} };

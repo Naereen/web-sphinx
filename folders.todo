@@ -1,11 +1,12 @@
 header.html:
  * </body><head> a mettre au lieu du <!doctype html><html><head>
+ * enlever le link next et link prev dans l'en-tête (c'est ça qui fait pré-charger la page suivante)
  * remplacer les href="" et src="" en ajoutant http://perso.crans.org/besson/
  * séparer le fichier en deux à la fin du <div id="contenu-du-dossier">
  * enlever précédente et suivant dans le <div class="related"></div>
  * éventuellement, raccourcir writeLocationOfThePage pour enlever le language switcher
+ * enlever pygments.css, enlever DOCUMENTATION_OPTIONS
  * enlever mathjax
- * enlever le link next et link prev dans l'en-tête (c'est ça qui fait pré-charger la page suivante)
  * ajouter un <div style="font-size: x-large;"> à la fin
 
 footer.html:
@@ -18,6 +19,7 @@ footer.html:
  * enlever Page précédente/suivante dans la sidebar
  * enlever le validateur CSS et l'image MathJax
  * enlever les raccourcis clavier next et previous
- * changer le lien vers le signature GPG (le mettre en dur et pas en dynamique)
+ * enlever le lien vers le signature GPG
+ * ajouter http://perso.crans.org/besson/ dans les src=\" pour l'image du serveur web
 
 .. (c) Lilian Besson, https://bitbucket.org/lbesson/web-sphinx/src/master/folders.todo

@@ -33,7 +33,6 @@
   .ob		{ font-style: oblique; }
   .small   { font-size: small; }
   .large   { font-size: large; }
-
   .smallpar { font-size: small; }
 
 /* Style pour les badges en bas de la page. */
@@ -66,6 +65,10 @@ img.languageswitch {
     bottom: 6px;
   }
 }
+
+div.myfolders { font-size: x-large; }
+/* BETA responsive */
+@media (max-width: 680px){ div.myfolders { font-size: medium; } }
 
 /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
 .social-icons li a.facebook {
