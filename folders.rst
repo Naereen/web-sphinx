@@ -5,7 +5,7 @@
 .. warning::
 
    L'affichage amélioré des répertoires avec Apache est un peu expérimental..
-   N'hésitez pas à `signaler un bug <https://bitbucket.org/lbesson/wep-sphinx/issues/new>`_ si besoin est!
+   N'hésitez pas à `signaler un bug <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ si besoin est!
 
 
 Contenu du dossier
