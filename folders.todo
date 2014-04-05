@@ -8,7 +8,7 @@ header.html:
  * enlever le link next et link prev dans l'en-tête (c'est ça qui fait pré-charger la page suivante)
  * ajouter un <div style="font-size: x-large;"> à la fin
 
-folder.html:
+footer.html:
  * ajouter un </div> au début
  * enlever le <div class="language-selector">
  * ajouter un lien vers le PDF anglais aussi
@@ -18,5 +18,6 @@ folder.html:
  * enlever Page précédente/suivante dans la sidebar
  * enlever le validateur CSS et l'image MathJax
  * enlever les raccourcis clavier next et previous
+ * changer le lien vers le signature GPG (le mettre en dur et pas en dynamique)
 
 .. (c) Lilian Besson, https://bitbucket.org/lbesson/web-sphinx/src/master/folders.todo
