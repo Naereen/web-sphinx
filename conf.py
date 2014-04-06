@@ -237,24 +237,24 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':        ['language-selector.html', 'linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
-   '**.en':     ['language-selector.html', 'linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
-   'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
-   'cv.fr':     ['sourcepdfcv.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
-   'cv.en':     ['sourcepdfcv.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
-   '**/*':      ['language-selector.html', 'linkpdf.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'validator.html'],
-   '201*/*':      ['language-selector.html', 'linkpdf.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'validator.html'],
+   '**':        ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
+         'sidebar_gpg.fr.html'], ##, 'validator.html'
+   '**.en':     ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
+         'sidebar_gpg.en.html'], ##, 'validator.html'
+   'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
+         'sidebar_gpg.fr.html'], ##, 'validator.html'
+   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
+         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'], ##, 'validator.html'
+   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
+         'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'], ##, 'validator.html'
+   '**/*':      ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
+         'sidebar_gpg.en.html'], ##, 'validator.html'
+   '201*/*':      ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html',
+         'sidebar_gpg.fr.html'], ##, 'validator.html'
 }
 
 # Additional templates that should be rendered to pages, maps page names to
-# template names.
+# template names. TODO: try more with this !
 html_additional_pages = {
     'download.fr': 'download.fr.html',
     'download.en': 'download.en.html',

@@ -29,6 +29,7 @@
   <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking" />
   <!-- RSS workflow (from besson.qc.to) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://besson.qc.to/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
   <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
   <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
@@ -44,7 +45,7 @@
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
    <script async type="text/javascript" src="{{ pathto('_static/forkit.js', true)|e }}"></script>
 <script type="text/javascript">
- // NProgress.start(); // NOT before the end of <body>
+ // /* WARNING */ NProgress.start(); // NOT before the end of <body>
  /* jQuery.noty plugin */
     $.noty.defaults = {
         layout: 'bottomRight', theme: 'defaultTheme', type: 'alert',
@@ -193,8 +194,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "04 04 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "04";
+   var last_updated_value = "{{ last_updated }}" || "06 04 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "06";
     var month = last_updated_value.substring(3,  6 ) || "04"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
@@ -204,24 +205,31 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
     + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</b>"
     + ".</br></br>\n© Lilian BESSON 2011-2014.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
-  Mousetrap.bind(["q"], function(){ sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);} } ); // Embed https://lbesson.bitbucket.org/squirt !
+  Mousetrap.bind(["q"], function(){
+    console.log("[INFO] Loading SquirtFR from https://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
+    // Embed https://lbesson.bitbucket.org/squirt !
+    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
+    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"https://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
+  } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
-   setTimeout( function(){ NProgress.done(); }, 1000);
+   setTimeout( function(){ NProgress.done(); }, 500);
  });
  </script>
  <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Sur bitbucket !">Derniers changements</a>.
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
-Si ça concerne des scripts, veuillez utiliser
-  <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.<br/>
+<!-- Si ça concerne des scripts, veuillez utiliser -->
+  <!-- <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.<br/> -->
 Des précisions sur les droits de copies, sur les institutions et les marques citées sont disponibles
   <a class="reference external" href="trademarks.html">en anglais</a>.<br/>
 Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   pour collecter des statistiques, désactivable par exemple avec l'excellent
   <a href="http://noscript.net/getit">NoScript</a>.
 <br>{% include "geekcode.html" %}
+<noscript>
 <img style="visibility: hidden; display: none;" alt="GA|Analytics"
      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" />
+</noscript>
 <div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
  <img alt="Optimized for Firefox, tested on Firefox 28.0"
@@ -232,7 +240,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       src="{{ pathto('_images/.google_analytics_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
- <img alt="Written with GNU Nano 2.3.2" 
+ <img alt="Written with GNU Nano 2.3.2 and Sublime Text 3" 
       src="{{ pathto('_images/.made_with_nano_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GPL v3" href="http://www.gnu.org/licenses/gpl.html">
@@ -251,8 +259,8 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="Made on Ubuntu 12.04.4 LTS" 
       src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/" >
- <img alt="Source code hosted on Bitbucket.org, managed with Git 1.7.9.5"
+<li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/lbesson/web-sphinx/" >
+ <img alt="Source code hosted on bitbucket.org, managed with Git 1.7.9.5"
       src="{{ pathto('_images/.git_80_15.png', true)|e }}" 
       style="width: 36.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="MathJax" href="http://www.mathjax.org">
@@ -260,7 +268,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       src="{{ pathto('_images/.mathjax_60_12.png', true)|e }}"
       style="width: 60.0px; height: 12.0px;" /></a></li>
 <li><script type="text/javascript">
-  if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,9) == '127.0.0.1') ) {
+  if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,9) == '127.0.0.1') || (window.location.host.substring(0,7) == '0.0.0.0') ) {
   window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx 1.4.7 on "
   + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}?1\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
   }
@@ -274,7 +282,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
   </noscript>
 </li></ul></div> 
-<script async type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
+<script type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
 </div>
 <!-- This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
