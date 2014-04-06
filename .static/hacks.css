@@ -90,3 +90,7 @@ div.myfolders { font-size: x-large; }
     transition: all 0.2s ease 0s;
     text-align: center;
 }
+
+ul.details li p {
+  font-size:85%;
+}

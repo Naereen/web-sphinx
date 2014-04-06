@@ -222,13 +222,13 @@ Autres traductions
 
 .. seealso:: `StrapDown.js <https://lbesson.bitbucket.org/md/>`_
 
-   En avril 2014, j'ai démarré une bifurcation du projet `strapdown.js <http://strapdownjs.com/>`_ 
+   En avril 2014, j'ai démarré une bifurcation du projet `strapdownjs.com <http://strapdownjs.com/>`_ 
    dans le but de le traduire, le nettoyer, et pouvoir l'embarquer localement et plus facile.
 
 
 .. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
 
-   En février 2014, j'ai codé un clone de `isup.me <http://isup.me/>`_ dans le but de le traduire, 
+   En février 2014, j'ai codé un clone de `<http://isup.me/>`_ dans le but de le traduire, 
    le rendre adaptatif (plus lisible sur téléphone), et d'apprendre à bidouiller un peu de *php*.
 
 

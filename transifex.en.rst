@@ -212,13 +212,13 @@ Other translations
 
 .. seealso:: `StrapDown.js <https://lbesson.bitbucket.org/md/>`_
 
-   In April 2014, I forked and translated `strapdown.js <http://strapdownjs.com/>`_ 
+   In April 2014, I forked and translated `strapdownjs.com <http://strapdownjs.com/>`_ 
    in order to clean it up, tweak it to change the styles, and to be able to embed it locally more easily.
 
 
 .. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
 
-   In February 2014, I wrote a small open-source clone of `isup.me <http://isup.me/>`_ 
+   In February 2014, I wrote a small open-source clone of `<http://isup.me/>`_ 
    in order to translate it, make it responsive (ie. more accessible on smartphones), 
    and also in order to learn some *php*.
 

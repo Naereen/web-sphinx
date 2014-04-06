@@ -15,6 +15,9 @@ Qu'est-ce ?
 
  Allez d'abord vous informer, ou vous rafraîchir les idées avant de lire d'avantage.
 
+.. note:: Je vous invite à tester `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
+
+
 Où et quand m'en sers-je ?
 --------------------------
 Signer pour assurer l'origine du fichier
