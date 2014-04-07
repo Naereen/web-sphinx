@@ -6,9 +6,6 @@
 
 ------------------------------------------------------------------------------
 
-La boucle itérative (**toplevel**)
-----------------------------------
-
 .. warning:: Compatibilité HTML5 requise !
    
    Et elle nécessite donc `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
@@ -22,21 +19,26 @@ La boucle itérative (**toplevel**)
 
 ------------------------------------------------------------------------------
 
+Toplevel Python 2.7.3 Skulpt
+----------------------------
+
 .. raw:: html
 
-   <h4>Toplevel Python 2.7.3 Skulpt</h4>
    <style type="text/css" media="screen">
-    #editor { 
+    #preeditor { 
         font-family: monospace;
         font-size: 18px;
         position: relative;
-        height: 450px;
+        height: 550px;
         width: 90%;
         margin-left: 40px;
     }
+    @media (max-width: 380px) { #preeditor {
+        margin-left: 5px;
+        font-size: 15px;
+    } }
    </style>
-   <textarea id="editor" cols="85" rows="25">
-   # Demo with 'turtle' module
+   <xmp id="preeditor" cols="85" rows="35"># Demo with 'turtle' module
    print("A demo of the 'turtle' module is in progress !")
    import turtle
    t = turtle.Turtle()
@@ -51,53 +53,68 @@ La boucle itérative (**toplevel**)
        t.forward(75)
        t.right(90)
    # Demo with 'document' module
-   print("A demo of the 'document' module is in progress !")
+   print("A demo of the minimalistic DOM handler ('document') module is in progress !")
    import document
-   output = document.getElementById('output')
-   print output.innerHTML
-   # Second demo
    spanoutput = document.getElementById('spanoutput')
-   spanoutput.innerHTML = spanoutput.innerHTML + '<h5 style="color:red;">Skulpt can also access DOM !</h5>'
-   spanoutput.innerHTML = spanoutput.innerHTML + '<img alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt" /><br/>'
+   spanoutput.innerHTML = ' <br/><hr/><h1 style="color:red;">Skulpt can also access the DOM !</h1><br/><br/><hr/> '
+   spanoutput.innerHTML = spanoutput.innerHTML + '<img alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt" />'
    # Ajoutez votre propre commande Python :
-   </textarea><br/>
+   </xmp><br/>
    <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt.min.js"></script>
    <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt-stdlib.js"></script>
-   <!-- ACE ? -->
+   <!-- Loading ACE -->
    <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
 
-   <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...')" />
-   <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
-   <br/>
-   <h4>Sortie du toplevel :
+   <i id="buttons-input" style="margin-left: 20%; margin-right: auto; display: block;">
+     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...');" />
+     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
+   </i><br/>
+   <h4>Sortie du toplevel (<tt>output</tt>) :
    <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
-   <div id="outdiv">
     <pre id="output" style="font-family: monospace; width: 80%;"></pre><br/><hr/>
+   <h4>Espace d'écriture (<tt>spanaoutput</tt>) pour le toplevel :</h4>
+   <div id="outdiv">
     <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput</code>.</span>
-   </div><br/><hr/>
-   <br/><br/>
-   <canvas id="mycanvas" style="border-style: solid;" width="400" height="400">
+   </div><hr/><br/><!-- <br/> -->
+   <h4>Canvas (<tt>mycanvas</tt>) pour le toplevel :</h4>
+   <canvas id="mycanvas" style="border-style: solid; margin-left: 20%; margin-right: auto;" width="500" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
     La sortie graphique via le module ''turtle'' est donc non disponible !
    </canvas><br/><br/>
 
    <script type="text/javascript">
-   // $(document).ready(function() {
-    window.onload = function() {
+   $(document).ready(function() {
+    // window.onload = function() {
        window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser... ~~~");
        // Launch ACE
-       var editor = ace.edit("editor") || document.getElementById('editor');
+       // var editor = try { ace.edit("preeditor"); } catch(err) { document.getElementById('preeditor'); };
+       var editor = document.getElementById('preeditor');
+       try {
+         editor = ace.edit("preeditor");
+         console.log("[INFO] ACE was able to use load editor for the 'preeditor' textarea ?");
+       } catch(err) {
+         console.log("[ERROR] ACE was not able to use load editor for the 'preeditor' textarea.");
+       };
        // ACE Option. See http://ace.c9.io/#nav=howto for more options.
        try {
-         // editor.setTheme("ace-new/theme/cobalt");
-         editor.setTheme("ace/theme/cobalt");
-         // editor.getSession().setMode("ace-new/mode/python");
-         editor.getSession().setMode("ace/mode/python");
+         try { 
+           editor.setTheme("ace/theme/cobalt");
+         } catch(err2) { 
+           console.log("[ERROR] ACE was not able to use load the 'ace/theme/cobalt' theme.");
+           editor.setTheme("ace-new/theme/cobalt");
+         };
+         try { 
+          editor.getSession().setMode("ace/mode/python"); 
+        } catch(err3) { 
+           console.log("[ERROR] ACE was not able to use load the 'ace/mode/python' mode.");
+          editor.getSession().setMode("ace-new/mode/python"); 
+        };
          editor.getSession().setTabSize(4);
          editor.getSession().setUseWrapMode(true);
          editor.setHighlightActiveLine(true);
          editor.setShowPrintMargin(false);
          editor.setReadOnly(false);  // true to make it non-editable
+         console.log("[INFO] ACE seems to be well initialized.");
        } catch(err) { console.log("[ERROR] There was an error : " + err.message); };
        // 
        var output = document.getElementById('output');
@@ -114,7 +131,14 @@ La boucle itérative (**toplevel**)
           return Sk.builtinFiles["files"][x];
        };
        function runit() {
-          var prog = editor.getValue() || input.innerHTML;
+          var prog = "";
+          // var prog = try { editor.getValue(); } catch(err) { input.innerHTML; };
+          try {
+            prog = editor.getValue(); 
+          } catch(err) {
+            console.log("[ERROR] ACE was not able to get the content of the textarea with 'getValue'.");
+            prog =  input.innerHTML;
+          };
           window.alert("Interprétation en cours de :\n" + prog);
           output.innerHTML = '';
           Sk.canvas = "mycanvas";
@@ -136,7 +160,14 @@ La boucle itérative (**toplevel**)
         cleanin.value = "Efface l'entrée";
         cleanin.disabled = false;
         cleanin.onclick = function() {
-          var tmpvalue = editor.getValue() || editor.innerHTML;
+          var tmpvalue = "";
+          // var tmpvalue = try { editor.getValue(); } catch(err) { editor.innerHTML; };
+          try {
+            tmpvalue = editor.getValue();
+          } catch(err) { 
+            console.log("[ERROR] ACE was not able to get the content of the textarea with 'getValue'.");
+            tmpvalue = editor.innerHTML; 
+          };
           try { editor.setValue(""); } catch(err) { editor.innerHTML = ""; };
           window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
         };
@@ -145,21 +176,33 @@ La boucle itérative (**toplevel**)
         cleanout.disabled = false;
         cleanout.onclick = function() {
           spanoutput.innerHTML = "";
-          var tmpvalue = output.innerHTML;
-          // try { output.value = ""; } catch(err) { output.innerHTML = ""; };
-          output.innerHTML = "";
+          var tmpvalue = "";
+          // var tmpvalue = try { output.value = ""; } catch(err) { output.innerHTML = ""; };
+          // output.innerHTML;
+          try { 
+            tmpvalue = output.innerHTML; 
+          } catch(err) { 
+            console.log("[ERROR] ACE was not able to get the content of the output with '... = output.value'.");
+            tmpvalue = output.value; 
+          };
+          // output.innerHTML = "";
+          try { 
+            output.innerHTML = ""; 
+          } catch(err) { 
+            console.log("[ERROR] ACE was not able to change the content of the output with 'output.value = ...'.");
+            output.value = "";  };
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
         };
        // Done !
        window.alert("~~~ Le terminal Python (2.7.3) semble bien initialisé ! ~~~");
-     };
-   // });
+     // };
+   });
    </script>
 
 
 +--------------------------------+-------------------------------+ 
 | .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
-|    :scale: 120 %               |    :scale: 40 %               |
+|    :scale: 120 %               |    :scale: 45 %               |
 |    :align: right               |    :align: left               |
 |    :alt: Python powered :)     |    :alt: ACE powered :)       |
 |    :target: http://python.org  |    :target: http://ace.c9.io/ |

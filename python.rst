@@ -6,24 +6,28 @@
 
 ------------------------------------------------------------------------------
 
-Le toplevel
------------
 .. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
+
+Toplevel Python 2.7.2 avec l'éditeur ACE
+-----------------------------------------
 
 .. raw:: html
 
-   <h4>Toplevel Python 2.7.2 avec l'éditeur ACE</h4>
    <style type="text/css" media="screen">
-    #editor { 
+    #preeditor { 
         font-family: monospace;
         font-size: 18px;
         position: relative;
-        height: 450px;
+        height: 550px;
         width: 90%;
         margin-left: 40px;
     }
+    @media (max-width: 380px) { #preeditor {
+        margin-left: 5px;
+        font-size: 15px;
+    } }
    </style>
-   <pre id="editor">
+   <pre id="preeditor">
    # Une démonstration de python.js, utilisant l'éditeur ACE.js :) !
    print 'Bonjour, le monde !'
    print {i: i**9 for i in range(8)}  # dictionnaire en compréhension
@@ -43,7 +47,7 @@ Le toplevel
    <script src="_static/ace-new/ace.js?1" type="text/javascript" charset="utf-8"></script>
    <script type="text/javascript">
      // Launch ACE
-     var editor = ace.edit("editor");
+     var editor = ace.edit("preeditor");
      // ACE Option. See http://ace.c9.io/#nav=howto for more options.
      editor.setTheme("ace/theme/cobalt");
      editor.getSession().setMode("ace/mode/python");
@@ -72,7 +76,7 @@ Le toplevel
              window.alert("~~~ Le terminal Python (2.7.2) semble bien initialisé ! ~~~");
              return;
            }
-           output.value += e.data;
+           output.innerHTML += e.data;
         };
         worker.addEventListener('message', handler, false);
         // Boutons
@@ -87,19 +91,26 @@ Le toplevel
         };
         cleanout.onclick = function() {
           var output = document.getElementById('output');
-          var tmpvalue = output.value;
-          output.value = "";
+          var tmpvalue = output.innerHTML;
+          output.innerHTML = "";
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
         };
      };
      window.onload = start;
    </script>
-
-   <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" />
+   <!--    <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" />
    <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%;" rows="8" cols="80"></textarea>
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" /> -->
+   <i id="buttons-input" style="margin-left: 20%; margin-right: auto; display: block;">
+     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...');" />
+     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
+   </i><br/>
+   <h4>Sortie du toplevel (<tt>output</tt>) :
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
+   <pre id="output" style="font-family: monospace; width: 80%;"></pre>
+   <br/><hr/>
 
 
 +--------------------------------+-------------------------------+

@@ -184,7 +184,7 @@ div.sphinxsidebar {
     }
 
     div.sphinxsidebar #searchbox input[type="text"] {
-        width: 170px;
+        width: 120px;
     }
 
     div.sphinxsidebar #searchbox input[type="submit"] {
