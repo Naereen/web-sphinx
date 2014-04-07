@@ -9,10 +9,7 @@
 La boucle itérative (**toplevel**)
 ----------------------------------
 
-.. warning::
-
-   Utilise une balise ``canvas``, donc non compatible XHTML 1.0 Transitionnal !
-   :red:`Cette page n'est pas bien formée.`
+.. warning:: Compatibilité HTML5 requise !
    
    Et elle nécessite donc `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
    (voir aussi `html5readiness.com <http://html5readiness.com>`_)
@@ -47,6 +44,7 @@ La boucle itérative (**toplevel**)
        t.color(c)
        t.forward(75)
        t.left(90)
+   t.color('cyan')
    t.forward(75)
    for c in ['blue', 'yellow', 'green', 'red']:
        t.color(c)
@@ -56,29 +54,27 @@ La boucle itérative (**toplevel**)
    print("A demo of the 'document' module is in progress !")
    import document
    output = document.getElementById('output')
-   print output.value
+   print output.innerHTML
    # Second demo
    spanoutput = document.getElementById('spanoutput')
-   print( (spanoutput.innerHTML if spanoutput.innerHTML else "Rien pour l'instant...") )
    spanoutput.innerHTML = spanoutput.innerHTML + '<h5 style="color:red;">Skulpt can also access DOM !</h5>'
-   spanoutput.innerHTML = spanoutput.innerHTML + '<script type="text/javascript">window.alert("Alert sent from a <a href=\"http://www.python.org/\">Python</a> program, executed thanks to <a href=\"http://www.skulpt.org/\">skulpt.js</a> !");</script>'
-   # Third demo
-   spanoutput.innerHTML = spanoutput.innerHTML + '<img alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt"/>';
+   spanoutput.innerHTML = spanoutput.innerHTML + '<img alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/skulpt.html/AddedWithSkulpt" /><br/>'
    # Ajoutez votre propre commande Python :
    </textarea><br/>
-   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt.min.js?rst"></script>
-   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt-stdlib.js?rst"></script>
-   <!-- ACE ?
-     <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
-   -->
+   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt.min.js"></script>
+   <script type="text/javascript" charset="utf-8" src="_static/skulpt/skulpt-stdlib.js"></script>
+   <!-- ACE ? -->
+   <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
 
    <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...')" />
    <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
    <br/>
    <h4>Sortie du toplevel :
    <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
-   <pre id="output" style="font-family: monospace; width: 80%;"></pre>
-   <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput<code>.</span><br/><hr/>
+   <div id="outdiv">
+    <pre id="output" style="font-family: monospace; width: 80%;"></pre><br/><hr/>
+    <span id="spanoutput">Ce texte peut être modifié en modifiant le contenu de l'élément <b>DOM</b> d'identifiant <code>spanoutput</code>.</span>
+   </div><br/><hr/>
    <br/><br/>
    <canvas id="mycanvas" style="border-style: solid;" width="400" height="400">
     Il semblerait que votre navigateur ne supporte pas la balise canvas.
@@ -89,20 +85,25 @@ La boucle itérative (**toplevel**)
    // $(document).ready(function() {
     window.onload = function() {
        window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser... ~~~");
-       /* Launch ACE
-       var editor = ace.edit("editor");
+       // Launch ACE
+       var editor = ace.edit("editor") || document.getElementById('editor');
        // ACE Option. See http://ace.c9.io/#nav=howto for more options.
-       editor.setTheme("ace/theme/cobalt");
-       editor.getSession().setMode("ace/mode/python");
-       editor.getSession().setTabSize(4);
-       editor.getSession().setUseWrapMode(true);
-       editor.setHighlightActiveLine(true);
-       editor.setShowPrintMargin(false);
-       editor.setReadOnly(false);  // true to make it non-editable
-       */
-       var input = document.getElementById('editor');
+       try {
+         // editor.setTheme("ace-new/theme/cobalt");
+         editor.setTheme("ace/theme/cobalt");
+         // editor.getSession().setMode("ace-new/mode/python");
+         editor.getSession().setMode("ace/mode/python");
+         editor.getSession().setTabSize(4);
+         editor.getSession().setUseWrapMode(true);
+         editor.setHighlightActiveLine(true);
+         editor.setShowPrintMargin(false);
+         editor.setReadOnly(false);  // true to make it non-editable
+       } catch(err) { console.log("[ERROR] There was an error : " + err.message); };
+       // 
        var output = document.getElementById('output');
-      // Skulpt I/O stuff
+       var spanoutput = document.getElementById('spanoutput');
+       var mycanvas = document.getElementById('mycanvas');
+       // Skulpt I/O stuff
        function outf(text) {
           window.alert("Écriture de '" + text + "' en sortie.");
           output.innerHTML = output.innerHTML + text;
@@ -113,15 +114,15 @@ La boucle itérative (**toplevel**)
           return Sk.builtinFiles["files"][x];
        };
        function runit() {
-          // var prog = editor.getValue();
-          var prog = input.value;
+          var prog = editor.getValue() || input.innerHTML;
           window.alert("Interprétation en cours de :\n" + prog);
           output.innerHTML = '';
           Sk.canvas = "mycanvas";
           Sk.pre = "output";
           Sk.configure({output:outf, read:builtinRead});
           eval(Sk.importMainWithBody("<stdin>", false, prog));
-          window.alert("Interprétation terminée. Résultat:\n" + output.value);
+          var out = output.innerHTML;
+          window.alert("Interprétation terminée. Résultat:\n" + out);
       };
       // Skulpt buttons stuff.
       var button = document.getElementById('button');
@@ -135,19 +136,18 @@ La boucle itérative (**toplevel**)
         cleanin.value = "Efface l'entrée";
         cleanin.disabled = false;
         cleanin.onclick = function() {
-          // var tmpvalue = editor.getValue();
-          // editor.setValue("");
-          var tmpvalue = editor.value;
-          editor.value = '';
+          var tmpvalue = editor.getValue() || editor.innerHTML;
+          try { editor.setValue(""); } catch(err) { editor.innerHTML = ""; };
           window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
         };
       var cleanout = document.getElementById('cleanout');
         cleanout.value = "Efface la sortie";
         cleanout.disabled = false;
         cleanout.onclick = function() {
-          // var output = document.getElementById('output');
-          var tmpvalue = output.value;
-          output.value = "";
+          spanoutput.innerHTML = "";
+          var tmpvalue = output.innerHTML;
+          // try { output.value = ""; } catch(err) { output.innerHTML = ""; };
+          output.innerHTML = "";
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
         };
        // Done !

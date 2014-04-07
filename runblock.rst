@@ -101,7 +101,7 @@ d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/p
     $ LANG=en git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
 
 
-Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes/txt>`_) :
+Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes.txt>`_) :
 
 .. runblock:: console
 
