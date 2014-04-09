@@ -6,6 +6,9 @@
  **Résumé** : Lilian Besson
 ############################
 .. include:: .special.rst
+
+.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_ !
+
 .. sidebar:: Other language : in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
@@ -28,9 +31,6 @@ Contact address
        41, avenue du Président Wilson,
        94230 - Cachan,
        France
-
-
-.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_ !
 
 
 .. Application

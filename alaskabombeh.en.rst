@@ -1,6 +1,6 @@
-###########################################################################
- "If your moutain is not at a convenient spot, just send us a postal card"
-###########################################################################
+############################################################################
+ "If your mountain is not at a convenient spot, just send us a postal card"
+############################################################################
 .. include:: .special.rst
 .. note:: This page is a direct translation of an article I wrote for the ENS Cachan students newspaper (« La Sauce »)
 

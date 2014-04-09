@@ -6,12 +6,16 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 .. include:: .special.rst
+
+.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ !
+
 .. sidebar:: Autre langue : en anglais ?
 
    :red:`This page is written in French. Maybe you would like to read the`
    `English <cv.en.html>`_ :red:`version ?`
    
    Une version en **PDF** est disponible `cv.fr.pdf <cv.fr.pdf>`_.
+
 
 Adresse de contact
 ------------------
@@ -26,9 +30,6 @@ Adresse de contact
        41, avenue du Président Wilson,
        94230 - Cachan,
        France
-
-
-.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ !
 
 
 .. Candidature

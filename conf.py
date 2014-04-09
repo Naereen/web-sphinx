@@ -243,9 +243,9 @@ html_sidebars = {
          'sidebar_gpg.en.html'], ##, 'validator.html'
    'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
          'sidebar_gpg.fr.html'], ##, 'validator.html'
-   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sourcepdfcv.fr.html',
+   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html',
          'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'], ##, 'validator.html'
-   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sourcepdfcv.en.html',
+   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html',
          'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'], ##, 'validator.html'
    '**/*':      ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
          'sidebar_gpg.en.html'], ##, 'validator.html'
