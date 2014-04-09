@@ -6,8 +6,8 @@
 
 ------------------------------------------------------------------------------
 
-L'éditeur **ACE**
------------------
+Avertissements
+--------------
 .. warning:: Nécessite une connexion Internet active.
 
    :red:`Attention, pour le moment`, j'utilise un miroir, proposé par les
@@ -25,18 +25,22 @@ L'éditeur **ACE**
        * une traduction française de l'onglet des paramètres.
 
 
+------------------------------------------------------------------------------
+
+L'éditeur **ACE**
+-----------------
+
 .. raw:: html
 
-   <div id="editor" 
-        style="position: relative; font-size: 21pt; height: 700px; width: 100%;"
-   >(* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
+   <textarea id="editor" style="position: relative; font-size: 21pt; height: 700px; width: 100%;" >
+   (* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
    let x = 10+10;;
    let y = x * 3;;
    String.make x 'a';;
    sin 1.;;
    let rec fact n = if n = 0 then 1. else float n *. fact (n - 1);;
    fact 20;;
-   </div>
+   </textarea>
    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
    <script type="text/javascript">
    var editor = ace.edit("editor");

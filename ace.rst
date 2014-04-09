@@ -34,20 +34,27 @@ L'éditeur de code **ACE**
       La page `<ace2.html>`_ reste disponible.
       Elle fonctionne moins bien, et n'est plus activement développée !
 
+   Skulpt et Python
+      Les pages `<skulpt.html>`_ et `<python.html>`_ montrent l'utilisation de 
+      cet éditeur de code minimaliste pour améliorer l'expérience utilisateur 
+      de toplevel Python intégrés dans une page web. Oui, c'est plutôt cool.
+ 
+
 À propos
 --------
- Comme dans `.special.rst <_sources/.special.txt>`_,
- j'utilise la directive ``.. raw:: html`` pour
- **embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
- :blue:`C'est simple, c'est propre.`
+Comme dans `.special.rst <_sources/.special.txt>`_,
+j'utilise la directive ``.. raw:: html`` pour
+**embarquer du code** ``HTML`` dans la page produite par **Sphinx**.
+:blue:`C'est simple, c'est propre.`
 
+À faire
+~~~~~~~
 .. todo:: Trouver un moyen d'enregistrer le fichier édité !
-.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml, et GNU Plot.
+.. todo:: Trouver un moyen d'utiliser cet "éditeur" pour les toplevel OCaml et GNU Plot.
 
 Copyrights
-----------
- **ACE** est © et ® d'AjaxOrg.
- Voir la page officielle du projet, `ajaxorg.github.com/ace
- <http://ajaxorg.github.com/ace/#nav=about>`_.
+~~~~~~~~~~
+ **ACE** est © et ® d'AjaxOrg. Voir la page officielle du projet, 
+ `ajaxorg.github.com/ace <http://ajaxorg.github.com/ace/#nav=about>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
