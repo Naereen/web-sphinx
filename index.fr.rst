@@ -375,6 +375,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    ace
    wolfram
    freedns
+   dyndns
    time
    embed
    sparkline

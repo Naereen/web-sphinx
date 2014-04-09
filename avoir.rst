@@ -1,162 +1,85 @@
-############################
- Liste des **trucs à voir**
-############################
+###############################
+ Expériences faites et à faire 
+###############################
 .. include:: .special.rst
 .. include:: .javascript.rst
 
-Tests MathJax
--------------
-.. versionadded:: 1.9.7
+Une **expérimentation** : ajouter facilement des couleurs en rST ?
+------------------------------------------------------------------
+J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
+rôles dans les fichiers **.rst** écrits pour ces pages webs,
+et ces rôles sont mis en relation avec des styles CSS définis dans
+`.templates/layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_
+le template Jinja qui contrôle l'apparence et le rendu de toutes mes pages produites avec Sphinx.
 
-En rST
-^^^^^^
-Normalement, on peut inclure des maths avec ``:math:`code LaTeX```
-ou alors avec ``.. math:: code LaTeX sur une seule ligne``
-ou enfin avec ``.. math:: \n\n    code LaTeX\n    sur plusieurs lignes``
-(où ``\n`` est un sauté de ligne).
+Notamment, les différentes couleurs suivantes sont disponibles :
+black gray silver white maroon red magenta fuchsia pink orange 
+yellow lime green olive teal cyan aqua blue navy purple.
 
-Ceci est bien détaillé dans `<math.html>`_.
+Ceci est rendu possible avec
+ * `.special.rst <https://bitbucket.org/lbesson/web-sphinx/raw/master/.special.rst>`_ inclus en haut de chaque fichier rST (nécessaire)
+ * `hacks.css <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css>`_ inclus dans chaque page web via les templates.
 
-.. code-block:: rst
+Liste des couleurs rajoutées :
 
-   Quand :math:`a > 0` alors il y a deux solutions à
+ * la couleur :black:`black`;
+ * la couleur :gray:`gray`;
+ * la couleur :silver:`silver`;
+ * la couleur :white:`white` (white);
+ * la couleur :maroon:`maroon`;
+ * la couleur :red:`red`;
+ * la couleur :magenta:`magenta`;
+ * la couleur :fuchsia:`fuchsia`;
+ * la couleur :pink:`pink`;
+ * la couleur :orange:`orange`;
+ * la couleur :yellow:`yellow`;
+ * la couleur :lime:`lime`;
+ * la couleur :green:`green`;
+ * la couleur :olive:`olive`;
+ * la couleur :teal:`teal`;
+ * la couleur :cyan:`cyan`;
+ * la couleur :aqua:`aqua`;
+ * la couleur :blue:`blue`;
+ * la couleur :navy:`navy`;
+ * la couleur :purple:`purple`.
 
-   .. math:: ax^2 + bx + c = 0
+.. versionadded:: 1.4
 
-   et elles sont exactement 
-
-   .. math::
-      
-      x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
-
-
-Ce qui donne :
-
-Quand :math:`a > 0` alors il y a deux solutions à
-
-.. math:: ax^2 + bx + c = 0
-
-et elles sont exactement 
-
-.. math::
-      
-   x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
-
-
-En HTML
-^^^^^^^
-Mais il semblerait qu'on puisse aussi, *en HTML*, utiliser ``\(code LaTeX\)`` (inliné)
-ou ``$$code LaTeX$$`` (non inliné).
-Une autre méthode est d'utiliser une balise ``<script>``
-de type ``math/tex`` (un type inventé par et pour `MathJax <http://mathjax.org>`_).
-
-.. code-block:: html
-
-   Quand \(a > 0\) alors il y a deux solutions à
-   $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
-   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
-
-
-Ce qui donne (en incluant du HTML avec ``.. raw:: html``):
-
-.. raw:: html
-
-   Quand \(a > 0\) alors il y a deux solutions à
-   $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
-   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
-
-
-Ce que je voulais expérimenter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
-``$$code LaTeX non inliné$$`` **directement en rST** !
-
-Et bien, testons le code *rst* suivant :
-
-.. code-block:: rst 
-
-   Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
-   $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
-
-
-Ce qui donne :
-
-Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-et elles sont exactement 
-$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
-
-.. warning::
-
-   Avec ``$$code ... encore du code$$``, et donc aussi
-   ``\(code LaTeX\)`` il *faut* échapper les
-   ``\`` sinon rien ne marche.
+   Autres styles rajoutés :
    
-   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
-   n'utilise que ``\``.
+    * :under:`souligné`, avec ``:under:`texte```;
+    * :over:`surligné`, avec ``:over:`texte```;
+    * :line:`barré`, avec ``:line:`texte```;
+    * :it:`italique`, avec ``:it:`texte```;
+    * :ob:`oblique`, avec ``:ob:`texte``` (comme italique semble-t-il);
+    * :blink:`clignotant`, avec ``:blink:`texte``` (:red:`pas toujours supporté !`).
 
-
-.. warning::
-
-   Normalement, ``\[code LaTeX non inliné\]``
-   devrait faire comme ``$$code LaTeX non inliné$$`` !
-
-
-:blink:`Alors ?!` Ça marche bien :) Normalement, les trois paragraphes
-(en rST avec ``:math:``, en HTML avec ``.. raw:: html`` et directement avec ``\(code LaTeX\)``)
-affichent la même chose.
 
 ------------------------------------------------------------------------------
 
-Tests JavaScript
-----------------
-TimeAgo
-^^^^^^^
-Affiche des dates,
-directement avec un script :
+Tests JavaScript avec TimeAgo
+-----------------------------
+Affiche des dates avec un ``<abbr class="timeago">`` :
 
 .. raw:: html
 
-   <script type="text/javascript">
-   window.document.write("<br>Now: " + 
-    jQuery.timeago(new Date()) + "</br>" );
-   //=> "less than a minute ago"
-   window.document.write("<br>2008-07-17" + 
-    jQuery.timeago("2008-07-17") + "</br>" );
-   //=> "5 years ago"
-   </script>
+   Fin des écrits de l'ENS en MP* : <abbr class="timeago" title="2011-05-10T11:24:17Z">10 Mai 2011</abbr>.
 
-
-Ou avec un ``<abbr class="timeago">`` :
-
-.. raw:: html
-
-   <abbr class="timeago" title="2008-07-17T09:24:17Z">July 17, 2008</abbr>
-
-Couleurs et styles
-------------------
-.. versionadded:: 1.4
-
-D'autres rôles (rajoutés grâce à `.special.rst <_sources/.special.txt>`_ et au travail
-réalisé pour `.static/hacks.css` :
-
- * :under:`souligné`, avec ``:under:`texte```;
- * :blink:`clignotant`, avec ``:blink:`texte``` (pas toujours supporté !);
- * :over:`surligné`, avec ``:over:`texte```;
- * :line:`barré`, avec ``:line:`texte```;
- * :it:`italique`, avec ``:it:`texte```;
- * :ob:`oblique`, avec ``:ob:`texte``` (comme italique semble-t-il).
 
 Valideurs CSS et HTML
 ---------------------
 .. versionadded:: 1.5
 
-Deux liens vers les valideurs **CSS** et **HTML** du W3C sont désormais
-intégrés dans le bas de la page.
+Deux liens vers les valideurs **CSS** et **HTML** du W3C étaient intégrés dans la barre latérale de chaque page.
 
-Une des deux images est codée en *base64*, pour essayer.
+Ils n'y sont plus, mais ils sont encore accessibles ici :
+
+ #. `XHTML 4.01 <http://validator.w3.org/check?uri=referer>`_,
+ #. et `CSS 3 <http://jigsaw.w3.org/css-validator/check/referer>`_,
+ #. et `RSS 2.0 <http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fbesson.qc.to%2Frss.xml>`_. 
+
+
+Une des deux images était codée en *base64*, pour *essayer*.
 
 L'autre est :
 
@@ -171,11 +94,9 @@ Résultats attendus :
 .. warning:: Mes pages ne sont plus correctes sémantiquement ...
 
    Aucunes pages ne passent désormais le test XHTML, à cause de bout de
-   code écrits par des extensions non officielles de Sphinx (sphinx.ext.gnuplot
-   par exemple).
+   code écrits par des extensions non officielles de Sphinx (``sphinx.ext.gnuplot`` par exemple).
    
-   Aucunes pages ne passent désormais le test CSS, à cause de la feuille
-   `buttons.css <_static/buttons.css>`_.
+   Aucunes pages ne passent désormais le test CSS, à cause de la feuille `buttons.css <_static/buttons.css>`_.
    
    :red:`Mais j'y travaille ! J'essaie de nétoyer au mieux les modèles de pages, et le code de chaque pages. Dans ce but, tout retour est le bienvenu ! Le traqueur de bug est là pour ça :`
    `<http://besson.qc.to/git/web-sphinx/issues/new/>`_.
@@ -208,25 +129,29 @@ peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphin
 
 ------------------------------------------------------------------------------
 
-.. versionadded:: 1.8
-
 Citation random !
 ^^^^^^^^^^^^^^^^^
- Cette ligne Bash affiche une citation aléatoire.
- Actuellement, ``~/.quotes.txt`` est une liste très complète des meilleurs citations de Kaamelott.
- 
- Cette liste est obtenue à partir des deux scripts suivants,
- depuis les données du site `<http://fr.wikiquote.org/wiki/Kaamelott/>`_ :
- 
-  * `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
-  * `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
+.. versionadded:: 1.8
 
+Cette ligne Bash affiche une citation aléatoire.
+Actuellement, ``~/.quotes.txt`` est une liste très complète des meilleurs citations de Kaamelott.
+
+Cette liste est obtenue à partir des deux scripts suivants,
+depuis les données du site `<http://fr.wikiquote.org/wiki/Kaamelott/>`_ :
+
+* `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
+* `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
 
 .. runblock:: console
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
 
 
-.. http://❥.ws/fb.lbesson
+« Shortest URL on earth »
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Voir par exemple `fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers ma page facebook.
+
+Oui, le nom de domaine est bien "❥.ws", vous avez bien lu.
+Fou non ?
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

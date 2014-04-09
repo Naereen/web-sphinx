@@ -115,45 +115,108 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 ------------------------------------------------------------------------------
 
-Autre **expérimentation** : des couleurs ?
-------------------------------------------
-J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
-rôles dans les fichiers **.rst** écrits pour ces pages webs,
-et ces rôles sont mis en relation avec des styles CSS définis dans
-`.templates/layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_
-le template Jinja qui contrôle l'apparence et le rendu de toutes mes pages produites avec Sphinx.
+Tests de plusieurs syntaxes pour MathJax
+----------------------------------------
+.. versionadded:: 1.9.7
 
-Notamment, les différentes couleurs suivantes sont disponibles :
-black gray silver white maroon red magenta fuchsia pink orange 
-yellow lime green olive teal cyan aqua blue navy purple.
+En rST
+~~~~~~
+Normalement, on peut inclure des maths avec ``:math:`code LaTeX```
+ou alors avec ``.. math:: code LaTeX sur une seule ligne``
+ou enfin avec ``.. math:: \n\n    code LaTeX\n    sur plusieurs lignes``
+(où ``\n`` est un sauté de ligne).
 
-Ceci est rendu possible avec
- * `.special.rst <https://bitbucket.org/lbesson/web-sphinx/raw/master/.special.rst>`_ inclus en haut de chaque fichier rST (nécessaire)
- * `hacks.css <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css>`_ inclus dans chaque page web via les templates.
+Ceci est bien détaillé dans `<math.html>`_.
 
-Exemples :
+.. code-block:: rst
 
- * la couleur :black:`black`;
- * la couleur :gray:`gray`;
- * la couleur :silver:`silver`;
- * la couleur :white:`white` (white);
- * la couleur :maroon:`maroon`;
- * la couleur :red:`red`;
- * la couleur :magenta:`magenta`;
- * la couleur :fuchsia:`fuchsia`;
- * la couleur :pink:`pink`;
- * la couleur :orange:`orange`;
- * la couleur :yellow:`yellow`;
- * la couleur :lime:`lime`;
- * la couleur :green:`green`;
- * la couleur :olive:`olive`;
- * la couleur :teal:`teal`;
- * la couleur :cyan:`cyan`;
- * la couleur :aqua:`aqua`;
- * la couleur :blue:`blue`;
- * la couleur :navy:`navy`;
- * la couleur :purple:`purple`.
+   Quand :math:`a > 0` alors il y a deux solutions à
 
-D'autres exemples sont disponibles là `<avoir.html>`_.
+   .. math:: ax^2 + bx + c = 0
+
+   et elles sont exactement 
+
+   .. math::
+      
+      x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
+
+
+Ce qui donne :
+
+Quand :math:`a > 0` alors il y a deux solutions à
+
+.. math:: ax^2 + bx + c = 0
+
+et elles sont exactement 
+
+.. math::
+      
+   x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
+
+
+En HTML
+~~~~~~~
+Mais il semblerait qu'on puisse aussi, *en HTML*, utiliser ``\(code LaTeX\)`` (inliné)
+ou ``$$code LaTeX$$`` (non inliné).
+Une autre méthode est d'utiliser une balise ``<script>``
+de type ``math/tex`` (un type inventé par et pour `MathJax <http://mathjax.org>`_).
+
+.. code-block:: html
+
+   Quand \(a > 0\) alors il y a deux solutions à
+   $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
+
+
+Ce qui donne (en incluant du HTML avec ``.. raw:: html``):
+
+.. raw:: html
+
+   Quand \(a > 0\) alors il y a deux solutions à
+   $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
+
+
+Ce que je voulais expérimenter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
+``$$code LaTeX non inliné$$`` **directement en rST** !
+
+Et bien, testons le code *rst* suivant :
+
+.. code-block:: rst 
+
+   Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+   et elles sont exactement 
+   $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+
+Ce qui donne :
+
+Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
+et elles sont exactement 
+$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
+
+.. warning::
+
+   Avec ``$$code ... encore du code$$``, et donc aussi
+   ``\(code LaTeX\)`` il *faut* échapper les
+   ``\`` sinon rien ne marche.
+   
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
+   n'utilise que ``\``.
+
+
+.. warning::
+
+   Normalement, ``\[code LaTeX non inliné\]``
+   devrait faire comme ``$$code LaTeX non inliné$$`` !
+
+
+:cyan:`Alors ?! Ça marche bien :)` Normalement, les trois paragraphes
+(en rST avec ``:math:``, en HTML avec ``.. raw:: html`` et directement avec ``\(code LaTeX\)``)
+affichent la même chose.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

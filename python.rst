@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------------
 
-.. warning:: Semble incompatible avec Android, allez plutôt voir `<skulpt.html>`_ !
+.. warning:: Une autre version, plus légère et rapide, est disponible : `<skulpt.html>`_ !
 
 Toplevel Python 2.7.2 avec l'éditeur ACE
 -----------------------------------------
@@ -134,31 +134,29 @@ Toplevel Python 2.7.2 avec l'éditeur ACE
       Avec SymPy installé (calcul symbolique en Python), et en interprétant
       la sortie de SymPy comme du code LaTeX, rendu avec MathJax.
 
+À propos
+--------
+Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. raw:: html`` pour
+**embarquer du code** ``HTML`` dans la page produite par **Sphinx**. :navy:`C'est simple, c'est propre.`
+
 Libraire standard
------------------
+~~~~~~~~~~~~~~~~~
 En utilisant un débuggeur JavaScript, comme `FireBug <https://getfirebug.com/whatisfirebug>`_,
 il est possible de voir les appels aux fichiers de la librairie Python.
  
 Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
 
 Autres pages
-------------
+~~~~~~~~~~~~
 Ce terminal est aussi disponible ici `<_static/python/index.html>`_, mais avec l'apparence la plus simpliste.
 
-.. Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
-
-À propos
---------
-Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. raw:: html`` pour
-**embarquer du code** ``HTML`` dans la page produite par **Sphinx**. :navy:`C'est simple, c'est propre.`
-
 Hébergements
-------------
+~~~~~~~~~~~~
 Les scripts **Javascript** utilisés sur mes pages sont hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
 <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
-----------
+~~~~~~~~~~
 Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
 et vient du projet Empythoned (voir cette page 
 `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
