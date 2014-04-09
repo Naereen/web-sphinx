@@ -9,16 +9,15 @@
 
 This page is written to clarify some *'legal'* points.
 
+.. warning::
+
+  This page is old and :red:`NOT UP TO DATE` !
+
 About
 -----
  This little page is intented to quote the trademarks I quote 
  in the other pages. And also to give an almost exhaustive 
  list of the software and usefull website I'm using for my projects.
-
- .. warning::
-
-    This page is still in contruction !
-    And my English is not yet perfect, so sorry in advance for my bad English !
 
 ------------------------------------------------------------------------------
 

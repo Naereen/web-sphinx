@@ -384,12 +384,13 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    tutoweb
    cookies.fr
    beacon.fr
+   todo
+   avoir
    alaskabombeh.fr
+   folders
+   autostop.fr
    Page d'accueil (en anglais) <index.en>
    Précisions sur les marques commerciales citées (en anglais) <trademarks>
-   master
-   autostop.fr
-   folders
    admin
 
 
