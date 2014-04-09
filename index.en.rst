@@ -137,5 +137,6 @@ Pages in English
    alaskabombeh.en
    packing
    autostop.en
+   pokedex-doc/index
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

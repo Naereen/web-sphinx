@@ -52,13 +52,14 @@ Graphe et entrée texte
 .. raw:: html
 
     <table class="noborder"><tbody><tr><td>
-    <img src="" id="gnuimg" type="image/svg+xml" width="600" height="400" class="float-right"/>
+    <img src="" id="gnuimg" type="image/svg+xml" width="650" height="400" class="float-right"/>
     </td><td style="width:100%;" valign="top">
     <textarea class="emscripten" id="gnuplot" rows="20" cols="80" onkeyup="scriptChange()">
-    # Conserver les deux premières lignes
+    # Conserver les deux premières lignes / You HAVE to keep those first two lines :
     set terminal svg enhanced size 600,500 fname 'calibri' fsize 10 mouse jsdir "_static/"
     set output 'sortie.svg'
     ##########################################################################
+    # Mais vous pouvez modidifier la suite / But you CAN change the next lines :
     set format cb "%4.1f"
     set view 49, 28, 1, 1.48
     set samples 70, 70
@@ -88,7 +89,8 @@ Graphe et entrée texte
     </textarea></td></tr></tbody></table>
     <br clear="all"><hr>
     <h2 style="float: left;">Messages de sorties :</h2>
-    <textarea id="output" rows="10" cols="50" style="font-family: monospace; font-size: 10pt;">Chargement, veuillez patienter...</textarea>
+    <textarea id="output" rows="10" cols="50" style="float: right; margin-right: 20px; margin-left: auto; font-family: monospace; font-size: 10pt;">Chargement, veuillez patienter...
+    </textarea>
     <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block;" />
     <script type="text/javascript" src="_static/gnuplot_api.js"></script>
     <script type="text/javascript">

@@ -9,6 +9,8 @@
 Le toplevel
 -----------
 
+.. warning:: Soucis de scrolling et de positionnement du contenu écrit par le toplevel.
+
 .. raw:: html
 
    <h4>Toplevel OCaml 4.00.1</h4>

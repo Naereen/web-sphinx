@@ -8,7 +8,7 @@
 
 .. warning:: Compatibilité HTML5 requise !
    
-   Et elle nécessite donc `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
+   Cette page nécessite `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
    (voir aussi `html5readiness.com <http://html5readiness.com>`_)
    
    Malgré ça, cette version de l'interprète Python semble plus accessible que

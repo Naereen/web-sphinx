@@ -32,7 +32,7 @@ Liens directs
 -------------
 Historique pour un fichier
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Par exemple: pour `bin/PDFCompress <https://bitbucket.org/lbesson/home/history-node/master/bin/PDFCompress>`_.
+Par exemple: pour `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-node/master/PDFCompress>`_.
 
 Une ligne spécifique
 ^^^^^^^^^^^^^^^^^^^^
@@ -40,7 +40,7 @@ Par exemple: pour `.bashrc <https://bitbucket.org/lbesson/home/src/master/.bashr
 
 Fichier direct
 ^^^^^^^^^^^^^^
-Par exemple: pour `bin/series.sh <https://bitbucket.org/lbesson/home/raw/master/bin/series.sh>`_.
+Par exemple: pour `bin/series.sh <https://bitbucket.org/lbesson/bin/raw/master/series.sh>`_.
 
 Inclure un fichier avec ``?t=embed``
 ------------------------------------

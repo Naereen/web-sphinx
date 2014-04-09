@@ -76,7 +76,7 @@ $(document).ready(function(){
       {addClass: 'btn btn-primary', text: "D'accord", onClick: function($noty) {
           $noty.close();
           noty({text: ("<b>Super !</b>\n"+
-              "</br>Au fait, il est possible de changer la couleur des pages en appuyant sur 's'."),
+              "</br>Au fait, vous pouvez changer le style des pages en <i>appuyant sur 's'</i> !"),
             type: 'success', timeout: 5000});
         }}, 
       {addClass: 'btn btn-danger', text: "Pas d'accord !", onClick: function($noty) {
@@ -98,31 +98,31 @@ $(document).ready(function(){
       {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
           $noty.close();
           noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
+           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile !</span>", 
            type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 90000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
-    text: ('Quel style voulez-vous utiliser <i>désormais</i> ?\n</br>'
-      + '</br><small>Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
-      + ' Actuellement: ' + getCookie("layoutstyle") + '\n'
-      + '</br>En apprendre plus sur les <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?</small>'
+    text: ('Quel style voulez-vous utiliser ?\n</br>'
+      + '</br>Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
+      + ' Actuellement: ' + getCookie("layoutstyle") + '.\n'
+      + '</br>En apprendre plus sur les <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?'
     ),
     timeout: false, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();
         }}, 
-      {addClass: 'btn btn-primary btn-sm', text: "Violet !", onClick: function($noty) {
+      {addClass: 'btn btn-primary btn-sm', text: "<b>Bleu !</b>", onClick: function($noty) {
           useCookieToChangeStyle("purple");
           $noty.close();
         }}, 
-      {addClass: 'btn btn-success btn-sm', text: 'Vert !', onClick: function($noty) {
+      {addClass: 'btn btn-success btn-sm', text: "<b>Vert !</b>", onClick: function($noty) {
           useCookieToChangeStyle("green");
           $noty.close();
         }}, 
-      {addClass: 'btn btn-warning btn-sm', text: 'Orange !', onClick: function($noty) {
+      {addClass: 'btn btn-warning btn-sm', text: "<b>Orange !</b>", onClick: function($noty) {
           useCookieToChangeStyle("orange");
           $noty.close();
         }}
