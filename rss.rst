@@ -42,7 +42,7 @@ Flux valide ?
 .. image:: .valid-rss.png
    :scale: 100%
    :alt: Valid RSS
-   :target: http://feed1.w3.org/check.cgi?url=http%3A//besson.qc.to/rss.xml
+   :target: http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fbesson.qc.to%2Frss.xml
    :align: right
 
 Normalement, le flux écrit à la main est valide, comme le montre le lien suivant :

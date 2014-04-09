@@ -18,7 +18,7 @@ Toplevel Python 2.7.2 avec l'éditeur ACE
         font-family: monospace;
         font-size: 18px;
         position: relative;
-        height: 550px;
+        height: 400px;
         width: 90%;
         margin-left: 40px;
     }

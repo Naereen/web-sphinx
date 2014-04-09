@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
       <title>Lilian Besson's RSS</title>
-      <link>http://www.dptinfo.ens-cachan.fr/~lbesson/</link>
+      <link>http://perso.crans.org/besson/</link>
       <description>Flux RSS pour les pages web de Lilian Besson</description>
       <language>fr</language>
       <copyright>© 2013-2014, Lilian Besson</copyright>
       <managingEditor>jarvis.spam@laposte.net (Lilian Besson)</managingEditor>
       <webMaster>jarvis.spam@laposte.net (Lilian Besson)</webMaster>
-      <category>OCaml, Python, JavaScript, RSS, HTML, CSS, Crans, ENS de Cachan, Maths, Infos, GPG, PGP, GnuPG, GNU Nano, gedit, Firefox, Sphinx, Pokémon, Science, Technology, Magic, Awesome stuff, Agreg, Autostop</category>
+      <category>OCaml,Python,JavaScript,RSS,HTML,CSS,Crans,ENS de Cachan,Maths,Infos,GPG,PGP,GnuPG,GNU Nano,gedit,Firefox,Sphinx,Pokémon,Science,Technology,Magic,Awesome stuff,Agreg,Autostop</category>
       <generator>Painstakingly written by hand with GNU Nano v2.3.2 on Ubuntu 12.04.4 LTS :)</generator>
       <ttl>1</ttl>
-      <atom:link href="http://www.dptinfo.ens-cachan.fr/~lbesson/rss.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
 
       <image>
         <title>Lilian Besson's RSS</title>
-        <url>http://www.dptinfo.ens-cachan.fr/~lbesson/i/.besson_transparent.png</url>
-        <link>http://www.dptinfo.ens-cachan.fr/~lbesson/</link>
+        <url>http://perso.crans.org/besson/i/.besson_transparent.png</url>
+        <link>http://perso.crans.org/besson/</link>
         <description>Toutes mes expérimentations web sur http://besson.qc.to !</description>
         <height>120</height>
         <width>75</width>
@@ -27,15 +27,15 @@
       <item>
        <title>bitbucket.org/lbesson/bin : un nouveau dépôt pour mes scripts Bash !</title>
        <link>http://lbo.k.vu/bin/</link>
-       <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
-       <guid>http://besson.qc.to/s/squirt</guid>
-       <pubDate>Tue, 1 Apr 2014 19:03:43 GMT</pubDate>
+       <description>Ce dépôt contient plein de scripts en Bash, une dizaine en Python, et un ou deux en OCaml.</description>
+       <guid>http://besson.qc.to/bin.html</guid>
+       <pubDate>Mon, 7 Apr 2014 19:03:43 GMT</pubDate>
       </item>
 
       <item>
        <title>SquirtFR : un signapplet pour lire plus vite que votre ombre !</title>
        <link>http://lbo.k.vu/squirt</link>
-       <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
+       <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails sur http://lbo.k.vu/squirt, via bitbucket.</description>
        <guid>http://besson.qc.to/s/squirt</guid>
        <pubDate>Tue, 1 Apr 2014 19:03:43 GMT</pubDate>
       </item>
@@ -43,7 +43,7 @@
       <item>
        <title>StarpDown.js v2 !</title>
        <link>http://lbo.k.vu/md</link>
-       <description>StrapDown.js est un outil pour écrire des pages web très rapidement. Plus d'informations sont disponibles directement dans la page de présentation du projet, <a href="http://lbo.k.vu/md/">sur bitbucket</a>.</description>
+       <description>StrapDown.js est un outil pour écrire des pages web très rapidement. Plus d'informations sont disponibles directement dans la page de présentation du projet, http://lbo.k.vu/md, via bitbucket.</description>
        <guid>http://besson.qc.to/s/md</guid>
        <pubDate>Mon, 31 Mar 2014 18:03:43 GMT</pubDate>
       </item>
@@ -110,7 +110,7 @@
        <title>Nouvelle version de jQuery !</title>
        <link>http://besson.qc.to/_static/</link>
        <description>J'espère que ça ne va rien casser.</description>
-       <guid>http://lbesson.qc.to/bin/CP</guid>
+       <guid>http://besson.qc.to/bin/CP</guid>
        <pubDate>Sat, 25 Jan 2014 10:03:43 GMT</pubDate>
       </item>
 
@@ -119,7 +119,7 @@
        <link>http://besson.qc.to/bin/CP</link>
        <description>Un petit script pour colorer la sortie du très pratique rsync (utilitaire en ligne de commande pour copier des fichiers, localement et via le réseau)</description>
        <guid>http://besson.or.gs/bin/CP</guid>
-       <pubDate>Thu, 21 Jan 2014 10:03:43 GMT</pubDate>
+       <pubDate>Tue, 21 Jan 2014 10:03:43 GMT</pubDate>
       </item>
 
       <item>
@@ -132,7 +132,7 @@
 
       <item>
        <title>Joyeux Noël !</title>
-       <link>https://fr.wikipedia.org/wiki/Noël#.C2.AB_Joyeux_No.C3.ABl_.C2.BB_dans_toutes_les_langues</link>
+       <link>https://en.wiktionary.org/wiki/Merry_Christmas</link>
        <description>Enjoy !</description>
        <guid>http://besson.or.gs/projet.7z</guid>
        <pubDate>Tue, 24 Dec 2013 18:03:43 GMT</pubDate>
@@ -171,7 +171,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Re-publication de ZenityOCaml !</title>
-       <link>http://www.dptinfo.ens-cachan.fr/~lbesson/publis/Zenity/</link>
+       <link>http://perso.crans.org/besson/publis/Zenity/</link>
        <description>Utiliser Zenity avec OCaml de façon typée.</description>
        <guid>http://besson.or.gs/publis/Zenity</guid>
        <pubDate>Tue, 03 Dec 2013 20:48:43 GMT</pubDate>
@@ -228,7 +228,7 @@ Que répondre à ça ;) ?
       <item>
        <title>http://besson.or.gs marche super bien, avec http://lbesson.bitbucket.org !</title>
        <link>http://besson.or.gs/bin/.bashrc</link>
-       <description>http://www.dptinfo.ens-cachan.fr/~lbesson est plus cassé (mais désormais redirige vers http://besson.qc.to)!</description>
+       <description>http://perso.crans.org/besson est plus cassé (mais désormais redirige vers http://besson.qc.to)!</description>
        <guid>http://besson.or.gs/bin/.bash_aliases</guid>
        <pubDate>Wed, 16 Oct 2013 00:04:43 GMT</pubDate>
       </item>
@@ -236,7 +236,7 @@ Que répondre à ça ;) ?
       <item>
        <title>Plein de nouveaux trucs (JavaScript), et refonte de lbesson.bitbucket.org !</title>
        <link>http://lbesson.bitbucket.org?p=top</link>
-       <description>www.dptinfo.ens-cachan.fr/~lbesson est toujours cassé...</description>
+       <description>perso.crans.org/besson est toujours cassé...</description>
        <guid>http://lbesson.bitbucket.org?p=right/</guid>
        <pubDate>Sat, 28 Sep 2013 12:04:43 GMT</pubDate>
       </item>
@@ -244,8 +244,8 @@ Que répondre à ça ;) ?
       <item>
        <title>L'éditeur ACE a été remis en place, avec succès, pour le toplevel Python !</title>
        <link>http://besson.qc.to/python.html</link>
-       <description>www.dptinfo.ens-cachan.fr/~lbesson est cassé :( en ce moment !</description>
-       <guid>http://git.lbesson.qc.to/web-sphinx-scripts/</guid>
+       <description>perso.crans.org/besson est cassé :( en ce moment !</description>
+       <guid>http://git.besson.qc.to/web-sphinx-scripts/</guid>
        <pubDate>Sat, 21 Sep 2013 19:04:43 GMT</pubDate>
       </item>
 
@@ -259,17 +259,17 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Direction la Savoie pour un marriage et un baptême !</title>
-       <link>http://lbesson.qc.to/publis.html</link>
+       <link>http://besson.qc.to/publis.html</link>
        <description>Premier problème de 6h : c'est long :(</description>
-       <guid>http://besson.qc.to/bin.html</guid>
+       <guid>http://besson.qc.to/rss.html?src=13-09-2013</guid>
        <pubDate>Fri, 13 Sep 2013 19:04:43 GMT</pubDate>
       </item>
 
       <item>
        <title>Début de la prépa Agreg :)</title>
-       <link>http://lbesson.qc.to/agreg/</link>
+       <link>http://besson.qc.to/agreg/</link>
        <description>La rentrée, c'est maintenant ! Début de la prépa agreg, premiers TDs, premiers cours :)</description>
-       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/agreg/</guid>
+       <guid>http://perso.crans.org/besson/agreg/</guid>
        <pubDate>Fri, 06 Sep 2013 17:04:43 GMT</pubDate>
       </item>
 
@@ -291,7 +291,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Dernier jour à Londres !</title>
-       <link>http://lbesson.qc.to/stageM1/slides/</link>
+       <link>http://besson.qc.to/stageM1/slides/</link>
        <description>Rapports et slides presque "parfaits" ! TODO:Conclure slides réduits pour les maths...</description>
        <guid>http://lbesson.bitbucket.org/</guid>
        <pubDate>Fri, 09 Aug 2013 08:04:43 GMT</pubDate>
@@ -307,7 +307,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Dernière semaine à Londres !</title>
-       <link>http://lbesson.qc.to/stageM1/</link>
+       <link>http://besson.qc.to/stageM1/</link>
        <description>Rapports en cours de conclusion, slides bien avancés !</description>
        <guid>http://lbesson.bitbucket.org/index.html</guid>
        <pubDate>Sun, 04 Aug 2013 11:04:43 GMT</pubDate>
@@ -315,7 +315,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Les résultats du bac'13 sont tombés !</title>
-       <link>http://cv.lbesson.qc.to</link>
+       <link>http://cv.besson.qc.to</link>
        <description>4 ans que j'ai mon bac, souvenirs souvenirs... Bref, bien joué Guillaume!</description>
        <guid>http://bitbucket.org/lbesson/cv</guid>
        <pubDate>Fri, 05 Jul 2013 17:49:43 GMT</pubDate>
@@ -347,7 +347,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Update CV :)</title>
-       <link>http://www.dptinfo.ens-cachan.fr/~lbesson/cv.html</link>
+       <link>http://perso.crans.org/besson/cv.html</link>
        <description>Pour suivre les modifications du CV en PDF.</description>
        <guid>http://bitbucket.org/lbesson/cv/</guid>
        <pubDate>Mon, 24 Jun 2013 10:49:43 GMT</pubDate>
@@ -357,7 +357,7 @@ Que répondre à ça ;) ?
        <title>Nouveau style de couleurs (mauve et violet)</title>
        <link>http://sphinx-doc.org/theming.html#builtin-themes</link>
        <description>À partir du thème basic, changement de couleurs !</description>
-       <guid>http://lbesson.qc.to/</guid>
+       <guid>http://besson.qc.to/</guid>
        <pubDate>Wed, 19 Jun 2013 22:49:43 GMT</pubDate>
       </item>
 
@@ -365,7 +365,7 @@ Que répondre à ça ;) ?
        <title>Nouvelle version de Sphinx (1.2b)</title>
        <link>https://bitbucket.org/birkenfeld/sphinx/overview</link>
        <description>Version Beta.</description>
-       <guid>http://besson.qc.to/</guid>
+       <guid>http://lbesson.qc.to/?src=18-06-2013</guid>
        <pubDate>Tue, 18 Jun 2013 05:49:43 GMT</pubDate>
       </item>
 
@@ -389,7 +389,7 @@ Que répondre à ça ;) ?
        <title>Projet Kaggle</title>
        <link>https://bitbucket.org/lbesson/projet-kaggle</link>
        <description>Projet Kaggle en ML</description>
-       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/publis/kaggle/.build/html/</guid>
+       <guid>http://perso.crans.org/besson/publis/kaggle/.build/html/</guid>
        <pubDate>Thu, 25 Apr 2013 05:49:43 GMT</pubDate>
       </item>
 
@@ -405,7 +405,7 @@ Que répondre à ça ;) ?
        <title>Couvertures de CD trouvées par VLC (automatiquement).</title>
        <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202</link>
        <description>VLC 2.0+ télécharge seul des couvertures de CD et images représentatives de la chanson écoutée. Et ça marche du tonnerre !</description>
-       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/dl/</guid>
+       <guid>http://perso.crans.org/besson/dl/</guid>
        <pubDate>Wed, 17 Apr 2013 01:49:43 GMT</pubDate>
       </item>
       
@@ -435,7 +435,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>L'éditeur de texte ACE fonctionne pour les toplevels Python et Skulpt !</title>
-       <link>http://feed1.w3.org/check.cgi?url=http%3A//www.dptinfo.ens-cachan.fr/~lbesson/rss.xml</link>
+       <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide (2)</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx/issues</guid>
        <pubDate>Thu, 04 Apr 2013 10:49:43 GMT</pubDate>
@@ -443,7 +443,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Ça marche ! Ça marche !</title>
-       <link>http://feed1.w3.org/check.cgi?url=http%3A//www.dptinfo.ens-cachan.fr/~lbesson/rss.xml</link>
+       <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx-scripts</guid>
        <pubDate>Mon, 01 Apr 2013 10:49:43 GMT</pubDate>
@@ -453,7 +453,7 @@ Que répondre à ça ;) ?
        <title>Second item !</title>
        <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
-       <guid>http://www.dptinfo.ens-cachan.fr/~lbesson/rss.html</guid>
+       <guid>http://perso.crans.org/besson/rss.html</guid>
        <pubDate>Mon, 01 Apr 2013 10:03:43 GMT</pubDate>
       </item>
       
