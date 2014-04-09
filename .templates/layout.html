@@ -30,11 +30,12 @@
   <!-- RSS workflow (from besson.qc.to) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://besson.qc.to/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
+  <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git contenant les scripts" href="https://bitbucket.org/lbesson/web-sphinx-scripts/rss" />
   <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
   <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
-  <!-- jQuery.Noty. (Source: http://needim.github.io/noty/#installation) -->
+  <!-- jQuery.Noty. (Source: http://ned.im/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MathJax.js (http://mathjax.org/) async is quicker -->
    <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
@@ -138,10 +139,12 @@
 			$("head").append(
 		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
+      setTimeout(function(){ 
 		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+      }, 3000);
 	} };
   </script>
- 	 <script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
+ 	<script type="text/javascript" src="{{ pathto('_static/layout.noty.js', true)|e }}"></script>
 	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.smooth-scroll.min.js', true)|e }}"></script>
 	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
@@ -214,7 +217,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
     alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"https://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
   } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
-   setTimeout( function(){ NProgress.done(); }, 500);
+   setTimeout( function(){ NProgress.done(); }, 1000);
  });
  </script>
  <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Sur bitbucket !">Derniers changements</a>.

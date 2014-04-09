@@ -61,7 +61,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 
    "fichier LaTeX" -- "fichier PDF"
    ".tex" -- ".pdf";
-   "cv.tex" -- "cv.pdf";
+   "cv.fr.tex" -- "cv.fr.pdf";
 
 
 **HeVeA** permet de réaliser la transformation suivante
@@ -80,7 +80,9 @@ Je suis né et j'ai vécu à :red:`Briançon`,
 dans les *Hautes-Alpes* jusqu'à mes **16 ans**,
 avant de partir étudier au Lycée Thiers de Marseille.
 
-Dans les Hautes-Alpes, il y a notamment les villes suivantes :
+Dans les Hautes-Alpes, il y a notamment les villes suivantes 
+(un arc signifie que les deux villes sont dans la même vallée, 
+*ie.* reliées entre elles par une rivière !) :
 
 .. graph:: alpes
    
@@ -98,6 +100,8 @@ On peut aussi aller chercher un *fichier externe*.
 Voici par exemple un graphe de dépendances (pour mon projet réseau)
 généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
 (le fichier est **.graph.dot**).
+
+.. warning:: Soucis de zoom pour ce graphe...
 
 .. graphviz:: .graph.dot
 

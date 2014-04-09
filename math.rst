@@ -205,7 +205,7 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
    ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
    
-   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \\(\LaTeXe{}\\)
    n'utilise que ``\``.
 
 

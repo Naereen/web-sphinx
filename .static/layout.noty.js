@@ -85,7 +85,7 @@ $(document).ready(function(){
               +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.", 
             type: 'error', layout: 'center', timeout: 20000});
         }}]
-    }) }, 1000);
+    }) }, 5000);
    setTimeout(function(){ noty({
     text: 'Cette page vous <b>plait-elle</b> ?', timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
@@ -101,7 +101,7 @@ $(document).ready(function(){
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: blue\">c'est facile !</span>", 
            type: 'error', layout: 'center', timeout: 20000});
         }}]
-    }) }, 20000);
+    }) }, 90000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
     text: ('Quel style voulez-vous utiliser <i>désormais</i> ?\n</br>'
