@@ -255,6 +255,7 @@ Traductions
 ^^^^^^^^^^^
 Depuis mars 2013, je participe à la traduction de différents logiciels et sites web.
 :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
+
 La page `<transifex.html>`_ présente de façon narrative le premier contact avec le site `transifex <http://www.transifex.com>`_.
 J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et plus récemment
 j'ai traduit en français le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.

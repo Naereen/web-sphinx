@@ -29,6 +29,16 @@ Projets
 -------
 Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_.
 
+`latex <publis/latex/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Quelques fichiers et programmes utiles pour faire du \\(\LaTeX{}\\).
+
+En particulier `autotex <publis/latex/autotex>`_, le petit script Bash 
+que j'utilise quotidiennement pour écrire du LaTeX sans avoir à recopier 
+d'en-têtes (``\usepackage`` et autres inutilités).
+
+:État: *Fonctionne bien* et maintenu activement.
+
 `puzzle <publis/puzzle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
@@ -73,7 +83,7 @@ Par example :
 
 .. pypi-release:: ANSIColors-balises
    :prefix: La dernière version est ici 
-            (normalement, l'extension non officielle cheeseshop
+            (normalement, l'extension non officielle ``cheeseshop``
             permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
@@ -83,7 +93,7 @@ Par example :
 et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
 Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 
-:État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par semaine, c'est peu :(
+:État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par jour, c'est peu :(
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

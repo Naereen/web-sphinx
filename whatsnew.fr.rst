@@ -3,7 +3,7 @@
    <div class="sidebar" style="font-size:80%;">
    <p class="first sidebar-title">Quoi de neuf par ici ?</p>
    <ol class="last arabic simple">
-   <li><a href="https://lbesson.bitbucket.org/md/">StrapDown.js</a>, est un petit outil pour écrire des pages web <i>directement en Markdown</i>, sans compilation côté serveur, avec deux thèmes superbes adaptatifs,</li>
+   <li><a href="https://lbesson.bitbucket.org/md/">StrapDown.js</a>, est un petit outil pour écrire des pages web <i>directement en Markdown</i>, sans compilation côté serveur, avec deux thèmes superbes et adaptatifs,</li>
    <li><a href="https://lbesson.bitbucket.org/squirt/">Traduction française</a> de <a href="http://squirt.io/">Squirt</a>, un <i>signapplet</i> pour une lecture rapide de pages web;</li>
    <li><i>« L'agreg, c'est demain » !</i> (nos épreuves écrites pour le concours national de l'<i>agrégation</i> se déroulaient le 12 et 13 mars),</li>
    <li><a href="http://besson.qc.to/beacon.fr.html">beacon.fr.html</a>: un petit tutoriel sur <i>ga-beacon</i>, une solution élégante pour mesurer l'audience d'une page web ou d'un courriel avec <i>une image d'une pixel</i>,</li>
