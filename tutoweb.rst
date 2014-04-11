@@ -9,7 +9,7 @@ Pour HTML & CSS
  * références absolues pour toutes les normes utilisées sur le web : http://www.w3schools.com/
    avec notamment des références sur CSS (http://www.w3schools.com/cssref/default.asp) et HTML (http://www.w3schools.com/tags/default.asp).
 
- * validateurs CSS (http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.dptinfo.ens-cachan.fr%2F~lbesson%2Fmath.html). Tu pourra utiliser http://jigsaw.w3.org/css-validator/validator?uri=TON_URL pour vérifier si besoin les CSS des pages écrites/produites (en remplaçant TON_URL par ton url).
+ * validateurs CSS (http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fperso.crans.org/besson%2Fmath.html). Tu pourra utiliser http://jigsaw.w3.org/css-validator/validator?uri=TON_URL pour vérifier si besoin les CSS des pages écrites/produites (en remplaçant TON_URL par ton url).
  * et HTML (http://validator.w3.org/check?uri=http%3a%2f%2fperso.crans.org%2fbesson%2fmath.html - cette page montre des erreurs non encore réglées dans mes pages, par exemple), idem http://validator.w3.org/check?uri=TON_URL.
 
 Pour générer des pages moches à partir d'autres langages
@@ -26,7 +26,7 @@ Markdown
  Petit langage genre Wiki, http://daringfireball.net/projects/markdown/syntax
  Permet ensuite de faire fichier.md -> fichier.html
  Avec : `markdown fichier.md > fichier.html` en Bash.
- Exemple : http://www.dptinfo.ens-cachan.fr/~lbesson/publis/kaggle/
+ Exemple : http://perso.crans.org/besson/publis/kaggle/
 
  Assez limité, mais pratique pour faire une page simple rapidement.
 
@@ -44,9 +44,9 @@ Moi j'utilise Sphinx (http://sphinx-doc.org) et le langage associé est rST (ré
 rST en tant que tel est un bon langage à balise, moins que concis que Markdown 
 mais il est fourni avec plus de « plugins » (gnuplot, graphviz etc).
 
- - Exemple de source : http://www.dptinfo.ens-cachan.fr/~lbesson/_sources/tutoweb.txt
- - Exemple de rendu simple avec rst2html (même commande que Markdown : rst2html file.txt > file.html) : http://www.dptinfo.ens-cachan.fr/~lbesson/i/tutoweb.html
- - Exemple de rendu avec Sphinx : http://www.dptinfo.ens-cachan.fr/~lbesson/tutoweb.html
+ - Exemple de source : http://perso.crans.org/besson/_sources/tutoweb.txt
+ - Exemple de rendu simple avec rst2html (même commande que Markdown : rst2html file.txt > file.html) : http://perso.crans.org/besson/i/tutoweb.html
+ - Exemple de rendu avec Sphinx : http://perso.crans.org/besson/tutoweb.html
 
 ----
 
@@ -55,8 +55,8 @@ Ensuite, quelques autres pointeurs ou conseils,
 Apache
 ------
  Si le serveur web que tu utilisera est sous Apache, tu pourra configurer "facilement" des choses
- comme le type des fichiers (par exemple forcer le type UTF-8 pour des fichiers particulier, genre http://www.dptinfo.ens-cachan.fr/~lbesson/bin/pdflatex qui peut s'afficher mal car le défaut est ISO-8859-1),
- ou l'accès à un sous-dossier par mot de passe (exemple http://www.dptinfo.ens-cachan.fr/~lbesson/cours1m1 ou http://lbesson.qc.to/dl/).
+ comme le type des fichiers (par exemple forcer le type UTF-8 pour des fichiers particulier, genre http://perso.crans.org/besson/bin/pdflatex qui peut s'afficher mal car le défaut est ISO-8859-1),
+ ou l'accès à un sous-dossier par mot de passe (exemple http://perso.crans.org/besson/cours1m1 ou http://lbesson.qc.to/dl/).
  Référence: http://www.htaccesstools.com/
 
 robots.txt
@@ -80,8 +80,8 @@ Google Analytics
 Outils google pour webmasters
 -----------------------------
  Gratuit et facile d'utilisation, permet de te prévenir par mail ou texto dès qu'un "soucis" arrive sur une de tes pages.
- En pratique, demande juste de mettre une petite page genre http://www.dptinfo.ens-cachan.fr/~lbesson/googlecdd70f86364dadde.html
- et ensuite il en déduit que tu as accès au domaine/sous domaine/sous pages (en ce qui concerne cet exemple, à tout http://www.dptinfo.ens-cachan.fr/~lbesson/tout_ce_que/tu_veux/y_mettre).
+ En pratique, demande juste de mettre une petite page genre http://perso.crans.org/besson/googlecdd70f86364dadde.html
+ et ensuite il en déduit que tu as accès au domaine/sous domaine/sous pages (en ce qui concerne cet exemple, à tout http://perso.crans.org/besson/tout_ce_que/tu_veux/y_mettre).
  Référence: https://www.google.com/webmasters/tools/home?hl=fr
 
 scp, ftp, ssh, rsync

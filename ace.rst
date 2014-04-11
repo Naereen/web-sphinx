@@ -55,6 +55,6 @@ j'utilise la directive ``.. raw:: html`` pour
 Copyrights
 ~~~~~~~~~~
  **ACE** est © et ® d'AjaxOrg. Voir la page officielle du projet, 
- `ajaxorg.github.com/ace <http://ajaxorg.github.com/ace/#nav=about>`_.
+ `ajaxorg.github.io/ace <http://ajaxorg.github.io/ace/#about>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

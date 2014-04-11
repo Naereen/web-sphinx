@@ -125,7 +125,7 @@ MSc internship and thesis
    and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
 
 * :Where: with `PPLV Team <http://pplv.cs.ucl.ac.uk>`_,
-   at `UCL <http://cs.ucl.ac.uk>`_ in London;
+   at `UCL <http://www.cs.ucl.ac.uk/>`_ in London;
 
 * :Description:
    I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains.

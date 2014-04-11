@@ -253,7 +253,7 @@ Quelques scripts pour jouer avec des citations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `quotes.sh <bin/quotes.sh>`_,
-  pour récupérer une citation (aléatoire ou non) depuis `<http://wikiquote.org>`_.
+  pour récupérer une citation (aléatoire ou non) depuis `<https://www.wikiquote.org>`_.
 
   :État: *Stable*.
 

@@ -123,7 +123,7 @@ Stage et rapport de stage de M1
    et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
 
 * :Localisation: 
-   dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://cs.ucl.ac.uk>`_, à Londres.
+   dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://www.cs.ucl.ac.uk/>`_, à Londres.
 
 * :Description:
    J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.

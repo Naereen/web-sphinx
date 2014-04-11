@@ -165,7 +165,7 @@ Le paragraphe suivant est consacré à *mutt*, un client de messagerie en consol
 Mutt
 ----
 J'utilise **Mut 1.5.21** pour rédiger et lire mes mails.
-Voir la page officielle pour plus de détails : `<http://mutt.org>`_.
+Voir la page officielle pour plus de détails : `<http://www.mutt.org>`_.
 
 Mes fichiers de conf'
 ~~~~~~~~~~~~~~~~~~~~~
