@@ -60,7 +60,7 @@ Pas les miens
   pour les terminaux Python embarqués (`<skulpt.html>`_ et `<python.html>`_).
 
 * `toplevel.js <_static/toplevel.js>`_ et `try-ocaml <_static/try-ocaml/>`_
-  pour les terminaux OCaml embarqués (`<ocaml.html>`_ et `<try-ocaml>`_).
+  pour les terminaux OCaml embarqués (`<ocaml.html>`_ et `<try-ocaml.html>`_).
 
 * `mousetrap.min.js <_static/mousetrap.min.js>`_ pour définir des raccourcis clavier
   (Allez-y, essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p', ou 'u' par exemple).

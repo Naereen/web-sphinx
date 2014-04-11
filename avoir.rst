@@ -119,12 +119,6 @@ peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphin
 .. uml:: scripts/python/lib/python2.7/json
 
 
-``sphinx_pyreverse`` pour ANSIColors ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. uml:: scripts/python/lib/python2.7/ANSIColors
-
-
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
  Un signalement d'erreur via bitbucket :bbissue:`1`.
