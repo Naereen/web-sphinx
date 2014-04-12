@@ -9,3 +9,4 @@ scripts/
 uml_images/
 *.log
 blog/
+.moi.*g
