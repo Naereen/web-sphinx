@@ -202,7 +202,6 @@ So, I used the following software :
  * Google Calendar, ang Google Analytics, respectivly to store calendars online, and to monitor my web pages,
  * Javascript and Django templating (for Sphinx) to automatically embbed the Google Analytics script,
  * caml2html, pyhtmlizer and pygmentize to generate HTML pages from source code,
- * tanuki, eole.crans.org and other FTP server on the Crans local network for a constant source of new movies, and series episodes,
  * JDownloader, as the best Youtube downloader, even if it is written in Java...
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
  * Arandr and ArandrAuto (my script) to handle multi screens on Ubuntu,

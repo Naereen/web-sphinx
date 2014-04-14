@@ -67,14 +67,6 @@ Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:
  * `naereen.tk <http://naereen.tk>`_ miroir pour ce site;
  * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_).
 
-À l'origine de cette idée farfelue
-----------------------------------
- Un camarade de l'ÉNS qui a utilisé ce service, pour faire pointer *tan.uk.to*
- vers son serveur, qui émulait le comportement du site local (au Cr@ns) **tanuki**.
-
- C'est le "jeu de mot" formé par cette URL (tanukto ~ tanuki) qui m'a donné
- envie d'aller regarder de plus près c'te affaire !
-
 ------------------------------------------------------------------------------
 
 À propos de cette page
