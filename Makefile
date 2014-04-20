@@ -249,8 +249,10 @@ latexpdf:
 	-pkill gnuplot
 
 changes:
+	# Contourner un petit bug
 	-mv -vf gnuplot_embed.rst /tmp/
 	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes
+	# Contourner un petit bug, encore
 	-mv -vf /tmp/gnuplot_embed.rst ./
 	@echo
 	@echo "The overview file is in $(BUILDDIR)/changes."
@@ -295,9 +297,10 @@ helpsend:
 
 
 helpbuild:
+	@echo "Help for custom builders (by Lilian BESSON, https://bitbucket.org/lbesson/web-sphinx/)"
 	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  html       to make standalone HTML files"
-	@echo "  blog       to make standalone HTML files with Tinkerer"
+	# @echo "  blog       to make standalone HTML files with Tinkerer"
 	@echo "  gpghtml    to sign every standalone HTML files"
 	@echo "  gpgrss     to sign and send the RSS file (rss.xml)"
 	@echo "  gpglatex   to make LaTeX files and run them through pdflatex"

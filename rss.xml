@@ -25,6 +25,22 @@
 <!-- Début du flux -->
 
       <item>
+       <title>FreeDNS mort ?</title>
+       <link>http://perso.crans.org/besson/freedns.html</link>
+       <description>besson.qc.to, lbesson.qc.to, agreg.uk.is, lbo.k.vu, jarvis.ftp.sh, besson.k.vu et les autres : ne répondent plus !</description>
+       <guid>http://perso.crans.org/besson/i/freedns.html</guid>
+       <pubDate>Sun, 20 Apr 2014 14:03:43 GMT</pubDate>
+      </item>
+
+      <item>
+       <title>XUbuntu 14.04.2 LTS !</title>
+       <link>http://agreg.uk.is/todo.html</link>
+       <description>Nouvelle installation de mon linux, presque "terminée".</description>
+       <guid>http://agreg.uk.is/todo.pdf</guid>
+       <pubDate>Sat, 19 Apr 2014 19:03:43 GMT</pubDate>
+      </item>
+
+      <item>
        <title>bitbucket.org/lbesson/bin : un nouveau dépôt pour mes scripts Bash !</title>
        <link>http://lbo.k.vu/bin/</link>
        <description>Ce dépôt contient plein de scripts en Bash, une dizaine en Python, et un ou deux en OCaml.</description>
