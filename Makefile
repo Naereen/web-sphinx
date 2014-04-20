@@ -8,7 +8,8 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -v -j 10 -w /tmp/sphinx.log
-SPHINXBUILD   = /home/lilian/.local/bin/sphinx-build
+# # SPHINXBUILD   = /home/lilian/.local/bin/sphinx-build
+SPHINXBUILD   = /usr/local/bin/sphinx-build
 PAPER         =
 BUILDDIR      = .build
 

@@ -49,7 +49,7 @@ extensions = [
 ####### Sphinx Contrib
 ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
 	'sphinxcontrib.cheeseshop',
-	'sphinxcontrib.gnuplot',
+	'sphinxcontrib.gnuplot', # FIXME: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
 	'sphinxcontrib.autorun',
 ######## Sphinx Spelling http://sphinxcontrib-spelling.readthedocs.org/en/latest/install.html
 	# 'sphinxcontrib.spelling',
@@ -61,10 +61,12 @@ extensions = [
 ####### From Pokedex
     'pokedex.doc.tabledoc',
 ####### New from pypi
+####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
 	'sphinx_pyreverse', # .. uml:: path_to_module
 	'sphinx_git', # .. git_changelog::
 	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'http://bitbucket.org/birkenfeld/sphinx-contrib',
 	#'hieroglyph', # https://github.com/nyergler/hieroglyph
+	'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
 	]
 
 ##############################################################################

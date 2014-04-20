@@ -4,6 +4,28 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
+Meilleur thème ?
+----------------
+* `Read-the-doc <https://github.com/snide/sphinx_rtd_theme>`_ semble le mieux !
+* `SphinxTrab <http://jfardello.github.io/Sphinxtrap>`_ semble intéressant.
+* `Basicstrap <http://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
+* `Sphinx-bootstrap-theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/>`_ idem.
+
+Réduire les dépendances inutiles
+--------------------------------
+* Enlever `<python-doc/>`_,
+* Enlever `<gnuplot_embed.html>`_ ?
+
+Youtube ?
+---------
+
+Voici, par exemple, la première vidéo du `concert de Jill-Jênn <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ :
+
+.. youtube:: http://www.youtube.com/watch?v=45Ms9-t-Pr4&list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb&index=2
+
+
+-----------------------------------------------------------------------------
+
 Une **expérimentation** : ajouter facilement des couleurs en rST ?
 ------------------------------------------------------------------
 J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
