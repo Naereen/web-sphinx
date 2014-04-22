@@ -40,7 +40,7 @@ Il faut alors l'inclure dans chaque page avec ce code ``HTML``
 
 .. code-block:: html
 
-   <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js?1"></script>
+   <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js"></script>
 
 
 En plus, la balise ``async`` accélèrera le chargement de la page 

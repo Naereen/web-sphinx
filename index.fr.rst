@@ -383,6 +383,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    vieprivee
    tutoweb
    cookies.fr
+   ga.fr
    beacon.fr
    todo
    avoir

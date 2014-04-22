@@ -16,8 +16,8 @@ Réduire les dépendances inutiles
 * Enlever `<python-doc/>`_,
 * Enlever `<gnuplot_embed.html>`_ ?
 
-Youtube ?
----------
+Une extension Sphinx pour Youtube
+---------------------------------
 
 Voici, par exemple, la première vidéo du `concert de Jill-Jênn <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ :
 
@@ -85,7 +85,7 @@ Affiche des dates avec un ``<abbr class="timeago">`` :
 
 .. raw:: html
 
-   Fin des écrits de l'ENS en MP* : <abbr class="timeago" title="2011-05-10T11:24:17Z">10 Mai 2011</abbr>.
+   Fin des écrits de l'ENS en MP\* : <abbr class="timeago" title="2011-05-10T11:24:17Z">10 Mai 2011</abbr>.
 
 
 Valideurs CSS et HTML
@@ -173,7 +173,16 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Voir par exemple `fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers ma page facebook.
 
-Oui, le nom de domaine est bien "❥.ws", vous avez bien lu.
-Fou non ?
+Oui, le nom de domaine est bien "❥.ws", vous avez bien lu. Fou non ?
+
+.. warning:: Problème d'affichage ?
+
+   Si rien ne s'affiche entre le '"' et le '.', si vous voyez ".ws", 
+   votre navigateur a sûrement un problème d'encodage.
+   Vous pouvez par exemple consulter :
+
+    #. `l'aide Unicode sur Wikipédia <https://fr.wikipedia.org/wiki/Aide:Unicode>`_,
+    #. et `la page de test associée <https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Unicode/Test>`_.
+
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

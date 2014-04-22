@@ -26,7 +26,7 @@ Si ce n'est pour avoir une seule page présentant plein de liens vers des servic
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
-   
+
 ---------------------------------------------------------------------
 
 Liste des outils
@@ -34,6 +34,13 @@ Liste des outils
 .. note:: Contribuer ?
 
     N'hésitez pas à m'envoyer des liens supplémentaires !
+
+
+.. image::	.free_speech.png
+   :scale:	100 %
+   :align:	center
+   :alt:	Free Speech
+   :target:	http://xkcd.com/1357/
 
 
 .. note:: Liste des références

@@ -61,14 +61,14 @@ Exemple
 Il faut remplacer :
 
  #. *PSEUDO* par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
- #. *REPOSITORY* par le nom du dépôt (par exemple, pour moi, `home <https://bitbucket.org/lbesson/home>`_);
- #. *PATH* par le chemin du fichier (par exemple, `bin/pdflatex <https://bitbucket.org/lbesson/home/src/master/bin/pdflatex>`_ qui est aussi `ici bin/pdflatex <bin/pdflatex>`_).
+ #. *REPOSITORY* par le nom du dépôt (par exemple, pour moi, `bin <https://bitbucket.org/lbesson/bin>`_);
+ #. *PATH* par le chemin du fichier (par exemple, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ qui est aussi `ici bin/pdflatex localement <bin/pdflatex>`_).
 
 Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
 
 .. code-block:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?t=embed"></script>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/src/master/pdflatex?t=embed"></script>
 
 
 En reStructuredText
@@ -79,8 +79,8 @@ Enfin, j'inclue ça dans une page générée avec Sphinx avec le code ``rST`` su
 
    .. raw:: html
 
-      <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?embed=t">Fichier bin/pdflatex</script>
-      <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/home/raw/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
+      <script type="text/javascript" src="https://bitbucket.org/lbesson/src/master/pdflatex?embed=t">Fichier bin/pdflatex</script>
+      <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
 
 
 Exemples
@@ -90,12 +90,12 @@ bin/pdflatex
 
 .. raw:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/home/src/master/bin/pdflatex?embed=t">Fichier bin/pdflatex</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/home/raw/master/bin/pdflatex">bin/pdflatex</a>.</noscript>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/bin/src/master/pdflatex?embed=t">Fichier bin/pdflatex</script>
+   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/bin/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
 
 
-Un fichier rST
-~~~~~~~~~~~~~~
+Un fichier rST (celui de cette page !)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 

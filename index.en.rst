@@ -133,6 +133,7 @@ Pages in English
    trademarks
    demo
    cookies.en
+   ga.en
    beacon.en
    alaskabombeh.en
    packing
