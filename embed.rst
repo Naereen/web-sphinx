@@ -36,7 +36,7 @@ Par exemple: pour `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-no
 
 Une ligne spécifique
 ^^^^^^^^^^^^^^^^^^^^
-Par exemple: pour `.bashrc <https://bitbucket.org/lbesson/home/src/master/.bashrc#cl-463>`_ à la ligne 463.
+Par exemple: pour `.bashrc <https://bitbucket.org/lbesson/home/src/master/.bashrc#cl-441>`_ à la ligne 441.
 
 Fichier direct
 ^^^^^^^^^^^^^^
