@@ -69,7 +69,7 @@ Other solutions (not tested)
 
 .. warning:: Still writting this section !
 
-.. seelso::
+.. seealso::
 
    GA-Beacon (`<beacon.html>`_)
       How to use a *one-pixel* image to use Google Analytics

@@ -70,7 +70,7 @@ Pour un exemple, vous pouvez consulter le fichier *template* de ces pages,
 D'autres solutions (non testées)
 --------------------------------
 
-.. seelso::
+.. seealso::
 
    GA-Beacon (`<beacon.html>`_)
       Comment utiliser une image d'*une seule pixel* pour analyser les visites 
