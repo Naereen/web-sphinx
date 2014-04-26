@@ -19,7 +19,7 @@ Wolfram|Alpha ?
 ------------------------------------------------------------------------------
 
 `wa.sh`_ : un premier client pour Wolfram|Alpha, léger et en Bash ?
-----------------------------------------------------------------
+-------------------------------------------------------------------
 Avantage et inconvénient
 ^^^^^^^^^^^^^^^^^^^^^^^^
 L'avantage de ce premier client est sa portabilité : il est **très léger**
@@ -33,8 +33,8 @@ Source
 ^^^^^^
 La version originale est ici `wa.sh (original) <https://github.com/saironiq/shellscripts/blob/master/wolframalpha_com/wa.sh>`_.
 
-Ma version, sans couleur en sortie, est là `wa_nocolor.sh <http://bitbucket.org/lbesson/bin/wa_nocolor.sh>`_.
-Une version "plus à jour" sera bientôt ici `wa.sh <http://bitbucket.org/lbesson/bin/wa.sh>`_.
+Ma version, sans couleur en sortie, est là `wa_nocolor.sh <http://bitbucket.org/lbesson/bin/src/master/wa_nocolor.sh>`_.
+Une version "plus à jour" sera bientôt ici `wa.sh <http://bitbucket.org/lbesson/bin/src/master/wa.sh>`_.
 
 Obtenir une clé d'application (bis)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -57,21 +57,27 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
 
 #. Un test : ``0+0`` :
 
-.. runblock:: console
-
-   $ ~/bin/wa_nocolor.sh "0+0"
+   .. runblock:: console
+   
+      $ ~/bin/wa_nocolor.sh "0+0"
 
 #. Un calcul de distance :
 
-.. runblock:: console
-
-   $ ~/bin/wa_nocolor.sh "distance Paris New-York" | recode ..ascii | fold -s -w 90
+   .. runblock:: console
+   
+      $ ~/bin/wa_nocolor.sh "distance Paris New-York" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
 
 #. Résolution d'une équation :
 
-.. runblock:: console
+   .. runblock:: console
+   
+      $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
 
-   $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
+#. Et, en bonus, un pokémon :
+
+   .. runblock:: console
+   
+      $ ~/bin/wa_nocolor.sh zapdos | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
 
 
 Attention
@@ -88,7 +94,7 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
  Il s'agit d'un client **en ligne de commande** pour l'outil Wolfram Alpha.
 
 ``ruby1.9.1``
-^^^^^^^^^^^^
+^^^^^^^^^^^^^
  Pour l'installer **sur Ubuntu 11.10** (et plus récent), il est nécessaire
  d'installer les paquets ``ruby1.9.1`` et ``ruby1.9.1-dev`` :
 
@@ -196,7 +202,7 @@ Base de données de pokémon
 
  .. runblock:: console
 
-    $ wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+    $ wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/ | fold -s -w 90
 
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
