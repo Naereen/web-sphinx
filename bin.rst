@@ -130,7 +130,7 @@ Utilitaires divers
 ^^^^^^^^^^^^^^^^^^
 
 * `autotex <bin/autotex>`_,
-  un outil *expérimental* pour rapidement écrire du \\(LaTeX\\) sans en-têtes, juste en écrivant le contenu.
+  un outil *expérimental* pour rapidement écrire du \\(\\LaTeX{}\\) sans en-têtes, juste en écrivant le contenu.
   Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.tex <publis/latex/template.tex>`_ à sauvegarder dans votre *$HOME*.
   D'autres feuilles de style sont disponibles dans le dossier `<publis/latex/>`_.
 
