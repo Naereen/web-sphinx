@@ -37,8 +37,6 @@
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
   <!-- jQuery.Noty. (Source: http://ned.im/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
-  <!-- MathJax.js (http://mathjax.org/) async is quicker -->
-   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
   <!-- NProgress.js (https://github.com/rstacruz/nprogress) NEW is now loaded with conf.py:81@mathjax_path -->
@@ -140,7 +138,7 @@
 		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
       setTimeout(function(){ 
-		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
       }, 3000);
 	} };
   </script>
@@ -196,7 +194,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +"<small>Ce site est créé par Lilian Besson, © 2011-2014</small>",
   {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
- Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});    
+ Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
    var last_updated_value = "{{ last_updated }}" || "06 04 2014, 00h:30m:14s";
@@ -211,10 +209,10 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
     + ".</br></br>\n© Lilian BESSON 2011-2014.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
   Mousetrap.bind(["q"], function(){
-    console.log("[INFO] Loading SquirtFR from https://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
-    // Embed https://lbesson.bitbucket.org/squirt !
-    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
-    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"https://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
+    console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
+    // Embed http://lbesson.bitbucket.org/squirt !
+    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='http://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
+    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
   } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
    setTimeout( function(){ NProgress.done(); }, 1000);
@@ -287,7 +285,9 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.22" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a>
   </noscript>
 </li></ul></div> 
-<script type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
+   <script type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
+  <!-- MathJax.js (http://mathjax.org/) async is quicker -->
+   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
 </div>
 <!-- This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.

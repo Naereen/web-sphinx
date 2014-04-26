@@ -27,7 +27,7 @@ paragraphe de formules :
 .. math::
 
    (a + b)^2 = a^2 + 2ab + b^2
-   
+
    (a - b)^2 = a^2 - 2ab + b^2
 
 Démonstration
@@ -50,7 +50,7 @@ Par exemple, la formule dite d'Euler sera indiquée avec l'option
 .. math:: e^{i\pi} + 1 = 0
    :label: euler
 
-J'aime l'équation :eq:`euler` 
+J'aime l'équation :eq:`euler`
 (qui a été élue 'plus belle formule' de l'histoire des Mathématiques en 1991 !)
 donc j'y fait référence, avec le code ``:eq:`euler```.
 
@@ -65,11 +65,11 @@ Soucis à l'importation des modules
    Le samedi 30 mars ~ 16h, cette page n'affichait plus correctement
    les codes LaTeX avec MathJax.
    Le problème venait de l'ordre d'importation des extensions **Sphinx**.
-   
+
    Dans ``conf.py``, il y a le paragraphe : ::
-   
+
        extensions = [ 'sphinx.ext.todo', ..., 'sphinx.ext.mathjax' ]
-   
+
    Eh bien il se trouve que **MathJax** se désactive si on importe
    ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
 
@@ -84,17 +84,17 @@ Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
 
 Et bien, testons le code *rst* suivant :
 
-.. code-block:: rst 
+.. code-block:: rst
 
    Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
+   et elles sont exactement
    $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 
 Ce qui donne :
 
 Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-et elles sont exactement 
+et elles sont exactement
 $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 .. warning:: Un léger défaut
@@ -102,8 +102,8 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
    Avec ``$$code ... encore du code$$``, et donc aussi
    ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
-   
-   Il suffit donc d'écrire ``\\`` quand du "vrai" code \(LaTeX\)
+
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \\(\\LaTeX{}\\)
    n'utilise que ``\``.
 
 
@@ -134,10 +134,10 @@ Ceci est bien détaillé dans `<math.html>`_.
 
    .. math:: ax^2 + bx + c = 0
 
-   et elles sont exactement 
+   et elles sont exactement
 
    .. math::
-      
+
       x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
 
 
@@ -147,10 +147,10 @@ Quand :math:`a > 0` alors il y a deux solutions à
 
 .. math:: ax^2 + bx + c = 0
 
-et elles sont exactement 
+et elles sont exactement
 
 .. math::
-      
+
    x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.
 
 
@@ -165,7 +165,7 @@ de type ``math/tex`` (un type inventé par et pour `MathJax <http://mathjax.org>
 
    Quand \(a > 0\) alors il y a deux solutions à
    $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
+   et elles sont exactement
    $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
 
 
@@ -175,7 +175,7 @@ Ce qui donne (en incluant du HTML avec ``.. raw:: html``):
 
    Quand \(a > 0\) alors il y a deux solutions à
    $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
+   et elles sont exactement
    $$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.$$
 
 
@@ -186,17 +186,17 @@ Savoir s'il est possible d'utiliser ``\(code LaTeX inliné\)`` et
 
 Et bien, testons le code *rst* suivant :
 
-.. code-block:: rst 
+.. code-block:: rst
 
    Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-   et elles sont exactement 
+   et elles sont exactement
    $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 
 Ce qui donne :
 
 Quand \\(a > 0\\) alors il y a deux solutions à $$ax^2 + bx + c = 0$$
-et elles sont exactement 
+et elles sont exactement
 $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 .. warning::
@@ -204,8 +204,8 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
    Avec ``$$code ... encore du code$$``, et donc aussi
    ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
-   
-   Il suffit donc d'écrire ``\\`` quand du "vrai" code \\(\LaTeXe{}\\)
+
+   Il suffit donc d'écrire ``\\`` quand du "vrai" code \\(\\LaTeX{}\\)
    n'utilise que ``\``.
 
 
