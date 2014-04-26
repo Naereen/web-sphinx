@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
    :description lang=fr: Page décrivant les publications du dossier publis/
    :description lang=en: Description of publications in folder publis/
 
@@ -17,6 +17,7 @@ Ce dossier contient un certain nombre de petites publications
 
    Si cette page ne joue intéresse pas, allez plutôt consulter celle là `<index.html>`_.
 
+
 .. note:: Conditions de distribution
 
    Chaque projets listés sur cette page est distribué *librement*,
@@ -31,10 +32,10 @@ Voici une courte liste de certains projets contenus dans le dossier `<publis/>`_
 
 `latex <publis/latex/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Quelques fichiers et programmes utiles pour faire du \\(\LaTeX{}\\).
+Quelques fichiers et programmes utiles pour faire du \\(\\LaTeX{}\\).
 
-En particulier `autotex <publis/latex/autotex>`_, le petit script Bash 
-que j'utilise quotidiennement pour écrire du LaTeX sans avoir à recopier 
+En particulier `autotex <publis/latex/autotex>`_, le petit script Bash
+que j'utilise *quotidiennement* pour écrire du \\(\\LaTeX{}\\) sans avoir à recopier
 d'en-têtes (``\usepackage`` et autres inutilités).
 
 :État: *Fonctionne bien* et maintenu activement.
@@ -82,7 +83,7 @@ Par example :
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. pypi-release:: ANSIColors-balises
-   :prefix: La dernière version est ici 
+   :prefix: La dernière version est ici
             (normalement, l'extension non officielle ``cheeseshop``
             permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
@@ -131,19 +132,7 @@ Fichiers de configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Configuration pour **GNU Conky**.
 
-:État: *À-jour.*
-
-`gedit-coloration <publis/gedit-coloration/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Configuration pour **GTK-SourceView** (avec gedit ou gobby).
-
-:État: *À-jour.*
-
-`gedit <publis/gedit/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^
-Divers plugins pour **Gnome Gedit**.
-
-:État: *À-jour.*
+:État: *Plus maintenu activement, mais fonctionne.*
 
 `muttrc <publis/muttrc/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,14 +140,29 @@ Configuration pour **Mutt**.
 
 :État: *À-jour.*
 
+`gedit-coloration <publis/gedit-coloration/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Configuration pour **GTK-SourceView** (avec gedit ou gobby).
+
+:État: *Plus du tout maintenu.*
+
+`gedit <publis/gedit/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^
+Divers plugins pour **Gnome Gedit**.
+
+:État: *Plus du tout maintenu.*
+
+
+.. todo:: Rajouter certains autres trucs ici !
+
 ---------------------------------------------------------------------
 
 Divers
 ------
 `webcomics.pdf <publis/webcomics.pdf>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Un article sur `<http://questionablecontent.net>`_ pour la dernière Sauce
- (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
+ Un article sur `<http://questionablecontent.net>`_ pour la Sauce
+ du mois de janvier (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
 
 `seminaire_crans.pdf <publis/seminaire_crans/seminaire_crans.pdf>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
