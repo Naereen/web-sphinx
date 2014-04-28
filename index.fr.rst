@@ -34,7 +34,7 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
 
     J'aime randonner et camper, voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
     J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
-    comme par exemple `du javascript <https://lbesson.bitbucket.org/md/>`_,
+    comme par exemple `du javascript <http://lbesson.bitbucket.org/md/>`_,
     des tutoriels (sur `ga-beacon <beacon.fr.html>`_ ou `Nano <NanoSyntax.html>`_),
     ou encore des outils en lignes de commande pour Linux (`plus de détails ici <bin.html>`_ ou 
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
@@ -157,7 +157,7 @@ Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore 
-`README.html <https://lbesson.bitbucket.org/README.html>`_
+`README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
 je travaille *sur mon temps libre*.
 
@@ -165,13 +165,13 @@ StrapDown.js v2 (03/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Un petit outil pour rapidement produire de jolies pages web, en rédigeant 
 directement en *Markdown*, sans la moindre compilation côté serveur !
-La page de présentation et de démonstration est `là (StrapDown.js) <https://lbesson.bitbucket.org/md/>`_.
+La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.org/md/>`_.
 
 SquirtFR (03/2014)
 ^^^^^^^^^^^^^^^^^^
 Un signapplet (aussi appelé marque-page scripté) pour lire rapidement n'importe quelle page web,
-c'est `ici (SquirtFr) <https://lbesson.bitbucket.org/squirt/>`_, 
-avec plus d'informations sur le projet `ici (README.html) <https://lbesson.bitbucket.org/squirt/README.html>`_.
+c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_, 
+avec plus d'informations sur le projet `ici (README.html) <http://lbesson.bitbucket.org/squirt/README.html>`_.
 
 Projet Labyrinthe-Démineur (12/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

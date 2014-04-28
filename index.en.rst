@@ -18,7 +18,7 @@ A few words about me
 ^^^^^^^^^^^^^^^^^^^^
 I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
 I also like using new technologies, and enjoy design tiny pieces of software or web content
-for instance `nice javascript hacks <https://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
+for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
 or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).  
 
 A few words about this site

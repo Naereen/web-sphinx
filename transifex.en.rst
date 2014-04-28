@@ -203,14 +203,14 @@ Other translations
    In February 2014, I forked and translated the `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ project.
 
 
-.. seealso:: `SquirtFR <https://lbesson.bitbucket.org/squirt/>`_
+.. seealso:: `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_
 
    In April 2014, I forked and translated `squirt.io <http://squirt.io/>`_, 
    and I also changed a few things, to be able to embed it locally more easily 
    (go on, try the speed-reading feature, with the shortcut "q" !).
 
 
-.. seealso:: `StrapDown.js <https://lbesson.bitbucket.org/md/>`_
+.. seealso:: `StrapDown.js <http://lbesson.bitbucket.org/md/>`_
 
    In April 2014, I forked and translated `strapdownjs.com <http://strapdownjs.com/>`_ 
    in order to clean it up, tweak it to change the styles, and to be able to embed it locally more easily.
