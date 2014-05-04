@@ -24,7 +24,7 @@ Avantage et inconvénient
 ^^^^^^^^^^^^^^^^^^^^^^^^
 L'avantage de ce premier client est sa portabilité : il est **très léger**
 (47 lignes, *avec* les commentaires!), et ne demande **aucune dépendance**
-(à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installé sur n'importe quel Linux).
+(à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installés sur n'importe quel Linux).
 
 Néanmoins, ce client est plus minimaliste que ``wolf`` (présenté plus bas),
 et il ne présente aucune option.

@@ -23,8 +23,8 @@ Elles permettent donc d'appliquer une fonction *f : 'a -> unit* qui agit par eff
 
 Pratique donc !
 
-Une meilleur version ?
-----------------------
+Une meilleure version ?
+-----------------------
 *Mais*... Souvent, on a besoin, en plus de la valeur de chaque élément,
 de leur indice (par exemple pour afficher "la case i contient x[i]" ou autre).
 
