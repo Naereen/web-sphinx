@@ -67,6 +67,8 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
        94230 - Cachan,
        France
 
+#. ou avec `ce formulaire <contact/>`_ (actuellement via l'annuaire de l'ENS);
+
 #. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
    
    .. image:: .telephone.png
@@ -186,7 +188,7 @@ ce projet a pour but de faire de la *classification de données*, afin d'exhiber
 le *"passager type"* ayant survécu au naufrage du Titanic.
 Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
 `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
-J'ai eu **15/20** pour ce projet.
+J'ai eu **15/20** pour ce projet, mais `n'ai pas participé au projet via Kaggle <https://www.gequest.com/users/96638/naereen>`_ en fin de compte.
 
 ANSI Colors (01~03/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -197,7 +199,9 @@ Sa documentation est hébergée sur
 `PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur 
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de **4000 fois** !
+Actuellement, il a déjà été téléchargé plus de **4500 fois** !
+*(Des statistiques partielles, pour le mois de Mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ *.)*
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

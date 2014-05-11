@@ -308,6 +308,8 @@ Autres références
 -----------------
 Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages là:
 
+* `ce message sur la liste de diffusion "caml-list AT inria.fr" <https://sympa.inria.fr/sympa/arc/caml-list/2012-10/msg00043.html>`_.
+
 * `<publis/gedit-coloration/language-specs/>`_,
   le même genre de travail, pour l'éditeur **Gedit**, éditeur de code officiel du projet **GNOME**.
   De nouvelles descriptions de langages pour ``OCaml``, ``Python``, ``rST``, ``CUDA``, 

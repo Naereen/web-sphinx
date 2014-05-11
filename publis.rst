@@ -93,6 +93,8 @@ Par example :
 **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
 et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
 Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+*(Des statistiques partielles, pour le moi de Mai 2015 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_.)*
 
 :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par jour, c'est peu :(
 
@@ -102,6 +104,7 @@ Petit projet réalisé pour le cours d'**Apprentissage** de ``L3`` à l'``ENS Ca
 Rien de très palpitant, sinon une intéressante utilisation de ``Python`` pour réaliser
 toutes les différentes composantes d'un projet de programmation
 (codes, documentations, rapports, slides etc). J'avais eu 15/20.
+Finalement, `je n'ai pas participé à la dernière étape sur Kaggle <https://www.gequest.com/users/96638/naereen>`_.
 
 :État: *À-jour.*
 
