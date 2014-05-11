@@ -32,11 +32,12 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
 
    **Un petit mot sur moi** :
 
-    J'aime randonner et camper, voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
+    En plus des maths et de l'informatique, j'aime aussi randonner et camper,
+    voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
     J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
-    comme par exemple `du javascript <http://lbesson.bitbucket.org/md/>`_,
-    des tutoriels (sur `ga-beacon <beacon.fr.html>`_ ou `Nano <NanoSyntax.html>`_),
-    ou encore des outils en lignes de commande pour Linux (`plus de détails ici <bin.html>`_ ou 
+    comme par exemple du javascript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
+    des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
+    ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou 
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
    **Un petit mot sur ce site** :
@@ -45,11 +46,10 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
     sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
 
-    `Qu'est-ce que l'Open Source, expliqué en Légo <https://youtu.be/a8fHgx9mE5U>`_.
+    `Qu'est-ce que l'Open Source, expliqué en Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
 
     Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
-    sont effectivement visités quotidiennement par des gens du monde entier :
-    j'espère ne pas décevoir ces visiteurs !
+    sont effectivement visités quotidiennement par des gens du monde entier : j'espère ne pas décevoir ces visiteurs !
     (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_
     peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
 
@@ -58,7 +58,9 @@ Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
 Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
-#. par courrier (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
+#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'annuaire de l'ENS);
+
+#. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
        Mr Lilian Besson,
        ENS Cachan,
@@ -67,17 +69,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
        94230 - Cachan,
        France
 
-#. ou avec `ce formulaire <contact/>`_ (actuellement via l'annuaire de l'ENS);
-
-#. ou via ma page *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
-   
-   .. image:: .telephone.png
-      :scale: 130 %
-      :align: right
-      :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
-      :target: callto:100101011101001100111101100001_2
-
-#. ou par téléphone (:red:`si c'est urgent ou important`):
+#. ou encore tenter de m'envoyer un message sur *Facebook* (mon compte : `lbesson <https://www.facebook.com/naereencorp.lbesson>`_);
    
    .. image:: .courriel.png
       :scale: 120 %
@@ -85,7 +77,16 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
       :alt:   Mon adresse courriel, dans une image png...
       :target: mailto:Lilian.Besson＠ens-cachan.fr
 
-#. ou par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
+#. ou bien par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
+
+   .. image:: .telephone.png
+      :scale: 130 %
+      :align: right
+      :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+      :target: callto:100101011101001100111101100001_2
+
+#. ou enfin par téléphone (:red:`seulement si c'est urgent ou important`) :
+
 
 Mes projets en ligne
 ^^^^^^^^^^^^^^^^^^^^
@@ -98,16 +99,17 @@ Mes projets en ligne
 Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
 #. via mes dépôts *git* sur mon compte *bitbucket*, 
-   `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-
-#. ou via mon profil *Launchpad*, 
-   `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
+   `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
 
 #. ou sur ma page personnelle *Wikipédia*, 
-   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_ (avec `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
+   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
+   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
-   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
+   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (peu actif).
+
+#. ou enfin via mon profil *Launchpad*, 
+   `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_ (pas vraiment utilisé);
 
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
