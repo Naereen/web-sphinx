@@ -73,8 +73,8 @@ Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:
 ^^^^^^^^^^^^^^^^^^^^^^
 :blink:`Cette page ne sert à rien !`
 
-Cette page permet seulement d'avoir au moins vers freedns.afraid.org
-sur une de mes pages.
+Cette page permet seulement d'avoir au moins un lien 
+vers `FreeDNS.afraid.org <http://freedns.afraid.org>`_ sur une de mes pages.
 
 Pourquoi ? Principalement parce que le développeur à l'origine de ce service le demande :
    

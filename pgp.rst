@@ -64,18 +64,26 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
 
  #. **la télécharger**, comme expliqué au paragraphe suivant;
  #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
-    au résultat suivant :
+    aux résultatx suivants :
+    
+    Depuis mon répertoire de clés :
     
     .. runblock:: console
     
        $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | md5sum
-       $ md5sum ~/Lilian_Besson.asc
        $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
+
+
+    Depuis le fichier `<Lilian_Besson.asc>`_ :
+
+    .. runblock:: console
+    
+       $ md5sum ~/Lilian_Besson.asc
        $ sha256sum ~/Lilian_Besson.asc
        
    
    À quoi cela sert-il ? Cela vous permet de vérifier que vous avez bien téléchargé
-   l'armor-art (*ie.* version ASCII) de ma clé publique.
+   la bonne armor-art (*ie.* la version ASCII) de ma clé publique.
  
  
  #. **l'importer dans votre répertoire de clé** (local sur chaque machine) : ::
