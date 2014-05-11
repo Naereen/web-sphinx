@@ -102,7 +102,7 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets :
    `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
 
 #. ou sur ma page personnelle *Wikipédia*, 
-   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_.
+   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_ (avec `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.

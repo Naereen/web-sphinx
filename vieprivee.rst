@@ -52,7 +52,7 @@ Liste des outils
 
 Distribution Linux "la plus sécurisée"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- * `<https://tails.boum.org/index.fr.html>`_ Tails : The Amnesic Incognite Live System.
+* `<https://tails.boum.org/index.fr.html>`_ Tails : The Amnesic Incognite Live System (enfin en version stable ``1.0``).
 
 Crypter ses communications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
