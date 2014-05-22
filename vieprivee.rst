@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
    :description lang=fr: Page donnant des liens vers des outils permettant le respect de sa vie privée.
    :description lang=en: A list of links for tools designed to improve your privacy. In french :(
 
@@ -11,9 +11,8 @@
 
 .. seealso:: Slides par Micah Flee
 
-   `Ces slides <https://raw.githubusercontent.com/micahflee/slides/master/2013/10/sfpl_crypto.pdf>`_ 
+   `Ces slides <https://raw.githubusercontent.com/micahflee/slides/master/2013/10/sfpl_crypto.pdf>`_
    sont très bien faits, et présentent rapidement l'importance des outils de crypto-sécurité.
-
 
 ---------------------------------------------------------------------
 
@@ -35,13 +34,11 @@ Liste des outils
 
     N'hésitez pas à m'envoyer des liens supplémentaires !
 
-
 .. image::	.free_speech.png
    :scale:	100 %
    :align:	center
    :alt:	Free Speech
    :target:	http://xkcd.com/1357/
-
 
 .. note:: Liste des références
 
@@ -66,7 +63,6 @@ Crypter ses communications
   texte sous la forme d'espaces en fin de lignes.
   Faut quand même être sacrément velu pour envisager ça !
 
-
 ---------------------------------------------------------------------
 
 Garantir son idendité
@@ -74,7 +70,6 @@ Garantir son idendité
 * `GnuPG <http://www.gnupg.org/download/>`_ pour signer des fichiers ou des courriels.
   Voir aussi `<pgp.html>`_ pour plus d'infos,
   ou `<Lilian_Besson.asc>`_ pour récupérer ma clé publique
-
 
 ---------------------------------------------------------------------
 
@@ -87,12 +82,10 @@ Crypter ses fichiers
   entier. Semble assez efficace. Est gratuit et open source (mais non libre).
 
 * `wuala <https://www.wuala.com/fr/download/linux>`_ est un service gratuit de stockage
-  de fichiers dans les nuages. Il se clame sécurisé (et en a tout l'air).
-  Apparamment, une application pour Ubuntu (à-la Dropbox).
-  Propose 5 Go.
+  de fichiers dans les nuages. Il se clame sécurisé (et en a tout l'air). Propose 5 Go.
+  Apparamment, une application pour Ubuntu (à-la Dropbox), mais malheureusement basée sur Java.
 
 * `SpiderOak <https://spideroak.com/opendownload/>`_ fait pareil. Propose 2 Go.
-
 
 ---------------------------------------------------------------------
 
@@ -102,7 +95,7 @@ Outils de "communication" à usage unique
   à usage unique (un seul message reçu, en plain text ascii, avec les pièces
   jointes encodées en base64 : un courriel dans sa forme brute quoi).
 
-* `CryptoCat <https://crypto.cat/>`_ propose un système de chat sécurisé (?).
+* `CryptoCat <https://crypto.cat/>`_ propose un système de *chat* sécurisé.
 
 * `PrivNote <https://privnote.com/>`_ permet de créer des notes à
   usage unique, il suffit de transmettre une URL pour transmettre le message.
@@ -111,15 +104,15 @@ Outils de "communication" à usage unique
   Une bonne idée est de chaîner les différents services.
 
 * `ZeroBin <http://sebsauvage.net/paste/>`_ est un pastebin (un presse-papier
-  éléctronique, pour faire des copier-coller) à usage unique, sécurisé par AES 256.
-  Mention spéciale pour le “Kittens will die if you abuse this service” dans la
+  éléctronique, pour faire des copier-coller) à usage unique, sécurisé par ``AES 256``.
+  Mention spéciale pour le *« Kittens will die if you abuse this service »* dans la
   note en haut de page :) !
 
 * `CryptoBin <https://cryptobin.org/>`_ est pareil.
 
-* `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en p2p.
+* `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en ``P2P``.
 
-* `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par AES 256. 
+* `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``.
   Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
 
 ---------------------------------------------------------------------
@@ -134,9 +127,11 @@ Protéger sa vie privée
 * `jHead <http://www.sentex.net/~mwandel/jhead/>`_, est du même genre.
   Consultez `<http://www.sentex.net/~mwandel/jhead/usage.html>`_ pour une documentation.
 
+* `Privly <https://priv.ly/>`_ est un concept bizarre, pour échanger des liens à d'autres utilisateurs qui ont aussi installé l'extension Privly dans leur navigateur.
 
-* `Privly <https://priv.ly/>`_ est un concept bizarre.
-
+* `Tor <https://torproject.org/>`_ pour communiquer de façon sécurisée.
+  Voir par exemple `ce schéma interactif <https://people.torproject.org/~lunar/tor-and-https/fr/tor-and-https.svg>`_
+  pour mieux comprendre l'intérêt de ``HTTPS`` et ou de `Tor`_.
 
 ---------------------------------------------------------------------
 
