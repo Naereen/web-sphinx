@@ -10,7 +10,7 @@
 ---------------
 Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
-**Je suis actuellement en troisième année** et en 2013/2014, 
+**Je suis actuellement en troisième année** et en 2013/2014,
 je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
 
 .. include:: whatsnew.fr.rst
@@ -37,7 +37,7 @@ je prépare le concours national de l'`agrégation de Mathématiques <https://fr
     J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
     comme par exemple du javascript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
     des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
-    ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou 
+    ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
    **Un petit mot sur ce site** :
@@ -70,7 +70,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
        France
 
 #. ou encore tenter de m'envoyer un message sur *Facebook* (mon compte : `lbesson <https://www.facebook.com/naereencorp.lbesson>`_);
-   
+
    .. image:: .courriel.png
       :scale: 120 %
       :align: right
@@ -98,28 +98,28 @@ Mes projets en ligne
 
 Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
-#. via mes dépôts *git* sur mon compte *bitbucket*, 
+#. via mes dépôts *git* sur mon compte *bitbucket*,
    `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
 
-#. ou sur ma page personnelle *Wikipédia*, 
+#. ou sur ma page personnelle *Wikipédia*,
    `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
    (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (peu actif).
 
-#. ou enfin via mon profil *Launchpad*, 
+#. ou enfin via mon profil *Launchpad*,
    `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_ (pas vraiment utilisé);
 
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai effectué un **stage de recherche** pour le 
+J'ai effectué un **stage de recherche** pour le
 troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 J'ai travaillé à l'**UCL** (:under:`University College of London`),
-sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_
-(et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_),
-à propos de logique de séparation, de planification en `AI`, 
+sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (qui me cite ici `sur sa page <http://www.doc.ic.ac.uk/~jvillar1/>`_, voir `là sur google <http://fr.lmgtfy.com/?q=%22lilian+besson%22+site%3Adoc.ic.ac.uk>`_)
+et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
+à propos de logique de séparation, de planification en `AI`,
 et de l'étude de la modularité dans ces deux domaines.
 
 #. Mon rapport (en anglais) : `<rapportM1Info13.pdf>`_,
@@ -133,10 +133,10 @@ et de l'étude de la modularité dans ces deux domaines.
 
 Stage de L3 (*Bachelor of Science*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai fait mon stage de second semestre de L3 de maths, 
-sous la direction de `Florian de Vuyst <http://fdevuyst.jimdo.com/enseignement/>`_, 
-sur la modélisation numérique d'équations différentielles de mécaniques des fluides, 
-les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA`` 
+J'ai fait mon stage de second semestre de L3 de maths,
+sous la direction de `Florian de Vuyst <http://fdevuyst.jimdo.com/enseignement/>`_,
+sur la modélisation numérique d'équations différentielles de mécaniques des fluides,
+les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA``
 pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 
 #. Le rapport de stage peut être téléchargé, ici `rapportL3Maths12.pdf <publis/rapportL3Maths12.pdf>`_ (en français),
@@ -151,7 +151,7 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 --------------------------------------------------------------------
 
 .. sidebar:: Autre langue : en anglais ?
-   
+
    Normalement, `<index.html>`_ pointe vers la page `en français <index.fr.html>`_
    ou `en anglais <index.en.html>`_,  au mieux selon les préférences de votre navigateur.
    Certaines pages ne sont pas encore traduites, mais les plus utiles le sont.
@@ -160,21 +160,21 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
-`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore 
+`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore
 `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
 je travaille *sur mon temps libre*.
 
 StrapDown.js v2 (03/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-Un petit outil pour rapidement produire de jolies pages web, en rédigeant 
+Un petit outil pour rapidement produire de jolies pages web, en rédigeant
 directement en *Markdown*, sans la moindre compilation côté serveur !
 La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.org/md/>`_.
 
 SquirtFR (03/2014)
 ^^^^^^^^^^^^^^^^^^
 Un signapplet (aussi appelé marque-page scripté) pour lire rapidement n'importe quelle page web,
-c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_, 
+c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_,
 avec plus d'informations sur le projet `ici (README.html) <http://lbesson.bitbucket.org/squirt/README.html>`_.
 
 Projet Labyrinthe-Démineur (12/2013)
@@ -194,12 +194,12 @@ J'ai eu **15/20** pour ce projet, mais `n'ai pas participé au projet via Kaggle
 
 ANSI Colors (01~03/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^
-En janvier et mars 2013, j'ai écrit un petit module et script 
+En janvier et mars 2013, j'ai écrit un petit module et script
 pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
 Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
-Sa documentation est hébergée sur 
+Sa documentation est hébergée sur
 `PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_,
-et son code source est hébergé sur 
+et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de **4500 fois** !
 *(Des statistiques partielles, pour le mois de Mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
@@ -210,9 +210,9 @@ Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
 Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
 formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
-Le projet est surtout hebergé sur **BitBucket** 
+Le projet est surtout hebergé sur **BitBucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
-Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**, 
+Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**,
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
 J'ai eu **16.9/20** pour ce projet.
 
@@ -225,7 +225,7 @@ J'ai eu **16.9/20** pour ce projet.
       Certaines des pages de ce site sont aussi disponibles en version **PDF**.
       Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
       latérale, dans la section "Cette page en .txt et en .pdf".
-   
+
       Ces versions **PDF** sont encore expérimentales, notamment car les extensions
       "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
 
@@ -247,7 +247,7 @@ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
    J'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
    `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
    et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
-   
+
     #. `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
     #. `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
@@ -337,7 +337,7 @@ Liens externes
 #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 #. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ ou `<http://besson.or.gs/publis/puzzle/>`_.
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
-   d'afficher n'importe quelle page (par exemple, 
+   d'afficher n'importe quelle page (par exemple,
    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
@@ -360,7 +360,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
 .. toctree::
    :maxdepth: 2
    :titlesonly:
-   
+
    cv.fr
    rss
    publis
