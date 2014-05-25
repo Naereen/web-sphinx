@@ -153,7 +153,55 @@ Sources
 Deux pages (du même auteur) :
 
  #. `post de blog <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ détaillant l'utilisation pour faire des analyses dans un courriel,
- #. `page github <https://github.com/igrigorik/ga-beacon>`_ du projet.
+ #. `page github <https://github.com/igrigorik/ga-beacon>`_ du projet
+
+------------------------------------------------------------------------------
+
+Un bonus ?
+----------
+Il est possible de rendre les choses plus rapides et plus discrètes du côté utilisateur en mettant en place
+une règle Apache (ou NGinx ou autre) pour demander au serveur d'aller chercher l'image, via un proxy invisible.
+
+Ensuite, il faut utiliser `une url de ce genre <beacon/une%20page%20bidon/hé%20oui%20n'importe%20quoi%20marche/par%20Næreen>`_
+"``beacon/une page bidon``"" qui va demander au serveur (où la page courante est affichée) d'aller chercher
+l'image "``https://ga-beacon.appspot.com/UA-38514290-1/une page bidon``".
+
+En pratique, la règle suivante permet de le faire facilement :
+
+.. code-block:: bash
+
+   RewriteEngine On    # Turn on the rewriting engine
+   RewriteRule ^([^0-9].*)$ http://ga-beacon.appspot.com/UA-38514290-1/$1 [L,P]    # Sans clé : "-1" par défaut
+
+
+On peut affiner le procédé, en ajoutant d'abord la redirection `<beacon/>`_ vers `<beacon.html>`_ 
+(qui ensuite pointe vers `<beacon.fr.html>`_ ou `<beacon.en.html>`_) :
+
+.. code-block:: bash
+
+   RewriteRule ^()$ /besson/beacon.html [L]    # Pointer vers la page explicative.
+
+
+Et si on veux permettre l'utilisation du proxy pour d'autres sous-clés Google Analytics
+(chaque clé correspond à des données d'analyse différentes, par exemple une clé par site web),
+on peut ajouter une règle pour rediriger une url de la forme "``beacon/14/ma page bidon comptée comme étant sur lbesson.bitbucket.org !``"
+vers l'image "``https://ga-beacon.appspot.com/UA-38514290-14/ma page bidon comptée comme étant sur lbesson.bitbucket.org !``",
+qui sera donc affichée comme étant une page avec l'url "``ma page bidon comptée comme étant sur lbesson.bitbucket.org !``"
+sur le site correspond à la clé "``UA-38514290-14``", soit `<http://lbesson.bitbucket.org/>`_ !
+
+.. code-block:: bash
+
+   RewriteRule ^([0-9]*)/(.*)$ http://ga-beacon.appspot.com/UA-38514290-$1/$2 [L,P]    # Avec une clé précisée
+
+
+Est-ce bien sécurisé ?
+^^^^^^^^^^^^^^^^^^^^^^
+Il me semble que oui.
+Une première attaque pourrait être pas dépassement de capacité, mais c'est déjà prévu :
+
+ * `cette url très longue <http://perso.crans.org/besson/beacon/Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0cb>`_ est juste trop longue : mon navigateur refuse de l'envoyer (il déclenche une erreur 400 *"Bad request"* et me dit *"Your client has issued a malformed or illegal request."*)
+
+ * `et celle-ci a un caractère de moins <http://perso.crans.org/besson/beacon/Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0c>`_ et le navigateur veut bien l'envoyer.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
