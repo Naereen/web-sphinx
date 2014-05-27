@@ -9,7 +9,7 @@
       <managingEditor>jarvis.spam@laposte.net (Lilian Besson)</managingEditor>
       <webMaster>jarvis.spam@laposte.net (Lilian Besson)</webMaster>
       <category>OCaml,Python,JavaScript,RSS,HTML,CSS,Crans,ENS de Cachan,Maths,Infos,GPG,PGP,GnuPG,GNU Nano,gedit,Firefox,Sphinx,Pokémon,Science,Technology,Magic,Awesome stuff,Agreg,Autostop</category>
-      <generator>Painstakingly written by hand with GNU Nano v2.3.2 on Ubuntu 12.04.4 LTS :)</generator>
+      <generator>Écrit à la main avec GNU Nano v2.3.2-svn et Sublime Text 3 sur (X)Ubuntu 14.04.2 LTS !</generator>
       <ttl>1</ttl>
       <atom:link href="http://perso.crans.org/besson/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -25,11 +25,19 @@
 <!-- Début du flux -->
 
       <item>
+       <title>Résultats d'admissibilité pour l'agrégation externe de mathématiques !</title>
+       <link>http://agreg.org/ResultatsAdm2014.html</link>
+       <description>Tous les cachanais sont admissibles, comme on pouvait l'espérer. Ouf !</description>
+       <guid>http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=CHOIX_ACAD&amp;_concours=EAE&amp;_section=4410&amp;_type=ADMISSIBILITE</guid>
+       <pubDate>Wed, 28 May 2014 00:01:00 +0200</pubDate>
+      </item>
+
+      <item>
        <title>FreeDNS mort ?</title>
        <link>http://perso.crans.org/besson/freedns.html</link>
        <description>besson.qc.to, lbesson.qc.to, agreg.uk.is, lbo.k.vu, jarvis.ftp.sh, besson.k.vu et les autres : ne répondent plus !</description>
        <guid>http://perso.crans.org/besson/i/freedns.html</guid>
-       <pubDate>Sun, 20 Apr 2014 14:03:43 GMT</pubDate>
+       <pubDate>Sun, 20 Apr 2014 14:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -37,7 +45,7 @@
        <link>http://agreg.uk.is/todo.html</link>
        <description>Nouvelle installation de mon linux, presque "terminée".</description>
        <guid>http://agreg.uk.is/todo.pdf</guid>
-       <pubDate>Sat, 19 Apr 2014 19:03:43 GMT</pubDate>
+       <pubDate>Sat, 19 Apr 2014 19:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -45,7 +53,7 @@
        <link>http://lbo.k.vu/bin/</link>
        <description>Ce dépôt contient plein de scripts en Bash, une dizaine en Python, et un ou deux en OCaml.</description>
        <guid>http://besson.qc.to/bin.html</guid>
-       <pubDate>Mon, 7 Apr 2014 19:03:43 GMT</pubDate>
+       <pubDate>Mon, 7 Apr 2014 19:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -53,7 +61,7 @@
        <link>http://lbo.k.vu/squirt</link>
        <description>SquirtFR est un signapplet (marque-page scripté), permettant de lire une page web très vite. Plus de détails sur http://lbo.k.vu/squirt, via bitbucket.</description>
        <guid>http://besson.qc.to/s/squirt</guid>
-       <pubDate>Tue, 1 Apr 2014 19:03:43 GMT</pubDate>
+       <pubDate>Tue, 1 Apr 2014 19:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -61,7 +69,7 @@
        <link>http://lbo.k.vu/md</link>
        <description>StrapDown.js est un outil pour écrire des pages web très rapidement. Plus d'informations sont disponibles directement dans la page de présentation du projet, http://lbo.k.vu/md, via bitbucket.</description>
        <guid>http://besson.qc.to/s/md</guid>
-       <pubDate>Mon, 31 Mar 2014 18:03:43 GMT</pubDate>
+       <pubDate>Mon, 31 Mar 2014 18:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -69,7 +77,7 @@
        <link>http://besson.k.vu/x/cielmonagreg.tumblr.com</link>
        <description>L'agreg, c'est fini. Au moins, pour les écrits !</description>
        <guid>http://besson.qc.to/beacon.en</guid>
-       <pubDate>Thu, 13 Mar 2014 18:03:43 GMT</pubDate>
+       <pubDate>Thu, 13 Mar 2014 18:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -77,7 +85,7 @@
        <link>http://besson.qc.to/x/cielmonagreg.tumblr.com</link>
        <description>L'agreg, c'est demain. Fini les révisions, les écrits sont cette semaine !</description>
        <guid>http://besson.qc.to/vieprivee</guid>
-       <pubDate>Mon, 10 Mar 2014 08:03:43 GMT</pubDate>
+       <pubDate>Mon, 10 Mar 2014 08:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -85,7 +93,7 @@
        <link>http://besson.qc.to/alaskabombeh</link>
        <description>Un petit article, rédigé pour La Sauce du mois de février.</description>
        <guid>http://besson.or.gs/alaskabombeh</guid>
-       <pubDate>Mon, 03 Mar 2014 21:03:43 GMT</pubDate>
+       <pubDate>Mon, 03 Mar 2014 21:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -93,7 +101,7 @@
        <link>http://cielmonagreg.tumblr.com/</link>
        <description>L'agreg, c'est demain. Enfin, presque.</description>
        <guid>http://jarvis.k.vu/a/a/agrint/</guid>
-       <pubDate>Thu, 20 Feb 2014 21:03:43 GMT</pubDate>
+       <pubDate>Thu, 20 Feb 2014 21:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -101,7 +109,7 @@
        <link>https://bitbucket.org/lbesson/linux-dash/</link>
        <description>Le dév en parle (ici https://github.com/afaqurk/linux-dash/issues/147) et semble enthousiaste. Plus de détails sur le projet initial https://github.com/afaqurk/linux-dash.</description>
        <guid>http://jarvis.k.vu/dash/</guid>
-       <pubDate>Fri, 14 Feb 2014 17:03:43 GMT</pubDate>
+       <pubDate>Fri, 14 Feb 2014 17:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -109,7 +117,7 @@
        <link>http://besson.qc.to/publis/latex/</link>
        <description>autotex,chktex,pdflatex: scripts. naereen*.sty: styles. template.tex: modèle utilisé par autotex.</description>
        <guid>http://jarvis.k.vu/publis/latex/</guid>
-       <pubDate>Sat, 01 Feb 2014 11:03:43 GMT</pubDate>
+       <pubDate>Sat, 01 Feb 2014 11:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -119,7 +127,7 @@
        	Et, avez-vous testé la nouvelle fonctionnalité ajoutée à mon site ?
         Il est désormais possible de changer la couleur du thème, en appuyant sur 's' puis en choisissant un des trois thèmes !</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx/src/master/.static/green.css</guid>
-       <pubDate>Fri, 31 Jan 2014 15:03:43 GMT</pubDate>
+       <pubDate>Fri, 31 Jan 2014 15:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -127,7 +135,7 @@
        <link>http://besson.qc.to/_static/</link>
        <description>J'espère que ça ne va rien casser.</description>
        <guid>http://besson.qc.to/bin/CP</guid>
-       <pubDate>Sat, 25 Jan 2014 10:03:43 GMT</pubDate>
+       <pubDate>Sat, 25 Jan 2014 10:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -135,7 +143,7 @@
        <link>http://besson.qc.to/bin/CP</link>
        <description>Un petit script pour colorer la sortie du très pratique rsync (utilitaire en ligne de commande pour copier des fichiers, localement et via le réseau)</description>
        <guid>http://besson.or.gs/bin/CP</guid>
-       <pubDate>Tue, 21 Jan 2014 10:03:43 GMT</pubDate>
+       <pubDate>Tue, 21 Jan 2014 10:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -143,7 +151,7 @@
        <link>http://besson.qc.to/iteri.html</link>
        <description>Un court article à propos des fonctions List.iteri et Array.iteri en OCaml</description>
        <guid>http://besson.or.gs/iteri.html</guid>
-       <pubDate>Sun, 12 Jan 2014 18:03:43 GMT</pubDate>
+       <pubDate>Sun, 12 Jan 2014 18:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -151,7 +159,7 @@
        <link>https://en.wiktionary.org/wiki/Merry_Christmas</link>
        <description>Enjoy !</description>
        <guid>http://besson.or.gs/projet.7z</guid>
-       <pubDate>Tue, 24 Dec 2013 18:03:43 GMT</pubDate>
+       <pubDate>Tue, 24 Dec 2013 18:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -166,7 +174,7 @@ Que répondre à ça ;) ?
 (¹: j'espère)
        </description>
        <guid>http://besson.qc.to/voyage/</guid>
-       <pubDate>Thu, 19 Dec 2013 18:03:43 GMT</pubDate>
+       <pubDate>Thu, 19 Dec 2013 18:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -174,7 +182,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/agreg/modelisation/projet/rapport.html</link>
        <description>Tellement cohérent de nous faire faire ça cette année...</description>
        <guid>http://besson.qc.to/projet.tar.gz</guid>
-       <pubDate>Tue, 17 Dec 2013 10:03:43 GMT</pubDate>
+       <pubDate>Tue, 17 Dec 2013 10:03:43 +0200</pubDate>
       </item>
 
       <item>
@@ -182,7 +190,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/agreg/modelisation/projet/</link>
        <description>Tellement cohérent de nous faire faire ça cette année...</description>
        <guid>http://besson.qc.to/projet.7z</guid>
-       <pubDate>Thu, 12 Dec 2013 01:20:43 GMT</pubDate>
+       <pubDate>Thu, 12 Dec 2013 01:20:43 +0200</pubDate>
       </item>
 
       <item>
@@ -190,7 +198,7 @@ Que répondre à ça ;) ?
        <link>http://perso.crans.org/besson/publis/Zenity/</link>
        <description>Utiliser Zenity avec OCaml de façon typée.</description>
        <guid>http://besson.or.gs/publis/Zenity</guid>
-       <pubDate>Tue, 03 Dec 2013 20:48:43 GMT</pubDate>
+       <pubDate>Tue, 03 Dec 2013 20:48:43 +0200</pubDate>
       </item>
 
       <item>
@@ -198,7 +206,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/generateglisse.sh/</link>
        <description>generateglisse.sh: un script pour automatiquement généré (côté serveur) une gallerie photo pour le web (côté client).</description>
        <guid>http://besson.qc.to/bin/generateglisse.sh/</guid>
-       <pubDate>Sun, 01 Dec 2013 22:48:43 GMT</pubDate>
+       <pubDate>Sun, 01 Dec 2013 22:48:43 +0200</pubDate>
       </item>
 
       <item>
@@ -206,7 +214,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/generatejplayer.sh/</link>
        <description>generatejplayer.sh: un script pour automatiquement généré (côté serveur) un lecteur de musique (organisée par dossiers) pour le web (côté client).</description>
        <guid>http://besson.qc.to/bin/generatejplayer.sh/</guid>
-       <pubDate>Sun, 01 Dec 2013 20:48:43 GMT</pubDate>
+       <pubDate>Sun, 01 Dec 2013 20:48:43 +0200</pubDate>
       </item>
 
       <item>
@@ -214,7 +222,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/sparkline.html</link>
        <description>sparkline.html : une démo de JQuery.SparkLine, un plugin JQuery pour faire de minis graphiques dans une page web.</description>
        <guid>http://besson.qc.to/i/sparkline.html</guid>
-       <pubDate>Mon, 18 Nov 2013 20:48:43 GMT</pubDate>
+       <pubDate>Mon, 18 Nov 2013 20:48:43 +0200</pubDate>
       </item>
 
       <item>
@@ -222,7 +230,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/embed.html</link>
        <description>Du stop, du stop et du stop ! Près de 700km (à vue d'oeil, calcul complet pas encore fait !) ?</description>
        <guid>http://besson.qc.to/i/embed.html</guid>
-       <pubDate>Wed, 30 Oct 2013 16:04:43 GMT</pubDate>
+       <pubDate>Wed, 30 Oct 2013 16:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -230,7 +238,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/i/rss.html</link>
        <description>Du stop, du stop et du stop ! On tente le Paris → Briançon en 2 jours ?</description>
        <guid>http://besson.qc.to/i/rss.html</guid>
-       <pubDate>Fri, 25 Oct 2013 16:04:43 GMT</pubDate>
+       <pubDate>Fri, 25 Oct 2013 16:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -238,7 +246,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/bin/PDFCompress.bash_completion</link>
        <description>!</description>
        <guid>http://besson.qc.to/bin/PDFCompress.bash_completion</guid>
-       <pubDate>Wed, 16 Oct 2013 21:04:43 GMT</pubDate>
+       <pubDate>Wed, 16 Oct 2013 21:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -246,7 +254,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/bin/.bashrc</link>
        <description>http://perso.crans.org/besson est plus cassé (mais désormais redirige vers http://besson.qc.to)!</description>
        <guid>http://besson.or.gs/bin/.bash_aliases</guid>
-       <pubDate>Wed, 16 Oct 2013 00:04:43 GMT</pubDate>
+       <pubDate>Wed, 16 Oct 2013 00:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -254,7 +262,7 @@ Que répondre à ça ;) ?
        <link>http://lbesson.bitbucket.org?p=top</link>
        <description>perso.crans.org/besson est toujours cassé...</description>
        <guid>http://lbesson.bitbucket.org?p=right/</guid>
-       <pubDate>Sat, 28 Sep 2013 12:04:43 GMT</pubDate>
+       <pubDate>Sat, 28 Sep 2013 12:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -262,7 +270,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/python.html</link>
        <description>perso.crans.org/besson est cassé :( en ce moment !</description>
        <guid>http://git.besson.qc.to/web-sphinx-scripts/</guid>
-       <pubDate>Sat, 21 Sep 2013 19:04:43 GMT</pubDate>
+       <pubDate>Sat, 21 Sep 2013 19:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -270,7 +278,7 @@ Que répondre à ça ;) ?
        <link>http://besson.or.gs/</link>
        <description>Waypoint et Waypoint sticky, TimeAgo, etc</description>
        <guid>http://besson.qc.to/js.html</guid>
-       <pubDate>Wed, 18 Sep 2013 14:04:43 GMT</pubDate>
+       <pubDate>Wed, 18 Sep 2013 14:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -278,7 +286,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/publis.html</link>
        <description>Premier problème de 6h : c'est long :(</description>
        <guid>http://besson.qc.to/rss.html?src=13-09-2013</guid>
-       <pubDate>Fri, 13 Sep 2013 19:04:43 GMT</pubDate>
+       <pubDate>Fri, 13 Sep 2013 19:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -286,7 +294,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/agreg/</link>
        <description>La rentrée, c'est maintenant ! Début de la prépa agreg, premiers TDs, premiers cours :)</description>
        <guid>http://perso.crans.org/besson/agreg/</guid>
-       <pubDate>Fri, 06 Sep 2013 17:04:43 GMT</pubDate>
+       <pubDate>Fri, 06 Sep 2013 17:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -294,7 +302,7 @@ Que répondre à ça ;) ?
        <link>https://www.xkcd.com/</link>
        <description>Super séjour, 15 jours: rando, via ferrata, concerts, amis et famille. Bref, super vacances !</description>
        <guid>http://jarvis.crans.org/index.html</guid>
-       <pubDate>Mon, 26 Aug 2013 22:04:43 GMT</pubDate>
+       <pubDate>Mon, 26 Aug 2013 22:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -302,7 +310,7 @@ Que répondre à ça ;) ?
        <link>http://agreg.cmla.ens-cachan.fr/</link>
        <description>"La rigolade, c'est terminé." -- Léodagan, Kaamelott Livre V</description>
        <guid>http://jarvis.crans.org</guid>
-       <pubDate>Sat, 31 Aug 2013 23:04:43 GMT</pubDate>
+       <pubDate>Sat, 31 Aug 2013 23:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -310,7 +318,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/stageM1/slides/</link>
        <description>Rapports et slides presque "parfaits" ! TODO:Conclure slides réduits pour les maths...</description>
        <guid>http://lbesson.bitbucket.org/</guid>
-       <pubDate>Fri, 09 Aug 2013 08:04:43 GMT</pubDate>
+       <pubDate>Fri, 09 Aug 2013 08:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -318,7 +326,7 @@ Que répondre à ça ;) ?
        <link>http://dotcore.tumblr.com</link>
        <description>Rapports et slides en cours de conclusion. Soutenance faite sur place. Bientôt les vacances ! Stop stop j'ai hâte !</description>
        <guid>http://besson.qc.to/cv.en.html</guid>
-       <pubDate>Wed, 07 Aug 2013 22:04:43 GMT</pubDate>
+       <pubDate>Wed, 07 Aug 2013 22:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -326,7 +334,7 @@ Que répondre à ça ;) ?
        <link>http://besson.qc.to/stageM1/</link>
        <description>Rapports en cours de conclusion, slides bien avancés !</description>
        <guid>http://lbesson.bitbucket.org/index.html</guid>
-       <pubDate>Sun, 04 Aug 2013 11:04:43 GMT</pubDate>
+       <pubDate>Sun, 04 Aug 2013 11:04:43 +0200</pubDate>
       </item>
 
       <item>
@@ -334,7 +342,7 @@ Que répondre à ça ;) ?
        <link>http://cv.besson.qc.to</link>
        <description>4 ans que j'ai mon bac, souvenirs souvenirs... Bref, bien joué Guillaume!</description>
        <guid>http://bitbucket.org/lbesson/cv</guid>
-       <pubDate>Fri, 05 Jul 2013 17:49:43 GMT</pubDate>
+       <pubDate>Fri, 05 Jul 2013 17:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -342,7 +350,7 @@ Que répondre à ça ;) ?
        <link>http://lbesson.bitbucket.org</link>
        <description>Marche bien, mais le serveur est pas Apache, donc pas drôle!</description>
        <guid>http://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
-       <pubDate>Wed, 03 Jul 2013 17:49:43 GMT</pubDate>
+       <pubDate>Wed, 03 Jul 2013 17:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -350,7 +358,7 @@ Que répondre à ça ;) ?
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Done</description>
        <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
-       <pubDate>Wed, 26 Jun 2013 12:49:43 GMT</pubDate>
+       <pubDate>Wed, 26 Jun 2013 12:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -358,7 +366,7 @@ Que répondre à ça ;) ?
        <link>http://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Pour + de sécurité!</description>
        <guid>http://bitbucket.org/lbesson/web-sphinx-scripts/rss</guid>
-       <pubDate>Mon, 24 Jun 2013 16:49:43 GMT</pubDate>
+       <pubDate>Mon, 24 Jun 2013 16:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -366,7 +374,7 @@ Que répondre à ça ;) ?
        <link>http://perso.crans.org/besson/cv.html</link>
        <description>Pour suivre les modifications du CV en PDF.</description>
        <guid>http://bitbucket.org/lbesson/cv/</guid>
-       <pubDate>Mon, 24 Jun 2013 10:49:43 GMT</pubDate>
+       <pubDate>Mon, 24 Jun 2013 10:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -374,7 +382,7 @@ Que répondre à ça ;) ?
        <link>http://sphinx-doc.org/theming.html#builtin-themes</link>
        <description>À partir du thème basic, changement de couleurs !</description>
        <guid>http://besson.qc.to/</guid>
-       <pubDate>Wed, 19 Jun 2013 22:49:43 GMT</pubDate>
+       <pubDate>Wed, 19 Jun 2013 22:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -382,7 +390,7 @@ Que répondre à ça ;) ?
        <link>https://bitbucket.org/birkenfeld/sphinx/overview</link>
        <description>Version Beta.</description>
        <guid>http://lbesson.qc.to/?src=18-06-2013</guid>
-       <pubDate>Tue, 18 Jun 2013 05:49:43 GMT</pubDate>
+       <pubDate>Tue, 18 Jun 2013 05:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -390,7 +398,7 @@ Que répondre à ça ;) ?
        <link>http://veekun.com</link>
        <description>Py-Pokemon avance, en utilisant le (colossal) travail réalisé par Eevee (Veekun)!</description>
        <guid>https://bitbucket.org/lbesson/py-pokemon/</guid>
-       <pubDate>Wed, 12 Jun 2013 05:49:43 GMT</pubDate>
+       <pubDate>Wed, 12 Jun 2013 05:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -398,7 +406,7 @@ Que répondre à ça ;) ?
        <link>https://bitbucket.org/lbesson/projet-kaggle/rss</link>
        <description>index.html donne index_fr.html ou index_en.html selon la langue de l'utilisateur !</description>
        <guid>http://naereen.qc.to/</guid>
-       <pubDate>Wed, 22 May 2013 01:49:43 GMT</pubDate>
+       <pubDate>Wed, 22 May 2013 01:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -406,7 +414,7 @@ Que répondre à ça ;) ?
        <link>https://bitbucket.org/lbesson/projet-kaggle</link>
        <description>Projet Kaggle en ML</description>
        <guid>http://perso.crans.org/besson/publis/kaggle/.build/html/</guid>
-       <pubDate>Thu, 25 Apr 2013 05:49:43 GMT</pubDate>
+       <pubDate>Thu, 25 Apr 2013 05:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -414,7 +422,7 @@ Que répondre à ça ;) ?
        <link>http://freedns.afraid.org/subdomain/</link>
        <description>FreeDNS est un service web, gratuit (et libre) !</description>
        <guid>http://besson.qc.to/freedns.html</guid>
-       <pubDate>Thu, 18 Apr 2013 00:49:43 GMT</pubDate>
+       <pubDate>Thu, 18 Apr 2013 00:49:43 +0200</pubDate>
       </item>
       
       <item>
@@ -422,7 +430,7 @@ Que répondre à ça ;) ?
        <link>http://www.facebook.com/media/set/?set=a.10200724512734030.1073741825.1198154202</link>
        <description>VLC 2.0+ télécharge seul des couvertures de CD et images représentatives de la chanson écoutée. Et ça marche du tonnerre !</description>
        <guid>http://perso.crans.org/besson/dl/</guid>
-       <pubDate>Wed, 17 Apr 2013 01:49:43 GMT</pubDate>
+       <pubDate>Wed, 17 Apr 2013 01:49:43 +0200</pubDate>
       </item>
       
       <item>
@@ -430,7 +438,7 @@ Que répondre à ça ;) ?
        <link>http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf</link>
        <description>Traduction de mon fichier rest.nanorc pour Jota Text Editor</description>
        <guid>http://code.google.com/p/jota-text-editor/source/browse/trunk/assets/keyword/rst.reST.rest.conf</guid>
-       <pubDate>Sat, 06 Apr 2013 19:49:43 GMT</pubDate>
+       <pubDate>Sat, 06 Apr 2013 19:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -438,7 +446,7 @@ Que répondre à ça ;) ?
        <link>http://fr.wikipedia.org/wiki/Luxembourg</link>
        <description>Weekend surprise, le retour.</description>
        <guid>http://fr.wikipedia.org/wiki/Luxembourg</guid>
-       <pubDate>Sat, 06 Apr 2013 18:49:43 GMT</pubDate>
+       <pubDate>Sat, 06 Apr 2013 18:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -446,7 +454,7 @@ Que répondre à ça ;) ?
        <link>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</link>
        <description>Weekend surprise !</description>
        <guid>http://www.lsv.ens-cachan.fr/~comon/Logique1b/</guid>
-       <pubDate>Fri, 05 Apr 2013 13:09:43 GMT</pubDate>
+       <pubDate>Fri, 05 Apr 2013 13:09:43 +0200</pubDate>
       </item>
 
       <item>
@@ -454,7 +462,7 @@ Que répondre à ça ;) ?
        <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide (2)</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx/issues</guid>
-       <pubDate>Thu, 04 Apr 2013 10:49:43 GMT</pubDate>
+       <pubDate>Thu, 04 Apr 2013 10:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -462,7 +470,7 @@ Que répondre à ça ;) ?
        <link>http://feed1.w3.org/check.cgi?url=http%3A//perso.crans.org/besson/rss.xml</link>
        <description>Flux valide</description>
        <guid>https://bitbucket.org/lbesson/web-sphinx-scripts</guid>
-       <pubDate>Mon, 01 Apr 2013 10:49:43 GMT</pubDate>
+       <pubDate>Mon, 01 Apr 2013 10:49:43 +0200</pubDate>
       </item>
 
       <item>
@@ -470,7 +478,7 @@ Que répondre à ça ;) ?
        <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
        <guid>http://perso.crans.org/besson/rss.html</guid>
-       <pubDate>Mon, 01 Apr 2013 10:03:43 GMT</pubDate>
+       <pubDate>Mon, 01 Apr 2013 10:03:43 +0200</pubDate>
       </item>
       
       <item>
@@ -478,7 +486,7 @@ Que répondre à ça ;) ?
        <link>http://facebook.com/naereencorp.lbesson</link>
        <description>Un lien vers ma page Facebook</description>
        <guid>http://besson.qc.to/rss.xml</guid>
-       <pubDate>Mon, 01 Apr 2013 09:49:43 GMT</pubDate>
+       <pubDate>Mon, 01 Apr 2013 09:49:43 +0200</pubDate>
       </item>
       
   </channel>
