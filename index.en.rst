@@ -9,8 +9,10 @@
 Who am I?
 ---------
 I am **Lilian Besson**, a **French** student at ENS de Cachan, a *French* University, near Paris.
-In 2013/2014, I am preparing the French `agregation of Mathematics <http://agreg.org/>`_ exam 
+In 2013/2014, I am preparing the French `agregation of Mathematics <http://agreg.org/>`_ exam
 (major in Maths, minor in Computer Science).
+Everyone who is preparing it at ENS Cachan, is *"admissible"*, and `so do I <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_.
+We are working for the oral exams, which are in about a month.
 
 .. include:: whatsnew.en.rst
 
@@ -19,14 +21,14 @@ A few words about me
 I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
 I also like using new technologies, and enjoy design tiny pieces of software or web content
 for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
-or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).  
+or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
 
 A few words about this site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I am working on this little website (currently, `<http://besson.qc.to/>`_)
 when I have the time, hoping it can be useful to someone (at least me, but who knows...).
 :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
-    
+
 `What means Open Source, explained with LEGO <https://youtu.be/a8fHgx9mE5U>`_.
 
 This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
@@ -40,7 +42,7 @@ in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
 and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
 
 .. warning::
-   
+
    Those web pages **are still in construction** !
    In particular, the English versions of each pages are *not* yet available.
    But, I'm working on it !
@@ -49,7 +51,7 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
 .. sidebar:: Other language : in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
-   `en français <index.fr.html>`_ :red:`?`   
+   `en français <index.fr.html>`_ :red:`?`
    Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
    or `<index.en.html>`_, according to the preference of your browser.
 
@@ -57,7 +59,7 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
 Contact addresses
 ^^^^^^^^^^^^^^^^^
 Feel free to *contact* me :
- 
+
   #. by mail (`→ OpenStreetMap direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
 
         Mr Lilian Besson,
@@ -66,7 +68,7 @@ Feel free to *contact* me :
         41, avenue du Président Wilson,
         94230 - Cachan,
         France
- 
+
   #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
 
      .. image:: .courriel.png
@@ -89,8 +91,8 @@ My projects on-line
 ^^^^^^^^^^^^^^^^^^^
 .. sidebar:: Résumé
 
-   My *résumé* is available here `<cv.pdf>`_. 
-   It is realised with ``LaTeX``, and the package *moderncv*. 
+   My *résumé* is available here `<cv.pdf>`_.
+   It is realised with ``LaTeX``, and the package *moderncv*.
 
 
 Feel free to *contact* me :
@@ -109,7 +111,7 @@ I did an internship for the third semester of my Maths MSc and CS MSc from 03 Ju
 
 I worked at **UCL** (:under:`University College of London`),
 under the direction of *Jules Villard* (and *Peter O'Hearn*),
-about separation logic, planning in `AI`, 
+about separation logic, planning in `AI`,
 and the study of modularity in those two domains.
 
 My report (in English): `<rapportM1Info13.pdf>`_,
@@ -127,7 +129,7 @@ Pages in English
 .. toctree::
    :maxdepth: 2
    :titlesonly:
-   
+
    cv.en
    transifex.en
    trademarks

@@ -32,8 +32,8 @@ Adresse de contact
        France
 
 
-.. Candidature
-.. -----------
+.. Actuellement
+.. ------------
 ..  * :Du 1 Février 2015 au 31 Août 2015: stage de recherche de fin de Master 2. En *Informatique* ou en *Mathématiques*;
 ..  * :Lieux préférés: USA, RU, Canada, Suède, Norvège, Finlande, Danemark;
 ..  * :Domaine de recherche: programmation, équations différentielles, algèbres tropicales, calcul parallèle, GPU, cryptographie, sémantique et compilation.

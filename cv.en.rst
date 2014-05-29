@@ -13,7 +13,7 @@
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
    `en français <cv.fr.html>`_ :red:`?`
-   
+
    I'm trying to keep those two files absolutly equivalent.
    A pretty **PDF** version is also available `cv.en.pdf <cv.en.pdf>`_ !
 
@@ -24,7 +24,7 @@ Contact address
  * :Last name: **Lilian**
  * :Email: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (remove the brackets)
  * Postal address ::
-    
+
        Mr Lilian Besson,
        ENS Cachan,
        Dept. de Mathématiques,
@@ -33,7 +33,7 @@ Contact address
        France
 
 
-.. Application
+.. Currently
 .. -----------
 ..  * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
 ..  * :Prefered locations: USA, UK, Canada, Sweden, Norway, Finland, Danmark;
@@ -108,7 +108,7 @@ Miscellaneous
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Complex analysis, functional analysis and numerical optimization, exterior calculus, *Partial Differential Equations* approximation.
    - :Mark: 14.4/20, *magna cum laude*.
- 
+
  * **Computer Science** MSc (*Sept. 2012 to August 2013*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
@@ -141,13 +141,13 @@ MSc internship and thesis
      - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
      - :Domains: Functional analysis, integration, algebras, arithmetic, partial and ordinary differential equations, topology, differential geometry;
      - :Mark: 14.27/20, *magna cum laude*.
- 
+
  * **Computer Science** BSc (*Sept. 2011 to July 2012*)
 
    - :Universities: ÉNS de Cachan & Paris Diderot University (Paris VII);
    - :Domains: Logic, semantics, cryptography, algorithmic, graph theory, lambda calculus, compilation, parallel computation, formal calculus;
    - :Mark: 14.7/20, *magna cum laude*.
- 
+
  * **TOEIC** (*English test*) got with the mark **900/990**.
 
 
@@ -155,21 +155,21 @@ BSc internship and thesis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
  * :Title: *"Finite volumes method on nVidia graphic cards, applied to solve the compressible Euler problem"*;
  * :Supervisor: `Pr. Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_;
- * :Description: 
-    Math internship at `CMLA <http://www.cmla.ens-cachan.fr/>`_ (*Centre des mathématiques et de leurs applications*, 
-    ÉNS de Cachan math lab research), 
+ * :Description:
+    Math internship at `CMLA <http://www.cmla.ens-cachan.fr/>`_ (*Centre des mathématiques et de leurs applications*,
+    ÉNS de Cachan math lab research),
     5 months (February 2012 to July 2012).
  * :Abstract:
     General study of numerical solvers for differential equations and partial differential equations.
     Liner solver, first and second order, 1 2 and 3 D, with the *VFFC* method.
-    Numerical simulation, 
-    sequential using :C: and `VTK <http://www.vtk.org>`_, 
+    Numerical simulation,
+    sequential using :C: and `VTK <http://www.vtk.org>`_,
     and parallel using `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_.
     Interactive 2D simulation with *openGL*.
  * :Published:
     On my web page, the `bachelor thesis, in French <publis/rapportL3Maths12.pdf>`_.
-    Also published on the **IPOL journal** (`Image Processing on Line 
-    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
+    Also published on the **IPOL journal** (`Image Processing on Line
+    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_),
     August 2012.
 
 **2010-2011** : second-year BSc & *Classe Préparatoire*
@@ -223,7 +223,7 @@ BSc internship and thesis
 Other diplomas
 --------------
  * **Driving license**, got in Briançon (*February 2012*).
- 
+
  * **High-school certificate** (French *Baccalaureat*) (*June 2009*)
 
    - :University: Lycée d'Altitude (*Briançon*);
@@ -237,20 +237,20 @@ Other research experience
 MSc programming projects (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * **MPRI Bomberman** : a multiplayer Bomberman game with formal semantics and a open protocole (MPRI lecture 1-21.).
-   On-line `here on BitBucket lbesson/mpri-bomberman 
+   On-line `here on BitBucket lbesson/mpri-bomberman
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
-   
- * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal. 
+
+ * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal.
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
    (about 4500 download by now, see here `download stats for May 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
-   Or also `here on BitBucket lbesson/ansi-colors 
+   Or also `here on BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
-   
+
  * French translation of the website `bitbucket.org <https://bitbucket.org>`_ (March 2013),
    with `Transifex <https://www.transifex.com/accounts/profile/Naereen>`_.
-   
+
  * Kaggle Titanic ML project, `here lbesson/projet-kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_
    or `publis/kaggle <publis/kaggle/.build/html>`_.
 
@@ -262,7 +262,7 @@ BSc programming projects (2011-2012)
  * For **Android** apps :
 
    - Syntactical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
-   - Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android 
+   - Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android
      <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ app,
      a non-official project for the **OCaml** language,
      approved by the French institute in charge of the project (*INRIA*).
