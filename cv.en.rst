@@ -224,7 +224,8 @@ Other diplomas
 --------------
  * **Driving license**, got in Briançon (*February 2012*).
 
- * **High-school certificate** (French *Baccalaureat*) (*June 2009*)
+ * **High-school certificate** (French *Baccalaureat*) (*June 2009*) (`as precised here on bankexam.fr <http://www.bankexam.fr/resultat/2009/BACCALAUREAT/AIX_MARSEILLE?q=Besson+Lilian&filiere=BACS>`_)
+
 
    - :University: Lycée d'Altitude (*Briançon*);
    - :Mark: **15.7/20**, *magna cum laude*;

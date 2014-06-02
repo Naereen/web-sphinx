@@ -221,7 +221,7 @@ Autres diplômes
 ---------------
  * **Permis de conduire**, obtenu à Briançon (*Février 2012*).
  
- * **Baccalauréat** (*Juin 2009*)
+ * **Baccalauréat** (*Juin 2009*) (`voir ici sur bankexam.fr <http://www.bankexam.fr/resultat/2009/BACCALAUREAT/AIX_MARSEILLE?q=Besson+Lilian&filiere=BACS>`_)
 
    - :Lycée: Lycée d'Altitude (*Briançon*);
    - :Note: **15.7/20**, *magna cum laude*;
