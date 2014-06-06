@@ -95,6 +95,9 @@ Outils de "communication" à usage unique
   à usage unique (un seul message reçu, en plain text ascii, avec les pièces
   jointes encodées en base64 : un courriel dans sa forme brute quoi).
 
+* `10minutemail.com <http://10minutemail.com/10MinuteMail/index.html>`_ propose aussi une adresse email
+  qui s'auto-détruit 10 minutes plus tard, mais sans possibilité de lecture.
+
 * `CryptoCat <https://crypto.cat/>`_ propose un système de *chat* sécurisé.
 
 * `PrivNote <https://privnote.com/>`_ permet de créer des notes à
