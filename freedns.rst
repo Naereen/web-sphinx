@@ -57,15 +57,16 @@ Liste des autres sous-domaines que j'utilise
     vers http://www.dptinfo.ens-cachan.fr/~lbesson 
     (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
 
- * `naereen.uk.is <http://naereen.uk.is>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson (aussi);
+ * `agreg.uk.is <http://agreg.uk.is>`_
+    vers http://perso.crans.org/besson/agreg/ (ressources privées pour la prépa agreg' 2014 à Cachan);
 
 dot.tk
 ------
 Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:`cloak`) :
 
  * `naereen.tk <http://naereen.tk>`_ miroir pour ce site;
- * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_).
+ * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_);
+ * `naereenblog.tk <http://naereenblog.tk>`_ miroir pour `mon blog <https://naereen.wordpress.com>`_.
 
 ------------------------------------------------------------------------------
 
