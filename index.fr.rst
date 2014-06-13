@@ -8,12 +8,12 @@
 .. include:: .special.rst
 À propos de moi
 ---------------
-Bonjour, je suis **Lilian Besson**, étudiant en *maths* et en *info* à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 **Je suis actuellement en troisième année** et en 2013/2014,
 je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
 Comme tous mes camarades qui la prépare à l'ENS Cachan, `je suis admissible <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_ (`ou là <http://lmgtfy.com/?q=%22besson+lilian+jean%22+site%3Aeducation.fr>`_).
-Nous passons les oraux dans quelques semaines.
+Nous passons les oraux dans quelques semaines !
 
 .. include:: whatsnew.fr.rst
 
@@ -47,9 +47,7 @@ Nous passons les oraux dans quelques semaines.
     Je développe ce petit site (actuellement `<http://besson.qc.to>`_)
     sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
-
     `Qu'est-ce que l'Open Source, expliqué en Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
-
     Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
     sont effectivement visités quotidiennement par des gens du monde entier : j'espère ne pas décevoir ces visiteurs !
     (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_
@@ -60,7 +58,7 @@ Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
 Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
-#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'annuaire de l'ENS);
+#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'`annuaire de l'ENS <www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_);
 
 #. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
@@ -204,7 +202,7 @@ Sa documentation est hébergée sur
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de **4500 fois** !
-*(Des statistiques partielles, pour le mois de Mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+*(Des statistiques partielles, pour le mois de mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ *.)*
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
@@ -271,7 +269,7 @@ j'ai traduit en français le petit projet `linux-dash <https://bitbucket.org/lbe
 Wolfram|Alpha
 ^^^^^^^^^^^^^
 La page `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
-de commande, à `Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
+de commande, à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
 Galerie photos et musiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

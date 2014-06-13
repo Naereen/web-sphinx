@@ -46,14 +46,11 @@ to bring such bombs as close to the USSR : the Chariot project was abandoned in 
 
 **And, that's why they did not redraw the Alaska with an atomic bomb.**
 
-
-.. warning:: Translation still in progress !
-
 ------------------------------------------------------------------------------
 
 .. container:: smallpar
 
-   :Source: `cet article du Monde <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_
+   :Reference: `this article on « Le Monde » <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_.
    
    .. [#teller] `Edward Teller <https://en.wikipedia.org/wiki/Edward_Teller>`_, considered as one of the father of the american atomic bomb, and director of the *LRL* from 1958 to 1960.
    .. [#inupiak] L'*inupiak*, ou *iñupiak*  is a group of dialects of the Inuit language, spoken by the Inupiat people in northern and northwestern Alaska. This information is from `<https://en.wikipedia.org/wiki/Inupiak>`_.

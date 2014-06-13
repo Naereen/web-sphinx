@@ -43,7 +43,7 @@ d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abando
 
 .. container:: smallpar
 
-   :Source: `cet article du Monde <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_
+   :Source: `cet article du Monde <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_.
    
    .. [#teller] Dont `Edward Teller <https://fr.wikipedia.org/wiki/Edward_Teller>`_, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
    .. [#inupiak] L'*inupiak*, ou *iñupiak* est une langue iniut, utilisée dans le grand nord de l'Alaska. Plus de détails ici `<https://fr.wikipedia.org/wiki/Inupiak>`_ par exemple.
