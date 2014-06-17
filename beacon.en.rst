@@ -49,7 +49,7 @@ loading asynchronously the ``ga.js`` script. Awesome!
 
 A pretty nice idea
 ------------------
-That `blog post`_ explain how to use **one** image, 
+That `blog post`_ explains how to use **one** image, 
 or even a single pixel to emulate a communication with Google Analytics.
 
 This tutorial explain how to add Google Analytics spying capacity
