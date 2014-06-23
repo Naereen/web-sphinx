@@ -8,11 +8,12 @@
 .. include:: .special.rst
 Who am I?
 ---------
-I am **Lilian Besson**, a `**French** student at ENS de Cachan <http://www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
-In 2013/2014, I am preparing the French `agregation of Mathematics <http://agreg.org/>`_ exam
-(major in Maths, minor in Computer Science).
-Everyone who is preparing it at ENS Cachan, is *"admissible"*, and `so do I <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_.
-We are working for the oral exams, which are in about a month.
+I am **Lilian Besson**, a young `student at ENS de Cachan <http://www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
+In 2013/2014, I am preparing the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
+(national competitive exam for teacher recrutment, with a major in Maths and a minor in Computer Science).
+Everyone who is preparing it at ENS Cachan, has been declared *"admissible"*, 
+and `so do I <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_.
+We are working for the oral exams, which are in about two weeks.
 
 .. include:: whatsnew.en.rst
 
@@ -28,9 +29,7 @@ A few words about this site
 I am working on this little website (currently, `<http://besson.qc.to/>`_)
 when I have the time, hoping it can be useful to someone (at least me, but who knows...).
 :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
-
 `What means Open Source, explained with LEGO <https://youtu.be/a8fHgx9mE5U>`_.
-
 This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
 so if you are here for something in particular, I hope you will not be disapointed
 (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
