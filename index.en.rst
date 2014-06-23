@@ -8,7 +8,7 @@
 .. include:: .special.rst
 Who am I?
 ---------
-I am **Lilian Besson**, a young `student at ENS de Cachan <http://www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
+I am **Lilian Besson**, a young `student at ENS de Cachan <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
 In 2013/2014, I am preparing the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
 (national competitive exam for teacher recrutment, with a major in Maths and a minor in Computer Science).
 Everyone who is preparing it at ENS Cachan, has been declared *"admissible"*, 

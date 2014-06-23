@@ -8,7 +8,7 @@
 .. include:: .special.rst
 À propos de moi
 ---------------
-Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 **Je suis actuellement en troisième année** et en 2013/2014,
 je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
@@ -58,7 +58,7 @@ Adresses de contact
 ^^^^^^^^^^^^^^^^^^^
 Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
-#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'`annuaire de l'ENS <www.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_);
+#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'`annuaire de l'ENS <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_);
 
 #. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
