@@ -27,26 +27,113 @@ Some lists of applications
    as the *EXEcutable* program for Windows with the ``.exe`` format,
    or the *Disk iMaGe* for Mac OS X with the ``.dmg`` format.
 
+
+.. warning:: This page is still being written!
+
 Apps everyone should have
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Dolphin Browser,
+* DuckDuckGo Search,
+* F-Droid,
+* File Expert and plugins,
+* Firefox ?
+* GO SMS Pro ?
+* Jota Text Editor or Jota +,
+* Micro CPU Monitor,
+* Moon+ Reader (free version),
+* Perfect Viewer,
+* Silent Boot,
+* Smart Task Bar,
+* Super Backup,
+* Timer,
+* Traduction (Google Translate),
+* TTPod,
+* VLC (lite or beta version),
+* Wikipedia.
 
 Apps for geeks
 ^^^^^^^^^^^^^^
 
+* Android Assistant,
+* Android System Infos,
+* APK Manager,
+* CSipSimple,
+* Gmote ?
+* Irssi ConnectBot,
+* Linux Commands,
+* Notification toggle,
+* Pokedextra,
+* ROM Toolbox Pro (free version),
+* "Symbols" or "SymbolsPanel",
+* Terminal Emulator,
+* Unified Remote,
+* Voice Notify,
+* VuDroid.
+
 Apps for McGyver's fans
 ^^^^^^^^^^^^^^^^^^^^^^^
+
+* Army Survival Guide,
+* IP WebCam,
+* Magnetic Field Log,
+* Network Info II,
+* Open Food Facts,
+* Wifi Analyzer.
 
 A few videos games
 ^^^^^^^^^^^^^^^^^^
 
+* Chess,
+* GBC A.D.,
+* Inotia III and IV,
+* Mojo GBA,
+* Mumble client,
+* Pixel Dungeon,
+* "SNesoid" or "Snes9x Ex",
+* Zenonia 1 Free,
+* Zenonia 3 or 4.
+
 Apps for scientists
 ^^^^^^^^^^^^^^^^^^^
+
+* AddiPlot and droidplot,
+* aGrep
+* Andie Graph + rom de caltos,
+* Banque Exos MP CCP,
+* Detexify (bug ?),
+* Git,
+* Grapher,
+* Hacker's keyboard,
+* handyCalc,
+* OCaml Toplevel for Android,
+* octave and plugins,
+* Python for Android,
+* SL4A,
+* TryHaskell,
+* VerbTeX.
 
 Apps for secrets agents (or paranoid people)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* `AdAway <https://f-droid.org/repository/browse/?fdid=org.adaway>`_ to remove almost all advertisements in other apps, especially the ads for the Google Ads service,
+* `AFWall+ <https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall>`_ a complete and ready to work firewall, in order to limit your data use, and forbid some apps to access the Internet,
+* `Gibberbot ou ChatSecure <https://f-droid.org/repository/browse/?fdfilter=GibberBot&fdid=info.guardianproject.otr.app.im>`_ to use Jabber in a secured and encrypted way,
+* `Gnu Privacy Guard <https://f-droid.org/repository/browse/?fdid=info.guardianproject.gpg>`_ to use `GPG <pgp.html>`_,
+* `Network Log <https://f-droid.org/repository/browse/?fdid=com.googlecode.networklog>`_ to check which apps access the internet at every single moment. Can be used to check that `AFWall+`_  is running as desired,
+* `Obscura Cam <http://apk-dl.com/store/apps/details?id=org.witness.sscphase1>`_ to take pictures without adding any meta-data to them,
+* `Orbot <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=org.torproject.android>`_, a `TOR <https://torproject.org/>`_ client to access the web anonymously,
+* `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, a browser to use with `Orbot`_,
+* `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.android.audiorecorderlite>`_ to record sounds and conversations.
+
+
 Misc.
 ^^^^^
+
+* `QR Reader <http://apk-dl.com/store/apps/details?id=me.scan.android.client>`_, even if we all know that `QR codes <https://en.wikipedia.org/wiki/QR_Code>`_ are useless,
+* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.android>`_ or `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ to read or modify OpenDocument documents (like *Word®*),
+* `Skype <http://apk-dl.com/store/apps/details?id=com.skype.raider>`_, even if it could be a good idea to prefer `Linphone`_ or an other clone which has the advantage of being free, open source and more secured,
+* `WordPress <https://f-droid.org/repository/browse/?fdfilter=WordPress&fdid=org.wordpress.android>`_ to read or write on your WordPress's blog.
 
 ------------------------------------------------------------------------------
 
