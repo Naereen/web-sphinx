@@ -136,6 +136,7 @@ Pages in English
    cookies.en
    ga.en
    beacon.en
+   apk.en
    alaskabombeh.en
    packing
    autostop.en

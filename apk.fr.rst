@@ -31,20 +31,55 @@ Quelques listes d'applis
 Liste des applis qu'il faut avoir
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Dolphin Browser,
+* DuckDuckGo Search,
+* F-Droid,
+* File Expert et plugins,
+* Firefox ?
+* 
+
 Applis pour geeks
 ^^^^^^^^^^^^^^^^^
+
+* Android Assistant,
+* Android System Infos,
+* APK Manager,
+* CSipSimple,
+* 
 
 Applis pour les fans de McGyver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Army Survival Guide,
+* Gmote ?
+* 
+
 Quelques jeux vidéos
 ^^^^^^^^^^^^^^^^^^^^
+
+* Chess,
+* GBC A.D.,
+* 
 
 Applis pour scientifiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* AddiPlot et droidplot,
+* aGrep
+* Andie Graph + rom de caltos,
+* Banque Exos MP CCP,
+* Detexify (bug ?),
+* Git,
+* 
+
 Applis pour agents secrets (ou paranoïaques)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* AdAway,
+* AFWall+,
+* Gibberbot,
+* Gnu Privacy Guard,
+* 
 
 Divers
 ^^^^^^
@@ -67,6 +102,6 @@ conçu pour pouvoir télécharger facilement des applications depuis le `magasin
 mais sans avoir à se connecter avec un compte Google.
 
 Par exemple, voici `un lien direct pour Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-(un des meilleurs éditeurs de texte pour Android, pour lequel j'ai réalisé les fichiers de configuration pour la `coloration syntaxique <NanoSyntax.html>`_ pour ``OCaml`` et ``rST`` !).
+(un des meilleurs éditeurs de texte pour Android, pour lequel j'ai réalisé les fichiers de configuration pour la `coloration syntaxique <NanoSyntax.html#autres-references>`_ pour ``OCaml`` et ``rST`` !).
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -66,6 +66,6 @@ designed to simply download apps from the `official Google Play repository <http
 without having to log in with a Google account.
 
 For instance, there is `a direct link for Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-(one of the best text editors on Android, for which I designed the `syntactic coloration <NanoSyntax.html>`_ configuration files for ``OCaml`` and ``rST`` !).
+(one of the best text editors on Android, for which I designed the `syntactic coloration <NanoSyntax.html#autres-references>`_ configuration files for ``OCaml`` and ``rST`` !).
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

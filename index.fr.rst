@@ -391,6 +391,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    cookies.fr
    ga.fr
    beacon.fr
+   apk.fr
    todo
    avoir
    alaskabombeh.fr
