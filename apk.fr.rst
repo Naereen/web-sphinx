@@ -18,7 +18,7 @@ Quelques listes d'applis
 ------------------------
  Voici quelques listes lists d'applications utiles, presque classées par catégories.
 
-.. sidebar:: Qu'est-ce qu'une application ?
+.. note:: Qu'est-ce qu'une application ?
 
    Une application (*app*) est un programme pour un ordinateur, une tablette ou un téléphone fonctionnant avec le système d'exploitation Android.
 
@@ -27,91 +27,90 @@ Quelques listes d'applis
    un peu à la manière des *EXEcutable* Windows sous le format ``.exe``,
    ou des *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
-
-.. warning:: Cette page est encore en rédaction !
-
 Liste des applis qu'il faut avoir
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Dolphin Browser,
-* DuckDuckGo Search,
-* F-Droid,
-* File Expert et plugins,
-* Firefox ?
-* GO SMS Pro ?
-* Jota Text Editor ou Jota +,
-* Micro CPU Monitor,
-* Moon+ Reader (free version),
-* Perfect Viewer,
-* Silent Boot,
-* Smart Task Bar,
-* Super Backup,
-* Timer,
-* Traduction (Google Translate),
-* TTPod,
-* VLC (lite or beta version),
-* Wikipedia.
+* `Dolphin Browser <http://apk-dl.com/store/apps/details?id=mobi.mgeek.TunnyBrowser>`_ un bon navigateur web,
+* `F-Droid client <https://f-droid.org/FDroid.apk>`_ pour garder à jour ses applications via le dépôt F-Droid,
+* `File Expert <http://apk-dl.com/store/apps/details?id=xcxin.fehd>`_ un super navigateur de fichiers, plein de fonctionnalités, et quelques bons greffons,
+* `Firefox portable <https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox>`_ un autre navigateur, un peu lourd pour certains appareils,
+* `GO SMS Pro <http://apk-dl.com/store/apps/details?id=com.jb.gosms>`_, client de messagerie textuelle (SMS et MMS) assez complet,
+* `Jota Text Editor <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota>`_ ou `Jota + <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota.plus>`_, les meilleurs éditeurs de texte, avec un support de coloration syntaxique pour de nombreux langages, et une intégration avec `SL4A`_,
+* `Micro CPU Monitor <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota.plus>`_ pour toujours garder un œil sur sa consommation CPU et pouvoir tuer un processus qui s'emballe ou une application qui plante avant qu'elle ne bouffe toute la batterie,
+* `Moon+ Reader (free version) <http://apk-dl.com/store/apps/details?id=com.flyersoft.moonreader>`_, une liseuse de livres électroniques très avancée,
+* `Perfect Viewer <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer>`_ un lecteur de document PDF (avec `ce greffon <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin>`_), ainsi que d'autres formats, extrêmement avancé (peut nécessiter `ce greffon là <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.x86>`_),
+* `Silent Boot <http://apk-dl.com/store/apps/details?id=com.antweb.silentboot>`_ pour supprimer tout son désagréable au démarrage, et pour mettre son appareil en mode silencieux par défaut au démarrage,
+* `Smart Task Bar <http://apk-dl.com/store/apps/details?id=com.smart.taskbar>`_ une barre latérale bien pratique pour accéder à ses autres applis sans retourner sur le bureau,
+* `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ la meilleure solution pour sauvegarder ses sms, ses contacts, son journal d'appels, ainsi que ses applications (et leurs données),
+* `Timer <https://f-droid.org/repository/browse/?fdid=org.dpadgett.timer>`_ un chronomètre simple et efficace,
+* `Traduction (Google Translate) <http://apk-dl.com/store/apps/details?id=com.google.android.apps.translate>`_,
+* `TTPod <http://www.apk4fun.com/apk/2255/>`_, un très bon lecteur de musique,
+* `VLC (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ un autre lecteur de musique de vidéo,
+* `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ pour accéder rapidement et facilement à Wikipédia. Dommage que MathJax ne soit pas inclus dans l'appli, quelle honte !
+
+
+.. warning:: Cette page est encore en rédaction !
 
 Applis pour geeks
 ^^^^^^^^^^^^^^^^^
 
-* Android Assistant,
-* Android System Infos,
-* APK Manager,
-* CSipSimple,
-* Gmote ?
-* Irssi ConnectBot,
-* Linux Commands,
-* Notification toggle,
-* Pokedextra,
-* ROM Toolbox Pro (free version),
-* "Symbols" ou "SymbolsPanel",
-* Terminal Emulator,
-* Unified Remote,
-* Voice Notify,
-* VuDroid.
+* `Android Assistant <>`_,
+* `Android System Infos <>`_,
+* `APK Manager <>`_,
+* `CSipSimple <>`_,
+* `Gmote ? <>`_
+* `Irssi ConnectBot <>`_,
+* `Linux Commands <>`_,
+* `Notification toggle <>`_,
+* `Pokedextra <>`_,
+* `ROM Toolbox Pro (free version) <>`_,
+* `"Symbols" ou "SymbolsPanel" <>`_,
+* `Terminal Emulator <>`_,
+* `Unified Remote <>`_,
+* `Voice Notify <>`_,
+* `VuDroid <>`_.
 
 Applis pour les fans de McGyver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Army Survival Guide,
-* IP WebCam,
-* Magnetic Field Log,
-* Network Info II,
-* Open Food Facts,
-* Wifi Analyzer.
+* `Army Survival Guide <>`_,
+* `IP WebCam <>`_,
+* `Magnetic Field Log <>`_,
+* `Network Info II <>`_,
+* `Open Food Facts <>`_,
+* `Wifi Analyzer <>`_.
 
 Quelques jeux vidéos
 ^^^^^^^^^^^^^^^^^^^^
 
-* Chess,
-* GBC A.D.,
-* Inotia III et IV,
-* Mojo GBA,
-* Mumble client,
-* Pixel Dungeon,
-* "SNesoid" ou "Snes9x Ex",
-* Zenonia 1 Free,
-* Zenonia 3 ou 4.
+* `Chess <>`_,
+* `GBC A.D. <>`_,
+* `Inotia III et IV <>`_,
+* `Mojo GBA <>`_,
+* `Mumble client <>`_,
+* `Pixel Dungeon <>`_,
+* `"SNesoid" ou "Snes9x Ex" <>`_,
+* `Zenonia 1 Free <>`_,
+* `Zenonia 3 ou 4 <>`_.
 
 Applis pour scientifiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* AddiPlot et droidplot,
-* aGrep
-* Andie Graph + rom de caltos,
-* Banque Exos MP CCP,
-* Detexify (bug ?),
-* Git,
-* Grapher,
-* Hacker's keyboard,
-* handyCalc,
-* OCaml Toplevel for Android,
-* octave et plugins,
-* Python for Android,
-* SL4A,
-* TryHaskell,
-* VerbTeX.
+* `AddiPlot et droidplot <>`_,
+* `aGrep <>`_,
+* `Andie Graph + rom de caltos <>`_,
+* `Banque Exos MP CCP <>`_,
+* `Detexify (bug ?) <>`_,
+* `Git <>`_,
+* `Grapher <>`_,
+* `Hacker's keyboard <>`_,
+* `handyCalc <>`_,
+* `OCaml Toplevel for Android <>`_,
+* `octave et plugins <>`_,
+* `Python for Android <>`_,
+* `SL4A <>`_,
+* `TryHaskell <>`_,
+* `VerbTeX <>`_.
 
 Applis pour agents secrets (ou paranoïaques)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

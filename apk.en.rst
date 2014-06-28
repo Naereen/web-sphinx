@@ -18,7 +18,7 @@ Some lists of applications
 --------------------------
  There are a few lists of some useful apps, kinda sorted by category.
 
-.. sidebar:: What's an application ?
+.. note:: What's an application ?
 
    An application (*app*) is a program for a laptop, a tablet or a smartphone powered by the exploitation systeme Android.
 
@@ -33,24 +33,23 @@ Some lists of applications
 Apps everyone should have
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Dolphin Browser,
-* DuckDuckGo Search,
-* F-Droid,
-* File Expert and plugins,
-* Firefox ?
-* GO SMS Pro ?
-* Jota Text Editor or Jota +,
-* Micro CPU Monitor,
-* Moon+ Reader (free version),
-* Perfect Viewer,
-* Silent Boot,
-* Smart Task Bar,
-* Super Backup,
-* Timer,
-* Traduction (Google Translate),
-* TTPod,
-* VLC (lite or beta version),
-* Wikipedia.
+* `Dolphin Browser <http://apk-dl.com/store/apps/details?id=mobi.mgeek.TunnyBrowser>`_ a good web browser,
+* `F-Droid client <https://f-droid.org/FDroid.apk>`_ to keep your apps up-to-date with the F-Droid repository,
+* `File Expert <http://apk-dl.com/store/apps/details?id=xcxin.fehd>`_ a great files browser, full of nice functionnalities, and with some cool plugins,
+* `Firefox portable <https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox>`_ an other web browser, but it might be two *heavy* for some phones,
+* `GO SMS Pro <http://apk-dl.com/store/apps/details?id=com.jb.gosms>`_, a good text messaging client,
+* `Jota Text Editor <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota>`_ or `Jota + <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota.plus>`_, the best text editor on Android, with a large panel of programming languages being supported with good syntactic coloration, and even with an easy to use integration with `SL4A`_ !
+* `Micro CPU Monitor <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.jota.plus>`_ to always keep an eye on your device's CPU level, to be able to quickly kill a bugged process, before she consume all your device's battery,
+* `Moon+ Reader (free version) <http://apk-dl.com/store/apps/details?id=com.flyersoft.moonreader>`_, a pretty good ebooks reading software,
+* `Perfect Viewer <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer>`_ an awesome PDF reader (with `this plugin <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin>`_), which also supports some other formats (`this other plugin <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.x86>`_ can be required),
+* `Silent Boot <http://apk-dl.com/store/apps/details?id=com.antweb.silentboot>`_ to suppress any sound when booting, and to automatically put your device in quiet mode after booting,
+* `Smart Task Bar <http://apk-dl.com/store/apps/details?id=com.smart.taskbar>`_ a cool and small lateral bar, useful to easily access all your other apps without having to exit the current one,
+* `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ the best solution I found to backup your text messages, your contacts, your call diary, or your apps,
+* `Timer <https://f-droid.org/repository/browse/?fdid=org.dpadgett.timer>`_ a simple but effective chronometer,
+* `Traduction (Google Translate) <http://apk-dl.com/store/apps/details?id=com.google.android.apps.translate>`_,
+* `TTPod <http://www.apk4fun.com/apk/2255/>`_, a very good music player, with some pretty original feature (you can ask it to be quiet after a certain amount of time, for when you go to bed for example),
+* `VLC (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ an other music and video player,
+* `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ to quickly access to Wikipédia. It's really a shame that MathJax is not included in the app!
 
 Apps for geeks
 ^^^^^^^^^^^^^^
