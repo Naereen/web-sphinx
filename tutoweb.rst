@@ -2,6 +2,11 @@
  Un genre de tutoriel pour "faire du web"
 ##########################################
 
+.. warning:: inutile
+
+   Cette page est un peu inutile, pas très bien rédigée, et franchement faite un peu trop vite.
+
+
 Quelques conseils, et pointeurs pour commencer à faire des pages webs.
 
 Pour HTML & CSS

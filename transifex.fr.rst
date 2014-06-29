@@ -12,7 +12,7 @@
    Cette page est en *français*.
    Peut-être préférez-vous la consulter en `anglais <transifex.en.html>`_.
 
-Le mardi 26 mars, `bitbucket <https://bitbucket.org/>`_ annonçait
+Le mardi 26 mars (2013), `bitbucket <https://bitbucket.org/>`_ annonçait
 un discret message informant du projet de traductions du site.
 
 Curieux, je suis allé jeter un oeil au logiciel utilisé.

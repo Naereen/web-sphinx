@@ -65,7 +65,7 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
 
    .. runblock:: console
    
-      $ ~/bin/wa_nocolor.sh "distance Paris New-York" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
+      $ ~/bin/wa_nocolor.sh "distance Paris Hyderabad" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
 
 #. Résolution d'une équation :
 
@@ -183,7 +183,7 @@ Un premier exemple
 ^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ wolf "distance Paris New-York"
+    $ wolf "distance Paris Hyderabad"
 
 ------------------------------------------------------------------------------
 

@@ -13,7 +13,7 @@
    Maybe you would like to see it in `French <transifex.fr.html>`_.
 
 
-On Tuesday, March 26, `bitbucket <https://bitbucket.org/>`_ announced
+On Tuesday, March 26 (2013), `bitbucket <https://bitbucket.org/>`_ announced
 a discreet message advising of the proposed translations of the site.
 
 Curious, I went take a look at the software.
