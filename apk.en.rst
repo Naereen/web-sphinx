@@ -2,9 +2,9 @@
    :description lang=fr: Liste d'applications Android utiles pour tous
    :description lang=en: A list of my favorite Android apps
 
-#############################
- My favorites Android apps !
-#############################
+############################
+ My favorite Android apps !
+############################
 .. include:: .special.rst
 .. note:: This page is about Android apps
 
