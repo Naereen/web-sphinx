@@ -24,8 +24,8 @@ Quelques listes d'applis
 
    Ces programmes sont distribués sous forme d'archives compressées,
    au format ``apk``, qui signifie "*Application PacKage*",
-   un peu à la manière des *EXEcutable* Windows sous le format ``.exe``,
-   ou des *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
+   un peu à la manière d'un *EXEcutable* Windows sous le format ``.exe``,
+   ou d'un *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
 Liste des applis qu'il faut avoir
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -48,9 +48,6 @@ Liste des applis qu'il faut avoir
 * `VLC (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ un autre lecteur de musique de vidéo,
 * `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ pour accéder rapidement et facilement à Wikipédia. Dommage que MathJax ne soit pas inclus dans l'appli, quelle honte !
 
-
-.. warning:: Cette page est encore en rédaction !
-
 Applis pour geeks
 ^^^^^^^^^^^^^^^^^
 
@@ -61,6 +58,7 @@ Applis pour geeks
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ une bonne télécommande pour contrôler son ordinateur avec son smartphone (usage local uniquement) à utiliser `avec ce client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ est l'appli ultime pour se connecter `en SSH <https://fr.wikipedia.org/wiki/Secure_Shell>`_ à un autre ordinateur,
 * `Linux Commands <http://apk-dl.com/store/apps/details?id=com.dekryptedit.LinuxCommands>`_ une liste de commande linux utiles, pour apprendre facilement !
+* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ une autre bonne application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, et qui supporte aussi la vidéo,
 * `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ pour Android v2 (2.2 à 2.3.8),
 * `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, un *pokédex* complet et super bien fait,
 * `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ une autre bonne boite à outil d'administration, certains uniquement pour téléphone rooté,
@@ -69,6 +67,9 @@ Applis pour geeks
 * `Unified Remote <http://apk-dl.com/store/apps/details?id=com.Relmtech.Remote>`_ une autre application pour utiliser son smartphone comme une télécommande, avec `ce client Unified Remote <http://www.unifiedremote.com/download>`_,
 * `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ est un petit service d'accessibilité qui permet au smartphone de lire à l'oral (via du "*text to speach*") les notifications,
 * `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ est une liseuse de documents qui accepte les PDFs mais aussi le format `DJVU <http://djvu.org/>`_.
+
+
+.. warning:: Cette page est encore en rédaction !
 
 Applis pour les fans de McGyver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

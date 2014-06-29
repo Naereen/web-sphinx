@@ -27,9 +27,6 @@ Some lists of applications
    as the *EXEcutable* program for Windows with the ``.exe`` format,
    or the *Disk iMaGe* for Mac OS X with the ``.dmg`` format.
 
-
-.. warning:: This page is still being written!
-
 Apps everyone should have
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -60,6 +57,7 @@ Apps for geeks
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (and this `codec pack <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) is an amazing app to use the `VoIP <https://en.wikipedia.org/wiki/VoIP>`_, similar to `Linphone`_,
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ is a good remote controller for your personnal laptop, to be used `with this small client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ is the best app to use `SSH <https://en.wikipedia.org/wiki/Secure_Shell>`_ to connect to another laptop or server,
+* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ another good app to call and videochat with `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_,
 * `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ for Android v2 (2.2 à 2.3.8),
 * `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, a good and complete *pokédex*,
 * `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ is another well designed admin toolbox, mainly for rooted devices,
@@ -68,6 +66,9 @@ Apps for geeks
 * `Unified Remote <http://apk-dl.com/store/apps/details?id=com.Relmtech.Remote>`_ is another remote controller application, to use your smartphone as a remote for your laptop, with `this Unified Remote client <http://www.unifiedremote.com/download>`_,
 * `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ is a small accessibility service that speak every incoming notifications (using "*text to speach*"),
 * `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ is a pretty good document reader, which accepts not only PDFs but also `DJVU <http://djvu.org/>`_.
+
+
+.. warning:: This page is still being written!
 
 Apps for McGyver's fans
 ^^^^^^^^^^^^^^^^^^^^^^^
