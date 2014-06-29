@@ -150,7 +150,7 @@ Utilitaires divers
 
 * `CheckDownload_Pypi.sh <bin/CheckDownload_Pypi.sh>`_,
   un tout petit script pour lire les statistiques de téléchargement d'un paquet
-  hébergé sur sur `pypi <https://pypi.python.org/>`_.
+  hébergé sur sur `pypi <https://pypi.python.org/>`_. Par exemple, mon `module ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 
   :État: *Parfait*.
 

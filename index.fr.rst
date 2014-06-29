@@ -198,12 +198,13 @@ En janvier et mars 2013, j'ai écrit un petit module et script
 pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
 Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
 Sa documentation est hébergée sur
-`PythonHosted.org <http://pythonhosted.org/ANSIColors-balises/>`_,
+`PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de **4500 fois** !
 *(Des statistiques partielles, pour le mois de mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
-*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ *.)*
+*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ 
+*ou en là `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)*
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

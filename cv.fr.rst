@@ -240,7 +240,7 @@ Projets de programmation en M1 (2012-2013)
 
  * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
    Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
-   (près de 4500 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
+   (près de 5000 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
    Ou aussi `ici sur BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.
