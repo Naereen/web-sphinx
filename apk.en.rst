@@ -54,21 +54,20 @@ Apps everyone should have
 Apps for geeks
 ^^^^^^^^^^^^^^
 
-* Android Assistant,
-* Android System Infos,
-* APK Manager,
-* CSipSimple,
-* Gmote ?
-* Irssi ConnectBot,
-* Linux Commands,
-* Notification toggle,
-* Pokedextra,
-* ROM Toolbox Pro (free version),
-* "Symbols" or "SymbolsPanel",
-* Terminal Emulator,
-* Unified Remote,
-* Voice Notify,
-* VuDroid.
+* `Android Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) is a good admin utility program, useful for instance to clean the cache, kill a bugged process, or quickly desinstall apps,
+* `Android System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ is another one of the same kind,
+* `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ is a tiny but well designed app, to simply and quickly manage all your other applications,
+* `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (and this `codec pack <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) is an amazing app to use the `VoIP <https://en.wikipedia.org/wiki/VoIP>`_, similar to `Linphone`_,
+* `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ is a good remote controller for your personnal laptop, to be used `with this small client <http://www.gmote.org/>`_,
+* `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ is the best app to use `SSH <https://en.wikipedia.org/wiki/Secure_Shell>`_ to connect to another laptop or server,
+* `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ for Android v2 (2.2 à 2.3.8),
+* `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, a good and complete *pokédex*,
+* `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ is another well designed admin toolbox, mainly for rooted devices,
+* `"Symbols" ou "SymbolsPanel" <http://apk-dl.com/store/apps/details?id=soo.project.Symbols>`_ are useful to insert special caracters, in text messages for example,
+* `Terminal Emulator <http://apk-dl.com/store/apps/details?id=jackpal.androidterm>`_ is the best terminal emulator for Android,
+* `Unified Remote <http://apk-dl.com/store/apps/details?id=com.Relmtech.Remote>`_ is another remote controller application, to use your smartphone as a remote for your laptop, with `this Unified Remote client <http://www.unifiedremote.com/download>`_,
+* `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ is a small accessibility service that speak every incoming notifications (using "*text to speach*"),
+* `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ is a pretty good document reader, which accepts not only PDFs but also `DJVU <http://djvu.org/>`_.
 
 Apps for McGyver's fans
 ^^^^^^^^^^^^^^^^^^^^^^^

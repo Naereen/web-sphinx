@@ -54,21 +54,21 @@ Liste des applis qu'il faut avoir
 Applis pour geeks
 ^^^^^^^^^^^^^^^^^
 
-* `Android Assistant <>`_,
-* `Android System Infos <>`_,
-* `APK Manager <>`_,
-* `CSipSimple <>`_,
-* `Gmote ? <>`_
-* `Irssi ConnectBot <>`_,
-* `Linux Commands <>`_,
-* `Notification toggle <>`_,
-* `Pokedextra <>`_,
-* `ROM Toolbox Pro (free version) <>`_,
-* `"Symbols" ou "SymbolsPanel" <>`_,
-* `Terminal Emulator <>`_,
-* `Unified Remote <>`_,
-* `Voice Notify <>`_,
-* `VuDroid <>`_.
+* `Android Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) un bon utilitaire d'administration, utile pour effacer le cache, tuer un processus qui s'emballe ou désinstaller rapidement des applications,
+* `Android System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ est un autre du même genre,
+* `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ est une appli minuscule, mais très bien réalisée afin de faciliter la manipulation d'autres applis,
+* `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (et son `codec <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) une super application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, un peu comme `Linphone`_,
+* `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ une bonne télécommande pour contrôler son ordinateur avec son smartphone (usage local uniquement) à utiliser `avec ce client <http://www.gmote.org/>`_,
+* `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ est l'appli ultime pour se connecter `en SSH <https://fr.wikipedia.org/wiki/Secure_Shell>`_ à un autre ordinateur,
+* `Linux Commands <http://apk-dl.com/store/apps/details?id=com.dekryptedit.LinuxCommands>`_ une liste de commande linux utiles, pour apprendre facilement !
+* `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ pour Android v2 (2.2 à 2.3.8),
+* `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, un *pokédex* complet et super bien fait,
+* `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ une autre bonne boite à outil d'administration, certains uniquement pour téléphone rooté,
+* `"Symbols" ou "SymbolsPanel" <http://apk-dl.com/store/apps/details?id=soo.project.Symbols>`_ pour insérer des caractères spéciaux dans un texto par exemple,
+* `Terminal Emulator <http://apk-dl.com/store/apps/details?id=jackpal.androidterm>`_, le meilleur émulateur de terminal sur Android,
+* `Unified Remote <http://apk-dl.com/store/apps/details?id=com.Relmtech.Remote>`_ une autre application pour utiliser son smartphone comme une télécommande, avec `ce client Unified Remote <http://www.unifiedremote.com/download>`_,
+* `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ est un petit service d'accessibilité qui permet au smartphone de lire à l'oral (via du "*text to speach*") les notifications,
+* `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ est une liseuse de documents qui accepte les PDFs mais aussi le format `DJVU <http://djvu.org/>`_.
 
 Applis pour les fans de McGyver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
