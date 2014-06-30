@@ -8,7 +8,7 @@
 
 .. note:: De quoi s'agit-il ?
 
-   D'une petite astuce permettant de continuer à utiliser `son téléphone A953 <>`_ (de la marque Motorola, série Droid 2) après avoir cassé ou abîmé son bouton principal d'allumage.
+   D'une petite astuce permettant de continuer à utiliser `son téléphone A953 <http://fr.pleex.com/telephone-info-mod,A953,Motorola>`_ (de la marque Motorola, série `Droid 2 <http://fr.gsmchoice.com/fr/catalogue/motorola/milestone2/Motorola-Milestone-2.html>`_) après avoir cassé ou abîmé son bouton principal d'allumage.
 
 
 Différentes astuces
@@ -17,7 +17,7 @@ Première astuce : allumer ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
  *« All you have to do is plug in the phone to an AC charger, and the phone should come on. »*
 
-Pour simplement démarrer son téléphone ([#1]_):
+Pour simplement démarrer son téléphone ([#217442]_):
 
   *« If you need to power the phone on pull the battery, make sure the charger is in a wall socket not a USB port, then plug it into the phone. Once the M Logo comes up put the battery in. The phone should boot. »*
 
@@ -30,6 +30,7 @@ C'est à dire, si vous avez besoin de démarrer le téléphone, suivez cette pro
 3. ensuite, branchez le chargeur au téléphone,
 4. puis lorsque le logo M (de Motorola) apparaît durant le démarrage, rebranchez la batterie rapidement.
 5. Le téléphone devrait dès lors démarrer "*normalement*".
+
 
 Seconde solution
 ~~~~~~~~~~~~~~~~
@@ -49,66 +50,72 @@ Essayez alors de suivre la procédure suivante :
 2. Remettre la batterie, puis appuyez et gardez pressé la touche ``x`` du clavier (matériel) de votre téléphone, puis rebranchez le chargeur.
 3. Garder la touche ``x`` appuyée jusqu'à ce qu'un petit triangle avec un point d'exclamation n'apparaisse.
 4. Selon le mode installé, il peut être nécessaire de presser le bouton loupe pour faire apparaître un menu à plusieurs choix.
-6. Débranchez votre téléphone.
-5. Sélectionnez enfin "*reboot*" ou "*redémarrer*" pour finalement redémarrer.
+5. Débranchez votre téléphone.
+6. Sélectionnez enfin "*reboot*" ou "*redémarrer*" pour finalement redémarrer.
+
 
 .. image:: http://png-2.findicons.com/files/icons/573/must_have/48/search.png
-
+   :scale: 85%
+   :align: center
+   :target: http://png-2.findicons.com/files/icons/573/must_have/48/search.png
    :alt: Loupe !
-   :title: Une icône de loupe !
 
 
 Seconde astuce : s'en passer ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour se passer du bouton d'alimentation pour les autres opérations ([#2]_):
+Pour se passer du bouton d'alimentation pour les autres opérations ([#15936117]_):
 
 :Verrouiller: En réglant le verrouillage automatique sur la durée minimale (15 secondes), on limite les risques.
 
 :Déverrouiller: En ouvrant le clavier matériel du téléphone, cela affiche l'écran de déverrouillage.
 
-:Éteindre: En utilisant une application comme `celle ci <>`_. Ou bien en enlevant la batterie après s'être assuré qu'aucun processus important n'était en cours d'exécution.
+:Éteindre: En utilisant une application comme `celle ci <http://apk-dl.com/store/apps/details?id=com.eemp.simplepoweroff>`_ ou `bien celle là <http://apk-dl.com/store/apps/details?id=com.katecca.screenofflock>`_. Ou bien en enlevant la batterie après s'être assuré qu'aucun processus important n'était en cours d'exécution.
 
 
 Troisième astuce : la remplacer ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Avec un appareil rooté
 ~~~~~~~~~~~~~~~~~~~~~~
-Voir [#4]_ pour apprendre comment "nativement" assigner la touche caméra pour lui permettre de remplacer le bouton d'alimentation.
+Voir [#51518]_ pour apprendre comment "nativement" assigner la touche caméra pour lui permettre de remplacer le bouton d'alimentation.
 Assez expérimental, demande un appareil *rooté* ainsi qu'un ordinateur avec ``adb`` installé.
 Pas testé !
 
 Avec une appli
 ~~~~~~~~~~~~~~
-Voir sinon [#3]_ pour utiliser cette application [#6]_ plutôt qu'une opération en ligne de commande.
+Voir sinon [#12643]_ pour utiliser cette application [#9399440]_ (lien direct [#46799]_) plutôt qu'une opération en ligne de commande.
 
 .. image:: http://chart.apis.google.com/chart?cht=qr&chs=250x250&choe=UTF-8&chld=H&chl=http%3A%2F%2Fforum.xda-developers.com%2Fattachment.php%3Fattachmentid%3D467998
-
+   :scale: 85%
+   :align: center
+   :target: http://forum.xda-developers.com/attachment.php?attachmentid=467998&d=1292740886
    :alt: Code QR pour télécharger cette application directement.
-   :title: Code QR pour télécharger cette application directement
 
+
+Une seconde application ([#456565]_) peut permettre de connaître les codes de chaque touches.
 
 .. image:: http://chart.apis.google.com/chart?cht=qr&chs=250x250&choe=UTF-8&chld=H&chl=http%3A%2F%2Fforum.xda-developers.com%2Fattachment.php%3Fattachmentid%3D456565
-
-   :alt: Code QR pour télécharger cette seconde application directement.
-   :title: Code QR pour télécharger cette seconde application directement
+   :scale: 85%
+   :align: center
+   :target: http://forum.xda-developers.com/attachment.php?attachmentid=456565&d=1291540032
+   :alt: Code QR pour télécharger cette application directement.
 
 
 Quatrième astuce : la réparer ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir cette vidéo youtube [#5]_ pour éventuellement comprendre comment démonter et remonter son appareil.
+Voir cette vidéo [#BUXSmlwUC9Q]_ pour éventuellement comprendre comment démonter et remonter son appareil.
 
 ------------------------------------------------------------------------------
 
 .. rubric:: Sources (en anglais)
 
-.. [#1] `Discussion #217442 sur droidforums.net <http://www.droidforums.net/forum/droid-2-tech-issues/217442-power-button-stopped-working.html>`_.
-.. [#2] `Discussion #1183165 sur xda-developers.com <http://forum.xda-developers.com/showthread.php?t=1183165>`_, et plus particulièrement `ce post #15936117 <http://forum.xda-developers.com/showpost.php?p=15936117&postcount=1>`_.
-.. [#3] `Cette astuce #12643 sur android.stackexchange.com <http://android.stackexchange.com/questions/12643/power-button-fails-to-work-consistently-on-motorola-droid-workarounds>`_.
-.. [#4] `Cette autre discussion #51518 sur droidforums.net <http://www.droidforums.net/forum/android-general-discussions/51518-root-natively-wake-your-droid-camera-key.html>`_.
-.. [#5] `Vidéo youtube #BUXSmlwUC9Q <https://www.youtube.com/watch?v=BUXSmlwUC9Q>`_.
-.. [#6] `Application "ButtonRemapper" <http://forum.xda-developers.com/attachment.php?attachmentid=467998&d=1292740886>`_.
-.. [#7] `Présentation de l'outil "ButtonRemapper" <http://forum.xda-developers.com/showpost.php?p=9399440&postcount=1>`_.
-.. [#6] `Application "KeynrTracker" <http://forum.xda-developers.com/attachment.php?attachmentid=456565&d=1291540032>`_.
+.. [#217442] `Discussion #217442 sur droidforums.net <http://www.droidforums.net/forum/droid-2-tech-issues/217442-power-button-stopped-working.html>`_.
+.. [#15936117] `Discussion #1183165 sur xda-developers.com <http://forum.xda-developers.com/showthread.php?t=1183165>`_, et plus particulièrement `ce post #15936117 <http://forum.xda-developers.com/showpost.php?p=15936117&postcount=1>`_.
+.. [#12643] `Cette astuce #12643 sur android.stackexchange.com <http://android.stackexchange.com/questions/12643/power-button-fails-to-work-consistently-on-motorola-droid-workarounds>`_.
+.. [#51518] `Cette autre discussion #51518 sur droidforums.net <http://www.droidforums.net/forum/android-general-discussions/51518-root-natively-wake-your-droid-camera-key.html>`_.
+.. [#BUXSmlwUC9Q] `Vidéo youtube #BUXSmlwUC9Q <https://www.youtube.com/watch?v=BUXSmlwUC9Q>`_.
+.. [#46799] `Application "ButtonRemapper" <http://forum.xda-developers.com/attachment.php?attachmentid=467998&d=1292740886>`_.
+.. [#9399440] `Présentation de l'outil "ButtonRemapper" #9399440 <http://forum.xda-developers.com/showpost.php?p=9399440&postcount=1>`_.
+.. [#456565] `Application "KeynrTracker" <http://forum.xda-developers.com/attachment.php?attachmentid=456565&d=1291540032>`_.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
