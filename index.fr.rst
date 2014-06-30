@@ -13,7 +13,7 @@ Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.m
 **Je suis actuellement en troisième année** et en 2013/2014,
 je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
 Comme tous mes camarades qui la prépare à l'ENS Cachan, `je suis admissible <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_ (`ou là <http://lmgtfy.com/?q=%22besson+lilian+jean%22+site%3Aeducation.fr>`_).
-Nous passons les oraux dans quelques semaines !
+Nous passons les oraux dans quelques jours !
 
 .. include:: whatsnew.fr.rst
 
