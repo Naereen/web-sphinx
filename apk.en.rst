@@ -54,6 +54,17 @@ Apps for geeks
 * `Android Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) is a good admin utility program, useful for instance to clean the cache, kill a bugged process, or quickly desinstall apps,
 * `Android System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ is another one of the same kind,
 * `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ is a tiny but well designed app, to simply and quickly manage all your other applications,
+
+
+.. note:: About VoIP
+
+   For some additional details about this technology, one curious reader could read
+   the wikipédia page about `VoIP`_, or these explanations (in French, reference in English coming soon)
+   `How to use VoIP <https://wiki.crans.org/VieCrans/UtiliserVoIP>`_ on the `Crans wiki <https://wiki.crans.org/>`_,
+   or also `these explanations on doc.ubuntu-fr <http://doc.ubuntu-fr.org/voip>`_, especially some details on the `SIP protocol <http://doc.ubuntu-fr.org/sip>`_.
+
+
+
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (and this `codec pack <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) is an amazing app to use the `VoIP <https://en.wikipedia.org/wiki/VoIP>`_, similar to `Linphone`_,
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ is a good remote controller for your personnal laptop, to be used `with this small client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ is the best app to use `SSH <https://en.wikipedia.org/wiki/Secure_Shell>`_ to connect to another laptop or server,

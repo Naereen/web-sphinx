@@ -54,11 +54,22 @@ Applis pour geeks
 * `Android Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) un bon utilitaire d'administration, utile pour effacer le cache, tuer un processus qui s'emballe ou désinstaller rapidement des applications,
 * `Android System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ est un autre du même genre,
 * `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ est une appli minuscule, mais très bien réalisée afin de faciliter la manipulation d'autres applis,
+
+
+.. note:: À propos de la VoIP ?
+
+   Pour plus de détails concernant cette technologie, le lecteur curieux pourra se référer
+   à la page wikipédia sur la `VoIP`_, ou bien ce tutoriel détaillé
+   `Utiliser la VoIP <https://wiki.crans.org/VieCrans/UtiliserVoIP>`_ sur le `wiki du Crans <https://wiki.crans.org/>`_,
+   ou encore `ces explications sur doc.ubuntu-fr <http://doc.ubuntu-fr.org/voip>`_, et notamment les détails sur le protocole `SIP <http://doc.ubuntu-fr.org/sip>`_.
+
+
+
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (et son `codec <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) une super application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, un peu comme `Linphone`_,
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.android>`_ une bonne télécommande pour contrôler son ordinateur avec son smartphone (usage local uniquement) à utiliser `avec ce client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ est l'appli ultime pour se connecter `en SSH <https://fr.wikipedia.org/wiki/Secure_Shell>`_ à un autre ordinateur,
 * `Linux Commands <http://apk-dl.com/store/apps/details?id=com.dekryptedit.LinuxCommands>`_ une liste de commande linux utiles, pour apprendre facilement !
-* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ une autre bonne application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, et qui supporte aussi la vidéo,
+* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ une autre bonne application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, et qui supporte aussi la vidéo. On pourra trouver des explications pour la version bureau ici `doc.ubuntu-fr.org/linphone <http://doc.ubuntu-fr.org/linphone>`_,
 * `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ pour Android v2 (2.2 à 2.3.8),
 * `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, un *pokédex* complet et super bien fait,
 * `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ une autre bonne boite à outil d'administration, certains uniquement pour téléphone rooté,
