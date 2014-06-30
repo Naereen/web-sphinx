@@ -30,13 +30,13 @@ Premier, :math:`x \mapsto \sin(x)` :
 
 .. gnuplot::
    :title: Sinus
-   
+
    plot sin(x)
 
 
 Cosinus, avec une grille
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Second, :math:`x \mapsto \cos(x*x+1.3)` (avec une grille mise avec ``set grid``). 
+Second, :math:`x \mapsto \cos(x*x+1.3)` (avec une grille mise avec ``set grid``).
 On peut forcer la taille avec l'option ``:size:`` pour la
 directive ``.. gnuplot::`` :
 
@@ -44,7 +44,7 @@ directive ``.. gnuplot::`` :
    :title: Cosinus
    :size: 300,300
 
-   set grid    
+   set grid
    plot cos(x*x+1.3)
 
 
@@ -68,8 +68,8 @@ Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
    J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
    et la nouvelle version semble avoir brisé la rétrocompatibilité,
    notamment le comportement de la commande ``replot``.
-   
-   Avant, on pouvait mettre plusieurs graphiques sur une même fenêtre, 
+
+   Avant, on pouvait mettre plusieurs graphiques sur une même fenêtre,
    avec la commande ``replot``, qui gère les couleurs pour pouvoir
    différencier les différents graphiques.
 
@@ -79,7 +79,7 @@ Désormais, j'utilise ``plot f1(x),f2(x)``.
 .. gnuplot::
    :title: Sigmoide(s)
    :size: 1100,700
-   
+
    set grid
    plot 1/(1+exp(-0.25*x)),1/(1+exp(-x)),1/(1+exp(-4*x))
 
@@ -99,14 +99,14 @@ On peut aussi faire des graphes, et en faire des colonnes :
 |.. centered:: Arctangente |.. centered:: Sigmoide      |.. centered:: Signe         |
 +--------------------------+----------------------------+----------------------------+
 
-Mais des fois, c'est plus commode de mettre trois graphes 
+Mais des fois, c'est plus commode de mettre trois graphes
 dans un seul (plus comme ``plot f1(x)`` puis
 ``replot f2(x)``, mais avec ``plot f1(x),f2(x)``) :
 
 .. gnuplot::
    :title: Arctangente, Sigmoide et Signe
    :size: 1100,700
-   
+
    set grid
    plot 0.5+atan(x)/pi,1/(1+exp(-x)),0.5*(1+sgn(x))
 
@@ -116,7 +116,7 @@ En 3D : une surface
 .. gnuplot::
    :title: Surface
    :size: 1200,700
-   
+
    set xrange [0:1]
    set yrange [0:1]
    splot x**4 + y**4, abs(x)+abs(y)
@@ -133,9 +133,9 @@ Une seconde surface
    set isosamples 21, 21
    set contour base
    set cntrparam levels auto 10
-   set xlabel "X axis" 
-   set ylabel "Y axis" 
-   set zlabel "Z axis" 
+   set xlabel "X axis"
+   set ylabel "Y axis"
+   set zlabel "Z axis"
    set zlabel  offset character 1, 0, 0 font "" textcolor lt -1 norotate
    splot x**2-y**2
 
@@ -169,8 +169,8 @@ Inspiré de `ce script <http://gnuplot.sourceforge.net/demo/fillcrvs.6.gnu>`_.
 
 Conclusion
 ----------
-Ces exemples montrent un peu ce qu'on peut faire, 
-très facilement, grâce aux extensions 'non-officielles' de Sphinx 
+Ces exemples montrent un peu ce qu'on peut faire,
+très facilement, grâce aux extensions 'non-officielles' de Sphinx
 (en l'occurence, l'extension **gnuplot** dans ce cas là).
 
 ------------------------------------------------------------------------------
