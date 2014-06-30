@@ -141,17 +141,17 @@ Applis pour agents secrets (ou paranoïaques)
 * `Gnu Privacy Guard <https://f-droid.org/repository/browse/?fdid=info.guardianproject.gpg>`_ pour utiliser `GPG <pgp.html>`_,
 * `Network Log <https://f-droid.org/repository/browse/?fdid=com.googlecode.networklog>`_ pour vérifier quelles applications accèdent à internet à chaque instant, à coupler avec `AFWall+`_ pour vérifier que le parefeu fonctionne comme voulu,
 * `Obscura Cam <http://apk-dl.com/store/apps/details?id=org.witness.sscphase1>`_ pour prendre des photos sans leur attacher de méta-données,
-* `Orbot <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=org.torproject.Android™>`_, un client pour accéder à internet via le `réseau TOR <https://torproject.org/>`_,
+* `Orbot <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=org.torproject.Android>`_, un client pour accéder à internet via le `réseau TOR <https://torproject.org/>`_,
 * `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, un navigateur à utiliser via `Orbot`_,
-* `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android™.audiorecorderlite>`_ pour enregistrer des conversations.
+* `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ pour enregistrer des conversations.
 
 Divers
 ^^^^^^
 
-* `QR Reader <http://apk-dl.com/store/apps/details?id=me.scan.Android™.client>`_, même si en fait les `codes QR <https://fr.wikipedia.org/wiki/Code_QR>`_ ne servent à rien,
-* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android™>`_ ou `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ pour lire ou modifier des documents aux formats OpenDocument (à la *Word®*),
+* `QR Reader <http://apk-dl.com/store/apps/details?id=me.scan.Android.client>`_, même si en fait les `codes QR <https://fr.wikipedia.org/wiki/Code_QR>`_ ne servent à rien,
+* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android>`_ ou `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ pour lire ou modifier des documents aux formats OpenDocument (à la *Word®*),
 * `Skype™ <http://apk-dl.com/store/apps/details?id=com.skype.raider>`_, même s'il vaudrait mieux utiliser `Linphone`_ ou un autre équivalent libre, gratuit, open source et sécurisé,
-* `WordPress™ <https://f-droid.org/repository/browse/?fdfilter=WordPress&fdid=org.wordpress.Android™>`_ pour lire ou écrire sur un blog fonctionnant avec WordPress™.
+* `WordPress™ <https://f-droid.org/repository/browse/?fdfilter=WordPress&fdid=org.wordpress.Android>`_ pour lire ou écrire sur un blog fonctionnant avec WordPress™.
 
 ------------------------------------------------------------------------------
 
