@@ -4,6 +4,9 @@
 
 .. warning:: I'm *NOT* the author of this fun page
 
+   This list is from `this cool web-service <http://upl.codeq.info/>`_ which helps you to list what you need when packing your stuff before a trip.
+
+
 Things to do before you leave
 -----------------------------
 To do for most trips

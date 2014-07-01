@@ -34,9 +34,9 @@ In 2012
 ^^^^^^^
 Less than 300kms, mainly in *Corsica* and the *Côte-d'Azur*.
 
-Some informals statistics
--------------------------
-A few remarks on the nice drivers who are willing to take hitch-hikers :
+Some informal statistics
+------------------------
+A few remarks about the nice drivers who are willing to take hitch-hikers :
 
 * more men than women,
 * alone people more than people with children,
