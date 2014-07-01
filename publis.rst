@@ -83,9 +83,7 @@ Par example :
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. pypi-release:: ANSIColors-balises
-   :prefix: La dernière version est ici
-            (normalement, l'extension non officielle ``cheeseshop``
-            permet d'intégrer directement un lien de téléchargement)
+   :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
 .. BUGFIX ?
@@ -93,10 +91,48 @@ Par example :
 **ANSIColors-balises** est un module ``Python`` pour manipuler facilement
 et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
 Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
-*(Des statistiques partielles, pour le moi de Mai 2015 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
-et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_.)*
+(Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_.)
+
+
+.. runblock:: pycon
+
+   >>> try:
+   ...     from ANSIColors import printc
+   >>> except:
+   ...     def printc(a): print(a)
+   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset>")
+
 
 :État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par jour, c'est peu :(
+
+.. rubric:: Quelques badges :
+
+.. raw:: html
+
+   <b>Infos:</b>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=version_badge"><img alt="Version of ANSIColors-balises" title="Version of ANSIColors-balises" src="https://pypip.in/version/ANSIColors-balises/badge.png" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=format_badge"><img alt="Format of ANSIColors-balises" title="Format of ANSIColors-balises" src="https://pypip.in/format/ANSIColors-balises/badge.png" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=license_badge"><img alt="License of ANSIColors-balises" title="License of ANSIColors-balises" src="https://pypip.in/license/ANSIColors-balises/badge.png" /></a>
+   <b>Stats:</b>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_day"><img alt="Stats day for ANSIColors-balises" title="Stats day for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=day" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_week"><img alt="Stats week for ANSIColors-balises" title="Stats week for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=week" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_month"><img alt="Stats month for ANSIColors-balises" title="Stats month for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=month" /></a>
+
+
+.. rubric:: Quelques badges en SVG :
+
+.. raw:: html
+
+   <b>Infos:</b>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=version_badge"><img alt="Version of ANSIColors-balises" title="Version of ANSIColors-balises" src="https://pypip.in/version/ANSIColors-balises/badge.svg" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=format_badge"><img alt="Format of ANSIColors-balises" title="Format of ANSIColors-balises" src="https://pypip.in/format/ANSIColors-balises/badge.svg" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=license_badge"><img alt="License of ANSIColors-balises" title="License of ANSIColors-balises" src="https://pypip.in/license/ANSIColors-balises/badge.svg" /></a>
+   <b>Stats:</b>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_day"><img alt="Stats day for ANSIColors-balises" title="Stats day for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=day" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_week"><img alt="Stats week for ANSIColors-balises" title="Stats week for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=week" /></a>
+   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_month"><img alt="Stats month for ANSIColors-balises" title="Stats month for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=month" /></a>
+
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -87,18 +87,18 @@ Applis pour geeks
 * `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ est un petit service d'accessibilité qui permet au smartphone de lire à l'oral (via du "*text to speach*") les notifications,
 * `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ est une liseuse de documents qui accepte les PDFs mais aussi le format `DJVU <http://djvu.org/>`_.
 
-
-.. warning:: Cette page est encore en rédaction !
-
 Applis pour les fans de McGyver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Army Survival Guide <>`_,
-* `IP WebCam <>`_,
-* `Magnetic Field Log <>`_,
-* `Network Info II <>`_,
-* `Open Food Facts <>`_,
-* `Wifi Analyzer <>`_.
+* `Army Survival Guide <http://apk-dl.com/store/apps/details?id=com.appopus.survival_3_05_70>`_ pour le lire avant un voyage, mais pas pour espérer s'en servir vraiment sur place !
+* `IP WebCam <http://apk-dl.com/store/apps/details?id=com.pas.webcam>`_ pour utiliser son smartphone comme un caméra connectée, avec un wifi local par exemple,
+* `Magnetic Field Log <http://apk-dl.com/store/apps/details?id=com.cem>`_ pour lire les données *brutes* des capteurs magnétiques du téléphone (c'est inutile mais joli),
+* `Network Info II <http://apk-dl.com/store/apps/details?id=aws.apps.networkInfoIi>`_ pour avoir des données précises sur les différents réseaux (notamment la localisation, par 3G ou 4G ou wifi, bien plus rapidement que par une appli de cartographie),
+* `Open Food Facts <http://apk-dl.com/store/apps/details?id=org.openfoodfacts.scanner>`_ pour faire croire qu'on s'intéresse à ce qu'il y a dans nos assiettes,
+* `Wifi Analyzer <http://apk-dl.com/store/apps/details?id=com.farproc.wifi.analyzer>`_ pour avoir des données très précises sur les réseaux wifi visibles.
+
+
+.. warning:: Cette page est encore en rédaction !
 
 Quelques jeux vidéos
 ^^^^^^^^^^^^^^^^^^^^

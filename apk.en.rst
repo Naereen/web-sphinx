@@ -85,18 +85,18 @@ Apps for geeks
 * `Voice Notify <http://apk-dl.com/store/apps/details?id=com.pilot51.voicenotify>`_ is a small accessibility service that speak every incoming notifications (using "*text to speach*"),
 * `VuDroid <http://apk-dl.com/store/apps/details?id=org.vudroid>`_ is a pretty good document reader, which accepts not only PDFs but also `DJVU <http://djvu.org/>`_.
 
-
-.. warning:: This page is still being written!
-
 Apps for McGyver's fans
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-* Army Survival Guide,
-* IP WebCam,
-* Magnetic Field Log,
-* Network Info II,
-* Open Food Facts,
-* Wifi Analyzer.
+* `Army Survival Guide <http://apk-dl.com/store/apps/details?id=com.appopus.survival_3_05_70>`_, but it should be a good idea to read *before* going on an aventure !
+* `IP WebCam <http://apk-dl.com/store/apps/details?id=com.pas.webcam>`_ to use a smartphone's camera as a webcam, works well with a local hifi hotspot generated from your computer (or from your smartphone),
+* `Magnetic Field Log <http://apk-dl.com/store/apps/details?id=com.cem>`_ to read *raw* data from magnetic field captor (as beautiful as useless),
+* `Network Info II <http://apk-dl.com/store/apps/details?id=aws.apps.networkInfoIi>`_ to read precise data about the different wireless network your cellphone is connected to (and especially geolocalisation, with 3G, 4G or hifi, and you can get it much faster than with a heavy cartography app),
+* `Open Food Facts <http://apk-dl.com/store/apps/details?id=org.openfoodfacts.scanner>`_ to know what's in your dishes,
+* `Wifi Analyzer <http://apk-dl.com/store/apps/details?id=com.farproc.wifi.analyzer>`_ to read very precise data about the local hifi networks.
+
+
+.. warning:: This page is still being written!
 
 A few videos games
 ^^^^^^^^^^^^^^^^^^
