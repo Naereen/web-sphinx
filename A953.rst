@@ -126,14 +126,14 @@ Par contre, lorsqu'on prend des photos, il ne faut plus utiliser la touche camé
 
 Quatrième astuce : la réparer ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir cette vidéo [#BUXSmlwUC9Q]_ pour éventuellement comprendre comment démonter et remonter son appareil.
+Voir cette vidéo [#BUXSmlwUC9Q]_ pour éventuellement comprendre comment démonter et remonter son appareil Motorola A953 (Droid 2).
 
 .. warning:: À utiliser avec précaution !
 
-   Je ne recommande pas ce genre d'opération, il faut une certaine expérience avant d'être capable de les réaliser sans abîmer son appareil.
+   Je ne recommande pas ce genre d'opération, il faut une certaine expérience avant d'être capable de les réaliser sans abîmer son appareil !
 
 
-En ce qui me concerne, je n'ai pas eu besoin d'essayer après avoir utiliser l'astuce "`Avec une appli`_". Ouf !
+En ce qui me concerne, je n'ai pas eu besoin d'essayer après avoir utilisé l'astuce "`Avec une appli`_". Ouf !
 
 ------------------------------------------------------------------------------
 
