@@ -15,6 +15,8 @@ Différentes astuces
 -------------------
 Premier défi : allumer son appareil
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Allumer son téléphone A953 sans bouton d'alimentation est la première étape, et la plus difficile en fait !
+
  *« All you have to do is plug in the phone to an AC charger, and the phone should come on. »*
 
 Pour simplement démarrer son téléphone ([#217442]_):
@@ -22,8 +24,8 @@ Pour simplement démarrer son téléphone ([#217442]_):
   *« If you need to power the phone on pull the battery, make sure the charger is in a wall socket not a USB port, then plug it into the phone. Once the* ``M`` *Logo comes up put the battery in. The phone should boot. »*
 
 
-Première solution *(pas encore testée)*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Première solution *(pas validée)*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 C'est à dire, si vous avez besoin de démarrer le téléphone, suivez cette procédure :
 
 1. d'abord enlevez la batterie,
@@ -43,17 +45,25 @@ Essayez alors de suivre la procédure suivante :
 
 1. Retirez la batterie et débranchez le chargeur,
 2. Remettre la batterie, puis appuyez et gardez pressé la touche ``x`` du clavier (matériel) de votre téléphone, puis rebranchez le chargeur.
-3. Garder la touche ``x`` appuyée jusqu'à ce qu'un petit triangle avec un point d'exclamation n'apparaisse.
-4. Selon le mode installé, il peut être nécessaire de presser le bouton loupe pour faire apparaître un menu à plusieurs choix.
+3. Garder la touche ``x`` appuyée jusqu'à ce qu'un petit triangle avec un point d'exclamation n'apparaisse (c'est le menu "recovery" 3e d'Android, fournit par défaut).
+4. Selon la version installée, il peut être nécessaire de presser la touche ``@`` ou
+   la touche ``loupe`` pour faire apparaître un menu à plusieurs choix.
 
    .. image:: http://png-2.findicons.com/files/icons/573/must_have/48/search.png
-      :scale: 85%
+      :scale: 70%
       :align: center
-      :target: http://png-2.findicons.com/files/icons/573/must_have/48/search.png
-      :alt: Loupe !
+      :alt: Une bête loupe. Je voulais la mettre via FontAwesome, mais il n'y a pas d'icône de loupe !
 
 5. Débranchez votre téléphone.
 6. Sélectionnez enfin "*reboot*" ou "*redémarrer*" pour finalement redémarrer.
+
+
+.. warning:: Peut prendre plusieurs étapes !
+
+   Si vous avez installé un autre menu de recovery, comme celui requis par certaines *ROM* non officielles,
+   il est possible que cet autre recovery prenne la main sur le principal, ou autre qu'ils alternent (l'un reboot sur l'autre).
+
+   Essayez de valider le choix de "*reboot*" à l'étape 6 avec la touche *caméra* au lieu de la touche ``OK``.
 
 
 Seconde astuce : s'en passer ?
