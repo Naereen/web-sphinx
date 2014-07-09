@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="sidebar" style="font-size:80%;">
-   <p class="first sidebar-title"><i>Quoi de neuf</i> par ici ?</p>
+   <p class="first sidebar-title" style="font-size:110%;"><i>Quoi de neuf</i> par ici ?</p>
    <ol class="last arabic simple">
    <li>Nos <a href="http://agreg.org/ResultatsMerite2014.html">résultats d'admission pour l'agrégation de mathématiques</a> sont tombés le mercredi 9 juillet (et j'ai été <b>admis 23ème sur 275</b>). <i>Youpi !</i></li>
    <li><a href="http://besson.qc.to/apk.fr.html">apk.fr.html</a>: une liste d'applications <tt>Android</tt> pratiques,</li>

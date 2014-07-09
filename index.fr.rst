@@ -203,9 +203,9 @@ Sa documentation est hébergée sur
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de **4500 fois** !
-*(Des statistiques partielles, pour le mois de mai 2015* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+*(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ 
-*ou en là `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)*
+*ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -220,13 +220,13 @@ J'ai eu **16.9/20** pour ce projet.
 
 ------------------------------------------------------------------------------
 
-.. sidebar:: Versions PDF de certaines pages
+.. container:: smallpar
 
-   .. container:: smallpar
+   .. sidebar:: Versions PDF de certaines pages
 
       Certaines des pages de ce site sont aussi disponibles en version **PDF**.
       Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
-      latérale, dans la section "Cette page en .txt et en .pdf".
+      latérale, dans la section "Autre formats".
 
       Ces versions **PDF** sont encore expérimentales, notamment car les extensions
       "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
@@ -244,34 +244,33 @@ Cette page là `NanoSyntax <NanoSyntax.html>`_ présente le fonctionnement
 de la *coloration syntaxique* dans l'éditeur **GNU/Nano**, et donne plusieurs
 fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
-.. note:: Pour *Jota Text Editor* & *Jota +*
+.. note:: Pour *Jota Text Editor* & *Jota+*
 
    J'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
    `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-   et `Jota + <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ :
+   et `Jota+ <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ (téléchargés plus de 7 millions de fois !) :
 
     #. `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
     #. `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
 Flux RSS
 ^^^^^^^^^
-Depuis *Avril 2013*, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
+Depuis *avril 2013*, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 Pour plus d'informations, ou pour lire directement les dernières entrées
 du *flux*, la page `<rss.html>`_ est là pour ça.
 
 Traductions
 ^^^^^^^^^^^
-Depuis mars 2013, je participe à la traduction de différents logiciels et sites web.
+Entre *mars 2013* et *février 2014*, j'ai participé à la traduction de différents logiciels et sites web.
 :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
 
 La page `<transifex.html>`_ présente de façon narrative le premier contact avec le site `transifex <http://www.transifex.com>`_.
-J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et plus récemment
-j'ai traduit en français le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
+J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et `XFCE <http://xfce.org/>`_, ou aussi le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
 
 Wolfram|Alpha
 ^^^^^^^^^^^^^
-La page `<wolfram.html>`_ présente l'outil ``wolf``, qui permet d'accéder, en ligne
-de commande, à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
+La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de commande),
+à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
 Galerie photos et musiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -279,7 +278,7 @@ Galerie photos et musiques
    (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
 #. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, ici `<generatejplayer.sh/>`_
-   (les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_).
+   (les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).
 
 ------------------------------------------------------------------------------
 
@@ -311,7 +310,7 @@ Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
 `web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
 
 Certaines pages présentent aussi l'intégration de projets sympas,
-écrits en **JavaScript** (pas pas moi) :
+écrits en **JavaScript** (pas par moi) :
 
 #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
    directement dans un navigateur web !
@@ -327,17 +326,16 @@ Certaines pages présentent aussi l'intégration de projets sympas,
 
 #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
    directement dans un navigateur web, avec un éditeur qui
-   colore l'entrée du toplevel (:red:`cassé en ce moment`) !
+   colore l'entrée du toplevel. (:red:`cassé en ce moment`, aucune idée de la raison)
 
 #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
    directement dans un navigateur web avec un genre d'interface *graphique*
-   (module ``Turtle`` disponible). (:red:`cassé en ce moment`) !
+   (module ``Turtle`` disponible) !
 
 Liens externes
 ^^^^^^^^^^^^^^
 #. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
 #. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
-#. `<http://besson.or.gs>`_ et par exemple `<http://besson.or.gs/bin/pdflatex>`_ ou `<http://besson.or.gs/publis/puzzle/>`_.
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
    d'afficher n'importe quelle page (par exemple,
    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
@@ -350,7 +348,9 @@ Liens externes
 .. sidebar:: À propos de Naereen
 
    **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise *partout*.
-   C'est un prénom *oriental* *féminin*, porté notamment en Iran, et en Syrie.
+   C'est un prénom d'origine *orientale*, usuellement *féminin*.
+
+   .. et j'ai été inspiré par *Noreen*, un personnage d'un livre.
 
 
 --------------------------------------------------------------------

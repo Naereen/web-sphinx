@@ -1,7 +1,7 @@
 .. raw:: html
 
    <div class="sidebar" style="font-size:80%;">
-   <p class="first sidebar-title">What's <i>new</i> around here?</p>
+   <p class="first sidebar-title" style="font-size:110%;">What's <i>new</i> around here?</p>
    <ol class="last arabic simple">
    <li><a href="http://agreg.org/ResultatsMerite2014.html">We got our results for</a> the French competitive national exam to become a maths teacher (<i>« agrégation »</i>). And as desired <b>I have been accepted, ranked 23th</b> on 275. <i>Yeepee !</i></li>
    <li><a href="http://besson.qc.to/apk.en.html">apk.en.html</a>: a list of useful <tt>Android</tt> apps,</li>
