@@ -2,16 +2,16 @@
    :description lang=fr: Page décrivant les publications du dossier publis/
    :description lang=en: Description of publications in folder publis/
 
-#################################################
- Publications diverses (du dossier `<publis/>`_)
-#################################################
+###########################################################
+ Productions techniques diverses (du dossier `<publis/>`_)
+###########################################################
 .. include:: .special.rst
 À-propos
 --------
-Cette page est là pour décrire les divers éléments du dossier `<publis/>`_.
+Cette page est là pour décrire les divers projets techniques présents dans le dossier `<publis/>`_.
 
-Ce dossier contient un certain nombre de petites publications
-(logiciels, scripts ou autres); ainsi que certains projets plus importants.
+Ce dossier contient un certain nombre de petites productions
+(logiciels, scripts ou autres); ainsi que certains projets plus solides.
 
 .. sidebar:: Retourner à l'accueil
 
@@ -21,7 +21,7 @@ Ce dossier contient un certain nombre de petites publications
 .. note:: Conditions de distribution
 
    Chaque projets listés sur cette page est distribué *librement*,
-   sous les termes de la `licence GPLv3 <LICENSE.html>`_.
+   sous les termes de la `licence GPLv3 <LICENSE.html>`_ !
 
 
 ---------------------------------------------------------------------
@@ -58,14 +58,15 @@ pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
 `MOcamlPlot <publis/MOcamlPlot.zip>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
-propose une surcharge des opérateurs (du genre ``plot("cos((x+5)/2.16)",0-10)``),
-et plein de trucs géniaux !
+Ce projet proposait une surcharge des opérateurs (réalisée très *salement*), ainsi que des commandes « *à la Maple* »
+(du genre ``plot("cos((x+5)/2.16)",0--10)``), et quelques trucs assez géniaux.
+Je manque de temps pour le remettre à jour.
 
 :État: *N'est plus maintenu!* Devrait peut-être fonctionner. Mais pas sûr.
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon sûre, *typée* et amusante.
+Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon simple, complètement *typée* et efficace.
 Fonctionne *comme ça* : pas besoin d'installation (juste inclure le fichier zenity.ml et zenity.mli dans votre projet).
 Par example :
 
@@ -77,7 +78,7 @@ Par example :
    reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
 
 
-:État: *N'est plus maintenu activement* mais fonctionne avec la dernière version d'OCaml (4.01.0) et de Zenity.
+:État: *N'est plus maintenu activement* mais fonctionne avec les dernières versions d'OCaml (4.01.0 et bêtas) et de Zenity.
 
 `ansi-colors <publis/ansi-colors/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -2,33 +2,33 @@
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson's personal web page
 
-#############################################################
- Bienvenue sur les pages personnelles de **Lilian Besson** !
-#############################################################
-.. include:: .special.rst
-À propos de moi
----------------
+######################################
+ Bienvenue sur mes pages personnelles
+######################################
+À propos (de moi)
+-----------------
 Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
-**Je suis actuellement en troisième année** et en 2013/2014,
-je prépare le concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option *informatique*).
-Comme tous mes camarades qui la prépare à l'ENS Cachan, `je suis admissible <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_ (`ou là <http://lmgtfy.com/?q=%22besson+lilian+jean%22+site%3Aeducation.fr>`_).
-Nous passons les oraux dans quelques jours !
+**Je suis actuellement en troisième année**,
+et depuis mercredi 09 juillet, je suis admis au concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option "D" *informatique*).
 
+.. include:: .special.rst
 .. include:: whatsnew.fr.rst
 
 Études
 ^^^^^^
+.. * En 2013/2014, j'ai préparé et obtenu un Master de Formation des Enseignants du Supérieur (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*, ainsi que l'agrégation de mathématiques
+
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
-  les deux avec une mention Bien.
+  les deux avec une mention *Bien*.
 
 * En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
-  mention Bien (L3, *Bachelor of Science* en anglais).
+  aveec mention *Bien* (L3, *Bachelor of Science* en anglais).
 
 * En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
 
-* Avant ça, je vivais à Briançon (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S en 2009.
+* Avant ça, je vivais à Briançon (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009.
 
 .. container:: smallpar
 
@@ -41,6 +41,7 @@ Nous passons les oraux dans quelques jours !
     des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
+    Et certains disent que je cuisine bien.
 
    **Un petit mot sur ce site** :
 

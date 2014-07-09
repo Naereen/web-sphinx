@@ -25,8 +25,16 @@
 <!-- Début du flux -->
 
       <item>
+       <title>Résultats d'admission pour l'agrégation externe de mathématiques !</title>
+       <link>http://agreg.org//ResultatsMerite2014.html</link>
+       <description>Nous sommes contents de nos résultats !</description>
+       <guid>http://web.archive.org/web/*/agreg.org/ResultatsMerite2014.html</guid>
+       <pubDate>Wed, 09 July 2014 17:18:00 +0200</pubDate>
+      </item>
+
+      <item>
        <title>Fin des oraux pour l'agrégation externe de mathématiques !</title>
-       <link>http://web.archive.org/web/20140701073629/agreg.org/ResultatsAdm2014.html</link>
+       <link>http://web.archive.org/web/*/agreg.org/ResultatsAlpha2014.html</link>
        <description>Tous les Cachanais sont en train de passer leurs oraux ! J'ai terminé les miens aujourd'hui !</description>
        <guid>http://web.archive.org/web/20140701073805/publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=CHOIX_ACAD&amp;_concours=EAE&amp;_section=4410&amp;_type=ADMISSIBILITE</guid>
        <pubDate>Sat, 5 July 2014 00:18:00 +0200</pubDate>

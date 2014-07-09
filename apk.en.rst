@@ -75,7 +75,7 @@ Apps for geeks
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (and this `codec pack <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) is an amazing app to use the `VoIP <https://en.wikipedia.org/wiki/VoIP>`_, similar to `Linphone`_,
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.Android>`_ is a good remote controller for your personnal laptop, to be used `with this small client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ is the best app to use `SSH <https://en.wikipedia.org/wiki/Secure_Shell>`_ to connect to another laptop or server,
-* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ another good app to call and videochat with `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_,
+* `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ another good app to call and videochat with `VoIP <https://en.wikipedia.org/wiki/VoIP>`_,
 * `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ for Android™ v2 (2.2 à 2.3.8),
 * `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, a good and complete *pokédex™*,
 * `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ is another well designed admin toolbox, mainly for rooted devices,
