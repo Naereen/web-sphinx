@@ -10,7 +10,7 @@
 Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 **Je suis actuellement en troisième année**,
-et depuis mercredi 09 juillet, je suis admis au concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option "D" *informatique*).
+et *depuis mercredi 09 juillet*, je suis lauréat au concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option "D" *informatique*).
 
 .. include:: .special.rst
 .. include:: whatsnew.fr.rst
