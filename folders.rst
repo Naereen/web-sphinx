@@ -4,7 +4,7 @@
 
 .. warning::
 
-   L'affichage amélioré des répertoires avec Apache est un peu expérimental..
+   L'affichage amélioré des répertoires avec Apache est un peu expérimental...
    N'hésitez pas à `signaler un bug <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ si besoin est!
 
 
