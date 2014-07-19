@@ -10,22 +10,32 @@
    This page's purpose is to give a complete list of different way to stay in touch with `me <index.html>`_ (*Lilian Besson*).
 
 
+Traditionnal ways
+-----------------
+Postal addresses
+^^^^^^^^^^^^^^^^
 .. warning:: Translation is still in progress !
 
    *Please forgive my slowness !*
 
 
-Moyens traditionnels
---------------------
-Courrier postal
-^^^^^^^^^^^^^^^
 Vous pouvez m'écrire ou bien m'envoyer des cartes postales (j'adore ça),
 aux adresses suivantes (listées par ordre de préférence) :
 
-1. secrétariat du département de mathématiques, à l'ENS de Cachan (en France),
-2. chez moi (en France),
-3. ancien chez moi, au CROUS de Cachan (en France, déprécié),
-4. ou bien en Inde (plus cher et plus long).
+1. secrétariat du département de mathématiques, à l'ENS de Cachan, en France
+   (voir `sur un plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_) ::
+
+       Mr Lilian Besson,
+       ENS Cachan,
+       Dept. de Mathématiques,
+       41, avenue du Président Wilson,
+       94230 - Cachan,
+       France
+
+
+3. chez moi (en France),
+4. ancien chez moi, au CROUS de Cachan (en France, déprécié),
+5. ou bien en Inde (plus cher et plus long).
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
@@ -57,7 +67,7 @@ Pour essayer de m'avoir directement, **si c'est vraiment important**, veuillez u
 .. warning:: Je suis actuellement à l'étranger, en Inde.
 
    Les appels vers l'étranger coûtent cher !
-   Même recevoir des appels coûtent cher en fait ...
+   Même recevoir des appels coûtent cher (pour moi) !!
 
 
 Pour m'envoyer des messages textuels (SMS), idem (*attention au prix aussi !*).
@@ -76,7 +86,9 @@ Vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'es
 
 VoIP (Téléphonie par internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Vous pouvez essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
+Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
+
+Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
 
 .. info:: Linphone ?
 
@@ -88,7 +100,7 @@ Vous pouvez essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`
 
 Formulaires web
 ^^^^^^^^^^^^^^^
-* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'annuaire électronique de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
+* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'`annuaire électronique <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_ de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
 * ou bien signaler un bug via le formulaire suivant : https://bitbucket.org/lbesson/home/issues/new. Mais **ce n'est pas conçu pour me contacter directement !**
 
 Services HTML5
@@ -97,7 +109,7 @@ Services HTML5
 
    Vous pouvez utiliser `cette page là <http://iswebrtcready.appear.in/>`_ pour vérifier si votre navigateur actuel supporte la technologie WebRTC.
 
-   En revanche, comme ils sont synchrones, il faut se mettre d'accord pour un rendez-vous d'abord !
+   En revanche, comme ils sont *synchrones*, **il faut se mettre d'accord pour un rendez-vous d'abord** !
 
 
 Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.wikipedia.org/wiki/HTML5>`_, permettent de facilement se parler, s'écrire ou s'échanger des fichiers.
@@ -110,8 +122,8 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
 
 .. seealso::
 
-   `Cette page <vieprivee.html>`_
-      Cette page détaille quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
+   Cette page `<vieprivee.html>`_
+      Quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

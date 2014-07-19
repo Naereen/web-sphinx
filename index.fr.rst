@@ -9,15 +9,16 @@
 -----------------
 Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
-**Je suis actuellement en troisième année**,
-et *depuis mercredi 09 juillet*, je suis lauréat au concours national de l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_ (en option "D" *informatique*).
+
+.. Je suis actuellement en troisième année;
+Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, bientôt chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques et en informatique.
 
 .. include:: .special.rst
 .. include:: whatsnew.fr.rst
 
 Études
 ^^^^^^
-.. * En 2013/2014, j'ai préparé et obtenu un Master de Formation des Enseignants du Supérieur (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*, ainsi que l'agrégation de mathématiques
+* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*, ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://agreg.org/ResultatsMerite2014.html>`_.
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
@@ -55,22 +56,11 @@ et *depuis mercredi 09 juillet*, je suis lauréat au concours national de l'`agr
     peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
 
 
-Adresses de contact
-^^^^^^^^^^^^^^^^^^^
+`Adresses de contact <callme.fr.html>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
-#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon non anonyme (actuellement via l'`annuaire de l'ENS <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_);
-
-#. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
-
-       Mr Lilian Besson,
-       ENS Cachan,
-       Dept. de Mathématiques,
-       41, avenue du Président Wilson,
-       94230 - Cachan,
-       France
-
-#. ou encore tenter de m'envoyer un message sur *Facebook* (mon compte : `lbesson <https://www.facebook.com/naereencorp.lbesson>`_);
+#. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon **non** anonyme (actuellement via l'`annuaire de l'ENS <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_);
 
    .. image:: .courriel.png
       :scale: 120 %
@@ -88,9 +78,20 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
 #. ou enfin par téléphone (:red:`seulement si c'est urgent ou important`) :
 
+#. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
-Mes projets en ligne
-^^^^^^^^^^^^^^^^^^^^
+       Mr Lilian Besson,
+       ENS Cachan,
+       Dept. de Mathématiques,
+       41, avenue du Président Wilson,
+       94230 - Cachan,
+       France
+
+#. plus de moyens de me contacter sont sur cette page : `<callme.fr.html>`_ !
+
+
+Certains projets, en ligne
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. sidebar:: CV
 
    Mon *CV* est disponible ici `<cv.fr.pdf>`_ en français ou `<cv.en.pdf>`_ en anglais
@@ -108,9 +109,6 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (peu actif).
-
-#. ou enfin via mon profil *Launchpad*,
-   `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_ (pas vraiment utilisé);
 
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
@@ -161,9 +159,9 @@ pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
 Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
-`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore
+`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce
 `README.html <http://lbesson.bitbucket.org/README.html>`_
-qui décrivent certains projets, et donnent de nombreux scripts sur lesquels
+qui décrivent certains projets, et notamment des scripts sur lesquels
 je travaille *sur mon temps libre*.
 
 StrapDown.js v2 (03/2014)
@@ -219,18 +217,6 @@ Vous pouvez consulter la documentation de ce projet, réalisée automatiquement 
 J'ai eu **16.9/20** pour ce projet.
 
 ------------------------------------------------------------------------------
-
-.. container:: smallpar
-
-   .. sidebar:: Versions PDF de certaines pages
-
-      Certaines des pages de ce site sont aussi disponibles en version **PDF**.
-      Il suffit de voir si un *"Voir la version PDF"* est présent dans la barre
-      latérale, dans la section "Autre formats".
-
-      Ces versions **PDF** sont encore expérimentales, notamment car les extensions
-      "non-officielles" de **Sphinx** ne supportent que la sortie **HTML** pour le moment !
-
 
 Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -341,7 +327,7 @@ Liens externes
    `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
-#. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec dot.tk, un autre service gratuit.
+#. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec ``dot.tk``, un autre service gratuit.
 
 .. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.
 
@@ -349,8 +335,6 @@ Liens externes
 
    **Naereen** (ou Næreen) est **mon pseudo**, que j'utilise *partout*.
    C'est un prénom d'origine *orientale*, usuellement *féminin*.
-
-   .. et j'ai été inspiré par *Noreen*, un personnage d'un livre.
 
 
 --------------------------------------------------------------------
