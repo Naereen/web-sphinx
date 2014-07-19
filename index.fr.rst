@@ -11,6 +11,7 @@ Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.m
 (*grande école* près de Paris, France).
 
 .. Je suis actuellement en troisième année;
+
 Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, bientôt chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques et en informatique.
 
 .. include:: .special.rst

@@ -90,7 +90,7 @@ Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/Util
 
 Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
 
-.. info:: Linphone ?
+.. note:: Linphone ?
 
    `Linphone`_ est un outil *libre* et *gratuit* de téléphonie par IP, qui fonctionne parfaitement.
    Il propose un client pour bureau (Windows, Ubuntu etc) et pour téléphone (Android etc).
