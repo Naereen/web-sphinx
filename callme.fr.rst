@@ -77,10 +77,10 @@ IRC (salles de discussion)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 De temps en temps, je suis sur le réseau ``irc.crans.org``, connecté souvent aux salles *#crans* et *#general*, sous le pseudo `Naereen <https://gravatar.com/naereen>`_ (j'utilise généralement `irssi <http://irssi.org/about>`_ avec `ces fichiers de configuration <publis/irssi/>`_, en console).
 
-Vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
+Si vouv vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
 
-VoIP (Téléphonie par internet)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+VoIP (Téléphonie par l'Internet)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
 
 Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.

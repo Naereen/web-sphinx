@@ -14,16 +14,11 @@ Traditionnal ways
 -----------------
 Postal addresses
 ^^^^^^^^^^^^^^^^
-.. warning:: Translation is still in progress !
+You can write a letter or some postal cards to me (I love them),
+at the following addresses (listed by decreasing preference) :
 
-   *Please forgive my slowness !*
-
-
-Vous pouvez m'écrire ou bien m'envoyer des cartes postales (j'adore ça),
-aux adresses suivantes (listées par ordre de préférence) :
-
-1. secrétariat du département de mathématiques, à l'ENS de Cachan, en France
-   (voir `sur un plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_) ::
+1. mathematics department secretary, at *ENS de Cachan*, in France
+   (you can `see it on this OpenStreetMap map <http://osm.org/go/0BOchV4ns-->`_) ::
 
        Mr Lilian Besson,
        ENS Cachan,
@@ -33,59 +28,64 @@ aux adresses suivantes (listées par ordre de préférence) :
        France
 
 
-3. chez moi (en France),
-4. ancien chez moi, au CROUS de Cachan (en France, déprécié),
-5. ou bien en Inde (plus cher et plus long).
+3. to my parents' place (in France),
+4. to my format place, at CROUS of Cachan (in France, but deprecated),
+5. or you can try in India (more expensive, and probably longer).
 
-Courrier électronique
-^^^^^^^^^^^^^^^^^^^^^
-Si c'est pour du spam : jarvis.spam@laposte.net !
+Emails
+^^^^^^
+If you are a spammer, go on : jarvis.spam@laposte.net !
 
 .. image:: .courriel.png
    :scale: 120 %
    :align: right
-   :alt:   Mon adresse courriel, dans une image png...
-   :target: mailto:Lilian.Besson à ens-cachan point fr
+   :alt:   My email address in a PNG picture...
+   :target: mailto:Lilian.Besson at ens-cachan dot fr
 
 
-Si c'est sérieux, vous pouvez utiliser cette adresse :
+If you are not a spammer, go on, you can use this one:
 
-  `Lilian point Besson à ens-cachan point fr <mailto:Lilian point Besson à ens-cachan point fr>`_
+  `Lilian dot Besson at ens-cachan dot fr <mailto:Lilian dot Besson at ens-cachan dot fr>`_
 
 
-Téléphone
-^^^^^^^^^
+Regular phone
+^^^^^^^^^^^^^
 .. image:: .telephone.png
    :scale: 130 %
    :align: right
-   :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+   :alt:   My cellphone number, in a PNG picture...
    :target: callto:100101011101001100111101100001_2
 
 
-Pour essayer de m'avoir directement, **si c'est vraiment important**, veuillez utiliser mon numéro français (*attention au prix !*).
+To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number : (*but beware of the price !*).
 
-.. warning:: Je suis actuellement à l'étranger, en Inde.
+.. warning:: I am currently out of the French territory, in Inde.
 
-   Les appels vers l'étranger coûtent cher !
-   Même recevoir des appels coûtent cher (pour moi) !!
+   Give a call to someone in a foreign country is expensive !
+   In fact, even receive them is awfully expensive... !!
 
 
-Pour m'envoyer des messages textuels (SMS), idem (*attention au prix aussi !*).
+You could also try to send me text messages (SMS), with the same number, obviously (*again, but beware of the price !*).
 
 ------------------------------------------------------------------------------
 
-Autres méthodes
----------------
-Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou un téléphone intelligent relativement récent.
+Other methodes
+--------------
+The next solutions are way more *geeky*, and you will need a relatively recent computer to try them.
 
-IRC (salles de discussion)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-De temps en temps, je suis sur le réseau ``irc.crans.org``, connecté souvent aux salles *#crans* et *#general*, sous le pseudo `Naereen <https://gravatar.com/naereen>`_ (j'utilise généralement `irssi <http://irssi.org/about>`_ avec `ces fichiers de configuration <publis/irssi/>`_, en console).
+IRC (chat rooms)
+^^^^^^^^^^^^^^^^
+From time to time, I appear on the irc network ``irc.crans.org``, in the rooms *#crans* and *#general*, with pseudo `Naereen <https://gravatar.com/naereen>`_ (I usually use `irssi <http://irssi.org/about>`_ with `these configuration files <publis/irssi/>`_, in a terminal, obviously).
 
-Vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
+If you are feeling particularly audacious, you can try to "let a message for me" there, *that's really a bad idea*.
 
-VoIP (Téléphonie par internet)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+VoIP (Telephony by the Internet)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. warning:: Translation is still in progress !
+
+   *Please forgive my slowness !*
+
+
 Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
 
 Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
