@@ -29,7 +29,7 @@ at the following addresses (listed by decreasing preference) :
 
 
 3. to my parents' place (in France),
-4. to my format place, at CROUS of Cachan (in France, but deprecated),
+4. to my former place, at CROUS of Cachan (in France, but deprecated),
 5. or you can try in India (more expensive, and probably longer).
 
 Emails
@@ -69,13 +69,13 @@ You could also try to send me text messages (SMS), with the same number, obvious
 
 ------------------------------------------------------------------------------
 
-Other methodes
---------------
+Other methods
+-------------
 The next solutions are way more *geeky*, and you will need a relatively recent computer to try them.
 
 IRC (chat rooms)
 ^^^^^^^^^^^^^^^^
-From time to time, I appear on the irc network ``irc.crans.org``, in the rooms *#crans* and *#general*, with pseudo `Naereen <https://gravatar.com/naereen>`_ (I usually use `irssi <http://irssi.org/about>`_ with `these configuration files <publis/irssi/>`_, in a terminal, obviously).
+From time to time, I appear on the IRC network ``irc.crans.org``, in the rooms *#crans* and *#general*, with pseudo `Naereen <https://gravatar.com/naereen>`_ (I usually use `irssi <http://irssi.org/about>`_ with `these configuration files <publis/irssi/>`_, in a terminal, obviously).
 
 If you are feeling particularly audacious, you can try to "let a message for me" there, *that's really a bad idea*.
 
@@ -83,7 +83,7 @@ VoIP (Telephony by the Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me : call the French fix number +33.9.72.11.32.70 then compose "one four zero four two" when the robot asks you to do it.
 
-You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account : naereen at linphone dot org (``" at "``=``@``, ``" dot "``=``.``).
+You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account : naereen at linphone dot org (" at " = "@", " dot " = ".").
 
 .. note:: Linphone ?
 
@@ -95,7 +95,7 @@ You could also try to call me (or to text me) at the `Linphone <http://www.linph
 
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
-* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
+* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
 * or if it is related to one of my pages or softwares, you could signal a bug with this form : https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly !**
 
 HTML5 Services

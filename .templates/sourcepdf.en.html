@@ -10,9 +10,9 @@
 <h3>Other formats</h3>
 {%- if show_source and has_source and sourcename %}
 <ul class="this-page-menu">
- <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}" title="PDF version" 
-        rel="nofollow">Show a PDF version (experimental)</a></li>
- <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version" 
+{# <li><a href="{{ pathto('pdf/' + sourcename + '.pdf', true)|e }}" title="PDF version"
+        rel="nofollow">Show a PDF version (experimental)</a></li> #}
+ <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}" title="txt version"
         rel="nofollow">Show the source (.rst)</a></li>
  <script type="text/javascript">
   var path = "{{ sourcename }}";

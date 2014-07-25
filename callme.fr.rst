@@ -83,7 +83,7 @@ VoIP (Téléphonie par l'Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
 
-Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
+Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen à linphone point org (" à " = "@", " point " = ".").
 
 .. note:: Linphone ?
 
