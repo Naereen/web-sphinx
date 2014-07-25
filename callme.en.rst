@@ -1,6 +1,6 @@
 .. meta::
-   :description lang=fr: Page d'informations pour contacter Lilian Besson
    :description lang=en: Informations on how to stay in touch with Lilian Besson
+   :description lang=fr: Page d'informations pour contacter Lilian Besson
 
 ################################
  How to stay in touch with me ?
@@ -34,7 +34,7 @@ at the following addresses (listed by decreasing preference) :
 
 Emails
 ^^^^^^
-If you are a spammer, go on : jarvis.spam@laposte.net !
+If you are a spammer, go on : jarvis.spam@laposte.net ! Oh, and, go fùck yoùrself also.
 
 .. image:: .courriel.png
    :scale: 120 %
@@ -81,49 +81,44 @@ If you are feeling particularly audacious, you can try to "let a message for me"
 
 VoIP (Telephony by the Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. warning:: Translation is still in progress !
+You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me : call the French fix number +33.9.72.11.32.70 then compose "one four zero four two" when the robot asks you to do it.
 
-   *Please forgive my slowness !*
-
-
-Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
-
-Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen at linphone dot org.
+You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account : naereen at linphone dot org (``" at "``=``@``, ``" dot "``=``.``).
 
 .. note:: Linphone ?
 
-   `Linphone`_ est un outil *libre* et *gratuit* de téléphonie par IP, qui fonctionne parfaitement.
-   Il propose un client pour bureau (Windows, Ubuntu etc) et pour téléphone (Android etc).
-   Pour Android, je préfère `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
-   `Linphone`_ permet aussi de créer un compte utilisateur, gratuitement, afin d'appeler sans limite n'importe quel autre utilisateur de VoIP avec le `protocole SIP <http://fr.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
+   `Linphone`_ is a *free* and *open-source*  voice over IP implementation, which works perfectly.
+   They have a desktop application (for Windows, Ubuntu etc) and one for mobile phones (Android etc).
+   For Android, I prefer to use the awesome `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
+   `Linphone`_ also provides free user accounts, to call (without limit) any other `Linphone`_ users, thanks to VoIP and the `SIP protocol <http://en.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
 
 
-Formulaires web
-^^^^^^^^^^^^^^^
-* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'`annuaire électronique <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_ de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
-* ou bien signaler un bug via le formulaire suivant : https://bitbucket.org/lbesson/home/issues/new. Mais **ce n'est pas conçu pour me contacter directement !**
+Forms on some web pages
+^^^^^^^^^^^^^^^^^^^^^^^
+* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
+* or if it is related to one of my pages or softwares, you could signal a bug with this form : https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly !**
 
-Services HTML5
+HTML5 Services
 ^^^^^^^^^^^^^^
-.. sidebar:: Plus d'explications
+.. sidebar:: Some explanation ?
 
-   Vous pouvez utiliser `cette page là <http://iswebrtcready.appear.in/>`_ pour vérifier si votre navigateur actuel supporte la technologie WebRTC.
+   You can go to `this testing page <http://iswebrtcready.appear.in/>`_, to check if your browser is compatible with the "WebRTC" technology, which is part of the last HTML version (HTML 5).
 
-   En revanche, comme ils sont *synchrones*, **il faut se mettre d'accord pour un rendez-vous d'abord** !
+   However, these services are *synchronous*, **so first we have to agree for a date and an hour** !
 
 
-Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.wikipedia.org/wiki/HTML5>`_, permettent de facilement se parler, s'écrire ou s'échanger des fichiers.
+These web services, strongly based on the great functions offered by the `HTML 5 <https://en.wikipedia.org/wiki/HTML5>`_, offer the possibility to talk, to write or even to share files, dynamically.
 
-* `gruveo.com/#0628412257 <https://www.gruveo.com/#0628412257>`_ pour des appels (vocaux ou vidéos), semble fiable et sécurisé,
-* `appear.in/Naereen <https://appear.in/Naereen>`_ pour des visio-conférences, jusqu'à 8 personnes,
-* `RTC Copy <https://rtccopy.com/>`_ pour s'envoyer des fichiers (toute taille, tout type),
-* et enfin `img.bi <https://img.bi/>`_ pour s'envoyer des images.
+* `gruveo.com/#0628412257 <https://www.gruveo.com/#0628412257>`_ for vocal or videos calls. It seems to be secured and reliable,
+* `appear.in/Naereen <https://appear.in/Naereen>`_ for video-chat, up to 8 persons at a time,
+* `RTC Copy <https://rtccopy.com/>`_ to securely send files over the Internet (no matter the type, no matter the size),
+* and the last but not the least, `img.bi <https://img.bi/>`_ is especially designed to send pictures.
 
 
 .. seealso::
 
-   Cette page `<vieprivee.html>`_
-      Quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
+   This page `<vieprivee.html>`_
+      Some others tools are presented there, and they surely can be used to (try to) preserve your on-line private life.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

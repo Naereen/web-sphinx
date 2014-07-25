@@ -34,11 +34,13 @@ Liste des outils
 
     N'hésitez pas à m'envoyer des liens supplémentaires !
 
+
 .. image::	.free_speech.png
    :scale:	100 %
    :align:	center
    :alt:	Free Speech
    :target:	http://xkcd.com/1357/
+
 
 .. note:: Liste des références
 
@@ -118,6 +120,8 @@ Outils de "communication" à usage unique
 * `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``.
   Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
 
+* `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <korben.info/digify.html>`_).
+
 ---------------------------------------------------------------------
 
 Protéger sa vie privée
@@ -135,6 +139,14 @@ Protéger sa vie privée
 * `Tor <https://torproject.org/>`_ pour communiquer de façon sécurisée.
   Voir par exemple `ce schéma interactif <https://people.torproject.org/~lunar/tor-and-https/fr/tor-and-https.svg>`_
   pour mieux comprendre l'intérêt de ``HTTPS`` et ou de `Tor`_.
+
+
+.. image::	.nerd_dream_security.png
+   :scale:	100 %
+   :align:	center
+   :alt:	Nerd dream about Security
+   :target:	http://xkcd.com/538/
+
 
 ---------------------------------------------------------------------
 
