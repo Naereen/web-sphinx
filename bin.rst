@@ -10,8 +10,8 @@
 À-propos
 --------
 .. note:: Nouveau dépôt git :
-    
-    Tous mes scripts et petits programmes sont de nouveau publiquement disponibles sur le tout neuf 
+
+    Tous mes scripts et petits programmes sont de nouveau publiquement disponibles sur le tout neuf
     `bin.git <https://bitbucket.org/lbesson/bin/>`_ (ou plus d'informations ici `README.html <bin/README.html>`_).
 
 
@@ -49,7 +49,7 @@ GNU Bash
   Profil complémentaire pour GNU Bash, définition d'alias et de fonctions.
 
   :État: *Terminé*, mais en amélioration constante..
-   
+
 ------------------------------------------------------------------------------
 
 Liste des scripts
@@ -61,10 +61,10 @@ Liste des scripts
     Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
     voir même échouent complètement.
     **Tout retour d'utilisation est le bienvenu**.
-    
+
     Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues/new>`_,
     ou encore m'envoyer un mail.
-    
+
     *Par ailleurs* toute contribution est la bienvenue, et sera intégrée dans les prochaines versions
     du script concerné
     (ces scripts sont distribués sous les termes de la `licence GPLv3 <LICENSE.html>`_).
@@ -128,8 +128,8 @@ Utilitaires divers
 ^^^^^^^^^^^^^^^^^^
 
 * `autotex <bin/autotex>`_,
-  un outil *expérimental* pour rapidement écrire du \\(\\LaTeX{}\\) sans en-têtes, juste en écrivant le contenu.
-  Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.tex <publis/latex/template.tex>`_ à sauvegarder dans votre *$HOME*.
+  un outil *expérimental* (uniquement pour GNU/Linux) pour rapidement écrire du \\(\\LaTeX{}\\) sans en-têtes, **juste en écrivant le contenu**.
+  Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.fr.tex <publis/latex/template.fr.tex>`_ (ou `template.en.tex <publis/latex/template.en.tex>`_ en anglais) à sauvegarder dans votre *$HOME* (``~``).
   D'autres feuilles de style sont disponibles dans le dossier `<publis/latex/>`_.
 
   :État: *Expérimental* mais fonctionne très bien.
@@ -162,14 +162,14 @@ Utilitaires divers
 
 
 * `PDFCompress <bin/PDFCompress>`_,
-  un script pour automatiquement signer, compresser ou encore changer les méta-données d'un ou plusieur document(s) PDF, en ligne de commande.
-  Très utile, notamment avant d'envoyer des PDFs sur un serveur web.
+  un script pour automatiquement signer, compresser, ou encore changer les méta-données d'un ou plusieurs document(s) PDF, en ligne de commande.
+  Très utile, notamment avant d'envoyer des PDFs sur un serveur web ou par courriels.
   Selon le type de *PDF*, l'efficacité de la compression varie de 5% a 400% !
 
-  *Attention* j'ai choisit de ne PAS implémenter de vérification de l'efficacité de la compression,
+  J'ai enfin ajouté une vérification de l'efficacité de la compression,
   et il *arrive* que le *PDF* produit soit PLUS lourd qu'avant. Dans ce cas, pas de soucis,
   il suffit de l'échanger avec l'ancienne version (conservée dans */tmp/*).
-  
+
   :red:`Il est désormais muni d'un fichier de bash completion,` `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
 
   :État: *Stable et efficace*.
@@ -231,8 +231,8 @@ Utilitaires divers
   :Exemple:
 
   .. runblock:: console
-  
-      $ searchgpg_nocolor.sh zelda 2>&1 | tr @ '#' 
+
+      $ searchgpg_nocolor.sh zelda 2>&1 | tr @ '#'
 
 
 * `randomgifts.sh <bin/randomgifts.sh>`_,
@@ -257,7 +257,7 @@ Quelques scripts pour jouer avec des citations
 
 
 * `makequotes.sh <bin/makequotes.sh>`_,
-  pour construire une liste de citation 
+  pour construire une liste de citation
   (une fichier texte avec une citation complète par ligne).
   Utilise `quotes.sh`. A permis de construire `<publis/.quotes.txt>`_ !
 

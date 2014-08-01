@@ -103,34 +103,33 @@ Applis pour les fans de McGyver
 Quelques jeux vidéos
 ^^^^^^^^^^^^^^^^^^^^
 
-* `Chess <>`_,
-* `GBC A.D. <>`_,
-* `Inotia™ III et IV <>`_,
-* `Mojo GBA <>`_,
-* `Mumble client <>`_,
-* `Pixel Dungeon <>`_,
-* `"SNesoid" ou "Snes9x Ex" <>`_,
-* `Zenonia™ 1 Free <>`_,
-* `Zenonia™ 3 ou 4 <>`_.
+* `Chess <>`_ est une bonne application pour simplement jouer aux échecs, contre l'ordinateur,
+* `GBC A.D. <>`_ est un bon émulateur pour Game Boy Color (bien évidemment, il fournit sans *roms*),
+* `Inotia™ III et IV <>`_ sont deux bons *hack-n-slash* (pas vraiment des jeux de rôles, plutôt de l'action),
+* `Mojo GBA <>`_ est un excellent émulateur pour Game Boy Advance !
+* `Mumble client <>`_ est un client pour Mumble (voilà une description pour le moins tautologique...),
+* `Pixel Dungeon <>`_ est un bon *rogue-like* assez bien réalisé, et très difficile,
+* `"SNesoid" ou "Snes9x Ex" <>`_ sont deux bons émulateurs pour Super NES (plutôt pour tablettes donc),
+* `Zenonia™ 1 Free <>`_ et `Zenonia™ 3 ou 4 <>`_ sont des bons *hack-n-slash*, dans le même genre que Inotia™. Seul le 2 est payant, les épisodes 1, 3 et 4 sont gratuits.
 
 Applis pour scientifiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `AddiPlot et droidplot <>`_,
-* `aGrep <>`_,
-* `Andie Graph + rom de caltos <>`_,
-* `Banque Exos MP CCP <>`_,
-* `Detexify (bug ?) <>`_,
-* `Git <>`_,
-* `Grapher <>`_,
-* `Hacker's keyboard <>`_,
-* `handyCalc <>`_,
-* `OCaml Toplevel for Android™ <>`_,
-* `octave et plugins <>`_,
-* `Python™ for Android™ <>`_,
-* `SL4A <>`_,
-* `TryHaskell <>`_,
-* `VerbTeX <>`_.
+* `AddiPlot et droidplot <>`_ permettent de tracer des courbes et des graphiques, avec `GNU octave`_,
+* `aGrep <>`_ propose une appli simulant la commande *grep*, afin de rechercher un motif de texte dans plein de fichiers,
+* `Andie Graph <>`_ est un émulateur pour calculatrice Texas Instrument, de la TI-79 à TI-84+ (bien sûr, fourni sans aucune rom de calculatrice),
+* `Banque Exos MP CCP <>`_ est une bonne application pour réviser son cours de maths, car elle propose des centaines d'exercices, niveau MP (crée par le site `<http://mp.cpgedupuydelome.fr/>`_),
+* `Detexify <>`_ est un client pour `<>`_, un superbe web-service pour retrouver un symbole LaTeX grâce à la reconnaissance de caractère (vous savez, cette technologie plutôt cool qui permet de lire vos chèques automatiquement et qui est à l'origine du développement de l'apprentissage automatique),
+* `Git <>`_ est le meilleur client pour `Git (voir ici sur Wikipédia) <http://fr.wikipedia.org/wiki/Git>`_, le système de gestion de version *Git*,
+* `Grapher <>`_ est une petite appli pour tracer des courbes scientifiques,
+* `Hacker's keyboard <>`_ est un clavier logiciel (par opposition aux claviers matériels) spécifiquement destiné à être utilisé avec un client SSH, ou pour n'importe quelle application en ligne de commande,
+* `handyCalc <>`_ est une très bonne calculatrice pour Android™, avec des fonctionnalités avancées,
+* `OCaml Toplevel for Android™ <>`_ est un toplevel `OCaml <>`_ pour votre téléphone (réalisé par `Romain Vernoux <http://vernoux.fr>`_, un camarade de la promotion 2011 du `département d'informatique de l'ENS Cachan <http://dptinfo.ens-cachan.fr/>`_),
+* `GNU octave <>`_ et ses plugins, pour accéder à GNU Octave avec votre téléphone (mais il ne faut pas s'en servir pour tricher durant vos examens, bien sûr !),
+* `Python™ for Android™ <>`_ est un bon moyen d'utiliser `Python™ <http://www.python.org/>`_ n'importe où, *parce que c'est cool* !
+* `SL4A <>`_ est l'environnement qui permet d'utiliser Python™, et d'autres langages de scripts,
+* `TryHaskell <>`_ est un client pour le site `<http://tryhaskell.org/>`_, simple mais efficace,
+* `VerbTeX <>`_ est une tentative pour apporter LaTeX et sa puissance dans votre téléphone. Pas encore parfait, mais ça peut parfois dépanner.
 
 Applis pour agents secrets (ou paranoïaques)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

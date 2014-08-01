@@ -2,7 +2,7 @@ Web Pages Sphinx
 ================
 
 The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.3a*.
-Currently this *projet* is in version *2.1.2* (*public* release) !
+Currently this *projet* is in version *2.2* (*public* release) !
 
 Where are those pages ?
 -----------------------
@@ -10,7 +10,7 @@ Where are those pages ?
 ### On line :
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
  * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") is now just a redirection to the precedent one.
- * [jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only (and only from the crans local network) ;
+ * ([jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only, and only from the crans local network, no longer in service) ;
 
 About
 -----
