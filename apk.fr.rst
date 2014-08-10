@@ -48,12 +48,13 @@ Liste des applis qu'il faut avoir
 * `VLC™ (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ un autre lecteur de musique de vidéo,
 * `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ pour accéder rapidement et facilement à Wikipédia. Dommage que MathJax ne soit pas inclus dans l'appli, quelle honte !
 
+
 .. note:: « Et pour les iPhones™ ? » ou « Et pour les Windows™ phones ? »
 
-   Je n'ai pas encore eu l'occasion de posséder et d'utiliser au jour le jour un téléphone utilisant
+   Je n'ai pas encore eu l'occasion de posséder et d'utiliser régulièrement un téléphone utilisant
    l'un des deux systèmes concurrents à Android™ (aucunement par idéologie, juste jamais eu l'occasion).
 
-   Néanmoins, il devrait être possible d'utiliser l'`"App Store"™ d'Apple™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ et le `Windows™ App Store <http://www.windowsphone.fr/fr-FR/store>`_ pour trouver des équivalents à chacun des programmes cités dans cette page.
+   Néanmoins, il devrait être possible d'utiliser l'`"App Store"™ d'Apple™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ et le `Windows™ App Store <http://www.windowsphone.fr/fr-FR/store>`_ pour trouver des *équivalents* à chacun des programmes cités dans cette page.
 
 
 Applis pour geeks
@@ -124,7 +125,7 @@ Applis pour scientifiques
 * `Grapher <>`_ est une petite appli pour tracer des courbes scientifiques,
 * `Hacker's keyboard <>`_ est un clavier logiciel (par opposition aux claviers matériels) spécifiquement destiné à être utilisé avec un client SSH, ou pour n'importe quelle application en ligne de commande,
 * `handyCalc <>`_ est une très bonne calculatrice pour Android™, avec des fonctionnalités avancées,
-* `OCaml Toplevel for Android™ <>`_ est un toplevel `OCaml <>`_ pour votre téléphone (réalisé par `Romain Vernoux <http://vernoux.fr>`_, un camarade de la promotion 2011 du `département d'informatique de l'ENS Cachan <http://dptinfo.ens-cachan.fr/>`_),
+* `OCaml Toplevel for Android™ <>`_ est un toplevel `OCaml <http://caml.inria.fr/>`_ pour votre téléphone (réalisé par `Romain Vernoux <http://vernoux.fr>`_, un camarade de la promotion 2011 du `département d'informatique de l'ENS Cachan <http://dptinfo.ens-cachan.fr/>`_),
 * `GNU octave <>`_ et ses plugins, pour accéder à GNU Octave avec votre téléphone (mais il ne faut pas s'en servir pour tricher durant vos examens, bien sûr !),
 * `Python™ for Android™ <>`_ est un bon moyen d'utiliser `Python™ <http://www.python.org/>`_ n'importe où, *parce que c'est cool* !
 * `SL4A <>`_ est l'environnement qui permet d'utiliser Python™, et d'autres langages de scripts,

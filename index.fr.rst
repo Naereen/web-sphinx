@@ -10,9 +10,7 @@
 Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 
-.. Je suis actuellement en troisième année;
-
-Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, bientôt chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques et en informatique.
+Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (et bientôt en informatique).
 
 .. include:: .special.rst
 .. include:: whatsnew.fr.rst
@@ -111,6 +109,8 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets :
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (peu actif).
 
+------------------------------------------------------------------------------
+
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -128,8 +128,6 @@ et de l'étude de la modularité dans ces deux domaines.
 :Notes: Jules m'a donné **19/20**.
         Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**,
         et le jury de mathématiques à l'ENS Cachan m'a donné **18.50/20**.
-
-------------------------------------------------------------------------------
 
 Stage de L3 (*Bachelor of Science*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
