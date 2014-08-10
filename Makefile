@@ -27,11 +27,8 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 CP = ~/bin/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html gpghtml images obscure send_jarvis send_zamok send_dpt check
+total: html images obscure gpghtml send_jarvis send_zamok send_dpt check
 local: html images send_jarvis check
-
-totalb: blog gpghtml images obscure send_jarvis send_zamok send_dpt check
-localb: blog gpghtml images obscure send_jarvis check
 
 check: warnings severes errors
 
@@ -156,7 +153,6 @@ forceclean:
 
 clean:
 	-mv -vf $(BUILDDIR)/ /tmp/
-	-mv -vf blog/ /tmp/
 	-mkdir --parents $(BUILDDIR)/html/
 
 git:
@@ -216,16 +212,6 @@ html:
 	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html $(BUILDDIR)/html/whatsnew.fr.html $(BUILDDIR)/html/whatsnew.en.html 
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
-
-mkblog:
-	tinker --build 2>&1 | tee /tmp/sphinx.log
-
-blog:   mkblog
-	-rm -f blog/html/.javascript.html blog/html/.special.html 
-	#-mv -u -v -i -t $(BUILDDIR)/html blog/html/*
-	-$(CP) -r blog/ $(BUILDDIR)
-	@echo
-	@echo "Build finished. The HTML pages for the blog are in blog/html."
 
 # FIXME: ne doit plus marcher. De toutes façons, ne sert à rien
 epub:
@@ -299,7 +285,6 @@ helpbuild:
 	@echo "Help for custom builders (by Lilian BESSON, https://bitbucket.org/lbesson/web-sphinx/)"
 	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  html       to make standalone HTML files"
-	# @echo "  blog       to make standalone HTML files with Tinkerer"
 	@echo "  gpghtml    to sign every standalone HTML files"
 	@echo "  gpgrss     to sign and send the RSS file (rss.xml)"
 	@echo "  gpglatex   to make LaTeX files and run them through pdflatex"

@@ -98,39 +98,36 @@ Applis pour les fans de McGyver
 * `Open Food Facts <http://apk-dl.com/store/apps/details?id=org.openfoodfacts.scanner>`_ pour faire croire qu'on s'intéresse à ce qu'il y a dans nos assiettes,
 * `Wifi Analyzer <http://apk-dl.com/store/apps/details?id=com.farproc.wifi.analyzer>`_ pour avoir des données très précises sur les réseaux wifi visibles.
 
-
-.. warning:: Cette page est encore en rédaction !
-
 Quelques jeux vidéos
 ^^^^^^^^^^^^^^^^^^^^
 
-* `Chess <>`_ est une bonne application pour simplement jouer aux échecs, contre l'ordinateur,
-* `GBC A.D. <>`_ est un bon émulateur pour Game Boy Color (bien évidemment, il fournit sans *roms*),
-* `Inotia™ III et IV <>`_ sont deux bons *hack-n-slash* (pas vraiment des jeux de rôles, plutôt de l'action),
-* `Mojo GBA <>`_ est un excellent émulateur pour Game Boy Advance !
-* `Mumble client <>`_ est un client pour Mumble (voilà une description pour le moins tautologique...),
-* `Pixel Dungeon <>`_ est un bon *rogue-like* assez bien réalisé, et très difficile,
-* `"SNesoid" ou "Snes9x Ex" <>`_ sont deux bons émulateurs pour Super NES (plutôt pour tablettes donc),
-* `Zenonia™ 1 Free <>`_ et `Zenonia™ 3 ou 4 <>`_ sont des bons *hack-n-slash*, dans le même genre que Inotia™. Seul le 2 est payant, les épisodes 1, 3 et 4 sont gratuits.
+* `Chess <http://apk-dl.com/store/apps/details?id=com.cnvcs.chess>`_ est une bonne application pour simplement jouer aux échecs, contre l'ordinateur,
+* `GBC A.D. <http://apk-dl.com/store/apps/details?id=com.bslapps.gbc>`_ est un bon émulateur pour Game Boy Color™ (bien évidemment, il fournit sans *roms*),
+* `Inotia™ III <http://apk-dl.com/store/apps/details?id=com.com2us.inotia3.normal.freefull.google.global.android.common>`_ et `Inotia™ IV <http://apk-dl.com/store/apps/details?id=com.com2us.inotia4.normal.freefull.google.global.android.common>`_ sont deux bons *hack-n-slash* (pas vraiment des jeux de rôles, plutôt de l'action),
+* `Mojo GBA <http://apk-dl.com/store/apps/details?id=com.momojo.gba.lite>`_ est un excellent émulateur pour Game Boy Advance™ !
+* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ est un client pour Mumble (voilà une description pour le moins tautologique...),
+* `Pixel Dungeon <http://apk-dl.com/store/apps/details?id=com.watabou.pixeldungeon>`_ est un bon *rogue-like* assez bien réalisé, et très difficile,
+* `SNesoid <http://apk-dl.com/store/apps/details?id=com.bslapps.snes>`_ ou `Snes9x Ex <http://apk-dl.com/store/apps/details?id=com.explusalpha.Snes9xPlus>`_ sont deux bons émulateurs pour Super NES™ (plutôt pour tablettes donc),
+* `Zenonia™ 1 Free <http://apk-dl.com/store/apps/details?id=com.gamevil.zenoniafree>`_, `Zenonia™ 3 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia3.global>`_, `Zenonia™ 4 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia4.global>`_ ou encore `Zenonia™ 5 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia5.global>`_ sont des bons *hack-n-slash*, dans le même genre que Inotia™. Seul le 2 est payant, les épisodes 1, 3, 4 et 5 sont gratuits.
 
 Applis pour scientifiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `AddiPlot et droidplot <>`_ permettent de tracer des courbes et des graphiques, avec `GNU octave`_,
-* `aGrep <>`_ propose une appli simulant la commande *grep*, afin de rechercher un motif de texte dans plein de fichiers,
-* `Andie Graph <>`_ est un émulateur pour calculatrice Texas Instrument, de la TI-79 à TI-84+ (bien sûr, fourni sans aucune rom de calculatrice),
-* `Banque Exos MP CCP <>`_ est une bonne application pour réviser son cours de maths, car elle propose des centaines d'exercices, niveau MP (crée par le site `<http://mp.cpgedupuydelome.fr/>`_),
-* `Detexify <>`_ est un client pour `<>`_, un superbe web-service pour retrouver un symbole LaTeX grâce à la reconnaissance de caractère (vous savez, cette technologie plutôt cool qui permet de lire vos chèques automatiquement et qui est à l'origine du développement de l'apprentissage automatique),
-* `Git <>`_ est le meilleur client pour `Git (voir ici sur Wikipédia) <http://fr.wikipedia.org/wiki/Git>`_, le système de gestion de version *Git*,
-* `Grapher <>`_ est une petite appli pour tracer des courbes scientifiques,
-* `Hacker's keyboard <>`_ est un clavier logiciel (par opposition aux claviers matériels) spécifiquement destiné à être utilisé avec un client SSH, ou pour n'importe quelle application en ligne de commande,
-* `handyCalc <>`_ est une très bonne calculatrice pour Android™, avec des fonctionnalités avancées,
-* `OCaml Toplevel for Android™ <>`_ est un toplevel `OCaml <http://caml.inria.fr/>`_ pour votre téléphone (réalisé par `Romain Vernoux <http://vernoux.fr>`_, un camarade de la promotion 2011 du `département d'informatique de l'ENS Cachan <http://dptinfo.ens-cachan.fr/>`_),
-* `GNU octave <>`_ et ses plugins, pour accéder à GNU Octave avec votre téléphone (mais il ne faut pas s'en servir pour tricher durant vos examens, bien sûr !),
-* `Python™ for Android™ <>`_ est un bon moyen d'utiliser `Python™ <http://www.python.org/>`_ n'importe où, *parce que c'est cool* !
-* `SL4A <>`_ est l'environnement qui permet d'utiliser Python™, et d'autres langages de scripts,
-* `TryHaskell <>`_ est un client pour le site `<http://tryhaskell.org/>`_, simple mais efficace,
-* `VerbTeX <>`_ est une tentative pour apporter LaTeX et sa puissance dans votre téléphone. Pas encore parfait, mais ça peut parfois dépanner.
+* `AddiPlot <http://apk-dl.com/store/apps/details?id=com.addiPlot>`_ et `droidplot <http://apk-dl.com/store/apps/details?id=com.droidplot>`_ permettent de tracer des courbes et des graphiques, avec `GNU octave`_,
+* `aGrep <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.aGrep>`_ propose une appli simulant la commande *grep*, afin de rechercher un motif de texte dans plein de fichiers,
+* `Andie Graph <http://apk-dl.com/store/apps/details?id=net.supware.tipro>`_ est un émulateur pour calculatrice Texas Instrument™, de la TI-79™ à TI-84+™ (bien sûr, fourni sans aucune rom de calculatrice),
+* `Banque Exos MP CCP <http://apk-dl.com/store/apps/details?id=delaunay.math.banqueccpmp>`_ est une bonne application pour réviser son cours de maths, car elle propose des centaines d'exercices, niveau MP (crée par le site `<http://mp.cpgedupuydelome.fr/>`_),
+* `Detexify <http://apk-dl.com/store/apps/details?id=coolcherrytrees.software.detexify>`_ est un client pour `Detexify sur KireLabs.org <http://detexify.kirelabs.org/>`_, un superbe web-service pour retrouver un symbole LaTeX grâce à la `reconnaissance de caractères manuscrits <https://fr.wikipedia.org/wiki/Reconnaissance_de_l%27%C3%A9criture_manuscrite>`_ (vous savez, cette technologie plutôt cool qui permet de lire vos chèques automatiquement et qui est à l'origine du développement de l'apprentissage automatique),
+* `Git <http://apk-dl.com/store/apps/details?id=com.romanenco.gitt>`_ est le meilleur client pour `Git (voir ici sur Wikipédia) <http://fr.wikipedia.org/wiki/Git>`_, le système de gestion de version *Git*,
+* `Grapher <http://apk-dl.com/store/apps/details?id=com.opticron.grapher>`_ est une petite appli pour tracer des courbes scientifiques,
+* `Hacker's keyboard <http://apk-dl.com/store/apps/details?id=org.pocketworkstation.pckeyboard>`_ est un clavier logiciel (par opposition aux claviers matériels) spécifiquement destiné à être utilisé avec un client SSH, ou pour n'importe quelle application en ligne de commande,
+* `handyCalc <http://apk-dl.com/store/apps/details?id=org.mmin.handycalc>`_ est une très bonne calculatrice pour Android™, avec des fonctionnalités avancées,
+* `OCaml Toplevel for Android™ <http://apk-dl.com/store/apps/details?id=fr.vernoux.ocaml>`_ est un toplevel `OCaml <http://caml.inria.fr/>`_ pour votre téléphone (réalisé par `Romain Vernoux <http://vernoux.fr>`_, un camarade de la promotion 2011 du `département d'informatique de l'ENS Cachan <http://dptinfo.ens-cachan.fr/>`_),
+* `GNU octave <http://apk-dl.com/store/apps/details?id=com.octave>`_ et ses plugins, pour accéder à GNU Octave avec votre téléphone (mais il ne faut pas s'en servir pour tricher durant vos examens, bien sûr !),
+* `Python™ for Android™ <http://apk-dl.com/store/apps/details?id=com.hipipal.qpyplus>`_ est un bon moyen d'utiliser `Python™ <http://www.python.org/>`_ n'importe où, *parce que c'est cool* !
+* `SL4A <https://code.google.com/p/android-scripting/downloads/detail?name=sl4a_r6.apk>`_ est l'environnement qui permet d'utiliser Python™, et d'autres langages de scripts,
+* `TryHaskell <http://apk-dl.com/store/apps/details?id=nl.bneijt.tryhaskell>`_ est un client pour le site `<http://tryhaskell.org/>`_, simple mais efficace,
+* `VerbTeX <http://apk-dl.com/store/apps/details?id=verbosus.verbtex>`_ est une tentative pour apporter LaTeX et sa puissance dans votre téléphone. Pas encore parfait, mais ça peut parfois dépanner.
 
 Applis pour agents secrets (ou paranoïaques)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -149,7 +146,7 @@ Divers
 ^^^^^^
 
 * `QR Reader <http://apk-dl.com/store/apps/details?id=me.scan.Android.client>`_, même si en fait les `codes QR <https://fr.wikipedia.org/wiki/Code_QR>`_ ne servent à rien,
-* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android>`_ ou `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ pour lire ou modifier des documents aux formats OpenDocument (à la *Word®*),
+* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android>`_ ou `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ pour lire ou modifier des documents aux formats OpenDocument (à la *Word™*),
 * `Skype™ <http://apk-dl.com/store/apps/details?id=com.skype.raider>`_, même s'il vaudrait mieux utiliser `Linphone`_ ou un autre équivalent libre, gratuit, open source et sécurisé,
 * `WordPress™ <https://f-droid.org/repository/browse/?fdfilter=WordPress&fdid=org.wordpress.Android>`_ pour lire ou écrire sur un blog fonctionnant avec WordPress™.
 

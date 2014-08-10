@@ -24,11 +24,11 @@ Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mah
   les deux avec une mention *Bien*.
 
 * En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
-  aveec mention *Bien* (L3, *Bachelor of Science* en anglais).
+  avec mention *Bien* (L3, *Bachelor of Science* en anglais).
 
-* En 2009/2010 et 2010/2011 j'étais élève du **Lycée Thiers** de Marseille, en *MPSI 2* et *MP\*1*.
+* En 2009/2010 et 2010/2011 j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
-* Avant ça, je vivais à Briançon (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009.
+* Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009.
 
 .. container:: smallpar
 
@@ -45,10 +45,10 @@ Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mah
 
    **Un petit mot sur ce site** :
 
-    Je développe ce petit site (actuellement `<http://besson.qc.to>`_)
+    Je développe ce petit site (actuellement `<http://perso.crans.org/besson/>`_)
     sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
-    `Qu'est-ce que l'Open Source, expliqué en Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
+    `Qu'est-ce que l'Open Source, expliqué avec des Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
     Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
     sont effectivement visités quotidiennement par des gens du monde entier : j'espère ne pas décevoir ces visiteurs !
     (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_

@@ -41,7 +41,7 @@ Apps everyone should have
 * `Perfect Viewer <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer>`_ an awesome PDF reader (with `this plugin <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin>`_), which also supports some other formats (`this other plugin <http://apk-dl.com/store/apps/details?id=com.rookiestudio.perfectviewer.x86>`_ can be required),
 * `Silent Boot <http://apk-dl.com/store/apps/details?id=com.antweb.silentboot>`_ to suppress any sound when booting, and to automatically put your device in quiet mode after booting,
 * `Smart Task Bar <http://apk-dl.com/store/apps/details?id=com.smart.taskbar>`_ a cool and small lateral bar, useful to easily access all your other apps without having to exit the current one,
-* `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ the best solution I found to backup your text messages, your contacts, your call diary, or your apps,
+* `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ is the best solution I found to backup your text messages, your contacts, your call diary, or your apps,
 * `Timer <https://f-droid.org/repository/browse/?fdid=org.dpadgett.timer>`_ a simple but effective chronometer,
 * `Traduction (Google™ Translate) <http://apk-dl.com/store/apps/details?id=com.google.Android.apps.translate>`_,
 * `TTPod <http://www.apk4fun.com/apk/2255/>`_, a very good music player, with some pretty original feature (you can ask it to be quiet after a certain amount of time, for when you go to bed for example),
@@ -76,7 +76,7 @@ Apps for geeks
 * `Gmote <http://apk-dl.com/store/apps/details?id=org.gmote.client.Android>`_ is a good remote controller for your personnal laptop, to be used `with this small client <http://www.gmote.org/>`_,
 * `Irssi ConnectBot <http://apk-dl.com/store/apps/details?id=org.woltage.irssiconnectbot>`_ is the best app to use `SSH <https://en.wikipedia.org/wiki/Secure_Shell>`_ to connect to another laptop or server,
 * `Linphone <https://f-droid.org/repository/browse/?fdid=org.linphone>`_ another good app to call and videochat with `VoIP <https://en.wikipedia.org/wiki/VoIP>`_,
-* `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ for Android™ v2 (2.2 à 2.3.8),
+* `Notification Toggle <http://apk-dl.com/store/apps/details?id=de.j4velin.notificationToggle>`_ for Android™ v2 (2.2 to 2.3.8),
 * `Pokedextra <http://apk-dl.com/store/apps/details?id=de.sam.pokerdex2>`_, a good and complete *pokédex™*,
 * `ROM Toolbox Lite (free version) <http://apk-dl.com/store/apps/details?id=com.jrummy.liberty.toolbox>`_ is another well designed admin toolbox, mainly for rooted devices,
 * `"Symbols" ou "SymbolsPanel" <http://apk-dl.com/store/apps/details?id=soo.project.Symbols>`_ are useful to insert special caracters, in text messages for example,
@@ -95,40 +95,36 @@ Apps for McGyver's fans
 * `Open Food Facts <http://apk-dl.com/store/apps/details?id=org.openfoodfacts.scanner>`_ to know what's in your dishes,
 * `Wifi Analyzer <http://apk-dl.com/store/apps/details?id=com.farproc.wifi.analyzer>`_ to read very precise data about the local hifi networks.
 
-
-.. warning:: This page is still being written!
-
 A few videos games
 ^^^^^^^^^^^^^^^^^^
 
-* Chess,
-* GBC A.D.,
-* Inotia™ III and IV,
-* Mojo GBA,
-* Mumble client,
-* Pixel Dungeon,
-* "SNesoid" or "Snes9x Ex",
-* Zenonia™ 1 Free,
-* Zenonia™ 3 or 4.
+* `Chess <http://apk-dl.com/store/apps/details?id=com.cnvcs.chess>`_ is a good app to simply play Chess against the computer échecs,
+* `GBC A.D. <http://apk-dl.com/store/apps/details?id=com.bslapps.gbc>`_ is a good Game Boy Color™ emulator (of course, it does not include any roms),
+* `Inotia™ III <http://apk-dl.com/store/apps/details?id=com.com2us.inotia3.normal.freefull.google.global.android.common>`_ and `Inotia™ IV <http://apk-dl.com/store/apps/details?id=com.com2us.inotia4.normal.freefull.google.global.android.common>`_ are two pretty good *hack-n-slash* game,
+* `Mojo GBA <http://apk-dl.com/store/apps/details?id=com.momojo.gba.lite>`_ is an excellent Game Boy Advance™ emulator!
+* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ is a client for Mumble (and this description is not a tautology...),
+* `Pixel Dungeon <http://apk-dl.com/store/apps/details?id=com.watabou.pixeldungeon>`_ is a pretty good *rogue-like*, well conceived but impressively difficult,
+* `SNesoid <http://apk-dl.com/store/apps/details?id=com.bslapps.snes>`_ or `Snes9x Ex <http://apk-dl.com/store/apps/details?id=com.explusalpha.Snes9xPlus>`_ are two good emulators for Super NES™ (a tablet is more appropriate),
+* `Zenonia™ 1 Free <http://apk-dl.com/store/apps/details?id=com.gamevil.zenoniafree>`_, `Zenonia™ 3 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia3.global>`_, `Zenonia™ 4 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia4.global>`_ and the last one `Zenonia™ 5 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia5.global>`_ are good *hack-n-slash*, similar to Inotia™ (only the 2nd one is not free).
 
 Apps for scientists
 ^^^^^^^^^^^^^^^^^^^
 
-* AddiPlot and droidplot,
-* aGrep,
-* Andie Graph + rom de caltos,
-* Banque Exos MP CCP,
-* Detexify (bug ?),
-* Git,
-* Grapher,
-* Hacker's keyboard,
-* handyCalc,
-* OCaml Toplevel for Android™,
-* octave and plugins,
-* Python™ for Android™,
-* SL4A,
-* TryHaskell,
-* VerbTeX.
+* `AddiPlot <http://apk-dl.com/store/apps/details?id=com.addiPlot>`_ and `droidplot <http://apk-dl.com/store/apps/details?id=com.droidplot>`_ allow you to make graphics with `GNU octave`_ ,
+* `aGrep <http://apk-dl.com/store/apps/details?id=jp.sblo.pandora.aGrep>`_ to (try to) use a *grep*-like command, to look for a text pattern in a bunch of text files,
+* `Andie Graph <http://apk-dl.com/store/apps/details?id=net.supware.tipro>`_ is an emulator for Texas Instrument™ calculators, from TI-79™ to TI-84+™ (of course, you have to use your own roms),
+* `Banque Exos MP CCP <http://apk-dl.com/store/apps/details?id=delaunay.math.banqueccpmp>`_ is a pretty good app to work you mathematics, with hundreds of exercises, for prep school level "MP" (created by the author of `<http://mp.cpgedupuydelome.fr/>`_),
+* `Detexify <http://apk-dl.com/store/apps/details?id=coolcherrytrees.software.detexify>`_ is an Android™ client for `Detexify on KireLabs.org <http://detexify.kirelabs.org/>`_, an awesome web-service to recognize a LaTeX symbol thanks to `hand-writting recognition technology <https://en.wikipedia.org/wiki/Handwriting_recognition>`_ (you know, that pretty cool technology which read your cheques, and is a pioneer problem in automatic machine learning),
+* `Git <http://apk-dl.com/store/apps/details?id=com.romanenco.gitt>`_ is the best Android™ client for `Git (more details here on Wikipédia) <http://en.wikipedia.org/wiki/Git>`_, the *Git* version management system,
+* `Grapher <http://apk-dl.com/store/apps/details?id=com.opticron.grapher>`_ is a simple app to draw scientific curves and graphics,
+* `Hacker's keyboard <http://apk-dl.com/store/apps/details?id=org.pocketworkstation.pckeyboard>`_ is a software keyboard (ie not a material keyboard), especially designed to be used with a SSH client, or any command line app,
+* `handyCalc <http://apk-dl.com/store/apps/details?id=org.mmin.handycalc>`_ is an excellent calculator for Android™, with very advanced functionnalities,
+* `OCaml Toplevel for Android™ <http://apk-dl.com/store/apps/details?id=fr.vernoux.ocaml>`_ is an awesome client for `OCaml <http://caml.inria.fr/>`_ (made by `Romain Vernoux <http://vernoux.fr>`_, a comrad of 2011 batch of the `Computer Science departement at ÉNS Cachan <http://dptinfo.ens-cachan.fr/>`_),
+* `GNU octave <http://apk-dl.com/store/apps/details?id=com.octave>`_ and its plugins, to use GNU Octave on your phone (but do not use it to cheat during your exams, of course!),
+* `Python™ for Android™ <http://apk-dl.com/store/apps/details?id=com.hipipal.qpyplus>`_ is a good solution to use `Python™ <http://www.python.org/>`_ from everywhere, *because that's cool*!
+* `SL4A <https://code.google.com/p/android-scripting/downloads/detail?name=sl4a_r6.apk>`_ is an app designed to use certain scripting language, as Python™,
+* `TryHaskell <http://apk-dl.com/store/apps/details?id=nl.bneijt.tryhaskell>`_ is a client for the website `<http://tryhaskell.org/>`_, simple but efficient,
+* `VerbTeX <http://apk-dl.com/store/apps/details?id=verbosus.verbtex>`_ is a client for an online LaTeX compiler. Not perfect, but it works.
 
 Apps for secrets agents (or paranoid people)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -148,14 +144,14 @@ Misc.
 ^^^^^
 
 * `QR Reader <http://apk-dl.com/store/apps/details?id=me.scan.Android.client>`_, even if we all know that `QR codes <https://en.wikipedia.org/wiki/QR_Code>`_ are useless,
-* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android>`_ or `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ to read or modify OpenDocument documents (like *Word®*),
+* `QuickOffice <http://apk-dl.com/store/apps/details?id=com.quickoffice.Android>`_ or `OfficeSuite 7 <http://apk-dl.com/store/apps/details?id=com.mobisystems.office>`_ to read or modify OpenDocument documents (like *Word™*),
 * `Skype™ <http://apk-dl.com/store/apps/details?id=com.skype.raider>`_, even if it could be a good idea to prefer `Linphone`_ or an other clone which has the advantage of being free, open source and more secured,
 * `WordPress™ <https://f-droid.org/repository/browse/?fdfilter=WordPress&fdid=org.wordpress.Android>`_ to read or write on your WordPress™ powered blog.
 
 ------------------------------------------------------------------------------
 
-How to use Android™ **without** a Google™ account
--------------------------------------------------
+How to use Android™ **without** a Google™ account ?
+---------------------------------------------------
 Other repos
 ^^^^^^^^^^^
 Among many apps repositories, my favorite is `F-Droid <https://f-droid.org/about/>`_,

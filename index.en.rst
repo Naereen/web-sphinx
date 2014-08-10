@@ -2,49 +2,61 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-#########
- Welcome
-#########
+##################################
+ Welcome on my personal web pages
+##################################
 .. include:: .special.rst
 Who am I?
 ---------
 I am **Lilian Besson**, a young `student at ENS de Cachan <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
-In 2013/2014, I am preparing the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-(national competitive exam for teacher recrutment, with a major in Maths and a minor in Computer Science).
-Everyone who is preparing it at ENS Cachan, has been declared *"admissible"*, 
-and `so do I <http://publinetce2.education.fr/publinet/Servlet/PublinetServlet?_page=LISTE_RES&_section=4410&_type=ADMISSIBILITE&_concours=EAE&_acad=A90&_lettre=b>`_.
-We are working for the oral exams, which are in about two weeks.
+In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
+(national competitive exam for "*Prep Schools*" teacher recrutment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
+
+Since mid-July 2014, I live in India, on the campus of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a parternship between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+I am involved as an assistant professor, in charge of mathematics `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
 
 .. include:: whatsnew.en.rst
 
-A few words about me
-^^^^^^^^^^^^^^^^^^^^
-I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
-I also like using new technologies, and enjoy design tiny pieces of software or web content
-for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
-or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
+Studies before 2014
+^^^^^^^^^^^^^^^^^^^
+* In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
+  and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both magna cum laude.
 
-A few words about this site
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I am working on this little website (currently, `<http://besson.qc.to/>`_)
-when I have the time, hoping it can be useful to someone (at least me, but who knows...).
-:gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
-`What means Open Source, explained with LEGO <https://youtu.be/a8fHgx9mE5U>`_.
-This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
-so if you are here for something in particular, I hope you will not be disapointed
-(you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
+* From 2011/2012, I studied at `ÉNS Cachan <http://www.ens-cachan.fr/version-anglaise/>`_, and in July 2012, I completed two `Bachelor of Science <https://en.wikipedia.org/wiki/Bachelor_of_science>`_, one in **Mathematics** and one in **Computer Science**,
+  both `magna cum laude <https://en.wiktionary.org/wiki/magna_cum_laude>`_.
+
+* During two years, 2009/2010 and 2010/2011, I studied in Marseille, at `Lycée Thiers <https://simple.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_, first in MPSI 2 and after in MP\*1.
+
+* Before that, I lived in `Briançon <https://en.wikipedia.org/wiki/Briançon>` (Hautes-Alpes, *France*), and I got my `scientific baccalauréat <https://en.wikipedia.org/wiki/Baccalaur%C3%A9at#S.C3.A9rie_scientifique_.28S.29>`_, with a major in maths and a minor in theater, in 2009.
+
+
+.. container:: smallpar
+
+   **A few words about me**:
+
+   I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
+   I also like using new technologies, and enjoy design tiny pieces of software or web content
+   for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
+   or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
+
+
+   **A few words about this site**:
+
+   I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
+   when I have the time, hoping it can be useful to someone.
+   :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
+   `What means Open Source, explained with LEGO? <https://youtu.be/a8fHgx9mE5U>`_.
+   This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
+   so if you are here for something in particular, I hope you will not be disapointed
+   (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
 
 ------------------------------------------------------------------------------
 
-In 2012/2013 I graduated two first half of Masters of Science,
-in *mathematics* and *Computer Science* (again, both with *magna cum laude*),
-and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum laude*),
-
 .. warning::
 
-   Those web pages **are still in construction** !
+   Those web pages **are still in construction**!
    In particular, the English versions of each pages are *not* yet available.
-   But, I'm working on it !
+   But, I'm working on it!
 
 
 .. sidebar:: Other language : in French
@@ -55,58 +67,30 @@ and in 2011/2012 I graduated two different Bachelors of Science (both *magna cum
    or `<index.en.html>`_, according to the preference of your browser.
 
 
-Contact addresses
-^^^^^^^^^^^^^^^^^
-Feel free to *contact* me :
+.. note:: Contact me?
 
-  #. by mail (`→ OpenStreetMap direct link <http://osm.org/go/0BOchV4ns-->`_), in France  ::
+   Feel free to *contact* me by `the solution you prefer <callme.en.html>`_.
 
-        Mr Lilian Besson,
-        ENS Cachan,
-        Dept. de Mathématiques,
-        41, avenue du Président Wilson,
-        94230 - Cachan,
-        France
 
-  #. or via *Facebook* `lbesson <https://www.facebook.com/naereencorp.lbesson>`_;
+Some projects online
+^^^^^^^^^^^^^^^^^^^^
+Some of my profile pages on some great website:
 
-     .. image:: .courriel.png
-        :scale: 120 %
-        :align: right
-        :alt:   My email address, in a PNG picture...
-        :target: mailto:lilian.besson＠ens-cachan.fr
+  #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
+  #. or via my *Launchpad* profile `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
+  #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
+  #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
 
-  #. or via email `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_;
 
-     .. image:: .telephone.png
-        :scale: 130 %
-        :align: right
-        :alt:   My phone number, in a PNG picture...
-        :target: callto:100101011101001100111101100001_2
+MSc internship : "*Towards modularity for planning and robot programs verification*"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I did an internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
-  #. or by phone (:red:`only if it is important`) :
-
-My projects on-line
-^^^^^^^^^^^^^^^^^^^
 .. sidebar:: Résumé
 
    My *résumé* is available here `<cv.pdf>`_.
    It is realised with ``LaTeX``, and the package *moderncv*.
 
-
-Feel free to *contact* me :
-
-  #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  #. or via my *Launchpad* profile `launchpad.net/~lbesson
-     <https://launchpad.net/~lbesson>`_;
-  #. or with my personal *Wikipedia* page `User:Naereen
-     <http://en.wikipedia.org/wiki/User:Naereen>`_;
-  #. or on *Transifex* `profile/Naereen
-     <https://www.transifex.com/accounts/profile/Naereen/>`_.
-
-MSc internship : "*Towards modularity for planning and robot programs verification*"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I did an internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
 I worked at **UCL** (:under:`University College of London`),
 under the direction of *Jules Villard* (and *Peter O'Hearn*),
