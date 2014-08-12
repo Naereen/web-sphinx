@@ -27,7 +27,7 @@ Studies before 2014
 
 * During two years, 2009/2010 and 2010/2011, I studied in Marseille, at `Lycée Thiers <https://simple.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_, first in MPSI 2 and after in MP\*1.
 
-* Before that, I lived in `Briançon <https://en.wikipedia.org/wiki/Briançon>` (Hautes-Alpes, *France*), and I got my `scientific baccalauréat <https://en.wikipedia.org/wiki/Baccalaur%C3%A9at#S.C3.A9rie_scientifique_.28S.29>`_, with a major in maths and a minor in theater, in 2009.
+* Before that, I lived in `Briançon <https://en.wikipedia.org/wiki/Briançon>`_ (Hautes-Alpes, *France*), and I got my `scientific baccalauréat <https://en.wikipedia.org/wiki/Baccalaur%C3%A9at#S.C3.A9rie_scientifique_.28S.29>`_, with a major in maths and a minor in theater, in 2009.
 
 
 .. container:: smallpar
