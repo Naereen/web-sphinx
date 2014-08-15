@@ -2,7 +2,7 @@
  FreeDNS : un service web pour le moins "intéressant"
 ######################################################
 .. include:: .special.rst
-.. warning:: Style familier !
+.. warning:: Style un peu familier !
 
    J'utilise dans cette page un style plus "oral" que dans le reste de ce site.
    N'en soyez pas outrés, vous êtes prévenus...
@@ -16,7 +16,7 @@ FreeDNS ?
  ou autre.
 
  En pratique, pour moi, ça sert à rien.
- 
+
  Ah, si peut-être à donner une URL plus simple à retenir ?
  Enfin, l'occasion ne s'est pas encore présenté.
 
@@ -27,7 +27,7 @@ FreeDNS ?
 
 Liste des sous-domaines que j'utilise
 -------------------------------------
- * `besson.qc.to <http://besson.qc.to>`_ 
+ * `besson.qc.to <http://besson.qc.to>`_
     vers http://www.dptinfo.ens-cachan.fr/~lbesson (pages perso). Le plus utilisé !
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_
@@ -37,10 +37,7 @@ Liste des sous-domaines que j'utilise
     vers https://bitbucket.org/lbesson/ (mes dépôts git);
 
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf en mode :red:`cloak` (moche);
-
- * `besson.or.gs <http://besson.or.gs>`_ utilise `<http://lbesson.bitbucket.org>`_ pour accélérer l'accès,
-   comme par exemple `<http://besson.or.gs/bin/pdflatex>`_.
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf en mode :red:`cloak` (moche).
 
 
 .. note:: En fait non.
@@ -50,11 +47,11 @@ Liste des sous-domaines que j'utilise
 
 Liste des autres sous-domaines que j'utilise
 --------------------------------------------
- * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_ 
+ * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_
     vers http://perso.crans.org/besson/jarvis.html
 
  * `besson.k.vu <http://besson.k.vu>`_ et `jarvis.k.vu <http://jarvis.k.vu>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson 
+    vers http://www.dptinfo.ens-cachan.fr/~lbesson
     (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
 
  * `agreg.uk.is <http://agreg.uk.is>`_
@@ -65,8 +62,7 @@ dot.tk
 Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:`cloak`) :
 
  * `naereen.tk <http://naereen.tk>`_ miroir pour ce site;
- * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_);
- * `naereenblog.tk <http://naereenblog.tk>`_ miroir pour `mon blog <https://naereen.wordpress.com>`_.
+ * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_).
 
 ------------------------------------------------------------------------------
 
@@ -74,11 +70,11 @@ Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:
 ^^^^^^^^^^^^^^^^^^^^^^
 :blink:`Cette page ne sert à rien !`
 
-Cette page permet seulement d'avoir au moins un lien 
+Cette page permet seulement d'avoir au moins un lien
 vers `FreeDNS.afraid.org <http://freedns.afraid.org>`_ sur une de mes pages.
 
 Pourquoi ? Principalement parce que le développeur à l'origine de ce service le demande :
-   
+
     If you could place a small text link somewhere on your site to http://freedns.afraid.org/ named "Free DNS" it would be greatly appreciated, to help raise search engine rankings and bring more users to the site, even if you don't think your site gets much traffic it would still help!
 
     --- Josh
