@@ -8,7 +8,7 @@
 .. include:: .special.rst
 À-propos
 --------
-Cette page est là pour décrire les divers projets techniques présents dans le dossier `<publis/>`_.
+Cette page est là pour décrire les divers projets *techniques* présents dans le dossier `<publis/>`_.
 
 Ce dossier contient un certain nombre de petites productions
 (logiciels, scripts ou autres); ainsi que certains projets plus solides.
@@ -102,10 +102,10 @@ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSICo
    ...     from ANSIColors import printc
    >>> except:
    ...     def printc(a): print(a)
-   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset>")
+   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset> (ça ne marche pas ici, normal)")
 
 
-:État: *À-jour.* Fonctionne vraiment bien. Une dizaine de téléchargement par jour, c'est peu :(
+:État: *À-jour.* Fonctionne vraiment bien. Le nombre de téléchargement quotidien augmente depuis juillet 2014.
 
 .. rubric:: Quelques badges :
 
@@ -121,7 +121,7 @@ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSICo
    <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_month"><img alt="Stats month for ANSIColors-balises" title="Stats month for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=month" /></a>
 
 
-.. rubric:: Quelques badges en SVG :
+.. rubric:: Quelques badges en SVG (juste pour jouer) :
 
 .. raw:: html
 
@@ -147,13 +147,13 @@ Finalement, `je n'ai pas participé à la dernière étape sur Kaggle <https://w
 
 `nautilus-scripts <publis/nautilus-scripts/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Des scripts pour **Gnome Nautilus**.
+De vieux scripts pour **Gnome Nautilus**.
 
 :État: *N'est plus maintenu!*
 
 `gedit-tools <publis/gedit-tools/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Des scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
+De vieux scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
 
 :État: *N'est plus maintenu!*
 

@@ -17,7 +17,7 @@ Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mah
 
 Études
 ^^^^^^
-* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*, ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://agreg.org/ResultatsMerite2014.html>`_.
+* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://agreg.org/ResultatsMerite2014.html>`_.
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
@@ -163,8 +163,8 @@ Je vous invite tout particulièrement à aller regarder ces pages
 qui décrivent certains projets, et notamment des scripts sur lesquels
 je travaille *sur mon temps libre*.
 
-StrapDown.js v2 (03/2014)
-^^^^^^^^^^^^^^^^^^^^^^^^^
+StrapDown.js v0.5 (08/2014)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un petit outil pour rapidement produire de jolies pages web, en rédigeant
 directement en *Markdown*, sans la moindre compilation côté serveur !
 La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.org/md/>`_.
@@ -199,7 +199,7 @@ Sa documentation est hébergée sur
 `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de **4500 fois** !
+Actuellement, il a déjà été téléchargé plus de **6000 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ 
 *ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
@@ -233,7 +233,7 @@ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
    J'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
    `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-   et `Jota+ <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ (téléchargés plus de 7 millions de fois !) :
+   et `Jota+ <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ (téléchargés plus de 8 millions de fois !) :
 
     #. `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
     #. `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).

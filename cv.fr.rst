@@ -13,7 +13,7 @@
 
    :red:`This page is written in French. Maybe you would like to read the`
    `English <cv.en.html>`_ :red:`version ?`
-   
+
    Une version en **PDF** est disponible `cv.fr.pdf <cv.fr.pdf>`_.
 
 
@@ -107,7 +107,7 @@ Divers
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
    - :Domaines: Analyse complexe, analyse fonctionnelle et optimisation numérique, approximation des EDOs et des EDPs, calcul extérieur.
    - :Note: 14.4/20, *magna cum laude*.
- 
+
  * M1 d'**Informatique** (*Sept. 2012 à Août 2013*)
 
    - :Universités: ÉNS de Cachan & Université Paris Diderot (Paris VII);
@@ -122,7 +122,7 @@ Stage et rapport de stage de M1
 * :Encadrant: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
    et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_;
 
-* :Localisation: 
+* :Localisation:
    dans l'`équipe PPLV <http://pplv.cs.ucl.ac.uk>`_, à l'`UCL <http://www.cs.ucl.ac.uk/>`_, à Londres.
 
 * :Description:
@@ -138,35 +138,35 @@ Stage et rapport de stage de M1
    - :Universités: ÉNS de Cachan & Paris Diderot Université (Paris VII);
    - :Domaines: Analyse fonctionnelle, intégration, algèbre, arithmétique, EDOs et EDPs, topologie, géométrie différentielle;
    - :Note: 15.2/20, *magna cum laude*.
- 
+
  * Licence d'**Informatique** (*Sept. 2011 à Juillet 2012*)
 
    - :Universités: ÉNS de Cachan & Paris Diderot Université (Paris VII);
    - :Domaines: Logique, sémantique, cryptographie, algorithmique, lambda-calcul, compilation, calcul formel;
    - :Note: 14.7/20, *magna cum laude*.
- 
+
  * **TOEIC** (*test de maîtrise de la langue anglaise*) obtenu avec la note **900/990**.
 
 Stage et rapport de stage de L3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * :Titre: *"Méthodes de volumes finis sur carte graphiques nVidia pour résoudre le problème d'Euler compressible"*;
  * :Encadrant: `Pr. Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_;
- * :Description: 
-    Stage de L3 de mathématiques, au `CMLA <http://www.cmla.ens-cachan.fr/>`_ 
-    (*Centre des mathématiques et de leurs applications*, 
-    laboratoire de recherche en mathématiques de l'ÉNS de Cachan), 
+ * :Description:
+    Stage de L3 de mathématiques, au `CMLA <http://www.cmla.ens-cachan.fr/>`_
+    (*Centre des mathématiques et de leurs applications*,
+    laboratoire de recherche en mathématiques de l'ÉNS de Cachan),
     5 mois (Février 2012 à Juillet 2012).
  * :Résumé:
-    Étude générale des solveurs numériques pour les équations différentielles et les EDPs. 
-    Solveur linéaire, premier et second ordre, en 1D, 2D et 3D, avec la méthode *VFFC*. 
-    Simulation numérique, 
-    séquentielle en utilisant le language :C: et le standard d'affichage `VTK <http://www.vtk.org>`_, 
-    et parallèle en utilisant le language `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_. 
+    Étude générale des solveurs numériques pour les équations différentielles et les EDPs.
+    Solveur linéaire, premier et second ordre, en 1D, 2D et 3D, avec la méthode *VFFC*.
+    Simulation numérique,
+    séquentielle en utilisant le language :C: et le standard d'affichage `VTK <http://www.vtk.org>`_,
+    et parallèle en utilisant le language `nVidia CUDA <http://www.nvidia.com/object/cuda_home_new.html>`_.
     Simulation intéractive en 2D, avec *openGL*.
  * :Publication:
     Sur ma page personnelle, le `rapport de stage <publis/rapportL3Maths12.pdf>`_.
     Aussi publié dans le **journal IPOL** (`Image Processing on Line
-    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_), 
+    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_),
     Août 2012.
 
 **2010-2011** : seconde année de Licence & *Classe Préparatoire*
@@ -220,7 +220,7 @@ Examens d'entrées aux *Grandes Écoles*
 Autres diplômes
 ---------------
  * **Permis de conduire**, obtenu à Briançon (*Février 2012*).
- 
+
  * **Baccalauréat** (*Juin 2009*) (`voir ici sur bankexam.fr <http://www.bankexam.fr/resultat/2009/BACCALAUREAT/AIX_MARSEILLE?q=Besson+Lilian&filiere=BACS>`_)
 
    - :Lycée: Lycée d'Altitude (*Briançon*);
@@ -240,7 +240,7 @@ Projets de programmation en M1 (2012-2013)
 
  * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
    Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
-   (près de 5000 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
+   (près de 6000 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
    Ou aussi `ici sur BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.
@@ -258,7 +258,7 @@ Projets de programmation en L3 (2011-2012)
  * ``C--``: un compilateur d'un sous-ensemble du language ``C`` vers l'assembleur ``x86``, avec une sémantique formelle, écrit en **OCaml** (projet de premier semestre);
  * Pour des applications **Android** :
 
-   - Collaboration et réalisation d'une partie de la coloration syntaxique pour `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (près de 4 millions de téléchargements !);
+   - Collaboration et réalisation d'une partie de la coloration syntaxique pour `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (près de 8 millions de téléchargements !);
    - Collaboration avec **Romain Vernoux** pour son appli `OCaml Toplevel on Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_, un projet non-officiel pour le language **OCaml**, soutenu par l'*INRIA*, en charge d'**OCaml**.
 
 Projet de recherche en **MP\*** (L2, 2010-2011)

@@ -7,7 +7,7 @@
 ############################
 .. include:: .special.rst
 
-.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_ !
+.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_!
 
 .. sidebar:: Other language : in French
 
@@ -15,7 +15,7 @@
    `en français <cv.fr.html>`_ :red:`?`
 
    I'm trying to keep those two files absolutly equivalent.
-   A pretty **PDF** version is also available `cv.en.pdf <cv.en.pdf>`_ !
+   A pretty **PDF** version is also available `cv.en.pdf <cv.en.pdf>`_!
 
 
 Contact address
@@ -244,7 +244,7 @@ MSc programming projects (2012-2013)
 
  * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal.
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
-   (about 5000 download by now, see here `download stats for May 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
+   (about 6000 download by now, see here `download stats for May 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
    Or also `here on BitBucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
@@ -262,7 +262,7 @@ BSc programming projects (2011-2012)
  * ``C--``: compiler from a subset of ``C`` to ``x86`` assembler, with formal semantics, written in **OCaml** (first semester project);
  * For **Android** apps :
 
-   - Syntactical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 4 millions downloads !);
+   - Syntactical coloration and collaboration for `Jota Text Editor  <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_ (about 8 millions downloads!);
    - Collaboration with **Romain Vernoux** for his `OCaml Toplevel on Android
      <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ app,
      a non-official project for the **OCaml** language,
@@ -278,6 +278,6 @@ First-year BSc research project (2009-2010)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * :Title: *"The Chess board, a dynamic surface"*;
  * :Supervisors: Dr. **Yassine Dakhli** (*Lycée Thiers*);
- * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM !*).
+ * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM!*).
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
