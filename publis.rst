@@ -102,7 +102,7 @@ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSICo
    ...     from ANSIColors import printc
    >>> except:
    ...     def printc(a): print(a)
-   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset> (ça ne marche pas ici, normal)")
+   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset> (ca ne marche pas ici, normal)")
 
 
 :État: *À-jour.* Fonctionne vraiment bien. Le nombre de téléchargement quotidien augmente depuis juillet 2014.

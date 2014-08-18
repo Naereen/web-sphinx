@@ -132,19 +132,18 @@ et de l'étude de la modularité dans ces deux domaines.
 Stage de L3 (*Bachelor of Science*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'ai fait mon stage de second semestre de L3 de maths,
-sous la direction de `Florian de Vuyst <http://fdevuyst.jimdo.com/enseignement/>`_,
+sous la direction de `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_,
 sur la modélisation numérique d'équations différentielles de mécaniques des fluides,
 les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA``
-pour résoudre le problème d'Euler compressible en 1D, 2D et 3D.
+pour résoudre notamment le problème d'Euler compressible en 1D, 2D et 3D.
 
 #. Le rapport de stage peut être téléchargé, ici `rapportL3Maths12.pdf <publis/rapportL3Maths12.pdf>`_ (en français),
 #. Les slides de la soutenance finale sont disponibles `slidesL3Maths12.pdf <publis/slidesL3Maths12.pdf>`_,
 #. Une archive contenant certains codes sources *(distribués sous licence GPL)*
-   de nos simulations (en ``C``, et en ``CUDA``)
-   est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
+   de nos simulations (en ``C``, et en ``CUDA``) est téléchargeable, `codeL3Maths12.zip <publis/codeL3Maths12.zip>`_.
 
 
-:Note: Nous (Sophie Hecht, Maxime Isnard et moi) avions obtenu **17/20** pour nos travaux.
+:Note: Nous (`Sophie Hecht <http://www.math.ens-cachan.fr/annuaire/hecht-sophie-128110.kjsp>`_, `Maxime Isnard <http://www.math.ens-cachan.fr/annuaire/isnard-maxime-127704.kjsp>`_ et moi) avions obtenu **17/20** pour nos travaux.
 
 --------------------------------------------------------------------
 
