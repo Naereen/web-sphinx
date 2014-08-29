@@ -12,7 +12,6 @@
 
   <title><!--#echo var="SERVER_NAME" -->:<!--#echo var="REQUEST_URI" --></title>
 
-  <a class="forkit" data-text="Sur Facebook ?" data-text-detached="Ajoutez-moi comme ami !" href="http://www.facebook.com/naereencorp.lbesson">
    <img style="position: absolute; top: -30; right: 0; border: 0;" src="http://perso.crans.org/besson/_images/.forkit_ribbon.png" alt="Ajoutez moi comme ami sur Facebook !" /></a>
 
   <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.js"></script>

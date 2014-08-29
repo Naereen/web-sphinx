@@ -25,7 +25,7 @@ Transifex
  That's how the translation platform they used is called.
 
  A few moments later, I had created an account,
- and I therefore chair me for this translation project (see 
+ and I therefore chair me for this translation project (see
  `profile/Naereen  <https://www.transifex.com/accounts/profile/Naereen/>`_).
 
  Barely time to get a coffee (it was 5:06 in the morning ^^),
@@ -59,7 +59,7 @@ Encountered difficulties
  It significantly accelerates the work.
 
  Except when the other translator is using terms different than mine,
- as *ticket* for issues, and I wanted to use *bug* or 
+ as *ticket* for issues, and I wanted to use *bug* or
  *signalement de bug*.
 
  But the collaboration went well, and I think this highly increase
@@ -92,7 +92,7 @@ Result
 ------------------------------------------------------------------------------
 
   **Nice graphic right ?**
-  The French translation has reached 100%, within 12 h 30, 
+  The French translation has reached 100%, within 12 h 30,
   and is therefore the first completed.
 
   **Congrats to us !**
@@ -117,14 +117,9 @@ Update their web-service
   I think the web site *transifex* is awesome !
 
   But, the lack of statistics overview for a translation project appears to
-  be annoying, so I asked them `here on support.transifex.com 
+  be annoying, so I asked them `here on support.transifex.com
   <http://support.transifex.com/customer/en/portal/questions/908374-see-some-statistics-for-a-translation-project-?new=908374>`_
   if there is a way to add this kind of functionnality.
-
-More screenshots
-^^^^^^^^^^^^^^^^
-  More screenshots about this can be found on my Facebook page
-  `there <http://www.facebook.com/media/set/?set=a.10200855332964454.1073741826.1198154202&type=1&l=624387ae61>`_.
 
 ------------------------------------------------------------------------------
 
@@ -134,7 +129,7 @@ What's next ?
  are still frequently added to the project, mainly by the two administrators
  `jstepka <https://www.transifex.com/accounts/profile/jstepka/>`_ and
  `nvenegas <https://www.transifex.com/accounts/profile/nvenegas/>`_.
- 
+
  That's why, each 2 or 3 days, the completion rate of the project
  for the French language go down to 98% or 99% again.
 
@@ -156,9 +151,9 @@ My profile
  And this last screenshot shows my (private) profile,
  which shows that I translated about 12500 words on the French
  part of the translation project of *bitbucket.org* !
- (this figure is probably out-dated, I wrote this paragraph the 25th January 2014)
+ (this figure is probably out-dated, I wrote this paragraph the 29th August 2014)
 
- So, this allows to compute that I translated about **97%** of the **13000~**
+ So, this allows to compute that I translated about **80%** of the **15000~**
  words of the project. (again, this figure might be out-dated)
 
 .. image:: .transifex_profileNaereen.png
@@ -198,28 +193,34 @@ And I have also been accepted in others teams, but I haven't participate yet :
 
 Other translations
 ^^^^^^^^^^^^^^^^^^
+.. seealso:: `munstrap <https://bitbucket.org/lbesson/munstrap>`_
+
+   In August 2014, I forked and translated the `github.com/jonnymccullagh/munstrap <https://github.com/jonnymccullagh/munstrap>`_ project.
+   My version of `munstrap`_ now gives a nice and responsive `Munin <http://munin-monitoring.org/>`_ theme, almost entirely in French!
+
+
 .. seealso:: `linux-dash <https://bitbucket.org/lbesson/linux-dash>`_
 
-   In February 2014, I forked and translated the `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ project.
+   In February 2014, I forked and translated the `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ project. My fork is not really up-to-date, but it still work pretty well.
 
 
 .. seealso:: `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_
 
-   In April 2014, I forked and translated `squirt.io <http://squirt.io/>`_, 
-   and I also changed a few things, to be able to embed it locally more easily 
+   In April 2014, I forked and translated `squirt.io <http://squirt.io/>`_,
+   and I also changed a few things, to be able to embed it locally more easily
    (go on, try the speed-reading feature, with the shortcut "q" !).
 
 
 .. seealso:: `StrapDown.js <http://lbesson.bitbucket.org/md/>`_
 
-   In April 2014, I forked and translated `strapdownjs.com <http://strapdownjs.com/>`_ 
+   In April 2014, I forked and translated `strapdownjs.com <http://strapdownjs.com/>`_
    in order to clean it up, tweak it to change the styles, and to be able to embed it locally more easily.
 
 
 .. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
 
-   In February 2014, I wrote a small open-source clone of `<http://isup.me/>`_ 
-   in order to translate it, make it responsive (ie. more accessible on smartphones), 
+   In February 2014, I wrote a small open-source clone of `<http://isup.me/>`_
+   in order to translate it, make it responsive (ie. more accessible on smartphones),
    and also in order to learn some *php*.
 
 

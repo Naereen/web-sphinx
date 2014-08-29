@@ -171,7 +171,7 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 
 « Shortest URL on earth »
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir par exemple `fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers ma page facebook.
+Voir par exemple `fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers une page facebook.
 
 Oui, le nom de domaine est bien "❥.ws", vous avez bien lu. Fou non ?
 

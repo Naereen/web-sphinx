@@ -1,24 +1,19 @@
-Web Pages Sphinx
-================
-
+# Web Pages Sphinx
 The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.3a*.
-Currently this *projet* is in version *2.2* (*public* release) !
+Currently this *projet* is in version *2.2* (*beta* release) !
 
-Where are those pages ?
------------------------
+## Where are those pages ?
 
 ### On line :
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
  * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") is now just a redirection to the precedent one.
- * ([jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only, and only from the crans local network, no longer in service) ;
+ * [jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only (and only from the crans local network) ;
 
-About
------
+## About
 Some pages host my résumé, others are just experiments, about Sphinx and many other things.
 A few pages talk about some points I am interesting on (GNU Nano, gedit, Pokémon etc)...
 
-Other repos
------------
+## Other repos
 To limit the size of this one, I used an other repo to store
 the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
 
@@ -40,8 +35,7 @@ Lilian Besson.
 
 ----
 
-Requirements ?
---------------
+## Requirements ?
 
 This project use the following software :
 
@@ -66,9 +60,7 @@ This project use the following software :
  * (optional) ocaml, octave, to embed examples;
  * many others, but cannot list them all.
 
-License
--------
-
+## License
 This project is released under the **GPLv3 license**, for more details,
 take a look at the [LICENSE file](http://besson.qc.to/LICENSE.html) in the source.
 
