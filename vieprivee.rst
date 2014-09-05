@@ -100,6 +100,8 @@ Outils de "communication" à usage unique
 * `10minutemail.com <http://10minutemail.com/10MinuteMail/index.html>`_ propose aussi une adresse email
   qui s'auto-détruit 10 minutes plus tard, mais sans possibilité de lecture.
 
+* `cURL.io <http://curl.io/>`_ permet d'envoyer des fichiers, en clair ou chiffré, via le terminal. Et en plus, leur site web est très bien réalisé (minimaliste, mais superbe).
+
 * `CryptoCat <https://crypto.cat/>`_ propose un système de *chat* sécurisé.
 
 * `PrivNote <https://privnote.com/>`_ permet de créer des notes à
