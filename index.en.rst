@@ -12,7 +12,7 @@ I am **Lilian Besson**, `student at ENS de Cachan <http://www.math.ens-cachan.fr
 In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
 (national competitive exam for "*Prep Schools*" teacher recrutment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
 
-Since mid-July 2014, I live in India, on the campus of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a parternship between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a parternship between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
 I am involved as an assistant professor, in charge of mathematics `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
 
 .. include:: whatsnew.en.rst

@@ -10,7 +10,7 @@
 Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France).
 
-Depuis mi juillet 2014, je suis en Inde, sur le campus de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (et bientôt en informatique).
+Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (et bientôt en informatique).
 
 .. include:: .special.rst
 .. include:: whatsnew.fr.rst
