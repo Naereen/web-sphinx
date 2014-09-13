@@ -5,14 +5,14 @@
 ######################################
  Bienvenue sur mes pages personnelles
 ######################################
+.. include:: .special.rst
 À propos (de moi)
 -----------------
-Bonjour, je suis **Lilian Besson**, `étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
-(*grande école* près de Paris, France).
+Bonjour, je suis **Lilian Besson**, `(ex) étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+(*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (et bientôt en informatique).
+Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (et bientôt en informatique).
 
-.. include:: .special.rst
 .. include:: whatsnew.fr.rst
 
 Études
@@ -34,14 +34,14 @@ Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL
 
    **Un petit mot sur moi** :
 
-    En plus des maths et de l'informatique, j'aime aussi randonner et camper,
-    voyager en France et en Europe, principalement en `auto-stop <autostop.html>`_.
-    J'aime utiliser les nouvelles technologies, mais aussi développer de petits logiciels ou des pages web,
+    En plus des mathématiques et de l'informatique (pratique et théorique), j'aime aussi randonner et camper,
+    voyager en France (ou en Europe et en Inde), principalement en `auto-stop <autostop.html>`_ !
+    J'aime utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
     comme par exemple du javascript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
     des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
-    Et certains disent que je cuisine bien.
+    Et certains disent que je cuisine bien, même si depuis que je suis en Inde je n'en ai plus l'occasion...
 
    **Un petit mot sur ce site** :
 
@@ -67,7 +67,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
       :alt:   Mon adresse courriel, dans une image png...
       :target: mailto:Lilian.Besson＠ens-cachan.fr
 
-#. ou bien par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ :
+#. ou bien par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ (oui, le @ n'est pas en ASCII ici) :
 
    .. image:: .telephone.png
       :scale: 130 %
@@ -114,26 +114,22 @@ Vous pouvez aussi retrouver certains de mes travaux ou projets :
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai effectué un **stage de recherche** pour le
-troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
+J'ai effectué un **stage de recherche** pour le troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
 J'ai travaillé à l'**UCL** (:under:`University College of London`),
 sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (qui me cite ici `sur sa page <http://www.doc.ic.ac.uk/~jvillar1/>`_, voir `là sur google <http://fr.lmgtfy.com/?q=%22lilian+besson%22+site%3Adoc.ic.ac.uk>`_)
 et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
-à propos de logique de séparation, de planification en `AI`,
-et de l'étude de la modularité dans ces deux domaines.
+à propos de logique de séparation, de planification en `AI`, et de l'étude de la modularité dans ces deux domaines.
 
 #. Mon rapport (en anglais) : `<rapportM1Info13.pdf>`_,
 #. Les slides (en français) : `<slidesM1Info13.pdf>`_.
 
-:Notes: Jules m'a donné **19/20**.
-        Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**,
-        et le jury de mathématiques à l'ENS Cachan m'a donné **18.50/20**.
+:Notes: Jules m'a donné **19/20**. Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**, et le jury de mathématiques à l'ENS Cachan m'a donné **18.50/20**.
 
 Stage de L3 (*Bachelor of Science*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai fait mon stage de second semestre de L3 de maths,
-sous la direction de `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_,
-sur la modélisation numérique d'équations différentielles de mécaniques des fluides,
+J'ai fait mon stage de second semestre de L3 de maths, au laboratoire de mathématiques appliquées de l'ENS Cachan (le CMLA),
+sous la direction de `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_.
+Nous avons travaillé sur la modélisation numérique d'équations différentielles de mécaniques des fluides,
 les méthodes de volumes finis, et leurs implémentations en ``C`` et ``CUDA``
 pour résoudre notamment le problème d'Euler compressible en 1D, 2D et 3D.
 
@@ -246,7 +242,8 @@ du *flux*, la page `<rss.html>`_ est là pour ça.
 Traductions
 ^^^^^^^^^^^
 Entre *mars 2013* et *février 2014*, j'ai participé à la traduction de différents logiciels et sites web.
-:red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
+
+.. :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
 
 La page `<transifex.html>`_ présente de façon narrative le premier contact avec le site `transifex <http://www.transifex.com>`_.
 J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et `XFCE <http://xfce.org/>`_, ou aussi le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
@@ -258,10 +255,10 @@ La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de comm
 
 Galerie photos et musiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-#. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, ici `<generateglisse.sh/>`_
+#. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
    (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
-#. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, ici `<generatejplayer.sh/>`_
+#. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
    (les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).
 
 ------------------------------------------------------------------------------
@@ -279,12 +276,9 @@ J'expérimente certaines fonctionnalités de **Sphinx**, ainsi que des extension
 sur ces pages là :
 
 #. `<math.html>`_, présente plusieurs façons d'écrire des maths en **rST**;
-#. `<graph.html>`_, présente une façon d'embarquer des graphes via le langage
-   **DOT Graph** (et les visualiser avec *GraphViz*);
-#. `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques
-   générés à partir de commande **GNU Plot**;
-#. `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes
-   **shell** dans les pages web (avec un exemple en **OCaml** entre autres);
+#. `<graph.html>`_, présente une façon d'embarquer des graphes via le langage **DOT Graph** (et les visualiser avec *GraphViz*);
+#. `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques générés à partir de commande **GNU Plot**;
+#. `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes **shell** dans les pages web (avec un exemple en **OCaml** entre autres);
 
 JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

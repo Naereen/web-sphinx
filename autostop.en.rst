@@ -24,11 +24,11 @@ A quick overview
 ----------------
 In 2014
 ^^^^^^^
-Not yet.
+Less than 200kms, around Paris and Hyderabad, in India.
 
 In 2013
 ^^^^^^^
-Something like 1800 kms (for american *ignorants*, go check on Wikipedia what kilometers are), and only in France.
+Something like 1800 kms (for american *ignorants*, go check on Wikipedia what kilometers are), and only in France, in the "Landes" and "Normandie" regions.
 
 In 2012
 ^^^^^^^
@@ -42,6 +42,6 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 * alone people more than people with children,
 * usually, they also practice hitch-hiking on their own, or they have practiced it before,
 * not really able to notice any pattern in their age,
-* usually they are locals (living near the start point ou the destination).
+* usually they are locals (living near the start point or the destination).
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

@@ -8,17 +8,18 @@
 .. include:: .special.rst
 Who am I?
 ---------
-I am **Lilian Besson**, `student at ENS de Cachan <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University, near Paris.
-In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-(national competitive exam for "*Prep Schools*" teacher recrutment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
+Hello, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training professors for superior studies, located near Paris.
 
-Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a parternship between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
-I am involved as an assistant professor, in charge of mathematics `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
+Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
 
 .. include:: whatsnew.en.rst
 
 Studies before 2014
 ^^^^^^^^^^^^^^^^^^^
+* In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
+  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
+
 * In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
   and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both magna cum laude.
 
@@ -34,10 +35,11 @@ Studies before 2014
 
    **A few words about me**:
 
-   I like to walk, travel, go camping around France and Europe, mainly by using hitchhiking.
-   I also like using new technologies, and enjoy design tiny pieces of software or web content
+   I like to walk, travel, go camping around France and Europe, mainly by using `hitchhiking <autostop.en>`_.
+   I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
    for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
+   And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
 
 
    **A few words about this site**:
@@ -72,38 +74,34 @@ Studies before 2014
    Feel free to *contact* me by `the solution you prefer <callme.en.html>`_.
 
 
-Some projects online
-^^^^^^^^^^^^^^^^^^^^
+Some projects on-line
+^^^^^^^^^^^^^^^^^^^^^
 Some of my profile pages on some great website:
 
   #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  #. or via my *Launchpad* profile `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_;
   #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
-  #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_.
+  #. or via my *Launchpad* profile `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_ (really unused);
+  #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
 
 
 MSc internship : "*Towards modularity for planning and robot programs verification*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I did an internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
+I did a research internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
 .. sidebar:: Résumé
 
    My *résumé* is available here `<cv.pdf>`_.
-   It is realised with ``LaTeX``, and the package *moderncv*.
+   It is realized with ``LaTeX``, and the package *moderncv*.
 
 
 I worked at **UCL** (:under:`University College of London`),
-under the direction of *Jules Villard* (and *Peter O'Hearn*),
-about separation logic, planning in `AI`,
-and the study of modularity in those two domains.
+under the direction of `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (who quotes me `on his new page <http://www.doc.ic.ac.uk/~jvillar1/>`_, and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
+about separation logic, planning in `AI`, and the study of *modularity* in those two domains.
 
 My report (in English): `<rapportM1Info13.pdf>`_,
 and my slides (in French): `<slidesM1Info13.pdf>`_.
 
-:Mark: Jules gave me **19/20**.
-       I got the mark **17.7/20** from the Computer Science jury
-       at ENS Cachan,
-       and **18.50/20** from the Maths jury at ENS Cachan.
+:Mark: Jules gave me **19/20**. I got the mark **17.7/20** from the Computer Science jury at ENS Cachan, and **18.50/20** from the Maths jury at ENS Cachan.
 
 ------------------------------------------------------------------------------
 
