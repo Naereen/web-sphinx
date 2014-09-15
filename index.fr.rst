@@ -17,7 +17,7 @@ Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL
 
 Études
 ^^^^^^
-* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://agreg.org/ResultatsMerite2014.html>`_.
+* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_.
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,

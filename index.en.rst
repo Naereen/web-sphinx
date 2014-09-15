@@ -18,10 +18,10 @@ I am involved as an assistant professor, in charge of `mathematics <http://www.m
 Studies before 2014
 ^^^^^^^^^^^^^^^^^^^
 * In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
+  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
 
 * In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
-  and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both magna cum laude.
+  and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both `magna cum laude`_.
 
 * From 2011/2012, I studied at `ÉNS Cachan <http://www.ens-cachan.fr/version-anglaise/>`_, and in July 2012, I completed two `Bachelor of Science <https://en.wikipedia.org/wiki/Bachelor_of_science>`_, one in **Mathematics** and one in **Computer Science**,
   both `magna cum laude <https://en.wiktionary.org/wiki/magna_cum_laude>`_.
