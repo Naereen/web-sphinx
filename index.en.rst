@@ -10,7 +10,7 @@ Who am I?
 ---------
 Hello, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training professors for superior studies, located near Paris.
 
-Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
 I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
 
 .. include:: whatsnew.en.rst

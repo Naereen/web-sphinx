@@ -50,8 +50,8 @@ Remis à neuf, et nettoyé récemment pour aider une élève en L3 d'informatiqu
 
 `Bomberman <publis/Bomberman/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le jeu de **Bomberman** en réseau réalisé de Nov. 2012 à Fév. 2013
-pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20.
+Un jeu de **Bomberman**, multi-joueur en réseau, écrit en Python, réalisé de Nov. 2012 à Fév. 2013
+pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20 (seconde meilleure note).
 
 :État: *À-jour.*
 
@@ -62,7 +62,7 @@ Ce projet proposait une surcharge des opérateurs (réalisée très *salement*),
 (du genre ``plot("cos((x+5)/2.16)",0--10)``), et quelques trucs assez géniaux.
 Je manque de temps pour le remettre à jour.
 
-:État: *N'est plus maintenu!* Devrait peut-être fonctionner. Mais pas sûr.
+:État: *N'est plus maintenu!* Peut fonctionner. Mais pas sûr.
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -78,7 +78,7 @@ Par example :
    reviens à invoquer zenity --color-selection --title="Choisir une couleur" *)
 
 
-:État: *N'est plus maintenu activement* mais fonctionne avec les dernières versions d'OCaml (4.01.0 et bêtas) et de Zenity.
+:État: *N'est plus maintenu activement* mais fonctionne avec les dernières versions d'OCaml (4.02.0) et de Zenity.
 
 `ansi-colors <publis/ansi-colors/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
