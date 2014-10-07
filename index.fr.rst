@@ -123,7 +123,7 @@ et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
 #. Mon rapport (en anglais) : `<rapportM1Info13.pdf>`_,
 #. Les slides (en français) : `<slidesM1Info13.pdf>`_.
 
-:Notes: Jules m'a donné **19/20**. Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**, et le jury de mathématiques à l'ENS Cachan m'a donné **18.50/20**.
+:Notes: Jules m'a donné **19/20**. Le jury du département d'informatique à l'ENS Cachan m'a donné **17.7/20**, et le jury de mathématiques à l'ENS Cachan m'a donné **18.5/20**.
 
 Stage de L3 (*Bachelor of Science*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -196,8 +196,13 @@ et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà été téléchargé plus de **6000 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
-*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_ 
+*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
 *ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
+
+.. note:: Nouvelle version ?
+
+   Je suis en train de nettoyer ANSIColors-balises et vais en faire une nouvelle version, compatible avec Python 3.4.
+
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -208,7 +213,7 @@ Le projet est surtout hebergé sur **BitBucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**,
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
-J'ai eu **16.9/20** pour ce projet.
+J'ai eu **16.9/20** pour ce projet. Et en plus, le jeu est sympa !
 
 ------------------------------------------------------------------------------
 
@@ -216,7 +221,7 @@ Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Pour des explications sur ma clé **PGP**, savoir comment la *récupérer*,
 l'*importer*, et *vérifier l'intégrité des fichiers* proposés en téléchargement ici,
-cette page `<pgp.html>`_ peut être utile.
+cette page `<pgp.html>`_ peut être utile (je ne m'en sers pas beaucoup en fait).
 
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -253,8 +258,8 @@ Wolfram|Alpha
 La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de commande),
 à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
 
-Galerie photos et musiques
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Galeries web (photos et musique)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
    (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
@@ -267,7 +272,7 @@ Pages de démonstrations
 -----------------------
 .. container:: smallpar
 
-   `<demo.html>`_ est là pour tester les fonctionnalités de base
+   La page de référence (`<demo.html>`_) est là pour tester les fonctionnalités "de base"
    du langage *reStructuredText* :red:`(je n'en suis pas l'auteur)`.
 
 Extensions non officielles

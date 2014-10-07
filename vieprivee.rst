@@ -93,9 +93,7 @@ Crypter ses fichiers
 
 Outils de "communication" à usage unique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `anonbox.net <https://anonbox.net/fr/>`_ propose une adresse email
-  à usage unique (un seul message reçu, en plain text ascii, avec les pièces
-  jointes encodées en base64 : un courriel dans sa forme brute quoi).
+* `anonbox.net <https://anonbox.net/fr/>`_ propose une adresse courriel à usage unique (un seul message reçu, en texte brute ASCII, avec les pièces jointes encodées en base64 : un courriel "dans sa forme brute" quoi).
 
 * `10minutemail.com <http://10minutemail.com/10MinuteMail/index.html>`_ propose aussi une adresse email
   qui s'auto-détruit 10 minutes plus tard, mais sans possibilité de lecture.
@@ -110,19 +108,19 @@ Outils de "communication" à usage unique
 * `NoPlaintext <https://noplaintext.com/>`_ fait la même chose.
   Une bonne idée est de chaîner les différents services.
 
-* `ZeroBin <http://sebsauvage.net/paste/>`_ est un pastebin (un presse-papier
-  éléctronique, pour faire des copier-coller) à usage unique, sécurisé par ``AES 256``.
-  Mention spéciale pour le *« Kittens will die if you abuse this service »* dans la
-  note en haut de page :) !
+* `ZeroBin <http://sebsauvage.net/paste/>`_ est un pastebin (un presse-papier électronique, pour faire des copier-coller) à usage unique, sécurisé par ``AES 256``.
+  Mention spéciale pour le *« Kittens will die if you abuse this service »* dans la note en haut de page :) !
 
 * `CryptoBin <https://cryptobin.org/>`_ est pareil.
 
-* `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en ``P2P``.
+* `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en ``P2P`` (pair à pair, donc le fichier est sensé ne pas passer par un serveur annexe). Marche super bien !
 
 * `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``.
   Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
 
 * `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <korben.info/digify.html>`_).
+
+* `Snap Me Now <http://www.snapmenow.com/>_` permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
 
 ---------------------------------------------------------------------
 

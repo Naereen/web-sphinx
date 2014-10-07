@@ -57,11 +57,13 @@ archive: clean
 	if [ -f ~/web-sphinx.tar.xz.asc ]; then mv -v -f ~/web-sphinx.tar.xz.asc ~/Dropbox/ ; fi
 	tar -Jcvf ~/web-sphinx.tar.xz ./ > /tmp/web-sphinx.tar.xz`date "+%d_%M__%H_%m_%S"`.log
 	$(GPG) ~/web-sphinx.tar.xz
+	mv -vf ~/web-sphinx.tar.xz* ~/Dropbox/
 
 archive.7z: clean
 	if [ -f ~/Dropbox/web-sphinx.7z ]; then mv -v -f ~/Dropbox/web-sphinx.7z /tmp/ ; fi
-	time 7z a -y ~/Dropbox/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
-	$(GPG) ~/Dropbox/web-sphinx.7z
+	time 7z a -y ~/web-sphinx.7z ./ | tee /tmp/web-sphinx.7z`date "+%d_%M__%H_%m_%S"`.log
+	$(GPG) ~/web-sphinx.7z
+	mv -vf ~/web-sphinx.7z* ~/Dropbox/
 
 ##################### Fix perms and email addresses ###########################
 
