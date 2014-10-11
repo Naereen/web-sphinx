@@ -77,7 +77,7 @@ IRC (salles de discussion)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 De temps en temps, je suis sur le réseau ``irc.crans.org``, connecté souvent aux salles *#crans* et *#general*, sous le pseudo `Naereen <https://gravatar.com/naereen>`_ (j'utilise généralement `irssi <http://irssi.org/about>`_ avec `ces fichiers de configuration <publis/irssi/>`_, en console).
 
-Si vouv vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
+Si vous vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
 
 VoIP (Téléphonie par l'Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
