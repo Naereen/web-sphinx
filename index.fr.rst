@@ -41,6 +41,7 @@ Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL
     des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
+
     .. Et certains disent que je cuisine bien, même si depuis que je suis en Inde je n'en ai plus l'occasion...
 
    **Un petit mot sur ce site** :

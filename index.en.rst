@@ -39,8 +39,8 @@ Studies before 2014
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
    for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
-   .. And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
 
+   .. And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
 
    **A few words about this site**:
 
