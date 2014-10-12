@@ -3,11 +3,11 @@
    <div class="sidebar" style="font-size:80%;">
    <p class="first sidebar-title" style="font-size:110%;"><i>Quoi de neuf</i> par ici ?</p>
    <ol class="last arabic simple">
-   <li>Je suis désormais un assistant professeur <a href="http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo">en Inde</a>,</li>
+   <li>Récemment interviewé et cité dans <a href="http://goo.gl/0lecQw" title="http://www.liberation.fr/societe/2014/10/09/inde-le-coup-de-genie-de-centrale_1118527">cet article de <b>Libération</b></a> à propos du lancement de <a href="http://www.mahindraecolecentrale.edu.in/">Mahindra École Centrale</a> !</li>
+   <li>Je suis désormais un <b>professeur assistant</b> <a href="http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo">en Inde</a>,</li>
    <li>Nos <a href="http://agreg.org/ResultatsMerite2014.html">résultats d'admission pour l'agrégation de mathématiques</a> sont tombés le mercredi 9 juillet (et j'ai été <b>admis 23ème sur 275</b>). <i>Youpi !</i></li>
    <li><a href="http://besson.qc.to/apk.fr.html">apk.fr.html</a>: une liste d'applications <tt>Android</tt> pratiques,</li>
    <li><a href="http://lbesson.bitbucket.org/md/?src=whatsnew.fr">StrapDown.js</a>, est un petit outil pour écrire des pages web <i>directement en Markdown</i>, sans compilation côté serveur, avec deux thèmes superbes et adaptatifs,</li>
-   <li>Deux scripts pour <a href="generateglisse.sh/">une gallerie photo</a> ou <a href="generatejplayer.sh/">un lecteur de musique</a> (générés automatiquement, côté serveur, en statique).</li>
    </ol>
    </div>
 

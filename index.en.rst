@@ -8,10 +8,10 @@
 .. include:: .special.rst
 Who am I?
 ---------
-Hello, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training professors for superior studies, located near Paris.
+Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training professors for superior studies, located near Paris.
 
-Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
-I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and also in Computer Science for the second semester!).
+Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (a new Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and soon in Computer Science for the second semester!).
 
 .. include:: whatsnew.en.rst
 
@@ -39,7 +39,7 @@ Studies before 2014
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
    for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
-   And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
+   .. And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
 
 
    **A few words about this site**:

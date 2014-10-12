@@ -8,10 +8,10 @@
 .. include:: .special.rst
 À propos (de moi)
 -----------------
-Bonjour, je suis **Lilian Besson**, `(ex) étudiant en maths et en info <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+Avé, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la toute nouvelle `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_, chargé de `TDs <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (et bientôt en informatique).
+Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (et bientôt en informatique).
 
 .. include:: whatsnew.fr.rst
 
@@ -41,7 +41,7 @@ Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL
     des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
-    Et certains disent que je cuisine bien, même si depuis que je suis en Inde je n'en ai plus l'occasion...
+    .. Et certains disent que je cuisine bien, même si depuis que je suis en Inde je n'en ai plus l'occasion...
 
    **Un petit mot sur ce site** :
 
@@ -153,15 +153,12 @@ pour résoudre notamment le problème d'Euler compressible en 1D, 2D et 3D.
 Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
-`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce
-`README.html <http://lbesson.bitbucket.org/README.html>`_
-qui décrivent certains projets, et notamment des scripts sur lesquels
-je travaille *sur mon temps libre*.
+`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
+qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
-StrapDown.js v0.5 (08/2014)
+StrapDown.js v0.5 (09/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un petit outil pour rapidement produire de jolies pages web, en rédigeant
-directement en *Markdown*, sans la moindre compilation côté serveur !
+Un petit outil pour rapidement produire de jolies pages web, en rédigeant directement en *Markdown*, sans la moindre compilation côté serveur !
 La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.org/md/>`_.
 
 SquirtFR (03/2014)
@@ -201,13 +198,13 @@ Actuellement, il a déjà été téléchargé plus de **6000 fois** !
 
 .. note:: Nouvelle version ?
 
-   Je suis en train de nettoyer ANSIColors-balises et vais en faire une nouvelle version, compatible avec Python 3.4.
+   Je vais essayer de nettoyer ANSIColors-balises afin d'en publier une nouvelle version, compatible avec Python 3.4.
 
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
-Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
+Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7.6, avec un protocole
 formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
 Le projet est surtout hebergé sur **BitBucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
