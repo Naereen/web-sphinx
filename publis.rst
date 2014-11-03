@@ -23,7 +23,6 @@ Ce dossier contient un certain nombre de petites productions
    Chaque projets listés sur cette page est distribué *librement*,
    sous les termes de la `licence GPLv3 <LICENSE.html>`_ !
 
-
 ---------------------------------------------------------------------
 
 Projets
@@ -157,6 +156,12 @@ De vieux scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
 
 :État: *N'est plus maintenu!*
 
+---------------------------------------------------------------------
+
+Presse (automne 2014)
+---------------------
+* `cet article paru dans Le Monde, à propos de la future École Centrale Casablanca <publis/29_10_2014__LeMonde.fr.html>`_ (`aussi en anglais <publis/29_10_2014__LeMonde.en.html>`_, et `en PDF <publis/29_10_2014__LeMonde.fr.pdf>`_),
+* `cet article paru dans Libération, à propos de Mahindra École Centrale <publis/10_10_2014__Liberation.fr.html>`_ (`aussi en anglais <publis/29_10_2014__LeMonde.en.html>`_, et `en PDF <publis/10_10_2014__Liberation.fr.pdf>`_).
 
 ---------------------------------------------------------------------
 
