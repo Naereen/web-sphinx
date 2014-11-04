@@ -78,11 +78,11 @@ $(document).ready(function(){
           noty({text: ("<b>Super !</b>\n"+
               "</br>Au fait, vous pouvez changer le style des pages en <i>appuyant sur 's'</i> !"),
             type: 'success', timeout: 5000});
-        }}, 
+        }},
       {addClass: 'btn btn-danger', text: "Pas d'accord !", onClick: function($noty) {
           $noty.close();
           noty({text: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n"
-              +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.", 
+              +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
             type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 5000);
@@ -94,11 +94,11 @@ $(document).ready(function(){
           noty({text: ("<b>Normal, je code bien :)</b>"
             + "\n</br>N'hésitez pas à consulter d'autre pages !"),
             type: 'success', timeout: 5000});
-        }}, 
+        }},
       {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
           $noty.close();
           noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile !</span>", 
+           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile !</span>",
            type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 90000);
@@ -113,15 +113,15 @@ $(document).ready(function(){
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();
-        }}, 
+        }},
       {addClass: 'btn btn-primary btn-sm', text: "<b>Bleu !</b>", onClick: function($noty) {
           useCookieToChangeStyle("purple");
           $noty.close();
-        }}, 
+        }},
       {addClass: 'btn btn-success btn-sm', text: "<b>Vert !</b>", onClick: function($noty) {
           useCookieToChangeStyle("green");
           $noty.close();
-        }}, 
+        }},
       {addClass: 'btn btn-warning btn-sm', text: "<b>Orange !</b>", onClick: function($noty) {
           useCookieToChangeStyle("orange");
           $noty.close();
