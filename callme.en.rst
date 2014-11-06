@@ -28,9 +28,9 @@ at the following addresses (listed by decreasing preference) :
        France
 
 
-3. to my parents' place (in France),
-4. to my former place, at CROUS of Cachan (in France, but deprecated),
-5. or you can try in India (more expensive, and probably longer).
+3. to my place (in France), but this adresse is for private use only,
+4. do not write to my former place, at CROUS of Cachan (in France, but deprecated, please do not use it anymore),
+5. or you can try in India (more expensive, and probably longer), at my office at `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (the postal address is specified on that page).
 
 Emails
 ^^^^^^

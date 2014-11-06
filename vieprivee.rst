@@ -55,6 +55,8 @@ Distribution Linux "la plus sécurisée"
 
 Crypter ses communications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Voir cette liste complète qui compare différents outils <https://www.eff.org/secure-messaging-scorecard>`_, par les gars de l`EFF (Electronic Frontier Foundation) <https://www.eff.org/about>`_,
+
 * `GnuPG <http://www.gnupg.org/download/>`_ pour chiffrer ses courriels.
   Voir aussi `<pgp.html>`_ pour plus d'infos,
   ou `<Lilian_Besson.asc>`_ pour récupérer ma clé publique

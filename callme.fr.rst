@@ -28,9 +28,9 @@ aux adresses suivantes (listées par ordre de préférence) :
        France
 
 
-3. chez moi (en France),
-4. ancien chez moi, au CROUS de Cachan (en France, déprécié),
-5. ou bien en Inde (plus cher et plus long).
+2. chez moi (en France), adresse privée que je peux donner si besoin,
+3. ne pas m'écrire à mon ancienne adresse, au CROUS de Cachan (en France, déprécié, à ne plus utiliser),
+4. ou bien en Inde (plus cher et plus long), à mon bureau à `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (l'adresse postale est précisée sur cette page).
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
