@@ -137,7 +137,9 @@ Apps for secrets agents (or paranoid people)
 * `Obscura Cam <http://apk-dl.com/store/apps/details?id=org.witness.sscphase1>`_ to take pictures without adding any meta-data to them,
 * `Orbot <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=org.torproject.Android>`_, a `TOR <https://torproject.org/>`_ client to access the web anonymously,
 * `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, a browser to use with `Orbot`_,
-* `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ to record sounds and conversations.
+* `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ to record sounds and conversations
+* `RedPhone : Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ to secure your phone calls (only with other users of the same app RedPhone),
+* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure).
 
 
 Misc.
