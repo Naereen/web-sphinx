@@ -128,6 +128,8 @@ Outils de "communication" à usage unique
 
 Protéger sa vie privée
 ^^^^^^^^^^^^^^^^^^^^^^
+* `Cet article du Monde peut donner des idées, sur l'obfuscation <http://internetactu.blog.lemonde.fr/2014/11/10/lobfuscation-strategie-de-resistance-a-la-surveillance/>`_.
+
 * `MAT (Metadata Anonymisation Toolkit) <https://mat.boum.org/>`_,
   pour effacer les méta-données de différents types de fichiers.
 
