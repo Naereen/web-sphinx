@@ -226,13 +226,7 @@ Utilitaires divers
   permet de rechercher dans la base de donnée de `clés GPG <gpg.html>`_ du MIT
   (serveur `<http://pgp.mit.edu:11371/pks>`_) pour un nom ou prénom.
 
-  :État: *Terminé*. Plus expérimental qu'autre chose.
-
-  :Exemple:
-
-  .. runblock:: console
-
-      $ searchgpg_nocolor.sh zelda 2>&1 | tr @ '#'
+  :État: *Terminé*. Plus expérimental (et inutile) qu'autre chose.
 
 
 * `randomgifts.sh <bin/randomgifts.sh>`_,
