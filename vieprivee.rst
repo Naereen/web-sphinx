@@ -67,6 +67,8 @@ Crypter ses communications
   texte sous la forme d'espaces en fin de lignes.
   Faut quand même être sacrément velu pour envisager ça !
 
+* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ pour crypter ses SMS (avec d'autres utilisateurs de TextSecure). À noter que `WhatsApp <http://www.whatsapp.com/>`_ propose `désormais la même chose ! <korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_.
+
 ---------------------------------------------------------------------
 
 Garantir son idendité

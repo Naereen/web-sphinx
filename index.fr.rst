@@ -8,7 +8,7 @@
 .. include:: .special.rst
 À propos (de moi)
 -----------------
-Avé, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
 Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (et bientôt en informatique).
@@ -80,12 +80,12 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
 #. mais vous pouvez aussi m'écrire à l'adresse postale suivante (`→ plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_), en France ::
 
-       Mr Lilian Besson,
-       ENS Cachan,
-       Dept. de Mathématiques,
+       Mr. Lilian Besson,
+       Département de Mathématiques,
+       École Normale Supérieure de Cachan,
        41, avenue du Président Wilson,
-       94230 - Cachan,
-       France
+       94235 - Cachan Cedex,
+       FRANCE
 
 #. plus de moyens de me contacter sont sur cette page : `<callme.fr.html>`_ !
 
