@@ -18,7 +18,7 @@ This page is there to quickly describe how I use on a daily basis the awesome **
 
    « *Its use is common, even essential for some basic computing tasks such as system administration and software development..* »
 
-   Needless to say therefore that `I use it constantly <https://bitbucket.org/lbesson/>`, mostly on Linux (Ubuntu 14.04), and occasionally on Windows.
+   Needless to say therefore that `I use it constantly <https://bitbucket.org/lbesson/>`_, mostly on Linux (Ubuntu 14.04), and occasionally on Windows.
 
    The Wikipedia page `on text editors <https://en.wikipedia.org/wiki/Comparison_of_text_editors>`_ contains a list of the most popular publishers multi-platform text.
    Sublime Text is obviously on the list, along with `gedit <./publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
