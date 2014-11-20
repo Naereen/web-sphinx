@@ -2,9 +2,9 @@
    :description lang=en: Description of how I use the text editor Sublime Text 3 (ST3)
    :description lang=fr: Page décrivant mon utilisation de l'éditeur de texte Sublime Text 3 (ST3)
 
-######################
- How I Sublime Text 3
-######################
+########################################################
+ How I `Sublime Text 3 <http://www.sublimetext.com/3>`_
+########################################################
 .. include:: .special.rst
 About...
 --------
@@ -79,7 +79,7 @@ How to install plugins?
 ~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Plugin ?
 
-   A `plugin`_ is an additional component that completes a `software`_ host to provide it with new features.
+   For computer softwares, `plugins`_ are additionals component that completes a `software`_ host to provide it with new features.
 
 
 Sublime Text can be equipped with a package manager that allows users to find, install, update and remove additional packages without even having to restart Sublime Text!
@@ -119,7 +119,7 @@ Config
 ~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `docs.sublimetext.info/en/sublime-text-3/customization/settings.html <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html>`_ explains how to *deeply configure every small aspect* of ST3.
+   This page `customization/settings.html <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html>`_ explains how to *deeply configure every small aspect* of ST3.
 
 
 My configuration files:
@@ -135,14 +135,14 @@ Snippets
 ~~~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `docs.sublimetext.info/en/sublime-text-3/extensibility/snippets.html <http://docs.sublimetext.info/en/sublime-text-3/extensibility/snippets.html>`_ explains completely how these snippets have to be designed and how can they help you to be more effective.
+   This page `extensibility/snippets.html <http://docs.sublimetext.info/en/sublime-text-3/extensibility/snippets.html>`_ explains completely how these snippets have to be designed and how can they help you to be more effective.
 
 
 List of my snippets:
 
 * `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ to easily create a new `Python <python.html>`_ script,
 * `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <./bin/>`_.
-* `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ to create an empty LaTeX document powered by `autotex <./publis/autotex>`_.
+* `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_.
 * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.org/md/>`_!
 
 
@@ -150,7 +150,7 @@ Build systems
 ~~~~~~~~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html>`_ also completely explains how to use and design build systems.
+   This page `file_processing/build_systems.html <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html>`_ also completely explains how to use and design build systems.
 
 
 Sublime Text (as with other good text editors), it is possible to build, run or compile your files automatically and easily.
@@ -159,7 +159,7 @@ ST3 comes with build scripts for a dozen language, and it is easy to create and 
 
 List of my build systems (one for now):
 
- * A LaTeX document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any LaTeX headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
+* A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
 
 
 The best plugins?
@@ -178,49 +178,48 @@ Small customization plugins:
 * `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_ visualize the difference of *each line* of *each file* regarding the last commited version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 * `Language - French - Français <https://sublime.wbond.net/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
 * `Predawn <https://sublime.wbond.net/packages/Predawn>`_ is an improved interface, very dark to `help you protect your eyes <bin/yeux.sh>`_ !
-* `Status Bar Weather <https://sublime.wbond.net/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
-* `Theme - Centurion <https://sublime.wbond.net/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://twitter.com/TristanDeleu>`_.
+* `Status Bar Weather <https://sublime.wbond.net/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. Yeah, your text editor can *tell you the weather!*
+* `Theme - Centurion <https://sublime.wbond.net/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface `suitable for optimum productivity <https://twitter.com/TristanDeleu>`_.
 
 
-Greffons ajoutant de super fonctionnalités :
+Plugins that add great features:
 
-* `Dictionary​Auto​Complete <https://sublime.wbond.net/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez magique.
-* `LineEndings <https://sublime.wbond.net/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
-* `MakeCommands <https://sublime.wbond.net/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. C'est tout simple, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
-* `SideBarEnhancements <https://sublime.wbond.net/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
-* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle.
-* `Terminal <https://sublime.wbond.net/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers pas, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
-
-
-Meilleures colorations pour certains langages :
-
-* `ColorPicker <https://sublime.wbond.net/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
-* `Gnuplot <https://sublime.wbond.net/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
-* `OCaml <https://sublime.wbond.net/packages/OCaml>`_ améliore la coloration pour `les langages caml-light et OCaml <ocaml.html>`_. À utiliser avec `OCaml Autocompletion <https://sublime.wbond.net/packages/OCaml%20Autocompletion>`_ aussi.
-* `Markdown Extended <https://sublime.wbond.net/packages/MakeCommands>`_ améliore la coloration syntaxique du `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, langage léger à balises, conçu pour une rédaction facile de document. J'utilise Markdown notamment via mon projet `StrapDownJS`_ ! Voir `un exemple <bin/>`_ ?
-* `nginx <https://sublime.wbond.net/packages/nginx>`_ améliore la coloration des fichiers de configuration du `magnifique serveur web NGinx <http://nginx.org/>`_.
-* `RestructuredText Improved <https://sublime.wbond.net/packages/RestructuredText%20Improved>`_ améliore bien la coloration du `reStructedText <demo.html>`_, le langage à balise utilisé par `Sphinx <http://sphinx-doc.org/>`_ et la documentation de Python (et pour cette page et `mon site <index.html>`_). À utilisé avec `ces snippets pour rST <https://sublime.wbond.net/packages/Restructured%20Text%20(RST)%20Snippets>`_.
-* `TWiki <https://sublime.wbond.net/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré.
+* `Dictionary​Auto​Complete <https://sublime.wbond.net/packages/DictionaryAutoComplete>`_ enables autocompletion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring.
+* `LineEndings <https://sublime.wbond.net/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
+* `MakeCommands <https://sublime.wbond.net/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. It's simple, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an effecient idea in fact!
+* `SideBarEnhancements <https://sublime.wbond.net/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
+* `SublimeGit <https://sublimegit.net/>`_ (installable from `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial licence... But it is really awesome, so you will support this.
+* `Terminal <https://sublime.wbond.net/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I do not use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 
 
+A better syntax coloring for some languages:
 
-Greffons plus lourds, ou conçu pour un langage spécifique :
-
-* Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification à la volée du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire !
-* `SublimeCodeIntel <https://sublime.wbond.net/packages/SublimeCodeIntel>`_ est censé permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme.
-* `Emmet <http://emmet.io/>`_ (installable depuis `sublime.wbond.net/packages/Emmet <https://sublime.wbond.net/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. Il demande du temps pour maîtriser ses fonctionnalités, mais ça vaut le coup !
-* `LaTeXing <http://www.latexing.com/>`_ (installable depuis `sublime.wbond.net/packages/LaTeXing <https://sublime.wbond.net/packages/LaTeXing>`_), améliore le support de LaTeX.
-
-
-.. note:: Purement objective
-
-   This liste reflète simplement mon utilisation quotidienne de ST3. Ces choix sont purement objectifs.
+* `ColorPicker <https://sublime.wbond.net/packages/ColorPicker>`_ allows you to select a color, and insert it as is. Very handy when writing CSS or HTML.
+* `Gnuplot <https://sublime.wbond.net/packages/Gnuplot>`_ provides good support for programming with `GNUPlot v4+ <http://www.gnuplot.info/>`_.
+* `OCaml <https://sublime.wbond.net/packages/OCaml>`_ improve a little bit the syntax coloring `for the two languages caml-light and OCaml <ocaml.html>`_. To be used with `OCaml Autocompletion <https://sublime.wbond.net/packages/OCaml%20Autocompletion>`_.
+* `Markdown Extended <https://sublime.wbond.net/packages/MakeCommands>`_ is supposed to improve the syntax coloring for `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, lightweight markup language, designed for easy preparation of document. I use Markdown especially via my project `StrapDownJS`_ ! (See `an example <bin/>`_ ?)
+* `nginx <https://sublime.wbond.net/packages/nginx>`_ improve the syntax coloring for config files for the `awesome NGinx web server <http://nginx.org/>`_.
+* `RestructuredText Improved <https://sublime.wbond.net/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). À utilisé avec `ces snippets pour rST <https://sublime.wbond.net/packages/Restructured%20Text%20(RST)%20Snippets>`_.
+* `TWiki <https://sublime.wbond.net/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use the **TWiki** "Monokai for Markup" them for every language!
 
 
-Configuration spécifique à certains greffons
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Certains greffons peuvent être configurés spécifiquement.
-Voici leurs différents réglages :
+
+Heavier plugins, or plugins designed for a specific language:
+
+* The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ enables verification at runtime code you write (Spyder does the same for Python, for example). Quite extraordinary!
+* `SublimeCodeIntel <https://sublime.wbond.net/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program.
+* `Emmet <http://emmet.io/>`_ (installable from `sublime.wbond.net/packages/Emmet <https://sublime.wbond.net/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents quite magical. It takes time to master its features, but it's worth it!
+* `LaTeXing <http://www.latexing.com/>`_ (installable from `sublime.wbond.net/packages/LaTeXing <https://sublime.wbond.net/packages/LaTeXing>`_), is *supposed* to improve support for \\(\\LaTeX{}\\).
+
+
+.. note:: Purely objective
+
+   This list simply reflects my daily use of ST3. These choices are purely objective
+
+
+Some specific configuration grafts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Some plugins can be configured specifically. Here are their different settings:
 
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
 * `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
@@ -229,10 +228,22 @@ Voici leurs différents réglages :
 * `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
 * `Emmet.sublime-settings <./publis/ST3/Emmet.sublime-settings>`_.
 
+-----------------------------------------------------------------------------
 
-Conseils supplémentaires
-^^^^^^^^^^^^^^^^^^^^^^^^
-Blabla!
+Additional advice
+^^^^^^^^^^^^^^^^^
+ As for every powerful and awesome software, `Sublime Text 3`_ will require a certain training time.
+
+
+.. seealso::
+
+   `Atom.io <https://atom.io/>`_
+      Seems to be promising!
+
+
+Additional credit
+^^^^^^^^^^^^^^^^^
+ Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advicing me to use `Sublime Text 3`_ (in last Octobre 2013).
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
