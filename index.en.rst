@@ -2,23 +2,24 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-##################################
- Welcome on my personal web pages
-##################################
+#########
+ Welcome
+#########
 .. include:: .special.rst
 Who am I?
 ---------
-Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training professors for superior studies, located near Paris.
+Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training researcher and professors for superior studies, located near Paris.
 
-Since mid-July 2014, I live in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (a new Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
-I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_ (and soon in Computer Science for the second semester!).
+Since mid-July 2014, I live and work in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (a new Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
+I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
+I will stay in India until the end of the second semester.
 
 .. include:: whatsnew.en.rst
 
 Studies before 2014
 ^^^^^^^^^^^^^^^^^^^
 * In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013.
+  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23th  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1100 persons registered in October 2013. I also did the second year of my Master of Science in Fondamental Mathematics and Computer Science, with a `speciality on teaching <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_.
 
 * In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
   and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both `magna cum laude`_.

@@ -11,13 +11,14 @@
 Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi juillet 2014, je suis en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (et bientôt en informatique).
+Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai en charge du cours d'introduction à l'informatique (CS101) pour le second semestre !
+I will stay in India until the end of the second semester.
 
 .. include:: whatsnew.fr.rst
 
 Études
 ^^^^^^
-* En 2013/2014, j'ai préparé et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_.
+* En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_.
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
@@ -211,7 +212,7 @@ Le projet est surtout hebergé sur **BitBucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**,
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
-J'ai eu **16.9/20** pour ce projet. Et en plus, le jeu est sympa !
+J'ai eu **16.9/20** pour ce projet. *Et en plus, le jeu est sympa !*
 
 ------------------------------------------------------------------------------
 
@@ -240,15 +241,15 @@ Flux RSS
 ^^^^^^^^^
 Depuis *avril 2013*, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 Pour plus d'informations, ou pour lire directement les dernières entrées
-du *flux*, la page `<rss.html>`_ est là pour ça.
+du *flux*, la page `<rss.html>`_ est là pour ça (très peu actif en fait).
 
 Traductions
 ^^^^^^^^^^^
 Entre *mars 2013* et *février 2014*, j'ai participé à la traduction de différents logiciels et sites web.
 
-.. :red:`Je suis disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là)
+:red:`Je peux être disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là) N'hésitez pas à me contacter et me demander de participer à votre projet !
 
-La page `<transifex.html>`_ présente de façon narrative le premier contact avec le site `transifex <http://www.transifex.com>`_.
+La page `<transifex.html>`_ présente de façon *narrative* le premier contact avec le site `transifex <http://www.transifex.com>`_.
 J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et `XFCE <http://xfce.org/>`_, ou aussi le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
 
 Wolfram|Alpha
@@ -307,7 +308,8 @@ Certaines pages présentent aussi l'intégration de projets sympas,
 
 #. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
    directement dans un navigateur web, avec un éditeur qui
-   colore l'entrée du toplevel. (:red:`cassé en ce moment`, aucune idée de la raison)
+   colore l'entrée du toplevel.
+   .. (:red:`cassé en ce moment`, aucune idée de la raison)
 
 #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
    directement dans un navigateur web avec un genre d'interface *graphique*
@@ -382,7 +384,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    folders
    autostop.fr
    Page d'accueil (en anglais) <index.en>
-   Précisions sur les marques commerciales citées (en anglais) <trademarks>
+   Vieilles précisions sur les marques commerciales citées (en anglais) <trademarks>
    admin
 
 
