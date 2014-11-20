@@ -120,6 +120,7 @@ Pages in English
    ga.en
    beacon.en
    apk.en
+   sublimetext.en
    alaskabombeh.en
    packing
    autostop.en

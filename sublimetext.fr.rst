@@ -10,7 +10,7 @@
 -----------
 À-propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
-Cette page est là pour décrire rapidement l'utilisation que je fais quotidiennement de **Sublime Text 3**, un `éditeur de texte <https://fr.wikipedia.org/wiki/Éditeur_de_texte>`_.
+Cette page est là pour décrire rapidement l'utilisation que je fais quotidiennement du génial **Sublime Text 3**, un `éditeur de texte <https://fr.wikipedia.org/wiki/Éditeur_de_texte>`_.
 
 .. note:: Qu'est-ce qu'un éditeur de texte ?
 
@@ -18,7 +18,7 @@ Cette page est là pour décrire rapidement l'utilisation que je fais quotidienn
 
    « *Son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.* »
 
-   Inutile de dire donc que je m'en sers constamment, principalement sous Linux (Ubuntu 14.04), et de temps en temps sur Windows.
+   Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`, principalement sous Linux (Ubuntu 14.04), et de temps en temps sur Windows.
 
    La page Wikipédia `sur les éditeurs de textes <https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte#Multi_plates-formes>`_ contient une liste des plus populaires éditeurs de texte multi plates-formes.
    Sublime Text est évidemment dans la liste, accompagné de `gedit <./publis/gedit/>`_, des deux légendaires Emacs et Vim, et de Komodo Edit notamment.
@@ -52,7 +52,7 @@ Sublime Text est un éditeur de texte et de code source, disponible sur de multi
 Il dispose d'une API utilisant Python.
 
 Sublime Text est un logiciel propriétaire, soumis à l'acceptation d'une licence, mais est entièrement gratuit.
-La licence est à durée indéterminée, avec seulement des rappels occasionnels proposant d'acheter une licence commerciale (pour 20$).
+La licence est à durée indéterminée, avec seulement des rappels occasionnels proposant d'acheter une inutile licence commerciale (pour 20$).
 
 
 Sublime Text intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins...
@@ -70,9 +70,9 @@ L'éditeur propose cependant des fonctions plus avancées, dont :
 
 Comment l'installer ?
 ~~~~~~~~~~~~~~~~~~~~~
-Lien vers la doc officielle et non-officielle.
+Le site officiel `www.SublimeText.com/3`_ permet de téléchager la dernière version de ST3 (une version pour OS X, Windows et Ubuntu sont disponibles).
 
-Cette page `docs.sublimetext.info/en/sublime-text-3/getting_started/install.html <http://docs.sublimetext.info/en/sublime-text-3/getting_started/install.html>`_ explique le processus d'installation de ST3 sur différentes plates-formes.
+Cette page `docs.sublimetext.info/en/sublime-text-3/getting_started/install.html <http://docs.sublimetext.info/en/sublime-text-3/getting_started/install.html>`_ explique en détails le processus d'installation de ST3 sur différentes plates-formes.
 
 C'est facile, gratuit et rapide :) !
 
@@ -107,10 +107,10 @@ Mon utilisation de Sublime Text 3
 ---------------------------------
 `Ma configuration <./publis/ST3/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Mes fichiers de configurations, snippets et scripts de constructions, pour `Sublime Text 3` sont tous dans le dossier `publis/ST3 <./publis/ST3/>`_.
+Mes fichiers de configurations, snippets et scripts de constructions, pour `Sublime Text 3`_ sont tous dans le dossier `publis/ST3 <./publis/ST3/>`_.
 
 Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou ``.sublime-build``), il suffit de le copier dans `votre dossier Packages/User <http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-packages-directory>`_.
-Plus de détails pour `les .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
+Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
 
@@ -118,37 +118,38 @@ Plus de détails pour `les .sublime-settings <http://docs.sublimetext.info/en/su
 
 Config
 ~~~~~~
-.. sidebar: Plus d'informations sur la doc' ?
+.. siderbar:: Plus d'informations sur la doc' ?
 
    Cette page `docs.sublimetext.info/en/sublime-text-3/customization/settings.html <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html>`_ explique comment configurer *en profondeur chaque aspect* de ST3.
 
 
 Mes fichiers de configurations :
 
-* `Preferences.sublime-settings <./publis/ST3/Preferences.sublime-settings>`_
+* `Preferences.sublime-settings <./publis/ST3/Preferences.sublime-settings>`_ est le fichier de configuration principal.
 
-* `Distraction Free.sublime-settings <./publis/ST3/Distraction%20Free.sublime-settings>`_ est la configuration spécifique au mode "Sans distraction". Ce mode permet notamment de projeter du code lors d'un exposé ou d'un cours en amphi, et de zoomer au maximum sur un élément important.
+* `Distraction Free.sublime-settings <./publis/ST3/Distraction%20Free.sublime-settings>`_ est la configuration spécifique au mode "Sans distraction". Ce mode permet notamment de projeter du code lors d'un exposé ou d'un cours que je donne en amphi, et de zoomer au maximum sur un élément important.
 
-* `Package Control.sublime-settings <./publis/ST3/Package%20Control.sublime-settings>`_ donne simplement la liste complète des paquets installés.
+* `Package Control.sublime-settings <./publis/ST3/Package%20Control.sublime-settings>`_ donne simplement la liste complète des paquets installés (aussi directement ici `packages.list <./publis/packages.list>`_).
 
 
 Snippets
 ~~~~~~~~
-.. sidebar: Plus d'informations sur la doc' ?
+.. siderbar:: Plus d'informations sur la doc' ?
 
    Cette page `docs.sublimetext.info/en/sublime-text-3/extensibility/snippets.html <http://docs.sublimetext.info/en/sublime-text-3/extensibility/snippets.html>`_ décrit entièrement le fonctionnement de ces snippets ("morceaux de codes").
+
 
 Liste de mes snippets :
 
 * `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ permet de facilement créer un nouveau script `Python <python.html>`_,
-* `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un script GNU Bash.
-* `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex <./publis/autotex>`_.
+* `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un `script GNU Bash <./bin/>`_.
+* `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex <./bin/autotex>`_.
 * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
 
 
 Scripts de construction
 ~~~~~~~~~~~~~~~~~~~~~~~
-.. sidebar: Plus d'informations sur la doc' ?
+.. siderbar:: Plus d'informations sur la doc' ?
 
    Cette page `docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html>`_ décrit entièrement le fonctionnement de ces scripts de construction.
 
@@ -159,19 +160,19 @@ ST3 est livré avec des scripts de construction pour un douzaine de langage, et 
 
 Liste de ces scripts de constructions (un seul pour l'instant) :
 
- * Un document LaTeX (basé sur `autotex <./publis/autotex>`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_.
+ * Un document LaTeX (basé sur `autotex`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (nécessite `autotex`_ et mon `pdflatex <./bin/pdflatex>`_).
 
 
 Les meilleurs greffons ?
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Tous ces greffons sont **gratuits**, presque tous sont libres et open-sources, et ils sont tous installables depuis le gestionnaire de paquet (Ctrl+Maj+P: "Package Control: Install Package").
+Tous ces greffons sont **gratuits**, presque tous sont libres et open-sources, et ils sont tous installables depuis le gestionnaire de paquet (``Ctrl+Maj+P``: *"Package Control: Install Package"*).
 
-Pour chaque paquet, un lien vers sa page d'information sur `sublime.wbond.net/packages/ <https://sublime.wbond.net/packages/>`_ est donné.
+Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `sublime.wbond.net/packages/ <https://sublime.wbond.net/packages/>`_ est donné.
 
 
 Petits greffons de personnalisation :
 
-* `BracketHighlighter <https://sublime.wbond.net/packages/BracketHighlighter>`_ colore comme il faut les parenthèses, et tag ouvrants et fermants.
+* `BracketHighlighter <https://sublime.wbond.net/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
 * `Buffer​Scroll <https://sublime.wbond.net/packages/Buffer​Scroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
 * `Clickable URLs <https://sublime.wbond.net/packages/Clickable%20URLs>`_ est tout simple mais magique : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
 * `Dictionaries <https://sublime.wbond.net/packages/Dictionaries>`_ pour une correction orthographique multi-lingues (anglais, français).
