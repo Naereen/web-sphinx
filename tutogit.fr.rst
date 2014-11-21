@@ -105,7 +105,7 @@ Mon utilisation (amateur) de `git`_
 
 Pour ces deux fichiers de configurations, (sur Linux), un fichier ``.gitconfig`` et ``.gitignore`` global peut se trouver dans votre dossier ``HOME`` (``~/``, ou ``/home/pseudo``), et un fichier particulier à chaque dépôt peut aussi être créé.
 
-* `.gitconfig <./publis/git/.gitconfig>`_ permet de configurer le comportement complet de `git`_.
+* `.gitconfig <./publis/git/.gitconfig>`_ permet de configurer le comportement complet de `git`_ (inspiré par `celui des cranseux <http://perso.crans.org/respbats/config/.gitconfig>`_).
 * `.gitignore <./publis/git/.gitignore>`_ permet de dire quels fichiers ne doivent pas être considéré par `git`_ lorsqu'il indique les fichiers non surveillés.
 
 
@@ -132,10 +132,10 @@ Je définis les `alias Bash <http://abs.traduc.org/abs-5.3-fr/ch24.html>`_ suiva
 
 Ces trois là permettent de voir les fichiers modifiés, supprimés ou ajoutés uniquement :
 
-* ``alias GitChanged='clear ; git status | grep --color=always "\\\(modified\\\|modifié\\\)" | less -r'`` pour les fichiers modifiés,
-* ``alias GitDeleted='clear ; git status | grep --color=always "\\\(deleted\\\|supprimé\\\)" | less -r'`` pour les fichiers supprimés,
-* ``alias GitAdded='clear ; git status | grep --color=always "\\\(added\\\|nouveau\\\)" | less -r'`` pour les fichiers ajoutés.
-* ``alias GitSize='clear; echo -e "\n ==> ${white}Ce dépôt git « ${green}$(basename $(pwd))${white} » pèse ${red}$(git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "//)${white} sur ${u}https://BitBucket.org/lbesson/$(basename $(pwd))${U}${white}."'``
+* ``alias GitChanged='clear ; git status | grep --color=always '(\modified\|modifié\)' | less -r'`` pour les fichiers modifiés,
+* ``alias GitDeleted='clear ; git status | grep --color=always '(\deleted\|supprimé\)' | less -r'`` pour les fichiers supprimés,
+* ``alias GitAdded='clear ; git status | grep --color=always '(\added\|nouveau\)' | less -r'`` pour les fichiers ajoutés.
+* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"Taille du dépôt"/'`` permet d'afficher la taille que prend le dépôt courant.
 
 Ceux là sont de bons raccourcis, qui par défaut lance la compression locale du dépôt juste après chaque opération (en moyenne ça fait gagner du temps) :
 
@@ -185,7 +185,7 @@ Les deux greffons suivants permettent une utilisation fluide et facile de `git`_
 .. seealso::
 
    sublimetext.fr.html
-      Veuillez lire `sublimetext.fr.html <sublimetext.fr.html>`_ pour plus de détails sur l'utilisation que je fais de Sublime Text 3.
+      Veuillez lire la toute récente page `sublimetext.fr.html <sublimetext.fr.html>`_ pour plus de détails sur l'utilisation que je fais de Sublime Text 3.
 
 
 Avec BitBucket.org
@@ -194,10 +194,10 @@ Comme d'autres services d'hébergement, `BitBucket`_ est **gratuit**, flexible, 
 
 `BitBucket`_ propose en plus des dépôts privés, en nombre illimités. Chaque dépôt est `limité à 2GB <https://confluence.atlassian.com/pages/viewpage.action?pageId=273877699>`_ (il faut vraiment le vouloir pour dépasser!).
 S'inscrire est rapide, il suffit d'aller sur `cette page https://BitBucket.org/ <https://BitBucket.org/>`_ !
-Notez que `BitBucket`_ peut aussi s'utiliser avec un compte Google, Facebook, GitHub ou `OpenID <https://fr.wikipedia.org/wiki/OpenID>`_.
+(Notez que `BitBucket`_ peut aussi s'utiliser avec un compte Google, Facebook, GitHub ou `OpenID <https://fr.wikipedia.org/wiki/OpenID>`_.)
 
 
-Un fois votre profil créer, ça ressemblera au mien, mais en plus *vide* : `BitBucket.org/lbesson <https://bitbucket.org/lbesson>`_ (voir celui là pour un autre exemple `BitBucket.org/jilljenn <https://bitbucket.org/jilljenn>`_).
+Un fois votre profil créé, il ressemblera au mien, mais en plus *vide* : `BitBucket.org/lbesson <https://bitbucket.org/lbesson>`_ (voir celui là pour un autre exemple `BitBucket.org/jilljenn <https://bitbucket.org/jilljenn>`_).
 
 Les dépôts publics sont visibles par tous : `BitBucket.org/lbesson/profile/repositories <https://bitbucket.org/lbesson/profile/repositories?visibility=public>`_.
 
@@ -220,7 +220,7 @@ et ensuite tous les documents que tu y seront stockés seront automatiquement di
 
 Plus de détails sont donnés sur `cette page de doc par Atlassian <https://confluence.atlassian.com/display/BITBUCKET/Publishing+a+Website+on+Bitbucket>`_, et l'`exemple officiel (tutorials.bitbucket.org) <https://bitbucket.org/tutorials/tutorials.bitbucket.org>`_ est aussi `tutorials.bitbucket.org <https://tutorials.bitbucket.org>`_)
 
-Ce service est un peu moins poussé que celui de GitHub (`GitHub.io <https://pages.github.com/>`_, `voir la doc ici <https://help.github.com/categories/github-pages-basics/>`_), mais marche bien quand même.
+ (Ce service est un peu moins poussé que celui de GitHub (`GitHub.io <https://pages.github.com/>`_, `voir la doc ici <https://help.github.com/categories/github-pages-basics/>`_), mais marche bien quand même.)
 
 
 .. note:: `lbesson.BitBucket.org <http://lbesson.BitBucket.org>`_ ?
@@ -229,9 +229,14 @@ Ce service est un peu moins poussé que celui de GitHub (`GitHub.io <https://pag
 
    Je me sers de `lbesson.BitBucket.org`_ principalement pour :
 
-   - `squirt <http://lbesson.bitbucket.org/squirt/>`_,
-   - `StrapDown.js <http://lbesson.bitbucket.org/md/>`_,
+   - `squirt <http://lbesson.bitbucket.org/squirt/>`_ un marque-page scripté pour Firefox, Chrome ou Opéra, permettant de lire une page web très rapidement (disponible sur ce site aussi, allez-y, essayer le en tapant "q" sur votre clavier ! Cool non ?),
+   - `StrapDown.js <http://lbesson.bitbucket.org/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_, prêtes à être publiées directement, sans compilation côté serveur ! (Il attire `une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/StrapDown.js.zip>`_)
+   - mes propres copies du (légendaire) jeu **2048** : `lbo.k.vu/2048 <http://lbo.k.vu/2048>`_ (le jeu initial), `lbo.k.vu/2048-agreg <http://lbo.k.vu/2048-agreg>`_ (une version `pour matheux <http://agreg.org/ResultatsMerite2014.html>`_) ou encore `lbo.k.vu/2048-AI <http://lbo.k.vu/2048-AI>`_ (avec `Intelligence Artificielle <slidesM1Info13.pdf>`_).
    - et `cette page d'accueil qui permet d'enrober mon site <http://lbesson.bitbucket.org/index.html?i=no>`_.
+
+   Et même si le certificat n'est pas valide, il est parfaitement possible d'utiliser cette fonctionnalité avec le `HTTPS <https://fr.wikipedia.org/wiki/HTTPS>`_ activé : `https://lbesson.BitBucket.org/README.html <https://lbesson.bitbucket.org/README.html>`_ (si votre navigateur râle et affiche une erreur **c'est parfaitement normal** !).
+   Si vous utilisez un navigateur assez récent, il peut râler et vous expliquer pourquoi (vous verrez alors que la seule raison est que le `certificat SSl <https://fr.wikipedia.org/wiki/SSL>` de `https://bitbucket.org <https://bitbucket.org>`_ n'a été signé que pour certains sous domains du site bitbucket.org, pas tous).
+   Mais le trafic sera bien crypté et sécurisé par le certificat SSL, aucun problème :)
 
 
 Interface en français ?
@@ -244,6 +249,40 @@ Depuis un peu plus d'un an, il est possible de changer l'interface du site en fr
    `J'ai traduit <https://www.transifex.com/accounts/profile/Naereen/>`_ presque 90% du contenu initial, laissé quelques boulettes, mais on a fait du bon boulot.
    Grâce à quelques autres motivés et moi-même, le français était le première langue traduite à 100% ! (mi mars 2013)
    Je n'ai plus ni le temps ni l'envie de m'en occuper, mais `le projet continue d'être tenu à jour par d'autres <https://www.transifex.com/projects/p/bitbucketorg/#fr/bitbucket-django>`_.
+
+
+Des "boutons" ?
+~~~~~~~~~~~~~~~
+De même que des fans de GitHub proposent `ghbtns.com/ <http://ghbtns.com/>`_ ou `buttons.GitHub.io/ <https://buttons.github.io/>`_, un fan de BitBucket a conçu `bb-btns.bitbucket.org/ <http://bb-btns.bitbucket.org/>`_.
+
+Voici quelques exemples pour `mon dépôt web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ :
+
+.. raw:: html
+
+   <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
+   <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+
+
+Les mêmes, mais `hébergés sur  lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ :
+
+.. raw:: html
+
+   <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+
+
+Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ :
+
+.. raw:: html
+
+   <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
 -----------------------------------------------------------------------------

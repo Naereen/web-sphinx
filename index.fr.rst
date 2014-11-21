@@ -2,9 +2,9 @@
    :description lang=fr: Page personnelle de Lilian Besson sur le web
    :description lang=en: Lilian Besson's personal web page
 
-######################################
- Bienvenue sur mes pages personnelles
-######################################
+###########
+ Bienvenue
+###########
 .. include:: .special.rst
 À propos (de moi)
 -----------------
@@ -36,10 +36,10 @@ I will stay in India until the end of the second semester.
    **Un petit mot sur moi** :
 
     En plus des mathématiques et de l'informatique (pratique et théorique), j'aime aussi randonner et camper,
-    voyager en France (ou en Europe et en Inde), principalement en `auto-stop <autostop.html>`_ !
+    voyager en France (ou en Europe et en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
     J'aime utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
     comme par exemple du javascript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
-    des tutoriels (par exemple sur `ga-beacon <beacon.fr.html>`_, `Nano <NanoSyntax.html>`_ ou `Wolfram|Alpha <wolfram.html>`_),
+    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
@@ -48,7 +48,7 @@ I will stay in India until the end of the second semester.
    **Un petit mot sur ce site** :
 
     Je développe ce petit site (actuellement `<http://perso.crans.org/besson/>`_)
-    sur mon temps libre, espérant qu'il puisse être utile à quelqu'un.
+    sur mon temps libre.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
     `Qu'est-ce que l'Open Source, expliqué avec des Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
     Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages

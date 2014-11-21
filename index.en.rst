@@ -36,9 +36,9 @@ Studies before 2014
 
    **A few words about me**:
 
-   I like to walk, travel, go camping around France and Europe, mainly by using `hitchhiking <autostop.en>`_.
+   I like to walk, travel, go camping around France and Europe, mainly by using `hitch-hiking <autostop.en.html>`_.
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
-   for instance `nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_, tutorials (on `ga-beacon <beacon.en.html>`_ or `Nano <NanoSyntax.html>`_)
+   (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
 
    .. And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
@@ -122,6 +122,7 @@ Pages in English
    beacon.en
    apk.en
    sublimetext.en
+   tutogit.en
    alaskabombeh.en
    packing
    autostop.en
