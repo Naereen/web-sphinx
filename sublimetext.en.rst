@@ -29,7 +29,6 @@ This article contains quick explanation of the installation and use of Sublime T
 
 .. note:: Licence ?
 
-   (comme tout ce que je publie ou distribue).
    This page, and all related files are freely distributed under the terms of the `licence GPLv3 <LICENSE.html>`_ ! (Like anything I publish or distribute).
 
 -----------------------------------------------------------------------
@@ -86,12 +85,11 @@ Sublime Text can be equipped with a package manager that allows users to find, i
 
 This project is simply called **Sublime Text Package Manager**, and is hosted on this site `sublime.wbond.net <https://sublime.wbond.net>`_.
 This page `sublime.wbond.net/installation <https://sublime.wbond.net/installation>`_ will tell you how to install the package manager, which is the only step *a little dirty* (but do not worry, no risk).
-permet l'installation du gestionnaire de greffon, qui est la seule étape *un peu sale* (mais ne vous inquiétez pas, aucun risque).
 
 This magical plugin has already been downloaded more than `2.63 millions times <https://sublime.wbond.net/browse/authors/Will%20Bond%20%28wbond%29>`_ from the beginning of the project!
 
 
-You can get a glimpse of the richness of this collection of plugin by going to this list (`sublime.wbond.net/browse/popular <https://sublime.wbond.net/browse/popular>`_) of the most downlaoded plugins.
+You can get a glimpse of the richness of this collection of plugin by going to this list (`sublime.wbond.net/browse/popular <https://sublime.wbond.net/browse/popular>`_) of the most downloaded plugins.
 
 A lot more details elsewhere!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -174,8 +172,8 @@ Small customization plugins:
 * `BracketHighlighter <https://sublime.wbond.net/packages/BracketHighlighter>`_ improves how opening and closing parentheses, and opening and closing tags are colored (``(``, ``[``, ``{``, ``<`` etc).
 * `Buffer​Scroll <https://sublime.wbond.net/packages/Buffer​Scroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
 * `Clickable URLs <https://sublime.wbond.net/packages/Clickable%20URLs>`_ is simple but magical: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
-* `Dictionaries <https://sublime.wbond.net/packages/Dictionaries>`_ a for multi-lingual spellcheck  (English, French, ..).
-* `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_ visualize the difference of *each line* of *each file* regarding the last commited version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
+* `Dictionaries <https://sublime.wbond.net/packages/Dictionaries>`_ a for multi-lingual spell-check  (English, French, ..).
+* The small `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last committed version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 * `Language - French - Français <https://sublime.wbond.net/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
 * `Predawn <https://sublime.wbond.net/packages/Predawn>`_ is an improved interface, very dark to `help you protect your eyes <bin/yeux.sh>`_ !
 * `Status Bar Weather <https://sublime.wbond.net/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. Yeah, your text editor can *tell you the weather!*
@@ -184,11 +182,11 @@ Small customization plugins:
 
 Plugins that add great features:
 
-* `Dictionary​Auto​Complete <https://sublime.wbond.net/packages/DictionaryAutoComplete>`_ enables autocompletion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring.
+* `Dictionary​Auto​Complete <https://sublime.wbond.net/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring.
 * `LineEndings <https://sublime.wbond.net/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
-* `MakeCommands <https://sublime.wbond.net/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. It's simple, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an effecient idea in fact!
+* `MakeCommands <https://sublime.wbond.net/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. It's simple, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://sublime.wbond.net/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
-* `SublimeGit <https://sublimegit.net/>`_ (installable from `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial licence... But it is really awesome, so you will support this.
+* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial license... But it is really awesome, so you will support this.
 * `Terminal <https://sublime.wbond.net/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I do not use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 
 
@@ -199,7 +197,7 @@ A better syntax coloring for some languages:
 * `OCaml <https://sublime.wbond.net/packages/OCaml>`_ improve a little bit the syntax coloring `for the two languages caml-light and OCaml <ocaml.html>`_. To be used with `OCaml Autocompletion <https://sublime.wbond.net/packages/OCaml%20Autocompletion>`_.
 * `Markdown Extended <https://sublime.wbond.net/packages/MakeCommands>`_ is supposed to improve the syntax coloring for `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, lightweight markup language, designed for easy preparation of document. I use Markdown especially via my project `StrapDownJS`_ ! (See `an example <bin/>`_ ?)
 * `nginx <https://sublime.wbond.net/packages/nginx>`_ improve the syntax coloring for config files for the `awesome NGinx web server <http://nginx.org/>`_.
-* `RestructuredText Improved <https://sublime.wbond.net/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). À utilisé avec `ces snippets pour rST <https://sublime.wbond.net/packages/Restructured%20Text%20(RST)%20Snippets>`_.
+* `RestructuredText Improved <https://sublime.wbond.net/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). To be used with `these snippets for rST <https://sublime.wbond.net/packages/Restructured%20Text%20(RST)%20Snippets>`_.
 * `TWiki <https://sublime.wbond.net/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use the **TWiki** "Monokai for Markup" them for every language!
 
 
@@ -243,7 +241,7 @@ Additional advice
 
 Additional credit
 ^^^^^^^^^^^^^^^^^
- Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advicing me to use `Sublime Text 3`_ (in last Octobre 2013).
+ Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advising me to use `Sublime Text 3`_ (in last Octobre 2013).
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
