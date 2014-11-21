@@ -267,24 +267,24 @@ Here are some examples for `my web-sphinx deposit <https://bitbucket.org/lbesson
    <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-The same, but `hosted on lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_:
+The same, but `hosted on lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ (for my `bin <./bin/>`_ repository):
 
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-The same, but `hosted on my website (./bbbtns/) <./bbbtns/>`_:
+The same, but `hosted on my website (./bbbtns/) <./bbbtns/>`_ (for the `lbesson.BitBucket.org`_ repo):
 
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
 -----------------------------------------------------------------------------

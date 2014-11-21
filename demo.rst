@@ -549,7 +549,7 @@ Error Handling
 
 Any errors caught during processing will generate system messages.
 
-|*** Expect 6 errors (including this one). ***|
+|*** Expect 5 errors (including this one). ***|
 
 There should be six messages in the following, auto-generated
 section, "Docutils System Messages":

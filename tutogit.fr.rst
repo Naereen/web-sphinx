@@ -142,7 +142,7 @@ Ces trois là permettent de voir les fichiers modifiés, supprimés ou ajoutés 
 
 .. runblock:: console
 
-   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/
+   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du depot est "/
 
 
 
@@ -274,24 +274,24 @@ Voici quelques exemples pour `mon dépôt web-sphinx <https://bitbucket.org/lbes
    <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-Les mêmes, mais `hébergés sur  lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ :
+Les mêmes, mais `hébergés sur  lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ (pour mon dépôt `bin <./bin/>`_) :
 
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ :
+Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ (pour le dépôt `lbesson.BitBucket.org`_) :
 
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
 -----------------------------------------------------------------------------
@@ -301,7 +301,7 @@ Un dernier conseil ?
  Comme pour tout logiciel aussi puissant et technique, `git`_ demande un certain temps d'adaptation.
  Soyez persévérant, ça en vaut la peine.
 
- « *Happy coding and good luck for your projetcs!* »
+ « *Happy coding and good luck for your projects!* »
 
 
 Crédit additionnel
