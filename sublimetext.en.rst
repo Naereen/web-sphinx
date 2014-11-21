@@ -2,9 +2,9 @@
    :description lang=en: Description of how I use the text editor Sublime Text 3 (ST3)
    :description lang=fr: Page décrivant mon utilisation de l'éditeur de texte Sublime Text 3 (ST3)
 
-########################################################
- How I `Sublime Text 3 <http://www.sublimetext.com/3>`_
-########################################################
+############################################################
+ How I use `Sublime Text 3 <http://www.sublimetext.com/3>`_
+############################################################
 .. include:: .special.rst
 About...
 --------
