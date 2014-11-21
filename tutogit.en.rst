@@ -180,7 +180,7 @@ With `Sublime Text 3 <http://www.sublimetext.com/3/>`_
    And GitHub have developed their own application `for Mac™ OS X <https://mac.github.com/>`_ or `Windows™ <https://windows.github.com>`_.
 
 
-The following two free plugins allow a smooth and easy use of `git`_ on `Sublime Text 3`_ :
+The following two free plugins allow a smooth and easy use of `git`_ on `Sublime Text 3`_:
 
 * The small `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last commited version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 
@@ -267,7 +267,7 @@ Here are some examples for `my web-sphinx deposit <https://bitbucket.org/lbesson
    <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-The same, but `hosted on lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ :
+The same, but `hosted on lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_:
 
 .. raw:: html
 
@@ -277,7 +277,7 @@ The same, but `hosted on lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucke
    <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-The same, but `hosted on my website (./bbbtns/) <./bbbtns/>`_ :
+The same, but `hosted on my website (./bbbtns/) <./bbbtns/>`_:
 
 .. raw:: html
 

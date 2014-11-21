@@ -219,12 +219,13 @@ Some specific configuration grafts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some plugins can be configured specifically. Here are their different settings:
 
-* `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
+* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
+* `Emmet.sublime-settings <./publis/ST3/Emmet.sublime-settings>`_.
+* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
 * `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
-* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
-* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
-* `Emmet.sublime-settings <./publis/ST3/Emmet.sublime-settings>`_.
+* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
+* `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
 
 -----------------------------------------------------------------------------
 

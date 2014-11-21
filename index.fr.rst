@@ -156,6 +156,10 @@ Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
+Deux tutoriels (11/2014)
+^^^^^^^^^^^^^^^^^^^^^^^^
+Deux petits articles, `à propos de Git et BitBucket <tutogit.fr.html>`_, et `à propos de Sublime Text 3 <sublimetext.fr.html>`_ 
+
 StrapDown.js v0.5 (09/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un petit outil pour rapidement produire de jolies pages web, en rédigeant directement en *Markdown*, sans la moindre compilation côté serveur !
@@ -286,15 +290,11 @@ JavaScript et outils embarqués
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Toutes les pages utilisent du JavaScript pour de nombreuses petites fonctionnalités.
 Certaines sont expliquées dans la page `<js.html>`_ (en cours de rédaction).
-Plus de détails dans ``.templates/layout.html`` ou via le dépôt git
-`web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
+Plus de détails dans ``.templates/layout.html`` ou via le dépôt git `web-sphinx-scritps <https://bitbucket.org/lbesson/web-sphinx-scripts/src>`_.
 
-Certaines pages présentent aussi l'intégration de projets sympas,
-écrits en **JavaScript** (pas par moi) :
+Certaines pages présentent aussi l'intégration de projets sympas, écrits en **JavaScript** (pas par moi) :
 
-#. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet,
-   directement dans un navigateur web !
-   Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
+#. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet, directement dans un navigateur web ! Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
 
 #. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
    avec quelques lessons (interactives). Propose désormais une implémentation *in-the-browser* du module ``Graphics`` !
@@ -304,22 +304,16 @@ Certaines pages présentent aussi l'intégration de projets sympas,
 
 #. `<ace.html>`_, un éditeur de texte en ligne, écrit en JavaScript, pour l'instant **ne supporte pas** l'enregistrement;
 
-#. `<python.html>`_, un toplevel ``Python 2.7.2`` complet,
-   directement dans un navigateur web, avec un éditeur qui
-   colore l'entrée du toplevel.
-   .. (:red:`cassé en ce moment`, aucune idée de la raison)
+#. `<python.html>`_, un toplevel ``Python 2.7.2`` complet, directement dans un navigateur web, avec un éditeur qui colore l'entrée du toplevel.
 
-#. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet,
-   directement dans un navigateur web avec un genre d'interface *graphique*
-   (module ``Turtle`` disponible) !
+#. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet, directement dans un navigateur web avec un genre d'interface *graphique* (accès à la structure DOM de la page web, module ``Turtle`` disponible) !
 
 Liens externes
 ^^^^^^^^^^^^^^
-#. `<http://besson.qc.to>`_ et par exemple `<http://besson.qc.to/NanoSyntax/mutt.nanorc>`_.
-#. `<http://lbesson.qc.to>`_ et aussi en sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
+#. `<http://besson.qc.to>`_ (e.g. `<http://besson.qc.to/publis/tutoriel_gedit_couleur_embedded_terminal.html>`_).
+#. `<http://lbesson.qc.to>`_ (e.g. `<http://lbesson.qc.to/publis/astuce_gedit_modificateur.html>`_) et aussi en (inutiles) sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
-   d'afficher n'importe quelle page (par exemple,
-   `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/js.html>`_).
+   d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/sublimetext.fr.html>`_).
    Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
 #. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec ``dot.tk``, un autre service gratuit.
