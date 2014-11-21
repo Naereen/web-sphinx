@@ -12,7 +12,7 @@ Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://
 
 Since mid-July 2014, I live and work in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (a new Engineering College born from a partnership between the `Mahindra group <http://www.mahindra.com/>`_ and `École Centrale de Paris <http://www.ecp.fr/>`_).
 I am involved as an assistant professor, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
-I will stay in India until the end of the second semester.
+I will stay in India until the end of the second semester (~ end of June 2015).
 
 .. include:: whatsnew.en.rst
 
@@ -114,15 +114,15 @@ Pages in English
 
    callme.en
    cv.en
-   transifex.en
-   trademarks
-   demo
    cookies.en
    ga.en
    beacon.en
    apk.en
    sublimetext.en
    tutogit.en
+   transifex.en
+   trademarks
+   demo
    alaskabombeh.en
    packing
    autostop.en

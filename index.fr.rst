@@ -12,7 +12,7 @@ Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en info
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
 Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai en charge du cours d'introduction à l'informatique (CS101) pour le second semestre !
-I will stay in India until the end of the second semester.
+Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2015).
 
 .. include:: whatsnew.fr.rst
 
@@ -99,17 +99,15 @@ Certains projets, en ligne
    (`rédigé <https://bitbucket.org/lbesson/cv>`_ en ``LaTeX`` avec le paquet *moderncv*, et compilé avec `PDFLaTeX <bin/pdflatex>`_).
 
 
-Vous pouvez aussi retrouver certains de mes travaux ou projets :
+Vous pouvez aussi retrouver certains travaux ou projets :
 
-#. via mes dépôts *git* sur mon compte *bitbucket*,
-   `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
+#. via mes `dépôts git <tutogit.fr.html>`_ sur mon compte *bitbucket*, `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
 
-#. ou sur ma page personnelle *Wikipédia*,
-   `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
+#. ou sur ma page personnelle *Wikipédia*, `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
    (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
-   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (peu actif).
+   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (plus du tout actif en 2014).
 
 ------------------------------------------------------------------------------
 
@@ -349,6 +347,12 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    rss
    publis
    bin
+   cookies.fr
+   ga.fr
+   beacon.fr
+   apk.fr
+   sublimetext.fr
+   tutogit.fr
    js
    pgp
    NanoSyntax
@@ -372,12 +376,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    sparkline
    vieprivee
    tutoweb
-   cookies.fr
-   ga.fr
-   beacon.fr
-   apk.fr
-   sublimetext.fr
-   tutogit.fr
    A953
    todo
    avoir

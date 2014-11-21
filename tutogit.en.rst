@@ -74,9 +74,9 @@ Documentation about `git`_
 A little loose, but still in the order from the best reference to the blurrier:
 
 * `This first tutorial by the team running Bitbucket (Atlassian) <https://confluence.atlassian.com/display/BITBUCKET/Getting+started+with+Bitbucket>`_,
-* `www.Atlassian.com/git/ <https://www.atlassian.com/git/>`_ covers lots of things. I like the graphic and English styles of these explanations.
-* `The official reference book on git-scm.com <http://git-scm.com/book/en/>`_,
-* The`help.GitHub.com <https://help.github.com/>`_ website is really well designed, and it can sure help you,
+* `www.Atlassian.com/git/ <https://www.atlassian.com/git/>`_ covers lots of things. I like the graphic and English styles of these explanations,
+* `the official reference book on git-scm.com <http://git-scm.com/book/en/>`_,
+* the `help.GitHub.com <https://help.github.com/>`_ website is really well designed, and it can sure help you,
 
 
 Two documents in PDF to download in order to never panic when you will get lost during your first days with `git`_:
@@ -134,7 +134,13 @@ Those three allow you to see the changed, deleted or added files:
 * ``alias GitChanged='clear ; git status | grep --color=always 'modified' | less -r'`` for the modified files,
 * ``alias GitDeleted='clear ; git status | grep --color=always 'deleted' | less -r'`` for the deleted files,
 * ``alias GitAdded='clear ; git status | grep --color=always 'added' | less -r'`` for the added files,
-* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"Size of the repository"/'`` displays the storage size of the current repository (e.g. 9.75 MB currently for `this project web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
+* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"The size of the repository is "/'`` displays the storage size of the current repository (e.g. 9.75 MB currently for `this project web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
+
+.. runblock:: console
+
+   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"The size of the repository is "/
+
+
 
 These ones are good shortcuts, which by default also launches local compression of the just filed after each operation (on average it saves time):
 
@@ -202,7 +208,7 @@ Public deposits are visible to all: `BitBucket.org/lbesson/profile/repositories 
 
 For example, here are some of my repositories:
 
- - `BitBucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stores the sources of `this website <index.html>`_, as for instance the reStructuredText (``.rst``) source code for that `(→ and with a direct link to THAT line) <https://bitbucket.org/lbesson/web-sphinx/src/master/tutogit.en.html#cl-204>`_,
+ - `BitBucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stores the sources of `this website <index.html>`_, as for instance the reStructuredText (``.rst``) source code for that `(→ and with a direct link to THAT line) <https://bitbucket.org/lbesson/web-sphinx/annotate/master/tutogit.en.rst#cl-211>`_,
  - `BitBucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_ hosts dozens of scripts, especially some in Bash and Python
  - `BitBucket.org/lbesson/web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_ stores local versions of all `Javascript scripts used by this site <js.html>`_,
  - `BitBucket.org/lbesson/cv <https://bitbucket.org/lbesson/cv>`_ stores the \\(\\LaTeX{}\\) sources for my résumés `in English <cv.en.pdf>`_ and `in French <cv.fr.pdf>`_: `cv.en.tex <https://bitbucket.org/lbesson/cv/src/master/cv.en.tex>`_ or `cv.fr.tex <https://bitbucket.org/lbesson/cv/src/master/cv.fr.tex>`_,
@@ -292,7 +298,7 @@ One last tip?
 
 Additional credit
 ^^^^^^^^^^^^^^^^^
- Thank you to `Vincent Cohen-Addad <http://www.di.ens.fr/~vcohen/>`_ for motivating me to start using `git`_, in Octobre 2012 for `the network programming project for my Computer Science (CS) Master of Sciecne (MPRI, course #1-21) <https://bitbucket.org/lbesson/mpri-bomberman>`_ on which we worked together.
+ Thanks to `Vincent Cohen-Addad <http://www.di.ens.fr/~vcohen/>`_ for motivating me to start using `git`_, in Octobre 2012 for `the network programming project for my Computer Science (CS) Master of Sciecne (MPRI, course #1-21) <https://bitbucket.org/lbesson/mpri-bomberman>`_ on which we worked together.
 
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/

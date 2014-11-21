@@ -79,7 +79,7 @@ Un peu en vrac, mais quand même dans l'ordre du plus utile au plus flou :
 * `ce site de référence GitImmersion.fr <http://gitimmersion.fr/>`_.
 * `www.Atlassian.com/git/ <https://www.atlassian.com/git/>`_ couvre plein de choses. J'aime bien le style (graphique et structurel) de ces explications (en anglais).
 * `le livre de référence officiel sur git-scm.com <http://git-scm.com/book/fr/v1>`_,
-* Le site `help.GitHub.com <https://help.github.com/>`_ est bien conçu (surtout en anglais),
+* le site `help.GitHub.com <https://help.github.com/>`_ est bien conçu (surtout en anglais),
 
 
 Deux documents en PDF à télécharger pour ne pas paniquer quand on est paumé ou qu'on débute :
@@ -138,7 +138,13 @@ Ces trois là permettent de voir les fichiers modifiés, supprimés ou ajoutés 
 * ``alias GitChanged='clear ; git status | grep --color=always '(\modified\|modifié\)' | less -r'`` pour les fichiers modifiés,
 * ``alias GitDeleted='clear ; git status | grep --color=always '(\deleted\|supprimé\)' | less -r'`` pour les fichiers supprimés,
 * ``alias GitAdded='clear ; git status | grep --color=always '(\added\|nouveau\)' | less -r'`` pour les fichiers ajoutés,
-* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"Taille du dépôt"/'`` permet d'afficher la taille que prend le dépôt courant (e.g. 9.75 MO actuellement pour `ce projet web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
+* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/'`` permet d'afficher la taille que prend le dépôt courant (e.g. 9.75 MO actuellement pour `ce projet web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
+
+.. runblock:: console
+
+   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/
+
+
 
 Ceux là sont de bons raccourcis, qui par défaut lance la compression locale du dépôt juste après chaque opération (en moyenne ça fait gagner du temps) :
 
@@ -206,7 +212,7 @@ Les dépôts publics sont visibles par tous : `BitBucket.org/lbesson/profile/rep
 
 Par exemple, voici plusieurs de mes dépôts :
 
- - `BitBucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stocke les sources de `ce site <index.html>`_, voir par exemple la source de cette page, écrite en reStructuredText (``.rst``) `(→ lien direct sur cette ligne) <https://bitbucket.org/lbesson/web-sphinx/src/master/tutogit.fr.html#cl-208>`_,
+ - `BitBucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stocke les sources de `ce site <index.html>`_, voir par exemple la source de cette page, écrite en reStructuredText (``.rst``) `(→ lien direct sur cette ligne) <https://bitbucket.org/lbesson/web-sphinx/annotate/master/tutogit.fr.rst#cl-215>`_,
  - `BitBucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_ héberge des douzaines de scripts, surtout en Bash et quelques uns en Python,
  - `BitBucket.org/lbesson/web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_ stocke des versions locales de tous les `scripts Javascript utilisés par ce site <js.html>`_,
  - `BitBucket.org/lbesson/cv <https://bitbucket.org/lbesson/cv>`_ stocke les sources \\(\\LaTeX{}\\) de mes CV `en français <cv.fr.pdf>`_ et `en anglais <cv.en.pdf>`_ : `cv.fr.tex <https://bitbucket.org/lbesson/cv/src/master/cv.fr.tex>`_ ou `cv.en.tex <https://bitbucket.org/lbesson/cv/src/master/cv.en.tex>`_,
