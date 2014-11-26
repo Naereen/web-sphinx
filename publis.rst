@@ -170,6 +170,13 @@ La page `ST3`_ contient beaucoup plus d'informations :)
  * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon super projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
 :État: *Maintenu activement.* (novembre 2014)
 
+`munstrap <publis/munstrap/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un thème francophone pour `Munin 2.x <http://munin-monitoring.org/>`_, basé sur Twitter Bootstrap et grandement inspiré du projet `munstrap  original <https://github.com/jonnymccullagh/munstrap>`_.
+Aussi sur Bitbucket : `<https://bitbucket.org/lbesson/munstrap/>`_ et `<http://lbesson.bitbucket.org/munstrap>`_.
+
+:État: *À-jour.* (september 2014)
+
 `conky <publis/conky/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Configuration pour `GNU Conky <http://conky.sourceforge.net/>`_.
