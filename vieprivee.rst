@@ -84,14 +84,13 @@ Crypter ses fichiers
 * `GnuPG <http://www.gnupg.org/download/>`_ pour crypter avec la clé publique d'un destinataire
   ou la sienne (voir `<Lilian_Besson.asc>`_ pour récupérer ma clé publique)
 
-* `TrueCrypt <http://www.truecrypt.org/>`_, pour crypter à la volée un disque (réel ou virtuel)
-  entier. Semble assez efficace. Est gratuit et open source (mais non libre).
-
 * `wuala <https://www.wuala.com/fr/download/linux>`_ est un service gratuit de stockage
   de fichiers dans les nuages. Il se clame sécurisé (et en a tout l'air). Propose 5 Go.
   Apparamment, une application pour Ubuntu (à-la Dropbox), mais malheureusement basée sur Java.
 
 * `SpiderOak <https://spideroak.com/opendownload/>`_ fait pareil. Propose 2 Go.
+
+* `Dupticati <http://www.duplicati.com/>`_ (cf. `ce post sur korben.info <http://korben.info/chiffrez-vos-sauvegardes-avant-de-les-envoyer-dans-le-cloud.html>`_) est à utiliser avec l'un de ces hébergeurs.
 
 ---------------------------------------------------------------------
 
