@@ -26,10 +26,17 @@ The default code to add in every page is the following piece of JavaScript:
    ga('send', 'pageview');
 
 
+.. sidebar:: A popular page?
+
+   Apparently, this `very page <http://besson.qc.to/beacon.en.html>`_ became quite popular recently (fall 2014),
+   receiving more visitors than any of my other webpages.
+   `Any feedback about is therefore most surely welcome! <contact/en/>`_
+
+
 A smaller piece of code
 -----------------------
-And also easier to maintain !
-You just have to create a small ``ga.js`` script contenaning 
+And also easier to maintain!
+You just have to create a small ``ga.js`` script containing
 the previous piece of code, and add it somewhere on your website.
 
 For instance: `ga.js <http://besson.qc.to/_static/ga.js>`_.
@@ -42,24 +49,24 @@ at the end of the file (in the ``<bottom>`` paragraph or at the end of ``<body>`
    <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js"></script>
 
 
-Moreover, the ``async`` tag will improve the speed of the page, by
-loading asynchronously the ``ga.js`` script. Awesome!
+(Moreover, the ``async`` tag will improve the speed of the page, by
+loading asynchronously the ``ga.js`` script. Cool!)
 
 ------------------------------------------------------------------------------
 
 A pretty nice idea
 ------------------
-That `blog post`_ explains how to use **one** image, 
+That `blog post`_ explains how to use **one** image,
 or even a single pixel to emulate a communication with Google Analytics.
 
 This tutorial explain how to add Google Analytics spying capacity
 to any piece of HTML, as any webpage, but even for an email !
-The main example he gives is for a github project homepage, that have
+The main example he gives is for a `Github <https://github.com/>`_ project homepage, that have
 to be written in ``Markdown``, without any ``<script>`` tag.
 
 This image is downloaded from ``ga-beacon.appspot.com/UA-XXXXXX-YY``,
 and by downloading it, with the right Google Analytics key ``UA-XXXXXX-YY``,
-the browser or the email reader triggers a visit on the associated Google Analytics profile. 
+the browser or the email reader triggers a visit on the associated Google Analytics profile.
 As a result, you can monitor *in real time* an email, it justs have to be written in plain ``HTML``.
 
 
@@ -88,19 +95,19 @@ Eventually, it is also possible to use a small *badge*
 rather than an almost invisible pixel,
 simply by removing the ``?pixel`` at the end of the URL addresse.
 
-  For instance : 
- 
+  For instance :
+
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
     :scale: 300%
     :align: center
     :alt: A small « analytics | GA » badge.
     :target: http://besson.qc.to/beacon.html
-  
- 
+
+
   which is included with the following ``rST`` line of code :
- 
+
   .. code-block:: rst
- 
+
      .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
 
 
@@ -128,25 +135,25 @@ allowing you to track and get statistics for every single emails you send :
 
 That example shows the naming rule I'm using for my electronic mailing :
 every day, each email is named **DD-MM-YYYY/NUM**, where DD-MM-YYYY is the date
-(like 27-02-2014 for the 27th of February, 2014)
+(like 27-11-2014 for the 27th of November, 2014)
 and where **NUM** is the number of the email you sent that very day.
 
-For instance, the content of the forth email sent on the 11th of Mars 2014 
-will have the code **11-03-2014/4**, and therefore will contains that piece of ``HTML`` code at its end :
+For instance, the content of the forth email sent on the 03rd of December 2014
+will have the code **03-12-2014/4**, and therefore will contains that piece of ``HTML`` code at its end :
 
 .. code-block:: html
 
-   Cheers;<br>
+   Kind regards,<br>
    -- <br>
    Lilian<br>
-   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/4?pixel" />
+   <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-12-2014/4?pixel" />
 
 
 One dead-pixel ?
 ----------------
 Just to show how it works, a *one-pixel picture* is included right there,
 before the next paragraph. You shouldn't be able to see it, but with the proper
-debugging tool or be seeing the source of the page, 
+debugging tool or be seeing the source of the page,
 you will have confirmation that it is here !
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/one-dead-pixel?pixel
@@ -177,7 +184,7 @@ For Apache, that rule can simply be written as:
    RewriteRule ^([^0-9].*)$ http://ga-beacon.appspot.com/UA-38514290-1/$1 [L,P]    # Without key: "UA-38514290-1" is the default one
 
 
-We can improve a little bit the process, by adding the redirection from `<beacon/>`_ to `<beacon.html>`_ 
+We can improve a little bit the process, by adding the redirection from `<beacon/>`_ to `<beacon.html>`_
 (which then point to `<beacon.fr.html>`_ or `<beacon.en.html>`_ based on your favorite language) :
 
 .. code-block:: bash

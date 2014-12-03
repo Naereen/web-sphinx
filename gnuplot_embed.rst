@@ -4,8 +4,8 @@
 .. include:: .special.rst
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphiques
-ou des graphes de fonctions
-écrits avec une directive **rST** ``.. gnuplot::``.
+ou des graphes de fonctions écrits avec une directive **rST** ``.. gnuplot::``
+(et ça marche très bien !).
 
 .. seealso::
 

@@ -5,7 +5,8 @@
 <div class="section" id="a-propos">
 <h2>À propos<a class="headerlink" href="#a-propos" title="Lien permanent vers ce titre">¶</a></h2>
 <div class="smallpar container">
-<p>Cet affichage amélioré est produit avec <strong>Apache v2</strong>, avec quelques commandes dans le
+<blockquote>
+<div><p>Cet affichage amélioré est produit avec <strong>Apache v2</strong>, avec quelques commandes dans le
 fichier <tt class="docutils literal"><span class="pre">.htaccess</span></tt> à la racine de ce site.
 Les icônes et le style vient du superbe projet <a class="reference external" href="http://adamwhitcroft.com/apaxy/">apaxy</a>.</p>
 <p>Les fichiers d&#8217;en-tête et de pied-de-page sont respectivement :</p>
@@ -19,6 +20,19 @@ Les icônes et le style vient du superbe projet <a class="reference external" hr
 <a class="reference external" href="https://bitbucket.org/lbesson/web-sphinx/src/master/folders.rst">folders.rst</a>
 que je découpe en deux <em>&#8220;à la main&#8221;</em> (pas envie de faire un script pour ça, comme il n&#8217;est
 pas nécessaire de mettre à jour ces <a class="reference external" href="https://bitbucket.org/lbesson/web-sphinx/src/master/footer.html">footer.html</a> et <a class="reference external" href="https://bitbucket.org/lbesson/web-sphinx/src/master/header.html">header.html</a> trop souvent!).</p>
+</div></blockquote>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Cette fonctionnalité d&#8217;affichage amélioré des répertoires avec Apache est stable, et devrait fonctionner sur n&#8217;importe quelle navigateur récent.
+N&#8217;hésitez pas à <a class="reference external" href="https://bitbucket.org/lbesson/web-sphinx/issues/new">signaler un bug</a> si besoin est !</p>
+</div>
+<div class="admonition seealso">
+<p class="first admonition-title">Voir aussi</p>
+<dl class="last docutils">
+<dt>Autoindex-Strapdown</dt>
+<dd><a href="http://ais.habilis.net/">Autoindex-Strapdown</a> est aussi un projet intéressant, utilisant à la fois les propriétés <a class="reference external" href="http://httpd.apache.org/docs/2.2/mod/mod_autoindex.html">Apache&#8217;s mod_autoindex directory listings</a> et le super projet <a class="reference external" href="http://lbesson.bitbucket.org/md/">StapDown.js</a>.</dd>
+</dl>
+</div>
 </div>
 </div>
 </div>
@@ -27,19 +41,28 @@ pas nécessaire de mettre à jour ces <a class="reference external" href="https:
           </div>
         </div>
       </div>
-      <div class="sphinxsidebar">
-        <div class="sphinxsidebarwrapper">
 
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
 <h3>Mon CV en PDF ?</h3>
 <ul class="this-page-menu">
  <li><a style="text-decoration: underline" href="http://perso.crans.org/besson/cv.fr.pdf" title="Mon CV en PDF !"
          rel="nofollow">Voir mon CV en PDF</a> (en français).</li>
- <li><a style="text-decoration: underline" href="http://perso.crans.org/besson/cv.en.pdf" title="My PDF résumé!"
-         rel="nofollow">See my résumé as a PDF</a> (in English).</li>
+ <li><a style="text-decoration: underline" href="http://perso.crans.org/besson/cv.en.pdf" title="My résumé in PDF!"
+         rel="nofollow">View my résumé in PDF</a> (in English).</li>
 </ul>
+  <h3><a title="Plus de détails !" href="http://perso.crans.org/besson/callme.fr.html">Infos de contact</a></h3>
+  <ul class="details">
+    <li>Tél.: <a href="tel:100101011101001100111101100001_2">+33.6.28.41.22.57</a></li>
+    <li><a href="mailto:jarvis(at_crans{.]org">jarvis(à)crans.org</a></li>
+    <!-- <li><a href="https://encrypt.to/0x01AACDB9C108F8A0">encrypt.to/lbesson</a></li> -->
+  </ul>
+<!--   <ul class="social-icons">
+    <li><a class="facebook" href="http://www.facebook.com/naereencorp.lbesson" title="Facebook">Facebook</a></li>
+  </ul> -->
   <h3>Table des matières locale</h3>
   <ul>
-<li><a class="reference internal" href="#">Affichage des dossiers</a><ul>
+<li><a class="reference internal" href="#">Affichage d&#8217;un dossier</a><ul>
 <li><a class="reference internal" href="#contenu-du-dossier">Contenu du dossier</a></li>
 <li><a class="reference internal" href="#a-propos">À propos</a></li>
 </ul>
@@ -60,18 +83,23 @@ pas nécessaire de mettre à jour ces <a class="reference external" href="https:
   <h3><a href="http://perso.crans.org/besson/sitemap.fr.html" title="Consulter cette page !">Plan du Site</a></h3>
 <h3>Autres formats</h3>
 <ul class="this-page-menu">
- <li><a href="http://perso.crans.org/besson/pdf/folders.txt.pdf" title="Version PDF" 
-        rel="nofollow">Voir la version PDF</a></li>
+
  <li><a href="http://perso.crans.org/besson/_sources/folders.txt" title="Version txt"
-        rel="nofollow">Voir le fichier source rST</a></li>
- <li><a href="https://bitbucket.org/lbesson/web-sphinx/src/master/folders.rst" title="Dans le dépôt git qui héberge la source de la page folders.rst"
-        rel="nofollow">Voir le fichier source sur Bitbucket</a></li>
-  <br/>
+        rel="nofollow">Voir le fichier source (rST)</a></li>
+ <script type="text/javascript">
+  var path = "folders.txt";
+  var url = window.location.protocol + "//" + window.location.host + window.location.port + window.location.pathname + ".asc";
+  console.log("[INFO] url=" + url);
+  window.document.write("<li><a class=\"external-reference\" href=\"https://bitbucket.org/lbesson/web-sphinx/src/master/"
+     + path.replace(".txt", ".rst")
+     + "\" title=\"Dans le dépôt git qui héberge la source de la page " + path
+     + " !\">Voir le fichier source sur Bitbucket</a></li>");
+ </script><br/>
  <li><a href="http://perso.crans.org/besson/download.fr.html" rel="nofollow">Page de téléchargement</a></li>
  <noscript>
  <li><a href="http://perso.crans.org/besson/gpg.html">Apprendre comment vérifier une signature GPG ?</a></li>
  </noscript></ul>
-<br/><hr/>
+<hr/>
 <h3>Ma clé publique PGP</h3>
 <ul class="this-page-menu">
  <li><font style="font-size: 75%;">pgp.mit.edu</font>
@@ -85,40 +113,37 @@ pas nécessaire de mettre à jour ces <a class="reference external" href="https:
    <img alt="C108F8A0" src="http://perso.crans.org/besson/_images/.gpgmypublickey_80_15.png?1" style="width: 80.0px; height: 15.0px;" />
   </a>
  </li></ul>
-  <h3>Restons en contact !</h3>
-  <ul class="details">
-    <li><p style="font-size:80%;">Tél.: <a href="tel:100101011101001100111101100001_2">+336 2841 2257</a></p></li>
-    <li><p style="font-size:80%;"><a href="mailto:besson[at]crans[.]org">besson[at]crans[.]org</a></p></li>
-  </ul>
         </div>
       </div>
       <div class="clearer"></div>
     </div>
 
-    <div class="footer">
+    <div class="footer" role="contentinfo">
         &copy; Copyright 2011-2014, Lilian Besson.
-      Mis à jour le 05 Apr 2014, 14h:27m:23s, en partie à la main.
+      Mis à jour le 04 Dec 2014, 01h:32m:33s.
       Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.3a0.
     </div>
 <div class="footer">
   <script type="text/javascript">
-  	NProgress.start();
-	function changeStyle(newcolor) {
-		if (newcolor != "") {
-			console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
-			$("body").append(
-		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
-		    );
-		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pouvez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
-	} };
+    NProgress.start();
+  function changeStyle(newcolor) {
+    if (newcolor != "") {
+      console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
+      $("head").append(
+          $("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
+        );
+      setTimeout(function(){ 
+        noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+      }, 3000);
+  } };
   </script>
- 	 <script type="text/javascript" src="http://perso.crans.org/besson/_static/layout.noty.js"></script>
-	<!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
-	 <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.smooth-scroll.min.js"></script>
-	<!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
-	 <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.timeago.js"></script>
-	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
-	 <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.scrollUp.min.js"></script>
+  <script type="text/javascript" src="http://perso.crans.org/besson/_static/layout.noty.js"></script>
+  <!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
+   <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.smooth-scroll.min.js"></script>
+  <!-- jQuery TimeAgo plugin (source : http://timeago.yarp.com/) -->
+   <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.timeago.js"></script>
+  <!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
+   <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.scrollUp.min.js"></script>
 <script type="text/javascript">
 console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2014.");
   NProgress.inc();
@@ -155,16 +180,18 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +" - <b>h</b> : affiche <i>ce message d'aide</i>,</br>\n"
 +" - <b>i</b> : retourne à l'index,</br>\n"
 +" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut),</br>\n"
-+" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"https://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
++" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
++" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"alaskabombeh.fr.html\">page précédente</a>,</br>\n"
++" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"autostop.fr.html\">page suivante</a>,</br>\n"
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
-+"<small>Ce site est la mis au point par Lilian Besson, © 2011-2014</small>",
++"<small>Ce site est créé par Lilian Besson, © 2011-2014</small>",
   {layout:'center', type:'information'}); });
- Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="http://perso.crans.org/besson/index.html";});    
+ Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="http://perso.crans.org/besson/index.html";});
 Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "05 Apr 2014, 12h:32m:23s" || "04 04 2014, 00h:30m:14s";
-    var day   = last_updated_value.substring(0,  2 ) || "04";
+   var last_updated_value = "04 Dec 2014, 01h:32m:33s" || "06 04 2014, 00h:30m:14s";
+    var day   = last_updated_value.substring(0,  2 ) || "06";
     var month = last_updated_value.substring(3,  6 ) || "04"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
@@ -174,7 +201,12 @@ Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
     + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</b>"
     + ".</br></br>\n© Lilian BESSON 2011-2014.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });
-  Mousetrap.bind(["q"], function(){ sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);} } ); // Embed https://lbesson.bitbucket.org/squirt !
+  Mousetrap.bind(["q"], function(){
+    console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
+    // Embed http://lbesson.bitbucket.org/squirt !
+    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='http://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
+    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
+  } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
    setTimeout( function(){ NProgress.done(); }, 1000);
  });
@@ -182,8 +214,8 @@ Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
  <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Sur bitbucket !">Derniers changements</a>.
 Une remarque ? Une question ? Cette page
   <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a> est là pour ça !<br/>
-Si ça concerne des scripts, veuillez utiliser
-  <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.<br/>
+<!-- Si ça concerne des scripts, veuillez utiliser -->
+  <!-- <a href="https://bitbucket.org/lbesson/web-sphinx-scripts/issues">web-sphinx-scripts/issues</a>.<br/> -->
 Des précisions sur les droits de copies, sur les institutions et les marques citées sont disponibles
   <a class="reference external" href="http://perso.crans.org/besson/trademarks.html">en anglais</a>.<br/>
 Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
@@ -191,13 +223,15 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
   <a href="http://noscript.net/getit">NoScript</a>.
 <br>
 <div id="geekCode">
-	<small><a href="http://www.geekcode.com/geek.html" title="Geek Code v3.12">Geek Code v3.12</a>: GCS/M/S/ d- s-:+ a? C++++ UL P L++ E-- W+++ N- K- W+ M- V-- PS++ PE- Y+ PGP+ t- R* !tv b++ D- G e+++ h r% z?</small>
+  <small><a href="http://www.geekcode.com/geek.html" title="Geek Code v3.12">Geek Code v3.12</a>: GCS/M/S/ d- s-:+ a? C++++ UL P L++ E-- W+++ N- K- W+ M- V-- PS++ PE- Y+ PGP+ t- R* !tv b++ D- G e+++ h r% z?</small>
 </div>
+<noscript>
 <img style="visibility: hidden; display: none;" alt="GA|Analytics"
      src="https://ga-beacon.appspot.com/UA-38514290-1/folders.html?pixel" />
+</noscript>
 <div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
- <img alt="Optimized for Firefox, tested on Firefox 28.0"
+ <img alt="Optimized for Firefox, tested on Firefox v28.0 and elinks v0.12pre6"
       src="http://perso.crans.org/besson/_images/.firefox_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Google Analytics" href="https://www.google.com/analytics/">
@@ -205,7 +239,7 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       src="http://perso.crans.org/besson/_images/.google_analytics_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
- <img alt="Written with GNU Nano 2.3.2" 
+ <img alt="Written with GNU Nano 2.3.2-svn and Sublime Text v3.059" 
       src="http://perso.crans.org/besson/_images/.made_with_nano_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GPL v3" href="http://www.gnu.org/licenses/gpl.html">
@@ -213,24 +247,39 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
       src="http://perso.crans.org/besson/_images/.opensource_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Python" href="http://www.python.org/download/">
- <img alt="Python 2.7.3 powered :)" 
+ <img alt="Python v2.7.6 powered :)" 
       src="http://perso.crans.org/besson/_images/.python_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Sphinx" href="http://sphinx-doc.org/install.html">
- <img alt="Made with Sphinx 1.3a0" 
+ <img alt="Made with Sphinx v1.3a0" 
       src="http://perso.crans.org/besson/_images/.sphinx_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Ubuntu 12.04.04 LTS" href="http://www.ubuntu.com/about/about-ubuntu">
- <img alt="Made on Ubuntu 12.04.4 LTS" 
+<li><a class="image-reference" title="Ubuntu 14.04.2 LTS" href="http://www.ubuntu.com/about/about-ubuntu">
+ <img alt="Made on Ubuntu 14.04.2 LTS" 
       src="http://perso.crans.org/besson/_images/.ubuntu_80_15.png" 
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/" >
- <img alt="Source code hosted on Bitbucket.org, managed with Git 1.7.9.5"
+<li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/lbesson/web-sphinx/" >
+ <img alt="Source code hosted on bitbucket.org, managed with Git v1.9.1"
       src="http://perso.crans.org/besson/_images/.git_80_15.png" 
       style="width: 36.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.4" src="http://perso.crans.org/besson/_images/.apache_80_15.png" style="width: 80.0px; height: 15.0px;" /></a></li>
-</ul></div> 
-<script async type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js"></script>
+<li><script type="text/javascript">
+  if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,6) == '127.0.') || (window.location.host.substring(0,7) == '0.0.0.0') ) {
+  window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx v1.4.6 on "
+  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.nginx_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  }
+  else {
+  window.document.write("<a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.22 on "
+  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.apache_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  };
+  NProgress.inc();
+  </script>
+  <noscript>
+  <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.22" src="http://perso.crans.org/besson/_images/.apache_80_15.png" style="width: 80.0px; height: 15.0px;" /></a>
+  </noscript>
+</li></ul></div> 
+   <script type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js"></script>
+  <!-- MathJax.js (http://mathjax.org/) async is quicker -->
+  <!-- <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script> -->
 </div>
 <!-- This file is © Lilian Besson, 2011-2014.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.

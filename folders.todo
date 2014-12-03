@@ -7,19 +7,18 @@ header.html:
  * éventuellement, raccourcir writeLocationOfThePage pour enlever le language switcher
  * enlever pygments.css, enlever DOCUMENTATION_OPTIONS
  * enlever mathjax
- * ajouter un <div style="font-size: x-large;"> à la fin
+ * ajouter un <div class="myfolders" id="contenu-du-dossier"> (ou <div style="font-size: x-large;">) à la fin
 
 footer.html:
  * ajouter un </div> au début
  * enlever le <div class="language-selector">
  * ajouter un lien vers le PDF anglais aussi
  * changer le lien action="" dans le <form>
- * Mettre à jour le lien vers la sitemap
+ * remplacer les href="" et src="" en ajoutant http://perso.crans.org/besson/
  * enlever le lien vers la version PDF, mettre à jour le lien vers les sources
  * enlever Page précédente/suivante dans la sidebar
  * enlever le validateur CSS et l'image MathJax
  * enlever les raccourcis clavier next et previous
  * enlever le lien vers le signature GPG
- * ajouter http://perso.crans.org/besson/ dans les src=\" pour l'image du serveur web
 
 .. (c) Lilian Besson, https://bitbucket.org/lbesson/web-sphinx/src/master/folders.todo

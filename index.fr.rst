@@ -11,7 +11,7 @@
 Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai en charge du cours d'introduction à l'informatique (CS101) pour le second semestre !
+Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques (MA101 et 102) <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai en partie en charge du cours d'*introduction à l'informatique (CS101)* pour le second semestre !
 Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2015).
 
 .. include:: whatsnew.fr.rst
@@ -29,17 +29,18 @@ Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2
 
 * En 2009/2010 et 2010/2011 j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
-* Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009.
+* Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009. (Briançon, c'est une jolie petite ville perdue dans les Hautes-Alpes !)
+
 
 .. container:: smallpar
 
    **Un petit mot sur moi** :
 
-    En plus des mathématiques et de l'informatique (pratique et théorique), j'aime aussi randonner et camper,
-    voyager en France (ou en Europe et en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
-    J'aime utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
-    comme par exemple du javascript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
-    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
+    En plus des mathématiques et de l'informatique (pratiques et théoriques), j'aime aussi cuisiner, randonner et camper,
+    voyager en France (ou en Europe ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
+    J'aime particulièrement utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
+    comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
+    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
@@ -69,7 +70,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
       :alt:   Mon adresse courriel, dans une image png...
       :target: mailto:Lilian.Besson＠ens-cachan.fr
 
-#. ou bien par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ (oui, le @ n'est pas en ASCII ici) :
+#. ou bien par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_ (*oui*, le @ n'est pas en ASCII ici) :
 
    .. image:: .telephone.png
       :scale: 130 %
@@ -114,7 +115,7 @@ Vous pouvez aussi retrouver certains travaux ou projets :
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'ai effectué un **stage de recherche** pour le troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août).
+J'ai effectué un **stage de recherche** pour le troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août 2013).
 J'ai travaillé à l'**UCL** (:under:`University College of London`),
 sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (qui me cite ici `sur sa page <http://www.doc.ic.ac.uk/~jvillar1/>`_, voir `là sur google <http://fr.lmgtfy.com/?q=%22lilian+besson%22+site%3Adoc.ic.ac.uk>`_)
 et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
@@ -158,7 +159,7 @@ qui décrivent certains projets, et notamment des scripts sur lesquels je travai
 
 Deux tutoriels (11/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Deux petits articles, `à propos de Git et BitBucket <tutogit.fr.html>`_, et `à propos de Sublime Text 3 <sublimetext.fr.html>`_ 
+Deux petits articles, à propos de `Git et BitBucket <tutogit.fr.html>`_, et de `Sublime Text 3 <sublimetext.fr.html>`_.
 
 StrapDown.js v0.5 (09/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -178,13 +179,13 @@ Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai e
 
 Projet d'apprentissage : Kaggle Titanic (05/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour le cours de Machine Learning de l'ENS de Cachan du second semestre (L3),
+Pour le cours d'apprentissage automatique (*Machine Learning*) de l'ENS de Cachan du second semestre (L3),
 j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http://kaggle.com/>`_,
 ce projet a pour but de faire de la *classification de données*, afin d'exhiber
 le *"passager type"* ayant survécu au naufrage du Titanic.
 Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
 `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
-J'ai eu **15/20** pour ce projet, mais `n'ai pas participé au projet via Kaggle <https://www.gequest.com/users/96638/naereen>`_ en fin de compte.
+J'ai eu **15/20** pour ce projet, mais `je n'ai pas pu participer au projet via Kaggle <https://www.gequest.com/users/96638/naereen>`_ (en fin de compte).
 
 ANSI Colors (01~03/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -199,10 +200,6 @@ Actuellement, il a déjà été téléchargé plus de **6000 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
 *ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
-
-.. note:: Nouvelle version ?
-
-   Je vais essayer de nettoyer ANSIColors-balises afin d'en publier une nouvelle version, compatible avec Python 3.4.
 
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
@@ -261,11 +258,13 @@ La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de comm
 
 Galeries web (photos et musique)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#. J'ai développé une petite galerie photo en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
+Depuis novembre 2013, je développe deux petits logiciels :
+
+#. une galerie photo en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
    (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
 
-#. J'ai développé un petit lecteur de musique en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
-   (les morceaux utilisées dans la démo viennent de `<http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).
+#. un petit lecteur de musique en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
+   (les morceaux utilisées dans la démo viennent du légendaire projet `du Donjon de Naheulbeuk <http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).
 
 ------------------------------------------------------------------------------
 
