@@ -1,5 +1,5 @@
 ###############################
- Expériences faites et à faire 
+ Expériences faites et à faire
 ###############################
 .. include:: .special.rst
 .. include:: .javascript.rst
@@ -8,7 +8,7 @@ Meilleur thème ?
 ----------------
 * `Read-the-doc <https://github.com/snide/sphinx_rtd_theme>`_ semble le mieux !
 * `SphinxTrab <http://jfardello.github.io/Sphinxtrap>`_ semble intéressant.
-* `Basicstrap <http://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
+* `Basicstrap <https://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
 * `Sphinx-bootstrap-theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/>`_ idem.
 
 Réduire les dépendances inutiles
@@ -28,14 +28,14 @@ Voici, par exemple, la première vidéo du `concert de Jill-Jênn <https://www.y
 
 Une **expérimentation** : ajouter facilement des couleurs en rST ?
 ------------------------------------------------------------------
-J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de 
+J'utilise la balise ``.. raw:: html`` pour embarquer des définitions de
 rôles dans les fichiers **.rst** écrits pour ces pages webs,
 et ces rôles sont mis en relation avec des styles CSS définis dans
 `.templates/layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_
 le template Jinja qui contrôle l'apparence et le rendu de toutes mes pages produites avec Sphinx.
 
 Notamment, les différentes couleurs suivantes sont disponibles :
-black gray silver white maroon red magenta fuchsia pink orange 
+black gray silver white maroon red magenta fuchsia pink orange
 yellow lime green olive teal cyan aqua blue navy purple.
 
 Ceci est rendu possible avec
@@ -68,7 +68,7 @@ Liste des couleurs rajoutées :
 .. versionadded:: 1.4
 
    Autres styles rajoutés :
-   
+
     * :under:`souligné`, avec ``:under:`texte```;
     * :over:`surligné`, avec ``:over:`texte```;
     * :line:`barré`, avec ``:line:`texte```;
@@ -98,7 +98,7 @@ Ils n'y sont plus, mais ils sont encore accessibles ici :
 
  #. `XHTML 4.01 <http://validator.w3.org/check?uri=referer>`_,
  #. et `CSS 3 <http://jigsaw.w3.org/css-validator/check/referer>`_,
- #. et `RSS 2.0 <http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fbesson.qc.to%2Frss.xml>`_. 
+ #. et `RSS 2.0 <http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fbesson.qc.to%2Frss.xml>`_.
 
 
 Une des deux images était codée en *base64*, pour *essayer*.
@@ -117,9 +117,9 @@ Résultats attendus :
 
    Aucunes pages ne passent désormais le test XHTML, à cause de bout de
    code écrits par des extensions non officielles de Sphinx (``sphinx.ext.gnuplot`` par exemple).
-   
+
    Aucunes pages ne passent désormais le test CSS, à cause de la feuille `buttons.css <_static/buttons.css>`_.
-   
+
    :red:`Mais j'y travaille ! J'essaie de nétoyer au mieux les modèles de pages, et le code de chaque pages. Dans ce but, tout retour est le bienvenu ! Le traqueur de bug est là pour ça :`
    `<http://besson.qc.to/git/web-sphinx/issues/new/>`_.
 
@@ -177,7 +177,7 @@ Oui, le nom de domaine est bien "❥.ws", vous avez bien lu. Fou non ?
 
 .. warning:: Problème d'affichage ?
 
-   Si rien ne s'affiche entre le '"' et le '.', si vous voyez ".ws", 
+   Si rien ne s'affiche entre le '"' et le '.', si vous voyez ".ws",
    votre navigateur a sûrement un problème d'encodage.
    Vous pouvez par exemple consulter :
 
