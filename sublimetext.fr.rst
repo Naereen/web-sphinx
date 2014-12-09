@@ -216,6 +216,7 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 .. note:: Purement objective
 
    Cette liste reflète simplement mon utilisation quotidienne de ST3. Ces choix sont purement objectifs.
+   Par exemple, `cet article <http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/>`_ présente aussi une liste de greffons utiles à avoir.
 
 
 Configuration spécifique à certains greffons

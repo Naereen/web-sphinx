@@ -212,7 +212,8 @@ Heavier plugins, or plugins designed for a specific language:
 
 .. note:: Purely objective
 
-   This list simply reflects my daily use of ST3. These choices are purely objective
+   This list simply reflects my daily use of ST3. These choices are purely objective.
+   For instance, `this article <http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/>`_ also presents a list of good plugins to use.
 
 
 Some specific configuration grafts

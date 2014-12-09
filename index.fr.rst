@@ -52,7 +52,7 @@ Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2
     sur mon temps libre.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
     `Qu'est-ce que l'Open Source, expliqué avec des Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
-    Les analyses réalisées avec *Google Analytics* montrent que certaines de mes pages
+    Les analyses réalisées avec *Google Analytics* montrent que `certaines de mes pages <beacon.en.html>`_
     sont effectivement visités quotidiennement par des gens du monde entier : j'espère ne pas décevoir ces visiteurs !
     (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_
     peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
