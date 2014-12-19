@@ -59,16 +59,6 @@ a[href*="besson.qc.to"]:after {
     top: -7px;
 }
 
-a[href*="besson.or.gs"]:after {
-    color: #C200D3;
-    content: "or.gs";
-    z-index:40;
-    font-size: 7px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-}
-
 a[href^="mailto"] {
     color:blue;
 }
@@ -153,9 +143,9 @@ div.sphinxsidebar {
     margin-left: 0;
     bottom: 0px;
     direction: rtl; /* Right To Left, WARNING */
-    overflow-y: auto !important;  /* BETA responsive */
+    overflow-y: auto !important;  /* responsive */
     position: fixed;
-    overflow-x: hidden;  /* BETA responsive */
+    overflow-x: hidden;  /* responsive */
 }
 
     div.sphinxsidebar ul {

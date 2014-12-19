@@ -25,9 +25,9 @@
   .blue	{ color:blue; }
   .navy	{ color:navy; }
   .purple	{ color:purple; }
-  .under	{ text-decoration: underline; } 
-  .over	{ text-decoration: overline; } 
-  .blink	{ text-decoration: blink; } 
+  .under	{ text-decoration: underline; }
+  .over	{ text-decoration: overline; }
+  .blink	{ text-decoration: blink; }
   .line	{ text-decoration: line-through; }
   .it		{ font-style: italic; }
   .ob		{ font-style: oblique; }
@@ -57,7 +57,7 @@ img.languageswitch {
 	height: 38px; width:  38px;
 	background: url('http://perso.crans.org/besson/_images/.top.png');
 }
-/* BETA responsive */
+
 @media (max-width: 680px){
   #scrollUpLeft {
     left: auto;
@@ -66,8 +66,20 @@ img.languageswitch {
   }
 }
 
+/* BETA responsive for font-size. */
+@media (max-width: 680px){
+  body {
+    font-size: 120%; /* Increase font size for responsive theme */
+  }
+}
+@media (max-width: 1280px) and (min-width: 681px){
+  body {
+    font-size: 110%; /* Increase font size for responsive theme */
+  }
+}
+
+
 div.myfolders { font-size: x-large; }
-/* BETA responsive */
 @media (max-width: 680px){ div.myfolders { font-size: medium; } }
 
 /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */

@@ -101,7 +101,7 @@ $(document).ready(function(){
            "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile !</span>",
            type: 'error', layout: 'center', timeout: 20000});
         }}]
-    }) }, 90000);
+    }) }, 10000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
     text: ('Quel style voulez-vous utiliser ?\n</br>'
