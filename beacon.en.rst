@@ -30,7 +30,7 @@ The default code to add in every page is the following piece of JavaScript:
 
    Apparently, this `very page <http://besson.qc.to/beacon.en.html>`_ became quite popular recently (fall 2014),
    receiving more visitors than any of my other webpages.
-   `Any feedback about is therefore most surely welcome! <contact/en/>`_
+   `Any feedback about it is therefore most surely welcome! <contact/en/>`_
 
 
 A smaller piece of code
