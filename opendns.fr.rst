@@ -96,6 +96,7 @@ Ce service ne procède à aucune manipulation de l'espace des noms de domaine, `
 
 ``resolv.conf``?
 ----------------
-Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf <>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
+Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
+D'autres explications sont `là sur theos.in <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ ou `sur die.net <http://linux.die.net/man/5/resolv.conf>`_, ou enfin `sur Wikipédia (encore, toujours) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
