@@ -121,6 +121,7 @@ Pages in English
    sublimetext.en
    tutogit.en
    transifex.en
+   opendns.en
    trademarks
    demo
    alaskabombeh.en

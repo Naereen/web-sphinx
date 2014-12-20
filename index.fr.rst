@@ -362,6 +362,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    gnuplot
    ace
    wolfram
+   opendns.fr
    freedns
    dyndns
    time
