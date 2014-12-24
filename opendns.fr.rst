@@ -14,26 +14,27 @@ Ce mini-tutoriel commence en utilisant OpenDNS, puis le service DNS de Google.
    `Cette page Wikipédia <https://fr.wikipedia.org/wiki/OpenDNS>`_ donne plus d'informations sur le service.
 
    `Ce post de blog est assez agressif envers OpenDNS <http://www.bortzmeyer.org/opendns-non-merci.html>`_, avec raisons.
-   En résumé, non il ne faudrait pas utiliser OpenDNS.
+   Pour faire un résumé très court : **il ne faudrait pas utiliser** OpenDNS.
+
 
 Pour utiliser OpenDNS, il suffit de renseigner ces adresses comme *serveurs DNS supplémentaires*.
 
 :Pour l'IPv4: ``208.67.222.222``, ``208.67.220.220``, ``208.67.222.220``, ``208.67.220.222``
 :Pour l'IPv6: ``2620:0:ccc::2``, ``2620:0:ccd::2``
 
-Plus de détails (en anglais) sur la procédure nécessaire à l'utilisation d'un service DNS alternatif `sont là (par Google) <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
+Plus de détails (en anglais) sur la procédure nécessaire à l'utilisation d'un service DNS alternatif `peuvent être trouvés ici (merci à developers.Google.com) <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
 
 Vérifier les réglages
 ---------------------
-Pour vérifier que l'on utilise bien les serveurs d'OpenDNS, il suffit d'`aller sur cette page www.OpenDNS.com/welcome <http://www.opendns.com/welcome/>`_.
+Pour **vérifier que l'on utilise bien les serveurs d'OpenDNS**, il suffit d'`aller sur cette page www.OpenDNS.com/welcome <http://www.opendns.com/welcome/>`_.
 
-Testons les (avec `dig <https://fr.wikipedia.org/wiki/Dig_%28programme_informatique%29>`_) :
+Mais il est aussi possible de **tester ses réglages via la ligne de commande** (avec `la commande dig <https://fr.wikipedia.org/wiki/Dig_%28programme_informatique%29>`_) :
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Main answer:"
+   $ echo -e "\n\n# Reponse principale :"
    $ dig @208.67.222.222 perso.crans.org
-   $ echo -e "\n\n# Other answers:"
+   $ echo -e "\n\n# Autres reponses :"
    $ dig @208.67.220.220 perso.crans.org | grep -v "^\(;.*\|$\)"
    $ echo -e "\n"
    $ dig @208.67.222.220 perso.crans.org | grep -v "^\(;.*\|$\)"
@@ -41,7 +42,7 @@ Testons les (avec `dig <https://fr.wikipedia.org/wiki/Dig_%28programme_informati
    $ dig @208.67.220.222 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
-On peut vérifier leur protection de l’hameçonnage, sur cette page `www.InternetBadGuys.com <http://www.internetbadguys.com/>`_ (la requête à OpenDNS pour savoir ou chercher la page www.InternetBadGuys.com sera analysée comme dangereuse, et donc redirigée sur `cette gentille page <http://phish.opendns.com/main?url=www.internetbadguys.com>`_).
+On peut vérifier leur **protection de l’hameçonnage** et des *"mauvais"* sites Internet, sur cette page (sans danger) `www.InternetBadGuys.com <http://www.internetbadguys.com/>`_ (la requête à OpenDNS pour savoir où trouver la page `www.InternetBadGuys.com` sera analysée comme *dangereuse*, et donc redirigée sur `cette "gentille" page <http://phish.opendns.com/main?url=www.internetbadguys.com>`_).
 
 .. seealso::
 
@@ -49,54 +50,55 @@ On peut vérifier leur protection de l’hameçonnage, sur cette page `www.Inter
       Afin de `connaître son adresse IP (v4 ou v6) <http://monip.org/>`_.
 
    WhoIsMyISP.org
-      Afin de `connaître son Fournisseur d'Accès à Internet <http://www.whoismyisp.org/>`_.
+      Afin de `connaître son Fournisseur d'Accès à Internet <http://www.whoismyisp.org/>`_ (**FAI**, ISP en anglais).
 
    DNSLeaktest.com
-      Afin de `vérifier si son Fournisseur d'Accès à Internet <http://www.dnsleaktest.com/>`_  ne procède pas à `des fuites DNS <https://dnsleaktest.com/what-is-a-dns-leak.html>`_.
+      Afin de `vérifier si son Fournisseur d'Accès à Internet <http://www.dnsleaktest.com/>`_  ne procède pas à `des fuites DNS <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ dans votre dos...
 
 
 ----
 
-Pourquoi cette page un peu vide ?
----------------------------------
- Je voulais un endroit où retrouver facilement les adresses IPv4 et v6 des serveurs DNS d'OpenDNS, afin de rapidement les copier/coller pour configurer les nouvelles connexions WiFi ou filaires.
+Pourquoi avoir écrit cette page un peu vide pour mon site ?
+-----------------------------------------------------------
+ Je voulais un endroit où **retrouver facilement les adresses** IPv4 (et IPv6) **des serveurs d'OpenDNS** (et de Google DNS), afin de rapidement **les copier/coller pour configurer les nouvelles connexions** WiFi (ou filaires) sur mon ordinateur personnel.
 
 Voilà chose faite !
 
 ----
 
-D'autres DNS alternatifs ?
---------------------------
-Google propose aussi un service de DNS gratuit, `non restreint et non restrictif <https://developers.google.com/speed/public-dns/faq#nxdomains>`_, et ouvert à tous.
+Un autre service DNS alternatif ?
+---------------------------------
+Google propose aussi un service de DNS gratuit, `non restreint et non restrictif <https://developers.google.com/speed/public-dns/faq#nxdomains>`_, et ouvert à tous :
 
 :Pour l'IPv4: ``8.8.8.8``, ``8.8.4.4``
 :Pour l'IPv6: ``2001:4860:4860::8888``, ``2001:4860:4860::8844``
 
 
-Testons les :
+**Testons les**, via la ligne de commande (via `la commande dig`_) :
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Main answer:"
+   $ echo -e "\n\n# Reponse principale :"
    $ dig @8.8.8.8 perso.crans.org
-   $ echo -e "\n\n# Other answers:"
+   $ echo -e "\n\n# Autres reponses :"
    $ dig @8.8.4.4 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n\n# And with IPv6:"
+   $ echo -e "\n\n# Et on teste aussi l'IPv6:"
    $ dig @2001:4860:4860::8888 perso.crans.org AAAA +cd
 
 
 .. note:: Plus d'informations ?
 
    Comme d'habitude, plus de détails `ici sur Wikipédia <https://fr.wikipedia.org/wiki/Google_Public_DNS>`_,
-   ou bien `la page officielle sur developers.google.com <https://developers.google.com/speed/public-dns/>`_.
+   ou bien `la page officielle sur developers.Google.com <https://developers.google.com/speed/public-dns/>`_.
 
 
-Il est sensé être `plus rapide, plus performant etc <https://developers.google.com/speed/public-dns/docs/performance>`_, mais on s'en fiche un peu (à moins d'être sur un réseau très rapide, la vitesse des requêtes DNS n'est *vraiment* pas le facteur limitant la rapidité de navigation web).
-Ce service ne procède à aucune manipulation de l'espace des noms de domaine, `contrairement à d'autres services <http://www.bortzmeyer.org/dns-menteur.html>`_ de ce type; et `est réputé pour être sécurisé <https://developers.google.com/speed/public-dns/docs/security>`_.
+Il est sensé être `plus rapide, plus performant etc <https://developers.google.com/speed/public-dns/docs/performance>`_, mais on s'en fiche un peu (à moins d'être sur un réseau très rapide, la vitesse des requêtes DNS n'est *vraiment* pas le goulot d'étranglement de la rapidité de votre navigation web).
+
+Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des noms de domaine, `contrairement à d'autres services <http://www.bortzmeyer.org/dns-menteur.html>`_ de ce type; et `est réputé pour être sécurisé <https://developers.google.com/speed/public-dns/docs/security>`_.
 
 ``resolv.conf``?
 ----------------
-Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
-D'autres explications sont `là sur theos.in <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ ou `sur die.net <http://linux.die.net/man/5/resolv.conf>`_, ou enfin `sur Wikipédia (encore, toujours) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
+Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf (doc en anglais) <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf en anglais) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
+D'autres explications sont `là sur theos.in (en anglais) <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ ou `sur die.net (en anglais) <http://linux.die.net/man/5/resolv.conf>`_, ou enfin `sur Wikipédia (encore, toujours, mais en anglais) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
 .. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
