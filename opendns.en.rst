@@ -32,13 +32,25 @@ Or you can **test this from the command line** (with `the dig command <https://e
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Main answer:"
+   $ echo -e "# Main answer (208.67.222.222 OpenDNS server) :"
    $ dig @208.67.222.222 perso.crans.org
-   $ echo -e "\n\n# Other answers:"
+
+
+.. runblock:: console
+
+   $ echo -e "# Other answer (208.67.220.220 OpenDNS server) :"
    $ dig @208.67.220.220 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n"
+
+
+.. runblock:: console
+
+   $ echo -e "# Other answer (208.67.222.220 OpenDNS server) :"
    $ dig @208.67.222.220 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n"
+
+
+.. runblock:: console
+
+   $ echo -e "# Other answer (208.67.220.222 OpenDNS server) :"
    $ dig @208.67.220.222 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
@@ -78,11 +90,19 @@ Or you can **test this from the command line** (with `the dig command <https://e
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Main answer:"
+   $ echo -e "# Main answer (8.8.8.8 Google server) :"
    $ dig @8.8.8.8 perso.crans.org
-   $ echo -e "\n\n# Other answers:"
+
+
+.. runblock:: console
+
+   $ echo -e "# Other answer (8.8.4.4 Google server) :"
    $ dig @8.8.4.4 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n\n# And with IPv6:"
+
+
+.. runblock:: console
+
+   $ echo -e "# And with IPv6 (2001:4860:4860::8888 Google server) :"
    $ dig @2001:4860:4860::8888 perso.crans.org AAAA +cd
 
 

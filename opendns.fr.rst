@@ -32,13 +32,25 @@ Mais il est aussi possible de **tester ses réglages via la ligne de commande** 
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Reponse principale :"
+   $ echo -e "# Reponse principale (serveur 208.67.222.222 d'OpenDNS) :"
    $ dig @208.67.222.222 perso.crans.org
-   $ echo -e "\n\n# Autres reponses :"
+
+
+.. runblock:: console
+
+   $ echo -e "# Autre reponse (serveur 208.67.220.220 d'OpenDNS) : "
    $ dig @208.67.220.220 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n"
+
+
+.. runblock:: console
+
+   $ echo -e "# Autre reponse (serveur 208.67.222.220 d'OpenDNS) : "
    $ dig @208.67.222.220 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n"
+
+
+.. runblock:: console
+
+   $ echo -e "# Autre reponse (serveur 208.67.220.222 d'OpenDNS) : "
    $ dig @208.67.220.222 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
@@ -78,11 +90,19 @@ Google propose aussi un service de DNS gratuit, `non restreint et non restrictif
 
 .. runblock:: console
 
-   $ echo -e "\n\n# Reponse principale :"
+   $ echo -e "# Reponse principale (serveur 8.8.8.8 de Google) :"
    $ dig @8.8.8.8 perso.crans.org
-   $ echo -e "\n\n# Autres reponses :"
+
+
+.. runblock:: console
+
+   $ echo -e "# Autre reponse (serveur 8.8.4.4 de Google) :"
    $ dig @8.8.4.4 perso.crans.org | grep -v "^\(;.*\|$\)"
-   $ echo -e "\n\n# Et on teste aussi l'IPv6:"
+
+
+.. runblock:: console
+
+   $ echo -e "# Et on teste aussi l'IPv6 (serveur 2001:4860:4860::8888 de Google) :"
    $ dig @2001:4860:4860::8888 perso.crans.org AAAA +cd
 
 
