@@ -196,7 +196,7 @@ Sa documentation est hébergée sur
 `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà été téléchargé plus de **6000 fois** !
+Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ plus de **2500 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
 *ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)

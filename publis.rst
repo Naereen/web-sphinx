@@ -75,7 +75,7 @@ et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Window
 
 * Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (v1.9.9).
 * La documentation du module est `ici sur pythonhosted.org <https://pythonhosted.org/ANSIColors-balises/>`_.
-* (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_.)
+* (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
 
 
 .. runblock:: pycon
