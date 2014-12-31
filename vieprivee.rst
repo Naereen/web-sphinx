@@ -162,4 +162,4 @@ Gérer ses mots de passe
 * `The Password Meter <http://www.passwordmeter.com/>`_, un site joli pour tester la solidité
   de ses mots de passe. Fonctionne *super* bien.
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

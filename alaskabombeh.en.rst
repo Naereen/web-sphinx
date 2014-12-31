@@ -56,4 +56,4 @@ to bring such bombs as close to the USSR : the Chariot project was abandoned in 
    .. [#inupiak] L'*inupiak*, ou *iñupiak*  is a group of dialects of the Inuit language, spoken by the Inupiat people in northern and northwestern Alaska. This information is from `<https://en.wikipedia.org/wiki/Inupiak>`_.
    .. [#convert] See `this kms to miles conversion tool <http://www.checkyourmath.com/convert/length/miles_km.php>`_.
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

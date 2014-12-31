@@ -162,4 +162,4 @@ N'affiche plus ces messages inutiles, mais plus de coloration syntaxique. Zut !
     # print_int (f 11);;
     # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -71,4 +71,4 @@ Hébergements
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

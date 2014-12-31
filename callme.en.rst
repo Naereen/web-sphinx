@@ -121,4 +121,4 @@ These web services, strongly based on the great functions offered by the `HTML 5
       Some others tools are presented there, and they surely can be used to (try to) preserve your on-line private life.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -86,4 +86,4 @@ Pour Google Chrome
 --------
 :Source: http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

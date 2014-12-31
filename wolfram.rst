@@ -237,4 +237,4 @@ Un extension ?
  des graphiques et des tableaux produits par *Wolfram|Alpha*.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

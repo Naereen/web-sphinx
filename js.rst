@@ -103,4 +103,4 @@ Et plein d'autres
 ^^^^^^^^^^^^^^^^^
 Et encore plein d'autres que j'oublie de lister ici.
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

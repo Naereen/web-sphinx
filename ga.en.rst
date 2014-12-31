@@ -76,4 +76,4 @@ Other solutions (not tested)
       to measure the audience of a page, or an email.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

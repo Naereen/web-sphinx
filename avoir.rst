@@ -185,4 +185,4 @@ Oui, le nom de domaine est bien "❥.ws", vous avez bien lu. Fou non ?
     #. et `la page de test associée <https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Unicode/Test>`_.
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

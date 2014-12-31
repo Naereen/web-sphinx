@@ -121,4 +121,4 @@ Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des 
 Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf (doc en anglais) <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf en anglais) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
 D'autres explications sont `là sur theos.in (en anglais) <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ ou `sur die.net (en anglais) <http://linux.die.net/man/5/resolv.conf>`_, ou enfin `sur Wikipédia (encore, toujours, mais en anglais) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -105,7 +105,7 @@ Vous pouvez aussi retrouver certains travaux ou projets :
 #. via mes `dépôts git <tutogit.fr.html>`_ sur mon compte *bitbucket*, `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
 
 #. ou sur ma page personnelle *Wikipédia*, `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
-   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_).
+   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_, je `suis aussi donateur <https://dons.wikimedia.fr/journal/2012-11-12>`_ !).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
    `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (plus du tout actif en 2014).
@@ -381,4 +381,4 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    admin
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

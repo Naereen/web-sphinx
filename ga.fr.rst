@@ -79,4 +79,4 @@ D'autres solutions (non testées)
 .. warning:: Toujours en rédaction !
 
 
-.. (c) Lilian Besson, 2011-2014, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
