@@ -23,6 +23,7 @@ Pour utiliser OpenDNS, il suffit de renseigner ces adresses comme *serveurs DNS 
 :Pour l'IPv6: ``2620:0:ccc::2``, ``2620:0:ccd::2``
 
 Plus de détails (en anglais) sur la procédure nécessaire à l'utilisation d'un service DNS alternatif `peuvent être trouvés ici (merci à developers.Google.com) <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
+Un autre tutoriel plutôt précis se trouve `ici (pour Windows 7) <http://mintywhite.com/windows-7/change-dns-server-windows-7/>`_.
 
 Vérifier les réglages
 ---------------------
