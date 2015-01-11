@@ -1,22 +1,21 @@
 .. meta::
    :description lang=en: About hitch-hiking
-   :description lang=fr: À-propos d'autostop
-
+   :description lang=fr: À-propos d'auto-stop
 ####################
  About hitch-hiking
 ####################
 .. include:: .special.rst
 .. warning:: Still in progress !
 
-This page will soon be a short presentation of my personnal point-of-view
-on the matter of hitch-hiking, and why it is a really cool way to travel.
+This page is a short presentation of my personal experience
+on the matter of hitch-hiking, and why it is a really cool, free and culturally interesting way to travel.
 
-Maybe I will include here a list of epic autostop achievments, maybe not.
+Maybe I will include here a list of epic hitch-hiking achievements, maybe not.
 
 .. note:: With Google Maps ?
 
-   I know that Google Maps can be used to save and share custon car *itineraries*, 
-   maybe I will use that to keep a trace of my hitch-hiking trips and 
+   I know that Google Maps can be used to save and share custom car *itineraries* (travel history),
+   maybe I will use that to keep a trace of my hitch-hiking trips and
    share them here. Or maybe not.
 
 
