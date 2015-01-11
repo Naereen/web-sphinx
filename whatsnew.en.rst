@@ -3,6 +3,7 @@
    <div class="sidebar" style="font-size:80%;">
    <p class="first sidebar-title" style="font-size:110%;">What's <i>new</i> around here?</p>
    <ol class="last arabic simple">
+   <li><span style="color:red;">It's my birtday!</span> <span style="color:green;">I am now 22!</span></li>
    <li><span style="color:blue;">Happy</span> <span style="color:grey;">new year</span> <span style="color:red;">2015</span>!</li>
    <li>Two small articles about the <a href="sublimetext.en.html" title="Written the 20th of November 2014">Sublime Text 3</a> and <a href="tutogit.en.html" title="Written the 21th of November 2014">Git</a>.</li>
    <li>Recently, I have been quoted in <a href="http://goo.gl/0lecQw" title="Short link to http://www.liberation.fr/societe/2014/10/09/inde-le-coup-de-genie-de-centrale_1118527">this (French) article</a> on the national newspaper <b><a href="https://en.wikipedia.org/wiki/Lib%C3%A9ration" title="More details on Libération on Wikipédia (English)">Libération</a></b>, about the start of <a href="http://www.mahindraecolecentrale.edu.in/">Mahindra École Centrale</a>! Read it <a href="./publis/10_10_2014__Liberation.en.html" title="Unofficial translation !">in English here.</a></li>
