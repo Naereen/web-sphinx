@@ -21,17 +21,54 @@ Maybe I will include here a list of epic hitch-hiking achievements, maybe not.
 
 A quick overview
 ----------------
+En 2015
+^^^^^^^
+Pas encore ! Mais deux longs voyages en stop sont prévus pour l'été 2015.
+
+Briançon - Paris en passant par l'Italie (Turin, Venise, Padoue), en 2 semaines :
+
+.. digraph:: voyage1
+
+   "Briançon" -> "Italie" -> "Suisse" -> "Jura" -> "Paris";
+
+Et ensuite un plus ambitieux Paris - Norvège en 3 semaines :
+
+.. digraph:: voyage2
+
+   "Paris" -> "Bruxelles" -> "Amsterdam" -> "Danemark" -> "Suède" -> "Norvège" -> "(et retour)";
+
+
 In 2014
 ^^^^^^^
-Less than 200kms, around Paris and Hyderabad, in India.
+About 150 kms, half a dozen of times, around Paris, and a very little bit near Hyderabad, in India.
 
 In 2013
 ^^^^^^^
-Something like 1800 kms (for american *ignorants*, go check on Wikipedia what kilometers are), and only in France, in the "Landes" and "Normandie" regions.
+Something like 1800 kms (for American *ignorants*, go `check on Wikipédia what kilometers are <https://en.wikipedia.org/wiki/Kilometers>`_), and only in France, in the "Landes" and "Normandie" regions.
 
 In 2012
 ^^^^^^^
-Less than 300kms, mainly in *Corsica* and the *Côte-d'Azur*.
+Less than 300 kms, mainly in *Corsica* and the *Côte-d'Azur*.
+
+Before 2012
+^^^^^^^^^^^
+A very little bit, well I was not 18 at the time...
+
+------------------------------------------------------------------------------
+
+(External) Hitch-Hiking guide to...
+-----------------------------------
+Some Hitch-Hiking guide to the Hitch-Hiker (of the road, not H2G2) !
+
+If hitch-hiking seems interesting for you, I recommend these web-pages:
+
+  - `The hitch-hiking guide on the WikiTravel.org project <http://wikitravel.org/en/Hitchhiking>`_, and `some specific advises for Europe <http://wikitravel.org/fr/Auto-stop_en_Europe>`_
+
+Some websites are specialized about hitch-hiking:
+
+  - `HitchWiki.org/en/ <http://hitchwiki.org/en/Main_Page>`_ is a Wiki project only designed to provide help about hitch-hiking!
+
+------------------------------------------------------------------------------
 
 Some informal statistics
 ------------------------
