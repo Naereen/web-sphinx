@@ -1,6 +1,6 @@
 /*
  * layout.noty.js: use of jquery.noty.js to enhance layout.html
- * :Copyrights: (C) 2014 Lilian Besson
+ * :Copyrights: (C) 2015 Lilian Besson
  * :Licence: GPLv3 (see https://bitbucket.org/lbesson/web-sphinx/)
  */
 setTimeout(function(){ NProgress.done(); }, 10000);
@@ -132,7 +132,7 @@ $(document).ready(function(){
    Mousetrap.bind(["s", "S"], function() { noty({
     text: messages.changestylebeta,
     timeout: false, closeWith: ['click'], layout: 'center', type: 'info',
-    buttons: [ // this = button element, $noty = $noty element
+    buttons: [ // this = button element, $noty = $noty element // TODO translate these lines
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {
           $noty.close();
         }},
