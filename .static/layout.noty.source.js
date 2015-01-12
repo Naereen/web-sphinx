@@ -66,49 +66,71 @@ setTimeout(function(){ NProgress.done(); }, 10000);
 $(document).ready(function(){
  setTimeout(function(){ NProgress.done(); }, 500);
 
+  // Define message in French, default value (so durty, I am sure there is many better solutions -- but I do not really care!)
+  var messages = {
+    notify_cookies: "Cette page utilise des <i>cookies</i>.\n<br>En navigant sur ce site, vous acceptez ses conditions d'utilisation.",
+    btw_cookies: "<b>Super !</b>\n</br>Au fait, vous pouvez changer le style des pages en <i>appuyant sur 's'</i> !",
+    moreinfo_cookies: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n</br>Vous pouvez consulter cette page <a title=\"Plus d'informations sur les cookies ?\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
+    agree: "D'accord :)",
+    disagree: "Pas d'accord !",
+    likepage: "Cette page vous <b>plait-elle</b> ?",
+    yesido: "Oui !",
+    notreally: "Pas vraiment...",
+    ofcourseyoudo: "<b>Normal, je code bien :)</b>\n</br>N'hésitez pas à consulter d'autre pages !",
+    changestylebeta: "Quel style voulez-vous utiliser ?\n</br></br>Cette fonctionnalité utilise un <i>cookie</i>. Actuellement : " + getCookie("layoutstyle") + ".\n</br>En apprendre plus sur les <a title=\"Plus d'informations sur les cookies ?\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?",
+    oupsohsorry: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ?\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile et ouvert à tous !</span>"
+  };
+  if (e == '.en.html') {
+    // Change message in English, default value
+    messages = {
+      notify_cookies: "This page is using <i>cookies</i>.\n<br> By browsing this site, you are accepting its general conditions of use.",
+      btw_cookies: "<b>Great!</b>\n</br>By the way, you can change the color style <i>with the 's' key on your board</i>!",
+      moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
+      agree: "Alright :)",
+      disagree: "What? No!",
+      likepage: "Do you <b>like that page</b>?",
+      yesido: "Yes I do!",
+      notreally: "Not really...",
+      ofcourseyoudo: "<b>Normal, I know <i>how to code</i> :)</b>\n</br>Please, go read more of my pages!",
+      changestylebeta: "Which style do you want to use?\n</br></br>This feature uses a <i>cookie</i>. Currently: " + getCookie("layoutstyle") + ".\n</br>Want to learn more about <a title=\"More information about cookies?\" href=\"http://besson.qc.to/cookies.html\">cookies and their use on this website</a>?",
+      oupsohsorry: "<b>Oups!!</b> If it's a bug, could you take the time to report it?\n</br>Thanks to <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">it's easy and open to anyone!</span>"
+    }
+  };
+
  if (screen.width > 680) {
  // BETA responsive
    setTimeout(function(){ noty({
-    text: ("Cette page utilise des <i>cookies</i>.\n"
-      +"<br> En navigant sur ce site, vous acceptez ses conditions d'utilisation."),
+    text: messages.notify_cookies,
     closeWith: ['click'], timeout: 5000,
     buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-primary', text: "D'accord", onClick: function($noty) {
+      {addClass: 'btn btn-primary', text: messages.agree, onClick: function($noty) {
           $noty.close();
-          noty({text: ("<b>Super !</b>\n"+
-              "</br>Au fait, vous pouvez changer le style des pages en <i>appuyant sur 's'</i> !"),
+          noty({text: messages.btw_cookies,
             type: 'success', timeout: 5000});
         }},
-      {addClass: 'btn btn-danger', text: "Pas d'accord !", onClick: function($noty) {
+      {addClass: 'btn btn-danger', text: messages.disagree, onClick: function($noty) {
           $noty.close();
-          noty({text: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n"
-              +"</br>Vous pouvez consulter cette page <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
+          noty({text: messages.moreinfo_cookies,
             type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 5000);
    setTimeout(function(){ noty({
-    text: 'Cette page vous <b>plait-elle</b> ?', timeout: 5000, closeWith: ['click'],
+    text: messages.likepage, timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-primary', text: 'Oui !', onClick: function($noty) {
+      {addClass: 'btn btn-primary', text: messages.yesido, onClick: function($noty) {
           $noty.close();
-          noty({text: ("<b>Normal, je code bien :)</b>"
-            + "\n</br>N'hésitez pas à consulter d'autre pages !"),
+          noty({text: messages.ofcourseyoudo,
             type: 'success', timeout: 5000});
         }},
-      {addClass: 'btn btn-danger', text: 'Pas vraiment...', onClick: function($noty) {
+      {addClass: 'btn btn-danger', text: messages.notreally, onClick: function($noty) {
           $noty.close();
-          noty({text: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ? " +
-           "\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile !</span>",
+          noty({text: messages.oupsohsorry,
            type: 'error', layout: 'center', timeout: 20000});
         }}]
     }) }, 10000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
-    text: ('Quel style voulez-vous utiliser ?\n</br>'
-      + '</br>Cette fonctionnalité est toujours en bêta, et utilise un <i>cookie</i>.'
-      + ' Actuellement: ' + getCookie("layoutstyle") + '.\n'
-      + '</br>En apprendre plus sur les <a title=\"cookies\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?'
-    ),
+    text: messages.changestylebeta,
     timeout: false, closeWith: ['click'], layout: 'center', type: 'info',
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-error btn-sm', text: "<i>Fermer</i>", onClick: function($noty) {

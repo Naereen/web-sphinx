@@ -138,7 +138,11 @@
 		    	$("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
 		    );
       setTimeout(function(){
-		    noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+        if (e == '.en.html') {
+  		    noty({text: ("<b>Loading of " + newcolor + ".css ...</b></br><small>The style should have changed now, otherwise, maybe you could <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">report a bug</a>?</small>"), timeout: 3000});
+        } else {
+          noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+        }
       }, 3000);
 	} };
   </script>

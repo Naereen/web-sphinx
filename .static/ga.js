@@ -1,1 +1,1 @@
-../scripts/ga.js
+../scripts/ga.source.js
