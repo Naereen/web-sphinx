@@ -86,13 +86,13 @@ Comment installer des greffons ?
 
 Sublime Text peut être équipé d'un gestionnaire de paquets qui permet à l'utilisateur de trouver, installer, mettre à jour et supprimer des paquets additionnels, sans même avoir à redémarrer Sublime Text !
 
-Ce projet s'appelle sobrement **Sublime Text Package Manager**, et est hébergé sur ce site `sublime.wbond.net <https://sublime.wbond.net>`_.
-Cette page `sublime.wbond.net/installation <https://sublime.wbond.net/installation>`_ permet l'installation du gestionnaire de greffon, qui est la seule étape *un peu sale* (mais ne vous inquiétez pas, aucun risque).
+Ce projet s'appelle sobrement **Sublime Text Package Manager**, et est hébergé sur ce site `packagecontrol.io <https://packagecontrol.io>`_.
+Cette page `packagecontrol.io/installation <https://packagecontrol.io/installation>`_ permet l'installation du gestionnaire de greffon, qui est la seule étape *un peu sale* (mais ne vous inquiétez pas, aucun risque).
 
-Ce greffon un peu magique a déjà plus de `2.63 millions de téléchargements <https://sublime.wbond.net/browse/authors/Will%20Bond%20%28wbond%29>`_ à son historique !
+Ce greffon un peu magique a déjà plus de `2.63 millions de téléchargements <https://packagecontrol.io/browse/authors/Will%20Bond%20%28wbond%29>`_ à son historique !
 
 
-Vous pouvez avoir un aperçu de la richesse de cette collection de greffon en allant voir ce classement (`sublime.wbond.net/browse/popular <https://sublime.wbond.net/browse/popular>`_) des greffons les plus téléchargés.
+Vous pouvez avoir un aperçu de la richesse de cette collection de greffon en allant voir ce classement (`packagecontrol.io/browse/popular <https://packagecontrol.io/browse/popular>`_) des greffons les plus téléchargés.
 
 Plus de détails ailleurs !
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -167,50 +167,51 @@ Les meilleurs greffons ?
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Tous ces greffons sont **gratuits**, presque tous sont libres et open-sources, et ils sont tous installables depuis le gestionnaire de paquet (``Ctrl+Maj+P``: *"Package Control: Install Package"*).
 
-Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `sublime.wbond.net/packages/ <https://sublime.wbond.net/packages/>`_ est donné.
+Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `packagecontrol.io/packages/ <https://packagecontrol.io/packages/>`_ est donné.
 
 
 Petits greffons de personnalisation :
 
-* `BracketHighlighter <https://sublime.wbond.net/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
-* `Buffer​Scroll <https://sublime.wbond.net/packages/Buffer​Scroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
-* `Clickable URLs <https://sublime.wbond.net/packages/Clickable%20URLs>`_ est tout simple mais magique : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
-* `Dictionaries <https://sublime.wbond.net/packages/Dictionaries>`_ pour une correction orthographique multi-lingues (anglais, français, ..).
-* `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
-* `Language - French - Français <https://sublime.wbond.net/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
-* `Predawn <https://sublime.wbond.net/packages/Predawn>`_ est une amélioration de l'interface, très sombre pour `protéger ses yeux <bin/yeux.sh>`_ !
-* `Status Bar Weather <https://sublime.wbond.net/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
-* `Theme - Centurion <https://sublime.wbond.net/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://twitter.com/TristanDeleu>`_.
+* `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
+* `Buffer​Scroll <https://packagecontrol.io/packages/Buffer​Scroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
+* `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais magique : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
+* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingues (anglais, français, ..).
+* `GitGutter <https://packagecontrol.io/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
+* `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
+* `Predawn <https://packagecontrol.io/packages/Predawn>`_ est une amélioration de l'interface, très sombre pour `protéger ses yeux <bin/yeux.sh>`_ !
+* `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
+* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://twitter.com/TristanDeleu>`_.
 
 
 Greffons ajoutant de super fonctionnalités :
 
-* `Dictionary​Auto​Complete <https://sublime.wbond.net/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant.
-* `LineEndings <https://sublime.wbond.net/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
-* `MakeCommands <https://sublime.wbond.net/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est tout simple, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
-* `SideBarEnhancements <https://sublime.wbond.net/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
-* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce plugin est vraiment génial, donc vous supporterez son petit défaut !
-* `Terminal <https://sublime.wbond.net/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers pas, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
+* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant.
+* `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
+* `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est tout simple, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
+* `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
+* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce plugin est vraiment génial, donc vous supporterez son petit défaut !
+* `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers pas, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 
 
 Une meilleures colorations pour certains langages :
 
-* `ColorPicker <https://sublime.wbond.net/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
-* `Gnuplot <https://sublime.wbond.net/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
-* `OCaml <https://sublime.wbond.net/packages/OCaml>`_ améliore la coloration pour `les langages caml-light et OCaml <ocaml.html>`_. À utiliser avec `OCaml Autocompletion <https://sublime.wbond.net/packages/OCaml%20Autocompletion>`_ aussi.
-* `Markdown Extended <https://sublime.wbond.net/packages/MakeCommands>`_ est sensé amélioré la coloration syntaxique du `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_, langage léger à balises, conçu pour une rédaction facile de document. J'utilise Markdown notamment via mon projet `StrapDownJS`_ ! Voir `un exemple <bin/>`_ ?
-* `nginx <https://sublime.wbond.net/packages/nginx>`_ améliore la coloration des fichiers de configuration du `magnifique serveur web NGinx <http://nginx.org/>`_.
-* `RestructuredText Improved <https://sublime.wbond.net/packages/RestructuredText%20Improved>`_ améliore bien la coloration du `reStructedText <demo.html>`_, le langage à balise utilisé par `Sphinx <http://sphinx-doc.org/>`_ et `la documentation officielle de Python <https://doc.python.org/2/>`_ (et donc pour cette page et `mon site <index.html>`_). À utiliser avec `ces snippets pour rST <https://sublime.wbond.net/packages/Restructured%20Text%20(RST)%20Snippets>`_.
-* `TWiki <https://sublime.wbond.net/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait!
+* `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
+* `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
+* `LaTeX-plus <https://packagecontrol.io/packages/LaTeX-plus>`_ (`avec cette documentation <https://github.com/randy3k/Latex-Plus/wiki/>`_)
+* `Markdown Extended <https://packagecontrol.io/packages/MakeCommands>`_ est sensé amélioré la coloration syntaxique du `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_, langage léger à balises, conçu pour une rédaction facile de document. J'utilise Markdown notamment via mon projet `StrapDownJS`_ ! Voir `un exemple <bin/>`_ ?
+* `nginx <https://packagecontrol.io/packages/nginx>`_ améliore la coloration des fichiers de configuration du `magnifique serveur web NGinx <http://nginx.org/>`_.
+* `OCaml <https://packagecontrol.io/packages/OCaml>`_ améliore la coloration pour `les langages caml-light et OCaml <ocaml.html>`_. À utiliser avec `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_ aussi.
+* `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ améliore bien la coloration du `reStructedText <demo.html>`_, le langage à balise utilisé par `Sphinx <http://sphinx-doc.org/>`_ et `la documentation officielle de Python <https://doc.python.org/2/>`_ (et donc pour cette page et `mon site <index.html>`_). À utiliser avec `ces snippets pour rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
+* `TWiki <https://packagecontrol.io/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait!
 
 
 
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
 * Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification à la volée du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire !
-* `SublimeCodeIntel <https://sublime.wbond.net/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme.
-* `Emmet <http://emmet.io/>`_ (installable depuis `sublime.wbond.net/packages/Emmet <https://sublime.wbond.net/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. Il demande du temps pour maîtriser ses fonctionnalités, mais ça vaut le coup !
-* `LaTeXing <http://www.latexing.com/>`_ (installable depuis `sublime.wbond.net/packages/LaTeXing <https://sublime.wbond.net/packages/LaTeXing>`_), est *censé* améliorer le support de \\(\\LaTeX{}\\).
+* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme.
+* `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. Il demande du temps pour maîtriser ses fonctionnalités, mais ça vaut le coup !
+* `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), est *censé* améliorer le support de \\(\\LaTeX{}\\).
 
 
 .. note:: Purement objective
