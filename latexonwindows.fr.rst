@@ -2,9 +2,9 @@
    :description lang=fr: Installer LaTeX sur Windows
    :description lang=en: How to install LaTeX on Windows
 
-###################################
- Installer \\(\\LaTeX{}\\) sur Windows
-###################################
+#############################
+ Installer LaTeX sur Windows
+#############################
 .. include:: .special.rst
 
 Aller voir ailleurs
@@ -25,8 +25,8 @@ Actuellement, le lien direct pour l'installer est : http://www.xm1math.net/texma
 
 `Cette liste (en anglais) <https://en.wikipedia.org/wiki/Comparison_of_TeX_editors>`_ peut aider à choisir son éditeur pour \\(\\LaTeX{}\\).
 
-*"Distribution"* LaTeX
-^^^^^^^^^^^^^^^^^^^^^^
+*"Distribution"* \\(\\LaTeX{}\\)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Et je recommande (classiquement) **MikTeX** pour la distribution \\(\\LaTeX{}\\) : `MikTex.org/2.9/setup <http://www.miktex.org/2.9/setup>`_ (page en anglais).
 
 Actuellement, le lien direct pour l'installer est : http://mirrors.ctan.org/systems/win32/miktex/setup/basic-miktex-2.9.5105-x64.exe (160 Mo).
@@ -41,11 +41,11 @@ Soucis ?
 ^^^^^^^^
 Si un problème survient en suivant les explications françaises, vous pouvez consulter `cette page (en anglais) <http://www.miktex.org/howto/install-miktex>`_.
 
-Apprendre \\LaTeX{}$ ?
-----------------------
+Apprendre \\(\\LaTeX{}\\) ?
+---------------------------
 Pour apprendre, ou se rafraîchir la mémoire sur \\(\\LaTeX{}\\), le livre `fr.WikiBooks.org/wiki/LaTeX <https://fr.wikibooks.org/wiki/LaTeX/Premiers_pas>`_ peut être utile.
 
-.. note:: Exemple de maths écrites avec LaTeX ?
+.. note:: Exemple de maths écrites avec \\(\\LaTeX{}\\) ?
 
    Plusieurs de mes pages font une démonstration :
 

@@ -7,8 +7,6 @@
 #################################
 .. include:: .special.rst
 
-.. todo:: Conclude translation !
-
 Go look somewhere else!
 -----------------------
 I will not be able to give any better explanations than `www.xm1math.net/doculatex/install_miktex.html <http://www.xm1math.net/doculatex/install_miktex.html>`_ (in French, **TODO** find in English).
