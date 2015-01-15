@@ -5,7 +5,6 @@
  About hitch-hiking
 ####################
 .. include:: .special.rst
-.. warning:: Still in progress !
 
 This page is a short presentation of my personal experience
 on the matter of hitch-hiking, and why it is a really cool, free and culturally interesting way to travel.
@@ -21,21 +20,22 @@ Maybe I will include here a list of epic hitch-hiking achievements, maybe not.
 
 A quick overview
 ----------------
-En 2015
+In 2015
 ^^^^^^^
-Pas encore ! Mais deux longs voyages en stop sont prévus pour l'été 2015.
+Not yet! But I do plan two long hitch-hiking trip during the summer of 2015.
 
-Briançon - Paris en passant par l'Italie (Turin, Venise, Padoue), en 2 semaines :
+Briançon (France) - Paris (France) by Italy (Turin, Venice, Padua), in 2 weeks:
 
 .. digraph:: voyage1
 
-   "Briançon" -> "Italie" -> "Suisse" -> "Jura" -> "Paris";
+   "Briançon (France)" -> "Italy" -> "Switzerland" -> "Jura (France)" -> "Paris (France)";
 
-Et ensuite un plus ambitieux Paris - Norvège en 3 semaines :
+
+And then another one, slightly more ambitious, from Paris to Novrway en 3 semaines:
 
 .. digraph:: voyage2
 
-   "Paris" -> "Bruxelles" -> "Amsterdam" -> "Danemark" -> "Suède" -> "Norvège" -> "(et retour)";
+   "Paris" -> "Bruxelles (Belgium)" -> "Amsterdam (Netherlands)" -> "Danemark" -> "Sweden" -> "Norway" -> "(and back!)";
 
 
 In 2014

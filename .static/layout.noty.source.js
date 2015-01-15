@@ -84,7 +84,7 @@ $(document).ready(function(){
     // Change message in English, default value
     messages = {
       notify_cookies: "This page is using <i>cookies</i>.\n<br> By browsing this site, you are accepting its general conditions of use.",
-      btw_cookies: "<b>Great!</b>\n</br>By the way, you can change the color style <i>with the 's' key on your board</i>!",
+      btw_cookies: "<b>Great!</b>\n</br>By the way, you can change the color style <i>with the 's' key on your keyboard</i>!",
       moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
       agree: "Alright :)",
       disagree: "What? No!",

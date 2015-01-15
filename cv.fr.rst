@@ -6,8 +6,7 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 .. include:: .special.rst
-
-.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ !
+.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ (même si j'essaie).
 
 .. sidebar:: Autre langue : en anglais ?
 
@@ -19,35 +18,29 @@
 
 Adresse de contact
 ------------------
- * :Nom: **Besson**
  * :Prénom: **Lilian**
+ * :Nom: **Besson**
  * :Courriel: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (retirez les crochets)
  * Adresse postale ::
 
        Mr Lilian Besson,
-       ENS Cachan,
        Dept. de Mathématiques,
+       ENS Cachan,
        41, avenue du Président Wilson,
        94230 - Cachan,
        France
 
-
-.. Actuellement
-.. ------------
-..  * :Du 1 Février 2015 au 31 Août 2015: stage de recherche de fin de Master 2. En *Informatique* ou en *Mathématiques*;
-..  * :Lieux préférés: USA, RU, Canada, Suède, Norvège, Finlande, Danemark;
-..  * :Domaine de recherche: programmation, équations différentielles, algèbres tropicales, calcul parallèle, GPU, cryptographie, sémantique et compilation.
-..  * :Remarque: aucune subvention n'est requise.
-
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: 12 Janvier 1993. Âge : 22 ans.
- * :Statut actuel: Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année. Étudiant en **mathématiques** et **informatique**.
+ * :Statut actuel: *Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
+    Professeur à temps plein en `Mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (cours MA101 au premier semestre août-décembre 2014, 102 au second semestre janvier-mai 2015) et en `Informatique <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=17>`_ `(cours CS101 au second semsestre) <http://besson.qc.to/cs101/index.pdf>`_.
+
  * :Pages sur le web:
 
-   #. mes pages web personnelles sur le site du département d'informatique de l'*ÉNS de Cachan* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
+   #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
 
-   #. mon compte *bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge mes projets de programmation;
+   #. mon compte *bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge du code et projets de programmation.
 
 ---------------------------------------------------------------------
 
@@ -58,20 +51,18 @@ Langues parlées
  * :Espagnol: **débutant**, écrit et parlé, commun uniquement;
  * :Japonais: **vrai débutant** depuis Sept. 2013, hiragana seulement pour l'instant;
 
-Langages de programmation
--------------------------
- * :Niveau basique: **Maple**, **HTML**, Assembleurs (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
- * :Niveau intermédiaire: **BASIC**, **Matlab** & **GNU/Octave** et **C** (*calcul séquentiel*), **nVidia CUDA** (*calcul parallèle sur GPU*);
- * :Niveau avancé: **Python** (2.7) (*script, numérique et orienté objet*), *Texas Instrument*-BASICs (*langages embarqués pour les calculatrices graphiques*), **GNU Bash** (*script*), **OCaml** (*langage fonctionnel*), **LaTeX** & **reStructuredText** (*pour des slides, des pages webs ou des articles*).
+Compétences en programmation et développement
+---------------------------------------------
+ * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_*), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
+ * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.org/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.org/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
+ * :Expert: `Python <https://pypi.python.org/pypi/ANSIColors-balises>`_ (2.7) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.org/bin/>`_ (*script*), `OCaml <http://besson.qc.to/a/m/2/>`_ (*langage fonctionnel*).
+ * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://besson.qc.to/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://besson.qc.to/publis/Bomberman/>`_.
 
-Compétences en ordinateurique (*à ne pas confondre avec l'informatique*)
-------------------------------------------------------------------------
-* :Systèmes d'exploitation: **Microsoft Windows**, Mac OS X, Android, **GNU/Linux** (notamment les distributions *Ångström*, **Ubuntu**, *Debian* & *OpenWRT*);
-* :Rédaction de document: **LyX**, **LaTeX** & **LaTeX Beamer**, Open Office & Libre Office & Microsoft Word, **Markdown** & **reStructuredText**;
-* :Éditeurs de texte: Expert avec **gEdit** & **GNU Nano** (Ubuntu, Windows), Jota Text Editor (Android);
-* :Générateurs de documentation: **OCamlDoc** pour OCaml, **PyDOC** & **Sphinx** pour Python;
-* :Administration système: expérience avec le logiciel et le matériel réseau, admin système via GNU Linux.
-
+Informatique pratique
+---------------------
+* :Systèmes d'exploitation: très compétent en général (*Microsoft Windows*, *Mac OS X*, *Android*), et surtout avec **GNU/Linux** (**Ubuntu**);
+* :Édition de texte: expert, notamment avec `Gedit <http://besson.qc.to/publis/gedit/>`_ & `GNU Nano <http://besson.qc.to/NanoSyntax.html>`_, `Spyder <https://pythonhosted.org/spyder/installation.html>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
+* :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://besson.qc.to/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.org/md/>`_ & `reStructuredText <http://besson.qc.to/demo.html>`_.(*pour des slides, des pages webs ou des articles*).
 
 Divers
 ------
@@ -81,24 +72,38 @@ Divers
    - résolutions de problème, compétences de communication;
    - bonne intégration et utilisation des technologies contemporaines du web et des réseaux;
    - volontaire pour apprendre et développer de nouvelles compétences;
-   - passionné de nouvelles technologies;
+   - passionné de nouvelles technologies et de programmation;
 
- * :Expérience internationale: Nombreux voyages (*en stop notamment*) en Espagne, Allemagne, Suède, Italie, Royaume-Uni, États-Unis, Irelande, Canada, Suisse, Luxembourg **depuis 2004**;
+ * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
+ * :Expat': Expériences professionnelles internationale au Royaume-Uni (2013) et en Inde (2014-15), recherche et enseignement;
  * :Autres expériences:
 
    - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
-   - Joueur semi-profession à *Magic The Gathering*, durant 5 ans (**2004-2009**).
+   - `Joueur passionné <http://exkalibur.lestitous.pagesperso-orange.fr/exkalibur/accueil_contact_lesanimationsactuelles.htm>`_ puis semi-professionel à *Magic The Gathering*, durant 5 ans (**2004-2009**).
      Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
-     Champion départemental pendant 3 ans (dans les *Hautes-Alpes*, 05, France).
+     Champion départemental pendant 2 ans (dans les *Hautes-Alpes*, 05, France).
 
  * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
- * :Sports: escalade, trek, VTT, trottinette, natation, autostop, badminton.
+ * :Santé: bonne santé (vaccins à-jour, y compris les vaccins exotiques), et je porte des lunettes !
+ * :Sports: escalade, trek, VTT, trottinette, natation, `auto-stop <autostop.fr.html>`_, badminton.
+
+---------------------------------------------------------------------
+
+Contacts de références
+----------------------
+.. todo:: En construction ! Terminer cette partie là !
 
 ---------------------------------------------------------------------
 
 ######################
  Formation académique
 ######################
+
+**2013-2014** : seconde année de Master (M2)
+---------------------------------------------
+Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année. Étudiant en **mathématiques** et **informatique**.
+
+.. todo:: Conclure les changements.
 
 **2012-2013** : première année de Master (M1)
 ---------------------------------------------

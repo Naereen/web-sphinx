@@ -29,9 +29,10 @@ Briançon - Paris en passant par l'Italie (Turin, Venise, Padoue), en 2 semaines
 
 .. digraph:: voyage1
 
-   "Briançon" -> "Italie" -> "Suisse" -> "Jura" -> "Paris";
+   "Briançon (France)" -> "Italie" -> "Suisse" -> "Jura (France)" -> "Paris";
 
 Et ensuite un plus ambitieux Paris - Norvège en 3 semaines :
+
 
 .. digraph:: voyage2
 
