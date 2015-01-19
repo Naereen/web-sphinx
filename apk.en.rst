@@ -170,4 +170,10 @@ without having to log in with a Google™ account.
 For instance, there is `a direct link for Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
 (one of the best text editors on Android™, for which I designed the `syntactic coloration <NanoSyntax.html#autres-references>`_ configuration files for ``OCaml`` and ``rST`` !).
 
+----------------------------------------------------------------------
+
+Old version
+^^^^^^^^^^^
+  `The first version of that page <https://wiki.crans.org/VieCrans/ApplicationsAndroid>`_ was in French, on the `Wiki <https://wiki.crans.org/>`_ of the `CRANS <https://crans.org/>`_ association.
+
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
