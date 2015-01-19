@@ -11,7 +11,7 @@
 Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques (MA101 et 102) <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai surtout en charge du cours d'*introduction à l'informatique (CS101)* pour le second semestre !
+Depuis mi juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques (MA101 et 102) <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai surtout en charge du cours d'*introduction à l'informatique (CS101)* pour le second semestre !
 Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2015).
 
 .. include:: whatsnew.fr.rst

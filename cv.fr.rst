@@ -33,7 +33,7 @@ Adresse de contact
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: 12 Janvier 1993. Âge : 22 ans.
- * :Statut actuel: *Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.html#collapseTwo>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
+ * :Statut actuel: *Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
     Professeur à temps plein en `Mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (cours MA101 au premier semestre août-décembre 2014, 102 au second semestre janvier-mai 2015) et en `Informatique <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=17>`_ `(cours CS101 au second semsestre) <http://besson.qc.to/cs101/index.pdf>`_.
 
  * :Pages sur le web:
