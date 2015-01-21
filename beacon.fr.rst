@@ -1,6 +1,7 @@
 .. meta::
    :description lang=fr: Google Analytics avec une petite image
    :description lang=en: Google Analytics with a beacon image
+   :keywords: Google, Google Analytics, beacon, image, picture, without javascript, Google Analytics without javascript, Google Analytics with a picture, Google Analytics with an image, beacon analytics, beacon Google Analytics, Google Analytics sans javascript, Google Analytics avec une image, Google Analytics avec une photo
 
 #################################################
  Utiliser Google Analytics avec une petite image

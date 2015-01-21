@@ -1,6 +1,7 @@
 .. meta::
-   :description lang=en: Google Analytics with a beacon image
-   :description lang=fr: Google Analytics avec une petite image
+   :description lang=en: How to use Google Analytics with a beacon image
+   :description lang=fr: Comment utiliser Google Analytics avec une petite image
+   :keywords: Google, Google Analytics, beacon, image, picture, without javascript, Google Analytics without javascript, Google Analytics with a picture, Google Analytics with an image, beacon analytics, beacon Google Analytics
 
 #################################################
  How to use Google Analytics with a beacon image
@@ -12,9 +13,12 @@
     * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,
     * `www.google.com/analytics <http://www.google.com/analytics/>`_.
 
+   This page will explain to you how to use Google Analytics when you do not have support for Javascript, and how to use Google Analytics with an image (a picture) loaded from a web-page.
+
+
 «Vanilla» Google Analytics code
 -------------------------------
-The default code to add in every page is the following piece of JavaScript:
+The default code to add in every page is the following piece of JavaScript (at least, it was the case in January 2015):
 
 .. code-block:: javascript
 
@@ -25,12 +29,16 @@ The default code to add in every page is the following piece of JavaScript:
    ga('create', 'UA-38514290-15', 'ga-beacon.appspot.com');
    ga('send', 'pageview');
 
+------------------------------------------------------------------------------
 
 .. sidebar:: A popular page?
 
-   Apparently, this `very page <http://besson.qc.to/beacon.en.html>`_ became quite popular recently (fall 2014),
+   Apparently, this `very page <http://besson.qc.to/beacon.en.html>`_ became quite popular *recently* (fall 2014),
    receiving more visitors than any of my other webpages.
-   `Any feedback about it is therefore most surely welcome! <contact/en/>`_
+   `Any feedback about it is therefore most surely welcome! <contact/en/>`_.
+
+   For example, `that page <#>`_ comes as the **second** Google result for "google analytics beacon" in English, and **First** in French (cf. `this search result <https://startpage.com/do/search?q=google+analytics+beacon&l=english>`_ in English or `this one <https://startpage.com/do/search?q=google+analytics+beacon?l=francais>`_ in French)
+   and also `forth DuckDuckGo French result <https://duckduckgo.com/?q=google+analytics+beacon>`_.
 
 
 A smaller piece of code
@@ -39,14 +47,14 @@ And also easier to maintain!
 You just have to create a small ``ga.js`` script containing
 the previous piece of code, and add it somewhere on your website.
 
-For instance: `ga.js <http://besson.qc.to/_static/ga.js>`_.
+For instance: `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
 
 Then you have to load it in every webpage with one-line of ``HTML`` code
-at the end of the file (in the ``<bottom>`` paragraph or at the end of ``<body>``) :
+at the end of the file (in the ``<bottom>`` paragraph or at the end of ``<body>``):
 
 .. code-block:: html
 
-   <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js"></script>
+   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js"></script>
 
 
 (Moreover, the ``async`` tag will improve the speed of the page, by
@@ -70,32 +78,31 @@ the browser or the email reader triggers a visit on the associated Google Analyt
 As a result, you can monitor *in real time* an email, it justs have to be written in plain ``HTML``.
 
 
-Embed this picture is quite simple, and can be done with the following piece of ``HTML`` code :
+Embedding this picture is quite *simple*, and can be done with the following piece of ``HTML`` code:
 
 .. code-block:: html
 
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel" />
 
 
-Or, for a *Sphinx*-generated webpage, with the following piece of ``rST`` code :
+Or, for a *Sphinx*-generated webpage, with the following piece of ``rST`` code:
 
 .. code-block:: rst
 
    .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html?pixel
 
 
-.. warning:: Sphinx tip :
+.. warning:: Sphinx tip:
 
-   Embedding an image with a *non-local* URL triggers a warning when
-   Sphinx builds the website, but that nothing you should be worried about !
+   Embedding an image with a *non-local* URL triggers a *warning message* when
+   Sphinx builds the website, but that nothing you should be worried about!
 
 ------------------------------------------------------------------------------
 
-Eventually, it is also possible to use a small *badge*
-rather than an almost invisible pixel,
+Eventually, it is also possible to use a small *badge* rather than an almost invisible pixel,
 simply by removing the ``?pixel`` at the end of the URL addresse.
 
-  For instance :
+  For instance:
 
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/with-a-badge
     :scale: 300%
@@ -104,7 +111,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
     :target: http://besson.qc.to/beacon.html
 
 
-  which is included with the following ``rST`` line of code :
+  which is included with the following ``rST`` line of code:
 
   .. code-block:: rst
 
@@ -118,6 +125,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
      You can use any URL you want, the only limitation is your imagination !
      (hum, wait, that sounded like a Lego advertisement... or maybe just for me)
 
+-------------------------------------------------------------
 
 How to write an HTML email ?
 ----------------------------
@@ -126,20 +134,20 @@ to write and send ``HTML`` email, and therefore it is a piece of cake
 to add *one* line at the end of an email, to add a tracking *dead-pixel*.
 
 It might also be a good idea to use a clever naming protocol,
-allowing you to track and get statistics for every single emails you send :
+allowing you to track and get statistics for every single emails you send:
 
 .. code-block:: html
 
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/27-02-2014/3?pixel" />
 
 
-That example shows the naming rule I'm using for my electronic mailing :
+That example shows the naming rule I'm using for my electronic mailing:
 every day, each email is named **DD-MM-YYYY/NUM**, where DD-MM-YYYY is the date
 (like 27-11-2014 for the 27th of November, 2014)
 and where **NUM** is the number of the email you sent that very day.
 
 For instance, the content of the forth email sent on the 03rd of December 2014
-will have the code **03-12-2014/4**, and therefore will contains that piece of ``HTML`` code at its end :
+will have the code **03-12-2014/4**, and therefore will contains that piece of ``HTML`` code at its end:
 
 .. code-block:: html
 
@@ -160,7 +168,7 @@ you will have confirmation that it is here !
 
 References
 ----------
-Two articles (from the same genius guy) :
+Two articles (from the same `genius guy (Ilya Grigorik from Google) <https://github.com/igrigorik>`_ ):
 
  #. `blog post <http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/>`_ contains a detailed explanation on how to use beacon image to track visits on a github page or an email,
  #. `github page <https://github.com/igrigorik/ga-beacon>`_ of his project.
@@ -185,7 +193,7 @@ For Apache, that rule can simply be written as:
 
 
 We can improve a little bit the process, by adding the redirection from `<beacon/>`_ to `<beacon.html>`_
-(which then point to `<beacon.fr.html>`_ or `<beacon.en.html>`_ based on your favorite language) :
+(which then point to `<beacon.fr.html>`_ or `<beacon.en.html>`_ based on your favorite language):
 
 .. code-block:: bash
 
@@ -214,7 +222,7 @@ How secured is it?
 It seems to be OK.
 A first "attack" could be by buffer overload, but obviously there is no problem regarding this:
 
-* `this very very long URL <http://perso.crans.org/besson/beacon/Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0cb>`_ is just too long by one caracter : your browser will refuse to ask for it (this will trigger one 400 error (*"Bad request"*) and probably say *"Your client has issued a malformed or illegal request."*)
+* `this very very long URL <http://perso.crans.org/besson/beacon/Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0cb>`_ is just too long by one caracter: your browser will refuse to ask for it (this will trigger one 400 error (*"Bad request"*) and probably say *"Your client has issued a malformed or illegal request."*)
 
 * `that one is also very long, but with one less caracter <http://perso.crans.org/besson/beacon/Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0%20%C3%A7a%20c%27est%20une%20bonne%20solution%20:%20est-ce%20bien%20s%C3%A9curis%C3%A9%20?Voil%C3%A0c>`_, and so the browser agree to send it.
 
