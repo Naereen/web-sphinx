@@ -15,7 +15,7 @@ Traditionnal ways
 Postal addresses
 ^^^^^^^^^^^^^^^^
 You can write a letter or some postal cards to me (I love them),
-at the following addresses (listed by decreasing preference) :
+at the following addresses (listed by decreasing preference):
 
 1. mathematics department secretary, at *ENS de Cachan*, in France
    (you can `see it on this OpenStreetMap map <http://osm.org/go/0BOchV4ns-->`_) ::
@@ -34,7 +34,7 @@ at the following addresses (listed by decreasing preference) :
 
 Emails
 ^^^^^^
-If you are a spammer, go on : jarvis.spam@laposte.net ! Oh, and, go fùck yoùrself also.
+If you are a spammer, go on: jarvis.spam@laposte.net ! Oh, and, go fùck yoùrself also.
 
 .. image:: .courriel.png
    :scale: 120 %
@@ -57,12 +57,12 @@ Regular phone
    :target: callto:100101011101001100111101100001_2
 
 
-To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number : (*but beware of the price !*).
+To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number: (*but beware of the price !*).
 
-.. warning:: I am currently out of the French territory, in Inde.
+.. warning:: I am currently out of the French territory, in India.
 
    Give a call to someone in a foreign country is expensive !
-   In fact, even receive them is awfully expensive... !!
+   In fact, even receiving them is awfully expensive... !! So please avoid :).
 
 
 You could also try to send me text messages (SMS), with the same number, obviously (*again, but beware of the price !*).
@@ -81,9 +81,9 @@ If you are feeling particularly audacious, you can try to "let a message for me"
 
 VoIP (Telephony by the Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me : call the French fix number +33.9.72.11.32.70 then compose "one four zero four two" when the robot asks you to do it.
+You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me: call the French fix number +33.9.72.11.32.70 then compose "one four zero four two" when the robot asks you to do it.
 
-You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account : naereen at linphone dot org (" at " = "@", " dot " = ".").
+You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account: naereen at linphone dot org (" at " = "@", " dot " = ".").
 
 .. note:: Linphone ?
 
@@ -96,7 +96,7 @@ You could also try to call me (or to text me) at the `Linphone <http://www.linph
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
 * You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
-* or if it is related to one of my pages or softwares, you could signal a bug with this form : https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly !**
+* or if it is related to one of my pages or softwares, you could signal a bug with this form: https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly !**
 
 HTML5 Services
 ^^^^^^^^^^^^^^
