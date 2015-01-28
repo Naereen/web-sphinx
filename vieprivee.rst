@@ -55,7 +55,7 @@ Distribution Linux "la plus sécurisée"
 
 Crypter ses communications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `Voir cette liste complète qui compare différents outils <https://www.eff.org/secure-messaging-scorecard>`_, par les gars de l`EFF (Electronic Frontier Foundation) <https://www.eff.org/about>`_,
+* `Voir cette liste complète qui compare différents outils <https://www.eff.org/secure-messaging-scorecard>`_, par les gars de `l'EFF (Electronic Frontier Foundation) <https://www.eff.org/about>`_,
 
 * `GnuPG <http://www.gnupg.org/download/>`_ pour chiffrer ses courriels.
   Voir aussi `<pgp.html>`_ pour plus d'infos,
@@ -113,6 +113,7 @@ Outils de "communication" à usage unique
 
 * `ZeroBin <http://sebsauvage.net/paste/>`_ est un pastebin (un presse-papier électronique, pour faire des copier-coller) à usage unique, sécurisé par ``AES 256``.
   Mention spéciale pour le *« Kittens will die if you abuse this service »* dans la note en haut de page :) !
+  :red:`New!` Le `Crans <https://www.crans.org/>`_ héberge désormais sa propre copie de `ZeroBin`_, ici sur `zero.crans.org/ <https://zero.crans.org/>`_.
 
 * `CryptoBin <https://cryptobin.org/>`_ est pareil.
 
@@ -123,7 +124,7 @@ Outils de "communication" à usage unique
 
 * `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <http://korben.info/digify.html>`_).
 
-* `Snap Me Now <http://www.snapmenow.com/>_` permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <http://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
+* `Snap Me Now <http://www.snapmenow.com/>`_ permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <http://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
 
 ---------------------------------------------------------------------
 
