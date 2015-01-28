@@ -117,6 +117,11 @@ Il est sensé être `plus rapide, plus performant etc <https://developers.google
 
 Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des noms de domaine, `contrairement à d'autres services <http://www.bortzmeyer.org/dns-menteur.html>`_ de ce type; et `est réputé pour être sécurisé <https://developers.google.com/speed/public-dns/docs/security>`_.
 
+.. note:: Sécurisé ? Hum, vraiment... ?
+
+   On peut supposer que la plupart les services DNS sont `espionnés par des agences gouvernementales <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_ ou des agences privés ou des groupes d'activistes.
+
+
 ``resolv.conf``?
 ----------------
 Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf (doc en anglais) <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf en anglais) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.

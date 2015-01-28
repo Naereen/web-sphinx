@@ -58,26 +58,33 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
 #. Un test : ``0+0`` :
 
    .. runblock:: console
-   
+
       $ ~/bin/wa_nocolor.sh "0+0"
 
 #. Un calcul de distance :
 
    .. runblock:: console
-   
+
       $ ~/bin/wa_nocolor.sh "distance Paris Hyderabad" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
 
 #. Résolution d'une équation :
 
    .. runblock:: console
-   
+
       $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
 
-#. Et, en bonus, un pokémon :
+#. Et, un exemple plus drôle, un `pokémon <pokedex-doc/index.html>`_ :
 
    .. runblock:: console
-   
+
       $ ~/bin/wa_nocolor.sh zapdos | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+
+#. Allez, un dernier exemple, on demande `le cours actuel <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ de la `roupie indienne <https://fr.wikipedia.org/wiki/Roupie_indienne>`_ :
+
+   .. runblock:: console
+
+      $  LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
+      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "^rupee.*$" | sed s/"^rupee"/""/ )." ; echo "==> Yes, the Euro is decreasing and the Indian Roupie is increasing... :("
 
 
 Attention

@@ -9,7 +9,7 @@
 
 Qu'est-ce ?
 -----------
- Je ne saurais pas expliquer mieux que l'ami *Wikipedia* : 
+ Je ne saurais pas expliquer mieux que l'ami *Wikipedia* :
  `GPG sur Wikipedia <http://fr.wikipedia.org/wiki/GPG>`_.
  Une autre bonne référence est ce `wikibook sur GPG <http://fr.wikibooks.org/wiki/GPG>`_.
 
@@ -22,10 +22,10 @@ Où et quand m'en sers-je ?
 --------------------------
 Signer pour assurer l'origine du fichier
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-J'essaie de prendre l'habitude de **signer** les fichiers importants, critiques ou sérieux, 
+J'essaie de prendre l'habitude de **signer** les fichiers importants, critiques ou sérieux,
 que je propose au téléchargement.
 
-Cela permet pour vous d'être sûr de ce que vous téléchargez : ma clé étant privé 
+Cela permet pour vous d'être sûr de ce que vous téléchargez : ma clé étant privé
 je suis (normalement) le seul à pouvoir émettre ces signatures.
 
 La plupart des ``urls`` de fichiers que je donne sur mes pages webs
@@ -51,7 +51,7 @@ Comment utiliser ces fichiers **.asc** ?
 ----------------------------------------
 Il est possible de **vérifier** ces signatures, avec ma clé publique.
 
-Il faut *importer* ma clé publique dans votre répertoire de clés 
+Il faut *importer* ma clé publique dans votre répertoire de clés
 auxquelles vous faites confiance (trust-ring).
 
 .. image::  .gpgpublickey_80_15.png
@@ -65,11 +65,11 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
  #. **la télécharger**, comme expliqué au paragraphe suivant;
  #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
     aux résultatx suivants :
-    
+
     Depuis mon répertoire de clés :
-    
+
     .. runblock:: console
-    
+
        $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | md5sum
        $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
 
@@ -77,37 +77,37 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
     Depuis le fichier `<Lilian_Besson.asc>`_ :
 
     .. runblock:: console
-    
+
        $ md5sum ~/Lilian_Besson.asc
        $ sha256sum ~/Lilian_Besson.asc
-       
-   
+
+
    À quoi cela sert-il ? Cela vous permet de vérifier que vous avez bien téléchargé
    la bonne armor-art (*ie.* la version ASCII) de ma clé publique.
- 
- 
+
+
  #. **l'importer dans votre répertoire de clé** (local sur chaque machine) : ::
-      
+
       gpg --import Lilian_Besson.asc
 
 
 Ensuite, pour vérifier la signature *fichier.asc* du fichier *fichier*
 il suffit de faire : ::
-    
+
     gpg --verify fichier.asc fichier
 
 
 Exemple
 ~~~~~~~
  Donc pour l'exemple de mon fichier `.bashrc`_, il suffit de faire : ::
-     
+
      gpg --verify .bashrc.asc .bashrc
 
 
- Alors, :blue:`normalement`, si vous avez bien importé la clé, et 
+ Alors, :blue:`normalement`, si vous avez bien importé la clé, et
  téléchargé les bons fichiers, cela devrait vous donner un message comme :
 
- .. runblock:: console 
+ .. runblock:: console
 
     $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
 
@@ -115,7 +115,7 @@ Exemple
 
  Normalement, ça marche ;)
 
- .. note:: 
+ .. note::
 
     J'ai écrit un petit script pour *automatiquement* cacher les adresses courriel
     écrite par ces commandes *gpg* dans les pages générées avec Sphinx et l'extension
@@ -129,7 +129,7 @@ Exemple
     afin d'envoyer du spam.
     Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
     truc.machin@domain.ext et utilise plutôt un format du genre truc.machin[@] ou [AT].
-    
+
     Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/master/.obscure_email.sh>`_
     réalise cette substitution automatiquement, pour tous les documents
     textuels générés via Sphinx, avant de les envoyer vers un serveur.
@@ -150,7 +150,7 @@ L'**empreinte publique** de ma clé est **C108F8A0**.
    :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
-Une méthode pour récupérer ma clé est de la **rechercher** directement 
+Une méthode pour récupérer ma clé est de la **rechercher** directement
 sur un des deux serveurs suivants :
 
  * ``keyserver.ubuntu.com``;
@@ -183,9 +183,9 @@ pour mutt (enfin, les fichiers ne contenant aucune info privée).
 Il faut placer `.muttrc` dans votre `$HOME`, et le contenu du dossier `mutt/`
 dans `$HOME/.mutt/`.
 
-Il faut ensuite écrire un couple de fichier `truc.account.muttrc` et 
+Il faut ensuite écrire un couple de fichier `truc.account.muttrc` et
 `truc.signature.muttrc` par compte de messagerie que vous souhaitez utiliser.
-Il est possible d'utiliser un fichier `truc.password.gpg` pour stocker un 
+Il est possible d'utiliser un fichier `truc.password.gpg` pour stocker un
 mot de passe pour un serveur SMTP, POP ou IMAP de façon crypté par GPG.
 
 Adaptez enfin le `.muttrc` pour charger les bons fichiers (dans mon cas,

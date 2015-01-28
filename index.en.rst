@@ -120,8 +120,11 @@ Pages in English
    apk.en
    sublimetext.en
    tutogit.en
+   wakatime.en
+   zotero.en
    transifex.en
    opendns.en
+   latexonwindows.en
    trademarks
    demo
    alaskabombeh.en

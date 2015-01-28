@@ -344,8 +344,12 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    ga.fr
    beacon.fr
    apk.fr
-   sublimetext.fr
    tutogit.fr
+   sublimetext.fr
+   wakatime.fr
+   latexonwindows.fr
+   zotero.fr
+   opendns.fr
    js
    pgp
    NanoSyntax
@@ -362,7 +366,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    gnuplot
    ace
    wolfram
-   opendns.fr
    freedns
    dyndns
    time
