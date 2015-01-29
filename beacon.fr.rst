@@ -195,6 +195,14 @@ sur le site correspond à la clé "``UA-38514290-14``", soit `<http://lbesson.bi
    RewriteRule ^([0-9]*)/(.*)$ http://ga-beacon.appspot.com/UA-38514290-$1/$2 [L,P]    # Avec une clé précisée
 
 
+.. note:: Limitations ?
+
+   Cette petite astuce permet d'être plus transparent côté utilisateurs, ceux-ci ne pouvant savoir si l'adresse `beacon` utilise en *back-end* un service de Google ou non.
+   Par contre, comme c'est le serveur web qui s'occupe de récupérer l'imagine *beacon*, Google Analytics ne permettra pas de visualiser l'origine géographique de la requête.
+
+   Tous les visiteurs traqués avec cette technique génèreront en effet des visites émises par me serveur (donc, même localisation, même *User-Agent* etc).
+
+
 Est-ce bien sécurisé ?
 ^^^^^^^^^^^^^^^^^^^^^^
 Il me semble que oui.

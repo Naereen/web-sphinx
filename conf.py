@@ -17,10 +17,10 @@ sys.setdefaultencoding("UTF-8")
 # Use https://pypi.python.org/pypi/ANSIColors-balises if possible
 # (its mine, and I'm kind of proud of it !)
 try:
-	from ANSIColors import printc
+    from ANSIColors import printc
 except:
-	def printc(a):
-		print(a)
+    def printc(a):
+        print a
 
 printc("<magenta>[LOG]<white> Using python, version %s on %s." % (sys.version, sys.platform))
 
@@ -37,9 +37,9 @@ needs_sphinx = '1.3'
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
-	'sphinx.ext.todo', 
-	'sphinx.ext.autodoc', 
-	'sphinx.ext.coverage', 
+	'sphinx.ext.todo',
+	'sphinx.ext.autodoc',
+	'sphinx.ext.coverage',
 	'sphinx.ext.viewcode',
 	'sphinx.ext.autosummary',
 	'sphinx.ext.graphviz',
@@ -111,7 +111,7 @@ bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
 # The file should contain one word per line. Refer to the PyEnchant tutorial for details.
 # spelling_word_list_filename='spelling_wordlist.txt'
 
-# Boolean controlling whether suggestions for misspelled words are printed. Defaults to False. 
+# Boolean controlling whether suggestions for misspelled words are printed. Defaults to False.
 # spelling_show_suggestions=False
 
 ##############################################################################
@@ -138,7 +138,7 @@ copyright = u'2011-2015, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '2.2.3'
+version = '2.2.4'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -387,7 +387,7 @@ latex_preamble = r'''
    \lfoot{PDF\LaTeX{} from \texttt{reST}}
    \cfoot[]{}
    \rfoot{\thepage\ / \pageref{LastPage}}
-   
+
 \pagenumbering{arabic}
 
 \authoraddress{
@@ -598,8 +598,8 @@ pdf_use_numbered_links = False
 pdf_fit_background_mode = 'scale'
 
 ##############################################################################
-# (c) 2011-13
-# 
+# (c) 2011-15
+#
 # Lilian Besson
 # mailto:lbesson[@]ens-cachan[.]fr
 #
