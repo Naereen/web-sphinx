@@ -126,6 +126,8 @@ Outils de "communication" à usage unique
 
 * `Snap Me Now <http://www.snapmenow.com/>`_ permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <http://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
 
+* `PeerIO <https://www.peerio.com/>`_ propose aussi des fonctionnalités intéressantes.
+
 ---------------------------------------------------------------------
 
 Protéger sa vie privée
