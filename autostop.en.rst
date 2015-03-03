@@ -1,6 +1,7 @@
 .. meta::
    :description lang=en: About hitch-hiking
    :description lang=fr: À-propos d'auto-stop
+
 ####################
  About hitch-hiking
 ####################

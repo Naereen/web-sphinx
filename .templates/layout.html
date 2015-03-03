@@ -39,7 +39,7 @@
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
    <script type="text/javascript" src="{{ pathto('_static/mousetrap.min.js', true)|e }}"></script>
-   <script type="text/javascript" src="{{ pathto('_static/doctools.source.js', true)|e }}"></script>
+   <!-- <script type="text/javascript" src="{{ pathto('_static/doctools.source.js', true)|e }}"></script> -->
   <!-- NProgress.js (https://github.com/rstacruz/nprogress) NEW is now loaded with conf.py:81@mathjax_path -->
 <!--   <script type="text/javascript" src="{{ pathto('_static/nprogress.js', true)|e }}"></script> -->
   <!-- Forkit.js (http://hakim.se/lab/forkit.js)-->
@@ -292,7 +292,8 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 </li></ul></div>
    <script type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
   <!-- MathJax.js (http://mathjax.org/) async is quicker -->
-   <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
+   <!-- <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script> -->
+   <script async type="text/javascript" src="{{ pathto('_static/mathjax/MathJax.js', true)|e }}?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
 </div>
 <!-- This file is © Lilian Besson, 2011-2015.
  * I'm a Computer Science and Mathematics student, at ENS de Cachan.
