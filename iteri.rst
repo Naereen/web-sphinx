@@ -91,4 +91,11 @@ Voilà un titre qui résume bien le message de ce petit post.
 
 .. [#patch] :Voir: le `commit <https://bitbucket.org/lbesson/agreg/diff/modelisation/projet/projet.ml?diff2=3318706bdc86&at=master>`_ rapportant la compatibilité avec OCaml v3.12.1 pour mon projet **Laby**.
 
+----
+
+.. note:: *« Mais OCaml c'est nul non ? »*
+
+   Non, faut pas écouter `ceux qui disent ça <http://sucre.syntaxique.fr/doku.php?id=ocaml>`_, OCaml c'est super !
+
+
 .. (c) Lilian Besson, 2013, https://bitbucket.org/lbesson/web-sphinx/
