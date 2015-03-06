@@ -1,6 +1,6 @@
 .. meta::
-   :description lang=fr: Page personnelle de Lilian Besson sur le web
-   :description lang=en: Lilian Besson's personal web page
+   :description lang=fr: Pages personnelles de Lilian Besson sur le web
+   :description lang=en: Lilian Besson's personal web pages
 
 ###########
  Bienvenue
@@ -11,14 +11,14 @@
 Bonjour, je suis **Lilian Besson**, `(ex) étudiant en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la production de professeurs du secondaire et du supérieur).
 
-Depuis mi-juillet 2014, je vis et travaille en Inde, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_; en tant que chargé de `TDs (assistant professor) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en `mathématiques (MA101 et 102) <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_, et je serai surtout en charge du cours d'*introduction à l'informatique (CS101)* pour le second semestre !
-Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2015).
+Depuis mi-juillet 2014, **je vis et travaille en Inde**, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_; en tant que chargé de `TDs (teaching assistant) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (`MA101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ et `MA102 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_), et je suis surtout en charge du cours d'*introduction à l'informatique* (`CS101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_) pour le second semestre (janvier - mai 2015), en tant qu'*assistant professor*.
+Je resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014-15 (ie. *fin juin 2015*).
 
 .. include:: whatsnew.fr.rst
 
 Études
 ^^^^^^
-* En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_.
+* En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (sur 295 admis, 785 admissibles, et 1200 inscrits).
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
@@ -48,11 +48,10 @@ Je reste en Inde pour enseigner jusqu'à la fin du second semestre (~ fin juin 2
 
    **Un petit mot sur ce site** :
 
-    Je développe ce petit site (actuellement `<http://perso.crans.org/besson/>`_)
-    sur mon temps libre.
+    Je développe ce petit site (actuellement `<http://perso.crans.org/besson/>`_) sur mon temps libre.
     :gray:`Le contenu de chaque page de ce site est (C) Lilian BESSON, open source sous la` `License GPLv3 <LICENSE.html>`_.
     `Qu'est-ce que l'Open Source, expliqué avec des Légo <https://youtu.be/a8fHgx9mE5U>`_ ?
-    Les analyses réalisées avec *Google Analytics* montrent que `certaines de mes pages <beacon.en.html>`_
+    Les `analyses réalisées <ga.fr.html>`_ avec *Google Analytics* montrent que certaines de ces pages (`qu'elles soient en anglais <beacon.en.html>`_ ou `bien en français <sublimetext.fr.html>`_)
     sont effectivement visités quotidiennement par des gens du monde entier : j'espère ne pas décevoir ces visiteurs !
     (`cette page <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_
     peut être utilisée pour signaler un bug, une page mal rédigée ou encore pour simplement me poser une question).
@@ -105,10 +104,10 @@ Vous pouvez aussi retrouver certains travaux ou projets :
 #. via mes `dépôts git <tutogit.fr.html>`_ sur mon compte *bitbucket*, `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
 
 #. ou sur ma page personnelle *Wikipédia*, `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
-   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_, je `suis aussi donateur <https://dons.wikimedia.fr/journal/2012-11-12>`_ !).
+   (moyennement actif, voir par exemple `ces stats <http://wikiscan.org/utilisateur/Naereen>`_, je `suis aussi donateur régulier <https://dons.wikimedia.fr/journal/2012-11-12>`_ !).
 
 #. ou encore sur *Transifex* (plate-forme de traduction de logiciels et de sites web) :
-   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (plus du tout actif en 2014).
+   `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (plus du tout actif depuis 2013).
 
 ------------------------------------------------------------------------------
 
@@ -157,6 +156,11 @@ Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
+Exemples de programmes Python (02/2015)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une vingtaine d'exemples de programmes Python, touchant à plusieurs domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc).
+Ces exemples sont là pour `le cours CS101 dont je suis en charge à Mahindra Ecole Centrale <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_, et pour illustrer les cours magistraux que je donnerai en mars et avril 2015.
+
 Deux tutoriels (11/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Deux petits articles, à propos de `Git et BitBucket <tutogit.fr.html>`_, et de `Sublime Text 3 <sublimetext.fr.html>`_.
@@ -168,23 +172,21 @@ La page de présentation et de démonstration est `là (StrapDown.js) <http://lb
 
 SquirtFR (03/2014)
 ^^^^^^^^^^^^^^^^^^
-Un signapplet (aussi appelé marque-page scripté) pour lire rapidement n'importe quelle page web,
-c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_,
+Un signapplet (aussi appelé marque-page scripté) pour lire *rapidement* n'importe quelle page web,
+c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_ (ou sur `lbo.k.vu/squirt <http://lbo.k.vu/squirt>`_),
 avec plus d'informations sur le projet `ici (README.html) <http://lbesson.bitbucket.org/squirt/README.html>`_.
 
 Projet Labyrinthe-Démineur (12/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un petit jeu de labyrinthe-démineur, une sorte de mélange entre démineur et Bomberman, en ``OCaml``
+Un petit jeu de labyrinthe-démineur, une sorte de mélange entre démineur et Bomberman, programmé en ``OCaml 3.12+``.
 Voir `<agreg/modelisation/projet/rapport.html>`_ pour plus de détails ! (J'ai eu **19/20** !)
 
 Projet d'apprentissage : Kaggle Titanic (05/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour le cours d'apprentissage automatique (*Machine Learning*) de l'ENS de Cachan du second semestre (L3),
 j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http://kaggle.com/>`_,
-ce projet a pour but de faire de la *classification de données*, afin d'exhiber
-le *"passager type"* ayant survécu au naufrage du Titanic.
-Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket,
-`ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
+ce projet a pour but de faire de la *classification de données*, afin d'exhiber le *"passager type"* ayant survécu au naufrage du Titanic.
+Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket, `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 J'ai eu **15/20** pour ce projet, mais `je n'ai pas pu participer au projet via Kaggle <https://www.gequest.com/users/96638/naereen>`_ (en fin de compte).
 
 ANSI Colors (01~03/2013)
@@ -205,13 +207,28 @@ Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
-Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7.6, avec un protocole
+Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
 formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
 Le projet est surtout hebergé sur **BitBucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**,
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
 J'ai eu **16.9/20** pour ce projet. *Et en plus, le jeu est sympa !*
+
+.. note:: Une démonstration des fonctionnalités de Python ?
+
+   J'ai eu l'occasion de me reservir de ce vieux projet comme d'une démo intéressante et originale des fonctionnalités de Python (2.7)
+   pour le `cours CS101 à MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_ et les cours magistraux dont j'étais en charge (**Data Structures in Python**).
+
+
+.. note:: Une version pour Windows ?
+
+   En février 2015, j'ai `essayé de reprendre le jeu <https://bitbucket.org/lbesson/mpri-bomberman-windows/commits>`_ et de l'adapter un peu pour qu'il fonctionne sur Microsoft Windows.
+   Tout marche parfaitement, sauf une erreur réseau que je n'arrive pas à trouver (j'ai abandonné après deux semaines infructueuses).
+   L'erreur semble due à une différence de comportement entre Windows et Linux de la bibliothèque `socket <https://docs.python.org/2/library/socket.html>`_ pour Python 2 (cf `cette remarque <https://docs.python.org/2/library/socket.html#socket.socket.makefile>`_).
+
+   J'avais aussi écrit `un script cx_Freeze pour produire un exécutable Windows (.exe) <https://bitbucket.org/lbesson/mpri-bomberman/src/master/setup__cx_Freeze.py>`_ à partir de ce projet. (et cette partie là marche super bien)
+
 
 ------------------------------------------------------------------------------
 
@@ -229,15 +246,15 @@ fichiers de configuration (`reST.nanorc <NanoSyntax/reST.nanorc>`_ notamment !).
 
 .. note:: Pour *Jota Text Editor* & *Jota+*
 
-   J'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
+   En 2012, j'ai écrit certains fichiers de configuration pour la coloration syntaxique des **applications Android**
    `Jota Text Editor <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota>`_
-   et `Jota+ <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ (téléchargés plus de 8 millions de fois !) :
+   et `Jota+ <https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus&hl=fr>`_ (téléchargés désormais plus de 8 millions de fois !) :
 
     #. `<rst.reST.rest.conf>`_ pour **reStructuredText** (fait entièrement par moi);
     #. `<mll.mly.mli.ml.conf>`_ pour **OCaml** (idem).
 
-Flux RSS
-^^^^^^^^^
+Flux RSS (expérimental)
+^^^^^^^^^^^^^^^^^^^^^^^
 Depuis *avril 2013*, mes pages proposent de s'abonner à un flux **RSS** : `<rss.xml>`_ !
 Pour plus d'informations, ou pour lire directement les dernières entrées
 du *flux*, la page `<rss.html>`_ est là pour ça (très peu actif en fait).
@@ -254,17 +271,19 @@ J'ai notamment participé à la traduction française du site `bitbucket.org <ht
 Wolfram|Alpha
 ^^^^^^^^^^^^^
 La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de commande),
-à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples avec ``sphinx.ext.runblock``.
+à `l'outil Wolfram|Alpha <http://wolframalpha.com/>`_, et embarque quelques exemples (avec ``sphinx.ext.runblock``).
 
 Galeries web (photos et musique)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Depuis novembre 2013, je développe deux petits logiciels :
+Depuis novembre 2013, je développe deux petits logiciels, pour mon usage personnel (mais tout est Open-Source, vous pouvez vous en servir bien-sûr) :
 
-#. une galerie photo en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
-   (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
-
-#. un petit lecteur de musique en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
+#. un `petit lecteur de musique <https://bitbucket.org/lbesson/bin/src/master/generatejplayer/>`_ en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
    (les morceaux utilisées dans la démo viennent du légendaire projet `du Donjon de Naheulbeuk <http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).
+   `La partie serveur du lecteur de musique <https://bitbucket.org/lbesson/bin/src/master/generatejplayer.sh>`_ est un script Bash qui génère ces pages pour tout un dossier de musiques (au format *MP3*).
+
+#. une `galerie photo <https://bitbucket.org/lbesson/bin/src/master/generateglisse/>`_ en *CSS3* et *JavaScript*, voir une démo ici `<generateglisse.sh/>`_,
+   (les images utilisées dans la démo viennent de `<http://imgur.com/a/NncyO>`_).
+   `La partie serveur de la galerie photo <https://bitbucket.org/lbesson/bin/src/master/generateglisse.sh>`_ est un script Bash qui génère ces pages pour tout un dossier de photos ou d'images.
 
 ------------------------------------------------------------------------------
 
@@ -307,15 +326,15 @@ Certaines pages présentent aussi l'intégration de projets sympas, écrits en *
 
 #. `<skulpt.html>`_, un toplevel ``Python 2.7.3`` complet, directement dans un navigateur web avec un genre d'interface *graphique* (accès à la structure DOM de la page web, module ``Turtle`` disponible) !
 
-Liens externes
-^^^^^^^^^^^^^^
+Autres liens externes
+^^^^^^^^^^^^^^^^^^^^^
 #. `<http://besson.qc.to>`_ (e.g. `<http://besson.qc.to/publis/tutoriel_gedit_couleur_embedded_terminal.html>`_).
 #. `<http://lbesson.qc.to>`_ (e.g. `<http://lbesson.qc.to/publis/astuce_gedit_modificateur.html>`_) et aussi en (inutiles) sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
    d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/sublimetext.fr.html>`_).
-   Je n'en suis pas l'auteur, c'est inspiré de `<http://lab.hakim.se/meny>`_.
+   Je ne suis pas l'auteur du code pour le menu latéral, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
-#. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ avec ``dot.tk``, un autre service gratuit.
+#. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ (avec ``dot.tk``, un autre service gratuit).
 
 .. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.
 
@@ -345,6 +364,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    beacon.fr
    apk.fr
    tutogit.fr
+   apprendre-python.fr
    sublimetext.fr
    wakatime.fr
    latexonwindows.fr
