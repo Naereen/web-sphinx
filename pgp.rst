@@ -64,7 +64,7 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
 
  #. **la télécharger**, comme expliqué au paragraphe suivant;
  #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
-    aux résultatx suivants :
+    aux résultats suivants :
 
     Depuis mon répertoire de clés :
 
