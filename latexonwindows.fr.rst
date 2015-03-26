@@ -10,6 +10,7 @@
 Aller voir ailleurs
 -------------------
 Je ne pourrai pas mieux faire que vous conseiller de suivre ces explications : `www.xm1math.net/doculatex/install_miktex.html <http://www.xm1math.net/doculatex/install_miktex.html>`_, de qualité et auxquelles je fais confiance.
+`Ces explications sur le Wiki du CRANS sont utiles aussi <http://www.crans.org/LaTex>`_.
 
 Éditeur
 ^^^^^^^
