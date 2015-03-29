@@ -2,18 +2,21 @@
    :description lang=en: Advices to start learning Python
    :description lang=fr: Recommandation pour commencer à apprendre Python
 
-###################################################
- Recommandations pour commencer à apprendre Python
-###################################################
+##################################
+ Advices to start learning Python
+##################################
 .. include:: .special.rst
 
-Pour se lancer et apprendre Python, je recommande...
-----------------------------------------------------
-.. warning:: Pas encore fini ! (mais bientôt)
+To start learning Python, I recommend...
+----------------------------------------
+.. warning:: Not concluded yet! But soon!
 
-.. note:: Qu'est-ce que Python ?
+.. note:: What is Python ?
 
-   Un `language de programmation <https://fr.wikipedia.org/wiki/Language_de_programmation>`_ très populaire. Gratuit, libre, multi-plateforme, simple à apprendre, écrire et lire.
+   A very popular, free and open-source `programing language <https://fr.wikipedia.org/wiki/Programing_language>`_. Python is also multi-plateform, simple to learn, write and read.
+
+
+.. todo:: Traduction to be concluded!
 
 
 #. L'installeur `Anaconda <http://continuum.io/downloads>`_, qui permet de "tout" installer en un seul clic (un seul gros fichier de presque 400 Mo, gratuit bien sûr), sur Windows ou Linux ou Mac OS.

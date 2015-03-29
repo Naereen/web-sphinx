@@ -10,14 +10,14 @@ L'éditeur de code **ACE**
 -------------------------
 .. raw:: html
 
-   <textarea id="textarea" 
+   <textarea id="textarea"
     style="position: relative; font-size: 22pt; height: 700px; width: 100%;"
    >(* Un exemple en OCaml, le même que celui du Toplevel OCaml intégré *)
    let x = 10+10;;
    let y = x * 3;;
    String.make x 'a';;
    sin 1.;;
-   let rec fact n = 
+   let rec fact n =
      if n = 0
      then 1.
      else float n *. fact (n - 1)
@@ -35,10 +35,10 @@ L'éditeur de code **ACE**
       Elle fonctionne moins bien, et n'est plus activement développée !
 
    Skulpt et Python
-      Les pages `<skulpt.html>`_ et `<python.html>`_ montrent l'utilisation de 
-      cet éditeur de code minimaliste pour améliorer l'expérience utilisateur 
+      Les pages `<skulpt.html>`_ et `<python.html>`_ montrent l'utilisation de
+      cet éditeur de code minimaliste pour améliorer l'expérience utilisateur
       de toplevel Python intégrés dans une page web. Oui, c'est plutôt cool.
- 
+
 
 À propos
 --------
@@ -54,7 +54,7 @@ j'utilise la directive ``.. raw:: html`` pour
 
 Copyrights
 ~~~~~~~~~~
- **ACE** est © et ® d'AjaxOrg. Voir la page officielle du projet, 
+ **ACE** est © et ® d'AjaxOrg. Voir la page officielle du projet,
  `ajaxorg.github.io/ace <http://ajaxorg.github.io/ace/#about>`_.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -19,7 +19,7 @@ Avertissements
    Démonstration plus complète
       La page `<ace.html>`_ présente une démo plus complète de cet éditeur,
       avec notamment :
-      
+
        * un onglet permettant de changer les paramètres;
        * un stockage local donc indépendant d'un service annexe (et plus rapide il me semble);
        * une traduction française de l'onglet des paramètres.

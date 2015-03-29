@@ -18,11 +18,9 @@ Réduire les dépendances inutiles
 
 Une extension Sphinx pour Youtube
 ---------------------------------
-
 Voici, par exemple, la première vidéo du `concert de Jill-Jênn <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ :
 
 .. youtube:: http://www.youtube.com/watch?v=45Ms9-t-Pr4&list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb&index=2
-
 
 -----------------------------------------------------------------------------
 
@@ -171,9 +169,10 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 
 « Shortest URL on earth »
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir par exemple `fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers une page facebook.
+Voir par exemple `❥.ws/fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers une page facebook.
+Ou `➞.ws/mec.lbesson <http://➞.ws/mec.lbesson>`_ qui pointe vers `mon profil sur la page web de Mahindra Ecole Centrale <>`_.
 
-Oui, le nom de domaine est bien "❥.ws", vous avez bien lu. Fou non ?
+Oui, les noms de domaine sont bien "❥.ws" et "➞.ws", vous avez bien lu. Fou non ?
 
 .. warning:: Problème d'affichage ?
 

@@ -27,6 +27,12 @@ Some lists of applications
    as the *EXEcutable* program for **Windows™** with the ``.exe`` format,
    or the *Disk iMaGe* for **Mac OS X™** with the ``.dmg`` format.
 
+
+.. warning:: Might be out-of-date!
+
+   This list was written in *June and July 2014*, so now it might be a little bit out-of-date.
+
+
 Apps everyone should have
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 

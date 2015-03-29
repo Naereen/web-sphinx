@@ -27,6 +27,12 @@ Quelques listes d'applis
    un peu à la manière d'un *EXEcutable* Windows sous le format ``.exe``,
    ou d'un *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
+
+.. warning:: N'est plus à jour !
+
+   J'ai écrit cette liste en *Juin et Juillet 2014*, donc elle est probablemen obsolète.
+
+
 Liste des applis qu'il faut avoir
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

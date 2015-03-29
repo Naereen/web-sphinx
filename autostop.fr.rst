@@ -22,20 +22,17 @@ Rapide total
 ------------
 En 2015
 ^^^^^^^
-Pas encore ! Mais deux longs voyages en stop sont prévus pour l'été 2015.
+Pas encore ! Je n'ai malheureusement pas encore été capable de faire de l'auto-stop en 2015 :(
 
-Briançon - Paris en passant par l'Italie (Turin, Venise, Padoue), en 2 semaines :
+Mais j'ai déjà prévu un *vrai* `voyage en stop pour l'été 2015 (juin) <https://goo.gl/maps/vrFHV>`_.
 
-.. digraph:: voyage1
+En gros, je veux partir de ma ville natale, Briançon (France), et `viser cet endroit en Norvège <https://en.wikipedia.org/wiki/Sverd_i_fjell>`_, en moins de 4 semaines.
 
-   "Briançon (France)" -> "Italie" -> "Suisse" -> "Jura (France)" -> "Paris";
+**3700 kilomètres, 6 pays, ça va être génial :**
 
-Et ensuite un plus ambitieux Paris - Norvège en 3 semaines :
+.. digraph:: voyage
 
-
-.. digraph:: voyage2
-
-   "Paris" -> "Bruxelles" -> "Amsterdam" -> "Danemark" -> "Suède" -> "Norvège" -> "(et retour)";
+   "Briançon (France)" -> "Savoie (France)" -> "Suisse" -> "Stuttgart (Allemagne)" -> "Danemark" -> "Suède" -> "Norvège" -> "(et retour !)";
 
 
 En 2014

@@ -23,25 +23,22 @@ A quick overview
 ----------------
 In 2015
 ^^^^^^^
-Not yet! But I do plan two long hitch-hiking trip during the summer of 2015.
+Not yet! I have not yet been able to do any hitch-hiking in 2015 :(
 
-Briançon (France) - Paris (France) by Italy (Turin, Venice, Padua), in 2 weeks:
+But I do plan `one very long hitch-hiking trip during the summer of 2015 (June) <https://goo.gl/maps/vrFHV>`_.
 
-.. digraph:: voyage1
+I basically plan to go from my home town, Briançon (France), to `this place in Norway <https://en.wikipedia.org/wiki/Sverd_i_fjell>`_, in 4 weeks.
 
-   "Briançon (France)" -> "Italy" -> "Switzerland" -> "Jura (France)" -> "Paris (France)";
+**3700 kilometers, 6 countries, it will be awesome:**
 
+.. digraph:: voyage
 
-And then another one, slightly more ambitious, from Paris to Novrway en 3 semaines:
-
-.. digraph:: voyage2
-
-   "Paris" -> "Bruxelles (Belgium)" -> "Amsterdam (Netherlands)" -> "Danemark" -> "Sweden" -> "Norway" -> "(and back!)";
+   "Briançon (France)" -> "Savoie (France)" -> "Switzerland" -> "Stuttgart (Germany)" -> "Denmark" -> "Sweden" -> "Norway" -> "(and back!)";
 
 
 In 2014
 ^^^^^^^
-About 150 kms, half a dozen of times, around Paris, and a very little bit near Hyderabad, in India.
+About 150 kms, half a dozen of times, around Paris, and a *very little bit* near Hyderabad, in India.
 
 In 2013
 ^^^^^^^
