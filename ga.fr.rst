@@ -15,7 +15,7 @@
 
 .. note:: Cette page parle aussi de Sphinx
 
-   Et donc, pour plus de détails, il peut aussi être utile 
+   Et donc, pour plus de détails, il peut aussi être utile
    d'avoir en tête le fonctionnement de Sphinx, notamment sur le *templating* :
    `sphinx-doc.org/templating.html <http://sphinx-doc.org/templating.html>`_.
 
@@ -34,7 +34,7 @@ Le code de base :
    ga('send', 'pageview');
 
 
-Donc, la première solution est bien sûr de modifier la page de 
+Donc, la première solution est bien sûr de modifier la page de
 *template* principale (normalement, ``_templates/layout.html`` ou ``.templates/layout.html``)
 et d'y ajouter ce code entre deux balises ``<script type="text/javascript">`` et ``</script>``.
 
@@ -57,7 +57,7 @@ Il faut alors l'inclure dans chaque page avec ce code ``HTML``
    <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js"></script>
 
 
-En plus, la balise ``async`` accélèrera le chargement de la page 
+En plus, la balise ``async`` accélèrera le chargement de la page
 en *déférant* l'exécution du script. Super !
 
 Comment et où l'inclure
@@ -73,7 +73,7 @@ D'autres solutions (non testées)
 .. seealso::
 
    GA-Beacon (`<beacon.html>`_)
-      Comment utiliser une image d'*une seule pixel* pour analyser les visites 
+      Comment utiliser une image d'*une seule pixel* pour analyser les visites
       d'une page ou d'un courriel via Google Analytics.
 
 .. warning:: Toujours en rédaction !

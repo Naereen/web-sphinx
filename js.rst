@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
    :description lang=fr: Page décrivant les scripts JavaScript utilisés pour mes pages
    :description lang=en: Description of JavaScript scripts in my web pages
 
@@ -47,7 +47,7 @@ Liste des scripts du dépôt
 Pas les miens
 ^^^^^^^^^^^^^
 * `jQuery <_static/jquery.js>`_,
-  la célèbre librairie JS. Incluse par défaut par Sphinx 
+  la célèbre librairie JS. Incluse par défaut par Sphinx
   (pour la gestion de la barre latérale). Simplement mise à jour !
 
 * `ace <_static/ace-new/>`_,
@@ -91,7 +91,7 @@ Pas les miens mais adaptés
 
 Les miens
 ^^^^^^^^^
-* `referrer.js <_static/referrer.js>`_ 
+* `referrer.js <_static/referrer.js>`_
   utilisé par les pages de gestions d'erreur (`<404.html>`_ ou `<403.html>`_)
   pour éventuellement afficher des messages d'informations,
 

@@ -77,7 +77,7 @@ Voilà un titre qui résume bien le message de ce petit post.
 
 ------------------------------------------------------------------------------
 
-.. rubric:: Références 
+.. rubric:: Références
 
 .. [#arrayiter] :Documentation: `Array.iter <http://caml.inria.fr/pub/docs/manual-ocaml/libref/Array.html#VALiter>`_ dans la doc du module Array;
 

@@ -15,12 +15,12 @@
 
 .. note:: This short page is also focusing on Sphinx
 
-   Therefore, for more informations, it might be useful to have in mind how Sphinx works, 
+   Therefore, for more informations, it might be useful to have in mind how Sphinx works,
    and in particular how to use HTML templating support `sphinx-doc.org/templating.html <http://sphinx-doc.org/templating.html>`_.
 
 
-«Vanilla» Google Analytics code
--------------------------------
+« Vanilla » Google Analytics code
+---------------------------------
 The default code to add in every page is the following piece of JavaScript:
 
 .. code-block:: javascript
@@ -42,7 +42,7 @@ If possible, you have to add this piece of code at *the end of the page*, to red
 A smaller piece of code
 -----------------------
 *(And also easier to maintain !)*
-You just have to create a small ``ga.js`` script contenaning 
+You just have to create a small ``ga.js`` script contenaning
 the previous piece of code, and add it somewhere on your website.
 
 For instance: `ga.js <http://besson.qc.to/_static/ga.js>`_.

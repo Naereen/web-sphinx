@@ -5,12 +5,12 @@
 
 Des graphes ?
 -------------
-Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes** 
-écrits avec une balise ``.. graphviz::``, et censés être rendus avec 
+Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes**
+écrits avec une balise ``.. graphviz::``, et censés être rendus avec
 `GraphViz <http://www.graphviz.org/>`_.
 
 Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
-de graphe (dirigé ou non). Ce langage est un standard dans le monde 
+de graphe (dirigé ou non). Ce langage est un standard dans le monde
 informatique : ingénieurs, chercheurs, enseignants, tous l'utilisent !
 
 .. warning::
@@ -40,7 +40,7 @@ Exemples
 ~~~~~~~~~~~~~~~~~
 Cette directive sert à décrire des graphes **dirigés**.
 
-**Sphinx autodoc** et mon script ``pytorst.py`` permettent 
+**Sphinx autodoc** et mon script ``pytorst.py`` permettent
 de réaliser la transformation suivante :
 
 .. digraph:: autodoc
@@ -80,12 +80,12 @@ Je suis né et j'ai vécu à :red:`Briançon`,
 dans les *Hautes-Alpes* jusqu'à mes **16 ans**,
 avant de partir étudier au Lycée Thiers de Marseille.
 
-Dans les Hautes-Alpes, il y a notamment les villes suivantes 
-(un arc signifie que les deux villes sont dans la même vallée, 
+Dans les Hautes-Alpes, il y a notamment les villes suivantes
+(un arc signifie que les deux villes sont dans la même vallée,
 *ie.* reliées entre elles par une rivière !) :
 
 .. graph:: alpes
-   
+
    "Bri" [color="red", style="bold", label="Briançon"];
    "Veynes" -- "Gap" -- "Chorges" -- "Embrun" -- "Mont-Dauphin" -- "L'Argentière" -- "Bri";
    "Mont-Dauphin" -- "Guillestre";

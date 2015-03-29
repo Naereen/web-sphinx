@@ -66,15 +66,15 @@ Graphe et entrée texte
     set isosamples 60, 60
     set ticslevel 0
     set cbtics border in scale 0,0 mirror norotate  offset character 0, 0, 0 autojustify
-    set title "4D data (3D Heat Map)\nIndependent value color-mapped onto 3D surface" 
+    set title "4D data (3D Heat Map)\nIndependent value color-mapped onto 3D surface"
     set title  offset character 0, 1, 0 font "" norotate
-    set xlabel "x" 
+    set xlabel "x"
     set xlabel  offset character 3, 0, 0 font "" textcolor lt -1 norotate
     set xrange [ 5.00000 : 35.0000 ] noreverse nowriteback
-    set ylabel "y" 
+    set ylabel "y"
     set ylabel  offset character -5, 0, 0 font "" textcolor lt -1 rotate by -270
     set yrange [ 5.00000 : 35.0000 ] noreverse nowriteback
-    set zlabel "z" 
+    set zlabel "z"
     set zlabel  offset character 2, 0, 0 font "" textcolor lt -1 norotate
     set pm3d implicit at s
     set colorbox user
@@ -201,7 +201,7 @@ Copyrights
  et `gnuplot_api.js <_static/gnuplot_api.js>`_ sont la dernière version du projet écrit par
  Christian Huettig.
 
- La page officielle du projet est 
+ La page officielle du projet est
  `gnuplot.respawned.com <http://gnuplot.respawned.com/>`_.
 
 GNU Plot
@@ -215,7 +215,7 @@ GNU Plot
 Emscripten
 ~~~~~~~~~~
  Le compilateur utilisé par Christian Huettig est
- ``Emscripten``, voir `github.com/kripken/emscripten 
+ ``Emscripten``, voir `github.com/kripken/emscripten
  <https://github.com/kripken/emscripten>`_
  pour plus de détails.
 
