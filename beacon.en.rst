@@ -16,8 +16,8 @@
    This page will explain to you how to use Google Analytics when you do not have support for Javascript, and how to use Google Analytics with an image (a picture) loaded from a web-page.
 
 
-«Vanilla» Google Analytics code
--------------------------------
+« Vanilla » Google Analytics code
+---------------------------------
 The default code to add in every page is the following piece of JavaScript (at least, it was the case in January 2015):
 
 .. code-block:: javascript

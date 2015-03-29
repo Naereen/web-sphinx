@@ -44,21 +44,21 @@ Il faut alors l'inclure dans chaque page avec ce code ``HTML``
    <script type="text/javascript" async src="http://besson.qc.to/_static/ga.js"></script>
 
 
-En plus, la balise ``async`` accélèrera le chargement de la page 
+En plus, la balise ``async`` accélèrera le chargement de la page
 en déférant l'exécution du script. Super !
 
 ------------------------------------------------------------------------------
 
 Une jolie astuce
 ----------------
-Ce `Post de blog`_ explique comment utiliser **une** image, 
+Ce `Post de blog`_ explique comment utiliser **une** image,
 ou même un simple pixel pour "simuler" une communication avec Google Analytics.
 
-En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image, 
+En suivant son tutoriel, on arrive à pouvoir embarquer simplement une image,
 dans un courriel ou une page web (comme par exemple une page d'accueil d'un projet
 sur bitbucket ou github).
 
-Cette image est en fait récupérée via ``ga-beacon.appspot.com/UA-XXXXXX-YY`` 
+Cette image est en fait récupérée via ``ga-beacon.appspot.com/UA-XXXXXX-YY``
 et va déclencher une visite, visible immédiatement dans le panneau Google Analytics associé
 (ici, ``UA-XXXXXX-YY`` est la clé associée au profil GA créé pour l'exemple).
 
@@ -70,7 +70,7 @@ Intégrer cette image peut être fait en ``HTML`` avec le code suivant :
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html?pixel" />
 
 
-Ou bien avec le code ``rST`` suivant, 
+Ou bien avec le code ``rST`` suivant,
 pour une page générée avec *Sphinx* comme celle que vous êtes en train de lire :
 
 .. code-block:: rst
@@ -89,19 +89,19 @@ pour une page générée avec *Sphinx* comme celle que vous êtes en train de li
 Enfin, il est possible d'utiliser un petit *badge* plutôt qu'un pixel invisible,
 en enlevant le ``?pixel`` à la fin de l'adresse URL.
 
-  Par exemple : 
- 
+  Par exemple :
+
   .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/avec-un-badge
      :scale: 300%
      :align: center
      :alt: Un petit badge « analytics | GA ».
      :target: http://besson.qc.to/beacon.html
-  
- 
+
+
   est obtenu avec le code ``rST`` suivant :
- 
+
   .. code-block:: rst
- 
+
      .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/avec-un-badge
 
 
@@ -128,10 +128,10 @@ des adresses du service *beacon* pour surveiller « chaque courriel » indépend
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/7?pixel" />
 
 
-L'exemple précédent montre la convention de nommage que j'utilise pour ma correspondance électronique : 
+L'exemple précédent montre la convention de nommage que j'utilise pour ma correspondance électronique :
 chaque jour, on numérote les courriers sous la forme **JJ-MM-YYYY/NUM**, où **NUM** est le numéro du courrier envoyé ce jour là.
 
-Par exemple, le premier mail écrit le 11 mars 2014 correspond au code **11-03-2014/1** 
+Par exemple, le premier mail écrit le 11 mars 2014 correspond au code **11-03-2014/1**
 et donc se terminera par le morceau de code ``HTML`` suivant :
 
 .. code-block:: html
@@ -175,7 +175,7 @@ En pratique, la règle suivante permet de le faire facilement :
    RewriteRule ^([^0-9].*)$ http://ga-beacon.appspot.com/UA-38514290-1/$1 [L,P]    # Sans clé : "-1" par défaut
 
 
-On peut affiner le procédé, en ajoutant d'abord la redirection `<beacon/>`_ vers `<beacon.html>`_ 
+On peut affiner le procédé, en ajoutant d'abord la redirection `<beacon/>`_ vers `<beacon.html>`_
 (qui ensuite pointe vers `<beacon.fr.html>`_ ou `<beacon.en.html>`_) :
 
 .. code-block:: bash

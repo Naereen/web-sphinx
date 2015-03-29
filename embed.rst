@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
    :description lang=fr: Page décrivant des scripts sympas sur lesquels je travaille (expérimental)
    :description lang=en: Description of some nice scripts I work on (experimental)
 
@@ -14,7 +14,7 @@
 --------
 Cette page est là pour décrire certains **scripts** (en Bash, Python, JavaScript notamment)
 stockés dans les dépôts
-`web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, et 
+`web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, et
 `home <https://bitbucket.org/lbesson/home>`_.
 
 Mais aussi pour tester des fonctionnalités sympas offertes par `bitbucket <https://bitbucket.org>`_

@@ -28,10 +28,10 @@ Ce dossier contient un certain nombre de petits logiciels, scripts ou autres uti
 
 .. warning:: Uniquement sur Ubuntu
 
-   Attention: ces scripts sont écrits pour ma machine (Ubuntu 12.04.4),
+   Attention: ces scripts sont écrits pour ma machine (Ubuntu 14.10.1),
    et donc ne sont testés que sur cette plateforme.
    La plupart peuvent fonctionner ailleurs, mais je ne pourrais être responsable
-   d'un quelconque disfonctionnement dûs à l'un de ces scripts.
+   d'un quelconque dysfonctionnement dû à l'un de ces scripts.
 
    Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_.
 
@@ -57,7 +57,7 @@ Liste des scripts
 
 .. note:: Contribuer ?
 
-    Tous ces scripts fonctionnent normalement correctement sur ma machine (Ubuntu 12.04.3 LTS, GNU Bash v4.2).
+    Tous ces scripts fonctionnent normalement correctement sur ma machine (Ubuntu 14.10.1, GNU Bash v4.2).
     Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
     voir même échouent complètement.
     **Tout retour d'utilisation est le bienvenu**.

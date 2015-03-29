@@ -21,17 +21,17 @@ history of a user on one website (consulted pages, dates and hours of viewing et
 and that history can be read later for every visit.
 
 *But not here*.
-On my website, only two *cookies* are used : 
+On my website, only two *cookies* are used :
 
 #. A really small text file called ``layoutstyle``, to store the color style chosen by the user
    (a simple value, either *'green'*, or *'orange'* or the default one, *'purple'*).
    It is possible to change the color style of these pages by using the letters 's' or 'S' on your keeboard.
-   A small interactive window allow then to choose your favorite color 
+   A small interactive window allow then to choose your favorite color
    (there is also a short message to recall that a *cookie* will be stored to save this choice).
    All this require `javascript <js.html>`_ to be actived.
 
 #. An other incredibly small file is used by Sphinx to store a list of browsing parameters,
-   now useless because I basically changed every single line in the default 
+   now useless because I basically changed every single line in the default
    `layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_ template file.
 
 
@@ -39,8 +39,8 @@ How to deal with cookies
 ------------------------
 .. note:: More details
 
-   `This website <http://www.allaboutcookies.org/manage-cookies/>`_ 
-   is dedicated to explain everything about *cookies*, 
+   `This website <http://www.allaboutcookies.org/manage-cookies/>`_
+   is dedicated to explain everything about *cookies*,
    and therefore is really more complete than the following explanation.
 
    For instance, you can also check out `wikihow.com/Disable-Cookies <http://www.wikihow.com/Disable-Cookies>`_.

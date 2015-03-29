@@ -15,23 +15,23 @@ L'utilisateur est informé que lors de ses visites sur ce site,
 un *cookie* peut être implanté dans son ordinateur.
 
 Un *cookie* ne permet pas d'identifier l'utilisateur.
-De *manière générale*, il enregistre des informations relatives 
-à la navigation de son ordinateur sur le site 
-(les pages consultées, la date et l'heure de la consultation) 
+De *manière générale*, il enregistre des informations relatives
+à la navigation de son ordinateur sur le site
+(les pages consultées, la date et l'heure de la consultation)
 qui pourront être lues lors de ses visites ultérieures.
 
 *Mais ça, c'est en général*.
-Ici, deux *cookies* sont utilisés : 
+Ici, deux *cookies* sont utilisés :
 
 #. Un tout petit fichier texte intitulé ``layoutstyle``, qui stocke le choix du style de couleur
    (pour l'instant, *'green'*, *'purple'* ou *'orange'*).
    Il est possible de changer le style des pages en appuyant sur 's' ou 'S'.
-   Une fenêtre interactive permet de choisir sa couleur favorite 
+   Une fenêtre interactive permet de choisir sa couleur favorite
    (et elle rappelle aussi qu'un *cookie* est utilisé pour cette fonctionnalité).
    Tout ceci requiert d'avoir activer `javascript <js.html>`_.
 
 #. Un autre petit fichier, utilisé par Sphinx pour stocker deux paramètres de navigation,
-   rendus inutiles par mes trop nombreuses modifications sur 
+   rendus inutiles par mes trop nombreuses modifications sur
    `layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_.
 
 
@@ -45,8 +45,8 @@ S'y opposer ?
    Vous pouvez aussi consulter `wikihow.com/supprimer-les-cookies-de-votre-navigateur <http://fr.wikihow.com/supprimer-les-cookies-de-votre-navigateur>`_ par exemple.
 
 
-L'utilisateur peut s'opposer à l'enregistrement de *cookies*, 
-ou être prévenu avant d'accepter les cookies, 
+L'utilisateur peut s'opposer à l'enregistrement de *cookies*,
+ou être prévenu avant d'accepter les cookies,
 en configurant son ordinateur de la manière suivante :
 
 Pour Firefox
