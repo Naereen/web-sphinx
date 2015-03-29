@@ -31,9 +31,6 @@ Le toplevel
    </script></br></br>
 
 
-.. Ceci est un commentaire inutile.
-
-
 +----------------------------------+
 | .. image:: .ocaml-powered.png    |
 |    :scale: 130 %                 |

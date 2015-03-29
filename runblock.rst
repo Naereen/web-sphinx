@@ -27,7 +27,7 @@ Par exemple, le code suivant :
 produira la sortie suivante :
 
 .. runblock:: pycon
-   
+
     >>> for i in range(5):
     ...  print i
 
@@ -51,16 +51,16 @@ console
 Par exemple, la date courante :
 
 .. runblock:: console
-    
+
     $ LANG=en ; echo "Date: `date`. Folder: `pwd`."
 
 Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
 .. runblock:: console
-    
+
     $ LANG=en ls -larth *.rst .*.rst
 
-Ou bien encore, on peut réaliser une signature *GPG* à la volée du 
+Ou bien encore, on peut réaliser une signature *GPG* à la volée du
 fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
 .. runblock:: console
@@ -90,7 +90,7 @@ d'un paquet Python hébergé sur Pypi. En l'occurence, https://pypi.python.org/p
 
 .. runblock:: console
 
-    $ LANG=en echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :" 
+    $ LANG=en echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :"
     $ ~/bin/CheckDownload_Pypi.sh | tail -n3
 
 

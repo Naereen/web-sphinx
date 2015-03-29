@@ -310,6 +310,13 @@ les exemples de modélisations manipulées par le solveur.
 
 --------------------------------------------------------------------------------
 
+.. note:: Slap editor ?
+
+   `Slap <https://github.com/slap-editor/slap>`_ est un autre éditeur de code en console.
+   De conception beaucoup plus récente, inspiré de `Sublime Text <sublimetext.fr.html>`_, `codé en Javascript et basé sur Node.js <https://github.com/slap-editor/slap#installation>`_.
+   Et il est assez génial !
+
+
 Autres références
 -----------------
 Si ce sujet vous intéresse, je vous invite à aller jeter un oeil à ces pages là:

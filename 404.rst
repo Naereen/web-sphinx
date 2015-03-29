@@ -12,7 +12,7 @@
 
 
    .. raw:: html
-   
+
       <script type="text/javascript" src="_static/referrer.js"></script>
       <script type="text/javascript">
       if (document.referrer != ""){
@@ -36,7 +36,7 @@
 .. sidebar:: Retourner à l'accueil
 
    Cette page n'est pas intéressante, allez plutôt consulter `celle là <index.html>`_.
-   
+
 
 ---------------------------------------------------------------------
 

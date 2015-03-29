@@ -12,7 +12,7 @@ Présentation
 ------------
 Concept
 ^^^^^^^
-.. note:: Pas encore fini !
+.. note:: Pas encore fini ! Je finirai après avoir testé moi-même !
 
 Une solution : `Zotero <https://www.zotero.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

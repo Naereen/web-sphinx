@@ -87,7 +87,7 @@ Le toplevel
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
- hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
@@ -98,9 +98,9 @@ Copyrights
 Remerciements
 -------------
  * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
-   La page de référence pour ces morceaux de code est 
+   La page de référence pour ces morceaux de code est
    `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
-   
+
  * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_) même si leur projet se semble plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
 
  * Merci aux auteurs d'**OCaml**;

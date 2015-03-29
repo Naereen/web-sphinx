@@ -14,7 +14,7 @@ Toplevel Python 2.7.2 avec l'éditeur ACE
 .. raw:: html
 
    <style type="text/css" media="screen">
-    #preeditor { 
+    #preeditor {
         font-family: monospace;
         font-size: 18px;
         position: relative;
@@ -143,7 +143,7 @@ Libraire standard
 ~~~~~~~~~~~~~~~~~
 En utilisant un débuggeur JavaScript, comme `FireBug <https://getfirebug.com/whatisfirebug>`_,
 il est possible de voir les appels aux fichiers de la librairie Python.
- 
+
 Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)
 
 Autres pages
@@ -152,13 +152,13 @@ Ce terminal est aussi disponible ici `<_static/python/index.html>`_, mais avec l
 
 Hébergements
 ~~~~~~~~~~~~
-Les scripts **Javascript** utilisés sur mes pages sont hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+Les scripts **Javascript** utilisés sur mes pages sont hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts
 <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ~~~~~~~~~~
 Le **toplevel** Python embarqué ici est implémenté en **Javascript**,
-et vient du projet Empythoned (voir cette page 
+et vient du projet Empythoned (voir cette page
 `github.com/replit/empythoned <https://github.com/replit/empythoned>`_)
 pour plus de détails.
 

@@ -9,7 +9,7 @@ S'abonner au flux
 Il y a deux flux :
 
  * Celui produit par Bitbucket d'après mes commits au dépôt *lbesson/web-sphinx/*.
-   On peut s'y abonner facilement, il suffit de `cliquer sur ce texte 
+   On peut s'y abonner facilement, il suffit de `cliquer sur ce texte
    <http://bitbucket.org/lbesson/web-sphinx/rss>`_;
 
  * ou celui que j'écrit moi-même. On peut s'y abonner en cliquant sur cette image :
@@ -21,12 +21,12 @@ Il y a deux flux :
    :target: http://besson.qc.to/rss.xml
 
 
-.. warning:: generateit.net est fermé. Pas encore trouvé de service de remplacement
+.. warning:: generateit.net est fermé, sans service de remplacement.
 
 
 Le flux 1 (Bitbucket)
 ---------------------
-Ce flux ne s'affiche plus, mais en revanche, l'extension bitbucket permet d'afficher
+Ce flux ne s'affiche plus, mais en revanche, l'extension `bitbucket` permet d'afficher
 les dernières modifications du dépôt git (presque pareil que le flux) :
 
 .. git_changelog::

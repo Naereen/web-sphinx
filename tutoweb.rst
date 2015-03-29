@@ -5,6 +5,9 @@
 .. warning:: inutile
 
    Cette page est un peu inutile, pas très bien rédigée, et franchement faite un peu trop vite.
+   Cette page est trop vieille !
+
+.. todo:: Update it !
 
 
 Quelques conseils, et pointeurs pour commencer à faire des pages webs.
@@ -46,7 +49,7 @@ Pour faire un blog
 Pour générer des pages un peu moins moches
 ------------------------------------------
 Moi j'utilise Sphinx (http://sphinx-doc.org) et le langage associé est rST (référence: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html).
-rST en tant que tel est un bon langage à balise, moins que concis que Markdown 
+rST en tant que tel est un bon langage à balise, moins que concis que Markdown
 mais il est fourni avec plus de « plugins » (gnuplot, graphviz etc).
 
  - Exemple de source : http://perso.crans.org/besson/_sources/tutoweb.txt

@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
    :description lang=fr: Démo de l'intégration de JQuery SparkLine à Sphinx
    :description lang=en: Démo of JQuery SparkLine with Sphinx
 
@@ -12,7 +12,7 @@
 
 À-propos
 --------
-Cette page est là pour présenter l'utilisation de 
+Cette page est là pour présenter l'utilisation de
 `JQuery SparkLine <http://omnipotent.net/jquery.sparkline>`_
 dans des pages webs générées avec `Sphinx <http://sphinx-doc.org>`_.
 
@@ -44,7 +44,7 @@ Déclarer les graphiques
 Encore avec une balise ``.. raw:: html`` en *rST*
 et la commande *HTML* ``<script type="text/javascript">...</script>"``.
 
-On en génère 4, comme dans l'exemple sur la 
+On en génère 4, comme dans l'exemple sur la
 `page de doc <http://omnipotent.net/jquery.sparkline/#s-docs>`_.
 
 .. raw:: html
@@ -53,9 +53,9 @@ On en génère 4, comme dans l'exemple sur la
    $(function() {
    /** This code runs when everything has been loaded on the page */
    /* Inline sparklines take their values from the contents of the tag */
-   $('.inlinesparkline').sparkline(); 
+   $('.inlinesparkline').sparkline();
 
-   /* Sparklines can also take their values from the first argument 
+   /* Sparklines can also take their values from the first argument
    passed to the sparkline() function */
    var myvalues = [10,8,5,7,4,4,1];
    $('.dynamicsparkline').sparkline(myvalues);
@@ -63,7 +63,7 @@ On en génère 4, comme dans l'exemple sur la
    /* The second argument gives options such as chart type */
    $('.dynamicbar').sparkline(myvalues, {type: 'bar', barColor: 'green'} );
 
-   /* Use 'html' instead of an array of values to pass options 
+   /* Use 'html' instead of an array of values to pass options
    to a sparkline with data in the tag */
    $('.inlinebar').sparkline('html', {type: 'bar', barColor: 'red'} );
    });
@@ -73,7 +73,7 @@ On en génère 4, comme dans l'exemple sur la
 Afficher les graphiques
 ^^^^^^^^^^^^^^^^^^^^^^^
 Toujours pareil, on utilise ``.. raw:: html`` en *rST* pour inclure
-du code *HTML* (voir la source de cette page, 
+du code *HTML* (voir la source de cette page,
 `sparkline.rst <https://bitbucket.org/lbesson/web-sphinx/src/master/sparkline.rst>`_).
 
 .. raw:: html
@@ -94,10 +94,12 @@ Un exemple plus sympa
 ---------------------
 On va essayer un exemple **plus intéressant** ?
 
+.. warning:: Le script plante parfois...
+
 .. raw:: html
 
    <script type="text/javascript">
-   /** 
+   /**
    ** Draw the little mouse speed animated graph
    ** This just attaches a handler to the mousemove event to see
    ** (roughly) how far the mouse has moved
@@ -106,8 +108,8 @@ On va essayer un exemple **plus intéressant** ?
    **/
    function drawMouseSpeedDemo() {
     var mrefreshinterval = 500; // update display every 500ms
-    var lastmousex=-1; 
-    var lastmousey=-1;
+    var lastmouse_x=-1;
+    var lastmouse_y=-1;
     var lastmousetime;
     var mousetravel = 0;
     var mpoints = [];
@@ -115,11 +117,11 @@ On va essayer un exemple **plus intéressant** ?
     $('html').mousemove(function(e) {
         var mousex = e.pageX;
         var mousey = e.pageY;
-        if (lastmousex > -1) {
-            mousetravel += Math.max( Math.abs(mousex-lastmousex), Math.abs(mousey-lastmousey) );
+        if (lastmouse_x > -1) {
+            mousetravel += Math.max( Math.abs(mousex-lastmouse_x), Math.abs(mousey-lastmouse_y) );
         }
-        lastmousex = mousex;
-        lastmousey = mousey;
+        lastmouse_x = mousex;
+        lastmouse_y = mousey;
     });
     var mdraw = function() {
         var md = new Date();
@@ -136,7 +138,7 @@ On va essayer un exemple **plus intéressant** ?
         setTimeout(mdraw, mrefreshinterval);
     }
     // We could use setInterval instead, but I prefer to do it this way
-    setTimeout(mdraw, mrefreshinterval); 
+    setTimeout(mdraw, mrefreshinterval);
    };
    </script>
    <script type="text/javascript">/* <![CDATA[ */

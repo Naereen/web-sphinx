@@ -64,11 +64,15 @@ Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. 
 Cette page était juste la pour une démo (première intégration de ``HTML`` et ``JavaScript`` dans *Sphinx*),
 maintenant elle sert à rien (si ce n'est avoir une superbe horloge en base 3 :) !!).
 
+.. note:: Un aspect nostalgique !
+
+   En fait, je garde cette page (et ce petit programme javascript) ici, aussi par *nostalgie*.
+   Quand je commençais à écrire des pages web (janvier 2012), c'est le premier code Javascript sur lequel je me suis entraîné !
+
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
- hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
-
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

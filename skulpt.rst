@@ -7,10 +7,10 @@
 ------------------------------------------------------------------------------
 
 .. warning:: Compatibilité HTML5 requise !
-   
-   Cette page nécessite `un navigateur compatible HTML 5 <http://html5test.com/>`_ 
+
+   Cette page nécessite `un navigateur compatible HTML 5 <http://html5test.com/>`_
    (voir aussi `html5readiness.com <http://html5readiness.com>`_)
-   
+
    Malgré ça, cette version de l'interprète Python semble plus accessible que
    la première mise en place (`<python.html>`_), en particulier **Skulpt**
    semble plus compatible avec les navigateurs des smartphones (si ce n'est
@@ -25,7 +25,7 @@ Toplevel Python 2.7.3 Skulpt
 .. raw:: html
 
    <style type="text/css" media="screen">
-    #preeditor { 
+    #preeditor {
         font-family: monospace;
         font-size: 18px;
         position: relative;
@@ -97,17 +97,17 @@ Toplevel Python 2.7.3 Skulpt
        };
        // ACE Option. See http://ace.c9.io/#nav=howto for more options.
        try {
-         try { 
+         try {
            editor.setTheme("ace/theme/cobalt");
-         } catch(err2) { 
+         } catch(err2) {
            console.log("[ERROR] ACE was not able to use load the 'ace/theme/cobalt' theme.");
            editor.setTheme("ace-new/theme/cobalt");
          };
-         try { 
-          editor.getSession().setMode("ace/mode/python"); 
-        } catch(err3) { 
+         try {
+          editor.getSession().setMode("ace/mode/python");
+        } catch(err3) {
            console.log("[ERROR] ACE was not able to use load the 'ace/mode/python' mode.");
-          editor.getSession().setMode("ace-new/mode/python"); 
+          editor.getSession().setMode("ace-new/mode/python");
         };
          editor.getSession().setTabSize(4);
          editor.getSession().setUseWrapMode(true);
@@ -116,7 +116,7 @@ Toplevel Python 2.7.3 Skulpt
          editor.setReadOnly(false);  // true to make it non-editable
          console.log("[INFO] ACE seems to be well initialized.");
        } catch(err) { console.log("[ERROR] There was an error : " + err.message); };
-       // 
+       //
        var output = document.getElementById('output');
        var spanoutput = document.getElementById('spanoutput');
        var mycanvas = document.getElementById('mycanvas');
@@ -134,7 +134,7 @@ Toplevel Python 2.7.3 Skulpt
           var prog = "";
           // var prog = try { editor.getValue(); } catch(err) { input.innerHTML; };
           try {
-            prog = editor.getValue(); 
+            prog = editor.getValue();
           } catch(err) {
             console.log("[ERROR] ACE was not able to get the content of the textarea with 'getValue'.");
             prog =  input.innerHTML;
@@ -164,9 +164,9 @@ Toplevel Python 2.7.3 Skulpt
           // var tmpvalue = try { editor.getValue(); } catch(err) { editor.innerHTML; };
           try {
             tmpvalue = editor.getValue();
-          } catch(err) { 
+          } catch(err) {
             console.log("[ERROR] ACE was not able to get the content of the textarea with 'getValue'.");
-            tmpvalue = editor.innerHTML; 
+            tmpvalue = editor.innerHTML;
           };
           try { editor.setValue(""); } catch(err) { editor.innerHTML = ""; };
           window.alert("Zone d'édition vidée ! Ancien contenu :\n" + tmpvalue);
@@ -179,16 +179,16 @@ Toplevel Python 2.7.3 Skulpt
           var tmpvalue = "";
           // var tmpvalue = try { output.value = ""; } catch(err) { output.innerHTML = ""; };
           // output.innerHTML;
-          try { 
-            tmpvalue = output.innerHTML; 
-          } catch(err) { 
+          try {
+            tmpvalue = output.innerHTML;
+          } catch(err) {
             console.log("[ERROR] ACE was not able to get the content of the output with '... = output.value'.");
-            tmpvalue = output.value; 
+            tmpvalue = output.value;
           };
           // output.innerHTML = "";
-          try { 
-            output.innerHTML = ""; 
-          } catch(err) { 
+          try {
+            output.innerHTML = "";
+          } catch(err) {
             console.log("[ERROR] ACE was not able to change the content of the output with 'output.value = ...'.");
             output.value = "";  };
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
@@ -200,8 +200,8 @@ Toplevel Python 2.7.3 Skulpt
    </script>
 
 
-+--------------------------------+-------------------------------+ 
-| .. image:: .python-powered.png | .. image:: .ace-powered.png   |   
++--------------------------------+-------------------------------+
+| .. image:: .python-powered.png | .. image:: .ace-powered.png   |
 |    :scale: 120 %               |    :scale: 45 %               |
 |    :align: right               |    :align: left               |
 |    :alt: Python powered :)     |    :alt: ACE powered :)       |
@@ -235,7 +235,7 @@ Autres pages
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
- hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights

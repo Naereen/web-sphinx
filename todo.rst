@@ -4,7 +4,7 @@
 .. include:: .special.rst
 À propos
 --------
-Cette page accueille une liste des problèmes à résoudre, de trucs à faire, 
+Cette page accueille une liste des problèmes à résoudre, de trucs à faire,
 et d'idées pour améliorer ces pages webs (`<index.html>`_ pour en savoir plus).
 
 .. sidebar:: Liste personnelle

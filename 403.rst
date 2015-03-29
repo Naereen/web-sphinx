@@ -6,7 +6,7 @@
 .. warning:: Page d'erreur 403 !
 
    :red:`Oups, on dirait que vous avez voulu accéder à une page sans y avoir le droit.`
-   
+
    Certains sous dossiers de mes pages persos ne sont pas ouverts au public.
 
 
@@ -28,14 +28,14 @@
    n'hésitez pas à me contacter (`par email par exemple <mailto:lilian DOT besson AT ens-cachan DOT fr>`_),
    ou en *signalant un bug* via le gestionnaire de bugs, sur **bitbucket** `web-sphinx/issues
    <https://bitbucket.org/lbesson/web-sphinx/issues>`_.
-   
+
 
 ---------------------------------------------------------------------
 
 .. sidebar:: Retourner à l'accueil
 
    Cette page n'est pas intéressante, allez plutôt consulter `celle là <index.html>`_.
-   
+
 
 ---------------------------------------------------------------------
 

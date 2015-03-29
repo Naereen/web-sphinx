@@ -7,105 +7,105 @@
 ###########################################
 .. include:: .special.rst
 
-This page is written to clarify some *'legal'* points.
+This page is written to clarify some *« legal »* points regarding my webpages.
 
-.. warning::
+.. warning:: This page is old and :red:`NOT UP-TO-DATE` !
 
-  This page is old and :red:`NOT UP TO DATE` !
+.. todo:: Keep it up-to-date!
 
 About
 -----
- This little page is intented to quote the trademarks I quote 
- in the other pages. And also to give an almost exhaustive 
+ This little page is intented to quote the trademarks I quote
+ in the other pages. And also to give an almost exhaustive
  list of the software and usefull website I'm using for my projects.
 
 ------------------------------------------------------------------------------
 
 Institutions
 ------------
- I'm trying to keep a list of all quoted institution, 
+ I'm trying to keep a list of all quoted institution,
  and to clarify here the one which I am connected to
  and the others.
 
 ENS de Cachan
 ~~~~~~~~~~~~~
- Just to precise : I am a **student** at ENS de Cachan. 
+ Just to precise : I am a **student** at ENS de Cachan.
  Not a teacher, not anything else than a student.
 
- But it could be a source of misunderstanding : I am a student, ok, 
+ But it could be a source of misunderstanding : I am a student, ok,
  but with the *special* French status ``normalien``.
- 
- That means that I'm affiliated with the French *'Enseignement Supérieur'* 
+
+ That means that I'm affiliated with the French *'Enseignement Supérieur'*
  minister, and I receives a salary for this.
- 
+
  I entered to this school by passing a national exam, in 2011.
 
  .. note::
- 
-    So, when I quote 'ENS de Cachan', in my pages or in my source codes, 
-    that **always** means that I'm a student, 
-    and also that a significant part of my work is **related** to the work 
+
+    So, when I quote 'ENS de Cachan', in my pages or in my source codes,
+    that **always** means that I'm a student,
+    and also that a significant part of my work is **related** to the work
     “I have to do *at school*”.
-   
+
 CMLA (Maths research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  The CMLA is the Mathematics research institute of ENS de Cachan.
- 
- Again, I am **not** a member of the CMLA. At least, a lot of 
- the maths teachers I heard during the past two years are related to the CMLA, 
+
+ Again, I am **not** a member of the CMLA. At least, a lot of
+ the maths teachers I heard during the past two years are related to the CMLA,
  but nothing else.
 
  .. note::
- 
-    So, when I quote 'CMLA', in my pages or in my source codes, 
-    that **never** means that I'm a member of CMLA, 
-    but that means a part of this content is related to the work 
+
+    So, when I quote 'CMLA', in my pages or in my source codes,
+    that **never** means that I'm a member of CMLA,
+    but that means a part of this content is related to the work
     “I have to do *at school*”.
- 
+
 LSV (*CS* research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  The LSV is the Computer Science lab research of ENS de Cachan.
- 
- Again, I am **not** a member of the LSV. At least, a lot of 
- the CS teachers I heard in the last two years are related to the LSV, 
+
+ Again, I am **not** a member of the LSV. At least, a lot of
+ the CS teachers I heard in the last two years are related to the LSV,
  but nothing else.
 
  .. note::
- 
-    So, when I quote 'LSV', in my pages or in my source codes, 
-    that **never** means that I'm a member of LSV, 
-    but that a part of the content is related to the work 
+
+    So, when I quote 'LSV', in my pages or in my source codes,
+    that **never** means that I'm a member of LSV,
+    but that a part of the content is related to the work
     “I have to do *at school*”.
 
 CNRS (French scientific research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- The CNRS is the French Institude for Scientific Research 
+ The CNRS is the French Institude for Scientific Research
  ("Centre National de la Recherche Scientifique").
- 
+
  I have no connection to the CNRS. Not at all.
- 
- Anyway, I used their name and their logo for a few months, 
+
+ Anyway, I used their name and their logo for a few months,
  on a few pages.
  **For this, I sincerely appologize** : I will no longer do such a thing.
- 
+
  .. note::
- 
-    I'm trying to clean up some of my old codes, 
-    and my old web pages, to erase all occurrences 
+
+    I'm trying to clean up some of my old codes,
+    and my old web pages, to erase all occurrences
     of the CNRS name or logo.
     If you find of I forgot to erase, please inform me.
- 
+
 ------------------------------------------------------------------------------
 
 Trademarks
 ----------
- All the quoted trademarks on this page and on all the page on this domain 
+ All the quoted trademarks on this page and on all the page on this domain
  are the respective properties of their owners.
- 
+
 A non exhaustive list
 ~~~~~~~~~~~~~~~~~~~~~
  I'm trying here to keep a list of all the trademarks I quote in my pages.
- If I forgot one, and if that bother you, please 
+ If I forgot one, and if that bother you, please
  `contact me <mailto:lilian DOT besson AT normale DOT fr>`_.
 
 In particular,
@@ -155,7 +155,7 @@ In particular,
 Used softwares
 --------------
 I usually try to quote and to say what software I used to produce the different available files
-on each of my web pages and projects descriptions, 
+on each of my web pages and projects descriptions,
 but to be more precise, I'm also trying to quote them all here.
 
 So, I used the following software :
