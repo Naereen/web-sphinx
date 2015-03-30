@@ -30,7 +30,7 @@ Quelques listes d'applis
 
 .. warning:: N'est plus à jour !
 
-   J'ai écrit cette liste en *Juin et Juillet 2014*, donc elle est probablemen obsolète.
+   J'ai écrit cette liste en *juin et juillet 2014*, donc elle est probablemen obsolète.
 
 
 Liste des applis qu'il faut avoir

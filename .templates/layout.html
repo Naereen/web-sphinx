@@ -87,6 +87,12 @@
 
 {% block relbaritems %}
  <script type="text/javascript">
+  // New: this is outside the function, and outside of .templates/language-selector.html
+  var s = window.location.pathname;
+  var n = s.length;
+  var b = s.substring(0, n-8);
+  var e = s.substring(n-8);
+  console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
   function writeLocationOfThePage(beforetext, aftertext) {
     if (screen.width > 480) {
     window.document.write(beforetext + "<span class=\"locationOfThePage\">"
@@ -94,11 +100,6 @@
       + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
       + "</a></span>" + aftertext);
     };
-    var s = window.location.pathname;
-    var n = s.length;
-    var b = s.substring(0, n-8);
-    var e = s.substring(n-8);
-    console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
     if (e == '.fr.html') {
       window.document.write('<li class="right"><a class="image-reference" href="'
         + b + '.en.html" title="En anglais ?" >'
