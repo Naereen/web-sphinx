@@ -1,7 +1,7 @@
 #!/usr/bin/env /usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# Lilian Besson on the web documentation build configuration file
+# Lilian Besson on the web documentation build configuration file (01-04-2015)
 #
 # This file is execfile()d with the current directory set to its containing dir.
 # All configuration values have a default; values that are commented out
@@ -138,7 +138,7 @@ copyright = u'2011-2015, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '2.2.5'
+version = '2.3'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -190,9 +190,11 @@ autodoc_default_flags = ['members', 'private-members']
 
 # -- Options for HTML output ---------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-html_theme = 'default'
+# The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
+html_theme = 'alabaster'
+# 'default' html theme has been renamed to 'classic'.
+# Please change your html_theme setting either to the new 'alabaster' default theme, or to 'classic' to keep using the old default.
+
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -221,10 +223,12 @@ html_static_path = [ '.static' ]
 html_favicon = u".static/.favicon.ico"
 # html_favicon = u".besson.png"
 
-#Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
-html_add_permalinks = True
+# Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
+# This value determines the text for the permalink; it defaults to "¶". Set it to None or the empty string to disable permalinks.
+# Changed in version 1.1: This can now be a string to select the actual text of the link. Previously, only boolean values were accepted.
+html_add_permalinks = u"¶"
 
-#Encoding of HTML output files. Default is 'utf-8'. Note that this encoding name must both be a valid Python encoding name and a valid HTML charset value.
+# Encoding of HTML output files. Default is 'utf-8'. Note that this encoding name must both be a valid Python encoding name and a valid HTML charset value.
 html_output_encoding = u"utf-8"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
@@ -348,7 +352,7 @@ latex_use_parts = True
 latex_show_pagerefs = False
 
 # If true, show URL addresses after external links.
-latex_show_urls = False
+latex_show_urls = 'footnote'
 
 # Additional stuff for the LaTeX preamble.
 latex_preamble = r'''
@@ -596,10 +600,3 @@ pdf_use_numbered_links = False
 
 # Background images fitting mode
 pdf_fit_background_mode = 'scale'
-
-##############################################################################
-# (c) 2011-15
-#
-# Lilian Besson
-# mailto:lbesson[@]ens-cachan[.]fr
-#
