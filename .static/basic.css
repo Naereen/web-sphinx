@@ -17,9 +17,10 @@ div.clearer {
     clear: both;
 }
 
-div.body {
+/* FIXME ? */
+/*div.body {
     margin-top: 35px;
-}
+}*/
 
 /* -- href with extra properties -------------------------------------------- */
 
