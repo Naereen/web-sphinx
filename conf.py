@@ -191,7 +191,7 @@ autodoc_default_flags = ['members', 'private-members']
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'classic'
 # 'default' html theme has been renamed to 'classic'.
 # Please change your html_theme setting either to the new 'alabaster' default theme, or to 'classic' to keep using the old default.
 

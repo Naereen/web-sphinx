@@ -17,6 +17,10 @@ div.clearer {
     clear: both;
 }
 
+div.body {
+    margin-top: 35px;
+}
+
 /* -- href with extra properties -------------------------------------------- */
 
 a[class*="external"]:after {
@@ -590,12 +594,13 @@ tt.descclassname {
     background-color: transparent;
 }
 
-tt.xref, a tt {
+tt.xref, a tt, a code {
     background-color: transparent;
     font-weight: bold;
 }
 
-h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
+h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt,
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     background-color: transparent;
 }
 
