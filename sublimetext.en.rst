@@ -36,7 +36,7 @@ This article contains quick explanation of the installation and use of Sublime T
 About Sublime Text 3
 ^^^^^^^^^^^^^^^^^^^^
 The official website is `www.SublimeText.com/3 <http://www.sublimetext.com/3>`_.
-My article focuses on version 3 of Sublime Text.
+My article focuses on version 3 of Sublime Text (currently, version 3.083, *released the 26th of March 2015*).
 
 .. warning:: Live dangerously :) ?
 
@@ -188,7 +188,7 @@ Plugins that add great features:
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
 * The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial license... But it is really awesome, so you will support this.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I do not use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
-* `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`more explanations? <wakatime.en.html>`_).
+* `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
 
 
 A better syntax coloring for some languages:

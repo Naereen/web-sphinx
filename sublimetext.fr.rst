@@ -39,7 +39,7 @@ des liens vers mes fichiers de configurations, et des remarques générales.
 À-propos de Sublime Text 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le site officiel est `www.SublimeText.com/3 <http://www.sublimetext.com/3>`_.
-Mon article s'intéresse à la version 3 de Sublime Text.
+Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *sortie le 26 mars 2015*)
 
 .. warning:: Vivre dangereusement :) ?
 
@@ -191,7 +191,7 @@ Greffons ajoutant de super fonctionnalités :
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
 * `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce plugin est vraiment génial, donc vous supporterez son petit défaut !
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers pas, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
-* `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`plus de détails ? <wakatime.en.html>`_).
+* `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.en.html>`_).
 
 Une meilleures colorations pour certains langages :
 
