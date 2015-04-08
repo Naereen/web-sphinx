@@ -170,7 +170,7 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 « Shortest URL on earth »
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Voir par exemple `❥.ws/fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers une page facebook.
-Ou `➞.ws/mec.lbesson <http://➞.ws/mec.lbesson>`_ qui pointe vers `mon profil sur la page web de Mahindra Ecole Centrale <>`_.
+Ou `➞.ws/mec.lbesson <http://➞.ws/mec.lbesson>`_ qui pointe vers `mon profil sur la page web de Mahindra Ecole Centrale <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
 
 Oui, les noms de domaine sont bien "❥.ws" et "➞.ws", vous avez bien lu. Fou non ?
 

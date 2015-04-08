@@ -12,7 +12,7 @@ Bonjour, je suis **Lilian Besson**, `(ex) étudiant normalien en mathématiques 
 (*grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
 
 Depuis mi-juillet 2014, **je vis et travaille en Inde**, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_; en tant que chargé de `TDs (teaching assistant) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (`MA101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ et `MA102 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_), et je suis surtout en charge du cours d'*introduction à l'informatique* (`CS101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_) pour le second semestre (janvier - mai 2015), `en tant qu'assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
-Je `resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014-15 <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_ (ie. *mi-main 2015*).
+Je `resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014-15 <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_ (ie. *mi-mai 2015*).
 
 .. include:: whatsnew.fr.rst
 
