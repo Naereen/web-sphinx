@@ -102,7 +102,7 @@ L'aide (``wakatime -help``) n'est pas bien écrite, mais on peut deviner son uti
    C'est moins cool lorsqu'on s'`aperçoit que les couleurs sont incluses brutalement <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ dans le script...
    Comme l'explique `ce poste <http://stackoverflow.com/a/6307894>`_, ce n'est pas une bonne pratique.
 
-   Merci `à cette astuce à coup de sed <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (`` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"``).
+   Merci `à cette astuce à coup de sed <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]\*[mK]::g"`).
 
 
 Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur Wakatime.com) <https://wakatime.com/settings>`_ : ::

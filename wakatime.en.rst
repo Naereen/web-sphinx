@@ -30,7 +30,7 @@ The goal of `WakaTime <https://wakatime.com/>`_ is to offer to any developer an 
 And they do the job extremely well, because `WakaTime`_ offers two things:
 
  - `a nice web interface <https://wakatime.com/>`_, well designed (responsive of course), to visualize your activity,
- - and  `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-in*s, you know, these small softwares that you can easily add to `your favorite text editor <sublimetext.en.html>`_.
+ - and  `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-ins,* you know, these small softwares that you can easily add to `your favorite text editor <sublimetext.en.html>`_.
 
 The concept is quite simple after: your text editor is spying on you and each aspect of your programming activity, to send the data on-line on `Wakatime`_ servers, and then you (and their sys-admins, and NSA of course) can easily read and use your personal data.
 

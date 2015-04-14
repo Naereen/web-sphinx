@@ -2,9 +2,9 @@
    :description lang=en: How to mount an Wubi .disk file as an ISO on Ubuntu?
    :description lang=fr: Comment monter un fichier Wubi .disk comme une image ISO sur Ubuntu ?
 
-##################################
+######################################################
  How to mount an Wubi .disk file as an ISO on Ubuntu?
-##################################
+######################################################
 .. include:: .special.rst
 
 .. note:: Wubi?
