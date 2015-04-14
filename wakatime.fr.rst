@@ -32,8 +32,6 @@ Et ils font ça bien, puisque `WakaTime`_ se présente sous deux formes :
 
 Le concept est simple : votre éditeur de texte vous espionne, envois les données en ligne sur les serveurs de `WakaTime`_, et ensuite vous (et les responsables du service, ainsi que la NSA) pouvez librement consulter ces données.
 
-.. note:: Des captures d'écrans viendront. Peut-être.
-
 ------------------------------------------------------------------------------
 
 Dans mon cas

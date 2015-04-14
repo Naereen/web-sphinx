@@ -125,6 +125,8 @@ Pages in English
    transifex.en
    opendns.en
    latexonwindows.en
+   apprendre-python.en
+   mount-a-wubi-disk-as-an-iso-on-ubuntu.en
    trademarks
    demo
    alaskabombeh.en

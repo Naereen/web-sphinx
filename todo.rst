@@ -18,7 +18,7 @@ De tels soucis peuvent être déclarés via : ::
 
     .. todo:: Bug !
 
-    Voici un soucis.
+       Voici un soucis.
 
 
 TODO génériques
