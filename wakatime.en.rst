@@ -76,18 +76,18 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 
 ------------------------------------------------------------------------------
 
-Un bonus : accéder aux statistiques en ligne de commande
---------------------------------------------------------
-Il est facile d'installer l'outil `WakaTimeCLI <https://github.com/wakatime/WakaTimeCLI/tree/master/src>`_,
-avec la commande ``npm install wakatimecli``.
+Let us finish on a bonus : read your `Wakatime`_ stats from the command line
+----------------------------------------------------------------------------
+It is easy to install the command line tool `WakaTimeCLI <https://github.com/wakatime/WakaTimeCLI/tree/master/src>`_,
+with the command ``npm install wakatimecli``.
 
-.. note:: nodejs et npm sont requis
+.. note:: nodejs and npm are needed
 
-    Cela demande d'avoir déjà installé sur votre machine `nodejs <https://nodejs.org/>`_ et son gestionnaire de paquet `npm <https://www.npmjs.com/>`_.
+    This requires to have already installed `nodejs <https://nodejs.org/>`_ on your machine, and its packet manager `npm <https://www.npmjs.com/>`_.
 
 
-Cet outil en ligne de commande se base `sur cette API <https://wakatime.com/developers/>`_, et est facile à utiliser.
-La première commande est `wakatime -help <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ qui montre les différentes options acceptées par cet outil : ::
+This tool is based on `the officiel Wakatime API <https://wakatime.com/developers/>`_, and his fairly easy to use.
+The first command is `wakatime -help <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ which shows the different options that are accepted by the tool: ::
 
     Please pass an option:
       -? or -help
@@ -97,31 +97,32 @@ La première commande est `wakatime -help <https://github.com/wakatime/WakaTimeC
       -w or -week
 
 
-L'aide (``wakatime -help``) n'est pas bien écrite, mais on peut deviner son utilisation `ici directement dans son code source <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_.
+The help (``wakatime -help``) is nothing but confused, but we can guess its use `by directly reading its source-code <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_...
 
 
-.. note:: Cet outil produit une sortie en couleur, cool !
+.. note:: This tool is writing its results with ANSI colours, sweet!
 
-   C'est moins cool lorsqu'on s'`aperçoit que les couleurs sont incluses brutalement <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ dans le script...
-   Comme l'explique `ce poste <http://stackoverflow.com/a/6307894>`_, ce n'est pas une bonne pratique.
+   Yeah, but it is less sweet when we `see that the colours had been brutally included directly <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ in the script...
+   As `this message explains it <http://stackoverflow.com/a/6307894>`_, this is NOT the good practice to follow.
 
-   Merci `à cette astuce à coup de sed <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (`` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"``).
+   But thanks to `this sed command <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"`) I thought I would be able to include the output of a `wakatime` command in this page.
 
 
-Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur Wakatime.com) <https://wakatime.com/settings>`_ : ::
+Then, in order to be able to use the tool, you will need to add `your API Key (available in the settings on Wakatime.com/settings) <https://wakatime.com/settings>`_ : ::
 
     wakatime -api yourApiKeyHere
 
 
-Par exemple, la commande `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ donne le temps total passé sur son (ses) éditeur(s) de code durant les 7 derniers jours.
+For instance, the command `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the lat 7 days.
+
 
 .. runblock::
 
-   wakatime -w | sed -r "s:\\x1B\\[[0-9;]*[mK]::g" | head -n3
+   wakatime -w | sed -r "s:\x1B\[[0-9;]*[mK]::g" | head -n3
 
 
 ------------------------------------------------------------------------------
 
-.. todo:: Terminer de l'écrire + capture d'écran ?
+.. todo:: Conclude the writing, and add some screenshots ?
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
