@@ -114,6 +114,7 @@ Pages in English
 
    callme.en
    cv.en
+   teaching.en
    cookies.en
    ga.en
    beacon.en
@@ -125,7 +126,7 @@ Pages in English
    transifex.en
    opendns.en
    latexonwindows.en
-   apprendre-python.en
+   learn-python.en
    mount-a-wubi-disk-as-an-iso-on-ubuntu.en
    trademarks
    demo

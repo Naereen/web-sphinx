@@ -356,6 +356,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
 
    callme.fr
    cv.fr
+   enseignement.fr
    rss
    publis
    bin
