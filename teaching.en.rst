@@ -6,7 +6,6 @@
  Teaching activities (and some links)
 ######################################
 .. include:: .special.rst
-
 .. warning:: I am still working on this page, but I should conclude soon.
 
 In 2015

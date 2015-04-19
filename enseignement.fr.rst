@@ -6,7 +6,6 @@
  Activités d'enseignements (et divers liens)
 #############################################
 .. include:: .special.rst
-
 .. warning:: Cette page est toujours en rédaction, je devrai terminer bientôt.
 
 In 2015
@@ -52,13 +51,13 @@ Premier semestre en 2014
 
 ------------------------------------------------------------------------------
 
-Entre 2009 et 2013
-------------------
+Entre 2009 et 2013 (prépa et L3+M1)
+-----------------------------------
  Rien de très sérieux, mais j'avais l'habitude d'aider très souvent mes camarades en chimie, sciences de l'ingénieur (SI), physique (entre 2009 et 2011), et bien sûr en maths et informatique (entre 2009 et 2014).
 
-Avant 2009 (high-school and before)
-------------------------------------
- I used to regularly help my friends for Maths, Chemistry, Biology, Physics, but also theater.
+Avant 2009 (lycée et avant)
+---------------------------
+ J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique mais aussi en théâtre !
 
 ------------------------------------------------------------------------------
 
