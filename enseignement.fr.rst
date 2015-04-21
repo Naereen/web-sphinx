@@ -8,7 +8,7 @@
 .. include:: .special.rst
 .. warning:: Cette page est toujours en rédaction, je devrai terminer bientôt.
 
-In 2015
+En 2015
 -------
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -32,7 +32,7 @@ Premier semestre en 2015
 
 ------------------------------------------------------------------------------
 
-In 2014
+En 2014
 -------
 Second semestre en 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
