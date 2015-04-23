@@ -28,13 +28,13 @@ Quelques listes d'applis
    ou d'un *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
 
-.. warning:: N'est plus à jour !
+.. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *juin et juillet 2014*, donc elle est probablemen obsolète.
 
 
-Liste des applis qu'il faut avoir
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Liste des applis qu'*il faut avoir*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Dolphin Browser <http://apk-dl.com/store/apps/details?id=mobi.mgeek.TunnyBrowser>`_ un bon navigateur web,
 * `F-Droid client <https://f-droid.org/FDroid.apk>`_ pour garder à jour ses applications via le dépôt F-Droid,
@@ -54,7 +54,6 @@ Liste des applis qu'il faut avoir
 * `VLC™ (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ un autre lecteur de musique de vidéo,
 * `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ pour accéder rapidement et facilement à Wikipédia. Dommage que MathJax ne soit pas inclus dans l'appli, quelle honte !
 
-
 .. note:: « Et pour les iPhones™ ? » ou « Et pour les Windows™ phones ? »
 
    Je n'ai pas encore eu l'occasion de posséder et d'utiliser régulièrement un téléphone utilisant
@@ -63,13 +62,12 @@ Liste des applis qu'il faut avoir
    Néanmoins, il devrait être possible d'utiliser l'`"App Store"™ d'Apple™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ et le `Windows™ App Store <http://www.windowsphone.fr/fr-FR/store>`_ pour trouver des *équivalents* à chacun des programmes cités dans cette page.
 
 
-Applis pour geeks
-^^^^^^^^^^^^^^^^^
+Applis pour *geeks*
+^^^^^^^^^^^^^^^^^^^
 
 * `Android™ Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) un bon utilitaire d'administration, utile pour effacer le cache, tuer un processus qui s'emballe ou désinstaller rapidement des applications,
 * `Android™ System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ est un autre du même genre,
 * `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ est une appli minuscule, mais très bien réalisée afin de faciliter la manipulation d'autres applis,
-
 
 .. sidebar:: À propos de la VoIP ?
 
@@ -77,7 +75,6 @@ Applis pour geeks
    à la page wikipédia sur la `VoIP`_, ou bien ce tutoriel détaillé
    `Utiliser la VoIP <https://wiki.crans.org/VieCrans/UtiliserVoIP>`_ sur le `wiki du Crans <https://wiki.crans.org/>`_,
    ou encore `ces explications sur doc.ubuntu-fr <http://doc.ubuntu-fr.org/voip>`_, et notamment les détails sur le protocole `SIP <http://doc.ubuntu-fr.org/sip>`_.
-
 
 
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (et son `codec <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) une super application pour appeler avec la `VoIP <https://fr.wikipedia.org/wiki/VoIP>`_, un peu comme `Linphone`_,
@@ -168,6 +165,15 @@ Il existe désormais de nombreux dépôts d'applications en plus du Google Play�
 surtout parce qu'il se concentre sur les applications libres, open source, et gratuites.
 
 Par exemple, voici `la page pour AFWall+ <https://f-droid.org/repository/browse/?fdfilter=firewall&fdid=dev.ukanth.ufirewall>`_, le meilleur `pare-feu <https://fr.wikipedia.org/wiki/Pare-feu_(informatique)>`_ sur Android™.
+
+.. seealso::
+
+   `Cet article sur korben.info <http://korben.info/se-passer-de-google-play-store-cest-possible-et-facile.html>`_
+      En gros, il conseille exactement comme moi : `F-Droid`_ !
+
+   `Aptoide <http://www.aptoide.com/>`_
+      Est une autre alternative à `F-Droid`_.
+
 
 Télécharger des applis directement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

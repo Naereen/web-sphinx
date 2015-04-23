@@ -27,7 +27,6 @@ Some lists of applications
    as the *EXEcutable* program for **Windows™** with the ``.exe`` format,
    or the *Disk iMaGe* for **Mac OS X™** with the ``.dmg`` format.
 
-
 .. warning:: Might be out-of-date!
 
    This list was written in *June and July 2014*, so now it might be a little bit out-of-date.
@@ -69,13 +68,11 @@ Apps for geeks
 * `Android™ System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ is another one of the same kind,
 * `APK Manager <http://apk-dl.com/store/apps/details?id=com.magmamobile.app.apkinstaller>`_ is a tiny but well designed app, to simply and quickly manage all your other applications,
 
-
 .. sidebar:: About VoIP
 
    For some additional details about this technology, one curious reader could read
    the wikipédia page about `VoIP`_, or these explanations on `how to use VoIP <https://wiki.crans.org/VieCrans/UtiliserVoIP>`_ (in French, a reference in English coming soon) on the `Crans wiki <https://wiki.crans.org/>`_,
    or also `these explanations on doc.ubuntu-fr <http://doc.ubuntu-fr.org/voip>`_, especially some details on the `SIP protocol <http://doc.ubuntu-fr.org/sip>`_.
-
 
 
 * `CSipSimple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_ (and this `codec pack <http://apk-dl.com/store/apps/details?id=com.csipsimple.plugins.codecs.pack1>`_) is an amazing app to use the `VoIP <https://en.wikipedia.org/wiki/VoIP>`_, similar to `Linphone`_,
@@ -147,7 +144,6 @@ Apps for secrets agents (or paranoid people)
 * `RedPhone : Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ to secure your phone calls (only with other users of the same app RedPhone),
 * `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure). `WhatsApp <http://www.whatsapp.com/>`_ started `recently <korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_ to use the same secured protocol.
 
-
 Misc.
 ^^^^^
 
@@ -166,6 +162,11 @@ Among many apps repositories, my favorite is `F-Droid <https://f-droid.org/about
 mainly because it's completely free and focused only on Open Source apps.
 
 For instance, there is `the page for AFWall+ <https://f-droid.org/repository/browse/?fdfilter=firewall&fdid=dev.ukanth.ufirewall>`_, the best `firewall <https://en.wikipedia.org/wiki/Personal_firewall>`_ on Android™.
+
+.. seealso::
+
+   `Aptoide <http://www.aptoide.com/>`_
+      Est une autre alternative à `F-Droid`_.
 
 Direct download
 ^^^^^^^^^^^^^^^
