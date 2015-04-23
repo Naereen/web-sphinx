@@ -114,7 +114,7 @@ Par exemple, la commande `wakatime -w <https://github.com/wakatime/WakaTimeCLI/b
 
 .. runblock::
 
-   wakatime -w | sed -r "s:\\x1B\\[[0-9;]*[mK]::g" | head -n3
+   /home/lilian/bin/mywakatime | head -n3
 
 
 ------------------------------------------------------------------------------
