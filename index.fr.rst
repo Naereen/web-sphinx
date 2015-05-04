@@ -156,10 +156,14 @@ Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
+Solutions pour deux projets de programmation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
+
 Exemples de programmes Python (02/2015)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une vingtaine d'exemples de programmes Python, touchant à plusieurs domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc).
-Ces exemples sont là pour `le cours CS101 dont je suis en charge à Mahindra Ecole Centrale <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_, et pour illustrer les cours magistraux que je donnerai en mars et avril 2015.
+Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc).
+Ces exemples sont là pour `le cours CS101 dont je suis en charge à Mahindra Ecole Centrale <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_, et pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
 
 Deux tutoriels (11/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^
