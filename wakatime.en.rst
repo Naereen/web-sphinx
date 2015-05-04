@@ -116,7 +116,7 @@ Then, in order to be able to use the tool, you will need to add `your API Key (a
 For instance, the command `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the lat 7 days.
 
 
-.. runblock::
+.. runblock:: console
 
    /home/lilian/bin/mywakatime | head -n3
 

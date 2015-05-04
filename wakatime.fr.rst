@@ -112,7 +112,7 @@ Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur 
 
 Par exemple, la commande `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ donne le temps total passé sur son (ses) éditeur(s) de code durant les 7 derniers jours.
 
-.. runblock::
+.. runblock:: console
 
    /home/lilian/bin/mywakatime | head -n3
 

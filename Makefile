@@ -7,7 +7,7 @@
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
-SPHINXOPTS    = -v -j 10 -w /tmp/sphinx.log
+SPHINXOPTS    = -v -j 1 -w /tmp/sphinx.log
 # # SPHINXBUILD   = /home/lilian/.local/bin/sphinx-build
 SPHINXBUILD   = /usr/local/bin/sphinx-build
 PAPER         =

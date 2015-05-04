@@ -95,8 +95,8 @@ gnuplot_format = dict(latex='pdf', html='svg')
 
 autorun_languages = {}
 autorun_languages['pycon'] = u'python -'
-autorun_languages['ocaml-stdin'] = u'ocaml -stdin'
-autorun_languages['ocaml-stdin_prefix_chars'] = 2
+autorun_languages['ocamlstdin'] = u'ocaml -stdin'
+autorun_languages['ocamlstdin_prefix_chars'] = 2
 
 autorun_languages['ocaml'] = u'ocaml -init /dev/null'
 autorun_languages['ocaml_prefix_chars'] = 2
