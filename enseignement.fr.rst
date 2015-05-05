@@ -61,6 +61,9 @@ Premier semestre en 2014
 
 .. note:: En 2014, j'ai aussi obtenu l'agrégation de mathématiques !
 
+   J'ai choisi d'être en report de stage pour 2014-15 ainsi qu'en 2015-16, pour finir ma scolarité à l'`École Normale Supérieure de Cachan <http://www.ens-cachan.fr/>`_ (via l'option "*fin de scolarité normalienne*").
+
+
 ------------------------------------------------------------------------------
 
 Entre 2009 et 2013 (prépa et L3+M1)

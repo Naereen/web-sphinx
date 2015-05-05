@@ -12,7 +12,7 @@ In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Nothing yet, though I plan to work at Lycée Louis-le-Grand, to be in charge of regular oral exam in Maths, and CS programming Lab.
+ Nothing yet, though I plan to work at *Lycée Louis-le-Grand* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths, and CS programming Lab.
  *(this still has to be confirmed)*.
 
 First semester of 2015
@@ -57,6 +57,8 @@ First semester of 2014
 .. note:: In 2014
 
    I also got admitted to the French national competitive exam for becoming a prep' school professor (*agrégation*) in mathematics (major in maths, minor in CS).
+
+   For the two scholar year 2014-15 and 2015-16, I decided to postpone the beginning of my carrier as a professor in the French secondary education, in order to properly conclude my training at `École Normale Supérieure de Cachan (ENS of Cachan) <http://www.ens-cachan.fr/version-anglaise/>`_ (thanks to the choice "*fin de scolarité normalienne*").
 
 ------------------------------------------------------------------------------
 
