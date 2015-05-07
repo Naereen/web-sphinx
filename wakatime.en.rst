@@ -123,7 +123,7 @@ For instance, the command `wakatime -w <https://github.com/wakatime/WakaTimeCLI/
 
 .. runblock:: console
 
-   /home/lilian/bin/mywakatime | head -n3
+   $ /home/lilian/bin/mywakatime | head -n3
 
 
 ------------------------------------------------------------------------------
