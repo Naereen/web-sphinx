@@ -127,12 +127,12 @@ Pages in English
    opendns.en
    latexonwindows.en
    learn-python.en
+   hitch-hiking.en
    mount-a-wubi-disk-as-an-iso-on-ubuntu.en
    trademarks
    demo
    alaskabombeh.en
    packing
-   autostop.en
    pokedex-doc/index
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
