@@ -53,7 +53,7 @@ Second semester of 2014
 
 First semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^
-- Regularly grading exam answer scripts @ `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_ (exam answer scripts of high-school student, in mathematics).
+- Regularly grading exam answer scripts @ `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_ (exam answer scripts of high-school students, in mathematics).
 - Occasionally helping high-school students and in charge of oral exams (at the level of Baccalauréat).
 
 .. note:: In 2014

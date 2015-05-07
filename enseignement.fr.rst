@@ -28,7 +28,7 @@ Premier semestre en 2015
 
 :Projets: `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
 
-:Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là illustrer les cours magistraux que j'ai donné en mars et avril 2015.
+:Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
 
 .. todo:: Ajouter des exemples de feuilles de TDs, de TPs, d'examen, et de notations.
 
