@@ -36,6 +36,8 @@ Premier semestre en 2015
 
 .. todo:: Plus de détails, et des liens (Moodle notamment).
 
+- Je suis aussi à l'origine de `listes de lecture pour l'été 2015 <https://mec-summer-15.readthedocs.org/en/latest/>`_, données à nos élèves (*travail en cours*).
+
 
 :Total: Pour ce premier semestre en 2015, j'estime ma charge d'enseignement à **environ 140 heures** (nombre estimé d'heures passées à enseigner à un groupe d'élève ou à une section entière).
 

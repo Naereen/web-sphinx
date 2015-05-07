@@ -33,6 +33,8 @@ First semester of 2015
 
 .. todo:: More details, and external/internal links (Moodle, slides, etc).
 
+- I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.org/en/latest/>`_ (*work in progress*).
+
 :Total: For the first semester of 2015, I evaluate my teaching load to be **about 140 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
 ------------------------------------------------------------------------------
