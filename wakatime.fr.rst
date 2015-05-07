@@ -71,6 +71,11 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 
    J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.
 
+
+Partager les stats d'un projet en particulier
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/ftvestkpra>`_ par exemple (correspondant )à `ce project <https://mec-summer-15.readthedocs.org/en/latest/>`_).
+
 ------------------------------------------------------------------------------
 
 Un bonus : accéder aux statistiques en ligne de commande

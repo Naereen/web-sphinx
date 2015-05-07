@@ -74,6 +74,11 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 
    I would love to find an easy way to just include the pie chart, and not the entire page.
 
+
+Sharing stats for a project?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+It is also possible to share the stats of one project, with a dedicated obfuscated link, like `<https://wakatime.com/@lbesson/projects/ftvestkpra>`_ for example (corresponding to `that project <https://mec-summer-15.readthedocs.org/en/latest/>`_).
+
 ------------------------------------------------------------------------------
 
 Let us finish on a bonus : read your `Wakatime`_ stats from the command line
@@ -100,9 +105,9 @@ The first command is `wakatime -help <https://github.com/wakatime/WakaTimeCLI/bl
 The help (``wakatime -help``) is nothing but confused, but we can guess its use `by directly reading its source-code <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_...
 
 
-.. note:: This tool is writing its results with ANSI colours, sweet!
+.. note:: This tool is writing its results with ANSI colors, sweet!
 
-   Yeah, but it is less sweet when we `see that the colours had been brutally included directly <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ in the script...
+   Yeah, but it is less sweet when we `see that the colors had been brutally included directly <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ in the script...
    As `this message explains it <http://stackoverflow.com/a/6307894>`_, this is NOT the good practice to follow.
 
    But thanks to `this sed command <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"`) I thought I would be able to include the output of a `wakatime` command in this page.
