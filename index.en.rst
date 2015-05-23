@@ -8,7 +8,7 @@
 .. include:: .special.rst
 Who am I?
 ---------
-Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training researcher and professors for superior studies, located near Paris.
+Greetings, I am **Lilian Besson**, `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training researcher and professors for superior studies, located near Paris.
 
 .. include:: whatsnew.en.rst
 

@@ -8,7 +8,7 @@
 .. include:: .special.rst
 À propos (de moi)
 -----------------
-Bonjour, je suis **Lilian Besson**, `(ex) étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
+Bonjour, je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
 
 .. include:: whatsnew.fr.rst
