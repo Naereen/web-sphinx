@@ -30,11 +30,11 @@ at the following addresses (listed by decreasing preference):
 
 2. to my place (in France), but this adresse is for private use only,
 3. do not write to my former place, at CROUS of Cachan (in France, but deprecated, please do not use it anymore),
-4. or you can try in India (more expensive, and probably longer), at my office at `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (the postal address is specified on that page).
+4. or you can try in India (more expensive, and probably longer), at my former office at `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (deprecated, the postal address is specified on that page).
 
 Emails
 ^^^^^^
-If you are a spammer, go on: jarvis.spam@laposte.net ! Oh, and, go fùck yoùrself also.
+If you are a spammer, go on: jarvis.spam@laposte.net! Oh, and, go fùck yoùrself also.
 
 .. image:: .courriel.png
    :scale: 120 %
@@ -57,21 +57,21 @@ Regular phone
    :target: callto:100101011101001100111101100001_2
 
 
-To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number: (*but beware of the price !*).
+To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number: (*but warning about the price!*).
 
-.. warning:: I am currently out of the French territory, in India.
+.. warning:: I am currently out of the French territory, in holidays in Europe.
 
-   Give a call to someone in a foreign country is expensive !
-   In fact, even receiving them is awfully expensive... !! So please avoid :).
+   Give a call to someone in a foreign country is expensive!
+   In fact, even receiving them is costly, so please avoid if possible.
 
 
-You could also try to send me text messages (SMS), with the same number, obviously (*again, but beware of the price !*).
+You could also try to send me text messages (SMS), with the same number, obviously (*again, but be aware of the price!*).
 
 ------------------------------------------------------------------------------
 
 Other methods
 -------------
-The next solutions are way more *geeky*, and you will need a relatively recent computer to try them.
+The next solutions are way more *geeky*, and you will need a relatively recent computer to try them (or a smartphone).
 
 IRC (chat rooms)
 ^^^^^^^^^^^^^^^^
@@ -81,7 +81,7 @@ If you are feeling particularly audacious, you can try to "let a message for me"
 
 VoIP (Telephony by the Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me: call the French fix number +33.9.72.11.32.70 then compose "one four zero four two" when the robot asks you to do it.
+You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me: call the French fix number ``+33.9.72.11.32.70`` then compose "one four zero four two" (``14042``) when the robot asks you to do it.
 
 You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account: naereen at linphone dot org (" at " = "@", " dot " = ".").
 
@@ -96,7 +96,7 @@ You could also try to call me (or to text me) at the `Linphone <http://www.linph
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
 * You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
-* or if it is related to one of my pages or softwares, you could signal a bug with this form: https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly !**
+* or if it is related to one of my pages or softwares, you could signal a bug with this form: https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly!**
 
 HTML5 Services
 ^^^^^^^^^^^^^^
@@ -104,7 +104,7 @@ HTML5 Services
 
    You can go to `this testing page <http://iswebrtcready.appear.in/>`_, to check if your browser is compatible with the "WebRTC" technology, which is part of the last HTML version (HTML 5).
 
-   However, these services are *synchronous*, **so first we have to agree for a date and an hour** !
+   However, these services are *synchronous*, **so first we have to agree for a date and an hour**!
 
 
 These web services, strongly based on the great functions offered by the `HTML 5 <https://en.wikipedia.org/wiki/HTML5>`_, offer the possibility to talk, to write or even to share files, dynamically.

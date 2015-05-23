@@ -11,14 +11,13 @@
 Bonjour, je suis **Lilian Besson**, `(ex) étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 (*grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
 
-Depuis mi-juillet 2014, **je vis et travaille en Inde**, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_; en tant que chargé de `TDs (teaching assistant) <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (`MA101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ et `MA102 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_), et je suis surtout en charge du cours d'*introduction à l'informatique* (`CS101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_) pour le second semestre (janvier - mai 2015), `en tant que Teaching Assistant <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
-Je `resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014-15 <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_ (ie. *mi-mai 2015*).
-
 .. include:: whatsnew.fr.rst
 
-Études
-^^^^^^
-* En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (sur 295 admis, 785 admissibles, et 1200 inscrits).
+Études et cursus
+^^^^^^^^^^^^^^^^
+* Entre mi-juillet 2014 et mi-mai 2015, **j'ai vécu et travaillé en Inde** deux semestres, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_. J'ai travaillé en tant que chargé de `Travaux Dirigés <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (`MA101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ et `MA102 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_), et j'ai surtout était en charge du cours d'*introduction à l'informatique* (`CS101 <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_) pour le second semestre (janvier - mai 2015), `en tant que "Teaching Assistant" <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
+
+* En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (sur 295 admis, 785 admissibles, 1600 présents aux écrits et 3000 inscrits).
 
 * En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
   et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
@@ -29,7 +28,7 @@ Je `resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014
 
 * En 2009/2010 et 2010/2011 j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
-* Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009. (Briançon, c'est une jolie petite ville perdue dans les Hautes-Alpes !)
+* Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009. (Briançon, c'est une *jolie petite ville perdue dans les Hautes-Alpes !*)
 
 
 .. container:: smallpar
@@ -37,14 +36,12 @@ Je `resterai donc en Inde pour enseigner jusqu'à la fin du second semestre 2014
    **Un petit mot sur moi** :
 
     En plus des mathématiques et de l'informatique (pratiques et théoriques), j'aime aussi cuisiner, randonner et camper,
-    voyager en France (ou en Europe ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
+    voyager en France (ou en Europe, ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
     J'aime particulièrement utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
     comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
     des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
-
-    .. Et certains disent que je cuisine bien, même si depuis que je suis en Inde je n'en ai plus l'occasion...
 
    **Un petit mot sur ce site** :
 
@@ -158,12 +155,12 @@ qui décrivent certains projets, et notamment des scripts sur lesquels je travai
 
 Solutions pour deux projets de programmation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
+`mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigées pour les deux projets de programmation donnés à mes élèves en avril 2015 (pour le cours CS101 d'introduction à l'informatique).
 
 Exemples de programmes Python (02/2015)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc).
-Ces exemples sont là pour `le cours CS101 dont je suis en charge à Mahindra Ecole Centrale <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_, et pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
+Ces exemples sont là pour `le cours CS101 dont j'étais en charge à Mahindra Ecole Centrale <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_, et pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
 
 Deux tutoriels (11/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -228,7 +225,7 @@ J'ai eu **16.9/20** pour ce projet. *Et en plus, le jeu est sympa !*
 .. note:: Une version pour Windows ?
 
    En février 2015, j'ai `essayé de reprendre le jeu <https://bitbucket.org/lbesson/mpri-bomberman-windows/commits>`_ et de l'adapter un peu pour qu'il fonctionne sur Microsoft Windows.
-   Tout marche parfaitement, sauf une erreur réseau que je n'arrive pas à trouver (j'ai abandonné après deux semaines infructueuses).
+   Tout marche parfaitement, sauf *une* erreur réseau que je n'arrive pas à trouver (j'ai abandonné après deux semaines infructueuses).
    L'erreur semble due à une différence de comportement entre Windows et Linux de la bibliothèque `socket <https://docs.python.org/2/library/socket.html>`_ pour Python 2 (cf `cette remarque <https://docs.python.org/2/library/socket.html#socket.socket.makefile>`_).
 
    J'avais aussi écrit `un script cx_Freeze pour produire un exécutable Windows (.exe) <https://bitbucket.org/lbesson/mpri-bomberman/src/master/setup__cx_Freeze.py>`_ à partir de ce projet. (et cette partie là marche super bien)
@@ -266,9 +263,6 @@ du *flux*, la page `<rss.html>`_ est là pour ça (très peu actif en fait).
 Traductions
 ^^^^^^^^^^^
 Entre *mars 2013* et *février 2014*, j'ai participé à la traduction de différents logiciels et sites web.
-
-:red:`Je peux être disponible et intéressé par toutes traductions FR→EN ou EN→FR !` (dans ce domaine là) N'hésitez pas à me contacter et me demander de participer à votre projet !
-
 La page `<transifex.html>`_ présente de façon *narrative* le premier contact avec le site `transifex <http://www.transifex.com>`_.
 J'ai notamment participé à la traduction française du site `bitbucket.org <https://bitbucket.org>`_, et `XFCE <http://xfce.org/>`_, ou aussi le petit projet `linux-dash <https://bitbucket.org/lbesson/linux-dash/>`_.
 
@@ -279,7 +273,7 @@ La page `<wolfram.html>`_ présente deux clients pour accéder (en ligne de comm
 
 Galeries web (photos et musique)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Depuis novembre 2013, je développe deux petits logiciels, pour mon usage personnel (mais tout est Open-Source, vous pouvez vous en servir bien-sûr) :
+Depuis novembre 2013, je développe deux petits logiciels, pour mon usage personnel (mais tout est *Open-Source*, vous pouvez vous en servir bien-sûr) :
 
 #. un `petit lecteur de musique <https://bitbucket.org/lbesson/bin/src/master/generatejplayer/>`_ en *CSS3* et *JavaScript*, voir une démo ici `<generatejplayer.sh/>`_
    (les morceaux utilisées dans la démo viennent du légendaire projet `du Donjon de Naheulbeuk <http://penofchaos.com/warham/donjon>`_, © Pen of Chaos).

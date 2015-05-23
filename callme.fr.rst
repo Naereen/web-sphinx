@@ -29,8 +29,8 @@ aux adresses suivantes (listées par ordre de préférence) :
 
 
 2. chez moi (en France), adresse privée que je peux donner si besoin,
-3. ne pas m'écrire à mon ancienne adresse, au CROUS de Cachan (en France, déprécié, à ne plus utiliser),
-4. ou bien en Inde (plus cher et plus long), à mon bureau à `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (l'adresse postale est précisée sur cette page).
+3. ne pas m'écrire à mon ancienne adresse, au CROUS de Cachan (en France, dépréciée, à ne plus utiliser),
+4. ou bien en Inde (plus cher et plus long), à mon ancien bureau à `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (dépréciée, l'adresse postale est précisée sur cette page).
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
@@ -59,7 +59,7 @@ Téléphone
 
 Pour essayer de m'avoir directement, **si c'est vraiment important**, veuillez utiliser mon numéro français (*attention au prix !*).
 
-.. warning:: Je suis actuellement à l'étranger, en Inde.
+.. warning:: Je suis actuellement à l'étranger, en Europe (en vacances !).
 
    Les appels vers l'étranger coûtent cher !
    Même recevoir des appels coûtent cher (pour moi) !!
@@ -71,7 +71,7 @@ Pour m'envoyer des messages textuels (SMS), idem (*attention au prix aussi !*).
 
 Autres méthodes
 ---------------
-Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou un téléphone intelligent relativement récent.
+Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou un *téléphone intelligent* (smartphone) relativement récent.
 
 IRC (salles de discussion)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,7 +81,7 @@ Si vous vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un me
 
 VoIP (Téléphonie par l'Internet)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au +33.9.72.11.32.70 puis composer le "un quatre zero quatre deux" quand le robot le demande.
+Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au ``+33.9.72.11.32.70`` puis composer le "un quatre zero quatre deux" (``14042``) quand le robot le demande.
 
 Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen à linphone point org (" à " = "@", " point " = ".").
 

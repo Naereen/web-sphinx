@@ -10,14 +10,13 @@ Who am I?
 ---------
 Greetings, I am **Lilian Besson**, (former) `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training researcher and professors for superior studies, located near Paris.
 
-Since mid-July 2014, I live and work in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
-`I am involved as an assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and partly in charge of the Computer Science CS101 course for the second semester!
-I will stay in India until the end of the second semester (~ end of June 2015).
-
 .. include:: whatsnew.en.rst
 
 Studies before 2014
 ^^^^^^^^^^^^^^^^^^^
+* From mid-July 2014 to mid-May 2015, I lived and worked in India, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
+I was the first French faculty to work there full-time, and `I have been involved as a teaching assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
+
 * In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
   (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23rd  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1200 persons registered in October 2013. I also did the second year of my **Master of Science** in Fondamental **Mathematics** (major) and **Computer Science** (minor), with a `speciality on teaching <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_.
 
@@ -40,8 +39,6 @@ Studies before 2014
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
    (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
-
-   .. And apparently I cook pretty well, according to some, even if I miss cooking since I live in India...
 
    **A few words about this site**:
 
@@ -81,7 +78,6 @@ Some of my profile pages on some great website:
 
   #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
   #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
-  #. or via my *Launchpad* profile `launchpad.net/~lbesson <https://launchpad.net/~lbesson>`_ (really unused);
   #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
 
 
