@@ -13,7 +13,7 @@ En 2015
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
  Pour l'instant, rien, mais je prévois de donner des colles
- au Lycée Louis-le-Grand, en mathématiques, et de d'asssurer des TPs de programmation (avec Python).
+ au Lycée Louis-le-Grand, en mathématiques, et de d'asssurer des TPs de programmation (avec Python ou SciLab).
  *(cela doit encore être confirmé)*.
 
 Premier semestre en 2015

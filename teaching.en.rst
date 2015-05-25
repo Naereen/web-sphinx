@@ -12,14 +12,14 @@ In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Nothing yet, though I plan to work at *Lycée Louis-le-Grand* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths, and CS programming Lab.
+ Nothing yet, though I plan to work at *Lycée Louis-le-Grand* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths, and CS programming Lab (with Python or SciLab).
  *(this still has to be confirmed)*.
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
 - `CS101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_: in charge of the CS labs (practical sessions) and in charge of certain lectures!
-  It represents 4 hours a week of CS labs, during 17 weeks, and 4 hours a week of lectures for 5 weeks (lecture in an amphitheater of 115 students!).
-  The slides for some of my lectures for the CS101 course at MEC are here:
+  It was about 4 hours a week of CS labs, during 17 weeks, and 4 hours a week of lectures for 5 weeks (lectures were in an amphitheater of 115 students!).
+  The slides for some of my lectures are here:
    
   1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
   2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
