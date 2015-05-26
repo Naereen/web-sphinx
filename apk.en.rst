@@ -142,7 +142,7 @@ Apps for secrets agents (or paranoid people)
 * `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, a browser to use with `Orbot`_,
 * `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ to record sounds and conversations
 * `RedPhone : Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ to secure your phone calls (only with other users of the same app RedPhone),
-* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure). `WhatsApp <http://www.whatsapp.com/>`_ started `recently <korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_ to use the same secured protocol.
+* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure). `WhatsApp <http://www.whatsapp.com/>`_ started `recently <http://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_ to use the same secured protocol.
 
 Misc.
 ^^^^^
