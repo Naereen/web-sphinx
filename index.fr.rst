@@ -385,6 +385,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    gnuplot
    ace
    wolfram
+   autostop.fr
+   affaires-voyage.fr
    freedns
    dyndns
    time
@@ -392,7 +394,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    sparkline
    vieprivee
    tutoweb
-   autostop.fr
    A953
    todo
    avoir
