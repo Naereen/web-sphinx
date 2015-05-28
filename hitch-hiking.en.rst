@@ -25,7 +25,7 @@ In 2015
 ^^^^^^^
 Not yet! I have not yet been able to do any hitch-hiking in 2015 :(
 
-But I do plan `one very long hitch-hiking trip during the summer of 2015 (June) <https://goo.gl/maps/vrFHV>`_.
+But I do plan `one very long hitch-hiking trip during the summer of 2015 (June) <https://goo.gl/ZTydQO>`_ (`older link <http://goo.gl/maps/GsLTL>`_).
 
 I basically plan to go from my home town, Briançon (France), to `this place in Norway <https://en.wikipedia.org/wiki/Sverd_i_fjell>`_, in 4 weeks.
 
