@@ -135,8 +135,8 @@ Trucs cons mais importants
 - Lunette de soleil, à sa vue si besoin. On peut les munir d'un cordon, si on aime quoi.
 - Des mouchoirs ! Du papier toilette !
 
-Trucs vraiment cons mais qu'on oublie facilement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Trucs vraiment cons (mais qu'on oublie facilement)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Boules Quiès, et masque de sommeil pour dormir facilement. Un mini-oreiller gonflable est utile pour certains trajets de nuits, mais peu pratique pour dormir avec dans une tente.
 - Une bonne clé USB qui contient une copie de tout ses documents importants, mais avec assez d'espace libre pour ajouter des choses (photos en rab par exemple).
 - Une montre.
