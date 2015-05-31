@@ -27,6 +27,6 @@ Pour se lancer et apprendre Python, je recommande...
 
 ------------------------------------------------------------------------------
 
-.. note:: Matlab est une marche déposée de MathWorks.
+.. note:: Matlab est une marque déposée de MathWorks.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
