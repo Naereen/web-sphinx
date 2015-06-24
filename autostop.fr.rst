@@ -22,22 +22,16 @@ Rapide total
 ------------
 En 2015
 ^^^^^^^
-Pas encore ! Je n'ai malheureusement pas encore été capable de faire de l'auto-stop en 2015 :(
-
-Mais j'ai déjà prévu un *vrai* `voyage en stop pour l'été 2015 (juin) <https://goo.gl/ZTydQO>`_ (`ancien lien <http://goo.gl/maps/GsLTL>`_).
-
-En gros, je veux partir de ma ville natale, Briançon (France), et `viser cet endroit en Norvège <https://en.wikipedia.org/wiki/Sverd_i_fjell>`_, en moins de 4 semaines.
-
-**3700 kilomètres, 6 pays, ça va être génial :**
+En juin 2015, j'ai fait environ 700 kms durant un petit voyage de 10 jours en France et en Suisse :
 
 .. digraph:: voyage
 
-   "Briançon (France)" -> "Savoie (France)" -> "Suisse" -> "Stuttgart (Allemagne)" -> "Danemark" -> "Suède" -> "Norvège" -> "(et retour !)";
+   "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Suisse)" -> "Zurich (Suisse)" -> "Bâle (Suisse)" -> "Mulhouse (France)";
 
 
 En 2014
 ^^^^^^^
-Environ 150 kms, une demi-douzaine de fois, près de Paris et un tout petit aux alentours d'Hyderabad (en Inde !).
+Environ 150 kms, une demi-douzaine de fois, près de Paris et *un tout petit* aux alentours d'Hyderabad (en Inde !).
 
 En 2013
 ^^^^^^^

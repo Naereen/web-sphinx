@@ -23,17 +23,11 @@ A quick overview
 ----------------
 In 2015
 ^^^^^^^
-Not yet! I have not yet been able to do any hitch-hiking in 2015 :(
-
-But I do plan `one very long hitch-hiking trip during the summer of 2015 (June) <https://goo.gl/ZTydQO>`_ (`older link <http://goo.gl/maps/GsLTL>`_).
-
-I basically plan to go from my home town, Briançon (France), to `this place in Norway <https://en.wikipedia.org/wiki/Sverd_i_fjell>`_, in 4 weeks.
-
-**3700 kilometers, 6 countries, it will be awesome:**
+In June 2015, I hitch-hiked about 700 kms while I was traveling in France and Switzerland, for 10 days:
 
 .. digraph:: voyage
 
-   "Briançon (France)" -> "Savoie (France)" -> "Switzerland" -> "Stuttgart (Germany)" -> "Denmark" -> "Sweden" -> "Norway" -> "(and back!)";
+   "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Switzerland)" -> "Zurich (Switzerland)" -> "Bâle (Switzerland)" -> "Mulhouse (France)";
 
 
 In 2014

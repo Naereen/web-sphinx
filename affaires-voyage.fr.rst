@@ -6,7 +6,7 @@
  Contenu de mon sac à dos pour un (long) voyage en stop
 ########################################################
 
-.. warning:: Encore en rédaction !
+.. .. warning:: Encore en rédaction !
 
 .. seealso:: `Universal Packing List <packing.en.html>`_
 
