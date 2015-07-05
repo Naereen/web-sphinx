@@ -12,7 +12,7 @@ In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Nothing yet, though I plan to work at *Lycée Louis-le-Grand* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths, and CS programming Lab (with Python or SciLab).
+ Nothing yet, though I plan to work at *Lycée Louis-le-Grand* or *Lycée Janson-de-Sailly* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths (MPSI or MP, ie. +1 or +2).
  *(this still has to be confirmed)*.
 
 First semester of 2015
