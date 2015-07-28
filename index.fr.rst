@@ -153,6 +153,10 @@ Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
+Nautilus Terminal v1.2
+^^^^^^^^^^^^^^^^^^^^^^
+Fin juillet 2015, j'ai mis à jour l'extension `nautilus-terminal <https://bitbucket.org/lbesson/nautilus-terminal>`_ et je lui ai `dédié un petit dépôt git <tutogit.fr.html>`_ sur `Bitbucket <https://bitbucket.org/lbesson/>`, qui permis d'avoir un terminal (une *console*) intégrée dans le navigateur de fichier `Nautilus <http://doc.ubuntu-fr.org/Nautilus>`_.
+
 Solutions pour deux projets de programmation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigées pour les deux projets de programmation donnés à mes élèves en avril 2015 (pour le cours CS101 d'introduction à l'informatique).
