@@ -12,7 +12,7 @@ En 2015
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
  Je prévois de donner des travailler aux `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ et `Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_,
- en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `python <apprendre-python.html>`_)
+ en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `python <apprendre-python.fr.html>`_)
  *(mais cela doit encore être confirmé)*.
 
 Premier semestre en 2015

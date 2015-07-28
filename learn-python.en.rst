@@ -9,8 +9,6 @@
 
 To start learning Python, I recommend...
 ----------------------------------------
-.. warning:: Not concluded yet! But soon!
-
 .. note:: What is Python ?
 
    A very popular, free and open-source `programing language <https://fr.wikipedia.org/wiki/Programing_language>`_. Python is also multi-platform, simple to learn, write and read.

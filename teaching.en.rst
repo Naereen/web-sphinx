@@ -12,7 +12,7 @@ In 2015
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
  I plan to work at `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ and `Lycée Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_ (very prestigious high-school in Paris, for scientific prep-school),
- to be in charge of regular oral exam in **Maths** (MPSI or MP, ie. +1 or +2), and practical labs for **Computer Science** (for MP, ie +2, in `python <learn-python.html>`_)
+ to be in charge of regular oral exam in **Maths** (MPSI or MP, ie. +1 or +2), and practical labs for **Computer Science** (for MP, ie +2, in `python <learn-python.en.html>`_)
  *(but this still has to be confirmed)*.
 
 First semester of 2015
