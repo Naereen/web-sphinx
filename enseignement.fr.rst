@@ -6,15 +6,14 @@
  Activités d'enseignements (et divers liens)
 #############################################
 .. include:: .special.rst
-.. warning:: Cette page est toujours en rédaction, je devrai la terminer bientôt.
 
 En 2015
 -------
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Pour l'instant, rien, mais je prévois de donner des colles
- au Lycée Louis-le-Grand et Janson-de-Sailly, en mathématiques (MPSI et MP)
- *(cela doit encore être confirmé)*.
+ Je prévois de donner des travailler aux `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ et `Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_,
+ en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `python <apprendre-python.html>`_)
+ *(mais cela doit encore être confirmé)*.
 
 Premier semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,9 +74,5 @@ Entre 2009 et 2013 (prépa et L3+M1)
 Avant 2009 (lycée et avant)
 ---------------------------
  J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique mais aussi en théâtre !
-
-------------------------------------------------------------------------------
-
-.. todo:: Terminer de l'écrire !
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

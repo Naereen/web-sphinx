@@ -6,14 +6,14 @@
  Teaching activities (and some links)
 ######################################
 .. include:: .special.rst
-.. warning:: I am still working on this page, but I should conclude it soon.
 
 In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Nothing yet, though I plan to work at *Lycée Louis-le-Grand* or *Lycée Janson-de-Sailly* (very prestigious high-school in Paris, for scientific prep-school), to be in charge of regular oral exam in Maths (MPSI or MP, ie. +1 or +2).
- *(this still has to be confirmed)*.
+ I plan to work at `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ and `Lycée Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_ (very prestigious high-school in Paris, for scientific prep-school),
+ to be in charge of regular oral exam in **Maths** (MPSI or MP, ie. +1 or +2), and practical labs for **Computer Science** (for MP, ie +2, in `python <learn-python.html>`_)
+ *(but this still has to be confirmed)*.
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -71,9 +71,5 @@ Between 2009 and 2013
 Before 2009 (high-school and before)
 ------------------------------------
  I used to regularly help my friends for Maths, Chemistry, Biology, Physics, but also theater.
-
-------------------------------------------------------------------------------
-
-.. todo:: Conclude this page!
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
