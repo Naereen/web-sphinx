@@ -2,13 +2,13 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-#########
- Welcome
-#########
+##########
+ Welcome!
+##########
 .. include:: .special.rst
 Who am I?
 ---------
-Greetings, I am **Lilian Besson**, `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in training researcher and professors for superior studies, located near Paris.
+Greetings, I am **Lilian Besson**, `student at "ENS de Cachan" <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_, a *French* University specialized in the training of researchers and professors for superior studies, located near Paris (in Cachan).
 
 .. include:: whatsnew.en.rst
 
