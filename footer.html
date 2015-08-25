@@ -103,12 +103,12 @@ N&#8217;hésitez pas à <a class="reference external" href="https://bitbucket.or
 <h3>Ma clé publique PGP</h3>
 <ul class="this-page-menu">
  <li><font style="font-size: 75%;">pgp.mit.edu</font>
-  <a class="reference external image-reference" title="pgp.mit.edu:11371/pks" 
+  <a class="reference external image-reference" title="pgp.mit.edu:11371/pks"
    href="http://pgp.mit.edu:11371/pks/lookup?op=get&amp;search=0x01AACDB9C108F8A0">
    <img alt="C108F8A0" src="http://perso.crans.org/besson/_images/.gpgpublickey_80_15.png?1" style="width: 80.0px; height: 15.0px;" />
   </a></li>
  <li><font style="font-size: 75%;">ici</font>
-  <a class="reference external image-reference" title="key.asc" 
+  <a class="reference external image-reference" title="key.asc"
    href="http://perso.crans.org/besson/Lilian_Besson.asc" >
    <img alt="C108F8A0" src="http://perso.crans.org/besson/_images/.gpgmypublickey_80_15.png?1" style="width: 80.0px; height: 15.0px;" />
   </a>
@@ -119,23 +119,27 @@ N&#8217;hésitez pas à <a class="reference external" href="https://bitbucket.or
     </div>
 
     <div class="footer" role="contentinfo">
-        &copy; Copyright 2011-2014, Lilian Besson.
-      Mis à jour le 04 Dec 2014, 01h:32m:33s.
-      Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.3a0.
+        &copy; Copyright 2011-2015, Lilian Besson.
+      Mis à jour le 25 Aug 2015, 11h:34m:33s.
+      Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.4a0+.
     </div>
 <div class="footer">
   <script type="text/javascript">
     NProgress.start();
-  function changeStyle(newcolor) {
-    if (newcolor != "") {
-      console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
-      $("head").append(
-          $("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
-        );
-      setTimeout(function(){ 
-        noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+    function changeStyle(newcolor) {
+        if (newcolor != "") {
+            console.log("[INFO] Loading the stylesheet '" + ("http://perso.crans.org/besson/_static/" + newcolor + ".css") + "'");
+            $("head").append(
+                $("<link/>", {href: ("http://perso.crans.org/besson/_static/" + newcolor + ".css"), rel: "stylesheet"})
+            );
+      setTimeout(function(){
+        if (e == '.en.html') {
+            noty({text: ("<b>Loading of " + newcolor + ".css ...</b></br><small>The style should have changed now, otherwise, maybe you could <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">report a bug</a>?</small>"), timeout: 3000});
+        } else {
+          noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+        }
       }, 3000);
-  } };
+    } };
   </script>
   <script type="text/javascript" src="http://perso.crans.org/besson/_static/layout.noty.js"></script>
   <!-- Smooth Scroll plugin (source: https://github.com/kswedberg/jquery-smooth-scroll) -->
@@ -184,7 +188,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"alaskabombeh.fr.html\">page précédente</a>,</br>\n"
 +" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"autostop.fr.html\">page suivante</a>,</br>\n"
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
-+"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n" 
++"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n"
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
 +"<small>Ce site est créé par Lilian Besson, © 2011-2014</small>",
   {layout:'center', type:'information'}); });
@@ -232,51 +236,51 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
 <div class="supportBadges"><ul>
 <li><a class="image-reference" title="Firefox" href="http://www.mozilla.org/en-US/firefox/all/">
  <img alt="Optimized for Firefox, tested on Firefox v28.0 and elinks v0.12pre6"
-      src="http://perso.crans.org/besson/_images/.firefox_80_15.png" 
+      src="http://perso.crans.org/besson/_images/.firefox_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Google Analytics" href="https://www.google.com/analytics/">
  <img alt="Uses Google Analytics"
       src="http://perso.crans.org/besson/_images/.google_analytics_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GNU Nano" href="http://www.nano-editor.org/">
- <img alt="Written with GNU Nano 2.3.2-svn and Sublime Text v3.059" 
-      src="http://perso.crans.org/besson/_images/.made_with_nano_80_15.png" 
+ <img alt="Written with GNU Nano 2.3.2-svn and Sublime Text v3.059"
+      src="http://perso.crans.org/besson/_images/.made_with_nano_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="GPL v3" href="http://www.gnu.org/licenses/gpl.html">
- <img alt="These pages are an Open Source project, released with the GPLv3 License" 
-      src="http://perso.crans.org/besson/_images/.opensource_80_15.png" 
+ <img alt="These pages are an Open Source project, released with the GPLv3 License"
+      src="http://perso.crans.org/besson/_images/.opensource_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Python" href="http://www.python.org/download/">
- <img alt="Python v2.7.6 powered :)" 
-      src="http://perso.crans.org/besson/_images/.python_80_15.png" 
+ <img alt="Python v2.7.6 powered :)"
+      src="http://perso.crans.org/besson/_images/.python_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Sphinx" href="http://sphinx-doc.org/install.html">
- <img alt="Made with Sphinx v1.3a0" 
-      src="http://perso.crans.org/besson/_images/.sphinx_80_15.png" 
+ <img alt="Made with Sphinx v1.3a0"
+      src="http://perso.crans.org/besson/_images/.sphinx_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Ubuntu 14.04.2 LTS" href="http://www.ubuntu.com/about/about-ubuntu">
- <img alt="Made on Ubuntu 14.04.2 LTS" 
-      src="http://perso.crans.org/besson/_images/.ubuntu_80_15.png" 
+ <img alt="Made on Ubuntu 14.04.2 LTS"
+      src="http://perso.crans.org/besson/_images/.ubuntu_80_15.png"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Bitbucket" href="https://bitbucket.org/lbesson/web-sphinx/" >
  <img alt="Source code hosted on bitbucket.org, managed with Git v1.9.1"
-      src="http://perso.crans.org/besson/_images/.git_80_15.png" 
+      src="http://perso.crans.org/besson/_images/.git_80_15.png"
       style="width: 36.0px; height: 15.0px;" /></a></li>
 <li><script type="text/javascript">
   if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,6) == '127.0.') || (window.location.host.substring(0,7) == '0.0.0.0') ) {
   window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx v1.4.6 on "
-  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.nginx_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.nginx_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
   }
   else {
   window.document.write("<a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.22 on "
-  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.apache_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>"); 
+  + window.location.host + "\" src=\"http://perso.crans.org/besson/_images/.apache_80_15.png\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
   };
   NProgress.inc();
   </script>
   <noscript>
   <a class="image-reference" title="Apache" href="http://httpd.apache.org/ABOUT_APACHE.html"><img alt="Web server : Apache v2.2.22" src="http://perso.crans.org/besson/_images/.apache_80_15.png" style="width: 80.0px; height: 15.0px;" /></a>
   </noscript>
-</li></ul></div> 
+</li></ul></div>
    <script type="text/javascript" src="http://perso.crans.org/besson/_static/ga.js"></script>
   <!-- MathJax.js (http://mathjax.org/) async is quicker -->
   <!-- <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script> -->

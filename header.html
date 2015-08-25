@@ -1,10 +1,20 @@
 </body><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    
+
     <title>Affichage d’un dossier</title>
-    
-    <link rel="stylesheet" href="http://perso.crans.org/besson/_static/default.css" type="text/css" />
-    
+
+    <link rel="stylesheet" href="http://perso.crans.org/besson/_static/classic.css" type="text/css" />
+
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     'public',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/jquery.js"></script>
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/underscore.js"></script>
     <script type="text/javascript" src="http://perso.crans.org/besson/_static/doctools.js"></script>
@@ -64,7 +74,7 @@
   function alert(texttoprint, extradict) {
     console.log("\n[INFO] alert called with texttoprint=" + texttoprint + ", and extradict=" + extradict);
     if ($.noty !== undefined){
-      if (extradict !== undefined){ var args = extradict; args.text = texttoprint; noty(args); } 
+      if (extradict !== undefined){ var args = extradict; args.text = texttoprint; noty(args); }
       else { noty({text: texttoprint, timeout: 5000}); }
     }
     else {
@@ -73,7 +83,7 @@
       window.alert(texttoprint);
     }; };
 </script>
- 
+
 
   </head>
   <body role="document">
@@ -85,6 +95,12 @@
  <li><a href="http://perso.crans.org/besson/index.html">Lilian Besson</a> &raquo;</li>
 
  <script type="text/javascript">
+  // New: this is outside the function, and outside of .templates/language-selector.html
+  var s = window.location.pathname;
+  var n = s.length;
+  var b = s.substring(0, n-8);
+  var e = s.substring(n-8);
+  console.log("[INFO] s = " + s + ", n = " + n + ", b = " + b + ", e = " + e);
   function writeLocationOfThePage(beforetext, aftertext) {
     if (screen.width > 480) {
     window.document.write(beforetext + "<span class=\"locationOfThePage\">"
@@ -92,13 +108,25 @@
       + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
       + "</a></span>" + aftertext);
     };
+    if (e == '.fr.html') {
+      window.document.write('<li class="right"><a class="image-reference" href="'
+        + b + '.en.html" title="En anglais ?" >'
+        // + '<img class="languageswitch" src="_images/.en.gif" alt="En anglais ?" />'
+        + 'En anglais ?</a> | </li>');
+    };
+    if (e == '.en.html') {
+      window.document.write('<li class="right"><a class="image-reference" href="'
+        + b + '.fr.html" title="In French?" >'
+        // + '<img class="languageswitch" src="_images/.fr.gif" alt="In French?" />'
+        + 'In French?</a> | </li>');
+    };
   };
   writeLocationOfThePage("<li>", "</li>");
  </script>
- <noscript><li><span style="color: red">(JavaScript is disabled)</span></li></noscript> 
+ <noscript><li><span style="color: red">(JavaScript is disabled)</span></li></noscript>
 
       </ul>
-    </div>  
+    </div>
 
     <div class="document">
 <div id="divforkit">
@@ -109,7 +137,7 @@
       <div class="documentwrapper">
         <div class="bodywrapper">
           <div class="body" role="main">
-            
+
   <div class="section" id="affichage-d-un-dossier">
 <h1>Affichage d&#8217;un dossier<a class="headerlink" href="#affichage-d-un-dossier" title="Lien permanent vers ce titre">¶</a></h1>
 <div class="section" id="contenu-du-dossier">
