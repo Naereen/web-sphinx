@@ -78,7 +78,7 @@ img.languageswitch {
   }
 }
 
-
+/* BETA responsive for header.html and footer.html */
 div.myfolders { font-size: x-large; }
 @media (max-width: 680px){ div.myfolders { font-size: medium; } }
 

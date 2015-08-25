@@ -55,10 +55,14 @@ div.body {
     padding: 0 20px 30px 20px;
 }
 
+@media (min-width: 681px){
+    div.footer {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
+        background-repeat: repeat;
+        color: #ffffff;
+    }
+}
 div.footer {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
-    background-repeat: repeat;
-    color: #ffffff;
     padding: 9px 0 9px 0;
     text-align: center;
     font-size: 75%;
@@ -155,7 +159,7 @@ div#sidebarbutton {
     div.footer {
         position: relative;
         margin-top: 10px;
-        margin-left: 0;
+        /*margin-left: 0;*/  /* FIXME bug unable to click ?? */
     }
     div.sphinxsidebar {
         /*overflow-x: auto;*/
