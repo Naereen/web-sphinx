@@ -28,6 +28,10 @@ Projets
 -------
 Voici une liste de certains projets contenus dans le dossier `<publis/>`_.
 
+`nautilus-terminal <publis/nautilus-terminal/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`Un greffon pour Nautilus <https://bitbucket.org/lbesson/nautilus-terminal>`_.
+
 `latex <publis/latex/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Quelques fichiers et programmes utiles pour faire du \\(\\LaTeX{}\\).
@@ -67,8 +71,6 @@ Par example :
 .. pypi-release:: ANSIColors-balises
    :prefix: La dernière version est ici (normalement, l'extension non officielle *cheeseshop* permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
-
-.. BUGFIX ?
 
 **ANSIColors-balises** est un petit module pour ``Python 2.7``, conçu pour manipuler facilement
 et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
