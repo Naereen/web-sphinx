@@ -11,8 +11,8 @@ En 2015
 -------
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Je prévois de donner des travailler aux `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ et `Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_,
- en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `python <apprendre-python.fr.html>`_)
+ Je prévois de donner des travailler aux `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ et `Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_, en classes préparatoires,
+ en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `Python 3 <apprendre-python.fr.html>`_)
  *(mais cela doit encore être confirmé)*.
 
 Premier semestre en 2015
@@ -63,7 +63,6 @@ Premier semestre en 2014
 .. note:: En 2014, j'ai aussi obtenu l'agrégation de mathématiques !
 
    J'ai choisi d'être en report de stage pour 2014-15 ainsi qu'en 2015-16, pour finir ma scolarité à l'`École Normale Supérieure de Cachan <http://www.ens-cachan.fr/>`_ (via l'option "*fin de scolarité normalienne*").
-
 
 ------------------------------------------------------------------------------
 
