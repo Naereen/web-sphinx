@@ -10,35 +10,69 @@
 Cette page est une courte présentation de mon expérience personnelle
 sur l'auto-stop, qui est un moyen intéressant, gratuit et ludique de se déplacer.
 
-Peut-être que j'inclurai ici une liste de voyages sympas faits en stop, peut-être pas.
-
-.. note:: Avec Google Maps ?
-
-   J'ai déjà vu que Google Maps permet d'enregistrer et de partager des *itinéraires* voiture
-   personnalisés, peut-être m'en servirais-je pour garder une trace de mes trajets en stop, et les partager ici.
-
+Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits en stop, dans le but de tenir un total approximatif de la distance parcourue.
 
 Rapide total
 ------------
-En 2015
-^^^^^^^
-En juin 2015, j'ai fait environ 700 kms durant un petit voyage de 10 jours en France et en Suisse :
+ J'estime 2200 + 150 + 1800 + 350 = 4500 kms pour l'instant.
 
-.. digraph:: voyage
+En 2015 : **2200 kms**
+^^^^^^^^^^^^^^^^^^^^^^
+Environ **2200 kms**, en France surtout, mais aussi un peu en Suisse, et pas mal en Islande !
+
+En août 2015, durant mon séjour en Islande, j'ai poucé pour environ **600 kms**, sur 2 semaines :
+
+.. digraph:: aout151
+
+   "Keflavik (aéroport)" -> "Gardur" -> "Grindavik" -> "Selfoss";
+
+.. digraph:: aout152
+
+   "Hopn (à l'est)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik" -> "Skogar" -> "Landeyahopn";
+
+.. digraph:: aout153
+
+   "Landeyahopn" -> "Selfoss" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
+
+
+En juillet 2015, j'ai fait un aller-retour Briançon - Avignon (dans la région PACA), pour environ deux fois 260 kms, soit **520 kms**.
+Quelques aller-retours Briançon - Gap m'ont aussi fait faire environ **300 kms** entre mai et août 2015.
+
+En juin 2015, environ **700 kms** durant un petit voyage de 10 jours en France et en Suisse :
+
+.. digraph:: juin15
 
    "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Suisse)" -> "Zurich (Suisse)" -> "Bâle (Suisse)" -> "Mulhouse (France)";
 
 
-En 2014
-^^^^^^^
-Environ 150 kms, une demi-douzaine de fois, près de Paris et *un tout petit* aux alentours d'Hyderabad (en Inde !).
+En 2014 : **150 kms**
+^^^^^^^^^^^^^^^^^^^^^
+Environ **150 kms**, une demi-douzaine de fois, près de Paris, et *un tout petit* aux alentours d'Hyderabad (en Inde !).
 
-En 2013
-^^^^^^^
+En 2013 : **1800 kms**
+^^^^^^^^^^^^^^^^^^^^^^
 Un peu plus de **1800 kms**, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 450 kms).
 
-En 2012
-^^^^^^^
+En octobre 2013, quelques jours de vacances en Normandie et en Bretagne, environ 600 kms :
+
+.. digraph:: octobre13
+
+   "Caen (France)" -> "Nantes" -> "Vannes" -> "Lorient" -> "Le Mans" -> "Paris";
+
+En août 2013, après le `festival Berlioz <http://www.festivalberlioz.com/>`_, retour à Paris dans l'après-midi, environ 500 kms :
+
+.. digraph:: aout13
+
+   "La-Côte-St-André (France)" -> "Grenoble" -> "Bourgouin-Jallieu" -> "Lyon" -> "Dijon" -> "Paris";
+
+En mai 2013, au retour d'un séjour en Espagne, environ 700 kms :
+
+.. digraph:: mai13
+
+   "Pau (France)" -> "La Rochelle" -> "Paris";
+
+En 2012 : **350 kms**
+^^^^^^^^^^^^^^^^^^^^^
 **Presque 350 kms**, en Corse et dans le sud de la France.
 
 Avant 2012
@@ -46,6 +80,11 @@ Avant 2012
 Occasionnellement, un tout petit peu (oui, ben j'étais mineur quoi).
 
 ------------------------------------------------------------------------------
+
+.. note:: Avec Google Maps ?
+
+   J'ai déjà vu que Google Maps permet d'enregistrer et de partager des *itinéraires* voiture
+   personnalisés, peut-être m'en servirais-je pour garder une trace de mes trajets en stop, et les partager ici.
 
 Conseils divers (externes)
 --------------------------
