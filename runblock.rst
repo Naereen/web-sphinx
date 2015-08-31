@@ -60,8 +60,7 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
     $ LANG=en ls -larth *.rst .*.rst
 
-Ou bien encore, on peut réaliser une signature *GPG* à la volée du
-fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
+Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
 .. runblock:: console
 
@@ -152,11 +151,11 @@ Affiche le message de bienvenue et les ": unit = ()". Plutôt pénible.
     # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
 
-ocaml-stdin
-^^^^^^^^^^^
+ocamlstdin
+^^^^^^^^^^
 N'affiche plus ces messages inutiles, mais plus de coloration syntaxique. Zut !
 
-.. runblock:: ocaml-stdin
+.. runblock:: ocamlstdin
 
     # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
     # print_int (f 11);;
