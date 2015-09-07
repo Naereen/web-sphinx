@@ -2,18 +2,24 @@
    :description lang=fr: Description de mes activités d'enseignements (et divers liens)
    :description lang=en: Description of my teaching activities (and some links)
 
-#############################################
- Activités d'enseignements (et divers liens)
-#############################################
+############################################
+ Activités d'enseignement (et divers liens)
+############################################
 .. include:: .special.rst
 
 En 2015
 -------
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- Je prévois de donner des travailler aux `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ et `Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_, en classes préparatoires,
- en donnant des colles de mathématiques (MPSI et MP) et des TDs d'informatique (MP, en `Python 3 <apprendre-python.fr.html>`_)
- *(mais cela doit encore être confirmé)*.
+Entre septembre 2015 et avril 2016, j'interviendrai au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire MP <http://prepas.org/ups.php?article=56>`_, pour :
+
+ - des colles de mathématiques (2h/semaine),
+ - et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`mon enseignement est basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2h/semaine).
+
+.. note:: Détails concernant le programme d'informatique « pour tous » en prépa scientifiques 2nd année :
+
+   - `page officielle sur le site du ministère de l'enseignement supérieur <http://www.enseignementsup-recherche.gouv.fr/pid20536/bulletin-officiel.html?cid_bo=71586&cbo=1>`_,
+   - `sur le site prepas.org de l'UPS <http://prepas.org/ups.php?document=9>`_.
 
 Premier semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -58,7 +64,7 @@ Second semestre en 2014
 Premier semestre en 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Corrections de copies, via l'organisme `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_, en mathématiques au niveau lycée (Bac. S et ES),
-- Soutien scolaire et colles occasionnellement, 
+- Soutien scolaire et colles (occasionnellement), 
 
 .. note:: En 2014, j'ai aussi obtenu l'agrégation de mathématiques !
 

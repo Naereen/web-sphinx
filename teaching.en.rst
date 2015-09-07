@@ -2,18 +2,19 @@
    :description lang=en: Description of my teaching activities (and some links)
    :description lang=fr: Description de mes activités d'enseignements (et divers liens)
 
-######################################
- Teaching activities (and some links)
-######################################
+#########################################
+ My teaching activities (and some links)
+#########################################
 .. include:: .special.rst
 
 In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
- I plan to work at `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ and `Lycée Janson-de-Sailly <http://www.janson-de-sailly.fr/>`_ (very prestigious high-schools in Sceaux and Paris, for scientific prep' schools),
- to be in charge of regular oral exam in **Maths** (MPSI or MP, ie. +1 or +2), and practical labs for **Computer Science** (for MP, ie +2, in `Python 3 <learn-python.en.html>`_)
- *(but this still has to be confirmed)*.
+Between September 2015 and April 2016, I will teach on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class (MP) <http://prepas.org/ups.php?article=56>`_, as a:
+
+ - examinator for regular oral exams in Mathematics (2h/week) -- *do not worry, I am a nice examinator*,
+ - and I will be Teaching Assistant for `the « mandatory » Computer Science course <http://informatique-en-prepas.fr/>`_ (`my class is based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2h/week).
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
