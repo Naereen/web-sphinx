@@ -155,7 +155,7 @@ qui décrivent certains projets, et notamment des scripts sur lesquels je travai
 
 Nautilus Terminal v1.2
 ^^^^^^^^^^^^^^^^^^^^^^
-Fin juillet 2015, j'ai mis à jour l'extension `nautilus-terminal <https://bitbucket.org/lbesson/nautilus-terminal>`_ et je lui ai `dédié un petit dépôt git <tutogit.fr.html>`_ sur `Bitbucket <https://bitbucket.org/lbesson/>`, qui permis d'avoir un terminal (une *console*) intégrée dans le navigateur de fichier `Nautilus <http://doc.ubuntu-fr.org/Nautilus>`_.
+Fin juillet 2015, j'ai mis à jour l'extension `nautilus-terminal <https://bitbucket.org/lbesson/nautilus-terminal>`_ et je lui ai `dédié un petit dépôt git <tutogit.fr.html>`_ sur `Bitbucket <https://bitbucket.org/lbesson/>`_, qui permet d'avoir un terminal (une *console*) intégrée dans le navigateur de fichier `Nautilus <http://doc.ubuntu-fr.org/Nautilus>`_ (pour Ubuntu, Debian etc).
 
 Solutions pour deux projets de programmation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
