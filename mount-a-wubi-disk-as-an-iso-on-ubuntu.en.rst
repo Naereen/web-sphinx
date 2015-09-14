@@ -9,18 +9,18 @@
 
 .. note:: Wubi?
 
-   Wubi is my favorite way to install (and use) Ubuntu on a Windows® machine.
+   Wubi is my favorite way to install (and use) `Ubuntu <http://www.ubuntu.com/>`_ on a Windows® machine.
    Please refer to these pages for more information:
 
-    - my tutorial for Wubi, `here on that website <install-wubi.en.html>`_ (and `the slides are there <publis/wubi/>`_),
+    - (*not yet*) my tutorial for Wubi, `here on that website <install-wubi.en.html>`_ (and `the slides are there <publis/wubi/>`_),
     - that official website,
-    - that French page (`<http://doc.ubuntu-fr.org/wubi>`_), or that one in English.
+    - that French page (`<http://doc.ubuntu-fr.org/wubi>`_), or the one you are currently reading in English.
 
 ------------------------------------------------------------------------------
 
 How to mount a `.disk` file on Ubuntu?
 --------------------------------------
-.. warning:: These explanations require that you `have sudo right <help.ubuntu.com/community/RootSudo>`_ on your machine.
+.. warning:: These explanations require that you `have sudo right <http://help.ubuntu.com/community/RootSudo>`_ on your machine.
 
 
 1. Create a directory to serve as the mount location: ::
