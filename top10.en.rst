@@ -41,7 +41,7 @@ My 10 favorite **movies actors/actresses**
 - `Brad Pitt <https://en.wikipedia.org/wiki/Brad_Pitt>`_, mainly in `Fight Club <https://en.wikipedia.org/wiki/Fight_Club_(film)>`_, `7 years in Tibet <https://en.wikipedia.org/wiki/7_years_in_Tibet_(film)>`_, `Inglorious Basterds <https://en.wikipedia.org/wiki/Inglorious_Basterds>`_, `12 Monkeys <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://en.wikipedia.org/wiki/Snatch>`_, etc
 - `Bruce Willis <https://en.wikipedia.org/wiki/Bruce_Willis>`_, mainly in all the `Die Hard <https://en.wikipedia.org/wiki/Die_Hard>`_ movies, `The Fifth Element`_, `Lucky Number Slevin <https://en.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Unbreakable <https://en.wikipedia.org/wiki/Unbreakable_(film)>`_, etc
 - `Uma Thurman <https://en.wikipedia.org/wiki/Uma_Thurman>`_, mainly in `Pulp Fiction`_, `Gattaca <https://en.wikipedia.org/wiki/Gattaca>`_ and `Kill Bill <https://en.wikipedia.org/wiki/Kill_Bill>`_.
-- `Samuel L. Jackson <https://en.wikipedia.org/wiki/Samuel_L._Jackson>`_, mainly in `Pulp Fiction`_, `Django Unchained <https://en.wikipedia.org/wiki/Django_Unchained>`, the `Star Wars`_ and `Die Hard`_ movies etc, and of course the recurrent role of `Nick Fury <https://en.wikipedia.org/wiki/Ultimate_Nick_Fury>`_.
+- `Samuel L. Jackson <https://en.wikipedia.org/wiki/Samuel_L._Jackson>`_, mainly in `Pulp Fiction`_, `Django Unchained <https://en.wikipedia.org/wiki/Django_Unchained>`_, the `Star Wars`_ and `Die Hard`_ movies etc, and of course the recurrent role of `Nick Fury <https://en.wikipedia.org/wiki/Ultimate_Nick_Fury>`_.
 
 - (bonus one) `Coluche <https://en.wikipedia.org/wiki/Coluche>`_, mainly in `Tchao Pantin <https://en.wikipedia.org/wiki/Tchao_Pantin>`_.
 
@@ -93,7 +93,7 @@ My 10 favorite **PC games**
 Travelling
 ----------
 My 10 favorite **places in France**
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Avignon
 - Paris
 - La Ciotat
@@ -103,7 +103,7 @@ My 10 favorite **places in France**
 - ?
 
 My 10 favorite **cities of the world**
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Avignon (France)
 - Quebec (Canada)
 - Paris (France)

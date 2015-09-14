@@ -29,7 +29,7 @@ Projets
 Voici une liste de certains projets contenus dans le dossier `<publis/>`_.
 
 `nautilus-terminal <publis/nautilus-terminal/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 `Un greffon pour Nautilus <https://bitbucket.org/lbesson/nautilus-terminal>`_.
 
 `latex <publis/latex/>`_

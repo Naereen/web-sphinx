@@ -123,6 +123,7 @@ Pages in English
    opendns.en
    latexonwindows.en
    learn-python.en
+   top10.en
    hitch-hiking.en
    packing.en
    mount-a-wubi-disk-as-an-iso-on-ubuntu.en
