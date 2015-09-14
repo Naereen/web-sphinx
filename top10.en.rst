@@ -104,7 +104,47 @@ My 10 favorite **places in France**
 
 My 10 favorite **cities of the world**
 --------------------------------------
-?
+- Avignon (France)
+- Quebec (Canada)
+- Paris (France)
+- Barcelona (Spain)
+- Heimeay (Iceland)
+- London (UK)
+- Berlin (Germany)
+- ?
+
+------------------------------------------------------------------------------
+
+Reading
+-------
+My 10 favorite **comic books** (French "BD")
+--------------------------------------------
+- Thorgal
+- Okko
+- Asterix
+- Gaston Lagaffe
+- Lanfeust
+- Black Sad
+- ?
+
+My 10 favorite **book writers**
+-------------------------------
+- David Eddings
+- Raymond Feist
+- H.P. Lovecraft
+- Edgar A. Poe
+- Jules Verne
+- Philip Pullman
+- ?
+
+My 10 favorite **scientific books**
+-----------------------------------
+- J. Gleck : "The Theory of Chaos"
+- Cormen et al. : "Algorithms"
+- The Francinou Gianela Nicolas maths books
+- The 2 books by X. Gourdon
+- Aho, Hopcroft & Ullman : "?"
+- ?
 
 ------------------------------------------------------------------------------
 
@@ -118,7 +158,10 @@ My 10 favorite **recipes of the world**
 ---------------------------------------
 ?
 
+------------------------------------------------------------------------------
+
 .. todo:: Conclude the lists, find other lists to do!
+.. todo:: Add links to Wikipedia articles for every items of every lists! 
 .. todo:: Translate to French when the page will be done.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
