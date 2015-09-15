@@ -13,7 +13,7 @@ Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
 Entre septembre 2015 et avril 2016, j'interviendrai au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire MP <http://prepas.org/ups.php?article=56>`_, pour :
 
- - des colles de mathématiques (2h/semaine),
+ - des colles de mathématiques (2h/semaine) -- *je suis un gentil colleur :-)*,
  - et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`mon enseignement est basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2h/semaine).
 
 .. note:: Détails concernant le programme d'informatique « pour tous » en prépa scientifiques 2nd année :
