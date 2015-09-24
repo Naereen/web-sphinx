@@ -80,7 +80,9 @@ My 10 favorite **GameBoy games**
 - `Pokémon Gold/Silver <https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold>`_ (GBC)
 - `Super Mario Bros. 2: Super Mario Advance <https://en.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA)
 
-.. sidebar:: Game Boy games are the best!
+.. sidebar:: Game Boy? *Really?*
+
+   Well, Game Boy and GB Advance games are the best, *just accept it!*
 
 My 10 favorite **PC games**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
