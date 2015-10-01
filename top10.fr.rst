@@ -133,7 +133,7 @@ Mes 10 **villes** préférées
 Lecture
 -------
 Mes 10 **Bandes Dessinées** préférées
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Thorgal (deux par Van Hamme & Rosinsky)
 - Okko (par Hub)
 - Le Chant des Stryges (par Corbeyran & Guérineau)
@@ -145,8 +145,8 @@ Mes 10 **Bandes Dessinées** préférées
 - Lanfeust de Troy (juste les 8 premiers tomes, par C. Arleston & D. Tarquin)
 - Asterix (les premiers, par Gosciny & Uderzo)
 
-Mes 10 **écrivaints** préférés
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mes 10 **écrivains** préférés
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `David Eddings <https://fr.wikipedia.org/wiki/David_Eddings>`_ (Américain, 20ème, fantasy, surtout pour `La Belgariade <https://fr.wikipedia.org/wiki/La_Belgariade>`_ et `La Mallorée <https://fr.wikipedia.org/wiki/La_Mallor%C3%A9e>`_)
 - `Edgar A. Poe <https://fr.wikipedia.org/wiki/Edgar_Allan_Poe>`_ (Américain, 19ème, pionier de l'écriture d'horreur et poête sombre)
 - `Philip Pullman <https://fr.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20ème, je le connais par sa `trilogi "His Dark Materials" <https://en.wikipedia.org/wiki/His_Dark_Materials>`_)
