@@ -23,12 +23,13 @@ Cette année (2015-16), je prépare le `master MVA <http://www.math.ens-cachan.f
 
 * En 2013/2014, j'ai (préparé et) obtenu un `Master de Formation des Enseignants du Supérieur <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (sur 295 admis, 785 admissibles, 1600 présents aux écrits et 3000 inscrits).
 
-* En 2012/2013, j'ai obtenu **la première année du master de recherche en informatique de Paris (le MPRI)**
-  et **la première année du master de mathématiques fondamentales de l'ÉNS de Cachan**,
-  les deux avec une mention *Bien*.
+* En 2012/2013, j'ai obtenu deux **M1** (première année de master): pour le `MPRI <https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=start>`_ (master de recherche en informatique de Paris),
+  et le `master Hadamard de mathématiques fondamentales <http://www.math.ens-cachan.fr/version-francaise/formations/formation-en-mathematiques-de-l-ens-cachan-ex-magistere-/2eme-annee-le-m1-hadamard/>`_ de l'ÉNS de Cachan (les deux avec une mention *Bien*).
 
-* En 2011/2012, j'ai obtenu deux **licences**, en **maths** et en **informatique**,
-  avec mention *Bien* (L3, *Bachelor of Science* en anglais).
+* En 2011/2012, j'avais eu deux **licences** (**L3**), en **maths** et en **informatique**,
+  (avec mention *Bien*; *Bachelor of Science* en anglais).
+
+* En 2009/2010 et 2010/2011, j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
 * En 2009/2010 et 2010/2011 j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
