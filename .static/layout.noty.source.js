@@ -127,7 +127,7 @@ $(document).ready(function(){
           noty({text: messages.oupsohsorry,
            type: 'error', layout: 'center', timeout: 20000});
         }}]
-    }) }, 10000);
+    }) }, 120000);
    // Add the "s" command
    Mousetrap.bind(["s", "S"], function() { noty({
     text: messages.changestylebeta,
