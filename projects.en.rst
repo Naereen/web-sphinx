@@ -2,9 +2,9 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-##########
- Welcome!
-##########
+##########################
+ Welcome! (complete page)
+##########################
 .. include:: .special.rst
 Who am I?
 ---------
@@ -34,11 +34,38 @@ Studies and past jobs
 
 * During two years, 2009/2010 and 2010/2011, I studied in Marseille, at `Lycée Thiers <https://simple.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_, first in MPSI 2 and after in MP\*1.
 
+* Before that, I lived in `Briançon <https://en.wikipedia.org/wiki/Briançon>`_ (Hautes-Alpes, *France*), and I got my `scientific baccalauréat <https://en.wikipedia.org/wiki/Baccalaur%C3%A9at#S.C3.A9rie_scientifique_.28S.29>`_, with a major in maths and a minor in theater, in 2009.
+
+
+.. container:: smallpar
+
+   **A few words about me**:
+
+   I like to walk, travel, go camping around France and Europe, mainly by using `hitch-hiking <autostop.en.html>`_.
+   I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
+   (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
+   or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
+
+   **A few words about this site**:
+
+   I am working on this little website (currently, `<http://perso.crans.org/besson/>`_)
+   when I have the time, hoping it can be useful to someone.
+   :gray:`All the content of the website is (C) Lilian BESSON, and it is open source with the` `GPLv3 License <LICENSE.html>`_.
+   `What means Open Source, explained with LEGO? <https://youtu.be/a8fHgx9mE5U>`_.
+   This site's *Google Analytics* data suggest that some pages are indeed visited on a daily basis,
+   so if you are here for something in particular, I hope you will not be disapointed
+   (you can use `this bug tracker <https://bitbucket.org/lbesson/web-sphinx/issues/new>`_ to report any bug, or even to ask me anything).
+
 ------------------------------------------------------------------------------
 
-Some projects on-line
-^^^^^^^^^^^^^^^^^^^^^
-.. sidebar:: Other language : in French
+.. warning::
+
+   Those web pages **are still in construction**!
+   In particular, the English versions of each pages are *not* yet available.
+   But, I'm working on it!
+
+
+.. sidebar:: Other language: in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
    `en français <index.fr.html>`_ :red:`?`
@@ -46,16 +73,42 @@ Some projects on-line
    or `<index.en.html>`_, according to the preference of your browser.
 
 
+.. note:: Contact me?
+
+   Feel free to *contact* me by `the solution you prefer <callme.en.html>`_.
+
+
+Some projects on-line
+^^^^^^^^^^^^^^^^^^^^^
 Some of my profile pages on some great website:
 
-  #. either with my *Bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
-  #. or my *Github* account `github.com/Naereen <https://github.com/Naereen>`_;
-  #. or on my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_.
+  #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
+  #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
+  #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
+
+
+MSc internship : "*Towards modularity for planning and robot programs verification*"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I did a research internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
+
+.. sidebar:: Résumé
+
+   My *résumé* is available here `<cv.pdf>`_.
+   It is realized with ``LaTeX``, and the package *moderncv*.
+
+
+I worked at **UCL** (:under:`University College of London`),
+under the direction of `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (who quotes me `on his new page <http://www.doc.ic.ac.uk/~jvillar1/>`_, and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
+about separation logic, planning in `AI`, and the study of *modularity* in those two domains.
+
+My report (in English): `<rapportM1Info13.pdf>`_, and my slides (in French): `<slidesM1Info13.pdf>`_.
+
+:Mark: Jules gave me **19/20**. I got the mark **17.7/20** from the Computer Science jury at ENS Cachan, and **18.50/20** from the Maths jury at ENS Cachan.
 
 ------------------------------------------------------------------------------
 
-Main pages in English
----------------------
+All pages in English
+--------------------
 For more details, see `<sitemap.en.html>`_.
 
 .. toctree::
@@ -65,6 +118,25 @@ For more details, see `<sitemap.en.html>`_.
    callme.en
    cv.en
    teaching.en
-   projects.en
+   cookies.en
+   ga.en
+   beacon.en
+   apk.en
+   sublimetext.en
+   tutogit.en
+   wakatime.en
+   zotero.en
+   transifex.en
+   opendns.en
+   latexonwindows.en
+   learn-python.en
+   top10.en
+   hitch-hiking.en
+   packing.en
+   mount-a-wubi-disk-as-an-iso-on-ubuntu.en
+   trademarks
+   demo
+   alaskabombeh.en
+   pokedex-doc/index
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
