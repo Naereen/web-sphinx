@@ -1,13 +1,12 @@
 # Web Pages Sphinx
 The new generation of my web pages, generated with [Sphinx](<http://sphinx-doc.org>) v*1.4a0+*.
-Currently this *projet* is in version *2.3* (*public* release) !
+Currently this *projet* is in version *2.4* (*public* release) !
 
 ## Where are those pages ?
 
 ### On line :
  * [perso.crans.org/besson](<http://perso.crans.org/besson/> "Check this one !") ;
  * [www.dptinfo.ens-cachan.fr/~lbesson](<http://www.dptinfo.ens-cachan.fr/~lbesson/> "And this one too !") is now just a redirection to the precedent one.
- * [jarvis.crans.org/](<http://jarvis.crans.org/> "On my own machine") for test only (and only from the crans local network) ;
 
 ## About
 Some pages host my résumé, others are just experiments, about Sphinx and many other things.
@@ -18,7 +17,7 @@ To limit the size of this one, I used an other repo to store
 the scripts/ folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
 
 This second repo mainly hosts some Javascript scripts 
-(GNU Plot & OCaml & Python toplevel, shortcuts.js, simpletrailimage.js), 
+(GNU Plot & OCaml & Python toplevel, `shortcuts.js`, `simpletrailimage.js` etc), 
 and also a **complete** Python distribution, 
 used with python.opt.js to embed a Python toplevel in my web pages (I know, it's useless, but so funny !).
 
@@ -28,7 +27,7 @@ used with python.opt.js to embed a Python toplevel in my web pages (I know, it's
 Lilian Besson.
 
 ### Languages:
- * reStructuredText (mainly)
+ * reStructuredText (mainly, for the content of the pages)
  * Jinja Templating (for changing appearance of the web pages)
  * Javascript (for some interactive stuff)
  * Python (for Sphinx parametring)
@@ -40,16 +39,16 @@ Lilian Besson.
 This project use the following software :
 
  * Python 2.7+;
- * LaTeX (pdflatex, and hevea);
+ * LaTeX (pdflatex, and hevea) (not required for building html);
  * Gnu Make (other versions of Make should *NOT* work);
- * git (not required);
- * rsynx (or scp);
- * ack-grep or grep;
+ * git (not required for building);
+ * rsynx (or scp), for uploading;
+ * ack-grep (or grep);
  * Sphinx (v1.2+);
  * GnuPlot and Gnu Octave;
  * GnuPG;
  * GraphViz, Dot graph;
- * rst2pdf, rst2html, rst2s5 (included in the docutils package);
+ * rst2pdf, rst2html, rst2s5 (included in the docutils package) (not required for building html);
  * and the following Sphinx contrib extensions :
 
     * cheeseshop;
