@@ -138,7 +138,7 @@ copyright = u'2011-2015, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '2.3'
+version = '2.4'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -243,18 +243,12 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':        ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html',
-         'sidebar_gpg.fr.html'], ##, 'validator.html'
-   '**.en':     ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html'], ##, 'validator.html'
-   'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html',
-         'sidebar_gpg.fr.html'], ##, 'validator.html'
-   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html',
-         'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'], ##, 'validator.html'
-   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html',
-         'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'], ##, 'validator.html'
-   '**/*':      ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html',
-         'sidebar_gpg.en.html'], ##, 'validator.html'
+   '**':        ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html'], ##, 'validator.html'
+   '**.en':     ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html'], ##, 'validator.html'
+   'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html', ], ##, 'sidebar_gpg.fr.html', 'validator.html'
+   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'], ##, 'validator.html'
+   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'], ##, 'validator.html'
+   '**/*':      ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'sidebar_gpg.en.html'], ##, 'validator.html'
 }
 
 # Additional templates that should be rendered to pages, maps page names to
