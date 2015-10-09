@@ -21,7 +21,7 @@ Why exactly?
 
 ------------------------------------------------------------------------------
 
-With this in mind, let me present an interesting and peculiar tool I have been using from the last few months. 
+With this in mind, let me present an interesting and peculiar tool that I have been using from a while.
 
 How can we monitor our programming time?
 ----------------------------------------
@@ -83,7 +83,8 @@ It is also possible to share the stats of one project, with a dedicated obfuscat
 
 Let us finish on a bonus : read your `Wakatime`_ stats from the command line
 ----------------------------------------------------------------------------
-It is easy to install the command line tool `WakaTimeCLI <https://github.com/wakatime/WakaTimeCLI/tree/master/src>`_,
+
+It is easy to install the command line tool `WakaTimeCLI <https://github.com/JoshLankford/WakaTimeCLI/tree/master/src>`_,
 with the command ``npm install wakatimecli``.
 
 .. note:: nodejs and npm are needed
@@ -92,7 +93,7 @@ with the command ``npm install wakatimecli``.
 
 
 This tool is based on `the officiel Wakatime API <https://wakatime.com/developers/>`_, and his fairly easy to use.
-The first command is `wakatime -help <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ which shows the different options that are accepted by the tool: ::
+The first command is `wakatime -help <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ which shows the different options that are accepted by the tool: ::
 
     Please pass an option:
       -? or -help
@@ -102,13 +103,19 @@ The first command is `wakatime -help <https://github.com/wakatime/WakaTimeCLI/bl
       -w or -week
 
 
-The help (``wakatime -help``) is nothing but confused, but we can guess its use `by directly reading its source-code <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_...
+The help (``wakatime -help``) is not very clear, but we can guess its use `by directly reading its source-code <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_.
 
 
 .. note:: This tool is writing its results with ANSI colors, sweet!
 
-   Yeah, but it is less sweet when we `see that the colors had been brutally included directly <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ in the script...
+   Yeah, but it is less sweet when we see that the colors 
+   are used even if the output is a terminal which does not support them, or if it is a file
+   (but `this is not the script's fault <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_
+   but `its a bug in the cli-color npm module <https://www.npmjs.com/package/cli-color#clc-strip-formatedtext>`_ that should have implemented a better detection of the output,
+   like `I did for ANSIColors a few years ago <https://bitbucket.org/lbesson/ansi-colors/src/master/ANSIColors.py?fileviewer=file-view-default#ANSIColors.py-286>`)
+
    As `this message explains it <http://stackoverflow.com/a/6307894>`_, this is NOT the good practice to follow.
+   (`I opened an issue about that on the GitHub repo for WakaTimeCLI <https://github.com/JoshLankford/WakaTimeCLI/issues/11>`_)
 
    But thanks to `this sed command <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"`) I thought I would be able to include the output of a `wakatime` command in this page.
 
@@ -118,16 +125,11 @@ Then, in order to be able to use the tool, you will need to add `your API Key (a
     wakatime -api yourApiKeyHere
 
 
-For instance, the command `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the lat 7 days.
+For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the lat 7 days.
 
 
 .. runblock:: console
 
    $ /home/lilian/bin/mywakatime | head -n3
-
-
-------------------------------------------------------------------------------
-
-.. todo:: Conclude the writing, and add some screenshots ?
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

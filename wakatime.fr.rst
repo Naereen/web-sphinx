@@ -19,7 +19,7 @@ Pourquoi ?
 
 ------------------------------------------------------------------------------
 
-Depuis quelques mois, j'expérimente un concept étonnant, et intéressant.
+Cette introduction étant faite, laissez-moi vous présenter un outil intéressant que j'utilise depuis quelque temps.
 
 Comment ?
 ---------
@@ -80,16 +80,17 @@ Il est aussi possible de partager les les statistiques d'un projet en particulie
 
 Un bonus : accéder aux statistiques en ligne de commande
 --------------------------------------------------------
-Il est facile d'installer l'outil `WakaTimeCLI <https://github.com/wakatime/WakaTimeCLI/tree/master/src>`_,
+
+Il est facile d'installer l'outil `WakaTimeCLI <https://github.com/JoshLankford/WakaTimeCLI/tree/master/src>`_,
 avec la commande ``npm install wakatimecli``.
 
-.. note:: nodejs et npm sont requis
+.. note:: `nodejs` et `npm` sont requis
 
     Cela demande d'avoir déjà installé sur votre machine `nodejs <https://nodejs.org/>`_ et son gestionnaire de paquet `npm <https://www.npmjs.com/>`_.
 
 
 Cet outil en ligne de commande se base `sur cette API <https://wakatime.com/developers/>`_, et est facile à utiliser.
-La première commande est `wakatime -help <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ qui montre les différentes options acceptées par cet outil : ::
+La première commande est `wakatime -help <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ qui montre les différentes options acceptées par cet outil : ::
 
     Please pass an option:
       -? or -help
@@ -99,13 +100,19 @@ La première commande est `wakatime -help <https://github.com/wakatime/WakaTimeC
       -w or -week
 
 
-L'aide (``wakatime -help``) n'est pas bien écrite, mais on peut deviner son utilisation `ici directement dans son code source <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_.
+L'aide (``wakatime -help``) n'est pas très bien écrite, mais on peut deviner son utilisation `ici directement dans son code source <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L237>`_.
 
 
 .. note:: Cet outil produit une sortie en couleur, cool !
 
-   C'est moins cool lorsqu'on s'`aperçoit que les couleurs sont incluses brutalement <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_ dans le script...
-   Comme l'explique `ce poste <http://stackoverflow.com/a/6307894>`_, ce n'est pas une bonne pratique.
+   C'est moins cool lorsqu'on s'aperçoit que les couleurs sont ne sont pas supprimée
+   si la sortie est redirigée vers un terminal qui n'accepte pas les codes ANSI,
+   ou un fichier (`c'est pas la faute au script <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_
+   mais `au module cli-color <https://www.npmjs.com/package/cli-color#clc-strip-formatedtext>`_ qui aurait du implémenter une meilleure méthode de détection,
+   comme `je l'avais fait pour ANSIColors il y a quelques années <https://bitbucket.org/lbesson/ansi-colors/src/master/ANSIColors.py?fileviewer=file-view-default#ANSIColors.py-286>`)).
+
+   Comme l'explique `cette remarque sur stackoverflow <http://stackoverflow.com/a/6307894>`_, ce n'est pas une bonne pratique.
+   (`J'ai demandé via le dépôt GitHub pour WakaTimeCLI de régler ce problème <https://github.com/JoshLankford/WakaTimeCLI/issues/11>`_)
 
    Merci `à cette astuce à coup de sed <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]\\*[mK]::g"`).
 
@@ -115,15 +122,10 @@ Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur 
     wakatime -api yourApiKeyHere
 
 
-Par exemple, la commande `wakatime -w <https://github.com/wakatime/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ donne le temps total passé sur son (ses) éditeur(s) de code durant les 7 derniers jours.
+Par exemple, la commande `wakatime -w <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ donne le temps total passé sur son (ses) éditeur(s) de code durant les 7 derniers jours.
 
 .. runblock:: console
 
    $ /home/lilian/bin/mywakatime | head -n3
-
-
-------------------------------------------------------------------------------
-
-.. todo:: Terminer de l'écrire + capture d'écran ?
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
