@@ -50,6 +50,7 @@ Aperçus des stats ?
 Durant les 8 premiers jours, j'étais en `mode « développement intensif » <https://bitbucket.org/lbesson/>`_ pour conclure certains projets (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), mais j'étais tout de même un peu effrayé de voir **29h d'activité en 8 jours !**
 
 Il est aussi possible de voir :
+
  - sur quels projets vous passez le plus de temps,
  - quels types de fichiers tu travailles, jour par jour,
  - et même quels fichiers (cela peut être désactivé).
@@ -74,7 +75,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 
 Partager les stats d'un projet en particulier
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/ftvestkpra>`_ par exemple (correspondant )à `ce project <https://mec-summer-15.readthedocs.org/en/latest/>`_).
+Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ par exemple (correspondant à `ce project <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 ------------------------------------------------------------------------------
 

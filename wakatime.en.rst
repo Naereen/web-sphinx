@@ -66,7 +66,7 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block; margin:auto">
-   <iframe src="https://wakatime.com/@lbesson" allowtransparency="true" frameborder="0" scrolling="0" width="980" height="450"></iframe>
+   <iframe src="http://wakatime.com/@lbesson" allowtransparency="true" frameborder="0" scrolling="0" width="980" height="450"></iframe>
    </p>
 
 
@@ -77,7 +77,7 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 
 Sharing stats for a project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-It is also possible to share the stats of one project, with a dedicated obfuscated link, like `<https://wakatime.com/@lbesson/projects/ftvestkpra>`_ for example (corresponding to `that project <https://mec-summer-15.readthedocs.org/en/latest/>`_).
+It is also possible to share the stats of one project, with a dedicated obfuscated link, like `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ for example (corresponding to `that project <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 ------------------------------------------------------------------------------
 
