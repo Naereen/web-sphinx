@@ -29,8 +29,6 @@ Cette année (2015-16), je prépare le `master MVA <http://www.math.ens-cachan.f
 * En 2011/2012, j'avais eu deux **licences** (**L3**), en **maths** et en **informatique**,
   (avec mention *Bien*; *Bachelor of Science* en anglais).
 
-* En 2009/2010 et 2010/2011, j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
-
 * En 2009/2010 et 2010/2011 j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
 * Avant ça, je vivais à `Briançon <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_ (Hautes-Alpes, *France*), et j'ai eu mon baccalauréat S option maths et théâtre en 2009. (Briançon, c'est une *jolie petite ville perdue dans les Hautes-Alpes !*)
