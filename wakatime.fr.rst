@@ -110,7 +110,7 @@ L'aide (``wakatime -help``) n'est pas très bien écrite, mais on peut deviner s
    si la sortie est redirigée vers un terminal qui n'accepte pas les codes ANSI,
    ou un fichier (`c'est pas la faute au script <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_
    mais `au module cli-color <https://www.npmjs.com/package/cli-color#clc-strip-formatedtext>`_ qui aurait du implémenter une meilleure méthode de détection,
-   comme `je l'avais fait pour ANSIColors il y a quelques années <https://bitbucket.org/lbesson/ansi-colors/src/master/ANSIColors.py?fileviewer=file-view-default#ANSIColors.py-286>`)).
+   comme `je l'avais fait pour ANSIColors il y a quelques années <https://bitbucket.org/lbesson/ansi-colors/src/master/ANSIColors.py?fileviewer=file-view-default#ANSIColors.py-286>`_)).
 
    Comme l'explique `cette remarque sur stackoverflow <http://stackoverflow.com/a/6307894>`_, ce n'est pas une bonne pratique.
    (`J'ai demandé via le dépôt GitHub pour WakaTimeCLI de régler ce problème <https://github.com/JoshLankford/WakaTimeCLI/issues/11>`_)
