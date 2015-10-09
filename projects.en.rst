@@ -8,13 +8,27 @@
 .. include:: .special.rst
 Who am I?
 ---------
-Greetings, I am **Lilian Besson**, `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_, a *French* University specialized in the training of researchers and professors for superior studies, located near Paris (in Cachan).
+Greetings! I am **Lilian Besson**, `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ (a *French* "Grande École" specialized in training researchers and professors for superior studies, located near Paris, in Cachan).
 
-This year (2015-16), I am studying in the `MVA master program <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ at `ENS de Cachan`_, a program in applied maths, specialized in machine learning and optimization.
+This year (2015-16), I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
 
-.. note:: Contact me?
+`Contact information <callme.fr.html>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
-   Feel free to *contact* me by `the solution you prefer <callme.en.html>`_.
+.. image:: .courriel.png
+   :scale: 120 %
+   :align: right
+   :target: mailto:Lilian.Besson＠ens-cachan.fr
+
+#. by *email* at this adress `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
+
+   .. image:: .telephone.png
+      :scale: 130 %
+      :align: right
+      :target: callto:100101011101001100111101100001_2
+
+#. you can call me or send me a SMS:
 
 ------------------------------------------------------------------------------
 
@@ -23,13 +37,13 @@ Studies and past jobs
 * From mid-July 2014 to mid-May 2015, I **lived and worked in India**, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
   I was the first French faculty to work there full-time, and `I have been involved as a teaching assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
 
-* In 2013/2014, I prepared the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23rd  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1200 persons registered in October 2013. I also did the second year of my **Master of Science** in Fondamental **Mathematics** (major) and **Computer Science** (minor), with a `speciality on teaching <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/contenu-de-la-preparation/m2fesup-214836.kjsp>`_.
+* In 2013/2014, I `prepared <http://www.universite-paris-saclay.fr/en/node/6477>`_ the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
+  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23rd  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1200 persons registered in October 2013. I also did the second year of my **Master of Science** in Fondamental **Mathematics** (major) and **Computer Science** (minor), with a `speciality on teaching <http://www.universite-paris-saclay.fr/en/node/6477>`_.
 
 * In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
-  and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan, again both `magna cum laude`_.
+  and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan (again both `magna cum laude`_).
 
-* From 2011/2012, I studied at `ÉNS Cachan <http://www.ens-cachan.fr/version-anglaise/>`_, and in July 2012, I completed two `Bachelor of Science <https://en.wikipedia.org/wiki/Bachelor_of_science>`_, one in **Mathematics** and one in **Computer Science**,
+* From 2011/2012, I studied at `ÉNS Cachan <http://www.ens-cachan.fr/version-anglaise/>`_, and in July 2012, I completed two `Bachelors of Science <https://en.wikipedia.org/wiki/Bachelor_of_science>`_, one in **Mathematics** and one in **Computer Science**,
   both `magna cum laude <https://en.wiktionary.org/wiki/magna_cum_laude>`_.
 
 * During two years, 2009/2010 and 2010/2011, I studied in Marseille, at `Lycée Thiers <https://simple.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_, first in MPSI 2 and after in MP\*1.
