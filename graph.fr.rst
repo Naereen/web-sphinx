@@ -121,6 +121,83 @@ utilise deux petits graphes comme exemples, qui étaient montrés en ASCII au d�
 
 `J'avais ouvert ce ticket (#5344) <https://github.com/scipy/scipy/issues/5344>`_, et `ce commentaire est aussi relié <https://github.com/scipy/scipy/commit/5e243220af15398d57a678869d52550890d9192d#commitcomment-13705121>`_.
 
+Graphe G1 :
+
+.. raw:: html
+
+   <!-- Title: Graphe G1 Pages: 1 -->
+   <svg width="134pt" height="131pt"
+    viewBox="0.00 0.00 134.00 131.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 127)">
+   <title>Graph G1</title>
+   <polygon fill="white" stroke="none" points="-4,4 -4,-127 130,-127 130,4 -4,4"/>
+   <!-- 0 -->
+   <g id="node1" class="node"><title>0</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="63" cy="-105" rx="27" ry="18"/>
+   <text text-anchor="middle" x="63" y="-101.3" font-family="Times,serif" font-size="14.00">0</text>
+   </g>
+   <!-- 1 -->
+   <g id="node2" class="node"><title>1</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="27" cy="-18" rx="27" ry="18"/>
+   <text text-anchor="middle" x="27" y="-14.3" font-family="Times,serif" font-size="14.00">1</text>
+   </g>
+   <!-- 0&#45;&#45;1 -->
+   <g id="edge2" class="edge"><title>0&#45;&#45;1</title>
+   <path fill="none" stroke="black" d="M55.8876,-87.2067C49.5353,-72.2083 40.2853,-50.368 33.9752,-35.4692"/>
+   <text text-anchor="middle" x="51.5" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
+   </g>
+   <!-- 2 -->
+   <g id="node3" class="node"><title>2</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="99" cy="-18" rx="27" ry="18"/>
+   <text text-anchor="middle" x="99" y="-14.3" font-family="Times,serif" font-size="14.00">2</text>
+   </g>
+   <!-- 0&#45;&#45;2 -->
+   <g id="edge1" class="edge"><title>0&#45;&#45;2</title>
+   <path fill="none" stroke="black" d="M70.1124,-87.2067C76.4647,-72.2083 85.7147,-50.368 92.0248,-35.4692"/>
+   <text text-anchor="middle" x="86.5" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+   </g>
+   </g>
+   </svg>
+
+
+Graphe G2 :
+
+.. raw:: html
+
+   <!-- Title: Graphe G2 Pages: 1 -->
+   <svg width="134pt" height="131pt"
+    viewBox="0.00 0.00 134.00 131.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 127)">
+   <title>Graph G2</title>
+   <polygon fill="white" stroke="none" points="-4,4 -4,-127 130,-127 130,4 -4,4"/>
+   <!-- 0 -->
+   <g id="node1" class="node"><title>0</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="63" cy="-105" rx="27" ry="18"/>
+   <text text-anchor="middle" x="63" y="-101.3" font-family="Times,serif" font-size="14.00">0</text>
+   </g>
+   <!-- 1 -->
+   <g id="node2" class="node"><title>1</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="27" cy="-18" rx="27" ry="18"/>
+   <text text-anchor="middle" x="27" y="-14.3" font-family="Times,serif" font-size="14.00">1</text>
+   </g>
+   <!-- 0&#45;&#45;1 -->
+   <g id="edge2" class="edge"><title>0&#45;&#45;1</title>
+   <path fill="none" stroke="black" d="M55.8876,-87.2067C49.5353,-72.2083 40.2853,-50.368 33.9752,-35.4692"/>
+   <text text-anchor="middle" x="51.5" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
+   </g>
+   <!-- 2 -->
+   <g id="node3" class="node"><title>2</title>
+   <ellipse fill="none" stroke="black" stroke-width="2" cx="99" cy="-18" rx="27" ry="18"/>
+   <text text-anchor="middle" x="99" y="-14.3" font-family="Times,serif" font-size="14.00">2</text>
+   </g>
+   <!-- 0&#45;&#45;2 -->
+   <g id="edge1" class="edge"><title>0&#45;&#45;2</title>
+   <path fill="none" stroke="red" d="M70.1124,-87.2067C76.4647,-72.2083 85.7147,-50.368 92.0248,-35.4692"/>
+   <text text-anchor="middle" x="86.5" y="-57.8" font-family="Times,serif" font-size="14.00">0</text>
+   </g>
+   </g>
+   </svg>
+
 ------------------------------------------------------------------------------
 
 Un autre extension : ``sphinx.ext.todolist``
