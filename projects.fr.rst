@@ -305,7 +305,7 @@ J'expérimente certaines fonctionnalités de **Sphinx**, ainsi que des extension
 sur ces pages là :
 
 #. `<math.html>`_, présente plusieurs façons d'écrire des maths en **rST**;
-#. `<graph.html>`_, présente une façon d'embarquer des graphes via le langage **DOT Graph** (et les visualiser avec *GraphViz*);
+#. `<graph.fr.html>`_, présente une façon d'embarquer des graphes via le langage **DOT Graph** (et les visualiser avec *GraphViz*);
 #. `<gnuplot_embed.html>`_, présente une façon d'embarquer des graphiques générés à partir de commande **GNU Plot**;
 #. `<runblock.html>`_, présente une façon d'embarquer la sortie de commandes **shell** dans les pages web (avec un exemple en **OCaml** entre autres);
 
@@ -374,7 +374,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    js
    NanoSyntax
    math
-   graph
+   graph.fr
    gnuplot_embed
    runblock
    transifex.fr

@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=en: Embed a DOT graph with GraphViz in a Sphinx-generated page
+   :description lang=fr: Inclure des graphes DOT avec GraphViz dans une page Sphinx
+
 ###################################
  Des graphes DOT avec **GraphViz**
 ###################################
@@ -8,6 +12,9 @@ Des graphes ?
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des **graphes**
 écrits avec une balise ``.. graphviz::``, et censés être rendus avec
 `GraphViz <http://www.graphviz.org/>`_.
+
+Cette fonctionnalité est ajoutée par l'extension `sphinx.ext.graphviz <http://sphinx-doc.org/ext/graphviz.html>`_,
+incluse par défaut dans `sphinx <http://sphinx-doc.org/>`_ depuis sa version ``0.6``.
 
 Cette directive ``graphviz`` utilise le langage **DOT Graph** de description
 de graphe (dirigé ou non). Ce langage est un standard dans le monde
@@ -40,8 +47,8 @@ Exemples
 ~~~~~~~~~~~~~~~~~
 Cette directive sert à décrire des graphes **dirigés**.
 
-**Sphinx autodoc** et mon script ``pytorst.py`` permettent
-de réaliser la transformation suivante :
+**Sphinx autodoc** (et un script comme `pytorst.py <./bin/pytorst.sh>`_)
+permettent de réaliser la transformation suivante :
 
 .. digraph:: autodoc
 
@@ -55,7 +62,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
 **LaTeX**
 ^^^^^^^^^
 **pdflatex** permet de réaliser la transformation suivante
-(avec comme exemple mon CV écrit en **LaTeX**) :
+(avec comme exemple `mon CV <cv.fr.pdf>`_ écrit en **LaTeX**) :
 
 .. graph:: latex
 
@@ -64,8 +71,7 @@ Cette directive sert à décrire des graphes **non-dirigés**.
    "cv.fr.tex" -- "cv.fr.pdf";
 
 
-**HeVeA** permet de réaliser la transformation suivante
-(avec comme exemple mon CV écrit en **LaTeX**) :
+**HeVeA** permet de réaliser la transformation suivante :
 
 .. graph:: hevea
 
@@ -97,9 +103,9 @@ Dans les Hautes-Alpes, il y a notamment les villes suivantes
 Un fichier externe
 ~~~~~~~~~~~~~~~~~~
 On peut aussi aller chercher un *fichier externe*.
-Voici par exemple un graphe de dépendances (pour mon projet réseau)
-généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
-(le fichier est **.graph.dot**).
+Voici par exemple un graphe de dépendances (pour `un vieux jeu en réseau écrit en 2012 <./publis/Bomberman/>`_)
+généré via `pyreverse <https://www.logilab.org/2560>`_, et inclus via ``.. graphviz:: .graph.dot``
+(le fichier s'appelle **.graph.dot**).
 
 .. warning:: Soucis de zoom pour ce graphe...
 
@@ -107,10 +113,10 @@ généré via ``pyreverse``, et inclus via ``.. graphviz:: .graph.dot``
 
 ------------------------------------------------------------------------------
 
-Extension ``sphinx.ext.todolist``
----------------------------------
+Un autre extension : ``sphinx.ext.todolist``
+--------------------------------------------
 Cette page permet aussi de tester la fonctionnalité ajouté par l'extension
-*non-officielle* ``sphinx.ext.todolist``.
+`sphinx.ext.todolist <http://sphinx-doc.org/ext/todo.html>`_.
 Cette extension ajoute une directive ``.. todo::`` qui permet de déclarer
 un **TODO**, *i.e.* une chose à régler.
 

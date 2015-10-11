@@ -144,6 +144,7 @@ For more details, see `<sitemap.en.html>`_.
    opendns.en
    latexonwindows.en
    learn-python.en
+   graph.en
    top10.en
    hitch-hiking.en
    packing.en
