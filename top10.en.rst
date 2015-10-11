@@ -32,7 +32,7 @@ My 10 favorite **movies**
 - `The Fifth Element <https://en.wikipedia.org/wiki/The_Fifth_Element>`_,
 - `Princess Mononoke <https://en.wikipedia.org/wiki/Princess_Mononoke>`_.
 
-.. seelalso:: Another top 7 of favorite movies
+.. seealso:: Another top 7 of favorite movies
 
    `<http://jill-jenn.net/cinema/>`_
 
