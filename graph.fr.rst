@@ -117,9 +117,10 @@ Utiliser ceci pour la doc de scipy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour le module `scipy.sparse.csgraph <https://github.com/scipy/scipy/blob/master/scipy/sparse/csgraph/__init__.py>`_ du projet `scipy <http://scipy.org>`_,
 la page principale de `documentation <http://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph>`_
-utilise deux petits graphes comme exemples, qui étaient montrés en ASCII au début, mais nous avons ajouté deux fichiers SVG à la place (c'est moins moche !).
+utilise deux petits graphes comme exemples, qui étaient montrés en ASCII au début, ainsi je voulais ajouter deux fichiers SVG à la place.
 
 `J'avais ouvert ce ticket (#5344) <https://github.com/scipy/scipy/issues/5344>`_, et `ce commentaire est aussi relié <https://github.com/scipy/scipy/commit/5e243220af15398d57a678869d52550890d9192d#commitcomment-13705121>`_.
+`La demande d'ajout (#5345) n'était pas satisfaisante <https://github.com/scipy/scipy/pull/5345>`_ : le fichier SVG inclus dans la page rST ne fonctionne pas pour une sortie PDF ni pour l'inspection de la docstring (avec IPython ou autre).
 
 Graphe G1 :
 
