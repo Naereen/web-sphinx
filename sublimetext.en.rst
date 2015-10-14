@@ -18,7 +18,7 @@ This page is there to quickly describe how I use on a daily basis the awesome **
 
    « *Its use is common, even essential for some basic computing tasks such as system administration and software development..* »
 
-   Needless to say therefore that `I use it constantly <https://bitbucket.org/lbesson/>`_, mostly on Linux (Ubuntu 14.04), and occasionally on Windows.
+   Needless to say therefore that `I use it constantly <https://bitbucket.org/lbesson/>`_, mostly on Linux (Ubuntu 15.04), and on Windows (7).
 
    The Wikipedia page `on text editors <https://en.wikipedia.org/wiki/Comparison_of_text_editors>`_ contains a list of the most popular publishers multi-platform text.
    Sublime Text is obviously on the list, along with `gedit <./publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
@@ -86,7 +86,7 @@ Sublime Text can be equipped with a package manager that allows users to find, i
 This project is simply called **Sublime Text Package Manager**, and is hosted on this site `packagecontrol.io <https://packagecontrol.io>`_.
 This page `packagecontrol.io/installation <https://packagecontrol.io/installation>`_ will tell you how to install the package manager, which is the only step *a little dirty* (but do not worry, no risk).
 
-This magical plugin has already been downloaded more than `2.63 millions times <https://packagecontrol.io/browse/authors/Will%20Bond%20%28wbond%29>`_ from the beginning of the project!
+This *magical* plugin has already been downloaded more than `3.01 million times <https://packagecontrol.io/browse/authors/Will%20Bond%20%28wbond%29>`_ from the beginning of the project!
 
 
 You can get a glimpse of the richness of this collection of plugin by going to this list (`packagecontrol.io/browse/popular <https://packagecontrol.io/browse/popular>`_) of the most downloaded plugins.
@@ -110,8 +110,7 @@ To use one of these files (``.sublime-settings``, ``.sublime-snippet`` or ``.sub
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-
-:État: *Actively maintained*. (November 2014)
+:State: *Actively maintained*. (October 2015)
 
 Config
 ~~~~~~
@@ -139,6 +138,7 @@ Snippets
 List of my snippets:
 
 * `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ to easily create a new `Python <python.html>`_ script,
+* `newpython3.sublime-snippet <./publis/ST3/newpython3.sublime-snippet>`_ to easily create a new `Python 3K <python.html>`_ script,
 * `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <./bin/>`_.
 * `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_.
 * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.org/md/>`_!
@@ -177,16 +177,16 @@ Small customization plugins:
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
 * `Predawn <https://packagecontrol.io/packages/Predawn>`_ is an improved interface, very dark to `help you protect your eyes <bin/yeux.sh>`_ !
 * `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. Yeah, your text editor can *tell you the weather!*
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface `suitable for optimum productivity <https://twitter.com/TristanDeleu>`_.
+* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface `suitable for optimum productivity <https://github.com/TristanDeleu>`_.
 
 
 Plugins that add great features:
 
-* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring.
+* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. It's simple, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
-* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial license... But it is really awesome, so you will support this.
+* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I do not use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
 
@@ -199,7 +199,7 @@ A better syntax coloring for some languages:
 * `Markdown Extended <https://packagecontrol.io/packages/MakeCommands>`_ is supposed to improve the syntax coloring for `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, lightweight markup language, designed for easy preparation of document. I use Markdown especially via my project `StrapDownJS`_ ! (See `an example <bin/>`_ ?)
 * `nginx <https://packagecontrol.io/packages/nginx>`_ improve the syntax coloring for config files for the `awesome NGinx web server <http://nginx.org/>`_.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). To be used with `these snippets for rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
-* `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use the **TWiki** "Monokai for Markup" them for every language!
+* `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language!
 
 
 
@@ -244,7 +244,7 @@ Additional advice
 
 Additional credit
 ^^^^^^^^^^^^^^^^^
- Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advising me to use `Sublime Text 3`_ (in last Octobre 2013).
+ Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advising me to use `Sublime Text 3`_ (in Octobre 2013).
 
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -18,7 +18,7 @@ Cette page est là pour décrire rapidement l'utilisation que je fais quotidienn
 
    « *Son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.* »
 
-   Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux (Ubuntu 14.04), et de temps en temps sur Windows.
+   Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux (Ubuntu 15.04), et aussi sur Windows (7).
 
    La page Wikipédia `sur les éditeurs de textes <https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte#Multi_plates-formes>`_ contient une liste des plus populaires éditeurs de texte multi plates-formes.
    Sublime Text est évidemment dans la liste, accompagné de `gedit <./publis/gedit/>`_, des deux légendaires Emacs et Vim, et de Komodo Edit notamment.
@@ -89,7 +89,7 @@ Sublime Text peut être équipé d'un gestionnaire de paquets qui permet à l'ut
 Ce projet s'appelle sobrement **Sublime Text Package Manager**, et est hébergé sur ce site `packagecontrol.io <https://packagecontrol.io>`_.
 Cette page `packagecontrol.io/installation <https://packagecontrol.io/installation>`_ permet l'installation du gestionnaire de greffon, qui est la seule étape *un peu sale* (mais ne vous inquiétez pas, aucun risque).
 
-Ce greffon un peu magique a déjà plus de `2.63 millions de téléchargements <https://packagecontrol.io/browse/authors/Will%20Bond%20%28wbond%29>`_ à son historique !
+Ce greffon *un peu magique* a déjà plus de `3.01 millions de téléchargements <https://packagecontrol.io/browse/authors/Will%20Bond%20%28wbond%29>`_ à son historique !
 
 
 Vous pouvez avoir un aperçu de la richesse de cette collection de greffon en allant voir ce classement (`packagecontrol.io/browse/popular <https://packagecontrol.io/browse/popular>`_) des greffons les plus téléchargés.
@@ -97,7 +97,7 @@ Vous pouvez avoir un aperçu de la richesse de cette collection de greffon en al
 Plus de détails ailleurs !
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ce site (en anglais) est la documentation (non-officielle) de référence : `docs.sublimetext.info <http://docs.sublimetext.info/en/latest/>`_.
-Bravo à eux, leur site est parfaitement bien conçu, contient toutes les informations nécessaires et bien plus encore !
+Bravo à eux, leur site est parfaitement bien conçu, il contient toutes les informations nécessaires et bien plus encore !
 
 Ce (vieux) `wiki dédié à Sublime Text <http://sublime-text-community-packages.googlecode.com/svn/pages/This-site.html>`_ peut aussi aider.
 
@@ -113,8 +113,7 @@ Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou
 Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-
-:État: *Maintenu activement.* (novembre 2014)
+:État: *Maintenu activement.* (octobre 2015)
 
 Config
 ~~~~~~
@@ -142,6 +141,7 @@ Snippets
 Liste de mes snippets :
 
 * `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ permet de facilement créer un nouveau script `Python <python.html>`_,
+* `newpython3.sublime-snippet <./publis/ST3/newpython3.sublime-snippet>`_ permet de facilement créer un nouveau script `Python 3 <python.html>`_,
 * `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un `script GNU Bash <./bin/>`_.
 * `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document \\(\\LaTeX{}\\) vide utilisant `autotex <./bin/autotex>`_.
 * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
@@ -180,12 +180,12 @@ Petits greffons de personnalisation :
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
 * `Predawn <https://packagecontrol.io/packages/Predawn>`_ est une amélioration de l'interface, très sombre pour `protéger ses yeux <bin/yeux.sh>`_ !
 * `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://twitter.com/TristanDeleu>`_.
+* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://github.com/TristanDeleu>`_.
 
 
 Greffons ajoutant de super fonctionnalités :
 
-* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant.
+* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est tout simple, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
