@@ -40,7 +40,7 @@ My article focuses on version 3 of Sublime Text (currently, version 3.083, *rele
 
 .. warning:: Live dangerously :) ?
 
-   You can also try the version `3dev <http://www.sublimetext.com/3dev>`_, it is updated more frequently.
+   You can also try the version `3dev <http://www.sublimetext.com/3dev>`_, it is updated more frequently (but you will need to be registered ie have a non-free license -- I didn't).
 
 
 What is Sublime Text?
@@ -49,7 +49,7 @@ Sublime Text is a text editor and source code available on multiple platforms.
 It has an API using Python.
 
 Sublime Text is a proprietary software, subject to the acceptance of a license, but is completely free.
-The license is for an indefinite period, with only occasional reminders proposing to buy a non-mandatory commercial license (for $ 20).
+The (free) license is for an indefinite period, with only occasional reminders proposing to buy a *non-mandatory* commercial license (for $ 20).
 
 
 Sublime Text incorporates most of the *basic features of a text editor*, including customizable syntax highlighting, auto-completion, a plugin system ...
@@ -155,8 +155,9 @@ Sublime Text (as with other good text editors), it is possible to build, run or 
 ST3 comes with build scripts for a dozen language, and it is easy to create and install new ones.
 
 
-List of my build systems (one for now):
+List of my build systems:
 
+* A Bash script can easily be executed (*without* arguments) with the build script `bash.sublime-build <./publis/ST3/bash.sublime-build>`_.
 * A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
 
 
@@ -184,10 +185,10 @@ Plugins that add great features:
 
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
-* `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. It's simple, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
+* `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
 * The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this.
-* `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I do not use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
+* `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I never use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
 
 
@@ -205,10 +206,10 @@ A better syntax coloring for some languages:
 
 Heavier plugins, or plugins designed for a specific language:
 
-* The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ enables verification at runtime code you write (Spyder does the same for Python, for example). Quite extraordinary!
-* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program.
-* `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents quite magical. It takes time to master its features, but it's worth it!
-* `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), is *supposed* to improve support for \\(\\LaTeX{}\\).
+* The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python.
+* `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
+* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program (I do not like it).
+* `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents quite magical. It surely takes time to master its features, but I guess it's worth it!
 
 
 .. note:: Purely objective
@@ -222,12 +223,14 @@ Some specific configuration grafts
 Some plugins can be configured specifically. Here are their different settings:
 
 * `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
-* `Emmet.sublime-settings <./publis/ST3/Emmet.sublime-settings>`_.
 * `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
 * `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
 * `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
+* `Distraction Free.sublime-settings <./publis/ST3/Distraction Free.sublime-settings>`_.
+* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
+* `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_ (language specific).
 
 -----------------------------------------------------------------------------
 

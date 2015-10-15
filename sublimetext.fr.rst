@@ -43,7 +43,7 @@ Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *
 
 .. warning:: Vivre dangereusement :) ?
 
-   Vous pouvez aussi essayer la version `3dev <http://www.sublimetext.com/3dev>`_, mise à jour plus souvent.
+   Vous pouvez aussi essayer la version `3dev <http://www.sublimetext.com/3dev>`_, mise à jour plus souvent (mais elle n'est disponible que pour les utilisateurs enregistrés ie il vous faudra payer une licence -- ce n'est pas mon cas).
 
 
 Qu'est-ce que Sublime Text ?
@@ -52,7 +52,7 @@ Sublime Text est un éditeur de texte et de code source, disponible sur de multi
 Il dispose d'une API utilisant Python.
 
 Sublime Text est un logiciel propriétaire, soumis à l'acceptation d'une licence, mais est entièrement gratuit.
-La licence est à durée indéterminée, avec seulement des rappels occasionnels proposant d'acheter une inutile licence commerciale (pour 20$).
+La licence (gratuite) est à durée indéterminée, avec seulement des rappels occasionnels proposant d'acheter une inutile licence commerciale (pour 20$).
 
 
 Sublime Text intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins...
@@ -70,7 +70,7 @@ L'éditeur propose cependant des fonctions plus avancées, dont :
 
 Comment l'installer ?
 ~~~~~~~~~~~~~~~~~~~~~
-Le site officiel `www.SublimeText.com/3`_ permet de téléchager la dernière version de ST3 (une version pour OS X, Windows et Ubuntu sont disponibles).
+Le site officiel `www.SublimeText.com/3`_ permet de télécharger la dernière version de ST3 (une version pour OS X, Windows et Ubuntu sont disponibles).
 
 Cette page `docs.sublimetext.info/en/sublime-text-3/getting_started/install.html <http://docs.sublimetext.info/en/sublime-text-3/getting_started/install.html>`_ explique en détails le processus d'installation de ST3 sur différentes plates-formes.
 
@@ -158,8 +158,9 @@ Avec Sublime Text (comme avec d'autres bons éditeurs de texte), il est possible
 ST3 est livré avec des scripts de construction pour un douzaine de langage, et il est facile d'en créer et d'en installer de nouveaux.
 
 
-Liste de ces scripts de constructions (un seul pour l'instant) :
+Liste de ces scripts de constructions :
 
+* Un script Bash peut être exécuté (sans arguments) facilement avec le script de construction `bash.sublime-build <./publis/ST3/bash.sublime-build>`_.
 * Un document \\(\\LaTeX{}\\) (basé sur `autotex`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (nécessite `autotex`_ et mon `pdflatex <./bin/pdflatex>`_).
 
 
@@ -187,10 +188,10 @@ Greffons ajoutant de super fonctionnalités :
 
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
-* `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est tout simple, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
+* `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
-* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce plugin est vraiment génial, donc vous supporterez son petit défaut !
-* `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers pas, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
+* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut !
+* `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers jamais, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
 
 Une meilleures colorations pour certains langages :
@@ -208,10 +209,10 @@ Une meilleures colorations pour certains langages :
 
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
-* Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification à la volée du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire !
-* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme.
-* `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. Il demande du temps pour maîtriser ses fonctionnalités, mais ça vaut le coup !
-* `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), est *censé* améliorer le support de \\(\\LaTeX{}\\).
+* Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python.
+* `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
+* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (j'aime pas mais il est populaire).
+* `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit vaut le coup !
 
 
 .. note:: Purement objective
@@ -226,7 +227,6 @@ Certains greffons peuvent être configurés spécifiquement.
 Voici leurs différents réglages :
 
 * `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
-* `Emmet.sublime-settings <./publis/ST3/Emmet.sublime-settings>`_.
 * `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
 * `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
