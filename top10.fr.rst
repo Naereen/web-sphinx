@@ -32,7 +32,7 @@ Mes 10 **films** préférés
 - `Le Cinquième Élément <https://fr.wikipedia.org/wiki/Le_Cinqui%C3%A8me_%C3%89l%C3%A9ment>`_,
 - `Princesse Mononoké <https://fr.wikipedia.org/wiki/Princesse_Mononok%C3%A9>`_.
 
-.. seealso:: Un autre top 7 de films préférés
+.. seealso:: Un autre top 7 de films préférés...
 
    `<http://jill-jenn.net/cinema/>`_
 
@@ -67,6 +67,36 @@ Mes 10 **séries télé** préférées
 - `Avatar, the Last Airbender <https://fr.wikipedia.org/wiki/Avatar,_The_Last_Airbender>`_ (animé américaine)
 - `Steins;Gate <https://fr.wikipedia.org/wiki/Steins;Gate>`_ (animé japonais)
 - `Hunter X Hunter <https://fr.wikipedia.org/wiki/Hunter_X_Hunter>`_ (animé japonais), les deux versions (2007 & 2011)
+
+------------------------------------------------------------------------------
+
+Musique
+-------
+Mes 10 **groupes**/**artistes** préférés
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_
+- `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_
+- `Jim Croce <https://fr.wikipedia.org/wiki/Jim_Croce>`_
+- `Koji Kondo  <https://fr.wikipedia.org/wiki/Koji_Kondo>`_
+- `Joan Baez <https://fr.wikipedia.org/wiki/Joan_Baez>`_
+- `Joe Hisaichi <https://fr.wikipedia.org/wiki/Joe_Hisaichi>`_ 
+- `John Lang *« Pen of Chaos »* <https://fr.wikipedia.org/wiki/John_Lang>`_ / `Naheulband <https://fr.wikipedia.org/wiki/Naheulband>`_
+- `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_
+- `John Williams <https://fr.wikipedia.org/wiki/John_Williams>`_
+- `Dire Straits <https://fr.wikipedia.org/wiki/Dire_Straits>`_ / `Mark Knopfler <https://fr.wikipedia.org/wiki/Mark_Knopfler>`_
+
+Mes 10 **chansons** préférés
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_
+- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan>`_, par `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_
+- `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_
+- `The Hanging Tree <https://www.youtube.com/watch?v=aJISG67FjeM>`_, par `Peter Hollens <https://www.youtube.com/user/peterhollens>`_ ou `cette version <https://www.youtube.com/watch?v=Gw9acT0uFLs>`_ par `Taylor Davis <https://www.youtube.com/user/ViolinTay>`_ (reprise)
+- `Rosanna <https://www.youtube.com/results?search_query=Rosanna+Toto>`_, par `Toto <https://fr.wikipedia.org/wiki/Toto_%28groupe%29>`_
+- `Nothing Else Matters <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Metallica <https://fr.wikipedia.org/wiki/Metallica>`_
+- `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, du jeu `The Legend of Zelda: Link's Awakening <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, en version instrumentale, par `Koji Kondo  <https://fr.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_)
+- `Skyrim : The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, par `Malukah <http://www.malukah.com/>`_ (reprise)
+- `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Comédie Musicale)
+- `Time in a Bottle <https://www.youtube.com/results?search_query=jim+croce+time+in+a+bottle>`, `Jim Croce <https://fr.wikipedia.org/wiki/Jim_Croce>`_ (`connue pour avoir été utilisée dans cette scène mythique <https://www.youtube.com/watch?v=1NnyVc8r2SM>`_)
 
 ------------------------------------------------------------------------------
 
