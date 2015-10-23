@@ -161,7 +161,9 @@ ST3 est livré avec des scripts de construction pour un douzaine de langage, et 
 Liste de ces scripts de constructions :
 
 * Un script Bash peut être exécuté (sans arguments) facilement avec le script de construction `bash.sublime-build <./publis/ST3/bash.sublime-build>`_.
+* Un script Octave peut être exécuté (sans arguments) facilement avec le script de construction `octave.sublime-build <./publis/ST3/octave.sublime-build>`_.
 * Un document \\(\\LaTeX{}\\) (basé sur `autotex`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (nécessite `autotex`_ et mon `pdflatex <./bin/pdflatex>`_).
+* `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ facilite la compilation d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ en un fichier PDF (via le script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_) !
 
 
 Les meilleurs greffons ?
@@ -194,6 +196,7 @@ Greffons ajoutant de super fonctionnalités :
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers jamais, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
 
+
 Une meilleures colorations pour certains langages :
 
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
@@ -206,9 +209,10 @@ Une meilleures colorations pour certains langages :
 * `TWiki <https://packagecontrol.io/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait!
 
 
-
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
+* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ améliore la coloration syntaxique pour Python (en prenant notamment en charge les changements des dernières versions 3.4 et 3.5).
+* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé...
 * Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python.
 * `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (j'aime pas mais il est populaire).
@@ -232,6 +236,17 @@ Voici leurs différents réglages :
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
 * `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
+
+
+Configuration spécifique à certains langages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Il est possible de modifier les paramètres pour tel langage ou un autre (par exemple un police plus petite pour Python, une marge plus grande pour Markdown etc).
+Pour certains langages, il peut être pratique de modifier légèrement les réglages communs :
+
+* `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_.
+* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_.
+* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_.
+* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (mon changement permet de reconnaître un fichier `file.m` comme un programme Matlab/Octave et non Objective-C).
 
 -----------------------------------------------------------------------------
 

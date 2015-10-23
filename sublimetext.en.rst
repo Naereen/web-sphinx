@@ -158,7 +158,9 @@ ST3 comes with build scripts for a dozen language, and it is easy to create and 
 List of my build systems:
 
 * A Bash script can easily be executed (*without* arguments) with the build script `bash.sublime-build <./publis/ST3/bash.sublime-build>`_.
+* An Octave script can easily be executed (*without* arguments) with the build script `octave.sublime-build <./publis/ST3/octave.sublime-build>`_.
 * A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
+* `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
 
 
 The best plugins?
@@ -203,9 +205,11 @@ A better syntax coloring for some languages:
 * `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language!
 
 
-
 Heavier plugins, or plugins designed for a specific language:
 
+ 
+* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.4 and 3.5).
+* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*...
 * The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python.
 * `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program (I do not like it).
@@ -218,8 +222,8 @@ Heavier plugins, or plugins designed for a specific language:
    For instance, `this article <http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/>`_ also presents a list of good plugins to use.
 
 
-Some specific configuration grafts
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Some plugin-specific configuration files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some plugins can be configured specifically. Here are their different settings:
 
 * `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
@@ -231,6 +235,16 @@ Some plugins can be configured specifically. Here are their different settings:
 * `Distraction Free.sublime-settings <./publis/ST3/Distraction Free.sublime-settings>`_.
 * `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
 * `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_ (language specific).
+
+Some language-specific configuration files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In ST3, you can modify any single parameter for a specific language (for instance, a smaller font for Python files, a bigger margin for Markdown files etc).
+For a few languages, I find these changes quite convenient:
+
+* `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_.
+* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_.
+* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_.
+* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (my change allows to open a `.m` file as a Matlab/Octave file and not an Objective-C one).
 
 -----------------------------------------------------------------------------
 
