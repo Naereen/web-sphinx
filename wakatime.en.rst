@@ -7,8 +7,6 @@
 ###########################################################################
 .. include:: .special.rst
 
-.. todo:: Conclude translation!
-
 What is this weird idea?
 ------------------------
  A professional sportive tries to monitor precisely his daily training process, including his food, which muscle she/he is working on etc.

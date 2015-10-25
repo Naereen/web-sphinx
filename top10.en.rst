@@ -196,6 +196,5 @@ My 10 favorite **book writers**
 
 .. todo:: Conclude the lists, find other lists to do!
 .. todo:: Add links to Wikipedia articles for **every** items of **every** lists! 
-.. todo:: Translate to French when the page will be done (and keep it up-to-date).
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
