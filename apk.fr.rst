@@ -172,7 +172,7 @@ Par exemple, voici `la page pour AFWall+ <https://f-droid.org/repository/browse/
       En gros, il conseille exactement comme moi : `F-Droid`_ !
 
    `Aptoide <http://www.aptoide.com/>`_
-      Est une autre alternative à `F-Droid`_.
+      Est une autre alternative à Google™ Play, comme `F-Droid`_.
 
 
 Télécharger des applis directement

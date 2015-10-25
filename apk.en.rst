@@ -166,7 +166,7 @@ For instance, there is `the page for AFWall+ <https://f-droid.org/repository/bro
 .. seealso::
 
    `Aptoide <http://www.aptoide.com/>`_
-      Est une autre alternative à `F-Droid`_.
+      It is another good alternative to Google™ Play, like `F-Droid`_.
 
 Direct download
 ^^^^^^^^^^^^^^^
