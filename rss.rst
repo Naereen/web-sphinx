@@ -10,7 +10,7 @@ Il y a deux flux :
 
  * Celui produit par Bitbucket d'après mes commits au dépôt *lbesson/web-sphinx/*.
    On peut s'y abonner facilement, il suffit de `cliquer sur ce texte
-   <http://bitbucket.org/lbesson/web-sphinx/rss>`_;
+   <https://bitbucket.org/lbesson/web-sphinx/rss>`_;
 
  * ou celui que j'écrit moi-même. On peut s'y abonner en cliquant sur cette image :
 

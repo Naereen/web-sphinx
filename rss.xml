@@ -365,7 +365,7 @@ Que répondre à ça ;) ?
        <title>Les résultats du bac'13 sont tombés !</title>
        <link>http://cv.besson.qc.to</link>
        <description>4 ans que j'ai mon bac, souvenirs souvenirs... Bref, bien joué Guillaume!</description>
-       <guid>http://bitbucket.org/lbesson/cv</guid>
+       <guid>https://bitbucket.org/lbesson/cv</guid>
        <pubDate>Fri, 05 Jul 2013 17:49:43 +0200</pubDate>
       </item>
 
@@ -373,23 +373,23 @@ Que répondre à ça ;) ?
        <title>Un nouveau truc : embarquer un site statique via bitbucket.org... a creuser ?</title>
        <link>http://lbesson.bitbucket.org</link>
        <description>Marche bien, mais le serveur est pas Apache, donc pas drôle!</description>
-       <guid>http://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
+       <guid>https://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
        <pubDate>Wed, 03 Jul 2013 17:49:43 +0200</pubDate>
       </item>
 
       <item>
        <title>Update .templates/layout.html to embed scripts and pictures in page in subdir (Bug fix).</title>
-       <link>http://bitbucket.org/lbesson/web-sphinx/</link>
+       <link>https://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Done</description>
-       <guid>http://bitbucket.org/lbesson/web-sphinx/rss</guid>
+       <guid>https://bitbucket.org/lbesson/web-sphinx/rss</guid>
        <pubDate>Wed, 26 Jun 2013 12:49:43 +0200</pubDate>
       </item>
 
       <item>
        <title>Update Makefiles : add an automatic .asc GPG signature for 'important' files.</title>
-       <link>http://bitbucket.org/lbesson/web-sphinx/</link>
+       <link>https://bitbucket.org/lbesson/web-sphinx/</link>
        <description>Pour + de sécurité!</description>
-       <guid>http://bitbucket.org/lbesson/web-sphinx-scripts/rss</guid>
+       <guid>https://bitbucket.org/lbesson/web-sphinx-scripts/rss</guid>
        <pubDate>Mon, 24 Jun 2013 16:49:43 +0200</pubDate>
       </item>
 
@@ -397,7 +397,7 @@ Que répondre à ça ;) ?
        <title>Update CV :)</title>
        <link>http://perso.crans.org/besson/cv.html</link>
        <description>Pour suivre les modifications du CV en PDF.</description>
-       <guid>http://bitbucket.org/lbesson/cv/</guid>
+       <guid>https://bitbucket.org/lbesson/cv/</guid>
        <pubDate>Mon, 24 Jun 2013 10:49:43 +0200</pubDate>
       </item>
 
@@ -499,7 +499,7 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Second item !</title>
-       <link>http://bitbucket.org/lbesson/web-sphinx/rss</link>
+       <link>https://bitbucket.org/lbesson/web-sphinx/rss</link>
        <description>Un lien vers mon compte Bitbucket</description>
        <guid>http://perso.crans.org/besson/rss.html</guid>
        <pubDate>Mon, 01 Apr 2013 10:03:43 +0200</pubDate>

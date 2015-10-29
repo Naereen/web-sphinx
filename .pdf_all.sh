@@ -79,7 +79,7 @@ if [ "0yes" = "0$test" ]; then
 # A test
 	cat ".build/pdf/${file%.rst}.txt.pdf" | \
 	sed s{'Author \(\)'{'Author (Lilian Besson (and I add my name in each of my PDFs with sed !))'{ | \
-	sed s{'Creator \(.*\)'{'Creator (pdf_all.sh by Lilian Besson - http://bitbucket.org/lbesson)'{ > ".build/pdf/${file%.rst}.txt.pdf"~
+	sed s{'Creator \(.*\)'{'Creator (pdf_all.sh by Lilian Besson - https://bitbucket.org/lbesson)'{ > ".build/pdf/${file%.rst}.txt.pdf"~
 	cat ".build/pdf/${file%.rst}.txt.pdf"~ > ".build/pdf/${file%.rst}.txt.pdf"
 
 # A second test

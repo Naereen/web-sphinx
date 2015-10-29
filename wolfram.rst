@@ -33,8 +33,8 @@ Source
 ^^^^^^
 La version originale est ici `wa.sh (original) <https://github.com/saironiq/shellscripts/blob/master/wolframalpha_com/wa.sh>`_.
 
-Ma version, sans couleur en sortie, est là `wa_nocolor.sh <http://bitbucket.org/lbesson/bin/src/master/wa_nocolor.sh>`_.
-Une version "plus à jour" sera bientôt ici `wa.sh <http://bitbucket.org/lbesson/bin/src/master/wa.sh>`_.
+Ma version, sans couleur en sortie, est là `wa_nocolor.sh <https://bitbucket.org/lbesson/bin/src/master/wa_nocolor.sh>`_.
+Une version "plus à jour" sera bientôt ici `wa.sh <https://bitbucket.org/lbesson/bin/src/master/wa.sh>`_.
 
 Obtenir une clé d'application (bis)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
