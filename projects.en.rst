@@ -34,6 +34,8 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
 Studies and past jobs
 ^^^^^^^^^^^^^^^^^^^^^
+.. include:: whatsnew.en.rst
+
 * From mid-July 2014 to mid-May 2015, I **lived and worked in India**, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
   I was the first French faculty to work there full-time, and `I have been involved as a teaching assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
 
