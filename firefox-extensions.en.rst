@@ -89,8 +89,9 @@ Extensions for web-developpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to... quickly check links!
 * `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to... quickly change the ``locale`` settings (the language you ask the pages to be displayed),
-   .. FIXME Dunno how to explain this one.
 * `Reload Plus <https://addons.mozilla.org/en-us/firefox/addon/reload-plus>`_ to regain control of your cache (``Ctrl+F5`` reload the page, erasing the local cached version).
+
+.. FIXME Dunno how to explain this one.
 
 Other extensions
 ^^^^^^^^^^^^^^^^
