@@ -17,7 +17,7 @@
 
 Quelques listes d'applis
 ------------------------
- Voici quelques listes lists d'applications utiles, presque classées par catégories.
+ Voici quelques listes d'applications utiles, presque classées par catégories.
 
 .. note:: Qu'est-ce qu'une application ?
 
@@ -59,7 +59,7 @@ Liste des applis qu'*il faut avoir*
    Je n'ai pas encore eu l'occasion de posséder et d'utiliser régulièrement un téléphone utilisant
    l'un des deux systèmes concurrents à Android™ (aucunement par idéologie, juste jamais eu l'occasion).
 
-   Néanmoins, il devrait être possible d'utiliser l'`"App Store"™ d'Apple™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ et le `Windows™ App Store <http://www.windowsphone.fr/fr-FR/store>`_ pour trouver des *équivalents* à chacun des programmes cités dans cette page.
+   Néanmoins, il devrait être possible d'utiliser l'`"App Store"™ d'Apple™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ et le `Windows™ App Store <http://www.windowsphone.fr/fr-FR/store>`_ pour trouver des *équivalents* à chacune des applicationsl cités dans cette page.
 
 
 Applis pour *geeks*

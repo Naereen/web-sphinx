@@ -1,6 +1,6 @@
 .. meta::
-   :description lang=en: My favorite Firefox extensions
    :description lang=fr: Mes extensions préférées pour Firefox
+   :description lang=en: My favorite Firefox extensions
 
 #######################################
  Mes extensions préférées pour Firefox
@@ -8,95 +8,110 @@
 .. include:: .special.rst
 .. todo:: Traduire `<firefox-extensions.en.html>`_ en français !
 
-.. note:: This page is about Firefox extensions
+.. note:: Cette page parle d'extensions pour Firefox
 
-   For more details, maybe you should first read one of these:
+   Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
 
-    * for instance the `official extension repository <https://addons.mozilla.org/en/firefox/>`_,
-    * or on Wikipedia: `Extension (Mozilla) <https://en.wikipedia.org/wiki/Extension_(Mozilla)>`_.
+    * par exemple `la page officielle des extensions Firefox <https://addons.mozilla.org/en/firefox/>`_,
+    * ou sur Wikipédia : `Extension (Mozilla) <https://fr.wikipedia.org/wiki/Extension_(Mozilla)>`_.
 
 ------------------------------------------------------------------------------
 
-Some lists of extensions
-------------------------
- There are a few lists of some useful extensions, kinda sorted by category.
+Quelques listes d'extensions
+----------------------------
+ Voici quelques listes d'applications utiles, presque classées par catégories.
 
-.. note:: What is an extension?
+.. note:: Qu'est-ce qu'une extension?
 
-   An extension is an additional piece of program a for your browser.
-   I am focusing on the wonderful `Firefox <https://www.mozilla.org/firefox/>`_ here.
+   Une extension est un petit programme additionnel pour votre navigateur Internet.
+   Ici je parlerai uniquement du légendaire `Firefox <https://www.mozilla.org/firefox/>`_.
 
-   It is similar to a `Sublime Text plugin <https://packagecontrol.io/>`_, if you are interested: `I wrote a page about Sublime Text <sublimetext.en.html>`_ too!
+   Ces extensions sont en quelques sortes similaire aux `greffons pour Sublime Text <https://packagecontrol.io/>`_, donc si vous êtes intéresse : `j'ai aussi écrit une page pour Sublime Text <sublimetext.fr.html>`_ !
 
 .. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
 
 
-Extensions *everyone* should have
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `AdBlock Plus <https://adblockplus.org/>`_ to completely remove advertising, pop-ups and other vicious things,
-* `InlineDisposition <https://addons.mozilla.org/en-us/firefox/addon/inline-dispotiion/>`_ and `Open In Browser <https://addons.mozilla.org/en-us/firefox/addon/open-in-browser>`_ to always be able to open a document in the browser, instead of downloading it,
-* `NoSquint <https://addons.mozilla.org/en-us/firefox/addon/nosquint>`_ allows to set the *zoom* and *text zoom* settings differently for each websites (just try it, it's awesome),
-* `Speed Tweaks (Speedy Fox) <https://addons.mozilla.org/en-us/firefox/addon/speed-tweaks-speedyfox>`_ to tweak some parameters of Firefox and improve its speed (just one click to do, it works wonderfully out-of-the-box),
-* `Tab Mix Plus <https://addons.mozilla.org/en-us/firefox/addon/tab-mix-plus>`_ adds many useful features if you like to use tabs.
+Liste des extensions qu'*il faut avoir*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `AdBlock Plus <https://adblockplus.org/fr/>`_ pour dire adieu à la publicité sur Internet, en enlevant presque toutes les pubs, les pop-ups et d'autres trucs vicieux,
+* `InlineDisposition <https://addons.mozilla.org/fr/firefox/addon/inline-dispotiion/>`_ et `Open In Browser <https://addons.mozilla.org/fr/firefox/addon/open-in-browser>`_ pour *toujours* être capable de choisir d'ouvrir un fichier directement dans le navigateur (sans le télécharger),
+* `NoSquint <https://addons.mozilla.org/fr/firefox/addon/nosquint>`_ permet de régler les paramètres de *"zoom de la page"* et *"zoom du texte"* au cas par cas, pour chaque site web (essayez-le, c'est juste génial),
+* `Speed Tweaks (Speedy Fox) <https://addons.mozilla.org/fr/firefox/addon/speed-tweaks-speedyfox>`_ pour facilement régler certains paramètres qui influencent les performance de Firefox (juste un clic permet de vraiment gagner en performances !),
+* `Tab Mix Plus <https://addons.mozilla.org/fr/firefox/addon/tab-mix-plus>`_ ajoute plein de fonctionnalités utiles pour utiliser au mieux les **onglets**.
 
 
-.. note:: « What about `Google Chrome <https://www.google.com/chrome>`_ ? »
+.. note:: « Et pour `Google Chrome <https://www.google.com/chrome>`_ ? »
 
-   I have never used another browser than Firefox, sorry.
+   Je n'ai jamais vraiment utilisé d'autres navigateurs que Firefox, désolé...
 
-   However, it should be easy for you to look for in the `Google Chrome extensions store <https://chrome.google.com/webstore/category/extensions?hl=fr>`_ to find extensions similar to the one presented here.
+   Néanmoins, il devrait être possible d'utiliser `le magasin d'extensions de Google Chrome <https://chrome.google.com/webstore/category/extensions?hl=fr>`_ pour trouver des *équivalents* à chacune des extensions cités dans cette page.
 
 
-Styling extensions
-^^^^^^^^^^^^^^^^^^
-* `FabTabs <https://addons.mozilla.org/en-us/firefox/addon/fabtabs>`_ color each tabs with a color representing its page (a Facebook tab will look blue for instance). Simple but awesome!
-* `FlagFox <https://addons.mozilla.org/en-us/firefox/addon/flagfox>`_ adds a small flag of the country of the website (domain name but also hosting server),
-* `GNotifier <https://addons.mozilla.org/en-us/firefox/addon/gnotifier>`_ and `Tab Notifier <https://addons.mozilla.org/en-us/firefox/addon/tab-notifier>`_ to integrate the browser notifications into the notification system of your desktop (and to display notification based on change of title for example, works for Facebook etc),
-* `Location Bar Enhancer <https://addons.mozilla.org/en-us/firefox/addon/location-bar-enhancer>`_ adds feature rich breadcrumb user interface in the location bar (weird at first, magical after),
-* `Tab Wheel Scroll <https://addons.mozilla.org/en-us/firefox/addon/tab-wheel-scrool>`_ to change tabs with the wheel (I don't use it but it is a nice feature).
+Extensions pour améliorer l'ergonomie
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `FabTabs <https://addons.mozilla.org/fr/firefox/addon/fabtabs>`_ ajoute une couleur à chaque onglet, représentant la couleur de sa page (un onglet ouvert sur Facebook sera affiché bleu par exemple). Simple mais très beau !
+* `FlagFox <https://addons.mozilla.org/fr/firefox/addon/flagfox>`_ ajoute un petit drapeau du pays de la page courante (en fonction de son nom de domaine mais aussi de la localisation du serveur),
+* `GNotifier <https://addons.mozilla.org/fr/firefox/addon/gnotifier>`_ et `Tab Notifier <https://addons.mozilla.org/fr/firefox/addon/tab-notifier>`_ pour intégrer les notifications du navigateur dans le système de notification de votre ordinateur (et aussi pour afficher des notifications sur certaines pages qui ne le font pas, en regardant les changements du titre de la page par exemple. Ça marche bien sur Facebook notamment),
+* `Location Bar Enhancer <https://addons.mozilla.org/fr/firefox/addon/location-bar-enhancer>`_ change la façon d'utiliser la barre d'adresse (bizarre au début, magique après),
+* `New Tab Tools <https://addons.mozilla.org/fr/firefox/addon/new-tab-tools/>`_ améliore grandement la page *"nouvel onglet"*,
+* `Tab Wheel Scroll <https://addons.mozilla.org/fr/firefox/addon/tab-wheel-scrool>`_ pour changer d'onglet avec la roulette de la souris.
 
-Extensions for *geeks*
-^^^^^^^^^^^^^^^^^^^^^^
-* `Classic Theme Restorer <https://addons.mozilla.org/en-us/firefox/addon/classic-theme-restorer>`_ allows to disable some of the new Firefox theme features. This add-on restores squared tabs, the application button with application menu (known from Firefox for Windows), the add-on bar, bookmarks/history menu/sidebar buttons and other buttons,
-* `Customizable Shortcuts <https://addons.mozilla.org/en-us/firefox/addon/customizable-shortcuts>`_ allows to customize every single Firefox shortcut (I just use it to disable ``Ctrl+q`` and ``Ctrl+Q``, I don't want Firefox to quit without asking me with just a small shortcut),
-* `Download Status Bar <https://addons.mozilla.org/en-us/firefox/addon/download-status-bar>`_ adds nice feature for a better control of the downloading feature in Firefox,
-* `Stylish <https://addons.mozilla.org/en-us/firefox/addon/stylish>`_ lets you easily manage user styles: `User styles <https://userstyles.org>`_ are themes for web sites. Especially for the sweet `github-dark <https://userstyles.org/styles/37035/github-dark>`_ custom style. See also `my style for outlook.com <publis/firefox/stylish_better_outlook.css>`_.
-* `Textarea cache <https://addons.mozilla.org/en-us/firefox/addon/textarea-cache>`_ will save automatically the content in textarea or WYSIWYG editor when user is typing. User can recover the saved texts in the cache window, even the tab or the window is closed unexpectedly.
+Extensions pour *geeks*
+^^^^^^^^^^^^^^^^^^^^^^^
+* `Classic Theme Restorer <https://addons.mozilla.org/fr/firefox/addon/classic-theme-restorer>`_ rétablit certains éléments de l'ancien thème de Firefox,
+* `Customizable Shortcuts <https://addons.mozilla.org/fr/firefox/addon/customizable-shortcuts>`_ permet de changer chaque raccourcis clavier de Firefox (je m'en sers uniquement pour enlever les énervants raccourcis ``Ctrl+q`` et ``Ctrl+Q``... Je ne veux pas fermer Firefox sans confirmation à chaque fois qu'un ``Ctrl+C`` ou ``Ctrl+A`` ripe en un ``Ctrl+Q`` !),
+* `Download Status Bar <https://addons.mozilla.org/fr/firefox/addon/download-status-bar>`_ permet de mieux contrôler les téléchargements faits dans Firefox, via une jolie barre de statut,
+* `Stylish <https://addons.mozilla.org/fr/firefox/addon/stylish>`_ permet de gérer ses styles personnalisés : les `styles personnalisés <https://userstyles.org>`_ sont comme des thèmes pour un site web particulier. Je suis fan du joli thème `"github-dark" <https://userstyles.org/styles/37035/github-dark>`_ pour `<https://github.com>`_. J'ai aussi écrit `mon style pour live.com et outlook.com <publis/firefox/stylish_better_outlook.css>`_ (Outlook Microsoft webmail).
+* `Textarea cache <https://addons.mozilla.org/en-us/firefox/addon/textarea-cache>`_ conserve automatiquement le contenu de n'importe quelle zone d'édition de texte rencontrée, et celles d'un éditeur *"WYSIWYG"* lorsque vous écrivez dedans. Il est ensuite possible de restaurer ou copier les textes sauvegardes, même si l'onglet ou la fenêtre s'est fermée inopinément.
 
-Improvements or useful services
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `Epub Reader <https://addons.mozilla.org/en-us/firefox/addon/epubreader>`_ to read EPUB files in Firefox,
-* `FireFTP <https://addons.mozilla.org/en-us/firefox/addon/fireftp>`_ brings some awesome FTP features to Firefox,
-* `FireSSH <https://addons.mozilla.org/en-us/firefox/addon/firessh>`_ brings SSH to Firefox,
-* `JavaScript View <https://addons.mozilla.org/en-us/firefox/addon/javascript-view>`_ to nicely display JavaScript files in Firefox,
-* `JSONView <https://addons.mozilla.org/en-us/firefox/addon/jsonview>`_ to nicely display JSON files in Firefox,
-* `Markdown Viewer <https://addons.mozilla.org/en-us/firefox/addon/markdown-viewer>`_ to nicely display JSON files in Firefox,
-* `Wikiwand: Wikipedia Modernized <https://addons.mozilla.org/en-us/firefox/addon/wikiwand-wikipedia-modernized>`_ improves the ergonomy for `Wikipedia <https://en.wikipedia.org/>`_.
+Lire et visualiser plus de fichiers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Epub Reader <https://addons.mozilla.org/fr/firefox/addon/epubreader>`_ permet de lire des livres électroniques au format `EPUB <https://fr.wikipedia.org/wiki/EPUB>`_,
+* `FireFTP <https://addons.mozilla.org/fr/firefox/addon/fireftp>`_ améliore l'utilisation de `FTP <https://fr.wikipedia.org/wiki/FTP>`_ et `SFTP <https://fr.wikipedia.org/wiki/Sftp_(Unix)>`_,
+* `FireSSH <https://addons.mozilla.org/fr/firefox/addon/firessh>`_ apporte la possibilité d'utiliser `SSH <https://fr.wikipedia.org/wiki/SSH>`_ directement dans Firefox,
+* `JavaScript View <https://addons.mozilla.org/fr/firefox/addon/javascript-view>`_ permet d'afficher joliment des fichiers `JavaScript <https://fr.wikipedia.org/wiki/JavaScript>`_ dans Firefox,
+* `JSONView <https://addons.mozilla.org/fr/firefox/addon/jsonview>`_ permet d'afficher joliment des fichiers `JSON <https://fr.wikipedia.org/wiki/JSON>`_ dans Firefox,
+* `Markdown Viewer <https://addons.mozilla.org/fr/firefox/addon/markdown-viewer>`_ permet d'afficher joliment des fichiers `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_ dans Firefox,
+* `Wikiwand: Wikipedia Modernized <https://addons.mozilla.org/fr/firefox/addon/wikiwand-wikipedia-modernized>`_ améliore l'ergonomie de `Wikipédia <https://fr.wikipedia.org/>`_.
 
-Extensions for secrets agents (or paranoid people)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `BetterPrivacy <https://addons.mozilla.org/en-us/firefox/addon/better-privacy>`_ remove useless cookies and Flash cache when closing,
-* `Disconnect <https://addons.mozilla.org/en-us/firefox/addon/disconnect>`_ removes trackers and advertising,
-* `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ to be able to remove *any* element (image, banner etc) like if it was an advertising handled by AdBlock,
-* `Facebook Disconnect <https://addons.mozilla.org/en-us/firefox/addon/facebook-disconnect>`_ to completely disable Facebook's default tracking behavior on other websites,
-* `FlashBlock <https://addons.mozilla.org/en-us/firefox/addon/flashblock>`_ disable by default Flash on everypage (AdBlock or Ghostery offer the same feature). No more autoplayed videos, no more dangers!
-* `Ghostery <https://addons.mozilla.org/en-us/firefox/addon/ghostery>`_ is THE user-friendly tool to disable tracking cookies and tracking beacons!
-* `NoScript Security Suite <https://addons.mozilla.org/en-us/firefox/addon/noscript>`_ is THE less-user-friendly tool to significantly improve security in Firefox: by default, *all unknown* javascripts programs will be disabled (and many other improvements like XSS checks etc),
-* `Toggle Proxy <https://addons.mozilla.org/en-us/firefox/addon/toggle-proxy-51740>`_ if you use different proxies.
+Extensions pour agents secrets (ou paranoïaques)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `BetterPrivacy <https://addons.mozilla.org/fr/firefox/addon/better-privacy>`_ permet de supprimer les *cookies* inutiles à la fermeture de Firefox (ainsi que le cache de Flash),
+* `Disconnect <https://addons.mozilla.org/fr/firefox/addon/disconnect>`_ supprime plein de traqueurs et de pubs,
+* `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ permet de mettre en place des règles pour cacher *n'importe quel* élément d'une page web (image, panneau de pub etc), comme si c'était une publicité bloquée par AdBlock,
+* `Facebook Disconnect <https://addons.mozilla.org/fr/firefox/addon/facebook-disconnect>`_ supprime complètement le suivi et l'espionnage que fait Facebook dans d'autres sites,
+* `FlashBlock <https://addons.mozilla.org/fr/firefox/addon/flashblock>`_ désactive les objets Flash par défaut sur chaque page (*note :* AdBlock ou Ghostery font la même chose). Les vidéos ne se liront plus toutes seules...
+* `Ghostery <https://addons.mozilla.org/fr/firefox/addon/ghostery>`_ est l'outil facile-à-utiliser NUMÉRO UN pour désactiver les cookies, traqueurs et autres mini logiciels espions qui pullulent sur chaque site (j'ai rien à dire : *ce* site `utilise Google Analytics aussi <ga.fr.html>`_...)
+* `NoScript Security Suite <https://addons.mozilla.org/fr/firefox/addon/noscript>`_ est THE outil pas-facile-à-utiliser pour améliorer significativement la sécurité dans Firefox : par défaut, *tous les scripts* (``javascript``) *inconnus* seront désactivés (et ça améliore aussi plein d'autres choses, comme le risque d'injection de scripts XSS etc),
+* `Toggle Proxy <https://addons.mozilla.org/fr/firefox/addon/toggle-proxy-51740>`_ si vous avez l'habitude d'utiliser différents réglages de proxys, pour jongler rapidement entre eux.
 
-Extensions for web-developpers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to ... quickly check links!
-* `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to... quickly change the **locale** settings (the language you ask the pages to be displayed),
-* `Reload Plus <https://addons.mozilla.org/en-us/firefox/addon/reload-plus>`_ to regain control of your cache (``Ctrl+F5`` reload the page, erasing the local cached version).
+Extensions pour web-développeurs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Link Checker <https://addons.mozilla.org/fr/firefox/addon/link-checker/>`_ pour... rapidement vérifier des liens !
+* `Quick Locale Switcher <https://addons.mozilla.org/fr/firefox/addon/quick-locale-switcher>`_ pour... rapidement changer le paramètre de **langue** (``locale``),
+   .. FIXME Je ne sais pas comment expliquer ce paramètre.
+* `Reload Plus <https://addons.mozilla.org/fr/firefox/addon/reload-plus>`_ pour regagner plein contrôle du cache de votre navigateur (e.g. ``Ctrl+F5``permet de recharger une page, en écrasant la version localement mise en mémoire cache).
 
-Other extensions
-^^^^^^^^^^^^^^^^
+Autres extensions
+^^^^^^^^^^^^^^^^^
 * `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ if you like having history, downloads, favorites all in the sidebar,
-* `Copy as Plain Text <https://addons.mozilla.org/en-us/firefox/addon/copy-as-plain-text/>`_ if you work a lot with Markdown or other markup languages,
-* `Markdown Here <https://addons.mozilla.org/en-us/firefox/addon/markdown-here/>`_ if you want to write fancy emails with Markdown,
-* `Mind the Time <https://addons.mozilla.org/en-us/firefox/addon/mind-the-time/>`_ if you want to precisely monitor the time you send on the web, each day, week and month, website by website.
+* `Copy as Plain Text <https://addons.mozilla.org/fr/firefox/addon/copy-as-plain-text/>`_ if you work a lot with Markdown or other markup languages,
+* `Markdown Here <https://addons.mozilla.org/fr/firefox/addon/markdown-here/>`_ if you want to write fancy emails with Markdown,
+* `Mind the Time <https://addons.mozilla.org/fr/firefox/addon/mind-the-time/>`_ if you want to precisely monitor the time you send on the web, each day, week et month, website by website.
+  
+
+------------------------------------------------------------------------------
+
+Pages similaires
+^^^^^^^^^^^^^^^^
+.. seealso::
+
+   `Applications Android™ <apk.fr.html>`_
+      Liste des *meilleures applications* pour un **téléphone sous Android™**.
+
+   `Greffons Sublime Text 3 <sublimetext.fr.html#les-meilleurs-greffons>`_
+      Liste des *meilleurs greffons* pour l'éditeur de texte **Sublime Text (3)**.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
