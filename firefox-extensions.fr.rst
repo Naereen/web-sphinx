@@ -96,10 +96,10 @@ Extensions pour web-développeurs
 
 Autres extensions
 ^^^^^^^^^^^^^^^^^
-* `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ if you like having history, downloads, favorites all in the sidebar,
-* `Copy as Plain Text <https://addons.mozilla.org/fr/firefox/addon/copy-as-plain-text/>`_ if you work a lot with Markdown or other markup languages,
-* `Markdown Here <https://addons.mozilla.org/fr/firefox/addon/markdown-here/>`_ if you want to write fancy emails with Markdown,
-* `Mind the Time <https://addons.mozilla.org/fr/firefox/addon/mind-the-time/>`_ if you want to precisely monitor the time you send on the web, each day, week et month, website by website.
+* `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ si vous aimez avoir l'historique, les téléchargements, les favoris dans une barre latérale (utile sur un écran très large par exemple),
+* `Copy as Plain Text <https://addons.mozilla.org/fr/firefox/addon/copy-as-plain-text/>`_ si vous travaillez beaucoup avec Markdown ou d'autres langages à balises,
+* `Markdown Here <https://addons.mozilla.org/fr/firefox/addon/markdown-here/>`_ si vous voulez écrire facilement des jolis courriels en Markdown,
+* `Mind the Time <https://addons.mozilla.org/fr/firefox/addon/mind-the-time/>`_ permet de mesurer précisément le temps passé sur chaque site web, chaque page, au jour le jour (mais on peut aussi consulter les stats' par semaines ou par mois).
   
 
 ------------------------------------------------------------------------------
