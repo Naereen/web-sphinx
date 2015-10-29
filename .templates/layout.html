@@ -31,7 +31,7 @@
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://besson.qc.to/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git contenant les scripts" href="https://bitbucket.org/lbesson/web-sphinx-scripts/rss" />
-  <link rel="stylesheet" media="screen and (min-width: 680px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
+  <link rel="stylesheet" media="screen and (min-width: 681px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
   <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
   <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
   <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
@@ -121,7 +121,7 @@
 
 {% block document %}
 <div id="divforkit">
-  <a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Tout est OpenSource !" href="http://bitbucket.org/lbesson/web-sphinx/">
+  <a class="forkit" data-text="Sur BitBucket ?" data-text-detached="Tout est OpenSource !" href="https://bitbucket.org/lbesson/web-sphinx/">
   <img style="position: absolute; top: 0; right: 0; border: 0;" alt="Consultez mes dépôts git!" /></a>
 </div>
 {{ super() }}
@@ -203,8 +203,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i", "home"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "07 10 2015, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "07";
+   var last_updated_value = "{{ last_updated }}" || "29 10 2015, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "29";
     var month = last_updated_value.substring(3,  6 ) || "10"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2015";
     var hours = last_updated_value.substring(13, 15) || "12";
