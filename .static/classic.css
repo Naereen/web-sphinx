@@ -179,6 +179,13 @@ div#sidebarbutton {
     div.document {
         margin: -10px 0 0 0;
     }
+    /* FIXED improve responsive style for the footer (max-width: 680px) */
+    div.footer {
+        padding: 9px 0 9px 0;
+        text-align: center;
+        font-size: 85%;
+        margin-left: 10px;
+    }
 }
 /* End responsive */
 

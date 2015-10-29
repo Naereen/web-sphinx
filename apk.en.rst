@@ -60,7 +60,7 @@ Apps everyone should have
    I have not yet got the chance to own and use on a daily basis a phone using either one of these mobile OS,
    opponents of Android™ on the market (and this is not a reason of faith or ideology or whatever, just a coincidence).
 
-   However, it should be easy for you to look for in the l'`Apple™ "App Store"™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ or the `Windows™ "Application Store" <http://www.windowsphone.fr/fr-FR/store>`_ to find apps similar to the one presented here.
+   However, it should be easy for you to look for in the `Apple™ "App Store"™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ or the `Windows™ "Application Store" <http://www.windowsphone.fr/fr-FR/store>`_ to find apps similar to the one presented here.
 
 
 Apps for geeks
