@@ -36,11 +36,11 @@
   .smallpar { font-size: small; }
 
 /* Style pour les badges en bas de la page. */
-  div.supportBadges { margin:1em; text-align:center; }
-  div.supportBadges ul { padding:0; display:inline; }
-  div.supportBadges li { display:inline; }
-  div.supportBadges a { margin-right:1px; opacity:0.6; }
-  div.supportBadges a:hover { opacity:1; }
+div.supportBadges { margin:1em; text-align:center; }
+div.supportBadges ul { padding:0; display:inline; }
+div.supportBadges li { display:inline; }
+div.supportBadges a { margin-right:1px; opacity:0.6; }
+div.supportBadges a:hover { opacity:1; }
 
 /* Pour le drapeau de langue dans la barre supérieure */
 img.languageswitch {
@@ -69,7 +69,7 @@ img.languageswitch {
 /* BETA responsive for font-size. */
 @media (max-width: 680px){
   body {
-    font-size: 120%; /* Increase font size for responsive theme */
+    font-size: 115%; /* Increase font size for responsive theme */
   }
 }
 @media (max-width: 1280px) and (min-width: 681px){

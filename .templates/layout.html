@@ -72,7 +72,7 @@
       };
   function alert(texttoprint, extradict) {
     console.log("\n[INFO] alert called with texttoprint=" + texttoprint + ", and extradict=" + extradict);
-    if ($.noty !== undefined){
+    if (($.noty !== undefined) && (screen.width > 480)){
       if (extradict !== undefined){ var args = extradict; args.text = texttoprint; noty(args); }
       else { noty({text: texttoprint, timeout: 5000}); }
     }

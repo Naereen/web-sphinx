@@ -186,6 +186,7 @@ Small customization plugins:
 Plugins that add great features:
 
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
+* `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
@@ -232,9 +233,8 @@ Some plugins can be configured specifically. Here are their different settings:
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
 * `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
-* `Distraction Free.sublime-settings <./publis/ST3/Distraction Free.sublime-settings>`_.
 * `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
-* `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_ (language specific).
+* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_.
 
 Some language-specific configuration files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

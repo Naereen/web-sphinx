@@ -8,9 +8,11 @@
 .. include:: .special.rst
 .. note:: This page is about Android™ apps
 
-   For more details, maybe you should first read one of these :
+   For more details, maybe you should first read one of these:
+
     * for instance on `Android™ on Wikipedia <https://en.wikipedia.org/wiki/Android_(operating_system)>`_,
-    * or on `www.Android™.com <https://www.Android.com>`_.
+    * or on `www.Android.com <https://www.Android.com>`_.
+
 
 ------------------------------------------------------------------------------
 
@@ -18,7 +20,7 @@ Some lists of applications
 --------------------------
  There are a few lists of some useful apps, kinda sorted by category.
 
-.. note:: What's an application ?
+.. note:: What is an application?
 
    An application (*app*) is a program for a laptop, a tablet or a smartphone powered by the **Android™** OS.
 
@@ -141,8 +143,8 @@ Apps for secrets agents (or paranoid people)
 * `Orbot <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=org.torproject.Android>`_, a `TOR <https://torproject.org/>`_ client to access the web anonymously,
 * `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, a browser to use with `Orbot`_,
 * `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ to record sounds and conversations
-* `RedPhone : Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ to secure your phone calls (only with other users of the same app RedPhone),
-* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure). `WhatsApp <http://www.whatsapp.com/>`_ started `recently <http://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_ to use the same secured protocol.
+* `RedPhone: Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ to secure your phone calls (only with other users of the same app RedPhone),
+* `TextSecure: Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ to secure your SMSs (only with other users of the same app TextSecure). `WhatsApp <http://www.whatsapp.com/>`_ started `recently <http://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_ to use the same secured protocol.
 
 Misc.
 ^^^^^

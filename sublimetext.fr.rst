@@ -189,6 +189,7 @@ Petits greffons de personnalisation :
 Greffons ajoutant de super fonctionnalités :
 
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
+* `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ pour toujours colorer certains mots précis (par exemple ``TODO`` ou ``FIXME``).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
@@ -236,6 +237,8 @@ Voici leurs différents réglages :
 * `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
 * `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
+* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
+* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_.
 
 
 Configuration spécifique à certains langages
