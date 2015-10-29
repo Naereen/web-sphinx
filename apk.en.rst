@@ -31,7 +31,7 @@ Some lists of applications
 
 .. warning:: Might be out-of-date!
 
-   This list was written in *June and July 2014*, so now it might be a little bit out-of-date.
+   This list was written in *June and July 2014*, so now it might be a little bit out-of-date...
 
 
 Apps everyone should have
@@ -55,7 +55,7 @@ Apps everyone should have
 * `VLC™ (lite or beta version) <https://f-droid.org/repository/browse/?fdid=org.videolan.vlc>`_ an other music and video player,
 * `Wikipedia <https://f-droid.org/repository/browse/?fdid=org.wikipedia>`_ to quickly access to Wikipédia. It's really a shame that MathJax is not included in the app!
 
-.. note:: « What about iPhones™ ? » or « What about Windows™ phones? »
+.. note:: « What about iPhones™? » or « What about Windows™ phones? »
 
    I have not yet got the chance to own and use on a daily basis a phone using either one of these mobile OS,
    opponents of Android™ on the market (and this is not a reason of faith or ideology or whatever, just a coincidence).
@@ -63,8 +63,8 @@ Apps everyone should have
    However, it should be easy for you to look for in the `Apple™ "App Store"™ <https://www.apple.com/fr/iphone-5s/app-store/>`_ or the `Windows™ "Application Store" <http://www.windowsphone.fr/fr-FR/store>`_ to find apps similar to the one presented here.
 
 
-Apps for geeks
-^^^^^^^^^^^^^^
+Apps for *geeks*
+^^^^^^^^^^^^^^^^
 
 * `Android™ Assistant <http://apk-dl.com/store/apps/details?id=com.advancedprocessmanager>`_ (free version) is a good admin utility program, useful for instance to clean the cache, kill a bugged process, or quickly desinstall apps,
 * `Android™ System Infos <http://apk-dl.com/store/apps/details?id=com.electricsheep.asi>`_ is another one of the same kind,

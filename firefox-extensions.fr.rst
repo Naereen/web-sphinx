@@ -2,10 +2,12 @@
    :description lang=en: My favorite Firefox extensions
    :description lang=fr: Mes extensions préférées pour Firefox
 
-################################
- My favorite Firefox extensions
-################################
+#######################################
+ Mes extensions préférées pour Firefox
+#######################################
 .. include:: .special.rst
+.. todo:: Traduire `<firefox-extensions.en.html>`_ en français !
+
 .. note:: This page is about Firefox extensions
 
    For more details, maybe you should first read one of these:
@@ -26,9 +28,9 @@ Some lists of extensions
 
    It is similar to a `Sublime Text plugin <https://packagecontrol.io/>`_, if you are interested: `I wrote a page about Sublime Text <sublimetext.en.html>`_ too!
 
-.. warning:: Might be out-of-date!
+.. warning:: N'est peut-être plus à jour !
 
-   This list was written in *October 2015*, so now it might be a little bit out-of-date...
+   J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
 
 
 Extensions *everyone* should have
@@ -40,7 +42,7 @@ Extensions *everyone* should have
 * `Tab Mix Plus <https://addons.mozilla.org/en-us/firefox/addon/tab-mix-plus>`_ adds many useful features if you like to use tabs.
 
 
-.. note:: « What about `Google Chrome <https://www.google.com/chrome>`_? »
+.. note:: « What about `Google Chrome <https://www.google.com/chrome>`_ ? »
 
    I have never used another browser than Firefox, sorry.
 

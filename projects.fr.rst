@@ -361,12 +361,13 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
 
    rss
    cookies.fr
+   sublimetext.fr
    ga.fr
    beacon.fr
    apk.fr
+   firefox-extensions.fr
    tutogit.fr
    apprendre-python.fr
-   sublimetext.fr
    wakatime.fr
    latexonwindows.fr
    zotero.fr

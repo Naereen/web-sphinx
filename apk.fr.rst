@@ -9,6 +9,7 @@
 .. note:: Cette page parle d'applications pour Android™
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
+
     * par exemple sur `fr.wikipedia.org/wiki/Android <https://fr.wikipedia.org/wiki/Android>`_,
     * ou sur `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.
 
@@ -27,10 +28,9 @@ Quelques listes d'applis
    un peu à la manière d'un *EXEcutable* Windows sous le format ``.exe``,
    ou d'un *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
-
 .. warning:: N'est peut-être plus à jour !
 
-   J'ai écrit cette liste en *juin et juillet 2014*, donc elle est probablemen obsolète.
+   J'ai écrit cette liste en *juin et juillet 2014*, donc elle est peut-être obsolète...
 
 
 Liste des applis qu'*il faut avoir*

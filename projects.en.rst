@@ -133,10 +133,11 @@ For more details, see `<sitemap.en.html>`_.
    cv.en
    teaching.en
    cookies.en
+   sublimetext.en
    ga.en
    beacon.en
    apk.en
-   sublimetext.en
+   firefox-extensions.en
    tutogit.en
    wakatime.en
    zotero.en
