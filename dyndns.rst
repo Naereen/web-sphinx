@@ -15,6 +15,6 @@
 
 -----
 
-:Source: http://korben.info/clone-dyndns-remplacer.html
+:Source: https://korben.info/clone-dyndns-remplacer.html
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -145,7 +145,7 @@ Applis pour agents secrets (ou paranoïaques)
 * `Orweb 2 <https://f-droid.org/repository/browse/?fdfilter=Orbot&fdid=info.guardianproject.browser>`_, un navigateur à utiliser via `Orbot`_,
 * `RecForge Lite <http://apk-dl.com/store/apps/details?id=dje073.Android.audiorecorderlite>`_ pour enregistrer des conversations,
 * `RedPhone : Private Calls <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.redphone>`_ pour crypter ses appels téléphoniques (avec d'autres utilisateurs de RedPhone),
-* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ pour crypter ses SMS (avec d'autres utilisateurs de TextSecure). À noter que `WhatsApp <http://www.whatsapp.com/>`_ propose `désormais la même chose ! <http://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_.
+* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ pour crypter ses SMS (avec d'autres utilisateurs de TextSecure). À noter que `WhatsApp <http://www.whatsapp.com/>`_ propose `désormais la même chose ! <https://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_.
 
 Divers
 ^^^^^^
@@ -168,7 +168,7 @@ Par exemple, voici `la page pour AFWall+ <https://f-droid.org/repository/browse/
 
 .. seealso::
 
-   `Cet article sur korben.info <http://korben.info/se-passer-de-google-play-store-cest-possible-et-facile.html>`_
+   `Cet article sur korben.info <https://korben.info/se-passer-de-google-play-store-cest-possible-et-facile.html>`_
       En gros, il conseille exactement comme moi : `F-Droid`_ !
 
    `Aptoide <http://www.aptoide.com/>`_

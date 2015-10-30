@@ -55,6 +55,6 @@ You should know how to do it by yourself on your computer, but there is a
 À-propos
 --------
 :Source 1: http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies
-:Source 2: http://korben.info/respecter-loi-cookies-site.html
+:Source 2: https://korben.info/respecter-loi-cookies-site.html
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -67,7 +67,7 @@ Crypter ses communications
   texte sous la forme d'espaces en fin de lignes.
   Faut quand même être sacrément velu pour envisager ça !
 
-* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ pour crypter ses SMS (avec d'autres utilisateurs de TextSecure). À noter que `WhatsApp <http://www.whatsapp.com/>`_ propose `désormais la même chose ! <http://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_.
+* `TextSecure : Privacte Messages <http://apk-dl.com/store/apps/details?id=org.thoughtcrime.securesms>`_ pour crypter ses SMS (avec d'autres utilisateurs de TextSecure). À noter que `WhatsApp <http://www.whatsapp.com/>`_ propose `désormais la même chose ! <https://korben.info/whatsapp-integre-maintenant-chiffrement-bout-en-bout-grace-au-protocole-textsecure.html>`_.
 
 ---------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ Crypter ses fichiers
 
 * `SpiderOak <https://spideroak.com/opendownload/>`_ fait pareil. Propose 2 Go.
 
-* `Dupticati <http://www.duplicati.com/>`_ (cf. `ce post sur korben.info <http://korben.info/chiffrez-vos-sauvegardes-avant-de-les-envoyer-dans-le-cloud.html>`_) est à utiliser avec l'un de ces hébergeurs.
+* `Dupticati <http://www.duplicati.com/>`_ (cf. `ce post sur korben.info <https://korben.info/chiffrez-vos-sauvegardes-avant-de-les-envoyer-dans-le-cloud.html>`_) est à utiliser avec l'un de ces hébergeurs.
 
 ---------------------------------------------------------------------
 
@@ -122,9 +122,9 @@ Outils de "communication" à usage unique
 * `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``.
   Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
 
-* `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <http://korben.info/digify.html>`_).
+* `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <https://korben.info/digify.html>`_).
 
-* `Snap Me Now <http://www.snapmenow.com/>`_ permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <http://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
+* `Snap Me Now <http://www.snapmenow.com/>`_ permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <https://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
 
 * `PeerIO <https://www.peerio.com/>`_ propose aussi des fonctionnalités intéressantes.
 
