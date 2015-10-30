@@ -85,6 +85,7 @@ Extensions pour agents secrets (ou paranoïaques)
 * `FlashBlock <https://addons.mozilla.org/fr/firefox/addon/flashblock>`_ désactive les objets Flash par défaut sur chaque page (*note :* AdBlock ou Ghostery font la même chose). Les vidéos ne se liront plus toutes seules...
 * `Ghostery <https://addons.mozilla.org/fr/firefox/addon/ghostery>`_ est l'outil facile-à-utiliser NUMÉRO UN pour désactiver les cookies, traqueurs et autres mini logiciels espions qui pullulent sur chaque site (j'ai rien à dire : *ce* site `utilise Google Analytics aussi <ga.fr.html>`_...)
 * `NoScript Security Suite <https://addons.mozilla.org/fr/firefox/addon/noscript>`_ est THE outil pas-facile-à-utiliser pour améliorer significativement la sécurité dans Firefox : par défaut, *tous les scripts* (``javascript``) *inconnus* seront désactivés (et ça améliore aussi plein d'autres choses, comme le risque d'injection de scripts XSS etc),
+* `SSLeuth <https://addons.mozilla.org/en-us/firefox/addon/ssleuth/>`_ évalue la qualité d'une connexion HTTPS sécurisée (SSL ou TLS) établie et donne un bref résumé de la suite de chiffrement, du certificat et d'autres paramètres SSL / TLS (`merci à cet article <https://korben.info/ssleuth.html>`_).
 * `Toggle Proxy <https://addons.mozilla.org/fr/firefox/addon/toggle-proxy-51740>`_ si vous avez l'habitude d'utiliser différents réglages de proxys, pour jongler rapidement entre eux.
 
 Extensions pour web-développeurs

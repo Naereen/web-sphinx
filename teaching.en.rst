@@ -2,19 +2,24 @@
    :description lang=en: Description of my teaching activities (and some links)
    :description lang=fr: Description de mes activités d'enseignements (et divers liens)
 
-#########################################
- My teaching activities (and some links)
-#########################################
+########################
+ My teaching activities
+########################
 .. include:: .special.rst
 
 In 2015
 -------
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
-Between September 2015 and April 2016, I will teach on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class (MP) <http://prepas.org/ups.php?article=56>`_, as a:
+Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
- - examinator for regular oral exams in Mathematics (2h/week) -- *do not worry, I am a nice examinator*,
- - and I will be Teaching Assistant for `the « mandatory » Computer Science course <http://informatique-en-prepas.fr/>`_ (`my class is based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2h/week).
+ - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ and `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_ of course).
+ - and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`my class is based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2h/week). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `github.com/prakhar1989/Algorithms <https://github.com/prakhar1989/Algorithms>`_.
+
+
+.. note:: Replacement in BCPST-1 (1st year biology prep'school)
+
+   Between November 2015 and February 2016, I will also give one weekly hour of oral exam (in maths) for a class of `BCPST <http://prepas.org/ups.php?article=43>`_ prep school.
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -30,13 +35,15 @@ First semester of 2015
 
 :Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 50 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
 
+:Hackhathon: For `Pi day <https://en.wikipedia.org/wiki/Pi_Day>`_ 2015 (3.14.15), I organized a huge hackhathon about *pi* (the number, but also *pie charts*). The written exam paper for the hackhathon is `available here (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_. About 50 students worked on it and had fun together on that day!
+
 - `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
 
-.. todo:: More details, and external/internal links (Moodle, slides, etc).
+.. todo:: More details on MA102, and external/internal links (Moodle, slides, etc).
 
 - I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.org/en/latest/>`_ (*work in progress*).
 
-:Total: For the first semester of 2015, I evaluate my teaching load to be **about 140 hours** (number of hours teaching in front of a group or an amphitheater of students).
+:Total 2: For the first semester of 2015, I evaluate my teaching load to be **about 140 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
 ------------------------------------------------------------------------------
 
@@ -46,11 +53,11 @@ Second semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
-.. todo:: More details, and external/internal links (Moodle, slides, etc).
+.. todo:: More details on MA101, and external/internal links (Moodle, slides, etc).
 
-:Total: For the second semester of 2014, I evaluated my teaching load to be **about 110 hours** (number of hours teaching in front of a group or an amphitheater of students).
+:Total 1: For the second semester of 2014, I evaluated my teaching load to be **about 110 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
-:Examens: I was also in charge of the exam papers for Maths and CS: conceive them, merge the ideas from the colleagues, then write everything (in :math:`\LaTeX2e{}` of course), and write a complete and detailed solution, grade myself some of the papers and also overlook the grading done by my colleagues... With a total number of 9 exams (3 for MA101, 3 for CS101, 3 for MA102: *1st* and *2nd* *Mid-Term,* and *Final*), and about a dozen of quiz papers and lab exams, I became quite skilled at this kind of things.
+:Examens: During the whole year, I was also in charge of the exam papers for Maths and CS: conceive them, merge the ideas from the colleagues, then write everything (in :math:`\LaTeX2e{}` of course), and write a complete and detailed solution, grade myself some of the papers and also overlook the grading done by my colleagues... With a total number of 9 exams (3 for MA101, 3 for CS101, 3 for MA102: *1st* and *2nd* *Mid-Term,* and *Final*), and about a dozen of quiz papers and lab exams, I became quite skilled at this kind of things.
 
 First semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -67,10 +74,10 @@ First semester of 2014
 
 Between 2009 and 2013
 ---------------------
- Nothing serious, but I used to regularly help my friends for Chemistry, Engineering, Physics (2009-2011), and Maths and Computer Science of course (2009-2014).
+  Nothing serious, but I used to regularly help my friends for Chemistry, Engineering, Physics (2009-2011), and Maths and Computer Science of course (2009-2014).
 
 Before 2009 (high-school and before)
 ------------------------------------
- I used to regularly help my friends for Maths, Chemistry, Biology, Physics, but also theater.
+  I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also theater.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
