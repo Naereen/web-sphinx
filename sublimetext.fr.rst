@@ -188,12 +188,13 @@ Petits greffons de personnalisation :
 
 Greffons ajoutant de super fonctionnalités :
 
+* `Calculate <https://packagecontrol.io/packages/Calculate>`_ permet de facilement créer des listes ordonnées (en plus de plein d'autres choses) : on écrit ``i+1`` à chaque ligne, puis un coup de ``Ctrl+Maj+c`` et paf, la multi-sélection est désormais en ``1``, ``2``, ..., ``n``.
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ pour toujours colorer certains mots précis (par exemple ``TODO`` ou ``FIXME``).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
-* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut !
+* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut ! `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ semble être une bonne alternative gratuite et libre.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers jamais, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
 

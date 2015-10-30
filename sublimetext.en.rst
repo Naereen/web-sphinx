@@ -185,12 +185,13 @@ Small customization plugins:
 
 Plugins that add great features:
 
+* `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, ..., ``n``.
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
-* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this.
+* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this. `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ seems to be a free and open-source alternative.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I never use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
 
