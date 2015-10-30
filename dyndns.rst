@@ -11,10 +11,10 @@
  * `DyNS <http://dyns.cx/signup/>`_;
  * `Prout <http://www.prout.be/dns/>`_;
  * `Xname <http://www.xname.org/dynamic-update.php?language=fr>`_;
- * `My Dot TK <http://my.dot.tk/>`_ est bien aussi.
+ * `My Dot TK <http://my.dot.tk/>`_ était bien aussi, il a été remplacé par `my.freenom.com <https://my.freenom.com/>`_.
 
 -----
 
-:Source: https://korben.info/clone-dyndns-remplacer.html
+:Source: `korben.info/clone-dyndns-remplacer <https://korben.info/clone-dyndns-remplacer.html>`_
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
