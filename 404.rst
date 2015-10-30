@@ -1,5 +1,5 @@
 ###############################
- **404** : Erreur "Non trouvé"
+ **404** : Erreur "non trouvé"
 ###############################
 .. include:: .special.rst
 
@@ -15,13 +15,13 @@
 
       <script type="text/javascript" src="_static/referrer.js"></script>
       <script type="text/javascript">
-      if (document.referrer != ""){
-       document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
-        + " (L'erreur continuera sûrement...)");
-      }
-      else{
-       document.write("<span style=\"color:red\">Accès direct à cette page d'erreur détectée !</span>");
-      };
+        if (document.referrer != ""){
+            document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
+            - " (L'erreur continuera sûrement...)");
+        }
+        else {
+            document.write("<span style=\"color:red\">Accès direct à cette page d'erreur détectée !</span>");
+        };
       </script>
 
 
@@ -37,6 +37,18 @@
 
    Cette page n'est pas intéressante, allez plutôt consulter `celle là <index.html>`_.
 
+   Essayer de *retrouver une vieille version de cette page* ?
+   L'idée (et le script) viennent `de ce post de blog <https://blog.archive.org/2013/10/24/web-archive-404-handler-for-webmasters/>`_.
+
+   .. raw:: html
+
+      <!-- Useless here because 404.html is displayed on http://perso.crans.org/besson/404.html not on the located missing page... -->
+      <div id="wb404"/>
+      <script type="text/javascript" src="https://archive.org/web/wb404.js"> </script>
+      </div>
+
+    Vous pouvez aussi lire `cette page Wikipédia <https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP>`_ pour en apprendre plus sur les erreurs HTTP (404 et autres).
+
 
 ---------------------------------------------------------------------
 
@@ -46,5 +58,7 @@
    :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
    :target: index.html
 
+
+.. todo:: Traduire cette page en anglais aussi !
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
