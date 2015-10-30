@@ -81,7 +81,8 @@ Extensions for secrets agents (or paranoid people)
 * `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ to be able to remove *any type* of web element (image, banner etc) like if it was an advertising handled by AdBlock,
 * `Facebook Disconnect <https://addons.mozilla.org/en-us/firefox/addon/facebook-disconnect>`_ to completely disable Facebook's default tracking behavior on other websites,
 * `FlashBlock <https://addons.mozilla.org/en-us/firefox/addon/flashblock>`_ disables by default Flash objects on every page (*note:* AdBlock or Ghostery offer the same feature). No more auto-played videos...
-* `Ghostery <https://addons.mozilla.org/en-us/firefox/addon/ghostery>`_ is THE user-friendly tool to disable tracking cookies, tracking beacons and other mini spying softwares that are nowadays on every website (and I have nothing to about it: *this* website `alse uses Google Analytics <ga.en.html>`_...)
+* `Ghostery <https://addons.mozilla.org/en-us/firefox/addon/ghostery>`_ is THE user-friendly tool to disable tracking cookies, tracking beacons and other mini spying softwares that are nowadays on every website (and I have nothing to about it: *this* website `alse uses Google Analytics <ga.en.html>`_...),
+* `HTTPS Everywhere <https://addons.mozilla.org/en-us/firefox/addon/https-everywhere>`_ protects your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the ``https:`` prefix.
 * `NoScript Security Suite <https://addons.mozilla.org/en-us/firefox/addon/noscript>`_ is THE less-user-friendly tool to significantly improve security in Firefox: by default, *all unknown* ``javascript`` programs will be disabled (and many other improvements like XSS checks etc),
 * `SSLeuth <https://addons.mozilla.org/en-us/firefox/addon/ssleuth/>`_ ranks an established SSL/TLS connection and gives a brief summary of the cipher suite, certificate and other SSL/TLS parameters,
 * `Toggle Proxy <https://addons.mozilla.org/en-us/firefox/addon/toggle-proxy-51740>`_ if you use different proxies.
@@ -89,6 +90,7 @@ Extensions for secrets agents (or paranoid people)
 Extensions for web-developpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to... quickly check links!
+* `Octotree <https://addons.mozilla.org/en-US/firefox/addon/octotree/>`_ is sweet if you use `GitHub`_ a lot.
 * `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to... quickly change the ``locale`` settings (the language you ask the pages to be displayed),
 * `Reload Plus <https://addons.mozilla.org/en-us/firefox/addon/reload-plus>`_ to regain control of your cache (``Ctrl+F5`` reload the page, erasing the local cached version).
 
