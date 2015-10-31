@@ -6,8 +6,6 @@
  Mes extensions préférées pour Firefox
 #######################################
 .. include:: .special.rst
-.. todo:: Traduire `<firefox-extensions.en.html>`_ en français !
-
 .. note:: Cette page parle d'extensions pour Firefox
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
