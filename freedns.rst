@@ -28,16 +28,16 @@ FreeDNS ?
 Liste des sous-domaines que j'utilise
 -------------------------------------
  * `besson.qc.to <http://besson.qc.to>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson (pages perso). Le plus utilisé !
+    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_ (pages perso). Le plus utilisé !
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_
-    aussi vers http://www.dptinfo.ens-cachan.fr/~lbesson;
+    aussi vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
 
  * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_
-    vers https://bitbucket.org/lbesson/ (mes dépôts git);
+    vers `<https://bitbucket.org/lbesson/>`_ (mes dépôts git);
 
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf en mode :red:`cloak` (moche).
+    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf>`_ en mode :red:`cloak` (moche).
 
 
 .. note:: En fait non.
@@ -48,21 +48,15 @@ Liste des sous-domaines que j'utilise
 Liste des autres sous-domaines que j'utilise
 --------------------------------------------
  * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_
-    vers http://perso.crans.org/besson/jarvis.html
+    vers `<http://perso.crans.org/besson/jarvis.html>`_
 
  * `besson.k.vu <http://besson.k.vu>`_ et `jarvis.k.vu <http://jarvis.k.vu>`_
-    vers http://www.dptinfo.ens-cachan.fr/~lbesson
-    (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve);
+    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_
+    (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve).
 
- * `agreg.uk.is <http://agreg.uk.is>`_
-    vers http://perso.crans.org/besson/agreg/ (ressources privées pour la prépa agreg' 2014 à Cachan);
-
-dot.tk
-------
-Un autre service de ce genre, moins performant, mais pas trop mal (en mode :red:`cloak`) :
-
- * `naereen.tk <http://naereen.tk>`_ miroir pour ce site;
- * `lbesson.tk <http://lbesson.tk>`_ pour mon CV (plus joli que `cv.lbesson.qc.to`_).
+`my.freenom.com <https://my.freenom.com/>`_
+-------------------------------------------
+ Un autre service de ce genre, moins performant, mais pas trop mal était `my.dot.tk <http://my.dot.tk>`_, mais il est devenu payant.
 
 ------------------------------------------------------------------------------
 
