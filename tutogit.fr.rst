@@ -1,6 +1,6 @@
 .. meta::
-   :description lang=fr: Rapide tutorial pour git et BitBucket
-   :description lang=en: Quick tutorial for git and BitBucket
+   :description lang=fr: Rapide tutorial pour git et Bitbucket
+   :description lang=en: Quick tutorial for git and Bitbucket
 
 ################################################################
  Rapide initiation à `git <https://fr.wikipedia.org/wiki/Git>`_
@@ -8,9 +8,9 @@
 .. include:: .special.rst
 Introduction
 ------------
-Cette page est une rapide introduction à `git`_, et son utilisation régulière via `BitBucket <https://bitbucket.org>`_.
+Cette page est une rapide introduction à `git`_, et son utilisation régulière via `Bitbucket <https://bitbucket.org>`_.
 
-Cet article contient de très rapides explications sur la prise en main du très efficace et puissant logiciel `git`_, son installation, ainsi que l'utilisation de `BitBucket`_.
+Cet article contient de très rapides explications sur la prise en main du très efficace et puissant logiciel `git`_, son installation, ainsi que l'utilisation de `Bitbucket`_.
 
 Des liens sont donnés vers d'autres tutoriels et d'autres explications.
 
@@ -41,14 +41,14 @@ Entièrement libre et gratuit depuis 2005, il est rapidement devenu le système 
 .. sidebar:: Exemple ?
 
    Par exemple, `ce lien vous montre la première version que j'avais écrite pour cette page <https://bitbucket.org/lbesson/web-sphinx/src/4107670f439e/tutogit.fr.rst>`_ !
-   En utilisant l'interface web de `BitBucket`_, il est possible de `visualiser l'historique complet des modifications apportées à cette page <https://bitbucket.org/lbesson/web-sphinx/history-node/master/tutogit.fr.rst>`_.`
+   En utilisant l'interface web de `Bitbucket`_, il est possible de `visualiser l'historique complet des modifications apportées à cette page <https://bitbucket.org/lbesson/web-sphinx/history-node/master/tutogit.fr.rst>`_.`
 
 
 « *Un logiciel de gestion de versions est un logiciel qui permet de stocker un ensemble de fichiers en conservant la chronologie de toutes les modifications qui ont été effectuées dessus.* »
 
 « `git`_ *permet donc notamment de retrouver les différentes versions d'un lot de fichiers connexes. Il permet aussi un contrôle efficace et sécurisé de certains fichiers (ou même de projets entiers), ainsi qu'un excellent suivi des modifications effectuées sur chaque fichiers.* »
 
-Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux (Ubuntu™ 14.04), et de temps en temps sur Windows™.
+Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux ((X)Ubuntu™ 15.04), et de temps en temps sur Windows™.
 
 
 Est-ce vraiment si populaire ?
@@ -59,7 +59,7 @@ Oui :
 
 * Le projet `git`_ lui-même est développé par une petite équipe, et utilise `git`_: `GitHub.com/git <https://github.com/git>`_ !
 
-* En novembre 2014, `GitHub <https://github.com/>`_ semblait avoir plus de **7 millions d'utilisateurs**, `BitBucket`_ en possédait **presque 2 millions**, et `gitorious <https://gitorious.org/>`_ presque 400 000 !
+* En novembre 2014, `GitHub <https://github.com/>`_ semblait avoir plus de **7 millions d'utilisateurs**, `Bitbucket`_ en possédait **presque 2 millions**, et `gitorious <https://gitorious.org/>`_ presque 400 000 !
 
 * La `fabuleuse suite logicielle <https://about.gitlab.com/features/>`_ `GitLab <https://about.gitlab.com/>`_ prétend être utilisée par plus de **100 000 compagnies et organisations** de part le monde ! Voir par `exemple le gitlab du Crans <https://gitlab.crans.org/>`_ (et `mon compte <https://gitlab.crans.org/lbesson/>`_, peut utilisé).
 
@@ -91,10 +91,19 @@ Deux documents en PDF à télécharger pour ne pas paniquer quand on est paumé 
 D'autres ressources (moins utiles, mais peuvent aider) :
 
 * `fr.wikibooks.org/wiki/Git <https://fr.wikibooks.org/wiki/Git>`_.
-* `cet autre tuto non officiel <https://www.progclub.net/~key720/tutorials/git_bitbucket/>`_ sur `git`_ et `BitBucket`_,
+* `cet autre tuto non officiel <https://www.progclub.net/~key720/tutorials/git_bitbucket/>`_ sur `git`_ et `Bitbucket`_,
 * `ce troisième tuto <http://www.bohyunkim.net/blog/archives/2518>`_ est moche mais peut être utile.
 * `ce petit livre en français <http://www.alexgirard.com/git-book/index.html>`_,
 * Une page intitulée `« Démarrer avec Git » par Robusta Code <http://www.robusta.io/content/tutoriel/git/start-git.html>`_.
+
+
+.. note:: Et comment ça marche, *en vrai*, sous le capot des jolis sites web et de l'utilisation en lignes de commande ? C'est compliqué (théoriquement) ? :red:`Oui.`
+
+   .. image:: https://imgs.xkcd.com/comics/git.png
+     :scale: 100%
+     :align: center
+     :alt: XKCD du vendredi 30 octobre, à propos de Git
+     :target: https://xkcd.com/1597/
 
 
 ---------------------------------------------------------------------
@@ -103,7 +112,7 @@ Mon utilisation (amateur) de `git`_
 -----------------------------------
 `Ma configuration <./publis/git/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-:État: *Maintenu activement.* (novembre 2014)
+:État: *Maintenu activement.* (septembre 2015)
 
 Pour ces deux fichiers de configurations, (sur Linux), un fichier ``.gitconfig`` et ``.gitignore`` global peut se trouver dans votre dossier ``HOME`` (``~/``, ou ``/home/pseudo``), et un fichier particulier à chaque dépôt peut aussi être créé.
 
@@ -129,16 +138,15 @@ Pour ces deux fichiers de configurations, (sur Linux), un fichier ``.gitconfig``
 
 En ligne de commande
 ^^^^^^^^^^^^^^^^^^^^
-Voir mon `bash_aliases <bin/.bash_aliases>`_ (aussi `sur BitBucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin/src/master/.bash_aliases>`_).
+Voir mon `bash_aliases <bin/.bash_aliases>`_ (aussi `sur Bitbucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin/src/master/.bash_aliases>`_).
+Je définis les `alias Bash <http://abs.traduc.org/abs-5.3-fr/ch24.html>`_ suivants,
+qui permettent de voir les fichiers modifiés, supprimés ou ajoutés uniquement :
 
-Je définis les `alias Bash <http://abs.traduc.org/abs-5.3-fr/ch24.html>`_ suivants.
+* ``alias GitChanged='clear ; git status | grep --color=always '\(modified\|modifié\)' | less -r'`` pour les fichiers modifiés,
+* ``alias GitDeleted='clear ; git status | grep --color=always '\(deleted\|supprimé\)' | less -r'`` pour les fichiers supprimés,
+* ``alias GitAdded='clear ; git status | grep --color=always '\(added\|nouveau\)' | less -r'`` pour les fichiers ajoutés,
 
-Ces trois là permettent de voir les fichiers modifiés, supprimés ou ajoutés uniquement :
-
-* ``alias GitChanged='clear ; git status | grep --color=always '(\modified\|modifié\)' | less -r'`` pour les fichiers modifiés,
-* ``alias GitDeleted='clear ; git status | grep --color=always '(\deleted\|supprimé\)' | less -r'`` pour les fichiers supprimés,
-* ``alias GitAdded='clear ; git status | grep --color=always '(\added\|nouveau\)' | less -r'`` pour les fichiers ajoutés,
-* ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/'`` permet d'afficher la taille que prend le dépôt courant (e.g. 9.75 MO actuellement pour `ce projet web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
+* Et ``alias GitSize='clear; git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/'`` permet d'afficher la taille que prend le dépôt courant (e.g. 10.43 MO actuellement pour `ce projet web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_).
 
 .. runblock:: console
 
@@ -149,7 +157,7 @@ Ces trois là permettent de voir les fichiers modifiés, supprimés ou ajoutés 
 Ceux là sont de bons raccourcis, qui par défaut lance la compression locale du dépôt juste après chaque opération (en moyenne ça fait gagner du temps) :
 
 * ``alias Push='clear; git push && git gc'`` pour téléverser les dernières modifications sur le dépôt mère,
-* ``alias Pull='clear; git gc && git pull && git gc'`` pour télécharger les dernières modifications depuis le dépôt mère,
+* ``alias Pull='clear; git pull && git gc'`` pour télécharger les dernières modifications depuis le dépôt mère,
 * ``alias Commit='clear; git commit -m'`` pour rapidement valider une modification (on dit alors réaliser un *commit*),
 * ``alias Add='git add'`` pour facilement ajouter des fichiers,
 * ``alias Aggressive='git gc --aggressive'`` lance une compression "agressive",
@@ -158,12 +166,12 @@ Ceux là sont de bons raccourcis, qui par défaut lance la compression locale du
 
 Et enfin, j'ai défini un alias pratique qui permet de synchroniser le projet courant avec le dépôt mère, et son sous-dossier sur mon site.
 
-* ``alias Sync='clear; echo -e "Synchronizing (git push, gc, send_zamok, send_dpt)..."; git push; git gc --aggressive; make send_zamok; make send_dpt; alert'``
+* ``alias Sync='clear; echo -e "Synchronizing (git push, gc, send_zamok)..."; git push; git gc --aggressive; make send_zamok; alert'``
 
 
 Par exemple `ce dépôt <https://bitbucket.org/lbesson/ansi-colors>`_ se trouve `ici sur ce site (publis/ansi-colors) <publis/ansi-colors/>`_.
 `Cet autre dépôt <https://bitbucket.org/lbesson/mpri-bomberman>`_ se trouve `ici sur ce site (publis/Bomberman) <publis/Bomberman/.build/html/>`_.
-`Ce troisième dépôt <https://bitbucket.org/lbesson/kaggle>`_ se trouve `ici sur ce site (publis/kaggle) <publis/kaggle/>`_.
+`Ce troisième dépôt <https://bitbucket.org/lbesson/python-demos>`_ se trouve `ici sur ce site (python-demos) <python-demos/>`_.
 
 
 .. note:: Détails à propos des alias Bash ?
@@ -184,47 +192,52 @@ Avec `Sublime Text 3 <http://www.sublimetext.com/3/>`_
    Et GitHub propose leur propre application `pour Mac™ OS X <https://mac.github.com/>`_ ou `Windows™ <https://windows.github.com>`_.
 
 
-Les deux greffons suivants permettent une utilisation fluide et facile de `git`_ avec `Sublime Text 3`_ :
+Les greffons suivants permettent une utilisation fluide et facile de `git`_ avec `Sublime Text 3`_ :
 
 * Le petit `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
 
 * Le plus lourd `SublimeGit <https://sublimegit.net/>`_ (installable depuis `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce plugin est vraiment génial, donc vous supporterez son petit défaut !
 
+* `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ semble être une bonne alternative gratuite et libre.
+
 
 .. seealso::
 
-   sublimetext.fr.html
+   `sublimetext.fr.html`_
       Veuillez lire la toute récente page `sublimetext.fr.html <sublimetext.fr.html>`_ pour plus de détails sur l'utilisation que je fais de Sublime Text 3.
 
 
-Avec BitBucket.org
+Avec Bitbucket.org
 ^^^^^^^^^^^^^^^^^^
-Comme d'autres services d'hébergement, `BitBucket`_ est **gratuit**, flexible, puissant, `opérationnel 24h/24, 7j/7 <https://status.BitBucket.org>`_, et permet de publier son code facilement sur Internet.
+Comme d'autres services d'hébergement, `Bitbucket`_ est **gratuit**, flexible, puissant, `opérationnel 24h/24, 7j/7 <https://status.Bitbucket.org>`_, et permet de publier son code facilement sur Internet.
 
-`BitBucket`_ propose en plus des dépôts privés, en nombre illimités. Chaque dépôt est `limité à 2GB <https://confluence.atlassian.com/pages/viewpage.action?pageId=273877699>`_ (il faut vraiment le vouloir pour dépasser!).
-S'inscrire est rapide, il suffit d'aller sur `cette page https://BitBucket.org/ <https://BitBucket.org/>`_ !
-(Notez que `BitBucket`_ peut aussi s'utiliser avec un compte Google, Facebook, GitHub ou même avec `OpenID <https://fr.wikipedia.org/wiki/OpenID>`_.)
+ .. note:: GitHub propose en gros les mêmes (super) fonctionnalités, gratuitement aussi.
 
 
-Un fois votre profil créé, il ressemblera au mien, mais en plus *vide* : `BitBucket.org/lbesson <https://bitbucket.org/lbesson>`_ (voir celui là pour un autre exemple `BitBucket.org/jilljenn <https://bitbucket.org/jilljenn>`_).
+`Bitbucket`_ propose en plus des dépôts privés, en nombre illimités. Chaque dépôt est `limité à 2GB <https://confluence.atlassian.com/pages/viewpage.action?pageId=273877699>`_ (il faut vraiment le vouloir pour dépasser!).
+S'inscrire est rapide, il suffit d'aller sur `cette page https://Bitbucket.org/ <https://Bitbucket.org/>`_ !
+(Notez que `Bitbucket`_ peut aussi s'utiliser avec un compte Google, Facebook, GitHub ou même avec `OpenID <https://fr.wikipedia.org/wiki/OpenID>`_.)
 
-Les dépôts publics sont visibles par tous : `BitBucket.org/lbesson/profile/repositories <https://bitbucket.org/lbesson/profile/repositories?visibility=public>`_.
+
+Un fois votre profil créé, il ressemblera au mien, mais en plus *vide* : `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (voir celui là pour un autre exemple `Bitbucket.org/jilljenn <https://bitbucket.org/jilljenn>`_).
+
+Les dépôts publics sont visibles par tous : `Bitbucket.org/lbesson/profile/repositories <https://bitbucket.org/lbesson/profile/repositories?visibility=public>`_.
 
 Par exemple, voici plusieurs de mes dépôts :
 
- - `BitBucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stocke les sources de `ce site <index.html>`_, voir par exemple la source de cette page, écrite en reStructuredText (``.rst``) `(→ lien direct sur cette ligne) <https://bitbucket.org/lbesson/web-sphinx/annotate/master/tutogit.fr.rst#cl-215>`_,
- - `BitBucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_ héberge des douzaines de scripts, surtout en Bash et quelques uns en Python,
- - `BitBucket.org/lbesson/web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_ stocke des versions locales de tous les `scripts Javascript utilisés par ce site <js.html>`_,
- - `BitBucket.org/lbesson/cv <https://bitbucket.org/lbesson/cv>`_ stocke les sources \\(\\LaTeX{}\\) de mes CV `en français <cv.fr.pdf>`_ et `en anglais <cv.en.pdf>`_ : `cv.fr.tex <https://bitbucket.org/lbesson/cv/src/master/cv.fr.tex>`_ ou `cv.en.tex <https://bitbucket.org/lbesson/cv/src/master/cv.en.tex>`_,
- - `BitBucket.org/lbesson/munstrap <https://bitbucket.org/lbesson/munstrap>`_ un tout petit dépôt proposant une traduction en français du thème **Munstap**, un thème adaptatif et moderne pour `Munin <http://munin-monitoring.org/>`_.
+ - `Bitbucket.org/lbesson/web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ stocke les sources de `ce site <index.html>`_, voir par exemple la source de cette page, écrite en reStructuredText (``.rst``) `(→ lien direct sur cette ligne) <https://bitbucket.org/lbesson/web-sphinx/annotate/master/tutogit.fr.rst?fileviewer=file-view-default#tutogit.fr.rst-226>`_,
+ - `Bitbucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_ héberge des douzaines de scripts, surtout en Bash et quelques uns en Python,
+ - `Bitbucket.org/lbesson/web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_ stocke des versions locales de tous les `scripts Javascript utilisés par ce site <js.html>`_,
+ - `Bitbucket.org/lbesson/cv <https://bitbucket.org/lbesson/cv>`_ stocke les sources \\(\\LaTeX{}\\) de mes CV `en français <cv.fr.pdf>`_ et `en anglais <cv.en.pdf>`_ : `cv.fr.tex <https://bitbucket.org/lbesson/cv/src/master/cv.fr.tex>`_ ou `cv.en.tex <https://bitbucket.org/lbesson/cv/src/master/cv.en.tex>`_,
+ - `Bitbucket.org/lbesson/munstrap <https://bitbucket.org/lbesson/munstrap>`_ un tout petit dépôt proposant une traduction en français du thème **Munstap**, un thème adaptatif et moderne pour `Munin <http://munin-monitoring.org/>`_.
 
 
 Plus d'explications sont disponibles ici `en.WikiPedia.org/wiki/Bitbucket <https://en.wikipedia.org/wiki/Bitbucket>`_ (en anglais).
 
 
-Publier des pages webs avec BitBucket ?
+Publier des pages webs avec Bitbucket ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Si votre nom d'utilisateur BitBucket est **TRUC**, il est possible de créer un dépôt appelé "TRUC.bitbucket.org",
+Si votre nom d'utilisateur Bitbucket est **TRUC**, il est possible de créer un dépôt appelé "TRUC.bitbucket.org",
 et ensuite tous les documents que tu y seront stockés seront automatiquement disponibles sur le site `http://TRUC.bitbucket.org <http://TRUC.bitbucket.org>`_ !
 
 Plus de détails sont donnés sur `cette page de doc par Atlassian (en anglais) <https://confluence.atlassian.com/display/BITBUCKET/Publishing+a+Website+on+Bitbucket>`_, et l'`exemple officiel (tutorials.bitbucket.org) <https://bitbucket.org/tutorials/tutorials.bitbucket.org>`_ est en ligne sur `https://tutorials.bitbucket.org <https://tutorials.bitbucket.org>`_)
@@ -232,18 +245,18 @@ Plus de détails sont donnés sur `cette page de doc par Atlassian (en anglais) 
  (Ce service est maleheureusement un peu moins poussé que celui de GitHub (`GitHub.io <https://pages.github.com/>`_, `voir la doc ici <https://help.github.com/categories/github-pages-basics/>`_), mais marche bien quand même.)
 
 
-.. note:: `lbesson.BitBucket.org <http://lbesson.BitBucket.org>`_ ?
+.. note:: `lbesson.Bitbucket.org <http://lbesson.Bitbucket.org>`_ ?
 
-   Voir par exemple cette petite page `lbesson.BitBucket.org/README.html <http://lbesson.bitbucket.org/README.html>`_ dont la source est hébergée ici `BitBucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html <https://BitBucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html>`_.
+   Voir par exemple cette petite page `lbesson.Bitbucket.org/README.html <http://lbesson.bitbucket.org/README.html>`_ dont la source est hébergée ici `Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html <https://Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html>`_.
 
-   Je me sers de `lbesson.BitBucket.org`_ principalement pour :
+   Je me sers de `lbesson.Bitbucket.org`_ principalement pour :
 
    - `squirt <http://lbesson.bitbucket.org/squirt/>`_ un marque-page scripté pour Firefox, Chrome ou Opéra, permettant de lire une page web *très rapidement* (disponible sur ce site aussi, allez-y, essayer le en tapant "q" sur votre clavier ! *Cool non ?*),
    - `StrapDown.js <http://lbesson.bitbucket.org/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_. De tels documents utilisant StrapDown sont *directement* prêts à être publiés *telle-quelle* sur n'importe quel site ou serveur, sans aucune étape de compilation requise de votre côté ! (Il n'attire qu'`une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/StrapDown.js.zip>`_),
    - mes propres copies du (légendaire) jeu **2048** : `lbo.k.vu/2048 <http://lbo.k.vu/2048>`_ (le jeu initial), `lbo.k.vu/2048-agreg <http://lbo.k.vu/2048-agreg>`_ (une version `pour matheux <http://agreg.org/ResultatsMerite2014.html>`_) ou encore `lbo.k.vu/2048-AI <http://lbo.k.vu/2048-AI>`_ (avec `Intelligence Artificielle <slidesM1Info13.pdf>`_).
    - et `cette page d'accueil qui permet d'enrober mon site <http://lbesson.bitbucket.org/index.html?i=no>`_.
 
-   Et même si le certificat n'est pas valide, il est parfaitement possible d'utiliser cette fonctionnalité avec le `HTTPS <https://fr.wikipedia.org/wiki/HTTPS>`_ activé : `https://lbesson.BitBucket.org/README.html <https://lbesson.bitbucket.org/README.html>`_ (si votre navigateur râle et affiche une erreur **c'est parfaitement normal** !).
+   Et même si le certificat n'est pas valide, il est parfaitement possible d'utiliser cette fonctionnalité avec le `HTTPS <https://fr.wikipedia.org/wiki/HTTPS>`_ activé : `https://lbesson.Bitbucket.org/README.html <https://lbesson.bitbucket.org/README.html>`_ (si votre navigateur râle et affiche une erreur **c'est parfaitement normal** !).
    Si vous utilisez un navigateur assez récent, il peut râler et vous expliquer pourquoi (vous verrez alors que la seule raison est que le `certificat SSL <https://fr.wikipedia.org/wiki/SSL>`_ de `https://bitbucket.org <https://bitbucket.org>`_ n'a été signé que pour certains sous domains du site bitbucket.org, pas tous).
    Mais le trafic sera bien crypté et sécurisé par le certificat SSL, aucun problème :)
 
@@ -262,7 +275,7 @@ Depuis un peu plus d'un an, il est possible de changer l'interface du site en fr
 
 Des "boutons" ?
 ~~~~~~~~~~~~~~~
-De même que des fans de GitHub proposent `ghbtns.com/ <http://ghbtns.com/>`_ ou `buttons.GitHub.io/ <https://buttons.github.io/>`_, un fan de BitBucket a conçu `bb-btns.bitbucket.org/ <http://bb-btns.bitbucket.org/>`_.
+De même que des fans de GitHub proposent `ghbtns.com/ <http://ghbtns.com/>`_ ou `buttons.GitHub.io/ <https://buttons.github.io/>`_, un fan de Bitbucket a conçu `bb-btns.bitbucket.org/ <http://bb-btns.bitbucket.org/>`_.
 
 Voici quelques exemples pour `mon dépôt web-sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ :
 
@@ -284,7 +297,7 @@ Les mêmes, mais `hébergés sur  lbesson.bitbucket.org/bbbtns/ <https://lbesson
    <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ (pour le dépôt `lbesson.BitBucket.org`_) :
+Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ (pour le dépôt `lbesson.Bitbucket.org`_) :
 
 .. raw:: html
 
