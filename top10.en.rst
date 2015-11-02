@@ -150,9 +150,10 @@ My 10 favorite **places in France**
 - `Luminy <https://en.wikipedia.org/wiki/Luminy>`_ (in `Marseille <https://en.wikipedia.org/wiki/Marseille>`_, the best University campus I know!),
 - `Pau <https://en.wikipedia.org/wiki/Pau>`_ (its castel, mainly).
 
-.. sidedar:: En auto-stop ?
+.. sidebar:: By hitch-hiking?
 
-   Je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_.
+   I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_.
+
 
 My 10 favorite **cities of the world**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

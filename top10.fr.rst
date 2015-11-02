@@ -150,7 +150,7 @@ Mes 10 **endroits en France** préférés
 - `Luminy <https://fr.wikipedia.org/wiki/Luminy>`_ (à `Marseille <https://fr.wikipedia.org/wiki/Marseille>`_, le campus universitaire le plus agréable que je connaisse !),
 - `Pau <https://fr.wikipedia.org/wiki/Pau>`_ (son château, surtout).
 
-.. sidedar:: En auto-stop ?
+.. sidebar:: En auto-stop ?
 
    Je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_.
 
