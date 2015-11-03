@@ -102,7 +102,7 @@ Autres extensions
 * `Copy as Plain Text <https://addons.mozilla.org/fr/firefox/addon/copy-as-plain-text/>`_ si vous travaillez beaucoup avec Markdown ou d'autres langages à balises,
 * `Markdown Here <https://addons.mozilla.org/fr/firefox/addon/markdown-here/>`_ si vous voulez écrire facilement des jolis courriels en Markdown,
 * `Mind the Time <https://addons.mozilla.org/fr/firefox/addon/mind-the-time/>`_ permet de mesurer précisément le temps passé sur chaque site web, chaque page, au jour le jour (mais on peut aussi consulter les stats' par semaines ou par mois).
-  
+* `about:addons-memory <https://addons.mozilla.org/en-US/firefox/addon/about-addons-memory>`_ est simple mais utile si votre Firefox utilise trop de mémoire RAM : il permet de lire sur une page `<about:addons-memory>`_ la consommation en RAM de *chaque* greffons. Si l'un d'entre eux utilise *beaucoup* trop de RAM, peut-être qu'il faut le désinstaller !
 
 ------------------------------------------------------------------------------
 
