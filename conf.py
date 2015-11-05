@@ -49,7 +49,7 @@ extensions = [
 ####### Sphinx Contrib
 ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
 	'sphinxcontrib.cheeseshop',
-	'sphinxcontrib.gnuplot', # FIXME: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
+	'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
 	'sphinxcontrib.autorun',
 ######## Sphinx Spelling http://sphinxcontrib-spelling.readthedocs.org/en/latest/install.html
 	# 'sphinxcontrib.spelling',
@@ -58,7 +58,7 @@ extensions = [
 ####### Change the order ?
 	'sphinx.ext.mathjax',
 #	'sphinxcontrib.email',
-####### From Pokedex
+####### From Pokedex FIXME remove this old stuff
     'pokedex.doc.tabledoc',
 ####### New from pypi
 ####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
@@ -67,6 +67,8 @@ extensions = [
 	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
 	#'hieroglyph', # https://github.com/nyergler/hieroglyph
 	'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
+####### http://sphinx-doc.org/ext/extlinks.html
+  'sphinx.ext.extlinks',
 	]
 
 ##############################################################################
@@ -79,7 +81,7 @@ extensions = [
 # If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
 # You can also give a full http:// URL different from the CDN URL.
 
-# mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
+# mathjax_path = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 # NEW: to load MathJax asynchronously, I add it on .template/layout.html, and I load nprogress.js with mathjax_path instead
 mathjax_path = "nprogress.js"
 
@@ -114,6 +116,18 @@ bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
 # Boolean controlling whether suggestions for misspelled words are printed. Defaults to False.
 # spelling_show_suggestions=False
 
+# For extlinks http://sphinx-doc.org/ext/extlinks.html#confval-extlinks
+extlinks = {
+  # 'alias': ('http://monsite.ext/dir/subdir/formatstring/%s', 'prefix')
+  'issue': ('https://bitbucket.org/lbesson/web-sphinx/issues/%s', 'bug '),
+  'wfr': ('https://fr.wikipedia.org/wiki/%s', ''),
+  'wen': ('https://en.wikipedia.org/wiki/%s', ''),
+  'ffaddonfr': ('https://addons.mozilla.org/fr/firefox/addon/%s', ''),
+  'ffaddonen': ('https://addons.mozilla.org/en-us/firefox/addon/%s', ''),
+  'stpkg': ('https://packagecontrol.io/packages/%s', ''),
+}
+# Demo on avoir.html / avoir.rst (works very well)
+
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.
@@ -121,6 +135,17 @@ templates_path = ['.templates']
 
 # The suffix of source filenames.
 source_suffix = u'.rst'
+
+# The recommonmark Sphinx extension adds support for Markdown files
+# https://github.com/rtfd/recommonmark (and it works very well)
+try:
+  from recommonmark.parser import CommonMarkParser
+  source_parsers = {
+    '.md': CommonMarkParser,  # README.md is the only concerned file
+  }
+  source_suffix = [u'.rst', u'.md']
+except ImportError:
+  print("recommonmark.parser.CommonMarkParser was not found.\nrecommonmark can be installed with 'pip install recommonmark' (from https://github.com/rtfd/recommonmark)")
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -131,14 +156,14 @@ master_doc = 'index.fr'
 # General information about the project.
 author = u'Lilian Besson'
 project = u'Lilian Besson on the web'
-copyright = u'2011-2015, ' + author
+copyright = u'2011 - 2015, ' + author
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '2.4'
+version = '2.5'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -157,7 +182,7 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build', '.git', 'scripts', 'blog', 'whatsnew.fr.rst', 'whatsnew.en.rst']
+exclude_patterns = ['.build', '.git', '.static/mathjax', 'scripts', 'whatsnew.fr.rst', 'whatsnew.en.rst']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -215,7 +240,7 @@ html_short_title = u"Lilian Besson"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = [ '.static' ]
-# , tinkerer.paths.static ] ## FIXME add this to use tinkerer
+# , tinkerer.paths.static ] ## XXX add this to use tinkerer
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -300,7 +325,6 @@ tagline = 'Contenu de la variable conf.py::tagline !'
 description = 'Un test de blog avec Tinkerer'
 
 # Change this to your blog root URL (required for RSS feed)
-# FIXME
 website = 'http://perso.crans.org/besson/'
 
 

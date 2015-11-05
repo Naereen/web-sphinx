@@ -151,6 +151,7 @@ For more details, see `<sitemap.en.html>`_.
    top10.en
    hitch-hiking.en
    packing.en
+   README
    mount-a-wubi-disk-as-an-iso-on-ubuntu.en
    trademarks
    demo

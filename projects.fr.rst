@@ -339,8 +339,6 @@ Autres liens externes
    d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/sublimetext.fr.html>`_).
    Je ne suis pas l'auteur du code pour le menu latéral, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
-#. `<http://naereen.tk>`_ et `<http://lbesson.tk>`_ (avec ``dot.tk``, un autre service gratuit).
-
 .. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.
 
 .. sidebar:: À propos de Naereen

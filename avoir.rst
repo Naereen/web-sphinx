@@ -4,21 +4,39 @@
 .. include:: .special.rst
 .. include:: .javascript.rst
 
+.. note:: Page de démos (faites et à faire)
+
+    Cette page est là pour montrer quelques démos supplémentaires à propos de Sphinx.
+
+Quelques idées ou démos
+-----------------------
+Liens externes
+^^^^^^^^^^^^^^
+L'extension `sphinx.ext.extlinks <http://sphinx-doc.org/ext/extlinks.html#confval-extlinks>`_ permet de définir des rôles `rST <demo.html>`_ pour rapidement insérer un lien externe.
+Quelques exemples des alias `définis dans mon conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-120>`_ :
+
+- ``:issue:`1``` donnera ce lien :issue:`1` (bug signalé via Bitbucket).
+- ``:wfr:`Grim_Dawn``` donnera ce lien :wfr:`Grim_Dawn` (Wikipédia en français).
+- ``:wen:`Grim_Dawn``` donnera ce lien :wen:`Grim_Dawn` (Wikipédia en français).
+- ``:ffaddonfr:`nosquint``` donnera ce lien :ffaddonfr:`nosquint` (page d'un `greffon pour Firefox <firefox-extensions.fr.html>`_ en français).
+- ``:ffaddonen:`nosquint``` donnera ce lien :ffaddonen:`nosquint` (page d'un `greffon pour Firefox`_ en anglais).
+- ``:stpkg:`GitGutter``` donnera ce lien :stpkg:`GitGutter`.
+
 Meilleur thème ?
-----------------
+^^^^^^^^^^^^^^^^
 * `Read-the-doc <https://github.com/snide/sphinx_rtd_theme>`_ semble le mieux !
 * `SphinxTrab <http://jfardello.github.io/Sphinxtrap>`_ semble intéressant.
 * `Basicstrap <https://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
 * `Sphinx-bootstrap-theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/>`_ idem.
 
 Réduire les dépendances inutiles
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * Enlever `<python-doc/>`_,
 * Enlever `<gnuplot_embed.html>`_ ?
 
 Une extension Sphinx pour Youtube
----------------------------------
-Voici, par exemple, la première vidéo du `concert de Jill-Jênn <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ :
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Voici, par exemple, la première vidéo du `concert du Trio ELM <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ donné à l'ENS Cachan en 2014 :
 
 .. youtube:: http://www.youtube.com/watch?v=45Ms9-t-Pr4&list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb&index=2
 
@@ -83,7 +101,7 @@ Affiche des dates avec un ``<abbr class="timeago">`` :
 
 .. raw:: html
 
-   Fin des écrits de l'ENS en MP\* : <abbr class="timeago" title="2011-05-10T11:24:17Z">10 Mai 2011</abbr>.
+   Fin des écrits de l'ENS en MP* : <abbr class="timeago" title="2011-05-10T11:24:17Z">10 Mai 2011</abbr>.
 
 
 Valideurs CSS et HTML
@@ -132,20 +150,16 @@ peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphin
 
 .. git_changelog::
 
-
 ``sphinx_pyreverse``
 ^^^^^^^^^^^^^^^^^^^^
-
 .. uml:: scripts/python/lib/python2.7/json
 
 
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Un signalement d'erreur via bitbucket :bbissue:`1`.
-
- Et une modification, indiquée via son hash long
- (822ba395fceeac8e8a2a25b571503ec790e4fe35)
- :bbchangeset:`822ba395fceeac8e8a2a25b571503ec790e4fe35`.
+- Un signalement d'erreur via bitbucket :bbissue:`1`.
+- Et une modification, indiquée via son hash long (``822ba395fceeac8e8a2a25b571503ec790e4fe35``)
+  :bbchangeset:`822ba395fceeac8e8a2a25b571503ec790e4fe35`.
 
 ------------------------------------------------------------------------------
 
@@ -165,23 +179,5 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 .. runblock:: console
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
-
-
-« Shortest URL on earth »
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Voir par exemple `❥.ws/fb.lbesson <http://❥.ws/fb.lbesson>`_ qui pointe vers une page facebook.
-Ou `➞.ws/mec.lbesson <http://➞.ws/mec.lbesson>`_ qui pointe vers `mon profil sur la page web de Mahindra Ecole Centrale <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
-
-Oui, les noms de domaine sont bien "❥.ws" et "➞.ws", vous avez bien lu. Fou non ?
-
-.. warning:: Problème d'affichage ?
-
-   Si rien ne s'affiche entre le '"' et le '.', si vous voyez ".ws",
-   votre navigateur a sûrement un problème d'encodage.
-   Vous pouvez par exemple consulter :
-
-    #. `l'aide Unicode sur Wikipédia <https://fr.wikipedia.org/wiki/Aide:Unicode>`_,
-    #. et `la page de test associée <https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Unicode/Test>`_.
-
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
