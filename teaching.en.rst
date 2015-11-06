@@ -13,13 +13,18 @@ Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
 Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
- - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ and `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_ of course).
- - and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`my class is based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2h/week). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `github.com/prakhar1989/Algorithms <https://github.com/prakhar1989/Algorithms>`_.
+- an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ and `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_ of course).
+- and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2h/week). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
+.. seealso:: Complete solutions
 
-.. note:: Replacement in BCPST-1 (1st year biology prep'school)
+   I am keeping these `solutions to the algorithmic problems <infoMP/TDs/solutions/>`_ and `solutions to the programmation problems <infoMP/TPs/solutions/>`_ up-to-date.
 
-   Between November 2015 and February 2016, I will also give one weekly hour of oral exam (in maths) for a class of `BCPST <http://prepas.org/ups.php?article=43>`_ prep school.
+.. note:: Replacement in BCPST-2A (2nd year biology prep'school)
+
+   Between November 2015 and February 2016, I will also give one weekly hour of oral exam (in maths) for a class of `BCPST 2 <http://prepas.org/ups.php?article=43>`_ prep school.
+
+:Total: For the scholar year 2015-16, I evaluate my teaching load to be **about 80 hours** (number of hours teaching to a group of students, or in charge of a practical session or an oral exam).
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -31,6 +36,8 @@ First semester of 2015
   2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
   3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
 
+  .. todo:: Add examples of TP and exams.
+
 :Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs <https://www.readthedocs.org>`_.
 
 :Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 50 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
@@ -39,7 +46,7 @@ First semester of 2015
 
 - `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
 
-.. todo:: More details on MA102, and external/internal links (Moodle, slides, etc).
+  .. todo:: More details on MA102, and external/internal links (Moodle, slides, etc).
 
 - I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.org/en/latest/>`_ (*work in progress*).
 
@@ -53,7 +60,7 @@ Second semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
-.. todo:: More details on MA101, and external/internal links (Moodle, slides, etc).
+  .. todo:: More details on MA101, and external/internal links (Moodle, slides, etc).
 
 :Total 1: For the second semester of 2014, I evaluated my teaching load to be **about 110 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
@@ -62,13 +69,13 @@ Second semester of 2014
 First semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^
 - Regularly grading exam answer scripts @ `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_ (exam answer scripts of high-school students, in mathematics).
-- Occasionally helping high-school students and in charge of oral exams (at the level of Baccalauréat).
+- Occasionally helping high-school students and in charge of oral exams (at the level of Baccalauréat), with the `"Cours Thalès" organization <http://www.cours-thales.fr/>`_.
 
 .. note:: In 2014
 
-   I also got admitted to the French national competitive exam for becoming a prep' school professor (*agrégation*) in mathematics (major in maths, minor in CS).
+   I also got admitted to the French national competitive exam for becoming a prep' school professor (*"agrégation"*) in mathematics (with a major in maths, minor in CS).
 
-   For the two scholar years 2014-15 and 2015-16, I decided to postpone the beginning of my carrier as a professor in the French secondary education, in order to properly conclude my training at `École Normale Supérieure de Cachan (ENS of Cachan) <http://www.ens-cachan.fr/version-anglaise/>`_ (thanks to the choice "*fin de scolarité normalienne*").
+   For the two scholar years 2014-15 and 2015-16, I asked to postpone the beginning of my carrier as a professor in the French secondary education, in order to properly conclude my training at `École Normale Supérieure de Cachan (ENS of Cachan) <http://www.ens-cachan.fr/version-anglaise/>`_ (thanks to the choice *"fin de scolarité normalienne"*).
 
 ------------------------------------------------------------------------------
 
@@ -78,6 +85,6 @@ Between 2009 and 2013
 
 Before 2009 (high-school and before)
 ------------------------------------
-  I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also theater.
+  I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also *theater*.
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
