@@ -1,6 +1,6 @@
 .. meta::
-   :description lang=en: Precision on quoted trademarks on this web site
-   :description lang=fr: Quelques précisions sur les marques commerciales citées sur ce cite
+   :description lang=en: (old page) Precisions on quoted trademarks on this web site
+   :description lang=fr: (vieille page) Quelques précisions sur les marques commerciales citées sur ce cite
 
 ###########################################
  Precision about the quoted **trademarks**
@@ -9,7 +9,7 @@
 
 This page is written to clarify some *« legal »* points regarding my webpages.
 
-.. warning:: This page is old and :red:`NOT UP-TO-DATE` !
+.. warning:: This page is old and :red:`NOT UP-TO-DATE` at all!
 
 .. todo:: Keep it up-to-date!
 
@@ -193,7 +193,7 @@ So, I used the following software :
  * Ångström, for my mini ARM pc,
  * unblockyoutube.co, to test my web pages from an outsider point of view (*i.e.* without cookies),
  * Icon Converter, from `softicons.com <http://www.softicons.com/icon-tools/icon-converter>`_,
- * Ubuntu 11.10, Unity 4.30, Compiz 0.9.6 as the best OS, the best desktop manager and definitly the best window manager !
+ * Ubuntu 11.10 to Ubuntu 15.10 as the best OS,
  * htop, as a text mod for managing processes on my PCs,
  * vrun, a telnet command line client for VLC (thanks to Nit from the Crans association for this one),
  * `doc.ubuntu-fr.org <http://doc.ubuntu-fr.org>`_ as a constant and almost perfect source of inspirations,
@@ -216,7 +216,5 @@ So, I used the following software :
  * and many others...
 
 ------------------------------------------------------------------------------
-
- Merci de m'avoir lu jusqu'au bout !
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

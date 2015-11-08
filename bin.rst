@@ -11,7 +11,7 @@
 --------
 .. note:: Nouveau dépôt git :
 
-    Tous mes scripts et petits programmes sont de nouveau publiquement disponibles sur le tout neuf
+    Tous mes scripts et petits programmes sont publiquement disponibles sur
     `bin.git <https://bitbucket.org/lbesson/bin/>`_ (ou plus d'informations ici `README.html <bin/README.html>`_).
 
 
@@ -23,17 +23,17 @@ Ce dossier contient un certain nombre de petits logiciels, scripts ou autres uti
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
 
-
 ------------------------------------------------------------------------------
 
 .. warning:: Uniquement sur Ubuntu
 
-   Attention: ces scripts sont écrits pour ma machine (Ubuntu 14.10.1),
+   Attention: ces scripts sont écrits pour ma machine ((X)Ubuntu 15.10),
    et donc ne sont testés que sur cette plateforme.
    La plupart peuvent fonctionner ailleurs, mais je ne pourrais être responsable
    d'un quelconque dysfonctionnement dû à l'un de ces scripts.
 
-   Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_.
+   Notamment, ces scripts peuvent aussi fonctionner sous Windows, avec `cygwin <https://www.cygwin.org/>`_,
+   et sous Mac OS X avec Bash.
 
 
 GNU Bash
@@ -42,7 +42,7 @@ GNU Bash
 * `.bashrc <bin/.bashrc>`_,
   Profil pour GNU Bash.
 
-  :État: *Terminé*, mais toujours en amélioration.
+  :État: *Terminé*.
 
 
 * `.bash_aliases <bin/.bash_aliases>`_,
@@ -57,7 +57,7 @@ Liste des scripts
 
 .. note:: Contribuer ?
 
-    Tous ces scripts fonctionnent normalement correctement sur ma machine (Ubuntu 14.10.1, GNU Bash v4.2).
+    Tous ces scripts fonctionnent normalement correctement sur ma machine ((X)Ubuntu 15.10, GNU Bash v4.2).
     Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
     voir même échouent complètement.
     **Tout retour d'utilisation est le bienvenu**.
@@ -106,7 +106,7 @@ Wrapper colorant la sortie de commandes courantes
 Gallerie photo et lecteur de musique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `generateglisse.sh <bin/generateglisse.sh>`_ (aller voir un démo `<generateglisse.sh/>`_ ici),
+* `generateglisse.sh <bin/generateglisse.sh>`_ (une démo ? `<generateglisse.sh/>`_ ici),
   est un script pour générer de jolies galeries photo.
   Utilise des fichiers disponibles dans le dossier `<bin/generateglisse/>`_.
   Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
@@ -115,13 +115,13 @@ Gallerie photo et lecteur de musique
   :État: *Super*
 
 
-* `generatejplayer.sh <bin/generatejplayer.sh>`_ (aller voir un démo `<generatejplayer.sh/>`_ ici),
+* `generatejplayer.sh <bin/generatejplayer.sh>`_ (une démo ? `<generatejplayer.sh/>`_ ici),
   est un script pour générer de superbes playlist pour un dossier contenant des mp3.
   Utilise des fichiers disponibles dans le dossier `<bin/generatejplayer/>`_.
   Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
   (ou n'importe quel dossier dans votre *$PATH*).
 
-  :État: *Presque parfait* (toujours quelques bugs sur certains caractères spéciaux dans les URLs, supporte juste les .mp3)
+  :État: *Sympa* (toujours quelques bugs sur certains caractères spéciaux dans les URLs, supporte juste les mp3)
 
 
 Utilitaires divers
@@ -155,22 +155,16 @@ Utilitaires divers
   :État: *Parfait*.
 
 
-* `proxy.sh <bin/proxy.sh>`_,
-  un script pour lancer un serveur *SOCKS* facilement, avec une machine locale du réseau (interne) du `crans <https://www.crans.org>`_.
-
-  :État: *Parfait*.
-
-
 * `PDFCompress <bin/PDFCompress>`_,
   un script pour automatiquement signer, compresser, ou encore changer les méta-données d'un ou plusieurs document(s) PDF, en ligne de commande.
   Très utile, notamment avant d'envoyer des PDFs sur un serveur web ou par courriels.
-  Selon le type de *PDF*, l'efficacité de la compression varie de 5% a 400% !
+  Selon le type de *PDF*, l'efficacité de la compression varie de 5% *à 400%* !
 
   J'ai enfin ajouté une vérification de l'efficacité de la compression,
   et il *arrive* que le *PDF* produit soit PLUS lourd qu'avant. Dans ce cas, pas de soucis,
-  il suffit de l'échanger avec l'ancienne version (conservée dans */tmp/*).
+  il suffit de l'échanger avec l'ancienne version (conservée dans ``/tmp/``).
 
-  :red:`Il est désormais muni d'un fichier de bash completion,` `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
+  Il est désormais muni d'un fichier de bash completion, `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_, avec mon bashrc, il suffit de l'inclure dans ``~/.bash_completion.d``. Sinon, il suffit de l'inclure dans ``/etc/bash_completion.d/``.
 
   :État: *Stable et efficace*.
 
@@ -184,9 +178,9 @@ Utilitaires divers
 
 
 * `pytorst.sh <bin/pytorst.sh>`_,
-  un script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
+  un (vieux) script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
 
-  :État: *Terminé*.
+  :État: *Terminé*. Note : ``sphinx-apidoc`` ou ``sphinx-autogen`` font pareil, en mieux.
 
 
 * `obscureemail.sh <bin/obscureemail.sh>`_,
@@ -238,7 +232,7 @@ Utilitaires divers
   (utilise ``mutt`` et mes fichiers de conf' présents dans `<publis/muttrc/>`_)
   en lisant le modèle de mail `randomgifts.template.txt <bin/randomgifts.template.txt>`_.
 
-  :État: *Trop badass* mais quand même assez expérimental.
+  :État: *Trop badass* mais quand même assez expérimental. `Ce site fait pareil mais en mieux <https://secretsantagenerator.net/pages/about>`_.
 
 
 Quelques scripts pour jouer avec des citations
@@ -303,7 +297,7 @@ Pour améliorer certains toplevels
   Fonctionne encore mieux avec cette liste de mots-clés (qui permet d'avoir une tab-complétion) :
   `keyword_mocaml_rlwrap.txt <bin/keyword_mocaml_rlwrap.txt>`_ à sauvegarder dans votre *$HOME*.
 
-  :État: *Superbe*.
+  :État: *Fonctionne*.
 
 
 * Dans le même genre, `iocaml <bin/iocaml>`_ et `ocm <bin/ocm>`_
@@ -312,8 +306,8 @@ Pour améliorer certains toplevels
   :État: *Plutôt expérimental*.
 
 
-* `.octave.sh <bin/.octave.sh>`_,
-  un script pour mieux utiliser ``GNU Octave``.
+* `octave <bin/octave>`_ et `octave-gui <bin/octave-gui>`_,
+  deux scripts pour mieux utiliser ``GNU Octave``.
 
   :État: *Terminé*.
 
@@ -327,16 +321,10 @@ Pour améliorer certains toplevels
 * `.ocamlinit <bin/.ocamlinit>`_,
   fichier d'initialisation ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
 
-  :État: *Inintéressant*.
+  :État: *Nul*.
 
 
 Manipuler l'état de l'ordinateur (volume, batterie, ..)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `Battery.sh <bin/Battery.sh>`_,
-  un script pour récupérer les informations sur la batterie de votre ordinateur.
-
-  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,

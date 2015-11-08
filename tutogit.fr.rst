@@ -48,7 +48,7 @@ Entièrement libre et gratuit depuis 2005, il est rapidement devenu le système 
 
 « `git`_ *permet donc notamment de retrouver les différentes versions d'un lot de fichiers connexes. Il permet aussi un contrôle efficace et sécurisé de certains fichiers (ou même de projets entiers), ainsi qu'un excellent suivi des modifications effectuées sur chaque fichiers.* »
 
-Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux ((X)Ubuntu™ 15.04), et de temps en temps sur Windows™.
+Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux ((X)Ubuntu™ 15.10), et de temps en temps sur Windows™.
 
 
 Est-ce vraiment si populaire ?

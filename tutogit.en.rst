@@ -47,7 +47,7 @@ What's the point?
 
 « `git`_ *allows notably to find all the previous versions of a lot of related files. It also allows an effective and secure control of your files (and even of entire projects) and also provide a complete track changes made ​​to each file.* »
 
-Needless to say, `I am using git constantly <https://bitbucket.org/lbesson/>`_, mainly when I work on Linux ((X)Ubuntu™ 15.04) on a daily basis, and from time to time on Windows™.
+Needless to say, `I am using git constantly <https://bitbucket.org/lbesson/>`_, mainly when I work on Linux ((X)Ubuntu™ 15.10) on a daily basis, and from time to time on Windows™.
 
 
 Is it really so popular?

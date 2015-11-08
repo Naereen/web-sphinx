@@ -26,7 +26,7 @@
   <!-- BETA responsive -->
   <meta name="viewport" content="width=device-width, maximum-scale=1.5, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
-  <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking,teaching,India,Hyderabad,Mahindra,Ecole Centrale,Mahindra Ecole Centrale,MEC,ECP,Ecole Centrale Paris,Spyder,CS101,MA101,MA102,jarvis,IPython,Professor,Professeur,Teacher,Teaching assistant,Enseignement,Enseignant" />
+  <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking,teaching,India,Hyderabad,Mahindra,Ecole Centrale,Mahindra Ecole Centrale,MEC,ECP,Ecole Centrale Paris,Spyder,CS101,MA101,MA102,jarvis,IPython,Professor,Professeur,Teacher,Teaching assistant,Enseignement,Enseignant,Colles,TP,TD,Lakanal,MP,Prépa" />
   <!-- RSS workflow (from besson.qc.to) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://besson.qc.to/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
@@ -191,7 +191,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +" - <b>h</b> : affiche <i>ce message d'aide</i>,</br>\n"
 +" - <b>i</b> : retourne à l'index,</br>\n"
 +" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut),</br>\n"
-+" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
++" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
 {% if prev %}+" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"{{ prev.link|e }}\">page précédente</a>,</br>\n"{% endif %}
 {% if next %}+" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
@@ -203,15 +203,15 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "06 11 2015, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "06";
+   var last_updated_value = "{{ last_updated }}" || "08 11 2015, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "08";
     var month = last_updated_value.substring(3,  6 ) || "11"; // FIXME convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2015";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";
     var secs  = last_updated_value.substring(21, 23) || "00";
    alert(" Cette page a été générée le " + last_updated_value
-    + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00") + "</b>"
+    + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+01:00") + "</b>"
     + ".</br></br>\n© Lilian BESSON 2011-2015.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
   Mousetrap.bind(["q"], function(){
@@ -240,8 +240,8 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" />
 </noscript>
 <div class="supportBadges"><ul>
-<li><a class="image-reference" title="Tested on Firefox v41.0 and elinks v0.12pre6" href="http://www.mozilla.org/en-US/firefox/all/">
- <img alt="Tested on Firefox v41.0 and elinks v0.12pre6"
+<li><a class="image-reference" title="Tested on Firefox v42.0 and elinks v0.12pre6" href="http://www.mozilla.org/en-US/firefox/all/">
+ <img alt="Tested on Firefox v42.0 and elinks v0.12pre6"
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Uses Google Analytics" href="https://www.google.com/analytics/">
@@ -256,20 +256,20 @@ Cette page utilise <a href="http://analytics.google.com/">Google Analytics</a>
  <img alt="These pages are an Open Source project, released with the GPLv3 License"
       src="{{ pathto('_images/.opensource_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Python v2.7.9 powered :)" href="https://www.python.org/download/">
- <img alt="Python v2.7.9 powered :)"
+<li><a class="image-reference" title="Python v2.7.10 powered :)" href="https://www.python.org/download/">
+ <img alt="Python v2.7.10 powered :)"
       src="{{ pathto('_images/.python_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Made with Sphinx v1.4a0+" href="http://sphinx-doc.org/install.html">
  <img alt="Made with Sphinx v1.4a0+"
       src="{{ pathto('_images/.sphinx_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Made on Ubuntu 15.04" href="http://www.ubuntu.com/about/about-ubuntu">
- <img alt="Made on Ubuntu 15.04"
+<li><a class="image-reference" title="Made on (X)Ubuntu 15.10" href="http://www.ubuntu.com/about/about-ubuntu">
+ <img alt="Made on (X)Ubuntu 15.10"
       src="{{ pathto('_images/.ubuntu_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Source code hosted on bitbucket.org, managed with Git v2.1.4" href="https://bitbucket.org/lbesson/web-sphinx/" >
- <img alt="Source code hosted on bitbucket.org, managed with Git v2.1.4"
+<li><a class="image-reference" title="Source code hosted on bitbucket.org, managed with Git v2.5" href="https://bitbucket.org/lbesson/web-sphinx/" >
+ <img alt="Source code hosted on bitbucket.org, managed with Git v2.5"
       src="{{ pathto('_images/.git_80_15.png', true)|e }}"
       style="width: 36.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Powered by MathJax v2.5.0" href="http://www.mathjax.org">
