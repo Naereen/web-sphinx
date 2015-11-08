@@ -77,14 +77,14 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh zapdos | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+      $ ~/bin/wa_nocolor.sh pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90 | sed 's/\\#/#/g'
 
 #. Allez, un dernier exemple, on demande `le cours actuel <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ de la `roupie indienne <https://fr.wikipedia.org/wiki/Roupie_indienne>`_ :
 
    .. runblock:: console
 
-      $  LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "^rupee.*$" | sed s/"^rupee"/""/ )." ; echo "==> Yes, the Euro is decreasing and the Indian Roupie is increasing... :("
+      $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
+      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "^rupee.*$" | sed s/"^rupee"/""/ )."
 
 
 Attention
@@ -98,7 +98,7 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
 ----------------------------------------------------------
  La page principale est `github.com/cldwalker/wolf <https://github.com/cldwalker/wolf>`_.
 
- Il s'agit d'un client **en ligne de commande** pour l'outil Wolfram Alpha.
+ Il s'agit aussi d'un client **en ligne de commande** pour l'outil Wolfram Alpha.
 
 ``ruby1.9.1``
 ^^^^^^^^^^^^^
@@ -108,6 +108,11 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
  .. code-block:: bash
 
     sudo apt-get install ruby1.9.1 ruby1.9.1-dev
+
+.. warning:: Ruby 1.9.1 n'est plus disponible dès Ubuntu 15.10 !
+
+   Je ne peux donc plus tester les exemples d'utilisation de wolf inclus ci-dessous, désolé.
+
 
 ``nokogiri``
 ^^^^^^^^^^^^
@@ -130,7 +135,7 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
 
  .. code-block:: bash
 
-    # Attention: là ça change du tutoriel officiel
+    # Attention : là ça change du tutoriel officiel
     sudo gem1.9.1 install nokogiri
 
 wolf
@@ -184,13 +189,13 @@ Exemples : directement embarqués ?
 
  .. runblock:: console
 
-    $ wolf 0+0
+    $ /home/lilian/bin/wolf 0+0
 
 Un premier exemple
 ^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ wolf "distance Paris Hyderabad"
+    $ /home/lilian/bin/wolf "distance Paris Hyderabad"
 
 ------------------------------------------------------------------------------
 
@@ -201,7 +206,7 @@ Résoudre une équation
 ^^^^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ wolf "x^3 - sinx = e^-x"
+    $ /home/lilian/bin/wolf "x^3 - sinx = e^-x"
 
 Base de données de pokémon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -209,7 +214,7 @@ Base de données de pokémon
 
  .. runblock:: console
 
-    $ wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/ | fold -s -w 90
+    $ /home/lilian/bin/wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/ | fold -s -w 90
 
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
@@ -234,14 +239,15 @@ Faiblesse de cette méthode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
  Une première faiblesse de ``.. runblock:: console`` pour exécuter ``wolf question``
  est la limitation à des caractères ASCII imposée par l'extension `runblock
- <runblock.html>`_ (limitation déjà signalée dans cette page, où je suis forcé
+ <runblock.html>`_ (limitation déjà signalée dans `cette page <runblock.html>`_, où je suis forcé
  de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
 
-Un extension ?
-^^^^^^^^^^^^^^
+Une extension ?
+^^^^^^^^^^^^^^^
  On pourrait envisager de faire une extension Sphinx qui,
  comme `gnuplot <gnuplot_embed.html>`_, permettrait d'embarquer
  des graphiques et des tableaux produits par *Wolfram|Alpha*.
+ J'ai la flemme.
 
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

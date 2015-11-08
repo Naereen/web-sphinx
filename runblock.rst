@@ -161,4 +161,15 @@ N'affiche plus ces messages inutiles, mais plus de coloration syntaxique. Zut !
     # print_int (f 11);;
     # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
+------
+
+Bug étrange de pygments
+^^^^^^^^^^^^^^^^^^^^^^^
+J'ai des fois vu pygments ou pygmentize se casser complètement, et la correction que je fais manuellement est
+de supprimer le support (annoncé comme expérimental) de ``pkg_resources``
+dans le fichier `plugin.py <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_,
+en forçant manuellement ``pkg_resources = None``
+(`à la ligne 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
+:red:`C'est sale` mais ça corrige le bug...
+
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
