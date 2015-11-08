@@ -123,7 +123,7 @@ Et la même en plus gros :
 
 Des ajouts
 ~~~~~~~~~~
-Dans le fichier `conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py>`_,
+Dans le fichier `conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-101>`_,
 on peut facilement créer des raccourcis pour faciliter l'unilisation de cette extension **runblock**.
 
 Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages``.
@@ -132,36 +132,27 @@ Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages``.
 
    autorun_languages = {}
 
-Et ensuite ajouter une valeur 'truc' (commande shell) et 'truc_prefix_chars' (taille des préfixes)
-pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en *rST*.
+Et ensuite ajouter une valeur ``truc`` (un programme valide, comme `gnuplot <gnuplot.html>`_ ou `ocaml <ocaml.html>`_)
+et ``truc_prefix_chars`` (taille des préfixes)
+pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en *rST* :
 
 .. code-block:: python
 
-    autorun_languages['ocaml'] = u'ocaml -init /dev/null'
-    autorun_languages['ocaml_prefix_chars'] = 2
+   # Ajouter ça dans votre conf.py
+   autorun_languages['ocaml'] = u'ocaml -stdin'
+   autorun_languages['ocaml_prefix_chars'] = 2
 
 ocaml
 ^^^^^
-Affiche le message de bienvenue et les ": unit = ()". Plutôt pénible.
+Avec cette astuce, il n'affiche plus ces messages inutiles : victoire !
 
 .. runblock:: ocaml
 
-    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
-    # print_int (f 11);;
-    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
+   # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
+   # print_int (f 11);;
+   # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
-
-ocamlstdin
-^^^^^^^^^^
-N'affiche plus ces messages inutiles, mais plus de coloration syntaxique. Zut !
-
-.. runblock:: ocamlstdin
-
-    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
-    # print_int (f 11);;
-    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
-
-------
+------------------------------------------------------------------------------
 
 Bug étrange de pygments
 ^^^^^^^^^^^^^^^^^^^^^^^
