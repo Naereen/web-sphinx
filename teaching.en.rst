@@ -18,7 +18,7 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 
 .. seealso:: Complete solutions
 
-   I am keeping these `solutions to the algorithmic problems <infoMP/TDs/solutions/>`_ and `solutions to the programmation problems <infoMP/TPs/solutions/>`_ up-to-date.
+   I am keeping these `solutions to the algorithmic problems (written) <infoMP/TDs/solutions/>`_ and `solutions to the programming problems (implementation) <infoMP/TPs/solutions/>`_ up-to-date.
 
 .. note:: Replacement in BCPST-2A (2nd year biology prep'school)
 
