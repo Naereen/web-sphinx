@@ -59,10 +59,10 @@ Téléphone
 
 Pour essayer de m'avoir directement, **si c'est vraiment important**, veuillez utiliser mon numéro français (*attention au prix !*).
 
-.. warning:: Je suis actuellement à l'étranger, en Europe (en vacances !).
+.. .. warning:: Je suis actuellement à l'étranger, en Europe (en vacances !).
 
-   Les appels vers l'étranger coûtent cher !
-   Même recevoir des appels coûtent cher (pour moi) !!
+..    Les appels vers l'étranger coûtent cher !
+..    Même recevoir des appels coûtent cher (pour moi) !!
 
 
 Pour m'envoyer des messages textuels (SMS), idem (*attention au prix aussi !*).

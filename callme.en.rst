@@ -59,10 +59,10 @@ Regular phone
 
 To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number: (*but warning about the price!*).
 
-.. warning:: I am currently out of the French territory, in holidays in Europe.
+.. .. warning:: I am currently out of the French territory, in holidays in Europe.
 
-   Give a call to someone in a foreign country is expensive!
-   In fact, even receiving them is costly, so please avoid if possible.
+..    Give a call to someone in a foreign country is expensive!
+..    In fact, even receiving them is costly, so please avoid if possible.
 
 
 You could also try to send me text messages (SMS), with the same number, obviously (*again, but be aware of the price!*).
