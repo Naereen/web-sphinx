@@ -6,13 +6,18 @@
  Welcome!
 ##########
 .. include:: .special.rst
-Who am I?
----------
-Greetings! I am **Lilian Besson**, `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ (a *French* "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris, France).
+A few words about me
+--------------------
+Greetings!
+I am **Lilian Besson**, a `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_
+(a *French* "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris).
 
-This year (2015-16), I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
+This year (2015-16):
 
-I am also `teaching a little bit in maths and Computer Science <teaching.en.html#in-2015>`_ at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `numerical optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
+- I am also `teaching regularly in Maths. and Computer Science <teaching.en.html#in-2015>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*),
+at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 `Contact information <callme.fr.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

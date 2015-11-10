@@ -8,12 +8,15 @@
 .. include:: .special.rst
 À propos (de moi)
 -----------------
-Bonjour ! Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
-(une *grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
+Bonjour !
+Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (une *grande école* près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur).
 
-Cette année (2015-16), je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <http://scikit-learn.org/stable/>`_ et en `optimisation <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_ !
+Cette année (2015-16) :
 
-Je suis aussi `colleur en maths et chargé de TD en informatique <enseignement.fr.html#en-2015>`_ au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <http://scikit-learn.org/stable/>`_ et en `optimisation numérique <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_,
+- je suis aussi `colleur en maths et chargé de TD en informatique <enseignement.fr.html#en-2015>`_ en classe prépa' MP,
+au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 ------------------------------------------------------------------------------
 
