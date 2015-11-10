@@ -394,7 +394,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    embed
    sparkline
    plume-air-paris.fr
-   mount-a-wubi-disk-as-an-iso-on-ubuntu.fr
+   mount.fr
    vieprivee
    tutoweb
    A953

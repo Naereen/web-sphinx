@@ -153,7 +153,7 @@ For more details, see `<sitemap.en.html>`_.
    packing.en
    plume-air-paris.en
    README
-   mount-a-wubi-disk-as-an-iso-on-ubuntu.en
+   mount.en
    trademarks
    demo
    alaskabombeh.en
