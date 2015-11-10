@@ -17,7 +17,7 @@
 ------------------------------------------------------------------------------
 
 How to mount a ``.disk`` file on Ubuntu?
---------------------------------------
+----------------------------------------
 1. Create a **new** directory to serve as the mount location: ::
 
     sudo mkdir /media/mydisk

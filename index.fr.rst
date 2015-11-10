@@ -14,9 +14,10 @@ Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informat
 
 Cette année (2015-16) :
 
-- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <http://scikit-learn.org/stable/>`_ et en `optimisation numérique <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_,
-- je suis aussi `colleur en maths et chargé de TD en informatique <enseignement.fr.html#en-2015>`_ en classe prépa' MP,
+ - je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <http://scikit-learn.org/stable/>`_ et en `optimisation numérique <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_,
+ - je suis aussi `colleur en maths et chargé de TD en informatique <enseignement.fr.html#en-2015>`_ en classe prépa' MP,
 au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+
 
 ------------------------------------------------------------------------------
 
