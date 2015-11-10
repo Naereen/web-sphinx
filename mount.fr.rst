@@ -45,7 +45,6 @@ Comment monter un disque (fichier ``.disk``) sur Ubuntu ?
 .. note:: Deux références : `la page officielle de la documantation d'Ubuntu (en anglais) <https://help.ubuntu.com/community/Mount/USB>`_, ou `cette page sur AskUbuntu.com <http://askubuntu.com/a/193632>`_.
 
 
-If this fails, you can try to:
 Si cela a échoué, vous pouvez tenter de :
 
 1. Toujours tenter de redémarrer, ou se déconnecter/reconnecter, et réessayer (« `have you tried to turn it off and on again ? <https://www.youtube.com/watch?v=t2F1rFmyQmY>`_ »),
@@ -68,12 +67,5 @@ Enfin, on peut vérifier que le disque ait bien été monté avec ces commandes 
 
  mount  # donne des informations sur les disques montés
  df     # d'autres informations
-
-Par exemple :
-
-.. runblock:: console
-
-   $ mount
-   $ df
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
