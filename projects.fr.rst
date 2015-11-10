@@ -42,7 +42,7 @@ Cette année (2015-16), je prépare le `master MVA <http://www.math.ens-cachan.f
     voyager en France (ou en Europe, ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
     J'aime particulièrement utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
     comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
-    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
+    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.fr.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
@@ -206,10 +206,10 @@ Sa documentation est hébergée sur
 `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur
 `BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ plus de **2500 fois** !
+Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ plus de **3500 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
-*ou en là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
+*ou là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
 
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
@@ -235,7 +235,7 @@ J'ai eu **16.9/20** pour ce projet. *Et en plus, le jeu est sympa !*
    Tout marche parfaitement, sauf *une* erreur réseau que je n'arrive pas à trouver (j'ai abandonné après deux semaines infructueuses).
    L'erreur semble due à une différence de comportement entre Windows et Linux de la bibliothèque `socket <https://docs.python.org/2/library/socket.html>`_ pour Python 2 (cf `cette remarque <https://docs.python.org/2/library/socket.html#socket.socket.makefile>`_).
 
-   J'avais aussi écrit `un script cx_Freeze pour produire un exécutable Windows (.exe) <https://bitbucket.org/lbesson/mpri-bomberman/src/master/setup__cx_Freeze.py>`_ à partir de ce projet. (et cette partie là marche super bien)
+   J'avais aussi écrit `un script cx_Freeze pour produire un exécutable Windows (.exe) <https://bitbucket.org/lbesson/mpri-bomberman/src/master/setup__cx_Freeze.py>`_ à partir de ce projet (et cette partie là marche super bien).
 
 
 ------------------------------------------------------------------------------
@@ -393,6 +393,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    time
    embed
    sparkline
+   plume-air-paris.fr
    vieprivee
    tutoweb
    A953
@@ -401,6 +402,5 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    alaskabombeh.fr
    folders
    admin
-
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

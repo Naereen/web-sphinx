@@ -59,7 +59,7 @@ Studies and past jobs
 
    I like to walk, travel, go camping around France and Europe, mainly by using `hitch-hiking <autostop.en.html>`_.
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
-   (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Wolfram|Alpha <wolfram.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
+   (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.en.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
 
    **A few words about this site**:
@@ -151,6 +151,7 @@ For more details, see `<sitemap.en.html>`_.
    top10.en
    hitch-hiking.en
    packing.en
+   plume-air-paris.en
    README
    mount-a-wubi-disk-as-an-iso-on-ubuntu.en
    trademarks
