@@ -15,8 +15,8 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 
 This year (2015-16):
 
- - I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `numerical optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
- - I am also `teaching regularly in Maths. and Computer Science <teaching.en.html#in-2015>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `numerical optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
+- I am also `teaching regularly in Maths. and Computer Science <teaching.en.html#in-2015>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 
 `Contact information <callme.fr.html>`_
