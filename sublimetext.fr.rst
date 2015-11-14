@@ -10,15 +10,15 @@
 -----------
 À-propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
-Cette page est là pour décrire rapidement l'utilisation que je fais quotidiennement du génial **Sublime Text 3**, un `éditeur de texte <https://fr.wikipedia.org/wiki/Éditeur_de_texte>`_.
+Cette page est là pour décrire rapidement l'utilisation que je fais quotidiennement du génial **Sublime Text 3**, un `éditeur de texte <https://fr.wikipedia.org/wiki/Éditeur_de_texte>`_ multi-plateforme.
 
-.. note:: Qu'est-ce qu'un éditeur de texte ?
+.. note:: Qu'est-ce qu'un *éditeur de texte* ?
 
    « *Un éditeur de texte est un* `logiciel <https://fr.wikipedia.org/wiki/Logiciel>`_ *destiné à la création et l'édition de* `fichiers textes <https://fr.wikipedia.org/wiki/Fichier_texte>`_. »
 
    « *Son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.* »
 
-   Inutile de dire donc que `je m'en sers constamment <https://bitbucket.org/lbesson/>`_, principalement sous Linux (Ubuntu 15.10), et aussi sur Windows (7).
+   Inutile de dire donc que `je m'en sers constamment <https://wakatime.com/@lbesson/>`_, principalement sous Linux (Ubuntu 15.10), et aussi sur Windows (7).
 
    La page Wikipédia `sur les éditeurs de textes <https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte#Multi_plates-formes>`_ contient une liste des plus populaires éditeurs de texte multi plates-formes.
    Sublime Text est évidemment dans la liste, accompagné de `gedit <./publis/gedit/>`_, des deux légendaires Emacs et Vim, et de Komodo Edit notamment.
@@ -29,10 +29,13 @@ Cet article contient de rapides explications sur l'installation et l'utilisation
 ainsi qu'une liste des meilleurs plugins (aussi appelé `greffon <https://fr.wikipedia.org/wiki/Greffon_(informatique)>`_) que j'utilise avec ST3,
 des liens vers mes fichiers de configurations, et des remarques générales.
 
+ (Et *étrangement*, cette page est la page la plus consultée sur `mon site web <http://perso.crans.org/besson/>`_. Si besoin, `contactez moi <callme.fr.html>`_ si vous avez des suggestions pour améliorer cette page, ou juste dire merci si ça vous a été utile :) !)
+
+
 .. note:: Licence ?
 
    Cette page, et tous les fichiers liés, sont distribués *librement*, sous les termes de la `licence GPLv3 <LICENSE.html>`_ !
-   (comme tout ce que je publie ou distribue).
+   (comme tout ce que je publie ou distribue sur ce site).
 
 -----------------------------------------------------------------------
 
@@ -43,7 +46,7 @@ Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *
 
 .. warning:: Vivre dangereusement :) ?
 
-   Vous pouvez aussi essayer la version `3dev <http://www.sublimetext.com/3dev>`_, mise à jour plus souvent (mais elle n'est disponible que pour les utilisateurs enregistrés ie il vous faudra payer une licence -- ce n'est pas mon cas).
+   Vous pouvez aussi essayer la version `3dev <http://www.sublimetext.com/3dev>`_, mise à jour plus souvent (mais elle n'est disponible que pour les utilisateurs enregistrés, i.e. il vous faudra payer une licence -- ce n'est pas mon cas).
 
 
 Qu'est-ce que Sublime Text ?
@@ -217,7 +220,7 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé...
 * Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python.
 * `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
-* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (j'aime pas mais il est populaire).
+* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (je n'aime pas... mais il est populaire).
 * `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit vaut le coup !
 
 

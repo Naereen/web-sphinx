@@ -10,15 +10,15 @@ About...
 --------
 About this page
 ^^^^^^^^^^^^^^^
-This page is there to quickly describe how I use on a daily basis the awesome **Sublime Text 3**, a `text editor <https://en.wikipedia.org/wiki/Text_editor>`_.
+This page is there to quickly describe how I use on a daily basis the awesome **Sublime Text 3**, a multi-platform `text editor <https://en.wikipedia.org/wiki/Text_editor>`_.
 
-.. note:: What is a text editor?
+.. note:: What is a *text editor*?
 
    « *A text editor is a* `software <https://en.wikipedia.org/wiki/Software>`_ *for creating and editing* `text files <https://en.wikipedia.org/wiki/Text_files>`_. »
 
    « *Its use is common, even essential for some basic computing tasks such as system administration and software development..* »
 
-   Needless to say therefore that `I use it constantly <https://bitbucket.org/lbesson/>`_, mostly on Linux (Ubuntu 15.10), and on Windows (7).
+   Needless to say that `I use it constantly <https://wakatime.com/@lbesson/>`_, mostly on Linux (Ubuntu 15.10), and on Windows (7).
 
    The Wikipedia page `on text editors <https://en.wikipedia.org/wiki/Comparison_of_text_editors>`_ contains a list of the most popular publishers multi-platform text.
    Sublime Text is obviously on the list, along with `gedit <./publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
@@ -27,9 +27,12 @@ This page is there to quickly describe how I use on a daily basis the awesome **
 
 This article contains quick explanation of the installation and use of Sublime Text (2 or 3), and also a list of the best `plugins <https://en.wikipedia.org/wiki/Plugins>`_ that I use with ST3, links to my configuration files and general remarks.
 
-.. note:: Licence ?
+ (And *weirdly*, this page is one of the more popular of `my website <http://perso.crans.org/besson/>`_. Please `contact me <callme.en.html>`_ if you have any suggestion to improve it, or to say thanks if this page has been useful to you :) !)
 
-   This page, and all related files are freely distributed under the terms of the `licence GPLv3 <LICENSE.html>`_ ! (Like anything I publish or distribute).
+
+.. note:: Licence?
+
+   This page, and all related files are freely distributed under the terms of the `licence GPLv3 <LICENSE.html>`_ ! (Like anything else published or distributed on this website).
 
 -----------------------------------------------------------------------
 
