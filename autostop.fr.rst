@@ -14,7 +14,7 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
- J'estime 2200 + 150 + 1800 + 350 = 4500 kms pour l'instant.
+  J'estime mon total *à environ* 2200 + 150 + 1800 + 350 = **4500 kms pour l'instant**.
 
 En 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -22,17 +22,11 @@ Environ **2200 kms**, en France surtout, mais aussi un peu en Suisse, et pas mal
 
 En août 2015, durant mon séjour en Islande, j'ai poucé pour environ **600 kms**, sur 2 semaines :
 
-.. digraph:: aout151
+.. digraph:: aout15islande
 
-   "Keflavik (aéroport)" -> "Gardur" -> "Grindavik" -> "Selfoss";
-
-.. digraph:: aout152
-
-   "Hopn (à l'est)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik" -> "Skogar" -> "Landeyahopn";
-
-.. digraph:: aout153
-
-   "Landeyahopn" -> "Selfoss" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
+   "Keflavik (aéroport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
+   "Hopn (à l'est)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik" -> "Skogar" -> "Landeyahopn (arrivée)";
+   "Landeyahopn (départ)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
 
 
 En juillet 2015, j'ai fait un aller-retour Briançon - Avignon (dans la région PACA), pour environ deux fois 260 kms, soit **520 kms**.

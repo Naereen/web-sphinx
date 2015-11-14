@@ -193,9 +193,7 @@ slides:	.slides.sh
 	@echo "Build finished. The HTML5 + S5 slides are in $(BUILDDIR)/html."
 
 simplehtml: ./.rst2html_all.sh
-	-@mv -vf master.rst /tmp/
 	-./.rst2html_all.sh *.rst .*.rst
-	-@mv -vf /tmp/master.rst ./
 	-rm $(BUILDDIR)/simplehtml/admin.* $(BUILDDIR)/simplehtml/TODO.*
 
 # Deprecated

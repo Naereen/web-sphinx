@@ -16,7 +16,7 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
- An approximative computation gives 2200 + 150 + 1800 + 350 = 4500 kms as far as now.
+  An *approximative* computation gives 2200 + 150 + 1800 + 350 = **4500 kms as far as now**.
 
 In 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -24,17 +24,11 @@ About **2200 kms**, mainly in France, but also in Switzerland and in Iceland!
 
 In August 2015, I visited Iceland mainly by hitch-hiking, and I hitch-hiked about **600 kms**, during 2 weeks:
 
-.. digraph:: aug151
+.. digraph:: aug15island
 
-   "Keflavik (airport)" -> "Gardur" -> "Grindavik" -> "Selfoss";
-
-.. digraph:: aug152
-
-   "Hopn (in the East)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik (South)" -> "Skogar" -> "Landeyahopn";
-
-.. digraph:: aug153
-
-   "Landeyahopn" -> "Selfoss" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
+   "Keflavik (airport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
+   "Hopn (in the East)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik (South)" -> "Skogar" -> "Landeyahopn (arrival)";
+   "Landeyahopn (departure)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
 
 
 In July 2015, I went from Briançon to Avignon and the way back (in the PACA region), which is about 260 kms, twice, so **520 kms**.
