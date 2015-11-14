@@ -239,14 +239,14 @@ Autres expériences de recherche
 Projets de programmation en M1 (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * **MPRI Bomberman** : un jeu de ``Bomberman`` multi-joueur, avec un sémantique formelle et un protocole (*presque*) optimal et ouvert (MPRI cours 1-21.).
-   Disponible en ligne `ici sur BitBucket lbesson/mpri-bomberman
+   Disponible en ligne `ici sur Bitbucket lbesson/mpri-bomberman
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : un script et un module pour ``Python 2`` pour utiliser les couleurs en mode textuel dans un terminal.
    Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
    (près de 3000 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
-   Ou aussi `ici sur BitBucket lbesson/ansi-colors
+   Ou aussi `ici sur Bitbucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.
 

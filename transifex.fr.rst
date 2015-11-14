@@ -3,7 +3,7 @@
    :description lang=en: About the French translation of the web site bitbucket.org
 
 #############################
- Traduction de BitBucket.org
+ Traduction de Bitbucket.org
 #############################
 .. include:: .special.rst
 .. sidebar:: Autre langue : en anglais ?

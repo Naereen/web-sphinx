@@ -238,14 +238,14 @@ Other research experience
 MSc programming projects (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * **MPRI Bomberman** : a multiplayer Bomberman game with formal semantics and a open protocole (MPRI lecture 1-21.).
-   On-line `here on BitBucket lbesson/mpri-bomberman
+   On-line `here on Bitbucket lbesson/mpri-bomberman
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    or on thise web site `publis/Bomberman <publis/Bomberman/>`_.
 
  * **ANSI Colors** : a ``Python 2`` script and module to use colours in a terminal.
    Available for download on `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
    (about 3000 download by now, see here `download stats for May 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
-   Or also `here on BitBucket lbesson/ansi-colors
+   Or also `here on Bitbucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    or on thise web site `publis/ansi-colors/ <publis/ansi-colors/>`_.
 

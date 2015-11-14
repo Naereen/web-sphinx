@@ -171,7 +171,7 @@ Ces exemples sont là pour `le cours CS101 dont j'étais en charge à Mahindra E
 
 Deux tutoriels (11/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Deux petits articles, à propos de `Git et BitBucket <tutogit.fr.html>`_, et de `Sublime Text 3 <sublimetext.fr.html>`_.
+Deux petits articles, à propos de `Git et Bitbucket <tutogit.fr.html>`_, et de `Sublime Text 3 <sublimetext.fr.html>`_.
 
 StrapDown.js v0.5 (09/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -205,7 +205,7 @@ Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balis
 Sa documentation est hébergée sur
 `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur
-`BitBucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
+`Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ plus de **3500 fois** !
 *(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
 *et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
@@ -217,7 +217,7 @@ Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 J'ai fait le projet réseau du MPRI (cours 1-21) au premier semestre 2012/13 (Novembre-Février).
 Il s'agit d'un jeu de ``Bomberman``, en réseau, écrit en Python 2.7, avec un protocole
 formalisé, ouvert et optimal (enfin, *quasi*). *Et il marche super bien :)*
-Le projet est surtout hebergé sur **BitBucket**
+Le projet est surtout hebergé sur **Bitbucket**
 `ici lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman/>`_.
 Vous pouvez consulter la documentation de ce projet, réalisée automatiquement avec **Sphinx**,
 `ici publis/Bomberman/_build/html/ <publis/Bomberman/_build/html>`_.
