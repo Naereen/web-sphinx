@@ -177,13 +177,14 @@ Small customization plugins:
 
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ improves how opening and closing parentheses, and opening and closing tags are colored (``(``, ``[``, ``{``, ``<`` etc).
 * `Buffer​Scroll <https://packagecontrol.io/packages/Buffer​Scroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
-* `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ is simple but magical: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
-* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ a for multi-lingual spell-check  (English, French, ..).
+* `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ is simple but great: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
+* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ a for multi-lingual spell-check (English, French, ...).
 * The small `GitGutter <https://packagecontrol.io/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last committed version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
 * `Predawn <https://packagecontrol.io/packages/Predawn>`_ is an improved interface, very dark to `help you protect your eyes <bin/yeux.sh>`_ !
 * `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. Yeah, your text editor can *tell you the weather!*
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface `suitable for optimum productivity <https://github.com/TristanDeleu>`_.
+* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface suitable for optimum productivity and is cool with your eyes.
+* The `Seti UI <https://packagecontrol.io/packages/Seti_UI>`_ theme is also great, mainly for the awesome icons it adds to the side-bar!
 
 
 Plugins that add great features:
@@ -207,18 +208,18 @@ A better syntax coloring for some languages:
 * `Markdown Extended <https://packagecontrol.io/packages/MakeCommands>`_ is supposed to improve the syntax coloring for `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, lightweight markup language, designed for easy preparation of document. I use Markdown especially via my project `StrapDownJS`_ ! (See `an example <bin/>`_ ?)
 * `nginx <https://packagecontrol.io/packages/nginx>`_ improve the syntax coloring for config files for the `awesome NGinx web server <http://nginx.org/>`_.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). To be used with `these snippets for rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
-* `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language!
+* `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language! After testing a lot of them, it really is my favorite color theme!
 
 
 Heavier plugins, or plugins designed for a specific language:
 
  
-* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.4 and 3.5).
+* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.5 and 3.6).
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*...
 * The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python.
 * `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program (I do not like it).
-* `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents quite magical. It surely takes time to master its features, but I guess it's worth it!
+* `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents *quite magically*. It surely takes time to master its features, but I guess it's worth it!
 
 
 .. note:: Purely objective

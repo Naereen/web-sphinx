@@ -180,13 +180,14 @@ Petits greffons de personnalisation :
 
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
 * `Buffer​Scroll <https://packagecontrol.io/packages/Buffer​Scroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
-* `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais magique : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
-* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingues (anglais, français, ..).
+* `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais utile : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
+* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingue (anglais, français, ...).
 * `GitGutter <https://packagecontrol.io/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
 * `Predawn <https://packagecontrol.io/packages/Predawn>`_ est une amélioration de l'interface, très sombre pour `protéger ses yeux <bin/yeux.sh>`_ !
 * `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement `adaptée à une productivité optimale <https://github.com/TristanDeleu>`_.
+* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement adaptée à une productivité optimale et des yeux pas fatigués.
+* Le thème `Seti UI <https://packagecontrol.io/packages/Seti_UI>`_ est super aussi, il apporte de belles icônes pour la barre latérale notamment !
 
 
 Greffons ajoutant de super fonctionnalités :
@@ -211,17 +212,17 @@ Une meilleures colorations pour certains langages :
 * `nginx <https://packagecontrol.io/packages/nginx>`_ améliore la coloration des fichiers de configuration du `magnifique serveur web NGinx <http://nginx.org/>`_.
 * `OCaml <https://packagecontrol.io/packages/OCaml>`_ améliore la coloration pour `les langages caml-light et OCaml <ocaml.html>`_. À utiliser avec `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_ aussi.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ améliore bien la coloration du `reStructedText <demo.html>`_, le langage à balise utilisé par `Sphinx <http://sphinx-doc.org/>`_ et `la documentation officielle de Python <https://doc.python.org/2/>`_ (et donc pour cette page et `mon site <index.html>`_). À utiliser avec `ces snippets pour rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
-* `TWiki <https://packagecontrol.io/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait!
+* `TWiki <https://packagecontrol.io/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait ! C'est vraiment mon thème de couleur préféré.
 
 
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
-* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ améliore la coloration syntaxique pour Python (en prenant notamment en charge les changements des dernières versions 3.4 et 3.5).
+* `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ améliore la coloration syntaxique pour Python (en prenant notamment en charge les changements des dernières versions 3.5 et 3.6).
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé...
 * Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python.
 * `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (je n'aime pas... mais il est populaire).
-* `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon assez magique. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit vaut le coup !
+* `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon *assez magique*. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit valoir le coup !
 
 
 .. note:: Purement objective

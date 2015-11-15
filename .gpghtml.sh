@@ -41,6 +41,9 @@ GPG="gpg --detach-sign --armor --verbose --yes"
 LANG="en"
 BUILDDIR=".build"
 
+# Try to launch the gpg-agent daemon
+eval $(gpg-agent --daemon)
+
 for f in ${BUILDDIR}/html/*html; do
  ${GPG} "$f" 2>&1 | grep --color=always "gpg: writing to"
 done
