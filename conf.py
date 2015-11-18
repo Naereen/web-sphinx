@@ -54,12 +54,12 @@ extensions = [
 ######## Sphinx Spelling http://sphinxcontrib-spelling.readthedocs.org/en/latest/install.html
 	# 'sphinxcontrib.spelling',
 ####### From reportLab
-	'rst2pdf.pdfbuilder',
+	#'rst2pdf.pdfbuilder',
 ####### Change the order ?
 	'sphinx.ext.mathjax',
 #	'sphinxcontrib.email',
 ####### From Pokedex FIXME remove this old stuff
-    'pokedex.doc.tabledoc',
+  #'pokedex.doc.tabledoc',
 ####### New from pypi
 ####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
 	'sphinx_pyreverse', # .. uml:: path_to_module
@@ -274,12 +274,12 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':        ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html'], ##, 'validator.html'
-   '**.en':     ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html'], ##, 'validator.html'
-   'index.fr':  ['language-selector.html', 'linkpdf.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'relations.fr.html', 'globaltoc.html', ], ##, 'sidebar_gpg.fr.html', 'validator.html'
-   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'], ##, 'validator.html'
-   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'], ##, 'validator.html'
-   '**/*':      ['language-selector.html', 'linkpdf.en.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'sidebar_gpg.en.html'], ##, 'validator.html'
+   '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html'],
+   '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html'],
+   'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'globaltoc.html', ],  ##, 'sidebar_gpg.fr.html'
+   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
+   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'],
+   '**/*':      ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'sidebar_gpg.en.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
