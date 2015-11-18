@@ -157,6 +157,5 @@ For more details, see `<sitemap.en.html>`_.
    trademarks
    demo
    alaskabombeh.en
-   pokedex-doc/index
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
