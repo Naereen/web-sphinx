@@ -2,9 +2,9 @@
    :description lang=en: Lilian Besson's personal web page
    :description lang=fr: Page personnelle de Lilian Besson sur le web
 
-##########
- Projects
-##########
+############
+ Pages (EN)
+############
 .. include:: .special.rst
 Who am I?
 ---------

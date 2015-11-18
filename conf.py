@@ -182,7 +182,13 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build', '.git', '.static/mathjax', 'scripts', 'whatsnew.fr.rst', 'whatsnew.en.rst']
+exclude_patterns = [
+	'.build', '.git',  # Build and git
+	'.static/mathjax', 'scripts',  # Templates and scripts
+	'whatsnew.fr.rst', 'whatsnew.en.rst',  # Special files to not include
+	'pokedex-doc',  # Old stuff
+	# 'agreg-2014'    # New stuff
+]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None

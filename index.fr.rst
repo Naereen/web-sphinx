@@ -14,8 +14,8 @@ Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informat
 
 Cette année (2015-16) :
 
-- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <http://scikit-learn.org/stable/>`_ et en `optimisation numérique <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_,
-- je suis aussi `colleur en maths et chargé de TD en informatique <enseignement.fr.html#en-2015>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
+- je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 
 ------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ N'hésitez pas à me *contacter* :
 ^^^^^^^^^^^^^^^^
 * Entre mi-juillet 2014 et mi-mai 2015, **j'ai vécu et travaillé en Inde** deux semestres, `sur le campus <https://goo.gl/maps/CcL2c>`_ de la `toute nouvelle <http://goo.gl/0lecQw>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_. J'ai travaillé en tant que chargé de `Travaux Dirigés <https://fr.wikipedia.org/wiki/Travaux_dirig%C3%A9s>`_ en mathématiques (`MA101 <ma101/>`_ et `MA102 <ma102/>`_), et j'étais surtout en charge du cours d'*introduction à l'informatique* (`CS101 <cs101/>`_) pour le second semestre (janvier - mai 2015), `en tant que "Teaching Assistant" <http://web.archive.org/web/20150314101201/http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_.
 
-* En 2013/2014, j'ai `préparé <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/>`_ et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.universite-paris-saclay.fr/fr/formation/master/m2-formation-a-lenseignement-superieur-en-mathematiques-cachan>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (sur 295 admis, 785 admissibles, 1600 présents aux écrits et 3000 inscrits).
+* En 2013/2014, j'ai `préparé <http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/>`_ et obtenu un `Master de Formation des Enseignants du Supérieur <http://www.universite-paris-saclay.fr/fr/formation/master/m2-formation-a-lenseignement-superieur-en-mathematiques-cachan>`_ (**M2 FESup**) à l'ÉNS Cachan (avec mention *Très Bien*), ainsi que l'`agrégation de Mathématiques <https://fr.wikipedia.org/wiki/Agr%C3%A9gation_de_math%C3%A9matiques>`_, (en option "D" *informatique*), `classé 23ème <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_ (`mes développments et mes références sont là <agreg-2014/index.html>`_).
 
 * En 2012/2013, j'ai obtenu deux **M1** (première année de master): pour le `MPRI <https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=start>`_ (master de recherche en informatique de Paris),
   et le `master Hadamard de mathématiques fondamentales <http://www.math.ens-cachan.fr/version-francaise/formations/formation-en-mathematiques-de-l-ens-cachan-ex-magistere-/2eme-annee-le-m1-hadamard/>`_ de l'ÉNS de Cachan (les deux avec une mention *Bien*).
@@ -91,7 +91,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    callme.fr
    cv.fr
    enseignement.fr
-   projects.fr
+   Pages en français <projects.fr>
+   agreg-2014/index
    publis
    bin
    pgp
