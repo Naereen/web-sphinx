@@ -69,4 +69,10 @@ Finally check that the disk has been well mounted with: ::
  mount  # gives info about mounted disks
  df     # other info
 
+
+.. note::
+
+   This page is mainly here because I fail to remember these stupid commands...
+
+
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

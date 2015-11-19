@@ -64,10 +64,11 @@ For example, you can take a look at my `layout.html <https://bitbucket.org/lbess
 
 ------------------------------------------------------------------------------
 
-Other solutions (not tested)
-----------------------------
+Other solutions ?
+-----------------
+Sphinx has an extension for Google Analytics, see `on the list of extensions here <http://sphinx-doc.org/latest/develop.html#extensions>`_ (`this folder of the sphinx-contrib repository <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/googleanalytics/>`_).
+It's quick and simple, and working well, and for example I am using it for these two small Sphinx projects: `<infoMP/TPs/solution>`_ and `<infoMP/TDs/solution>`_.
 
-.. warning:: Still writting this section !
 
 .. seealso::
 

@@ -67,16 +67,17 @@ Pour un exemple, vous pouvez consulter le fichier *template* de ces pages,
 
 ------------------------------------------------------------------------------
 
-D'autres solutions (non testées)
---------------------------------
+D'autres solutions ?
+--------------------
+Sphinx propose une petite extension pour facilement ajouter le suivi Google Analytics, voir `sur cette liste <http://sphinx-doc.org/latest/develop.html#extensions>`_ (`dans ce dossier sur le dépôt de sphinx-contrib <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/googleanalytics/>`_).
+C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers sur ces deux petits projets Sphinx : `<infoMP/TPs/solution>`_ et `<infoMP/TDs/solution>`_.
+
 
 .. seealso::
 
    GA-Beacon (`<beacon.html>`_)
       Comment utiliser une image d'*une seule pixel* pour analyser les visites
       d'une page ou d'un courriel via Google Analytics.
-
-.. warning:: Toujours en rédaction !
 
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

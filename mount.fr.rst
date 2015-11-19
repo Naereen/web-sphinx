@@ -68,4 +68,10 @@ Enfin, on peut vérifier que le disque ait bien été monté avec ces commandes 
  mount  # donne des informations sur les disques montés
  df     # d'autres informations
 
+
+.. note::
+
+   Cette page est surtout là pour que je puisse facilement retrouver ces commandes que j'oublie facilement.
+
+
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/

@@ -63,9 +63,9 @@ Troisième, la fonction **sigmoïde** :math:`x \mapsto \frac{1}{1+\exp(-x)}`.
    ou la fonction ``signe``.
 
 
-.. warning:: Changement de GNU Plot 4.4 à 4.6.2
+.. warning:: Changement de GNU Plot 4.4 à 4.6.6
 
-   J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars,
+   J'ai mis à jour **GNU Plot** sur ma machine le mardi 26 mars 2014,
    et la nouvelle version semble avoir brisé la rétrocompatibilité,
    notamment le comportement de la commande ``replot``.
 
