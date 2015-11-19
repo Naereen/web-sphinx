@@ -34,6 +34,8 @@ Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lb
 - Site collaborativement construit : [http://agreg-cachan.fr/](http://agreg-cachan.fr),
 - Benjamin Dadoun : [site](http://benjamin.dadoun.free.fr/agreg.html), [PDF](http://benjamin.dadoun.free.fr/couplages.pdf),
 - Jill-Jênn Vie : [site](http://jill-jenn.net/agreg/index.html), [PDF](http://jill-jenn.net/_static/dog.pdf),
+- Loic Devilliers : [site](http://loic.devilliers.free.fr/agreg.html), [PDF](http://loic.devilliers.free.fr/devdedev.pdf),
+- Nicolas Martin : [site](http://nicolas.martin.ens.free.fr/),
 - Rémi Cheval : [site](http://www.podcast-science.com/category/agregation/developpements-algebre/).
 
 ## Pages d'autres classes de prépa agrég
