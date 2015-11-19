@@ -33,7 +33,7 @@ Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lb
 ## Pages sur l'agrégation d'anciens camarades
 - Site collaborativement construit : [http://agreg-cachan.fr/](http://agreg-cachan.fr),
 - Benjamin Dadoun : [site](http://benjamin.dadoun.free.fr/agreg.html), [PDF](http://benjamin.dadoun.free.fr/couplages.pdf),
-- Jill-Jênn Vie : [site](http://jill-jenn.net/agreg/index.html), [PDF](http://jill-jenn.net/_static/dog.pdf),
+- Jill-Jênn Vie : [site](http://jill-jenn.net/agreg/index.html), [PDF](http://jill-jenn.net/_static/dog.pdf), et [son script pour faire index et index inversé](https://bitbucket.org/jilljenn/agreg/src/default/guide/) (pas encore utilisé),
 - Loic Devilliers : [site](http://loic.devilliers.free.fr/agreg.html), [PDF](http://loic.devilliers.free.fr/devdedev.pdf),
 - Nicolas Martin : [site](http://nicolas.martin.ens.free.fr/),
 - Rémi Cheval : [site](http://www.podcast-science.com/category/agregation/developpements-algebre/).
