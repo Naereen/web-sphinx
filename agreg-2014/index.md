@@ -30,7 +30,7 @@ Ces trois listes couvrent tout le programme de mathématiques, et l'informatique
 - La [classe de préparation à l'agrégation de maths](www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/preparation-a-l-agregation-master-formation-a-l-enseignement-superieur-en-mathematiques-site-cachan--60805.kjsp) de l'ENS Cachan, c'est top !
 
 ## Licence d'utilisation ?
-Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lbesson.mit-licence.org/).
+Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lbesson.mit-license.org/).
 
   > Notamment : Vous pouvez imprimer les PDF, utiliser le code des pages HTML (c'est du [Markdown](http://daringfireball.net/projects/markdown/syntax.php) avec du LaTeX pour les maths, la bibliographie faite "à la main" avec des liens directs, et elles sont affichées avec [StrapDown.js](https://github.com/Naereen/StrapDown.js)).
 
