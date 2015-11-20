@@ -1,4 +1,4 @@
-# Agrégation de mathématiques (2014)
+# [Agrégation de mathématiques (2014)](http://perso.crans.org/besson/agreg-2014/)
 Ce dossier contient ma **liste de développements** (maths et info), et mes **références bibliographiques** pour [l'agrégation de mathématiques](http://agreg.org/), [option informatique](http://agreg-cachan.fr/info/).
 
 ----
@@ -20,7 +20,7 @@ Ces trois listes couvrent tout le programme de mathématiques, et l'informatique
 ### Modélisation (option D, info)
 - [Projet #1](http://perso.crans.org/besson/a/m/1/),
 - [Projet #2](http://perso.crans.org/besson/a/m/2/),
-- Corrections de textes pour l'épreuve de modélisation en option D (*attention* spoiler, duh).
+- (Bientôt) Corrections de tous les textes pour l'épreuve de modélisation en option D (*attention* spoiler, duh).
 
 > *À faire :* nettoyer ces corrections et les ajouter ici.
 
