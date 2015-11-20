@@ -10,7 +10,11 @@ Who am I?
 ---------
 Greetings! I am **Lilian Besson**, `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ (a *French* "Grande École" specialized in training researchers and professors for superior studies, located near Paris, in Cachan).
 
-This year (2015-16), I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied maths, mainly in `machine learning <http://scikit-learn.org/stable/>`_ and `optimization <http://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize>`_.
+This year (2015-16):
+
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
+- I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+
 
 `Contact information <callme.fr.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -36,11 +40,11 @@ Studies and past jobs
 ^^^^^^^^^^^^^^^^^^^^^
 .. include:: whatsnew.en.rst
 
-* From mid-July 2014 to mid-May 2015, I **lived and worked in India**, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
-  I was the first French faculty to work there full-time, and `I have been involved as a teaching assistant professor <http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of `mathematics <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the Computer Science CS101 course for the second semester!
+* From mid-July 2014 to mid-May 2015, I **lived and worked in India**, `on the campus <https://goo.gl/maps/CcL2c>`_ of the new `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (a new *Engineering College* born from a partnership between the `(Indian) Mahindra group <http://www.mahindra.com/>`_ and `(French) École Centrale de Paris <http://www.ecp.fr/>`_).
+  I was the first French faculty to work there full-time, and `I have been involved as a teaching assistant professor <http://web.archive.org/web/20150314101201/http://mahindraecolecentrale.edu.in/faculty.php?fid=26>`_, in charge of mathematics (`MA101 <./ma101/>`_ and `MA102 <./ma102/>`_) `tutorials <https://en.wikipedia.org/wiki/Tutorials#Tutorial_class>`_, and in charge of the `Computer Science CS101 course <./cs101/>`_ for the second semester!
 
 * In 2013/2014, I `prepared <http://www.universite-paris-saclay.fr/en/node/6477>`_ the (French) `agregation of Mathematics <http://agreg.org/>`_ exam
-  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23rd  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1200 persons registered in October 2013. I also did the second year of my **Master of Science** in Fondamental **Mathematics** (major) and **Computer Science** (minor), with a `speciality on teaching <http://www.universite-paris-saclay.fr/en/node/6477>`_.
+  (national competitive exam for "*Prep Schools*" teacher recruitment, with a major in Maths and a minor in Computer Science). `I have been ranked 23rd  <http://web.archive.org/web/20140709144720/agreg.org/ResultatsMerite2014.html>`_, for 275 available positions, for 795 candidates allowed to pass the oral exam (second step) in June and July 2014, and almost 1200 persons registered in October 2013. I also did the second year of my **Master of Science** in Fondamental **Mathematics** (major) and **Computer Science** (minor), with a `speciality on teaching <http://www.universite-paris-saclay.fr/en/node/6477>`_. `A list of useful references (and other ressources) for this exam is here <agreg-2014/index>`_.
 
 * In 2012/2013, I did the first year of the **MPRI** (`Master of Science <https://en.wikipedia.org/wiki/Master_of_science>`_ specialized in theoretical research in Computer Science, in Paris)
   and also the first year of the `Master of Science`_ in fondamental mathematics of ÉNS Cachan (again both `magna cum laude`_).
@@ -99,6 +103,7 @@ Some projects on-line
 Some of my profile pages on some great website:
 
   #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
+  #. or my *Github* account `GitHub.com/Naereen <https://github.com/Naereen>`_;
   #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
   #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
 
