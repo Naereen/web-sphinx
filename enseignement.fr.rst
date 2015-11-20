@@ -24,31 +24,40 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 
    Entre novembre 2015 et février 2016, je ferai aussi 1h de colle par semaine en mathématiques pour une classe de `BCPST 2A <http://prepas.org/ups.php?article=43>`_.
 
-:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 80 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
+:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 90 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
 
 
 Premier semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- `CS101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_ : principalement en charge des travaux pratiques, et d'une bonne partie du cours !
+- `CS101 @ MEC <http://perso.crans.org/besson/cs101/>`_ : principalement en charge des travaux pratiques, et d'une bonne partie du cours !
   Cela représentait 4 heures hebdomadaires de TPs (CS labs) pendant 17 semaines, et 4 heures de cours magistraux certaines semaines (5 semaines).
   Les slides (*en anglais*) pour certains de mes cours magistraux à MEC sont disponibles ici :
 
-  1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
-  2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
-  3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
+   1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
+   2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
+   3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
 
-  .. todo:: Ajouter des exemples de feuilles de TPs et d'examens.
+  Plus de ressources sont disponibles publiquement :
 
-:Projets: `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
+   - `Exams (CS101) <./cs101/Exams/>`_ : sujets d'examen et solutions complètes,
+   - `TP (CS101) <./cs101/labs/>`_ : sujets et solutions complètes pour les travaux pratiques de programmation,
+   - `Solutions (CS101) <./cs101/solutions/>`_ : solutions à de divers problèmes venant de livres ou de sites web pour apprendre Python (c'est pas très bien rangé, mais il y a plein de choses).
 
-:Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
+  :Projets: `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
 
-:Hackhathon: Pour la `journée de Pi <https://fr.wikipedia.org/wiki/Journée_de_pi>`_ 2015 (14 mars 2015), j'avais organisé un grand hackhathon sur le thème de *pi* (le nombre, mais aussi les *pie charts* ou diagramme camenberts en français). Le sujet du hackhathon est disponible `ici (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_ (en anglais). Environ 40 élèves avaient travaillés dessus tout en s'amusant ce jour là !
+  :Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
+
+  :Hackhathon: Pour la `journée de Pi <https://fr.wikipedia.org/wiki/Journée_de_pi>`_ 2015 (14 mars 2015), j'avais organisé un grand hackhathon sur le thème de *pi* (le nombre, mais aussi les *pie charts* ou diagramme camenberts en français). Le sujet du hackhathon est disponible `ici (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_ (en anglais). Environ 40 élèves avaient travaillés dessus tout en s'amusant ce jour là !
 
 
 - `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_ : en charge d'un groupe pour des TDs de maths (algèbre linéaire et analyse multi-variable). 2 heures hebdomadaires pendant 17 semaines (janvier - avril 2014).
 
-  .. todo:: Aussi ajouter des exemples de feuilles de TDs, d'examens, et de notations.
+  Plus de ressources sont disponibles publiquement :
+
+   - `Examens (MA102) <./ma102/Exams/>`_ : sujets d'examen et solutions complètes,
+   - `Exercices (MA102) <./ma102/exos/>`_ : sujets de TDs et quelques solutions,
+   - `Techniques (MA102) <./ma102/techniques/>`_ : des petites fiches sur des techniques utiles en maths,
+   - `Quiz (MA102) <./ma102/quiz/>`_ : sujets de petits quiz.
 
 - J'étais aussi à l'origine des `listes de lecture pour l'été 2015 <https://mec-summer-15.readthedocs.org/en/latest/>`_, données à nos élèves (*travail abandonné*).
 
@@ -63,7 +72,12 @@ Second semestre en 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (de juillet à décembre 2014). En charge de 3 groupes (sur un total de 8) pour des TDs de maths (introduction au calcul et à la logique scientifique). 6 heures hebdomadaires pendant 17 semaines (~ 102 heures).
 
-  .. todo:: Ajouter des exemples de feuilles de TDs, d'examens, et de notations.
+  Plus de ressources sont disponibles publiquement :
+
+   - `Examens (MA101) <./ma101/Exams/>`_ : sujets d'examen et solutions complètes,
+   - `Exercices (MA101) <./ma101/exos/>`_ : sujets de TDs et quelques solutions,
+   - `Techniques (MA101) <./ma101/techniques/>`_ : des petites fiches sur des techniques utiles en maths,
+   - `Quiz (MA101) <./ma101/quiz/>`_ : sujets de petits quiz.
 
 :Total 1: Pour ce second semestre en 2014, j'estime ma charge d'enseignement à **environ 110 heures** (nombre estimé d'heures passées à enseigner à un groupe d'élève ou à une section entière).
 
@@ -75,6 +89,8 @@ Premier semestre en 2014
 - Soutien scolaire et quelques colles (au niveau lycée), avec `les Cours Thalès <http://www.cours-thales.fr/>`_.
 
 .. note:: En 2014, j'ai aussi obtenu l'agrégation de mathématiques !
+
+   `Cette page héberge plein de ressources utiles pour préparer l'agrégation <agreg-2014/>`_ (mes listes de développements et ma bibliographie notamment).
 
    J'ai choisi d'être en report de stage pour 2014-15 ainsi qu'en 2015-16, pour finir ma scolarité à l'`École Normale Supérieure de Cachan <http://www.ens-cachan.fr/>`_ (via l'option *"fin de scolarité normalienne"*).
 

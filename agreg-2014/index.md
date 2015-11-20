@@ -27,7 +27,7 @@ Ces trois listes couvrent tout le programme de mathématiques, et l'informatique
 ### Remarques :
 - J'ai *passé* l'agrégation en 2014, et le programme a changé depuis, soyez vigilants : certaines leçons n'existent plus.
 - J'ai *obtenu* l'agrégation en 2014, et... mon niveau a changé depuis (c'est la honte mais... c'est vrai).
-- La [classe de préparation à l'agrégation de maths](www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/preparation-a-l-agregation-master-formation-a-l-enseignement-superieur-en-mathematiques-site-cachan--60805.kjsp) de l'ENS Cachan, c'est top !
+- La [classe de préparation à l'agrégation de maths](http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/preparation-a-l-agregation-master-formation-a-l-enseignement-superieur-en-mathematiques-site-cachan--60805.kjsp) de l'ENS Cachan, c'est top !
 
 ## Licence d'utilisation ?
 Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lbesson.mit-license.org/).

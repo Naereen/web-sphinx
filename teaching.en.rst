@@ -28,25 +28,34 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 
 First semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^
-- `CS101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=27>`_: in charge of the CS labs (practical sessions) and in charge of certain lectures!
+- `CS101 @ MEC <./cs101/>`_: in charge of the CS labs (practical sessions) and in charge of certain lectures!
   It was about 4 hours a week of CS labs, during 17 weeks, and 4 hours a week of lectures for 5 weeks (lectures were in an amphitheater of 115 students!).
   The slides for some of my lectures are here:
    
-  1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
-  2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
-  3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
+   1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
+   2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
+   3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
 
-  .. todo:: Add examples of TP and exams.
+  More ressources are available:
 
-:Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs <https://www.readthedocs.org>`_.
+   - `Exams (CS101) <./cs101/Exams/>`_: exam papers and complete solutions,
+   - `Labs (CS101) <./cs101/labs/>`_: assignments and complete solutions for the practical sessions (labs),
+   - `Solutions (CS101) <./cs101/solutions/>`_: solutions to various website or books about learning Python.
 
-:Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 50 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
+  :Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs <https://www.readthedocs.org>`_.
 
-:Hackhathon: For `Pi day <https://en.wikipedia.org/wiki/Pi_Day>`_ 2015 (3.14.15), I organized a huge hackhathon about *pi* (the number, but also *pie charts*). The written exam paper for the hackhathon is `available here (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_. About 50 students worked on it and had fun together on that day!
+  :Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 50 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
+
+  :Hackhathon: For `Pi day <https://en.wikipedia.org/wiki/Pi_Day>`_ 2015 (3.14.15), I organized a huge hackhathon about *pi* (the number, but also *pie charts*). The written exam paper for the hackhathon is `available here (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_. About 50 students worked on it and had fun together on that day!
 
 - `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
 
-  .. todo:: More details on MA102, and external/internal links (Moodle, slides, etc).
+  More ressources are available:
+
+   - `Exams (MA102) <./ma102/Exams/>`_: exam papers and complete solutions,
+   - `Assignments (MA102) <./ma102/exos/>`_: assignments and some solutions for the practical sessions (tutorial),
+   - `Techniques (MA102) <./ma102/techniques/>`_: some small documents summing up useful techniques of computations and proofs,
+   - `Quiz (MA102) <./ma102/quiz/>`_: small quiz exam papers and solutions.
 
 - I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.org/en/latest/>`_ (*work in progress*).
 
@@ -60,7 +69,12 @@ Second semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
-  .. todo:: More details on MA101, and external/internal links (Moodle, slides, etc).
+  More ressources are available:
+
+   - `Exams (MA101) <./ma101/Exams/>`_: exam papers and complete solutions,
+   - `Assignments (MA101) <./ma101/exos/>`_: assignments and some solutions for the practical sessions (tutorial),
+   - `Techniques (MA101) <./ma101/techniques/>`_: some small documents summing up useful techniques of computations and proofs,
+   - `Quiz (MA101) <./ma101/quiz/>`_: small quiz exam papers and solutions.
 
 :Total 1: For the second semester of 2014, I evaluated my teaching load to be **about 110 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
@@ -71,9 +85,11 @@ First semester of 2014
 - Regularly grading exam answer scripts @ `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_ (exam answer scripts of high-school students, in mathematics).
 - Occasionally helping high-school students and in charge of oral exams (at the level of Baccalauréat), with the `"Cours Thalès" organization <http://www.cours-thales.fr/>`_.
 
-.. note:: In 2014
+.. note:: 
 
-   I also got admitted to the French national competitive exam for becoming a prep' school professor (*"agrégation"*) in mathematics (with a major in maths, minor in CS).
+   In 2014, I also got admitted to the French national competitive exam for becoming a prep' school professor (*"agrégation"*) in mathematics (with a major in maths, minor in CS).
+
+   `Here are a lot of ressources for preparing the exam <agreg-2014/>`_ (in French).
 
    For the two scholar years 2014-15 and 2015-16, I asked to postpone the beginning of my carrier as a professor in the French secondary education, in order to properly conclude my training at `École Normale Supérieure de Cachan (ENS of Cachan) <http://www.ens-cachan.fr/version-anglaise/>`_ (thanks to the choice *"fin de scolarité normalienne"*).
 
