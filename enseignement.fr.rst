@@ -29,7 +29,7 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 
 Premier semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- `CS101 @ MEC <http://perso.crans.org/besson/cs101/>`_ : principalement en charge des travaux pratiques, et d'une bonne partie du cours !
+- `CS101 @ MEC <./cs101/>`_ : principalement en charge des travaux pratiques, et d'une bonne partie du cours !
   Cela représentait 4 heures hebdomadaires de TPs (CS labs) pendant 17 semaines, et 4 heures de cours magistraux certaines semaines (5 semaines).
   Les slides (*en anglais*) pour certains de mes cours magistraux à MEC sont disponibles ici :
 
@@ -50,7 +50,7 @@ Premier semestre en 2015
   :Hackhathon: Pour la `journée de Pi <https://fr.wikipedia.org/wiki/Journée_de_pi>`_ 2015 (14 mars 2015), j'avais organisé un grand hackhathon sur le thème de *pi* (le nombre, mais aussi les *pie charts* ou diagramme camenberts en français). Le sujet du hackhathon est disponible `ici (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_ (en anglais). Environ 40 élèves avaient travaillés dessus tout en s'amusant ce jour là !
 
 
-- `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_ : en charge d'un groupe pour des TDs de maths (algèbre linéaire et analyse multi-variable). 2 heures hebdomadaires pendant 17 semaines (janvier - avril 2014).
+- `MA102 @ MEC <./ma102/>`_ : en charge d'un groupe pour des TDs de maths (algèbre linéaire et analyse multi-variable). 2 heures hebdomadaires pendant 17 semaines (janvier - avril 2014).
 
   Plus de ressources sont disponibles publiquement :
 
@@ -70,7 +70,7 @@ En 2014
 -------
 Second semestre en 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
-- `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (de juillet à décembre 2014). En charge de 3 groupes (sur un total de 8) pour des TDs de maths (introduction au calcul et à la logique scientifique). 6 heures hebdomadaires pendant 17 semaines (~ 102 heures).
+- `MA101 @ MEC <./ma101/>`_ (de juillet à décembre 2014). En charge de 3 groupes (sur un total de 8) pour des TDs de maths (introduction au calcul et à la logique scientifique). 6 heures hebdomadaires pendant 17 semaines (~ 102 heures).
 
   Plus de ressources sont disponibles publiquement :
 

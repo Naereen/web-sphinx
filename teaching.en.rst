@@ -48,7 +48,7 @@ First semester of 2015
 
   :Hackhathon: For `Pi day <https://en.wikipedia.org/wiki/Pi_Day>`_ 2015 (3.14.15), I organized a huge hackhathon about *pi* (the number, but also *pie charts*). The written exam paper for the hackhathon is `available here (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_. About 50 students worked on it and had fun together on that day!
 
-- `MA102 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=22>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
+- `MA102 @ MEC <./ma102/>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
 
   More ressources are available:
 
@@ -67,7 +67,7 @@ In 2014
 -------
 Second semester of 2014
 ^^^^^^^^^^^^^^^^^^^^^^^
-- `MA101 @ MEC <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=12>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
+- `MA101 @ MEC <./ma101/>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
   More ressources are available:
 
