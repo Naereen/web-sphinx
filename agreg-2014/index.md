@@ -5,13 +5,13 @@ Ce dossier contient ma **liste de développements** (maths et info), et mes **r�
 
 ## Fichiers publiés ici
 ### Développements et couplages (maths et info)
-  > Note : je n'ai *pas tapé les développements*, c'est juste des listes d'idées (avec références complètes).
+  > Note : je n'ai *__pas__ tapé les développements*, c'est juste des listes d'idées (avec références complètes).
 
 - Développements et couplages pour les leçons de maths [en HTML (page web)](maths.html) (ou en PDF : [maths.pdf](maths.pdf)),
 - Développements et couplages pour les leçons d'informatique [en HTML (page web)](info.html) (ou en PDF : [info.pdf](info.pdf)).
 
 ### Bibliographie et liste de références
-Ces trois listes couvrent tout le programme de mathématiques, et l'informatique (option D).
+Ces trois listes couvrent *tout* le programme de mathématiques (générales), et tout le programme d'informatique (option D).
 
 - [Bibliographie / liste de réferences](references.html) ([references.pdf](references.pdf)) complète (13 pages, *tous* les livres utiles),
 - [**Mini** bibliographie](smallbib.html) ([smallbib.pdf](smallbib.pdf)) (4 pages, les livres les plus utiles),
@@ -20,7 +20,7 @@ Ces trois listes couvrent tout le programme de mathématiques, et l'informatique
 ### Modélisation (option D, info)
 - [Projet #1](http://perso.crans.org/besson/a/m/1/),
 - [Projet #2](http://perso.crans.org/besson/a/m/2/),
-- (Bientôt) Corrections de tous les textes pour l'épreuve de modélisation en option D (*attention* spoiler, duh).
+- (Bientôt) Corrections de tous les textes pour l'épreuve de modélisation en option D (*attention* spoiler).
 
 > *À faire :* nettoyer ces corrections et les ajouter ici.
 
