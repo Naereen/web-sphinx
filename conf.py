@@ -58,8 +58,6 @@ extensions = [
 ####### Change the order ?
 	'sphinx.ext.mathjax',
 #	'sphinxcontrib.email',
-####### From Pokedex FIXME remove this old stuff
-  #'pokedex.doc.tabledoc',
 ####### New from pypi
 ####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
 	'sphinx_pyreverse', # .. uml:: path_to_module
@@ -274,16 +272,16 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'sidebar_gpg.fr.html'],
-   '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'sidebar_gpg.en.html'],
-   'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'globaltoc.html', ],  ##, 'sidebar_gpg.fr.html'
+   '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html'
+   '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],
+   'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
+   'index.en':  ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
    'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
    'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'],
-   '**/*':      ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'sidebar_gpg.en.html'],
+   '**/*':      ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html']  # , 'sidebar_gpg.en.html'],
 }
 
-# Additional templates that should be rendered to pages, maps page names to
-# template names. TODO: try more with this !
+# Additional templates that should be rendered to pages, maps page names to template names.
 html_additional_pages = {
     'download.fr': 'download.fr.html',
     'download.en': 'download.en.html',

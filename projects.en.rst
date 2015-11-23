@@ -159,7 +159,6 @@ For more details, see `<sitemap.en.html>`_.
    plume-air-paris.en
    README
    mount.en
-   trademarks
    demo
    alaskabombeh.en
 

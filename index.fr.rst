@@ -97,7 +97,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    bin
    pgp
    Page d'accueil (en anglais) <index.en>
-   Vieilles précisions sur les marques commerciales citées (en anglais) <trademarks>
 
 
 .. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
