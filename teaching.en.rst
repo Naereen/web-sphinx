@@ -9,6 +9,8 @@
 
 In 2015
 -------
+.. seealso:: `This folder contains most of the documents to my teaching <./teach/>`_.
+
 Second semester of 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
 Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:

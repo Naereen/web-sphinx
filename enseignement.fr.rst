@@ -9,6 +9,8 @@
 
 En 2015
 -------
+.. seealso:: `Ce dossier contient la plupart des documents concernant mon enseignement <./teach/>`_.
+
 Second semestre en 2015
 ^^^^^^^^^^^^^^^^^^^^^^^
 Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
