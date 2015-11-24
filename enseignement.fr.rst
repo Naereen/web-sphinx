@@ -47,7 +47,7 @@ Premier semestre en 2015
 
   :Projets: `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
 
-  :Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une cinquantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
+  :Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une soixantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
 
   :Hackhathon: Pour la `journée de Pi <https://fr.wikipedia.org/wiki/Journée_de_pi>`_ 2015 (14 mars 2015), j'avais organisé un grand hackhathon sur le thème de *pi* (le nombre, mais aussi les *pie charts* ou diagramme camenberts en français). Le sujet du hackhathon est disponible `ici (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_ (en anglais). Environ 40 élèves avaient travaillés dessus tout en s'amusant ce jour là !
 
