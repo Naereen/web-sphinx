@@ -96,7 +96,7 @@ Other resources (less useful, but can help):
 
 .. note:: And how does it work, *really*, underneath the nice web interface and command line tools? Is it (theoretically) complicated? :red:`Yes.`
 
-   .. image:: https://imgs.xkcd.com/comics/git.png
+   .. image:: .git.png
      :scale: 100%
      :align: center
      :alt: XKCD of Friday the 30th of October, about Git

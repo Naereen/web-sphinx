@@ -99,7 +99,7 @@ D'autres ressources (moins utiles, mais peuvent aider) :
 
 .. note:: Et comment ça marche, *en vrai*, sous le capot des jolis sites web et de l'utilisation en lignes de commande ? C'est compliqué (théoriquement) ? :red:`Oui.`
 
-   .. image:: https://imgs.xkcd.com/comics/git.png
+   .. image:: .git.png
      :scale: 100%
      :align: center
      :alt: XKCD du vendredi 30 octobre, à propos de Git
