@@ -77,6 +77,7 @@ Read and view more types of files
 Extensions for secrets agents (or paranoid people)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `BetterPrivacy <https://addons.mozilla.org/en-us/firefox/addon/better-privacy>`_ removes useless cookies and Flash cache when closing,
+* `Decentrales <https://addons.mozilla.org/en-US/firefox/addon/decentraleyes>`_ allows to locally emulate the Content Delivery Networks. It is a great idea to improve both performance and anonymousness,
 * `Disconnect <https://addons.mozilla.org/en-us/firefox/addon/disconnect>`_ removes trackers and advertising,
 * `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ to be able to remove *any type* of web element (image, banner etc) like if it was an advertising handled by AdBlock,
 * `Facebook Disconnect <https://addons.mozilla.org/en-us/firefox/addon/facebook-disconnect>`_ to completely disable Facebook's default tracking behavior on other websites,

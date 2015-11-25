@@ -72,12 +72,13 @@ Lire et visualiser plus de fichiers
 * `JavaScript View <https://addons.mozilla.org/fr/firefox/addon/javascript-view>`_ permet d'afficher joliment des fichiers `JavaScript <https://fr.wikipedia.org/wiki/JavaScript>`_ dans Firefox,
 * `JSONView <https://addons.mozilla.org/fr/firefox/addon/jsonview>`_ permet d'afficher joliment des fichiers `JSON <https://fr.wikipedia.org/wiki/JSON>`_ dans Firefox,
 * `Markdown Viewer <https://addons.mozilla.org/fr/firefox/addon/markdown-viewer>`_ permet d'afficher joliment des fichiers `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_ dans Firefox,
-* `Wikiwand: Wikipedia Modernized <https://addons.mozilla.org/fr/firefox/addon/wikiwand-wikipedia-modernized>`_ améliore l'ergonomie de `Wikipédia <https://fr.wikipedia.org/>`_.
+* `Wikiwand : Wikipedia Modernized <https://addons.mozilla.org/fr/firefox/addon/wikiwand-wikipedia-modernized>`_ améliore l'ergonomie de `Wikipédia <https://fr.wikipedia.org/>`_.
 
 Extensions pour agents secrets (ou paranoïaques)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `BetterPrivacy <https://addons.mozilla.org/fr/firefox/addon/better-privacy>`_ permet de supprimer les *cookies* inutiles à la fermeture de Firefox (ainsi que le cache de Flash),
 * `Disconnect <https://addons.mozilla.org/fr/firefox/addon/disconnect>`_ supprime plein de traqueurs et de pubs,
+* `Decentrales <https://addons.mozilla.org/fr/firefox/addon/decentraleyes>`_ permet d'héberger localement les dépendances (javascript) normalement hébergées sur des *Content Delivery Networks*. C'est une bonne idée, pour améliorer les performances de navigation et l'anonymat,
 * `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ permet de mettre en place des règles pour cacher *n'importe quel* élément d'une page web (image, panneau de pub etc), comme si c'était une publicité bloquée par AdBlock,
 * `Facebook Disconnect <https://addons.mozilla.org/fr/firefox/addon/facebook-disconnect>`_ supprime complètement le suivi et l'espionnage que fait Facebook dans d'autres sites,
 * `FlashBlock <https://addons.mozilla.org/fr/firefox/addon/flashblock>`_ désactive les objets Flash par défaut sur chaque page (*note :* AdBlock ou Ghostery font la même chose). Les vidéos ne se liront plus toutes seules...
