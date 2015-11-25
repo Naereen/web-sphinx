@@ -133,6 +133,19 @@ Mes fichiers de configurations :
 
 * `Package Control.sublime-settings <./publis/ST3/Package%20Control.sublime-settings>`_ donne simplement la liste complète des paquets installés (aussi directement ici `packages.list <./publis/packages.list>`_).
 
+Raccourcis clavier
+~~~~~~~~~~~~~~~~~~
+.. sidebar:: Plus d'informations sur la doc' ?
+
+   Cette page `customization/key_bindings <http://docs.sublimetext.info/en/sublime-text-3/customization/key_bindings.html>`_.
+
+
+Comme (presque) tout dans Sublime Text, il est facile de modifier ou d'ajouter des raccourcis clavier.
+Cela peut être fait globalement, ou projet par projet, ou langage par langage.
+
+* `Default (Linux).sublime-keymap <./publis/ST3/Default%20(Linux).sublime-keymap>`_ sont mes raccourcis clavier (ajoute notamment ``ctrl+e`` pour aller en fin de ligne ou ``ctrl+maj+e`` en début de ligne),
+* `Python.sublime-keymap <./publis/ST3/Python.sublime-keymap>`_ ajoute quelques raccourcis spécifiques à Python (avec `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_).
+
 
 Snippets
 ~~~~~~~~
@@ -168,6 +181,7 @@ Liste de ces scripts de constructions :
 * Un document \\(\\LaTeX{}\\) (basé sur `autotex`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (nécessite `autotex`_ et mon `pdflatex <./bin/pdflatex>`_).
 * `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ facilite la compilation d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ en un fichier PDF (via le script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_) !
 
+-----------------------------------------------------------------------------
 
 Les meilleurs greffons ?
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -195,6 +209,7 @@ Greffons ajoutant de super fonctionnalités :
 * `Calculate <https://packagecontrol.io/packages/Calculate>`_ permet de facilement créer des listes ordonnées (en plus de plein d'autres choses) : on écrit ``i+1`` à chaque ligne, puis un coup de ``Ctrl+Maj+c`` et paf, la multi-sélection est désormais en ``1``, ``2``, ..., ``n``.
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ pour toujours colorer certains mots précis (par exemple ``TODO`` ou ``FIXME``).
+* `InsertDate <https://packagecontrol.io/packages/InsertDate>`_ permet d'ajouter facilement la date d'aujourd'hui avec un raccourcis clavier, par exemple : *mercredi 25 novembre 2015, 22:20:44*.
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
@@ -203,14 +218,16 @@ Greffons ajoutant de super fonctionnalités :
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
 
 
-Une meilleures colorations pour certains langages :
+Un meilleur support pour certains langages :
 
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
-* `LaTeX-plus <https://packagecontrol.io/packages/LaTeX-plus>`_ (`avec cette documentation <https://github.com/randy3k/Latex-Plus/wiki/>`_)
+* `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ vérifie automatiquement les fichiers JSON lors de leur édition (les fichiers de conf de ST3 sont tous en JSON, notamment).
+* `LaTeX-plus <https://packagecontrol.io/packages/LaTeX-plus>`_ pourrait améliorer l'utilisation de LaTeX avec ST (`voir la documentation <https://github.com/randy3k/Latex-Plus/wiki/>`_).
 * `Markdown Extended <https://packagecontrol.io/packages/MakeCommands>`_ est sensé amélioré la coloration syntaxique du `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_, langage léger à balises, conçu pour une rédaction facile de document. J'utilise Markdown notamment via mon projet `StrapDownJS`_ ! Voir `un exemple <bin/>`_ ?
 * `nginx <https://packagecontrol.io/packages/nginx>`_ améliore la coloration des fichiers de configuration du `magnifique serveur web NGinx <http://nginx.org/>`_.
 * `OCaml <https://packagecontrol.io/packages/OCaml>`_ améliore la coloration pour `les langages caml-light et OCaml <ocaml.html>`_. À utiliser avec `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_ aussi.
+* `GNU Octave Completions <https://github.com/tushortz/GNU-Octave-Completions>`_ et `Matlab Completions <https://github.com/tushortz/Matlab-Completions>`_ ajoutent à la complétion les fonctions et commandes de `GNU Octave <http://www.gnu.org/software/octave/>`_ ou `MATLAB <https://fr.wikipedia.org/wiki/Matlab>`_.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ améliore bien la coloration du `reStructedText <demo.html>`_, le langage à balise utilisé par `Sphinx <http://sphinx-doc.org/>`_ et `la documentation officielle de Python <https://doc.python.org/2/>`_ (et donc pour cette page et `mon site <index.html>`_). À utiliser avec `ces snippets pour rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
 * `TWiki <https://packagecontrol.io/packages/TWiki>`_ pour son thème de couleur, génialement équilibré et bien coloré. J'utilise le thème **TWiki** "Monokai for Markup" pour n'importe quel langage en fait ! C'est vraiment mon thème de couleur préféré.
 

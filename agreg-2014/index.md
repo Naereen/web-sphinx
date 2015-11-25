@@ -36,8 +36,8 @@ Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lb
 
 ----
 
-# Autres pages
-## Pages sur l'agrégation d'anciens camarades
+## Autres pages
+### Pages sur l'agrégation d'anciens camarades
 - Site collaborativement construit : [http://agreg-cachan.fr/](http://agreg-cachan.fr),
 - Benjamin Dadoun : [site](http://benjamin.dadoun.free.fr/agreg.html), [PDF](http://benjamin.dadoun.free.fr/couplages.pdf),
 - Jill-Jênn Vie : [site](http://jill-jenn.net/agreg/index.html), [PDF](http://jill-jenn.net/_static/dog.pdf), et [son script pour faire index et index inversé](https://bitbucket.org/jilljenn/agreg/src/default/guide/) (pas encore utilisé),
@@ -45,21 +45,21 @@ Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lb
 - Nicolas Martin : [site](http://nicolas.martin.ens.free.fr/),
 - Rémi Cheval : [site](http://www.podcast-science.com/category/agregation/developpements-algebre/).
 
-## Pour le cours
+### Pour le cours
 Mes références pour le cours de maths sont :
 
  - ["Le Frido"](http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf) (cours complet qui couvre "toutes" les mathématiques, du niveau L1 à l'agrégation, gratuit et libre de droit),
  - [mp.cpgedupuydelome.fr/courspe](http://mp.cpgedupuydelome.fr/courspe.ph) et [mp.cpgedupuydelome.fr/coursup](http://mp.cpgedupuydelome.fr/coursup.ph),
  - et [Wikipédia](https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes), bien sûr.
 
-## Pour des exercices
+### Pour des exercices
 Mes références pour les exercises sont :
 
  - [mp.cpgedupuydelome.fr/exospe](http://mp.cpgedupuydelome.fr/exospe.php) et [mp.cpgedupuydelome.fr/exosup](http://mp.cpgedupuydelome.fr/exosup.php) (surtout),
  - ces exercices de colles [par Nicolas Martin](http://nicolas.martin.ens.free.fr/orauxblancs.htm) et [par Loïc Devilliers](http://loic.devilliers.free.fr/colles/colles.html),
  - et [ce Vrai/Faux par Roger Mansuy](http://www.rogermansuy.fr/VF/index.html).
 
-## Pages d'autres classes de prépa agrég
+### Pages d'autres classes de prépa agrég
 - [DynaMaths](http://dyna.maths.free.fr/), LA référence,
 - ENS Rennes: [http://minerve.bretagne.ens-cachan.fr/images/](http://minerve.bretagne.ens-cachan.fr/images/) et [http://minerve.bretagne.ens-cachan.fr/](http://minerve.bretagne.ens-cachan.fr/),
 - Univ. Rennes 1 : [compléments pour l'agrég](http://agreg-maths.univ-rennes1.fr/documentation/Complements.html),

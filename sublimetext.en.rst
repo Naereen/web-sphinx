@@ -130,6 +130,19 @@ My configuration files:
 
 * `Package Control.sublime-settings <./publis/ST3/Package%20Control.sublime-settings>`_ just gives a complete list of installed packages (also `packages.list <./publis/packages.list>`_).
 
+Key shortcuts
+~~~~~~~~~~~~~
+.. sidebar:: More info on the documentation?
+
+   This page `customization/key_bindings <http://docs.sublimetext.info/en/sublime-text-3/customization/key_bindings.html>`_.
+
+
+Like (almost) everything else in Sublime Text, it's easy to modify or add key shortcut for anything.
+It can be done globaly, or project wise or language wise.
+
+* `Default (Linux).sublime-keymap <./publis/ST3/Default%20(Linux).sublime-keymap>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line),
+* `Python.sublime-keymap <./publis/ST3/Python.sublime-keymap>`_ adds some Python-specific key shortcuts (to be used with `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_).
+
 
 Snippets
 ~~~~~~~~
@@ -165,6 +178,8 @@ List of my build systems:
 * A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
 * `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
 
+-----------------------------------------------------------------------------
+
 
 The best plugins?
 ^^^^^^^^^^^^^^^^^
@@ -192,6 +207,7 @@ Plugins that add great features:
 * `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, ..., ``n``.
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
+* `InsertDate <https://packagecontrol.io/packages/InsertDate>`_ allows to easily add today's date with a key shortcut (``F5`` by default), like this: *Wednesday 25 November 2015, 22:21:57*.
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
@@ -200,13 +216,16 @@ Plugins that add great features:
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
 
 
-A better syntax coloring for some languages:
+A better support for some languages:
 
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ allows you to select a color, and insert it as is. Very handy when writing CSS or HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ provides good support for programming with `GNUPlot v4+ <http://www.gnuplot.info/>`_.
-* `OCaml <https://packagecontrol.io/packages/OCaml>`_ improve a little bit the syntax coloring `for the two languages caml-light and OCaml <ocaml.html>`_. To be used with `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_.
+* `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ automatically checks the correctness of any edited JSON file (and ST conf' files are JSON).
+* `LaTeX-plus <https://packagecontrol.io/packages/LaTeX-plus>`_ could improve the use of LaTeX in ST (`see the doc <https://github.com/randy3k/Latex-Plus/wiki/>`_).
 * `Markdown Extended <https://packagecontrol.io/packages/MakeCommands>`_ is supposed to improve the syntax coloring for `Markdown <https://en.wikipedia.org/wiki/Markdown>`_, lightweight markup language, designed for easy preparation of document. I use Markdown especially via my project `StrapDownJS`_ ! (See `an example <bin/>`_ ?)
 * `nginx <https://packagecontrol.io/packages/nginx>`_ improve the syntax coloring for config files for the `awesome NGinx web server <http://nginx.org/>`_.
+* `OCaml <https://packagecontrol.io/packages/OCaml>`_ improve a little bit the syntax coloring `for the two languages caml-light and OCaml <ocaml.html>`_. To be used with `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_.
+* `GNU Octave Completions <https://github.com/tushortz/GNU-Octave-Completions>`_ and `Matlab Completions <https://github.com/tushortz/Matlab-Completions>`_ adds functions and commands from `GNU Octave <http://www.gnu.org/software/octave/>`_ or `MATLAB <https://fr.wikipedia.org/wiki/Matlab>`_ to the completion window.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). To be used with `these snippets for rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
 * `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language! After testing a lot of them, it really is my favorite color theme!
 
