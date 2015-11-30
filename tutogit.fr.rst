@@ -61,7 +61,7 @@ Oui :
 
 * En novembre 2014, `GitHub <https://github.com/>`_ semblait avoir plus de **7 millions d'utilisateurs**, `Bitbucket`_ en possédait **presque 2 millions**, et `gitorious <https://gitorious.org/>`_ presque 400 000 !
 
-* La `fabuleuse suite logicielle <https://about.gitlab.com/features/>`_ `GitLab <https://about.gitlab.com/>`_ prétend être utilisée par plus de **100 000 compagnies et organisations** de part le monde ! Voir par `exemple le gitlab du Crans <https://gitlab.crans.org/>`_ (et `mon compte <https://gitlab.crans.org/lbesson/>`_, peut utilisé).
+* La `fabuleuse suite logicielle <https://about.gitlab.com/features/>`_ `GitLab <https://about.gitlab.com/>`_ prétend être utilisée par plus de **100 000 compagnies et organisations** de part le monde ! Voir par `exemple le gitlab du Crans <https://gitlab.crans.org/>`_ (et `mon compte <https://gitlab.crans.org/lbesson/>`_, peu utilisé).
 
 
 Une distinction importante
@@ -100,10 +100,10 @@ D'autres ressources (moins utiles, mais peuvent aider) :
 .. note:: Et comment ça marche, *en vrai*, sous le capot des jolis sites web et de l'utilisation en lignes de commande ? C'est compliqué (théoriquement) ? :red:`Oui.`
 
    .. image:: .git.png
-     :scale: 100%
-     :align: center
-     :alt: XKCD du vendredi 30 octobre, à propos de Git
-     :target: https://xkcd.com/1597/
+      :scale: 100%
+      :align: center
+      :alt: XKCD du vendredi 30 octobre, à propos de Git
+      :target: https://xkcd.com/1597/
 
 
 ---------------------------------------------------------------------
