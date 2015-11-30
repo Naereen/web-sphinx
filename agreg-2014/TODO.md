@@ -1,0 +1,2 @@
+- Réorganiser : un dépôt juste pour les fichiers Markdown et LaTeX ?
+- Taper certains développements en LaTeX (ceux originaux) ?
