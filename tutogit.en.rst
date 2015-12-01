@@ -32,7 +32,7 @@ What is Git ?
 ~~~~~~~~~~~~~
 « *Git is a decentralized* `version control <https://en.wikipedia.org/wiki/Version_control_software>`_ *software. This is free software created by Linus Torvalds, Linux kernel copyright and distributed under the terms of the GNU General Public License Version 2.* »
 
-« *Git is designed to be efficient in speed and ensure the integrity of data stored, sent or received. Completely free and since 2005, it quickly became the most popular version control system for software development.* »
+« *Git is designed to be efficient in speed and ensure the integrity of data stored, sent or received. Completely free and open-source since 2005, it quickly became the most popular version control system for software development.* »
 
 What's the point?
 ~~~~~~~~~~~~~~~~~
