@@ -41,7 +41,7 @@ En juin 2015, environ **700 kms** durant un petit voyage de 10 jours en France e
 
 En 2014 : **150 kms**
 ^^^^^^^^^^^^^^^^^^^^^
-Environ **150 kms**, une demi-douzaine de fois, près de Paris, et *un tout petit* aux alentours d'Hyderabad (en Inde !).
+Environ **150 kms**, une demi-douzaine de fois, près de Paris, et *un tout petit peu* aux alentours d'Hyderabad (en Inde !).
 
 En 2013 : **1800 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
