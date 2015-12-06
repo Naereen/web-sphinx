@@ -1,2 +1,2 @@
-- Réorganiser : un dépôt juste pour les fichiers Markdown et LaTeX ?
 - Taper certains développements en LaTeX (ceux originaux) ?
+- Mettre à jour la liste de leçons avec le programme 2015-16.

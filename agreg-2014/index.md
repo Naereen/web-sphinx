@@ -28,11 +28,19 @@ Ces trois listes couvrent *tout* le programme de mathématiques (générales), e
 - J'ai *passé* l'agrégation en 2014, et le programme a (un peu) changé depuis, soyez vigilants : certaines leçons n'existent plus. Voir [la liste des leçons en 2014](listedeslecons.html) ([listedeslecons.pdf](listedeslecons.pdf)) et [celle aujourd'hui](http://agreg.org/) : [Algebre_2014.pdf](http://agreg.org/Algebre_2014.pdf), [Analyse_2014.pdf](http://agreg.org/Analyse_2014.pdf), [Informatique_2014.pdf](http://agreg.org/Informatique_2014.pdf), [Maths_info_2014.pdf](http://agreg.org/Maths_info_2014.pdf).
 - La [classe de préparation à l'agrégation de maths](http://www.math.ens-cachan.fr/version-francaise/formations/preparation-a-l-agregation/preparation-a-l-agregation-master-formation-a-l-enseignement-superieur-en-mathematiques-site-cachan--60805.kjsp) de l'ENS Cachan, c'est top !
 
+### Sur Bitbucket ?
+Les sources de tous ces fichiers (en LaTeX ou en Markdown) sont disponibles, sur [ce dépôt git](https://bitbucket.org/lbesson/agreg-2014/).
+Vous pouvez le clôner et vous en servir, si besoin.
+
+----
+
 ## Licence d'utilisation ?
 Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lbesson.mit-license.org/).
 
-  > Notamment : Vous pouvez imprimer les PDF, mais vous pouvez aussi utiliser le code des pages HTML
-  > (c'est du [Markdown](http://daringfireball.net/projects/markdown/syntax.php) avec du LaTeX pour les maths, la bibliographie faite "à la main" avec des liens directs, et elles sont affichées avec [StrapDown.js](https://github.com/Naereen/StrapDown.js)).
+  > Notamment : Vous pouvez imprimer les PDF, mais vous pouvez aussi utiliser le code de ces documents !
+  > - Pour les pages HTML, c'est en fait du [Markdown](http://daringfireball.net/projects/markdown/syntax.php) avec du LaTeX pour les maths, et elles sont affichées avec [StrapDown.js](https://github.com/Naereen/StrapDown.js),
+  > - Pour les fichiers LaTeX, ils fonctionnent avec [ce template](http://perso.crans.org/besson/publis/latex/template.fr.tex) et [ce script](http://perso.crans.org/besson/bin/autotex) (en fait les .tex et .pdf sont obtenus par conversion automatique depuis les .html, via [ce script](http://perso.crans.org/besson/bin/strapdown2pdf)),
+  > - Pour les deux, la bibliographie est faite "à la main" avec des liens directs (pas de BibTeX).
 
 ----
 
