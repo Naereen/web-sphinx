@@ -207,6 +207,7 @@ Plugins that add great features:
 * `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, ..., ``n``.
 * `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
+* `IncDecValue <https://packagecontrol.io/packages/IncDecValue>`_ allows to easily increment or decrement numbers, dates or colors.
 * `InsertDate <https://packagecontrol.io/packages/InsertDate>`_ allows to easily add today's date with a key shortcut (``F5`` by default), like this: *Wednesday 25 November 2015, 22:21:57*.
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
