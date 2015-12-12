@@ -7,7 +7,11 @@
 ############################
 .. include:: .special.rst
 
-.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_!
+I am looking for...
+-------------------
+ * :April 2016 to August 2016: research internship in applied mathematics (statistics, optimization or machine learning);
+ * :Prefered locations: Mainly France, but foreign is also possible (Canada, Sweden, Norway, Finland, Denmark, Switzerland etc);
+ * :Remark: no subvention is required! I am a *normalien* student, already paid buy the French government (until August 2016).
 
 .. sidebar:: Other language : in French
 
@@ -32,13 +36,6 @@ Contact address
        94230 - Cachan,
        France
 
-
-.. Currently
-.. -----------
-..  * :From 1 Frebruary 2015 to 31 August 2015: Second year MSc research internship. In *Computer Science* or *Mathematics*;
-..  * :Prefered locations: USA, UK, Canada, Sweden, Norway, Finland, Danmark;
-..  * :Prefered research domains: programming, differential equations, tropical algebras, time processes, parallel computation, GPU, cryptography, semantics, compilation.
-..  * :Remark: no subvention is required.
 
 Extra informations about me
 ---------------------------
@@ -94,11 +91,39 @@ Miscellaneous
  * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy literature and poetry;
  * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking, badminton.
 
+
+.. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_!
+
+Reference contacts (if needed)
+------------------------------
+Professors at `ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (2011/2016)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Claudine Picaronny <http://www.lsv.ens-cachan.fr/~picaro>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+- `Frédéric Pascal <https://sites.google.com/site/fredppascal/>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_)
+- `Nicolas Vayatis  <http://nvayatis.perso.math.cnrs.fr/>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ and `MLMDA <http://www.cmla.ens-cachan.fr/version-anglaise/research/mlmda-data/>`_)
+- `Hubert Comon <http://www.lsv.ens-cachan.fr/~comon/?l=fr>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+- `Serge Haddad <http://www.lsv.ens-cachan.fr/~haddad>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+
+
+Former internship advisors (2011/12 and 2012/13)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex.`UCL <http://www.cs.ucl.ac.uk/>`_),
+- `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn>`_ (`UCL <http://www.cs.ucl.ac.uk/>`_),
+- `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ and `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
+
+
+Employees in 2014/2015 and before
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `École Centrale de Paris <http://www.ecp.fr>`_ (in 2014-2015),
+- `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (in 2014-2015),
+- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasional, in 2014),
+- `Cours Thalès <http://www.cours-thales.fr>`_ (in 2013-14),
+- (And more if needed).
+
 ------------------------------------------------------------------------------
 
-####################
- Academic Education
-####################
+Academic Education
+------------------
 
 **2012-2013**: First-year MSc (*Master*)
 ----------------------------------------
@@ -168,9 +193,6 @@ BSc internship and thesis
     Interactive 2D simulation with *openGL*.
  * :Published:
     On my web page, the `bachelor thesis, in French <publis/rapportL3Maths12.pdf>`_.
-    Also published on the **IPOL journal** (`Image Processing on Line
-    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_),
-    August 2012.
 
 **2010-2011** : second-year BSc & *Classe Préparatoire*
 -------------------------------------------------------

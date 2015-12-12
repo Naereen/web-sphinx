@@ -6,7 +6,13 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 .. include:: .special.rst
-.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ (même si j'essaie).
+
+Je cherche actuellement
+-----------------------
+ * :Avril 2016 à août 2016: stage de recherche en mathématiques appliquées (statistique, optimization ou apprentissage automatique);
+ * :Lieu cherché: Surtout en France, mais l'étranger est aussi possible (Canada, Suède, Norvège, Finlande, Danemark, Suisse etc);
+ * :Remarque: pas de financement requis ! Je suis étudiant *normalien*, donc déjà payé par le MENESR (jusqu'à août 2016).
+
 
 .. sidebar:: Autre langue : en anglais ?
 
@@ -87,23 +93,46 @@ Divers
  * :Santé: bonne santé (vaccins à-jour, y compris les vaccins exotiques), et je porte des lunettes !
  * :Sports: escalade, trek, VTT, trottinette, natation, `auto-stop <autostop.fr.html>`_, badminton.
 
----------------------------------------------------------------------
-
-Contacts de références
-----------------------
-.. todo:: En construction ! Terminer cette partie là !
+.. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ (même si j'essaie).
 
 ---------------------------------------------------------------------
 
-######################
- Formation académique
-######################
+Contacts de références (si besoin)
+----------------------------------
+Professeurs de l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (2011/2016)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Claudine Picaronny <http://www.lsv.ens-cachan.fr/~picaro>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+- `Frédéric Pascal <https://sites.google.com/site/fredppascal/>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_)
+- `Nicolas Vayatis  <http://nvayatis.perso.math.cnrs.fr/>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ et `MLMDA <http://www.cmla.ens-cachan.fr/version-anglaise/research/mlmda-data/>`_)
+- `Hubert Comon <http://www.lsv.ens-cachan.fr/~comon/?l=fr>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+- `Serge Haddad <http://www.lsv.ens-cachan.fr/~haddad>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
+
+
+Anciens directeurs de stage (2011/12 et 2012/13)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex.`UCL <http://www.cs.ucl.ac.uk/>`_),
+- `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn>`_ (`UCL <http://www.cs.ucl.ac.uk/>`_),
+- `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ et `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
+
+
+Employeurs en 2014/2015 (et avant)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `École Centrale de Paris <http://www.ecp.fr>`_ (en 2014-2015),
+- `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (en 2014-2015),
+- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasionnel, en 2014),
+- `Cours Thalès <http://www.cours-thales.fr>`_ (en 2013-14),
+- (Et plus si besoin).
+
+---------------------------------------------------------------------
+
+Formation académique
+--------------------
 
 **2013-2014** : seconde année de Master (M2)
 ---------------------------------------------
-Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année. Étudiant en **mathématiques** et **informatique**.
+Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en cinquième année.
+Étudiant en **mathématiques** et **informatique**.
 
-.. todo:: Conclure les changements.
 
 **2012-2013** : première année de Master (M1)
 ---------------------------------------------
@@ -170,9 +199,6 @@ Stage et rapport de stage de L3
     Simulation intéractive en 2D, avec *openGL*.
  * :Publication:
     Sur ma page personnelle, le `rapport de stage <publis/rapportL3Maths12.pdf>`_.
-    Aussi publié dans le **journal IPOL** (`Image Processing on Line
-    <http://dev.ipol.im/~morel/Stages%202012%20m%E9moires/4_Rapport_L3_GPU_Besson_Isnard_Hecht.pdf>`_),
-    Août 2012.
 
 **2010-2011** : seconde année de Licence & *Classe Préparatoire*
 ----------------------------------------------------------------
