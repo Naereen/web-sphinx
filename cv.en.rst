@@ -37,15 +37,15 @@ Contact address
        France
 
 
-Extra informations about me
----------------------------
+Extra information about me
+--------------------------
  * :Date of Birth: January 12 1993. Age : **22**.
- * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in third year. Studying **mathematics** and **Computer Science**.
+ * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in 5th year. Studying **Mathematics** and **Computer Science**.
  * :Webpages:
 
     #. my personal web pages on the *ÉNS de Cachan CS department* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
 
-    #. my *bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_, which hosts my programming project;
+    #. my *Bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_, which hosts my programming project;
 
 ---------------------------------------------------------------------
 
@@ -124,6 +124,21 @@ Employees in 2014/2015 and before
 
 Academic Education
 ------------------
+Below there is a precise description of what I studied, year by year, from my Baccalaureat in 2009.
+
+**2015-2016**: second second year Msc (*Master*)
+------------------------------------------------
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
+- I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+
+.. note:: `See here for more information <index.en.html>`_.
+
+**2014-2015**: teaching for one year in India
+---------------------------------------------
+*Assistant professor* at the `(very new) <http://besson.qc.to/publis/10_10_2014__Liberation.en.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (at `Hyderabad <https://en.wikipedia.org/wiki/Hyderabad>`_, in India).
+Full time teaching faculty, in `Mathematics <http://perso.crans.org/besson/ma101>`_ (`MA101 <http://perso.crans.org/besson/ma101>`_ course in the first semester August-December 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ course in the second semester January-May 2015) and in `Computer Science <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 during the second semester) <http://besson.qc.to/cs101/index.pdf>`_.
+
+.. note:: `See here for more information <teaching.en.html>`_.
 
 **2012-2013**: First-year MSc (*Master*)
 ----------------------------------------

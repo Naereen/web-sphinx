@@ -39,14 +39,12 @@ Adresse de contact
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: 12 Janvier 1993. Âge : 22 ans.
- * :Statut actuel: *Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
-    Professeur à temps plein en `Mathématiques <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=7>`_ (cours MA101 au premier semestre août-décembre 2014, 102 au second semestre janvier-mai 2015) et en `Informatique <http://www.mahindraecolecentrale.edu.in/portal/course/info.php?id=17>`_ `(cours CS101 au second semsestre) <http://besson.qc.to/cs101/index.pdf>`_.
-
+ * :Actuellement: Étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en 5ème année, en **mathématiques** et **informatique**.
  * :Pages sur le web:
 
    #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
 
-   #. mon compte *bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge du code et projets de programmation.
+   #. mon compte *Bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge du code et projets de programmation.
 
 ---------------------------------------------------------------------
 
@@ -127,11 +125,27 @@ Employeurs en 2014/2015 (et avant)
 
 Formation académique
 --------------------
+Ci dessous se trouve une description précise, année par année, de ce que j'ai étudié depuis mon bac en 2009.
+
+**2015-2016** : seconde seconde année de Master (M2)
+----------------------------------------------------
+- Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
+- je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+
+.. note:: `Voir ici pour plus d'informations <index.fr.html>`_.
+
+**2014-2015** : un an d'enseignement en Inde
+---------------------------------------------
+*Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
+Professeur à temps plein en `Mathématiques <http://perso.crans.org/besson/ma101>`_ (cours `MA101 <http://perso.crans.org/besson/ma101>`_ au premier semestre août-décembre 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ au second semestre janvier-mai 2015) et en `Informatique <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 au second semsestre) <http://besson.qc.to/cs101/index.pdf>`_.
+
+.. note:: `Voir ici pour plus d'informations <enseignement.fr.html>`_.
 
 **2013-2014** : seconde année de Master (M2)
 ---------------------------------------------
-Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en cinquième année.
+Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année.
 Étudiant en **mathématiques** et **informatique**.
+Lauréat du concours de l'agrégation de mathématiques (option informatique).
 
 
 **2012-2013** : première année de Master (M1)
