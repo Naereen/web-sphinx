@@ -107,7 +107,7 @@ Professors at `ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (2011/2016)
 
 Former internship advisors (2011/12 and 2012/13)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex.`UCL <http://www.cs.ucl.ac.uk/>`_),
+- `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex `UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn>`_ (`UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ and `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
 
