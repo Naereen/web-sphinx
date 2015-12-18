@@ -51,27 +51,13 @@ Par exemple, la formule dite d'Euler sera indiquée avec l'option
    :label: euler
 
 J'aime l'équation :eq:`euler`
-(qui a été élue 'plus belle formule' de l'histoire des Mathématiques en 1991 !)
+(qui a été élue *"plus belle formule"* de l'Histoire des Mathématiques en 1991 !)
 donc j'y fait référence, avec le code ``:eq:`euler```.
 
 On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code```.
-J'ai intégré sans redoubler, donc j'ai intégré en :math:`\frac{3}{2}`
+J'ai intégré (l'ENS Cachan) sans redoubler en 2011, on dit donc que j'ai intégré en :math:`\frac{3}{2}`
 (on rappelle que :math:`\int_{0}^{2} x .dx = \frac{3}{2}`).
 
-Soucis à l'importation des modules
-----------------------------------
-.. warning:: Ne fonctionnait plus, mais là c'est de nouveau bon...
-
-   Le samedi 30 mars ~ 16h, cette page n'affichait plus correctement
-   les codes LaTeX avec MathJax.
-   Le problème venait de l'ordre d'importation des extensions **Sphinx**.
-
-   Dans ``conf.py``, il y a le paragraphe : ::
-
-       extensions = [ 'sphinx.ext.todo', ..., 'sphinx.ext.mathjax' ]
-
-   Eh bien il se trouve que **MathJax** se désactive si on importe
-   ``rst2pdf.pdfbuilder`` après ``sphinx.ext.mathjax`` !
 
 Une syntaxe encore plus concise ?
 ---------------------------------
