@@ -2,9 +2,9 @@
    :description lang=en: Why and how to use WakaTime to monitor the time you spend on programming
    :description lang=fr: Comment et pourquoi utiliser WakaTime pour surveiller le temps passé à programmer
 
-###########################################################################
- Why and how to use WakaTime to monitor the time you spend on programming?
-###########################################################################
+#############################################################################
+ *Why* and how to use WakaTime to monitor the time you spend on programming?
+#############################################################################
 .. include:: .special.rst
 
 What is this weird idea?
@@ -15,7 +15,7 @@ What is this weird idea?
 
 Why exactly?
 ------------
- Hum, in fact, the real reason seems to be pure ego: programmers are proud to see how much time they can work on each of their projects.
+ Hum... in fact, the real reason seems to be pure ego: programmers are *proud* to see *how much time* they can work on each of their projects.
 
 ------------------------------------------------------------------------------
 
@@ -25,12 +25,14 @@ How can we monitor our programming time?
 ----------------------------------------
 The goal of `WakaTime <https://wakatime.com/>`_ is to offer to any developer an easy, (relatively) *"secured"* and centralized way to monitor the time she/he spend on programming, on a daily, weekly or monthly basis.
 
-And they do the job extremely well, because `WakaTime`_ offers two things:
+And they do the job extremely well, because `WakaTime`_ offers three things:
 
- - `a nice web interface <https://wakatime.com/>`_, well designed (responsive of course), to visualize your activity,
- - and  `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-ins,* you know, these small softwares that you can easily add to `your favorite text editor <sublimetext.en.html>`_.
+ - `a very nice web interface <https://wakatime.com/>`_, well designed (responsive of course), to visualize your activity,
+ - `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-ins,* you know, these small softwares that you can easily add to `your favorite text editor <sublimetext.en.html>`_,
+ - and `an easy way to embed some charts <https://wakatime.com/share>`_ anywhere on the web.
 
-The concept is quite simple after: your text editor is spying on you and each aspect of your programming activity, to send the data on-line on `Wakatime`_ servers, and then you (and their sys-admins, and NSA of course) can easily read and use your personal data.
+The concept is quite simple after: your text editor is spying on you and each aspect of your programming activity, to send the data on-line on `WakaTime`_ servers, and then you (and their sys-admins, and the NSA of course) can easily read and use your personal data.
+*Scary, right?*
 
 ------------------------------------------------------------------------------
 
@@ -41,13 +43,12 @@ Installation and use of WakaTime
 I am using `Sublime Text 3 <sublimetext.en.html>`_ almost exclusively, and from now 1 year and a half.
 Without any surprise, the `WakaTime`_ team had written a plug-in for `Sublime Text 3`.
 
-`You can install it with two clicks <https://packagecontrol.io/packages/WakaTime>`_, and the plug-in will integrate nicely in `ST3 <sublimetext.en.html>`_ (discrete, minimal system workload, and it can even stores the data in order to send them later if your computer is temporarily disconnected from Internet etc).
+`You can install it with two clicks <https://packagecontrol.io/packages/WakaTime>`_, and the plug-in will integrate nicely in `ST3 <sublimetext.en.html>`_ (discrete, minimal system workload, and it can even stores the data in order to send them later if your computer is temporarily disconnected from Internet).
 
 
-Overview of the stats ?
-^^^^^^^^^^^^^^^^^^^^^^^
-
- During the first 8 days, I was like in a `coding marathon <https://bitbucket.org/lbesson/>`_ to conclude some projects (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, my `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), but still, I was kind of scared to see that I used my text editor for **29 hours in 8 days!**
+Overview of the statistics ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ During the first 8 days (after installing it, in January 2015), I was in a `coding marathon <https://bitbucket.org/lbesson/>`_ to conclude some projects (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, my `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), but still, I was kind of scared to see that I used my text editor for **29 hours in 8 days!**
 
 It is also possible to see:
 
@@ -57,9 +58,50 @@ It is also possible to see:
 
 For instance, during my first week of use, the repartition was about: 30% HTML, 29% Python, 15% reStructuredText, 6% Bash, 12% Markdown.
 
+
+------------------------------------------------------------------------------
+
+Sharing these statistics ?
+--------------------------
+Coding time over last 30 days
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This first chart shows how long I code every day:
+
+.. raw:: html
+
+   <figure><embed width="880" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
+
+
+Languages over last 30 days
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You can see that I mainly use `Python <learn-python.en.html>`_ and `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ and `reStructuredText <demo.html>`_, and Markdown (or HTML when using `StrapDown.js <http://lbesson.bitbucket.org/md/>`_) :
+
+.. raw:: html
+
+   <figure><embed width="780" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
+
+
+Editors over last 30 days
+^^^^^^^^^^^^^^^^^^^^^^^^^
+WakaTime thinks I only use the wonderful `Sublime Text 3 <sublimetext.en.html>`_ (and it's almost correct!) :
+
+.. raw:: html
+
+   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/09d7687c-5e34-4583-bca7-cf45c9172350.svg"></embed></figure>
+
+
+.. note::
+
+   WakaTime does not count `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, or `Spyder <https://pythonhosted.org/spyder/>`_ for Python 2/3.
+
+
+Sharing stats for a specific project?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+It is also possible to share the stats of one project, with a dedicated obfuscated link, like `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ for example (corresponding to `that project <https://bitbucket.org/lbesson/web-sphinx/>`_).
+
 Include a graphic of these stats here, with an iframe?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com/@lbesson>`_, with an iframe:
+Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com/@lbesson>`_, with an *iframe*:
 
 .. raw:: html
 
@@ -68,29 +110,27 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
    </p>
 
 
-.. note:: Before I find anything better...
+.. note::
 
-   I would love to find an easy way to just include the pie chart, and not the entire page.
+   :line:`I would love to find an easy way to just include the pie chart, and not the entire page.`
+   :red:`Edit:` On December 19th (2015), I got an email from `Alan Hamlet <https://github.com/alanhamlett>`_, CEO and founder of WakaTime, to inform me of the new `charts share <https://wakatime.com/share>`_ feature.
+   The charts displayed above are good examples of this very new WakaTime feature (I find it very cool!).
 
-
-Sharing stats for a project?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-It is also possible to share the stats of one project, with a dedicated obfuscated link, like `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ for example (corresponding to `that project <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 ------------------------------------------------------------------------------
 
-Let us finish on a bonus : read your `Wakatime`_ stats from the command line
-----------------------------------------------------------------------------
+Let us finish on a bonus: read your `WakaTime`_ stats from the command line
+---------------------------------------------------------------------------
 
 It is easy to install the command line tool `WakaTimeCLI <https://github.com/JoshLankford/WakaTimeCLI/tree/master/src>`_,
 with the command ``npm install wakatimecli``.
 
-.. note:: nodejs and npm are needed
+.. note:: `nodejs`_ and `npm`_ are needed.
 
     This requires to have already installed `nodejs <https://nodejs.org/>`_ on your machine, and its packet manager `npm <https://www.npmjs.com/>`_.
 
 
-This tool is based on `the officiel Wakatime API <https://wakatime.com/developers/>`_, and his fairly easy to use.
+This tool is based on `the officiel WakaTime API <https://wakatime.com/developers/>`_, and his fairly easy to use.
 The first command is `wakatime -help <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ which shows the different options that are accepted by the tool: ::
 
     Please pass an option:
@@ -118,7 +158,7 @@ The help (``wakatime -help``) is not very clear, but we can guess its use `by di
    But thanks to `this sed command <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]*[mK]::g"`) I thought I would be able to include the output of a `wakatime` command in this page.
 
 
-Then, in order to be able to use the tool, you will need to add `your API Key (available in the settings on Wakatime.com/settings) <https://wakatime.com/settings>`_ : ::
+Then, in order to be able to use the tool, you will need to add `your API Key (available in the settings on WakaTime.com/settings) <https://wakatime.com/settings>`_ : ::
 
     wakatime -api yourApiKeyHere
 

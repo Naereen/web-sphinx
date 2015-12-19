@@ -2,9 +2,9 @@
    :description lang=en: Why and how to use WakaTime to monitor the time you spend on programming
    :description lang=fr: Comment et pourquoi utiliser WakaTime pour surveiller le temps passé à programmer
 
-#############################################################
- WakaTime permet de monitorer ses habitudes de programmation
-#############################################################
+#####################################################################################
+ Pourquoi et comment utiliser WakaTime pour monitorer ses habitudes de programmation
+#####################################################################################
 .. include:: .special.rst
 
 Concept ?
@@ -15,7 +15,7 @@ Concept ?
 
 Pourquoi ?
 ----------
- La vraie raison semble purement liée à l'égo : les programmeurs sont fiers de voir le temps qu'il passe sur leurs projets.
+ Hum... en fait, la vraie raison semble purement liée à l'égo : les programmeurs sont *fiers* de voir *tout le temps* qu'il passe sur leurs projets.
 
 ------------------------------------------------------------------------------
 
@@ -25,12 +25,14 @@ Comment ?
 ---------
 Le but de `WakaTime <https://wakatime.com/>`_ est de proposer aux développeurs une façon simple, *"sécurisée"* et centralisée de surveiller le temps passé à programmer.
 
-Et ils font ça bien, puisque `WakaTime`_ se présente sous deux formes :
+Et ils font ça bien, puisque `WakaTime`_ se présente sous trois formes :
 
  - `une interface web <https://wakatime.com/>`_, fort bien conçue, qui permet notamment de visualiser son activité,
- - et `une très grande collection <https://wakatime.com/help/getting-started/welcome>`_ de *plugin*, ces petits logiciels (aussi appelés greffons) que vous pouvez facilement ajouter à votre éditeur de texte.
+ - `une très grande collection <https://wakatime.com/help/getting-started/welcome>`_ de *plugin*, ces petits logiciels (aussi appelés greffons) que vous pouvez facilement ajouter à votre éditeur de texte,
+ - et `un moyen très facile d'intégrer certains graphiques <https://wakatime.com/share>`_ sur un site web, un blog Twitter, Facebook etc.
 
-Le concept est simple : votre éditeur de texte vous espionne, envois les données en ligne sur les serveurs de `WakaTime`_, et ensuite vous (et les responsables du service, ainsi que la NSA) pouvez librement consulter ces données.
+Le concept est simple : votre éditeur de texte vous espionne, envois les données en ligne sur les serveurs de `WakaTime`_, et ensuite vous (et les responsables du service, ainsi que la NSA bien-sûr) pouvez librement consulter ces données.
+*Effrayant, non ?*
 
 ------------------------------------------------------------------------------
 
@@ -42,12 +44,12 @@ J'utilise `Sublime Text 3 <sublimetext.fr.html>`_ de façon quasi exclusive, et 
 
 Sans surprise, `WakaTime`_ propose un greffon pour `Sublime Text 3`, mon éditeur favori.
 
-`Il s'installe en deux clics <https://packagecontrol.io/packages/WakaTime>`_, et s'intègre à la perfection (discret, charge système minimum, accumule les données et les envoit plus tard si l'ordinatueur est déconnecté du réseau etc).
+`Il s'installe en deux clics <https://packagecontrol.io/packages/WakaTime>`_, et s'intègre à la perfection (discret, charge système minimum, et il peut même accumuler les données et les envoit plus tard si l'ordinateur est déconnecté du réseau).
 
 
-Aperçus des stats ?
-^^^^^^^^^^^^^^^^^^^
-Durant les 8 premiers jours, j'étais en `mode « développement intensif » <https://bitbucket.org/lbesson/>`_ pour conclure certains projets (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), mais j'étais tout de même un peu effrayé de voir **29h d'activité en 8 jours !**
+Aperçus des statistiques ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Durant les 8 premiers jours (après avoir installé le greffon, en janvier 2015), j'étais en `"mode" « développement intensif » <https://bitbucket.org/lbesson/>`_ pour conclure certains projets (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), mais j'étais tout de même un peu effrayé de voir **29h d'activité en 8 jours !**
 
 Il est aussi possible de voir :
 
@@ -56,6 +58,48 @@ Il est aussi possible de voir :
  - et même quels fichiers (cela peut être désactivé).
 
 Par exemple, la première semaine, cela se répartissait selon : 30% HTML, 29% Python, 15% reStructuredText, 6% Bash, 12% Markdown.
+
+
+------------------------------------------------------------------------------
+
+Partager ces statistiques ?
+---------------------------
+Temps passé à programmer durant les 30 derniers jours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ce premier graphique montre combien de temps je code chaque jour (environ) :
+
+.. raw:: html
+
+   <figure><embed width="880" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
+
+
+Langages utilisés durant les 30 derniers jours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vous pouvez voir que j'utilise principalement `Python <apprendre-python.fr.html>`_ et `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ et `reStructuredText <demo.html>`_, et Markdown (ou HTML, si c'est une page utilisant `StrapDown.js <http://lbesson.bitbucket.org/md/>`_) :
+
+.. raw:: html
+
+   <figure><embed width="780" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
+
+
+Éditeurs de textes utilisés durant les 30 derniers jours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WakaTime détecte que j'utilise presque uniquement l'extraordinaire `Sublime Text 3 <sublimetext.en.html>`_ (et c'est presque vrai !) :
+
+.. raw:: html
+
+   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/09d7687c-5e34-4583-bca7-cf45c9172350.svg"></embed></figure>
+
+
+.. note::
+
+   WakaTime ne compte pas l'utilisation de `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, ou `Spyder <https://pythonhosted.org/spyder/>`_ pour Python 2/3.
+
+
+Partager les stats d'un projet en particulier
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ par exemple (correspondant à `ce project <https://bitbucket.org/lbesson/web-sphinx/>`_).
+
 
 Inclure un graphique via une iframe ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -70,12 +114,9 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 
 .. note:: En attendant de faire mieux...
 
-   J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.
-
-
-Partager les stats d'un projet en particulier
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ par exemple (correspondant à `ce project <https://bitbucket.org/lbesson/web-sphinx/>`_).
+   :line:`J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.`
+   :red:`Correction :` Le 19 décembre (2015), j'ai reçu un courriel de `Alan Hamlet <https://github.com/alanhamlett>`_ PDG et créateur de WakaTime, pour m'informer de la nouvelle fonctionnalité de `partage de graphiques <https://wakatime.com/share>`_ WakaTime.
+   Les graphiques inclus ci-dessus sont de bons exemples de ce qu'apprte cette toute nouvelle fonctionnalité (que je trouve très cool !).
 
 ------------------------------------------------------------------------------
 
@@ -85,7 +126,7 @@ Un bonus : accéder aux statistiques en ligne de commande
 Il est facile d'installer l'outil `WakaTimeCLI <https://github.com/JoshLankford/WakaTimeCLI/tree/master/src>`_,
 avec la commande ``npm install wakatimecli``.
 
-.. note:: `nodejs` et `npm` sont requis
+.. note:: `nodejs`_ et `npm`_ sont requis.
 
     Cela demande d'avoir déjà installé sur votre machine `nodejs <https://nodejs.org/>`_ et son gestionnaire de paquet `npm <https://www.npmjs.com/>`_.
 
@@ -118,7 +159,7 @@ L'aide (``wakatime -help``) n'est pas très bien écrite, mais on peut deviner s
    Merci `à cette astuce à coup de sed <http://www.commandlinefu.com/commands/view/3584/remove-color-codes-special-characters-with-sed>`_ (` | sed -r "s:\\x1B\\[[0-9;]\\*[mK]::g"`).
 
 
-Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur Wakatime.com) <https://wakatime.com/settings>`_ : ::
+Ensuite, il faut ajouter `votre clé API Key (disponible dans les réglages sur WakaTime.com) <https://wakatime.com/settings>`_ : ::
 
     wakatime -api yourApiKeyHere
 
