@@ -18,9 +18,12 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 - des colles de mathématiques (2h/semaine). Mes références pour `le cours <http://mp.cpgedupuydelome.fr/courspe.php>`_ et `les exercises <http://mp.cpgedupuydelome.fr/exospe.php>`_ sont ces sites là : `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (surtout), ces exercices `par Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ et `par Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (pour des points précis du cours), et `ce Vrai/Faux par Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (et `Wikipédia <https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes>`_, bien sûr).
 - et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toute les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
-.. seealso:: Solutions complètes
+.. seealso:: Solutions complètes pour le cours d'*Informatique pour Tous* :
 
-   Je garde à jour ces `solutions aux TD <infoMP/TDs/solutions/>`_ et `solutions aux TP <infoMP/TPs/solutions/>`_.
+   Vous pouvez jeter un oeil à mes solutions : `aux exercices sur papier (TD) <infoMP/TDs/solutions/>`_,
+   `aux examens écrits (DS) <infoMP/DSs/solutions/>`_, ainsi qu'`aux exercices pratiques (TP) <infoMP/TPs/solutions/>`_.
+   Je fais de mon mieux pour qu'elles soient complètes et à-jour (semaine après semaine). N'hésitez pas à les lire un peu !
+
 
 .. note:: Remplacement en BCPST-2A (prépa' bio', 2ème année)
 

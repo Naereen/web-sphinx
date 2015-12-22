@@ -18,9 +18,11 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
 - and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
-.. seealso:: Complete solutions
+.. seealso:: Complete solutions for the *Computer Science* course:
 
-   I am keeping these `solutions to the algorithmic problems (written) <infoMP/TDs/solutions/>`_ and `solutions to the programming problems (implementation) <infoMP/TPs/solutions/>`_ up-to-date.
+   Hey, you can have a look to my solutions: to `some algorithmic problems (written) <infoMP/TDs/solutions/>`_, to `some written exams about algorithms and data structures <infoMP/DSs/solutions/>`_,
+   and to `some programming problems (implementation, on a computer, during a practical session) <infoMP/TPs/solutions/>`_ up-to-date.
+   I am doing my best to provide full solutions for every week, and keep them up-to-date. Feel free to explore them!
 
 .. note:: Replacement in BCPST-2A (2nd year biology prep'school)
 
