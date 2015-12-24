@@ -4,7 +4,7 @@
 
     Page principale. (default version)
 
-    :copyright: Copyright 2013-2015 Lilian Besson
+    :copyright: Copyright 2013-2016 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 {% extends "!layout.html" %}
@@ -157,7 +157,7 @@
 	<!-- scrollUp jQuery plugin (source : http://markgoodyear.com/2013/01/scrollup-jquery-plugin/) -->
 	 <script type="text/javascript" src="{{ pathto('_static/jquery.scrollUp.min.js', true)|e }}"></script>
 <script type="text/javascript">
-console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2015.");
+console.log("[INFO] Starting main JS content when document will be ready ! © Lilian BESSON, 2011-2016.");
   NProgress.inc();
 // Put all "embedded" script into a $(document).ready(function() {... });
  $(document).ready(function() {
@@ -198,7 +198,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
 +"  - <a href=\"https://bitbucket.org/lbesson/web-sphinx/rss\">bitbucket.org/lbesson/web-sphinx/rss</a></br>\n"
 +"  - <a href=\"http://besson.qc.to/rss.xml\">besson.qc.to/rss.xml</a></br>\n"
-+"<small>Ce site est créé par Lilian Besson, © 2011-2015</small>",
++"<small>Ce site est créé par Lilian Besson, © 2011-2016</small>",
   {layout:'center', type:'information'}); });
 {% if prev %}Mousetrap.bind(["left", "p"], function() { alert("Going to prev <a href=\"{{ prev.link|e }}\">{{ prev.link|e }}</a>"); location.href="{{ prev.link|e }}"; });{% endif %}
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
@@ -213,7 +213,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
     var secs  = last_updated_value.substring(21, 23) || "00";
    alert(" Cette page a été générée le " + last_updated_value
     + "</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+01:00") + "</b>"
-    + ".</br></br>\n© Lilian BESSON 2011-2015.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
+    + ".</br></br>\n© Lilian BESSON 2011-2016.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
   Mousetrap.bind(["q"], function(){
     console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
@@ -293,7 +293,7 @@ to collect audience log, you can disable it with
    <!-- <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script> -->
    <script async type="text/javascript" src="{{ pathto('_static/mathjax/MathJax.js', true)|e }}?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"></script>
 </div>
-<!-- This file is © Lilian Besson, 2011-2015.
+<!-- This file is © Lilian Besson, 2011-2016.
    * I'm a Computer Science and Mathematics student, at ENS de Cachan.
    * This file layout.html is part of my web pages, generated with Sphinx.
    * Those pages are hosted on the Crans website, http://perso.crans.org/besson;
