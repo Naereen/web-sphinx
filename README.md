@@ -24,7 +24,7 @@ used with python.opt.js to embed a Python toplevel in my web pages (I know, it's
 ----
 
 ### Author:
-Lilian Besson.
+(C) © Lilian Besson, 2011-2016.
 
 ### Languages:
  * reStructuredText (mainly, for the content of the pages)
