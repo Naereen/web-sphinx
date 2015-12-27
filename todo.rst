@@ -13,7 +13,7 @@ et d'idées pour améliorer ces pages webs (`<index.html>`_ pour en savoir plus)
 
 ------------------------------------------------------------------------------
 
-Grâce à `cette extension<http://sphinx-doc.org/ext/todo.html>`_,
+Grâce à `cette extension <http://sphinx-doc.org/ext/todo.html>`_,
 il suffit d'utiliser la directive ``.. todolist::`` pour afficher
 la liste des différents **TODO** écrits dans d'autres pages.
 
