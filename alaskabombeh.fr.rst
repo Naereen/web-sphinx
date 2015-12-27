@@ -2,7 +2,7 @@
  "Si votre montagne n'est pas à la bonne place, envoyez-nous juste une carte postale"
 ######################################################################################
 .. include:: .special.rst
-.. note:: Cette page est issu d'un article rédigé pour La Sauce
+.. note:: Cette page est issu d'un article rédigé pour La Sauce, le journal des étudiants de l'ENS Cachan, en avril 2013.
 
 
 Dans les années 50, le **Lawrence Radiation Laboratory (LRL)** est un organisme
@@ -48,4 +48,4 @@ d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abando
    .. [#teller] Dont `Edward Teller <https://fr.wikipedia.org/wiki/Edward_Teller>`_, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
    .. [#inupiak] L'*inupiak*, ou *iñupiak* est une langue iniut, utilisée dans le grand nord de l'Alaska. Plus de détails ici `<https://fr.wikipedia.org/wiki/Inupiak>`_ par exemple.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -159,7 +159,7 @@ Obtenir une clé d'application
      3HHP2W-UUPQUT6997
 
 
-.. warning:: Ceci n'est pas une clé valide !
+.. warning:: Ceci n'est pas une clé valide ! Utilisez la votre !
 
 Enregistrer la clé
 ------------------
@@ -237,17 +237,18 @@ D'autres exemples
 
 Faiblesse de cette méthode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
- Une première faiblesse de ``.. runblock:: console`` pour exécuter ``wolf question``
- est la limitation à des caractères ASCII imposée par l'extension `runblock
- <runblock.html>`_ (limitation déjà signalée dans `cette page <runblock.html>`_, où je suis forcé
- de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
+ Une première faiblesse de l'utilisation de la `commande rST <demo.html>`_
+ ``.. runblock:: console`` pour exécuter ``wolf question`` est
+ la limitation à des caractères ASCII imposée par l'extension `runblock <runblock.html>`_
+ (limitation déjà signalée dans `cette page <runblock.html>`_, où je suis forcé de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
 
 Une extension ?
 ^^^^^^^^^^^^^^^
- On pourrait envisager de faire une extension Sphinx qui,
- comme `gnuplot <gnuplot_embed.html>`_, permettrait d'embarquer
- des graphiques et des tableaux produits par *Wolfram|Alpha*.
+ On pourrait envisager de faire une extension Sphinx qui, comme `gnuplot <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des tableaux produits par *Wolfram|Alpha*.
  J'ai la flemme.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. todo:: Traduire cette page en anglais !
+
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

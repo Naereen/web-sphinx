@@ -230,8 +230,6 @@ Autres pages
  Le premier terminal **Python** que j'ai intégré dans mes pages est là
  `<python.html>`_.
 
-.. Par ailleurs, le sous dossier `<python-doc/>`_ contient une copie locale de la documentation de **Python 2.7.3**.
-
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
@@ -243,4 +241,5 @@ Copyrights
  Le **toplevel** Python embarqué ici vient du projet *Skulpt*,
  dont la page principale est `www.skulpt.org <http://www.skulpt.org/>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

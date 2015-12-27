@@ -156,11 +156,13 @@ Avec cette astuce, il n'affiche plus ces messages inutiles : victoire !
 
 Bug étrange de pygments
 ^^^^^^^^^^^^^^^^^^^^^^^
-J'ai des fois vu pygments ou pygmentize se casser complètement, et la correction que je fais manuellement est
-de supprimer le support (annoncé comme expérimental) de ``pkg_resources``
+J'ai des fois vu ``pygments`` ou ``pygmentize`` se casser complètement,
+et la correction que je fais :red:`manuellement` est de supprimer
+le support (annoncé comme expérimental) de ``pkg_resources``
 dans le fichier `plugin.py <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_,
-en forçant manuellement ``pkg_resources = None``
+en forçant :red:`manuellement` ``pkg_resources = None``
 (`à la ligne 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
 :red:`C'est sale` mais ça corrige le bug...
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

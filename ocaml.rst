@@ -14,7 +14,7 @@ Le toplevel
 .. raw:: html
 
    <h4>Toplevel OCaml 4.00.1</h4>
-   <style type="text/css" media="screen">#toplevel { 
+   <style type="text/css" media="screen">#toplevel {
         font-family: monospace;
         font-size: 18px;
         position: relative;
@@ -45,9 +45,9 @@ Le toplevel
 
    Try Ocaml
       La page `<try-ocaml.html>`_ présente **Try OCaml**, directement copié
-      depuis `try.ocamlpro.com <http://try.ocamlpro.com>`_, qui présente les 
+      depuis `try.ocamlpro.com <http://try.ocamlpro.com>`_, qui présente les
       avantages suivants :
-      
+
        * leçons intéractives en anglais (plus de support du français avec la v4 !);
        * support du "drag and drop" de fichiers;
        * permet de télécharger l'historique des entrées;
@@ -80,21 +80,20 @@ Un exemple de programme OCaml
 Hébergements
 ------------
  Les scripts **Javascript** utilisés sur mes pages sont désormais
- hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts 
+ hébergés sur ce dépot *git* : `lbesson/web-sphinx-scripts
  <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, sur **bitbucket.org**.
 
 Copyrights
 ----------
  * **OCaml** est © et ® INRIA;
-
  * **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
-     Pour plus d'infos, voir `ocsigen.org/js_of_ocaml 
+     Pour plus d'infos, voir `ocsigen.org/js_of_ocaml
      <http://www.ocsigen.org/js_of_ocaml/>`_.
 
 Remerciements
 -------------
  * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
-
  * Merci aux auteurs d'**OCaml**;
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -26,9 +26,8 @@ paragraphe de formules :
 
 .. math::
 
-   (a + b)^2 = a^2 + 2ab + b^2
-
-   (a - b)^2 = a^2 - 2ab + b^2
+   (a + b)^2 &= a^2 + 2ab + b^2 \\
+   (a - b)^2 &= a^2 - 2ab + b^2
 
 Démonstration
 ~~~~~~~~~~~~~
@@ -58,6 +57,14 @@ On peut aussi faire comme ``$ math code $`` en ``LaTeX`` avec ``:math:`math code
 J'ai intégré (l'ENS Cachan) sans redoubler en 2011, on dit donc que j'ai intégré en :math:`\frac{3}{2}`
 (on rappelle que :math:`\int_{0}^{2} x .dx = \frac{3}{2}`).
 
+
+Plus d'exemples
+^^^^^^^^^^^^^^^
+J'utilise très souvent des maths dans une documentation rédigée en `reStructuredText <demo.html>`_ :
+
+ - `mec-cs101-integrals <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_,
+ - `mec-cs101-matrices <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_,
+ - `infoMP/TPs <http://perso.crans.org/besson/infoMP/TPs/solutions/>`_, `infoMP/DSs <http://perso.crans.org/besson/infoMP/DSs/solutions/>`_ et `infoMP/TDs <http://perso.crans.org/besson/infoMP/TDs/solutions/>`_.
 
 Une syntaxe encore plus concise ?
 ---------------------------------
@@ -205,4 +212,4 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 (en rST avec ``:math:``, en HTML avec ``.. raw:: html`` et directement avec ``\(code LaTeX\)``)
 affichent la même chose.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

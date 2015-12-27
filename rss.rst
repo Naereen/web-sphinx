@@ -21,9 +21,6 @@ Il y a deux flux :
    :target: http://besson.qc.to/rss.xml
 
 
-.. warning:: generateit.net est fermé, sans service de remplacement.
-
-
 Le flux 1 (Bitbucket)
 ---------------------
 Ce flux ne s'affiche plus, mais en revanche, l'extension `bitbucket` permet d'afficher
@@ -31,11 +28,6 @@ les dernières modifications du dépôt git (presque pareil que le flux) :
 
 .. git_changelog::
 
-
-
-Le flux 2 (écrit à la main)
----------------------------
-Sans *generateit.net*, marche plus :(
 
 Flux valide ?
 -------------
@@ -47,4 +39,5 @@ Flux valide ?
 
 Normalement, le flux écrit à la main est valide, comme le montre le lien suivant :
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

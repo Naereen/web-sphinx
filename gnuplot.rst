@@ -201,22 +201,18 @@ Copyrights
  et `gnuplot_api.js <_static/gnuplot_api.js>`_ sont la dernière version du projet écrit par
  Christian Huettig.
 
- La page officielle du projet est
- `gnuplot.respawned.com <http://gnuplot.respawned.com/>`_.
+ La page officielle du projet est `gnuplot.respawned.com <http://gnuplot.respawned.com/>`_.
 
 GNU Plot
 ~~~~~~~~
- ``GNU Plot`` est © et ® du projet **GNU**, voir la page officielle
- `GNUPlot <http://www.gnuplot.info/>`_ pour plus
- de détails.
- Par exemple, de nombreuses démos sont présentes ici
- `<http://www.gnuplot.info/demo_canvas/>`_.
+ ``GNUPlot`` est © et ® du projet **GNU**, voir la page officielle
+ `GNUPlot <http://www.gnuplot.info/>`_ pour plus de détails.
+ Par exemple, de nombreuses démos sont présentes ici `<http://www.gnuplot.info/demo_canvas/>`_.
 
 Emscripten
 ~~~~~~~~~~
- Le compilateur utilisé par Christian Huettig est
- ``Emscripten``, voir `github.com/kripken/emscripten
- <https://github.com/kripken/emscripten>`_
+ Le compilateur utilisé par Christian Huettig est ``Emscripten``,
+ voir `github.com/kripken/emscripten <https://github.com/kripken/emscripten>`_
  pour plus de détails.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

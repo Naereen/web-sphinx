@@ -11,8 +11,21 @@ et d'idées pour améliorer ces pages webs (`<index.html>`_ pour en savoir plus)
 
    Une liste "à jour" de chose à faire (privée) est là `<TODO.html>`_.
 
+------------------------------------------------------------------------------
 
-Cette fonctionnalité viend de l'extension officielle ``sphinx.ext.todo``.
+Grâce à `cette extension<http://sphinx-doc.org/ext/todo.html>`_,
+il suffit d'utiliser la directive ``.. todolist::`` pour afficher
+la liste des différents **TODO** écrits dans d'autres pages.
+
+La liste
+--------
+.. todolist::
+
+------------------------------------------------------------------------------
+
+
+Cette fonctionnalité viend de l'extension officielle ``sphinx.ext.todo``
+(voir `cette page (sphinx.ext.todo) <http://sphinx-doc.org/ext/todo.html>`_ pour plus de détails).
 
 De tels soucis peuvent être déclarés via : ::
 
@@ -27,22 +40,12 @@ Ici se trouve des **TODO** génériques, qui concernent le projet entier (heberg
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 .. todo:: Nettoyer les vieilles pages, notamment `<trademarks.html>`_.
-
-.. todo:: Terminer l'intégration d'ACE aux toplevels GNUPlot et OCaml !
+.. todo:: Abandonner l'intégration d'ACE aux toplevels GNUPlot et OCaml !
 
 .. versionadded:: 2.1
 
    J'ai réparé `<skulpt.html>`_ et `<python.html>`_.
    Ils ont tous les deux ACE d'activés, de jolis bouton etc.
 
-------------------------------------------------------------------------------
 
-Toujours grâce à cette extension, il suffit d'utiliser la directive
-``.. todolist::`` pour afficher la liste des différents **TODO**
-écrits dans d'autres pages.
-
-La liste
---------
-.. todolist::
-
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -75,7 +75,8 @@ Why this rather empty page on my web-site?
 ------------------------------------------
  Mainly because I wanted to have one *easy-to-find* web-page where to **quickly find the IPv4** (and IPv6) **addresses of the OpenDNS** (and Google DNS) **servers**, in order to be able to *quickly* copy/paste them when I **configure a new Wi-Fi** (or Ethernet) **connexion** on my personal laptop.
 
-Now it is done!
+
+Now it's done!
 
 ----
 
@@ -123,4 +124,5 @@ But that free service is supposed to not modify the domain names space, contrari
 Our Linuxian friends can also use a `resolv.conf <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, and for example `that one on www.chaz6.com/files/resolv.conf <http://www.chaz6.com/files/resolv.conf>`_ can help, or by following `these explanations <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
 Some extra explanations `are also here on theos.in <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ or `here on die.net <http://linux.die.net/man/5/resolv.conf>`_, or as always `on Wikipédia (yes, I like Wikipédia!) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

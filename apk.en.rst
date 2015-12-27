@@ -32,6 +32,7 @@ Some lists of applications
 .. warning:: Might be out-of-date!
 
    This list was written in *June and July 2014*, so now it might be a little bit out-of-date...
+   I checked it in *December 2015*, and it was alright.
 
 
 Apps everyone should have
@@ -185,4 +186,4 @@ Old version
 ^^^^^^^^^^^
   `The first version of that page <https://wiki.crans.org/VieCrans/ApplicationsAndroid>`_ was in French, on the `Wiki <https://wiki.crans.org/>`_ of the `CRANS <https://crans.org/>`_ association.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

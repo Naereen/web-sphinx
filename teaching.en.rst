@@ -11,8 +11,8 @@ In 2015
 -------
 .. seealso:: `This folder contains most of the documents to my teaching <./teach/>`_.
 
-Second semester of 2015
-^^^^^^^^^^^^^^^^^^^^^^^
+Second semester of 2015 (in France)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
 - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
@@ -30,12 +30,12 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 
 :Total: For the scholar year 2015-16, I evaluate my teaching load to be **about 80 hours** (number of hours teaching to a group of students, or in charge of a practical session or an oral exam).
 
-First semester of 2015
-^^^^^^^^^^^^^^^^^^^^^^
+First semester of 2015 (in India)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - `CS101 @ MEC <./cs101/>`_: in charge of the CS labs (practical sessions) and in charge of certain lectures!
   It was about 4 hours a week of CS labs, during 17 weeks, and 4 hours a week of lectures for 5 weeks (lectures were in an amphitheater of 115 students!).
   The slides for some of my lectures are here:
-   
+
    1. *"About data-structures in Python (lists, sets, dictionaries)"*: `slides_CS101_part3.pdf <./publis/slides_CS101_part3.pdf>`_,
    2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
    3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
@@ -67,10 +67,12 @@ First semester of 2015
 
 ------------------------------------------------------------------------------
 
+
 In 2014
 -------
-Second semester of 2014
-^^^^^^^^^^^^^^^^^^^^^^^
+
+Second semester of 2014 (in India)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <./ma101/>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
   More ressources are available:
@@ -84,12 +86,13 @@ Second semester of 2014
 
 :Examens: During the whole year, I was also in charge of the exam papers for Maths and CS: conceive them, merge the ideas from the colleagues, then write everything (in :math:`\LaTeX2e{}` of course), and write a complete and detailed solution, grade myself some of the papers and also overlook the grading done by my colleagues... With a total number of 9 exams (3 for MA101, 3 for CS101, 3 for MA102: *1st* and *2nd* *Mid-Term,* and *Final*), and about a dozen of quiz papers and lab exams, I became quite skilled at this kind of things.
 
-First semester of 2014
-^^^^^^^^^^^^^^^^^^^^^^
+
+First semester of 2014 (in France)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Regularly grading exam answer scripts @ `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_ (exam answer scripts of high-school students, in mathematics).
 - Occasionally helping high-school students and in charge of oral exams (at the level of Baccalauréat), with the `"Cours Thalès" organization <http://www.cours-thales.fr/>`_.
 
-.. note:: 
+.. note::
 
    In 2014, I also got admitted to the French national competitive exam for becoming a prep' school professor (*"agrégation"*) in mathematics (with a major in maths, minor in CS).
 
@@ -99,6 +102,7 @@ First semester of 2014
 
 ------------------------------------------------------------------------------
 
+
 Between 2009 and 2013
 ---------------------
   Nothing serious, but I used to regularly help my friends for Chemistry, Engineering, Physics (2009-2011), and Maths and Computer Science of course (2009-2014).
@@ -107,4 +111,5 @@ Before 2009 (high-school and before)
 ------------------------------------
   I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also *theater*.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

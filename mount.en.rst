@@ -37,7 +37,7 @@ How to mount a ``.disk`` file on Ubuntu?
     sudo umount /media/mydisk
 
 
-.. warning:: Sudo rights?
+.. warning:: Sudo right?
 
    These explanations require that you `have sudo right <http://help.ubuntu.com/community/RootSudo>`_ on your machine.
    The `pmount <https://help.ubuntu.com/community/Mount/USB#Using_pmount>`_ software can be installed to allow non-sudo users to still be able to mount a disk.
@@ -75,4 +75,4 @@ Finally check that the disk has been well mounted with: ::
    This page is mainly here because I fail to remember these stupid commands...
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

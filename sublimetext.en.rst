@@ -113,7 +113,7 @@ To use one of these files (``.sublime-settings``, ``.sublime-snippet`` or ``.sub
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:State: *Actively maintained*. (October 2015)
+:State: *Actively maintained* (December 2015).
 
 Config
 ~~~~~~
@@ -233,7 +233,7 @@ A better support for some languages:
 
 Heavier plugins, or plugins designed for a specific language:
 
- 
+
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.5 and 3.6).
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*...
 * The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python.
@@ -290,4 +290,4 @@ Additional credit
  Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advising me to use `Sublime Text 3`_ (in Octobre 2013).
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

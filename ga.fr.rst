@@ -70,7 +70,7 @@ Pour un exemple, vous pouvez consulter le fichier *template* de ces pages,
 D'autres solutions ?
 --------------------
 Sphinx propose une petite extension pour facilement ajouter le suivi Google Analytics, voir `sur cette liste <http://sphinx-doc.org/latest/develop.html#extensions>`_ (`dans ce dossier sur le dépôt de sphinx-contrib <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/googleanalytics/>`_).
-C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers sur ces deux petits projets Sphinx : `<infoMP/TPs/solution>`_ et `<infoMP/TDs/solution>`_.
+C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers notamment sur des petits projets Sphinx : `<infoMP/TPs/solution>`_, `<infoMP/DSs/solution>`_ et `<infoMP/TDs/solution>`_.
 
 
 .. seealso::
@@ -80,4 +80,4 @@ C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers
       d'une page ou d'un courriel via Google Analytics.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -2,7 +2,7 @@
  List.iteri et Array.iteri en OCaml
 ####################################
 
-.. note:: Un petit article sur deux fonctions pratiques (du langage OCaml)
+.. note:: Un petit article sur deux fonctions pratiques (`du langage OCaml <http://ocamllang.org/>`_).
 
 .. warning:: Si le mot OCaml n'évoque rien pour vous, cet article ne vous intéressera pas !
 

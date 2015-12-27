@@ -26,9 +26,11 @@ Quelques listes d'extensions
 
    Ces extensions sont en quelques sortes similaire aux `greffons pour Sublime Text <https://packagecontrol.io/>`_, donc si vous êtes intéresse : `j'ai aussi écrit une page pour Sublime Text <sublimetext.fr.html>`_ !
 
+
 .. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
+   Je l'ai relu et vérifié en *décembre 2015*, et ça avait l'air d'aller !
 
 
 Liste des extensions qu'*il faut avoir*
@@ -95,8 +97,6 @@ Extensions pour web-développeurs
 * `Quick Locale Switcher <https://addons.mozilla.org/fr/firefox/addon/quick-locale-switcher>`_ pour... rapidement changer le paramètre de **langue** (``locale``),
 * `Reload Plus <https://addons.mozilla.org/fr/firefox/addon/reload-plus>`_ pour regagner plein contrôle du cache de votre navigateur (e.g. ``Ctrl+F5`` permet de recharger une page, en écrasant la version localement mise en mémoire cache).
 
-.. FIXME Je ne sais pas comment expliquer ce paramètre.
-
 Autres extensions
 ^^^^^^^^^^^^^^^^^
 * `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ si vous aimez avoir l'historique, les téléchargements, les favoris dans une barre latérale (utile sur un écran très large par exemple),
@@ -117,4 +117,5 @@ Pages similaires
    `Greffons Sublime Text 3 <sublimetext.fr.html#les-meilleurs-greffons>`_
       Liste des *meilleurs greffons* pour l'éditeur de texte **Sublime Text (3)**.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

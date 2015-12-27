@@ -67,6 +67,7 @@ Liste des autres sous-domaines que j'utilise
 Cette page permet seulement d'avoir au moins un lien
 vers `FreeDNS.afraid.org <http://freedns.afraid.org>`_ sur une de mes pages.
 
+
 Pourquoi ? Principalement parce que le développeur à l'origine de ce service le demande :
 
     If you could place a small text link somewhere on your site to http://freedns.afraid.org/ named "Free DNS" it would be greatly appreciated, to help raise search engine rankings and bring more users to the site, even if you don't think your site gets much traffic it would still help!
@@ -74,4 +75,4 @@ Pourquoi ? Principalement parce que le développeur à l'origine de ce service l
     --- Josh
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

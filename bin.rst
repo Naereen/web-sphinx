@@ -339,4 +339,4 @@ Manipuler l'état de l'ordinateur (volume, batterie, ..)
   :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

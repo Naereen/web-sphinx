@@ -151,4 +151,9 @@ Sources (en anglais)
    .. [#456565] `Application "KeynrTracker" <http://forum.xda-developers.com/attachment.php?attachmentid=456565&d=1291540032>`_.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. note::
+
+   Je n'utilise plus ce téléphone depuis un moment... Mais l'astuce reste valide !
+
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

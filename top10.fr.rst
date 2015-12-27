@@ -152,7 +152,7 @@ Mes 10 **endroits en France** préférés
 
 .. sidebar:: En auto-stop ?
 
-   Je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_.
+   Ah, oui, je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_... !
 
 
 Mes 10 **villes** préférées
@@ -189,13 +189,14 @@ Mes 10 **écrivains** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `David Eddings <https://fr.wikipedia.org/wiki/David_Eddings>`_ (Américain, 20ème, fantasy, surtout pour `La Belgariade <https://fr.wikipedia.org/wiki/La_Belgariade>`_ et `La Mallorée <https://fr.wikipedia.org/wiki/La_Mallor%C3%A9e>`_),
 - `Edgar A. Poe <https://fr.wikipedia.org/wiki/Edgar_Allan_Poe>`_ (Américain, 19ème, pionnier de l'écriture d'horreur et poête sombre),
-- `Philip Pullman <https://fr.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20ème, je le connais par sa `trilogie "À la croisée des mondes" <https://fr.wikipedia.org/wiki/%C3%80_la_crois%C3%A9e_des_mondes>`_),
+- `Philip Pullman <https://fr.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20ème, je le connais par sa `trilogie "À la Croisée des Mondes" <https://fr.wikipedia.org/wiki/%C3%80_la_crois%C3%A9e_des_mondes>`_),
 - `Howard Philip Lovecraft <https://fr.wikipedia.org/wiki/H._P._Lovecraft>`_ (Américain, début 20ème, maître des nouvelles d'horreur),
-- `Bernard-Marie Koltès <https://fr.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (théâtre, 20ème, surtout pour "Retour au désert", "La Nuit juste avant les forêts", "Combat de nègre et de chiens", et "Quai Ouest"),
+- `Bernard-Marie Koltès <https://fr.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (théâtre, 20ème, surtout pour "Retour au désert", "La Nuit Juste Avant les Forêts", "Combat de Nègre et de Chiens", et "Quai Ouest"),
 - `Raymond E. Feist <https://fr.wikipedia.org/wiki/Raymond_Feist>`_ (Américain, 20ème, fantasy),
 - `Jules Verne <https://fr.wikipedia.org/wiki/Jules_Verne>`_ (Français, 19ème, romans réalistes et de *propagande scientifique*, mon préféré étant `"L'Île Mystérieuse" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
 - `Emile Zola <https://fr.wikipedia.org/wiki/Emile_Zola>`_ (Français, 19ème),
 - `Timothy Zahn <https://fr.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20ème, surtout connu pour sa `trilogie Star Wars (« La Croisade noire du Jedi fou ») <https://fr.wikipedia.org/wiki/La_Croisade_noire_du_Jedi_fou>`_),
-- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (théâtre, 20ème, surtout pour "Les Cendres et les lampions" et "À tous ceux qui").
+- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (théâtre, 20ème, surtout pour "Les Cendres et Les Lampions" et "À Tous Ceux Qui").
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

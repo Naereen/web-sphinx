@@ -67,7 +67,7 @@ For example, you can take a look at my `layout.html <https://bitbucket.org/lbess
 Other solutions ?
 -----------------
 Sphinx has an extension for Google Analytics, see `on the list of extensions here <http://sphinx-doc.org/latest/develop.html#extensions>`_ (`this folder of the sphinx-contrib repository <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/googleanalytics/>`_).
-It's quick and simple, and working well, and for example I am using it for these two small Sphinx projects: `<infoMP/TPs/solution>`_ and `<infoMP/TDs/solution>`_.
+It's quick and simple, and working well, and for example I am using it for small Sphinx projects, see for examples: `<infoMP/TPs/solution>`_, `<infoMP/DSs/solution>`_ and `<infoMP/TDs/solution>`_.
 
 
 .. seealso::
@@ -77,4 +77,4 @@ It's quick and simple, and working well, and for example I am using it for these
       to measure the audience of a page, or an email.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

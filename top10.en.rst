@@ -152,7 +152,7 @@ My 10 favorite **places in France**
 
 .. sidebar:: By hitch-hiking?
 
-   I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_.
+   Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_... !
 
 
 My 10 favorite **cities of the world**
@@ -187,20 +187,21 @@ My 10 favorite **comic books** (French "BD")
 
 My 10 favorite **book writers**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `David Eddings <https://en.wikipedia.org/wiki/David_Eddings>`_ (American, 20th, fantasy, mainly for `the Belgariad <https://en.wikipedia.org/wiki/The_Belgariad>`_ and `the Malloreon <https://en.wikipedia.org/wiki/The_Malloreon>`_)
+- `David Eddings <https://en.wikipedia.org/wiki/David_Eddings>`_ (American, 20th, fantasy, mainly for `The Belgariad <https://en.wikipedia.org/wiki/The_Belgariad>`_ and `The Malloreon <https://en.wikipedia.org/wiki/The_Malloreon>`_)
 - `Edgar A. Poe <https://en.wikipedia.org/wiki/Edgar_Allan_Poe>`_ (American, 19th, first horror writer and dark poet)
 - `Philip Pullman <https://en.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20th, I know him for `his trilogy "His Dark Materials" <https://en.wikipedia.org/wiki/His_Dark_Materials>`_)
 - `Howard Philip Lovecraft <https://en.wikipedia.org/wiki/H._P._Lovecraft>`_ (American, early 20th, master of horror short novels)
-- `Bernard-Marie Koltès <https://en.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (theater, 20th, mainly for "Retour au désert", "La Nuit juste avant les forêts", "Combat de nègre et de chiens", and "Quai Ouest")
+- `Bernard-Marie Koltès <https://en.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (theater, 20th, mainly for "Retour au Désert", "La Nuit Juste Avant Les Forêts", "Combat de Nègre et de Chiens", and "Quai Ouest")
 - `Raymond E. Feist <https://en.wikipedia.org/wiki/Raymond_Feist>`_ (American, 20th, fantasy)
 - `Jules Verne <https://en.wikipedia.org/wiki/Jules_Verne>`_ (French, 19th, realistic science-related novels, I mainly love `"The Mysterious Island" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_)
 - `Emile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th)
 - `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_)
-- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et les lampions" and "À tous ceux qui")
+- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et Les Lampions" and "À Tous Ceux Qui")
 
 ------------------------------------------------------------------------------
 
-.. todo:: Conclude the lists, find other lists to do!
-.. todo:: Add links to Wikipedia articles for **every** items of **every** lists! 
+.. todo:: Conclude the top10 lists, find other lists to do!
+.. todo:: Keep links to Wikipedia articles for **every** items of **every** lists!
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

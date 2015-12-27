@@ -10,7 +10,7 @@
 Graphes?
 --------
 I am showing here an "experimental" Sphinx feature, to easily embed **graphs**
-written in plain text with a rST tag ``.. graphviz::``, and converted to nice 
+written in plain text with a rST tag ``.. graphviz::``, and converted to nice
 images with the world-famous software `GraphViz <http://www.graphviz.org/>`_.
 
 This feature is provided by the `sphinx.ext.graphviz <http://sphinx-doc.org/ext/graphviz.html>`_ extension,
@@ -212,4 +212,5 @@ This extension adds a directive ``.. todo::`` which allows to add a **TODO**, *i
 And then, you can display a **TODO list** with the directive
 ``.. totolist::``, like I do in the `<todo.html>`_ page.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

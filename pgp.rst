@@ -45,7 +45,6 @@ Exemple
 
     $ LANG=en gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
- .. warning:: Seulement pour la version **HTML** !
 
 Comment utiliser ces fichiers **.asc** ?
 ----------------------------------------
@@ -111,7 +110,6 @@ Exemple
 
     $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
 
- .. warning:: Seulement pour la version **HTML** !
 
  Normalement, ça marche ;)
 
@@ -208,4 +206,5 @@ Astuces
   `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
   via la touche TAB dans *mutt*, avec **goobook**.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

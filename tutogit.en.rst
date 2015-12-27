@@ -306,7 +306,7 @@ One last tip?
 ^^^^^^^^^^^^^
  As with any technical and powerful software, `git`_ takes time to adapt. Be persistent, it is worth it.
 
- « *Je vous souhaite une bonne programmation, et bonne change pour vos projets !* »
+ « *I wish you a very good programming experience, and good luck for your geeky projects!* »
 
 
 Additional credit
@@ -314,4 +314,4 @@ Additional credit
  Thanks to `Vincent Cohen-Addad <http://www.di.ens.fr/~vcohen/>`_ for motivating me to start using `git`_, in Octobre 2012 for `the network programming project for my Computer Science (CS) Master of Sciecne (MPRI, course #1-21) <https://bitbucket.org/lbesson/mpri-bomberman>`_ on which we worked together.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

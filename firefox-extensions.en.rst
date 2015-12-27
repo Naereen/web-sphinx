@@ -26,9 +26,11 @@ Some lists of extensions
 
    These extensions are somewhat similar to `Sublime Text plugins <https://packagecontrol.io/>`_, so if you are interested: `I wrote a page about Sublime Text <sublimetext.en.html>`_ too!
 
+
 .. warning:: Might be out-of-date!
 
    This list was written in *October 2015*, so now it might be a little bit out-of-date...
+   I checked it in *December 2015*, and it was alright.
 
 
 Extensions *everyone* should have
@@ -95,8 +97,6 @@ Extensions for web-developpers
 * `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to... quickly change the ``locale`` settings (the language you ask the pages to be displayed),
 * `Reload Plus <https://addons.mozilla.org/en-us/firefox/addon/reload-plus>`_ to regain control of your cache (``Ctrl+F5`` reload the page, erasing the local cached version).
 
-.. FIXME Dunno how to explain this one.
-
 Other extensions
 ^^^^^^^^^^^^^^^^
 * `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ if you like having history, downloads, favorites all in the sidebar (useful on a large screen for example),
@@ -117,4 +117,5 @@ Similar pages
    `Plugins for Sublime Text 3 <sublimetext.en.html#the-best-plugins>`_
       List of the *best plugins* for the awesome text editor **Sublime Text (3)**.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

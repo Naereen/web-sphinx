@@ -12,7 +12,7 @@
 
 -----------------------------------------------------------------------------
 
-La sitemap complète est disponible `ici dans un fichier XML <sitemap.xml>`_, ou `gzippé <sitemap.xml.gz>`_.
+La sitemap complète est disponible `ici dans un fichier XML <sitemap.xml>`_, ou `gzippé <sitemap.xml.gz>`_ (:red:`plus à jour !`).
 
 .. toctree::
 
@@ -22,4 +22,4 @@ La sitemap complète est disponible `ici dans un fichier XML <sitemap.xml>`_, ou
    404
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

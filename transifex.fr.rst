@@ -12,7 +12,7 @@
    Peut-être préférez-vous la consulter en `anglais <transifex.en.html>`_.
 
 
-Le mardi 26 mars 2013, le merveilleux site `bitbucket.org <https://bitbucket.org/>`_ annonçait
+Le 26 mars 2013, le merveilleux site `Bitbucket.org <https://bitbucket.org/>`_ annonçait
 un discret message informant du projet de traductions du site.
 
 Curieux, je suis allé jeter un oeil au logiciel utilisé.
@@ -231,4 +231,4 @@ Autres traductions
    (Par contre, mon clone ne peut pas être accessible à n'importe qui (question de sécurité blabla).)
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

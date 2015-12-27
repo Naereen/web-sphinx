@@ -10,7 +10,7 @@
 This page is a short presentation of my personal experience
 on the matter of hitch-hiking, and why it is a really cool, free and culturally interesting way to travel.
 
-Maybe I will include here a list of epic hitch-hiking achievements, maybe not.
+Maybe I will include here a list of *epic hitch-hiking achievements*, maybe not.
 
 As far as now, I added here a list of some of the nicest trips and travel steps I did by hitch-hiking, with an approximative sum-up of the distance drove by hitch-hiking.
 
@@ -107,4 +107,5 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 * not really able to notice any pattern in their age,
 * usually they are locals (living near the start point or the destination).
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

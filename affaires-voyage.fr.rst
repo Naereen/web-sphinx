@@ -5,9 +5,6 @@
 ########################################################
  Contenu de mon sac à dos pour un (long) voyage en stop
 ########################################################
-
-.. .. warning:: Encore en rédaction !
-
 .. seealso:: `Universal Packing List <packing.en.html>`_
 
    Cette page (*en anglais*) propose une liste de choses à faire avant de partir en voyage, et de choses à emmener.
@@ -35,6 +32,7 @@ Papiers et documents
 .. note:: Faire des sauvegardes *dans les nuages*
 
    Bien penser à sauvegarder des versions électroniques de tout ça, dans les nuages (adresse de courrier électronique ou service de stockage, par exemple).
+   Je préconise `OpenMailBox.org <https://OpenMailBox.org/>`_ pour la qualité et fiabilité de leurs services.
 
 
 Argent et cartes
@@ -42,6 +40,20 @@ Argent et cartes
 - De l'argent liquide de son pays d'origine, et si possible du/des pays de destination.
 - Carte Bancaire (CB, VISA, American Express etc) internationale. Bien penser à appeler sa banque **avant le départ** et leur demander de débloquer la sécurité mise en place à l'international (sans quoi la carte se bloquera au premier retrait).
 - Chéquier si le voyage a lieu en France.
+
+Trucs vraiment cons (mais qu'on oublie facilement)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Boules Quiès, et masque de sommeil pour dormir facilement. Un mini-oreiller gonflable est utile pour certains trajets de nuits, mais peu pratique pour dormir avec dans une tente.
+- Une bonne clé USB qui contient une copie de tout ses documents importants, mais avec assez d'espace libre pour ajouter des choses (photos en rab par exemple).
+- Une montre. La plus simple et solide possible.
+- Son porte-monnaie !
+
+Trucs cons mais importants
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Des (petits) cadeaux pour les gentilles personnes qui vont vous héberger. Comme ça, ça fait plaisir, et ça laissera de la place pour les (petits) cadeaux pour les gentilles personnes qui vous ont vu partir (la larme à l’œil).
+- Lunette de vue (1 ou 2 paires).
+- Lunette de soleil, à sa vue si besoin. On peut les munir d'un cordon, si on aime.
+- Des mouchoirs ! Du papier toilette !
 
 Vêtements
 ^^^^^^^^^
@@ -123,29 +135,15 @@ Livres et cartes
 Matériel d'auto-stoppeur
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Un petit carnet pour noter les noms et plaques de vos hôtes successifs (pour ceux qui aiment garder une trace), les heures d'attente et de trajet, et les distances des différentes étapes.
-- Des stylos noirs.
+- Des stylos Bic Cristal, noirs et bleus.
 - Un gros *marker* noir.
 - Un tableau Véléda effaçable, ou une réserve de gros cartons.
 - **Mais surtout un bon sourire !**
 
-Trucs cons mais importants
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Des (petits) cadeaux pour les gentilles personnes qui vont vous héberger. Comme ça, ça fait plaisir, et ça laissera de la place pour les (petits) cadeaux pour les gentilles personnes qui vous ont vu partir (la larme à l’œil).
-- Lunette de vue (1 ou 2 paires).
-- Lunette de soleil, à sa vue si besoin. On peut les munir d'un cordon, si on aime quoi.
-- Des mouchoirs ! Du papier toilette !
-
-Trucs vraiment cons (mais qu'on oublie facilement)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Boules Quiès, et masque de sommeil pour dormir facilement. Un mini-oreiller gonflable est utile pour certains trajets de nuits, mais peu pratique pour dormir avec dans une tente.
-- Une bonne clé USB qui contient une copie de tout ses documents importants, mais avec assez d'espace libre pour ajouter des choses (photos en rab par exemple).
-- Une montre.
-- Son porte-monnaie !
-
-Autres
-^^^^^^
+Autres idées
+^^^^^^^^^^^^
 - Sacs plastiques et ziplock (pour le linge sale, pour cette gourde qui fuit un peu, pour ce saucisson qui sent trop fort etc).
 - Une cape de pluie pour son sac à dos (protection en plastique contre la pluie et l'humidité).
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

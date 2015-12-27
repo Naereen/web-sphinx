@@ -181,24 +181,39 @@ Pour les citations et les notes de bas de pages
 
 Footnote
 ^^^^^^^^
-Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Citation
 ^^^^^^^^
-Lorem ipsum [c1]_ dolor sit amet ... [c2]_
+Lorem ipsum [c1]_ dolor sit amet ... [c2]_.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ------------------------------------------------------------------------------
 
 A la fin de la page :
+^^^^^^^^^^^^^^^^^^^^^
 
 .. rubric:: Footnotes
 
 .. [#f1] Texte de la première note de bas de page.
-.. [#f2] Texte de la seconde note de bas de page ?
+.. [#f2] Texte de la seconde note de bas de page.
 
 .. rubric:: Citations
 
 .. [c1] Texte de la première citation.
 .. [c2] Texte de la seconde citation.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -38,6 +38,8 @@ Contenu du dossier
 
       Autoindex-Strapdown
          `Autoindex-Strapdown <http://ais.habilis.net/>`_ est aussi un projet intéressant, utilisant à la fois les propriétés `Apache's mod_autoindex directory listings <http://httpd.apache.org/docs/2.2/mod/mod_autoindex.html>`_ et le super projet `StapDown.js <http://lbesson.bitbucket.org/md/>`_.
+         Je n'utilise plus une page générée par Sphinx pour l'affichage des dossiers (voir `<folders.html>`_ pour un exemple), mais désormais j'ai `installé AutoIndex-StrapDown <http://perso.crans.org/besson/autoindex_strapdown/>`_ sur ce site.
+         Et ça rend trop bien !
 
 
 .. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/

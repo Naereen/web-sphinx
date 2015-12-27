@@ -228,4 +228,4 @@ A first "attack" could be by buffer overload, but obviously there is no problem 
 
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

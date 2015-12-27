@@ -1,4 +1,5 @@
 .. Color profiles for Sphinx.
+.. Has to be used with hacks.css (bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css)
 .. role:: black
 .. role:: gray
 .. role:: silver
@@ -35,4 +36,5 @@
 .. role:: left
 .. role:: right
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

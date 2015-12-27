@@ -146,7 +146,7 @@ The help (``wakatime -help``) is not very clear, but we can guess its use `by di
 
 .. note:: This tool is writing its results with ANSI colors, sweet!
 
-   Yeah, but it is less sweet when we see that the colors 
+   Yeah, but it is less sweet when we see that the colors
    are used even if the output is a terminal which does not support them, or if it is a file
    (but `this is not the script's fault <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L10>`_
    but `its a bug in the cli-color npm module <https://www.npmjs.com/package/cli-color#clc-strip-formatedtext>`_ that should have implemented a better detection of the output,
@@ -170,4 +170,5 @@ For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTime
 
    $ /home/lilian/bin/mywakatime | head -n3
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

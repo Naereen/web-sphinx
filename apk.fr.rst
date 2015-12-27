@@ -31,6 +31,7 @@ Quelques listes d'applis
 .. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *juin et juillet 2014*, donc elle est peut-être obsolète...
+   Je l'ai relu et vérifié en *décembre 2015*, et ça avait l'air d'aller !
 
 
 Liste des applis qu'*il faut avoir*
@@ -190,4 +191,4 @@ Vieille version
 ^^^^^^^^^^^^^^^
   `La première version de cette page <https://wiki.crans.org/VieCrans/ApplicationsAndroid>`_ était sur le `Wiki <https://wiki.crans.org/>`_ du `CRANS <https://crans.org/>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

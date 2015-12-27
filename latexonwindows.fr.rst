@@ -53,4 +53,5 @@ Pour apprendre, ou se rafraîchir la mémoire sur \\(\\LaTeX{}\\), le livre `fr.
    - `math <math.html>`_, montre des exemples simples intégrées à mes pages web, qui sont rédigées en `rST, un langage à balise type Wiki <demo.html>`_ (page de démo, en anglais).
    - `cet exemple (#5) de StrapDown.js <http://lbesson.bitbucket.org/md/example5.html>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

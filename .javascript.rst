@@ -1,11 +1,7 @@
 .. warning:: Javascript est requis !
 
-   Cette page embarque des scripts écrits en
-   `javascript <https://developer.mozilla.org/fr/docs/javascript>`_.
-   À priori, cela devrait fonctionner sur *n'importe quel navigateur*
-   assez récent, pour peu qu'il *supporte javascript* (et que javascript ne soit pas désactivé).
-..   Par ailleurs, la version **PDF** de cette page est inutile, ou presque...
-..   Vous pouvez signaler un bug d'un de ces scripts par `cette page <https://bitbucket.org/lbesson/web-sphinx-scripts/issues/>`_.
+   Cette page embarque des scripts écrits en `javascript <https://developer.mozilla.org/fr/docs/javascript>`_.
+   À priori, cela devrait fonctionner sur *n'importe quel navigateur*  assez récent, pour peu qu'il *supporte javascript* (et que javascript ne soit pas désactivé).
 
 .. raw:: html
 
@@ -14,4 +10,5 @@
    <a href="http://www.enable-javascript.com/fr/" target="_blank">Apprendre comment activer javascript !</a>
    </noscript>
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

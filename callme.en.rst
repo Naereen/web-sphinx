@@ -17,20 +17,18 @@ Postal addresses
 You can write a letter or some postal cards to me (I love them),
 at the following addresses (listed by decreasing preference):
 
-1. mathematics department secretary, at *ENS de Cachan*, in France
+1. The Mathematics department secretary, at *ENS de Cachan*, in France
    (you can `see it on this OpenStreetMap map <http://osm.org/go/0BOchV4ns-->`_) ::
 
        Mr Lilian Besson,
-       ENS Cachan,
+       ENS de Cachan,
        Dept. de Mathématiques,
        41, avenue du Président Wilson,
        94230 - Cachan,
        France
 
 
-2. to my place (in France), but this adresse is for private use only,
-3. do not write to my former place, at CROUS of Cachan (in France, but deprecated, please do not use it anymore),
-4. or you can try in India (more expensive, and probably longer), at my former office at `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (deprecated, the postal address is specified on that page).
+2. to my place (in France), but this adresse is for private use only.
 
 Emails
 ^^^^^^
@@ -121,4 +119,4 @@ These web services, strongly based on the great functions offered by the `HTML 5
       Some others tools are presented there, and they surely can be used to (try to) preserve your on-line private life.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

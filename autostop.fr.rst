@@ -10,6 +10,8 @@
 Cette page est une courte présentation de mon expérience personnelle
 sur l'auto-stop, qui est un moyen intéressant, gratuit et ludique de se déplacer.
 
+Peut-être que j'inclurai ici une liste de *hauts-fais épiques en stop*, peut-être pas.
+
 Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits en stop, dans le but de tenir un total approximatif de la distance parcourue.
 
 Rapide total
@@ -105,4 +107,5 @@ Statistiques concises
 * souvent des distances assez longues (50/200 kms),
 * souvent des gens du coin (de départ ou d'arrivée).
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

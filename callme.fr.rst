@@ -28,9 +28,7 @@ aux adresses suivantes (listées par ordre de préférence) :
        France
 
 
-2. chez moi (en France), adresse privée que je peux donner si besoin,
-3. ne pas m'écrire à mon ancienne adresse, au CROUS de Cachan (en France, dépréciée, à ne plus utiliser),
-4. ou bien en Inde (plus cher et plus long), à mon ancien bureau à `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/contact.html>`_ (dépréciée, l'adresse postale est précisée sur cette page).
+2. chez moi (en France), adresse privée que je peux donner si besoin.
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
@@ -121,4 +119,4 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
       Quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

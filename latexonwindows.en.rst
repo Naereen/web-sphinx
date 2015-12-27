@@ -52,4 +52,5 @@ To learn, or refresh your memory about \\(\\LaTeX{}\\), the Wikibook `en.WikiBoo
    - `math <math.html>`_ (in French), shows some simple examples, included in my web-pages, which are written in the `rST markup language <demo.html>`_.
    - `this example (#5) of StrapDown.js <http://lbesson.bitbucket.org/md/example5.html>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

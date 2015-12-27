@@ -5,7 +5,7 @@
  reStructuredText Demonstration
 ================================
 
-.. warning:: Not written by me (Lilian Besson)
+.. warning:: Not written by `me (Lilian Besson) <index.html>`_
 
    I'm a **NOT** the writer of this document !
 
@@ -479,7 +479,7 @@ Topics, Sidebars, and Rubrics
    :subtitle: Optional Subtitle
 
    This is a sidebar.  It is for text outside the flow of the main
-   text.  
+   text.
 
    .. rubric:: This is a rubric inside a sidebar
 
@@ -514,7 +514,7 @@ Compound Paragraph
        Connecting... OK
        Transmitting data... OK
        Disconnecting... OK
-      
+
    and thus consists of a simple paragraph, a literal block, and
    another simple paragraph.  Nonetheless it is semantically *one*
    paragraph.

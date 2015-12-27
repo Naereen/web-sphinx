@@ -20,7 +20,7 @@ Such a *cookie* **does not** allow the website to personaly identify the user.
 history of a user on one website (consulted pages, dates and hours of viewing etc),
 and that history can be read later for every visit.
 
-*But not here*.
+*But not here* !
 On my website, only two *cookies* are used :
 
 #. A really small text file called ``layoutstyle``, to store the color style chosen by the user
@@ -52,9 +52,10 @@ will be stored (and, obviously, the related functionalities won't work).
 You should know how to do it by yourself on your computer, but there is a
 `google research link to learn how to do it <http://lmgtfy.com/?q=How+to+prevent+cookies+from+being+stored+in+my+computer+%3F>`_.
 
-À-propos
---------
-:Source 1: http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies
-:Source 2: https://korben.info/respecter-loi-cookies-site.html
+About (in French)
+-----------------
+:Source 1: `<http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies>`_.
+:Source 2: `<https://korben.info/respecter-loi-cookies-site.html>`_.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

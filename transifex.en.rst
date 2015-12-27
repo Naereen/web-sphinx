@@ -13,7 +13,7 @@
    Maybe you would like to see it in `French <transifex.fr.html>`_.
 
 
-On Tuesday, March 26 (2013), `bitbucket <https://bitbucket.org/>`_ announced
+On March 26th (2013), `Bitbucket <https://bitbucket.org/>`_ announced
 a discreet message advising of the proposed translations of the site.
 
 Curious, I went take a look at the software.
@@ -224,4 +224,4 @@ Other translations
    and also in order to learn some *php*.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

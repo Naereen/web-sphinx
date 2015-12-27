@@ -153,7 +153,11 @@ Un autre exemple
 ----------------
 J'ai essayé d'utiliser des données générées par Google Analytics
 pour afficher un petit graphique d'activité sur le site sur les derniers jours,
-mais **sans succès :(**
+mais **sans succès :(** !
+
+.. seealso::
+
+   `WakaTime <WakaTime.fr.html>`_
 
 ---------------------------------------------------------------------
 
@@ -162,4 +166,4 @@ Comment ça marche ?
  Plus de détails sur `<http://omnipotent.net/jquery.sparkline/#s-docs>`_.
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

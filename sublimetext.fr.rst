@@ -116,7 +116,7 @@ Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou
 Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:État: *Maintenu activement.* (octobre 2015)
+:État: *Maintenu activement* (décembre 2015).
 
 Config
 ~~~~~~
@@ -293,4 +293,4 @@ Crédit additionnel
  Merci à `Jill-Jênn Vie <http://jill-jenn.net/>`_ de m'avoir conseillé `Sublime Text 3`_ (en octobre 2013).
 
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

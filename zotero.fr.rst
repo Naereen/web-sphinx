@@ -12,8 +12,6 @@ Présentation
 ------------
 Concept
 ^^^^^^^
-.. note:: Pas encore fini ! Je finirai après avoir testé moi-même !
-
 Une solution : `Zotero <https://www.zotero.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le site officiel de ce projet *libre* et *gratuit* est (sans surprise) `www.Zotero.org <https://www.zotero.org/>`_.
@@ -48,4 +46,5 @@ C'est un logiciel auquel on peut faire confiance, ça a l'air populaire, et trè
 
 .. todo:: Terminer de l'écrire + capture d'écran.
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -31,7 +31,6 @@ Meilleur thème ?
 
 Réduire les dépendances inutiles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* Enlever `<python-doc/>`_,
 * Enlever `<gnuplot_embed.html>`_ ?
 
 Une extension Sphinx pour Youtube
@@ -180,4 +179,5 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 
    $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

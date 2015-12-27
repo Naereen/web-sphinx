@@ -88,4 +88,5 @@ For more details, see `<sitemap.en.html>`_.
    teaching.en
    Pages in English <projects.en>
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

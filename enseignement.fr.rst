@@ -11,8 +11,8 @@ En 2015
 -------
 .. seealso:: `Ce dossier contient la plupart des documents concernant mon enseignement <./teach/>`_.
 
-Second semestre en 2015
-^^^^^^^^^^^^^^^^^^^^^^^
+Second semestre en 2015 (en France)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
 
 - des colles de mathématiques (2h/semaine). Mes références pour `le cours <http://mp.cpgedupuydelome.fr/courspe.php>`_ et `les exercises <http://mp.cpgedupuydelome.fr/exospe.php>`_ sont ces sites là : `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (surtout), ces exercices `par Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ et `par Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (pour des points précis du cours), et `ce Vrai/Faux par Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (et `Wikipédia <https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes>`_, bien sûr).
@@ -32,8 +32,8 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 :Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 90 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
 
 
-Premier semestre en 2015
-^^^^^^^^^^^^^^^^^^^^^^^^
+Premier semestre en 2015 (en Inde)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - `CS101 @ MEC <./cs101/>`_ : principalement en charge des travaux pratiques, et d'une bonne partie du cours !
   Cela représentait 4 heures hebdomadaires de TPs (CS labs) pendant 17 semaines, et 4 heures de cours magistraux certaines semaines (5 semaines).
   Les slides (*en anglais*) pour certains de mes cours magistraux à MEC sont disponibles ici :
@@ -71,10 +71,12 @@ Premier semestre en 2015
 
 ------------------------------------------------------------------------------
 
+
 En 2014
 -------
-Second semestre en 2014
-^^^^^^^^^^^^^^^^^^^^^^^
+
+Second semestre en 2014 (en Inde)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <./ma101/>`_ (de juillet à décembre 2014). En charge de 3 groupes (sur un total de 8) pour des TDs de maths (introduction au calcul et à la logique scientifique). 6 heures hebdomadaires pendant 17 semaines (~ 102 heures).
 
   Plus de ressources sont disponibles publiquement :
@@ -88,8 +90,9 @@ Second semestre en 2014
 
 :Examens: Durant toute l'année, j'étais aussi en charge des sujets d'examens de mathématiques et d'informatique : les concevoir, rassembler les idées des collègues, taper le tout (en :math:`\LaTeX2e{}` bien-sûr), rédiger une solution, corriger et surveiller la correction faite par les collègues... Avec un total de 9 examens (3 pour MA101, 3 pour CS101, 3 pour MA102 : *1er* et *2ème* *mi-semestre*, et *fin du semestre*), et une douzaine de quiz et examens de TPs, j'ai acquis une certaine dextérité pour ce genre de chose.
 
-Premier semestre en 2014
-^^^^^^^^^^^^^^^^^^^^^^^^
+
+Premier semestre en 2014 (en France)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Corrections de copies, via l'organisme `corrections-rue-ulm <http://www.ulm-corrections.fr/>`_, en mathématiques au niveau lycée (Bac. S et ES),
 - Soutien scolaire et quelques colles (au niveau lycée), avec `les Cours Thalès <http://www.cours-thales.fr/>`_.
 
@@ -101,6 +104,7 @@ Premier semestre en 2014
 
 ------------------------------------------------------------------------------
 
+
 Entre 2009 et 2013 (prépa et L3+M1)
 -----------------------------------
   Rien de très sérieux, mais j'avais l'habitude d'aider très souvent mes camarades en chimie, sciences de l'ingénieur (SI), physique (entre 2009 et 2011), et bien sûr en maths et informatique (entre 2009 et 2014).
@@ -109,4 +113,4 @@ Avant 2009 (lycée et avant)
 ---------------------------
   J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique... mais aussi en *théâtre* !
 
-.. (c) Lilian Besson, 2011-2015, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
