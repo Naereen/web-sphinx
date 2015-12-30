@@ -8,11 +8,13 @@
 .. include:: .special.rst
 Who am I?
 ---------
-Greetings! I am **Lilian Besson**, `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ (a *French* "Grande École" specialized in training researchers and professors for superior studies, located near Paris, in Cachan).
+Greetings!
+I am **Lilian Besson**, a `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ (a *French* "Grande École" specialized in training researchers and professors for superior studies, located near Paris, in Cachan).
 
 This year (2015-16):
 
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. See `here a few documents related to the MVA <./publis/mva-2016/>`_.
 - I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 

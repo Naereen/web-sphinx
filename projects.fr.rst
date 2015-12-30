@@ -8,12 +8,13 @@
 .. include:: .special.rst
 À propos (de moi)
 -----------------
-Bonjour, je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
-(une *grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
+Bonjour !
+Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (une *grande école* près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur).
 
 Cette année (2015-16) :
 
-- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
+- je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Voir `ici quelques documents produits pour le MVA <./publis/mva-2016/>`_.
 - je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 

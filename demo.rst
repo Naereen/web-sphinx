@@ -9,6 +9,8 @@
 
    I'm a **NOT** the writer of this document !
 
+.. seealso:: `The rST CheatSheet on GitHub <https://github.com/ralsina/rst-cheatsheet>`_
+
 
 .. Above is the document title, and below is the subtitle.
    They are transformed from section titles after parsing.
