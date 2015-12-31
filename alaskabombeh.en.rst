@@ -2,7 +2,7 @@
  "If your mountain is not at a convenient spot, just send us a postal card"
 ############################################################################
 .. include:: .special.rst
-.. note:: This page is a direct translation of an article I wrote for the ENS Cachan students newspaper (« La Sauce »), in April 2013.
+.. note:: This page is a direct translation of an article I wrote a while ago, for the ENS Cachan students newspaper (« `La Sauce <http://clubs.ens-cachan.fr/sauce/Sauce-du-mois/>`_ »), in April 2013.
 
 
 In the 50s, the **Lawrence Radiation Laboratory (LRL)** was a top-secret
@@ -36,21 +36,21 @@ The project is approved, and it even had a slogan : *"If your moutain is not at 
 As if, an atomic bomb was after all nothing more than a good old dynamite stick...
 
 
-But that was without including the fierce resistance of an Iñupiak ([#inupiak]_) village,
-located at less than 50 kms (for american ignorants, that's about 31 miles, cf [#convert]_) of the located spot for the new harbor.
+But that was without including the fierce resistance of an Iñupiak [#inupiak]_ village,
+located at less than 50 kms (for American ignorants, that's about 31 miles, cf [#convert]_) of the located spot for the new harbor.
 As we could expect from them, they strictly refused any possibility of pollution of their hunting territory.
 
 Also, maybe some americans diplomats were not thrilled by the idea
 to bring such bombs as close to the USSR : the Chariot project was abandoned in 1962.
 
 
-**And, that's why they did not redraw the Alaska with an atomic bomb.**
+**And, that's why they did not redraw the Alaska with an atomic bomb.** Ouf !
 
 ------------------------------------------------------------------------------
 
 .. container:: smallpar
 
-   :Reference: `this article on « Le Monde » <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_.
+   :Inspiration: `this article on « Le Monde » <http://abonnes.lemonde.fr/sciences/article/2014/01/27/redessinons-l-alaska-a-la-bombe-atomique_4355222_1650684.html>`_.
 
    .. [#teller] `Edward Teller <https://en.wikipedia.org/wiki/Edward_Teller>`_, considered as one of the father of the american atomic bomb, and director of the *LRL* from 1958 to 1960.
    .. [#inupiak] The *inupiak*, ou *iñupiak*  is a group of dialects of the Inuit language, spoken by the Inupiat people in northern and northwestern Alaska. This information is from `<https://en.wikipedia.org/wiki/Inupiak>`_.
