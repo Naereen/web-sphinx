@@ -25,7 +25,7 @@
 {% block extrahead %}
   <meta name="viewport" content="width=device-width, maximum-scale=1.5, initial-scale=1, target-densitydpi=device-dpi"/>
   <meta name="author" content="Lilian Besson" />
-  <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking,teaching,India,Hyderabad,Mahindra,Ecole Centrale,Mahindra Ecole Centrale,MEC,ECP,Ecole Centrale Paris,Spyder,CS101,MA101,MA102,jarvis,IPython,Professor,Professeur,Teacher,Teaching assistant,Enseignement,Enseignant,Colles,TP,TD,Lakanal,MP,Prépa,Colleur" />
+  <meta name="keywords" content="lbesson,besson,naereen,Naereen,lilian.besson,lilian,naereencorp,naereencorp.lbesson,Naereen Corp,noreen,Computer Science,Maths,OCaml,Python,Crans,ENS de Cachan,ENS Cachan,UCL,PPLV,GNU Nano,Ubuntu,gedit,GNUPlot,GraphViz,GPG,LaTeX,rST,Octave,PGP,Javascript,restructuredtext,pokemon,pokémon,sphinx,bash,cv,résumé,curriculum,vitae,vitæ,GnuPG,Wolfram,Wolfram|Alpha,histoire,nanorc,public key,private key,rsa key,trademarks,transifex,translation,traduction,jota,jota+,bitbucket,agreg,master,license,licence,gpl,conky,rst2pdf,rst2html,ENS,informatique,Sublime Text,mathématiques,stop,autostop,hitchhiking,teaching,India,Hyderabad,Mahindra,Ecole Centrale,Mahindra Ecole Centrale,MEC,ECP,Ecole Centrale Paris,Spyder,CS101,MA101,MA102,jarvis,IPython,Professor,Professeur,Teacher,Teaching assistant,Enseignement,Enseignant,Colles,TP,TD,Lakanal,MP,Prépa,Colleur,Mr Besson" />
   <!-- RSS workflow (from perso.crans.org/besson) -->
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution de mon site" href="http://perso.crans.org/besson/rss.xml" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
@@ -237,8 +237,8 @@ to collect audience log, you can disable it with
      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" />
 </noscript>
 <div class="supportBadges"><ul>
-<li><a class="image-reference" title="Tested on Firefox v42.0, Chromium v35 and elinks v0.12pre6" href="https://www.mozilla.org/en-US/firefox/all/">
- <img alt="Tested on Firefox v42.0, Chromium v35 and elinks v0.12pre6"
+<li><a class="image-reference" title="Tested on Firefox v43.0, Chromium v35 and elinks v0.12pre6" href="https://www.mozilla.org/en-US/firefox/all/">
+ <img alt="Tested on Firefox v43.0, Chromium v35 and elinks v0.12pre6"
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Uses Google Analytics" href="https://www.google.com/analytics/">
@@ -269,18 +269,18 @@ to collect audience log, you can disable it with
  <img alt="Source code hosted on bitbucket.org, managed with Git v2.5"
       src="{{ pathto('_images/.git_80_15.png', true)|e }}"
       style="width: 36.0px; height: 15.0px;" /></a></li>
-<li><a class="image-reference" title="Powered by MathJax v2.5.0" href="http://www.mathjax.org">
- <img alt="Powered by MathJax v2.5.0"
+<li><a class="image-reference" title="Powered by MathJax v2.6.0" href="http://www.mathjax.org">
+ <img alt="Powered by MathJax v2.6.0"
       src="{{ pathto('_images/.mathjax_60_12.png', true)|e }}"
       style="width: 60.0px; height: 12.0px;" /></a></li>
 <li><script type="text/javascript">
   if ( (window.location.host.substring(0,6) == 'jarvis') || (window.location.host.substring(0,6) == '127.0.') || (window.location.host.substring(0,7) == '0.0.0.0') ) {
-  window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx v1.6.2 (Ubuntu) on "
-  + window.location.host + "\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
+  window.document.write("<a class=\"image-reference\" title=\"nginx\" href=\"http://nginx.org/en/\"><img alt=\"Web server : nginx v1.9.3 (Ubuntu) on "
+  + window.location.host + ":80\" src=\"{{ pathto('_images/.nginx_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
   }
   else {
-  window.document.write("<a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.2.22 (Debian) on "
-  + window.location.host + "\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
+  window.document.write("<a class=\"image-reference\" title=\"Apache\" href=\"http://httpd.apache.org/ABOUT_APACHE.html\"><img alt=\"Web server : Apache v2.4.10 (Debian) on "
+  + window.location.host + ":80\" src=\"{{ pathto('_images/.apache_80_15.png', true)|e }}\" style=\"width: 80.0px; height: 15.0px;\" /></a>");
   };
   NProgress.inc();
   </script>
