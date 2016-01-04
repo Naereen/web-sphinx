@@ -39,7 +39,7 @@ Contact address
 
 Extra information about me
 --------------------------
- * :Date of Birth: January 12 1993. Age : **22**.
+ * :Date of Birth: *January 12th, 1993*. Age : **23**.
  * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in 5th year. Studying **Mathematics** and **Computer Science**.
  * :Webpages:
 
@@ -135,8 +135,8 @@ Below there is a precise description of what I studied, year by year, from my Ba
 
 **2014-2015**: teaching for one year in India
 ---------------------------------------------
-*Assistant professor* at the `(very new) <http://besson.qc.to/publis/10_10_2014__Liberation.en.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (at `Hyderabad <https://en.wikipedia.org/wiki/Hyderabad>`_, in India).
-Full time teaching faculty, in `Mathematics <http://perso.crans.org/besson/ma101>`_ (`MA101 <http://perso.crans.org/besson/ma101>`_ course in the first semester August-December 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ course in the second semester January-May 2015) and in `Computer Science <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 during the second semester) <http://besson.qc.to/cs101/index.pdf>`_.
+*Assistant professor* at the `(very new) <http://perso.crans.org/besson/publis/10_10_2014__Liberation.en.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (at `Hyderabad <https://en.wikipedia.org/wiki/Hyderabad>`_, in India).
+Full time teaching faculty, in `Mathematics <http://perso.crans.org/besson/ma101>`_ (`MA101 <http://perso.crans.org/besson/ma101>`_ course in the first semester August-December 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ course in the second semester January-May 2015) and in `Computer Science <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 during the second semester) <http://perso.crans.org/besson/cs101/index.pdf>`_.
 
 .. note:: `See here for more information <teaching.en.html>`_.
 
@@ -169,8 +169,8 @@ MSc internship and thesis
 
 * :Description:
    I worked on Artificial Intelligence, verification and mainly the need for modularity for these domains.
-   My report (in English): `rapportM1Info13.pdf <http://besson.qc.to/rapportM1Info13.pdf>`_,
-   and my slides (in French): `slidesM1Info13.pdf <http://besson.qc.to/slidesM1Info13.pdf>`_.
+   My report (in English): `rapportM1Info13.pdf <http://perso.crans.org/besson/rapportM1Info13.pdf>`_,
+   and my slides (in French): `slidesM1Info13.pdf <http://perso.crans.org/besson/slidesM1Info13.pdf>`_.
 
 
 **2011-2012** : third-year BSc (Bachelor, *licence* in French)

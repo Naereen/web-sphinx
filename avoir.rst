@@ -113,7 +113,7 @@ Ils n'y sont plus, mais ils sont encore accessibles ici :
 
  #. `XHTML 4.01 <http://validator.w3.org/check?uri=referer>`_,
  #. et `CSS 3 <http://jigsaw.w3.org/css-validator/check/referer>`_,
- #. et `RSS 2.0 <http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fbesson.qc.to%2Frss.xml>`_.
+ #. et `RSS 2.0 <http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Fperso.crans.org/besson%2Frss.xml>`_.
 
 
 Une des deux images était codée en *base64*, pour *essayer*.
@@ -136,7 +136,7 @@ Résultats attendus :
    Aucunes pages ne passent désormais le test CSS, à cause de la feuille `buttons.css <_static/buttons.css>`_.
 
    :red:`Mais j'y travaille ! J'essaie de nétoyer au mieux les modèles de pages, et le code de chaque pages. Dans ce but, tout retour est le bienvenu ! Le traqueur de bug est là pour ça :`
-   `<http://besson.qc.to/git/web-sphinx/issues/new/>`_.
+   `<https://bitbucket.org/lbesson/web-sphinx/issues/new/>`_.
 
 ------------------------------------------------------------------------------
 

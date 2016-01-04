@@ -217,7 +217,7 @@ Other translations
    in order to clean it up, tweak it to change the styles, and to be able to embed it locally more easily.
 
 
-.. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
+.. seealso:: `isup.me <http://perso.crans.org/besson/isup.me/>`_
 
    In February 2014, I wrote a small open-source clone of `<http://isup.me/>`_
    in order to translate it, make it responsive (ie. more accessible on smartphones),

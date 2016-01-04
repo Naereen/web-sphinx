@@ -211,7 +211,7 @@ So, I used the following software :
  * html2rest, a Python script to convert HTML to rST,
  * `Generate It <http://www.generateit.net>`_, for some services,
  * Gravatar and Worldpress,
- * FreeDNS for shortlink (http://besson.qc.to and others),
+ * FreeDNS for shortlink (http://perso.crans.org/besson and others),
  * Pixlr online picture editor (`<http://pixlr.com/editor/>`_),
  * and many others...
 

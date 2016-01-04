@@ -93,7 +93,7 @@ You could also try to call me (or to text me) at the `Linphone <http://www.linph
 
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
-* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://besson.qc.to/contact,
+* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://perso.crans.org/besson/contact,
 * or if it is related to one of my pages or softwares, you could signal a bug with this form: https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly!**
 
 HTML5 Services

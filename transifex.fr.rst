@@ -224,7 +224,7 @@ Autres traductions
    Depuis, le projet a un peu évolué, désormais il permet notamment d'inclure `MathJax <https://www.mathjax.org/>`_ facilement.
 
 
-.. seealso:: `isup.me <http://besson.qc.to/isup.me/>`_
+.. seealso:: `isup.me <http://perso.crans.org/besson/isup.me/>`_
 
    En février 2014, j'ai codé rapidement un clone de `<http://isup.me/>`_ dans le but de le traduire,
    le rendre adaptatif (plus lisible sur téléphone), et d'apprendre à bidouiller un peu de *php*.

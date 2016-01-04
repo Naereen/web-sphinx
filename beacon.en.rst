@@ -33,7 +33,7 @@ The default code to add in every page is the following piece of JavaScript (at l
 
 .. sidebar:: A popular page?
 
-   Apparently, this `very page <http://besson.qc.to/beacon.en.html>`_ became quite popular *recently* (fall 2014),
+   Apparently, this `very page <http://perso.crans.org/besson/beacon.en.html>`_ became quite popular *recently* (fall 2014),
    receiving more visitors than any of my other webpages.
    `Any feedback about it is therefore most surely welcome! <contact/en/>`_.
 
@@ -108,7 +108,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
     :scale: 300%
     :align: center
     :alt: A small « analytics | GA » badge.
-    :target: http://besson.qc.to/beacon.html
+    :target: http://perso.crans.org/besson/beacon.html
 
 
   which is included with the following ``rST`` line of code:

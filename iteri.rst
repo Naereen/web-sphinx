@@ -87,7 +87,7 @@ Voilà un titre qui résume bien le message de ce petit post.
 
 .. [#listdiff] :Source: le `diff pour list.ml <http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/trunk/stdlib/list.ml?r1=10761&r2=10760&pathrev=10761>`_ qui a introduit *List.iteri* (sur le *svn* de l'INRIA);
 
-.. [#projet] :Voir: le `rapport <http://besson.qc.to/a/m/projet/rapport.html>`_ du projet **Laby** fait en décembre 2013 pour l'épreuve de modélisation de l'agrég;
+.. [#projet] :Voir: le `rapport <http://perso.crans.org/besson/a/m/projet/rapport.html>`_ du projet **Laby** fait en décembre 2013 pour l'épreuve de modélisation de l'agrég;
 
 .. [#patch] :Voir: le `commit <https://bitbucket.org/lbesson/agreg/diff/modelisation/projet/projet.ml?diff2=3318706bdc86&at=master>`_ rapportant la compatibilité avec OCaml v3.12.1 pour mon projet **Laby**.
 

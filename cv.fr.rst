@@ -38,7 +38,7 @@ Adresse de contact
 
 Autres informations à propos de moi
 ------------------------------------
- * :Date de Naissance: 12 Janvier 1993. Âge : 22 ans.
+ * :Date de Naissance: *12 Janvier 1993*. Âge : **23 ans**.
  * :Actuellement: Étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en 5ème année, en **mathématiques** et **informatique**.
  * :Pages sur le web:
 
@@ -59,14 +59,14 @@ Compétences en programmation et développement
 ---------------------------------------------
  * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
  * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.org/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.org/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
- * :Expert: `Python <https://pypi.python.org/pypi/ANSIColors-balises>`_ (2.7) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.org/bin/>`_ (*script*), `OCaml <http://besson.qc.to/a/m/2/>`_ (*langage fonctionnel*).
- * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://besson.qc.to/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://besson.qc.to/publis/Bomberman/>`_.
+ * :Expert: `Python <https://pypi.python.org/pypi/ANSIColors-balises>`_ (2.7) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.org/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
+ * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://perso.crans.org/besson/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://perso.crans.org/besson/publis/Bomberman/>`_.
 
 Informatique pratique
 ---------------------
 * :Systèmes d'exploitation: très compétent en général (*Microsoft Windows*, *Mac OS X*, *Android*), et surtout avec **GNU/Linux** (**Ubuntu**);
-* :Édition de texte: expert, notamment avec `Gedit <http://besson.qc.to/publis/gedit/>`_ & `GNU Nano <http://besson.qc.to/NanoSyntax.html>`_, `Spyder <https://pythonhosted.org/spyder/installation.html>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
-* :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://besson.qc.to/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.org/md/>`_ & `reStructuredText <http://besson.qc.to/demo.html>`_.(*pour des slides, des pages webs ou des articles*).
+* :Édition de texte: expert, notamment avec `Gedit <http://perso.crans.org/besson/publis/gedit/>`_ & `GNU Nano <http://perso.crans.org/besson/NanoSyntax.html>`_, `Spyder <https://pythonhosted.org/spyder/installation.html>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
+* :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://perso.crans.org/besson/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.org/md/>`_ & `reStructuredText <http://perso.crans.org/besson/demo.html>`_.(*pour des slides, des pages webs ou des articles*).
 
 Divers
 ------
@@ -136,8 +136,8 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 
 **2014-2015** : un an d'enseignement en Inde
 ---------------------------------------------
-*Assistant professor* à la `(toute nouvelle) <http://besson.qc.to/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
-Professeur à temps plein en `Mathématiques <http://perso.crans.org/besson/ma101>`_ (cours `MA101 <http://perso.crans.org/besson/ma101>`_ au premier semestre août-décembre 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ au second semestre janvier-mai 2015) et en `Informatique <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 au second semsestre) <http://besson.qc.to/cs101/index.pdf>`_.
+*Assistant professor* à la `(toute nouvelle) <http://perso.crans.org/besson/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
+Professeur à temps plein en `Mathématiques <http://perso.crans.org/besson/ma101>`_ (cours `MA101 <http://perso.crans.org/besson/ma101>`_ au premier semestre août-décembre 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ au second semestre janvier-mai 2015) et en `Informatique <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 au second semsestre) <http://perso.crans.org/besson/cs101/index.pdf>`_.
 
 .. note:: `Voir ici pour plus d'informations <enseignement.fr.html>`_.
 
@@ -175,8 +175,8 @@ Stage et rapport de stage de M1
 
 * :Description:
    J'ai travaillé sur le compositionnalité et le frame problem en Intelligence Artificielle et Verification.
-   Mon rapport (en anglais): `rapportM1Info13.pdf <http://besson.qc.to/rapportM1Info13.pdf>`_,
-   et mes slides (en français): `slidesM1Info13.pdf <http://besson.qc.to/slidesM1Info13.pdf>`_.
+   Mon rapport (en anglais): `rapportM1Info13.pdf <http://perso.crans.org/besson/rapportM1Info13.pdf>`_,
+   et mes slides (en français): `slidesM1Info13.pdf <http://perso.crans.org/besson/slidesM1Info13.pdf>`_.
 
 
 **2011-2012** : troisième et dernière année de Licence

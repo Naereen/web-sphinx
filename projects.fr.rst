@@ -341,7 +341,7 @@ Autres liens externes
 #. `<http://besson.qc.to>`_ (e.g. `<http://besson.qc.to/publis/tutoriel_gedit_couleur_embedded_terminal.html>`_).
 #. `<http://lbesson.qc.to>`_ (e.g. `<http://lbesson.qc.to/publis/astuce_gedit_modificateur.html>`_) et aussi en (inutiles) sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
 #. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
-   d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://besson.qc.to/sublimetext.fr.html>`_).
+   d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://perso.crans.org/besson/sublimetext.fr.html>`_).
    Je ne suis pas l'auteur du code pour le menu latéral, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
 .. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.
