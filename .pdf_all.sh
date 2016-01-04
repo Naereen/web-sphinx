@@ -7,8 +7,7 @@
 #
 # A simple script to automatize the generation fo one PDF file
 # from rST files, with rst2pdf and rst2latex -> pdflatex
-# Last version: http://besson.qc.to/git/web-sphinx/src/master/.pdf_all.sh
-# or https://bitbucket.org/lbesson/web-sphinx/src/master/.pdf_all.sh
+# Last version: https://bitbucket.org/lbesson/web-sphinx/src/master/.pdf_all.sh
 
 VOIR=""
 test="yes"
@@ -30,8 +29,8 @@ for i in "$@"; do
    $ECHO "The style sheel must be '.style.rst2pdf'."
    $ECHO ""
    $ECHO "Copyrights: (C) Lilian Besson 2011-2013."
-   $ECHO "Last version: http://besson.qc.to/git/web-sphinx/src/master/.pdf_all.sh"
-   $ECHO "Released under the term of the GPL v3 Licence (http://besson.qc.to/LICENSE.html)."
+   $ECHO "Last version: http://perso.crans.org/besson/git/web-sphinx/src/master/.pdf_all.sh"
+   $ECHO "Released under the term of the GPL v3 Licence (http://perso.crans.org/besson/LICENSE.html)."
    $ECHO "In particular, $0 is provided WITHOUT ANY WARANTY."
    exit 0
   ;;

@@ -33,7 +33,7 @@ for i in "$@"; do
  esac
 done
 
-# Use http://besson.qc.to/bin/.color.sh, if possible.
+# Use http://perso.crans.org/besson/bin/.color.sh, if possible.
 [ -f "$HOME"/.color.sh ] && . "$HOME"/.color.sh
 
 # Change the behavior of the script there.
