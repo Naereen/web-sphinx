@@ -70,14 +70,14 @@ $(document).ready(function(){
   var messages = {
     notify_cookies: "Cette page utilise des <i>cookies</i>.\n<br>En navigant sur ce site, vous acceptez ses conditions d'utilisation.",
     btw_cookies: "<b>Super !</b>\n</br>Au fait, vous pouvez changer le style des pages en <i>appuyant sur 's'</i> !",
-    moreinfo_cookies: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n</br>Vous pouvez consulter cette page <a title=\"Plus d'informations sur les cookies ?\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
+    moreinfo_cookies: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation que ce site fait des <i>cookies</i> ?\n</br>Vous pouvez consulter cette page <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies.html</a>.",
     agree: "D'accord :)",
     disagree: "Pas d'accord !",
     likepage: "Cette page vous <b>plait-elle</b> ?",
     yesido: "Oui !",
     notreally: "Pas vraiment...",
     ofcourseyoudo: "<b>Normal, je code bien :)</b>\n</br>N'hésitez pas à consulter d'autre pages !",
-    changestylebeta: "Quel style voulez-vous utiliser ?\n</br></br>Cette fonctionnalité utilise un <i>cookie</i>. Actuellement : " + getCookie("layoutstyle") + ".\n</br>En apprendre plus sur les <a title=\"Plus d'informations sur les cookies ?\" href=\"http://besson.qc.to/cookies.html\">cookies et leurs utilisation sur ce site</a> ?",
+    changestylebeta: "Quel style voulez-vous utiliser ?\n</br></br>Cette fonctionnalité utilise un <i>cookie</i>. Actuellement : " + getCookie("layoutstyle") + ".\n</br>En apprendre plus sur les <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies et leurs utilisation sur ce site</a> ?",
     oupsohsorry: "<b>Oups !!</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ?\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile et ouvert à tous !</span>"
   };
   if (e == '.en.html') {
@@ -85,14 +85,14 @@ $(document).ready(function(){
     messages = {
       notify_cookies: "This page is using <i>cookies</i>.\n<br> By browsing this site, you are accepting its general conditions of use.",
       btw_cookies: "<b>Great!</b>\n</br>By the way, you can change the color style <i>with the 's' key on your keyboard</i>!",
-      moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://besson.qc.to/cookies.html\">cookies.html</a>.",
+      moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies.html</a>.",
       agree: "Alright :)",
       disagree: "What? No!",
       likepage: "Do you <b>like that page</b>?",
       yesido: "Yes I do!",
       notreally: "Not really...",
       ofcourseyoudo: "<b>Normal, I know <i>how to code</i> :)</b>\n</br>Please, go read more of my pages!",
-      changestylebeta: "Which style do you want to use?\n</br></br>This feature uses a <i>cookie</i>. Currently: " + getCookie("layoutstyle") + ".\n</br>Want to learn more about <a title=\"More information about cookies?\" href=\"http://besson.qc.to/cookies.html\">cookies and their use on this website</a>?",
+      changestylebeta: "Which style do you want to use?\n</br></br>This feature uses a <i>cookie</i>. Currently: " + getCookie("layoutstyle") + ".\n</br>Want to learn more about <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies and their use on this website</a>?",
       oupsohsorry: "<b>Oups!!</b> If it's a bug, could you take the time to report it?\n</br>Thanks to <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">it's easy and open to anyone!</span>"
     }
   };
