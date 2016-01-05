@@ -95,6 +95,7 @@ Some websites are specialized about hitch-hiking:
 
   - `HitchWiki.org/en/ <http://hitchwiki.org/en/Main_Page>`_ is a Wiki project only designed to provide help about hitch-hiking!
 
+
 ------------------------------------------------------------------------------
 
 Some informal statistics
@@ -105,7 +106,19 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 * alone people more than people with children,
 * usually, they also practice hitch-hiking on their own, or they have practiced it before,
 * not really able to notice any pattern in their age,
-* usually they are locals (living near the start point or the destination).
+* and usually they are locals (living near the start point or the destination);
+* *Last but the not the least:* usually very nice people! Thanks a lot!!
+
+
+------------------------------------------------------------------------------
+
+*Couch Surfing* ?
+-----------------
+Of course, I like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_,
+and even if I have been able to start to use it so far :
+
+- `I have an account on couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
+- and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellows couch-surfer!
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

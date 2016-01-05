@@ -96,16 +96,31 @@ Des sites sont aussi spécialisés pour l'auto-stop :
 - Le site québécois `LePouceux.com <http://www.lepouceux.com/>`_ est de qualité, notamment `tous ces conseils là <http://www.lepouceux.com/index.asp?Chap=Transport_voyage>`_,
 - et ces articles par un couple de voyageurs `ParisToParis.net/?p=3935 <http://paristoparis.net/?p=3935>`_.
 
+
 ------------------------------------------------------------------------------
 
 Statistiques concises
 ---------------------
+Quelques remarques à propos des gentils automobilistes qui acceptent de prendre des auto-stoppeurs :
+
 * Plus souvent des hommes que des femmes,
 * plus souvent des personnes seules ou en couple qu'avec des enfants,
 * plus souvent des gens ayant déjà fait du stop,
 * pas vraiment de constat sur l'âge, même si un peu plus souvent dans la tranche 25/35 ans,
 * souvent des distances assez longues (50/200 kms),
-* souvent des gens du coin (de départ ou d'arrivée).
+* et souvent des gens du coin (de départ ou d'arrivée);
+* *Last but the not the least:* souvent des gens gentils ! Merci à eux !!
+
+
+------------------------------------------------------------------------------
+
+*Couch Surfing* ?
+-----------------
+Naturellement, je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_,
+et même si je n'ai pas vraiment eu l'occasion de m'en servir pour l'instant :
+
+- `j'ai un profil sur couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
+- et j'y propose même `mon canapé <https://www.couchsurfing.com/people/lilian-besson/couch>`_ !
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
