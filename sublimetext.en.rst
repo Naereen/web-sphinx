@@ -113,7 +113,7 @@ To use one of these files (``.sublime-settings``, ``.sublime-snippet`` or ``.sub
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:State: *Actively maintained* (December 2015).
+:State: *Actively maintained* (January 2016).
 
 Config
 ~~~~~~
@@ -219,6 +219,7 @@ Plugins that add great features:
 
 A better support for some languages:
 
+* `AutoDocstring <https://packagecontrol.io/packages/AutoDocstring>`_ simplifies and improve significantly the writing of `Python docstrings (2 or 3) <http://www.python.org/dev/peps/pep-0287/>`_, and even supports the two popular styles `Google docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html>`_ and `Numpy docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_numpy.html>`_.
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ allows you to select a color, and insert it as is. Very handy when writing CSS or HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ provides good support for programming with `GNUPlot v4+ <http://www.gnuplot.info/>`_.
 * `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ automatically checks the correctness of any edited JSON file (and ST conf' files are JSON).

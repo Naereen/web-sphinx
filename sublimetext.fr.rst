@@ -116,7 +116,7 @@ Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou
 Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:État: *Maintenu activement* (décembre 2015).
+:État: *Maintenu activement* (janvier 2016).
 
 Config
 ~~~~~~
@@ -221,6 +221,7 @@ Greffons ajoutant de super fonctionnalités :
 
 Un meilleur support pour certains langages :
 
+* `AutoDocstring <https://packagecontrol.io/packages/AutoDocstring>`_ simplifie et améliore significativement l'écriture de `docstrings Python (2 ou 3) <http://www.python.org/dev/peps/pep-0287/>`_, et supporte les deux styles `Google docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html>`_ et `Numpy docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_numpy.html>`_.
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
 * `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ vérifie automatiquement les fichiers JSON lors de leur édition (les fichiers de conf de ST3 sont tous en JSON, notamment).
