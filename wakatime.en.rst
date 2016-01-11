@@ -113,9 +113,16 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 .. note::
 
    :line:`I would love to find an easy way to just include the pie chart, and not the entire page.`
-   :red:`Edit:` On December 19th (2015), I got an email from `Alan Hamlet <https://github.com/alanhamlett>`_, CEO and founder of WakaTime, to inform me of the new `charts share <https://wakatime.com/share>`_ feature.
+   :red:`Edit:` On December 19th (2015), I got a personal email from `Alan Hamlet <https://github.com/alanhamlett>`_, CEO and founder of WakaTime, to inform me of the new `charts share <https://wakatime.com/share>`_ feature.
    The charts displayed above are good examples of this very new WakaTime feature (I find it very cool!).
 
+
+`Overview of my coding time in 2015 <https://wakatime.com/a-look-back-at-2015>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- About 600 hours in 2015 entirely, average for WakaTime users was 269h, median 193h (and max 2342h !).
+- Daily average about 2 hours 27 minutes in 2015, average for WakaTime users was 44 min, median 31 min (and max 6 h 25 min !).
+- As for languages, I mainly used Markdown (177 h), LaTeX (160 h), Python (151 h) and reStructuredText (85 h); while other languages have less than 5h/year (Bash, OCaml, Octave/Matlab, CSS etc).
+- For more details, `see the screenshots in this folder <./_images/WakaTime_a_look_back_at_2015/>`_.
 
 ------------------------------------------------------------------------------
 

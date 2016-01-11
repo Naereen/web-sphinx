@@ -115,8 +115,16 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 .. note:: En attendant de faire mieux...
 
    :line:`J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.`
-   :red:`Correction :` Le 19 décembre (2015), j'ai reçu un courriel de `Alan Hamlet <https://github.com/alanhamlett>`_ PDG et créateur de WakaTime, pour m'informer de la nouvelle fonctionnalité de `partage de graphiques <https://wakatime.com/share>`_ WakaTime.
+   :red:`Correction :` Le 19 décembre (2015), j'ai reçu un courriel personnel de `Alan Hamlet <https://github.com/alanhamlett>`_ PDG et créateur de WakaTime, pour m'informer de la nouvelle fonctionnalité de `partage de graphiques <https://wakatime.com/share>`_ WakaTime.
    Les graphiques inclus ci-dessus sont de bons exemples de ce qu'apprte cette toute nouvelle fonctionnalité (que je trouve très cool !).
+
+
+`Aperçu complet de 2015 <https://wakatime.com/a-look-back-at-2015>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Environ 600 heures en tout en 2015, alors que la moyenne des utilisateurs de WakaTime était de 269h, la médiane à 193h (mais le max à 2342h !).
+- Une moyenne quotidienne de 2 heures 27 minutes en 2015, alors que la moyenne des utilisateurs de WakaTime était de 44 min, et la médiane à 31 min (mais le max à 6 h 25 min !).
+- Et pour le choix de langages, j'ai surtout utilisé Markdown (177 h), LaTeX (160 h), Python (151 h) et reStructuredText (85 h); et les tous les autres langages sont à moins de 5h/an (Bash, OCaml, Octave/Matlab, CSS etc).
+- `Voir les captures d'écran dans ce dossier <./_images/WakaTime_a_look_back_at_2015/>`_ si besoin.
 
 ------------------------------------------------------------------------------
 
