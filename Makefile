@@ -27,7 +27,7 @@ CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --prog
 CP = ~/bin/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure gpghtml send_jarvis send_zamok send_dpt check
+total: html images obscure gpghtml send_jarvis send_zamok check
 local: html images send_jarvis check
 
 check: warnings severes errors
@@ -73,7 +73,7 @@ obscure:
 	@echo "Email addresses have been hiden :)"
 
 fixperms:
-	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~ 
+	-rm -fv *~ .*~ .*/*~ .*/*/.*~ .*/*/*~
 	-chmod -vR o-w ./ | tee /tmp/sphinxperms_o.log  | grep --color=always modifi
 	-chmod -vR g-w ./ | tee /tmp/sphinxperms_g.log  | grep --color=always modifi
 
@@ -102,7 +102,7 @@ gpgpdf: pdf
 
 ################################# Senders #####################################
 
-send: rss send_jarvis send_zamok send_dpt send_pdf send_latexpdf
+send: rss send_jarvis send_zamok send_pdf send_latexpdf
 
 sendAll: notify_archive send
 
@@ -120,15 +120,15 @@ images:
 send_pdf: fixperms
 	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc  besson@zamok.crans.org:~/www/pdf/
 	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
-	-$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	# -$(CP) $(BUILDDIR)/pdf/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_jarvis: fixperms
 	$(CP) -r $(BUILDDIR)/html/ ~/Public/
 	-mv -f ~/Public/_images/.besson.png ~/Public/_images/.moi.jpg
 
-send_dpt: fixperms
-	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
-	-$(CP) ~/Dropbox/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
+# send_dpt: fixperms
+# 	$(CP) -r $(BUILDDIR)/html/ lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+# 	-$(CP) ~/Dropbox/web-sphinx.* lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/dl/
 
 send_zamok: fixperms
 	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
@@ -138,10 +138,10 @@ send_latexpdf: fixperms
 	-pkill gnuplot
 	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc besson@zamok.crans.org:~/www/
 	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc ~/Public/
-	-$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
+	# -$(CP) $(BUILDDIR)/latex/cv*.pdf $(BUILDDIR)/latex/cv*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc besson@zamok.crans.org:~/www/pdf/
 	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc ~/Public/pdf/
-	-$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
+	# -$(CP) $(BUILDDIR)/latex/*.pdf $(BUILDDIR)/pdf/*.pdf.asc lbesson@ssh.dptinfo.ens-cachan.fr:~/public_html/pdf/
 
 send_simple:
 	-$(CP) $(BUILDDIR)/simplehtml/*.html $(BUILDDIR)/simplehtml/.*.html besson@zamok.crans.org:~/www/_images/
@@ -169,7 +169,7 @@ pdf: ./.pdf_all.sh
 	@echo
 	@echo "Build finished. The PDFs files are in $(BUILDDIR)/pdf."
 
-compresspdf: 
+compresspdf:
 	-(cd $(BUILDDIR)/pdf/ ; PDFCompress --force --no-zenity --sign *pdf ; cd ../..)
 	@echo
 	@echo "Compression finished. The PDFs files are compressed now (in $(BUILDDIR)/pdf)."
@@ -209,7 +209,7 @@ hieroglyph:
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
-	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html $(BUILDDIR)/html/whatsnew.fr.html $(BUILDDIR)/html/whatsnew.en.html 
+	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html $(BUILDDIR)/html/whatsnew.fr.html $(BUILDDIR)/html/whatsnew.en.html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
