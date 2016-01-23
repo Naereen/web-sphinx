@@ -116,7 +116,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 
    :line:`J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.`
    :red:`Correction :` Le 19 décembre (2015), j'ai reçu un courriel personnel de `Alan Hamlet <https://github.com/alanhamlett>`_ PDG et créateur de WakaTime, pour m'informer de la nouvelle fonctionnalité de `partage de graphiques <https://wakatime.com/share>`_ WakaTime.
-   Les graphiques inclus ci-dessus sont de bons exemples de ce qu'apprte cette toute nouvelle fonctionnalité (que je trouve très cool !).
+   Les graphiques inclus ci-dessus sont de bons exemples de ce qu'apporte cette toute nouvelle fonctionnalité (que je trouve très cool !).
 
 
 `Aperçu complet de 2015 <https://wakatime.com/a-look-back-at-2015>`_

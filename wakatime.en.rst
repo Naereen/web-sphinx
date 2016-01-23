@@ -114,7 +114,7 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 
    :line:`I would love to find an easy way to just include the pie chart, and not the entire page.`
    :red:`Edit:` On December 19th (2015), I got a personal email from `Alan Hamlet <https://github.com/alanhamlett>`_, CEO and founder of WakaTime, to inform me of the new `charts share <https://wakatime.com/share>`_ feature.
-   The charts displayed above are good examples of this very new WakaTime feature (I find it very cool!).
+   The charts displayed above are good examples of what brings this very new WakaTime feature (I find it very cool!).
 
 
 `Overview of my coding time in 2015 <https://wakatime.com/a-look-back-at-2015>`_

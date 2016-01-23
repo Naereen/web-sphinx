@@ -29,7 +29,7 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 
    Entre novembre 2015 et février 2016, je ferai aussi 1h de colle par semaine en mathématiques pour une classe de `BCPST 2A <http://prepas.org/ups.php?article=43>`_.
 
-:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 90 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
+:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 100 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
 
 
 Premier semestre en 2015 (en Inde)

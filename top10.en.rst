@@ -87,16 +87,16 @@ My 10 favorite **bands**/**artists**
 
 My 10 favorite **songs**
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Iron Maiden <https://en.wikipedia.org/wiki/Iron_Maiden>`_
-- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan>`_, by `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_
-- `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, by `Renaud <https://en.wikipedia.org/wiki/Renaud>`_
-- `The Hanging Tree <https://www.youtube.com/watch?v=aJISG67FjeM>`_, by `Peter Hollens <https://www.youtube.com/user/peterhollens>`_ or `this version <https://www.youtube.com/watch?v=Gw9acT0uFLs>`_ by `Taylor Davis <https://www.youtube.com/user/ViolinTay>`_ (cover)
-- `Rosanna <https://www.youtube.com/results?search_query=Rosanna+Toto>`_, by `Toto <https://en.wikipedia.org/wiki/Toto_%28band%29>`_
-- `Nothing Else Matters <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Metallica <https://en.wikipedia.org/wiki/Metallica>`_
-- `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, of the (legendary) game `The Legend of Zelda: Link's Awakening <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, or instrumental, by `Koji Kondo  <https://en.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_)
-- `Skyrim : The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, by `Malukah <http://www.malukah.com/>`_ (cover)
-- `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy)
-- `Time in a Bottle <https://www.youtube.com/results?search_query=jim+croce+time+in+a+bottle>`_, by `Jim Croce <https://en.wikipedia.org/wiki/Jim_Croce>`_ (`famous for its use in this mythic X-Men scene <https://www.youtube.com/watch?v=1NnyVc8r2SM>`_)
+- `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Iron Maiden <https://en.wikipedia.org/wiki/Iron_Maiden>`_,
+- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan>`_, by `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_,
+- `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, by `Renaud <https://en.wikipedia.org/wiki/Renaud>`_,
+- `The Hanging Tree <https://www.youtube.com/watch?v=aJISG67FjeM>`_, by `Peter Hollens <https://www.youtube.com/user/peterhollens>`_ or `this version <https://www.youtube.com/watch?v=Gw9acT0uFLs>`_ by `Taylor Davis <https://www.youtube.com/user/ViolinTay>`_ (cover),
+- `Rosanna <https://www.youtube.com/results?search_query=Rosanna+Toto>`_, by `Toto <https://en.wikipedia.org/wiki/Toto_%28band%29>`_,
+- `Nothing Else Matters <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Metallica <https://en.wikipedia.org/wiki/Metallica>`_,
+- `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, of the (legendary) game `The Legend of Zelda: Link's Awakening <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, or instrumental, by `Koji Kondo  <https://en.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_),
+- `Skyrim : The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, by `Malukah <http://www.malukah.com/>`_ (cover),
+- `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy),
+- `Time in a Bottle <https://www.youtube.com/results?search_query=jim+croce+time+in+a+bottle>`_, by `Jim Croce <https://en.wikipedia.org/wiki/Jim_Croce>`_ (`famous for its use in this mythic X-Men scene <https://www.youtube.com/watch?v=1NnyVc8r2SM>`_).
 
 ------------------------------------------------------------------------------
 
@@ -122,16 +122,16 @@ My 10 favorite **GameBoy games**
 
 My 10 favorite **PC games**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `The Elder Scrolls V: Skyrim <https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim>`_ (RPG)
-- `Lionheart: Legacy of the Crusader <https://en.wikipedia.org/wiki/Lionheart:_Legacy_of_the_Crusader>`_ (ARPG)
-- `Torchlight II <https://en.wikipedia.org/wiki/Torchlight_II>`_ (ARPG)
-- `Age of Mythology <https://en.wikipedia.org/wiki/Age_of_Mythology>`_ (Real-Time Tactical game)
-- `Bastion I <https://en.wikipedia.org/wiki/Bastion_%28video_game%29>`_ (poetic RPG)
-- `Evoland I <https://en.wikipedia.org/wiki/Evoland>`_ (unique game)
-- `Rift <https://en.wikipedia.org/wiki/Rift_%28video_game%29>`_ (MMORPG)
-- `Grim Dawn <https://en.wikipedia.org/wiki/Grim_Dawn>`_ (recent ARPG)
-- `World of Warcraft <https://en.wikipedia.org/wiki/World_of_Warcraft>`_ (MMORPG)
-- `Night Stone <http://www.ign.com/games/nightstone/pc-664024>`_ (old ARPG)
+- `The Elder Scrolls V: Skyrim <https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim>`_ (RPG),	
+- `Lionheart: Legacy of the Crusader <https://en.wikipedia.org/wiki/Lionheart:_Legacy_of_the_Crusader>`_ (A-RPG),
+- `Torchlight II <https://en.wikipedia.org/wiki/Torchlight_II>`_ (A-RPG),
+- `Age of Mythology <https://en.wikipedia.org/wiki/Age_of_Mythology>`_ (Real-Time Tactical game),
+- `Bastion I <https://en.wikipedia.org/wiki/Bastion_%28video_game%29>`_ (poetic RPG),
+- `Evoland I <https://en.wikipedia.org/wiki/Evoland>`_ (unique game),
+- `Rift <https://en.wikipedia.org/wiki/Rift_%28video_game%29>`_ (MMO-RPG),
+- `Grim Dawn <https://en.wikipedia.org/wiki/Grim_Dawn>`_ (recent A-RPG),
+- `World of Warcraft <https://en.wikipedia.org/wiki/World_of_Warcraft>`_ (MMO-RPG),
+- `Night Stone <http://www.ign.com/games/nightstone/pc-664024>`_ (old A-RPG).
 
 ------------------------------------------------------------------------------
 
@@ -187,21 +187,15 @@ My 10 favorite **comic books** (French "BD")
 
 My 10 favorite **book writers**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `David Eddings <https://en.wikipedia.org/wiki/David_Eddings>`_ (American, 20th, fantasy, mainly for `The Belgariad <https://en.wikipedia.org/wiki/The_Belgariad>`_ and `The Malloreon <https://en.wikipedia.org/wiki/The_Malloreon>`_)
-- `Edgar A. Poe <https://en.wikipedia.org/wiki/Edgar_Allan_Poe>`_ (American, 19th, first horror writer and dark poet)
-- `Philip Pullman <https://en.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20th, I know him for `his trilogy "His Dark Materials" <https://en.wikipedia.org/wiki/His_Dark_Materials>`_)
-- `Howard Philip Lovecraft <https://en.wikipedia.org/wiki/H._P._Lovecraft>`_ (American, early 20th, master of horror short novels)
-- `Bernard-Marie Koltès <https://en.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (theater, 20th, mainly for "Retour au Désert", "La Nuit Juste Avant Les Forêts", "Combat de Nègre et de Chiens", and "Quai Ouest")
-- `Raymond E. Feist <https://en.wikipedia.org/wiki/Raymond_Feist>`_ (American, 20th, fantasy)
-- `Jules Verne <https://en.wikipedia.org/wiki/Jules_Verne>`_ (French, 19th, realistic science-related novels, I mainly love `"The Mysterious Island" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_)
-- `Emile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th)
-- `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_)
-- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et Les Lampions" and "À Tous Ceux Qui")
-
-------------------------------------------------------------------------------
-
-.. todo:: Conclude the top10 lists, find other lists to do!
-.. todo:: Keep links to Wikipedia articles for **every** items of **every** lists!
-
+- `David Eddings <https://en.wikipedia.org/wiki/David_Eddings>`_ (American, 20th, fantasy, mainly for `The Belgariad <https://en.wikipedia.org/wiki/The_Belgariad>`_ and `The Malloreon <https://en.wikipedia.org/wiki/The_Malloreon>`_),
+- `Edgar A. Poe <https://en.wikipedia.org/wiki/Edgar_Allan_Poe>`_ (American, 19th, first horror writer and dark poet),
+- `Philip Pullman <https://en.wikipedia.org/wiki/Philip_Pullman>`_ (Fantasy, 20th, I know him for `his trilogy "His Dark Materials" <https://en.wikipedia.org/wiki/His_Dark_Materials>`_),
+- `Howard Philip Lovecraft <https://en.wikipedia.org/wiki/H._P._Lovecraft>`_ (American, early 20th, master of horror short novels),
+- `Bernard-Marie Koltès <https://en.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (theater, 20th, mainly for "Retour au Désert", "La Nuit Juste Avant Les Forêts", "Combat de Nègre et de Chiens", and "Quai Ouest"),
+- `Raymond E. Feist <https://en.wikipedia.org/wiki/Raymond_Feist>`_ (American, 20th, fantasy),
+- `Jules Verne <https://en.wikipedia.org/wiki/Jules_Verne>`_ (French, 19th, realistic science-related novels, I mainly love `"The Mysterious Island" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
+- `Emile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th),
+- `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_),
+- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et Les Lampions" and "À Tous Ceux Qui").
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

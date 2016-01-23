@@ -123,15 +123,15 @@ Mes 10 **jeux GameBoy** préférés
 Mes 10 **jeux PC** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `The Elder Scrolls V : Skyrim <https://fr.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim>`_ (RPG),
-- `Lionheart : Legacy of the Crusader <https://fr.wikipedia.org/wiki/Lionheart:_Legacy_of_the_Crusader>`_ (ARPG),
-- `Torchlight II <https://fr.wikipedia.org/wiki/Torchlight_II>`_ (ARPG),
+- `Lionheart : Legacy of the Crusader <https://fr.wikipedia.org/wiki/Lionheart:_Legacy_of_the_Crusader>`_ (A-RPG),
+- `Torchlight II <https://fr.wikipedia.org/wiki/Torchlight_II>`_ (A-RPG),
 - `Age of Mythology <https://fr.wikipedia.org/wiki/Age_of_Mythology>`_ (jeu de stratégie en temps réel),
 - `Bastion I <https://fr.wikipedia.org/wiki/Bastion_%28jeu_vid%C3%A9o%29>`_ (RPG poétique),
 - `Evoland I <https://fr.wikipedia.org/wiki/Evoland>`_ (jeu évoluto-historique),
-- `Rift <https://fr.wikipedia.org/wiki/Rift:_Planes_of_Telara>`_ (MMORPG),
-- `Grim Dawn <https://fr.wikipedia.org/wiki/Grim_Dawn>`_ (ARPG récent),
-- `World of Warcraft <https://fr.wikipedia.org/wiki/World_of_Warcraft>`_ (MMORPG),
-- `Night Stone <http://www.ign.com/games/nightstone/pc-664024>`_ (vieux ARPG).
+- `Rift <https://fr.wikipedia.org/wiki/Rift:_Planes_of_Telara>`_ (MMO-RPG),
+- `Grim Dawn <https://fr.wikipedia.org/wiki/Grim_Dawn>`_ (A-RPG récent),
+- `World of Warcraft <https://fr.wikipedia.org/wiki/World_of_Warcraft>`_ (MMO-RPG),
+- `Night Stone <http://www.ign.com/games/nightstone/pc-664024>`_ (vieux A-RPG).
 
 ------------------------------------------------------------------------------
 

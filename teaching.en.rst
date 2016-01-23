@@ -9,7 +9,7 @@
 
 In 2015
 -------
-.. seealso:: `This folder contains most of the documents to my teaching <./teach/>`_.
+.. seealso:: `This folder contains most of the documents related to my teaching <./teach/>`_.
 
 Second semester of 2015 (in France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,7 +28,7 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 
    Between November 2015 and February 2016, I will also give one weekly hour of oral exam (in maths) for a class of `BCPST 2 <http://prepas.org/ups.php?article=43>`_ prep school.
 
-:Total: For the scholar year 2015-16, I evaluate my teaching load to be **about 80 hours** (number of hours teaching to a group of students, or in charge of a practical session or an oral exam).
+:Total: For the scholar year 2015-16, I evaluate my teaching load to be **about 100 hours** (number of hours teaching to a group of students, or in charge of a practical session or an oral exam).
 
 First semester of 2015 (in India)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
