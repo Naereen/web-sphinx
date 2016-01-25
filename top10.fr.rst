@@ -27,14 +27,14 @@ Mes 10 **films** préférés
 - `Garden State <https://fr.wikipedia.org/wiki/Garden_State_%28film%29>`_,
 - `La vie rêvée Walter Mitty <https://fr.wikipedia.org/wiki/La_Vie_r%C3%AAv%C3%A9e_de_Walter_Mitty>`_,
 - `Juno <https://fr.wikipedia.org/wiki/Juno_%28film%29>`_,
-- `Pulp Fiction <https://fr.wikipedia.org/wiki/Pulp_Fiction_%28film%29>`_,
+- `Pulp Fiction <https://fr.wikipedia.org/wiki/Pulp_Fiction_%28film%29>`_ ex.æquo. avec `Kill Bill <https://fr.wikipedia.org/wiki/Kill_Bill>`_ (volumes I et II),
 - `Retour vers le Futur (1) <https://fr.wikipedia.org/wiki/Retour_vers_le_futur>`_,
 - `Le Cinquième Élément <https://fr.wikipedia.org/wiki/Le_Cinqui%C3%A8me_%C3%89l%C3%A9ment>`_,
 - `Princesse Mononoké <https://fr.wikipedia.org/wiki/Princesse_Mononok%C3%A9>`_.
 
 .. seealso:: Un autre top 7 de films préférés...
 
-   `<http://jill-jenn.net/cinema/>`_
+   Par un ami cinéphile, `jill-jenn.net/cinema <http://jill-jenn.net/cinema/>`_.
 
 
 Mes 10 **acteurs/actrices de films** préférés

@@ -24,10 +24,10 @@ My 10 favorite **movies**
 - `The Truman Show <https://en.wikipedia.org/wiki/The_Truman_Show>`_,
 - `The Lord of the Rings: The Fellowship of the Ring (I) <https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring>`_,
 - `Conan the Barbarian (1982) <https://en.wikipedia.org/wiki/Conan_the_Barbarian_%281982_film%29>`_,
-- `Garden State <https://en.wikipedia.org/wiki/Garden_State_%28film%29>`_,
+- `Garden State <https://en.wikipedia.org/wiki/Garden_State_%28movie%29>`_,
 - `The dreamed life of Walter Mitty <https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film)>`_,
-- `Juno <https://en.wikipedia.org/wiki/Juno_%28film%29>`_,
-- `Pulp Fiction <https://en.wikipedia.org/wiki/Pulp_Fiction_%28film%29>`_,
+- `Juno <https://en.wikipedia.org/wiki/Juno_%28movie%29>`_,
+- `Pulp Fiction <https://en.wikipedia.org/wiki/Pulp_Fiction_%28movie%29>`_ ex.æquo. with `Kill Bill <https://en.wikipedia.org/wiki/Kill_Bill>`_ (volumes I and II),
 - `Back to the Future (I) <https://en.wikipedia.org/wiki/Back_to_the_Future>`_,
 - `The Fifth Element <https://en.wikipedia.org/wiki/The_Fifth_Element>`_,
 - `Princess Mononoke <https://en.wikipedia.org/wiki/Princess_Mononoke>`_.
@@ -44,14 +44,14 @@ My 10 favorite **movies actors/actresses**
    `Coluche <https://en.wikipedia.org/wiki/Coluche>`_, mainly in `Tchao Pantin <https://en.wikipedia.org/wiki/Tchao_Pantin>`_ (RIP Coluche).
 
 
-- `Ellen Page <https://en.wikipedia.org/wiki/Ellen_Page>`_, mainly in `Juno`_, `Hard Candy <https://en.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Whip It <https://en.wikipedia.org/wiki/Whip_It_%28film%29>`_ and `To Rome with love <https://en.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_.
-- `Ewan McGregor <https://en.wikipedia.org/wiki/Ewan_McGregor>`_, mainly in the `Star Wars <https://en.wikipedia.org/wiki/Star_Wars_%28film%29>`_ movies, `Moulin Rouge <https://en.wikipedia.org/wiki/Moulin_Rouge_%28film%29>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `The Men Who Stare at Goats <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc.
-- `Jim Carrey <https://en.wikipedia.org/wiki/Jim_Carrey>`_, mainly in `The Truman Show`_, `The Mask <https://en.wikipedia.org/wiki/The_Mask_%28film%29>`_, `Bruce almighty <https://en.wikipedia.org/wiki/Bruce_Almighty>`_ and `I Love you Philip Morris <https://en.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_.
+- `Ellen Page <https://en.wikipedia.org/wiki/Ellen_Page>`_, mainly in `Juno`_, `Hard Candy <https://en.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Whip It <https://en.wikipedia.org/wiki/Whip_It_%28movie%29>`_ and `To Rome with love <https://en.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_.
+- `Ewan McGregor <https://en.wikipedia.org/wiki/Ewan_McGregor>`_, mainly in the `Star Wars <https://en.wikipedia.org/wiki/Star_Wars_%28movie%29>`_ movies, `Moulin Rouge <https://en.wikipedia.org/wiki/Moulin_Rouge!>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `The Men Who Stare at Goats <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc.
+- `Jim Carrey <https://en.wikipedia.org/wiki/Jim_Carrey>`_, mainly in `The Truman Show`_, `The Mask <https://en.wikipedia.org/wiki/The_Mask_%28movie%29>`_, `Bruce almighty <https://en.wikipedia.org/wiki/Bruce_Almighty>`_ and `I Love you Philip Morris <https://en.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_.
 - `Louis de Funès <https://en.wikipedia.org/wiki/Louis_de_Funès>`_, mainly in the *Gendarmes* and the *Fantomas* movies.
-- `Natalie Portman <https://en.wikipedia.org/wiki/Natalie_Portman>`_, mainly in `Leon <https://en.wikipedia.org/wiki/Leon_(movie)>`_, the `Star Wars`_ movies and `Garden State`_.
+- `Natalie Portman <https://en.wikipedia.org/wiki/Natalie_Portman>`_, mainly in `Leon <https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional>`_, the `Star Wars`_ movies and `Garden State`_.
 - `Gad Elmaleh <https://en.wikipedia.org/wiki/Gad_Elmaleh>`_, mainly in `The Valet <https://en.wikipedia.org/wiki/The_Valet>`_ and his own (French) humorous shows.
-- `Brad Pitt <https://en.wikipedia.org/wiki/Brad_Pitt>`_, mainly in `Fight Club <https://en.wikipedia.org/wiki/Fight_Club_%28film%29>`_, `7 years in Tibet <https://en.wikipedia.org/wiki/7_years_in_Tibet_%28film%29>`_, `Inglorious Basterds <https://en.wikipedia.org/wiki/Inglorious_Basterds>`_, `12 Monkeys <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://en.wikipedia.org/wiki/Snatch>`_, etc
-- `Bruce Willis <https://en.wikipedia.org/wiki/Bruce_Willis>`_, mainly in all the `Die Hard <https://en.wikipedia.org/wiki/Die_Hard>`_ movies, `The Fifth Element`_, `Lucky Number Slevin <https://en.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Unbreakable <https://en.wikipedia.org/wiki/Unbreakable_%28film%29>`_, etc
+- `Brad Pitt <https://en.wikipedia.org/wiki/Brad_Pitt>`_, mainly in `Fight Club <https://en.wikipedia.org/wiki/Fight_Club_%28movie%29>`_, `7 years in Tibet <https://en.wikipedia.org/wiki/Seven_Years_in_Tibet_%281997_film%29>`_, `Inglorious Basterds <https://en.wikipedia.org/wiki/Inglorious_Basterds>`_, `12 Monkeys <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://en.wikipedia.org/wiki/Snatch>`_, etc
+- `Bruce Willis <https://en.wikipedia.org/wiki/Bruce_Willis>`_, mainly in all the `Die Hard <https://en.wikipedia.org/wiki/Die_Hard>`_ movies, `The Fifth Element`_, `Lucky Number Slevin <https://en.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Unbreakable <https://en.wikipedia.org/wiki/Unbreakable_%28movie%29>`_, etc
 - `Uma Thurman <https://en.wikipedia.org/wiki/Uma_Thurman>`_, mainly in `Pulp Fiction`_, `Gattaca <https://en.wikipedia.org/wiki/Gattaca>`_ and `Kill Bill <https://en.wikipedia.org/wiki/Kill_Bill>`_.
 - `Samuel L. Jackson <https://en.wikipedia.org/wiki/Samuel_L._Jackson>`_, mainly in `Pulp Fiction`_, `Django Unchained <https://en.wikipedia.org/wiki/Django_Unchained>`_, the `Star Wars`_ and `Die Hard`_ movies etc... and of course the recurrent role as `Nick Fury <https://en.wikipedia.org/wiki/Ultimate_Nick_Fury>`_!
 
