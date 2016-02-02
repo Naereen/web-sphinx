@@ -101,6 +101,8 @@ Outils de "communication" à usage unique
 * `10minutemail.com <http://10minutemail.com/10MinuteMail/index.html>`_ propose aussi une adresse email
   qui s'auto-détruit 10 minutes plus tard, mais sans possibilité de lecture.
 
+* `send-email.org <http://send-email.org/>`_ permet d'envoyer de petits courriels (moins de 2000 caractères) sans pièce jointe à n'importe qui, très facilement. Super pratique !
+
 * `cURL.io <http://curl.io/>`_ permet d'envoyer des fichiers, en clair ou chiffré, via le terminal. Et en plus, leur site web est très bien réalisé (minimaliste, mais superbe).
 
 * `CryptoCat <https://crypto.cat/>`_ propose un système de *chat* sécurisé.
@@ -115,18 +117,20 @@ Outils de "communication" à usage unique
   Mention spéciale pour le *« Kittens will die if you abuse this service »* dans la note en haut de page :) !
   :red:`New!` Le `Crans <https://www.crans.org/>`_ héberge désormais sa propre copie de `ZeroBin`_, ici sur `zero.crans.org/ <https://zero.crans.org/>`_.
 
-* `CryptoBin <https://cryptobin.org/>`_ est pareil.
+* `CryptoBin <https://cryptobin.org/>`_ est très similaire.
 
 * `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en ``P2P`` (pair à pair, donc le fichier est sensé ne pas passer par un serveur annexe). Marche super bien !
 
 * `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``.
-  Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation !
+  Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation ! :red:`Semble mort`. `ZimageZ <http://www.zimagez.com/>`_ propose des fonctionnalités similaires mais moins sécurisée et moins garante de votre vie privée.
 
 * `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <https://korben.info/digify.html>`_).
 
 * `Snap Me Now <http://www.snapmenow.com/>`_ permet d'envoyer des photos prises par sa webcam, à un nombre limité de personnes (max. 100) pendant une période limitée (max. 10 minutes) (c'était présenté `ici aussi par Korben.info <https://korben.info/clone-snapchat-navigateur.html>`_). C'est un genre de clone minimaliste de *Snapchat*.
 
 * `PeerIO <https://www.peerio.com/>`_ propose aussi des fonctionnalités intéressantes.
+
+* Ces listes peuvent donner des astuces supplémentaires : `envoyer un texto anonymement <https://www.wikihow.com/Send-an-Anonymous-Text>`_, `envoyer un courriel anonymement <https://www.wikihow.com/Send-An-Anonymous-Email>`_.
 
 ---------------------------------------------------------------------
 
