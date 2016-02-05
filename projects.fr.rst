@@ -108,7 +108,7 @@ Certains projets, en ligne
 
 Vous pouvez aussi retrouver certains travaux ou projets :
 
-#. via mes `dépôts git <tutogit.fr.html>`_ sur mon compte *bitbucket*, `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif);
+#. via mes `dépôts git <tutogit.fr.html>`_ sur mon compte *Bitbucket* : `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ (très actif), ou sur *GitHub* : `GitHub.com/naereen <https://github.com/naereen>`_ (`dépôts git <tutogit.fr.html>`_).
 
 #. ou sur ma page personnelle *Wikipédia*, `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
    (moyennement actif, voir par exemple `ces stats <http://wikiscan.org/utilisateur/Naereen>`_, je `suis aussi donateur régulier <https://dons.wikimedia.fr/journal/2012-11-12>`_ !).
