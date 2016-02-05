@@ -1,7 +1,7 @@
 ###############################################
  Utiliser Wolfram|Alpha (en ligne de commande)
 ###############################################
-.. include:: .special.rst
+
 .. todo:: Vérifier de temps en temps que ce tutoriel est à jour !
 
 Wolfram|Alpha ?

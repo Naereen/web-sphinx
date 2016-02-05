@@ -1,7 +1,7 @@
 #######################################
  Un **toplevel** ``GNU Plot`` embarqué
 #######################################
-.. include:: .special.rst
+
 .. include:: .javascript.rst
 
 .. warning:: Images vectorielles SVG

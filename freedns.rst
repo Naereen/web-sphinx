@@ -1,7 +1,7 @@
 ######################################################
  FreeDNS : un service web pour le moins "intéressant"
 ######################################################
-.. include:: .special.rst
+
 .. warning:: Style un peu familier !
 
    J'utilise dans cette page un style plus "oral" que dans le reste de ce site.

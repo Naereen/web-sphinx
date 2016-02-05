@@ -5,7 +5,7 @@
 #######################################
  Mes extensions préférées pour Firefox
 #######################################
-.. include:: .special.rst
+
 .. note:: Cette page parle d'extensions pour Firefox
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :

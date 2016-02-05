@@ -5,7 +5,7 @@
 ##########################################
  Informations sur ma clé publique **PGP**
 ##########################################
-.. include:: .special.rst
+
 
 Qu'est-ce ?
 -----------

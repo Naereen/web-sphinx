@@ -5,7 +5,7 @@
 ##########
  Site Map
 ##########
-.. include:: .special.rst
+
 
 * `Research page <search.html>`_,
 * `Download page <download.en.html>`_,

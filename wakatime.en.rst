@@ -5,7 +5,7 @@
 #############################################################################
  *Why* and how to use WakaTime to monitor the time you spend on programming?
 #############################################################################
-.. include:: .special.rst
+
 
 What is this weird idea?
 ------------------------

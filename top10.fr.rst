@@ -5,7 +5,7 @@
 ################################
  Top 10 de mes *trucs* préférés
 ################################
-.. include:: .special.rst
+
 .. note:: Les listes ne sont *pas* triées
 
    Tous ces *tops 10* ne sont **pas triés** (c'est vraiment impossible de dire quel film est SON préféré !).

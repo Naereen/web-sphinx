@@ -5,7 +5,7 @@
 ##########################
  Activités d'enseignement
 ##########################
-.. include:: .special.rst
+
 
 En 2015
 -------

@@ -1,7 +1,7 @@
 #####################################
  Trucs à corriger sur ces pages webs
 #####################################
-.. include:: .special.rst
+
 À propos
 --------
 Cette page accueille une liste des problèmes à résoudre, de trucs à faire,

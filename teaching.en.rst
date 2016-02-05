@@ -5,7 +5,7 @@
 ########################
  My teaching activities
 ########################
-.. include:: .special.rst
+
 
 In 2015
 -------

@@ -5,7 +5,7 @@
 ####################
  About hitch-hiking
 ####################
-.. include:: .special.rst
+
 
 This page is a short presentation of my personal experience
 on the matter of hitch-hiking, and why it is a really cool, free and culturally interesting way to travel.

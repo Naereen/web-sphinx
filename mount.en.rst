@@ -5,7 +5,7 @@
 #####################################################
  How to mount a Wubi .disk file as an ISO on Ubuntu?
 #####################################################
-.. include:: .special.rst
+
 .. note:: Wubi?
 
    Wubi was my favorite way to install (and use) `Ubuntu <http://www.ubuntu.com/>`_ on a Windows® machine.

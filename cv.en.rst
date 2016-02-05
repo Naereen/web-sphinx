@@ -5,7 +5,7 @@
 ############################
  **Résumé** : Lilian Besson
 ############################
-.. include:: .special.rst
+
 
 I am looking for...
 -------------------

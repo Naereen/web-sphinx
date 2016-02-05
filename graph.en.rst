@@ -5,7 +5,7 @@
 #############################################
  HOW-TO: Embed a DOT graph with **GraphViz**
 #############################################
-.. include:: .special.rst
+
 
 Graphes?
 --------

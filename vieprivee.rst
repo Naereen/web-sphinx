@@ -5,7 +5,7 @@
 #########################################
  Liste d'outils de sécurité informatique
 #########################################
-.. include:: .special.rst
+
 
 :Source: http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/
 

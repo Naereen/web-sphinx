@@ -5,7 +5,7 @@
 #####################
  À-propos d'autostop
 #####################
-.. include:: .special.rst
+
 
 Cette page est une courte présentation de mon expérience personnelle
 sur l'auto-stop, qui est un moyen intéressant, gratuit et ludique de se déplacer.

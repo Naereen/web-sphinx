@@ -5,7 +5,7 @@
 #####################################################################
  Mon utilisation de `Sublime Text 3 <http://www.sublimetext.com/3>`_
 #####################################################################
-.. include:: .special.rst
+
 À-propos...
 -----------
 À-propos de cette page

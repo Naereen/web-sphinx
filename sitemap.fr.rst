@@ -5,7 +5,7 @@
 ##############
  Plan du Site
 ##############
-.. include:: .special.rst
+
 
 * `Page de recherche <search.html>`_.
 * `Page de téléchargement <download.fr.html>`_,

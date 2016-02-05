@@ -5,7 +5,7 @@
 #####################################
  **Curriculum Vitæ** : Lilian Besson
 #####################################
-.. include:: .special.rst
+
 
 Je cherche actuellement
 -----------------------

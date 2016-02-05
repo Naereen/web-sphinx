@@ -1,7 +1,7 @@
 ############################################################################
  "If your mountain is not at a convenient spot, just send us a postal card"
 ############################################################################
-.. include:: .special.rst
+
 .. note:: This page is a direct translation of an article I wrote a while ago, for the ENS Cachan students newspaper (« `La Sauce <http://clubs.ens-cachan.fr/sauce/Sauce-du-mois/>`_ »), in April 2013.
 
 

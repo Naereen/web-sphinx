@@ -5,7 +5,7 @@
 ############
  Pages (EN)
 ############
-.. include:: .special.rst
+
 
 A few words about me
 --------------------

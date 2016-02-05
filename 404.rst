@@ -1,7 +1,7 @@
 ###############################
  **404** : Erreur "non trouvé"
 ###############################
-.. include:: .special.rst
+
 
 .. warning:: Page d'erreur 404 !
 

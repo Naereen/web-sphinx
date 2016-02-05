@@ -5,7 +5,7 @@
 #####################################################################################
  Pourquoi et comment utiliser WakaTime pour monitorer ses habitudes de programmation
 #####################################################################################
-.. include:: .special.rst
+
 
 Concept ?
 ---------

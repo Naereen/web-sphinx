@@ -5,7 +5,7 @@
 ##################################
  Advices to start learning Python
 ##################################
-.. include:: .special.rst
+
 
 To start learning Python, I recommend...
 ----------------------------------------

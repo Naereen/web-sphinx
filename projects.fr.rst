@@ -5,7 +5,7 @@
 ############
  Pages (FR)
 ############
-.. include:: .special.rst
+
 
 À propos (de moi)
 -----------------

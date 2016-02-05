@@ -6,7 +6,7 @@
 #################################################
  How to use Google Analytics with a beacon image
 #################################################
-.. include:: .special.rst
+
 .. note:: This short page is focusing on Google Analytics
 
    For more informations, it might be useful to consult first one of these pages:

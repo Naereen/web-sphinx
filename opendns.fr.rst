@@ -5,7 +5,7 @@
 #######################################
  Utiliser un service alternatif de DNS
 #######################################
-.. include:: .special.rst
+
 
 Ce mini-tutoriel commence en utilisant OpenDNS, puis le service DNS de Google.
 

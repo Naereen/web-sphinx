@@ -1,7 +1,7 @@
 ##################################
  **401/403** : Permission refusée
 ##################################
-.. include:: .special.rst
+
 
 .. warning:: Page d'erreur 403 !
 

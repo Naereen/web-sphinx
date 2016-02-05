@@ -5,7 +5,7 @@
 ############################################################
  How I use `Sublime Text 3 <http://www.sublimetext.com/3>`_
 ############################################################
-.. include:: .special.rst
+
 About...
 --------
 About this page

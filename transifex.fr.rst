@@ -5,7 +5,7 @@
 #############################
  Traduction de Bitbucket.org
 #############################
-.. include:: .special.rst
+
 .. sidebar:: Autre langue : en anglais ?
 
    Cette page est en *français*.

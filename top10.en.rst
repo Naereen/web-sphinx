@@ -5,7 +5,7 @@
 #################################
  Top 10 of my favorites *stuffs*
 #################################
-.. include:: .special.rst
+
 .. note:: The lists are *not* sorted
 
    All these *tops 10* are **not sorted** (admit it, it's just impossible to say this movie is MY favorite!).

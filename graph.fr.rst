@@ -5,7 +5,7 @@
 ###################################
  Des graphes DOT avec **GraphViz**
 ###################################
-.. include:: .special.rst
+
 
 Des graphes ?
 -------------

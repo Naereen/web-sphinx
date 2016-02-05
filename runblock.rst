@@ -1,7 +1,7 @@
 ########################
  Extension **runblock**
 ########################
-.. include:: .special.rst
+
 
 Je teste ici la fonctionnalité "expérimentale" d'exécuter du code lors de la
 génération de la web, avec une directive ``.. runblock::``.

@@ -5,7 +5,7 @@
 ###########################################################
  Productions techniques diverses (du dossier `<publis/>`_)
 ###########################################################
-.. include:: .special.rst
+
 À-propos
 --------
 Cette page est là pour décrire les divers projets *techniques* présents dans le dossier `<publis/>`_.

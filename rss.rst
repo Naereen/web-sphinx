@@ -1,7 +1,7 @@
 ###############
  Deux flux RSS
 ###############
-.. include:: .special.rst
+
 Cette page était une expérience pour inclure un flux **RSS** dans une page générée par Sphinx.
 
 S'abonner au flux

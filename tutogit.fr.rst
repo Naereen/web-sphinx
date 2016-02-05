@@ -5,7 +5,7 @@
 ################################################################
  Rapide initiation à `git <https://fr.wikipedia.org/wiki/Git>`_
 ################################################################
-.. include:: .special.rst
+
 Introduction
 ------------
 Cette page est une rapide introduction à `git`_, et son utilisation régulière via `Bitbucket <https://bitbucket.org>`_.

@@ -47,13 +47,14 @@ rôles dans les fichiers **.rst** écrits pour ces pages webs,
 et ces rôles sont mis en relation avec des styles CSS définis dans
 `.templates/layout.html <https://bitbucket.org/lbesson/web-sphinx/src/master/.templates/layout.html>`_
 le template Jinja qui contrôle l'apparence et le rendu de toutes mes pages produites avec Sphinx.
+C'est `une question courante concernant Sphinx <https://stackoverflow.com/questions/3702865/sphinx-restructuredtext-set-color-for-a-single-word/35231016#35231016>`_.
 
 Notamment, les différentes couleurs suivantes sont disponibles :
-black gray silver white maroon red magenta fuchsia pink orange
-yellow lime green olive teal cyan aqua blue navy purple.
+*black gray silver white maroon red magenta fuchsia pink orange yellow lime green olive teal cyan aqua blue navy purple*.
 
-Ceci est rendu possible avec
- * `.special.rst <https://bitbucket.org/lbesson/web-sphinx/raw/master/.special.rst>`_ inclus en haut de chaque fichier rST (nécessaire)
+Ceci est rendu possible avec:
+
+ * `.special.rst <https://bitbucket.org/lbesson/web-sphinx/raw/master/.special.rst>`_ inclus en haut de chaque fichier rST (nécessaire). :red:`Nouveau :` en fait, il est possible d'utiliser la variable `rst_prolog <http://www.sphinx-doc.org/en/stable/config.html#confval-rst_prolog>`_ dans le fichier `conf.py <http://www.sphinx-doc.org/en/stable/config.html>`_ de sphinx pour ajouter du contenu reStructuredText qui sera ajouté en en-tête de chaque page, et donc dans ce cas, on peut utiliser ``.. include:: .special.rst`` (voir cette modification :bbchangeset:`f4b9d9d565f71849ca848232a9e5a0daf99c1484`),
  * `hacks.css <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css>`_ inclus dans chaque page web via les templates.
 
 Liste des couleurs rajoutées :

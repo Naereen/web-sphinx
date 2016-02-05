@@ -5,7 +5,7 @@
 #########################################
  Coloration syntaxique pour **GNU Nano**
 #########################################
-.. include:: .special.rst
+
 .. note:: Liens directs vers les *vrais* fichiers de coloration
 
    Cette page est un *tutoriel*.

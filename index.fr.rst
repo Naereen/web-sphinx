@@ -5,7 +5,7 @@
 ##########################################
  Bienvenue ! (Pages web de Lilian Besson)
 ##########################################
-.. include:: .special.rst
+
 
 À propos (de moi)
 -----------------

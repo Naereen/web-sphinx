@@ -5,7 +5,7 @@
 #######################################################
  Not so personnal datas about the user of this website
 #######################################################
-.. include:: .special.rst
+
 
 Cookies use policy
 ------------------

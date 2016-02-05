@@ -1,7 +1,7 @@
 ##################################
  Des graphiques avec **GNU Plot**
 ##################################
-.. include:: .special.rst
+
 
 Je teste ici la fonctionnalité "expérimentale" d'embarquer des graphiques
 ou des graphes de fonctions écrits avec une directive **rST** ``.. gnuplot::``

@@ -5,7 +5,7 @@
 #################################
  Use an alternative DNS services
 #################################
-.. include:: .special.rst
+
 
 This mini tutorial starts by using OpenDNS, and then the DNS service of Google.
 

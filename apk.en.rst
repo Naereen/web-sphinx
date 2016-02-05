@@ -5,7 +5,7 @@
 #############################
  My favorite Android™ apps !
 #############################
-.. include:: .special.rst
+
 .. note:: This page is about Android™ apps
 
    For more details, maybe you should first read one of these:

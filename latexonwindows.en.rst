@@ -5,7 +5,7 @@
 #################################
  How to install LaTeX on Windows
 #################################
-.. include:: .special.rst
+
 
 Go look somewhere else!
 -----------------------

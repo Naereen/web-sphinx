@@ -1,7 +1,7 @@
 ######################################################################################
  "Si votre montagne n'est pas à la bonne place, envoyez-nous juste une carte postale"
 ######################################################################################
-.. include:: .special.rst
+
 .. note:: Cette page est issu d'un article que j'ai rédigé il y a quelques anneés pour `La Sauce <http://clubs.ens-cachan.fr/sauce/Sauce-du-mois/>`_, le journal des étudiants de l'ENS Cachan, en avril 2013.
 
 

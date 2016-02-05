@@ -5,7 +5,7 @@
 ###############################################################
  Quick tutorial for `git <https://en.wikipedia.org/wiki/Git>`_
 ###############################################################
-.. include:: .special.rst
+
 Introduction
 ------------
 This page is a quick introduction to `git`_ , and its regular use via `Bitbucket <https://bitbucket.org>`_.

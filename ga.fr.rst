@@ -5,7 +5,7 @@
 #################################################
  Utiliser Google Analytics dans un projet Sphinx
 #################################################
-.. include:: .special.rst
+
 .. note:: Cette page parle de Google Analytics
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :

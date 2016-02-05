@@ -5,7 +5,7 @@
 ###########################################
  Precision about the quoted **trademarks**
 ###########################################
-.. include:: .special.rst
+
 
 This page is written to clarify some *« legal »* points regarding my webpages.
 

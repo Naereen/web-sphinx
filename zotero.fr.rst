@@ -5,7 +5,7 @@
 #############################################
  Utiliser Zotero pour gérer sa bibliographie‏
 #############################################
-.. include:: .special.rst
+
 .. warning:: Encore en rédaction !
 
 Présentation
