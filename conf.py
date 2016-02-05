@@ -217,6 +217,12 @@ autodoc_default_flags = ['members', 'private-members']
 #  'sqlalchemy': ('http://www.sqlalchemy.org/docs', None)
 #}
 
+# http://www.sphinx-doc.org/en/stable/config.html#confval-rst_prolog
+rst_prolog = """
+.. include:: .special.rst
+"""
+
+
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.

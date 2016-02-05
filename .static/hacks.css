@@ -26,9 +26,10 @@
   .navy	{ color:navy; }
   .purple	{ color:purple; }
   .under	{ text-decoration: underline; }
-  .over	{ text-decoration: overline; }
+  .over		{ text-decoration: overline; }
   .blink	{ text-decoration: blink; }
-  .line	{ text-decoration: line-through; }
+  .line		{ text-decoration: line-through; }
+  .strike	{ text-decoration: line-through; }
   .it		{ font-style: italic; }
   .ob		{ font-style: oblique; }
   .small   { font-size: small; }

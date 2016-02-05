@@ -25,6 +25,7 @@
 .. role:: over
 .. role:: blink
 .. role:: line
+.. role:: strike
 
 .. role:: it
 .. role:: ob
