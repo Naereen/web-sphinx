@@ -30,7 +30,7 @@ Some lists of extensions
 .. warning:: Might be out-of-date!
 
    This list was written in *October 2015*, so now it might be a little bit out-of-date...
-   I checked it in *December 2015*, and it was alright.
+   I checked it in *February 2016*, and it was alright.
 
 
 Extensions *everyone* should have
@@ -39,6 +39,7 @@ Extensions *everyone* should have
 * `InlineDisposition <https://addons.mozilla.org/en-us/firefox/addon/inline-dispotiion/>`_ and `Open In Browser <https://addons.mozilla.org/en-us/firefox/addon/open-in-browser>`_ to *always* be able to open a document in the browser, instead of downloading it,
 * `NoSquint <https://addons.mozilla.org/en-us/firefox/addon/nosquint>`_ allows to set the *zoom* and *text zoom* settings differently for each websites (just try it, it's awesome),
 * `Speed Tweaks (Speedy Fox) <https://addons.mozilla.org/en-us/firefox/addon/speed-tweaks-speedyfox>`_ to tweak some parameters of Firefox and improve its speed (just one click to do, it works wonderfully out-of-the-box),
+* `Tab Group <https://addons.mozilla.org/en-us/firefox/addon/tab-groups-panorama>`_ restores the old feature of tab grouping, which I consider mandatory (it was removed after Firefox v45+),
 * `Tab Mix Plus <https://addons.mozilla.org/en-us/firefox/addon/tab-mix-plus>`_ adds many useful features if you like to use tabs.
 
 

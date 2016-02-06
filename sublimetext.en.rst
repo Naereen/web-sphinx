@@ -113,7 +113,7 @@ To use one of these files (``.sublime-settings``, ``.sublime-snippet`` or ``.sub
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:State: *Actively maintained* (January 2016).
+:State: *Actively maintained* (February 2016).
 
 Config
 ~~~~~~
@@ -213,13 +213,16 @@ Plugins that add great features:
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
 * The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this. `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ seems to be a good free and open-source alternative.
+* `TableEditor <https://packagecontrol.io/packages/SublimeTableEditor>`_ is great to easily edit tables in plain text documents (for Markdown, reStructedText, pandoc etc). Very well documented and quite complete.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I never use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
+* `WordCount <https://packagecontrol.io/packages/WordCount>`_ adds a counter for words (and pages optionnally) in the information bar. Small and simple but useful!
 
 
 A better support for some languages:
 
 * `AutoDocstring <https://packagecontrol.io/packages/AutoDocstring>`_ simplifies and improve significantly the writing of `Python docstrings (2 or 3) <http://www.python.org/dev/peps/pep-0287/>`_, and even supports the two popular styles `Google docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html>`_ and `Numpy docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_numpy.html>`_.
+* `ColorHighlighter <https://packagecontrol.io/packages/ColorHighlighter>`_ highlights the colors in a CSS, HTML or LaTeX file (or any file), for instance ``red`` will be colored :red:`red`. Simple but great, very useful when editing CSS or colorful LaTeX files.
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ allows you to select a color, and insert it as is. Very handy when writing CSS or HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ provides good support for programming with `GNUPlot v4+ <http://www.gnuplot.info/>`_.
 * `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ automatically checks the correctness of any edited JSON file (and ST conf' files are JSON).
@@ -237,7 +240,7 @@ Heavier plugins, or plugins designed for a specific language:
 
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.5 and 3.6).
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*...
-* The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python.
+* The brilliant `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python. There is plenty of awesome linters: `annotations <https://packagecontrol.io/packages/SublimeLinter-annotations>`_, `chktex <https://packagecontrol.io/packages/SublimeLinter-chktex>`_, `flake8 <https://packagecontrol.io/packages/SublimeLinter-flake8>`_, `json <https://packagecontrol.io/packages/SublimeLinter-json>`_, `mdl <https://packagecontrol.io/packages/SublimeLinter-contrib-mdl>`_, `pylint <https://packagecontrol.io/packages/SublimeLinter-pylint>`_, `shellcheck <https://packagecontrol.io/packages/SublimeLinter-shellcheck>`_.
 * `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
 * `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ is convenient to quickly "send" some code to an open terminal in another window (to work with Python, Octave, R, bash or anyother toplevel).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program (I do not like it).
@@ -254,24 +257,26 @@ Some plugin-specific configuration files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some plugins can be configured specifically. Here are their different settings:
 
-* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
-* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
-* `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
-* `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
-* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
+* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_,
+* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_,
+* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_,
+* `inc_dec_value.sublime-settings <./publis/ST3/inc_dec_value.sublime-settings>`_,
+* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_,
+* `SendText%2B.sublime-settings <./publis/ST3/SendText%2B.sublime-settings>`_,
+* `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_,
+* `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_,
+* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_,
 * `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
-* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
-* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_.
 
 Some language-specific configuration files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In ST3, you can modify any single parameter for a specific language (for instance, a smaller font for Python files, a bigger margin for Markdown files etc).
 For a few languages, I find these changes quite convenient:
 
+* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_,
+* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_,
+* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (my change allows to open a `.m` file as a Matlab/Octave file and not an Objective-C one),
 * `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_.
-* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_.
-* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_.
-* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (my change allows to open a `.m` file as a Matlab/Octave file and not an Objective-C one).
 
 -----------------------------------------------------------------------------
 

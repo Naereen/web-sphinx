@@ -116,7 +116,7 @@ Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou
 Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:État: *Maintenu activement* (janvier 2016).
+:État: *Maintenu activement* (février 2016).
 
 Config
 ~~~~~~
@@ -215,13 +215,16 @@ Greffons ajoutant de super fonctionnalités :
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
 * `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut ! `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ semble être une bonne alternative gratuite et libre.
+* `TableEditor <https://packagecontrol.io/packages/SublimeTableEditor>`_ permet d'éditer facilement des tableaux en texte brut (pour Markdown, reStructedText, pandoc etc). Très bien documenté, très complet.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers jamais, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
+* `WordCount <https://packagecontrol.io/packages/WordCount>`_ ajoute un compteur de mots (et de pages, optionnel) dans la barre d'information. Tout simple et léger mais utile !
 
 
 Un meilleur support pour certains langages :
 
 * `AutoDocstring <https://packagecontrol.io/packages/AutoDocstring>`_ simplifie et améliore significativement l'écriture de `docstrings Python (2 ou 3) <http://www.python.org/dev/peps/pep-0287/>`_, et supporte les deux styles `Google docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html>`_ et `Numpy docstring <https://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_numpy.html>`_.
+* `ColorHighlighter <https://packagecontrol.io/packages/ColorHighlighter>`_ surligne les mots et valeurs désignant des couleurs dans un fichier CSS, HTML ou LaTeX (ou n'importe quel fichier en fait). Par exemle ``red`` sera coloré en :red:`rouge`, et ``#00FFFF`` sera coloré en :cyan:`cyan`. Simple mais pratique, surtout pour modifier des fichiers CSS, ou des fichiers LaTeX plein de couleurs.
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ permet de sélectionner une couleur, et de l'insérer telle quelle. Très pratique lors de la rédaction de CSS ou d'HTML.
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ permet un bon support de la programmation avec `GNUPlot v4+ <http://www.gnuplot.info/>`_.
 * `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ vérifie automatiquement les fichiers JSON lors de leur édition (les fichiers de conf de ST3 sont tous en JSON, notamment).
@@ -238,7 +241,7 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ améliore la coloration syntaxique pour Python (en prenant notamment en charge les changements des dernières versions 3.5 et 3.6).
 * `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé...
-* Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python.
+* Le génial `SublimeLinter <http://sublimelinter.readthedocs.org/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python. Il y a plein de très bons *linters* : `annotations <https://packagecontrol.io/packages/SublimeLinter-annotations>`_, `chktex <https://packagecontrol.io/packages/SublimeLinter-chktex>`_, `flake8 <https://packagecontrol.io/packages/SublimeLinter-flake8>`_, `json <https://packagecontrol.io/packages/SublimeLinter-json>`_, `mdl <https://packagecontrol.io/packages/SublimeLinter-contrib-mdl>`_, `pylint <https://packagecontrol.io/packages/SublimeLinter-pylint>`_, `shellcheck <https://packagecontrol.io/packages/SublimeLinter-shellcheck>`_.
 * `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
 * `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ est pratique pour "envoyer" du code dans un terminal ouvert dans une autre fenêtre (terminal qui peut être lancé sur Python, Octave, R, bash ou n'importe quel toplevel).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (je n'aime pas... mais il est populaire).
@@ -256,14 +259,17 @@ Configuration spécifique à certains greffons
 Certains greffons peuvent être configurés spécifiquement.
 Voici leurs différents réglages :
 
-* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_.
-* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_.
-* `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_.
-* `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_.
-* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_.
-* `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
-* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_.
-* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_.
+* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_,
+* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_,
+* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_,
+* `inc_dec_value.sublime-settings <./publis/ST3/inc_dec_value.sublime-settings>`_,
+* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_,
+* `SendText%2B.sublime-settings <./publis/ST3/SendText%2B.sublime-settings>`_,
+* `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_,
+* `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_,
+* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_,
+* `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_,
+* `WordCount.sublime-settings <./publis/ST3/WordCount.sublime-settings>`_.
 
 
 Configuration spécifique à certains langages
@@ -271,10 +277,10 @@ Configuration spécifique à certains langages
 Il est possible de modifier les paramètres pour tel langage ou un autre (par exemple un police plus petite pour Python, une marge plus grande pour Markdown etc).
 Pour certains langages, il peut être pratique de modifier légèrement les réglages communs :
 
+* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_,
+* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_,
+* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (mon changement permet de reconnaître un fichier `file.m` comme un programme Matlab/Octave et non Objective-C),
 * `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_.
-* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_.
-* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_.
-* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (mon changement permet de reconnaître un fichier `file.m` comme un programme Matlab/Octave et non Objective-C).
 
 -----------------------------------------------------------------------------
 

@@ -30,7 +30,7 @@ Quelques listes d'extensions
 .. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
-   Je l'ai relu et vérifié en *décembre 2015*, et ça avait l'air d'aller !
+   Je l'ai relu et vérifié en *février 2016*, et ça avait l'air d'aller !
 
 
 Liste des extensions qu'*il faut avoir*
@@ -39,6 +39,7 @@ Liste des extensions qu'*il faut avoir*
 * `InlineDisposition <https://addons.mozilla.org/fr/firefox/addon/inline-dispotiion/>`_ et `Open In Browser <https://addons.mozilla.org/fr/firefox/addon/open-in-browser>`_ pour *toujours* être capable de choisir d'ouvrir un fichier directement dans le navigateur (sans le télécharger),
 * `NoSquint <https://addons.mozilla.org/fr/firefox/addon/nosquint>`_ permet de régler les paramètres de *"zoom de la page"* et *"zoom du texte"* au cas par cas, pour chaque site web (essayez-le, c'est juste génial),
 * `Speed Tweaks (Speedy Fox) <https://addons.mozilla.org/fr/firefox/addon/speed-tweaks-speedyfox>`_ pour facilement régler certains paramètres qui influencent les performance de Firefox (juste un clic permet de vraiment gagner en performances !),
+* `Tab Group <https://addons.mozilla.org/en-us/firefox/addon/tab-groups-panorama>`_ restaure la vieille fonction de groupement d'onglets, que je considère purement nécessaire (elle a été enlevé après Firefox v45+),
 * `Tab Mix Plus <https://addons.mozilla.org/fr/firefox/addon/tab-mix-plus>`_ ajoute plein de fonctionnalités utiles pour utiliser au mieux les **onglets**.
 
 
