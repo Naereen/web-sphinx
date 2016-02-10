@@ -6,8 +6,7 @@
  Air quality estimation in Paris
 #################################
 
-
----------------------------------------------------------------------
+This page shows a small demo:
 
 Demo of the air quality in Paris
 --------------------------------

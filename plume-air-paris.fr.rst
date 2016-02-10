@@ -8,7 +8,7 @@
 
 .. include:: .javascript.rst
 
----------------------------------------------------------------------
+Cette page montre une petite démonstration :
 
 Démonstration de la qualité de l'air à Paris
 --------------------------------------------
