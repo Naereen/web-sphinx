@@ -6,12 +6,14 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 
+Pour finir mon M2, je cherchais un stage...
+-------------------------------------------
 
-Je cherche actuellement
------------------------
- * :Avril 2016 à août 2016: stage de recherche en mathématiques appliquées (statistique, optimization ou apprentissage automatique);
- * :Lieu cherché: Surtout en France, mais l'étranger est aussi possible (Canada, Suède, Norvège, Finlande, Danemark, Suisse etc);
- * :Remarque: pas de financement requis ! Je suis étudiant *normalien*, donc déjà payé par le MENESR (jusqu'à août 2016).
+Je travaillerai au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur des splines d'opérateurs <http://bigwww.epfl.ch/research/projects/splines_operators.html>`_ ! :yellow:`New!`
+
+ * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*). :line:`Thème recherché : Statistique, optimisation ou apprentissage automatique`;
+ * :Durée: avril 2016 à août 2016 (*stage de recherche en mathématiques appliquées*);
+ * :Lieu: Lausanne, Suisse. :line:`Lieu recherché : France, mais l'étranger est aussi possible (Suisse, Suède, Norvège, Finlande, Danemark, etc)`.
 
 
 .. sidebar:: Autre langue : en anglais ?

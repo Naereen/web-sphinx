@@ -6,14 +6,16 @@
  **Résumé** : Lilian Besson
 ############################
 
+To conclude my M.Sc., I was looking for an internship...
+--------------------------------------------------------
 
-I am looking for...
--------------------
- * :April 2016 to August 2016: research internship in applied mathematics (statistics, optimization or machine learning);
- * :Prefered locations: Mainly France, but foreign is also possible (Canada, Sweden, Norway, Finland, Denmark, Switzerland etc);
- * :Remark: no subvention is required! I am a *normalien* student, already paid buy the French government (until August 2016).
+I will work in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `operators splines <http://bigwww.epfl.ch/research/projects/splines_operators.html>`_ (amongst other topics)! :yellow:`New!`
 
-.. sidebar:: Other language : in French
+ * :Theme: theoritical functional analysis, applied to inverse optimization problem, mainly appearing in medical imaging. :line:`I would like to do statistics, optimization or machine learning;`
+ * :Duration: april 2016 to August 2016 (*research internship in applied mathematics*);
+ * :Locations: Lausanne, Switzerland. :line:`Preferer locations: France, but foreign is also possible (Switzerland, Sweden, Norway, Finland, Denmark etc).`
+
+.. sidebar:: Other language: in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
    `en français <cv.fr.html>`_ :red:`?`
