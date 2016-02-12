@@ -9,7 +9,6 @@
 .. note:: Wubi ?
 
    Wubi était mon moyen préféré pour installer (et utiliser) `Ubuntu <http://www.ubuntu.com/>`_ (distribution Linux populaire) sur une machine utilisant Windows® initialement.
-   Please refer to these pages for more information:
    Veuillez lire ces sites pour plus d'informations :
 
     - le site officiel (mort, le projet wubi n'est plus supporté désormais),
