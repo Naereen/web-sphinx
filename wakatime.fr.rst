@@ -53,12 +53,12 @@ Durant les 8 premiers jours (après avoir installé le greffon, en janvier 2015)
 
 Il est aussi possible de voir :
 
- - sur quels projets vous passez le plus de temps,
- - quels types de fichiers tu travailles, jour par jour,
- - et même quels fichiers (cela peut être désactivé).
+ - sur quels *projets* vous passez le plus de temps,
+ - quels *types de fichiers* vous travaillez, jour par jour,
+ - et même *quels fichiers* (cela peut être désactivé).
+
 
 Par exemple, la première semaine, cela se répartissait selon : 30% HTML, 29% Python, 15% reStructuredText, 6% Bash, 12% Markdown.
-
 
 ------------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Ce premier graphique montre combien de temps je code chaque jour (environ) :
 
 .. raw:: html
 
-   <figure><embed width="880" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
 
 
 Langages utilisés durant les 30 derniers jours
@@ -79,16 +79,23 @@ Vous pouvez voir que j'utilise principalement `Python <apprendre-python.fr.html>
 
 .. raw:: html
 
-   <figure><embed width="780" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
 
 
-Éditeurs de textes utilisés durant les 30 derniers jours
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Et depuis le début de mon utilisation de WakaTime :
+
+.. raw:: html
+
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/648eaa51-38c1-47a9-9ac4-b5c434997f7e.svg"></embed></figure>
+
+
+Éditeurs de textes utilisés
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 WakaTime détecte que j'utilise presque uniquement l'extraordinaire `Sublime Text 3 <sublimetext.en.html>`_ (et c'est presque vrai !) :
 
 .. raw:: html
 
-   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/09d7687c-5e34-4583-bca7-cf45c9172350.svg"></embed></figure>
+   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/b6e7a8c3-f9b2-46d0-b265-65adf009d58d.svg"></embed></figure>
 
 
 .. note::

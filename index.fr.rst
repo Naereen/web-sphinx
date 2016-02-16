@@ -11,7 +11,7 @@
 -----------------
 Bonjour !
 Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ :gray:`(une grande école près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur).`
+à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ :gray:`(une "Grande École" près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur).`
 
 Cette année (2015-16) :
 

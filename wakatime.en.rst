@@ -52,12 +52,12 @@ Overview of the statistics ?
 
 It is also possible to see:
 
- - on which project do you spend the most of your time,
- - which file-types are the more used, on a daily basis,
- - and even on which files have you worked one (this last thing can be disabled).
+ - on which *project* do you spend the most of your time,
+ - which *file-types* are the more used, on a daily basis,
+ - and even on which *files* have you worked one (this last thing can be disabled).
+
 
 For instance, during my first week of use, the repartition was about: 30% HTML, 29% Python, 15% reStructuredText, 6% Bash, 12% Markdown.
-
 
 ------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ This first chart shows how long I code every day:
 
 .. raw:: html
 
-   <figure><embed width="880" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/5d1ec603-73b0-44b9-b61e-5eeda2490e51.svg"></embed></figure>
 
 
 Languages over last 30 days
@@ -78,16 +78,23 @@ You can see that I mainly use `Python <learn-python.en.html>`_ and `Bash <bin.ht
 
 .. raw:: html
 
-   <figure><embed width="780" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/9f6c0b0b-6806-4afa-9a4e-651ee6201be0.svg"></embed></figure>
 
 
-Editors over last 30 days
-^^^^^^^^^^^^^^^^^^^^^^^^^
+And from the beginning of my use of WakaTime:
+
+.. raw:: html
+
+   <figure><embed width="680" type="image/svg+xml" src="https://wakatime.com/@lbesson/648eaa51-38c1-47a9-9ac4-b5c434997f7e.svg"></embed></figure>
+
+
+Text editors
+^^^^^^^^^^^^
 WakaTime thinks I only use the wonderful `Sublime Text 3 <sublimetext.en.html>`_ (and it's almost correct!) :
 
 .. raw:: html
 
-   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/09d7687c-5e34-4583-bca7-cf45c9172350.svg"></embed></figure>
+   <figure><embed width="480" type="image/svg+xml" src="https://wakatime.com/@lbesson/b6e7a8c3-f9b2-46d0-b265-65adf009d58d.svg"></embed></figure>
 
 
 .. note::
