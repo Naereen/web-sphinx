@@ -16,7 +16,7 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximative* computation gives 2200 + 150 + 1800 + 350 = **4500 kms as far as now**.
+  An *approximative* computation gives 2200 + 150 + 2000 + 350 = **4700 kms as far as now**.
 
 In 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -45,11 +45,11 @@ In 2014 : **150 kms**
 ^^^^^^^^^^^^^^^^^^^^^
 About 150 kms, half a dozen of times, around Paris, and a *very little bit* near Hyderabad, in India.
 
-In 2013 : **1800 kms**
+In 2013 : **2000 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
-Something like 1800 kms (for American *ignorants*, go `check on Wikipédia what kilometers are <https://en.wikipedia.org/wiki/Kilometers>`_), and only in France, in the "Landes" and "Normandie" regions.
+Something like 2000 kms (for American *ignorants*, go `check on Wikipédia what kilometers are <https://en.wikipedia.org/wiki/Kilometers>`_), and only in France, in the "Landes" and "Normandie" regions (usually distances bigger than 500 kms).
 
-In October 2013, I took a few days off, for a short trip in Normandie and in Bretagne, hitch-hiking about 600 kms:
+In October 2013, I took a few days off, for a short trip in Normandie and in Bretagne, hitch-hiking about 850 kms:
 
 .. digraph:: october13
 

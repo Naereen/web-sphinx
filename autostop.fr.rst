@@ -16,7 +16,7 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 2200 + 150 + 1800 + 350 = **4500 kms pour l'instant**.
+  J'estime mon total *à environ* 2200 + 150 + 2000 + 350 = **4700 kms pour l'instant**.
 
 En 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -45,11 +45,11 @@ En 2014 : **150 kms**
 ^^^^^^^^^^^^^^^^^^^^^
 Environ **150 kms**, une demi-douzaine de fois, près de Paris, et *un tout petit peu* aux alentours d'Hyderabad (en Inde !).
 
-En 2013 : **1800 kms**
+En 2013 : **2000 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
-Un peu plus de **1800 kms**, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 450 kms).
+Un peu plus de **2000 kms**, uniquement en France (dans les Landes, en Normandie, souvent des distances d'au moins 550 kms).
 
-En octobre 2013, quelques jours de vacances en Normandie et en Bretagne, environ 600 kms :
+En octobre 2013, quelques jours de vacances en Normandie et en Bretagne, environ 850 kms :
 
 .. digraph:: octobre13
 

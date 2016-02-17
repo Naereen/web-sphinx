@@ -146,6 +146,7 @@ For more details, see `<sitemap.en.html>`_.
    cookies.en
    sublimetext.en
    ga.en
+   stats-google-analytics.en
    beacon.en
    apk.en
    firefox-extensions.en

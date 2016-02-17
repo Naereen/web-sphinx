@@ -10,7 +10,7 @@
 
    For more informations, it might be useful to consult first one of these pages:
     * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,
-    * `www.google.com/analytics <http://www.google.com/analytics/>`_.
+    * `www.google.com/analytics <https://www.google.com/analytics/>`_.
 
 
 .. note:: This short page is also focusing on Sphinx
@@ -75,6 +75,10 @@ It's quick and simple, and working well, and for example I am using it for small
    GA-Beacon (`<beacon.html>`_)
       How to use a *one-pixel* image to use Google Analytics
       to measure the audience of a page, or an email.
+
+   Statistics for Google Analytics (`<stats-google-analytics.fr.html>`_)
+      A small sum-up of the use of Google Analytics on this website (from the last 3 years),
+      and some plots to illustrate the visits and visitors this website got.
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

@@ -10,7 +10,7 @@
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
     * par exemple sur `fr.wikipedia.org/wiki/Google_Analytics <https://fr.wikipedia.org/wiki/Google_Analytics>`_,
-    * ou sur `www.google.com/analytics <http://www.google.com/analytics/>`_.
+    * ou sur `www.google.com/analytics <https://www.google.com/analytics/>`_.
 
 
 .. note:: Cette page parle aussi de Sphinx
@@ -79,5 +79,8 @@ C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers
       Comment utiliser une image d'*une seule pixel* pour analyser les visites
       d'une page ou d'un courriel via Google Analytics.
 
+   Statistiques pour Google Analytics (`<stats-google-analytics.fr.html>`_)
+      Un résumé de l'utilisation de Google Analytics depuis 3 ans sur ce site,
+      et des graphiques pour illustrer quelques chiffres sur les visiteurs que ce site a attiré.
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

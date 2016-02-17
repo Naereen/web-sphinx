@@ -367,6 +367,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    cookies.fr
    sublimetext.fr
    ga.fr
+   stats-google-analytics.fr
    beacon.fr
    apk.fr
    firefox-extensions.fr
