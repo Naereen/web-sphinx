@@ -157,7 +157,7 @@ For more details, see `<sitemap.en.html>`_.
    latexonwindows.en
    learn-python.en
    online-gnu-octave.en
-   free-replacements-for-matlab.en
+   matlab-clones.en
    graph.en
    top10.en
    hitch-hiking.en
