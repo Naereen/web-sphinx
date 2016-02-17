@@ -389,6 +389,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    try-ocaml
    iteri
    gnuplot
+   online-gnu-octave.fr
    ace
    wolfram
    autostop.fr

@@ -20,7 +20,7 @@ Demo of the air quality in Paris
 
 ---------------------------------------------------------------------
 
-Détails
+Details
 -------
 Plume Air Lab
 ^^^^^^^^^^^^^
