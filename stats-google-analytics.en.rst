@@ -16,72 +16,61 @@
 
 Quick historical overview
 -------------------------
-.. todo:: Finish the translation!
 
-Rapide historique
------------------
- - `Ce site web <index.html>`_ ``http://perso.crans.org/besson`` est hébergé par les `pages personnelles du CRANS <http://www.crans.org/PagesPerso>`_.
- - Il est `en ligne <http://isup.me/perso.crans.org/besson/>`_ sous `cette forme <https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fperso.crans.org%2Fbesson>`_ depuis mars 2013 (le code est sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_).
- - Il utilise `Sphinx <http://www.sphinx-doc.org/>`_ pour générer un site web statique (ie. des fichiers HTML et CSS, et un peu de JavaScript), à partir de fichiers textes écrits en `rST <demo.html>`_.
- - Depuis le début, malgré les questions éthiques que ça soulève, j'avais choisi d'utiliser `Google Analytics <https://www.google.com/analytics/>`_.
+ - `This website <index.html>`_ ``http://perso.crans.org/besson`` is hosted by the `personal pages at CRANS <http://www.crans.org/PagesPerso>`_ (student association in charge of the Internet connexion on the `campus of the ENS Cachan superior school <http://www.ens-cachan.fr/version-anglaise/campus/>`_).
+ - It has been `available on-line <http://isup.me/perso.crans.org/besson/>`_ with `this form <https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fperso.crans.org%2Fbesson>`_, since March 2013 (and it's an open source project, its source code is available `on this git repository <https://bitbucket.org/lbesson/web-sphinx/>`_).
+ - This website is powered by `Sphinx <http://www.sphinx-doc.org/>`_, to generate a static website (i.e., some HTML and CSS files, a few JavaScript files), from files written in plain text, in the `rST <demo.html>`_ markup language.
+ - From the beginning, even with the ethical question this raises, I decided to use `Google Analytics <https://www.google.com/analytics/>`_. I plan to move very soon to `Piwik <https://piwik.org/>`_.
 
 
 .. raw:: html
 
-   Cela fait donc trois ans (<abbr class="timeago" title="2013-03-22T03:00:43Z">22 Mars 2013</abbr>, cf. <a href="https://bitbucket.org/lbesson/web-sphinx/commits/b3a0205a3f2fe288f91e9bceb9f1ac6f6335bce3">le premier commit</a>) que ce site accueille des visiteurs et conserve des statistiques sur ces visites.
+   And so, from the last <abbr class="timeago" title="2013-03-22T03:00:43Z">22 Mars 2013</abbr>
+   this website hosts pages and got visitors on a daily basis, and I have a partial access to a few statistics on these visits (cf. <a href="https://bitbucket.org/lbesson/web-sphinx/commits/b3a0205a3f2fe288f91e9bceb9f1ac6f6335bce3">the first commit</a>).
 
 ------------------------------------------------------------------------------
 
-*Plan:*
+*Overview:*
 
-- Le reste de ce court article donne un aperçu de ces visites, par quelques chiffres clés.
-- Cet article est ici dans le but d'*être informatif* et *par soucis de transparence*, **pas** par frime ou pour divulguer des informations confidentielles (Google Analytics est anonyme, en fait (d'une certaine façon...)).
+- The next part of this article gives a small overview of this data, by giving an analyzing quickly the main statistics.
+- Please note that this article has only been written in order to be *informative* and to respect my constant will *to be fully transparent*. This article was not meant to be pretentious, or to give any confidential information (Google Analytics only keeps anonymous data, in fact (in a weird way...)).
 
 Main statistics
 ---------------
 These stats have been simply summed from the data last accumulated during the last 3 years.
 
-- XXX visits, for a daily average of XXX,
-- XXX pages have been seen,
-- a ratio of XXX% of new users vs known users.
-
-- **27000 visites**, soit une moyenne d'environ *25 visites par jour* (mais ça compte les visites de robots...),
-- **51000 pages vues**, tout compris (avec `cette page <sublime-text.fr.html>`_ attirant 10% des visites, et `celle là <beacon.en.html>`_ 5%),
-- un rapport de *83% de nouveaux utilisateurs* vs utilisateurs connus.
+- **27000 visits**, it is about an average of *25 visits every day* (but it includes visits from web-bots and crawlers so it might be over estimated...),
+- **51000 pages served** (and, weirdly, `this page <sublime-text.fr.html>`_ in French (`see its translation <sublime-text.en.html>`_) brings about 10% of visits, and `this other one <beacon.en.html>`_ in English get about 5% of the visits),
+- and a ratio of *83% of new users* vs known users.
 
 
 **Geographical origin:**
 
-- XXX different countries (almost all!),
-- XXX different continents (I got them all!),
-- XXX different sub-continents (I also got them all!!),
-- XXX different cities (... there is A LOT !).
-
-- **149 pays différents** (presque tous !) en trois ans, et en 6 semaines, j'en ai en moyenne une centaine (e.g., 110 entre le 01-01-16 à 19-01-16). La plupart des pays n'ont été vus que grâce à moins de dix visites, et 33 une seule visite ! Seulement 22 pays ont émis plus de 100 visites, et 5 pays se partagent environ 75% du trafic (par ordre, France 45%, USA 20%, Russie 7%, Inde 4%, UK 3%),
-- **5 continents différents** (je les ai *tous* !), avec Europe 60%, Amérique 23%, Asie 10% et Océanie à 1 %,
-- **21 sous-continents différents** (je les ai *tous* !), même répartition en gros (Europe Ouest 45%, Europe Nord 15%)
-- **2846 villes différentes** (... y'en a beaucoup !). Les dix plus importantes étant "Inconnu" (*25%*), Paris (7%), Cachan (6%), Samara (en Russie, il doit y avoir un bot ou un crawler web là-bas, 3%), Londres (3%), Hyderabad (2%), Toulouse (1%), Bangalore (0.9%), New York (0.8%) et Rennes (0.8%). On voit nettement l'influence de `ma présence <cv.fr.pdf>`_ sur ces chiffres (ayant vécu à Paris, Cachan, Londres, et Hyderabad entre 2013 et 2016), et des grands pôles d'Internet (New York) et des maths et info en France (Rennes et Toulouse) et ailleurs (Bangalore).
+- **149 different countries** (almost all!) in 3 years. But it's pretty consistent, I get in average about 100 different countries (e.g., 110 in the first 6 weeks in 2016). Most of these countries sent less than 10 visitors, and 33 only sent one user! Just 22 countries emitted more than 100 visits, and without surprise, the first 5 countries share about 75% of the visits (by decreasing order, France 45%, USA 20%, Russia 7%, India 4% and UK 3%),
+- **5 different continents** (I got them *all*!), with 60% from Europe, 23% from America, 10% from Asia and only 1% from Oceania,
+- **21 different sub-continents** (I got them *all*!), about the same repartition (West Europe got 45%, Northern Europe about 15%),
+- **2846 different cities** (... that's a lot, but there is so many of them!). The ten most important ones are "Unkwown" (*25%* !), Paris (7%), Cachan (France, 6%), Samara (in Russia, there is surely a web-bot or a crawler there, 3%), London (3%), Hyderabad (India, 2%), Toulouse (France, 1%), Bangalore (0.9%), New York (0.8%) and Rennes (France, 0.8%). Just on these top ten cities, we clearly see the effect on the number of visits of my `current and past presence <cv.fr.pdf>`_ in a country or city (as I lived in Paris, Cachan, London and Hyderabad between 2013 and 2016), and from huge "high-tech" cities (New York and Bangalore), and hubs of maths and computer science in France (Rennes and Toulouse).
 
 
-**Langues :** français à 40%, anglais à 25%, *"inconnu"* ou non renseigné à 25%, et russe, espagnol et autres à 10%.
+**Languages :** French has 40%, English has 25%, *"unknown"* or not specified has 25% (!), and Russian, Spanish and other get 10%.
 
 Other statistics
 ----------------
-**Browsers** (répartition qui suit l'évolution de la part de marché globale des navigateurs) :
+**Browsers** repartition (which follow the global market share evolution):
 
-- Google Chrome a 52%, mais tout le monde sait que `Firefox <firefox-extensions.fr.html>`_ est le meilleur,
-- Mozilla Firefox a 28%,
-- Apple Safari a 10%,
-- le reste est Internet Explorer (3%), Opera (2%), et d'autres mineurs.
-
-
-**Répartition du support :** Laptops (90%) vs mobiles (8%) vs tablets (1%).
+- 52% of the users are browsing with Google Chrome (but every one knows that `Firefox <firefox-extensions.en.html>`_ is the best browser),
+- Mozilla Firefox has 28%,
+- Apple Safari has 10%,
+- and the rest few percents are shared by Internet Explorer (3%), Opera (2%), and other smaller browsers.
 
 
-**Durée moyenne des visites :** 2 minutes 02 secondes.
+**Devices repartition :** laptops (90%) vs mobiles (8%) vs tablets (1%).
 
 
-**Origine des visites :** Google (45%), *"accès direct"* (42%, qui compte le moteur de recherche anonyme `DuckDuckGo <https://duckduckgo.com/>`_ notamment), Facebook (5%), `<http://lbesson.bitbucket.org>`_ (3%), `<http://crans.org>`_ (2%) et `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
+**Mean duration of the visits :** about 2 minutes (that's about half the time to read the longest of my articles, and about the time to read any of the medium-size article hosted here, so it's a good sign: visitors are really reading these pages!).
+
+
+**Referrer :** Google (45%), *"direct access"* (42%, this includes the various anonymous search engine, mainly the wonderful `DuckDuckGo <https://duckduckgo.com/>`_), Facebook (5%), `<http://lbesson.bitbucket.org>`_ (3%), `<http://crans.org>`_ (2%) and `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
 
 ------------------------------------------------------------------------------
 
@@ -92,16 +81,13 @@ showing more examples and figures, in pictures.
 
 Other website?
 --------------
-`This website <index.html>`_ is the one that gets most of the visitors on webpages written by `me <cv.en.pdf>`_, but I have some pages with Google Analystics enabled on other websites:
+`This website <index.html>`_ is the one that gets most of the visitors on web pages written by `me <cv.en.pdf>`_, but I have some pages with Google Analystics enabled on other websites:
 
-- Some projects hosted on this same domain (``perso.crans.org/besson``) have a different Google Analytics key, so they are counted on a separate GA databse (*"view"*), but they all have very less visitors.
-- Mon Bitbucket `<https://bitbucket.org/lbesson>`_ et `<http://lbesson.bitbucket.org/>`_ ont reçues environ 5000 visites en trois ans (et `ce jeu en a la moité <http://lbesson.bitbucket.org/2048-agreg/>`_,
-- Mes `ressources pour l'informatique pour tous en prépa MP <infoMP/>`_ environ 1200 pages vues pour 400 visites et 290 utilisateurs depuis août 2015 (elles ont donc des visiteurs récurrents, c'est bon signe, mes élèves s'en servent !),
-- Mon module Python `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `son code <https://bitbucket.org/lbesson/ansi-colors/>`_ et `sa doc <https://pythonhosted.org/ANSIColors-balises/>`_ ont eu environ 1100 visites depuis leur mise en ligne (février 2013),
-- Mon GitHub `<https://github.com/naereen>`_ et `<http://naereen.github.io/>`_ ont eu environ 400 visites (depuis septembre 2015).
-
+- Some projects hosted on this same domain (``perso.crans.org/besson``) have a different Google Analytics key, so they are counted on a separate GA database (*"view"*), but they all have very less visitors.
+- My Bitbucket `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.org/>`_ got about 5000 visits in 3 years (and `this small game is responsible for 20% <http://lbesson.bitbucket.org/2048-agreg/>`_ !),
+- My `documents for the "Computer Science" course <infoMP/>`_ I taught in a MP prep' school in Sceaux (France) got about 400 visits, for 1200 pages seen and about 290 different users, since August 2015 (so they have some recurrent visitors, that's a good sign showing that my students are using these documents!),
+- A tiny Python module I wrote in 2013, `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `its code <https://bitbucket.org/lbesson/ansi-colors/>`_ and `its doc <https://pythonhosted.org/ANSIColors-balises/>`_, receives about 1100 visits since I put them online (February 2013),
 - `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.org/>`_ (on Bitbucket),
-- `<https://github.com/naereen>`_ and `<http://naereen.github.io/>`_ (on GitHub),
-
+- My GitHub `<https://github.com/naereen>`_ and `<http://naereen.github.io/>`_ got about 400 visits (since September 2015).
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
