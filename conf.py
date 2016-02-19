@@ -217,10 +217,13 @@ autodoc_default_flags = ['members', 'private-members']
 #  'sqlalchemy': ('http://www.sqlalchemy.org/docs', None)
 #}
 
+# Add a small piece of rST text in the prolog/epilog of EVERY file
 # http://www.sphinx-doc.org/en/stable/config.html#confval-rst_prolog
-rst_prolog = """
+# rst_prolog = """
+rst_epilog = """
 .. include:: .special.rst
 """
+# FIXME : even the Markdown files (.md) use it... They should not!
 
 
 # -- Options for HTML output ---------------------------------------------------
