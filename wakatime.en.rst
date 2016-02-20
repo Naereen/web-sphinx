@@ -65,7 +65,7 @@ Sharing these statistics ?
 --------------------------
 Coding time over last 30 days
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-This first chart shows how long I code every day:
+This first chart shows how much I type every day (it counts most of my emails, programming tasks and more):
 
 .. raw:: html
 
@@ -90,7 +90,7 @@ And from the beginning of my use of WakaTime:
 
 Text editors
 ^^^^^^^^^^^^
-WakaTime thinks I only use the wonderful `Sublime Text 3 <sublimetext.en.html>`_ (and it's almost correct!) :
+WakaTime thinks I only use the wonderful `Sublime Text 3 <sublimetext.en.html>`_ (and it's almost correct!):
 
 .. raw:: html
 
@@ -144,7 +144,7 @@ with the command ``npm install wakatimecli``.
     This requires to have already installed `nodejs <https://nodejs.org/>`_ on your machine, and its packet manager `npm <https://www.npmjs.com/>`_.
 
 
-This tool is based on `the officiel WakaTime API <https://wakatime.com/developers/>`_, and his fairly easy to use.
+This tool is based on `the officiel WakaTime API <https://wakatime.com/developers/>`_, and should be easy to use.
 The first command is `wakatime -help <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ which shows the different options that are accepted by the tool: ::
 
     Please pass an option:
@@ -184,5 +184,7 @@ For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTime
 
    $ /home/lilian/bin/mywakatime | head -n3
 
+
+.. warning:: I do not know why, but this small ``wakatime`` command line tool does not work anymore on my laptop (even after uninstalling and reinstalling)... Too bad :( !
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

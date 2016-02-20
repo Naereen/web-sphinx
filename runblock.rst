@@ -81,7 +81,7 @@ d'une série télé, et utilise un fichier *~/current* pour savoir quel dossier 
 
 .. runblock:: console
 
-    $ LANG=en echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
+    $ LANG=en echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
 
 
 Le script `<bin/CheckDownload_Pypi.sh>`_ permet de consulter les statistiques de téléchargement

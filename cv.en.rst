@@ -45,24 +45,23 @@ Extra information about me
  * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in 5th year. Studying **Mathematics** and **Computer Science**.
  * :Webpages:
 
-    #. my personal web pages on the *ÉNS de Cachan CS department* : `www.dptinfo.ens-cachan.fr/~lbesson <http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
-
-    #. my *Bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_, which hosts my programming project;
+    #. `This website <index.html>`_;
+    #. my *Bitbucket* account `lbesson <https://bitbucket.org/lbesson>`_, and my *GitHub* account `naereen <https://github.com/naereen/>`_, which host my programming project;
 
 ---------------------------------------------------------------------
 
 Spoken Languages
 ----------------
- * :French: **native**;
+ * :French: **native** speaker;
  * :English: **fluent**, speaking and writing, usual and scientific. **TOEIC** got in April 2012, with the mark *900/990*;
  * :Spanish: **beginner**, speaking and writing, usual only;
- * :Japanese: **beginner** from Sept. 2013, hiragana only;
+ * :Japanese: **beginner** from Sept. 2013 to March 2015, hiragana only;
 
 Programming Languages
 ----------------------
- * :Basic: **Maple**, **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
- * :Intermediate: **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
  * :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
+ * :Intermediate: **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
+ * :Basic: **Maple**, **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 
 Computer skills
 ---------------
@@ -82,7 +81,7 @@ Miscellaneous
    - eager to learn and develop new skills;
    - passionate about new technologies;
 
- * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg **since 2004**;
+ * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
  * :Other experiences:
 
    - Theater and clown lessons, during 6 years (**2003-2009**);
@@ -133,7 +132,7 @@ Below there is a precise description of what I studied, year by year, from my Ba
 - I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
 - I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
-.. note:: `See here for more information <index.en.html>`_.
+.. note:: All the documents written during this year for the MVA Master are `on this public folder <publis/mva-2016/>`_.
 
 **2014-2015**: teaching for one year in India
 ---------------------------------------------

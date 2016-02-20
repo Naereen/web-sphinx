@@ -116,11 +116,9 @@ Quelques remarques à propos des gentils automobilistes qui acceptent de prendre
 
 *Couch Surfing* ?
 -----------------
-Naturellement, je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_,
-et même si je n'ai pas vraiment eu l'occasion de m'en servir pour l'instant :
+Naturellement, je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, et même si je ne m'en suis pas servi beaucoup pour l'instant :
 
 - `j'ai un profil sur couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
 - et j'y propose même `mon canapé <https://www.couchsurfing.com/people/lilian-besson/couch>`_ !
-
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

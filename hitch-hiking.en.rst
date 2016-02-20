@@ -114,11 +114,9 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 
 *Couch Surfing* ?
 -----------------
-Of course, I like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_,
-and even if I have been able to start to use it so far :
+Of course, I really like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, and even if I have not used it a lot:
 
 - `I have an account on couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
 - and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellows couch-surfer!
-
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

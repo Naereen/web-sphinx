@@ -105,7 +105,7 @@ WakaTime détecte que j'utilise presque uniquement l'extraordinaire `Sublime Tex
 
 Partager les stats d'un projet en particulier
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il est aussi possible de partager les les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ par exemple (correspondant à `ce project <https://bitbucket.org/lbesson/web-sphinx/>`_).
+Il est aussi possible de partager les statistiques d'un projet en particulier, grâce à un lien spécifique, comme `<https://wakatime.com/@lbesson/projects/qdkkfmhcoi>`_ par exemple (correspondant à `ce project <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 
 Inclure un graphique via une iframe ?
@@ -146,7 +146,7 @@ avec la commande ``npm install wakatimecli``.
     Cela demande d'avoir déjà installé sur votre machine `nodejs <https://nodejs.org/>`_ et son gestionnaire de paquet `npm <https://www.npmjs.com/>`_.
 
 
-Cet outil en ligne de commande se base `sur cette API <https://wakatime.com/developers/>`_, et est facile à utiliser.
+Cet outil en ligne de commande se base `sur cette API <https://wakatime.com/developers/>`_, et devrait être facile à utiliser.
 La première commande est `wakatime -help <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ qui montre les différentes options acceptées par cet outil : ::
 
     Please pass an option:
@@ -185,5 +185,7 @@ Par exemple, la commande `wakatime -w <https://github.com/JoshLankford/WakaTimeC
 
    $ /home/lilian/bin/mywakatime | head -n3
 
+
+.. attention:: Je ne sais pas pourquoi, mais ce script ``wakatime`` en ligne de commande ne fonctionne plus sur mon ordinateur (même après une désinstallation et réinstallation).. Dommage :( !
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

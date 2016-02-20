@@ -8,7 +8,7 @@
 
 .. note:: Les listes ne sont *pas* triées
 
-   Tous ces *tops 10* ne sont **pas triés** (c'est vraiment impossible de dire quel film est SON préféré !).
+   Ces différents *tops 10* ne sont **pas triés** (c'est vraiment impossible de dire quel film est SON préféré !).
 
 ------------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Mes 10 **acteurs/actrices de films** préférés
 - `Ewan McGregor <https://fr.wikipedia.org/wiki/Ewan_McGregor>`_, principalement dans les films `Star Wars <https://fr.wikipedia.org/wiki/Star_Wars_%28film%29>`_, `Moulin Rouge <https://fr.wikipedia.org/wiki/Moulin_Rouge_%28film%29>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `Les Chèvres du Pentagone <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc.
 - `Jim Carrey <https://fr.wikipedia.org/wiki/Jim_Carrey>`_, principalement dans `The Truman Show`_, `The Mask <https://fr.wikipedia.org/wiki/The_Mask_%28film%29>`_, `Bruce Tout Puissant <https://fr.wikipedia.org/wiki/Bruce_tout_puissant>`_ et `I Love you Philip Morris <https://fr.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_.
 - `Louis de Funès <https://fr.wikipedia.org/wiki/Louis_de_Funès>`_, principalement dans les films *Les Gendarmes* et la série des *Fantomas*.
-- `Natalie Portman <https://fr.wikipedia.org/wiki/Natalie_Portman>`_, principalement dans `Léon <https://fr.wikipedia.org/wiki/Léon_(film)>`_, les films `Star Wars`_ et `Garden State`_.
+- `Natalie Portman <https://fr.wikipedia.org/wiki/Natalie_Portman>`_, principalement dans `Léon <https://fr.wikipedia.org/wiki/Léon_(film)>`_, `Jane Got a Gun <https://en.wikipedia.org/wiki/Jane_got_a_gun>`_, les films `Star Wars`_ et `Garden State`_.
 - `Gad Elmaleh <https://fr.wikipedia.org/wiki/Gad_Elmaleh>`_, principalement dans `La Doublure <https://fr.wikipedia.org/wiki/La_Doublure>`_ et ses propres spectacles en français
 - `Brad Pitt <https://fr.wikipedia.org/wiki/Brad_Pitt>`_, principalement dans `Fight Club <https://fr.wikipedia.org/wiki/Fight_Club_%28film%29>`_, `7 ans au Tibet <https://fr.wikipedia.org/wiki/7_ans_au_Tibet_%28film%29>`_, `Inglorious Basterds <https://fr.wikipedia.org/wiki/Inglorious_Basterds>`_, `L'Armée des 12 Singes <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://fr.wikipedia.org/wiki/Snatch>`_, etc
 - `Bruce Willis <https://fr.wikipedia.org/wiki/Bruce_Willis>`_, principalement dans toute la série des `Die Hard <https://fr.wikipedia.org/wiki/Die_Hard>`_, `Le Cinquième Élément`_, `Lucky Number Slevin <https://fr.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Incassable <https://fr.wikipedia.org/wiki/Incassable_%28film%29>`_, etc

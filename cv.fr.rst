@@ -45,24 +45,23 @@ Autres informations à propos de moi
  * :Pages sur le web:
 
    #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
-
-   #. mon compte *Bitbucket* `lbesson <https://bitbucket.org/lbesson>`_, qui héberge du code et projets de programmation.
+   #. mes comptes sur *Bitbucket* `lbesson <https://bitbucket.org/lbesson>`_ et *GitHub* `naereen <https://github.com/naereen/>`_, qui hébergent du code et projets de programmation.
 
 ---------------------------------------------------------------------
 
 Langues parlées
 ---------------
  * :Français: **langue maternelle**;
- * :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en Avril 2012, avec la note *900/990*;
+ * :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en avril 2012, avec la note *900/990*;
  * :Espagnol: **débutant**, écrit et parlé, commun uniquement;
- * :Japonais: **vrai débutant** depuis Sept. 2013, hiragana seulement pour l'instant;
+ * :Japonais: **vrai débutant** depuis sept. 2013 et mars 2014, hiragana seulement pour l'instant;
 
 Compétences en programmation et développement
 ---------------------------------------------
- * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
- * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.org/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.org/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
  * :Expert: `Python <https://pypi.python.org/pypi/ANSIColors-balises>`_ (2.7) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.org/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
  * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://perso.crans.org/besson/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://perso.crans.org/besson/publis/Bomberman/>`_.
+ * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.org/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.org/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
+ * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
 
 Informatique pratique
 ---------------------
@@ -134,7 +133,7 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 - Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
 - je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
-.. note:: `Voir ici pour plus d'informations <index.fr.html>`_.
+.. note:: Tous les documents produits pour mon master MVA cette année `sont partagés dans ce dossier <publis/mva-2016/>`_.
 
 **2014-2015** : un an d'enseignement en Inde
 ---------------------------------------------
