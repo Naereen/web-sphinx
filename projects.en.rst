@@ -15,7 +15,7 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 
 This year (*2015-16*):
 
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2015>`_, `RL / GML <http://lbesson.bitbucket.org/rl2015>`_.
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_.
 - I am also currently `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 
@@ -113,7 +113,7 @@ Some of my profile pages on some great website:
 
 2nd year of MSc : Master MVA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can find `here my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2015>`_, `RL / GML <http://lbesson.bitbucket.org/rl2015>`_ during the 1st trimester (Fall 2015).
+You can find `here my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_ during the 1st trimester (Fall 2015).
 2 projects will soon be concluded, for the 2nd trimester (Spring 2016).
 
 MSc internship : "*Towards modularity for planning and robot programs verification*"
