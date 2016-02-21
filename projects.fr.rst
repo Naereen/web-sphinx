@@ -6,7 +6,6 @@
  Pages (FR)
 ############
 
-
 À propos (de moi)
 -----------------
 Bonjour !
@@ -15,7 +14,7 @@ Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informat
 
 Cette année (2015-16) :
 
-- Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_.
+- Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 3 projets : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2015>`_, `RL / GML <http://lbesson.bitbucket.org/rl2015>`_.
 - Je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 
@@ -161,6 +160,11 @@ Autres pages
 Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
+2 autres projets sont bientôt terminés, pour le 2nd trimestre (Printemps 2016).
+
+Master MVA (2015-2016)
+^^^^^^^^^^^^^^^^^^^^^^
+Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 3 projets de recherche pour le 1er trimestre (automne/hiver 2015) : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2015>`_, `RL / GML <http://lbesson.bitbucket.org/rl2015>`_.
 
 Nautilus Terminal v1.2
 ^^^^^^^^^^^^^^^^^^^^^^
