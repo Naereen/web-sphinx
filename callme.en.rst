@@ -109,8 +109,7 @@ These web services, strongly based on the great functions offered by the `HTML 5
 
 * `gruveo.com/#0628412257 <https://www.gruveo.com/#0628412257>`_ for vocal or videos calls. It seems to be secured and reliable,
 * `appear.in/Naereen <https://appear.in/Naereen>`_ for video-chat, up to 8 persons at a time,
-* `RTC Copy <https://rtccopy.com/>`_ to securely send files over the Internet (no matter the type, no matter the size),
-* and the last but not the least, `img.bi <https://img.bi/>`_ is especially designed to send pictures.
+* `RTC Copy <https://rtccopy.com/>`_ to securely send files over the Internet (no matter the type, no matter the size).
 
 
 .. seealso::

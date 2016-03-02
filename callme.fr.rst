@@ -109,8 +109,7 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
 
 * `gruveo.com/#0628412257 <https://www.gruveo.com/#0628412257>`_ pour des appels (vocaux ou vidéos), semble fiable et sécurisé,
 * `appear.in/Naereen <https://appear.in/Naereen>`_ pour des visio-conférences, jusqu'à 8 personnes,
-* `RTC Copy <https://rtccopy.com/>`_ pour s'envoyer des fichiers (toute taille, tout type),
-* et enfin `img.bi <https://img.bi/>`_ pour s'envoyer des images.
+* `RTC Copy <https://rtccopy.com/>`_ pour s'envoyer des fichiers (toute taille, tout type).
 
 
 .. seealso::
