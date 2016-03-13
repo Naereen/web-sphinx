@@ -28,17 +28,16 @@ FreeDNS ?
 Liste des sous-domaines que j'utilise
 -------------------------------------
  * `besson.qc.to <http://besson.qc.to>`_
-    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_ (pages perso). Le plus utilisé !
+    vers `<http://perso.crans.org/besson/>`_ (pages perso). Le plus utilisé !
 
  * `lbesson.qc.to <http://lbesson.qc.to>`_
-    aussi vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_;
+    aussi vers `<http://perso.crans.org/besson/>`_;
 
  * `git.lbesson.qc.to <http://git.lbesson.qc.to>`_
     vers `<https://bitbucket.org/lbesson/>`_ (mes dépôts git);
 
  * `cv.lbesson.qc.to <http://cv.lbesson.qc.to>`_
-    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson/cv.pdf>`_ en mode :red:`cloak` (moche).
-
+    vers `<http://perso.crans.org/besson/cv.pdf>`_ en mode :red:`cloak` (moche).
 
 .. note:: En fait non.
 
@@ -47,16 +46,24 @@ Liste des sous-domaines que j'utilise
 
 Liste des autres sous-domaines que j'utilise
 --------------------------------------------
- * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_
-    vers `<http://perso.crans.org/besson/jarvis.html>`_
+ * `jarvis.ftp.sh <http://jarvis.ftp.sh>`_ redirige vers `<http://perso.crans.org/besson/jarvis.html>`_
 
  * `besson.k.vu <http://besson.k.vu>`_ et `jarvis.k.vu <http://jarvis.k.vu>`_
-    vers `<http://www.dptinfo.ens-cachan.fr/~lbesson>`_
-    (mais ils sont jolis non ? besson.k.vu c'est drôle je trouve).
+    redirigent vers `<http://perso.crans.org/besson/>`_
+    (mais ils sont jolis non ? ``k.vu`` c'est drôle je trouve).
+
+ * `lbo.k.vu <http://lbo.k.vu>`_ redirige vers `<http://lbesson.bitbucket.org/>`_.
+
+------------------------------------------------------------------------------
 
 `my.freenom.com <https://my.freenom.com/>`_
 -------------------------------------------
- Un autre service de ce genre, moins performant, mais pas trop mal était `my.dot.tk <http://my.dot.tk>`_, mais il est devenu payant.
+Le successeur de `my.dot.tk <http://my.dot.tk>`_, qui fonctionne très bien :
+
+- `<http://lbesson.ml>`_, redirige vers `<https://bitbucket.org/lbesson/>`_ (``.ml`` pour "machine learning");
+- `<http://lbesson.tk>`_, est une copie cachée de `<http://perso.crans.org/besson/cv.pdf>`_;
+- `<http://naereen.ml>`_, redirige vers `<https://github.com/Naereen>`_ (``.ml`` pour "machine learning");
+- `<http://naereen.tk>`_, est une copie cachée de `<http://perso.crans.org/besson/>`_ (ce site).
 
 ------------------------------------------------------------------------------
 
