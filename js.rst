@@ -85,8 +85,8 @@ Pas les miens mais adaptés
 * `nprogress.js <_static/nprogress.js>`_ et `nprogress.ccs <_static/nprogress.ccs>`_
   pour afficher une barre de progression dans le bas de la page (en :cyan:`cyan`),
 
-* `forkit.js <_static/forkit.js>`_ (la *bannière* "Sur Bitbucket?" qui bouge en haut à droite)
-  et `fokus.min.js <_static/fokus.min.js>`_ (la page donne le focus lors de la sélection d'un élément)
+* `forkit.js <_static/forkit.js>`_ (la *bannière* "Sur Bitbucket?" qui bouge en haut à droite, :red:`désactivé désormais`)
+  et `fokus.min.js <_static/fokus.min.js>`_ (la page donne le focus lors de la sélection d'un élément :red:`désactivé désormais`)
   viennent de `hakim.se <http://hakim.se/>`_. Merci à lui !
 
 Les miens
@@ -97,7 +97,7 @@ Les miens
 
 * `StrapDown.js <_static/md/>`_ un compilateur Markdown > HTML,
 
-* `SquirtFR <_static/squirt/>`_ un signapplet pour lire rapidement une page web.
+* `SquirtFR <_static/squirt/>`_ un *signapplet* pour lire rapidement une page web.
 
 Et plein d'autres
 ^^^^^^^^^^^^^^^^^
