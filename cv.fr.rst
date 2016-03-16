@@ -54,7 +54,7 @@ Langues parlées
  * :Français: **langue maternelle**;
  * :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en avril 2012, avec la note *900/990*;
  * :Espagnol: **débutant**, écrit et parlé, commun uniquement;
- * :Japonais: **vrai débutant** depuis sept. 2013 et mars 2014, hiragana seulement pour l'instant;
+ * :Japonais: **vrai débutant** entre sept. 2013 et mars 2014, hiragana seulement pour l'instant;
 
 Compétences en programmation et développement
 ---------------------------------------------
@@ -79,12 +79,12 @@ Divers
    - volontaire pour apprendre et développer de nouvelles compétences;
    - passionné de nouvelles technologies et de programmation;
 
- * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
+ * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en Islande, Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
  * :Expat': Expériences professionnelles internationale au Royaume-Uni (2013) et en Inde (2014-15), recherche et enseignement;
  * :Autres expériences:
 
    - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
-   - `Joueur passionné <http://exkalibur.lestitous.pagesperso-orange.fr/exkalibur/accueil_contact_lesanimationsactuelles.htm>`_ puis semi-professionel à *Magic The Gathering*, durant 5 ans (**2004-2009**).
+   - `Joueur passionné <http://exkalibur.lestitous.pagesperso-orange.fr/exkalibur/accueil_contact_lesanimationsactuelles.htm>`_ de *Magic The Gathering*, durant 5 ans (**2004-2009**).
      Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
      Champion départemental pendant 2 ans (dans les *Hautes-Alpes*, 05, France).
 
@@ -277,6 +277,8 @@ Autres diplômes
 
 Autres expériences de recherche
 -------------------------------
+.. note:: Pas à-jour, je devrais ajouter les projets réalisés depuis 2013...
+
 Projets de programmation en M1 (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * **MPRI Bomberman** : un jeu de ``Bomberman`` multi-joueur, avec un sémantique formelle et un protocole (*presque*) optimal et ouvert (MPRI cours 1-21.).

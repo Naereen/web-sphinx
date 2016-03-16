@@ -81,11 +81,11 @@ Miscellaneous
    - eager to learn and develop new skills;
    - passionate about new technologies;
 
- * :International experience: some trips in Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
+ * :International experience: some trips in Iceland, Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
  * :Other experiences:
 
    - Theater and clown lessons, during 6 years (**2003-2009**);
-   - Semi-professional player of *Magic The Gathering*, during 5 years (**2004-2009**).
+   - Passionnate player of *Magic The Gathering*, during 5 years (**2004-2009**).
      Many national tournaments, a few internations competition (Sweden, Spain, Italy).
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
@@ -273,6 +273,8 @@ Other diplomas
 
 Other research experience
 -------------------------
+.. note:: Not up-to-date, I should add the projects done since 2013...
+
 MSc programming projects (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * **MPRI Bomberman** : a multiplayer Bomberman game with formal semantics and a open protocole (MPRI lecture 1-21.).
