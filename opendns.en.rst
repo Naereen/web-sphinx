@@ -2,9 +2,9 @@
    :description lang=en: Short description for alternative DNS services
    :description lang=fr: Petit résumé pour services alternatifs de DNS
 
-#################################
- Use an alternative DNS services
-#################################
+################################
+ Use an alternative DNS service
+################################
 
 
 This mini tutorial starts by using OpenDNS, and then the DNS service of Google.
