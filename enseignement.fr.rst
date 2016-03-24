@@ -22,14 +22,14 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 
    Vous pouvez jeter un oeil à mes solutions : `aux exercices sur papier (TD) <infoMP/TDs/solutions/>`_,
    `aux examens écrits (DS) <infoMP/DSs/solutions/>`_, ainsi qu'`aux exercices pratiques (TP) <infoMP/TPs/solutions/>`_.
-   Je fais de mon mieux pour qu'elles soient complètes et à-jour (semaine après semaine). N'hésitez pas à les lire un peu !
+   Je faisais de mon mieux pour qu'elles soient complètes et à-jour (semaine après semaine). N'hésitez pas à les lire un peu !
 
 
 .. note:: Remplacement en BCPST-2A (prépa' bio', 2ème année)
 
-   Entre novembre 2015 et février 2016, je ferai aussi 1h de colle par semaine en mathématiques pour une classe de `BCPST 2A <http://prepas.org/ups.php?article=43>`_.
+   Entre novembre 2015 et février 2016, j'ai aussi donné 1h de colle par semaine en mathématiques pour une classe de `BCPST 2A <http://prepas.org/ups.php?article=43>`_.
 
-:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 100 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élève).
+:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 100 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élèves).
 
 
 Premier semestre en 2015 (en Inde)

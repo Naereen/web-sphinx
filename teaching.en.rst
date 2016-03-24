@@ -21,12 +21,12 @@ Between September 2015 and April 2016, I am teaching on a weekly basis at `Lycé
 .. seealso:: Complete solutions for the *Computer Science* course:
 
    Hey, you can have a look to my solutions: to `some algorithmic problems (written) <infoMP/TDs/solutions/>`_, to `some written exams about algorithms and data structures <infoMP/DSs/solutions/>`_,
-   and to `some programming problems (implementation, on a computer, during a practical session) <infoMP/TPs/solutions/>`_ up-to-date.
-   I am doing my best to provide full solutions for every week, and keep them up-to-date. Feel free to explore them!
+   and to `some programming problems (implementation, on a computer, during a practical session) <infoMP/TPs/solutions/>`_.
+   I was doing my best to provide full solutions for every week, and keep them up-to-date. Feel free to explore them!
 
 .. note:: Replacement in BCPST-2A (2nd year biology prep'school)
 
-   Between November 2015 and February 2016, I will also give one weekly hour of oral exam (in maths) for a class of `BCPST 2 <http://prepas.org/ups.php?article=43>`_ prep school.
+   Between November 2015 and February 2016, I also gave one weekly hour of oral exam (in maths) for a class of `BCPST 2 <http://prepas.org/ups.php?article=43>`_ prep school.
 
 :Total: For the scholar year 2015-16, I evaluate my teaching load to be **about 100 hours** (number of hours teaching to a group of students, or in charge of a practical session or an oral exam).
 
