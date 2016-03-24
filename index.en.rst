@@ -11,7 +11,7 @@ A few words about me
 Greetings!
 I am **Lilian Besson**, a `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_
-:gray:`(a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris).`
+:gray:`(a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris)`.
 
 This year (*2015-16*):
 
