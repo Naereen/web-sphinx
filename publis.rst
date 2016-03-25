@@ -13,6 +13,8 @@ Cette page est là pour décrire les divers projets *techniques* présents dans 
 Ce dossier contient un certain nombre de petites productions
 (logiciels, scripts ou autres); ainsi que certains projets plus solides.
 
+.. todo:: Translate this page to English!
+
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne joue intéresse pas, allez plutôt consulter celle là `<index.html>`_.

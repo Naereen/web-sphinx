@@ -15,8 +15,10 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 
 This year (*2015-16*):
 
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`new!`.
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and 6 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_ :yellow:`new!`.
+
 - I am also currently `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+
 - I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_.
 
 
@@ -82,13 +84,6 @@ Studies and past jobs
 
 ------------------------------------------------------------------------------
 
-.. warning::
-
-   Those web pages **are still in construction**!
-   In particular, the English versions of each pages are *not* yet available.
-   But, I'm working on it!
-
-
 .. sidebar:: Other language: in French
 
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
@@ -104,21 +99,41 @@ Studies and past jobs
 
 Some projects on-line
 ^^^^^^^^^^^^^^^^^^^^^
-Some of my profile pages on some great website:
+Some of my profile pages on some great websites:
 
   #. either with my *bitbucket* account `bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_;
   #. or my *Github* account `GitHub.com/Naereen <https://github.com/Naereen>`_;
   #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
   #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
 
+------------------------------------------------------------------------------
 
 2nd year of MSc : Master MVA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can find `here my documents written for the MVA <./publis/mva-2016/>`_, and 3 projects: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_ during the 1st trimester (Fall 2015).
-2 projects will soon be concluded, for the 2nd trimester (Spring 2016).
+You can find `here all the documents written for the MVA <./publis/mva-2016/>`_ (2015-2016).
+I also worked on 6 small research projects, all published on `my bitbucket <https://bitbucket.org/lbesson/>`_, open-source under the `MIT license <http://lbesson.mit-license.org/>`_.
 
-MSc internship : "*Towards modularity for planning and robot programs verification*"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For the 1st trimester (Fall 2015):
+
+ - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
+ - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
+ - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_, graded :blue:`18/20`;
+
+For the 2nd trimester (Spring 2016):
+
+ - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`new!`;
+ - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`new!`;
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`not yet!`.
+
+MSc research internship in 2016
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_. :yellow:`Not yet started!`
+
+
+MSc research internship in 2013
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ "*Towards modularity for planning and robot programs verification*"
+
 I did a research internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
 .. sidebar:: Résumé
@@ -133,7 +148,7 @@ about separation logic, planning in `AI`, and the study of *modularity* in those
 
 My report (in English): `<rapportM1Info13.pdf>`_, and my slides (in French): `<slidesM1Info13.pdf>`_.
 
-:Mark: Jules gave me **19/20**. I got the mark **17.7/20** from the Computer Science jury at ENS Cachan, and **18.50/20** from the Maths jury at ENS Cachan.
+:Mark: Jules gave me **19/20**. I got the mark **17.7/20** from the Computer Science jury at ENS Cachan, and **18.50/20** from the Maths jury at ENS Cachan (september 2013).
 
 ------------------------------------------------------------------------------
 
