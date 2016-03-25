@@ -130,9 +130,25 @@ Below there is a precise description of what I studied, year by year, from my Ba
 **2015-2016**: second second year Msc (*Master*)
 ------------------------------------------------
 - I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
+
 - I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 .. note:: All the documents written during this year for the MVA Master are `on this public folder <publis/mva-2016/>`_.
+
+   I also worked on 6 small research projects, all published on `my bitbucket <https://bitbucket.org/lbesson/>`_, open-source under the `MIT license <http://lbesson.mit-license.org/>`_.
+
+   For the 1st trimester (Fall 2015):
+
+    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
+    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
+    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_, graded :blue:`18/20`;
+
+   For the 2nd trimester (Spring 2016):
+
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`new!`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`new!`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`not yet!`.
+
 
 **2014-2015**: teaching for one year in India
 ---------------------------------------------

@@ -139,7 +139,7 @@ Pour le second trimestre (printemps 2016) :
 
  - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`nouveau !`;
  - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`nouveau !`;
- - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`not yet!`.
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`pas encore !`.
 
 Stage de M2
 ^^^^^^^^^^^

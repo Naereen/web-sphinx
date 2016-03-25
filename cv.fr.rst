@@ -135,6 +135,21 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 
 .. note:: Tous les documents produits pour mon master MVA cette année `sont partagés dans ce dossier <publis/mva-2016/>`_.
 
+   J'ai aussi travaillé sur 6 petits projects de recherche, tous publiés sur `mon compte bitbucket <https://bitbucket.org/lbesson/>`_, libres et open-source (`licence MIT <http://lbesson.mit-license.org/>`_).
+
+   Pour le premier trimestre (automne 2015) :
+
+    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ (algorithmes probabilistes pour factorisation de matrices, notamment les matrices de petit rang), noté :blue:`19/20`;
+    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparaison avec les *Hidden Markov Models* et *Gaussian Mixture Models*), noté :blue:`16/20`;
+    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_ (apprentissage automatique de stratégies pour jouer à des jeux de plateau, à partir d'une base de donnée de parties jouées par des experts non optimaux, agrégation et vote optimal d'un ensemble d'experts), noté :blue:`18/20`;
+
+   Pour le second trimestre (printemps 2016) :
+
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`nouveau !`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`nouveau !`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`pas encore !`.
+
+
 **2014-2015** : un an d'enseignement en Inde
 ---------------------------------------------
 *Assistant professor* à la `(toute nouvelle) <http://perso.crans.org/besson/publis/10_10_2014__Liberation.fr.html>`_ `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/faculties.php>`_ (à `Hyderabad <https://fr.wikipedia.org/wiki/Hyderabad>`_, en Inde).
