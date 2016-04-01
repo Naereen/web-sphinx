@@ -135,7 +135,7 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 
 .. note:: Tous les documents produits pour mon master MVA cette année `sont partagés dans ce dossier <publis/mva-2016/>`_.
 
-   J'ai aussi travaillé sur 6 petits projects de recherche, tous publiés sur `mon compte bitbucket <https://bitbucket.org/lbesson/>`_, libres et open-source (`licence MIT <http://lbesson.mit-license.org/>`_).
+   J'ai aussi travaillé sur `6 petits projects de recherche <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_, tous publiés sur `mon compte bitbucket <https://bitbucket.org/lbesson/>`_, libres et open-source (`licence MIT <http://lbesson.mit-license.org/>`_).
 
    Pour le premier trimestre (automne 2015) :
 

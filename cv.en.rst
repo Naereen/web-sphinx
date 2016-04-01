@@ -135,7 +135,7 @@ Below there is a precise description of what I studied, year by year, from my Ba
 
 .. note:: All the documents written during this year for the MVA Master are `on this public folder <publis/mva-2016/>`_.
 
-   I also worked on 6 small research projects, all published on `my bitbucket <https://bitbucket.org/lbesson/>`_, open-source under the `MIT license <http://lbesson.mit-license.org/>`_.
+   I also worked on `6 small research projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_, all published on `my bitbucket <https://bitbucket.org/lbesson/>`_, open-source under the `MIT license <http://lbesson.mit-license.org/>`_.
 
    For the 1st trimester (Fall 2015):
 
