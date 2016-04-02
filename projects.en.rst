@@ -15,11 +15,11 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 
 This year (*2015-16*):
 
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_ :yellow:`new!`.
-
-- I was also `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_ :orange:`new!`.
 
 - I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_.
+
+- I was also `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 
 `Contact information <callme.fr.html>`_
@@ -121,13 +121,13 @@ For the 1st trimester (Fall 2015):
 
 For the 2nd trimester (Spring 2016):
 
- - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`new!`;
- - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`new!`;
- - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`not yet!`.
+ - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :orange:`new!`;
+ - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :orange:`new!`;
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :orange:`new!`.
 
 MSc research internship in 2016
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_. :yellow:`Not yet started!`
+I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_. :red:`Not yet started!`
 
 
 MSc research internship in 2013
