@@ -55,15 +55,15 @@ Téléphone
    :target: callto:100101011101001100111101100001_2
 
 
-Pour essayer de m'avoir directement, **si c'est vraiment important**, veuillez utiliser mon numéro français (*attention au prix !*).
+Pour essayer de m'avoir directement (si c'est vraiment important), veuillez utiliser mon numéro français.
 
-.. .. warning:: Je suis actuellement à l'étranger, en Europe (en vacances !).
+.. warning:: Je suis actuellement à l'étranger, voyageant en Italie, Suisse et Espagne (en Europe).
 
-..    Les appels vers l'étranger coûtent cher !
-..    Même recevoir des appels coûtent cher (pour moi) !!
+    Les appels vers l'étranger coûtent cher ! Même recevoir des appels
+    coûte cher (pour moi), svp évitez si possible.
 
 
-Pour m'envoyer des messages textuels (SMS), idem (*attention au prix aussi !*).
+Pour m'envoyer des messages textuels (SMS), idem.
 
 ------------------------------------------------------------------------------
 
