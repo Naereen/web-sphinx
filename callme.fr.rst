@@ -57,7 +57,7 @@ Téléphone
 
 Pour essayer de m'avoir directement (si c'est vraiment important), veuillez utiliser mon numéro français.
 
-.. warning:: Je suis actuellement à l'étranger, voyageant en Italie, Suisse et Espagne (en Europe).
+.. warning:: Je suis actuellement à l'étranger, voyageant en Suisse et en Espagne (en Europe).
 
     Les appels vers l'étranger coûtent cher ! Même recevoir des appels
     coûte cher (pour moi), svp évitez si possible.

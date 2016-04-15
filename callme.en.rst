@@ -57,7 +57,7 @@ Regular phone
 
 To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number:.
 
-.. warning:: I am currently out of the French territory, traveling between Italy, Spain and Switzerland (in Europe).
+.. warning:: I am currently out of the French territory, traveling between Spain and Switzerland (in Europe).
 
    Give a call to someone in a foreign country is expensive!
    In fact, even receiving them is costly, so please avoid it if possible.

@@ -45,10 +45,10 @@ Ces chiffres sont simplement cumulés depuis 3 ans.
 
 **Origine géographique :**
 
-- **149 pays différents** (presque tous !) en trois ans, et en 6 semaines, j'en ai en moyenne une centaine (e.g., 110 entre le 01-01-16 à 19-01-16). La plupart des pays n'ont été vus que grâce à moins de dix visites, et 33 une seule visite ! Seulement 22 pays ont émis plus de 100 visites, et 5 pays se partagent environ 75% du trafic (par ordre, France 45%, USA 20%, Russie 7%, Inde 4% and UK 3%),
+- **157 pays différents** (presque tous !) en trois ans, et en 6 semaines, j'en ai en moyenne une centaine (e.g., 110 entre le 01-01-16 à 19-01-16). La plupart des pays n'ont été vus que grâce à moins de dix visites, et 33 une seule visite ! Seulement 22 pays ont émis plus de 100 visites, et 5 pays se partagent environ 75% du trafic (par ordre, France 45%, USA 20%, Russie 7%, Inde 4% and UK 3%),
 - **5 continents différents** (je les ai *tous* !), avec 60% depuis l'Europe, 23% depuis l'Amérique, 10% depuis l'Asie, et... seulement 1% depuis l'Océanie,
 - **21 sous-continents différents** (je les ai *tous* !), même répartition en gros (Europe Ouest 45%, Europe Nord 15%),
-- **2846 villes différentes** (... il y en a beaucoup !). Les dix plus importantes étant "Inconnu" (*25%*), Paris (7%), Cachan (6%), Samara (en Russie, il doit y avoir un bot ou un crawler web là-bas, 3%), Londres (3%), Hyderabad (Inde, 2%), Toulouse (1%), Bangalore (Inde, 0.9%), New York (0.8%) et Rennes (0.8%). On voit nettement l'influence de `ma présence <cv.fr.pdf>`_ sur ces chiffres (ayant vécu à Paris, Cachan, Londres, et Hyderabad entre 2013 et 2016), et des grands pôles "High-Tech" (New York et Bangalore) et des maths et info en France (Rennes et Toulouse).
+- **3152 villes différentes** (... il y en a beaucoup !). Les dix plus importantes étant "Inconnu" (*25%*), Paris (7%), Cachan (6%), Samara (en Russie, il doit y avoir un bot ou un crawler web là-bas, 3%), Londres (3%), Hyderabad (Inde, 2%), Toulouse (1%), Bangalore (Inde, 0.9%), New York (0.8%) et Rennes (0.8%). On voit nettement l'influence de `ma présence <cv.fr.pdf>`_ sur ces chiffres (ayant vécu à Paris, Cachan, Londres, et Hyderabad entre 2013 et 2016), et des grands pôles "High-Tech" (New York et Bangalore) et des maths et info en France (Rennes et Toulouse).
 
 
 **Langues :** français à 40%, anglais à 25%, *"inconnu"* ou non renseigné à 25%, et russe, espagnol et autres à 10%.
