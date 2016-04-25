@@ -13,10 +13,10 @@ En 2015
 
 Second semestre en 2015 (en France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
+Entre septembre 2015 et mai 2016, j'intervenais au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
 
 - des colles de mathématiques (2h/semaine). Mes références pour `le cours <http://mp.cpgedupuydelome.fr/courspe.php>`_ et `les exercises <http://mp.cpgedupuydelome.fr/exospe.php>`_ sont ces sites là : `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (surtout), ces exercices `par Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ et `par Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, `"Le Frido" <http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf>`_ (pour des points précis du cours), et `ce Vrai/Faux par Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (et `Wikipédia <https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes>`_, bien sûr).
-- et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toute les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
+- et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toutes les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
 .. seealso:: Solutions complètes pour le cours d'*Informatique pour Tous* :
 
@@ -29,7 +29,7 @@ Entre septembre 2015 et avril 2016, j'interviens au `Lycée Lakanal (à Sceaux, 
 
    Entre novembre 2015 et février 2016, j'ai aussi donné 1h de colle par semaine en mathématiques pour une classe de `BCPST 2A <http://prepas.org/ups.php?article=43>`_.
 
-:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 100 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élèves).
+:Total: Pour l'année 2015-16, j'estime ma charge d'enseignement à **environ 106 heures** (nombre estimé d'heures passées à enseigner, encadrer un TP ou donner une colle à un groupe d'élèves).
 
 
 Premier semestre en 2015 (en Inde)
