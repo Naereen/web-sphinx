@@ -200,7 +200,7 @@ Fin juillet 2015, j'ai mis à jour l'extension `nautilus-terminal <https://bitbu
 
 Solutions pour deux projets de programmation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigées pour les deux projets de programmation donnés à mes élèves en avril 2015 (pour le cours CS101 d'introduction à l'informatique).
+`mec-cs101-matrices.rtfd.io <http://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.io <http://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigées pour les deux projets de programmation donnés à mes élèves en avril 2015 (pour le cours CS101 d'introduction à l'informatique).
 
 Exemples de programmes Python (02/2015)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

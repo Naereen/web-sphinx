@@ -62,8 +62,8 @@ J'ai intégré (l'ENS Cachan) sans redoubler en 2011, on dit donc que j'ai inté
 
    J'utilise très souvent des maths dans une documentation rédigée en `reStructuredText <demo.html>`_ :
 
-    - `mec-cs101-integrals <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_,
-    - `mec-cs101-matrices <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_,
+    - `mec-cs101-integrals <https://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_,
+    - `mec-cs101-matrices <https://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_,
     - `infoMP/TPs <http://perso.crans.org/besson/infoMP/TPs/solutions/>`_, `infoMP/DSs <http://perso.crans.org/besson/infoMP/DSs/solutions/>`_ et `infoMP/TDs <http://perso.crans.org/besson/infoMP/TDs/solutions/>`_.
 
 

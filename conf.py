@@ -51,7 +51,7 @@ extensions = [
 	'sphinxcontrib.cheeseshop',
 	'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
 	'sphinxcontrib.autorun',
-######## Sphinx Spelling http://sphinxcontrib-spelling.readthedocs.org/en/latest/install.html
+######## Sphinx Spelling https://sphinxcontrib-spelling.readthedocs.io/en/latest/install.html
 	# 'sphinxcontrib.spelling',
 ####### From reportLab
 	#'rst2pdf.pdfbuilder',

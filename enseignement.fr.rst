@@ -48,7 +48,7 @@ Premier semestre en 2015 (en Inde)
    - `TP (CS101) <./cs101/labs/>`_ : sujets et solutions complètes pour les travaux pratiques de programmation,
    - `Solutions (CS101) <./cs101/solutions/>`_ : solutions à de divers problèmes venant de livres ou de sites web pour apprendre Python (c'est pas très bien rangé, mais il y a plein de choses).
 
-  :Projets: `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101).
+  :Projets: `mec-cs101-matrices.rtfd.io <https://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_ et `mec-cs101-integrals.rtfd.io <https://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_ sont les solutions complètes que j'ai rédigé pour les deux projets de programmation donné à mes élèves en avril 2015 (pour le cours CS101), qui sont hébergées sur `ReadTheDocs.org <https://www.readthedocs.org/>`_.
 
   :Exemples: Ce `nouveau dépôt git <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) montre une soixantaine d'exemples de programmes Python, touchant à de nombreux domaines (traitement d'image, génération de graphiques, calcul numérique ou symbolique, théorie des nombres etc). Ces exemples sont là pour illustrer les cours magistraux que j'ai donné en mars et avril 2015.
 
@@ -64,7 +64,7 @@ Premier semestre en 2015 (en Inde)
    - `Techniques (MA102) <./ma102/techniques/>`_ : des petites fiches sur des techniques utiles en maths,
    - `Quiz (MA102) <./ma102/quiz/>`_ : sujets de petits quiz.
 
-- J'étais aussi à l'origine des `listes de lecture pour l'été 2015 <https://mec-summer-15.readthedocs.org/en/latest/>`_, données à nos élèves (*travail abandonné*).
+- J'étais aussi à l'origine des `listes de lecture pour l'été 2015 <https://mec-summer-15.readthedocs.io/en/latest/>`_, données à nos élèves (*travail abandonné*).
 
 
 :Total 2: Pour ce premier semestre en 2015, j'estime ma charge d'enseignement à **environ 140 heures** (nombre estimé d'heures passées à enseigner à un groupe d'élève ou à une section entière).

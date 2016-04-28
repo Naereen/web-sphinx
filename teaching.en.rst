@@ -46,7 +46,7 @@ First semester of 2015 (in India)
    - `Labs (CS101) <./cs101/labs/>`_: assignments and complete solutions for the practical sessions (labs),
    - `Solutions (CS101) <./cs101/solutions/>`_: solutions to various website or books about learning Python.
 
-  :Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.org <http://mec-cs101-matrices.readthedocs.org/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.org <http://mec-cs101-integrals.readthedocs.org/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs <https://www.readthedocs.org>`_.
+  :Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.io <https://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.io <https://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs.org <https://www.readthedocs.org>`_.
 
   :Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 60 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
 
@@ -61,7 +61,7 @@ First semester of 2015 (in India)
    - `Techniques (MA102) <./ma102/techniques/>`_: some small documents summing up useful techniques of computations and proofs,
    - `Quiz (MA102) <./ma102/quiz/>`_: small quiz exam papers and solutions.
 
-- I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.org/en/latest/>`_ (*work in progress*).
+- I am also at the origin of an initiative to help our MEC students by giving them `lists of things to read or work on during the 2015 summer <https://mec-summer-15.readthedocs.io/en/latest/>`_ (*work in progress*).
 
 :Total 2: For the first semester of 2015, I evaluate my teaching load to be **about 140 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
