@@ -61,9 +61,9 @@ Liste des autres sous-domaines que j'utilise
 Le successeur de `my.dot.tk <http://my.dot.tk>`_, qui fonctionne très bien :
 
 - `<http://lbesson.ml>`_, redirige vers `<https://bitbucket.org/lbesson/>`_ (``.ml`` pour "machine learning");
-- `<http://lbesson.tk>`_, est une copie cachée de `<http://perso.crans.org/besson/cv.pdf>`_;
+- `<http://lbesson.tk>`_, est une copie *cachée* de `<http://perso.crans.org/besson/cv.pdf>`_ (mon CV);
 - `<http://naereen.ml>`_, redirige vers `<https://github.com/Naereen>`_ (``.ml`` pour "machine learning");
-- `<http://naereen.tk>`_, est une copie cachée de `<http://perso.crans.org/besson/>`_ (ce site).
+- `<http://naereen.tk>`_, est une copie *cachée* de `<http://perso.crans.org/besson/>`_ (ce site).
 
 ------------------------------------------------------------------------------
 

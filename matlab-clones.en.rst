@@ -1,15 +1,16 @@
 .. meta::
-   :description lang=en: Some free alternatives software to MatLab
+   :description lang=en: Some free alternatives software to MATLAB
 
 ###########################################
- Some free alternatives software to MatLab
+ Some free alternatives software to MATLAB
 ###########################################
+.. todo:: Finish the French translation!
 .. seealso:: `This page about Octave <online-gnu-octave.en.html>`_.
 
 `MATLAB <https://en.wikipedia.org/wiki/MATLAB>`_ is great, but not free and not open-source.
 You might be interested by `Free and Open-Source <https://en.wikipedia.org/wiki/Free_and_open_source_software>`_ clones of MATLAB or MATLAB-like softwares.
 
-List of alternative software for MatLab
+List of alternative software for MATLAB
 ---------------------------------------
 
 1. GNU Octave
