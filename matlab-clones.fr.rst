@@ -5,7 +5,6 @@
 ##################################################
  Quelques logiciels alternatifs gratuits à MATLAB
 ##################################################
-.. todo:: Finish this French translation!
 .. seealso:: `Cette autre page à propos de GNU Octave <online-gnu-octave.fr.html>`_.
 
 `MATLAB <https://fr.wikipedia.org/wiki/MATLAB>`_ est un logiciel de référence, mais il n'est ni gratuit, ni libre.
