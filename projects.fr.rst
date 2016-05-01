@@ -423,6 +423,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    iteri
    gnuplot
    online-gnu-octave.fr
+   matlab-clones.fr
    ace
    wolfram
    autostop.fr
