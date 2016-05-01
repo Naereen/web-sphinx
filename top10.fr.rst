@@ -44,15 +44,15 @@ Mes 10 **acteurs/actrices de films** préférés
    `Coluche <https://fr.wikipedia.org/wiki/Coluche>`_, principalement dans `Tchao Pantin <https://fr.wikipedia.org/wiki/Tchao_Pantin>`_.
 
 
-- `Ellen Page <https://fr.wikipedia.org/wiki/Ellen_Page>`_, principalement dans `Juno`_, `Hard Candy <https://fr.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Bliss <https://fr.wikipedia.org/wiki/Bliss_%28film%29>`_ et `To Rome with love <https://fr.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_.
-- `Ewan McGregor <https://fr.wikipedia.org/wiki/Ewan_McGregor>`_, principalement dans les films `Star Wars <https://fr.wikipedia.org/wiki/Star_Wars_%28film%29>`_, `Moulin Rouge <https://fr.wikipedia.org/wiki/Moulin_Rouge_%28film%29>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `Les Chèvres du Pentagone <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc.
-- `Jim Carrey <https://fr.wikipedia.org/wiki/Jim_Carrey>`_, principalement dans `The Truman Show`_, `The Mask <https://fr.wikipedia.org/wiki/The_Mask_%28film%29>`_, `Bruce Tout Puissant <https://fr.wikipedia.org/wiki/Bruce_tout_puissant>`_ et `I Love you Philip Morris <https://fr.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_.
-- `Louis de Funès <https://fr.wikipedia.org/wiki/Louis_de_Funès>`_, principalement dans les films *Les Gendarmes* et la série des *Fantomas*.
-- `Natalie Portman <https://fr.wikipedia.org/wiki/Natalie_Portman>`_, principalement dans `Léon <https://fr.wikipedia.org/wiki/Léon_(film)>`_, `Jane Got a Gun <https://en.wikipedia.org/wiki/Jane_got_a_gun>`_, les films `Star Wars`_ et `Garden State`_.
-- `Gad Elmaleh <https://fr.wikipedia.org/wiki/Gad_Elmaleh>`_, principalement dans `La Doublure <https://fr.wikipedia.org/wiki/La_Doublure>`_ et ses propres spectacles en français
+- `Ellen Page <https://fr.wikipedia.org/wiki/Ellen_Page>`_, principalement dans `Juno`_, `Hard Candy <https://fr.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Bliss <https://fr.wikipedia.org/wiki/Bliss_%28film%29>`_ et `To Rome with love <https://fr.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_,
+- `Ewan McGregor <https://fr.wikipedia.org/wiki/Ewan_McGregor>`_, principalement dans les films `Star Wars <https://fr.wikipedia.org/wiki/Star_Wars_%28film%29>`_, `Moulin Rouge <https://fr.wikipedia.org/wiki/Moulin_Rouge_%28film%29>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `Les Chèvres du Pentagone <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc,
+- `Jim Carrey <https://fr.wikipedia.org/wiki/Jim_Carrey>`_, principalement dans `The Truman Show`_, `The Mask <https://fr.wikipedia.org/wiki/The_Mask_%28film%29>`_, `Bruce Tout Puissant <https://fr.wikipedia.org/wiki/Bruce_tout_puissant>`_ et `I Love you Philip Morris <https://fr.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_,
+- `Louis de Funès <https://fr.wikipedia.org/wiki/Louis_de_Funès>`_, principalement dans les films *Les Gendarmes* et la série des *Fantomas*,
+- `Natalie Portman <https://fr.wikipedia.org/wiki/Natalie_Portman>`_, principalement dans `Léon <https://fr.wikipedia.org/wiki/Léon_(film)>`_, `Jane Got a Gun <https://en.wikipedia.org/wiki/Jane_got_a_gun>`_, les films `Star Wars`_ et `Garden State`_,
+- `Gad Elmaleh <https://fr.wikipedia.org/wiki/Gad_Elmaleh>`_, principalement dans `La Doublure <https://fr.wikipedia.org/wiki/La_Doublure>`_ et ses propres spectacles en français,
 - `Brad Pitt <https://fr.wikipedia.org/wiki/Brad_Pitt>`_, principalement dans `Fight Club <https://fr.wikipedia.org/wiki/Fight_Club_%28film%29>`_, `7 ans au Tibet <https://fr.wikipedia.org/wiki/7_ans_au_Tibet_%28film%29>`_, `Inglorious Basterds <https://fr.wikipedia.org/wiki/Inglorious_Basterds>`_, `L'Armée des 12 Singes <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://fr.wikipedia.org/wiki/Snatch>`_, etc
 - `Bruce Willis <https://fr.wikipedia.org/wiki/Bruce_Willis>`_, principalement dans toute la série des `Die Hard <https://fr.wikipedia.org/wiki/Die_Hard>`_, `Le Cinquième Élément`_, `Lucky Number Slevin <https://fr.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Incassable <https://fr.wikipedia.org/wiki/Incassable_%28film%29>`_, etc
-- `Uma Thurman <https://fr.wikipedia.org/wiki/Uma_Thurman>`_, principalement dans `Pulp Fiction`_, `Gattaca <https://fr.wikipedia.org/wiki/Gattaca>`_ et `Kill Bill <https://fr.wikipedia.org/wiki/Kill_Bill>`_.
+- `Uma Thurman <https://fr.wikipedia.org/wiki/Uma_Thurman>`_, principalement dans `Pulp Fiction`_, `Gattaca <https://fr.wikipedia.org/wiki/Gattaca>`_ et `Kill Bill <https://fr.wikipedia.org/wiki/Kill_Bill>`_,
 - `Samuel L. Jackson <https://fr.wikipedia.org/wiki/Samuel_L._Jackson>`_, principalement dans `Pulp Fiction`_, `Django Unchained <https://fr.wikipedia.org/wiki/Django_Unchained>`_, les films `Star Wars`_ et la série des `Die Hard`_ etc, et bien sûr son rôle récurrent en tant que `Nick Fury <https://fr.wikipedia.org/wiki/Ultimate_Nick_Fury>`_!
 
 Mes 10 **séries télé** préférées
@@ -106,13 +106,13 @@ Mes 10 **jeux GameBoy** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Sword of Mana <https://fr.wikipedia.org/wiki/Sword_of_Mana>`_ (GBA),
 - `The Legend of Zelda: Link's Awakening <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_ (GB),
-- `Golden Sun (1) <https://fr.wikipedia.org/wiki/Golden_Sun>`_ (GBA),
+- `Golden Sun (1) <https://fr.wikipedia.org/wiki/Golden_Sun>`_ et `Golden Sun (2): The Lost Age <https://fr.wikipedia.org/wiki/Golden_Sun:_The_Lost_Age>`_ (GBA),
 - `Breath of Fire 1 <https://fr.wikipedia.org/wiki/Breath_of_Fire_%28jeu_vid%C3%A9o%29>`_ (GBA),
 - `Pokémon Jaune <https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Jaune>`_ (GB),
 - `Fire Emblem 1 <https://fr.wikipedia.org/wiki/Fire_Emblem_7>`_ (GBA),
-- `Golden Sun (2): The Lost Age <https://fr.wikipedia.org/wiki/Golden_Sun:_The_Lost_Age>`_ (GBA),
+- `Xenoblade Chronicles <https://fr.wikipedia.org/wiki/Xenoblade_Chronicles>`_ (3DS),
 - `The Legend of Zelda: Oracle of Age/Season <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Ages>`_ (GBC),
-- `Pokémon Gold/Silver <https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Or>`_ (GBC),
+- `Pokémon Or / Argent <https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Or>`_ (GBC),
 - `Super Mario Bros. 2: Super Mario Advance <https://fr.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA).
 
 .. sidebar:: `GameBoy <https://fr.wikipedia.org/wiki/GameBoy>`_ ? *Vraiment ?*
@@ -125,13 +125,13 @@ Mes 10 **jeux PC** préférés
 - `The Elder Scrolls V : Skyrim <https://fr.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim>`_ (RPG),
 - `Lionheart : Legacy of the Crusader <https://fr.wikipedia.org/wiki/Lionheart:_Legacy_of_the_Crusader>`_ (A-RPG),
 - `Torchlight II <https://fr.wikipedia.org/wiki/Torchlight_II>`_ (A-RPG),
-- `Age of Mythology <https://fr.wikipedia.org/wiki/Age_of_Mythology>`_ (jeu de stratégie en temps réel),
-- `Bastion I <https://fr.wikipedia.org/wiki/Bastion_%28jeu_vid%C3%A9o%29>`_ (RPG poétique),
+- `Grim Dawn <https://fr.wikipedia.org/wiki/Grim_Dawn>`_ (A-RPG récent),
+- `Bastion I <https://fr.wikipedia.org/wiki/Bastion_%28jeu_vid%C3%A9o%29>`_ (RPG "poétique"),
 - `Evoland I <https://fr.wikipedia.org/wiki/Evoland>`_ (jeu évoluto-historique),
 - `Rift <https://fr.wikipedia.org/wiki/Rift:_Planes_of_Telara>`_ (MMO-RPG),
-- `Grim Dawn <https://fr.wikipedia.org/wiki/Grim_Dawn>`_ (A-RPG récent),
-- `World of Warcraft <https://fr.wikipedia.org/wiki/World_of_Warcraft>`_ (MMO-RPG),
+- `Age of Mythology <https://fr.wikipedia.org/wiki/Age_of_Mythology>`_ (jeu de stratégie en temps réel),
 - `Night Stone <http://www.ign.com/games/nightstone/pc-664024>`_ (vieux A-RPG).
+- `World of Warcraft <https://fr.wikipedia.org/wiki/World_of_Warcraft>`_ (MMO-RPG),
 
 ------------------------------------------------------------------------------
 
@@ -160,13 +160,13 @@ Mes 10 **villes** préférées
 - `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Barcelona <https://fr.wikipedia.org/wiki/Barcelona>`_ (`Espagne <https://fr.wikipedia.org/wiki/Espagne>`_),
 - `Lausanne <https://fr.wikipedia.org/wiki/Lausanne>`_ (`Suisse <https://fr.wikipedia.org/wiki/Suisse>`_),
+- `Briançon <https://fr.wikipedia.org/wiki/Briancon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Hampi <https://fr.wikipedia.org/wiki/Hampi>`_ (`Karnataka <https://fr.wikipedia.org/wiki/Karnataka>`_, `Inde <https://fr.wikipedia.org/wiki/Inde>`_),
 - `Heimeay <https://fr.wikipedia.org/wiki/Heimeay>`_ (`Islande <https://fr.wikipedia.org/wiki/Islande>`_),
 - `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Quebec <https://fr.wikipedia.org/wiki/Quebec>`_ (`Canada <https://fr.wikipedia.org/wiki/Canada>`_),
-- `London <https://fr.wikipedia.org/wiki/London>`_ (`Royaume <https://fr.wikipedia.org/wiki/Royaume-Uni>`_),
-- `Berlin <https://fr.wikipedia.org/wiki/Berlin>`_ (`Allemagne <https://fr.wikipedia.org/wiki/Allemagne>`_),
-- ... Et la dernière mais non des moindres : `Cachan <https://fr.wikipedia.org/wiki/Cachan>`_ (`France <https://fr.wikipedia.org/wiki/France>`_) -- oui ben j'y habite donc autant apprécier...
+- `Londres <https://fr.wikipedia.org/wiki/Londres>`_ (`Royaume <https://fr.wikipedia.org/wiki/Royaume-Uni>`_),
+- `Berlin <https://fr.wikipedia.org/wiki/Berlin>`_ (`Allemagne <https://fr.wikipedia.org/wiki/Allemagne>`_).
 
 ------------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ Mes 10 **bandes dessinées** préférées (BD)
 - `Okko <https://fr.wikipedia.org/wiki/Okko>`_ (par `Hub <https://duckduckgo.com/?q=Hub>`_),
 - `Le Chant des Stryges <https://fr.wikipedia.org/wiki/Le_Chant_des_Stryges>`_ (par `Corbeyran <https://fr.wikipedia.org/wiki/Corbeyran>`_ & `Guérineau <https://fr.wikipedia.org/wiki/Guérineau>`_),
 - `Gaston Lagaffe <https://fr.wikipedia.org/wiki/Gaston_Lagaffe>`_ (14 tomes originaux, par `Franquin <https://fr.wikipedia.org/wiki/Franquin>`_),
-- `Black Sad <https://fr.wikipedia.org/wiki/Black_Sad>`_ (4 tomes, par `J. Guarnido <https://duckduckgo.com/?q=J._Guarnido>`_ & `J. D. Canales <https://duckduckgo.com/?q=J._D._Canales>`_),
+- `Black Sad <https://fr.wikipedia.org/wiki/Black_Sad>`_ (5 tomes, par `J. Guarnido <https://duckduckgo.com/?q=J._Guarnido>`_ & `J. D. Canales <https://duckduckgo.com/?q=J._D._Canales>`_),
 - `Les Arcanes du Midi-Minuit <https://fr.wikipedia.org/wiki/Les_Arcanes_du_Midi-Minuit>`_ (par `J.-C. Gaudin <https://duckduckgo.com/?q=J.-C._Gaudin>`_ & `C. Trichet <https://duckduckgo.com/?q=C._Trichet>`_),
 - `Le Donjon de Naheulbeuk <https://fr.wikipedia.org/wiki/Le_Donjon_de_Naheulbeuk>`_ (par `J. Lang <https://fr.wikipedia.org/wiki/John_Lang>`_ & `M. Poinsot <https://fr.wikipedia.org/wiki/Marion_Poinsot>`_),
 - `Kid Paddle <https://fr.wikipedia.org/wiki/Kid_Paddle>`_ (par `Midam <https://fr.wikipedia.org/wiki/Midam>`_),
@@ -194,7 +194,7 @@ Mes 10 **écrivains** préférés
 - `Bernard-Marie Koltès <https://fr.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (théâtre, 20ème, surtout pour "Retour au désert", "La Nuit Juste Avant les Forêts", "Combat de Nègre et de Chiens", et "Quai Ouest"),
 - `Raymond E. Feist <https://fr.wikipedia.org/wiki/Raymond_Feist>`_ (Américain, 20ème, fantasy),
 - `Jules Verne <https://fr.wikipedia.org/wiki/Jules_Verne>`_ (Français, 19ème, romans réalistes et de *propagande scientifique*, mon préféré étant `"L'Île Mystérieuse" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
-- `Emile Zola <https://fr.wikipedia.org/wiki/Emile_Zola>`_ (Français, 19ème),
+- `Émile Zola <https://fr.wikipedia.org/wiki/Emile_Zola>`_ (Français, 19ème),
 - `Timothy Zahn <https://fr.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20ème, surtout connu pour sa `trilogie Star Wars (« La Croisade noire du Jedi fou ») <https://fr.wikipedia.org/wiki/La_Croisade_noire_du_Jedi_fou>`_),
 - `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (théâtre, 20ème, surtout pour "Les Cendres et Les Lampions" et "À Tous Ceux Qui").
 
