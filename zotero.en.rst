@@ -6,47 +6,42 @@
  Using Zotero to manage your bibliography
 ##########################################
 
-.. todo:: Conclude translation!
-
-------------------------------------------------------------------------------
-
-.. warning:: This page is still in French, I am working on it!
-
-Présentation
+Presentation
 ------------
-Concept
-^^^^^^^
-Une solution : `Zotero <https://www.zotero.org/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le site officiel de ce projet *libre* et *gratuit* est (sans surprise) `www.Zotero.org <https://www.zotero.org/>`_.
+Concept ?
+^^^^^^^^^
+Idea: use a specialized software to manage your bibliography, and not crappy hand-made solutions or habits.
 
-Plus d'informations sont `disponibles sur cette page en Français <https://www.zotero.org/support/fr/start>`_, ou `cette page plus complète en anglais <https://www.zotero.org/support/>`_.
+A solution: `Zotero <https://www.zotero.org/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The official website of this project is `www.Zotero.org <https://www.zotero.org/>`_ (no surprise), and it is a Free and Open Source Software (FOSS)!
 
-Si besoin, l'ami Wikipédia `a quelque chose à raconter aussi <https://fr.wikipedia.org/wiki/Zotero>`_.
+More information are `available on this page in English <https://www.zotero.org/support/>`_.
 
-Greffons ?
-^^^^^^^^^^
-Il est facile (et gratuit) de télécharger (`sur cette page <https://www.zotero.org/download/>`_) :
+And if needed, Wikipédia `also has interesting things to say <https://en.wikipedia.org/wiki/Zotero>`_.
 
- - un greffon pour le navigateur Firefox, pour facilement ajouter une page web, un article de recherche (ou n'importe quoi) à sa base de données Zotero,
- - le même `greffon, mais pour le navigateur Chrome <https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc>`_,
- - un greffon pour Microsoft® Word®,
- - et `un programme Windows <https://download.zotero.org/standalone/4.0.25.2/Zotero-4.0.25.2_setup.exe>`_ (ainsi que des programmes Linux ou Mac OS X).
+Plugins ?
+^^^^^^^^^
+It's quick and easy (and free) to download (`on this page <https://www.zotero.org/download/>`_):
 
-.. note:: Des captures d'écrans viendront.
+ - `a plugin for the Firefox browser <https://download.zotero.org/extension/zotero-4.0.29.9.xpi>`_, to easily add any web-page (research or newspaper article, an `arXiv <https://arxiv.org/>`_ or `a Google Scholar <>`_ page, etc) to your Zotero database,
+ - the `same plugin, but for the Chrome browser <https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc>`_,
+ - a plugin for Microsoft® Word® or its open-source clones (OpenOffice or Libre Office),
+ - and a `standalone Windows desktop program <https://download.zotero.org/standalone/4.0.29.5/Zotero-4.0.29.5_setup.exe>`_, as well as programs for both Linux and Mac OS X.
 
-Plus ?
+More ?
 ^^^^^^
-`Zotero`_ devrait permettre de facilement insérer des citations quand on rédige un document dans Word ou Libre Office, sans sortir de l'éditeur de texte.
-Cette fonctionnalité `est annoncée ici <https://www.zotero.org/#features-3>`_.
+`Zotero`_ could also be used to easily insert a citation to one of your bibliographic reference, when writing a document with Word or OpenOffice / Libre Office, *without* even having to switch between apps or tabs.
+This cool feature `is presented here <https://www.zotero.org/#features-3>`_.
+
+`Zotero`_ also allows you to quickly convert your database to a `single BibTeX file <https://fr.wikipedia.org/wiki/BibTeX>`_, if you want to use `LaTeX <https://fr.wikibooks.org/wiki/LaTeX/>`_.
 
 ------------------------------------------------------------------------------
 
-Mon cas ?
----------
-*Je n'ai pas encore testé*, cette page est donc là avant tout pour me motiver à le faire.
+What about my use of Zotero?
+----------------------------
+*I have not really started to use it intensively*, so one of this page's purpose is to motivate me to do so...
 
-C'est un logiciel auquel on peut faire confiance, ça a l'air populaire, et très efficace.
-
+Zotero is a trustworthy software, very popular, simple and efficient.
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
