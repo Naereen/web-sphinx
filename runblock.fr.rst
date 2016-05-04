@@ -1,6 +1,8 @@
 ########################
- Extension **runblock**
+ Extension ``runblock``
 ########################
+
+.. todo:: Translate this page to English!
 
 Je teste ici la fonctionnalité "expérimentale" d'exécuter du code lors de la
 génération de la web, avec une directive ``.. runblock::``.
@@ -45,8 +47,8 @@ On peut aussi vérifier la version de Python utilisée par l'extension :
 
 Exemples plus intéressants
 --------------------------
-console
-~~~~~~~
+``.. runblock:: console``
+~~~~~~~~~~~~~~~~~~~~~~~~~
 Par exemple, la date courante :
 
 .. runblock:: console
@@ -57,7 +59,7 @@ Ou bien une liste des fichiers ``.rst`` dans le répertoire courant :
 
 .. runblock:: console
 
-    $ LANG=en ls -larth *.rst .*.rst
+    $ LANG=en ls -larth ./{,.}*.rst
 
 Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichier courant (pour plus d'infos sur *GPG* voir `<pgp.html>`_) :
 
@@ -65,8 +67,8 @@ Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichie
 
     $ LANG=en gpg --quiet -o - --armor --detach-sign runblock.rst
 
-Autres exemples
-~~~~~~~~~~~~~~~
+Autres exemples divers
+~~~~~~~~~~~~~~~~~~~~~~
 
 *figlet* pour afficher du texte en ASCII art :
 
@@ -80,7 +82,7 @@ d'une série télé, et utilise un fichier *~/current* pour savoir quel dossier 
 
 .. runblock:: console
 
-    $ LANG=en echo -e "En ce moment, je regarde la serie `basename \"\`cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii\`\"` :)"
+    $ LANG=en echo -e "En ce moment, je regarde la serie $(basename "$(cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii)") :)"
 
 
 Le script `<bin/CheckDownload_Pypi.sh>`_ permet de consulter les statistiques de téléchargement
@@ -120,18 +122,19 @@ Et la même en plus gros :
     $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30 | recode utf8..tex | iconv -c -s -t ascii
 
 
-Quelques statistiques sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_ (`avec ce script <https://bitbucket.org/lbesson/bin/src/master/git-complete-stats.sh>`_):
+Quelques statistiques sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_ :
 
 .. runblock:: console
    
-   $ git-complete-stats.sh | head -n14 | recode utf8..tex | iconv -c -s -t ascii
+   $ echo "Number of commits per author (on this git repository) :"
+   $ git --no-pager shortlog -sn --all | iconv -c -s -t ascii
 
 
 Un calendrier montrant les jours d'activités de ce dépôt git (`avec cet autre script <https://bitbucket.org/lbesson/bin/src/master/git-cal>`_) :
 
 .. runblock:: console
    
-   $ git-cal --ascii | recode utf8..tex | iconv -c -s -t ascii
+   $ git-cal --ascii | iconv -c -s -t ascii
 
 
 Des ajouts : OCaml ?
@@ -166,8 +169,6 @@ Avec cette astuce, il n'affiche plus ces messages inutiles : victoire !
    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
 
 ------------------------------------------------------------------------------
-
-.. todo:: Translate this page to English!
 
 Bug étrange de ``pygments``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

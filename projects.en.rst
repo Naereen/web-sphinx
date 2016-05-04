@@ -173,6 +173,7 @@ For more details, see `<sitemap.en.html>`_.
    tutogit.en
    wakatime.en
    zotero.en
+   runblock.en
    transifex.en
    opendns.en
    latexonwindows.en
