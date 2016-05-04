@@ -2,7 +2,6 @@
  Extension **runblock**
 ########################
 
-
 Je teste ici la fonctionnalité "expérimentale" d'exécuter du code lors de la
 génération de la web, avec une directive ``.. runblock::``.
 
@@ -121,9 +120,23 @@ Et la même en plus gros :
     $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30 | recode utf8..tex | iconv -c -s -t ascii
 
 
-Des ajouts
-~~~~~~~~~~
-Dans le fichier `conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-101>`_,
+Quelques statistiques sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_ (`avec ce script <https://bitbucket.org/lbesson/bin/src/master/git-complete-stats.sh>`_):
+
+.. runblock:: console
+   
+   $ git-complete-stats.sh | head -n14 | recode utf8..tex | iconv -c -s -t ascii
+
+
+Un calendrier montrant les jours d'activités de ce dépôt git (`avec cet autre script <https://bitbucket.org/lbesson/bin/src/master/git-cal>`_) :
+
+.. runblock:: console
+   
+   $ git-cal --ascii | recode utf8..tex | iconv -c -s -t ascii
+
+
+Des ajouts : OCaml ?
+~~~~~~~~~~~~~~~~~~~~
+Dans le fichier `conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-96>`_,
 on peut facilement créer des raccourcis pour faciliter l'unilisation de cette extension **runblock**.
 
 Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages``.
@@ -142,8 +155,8 @@ pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents en 
    autorun_languages['ocaml'] = u'ocaml -stdin'
    autorun_languages['ocaml_prefix_chars'] = 2
 
-ocaml
-^^^^^
+``.. runblock:: ocaml`` désormais
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Avec cette astuce, il n'affiche plus ces messages inutiles : victoire !
 
 .. runblock:: ocaml
@@ -154,15 +167,15 @@ Avec cette astuce, il n'affiche plus ces messages inutiles : victoire !
 
 ------------------------------------------------------------------------------
 
-Bug étrange de pygments
-^^^^^^^^^^^^^^^^^^^^^^^
-J'ai des fois vu ``pygments`` ou ``pygmentize`` se casser complètement,
-et la correction que je fais :red:`manuellement` est de supprimer
+.. todo:: Translate this page to English!
+
+Bug étrange de ``pygments``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+J'ai des fois vu ``pygments`` ou ``pygmentize`` se casser complètement, et la correction que je fais :red:`manuellement` est de supprimer
 le support (annoncé comme expérimental) de ``pkg_resources``
 dans le fichier `plugin.py <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_,
 en forçant :red:`manuellement` ``pkg_resources = None``
 (`à la ligne 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
 :red:`C'est sale` mais ça corrige le bug...
-
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
