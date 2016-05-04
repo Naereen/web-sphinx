@@ -24,7 +24,7 @@ Plugins ?
 ^^^^^^^^^
 It's quick and easy (and free) to download (`on this page <https://www.zotero.org/download/>`_):
 
- - `a plugin for the Firefox browser <https://download.zotero.org/extension/zotero-4.0.29.9.xpi>`_, to easily add any web-page (research or newspaper article, an `arXiv <https://arxiv.org/>`_ or `a Google Scholar <>`_ page, etc) to your Zotero database,
+ - `a plugin for the Firefox browser <https://download.zotero.org/extension/zotero-4.0.29.9.xpi>`_, to easily add any web-page (research or newspaper article, an `arXiv <https://arxiv.org/>`_ or `a Google Scholar <https://scholar.google.com/>`_ page, etc) to your Zotero database,
  - the `same plugin, but for the Chrome browser <https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc>`_,
  - a plugin for Microsoft® Word® or its open-source clones (OpenOffice or Libre Office),
  - and a `standalone Windows desktop program <https://download.zotero.org/standalone/4.0.29.5/Zotero-4.0.29.5_setup.exe>`_, as well as programs for both Linux and Mac OS X.

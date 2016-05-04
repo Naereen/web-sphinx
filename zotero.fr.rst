@@ -24,7 +24,7 @@ Greffons ?
 ^^^^^^^^^^
 Il est facile (et gratuit) de télécharger (`sur cette page <https://www.zotero.org/download/>`_) :
 
- - `un greffon pour le navigateur Firefox <https://download.zotero.org/extension/zotero-4.0.29.9.xpi>`_, pour facilement ajouter une page web, un article de recherche (ou n'importe quoi) à sa base de données Zotero,
+ - `un greffon pour le navigateur Firefox <https://download.zotero.org/extension/zotero-4.0.29.9.xpi>`_, pour facilement ajouter une page web, un article de recherche (an `arXiv <https://arxiv.org/>`_ or `a Google Scholar <https://scholar.google.com/>`_ page, etc) à sa base de données Zotero,
  - le même `greffon, mais pour le navigateur Chrome <https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc>`_,
  - un greffon pour Microsoft® Word® ou un clone libre (OpenOffice ou Libre Office),
  - et `un programme autonome pour Windows (bureau) <https://download.zotero.org/standalone/4.0.29.5/Zotero-4.0.29.5_setup.exe>`_, ainsi que des programmes similaires pour Linux et Mac OS X.
