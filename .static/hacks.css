@@ -1,6 +1,6 @@
 /*
  * CSS hacks and small modification for my Sphinx website
- * :copyright: Copyright 2013-2014 Lilian Besson
+ * :copyright: Copyright 2013-2016 Lilian Besson
  * :license: GPLv3, see LICENSE for details.
  */
 /* Colors and text decoration.
@@ -43,6 +43,14 @@ div.supportBadges li { display:inline; }
 div.supportBadges a { margin-right:1px; opacity:0.6; }
 div.supportBadges a:hover { opacity:1; }
 
+/* Details elements in the sidebar */
+ul.details {
+  font-size:80%;
+}
+ul.details li p {
+  font-size:85%;
+}
+
 /* Pour le drapeau de langue dans la barre supérieure */
 img.languageswitch {
 	width: 31px;
@@ -70,12 +78,17 @@ img.languageswitch {
 /* BETA responsive for font-size. */
 @media (max-width: 680px){
   body {
-    font-size: 115%; /* Increase font size for responsive theme */
+    font-size: 105%; /* Increase font size for responsive theme */
   }
 }
-@media (max-width: 1280px) and (min-width: 681px){
+@media (max-width: 1480px) and (min-width: 681px){
   body {
-    font-size: 110%; /* Increase font size for responsive theme */
+    font-size: 115%; /* Increase font size for not-so-big screens */
+  }
+}
+@media (min-width: 1481px){
+  body {
+    font-size: 120%; /* Increase even more font size for big screens */
   }
 }
 
@@ -102,8 +115,4 @@ div.myfolders { font-size: x-large; }
     text-indent: -9000px;
     transition: all 0.2s ease 0s;
     text-align: center;
-}
-
-ul.details li p {
-  font-size:85%;
 }
