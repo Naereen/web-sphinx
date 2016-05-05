@@ -30,7 +30,7 @@ Quelques listes d'extensions
 .. warning:: N'est peut-être plus à jour !
 
    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
-   Je l'ai relu et vérifié en *février 2016*, et ça avait l'air d'aller !
+   Je l'ai relu et vérifié en *mai 2016*, et ça avait l'air d'aller !
 
 
 Liste des extensions qu'*il faut avoir*

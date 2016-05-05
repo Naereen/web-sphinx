@@ -30,7 +30,7 @@ Some lists of extensions
 .. warning:: Might be out-of-date!
 
    This list was written in *October 2015*, so now it might be a little bit out-of-date...
-   I checked it in *February 2016*, and it was alright.
+   I checked it in *May 2016*, and it was alright.
 
 
 Extensions *everyone* should have
