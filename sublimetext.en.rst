@@ -109,11 +109,11 @@ How I use Sublime Text 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 My configuration files, scripts and snippets of buildings for `Sublime Text 3`_ are all in the folder `publis/ST3 <./publis/ST3/>`_.
 
-To use one of these files (``.sublime-settings``, ``.sublime-snippet`` or ``.sublime-build``), just copy it into `your Packages/User folder <http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-packages-directory>`_.
+To use one of these files (``.sublime-settings``, ``.sublime-snippet``, ``.sublime-macro`` or ``.sublime-build``), just copy it into `your Packages/User folder <http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-packages-directory>`_.
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:State: *Actively maintained* (February 2016).
+:State: *Actively maintained* (May 2016).
 
 Config
 ~~~~~~
@@ -177,6 +177,21 @@ List of my build systems:
 * An Octave script can easily be executed (*without* arguments) with the build script `octave.sublime-build <./publis/ST3/octave.sublime-build>`_.
 * A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
 * `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
+
+
+Macro
+~~~~~
+.. sidebar:: More info on the documentation?
+
+   This page `extensibility/macros.html <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html>`_ also completely explains how to record and use macros.
+
+
+With Sublime Text (as with other good text editors), it is possible `to record <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html#how-to-record-macros>`_ a **macro**, a small sequence of actions, commands, shortcuts or clicks, and `associate it a keyboard shortcut <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html#key-binding-for-macros>`_ for instance.
+
+List of my macros (just two right now):
+
+* `copy-to-the-end-of-the-line.sublime-macro <./publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ to select and copy the text of the current line, from the current cursor to the *end* of the line. I associated it the ``Ctrl+Alt+e`` keyboard shortcut.
+* and `copy-to-the-beginning-of-the-line.sublime-macro <./publis/ST3/copy-to-the-beginning-of-the-line.sublime-macro>`_ does the same thing, but select and copy the text from the current cursor to the *beginning* of the line. I associated it the ``Ctrl+Alt+Maj+e`` keyboard shortcut (as the modifier ``Maj`` is already used for ``Ctrl+e`` "go to end of the line" and ``Ctrl+Maj+e`` "go to the beginning of the line").
 
 -----------------------------------------------------------------------------
 

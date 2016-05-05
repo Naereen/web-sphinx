@@ -116,7 +116,7 @@ Pour utiliser un de ces fichiers (``.sublime-settings``, ``.sublime-snippet`` ou
 Plus de détails pour `les fichiers .sublime-settings <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, ou `les fichiers .sublime-build <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
 
 
-:État: *Maintenu activement* (février 2016).
+:État: *Maintenu activement* (mai 2016).
 
 Config
 ~~~~~~
@@ -180,6 +180,21 @@ Liste de ces scripts de constructions :
 * Un script Octave peut être exécuté (sans arguments) facilement avec le script de construction `octave.sublime-build <./publis/ST3/octave.sublime-build>`_.
 * Un document \\(\\LaTeX{}\\) (basé sur `autotex`_ pour ne pas avoir à écrire les en-têtes) peut se compiler facilement en **PDF** via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (nécessite `autotex`_ et mon `pdflatex <./bin/pdflatex>`_).
 * `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ facilite la compilation d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ en un fichier PDF (via le script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_) !
+
+
+Macro
+~~~~~
+.. sidebar:: Plus d'informations sur la doc' ?
+
+   Cette page `extensibility/macros.html <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html>`_ décrit entièrement le fonctionnement de ces macros.
+
+
+Avec Sublime Text (comme avec n'importe quel bon éditeur de texte), il est facile `d'enregistrer <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html#how-to-record-macros>`_ une **macro**, une petite séquence d'actions, de commandes, de raccourcis clavier ou de clics, et `de lui associer un raccourcis clavier <http://docs.sublimetext.info/en/sublime-text-3/extensibility/macros.html#key-binding-for-macros>`_ par exemple.
+
+Liste de mes macros (juste 2 pour l'instant) :
+
+* `copy-to-the-end-of-the-line.sublime-macro <./publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ pour selectionner et copier le texte de la ligne actuelle, depuis la position du curseur jusqu'à la *fin* de la ligne. Je lui ai associé le raccouris clavier ``Ctrl+Alt+e``.
+* et `copy-to-the-beginning-of-the-line.sublime-macro <./publis/ST3/copy-to-the-beginning-of-the-line.sublime-macro>`_ fait pareil, mais sélectionne jusqu'au *début* de la ligne. Je lui ai associé le raccourcis ``Ctrl+Alt+Maj+e`` (comme le modificateur ``Maj`` est déjà utilisé pour ``Ctrl+e`` "aller à la fin de la ligne" et ``Ctrl+Maj+e`` "aller au début de la ligne").
 
 -----------------------------------------------------------------------------
 
