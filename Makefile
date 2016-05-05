@@ -67,6 +67,14 @@ archive.7z: clean
 
 ##################### Fix perms and email addresses ###########################
 
+liste_pages:	liste_pages_fr liste_pages_en
+
+liste_pages_fr:
+	ls *.fr.rst | grep -o "^[a-z0-9-]*" | uniq | sort > liste_pages_fr.txt
+
+liste_pages_en:
+	ls *.en.rst | grep -o "^[a-z0-9-]*" | uniq | sort > liste_pages_en.txt
+
 obscure:
 	@echo "Launching ./.obscure_email.sh ..."
 	-./.obscure_email.sh
