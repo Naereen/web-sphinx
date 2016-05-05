@@ -6,10 +6,10 @@
  **Résumé** : Lilian Besson
 ############################
 
-To conclude my M.Sc., I was looking for an internship...
---------------------------------------------------------
+To conclude my M.Sc., I am doing an internship
+----------------------------------------------
 
-I will work in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `operators splines <http://bigwww.epfl.ch/research/projects/splines_operators.html>`_ (amongst other topics)! :yellow:`New!`
+I am working in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `operators splines <http://bigwww.epfl.ch/research/projects/splines_operators.html>`_ (amongst other topics)! :yellow:`New!`
 
  * :Theme: theoritical functional analysis, applied to inverse optimization problem, mainly appearing in medical imaging. :line:`I would like to do statistics, optimization or machine learning;`
  * :Duration: april 2016 to August 2016 (*research internship in applied mathematics*);
