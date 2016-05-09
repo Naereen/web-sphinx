@@ -198,8 +198,8 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "05 05 2016, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "05";
+   var last_updated_value = "{{ last_updated }}" || "09 05 2016, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "09";
     var month = last_updated_value.substring(3,  6 ) || "05";
     var year  = last_updated_value.substring(7,  11) || "2016";
     var hours = last_updated_value.substring(13, 15) || "12";
