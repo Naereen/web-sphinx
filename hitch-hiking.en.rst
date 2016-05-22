@@ -16,7 +16,11 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximative* computation gives 2200 + 150 + 2000 + 350 = **4700 kms as far as now**.
+  An *approximative* computation gives 200 + 2200 + 150 + 2000 + 350 = **4900 kms as far as now**.
+
+In 2016 : **200 kms** (as far as now)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As far as now, about **200 kms** in France and in Switzerland.
 
 In 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^

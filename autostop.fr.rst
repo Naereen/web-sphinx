@@ -16,7 +16,11 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 2200 + 150 + 2000 + 350 = **4700 kms pour l'instant**.
+  J'estime mon total *à environ* 200 + 2200 + 150 + 2000 + 350 = **4900 kms pour l'instant**.
+
+En 2016 : **200 kms** (pour l'instant)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pour l'instant, environ **200 kms** en France et en Suisse.
 
 En 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
