@@ -78,5 +78,5 @@ Mes références pour les exercises d'agrég étaient :
 - Le site [agreginfo.free.fr/](http://agreginfo.free.fr/), un peu vieux mais encore utile,
 - Une feuille Google Doc pour la [malle ENS Lyon 2013](https://docs.google.com/spreadsheet/ccc?key=0AsuL4pj5JHGydDJKbDF0ZkYzVTZwY2QwZUNlUFFBLVE&usp=drive_web#gid=0),
 - Des [polys de maths sur le site de l'ENS Ulm](http://www.math.ens.fr/enseignement/archives_pedagogiques.html?type=1) (en vrac),
-- Et la page de [Laurent Claessens](http://homepages.ulb.ac.be/~lclaesse), auteur [du « Frido »](http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf), auquel [j'ai un peu participé](https://github.com/LaurentClaessens/mazhe/graphs/contributors) en 2014 et 2015.
+- Et la page de [Laurent Claessens](http://laurent.claessens-donadello.eu/), auteur [du « Frido »](http://laurent.claessens-donadello.eu/frido.html) (cf. [lefrido-2016.pdf](http://laurent.claessens-donadello.eu/pdf/lefrido-2016.pdf), auquel [j'ai un peu participé](https://github.com/LaurentClaessens/mazhe/graphs/contributors) en 2014 et 2015.
 - (N'hésitez pas à [me contacter](http://perso.crans.org/besson/callme.fr.html) pour me demander d'ajouter votre site !)
