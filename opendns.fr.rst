@@ -66,8 +66,10 @@ On peut vérifier leur **protection de l’hameçonnage** et des *"mauvais"* sit
       Afin de `connaître son Fournisseur d'Accès à Internet <http://www.whoismyisp.org/>`_ (**FAI**, ISP en anglais).
 
    DNSLeaktest.com
-      Afin de `vérifier si son Fournisseur d'Accès à Internet <http://www.dnsleaktest.com/>`_  ne procède pas à `des fuites DNS <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ dans votre dos...
+      Afin de `vérifier si son Fournisseur d'Accès à Internet <http://www.dnsleaktest.com/>`_  ne procède pas à `des fuites DNS <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ dans votre dos.
 
+   DNS Leak Test - Hidester
+      Un autre `outil du même genre (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, parce que son auteur m'a demandé d'inclure un lien ici...
 
 ----
 

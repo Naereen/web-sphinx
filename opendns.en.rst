@@ -66,8 +66,10 @@ You can also check how the OpenDNS servers **protect you against fishing** and *
       In order to `know your Internet Service Provider <http://www.whoismyisp.org/>`_ (**ISP**).
 
    DNSLeaktest.com
-      In order to `check if your ISP <http://www.dnsleaktest.com/>`_  is not doing any `DNS leaks <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ behind your back...
+      In order to `check if your ISP <http://www.dnsleaktest.com/>`_  is not doing any `DNS leaks <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ behind your back.
 
+   Hidester's DNS Leak Test
+      Another `tool of this kind (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, quoted here because the author asked me to include a link here...
 
 ----
 
