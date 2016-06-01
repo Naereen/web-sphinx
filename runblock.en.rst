@@ -97,15 +97,6 @@ We can use it to display the TV show I am currently watching:
     $ LANG=en echo -e "These days, I am watching the TV show : $(basename "$(cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii)") :)"
 
 
-Another script, `<bin/CheckDownload_Pypi.sh>`_, allows to consult the downloads statistics of a Pypi-hosted Python package.
-For the example, I will use my package, `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_ !
-
-.. runblock:: console
-
-    $ LANG=en echo -e "For the package ANSIColors-balises (hosted on https://pypi.python.org/pypi/ANSIColors-balises) :"
-    $ ~/bin/CheckDownload_Pypi.sh | tail -n3
-
-
 Current state of the git repository (shows which files are new (*N*), modified (*M*) or deleted (*D*)) :
 
 .. runblock:: console
