@@ -14,6 +14,7 @@ Ce dossier contient un certain nombre de petites productions
 (logiciels, scripts ou autres); ainsi que certains projets plus solides.
 
 .. todo:: Translate this page to English!
+.. todo:: Garder cette page à jour. Pour l'instant, elle ne l'est PAS DU TOUT !
 
 .. sidebar:: Retourner à l'accueil
 
@@ -30,6 +31,9 @@ Projets
 -------
 Voici une liste de certains projets contenus dans le dossier `<publis/>`_.
 
+.. warning:: Ils ne sont pas tous expliqués ici.
+
+
 `nautilus-terminal <publis/nautilus-terminal/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 `Un greffon pour Nautilus <https://bitbucket.org/lbesson/nautilus-terminal>`_.
@@ -41,85 +45,66 @@ Quelques fichiers et programmes utiles pour faire du \\(\\LaTeX{}\\).
 En particulier `autotex <./publis/latex/autotex>`_, le petit script Bash que j'utilise *quotidiennement* pour écrire du \\(\\LaTeX{}\\) sans avoir à recopier d'en-têtes (``\usepackage`` et autres inutilités).
 Il y a désormais `autonomize.sh <./publis/latex/autonomize.sh>`_ et `template_minimalist.tex <./publis/latex/template_minimalist.tex>`_, pour rendre autonome un document utilisant autotex.
 
-:État: *Fonctionne bien* et maintenu activement.
+:État: *Fonctionne bien* et maintenu activement. (mars 2016)
 
 `puzzle <publis/puzzle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
 pour le cours de programmation 2. J'avais eu 17/20.
-Remis à neuf (mars 2014), et nettoyé récemment pour aider une élève en L3 d'informatique à Orsay.
+Remis à neuf (mars 2014), et publié sur mon compte bitbucket : `bitbucket.org/lbesson/projet-puzzle-ocaml-2012 <https://bitbucket.org/lbesson/projet-puzzle-ocaml-2012>`_.
 
 :État: *Fonctionne bien* mais plus maintenu.
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon simple, complètement *typée* et efficace (mais salement codée).
+Publié sur mon compte bitbucket : `bitbucket.org/lbesson/zenity-ocaml <https://bitbucket.org/lbesson/zenity-ocaml>`_.
+
 Fonctionne *comme ça* : pas besoin d'installation (juste inclure les fichiers ``zenity.ml`` et ``zenity.mli`` dans votre projet).
-Par example :
+Par exemple :
 
 .. code-block:: ocaml
 
    open Zenity;;
    let ma_couleur = color_selection ~title:"Choisir une couleur" () ;;
    (* Permet de demander à l'utilisateur de choisir une couleur,
-   reviens à invoquer $ zenity --color-selection --title="Choisir une couleur" dans un terminal *)
+   revient à invoquer $ zenity --color-selection --title="Choisir une couleur" dans un terminal *)
 
 
-:État: *N'est plus maintenu activement* (avril 2014) mais fonctionne avec les dernières versions d'OCaml (4.02.0) et de Zenity.
+:État: *N'est plus maintenu activement* (avril 2014) mais fonctionne avec les dernières versions d'OCaml (4.03.0) et de Zenity.
 
 `ansi-colors <publis/ansi-colors/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. pypi-release:: ANSIColors-balises
-   :prefix: La dernière version est ici (normalement, l'extension non officielle *cheeseshop* permet d'intégrer directement un lien de téléchargement)
+   :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
 **ANSIColors-balises** est un petit module pour ``Python 2.7``, conçu pour manipuler facilement
 et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
 
+.. image::  https://badge.fury.io/py/ANSIColors-balises.svg
+   :target: https://pypi.python.org/pypi/ANSIColors-balises
+
+
 * Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (v1.9.9).
 * La documentation du module est `ici sur pythonhosted.org <https://pythonhosted.org/ANSIColors-balises/>`_.
 * (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
-
+* Un exemple d'utilisation :
 
 .. runblock:: pycon
 
    >>> # The good way (and safe) to use ANSIColors:
    >>> try:
    ...     from ANSIColors import printc
-   >>> except:
-   ...     def printc(a): print(a)
-   >>> printc("<red>Ceci est rouge ?<white>La c'est blanc.<Blue>Et enfin le fond est bleu ici.<reset> (ca ne marche pas ici, normal)")
+   >>> except ImportError:
+   ...     def printc(a): print(a)  # Placeholder
+   >>> printc("<red>Ceci est rouge ?<white> La c'est blanc.<Blue> Et enfin le fond est bleu ici.<reset> (ca ne marche pas ici, normal)")
 
 
-:État: *À-jour.* Fonctionne vraiment bien. Le nombre de téléchargement quotidien augmente depuis juillet 2014.
+:État: *À-jour.* Fonctionne bien. Le nombre de téléchargement quotidien augmente depuis juillet 2014.
 
-.. rubric:: Quelques badges :
-
-.. raw:: html
-
-   <b>Infos:</b>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=version_badge"><img alt="Version of ANSIColors-balises" title="Version of ANSIColors-balises" src="https://pypip.in/version/ANSIColors-balises/badge.png" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=format_badge"><img alt="Format of ANSIColors-balises" title="Format of ANSIColors-balises" src="https://pypip.in/format/ANSIColors-balises/badge.png" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=license_badge"><img alt="License of ANSIColors-balises" title="License of ANSIColors-balises" src="https://pypip.in/license/ANSIColors-balises/badge.png" /></a>
-   <b>Stats:</b>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_day"><img alt="Stats day for ANSIColors-balises" title="Stats day for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=day" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_week"><img alt="Stats week for ANSIColors-balises" title="Stats week for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=week" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_month"><img alt="Stats month for ANSIColors-balises" title="Stats month for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.png?period=month" /></a>
-
-
-.. rubric:: Quelques badges en SVG (juste pour jouer) :
-
-.. raw:: html
-
-   <b>Infos:</b>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=version_badge"><img alt="Version of ANSIColors-balises" title="Version of ANSIColors-balises" src="https://pypip.in/version/ANSIColors-balises/badge.svg" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=format_badge"><img alt="Format of ANSIColors-balises" title="Format of ANSIColors-balises" src="https://pypip.in/format/ANSIColors-balises/badge.svg" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=license_badge"><img alt="License of ANSIColors-balises" title="License of ANSIColors-balises" src="https://pypip.in/license/ANSIColors-balises/badge.svg" /></a>
-   <b>Stats:</b>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_day"><img alt="Stats day for ANSIColors-balises" title="Stats day for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=day" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_week"><img alt="Stats week for ANSIColors-balises" title="Stats week for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=week" /></a>
-   <a href="https://pypi.python.org/pypi/ANSIColors-balises/?src=d_badge_month"><img alt="Stats month for ANSIColors-balises" title="Stats month for ANSIColors-balises" src="https://pypip.in/download/ANSIColors-balises/badge.svg?period=month" /></a>
+.. todo:: Passer à Python 3 et nettoyer le code !
 
 
 `kaggle <publis/kaggle/>`_
@@ -128,14 +113,14 @@ Petit projet réalisé pour le cours d'**Apprentissage statistique** de ``L3`` �
 Rien de très palpitant, sinon une intéressante utilisation de ``Python 2.7`` pour réaliser *toutes* les différentes composantes d'un projet de programmation (codes, documentations, rapports, slides etc). J'avais eu 15/20.
 Finalement, `je n'ai pas participé à la dernière étape sur Kaggle <https://www.gequest.com/users/96638/naereen>`_...
 
-:État: *À-jour.* (mai 2013)
+:État: *N'est plus maintenu !* (mai 2013)
 
 `Bomberman <publis/Bomberman/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un jeu de **Bomberman**, multi-joueur en réseau, écrit en Python, réalisé de Nov. 2012 à Fév. 2013
 pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20 (seconde meilleure note).
 
-:État: *À-jour.* (mars 2013)
+:État: *N'est plus maintenu !* (mars 2013)
 
 `MOcamlPlot <publis/MOcamlPlot.zip>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -144,7 +129,7 @@ Ce projet proposait une surcharge des opérateurs (réalisée très *salement*),
 (du genre ``plot("cos((x+5)/2.16)",0--10)``), et quelques trucs assez géniaux.
 Je manque de temps pour le remettre à jour.
 
-:État: *N'est plus maintenu!* (février 2012). Peut fonctionner. Mais pas sûr.
+:État: *N'est plus maintenu !* (février 2012). Peut fonctionner. Mais pas sûr.
 
 ---------------------------------------------------------------------
 
@@ -173,7 +158,7 @@ La page `ST3`_ contient beaucoup plus d'informations :)
  * `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex`_, qui peut ensuite se compiler facilement en PDF via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_
  * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon super projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
 
-:État: *Maintenu activement.* (novembre 2014)
+:État: *Maintenu activement* (juin 2016).
 
 `munstrap <publis/munstrap/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -192,31 +177,31 @@ Configuration pour `GNU Conky <http://conky.sourceforge.net/>`_.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Configuration pour `Mutt <http://www.mutt.org/>`_, le meilleur client mail en console.
 
-:État: *À-jour.* (janvier 2014)
+:État: *Plus maintenu activement, mais fonctionne.* (janvier 2014)
 
 `gedit-coloration <publis/gedit-coloration/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Quelques améliorations pour la configuration pour **GTK-SourceView** (bibliothèque C++ pour la coloration syntaxique de code sources, utilisée notamment par gedit et gobby).
 
-:État: *Plus du tout maintenu.* (novembre 2011 à été 2013)
+:État: *Plus du tout maintenu.* (novembre 2011 à juillet 2013)
 
 `gedit <publis/gedit/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Divers plugins pour **Gnome Gedit**.
 
-:État: *Plus du tout maintenu.* (novembre 2011 à été 2013)
+:État: *Plus du tout maintenu.* (novembre 2011 à juillet 2013)
 
 `nautilus-scripts <publis/nautilus-scripts/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 De vieux scripts pour **Gnome Nautilus**.
 
-:État: *N'est plus maintenu!* (novembre 2011 à été 2012)
+:État: *N'est plus maintenu !* (novembre 2011 à juillet 2012)
 
 `gedit-tools <publis/gedit-tools/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 De vieux scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
 
-:État: *N'est plus maintenu!* (été 2012)
+:État: *N'est plus maintenu !* (été 2012)
 
 ---------------------------------------------------------------------
 
