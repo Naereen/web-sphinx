@@ -247,6 +247,7 @@ A better support for some languages:
 * `OCaml <https://packagecontrol.io/packages/OCaml>`_ improve a little bit the syntax coloring `for the two languages caml-light and OCaml <ocaml.html>`_. To be used with `OCaml Autocompletion <https://packagecontrol.io/packages/OCaml%20Autocompletion>`_.
 * `GNU Octave Completions <https://github.com/tushortz/GNU-Octave-Completions>`_ and `Matlab Completions <https://github.com/tushortz/Matlab-Completions>`_ adds functions and commands from `GNU Octave <http://www.gnu.org/software/octave/>`_ or `MATLAB <https://fr.wikipedia.org/wiki/Matlab>`_ to the completion window.
 * `RestructuredText Improved <https://packagecontrol.io/packages/RestructuredText%20Improved>`_ improve significantly the syntax coloring for `reStructedText <demo.html>`_, the markup language used by `Sphinx <http://sphinx-doc.org/>`_ and `the official Python documentation <https://doc.python.org/2/>`_ (and so for this page and `my site <index.html>`_). To be used with `these snippets for rST <https://packagecontrol.io/packages/Restructured%20Text%20(RST)%20Snippets>`_.
+* `requirements.txt <https://packagecontrol.io/packages/requirementstxt>`_ adds a very good support for `Python requirements.txt files <https://pip.readthedocs.io/en/1.1/requirements.html>`_.
 * `TWiki <https://packagecontrol.io/packages/TWiki>`_ for its color theme, brilliantly balanced and well colored. I use their syntax coloring theme **TWiki** "Monokai for Markup" for every language! After testing a lot of them, it really is my favorite color theme!
 
 
