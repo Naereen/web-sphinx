@@ -130,7 +130,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Environ 600 heures en tout en 2015, alors que la moyenne des utilisateurs de WakaTime était de 269h, la médiane à 193h (mais le max à 2342h !).
 - Une moyenne quotidienne de 2 heures 27 minutes en 2015, alors que la moyenne des utilisateurs de WakaTime était de 44 min, et la médiane à 31 min (mais le max à 6 h 25 min !).
-- Et pour le choix de langages, j'ai surtout utilisé Markdown (177 h), LaTeX (160 h), Python (151 h) et reStructuredText (85 h); et les tous les autres langages sont à moins de 5h/an (Bash, OCaml, Octave/Matlab, CSS etc).
+- Et pour le choix de langages, j'ai surtout utilisé `Markdown <https://wakatime.com/leaders/markdown>`_ (177 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (160 h), `Python <https://wakatime.com/leaders/python>`_ (151 h) et `reStructuredText <demo.html>`_ (85 h, et `je suis souvent 1er utilisateur de reStructuredText dans le tableau des utilisateurs les plus actifs sur WakaTime <https://wakatime.com/leaders/restructuredtext>`_ !); et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
 - `Voir les captures d'écran dans ce dossier <./_images/WakaTime_a_look_back_at_2015/>`_ si besoin.
 
 ------------------------------------------------------------------------------
@@ -183,7 +183,7 @@ Par exemple, la commande `wakatime -w <https://github.com/JoshLankford/WakaTimeC
 
 .. runblock:: console
 
-   $ /home/lilian/bin/mywakatime | head -n3
+   $ wakatime | head -n3
 
 
 .. attention:: Je ne sais pas pourquoi, mais ce script ``wakatime`` en ligne de commande ne fonctionne plus sur mon ordinateur (même après une désinstallation et réinstallation).. Dommage :( !
