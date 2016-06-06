@@ -150,9 +150,10 @@ Utilitaires divers
 
 * `CheckDownload_Pypi.sh <bin/CheckDownload_Pypi.sh>`_,
   un tout petit script pour lire les statistiques de téléchargement d'un paquet
-  hébergé sur sur `pypi <https://pypi.python.org/>`_. Par exemple, mon `module ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+  hébergé sur sur `pypi <https://pypi.python.org/>`_.
+  Par exemple, mon `module ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, ou sa version plus récente `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ (Python 2 et 3).
 
-  :État: *Parfait*.
+  :État: *Fonctionnait*, mais `pypi`_ a arrêté d'afficher les téléchargements depuis avril 2016.
 
 
 * `PDFCompress <bin/PDFCompress>`_,

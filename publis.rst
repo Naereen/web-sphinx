@@ -73,39 +73,36 @@ Par exemple :
 
 :État: *N'est plus maintenu activement* (avril 2014) mais fonctionne avec les dernières versions d'OCaml (4.03.0) et de Zenity.
 
-`ansi-colors <publis/ansi-colors/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. pypi-release:: ANSIColors-balises
+`ansicolortags <publis/ansicolortags/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. pypi-release:: ansicolortags
    :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement)
    :class: sidebar
 
-**ANSIColors-balises** est un petit module pour ``Python 2.7``, conçu pour manipuler facilement
-et efficacement les couleurs ``ANSI`` dans un terminal **UNIX** (ou sur **Windows via Cygwin**).
+**ansicolortags** est un petit module pour `Python <python.html>`_, version 2 (2.7+) et 3 (3.2+),
+conçu pour manipuler facilement et efficacement les couleurs ``ANSI``
+dans un terminal **UNIX** ou **Linux** (ou sur **Windows via Cygwin**, ou **Mac OS X**).
 
-.. image::  https://badge.fury.io/py/ANSIColors-balises.svg
-   :target: https://pypi.python.org/pypi/ANSIColors-balises
+.. image::  https://badge.fury.io/py/ansicolortags.svg
+   :target: https://pypi.python.org/pypi/ansicolortags
 
 
-* Il est aussi hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_ (v1.9.9).
-* La documentation du module est `ici sur pythonhosted.org <https://pythonhosted.org/ANSIColors-balises/>`_.
-* (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
+* Il est hébergé sur `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.2), et peut être installé par un simple ``pip install ansicolortags`` !
+* La documentation du module est ici sur `<http://ansicolortags.readthedocs.io/>`_.
+* Il est basé sur `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_, qui était trop vieux et ne supportait que Python 2. ANSIColors-balises a été téléchargé environ 5000 fois entre mars 2013 et février 2016. (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
 * Un exemple d'utilisation :
 
 .. runblock:: pycon
 
-   >>> # The good way (and safe) to use ANSIColors:
+   >>> # The good way (and safe) to use ansicolortags:
    >>> try:
-   ...     from ANSIColors import printc
+   ...     from ansicolortags import printc
    >>> except ImportError:
    ...     def printc(a): print(a)  # Placeholder
    >>> printc("<red>Ceci est rouge ?<white> La c'est blanc.<Blue> Et enfin le fond est bleu ici.<reset> (ca ne marche pas ici, normal)")
 
 
-:État: *À-jour.* Fonctionne bien. Le nombre de téléchargement quotidien augmente depuis juillet 2014.
-
-.. todo:: Passer à Python 3 et nettoyer le code !
-
+:État: *À-jour* (juin 2016), et fonctionne très bien.
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

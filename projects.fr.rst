@@ -137,13 +137,13 @@ Pour le premier trimestre (automne 2015) :
 
 Pour le second trimestre (printemps 2016) :
 
- - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :orange:`nouveau !`;
- - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :orange:`nouveau !`;
- - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :orange:`nouveau !`.
+ - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :blue:`17.3/20`;
+ - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :blue:`18/20``;
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :blue:`17.5/20`.
 
 Stage de M2
 ^^^^^^^^^^^
-Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `M. Unser <http://bigwww.epfl.ch/unser/>`_. :red:`Pas encore commencé !`
+Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `M. Unser <http://bigwww.epfl.ch/unser/>`_. :orange:`nouveau !`
 
 Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -188,11 +188,28 @@ Autres pages
 Je vous invite tout particulièrement à aller regarder ces pages
 `<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
-2 autres projets sont bientôt terminés, pour le 2nd trimestre (Printemps 2016).
 
 Master MVA (2015-2016)
 ^^^^^^^^^^^^^^^^^^^^^^
-Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 3 projets de recherche pour le 1er trimestre (automne/hiver 2015) : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_.
+Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 6 projets de recherche pour le 1er trimestre (automne/hiver 2015) : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, et le 2nd trimestre (printemps 2016) : `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
+
+ansicolortags (module Python)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:yellow:`Nouveau` J'ai mis à jour ce module, il est désormais entièrement compatible avec Python 2 et 3,
+et s'appelle maintenant `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ ! (Juin 2016)
+Son code est sur `Bitbucket.org/lbesson/ansicolortags.py <https://bitbucket.org/lbesson/ansicolortags.py/>`_,
+sa documentation sur `<http://ansicolortags.readthedocs.io/>`_.
+
+
+En janvier et mars 2013, j'ai écrit un petit module et script pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
+Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+Sa documentation est hébergée sur `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
+et son code source est hébergé sur `Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
+
+Entre mars 2013 et avril 2016, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ environ **5000 fois** !
+*(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
+*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
+*ou là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
 
 Nautilus Terminal v1.2
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -234,21 +251,6 @@ j'ai fait un petit projet. Suivant les consignes de la plate-forme `Kaggle <http
 ce projet a pour but de faire de la *classification de données*, afin d'exhiber le *"passager type"* ayant survécu au naufrage du Titanic.
 Tous les détails sont ici `<publis/kaggle/>`_, ou sur Bitbucket, `ici lbesson/kaggle <https://bitbucket.org/lbesson/projet-kaggle>`_.
 J'ai eu **15/20** pour ce projet, mais `je n'ai pas pu participer au projet via Kaggle <https://www.gequest.com/users/96638/naereen>`_ (en fin de compte).
-
-ANSI Colors (01~03/2013)
-^^^^^^^^^^^^^^^^^^^^^^^^
-En janvier et mars 2013, j'ai écrit un petit module et script
-pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
-Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
-Sa documentation est hébergée sur
-`PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
-et son code source est hébergé sur
-`Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
-Actuellement, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ plus de **3500 fois** !
-*(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
-*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
-*ou là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
-
 
 Projet Réseau : MPRI Bomberman (11/2012 ~ 02/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
