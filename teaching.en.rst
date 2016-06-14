@@ -6,6 +6,12 @@
  My teaching activities
 ########################
 
+In 2016/2017
+------------
+ **I am actively looking for a teaching activity for 2016/2017, during my PhD.**
+ I will be based in Rennes (Centrale-Supélec Rennes), and I want to teach in mathematics and/or computer science, if possible at ENS de Rennes or University Rennes I (prépa agrég, M1, L1-L3).
+ For more information, `please read my résumé <cv.en.pdf>`_.
+
 
 In 2015
 -------
@@ -13,16 +19,19 @@ In 2015
 
 Second semester of 2015 (in France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Between September 2015 and March 2016, I was teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
+Between September 2015 and June 2016, I was teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
 - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
-- and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this cool book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
+- and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this good book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
 .. seealso:: Complete solutions for the *Computer Science* course:
 
    Hey, you can have a look to my solutions: to `some algorithmic problems (written) <infoMP/TDs/solutions/>`_, to `some written exams about algorithms and data structures <infoMP/DSs/solutions/>`_,
-   and to `some programming problems (implementation, on a computer, during a practical session) <infoMP/TPs/solutions/>`_.
+   as well as `some programming problems (implementation, on a computer, during a practical session) <infoMP/TPs/solutions/>`_
+   and `exercises for the oral exams <infoMP/oraux/solutions/>`_.
    I was doing my best to provide full solutions for every week, and keep them up-to-date. Feel free to explore them!
+
+   The solutions (Python files) are `all in open access (→ infoMP/ folder), in French <infoMP/>`_, and `also open-source (on bitbucket.org/lbesson/info-mp-2015-2016) <https://bitbucket.org/lbesson/info-mp-2015-2016>`_.
 
 .. note:: Replacement in BCPST-2A (2nd year biology prep'school)
 

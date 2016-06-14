@@ -6,6 +6,12 @@
  Activités d'enseignement
 ##########################
 
+En 2016/2017
+------------
+ **Je recherche une mission d'enseignement pour 2016/2017, durant ma thèse.**
+ Je serai basé à Rennes (Centrale-Supélec Rennes), et j'aimerai enseigner les mathématiques et/ou l'informatique, si possible à l'ENS de Rennes ou l'Université Rennes I (prépa agrég, M1, L1-L3).
+ Pour plus d'informations, `merci de lire mon CV <cv.fr.pdf>`_.
+
 
 En 2015
 -------
@@ -13,16 +19,18 @@ En 2015
 
 Second semestre en 2015 (en France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Entre septembre 2015 et mai 2016, j'intervenais au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
+Entre septembre 2015 et juin 2016, j'intervenais au `Lycée Lakanal (à Sceaux, 92) <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
 
 - des colles de mathématiques (2h/semaine). Mes références pour `le cours <http://mp.cpgedupuydelome.fr/courspe.php>`_ et `les exercises <http://mp.cpgedupuydelome.fr/exospe.php>`_ sont ces sites là : `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (surtout), ces exercices `par Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ et `par Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_ (pour des points précis du cours), et `ce Vrai/Faux par Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (et `Wikipédia <https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes>`_, bien sûr).
-- et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toutes les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
+- et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce très bon livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toutes les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
 .. seealso:: Solutions complètes pour le cours d'*Informatique pour Tous* :
 
    Vous pouvez jeter un oeil à mes solutions : `aux exercices sur papier (TD) <infoMP/TDs/solutions/>`_,
-   `aux examens écrits (DS) <infoMP/DSs/solutions/>`_, ainsi qu'`aux exercices pratiques (TP) <infoMP/TPs/solutions/>`_.
+   `aux examens écrits (DS) <infoMP/DSs/solutions/>`_, ainsi qu'`aux exercices pratiques (TP) <infoMP/TPs/solutions/>`_ et `aux exercices pour les oraux <infoMP/oraux/solutions/>`_.
    Je faisais de mon mieux pour qu'elles soient complètes et à-jour (semaine après semaine). N'hésitez pas à les lire un peu !
+
+   Les solutions (fichiers Python) sont `toutes en libre accès (→ dossier infoMP/) <infoMP/>`_ et `open-source (on bitbucket.org/lbesson/info-mp-2015-2016) <https://bitbucket.org/lbesson/info-mp-2015-2016>`_.
 
 
 .. note:: Remplacement en BCPST-2A (prépa' bio', 2ème année)
