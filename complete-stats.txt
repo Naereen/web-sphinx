@@ -1,0 +1,20 @@
+git-complete-stats.sh: do statistics on this git repository.
+  From https://github.com/esc/git-stats/
+
+Number of commits per author:
+  1395	Lilian Besson
+     1	Jill-Jênn Vie
+
+---------------------------------------
+Statistics for: Lilian Besson
+  - Number of files changed: 1905
+  - Number of lines added: 612566
+  - Number of lines deleted: 588029
+  - Number of merges: 0
+
+-----------------------------
+Statistics for: Jill-Jênn Vie
+  - Number of files changed: 1
+  - Number of lines added: 1
+  - Number of lines deleted: 1
+  - Number of merges: 0
