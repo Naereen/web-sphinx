@@ -37,7 +37,7 @@ Si c'est pour du spam : jarvis.spam@laposte.net !
 .. image:: .courriel.png
    :scale: 120 %
    :align: right
-   :alt:   Mon adresse courriel, dans une image png...
+   :alt:   Mon adresse courriel, dans une image PNG...
    :target: mailto:Lilian.Besson à ens-cachan point fr
 
 
@@ -51,13 +51,13 @@ Téléphone
 .. image:: .telephone.png
    :scale: 130 %
    :align: right
-   :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+   :alt:   Mon numéro de téléphone, dans un image PNG...
    :target: callto:100101011101001100111101100001_2
 
 
 Pour essayer de m'avoir directement (si c'est vraiment important), veuillez utiliser mon numéro français.
 
-.. warning:: Je suis actuellement à l'étranger, voyageant en Suisse et en Espagne (en Europe).
+.. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne).
 
     Les appels vers l'étranger coûtent cher ! Même recevoir des appels
     coûte cher (pour moi), svp évitez si possible.
@@ -70,6 +70,15 @@ Pour m'envoyer des messages textuels (SMS), idem.
 Autres méthodes
 ---------------
 Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou un *téléphone intelligent* (smartphone) relativement récent.
+
+*Demandez moi n'importe quoi !*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ces deux pages peuvent être utilisées pour me poser une question **publiquement**
+(n'importe qui pourra voir votre question et ma réponse) :
+sur GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_,
+`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (nécessite un compte GitHub);
+et sur Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_,
+`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (pas besoin d'un compte).
 
 IRC (salles de discussion)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

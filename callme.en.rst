@@ -57,10 +57,10 @@ Regular phone
 
 To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number:.
 
-.. warning:: I am currently out of the French territory, traveling between Spain and Switzerland (in Europe).
+.. warning:: I am currently out of the French territory, living in Switzerland (in Lausanne).
 
-   Give a call to someone in a foreign country is expensive!
-   In fact, even receiving them is costly, so please avoid it if possible.
+   Calling someone in a foreign country can be expensive!
+   In fact, even receiving them is costly, so please avoid it (if possible).
 
 
 You could also try to send me text messages (SMS), with the same number, obviously (*again, but be aware of the price!*).
@@ -70,6 +70,14 @@ You could also try to send me text messages (SMS), with the same number, obvious
 Other methods
 -------------
 The next solutions are way more *geeky*, and you will need a relatively recent computer to try them (or a smartphone).
+
+*Ask me anything!*
+^^^^^^^^^^^^^^^^^^
+These two pages can be used to ask my a question **publically** (everyone can see what you ask and my answer):
+on GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_,
+`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (requires a GitHub account);
+and one Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_,
+`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (no need for an account).
 
 IRC (chat rooms)
 ^^^^^^^^^^^^^^^^
