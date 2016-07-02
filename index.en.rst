@@ -90,6 +90,8 @@ For more details, see `<sitemap.en.html>`_.
    cv.en
    teaching.en
    Pages in English <projects.en>
+   publis.en
+   bin.en
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

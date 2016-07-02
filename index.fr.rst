@@ -96,9 +96,9 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    cv.fr
    enseignement.fr
    agreg-2014/index
-   publis
+   publis.fr
    Pages en français <projects.fr>
-   bin
+   bin.fr
    pgp
    Page d'accueil (en anglais) <index.en>
 

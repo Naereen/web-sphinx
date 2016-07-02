@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=fr: Utiliser Wolfram|Alpha (en ligne de commande)
+   :description lang=en: Using Wolfram|Alpha from the command line
+
 ###############################################
  Utiliser Wolfram|Alpha (en ligne de commande)
 ###############################################
@@ -9,7 +13,7 @@ Wolfram|Alpha ?
  Si vous ne connaissez pas, allez faire un tour sur la page principale,
  `www.wolframalpha.com/ <http://www.wolframalpha.com/>`_.
 
- Merci à `Romain Vernoux <http://vernoux.fr>`_ qui m'a fait découvrir cet outil l'an dernier !
+ Merci à `Romain Vernoux <http://vernoux.fr>`_ qui m'a fait découvrir cet outil en 2012 !
 
   * **Wolfram|Alpha** est © et ® Wolfram Research Company;
   * ``wolf`` (ruby cli) est © `Gabriel Horner <https://github.com/cldwalker/wolf>`_;
@@ -20,42 +24,44 @@ Wolfram|Alpha ?
 
 `wa.sh`_ : un premier client pour Wolfram|Alpha, léger et en Bash ?
 -------------------------------------------------------------------
-Avantage et inconvénient
-^^^^^^^^^^^^^^^^^^^^^^^^
-L'avantage de ce premier client est sa portabilité : il est **très léger**
-(47 lignes, *avec* les commentaires!), et ne demande **aucune dépendance**
-(à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installés sur n'importe quel Linux).
+Avantages et inconvénients
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ L'avantage de ce premier client est sa portabilité : il est **très léger**
+ (47 lignes de code, *avec* les commentaires!), et ne demande **aucune dépendance**,
+ à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installés sur n'importe quel Linux, et disponibles sur Mac OS X (avec `brew <https://www.brew.sh/>`) and on Windows (with `cygwin <https://www.cygwin.org/>`_)..
 
-Néanmoins, ce client est plus minimaliste que ``wolf`` (présenté plus bas),
-et il ne présente aucune option.
+ Néanmoins, ce client est plus minimaliste que ``wolf`` (présenté plus bas), et il ne présente aucune option.
 
 Source
 ^^^^^^
-La version originale est ici `wa.sh (original) <https://github.com/saironiq/shellscripts/blob/master/wolframalpha_com/wa.sh>`_.
+ La version originale est ici `wa.sh (original) <https://github.com/saironiq/shellscripts/blob/master/wolframalpha_com/wa.sh>`_.
 
-Ma version, sans couleur en sortie, est là `wa_nocolor.sh <https://bitbucket.org/lbesson/bin/src/master/wa_nocolor.sh>`_.
-Une version "plus à jour" sera bientôt ici `wa.sh <https://bitbucket.org/lbesson/bin/src/master/wa.sh>`_.
+ Ma version, sans couleur en sortie, est là `wa_nocolor.sh <https://bitbucket.org/lbesson/bin/src/master/wa_nocolor.sh>`_.
+ Une version "plus à jour" se trouve ici `wa.sh <https://bitbucket.org/lbesson/bin/src/master/wa.sh>`_.
 
-Obtenir une clé d'application (bis)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`Voir plus bas <#obtenir-une-cle-d-application>`_.
+Obtenir une clé d'application
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ `Pour plus de détails, voir plus bas <#obtenir-une-cle-d-application-bis>`_.
 
-Il faut cette fois l'enregistrer dans un fichier ``~/.wolfram_api_key`` sous la forme : ::
+ Il faut cette fois l'enregistrer dans un fichier ``~/.wolfram_api_key`` sous la forme : ::
 
-    export API_KEY="3HHP2W-UUPQUT6997"
+     export API_KEY="3HHP2W-UUPQUT6997"
 
 
-Par exemple avec la commande suivante : ::
+ Par exemple avec la commande suivante : ::
 
-    mv ~/.wolfram_api_key /tmp/  # Pour ne pas écraser un fichier qui serait déjà là !
-    echo 'export API_KEY="3HHP2W-UUPQUT6997"' > ~/.wolfram_api_key  # Assurez vous que ce fichier ait les bonnes permissions de lecture !
+     mv ~/.wolfram_api_key /tmp/  # Pour ne pas écraser un fichier qui serait déjà là !
+     echo 'export API_KEY="3HHP2W-UUPQUT6997"' > ~/.wolfram_api_key
+     # Assurez vous que ce fichier ait les bonnes permissions de lecture !
+     chmod +r ~/.wolfram_api_key
 
 Exemples
 ^^^^^^^^
-Voici quelques exemples, qui permettent de comparer les sorties des deux clients
-(voir plus bas pour la sortie de ``wolf``) :
+ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
+ (voir plus bas pour des exemples avec ``wolf``) :
 
-#. Un test : ``0+0`` :
+
+#. Un test stupide : ``0+0`` :
 
    .. runblock:: console
 
@@ -73,7 +79,7 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
 
       $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
 
-#. Et, un exemple plus drôle, un `pokémon <pokedex-doc/index.html>`_ :
+#. Et un exemple plus drôle, un `Pokémon <pokedex-doc/index.html>`_ :
 
    .. runblock:: console
 
@@ -84,21 +90,21 @@ Voici quelques exemples, qui permettent de comparer les sorties des deux clients
    .. runblock:: console
 
       $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "^rupee.*$" | sed s/"^rupee"/""/ )."
+      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 
 Attention
 ^^^^^^^^^
-On pourrait se plaindre de l'**incroyable lenteur** de cette solution.
-Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
+ On pourrait se plaindre de l'**incroyable lenteur** de cette solution.
+ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
 
 ------------------------------------------------------------------------------
 
-``wolf`` : un second client pour Wolfram|Alpha en *ruby* ?
-----------------------------------------------------------
+``wolf`` : un second client pour Wolfram|Alpha, en *ruby* ?
+-----------------------------------------------------------
  La page principale est `github.com/cldwalker/wolf <https://github.com/cldwalker/wolf>`_.
 
- Il s'agit aussi d'un client **en ligne de commande** pour l'outil Wolfram Alpha.
+ Il s'agit aussi d'un client **en ligne de commande** pour l'outil Wolfram|Alpha.
 
 ``ruby1.9.1``
 ^^^^^^^^^^^^^
@@ -111,7 +117,7 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
 
 .. warning:: Ruby 1.9.1 n'est plus disponible dès Ubuntu 15.10 !
 
-   Je ne peux donc plus tester les exemples d'utilisation de wolf inclus ci-dessous, désolé.
+   Je ne peux donc plus tester les exemples d'utilisation de ``wolf`` inclus ci-dessous, désolé.
 
 
 ``nokogiri``
@@ -131,7 +137,7 @@ Plusieurs secondes d'attente pour 4 requêtes, *c'est pas mal !*
  Attention, la dernière étape change du tutoriel *officiel* sur la page de l'auteur.
  Attention aussi, car cette installation est **très longue**,
  la gem ayant besoin d'une étape de compilation, apparemment très longue
- (plusieurs minutes a *100%* de temps ``CPU``).
+ (plusieurs minutes à *100%* de temps ``CPU``).
 
  .. code-block:: bash
 
@@ -148,8 +154,8 @@ wolf
 
 ------------------------------------------------------------------------------
 
-Obtenir une clé d'application
------------------------------
+Obtenir une clé d'application (bis)
+-----------------------------------
  Comme l'explique la page de ``wolf`` sur Github,
  il faut `créer un compte <http://developer.wolframalpha.com/portal/apisignup.html>`_,
  puis obtenir une clé en cliquant sur le bouton "Get an AppID".
@@ -163,10 +169,12 @@ Obtenir une clé d'application
 
 Enregistrer la clé
 ------------------
- Le plus simple est de créer un fichier ``~/.wolfrc`` contenant ça : ::
+ Le plus simple est de créer un fichier ``~/.wolfrc`` contenant ça ``"Wolfram.appid=3HHP2W-UUPQUT6997"`` : ::
 
-     mv ~/.wolfrc/tmp/  # Pour ne pas écraser un fichier qui serait déjà là !
-     echo "Wolfram.appid=3HHP2W-UUPQUT6997" > ~/.wolfrc # Assurez vous que ce fichier ait les bonnes permissions de lecture !
+     mv ~/.wolfrc /tmp/  # Pour ne pas écraser un fichier qui serait déjà là !
+     echo "Wolfram.appid=3HHP2W-UUPQUT6997" > ~/.wolfrc
+     # Assurez vous que ce fichier ait les bonnes permissions de lecture !
+     chmod +r ~/.wolfrc
 
 
 Tester le tout
@@ -175,16 +183,16 @@ Tester le tout
  de l'installation.
 
  Normalement, les messages d'erreurs renvoyés par **Ruby** sont à peu près
- compréhensibles, donc si le premier test vous engueule, il doit aussi donner
+ compréhensibles, donc si le premier test vous engueule, il *devrait* aussi donner
  les infos nécessaires pour corriger l'installation.
 
  .. warning:: Le problème le plus fréquent est une confusion entre ruby1.8 et ruby1.9.1 !
 
 ------------------------------------------------------------------------------
 
-Exemples : directement embarqués ?
-----------------------------------
- Normalement, avec l'extension `runblock <runblock.html>`_, il doit être possible
+Exemples : directement embarqués dans cette page web ?
+------------------------------------------------------
+ Avec l'extension `runblock <runblock.html>`_, il est possible
  d'embarquer le résultat d'un appel à ``wolf`` directement dans la page !
 
  .. runblock:: console
@@ -208,7 +216,7 @@ Résoudre une équation
 
     $ /home/lilian/bin/wolf "x^3 - sinx = e^-x"
 
-Base de données de pokémon
+Base de données de Pokémon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
  Un ajout drôle qui a fait pas mal parler de lui !
 
@@ -224,10 +232,9 @@ D'autres exemples
 
 ------------------------------------------------------------------------------
 
-À propos
---------
- Pour embarquer la commande et la sortie de ``wolf``, j'utilise le morceau
- de code suivant :
+À propos de cette page
+----------------------
+ Pour embarquer la commande et la sortie de ``wolf``, j'utilise le morceau de code suivant :
 
  .. code-block:: rst
 
@@ -244,11 +251,7 @@ Faiblesse de cette méthode
 
 Une extension ?
 ^^^^^^^^^^^^^^^
- On pourrait envisager de faire une extension Sphinx qui, comme `gnuplot <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des tableaux produits par *Wolfram|Alpha*.
- J'ai la flemme.
-
-
-.. todo:: Traduire cette page en anglais !
-
+ On pourrait envisager de faire une extension Sphinx qui, comme `greffon GNUplot <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des tableaux produits par *Wolfram|Alpha*.
+ J'ai la flemme de le faire moi-même.
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

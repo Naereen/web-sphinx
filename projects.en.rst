@@ -175,11 +175,13 @@ For more details, see `<sitemap.en.html>`_.
    zotero.en
    runblock.en
    transifex.en
+   iteri.en
    opendns.en
    latexonwindows.en
    learn-python.en
    online-gnu-octave.en
    matlab-clones.en
+   wolfram.en
    graph.en
    top10.en
    hitch-hiking.en

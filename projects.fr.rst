@@ -422,12 +422,12 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    skulpt
    ocaml
    try-ocaml
-   iteri
+   iteri.fr
    gnuplot
    online-gnu-octave.fr
    matlab-clones.fr
    ace
-   wolfram
+   wolfram.fr
    autostop.fr
    affaires-voyage.fr
    top10.fr
