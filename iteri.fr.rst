@@ -1,13 +1,17 @@
+.. meta::
+   :description lang=fr: List.iteri et Array.iteri en OCaml
+   :description lang=en: List.iteri and Array.iteri in OCaml
+
 ####################################
  List.iteri et Array.iteri en OCaml
 ####################################
 
-.. note:: Un petit article sur deux fonctions pratiques (`du langage OCaml <http://ocamllang.org/>`_).
+.. note:: Un petit article sur deux fonctions pratiques `du langage OCaml <http://ocamllang.org/>`_.
 
 .. warning:: Si le mot OCaml n'évoque rien pour vous, cet article ne vous intéressera pas !
 
-List.iter et Array.iter
------------------------
+``List.iter`` et ``Array.iter``
+-------------------------------
 Ces deux fonctions sont des classiques des modules *List* [#listiter]_ et *Array* [#arrayiter]_.
 
 Ces fonctions sont des itérateurs du type suivant :
@@ -18,15 +22,15 @@ Ces fonctions sont des itérateurs du type suivant :
    val Array.iter : ('a -> unit) -> 'a array -> unit
 
 
-Elles permettent donc d'appliquer une fonction *f : 'a -> unit* qui agit par effets de bords
+Elles permettent donc d'appliquer une fonction *f : 'a -> unit* qui agit par effets de bords (e.g., affichage)
 à **chaque élément** d'une liste (ou d'un tableau).
 
 Pratique donc !
 
 Une meilleure version ?
 -----------------------
-*Mais*... Souvent, on a besoin, en plus de la valeur de chaque élément,
-de leur indice (par exemple pour afficher "la case i contient x[i]" ou autre).
+*Mais*... Souvent, on a besoin, en plus de la valeur ``x`` de chaque élément, de leur **indice** ``i``
+(par exemple pour afficher "la case i contient x[i]" ou autre).
 
 Donc, on aimerait aussi avoir des itérateurs du type suivant :
 
@@ -39,33 +43,34 @@ Donc, on aimerait aussi avoir des itérateurs du type suivant :
 Où désormais *f* prend en premier argument l'**indice correspondant à son deuxième argument**.
 Très pratique pour éviter les boucles *for* !
 
-.. note:: En Python...
+.. note:: En Python... ?
 
-   La syntaxe commune à tous les itérateurs permet d'éviter ça de toutes façons :
+   La syntaxe commune à tous les *itérateurs* permet d'éviter ça de toutes façons, e.g. :
 
    .. code-block:: python
 
       for i in [2*i for i in range(8)]:
           print i
 
+   Et la fonction `enumerate <https://www.python.org/dev/peps/pep-0279/>`_ permet de faire ça aussi, en itérant sur ``i, xi``.
 
 
 Deux fonctions qui ont tardées à venir
 --------------------------------------
 On constate que si *Array.iteri* a été codée en 1997 [#arraydiff]_,
 son équivalent pour les listes *List.iteri* n'a été ajoutée **qu'en... 2010**
-avec OCaml v4.00.1 ! (cf [#listdiff]_)
+avec OCaml v4.00.1 ! (cf [#listdiff]_).
 
 
 Quel est le problème ?
 ----------------------
 Ces fonctions sont assez pratiques, donc souvent utilisés.
 
-Dans le cadre des projets et autre exercices demandés par certains cours à l'ENS Cachan,
+Dans le cadre des projets et autre exercices demandés par certains cours à l'`ENS Cachan <http://www.ens-cachan.fr/>`_,
 il faut faire marcher son code sur (au moins) une machine de la *salle 411*, qui sont **vieilles** !
 
-C'est ainsi qu'en décembre 2013, nous avions perdu quelques minutes à trouver la source du problème,
-et inclure un petit *"patch"* v3.12 → v4.01.0 en ajoutant *à la main* le code de List.iteri
+C'est ainsi qu'en décembre 2013, nous avions perdu quelques minutes (durant un examen oral !) à trouver la source du problème,
+et inclure un petit *"patch"* v3.12 → v4.01.0 en ajoutant *à la main* le code de *List.iteri*
 dans nos projets [#projet]_.
 
 En particulier, ce lien [#patch]_ montre les modifications effectuées sur mon code lors
@@ -73,7 +78,7 @@ de la découverte de ce bug.
 
 Bref, on aurait aimé les avoir plus tôt !
 -----------------------------------------
-Voilà un titre qui résume bien le message de ce petit post.
+Voilà un titre qui résume bien le message (inutile) de ce petit post.
 
 ------------------------------------------------------------------------------
 
@@ -89,13 +94,13 @@ Voilà un titre qui résume bien le message de ce petit post.
 
 .. [#projet] :Voir: le `rapport <http://perso.crans.org/besson/a/m/projet/rapport.html>`_ du projet **Laby** fait en décembre 2013 pour l'épreuve de modélisation de l'agrég;
 
-.. [#patch] :Voir: le `commit <https://bitbucket.org/lbesson/agreg/diff/modelisation/projet/projet.ml?diff2=3318706bdc86&at=master>`_ rapportant la compatibilité avec OCaml v3.12.1 pour mon projet **Laby**.
+.. [#patch] :Voir: le `commit <https://bitbucket.org/lbesson/agreg/diff/modelisation/projet/projet.ml?diff2=3318706bdc86&at=master>`_ rapportant la compatibilité avec OCaml v3.12.1 pour mon projet **Laby** (privé).
 
-----
+------------------------------------------------------------------------------
 
 .. note:: *« Mais OCaml c'est nul non ? »*
 
-   Non, faut pas écouter `ceux qui disent ça <http://sucre.syntaxique.fr/doku.php?id=ocaml>`_, OCaml c'est super !
+   **Non**, faut pas écouter `ceux qui disent ça <http://sucre.syntaxique.fr/doku.php?id=ocaml>`_, OCaml c'est super !
 
 
-.. (c) Lilian Besson, 2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2016, https://bitbucket.org/lbesson/web-sphinx/
