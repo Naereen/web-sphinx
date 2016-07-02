@@ -1,74 +1,72 @@
 .. meta::
-   :description lang=fr: Page décrivant les binaires et les scripts du dossier bin/
    :description lang=en: Description of scripts in folder bin/
+   :description lang=fr: Page décrivant les binaires et les scripts du dossier bin/
 
 ############################################
- Scripts et binaires (du dossier `<bin/>`_)
+ Description of scripts in folder `<bin/>`_
 ############################################
 
+.. todo:: Translate this page to English!
 
-À-propos de cette page
-----------------------
-.. note:: Nouveau dépôt git :
+About this page
+---------------
+.. note:: New git repository:
 
-    Tous mes scripts et petits programmes sont publiquement disponibles sur
-    `bin.git <https://bitbucket.org/lbesson/bin/>`_ (pour plus d'informations sur la licence d'utilisation, cf. `README.html <bin/README.html>`_).
+    All my scripts and small programs are publicly published on this
+    `bin.git <https://bitbucket.org/lbesson/bin/>`_ repository (and more information about the license is `README.html <bin/README.html>`_).
 
 
-Cette page est là pour décrire **certains** éléments du dossier `<bin/>`_,
-qui contient un certain nombre de petits logiciels, scripts ou autres utilitaires.
-La plupart d'entre eux ont été écrits par `moi <index.html>`_.
+This page explains how to use **some** of the scripts published in the folder `<bin/>`_,
+it contains a lot of small softwares, scripts and command line tools.
+Most of them have been written by `me <index.html>`_.
 
-.. sidebar:: Retourner à l'accueil
+.. sidebar:: Go back to the homepage?
 
-   Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
+   If this page has no interest for you, please go back to the main page `<index.html>`_.
 
 ------------------------------------------------------------------------------
 
-.. warning:: Uniquement sur Ubuntu
+.. warning:: Only on Ubuntu
 
-   Attention : ces scripts sont écrits pour ma machine, qui utilise (X)Ubuntu 15.10,
-   et donc ne sont testés que sur cette plateforme.
-   La plupart peuvent fonctionner ailleurs, notamment sous Windows, avec `cygwin <https://www.cygwin.org/>`_, et sous Mac OS X avec Bash.
+   Warning: these scripts have been written on and for my personal laptop, running on (X)Ubuntu 15.10,
+   and have only been tested on this distribution and this OS.
+   Most of them should work on other Linux distribution, they should also work on Windows, with `cygwin <https://www.cygwin.org/>`_, and on Mac OS X with Bash.
 
-.. warning:: Aucune responsabilité
+.. warning:: Disclaimer
 
-   Ces scripts sont distribués "TELS QUELS", en aucun cas
-   je ne pourrais être responsable d'un quelconque dysfonctionnement dû à l'un de ces scripts
+   All these scripts are provided "AS IS", in any case I cannot be held responsible for any consequence of the use of any of these script.
 
 
 GNU Bash
 --------
 
 * `.bashrc <bin/.bashrc>`_,
-  Profil pour GNU Bash, optimisé aux petits oignons au fil des années.
+  My profile for GNU Bash, highly optimized over the years.
 
-  :État: *Terminé*.
+  :État: *DONE*.
 
 
 * `.bash_aliases <bin/.bash_aliases>`_,
-  Profil complémentaire pour GNU Bash, définition d'alias et de fonctions. Extrêmement riche.
+  Additional file for my GNU Bash profile Bash, defining aliases and functions. Extremely complete.
 
-  :État: *Terminé*, mais en amélioration constante...
+  :État: *Done*, but constantly improved.
 
 ------------------------------------------------------------------------------
 
-Liste des scripts
------------------
+Partial list of my scripts
+--------------------------
 
-.. note:: Contribuer ?
+.. note:: Contribute ?
 
-    Tous ces scripts fonctionnent normalement correctement sur ma machine ((X)Ubuntu 15.10, GNU Bash v4.3).
-    Mais il est possible que certains scripts ou certaines fonctionnalités ne soient pas disponibles,
-    voir même échouent complètement.
-    **Tout retour d'utilisation est le bienvenu**.
+    Most of these scripts works on my personal laptop ((X)Ubuntu 15.10, GNU Bash v4.3).
+    But for some of them, certain options or certain features could be broken, failing or unavailable for you.
+    **Any feedback on any of these scripts is the most welcome**.
 
-    Vous pouvez utiliser `ce gestionnaire de bug <https://bitbucket.org/lbesson/home/issues/new>`_,
-    ou encore m'envoyer un mail.
+    You can use this `feedback form to notify me of a bug <https://bitbucket.org/lbesson/home/issues/new>`_,
+    or just send me an email.
 
-    *Par ailleurs* toute contribution est la bienvenue, et sera intégrée dans les prochaines versions
-    du script concerné
-    (ces scripts sont distribués sous les termes de la `licence GPLv3 <LICENSE.html>`_).
+    *And* any contribution is welcome, and will be merged in the next version of the concerned script
+    (these files are distributed under the conditions of the `GPLv3 license <LICENSE.html>`_).
 
 
 Wrapper colorant la sortie de commandes courantes
