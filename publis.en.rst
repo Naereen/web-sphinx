@@ -1,36 +1,37 @@
 .. meta::
-   :description lang=fr: Page décrivant les publications du dossier publis/
    :description lang=en: Description of publications in folder publis/
+   :description lang=fr: Page décrivant les publications du dossier publis/
 
-###########################################################
- Productions techniques diverses (du dossier `<publis/>`_)
-###########################################################
+####################################################
+ Description of publications in folder `<publis/>`_
+####################################################
 
-À-propos de cette page
-----------------------
-Cette page est là pour décrire les divers projets *techniques* présents dans le dossier `<publis/>`_.
+.. todo:: Translate this page to English!
 
-Ce dossier contient un certain nombre de petites productions
-(logiciels, scripts ou autres); ainsi que certains projets plus solides.
+About this page
+---------------
+This page tries to describe all the tiny (and less tiny) technical projects published in the folder `<publis/>`_.
 
-.. todo:: Garder cette page à jour. Pour l'instant, elle ne l'est PAS DU TOUT !
+This folder contains a lot of small productions (softwares, scripts, configuration etc); and some of my more serious projects.
 
-.. sidebar:: Retourner à l'accueil
+.. todo:: Keep this page up-to-date. For now, it is not AT ALL up-to-date!
 
-   Si cette page ne vous intéresse pas, allez plutôt consulter celle là `<index.html>`_.
+.. sidebar:: Go back to the homepage?
+
+   If this page has no interest for you, please go back to the main page `<index.html>`_.
 
 
-.. note:: Conditions de distribution
+.. note:: Conditions of distribution
 
-   Chaque projet listé sur cette page est distribué *librement*, sous les termes de la `licence GPLv3 <LICENSE.html>`_ !
+   Every file or projects listed here is *freely* and *publicly* distributed, under the conditions of the `GPLv3 license <LICENSE.html>`_!
 
 ---------------------------------------------------------------------
 
-Projets
--------
-Voici une liste **partielle** de certains projets contenus dans le dossier `<publis/>`_.
+Projects
+--------
+Here is a **partial** list of projects published in the folder `<publis/>`_.
 
-.. warning:: Ils ne sont pas tous expliqués ici.
+.. warning:: Not all of them are explained here.
 
 
 `nautilus-terminal <publis/nautilus-terminal/>`_

@@ -2,8 +2,8 @@
 # Makefile for Sphinx web builder
 # Author: Lilian BESSON
 # Email: lilian DOT besson AT normale D O T fr
-# Version: 19
-# Date: 27-03-14
+# Version: 20
+# Date: 02-07-16
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
@@ -22,9 +22,9 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
 ###############################################################################
 # Custom items
-CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
+#CP = /usr/bin/rsync --verbose --times --perms --compress --human-readable --progress --archive
 #CP = scp  ## If you do not have rsync installed
-CP = ~/bin/CP
+CP = ~/bin/CP  # Using my CP script, https://bitbucket.org/lbesson/bin/src/master/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
 total: html images obscure gpghtml send_jarvis send_zamok check
