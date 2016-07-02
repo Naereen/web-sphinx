@@ -76,33 +76,34 @@ Par exemple :
 `ansicolortags <publis/ansicolortags/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. pypi-release:: ansicolortags
-   :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement)
+   :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement) 
    :class: sidebar
 
-**ansicolortags** est un petit module pour `Python <python.html>`_, version 2 (2.7+) et 3 (3.2+),
+**ansicolortags** est un petit module pour `Python <python.html>`_, version 2 (2.7+) et 3 (3.4+),
 conçu pour manipuler facilement et efficacement les couleurs ``ANSI``
 dans un terminal **UNIX** ou **Linux** (ou sur **Windows via Cygwin**, ou **Mac OS X**).
 
 .. image::  https://badge.fury.io/py/ansicolortags.svg
    :target: https://pypi.python.org/pypi/ansicolortags
+.. image:: https://readthedocs.org/projects/ansicolortags/badge/?version=latest
+   :target: http://ansicolortags.readthedocs.io/
 
-
-* Il est hébergé sur `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.2), et peut être installé par un simple ``pip install ansicolortags`` !
+* Il est hébergé sur `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.4), et peut être installé par un simple ``pip install ansicolortags`` !
 * La documentation du module est ici sur `<http://ansicolortags.readthedocs.io/>`_.
 * Il est basé sur `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_, qui était trop vieux et ne supportait que Python 2. ANSIColors-balises a été téléchargé environ 5000 fois entre mars 2013 et février 2016. (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
-* Un exemple d'utilisation :
-
-.. runblock:: pycon
+* Un exemple d'utilisation (la sortie ne s'affiche pas comme il faut car Sphinx ne supporte pas l'inclusion de couleurs dans les exemples de code): ::
 
    >>> # The good way (and safe) to use ansicolortags:
    >>> try:
    ...     from ansicolortags import printc
    >>> except ImportError:
    ...     def printc(a): print(a)  # Placeholder
-   >>> printc("<red>Ceci est rouge ?<white> La c'est blanc.<Blue> Et enfin le fond est bleu ici.<reset> (ca ne marche pas ici, normal)")
+   >>> printc("<red>Ceci est rouge ?<white> La c'est blanc.<blue> Et enfin en bleu ici.<reset> (ca ne marche pas ici, normal)")
+   Ceci est rouge ? La c'est blanc. Et enfin en bleu ici. (ca ne marche pas ici, normal)
 
+* Mais dans un terminal, ce morceau de code donne : ":red:`Ceci est rouge ?` :white:`La c'est blanc.` :blue:`Et enfin en bleu ici` (ca ne marche pas ici, normal)".
 
-:État: *À-jour* (juin 2016), et fonctionne très bien.
+:État: *À-jour* (juillet 2016), et fonctionne très bien.
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
