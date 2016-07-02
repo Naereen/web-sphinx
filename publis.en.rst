@@ -36,182 +36,182 @@ Here is a **partial** list of projects published in the folder `<publis/>`_.
 
 `nautilus-terminal <publis/nautilus-terminal/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`Un greffon pour Nautilus <https://bitbucket.org/lbesson/nautilus-terminal>`_.
+`A plug-in for GNU Nautilus <https://bitbucket.org/lbesson/nautilus-terminal>`_.
 
 `latex <publis/latex/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Quelques fichiers et programmes utiles pour faire du \\(\\LaTeX{}\\).
+Some files and useful tiny programs to use \\(\\LaTeX{}\\).
 
-En particulier `autotex <./publis/latex/autotex>`_, le petit script Bash que j'utilise *quotidiennement* pour écrire du \\(\\LaTeX{}\\) sans avoir à recopier d'en-têtes (``\usepackage`` et autres inutilités).
-Il y a désormais `autonomize.sh <./publis/latex/autonomize.sh>`_ et `template_minimalist.tex <./publis/latex/template_minimalist.tex>`_, pour rendre autonome un document utilisant autotex.
+In particular, `autotex <./publis/latex/autotex>`_ is the tiny Bash script I use on a regular basis to write \\(\\LaTeX{}\\) documents without having to manually write the header part (with ``\usepackage`` and other useless parts).
+I wrote a small `autonomize.sh <./publis/latex/autonomize.sh>`_ script and a template `template_minimalist.tex <./publis/latex/template_minimalist.tex>`_, to make autonomous a document which was using `autotex`_.
 
-:État: *Fonctionne bien* et maintenu activement. (mars 2016)
+:State: *Works well* and actively maintained (March 2016).
 
 `puzzle <publis/puzzle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le mini jeu de Tetravex en *OCaml* réalisé en L3 (Avril 2012)
-pour le cours de programmation 2. J'avais eu 17/20.
-Remis à neuf (mars 2014), et publié sur mon compte bitbucket : `bitbucket.org/lbesson/projet-puzzle-ocaml-2012 <https://bitbucket.org/lbesson/projet-puzzle-ocaml-2012>`_.
+A small game of Tetravex, written in *OCaml* for a programming course in my Bachelor (3rd year, Avril 2012). I had a grade of 17/20.
+Cleaned-up in March 2014, and open-source on my bitbucket account: `bitbucket.org/lbesson/projet-puzzle-ocaml-2012 <https://bitbucket.org/lbesson/projet-puzzle-ocaml-2012>`_.
 
-:État: *Fonctionne bien* mais plus maintenu.
+:State: *Works well* but not maintained.
 
 `Zenity <publis/Zenity/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Une bibliothèque ``OCaml`` pour utiliser l'outil **GNU Zenity** de façon simple, complètement *typée* et efficace (mais salement codée).
-Publié sur mon compte bitbucket : `bitbucket.org/lbesson/zenity-ocaml <https://bitbucket.org/lbesson/zenity-ocaml>`_.
+A tiny library for ``OCaml``, to use the **GNU Zenity** tool in a simple, efficient and well-typed manner (but the code is dirty).
+Open-sourced on my bitbucket account: `bitbucket.org/lbesson/zenity-ocaml <https://bitbucket.org/lbesson/zenity-ocaml>`_.
 
-Fonctionne *comme ça* : pas besoin d'installation (juste inclure les fichiers ``zenity.ml`` et ``zenity.mli`` dans votre projet).
-Par exemple :
+It works *"like this"* : no need for any installation, you just have to include the source file ``zenity.ml`` and ``zenity.mli`` in your OCaml project.
+For instance, in a OCaml console or in a program:
 
 .. code-block:: ocaml
 
    open Zenity;;
-   let ma_couleur = color_selection ~title:"Choisir une couleur" () ;;
-   (* Permet de demander à l'utilisateur de choisir une couleur,
-   revient à invoquer $ zenity --color-selection --title="Choisir une couleur" dans un terminal *)
+   let my_color = color_selection ~title:"Choose a color please" () ;;
+   (* Will ask the user to select a color, a return it as a string,
+   it does the same as calling $ zenity --color-selection --title="Choose a color please", in a terminal. *)
 
 
-:État: *N'est plus maintenu activement* (avril 2014) mais fonctionne avec les dernières versions d'OCaml (4.03.0) et de Zenity.
+:State: *Not actively maintained* (April 2014), but it works with the latest versions of OCaml (4.03.0) and Zenity.
 
 `ansicolortags <publis/ansicolortags/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. pypi-release:: ansicolortags
-   :prefix: La dernière version est ici (normalement, l'extension non officielle cheeseshop permet d'intégrer directement un lien de téléchargement) 
+   :prefix: The latest version is here (the cheeseshop Sphinx extension should add a link to the zip file of the project)
    :class: sidebar
 
-**ansicolortags** est un petit module pour `Python <python.html>`_, version 2 (2.7+) et 3 (3.4+),
-conçu pour manipuler facilement et efficacement les couleurs ``ANSI``
-dans un terminal **UNIX** ou **Linux** (ou sur **Windows via Cygwin**, ou **Mac OS X**).
+**ansicolortags** is a small `Python <python.html>`_ module, supporting both version 2 (2.7+) and 3 (3.4+),
+designed to easily and efficiently use ``ANSI`` colors
+in a terminal application from Python, on **UNIX** or **Linux** (or on **Windows via Cygwin**, or on **Mac OS X**).
 
 .. image::  https://badge.fury.io/py/ansicolortags.svg
    :target: https://pypi.python.org/pypi/ansicolortags
 .. image:: https://readthedocs.org/projects/ansicolortags/badge/?version=latest
    :target: http://ansicolortags.readthedocs.io/
 
-* Il est hébergé sur `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.4), et peut être installé par un simple ``pip install ansicolortags`` !
-* La documentation du module est ici sur `<http://ansicolortags.readthedocs.io/>`_.
-* Il est basé sur `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_, qui était trop vieux et ne supportait que Python 2. ANSIColors-balises a été téléchargé environ 5000 fois entre mars 2013 et février 2016. (Des statistiques *partielles*, pour le moi de Mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
-* Un exemple d'utilisation (la sortie ne s'affiche pas comme il faut car Sphinx ne supporte pas l'inclusion de couleurs dans les exemples de code): ::
+* It is available from `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.4), and can be install with a simple command: ``pip install ansicolortags`` !
+* The complete documentation for the module is here: `<http://ansicolortags.readthedocs.io/>`_.
+* This new package is based on my old `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_, which was too old and only supported Python 2. ANSIColors-balises has been downloaded about 5000 times during march 2013 and February 2016. (Some *partial* statistics, for May 2013 `are here <http://pypi-ranking.info/module/ANSIColors-balises>`_ and others `here <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `or also on pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
+* A small example of its use (the output is not displayed with colors here because Sphinx does not support including colors in the output of such code samples): ::
 
    >>> # The good way (and safe) to use ansicolortags:
    >>> try:
    ...     from ansicolortags import printc
    >>> except ImportError:
    ...     def printc(a): print(a)  # Placeholder
-   >>> printc("<red>Ceci est rouge ?<white> La c'est blanc.<blue> Et enfin en bleu ici.<reset> (ca ne marche pas ici, normal)")
-   Ceci est rouge ? La c'est blanc. Et enfin en bleu ici. (ca ne marche pas ici, normal)
+   >>> printc("<red>This is red!<white> That's white.<blue> And that is blue.<reset> (not working here)")
+   This is red! That's white. And that is blue. (not working here)
 
-* Mais dans un terminal, ce morceau de code donne : ":red:`Ceci est rouge ?` :white:`La c'est blanc.` :blue:`Et enfin en bleu ici` (ca ne marche pas ici, normal)".
+* But in a terminal, this code will give: ":red:`This is red!` :white:`That's white.` :blue:`And that is blue.` (not working here)".
 
-:État: *À-jour* (juillet 2016), et fonctionne très bien.
+:State: *Up-to-date* (July 2016), and works very well.
 
 `kaggle <publis/kaggle/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Petit projet réalisé pour le cours d'**Apprentissage statistique** de ``L3`` à l'``ENS Cachan`` en mai 2013.
-Rien de très palpitant, sinon une intéressante utilisation de ``Python 2.7`` pour réaliser *toutes* les différentes composantes d'un projet de programmation (codes, documentations, rapports, slides etc). J'avais eu 15/20.
-Finalement, `je n'ai pas participé à la dernière étape sur Kaggle <https://www.gequest.com/users/96638/naereen>`_...
+A small project, for the **Introduction to Machine Learning** in my Bachelor (3rd year) at `ENS Cachan <http://www.ens-cachan.fr/version-anglaise/>`_ in May 2013.
+Nothing really interesting, except that I used ``Python 2.7`` to handle *all* the different aspects of this learning project (scripts, programs, documentation, report, slides etc). I had a grade of 15/20.
+As this `Kaggle.com <https://www.kaggle.com/>`_ challenge is one of the "training challenge" nowadays, `I am no longer shown as a participant for this challenge <https://www.kaggle.com/naereen/results>`_...
 
-:État: *N'est plus maintenu !* (mai 2013)
+:State: *Old!* (May 2013)
 
 `Bomberman <publis/Bomberman/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un jeu de **Bomberman**, multi-joueur en réseau, écrit en Python, réalisé de Nov. 2012 à Fév. 2013
-pour le projet réseau (*1-21 MPRI*), auquel j'ai reçu 16.9/20 (seconde meilleure note).
+A small **Bomberman** game, with multi-player support on a local network (multi machines), written in Python 2.7, between Nov. 2012 and Feb. 2013
+for the networking project in my Master 1 (course *1-21 MPRI*), for which I received 16.9/20 (second best grade). Open-sourced: `bitbucket.org/lbesson/mpri-bomberman <https://bitbucket.org/lbesson/mpri-bomberman>`_.
 
-:État: *N'est plus maintenu !* (mars 2013)
+:State: *No longer maintained !* (March 2013)
 
 `MOcamlPlot <publis/MOcamlPlot.zip>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Une bibliothèque `OCaml` pour dessiner des graphiques **en console** facilement.
-Ce projet proposait une surcharge des opérateurs (réalisée très *salement*), ainsi que des commandes « *à la Maple* »
-(du genre ``plot("cos((x+5)/2.16)",0--10)``), et quelques trucs assez géniaux.
-Je manque de temps pour le remettre à jour.
+A tiny ``OCaml`` library, designed to draw graphical plots **in a console**.
+This project was implementing a very dirty operators overloading (something that OCaml, a fully statically type language, should NOT allow), and commands for plotting  « *like Maple* »
+(e.g., ``plot("cos((x+5)/2.16)",0--10)``), and other cool stuff.
+I didn't find the time to keep it up-to-date.
 
-:État: *N'est plus maintenu !* (février 2012). Peut fonctionner. Mais pas sûr.
-
----------------------------------------------------------------------
-
-Presse (automne 2014)
----------------------
-* `cet article paru dans Le Monde, à propos de la future École Centrale Casablanca <publis/29_10_2014__LeMonde.fr.html>`_ (`aussi en anglais (29_10_2014__LeMonde.en.html) <publis/29_10_2014__LeMonde.en.html>`_, et `en PDF (29_10_2014__LeMonde.fr.pdf) <publis/29_10_2014__LeMonde.fr.pdf>`_),
-* `cet article paru dans Libération, à propos de Mahindra École Centrale <publis/10_10_2014__Liberation.fr.html>`_ (`aussi en anglais (10_10_2014__Liberation.en.html) <publis/10_10_2014__Liberation.en.html>`_, et `en PDF (10_10_2014__Liberation.en.pdf) <publis/10_10_2014__Liberation.fr.pdf>`_).
+:State: *Not maintained* (Feb 2012). Might work. Probably not.
 
 ---------------------------------------------------------------------
 
-Scripts et binaires
+Press (Autumn 2014)
 -------------------
-Voir la page `<bin.html>`_ pour plus de description sur les scripts et les binaires contenus dans le dossier `<publis/bin/>`_.
-Le dépôt git associé se trouve `ici sur bitbucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_.
+* `this press article was published in Le Monde, about the future École Centrale Casablanca <publis/29_10_2014__LeMonde.fr.html>`_ (`also translated in English (29_10_2014__LeMonde.en.html) <publis/29_10_2014__LeMonde.en.html>`_, and `in PDF (29_10_2014__LeMonde.fr.pdf) <publis/29_10_2014__LeMonde.fr.pdf>`_),
+* `this press article was published in Libération, about the new Mahindra École Centrale <publis/10_10_2014__Liberation.fr.html>`_ (`also in English (10_10_2014__Liberation.en.html) <publis/10_10_2014__Liberation.en.html>`_, and `in PDF (10_10_2014__Liberation.en.pdf) <publis/10_10_2014__Liberation.fr.pdf>`_).
 
 ---------------------------------------------------------------------
 
-Fichiers de configuration
--------------------------
-`ST3 <sublimetext.fr.html>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Configurations, snippets et scripts de constructions, pour `Sublime Text 3 <http://www.sublimetext.com/3>`_.
-La page `ST3`_ contient beaucoup plus d'informations :)
+Scripts and binary programs
+---------------------------
+Please read the page `<bin.html>`_ for more description of some of the scripts and binary programs that are available in this folder `<publis/bin/>`_.
 
- * Par exemple, `newpython.snippet <./publis/ST3/newpython.sublime-snippet>`_ permet de facilement créer un nouveau script `Python <python.html>`_, `newscript.snippet <./publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un script GNU Bash.
- * `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex`_, qui peut ensuite se compiler facilement en PDF via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_
- * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon super projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
+The associated git repository is very active (improvements and new script on a weekly basis), and it is `here on bitbucket.org/lbesson/bin <https://bitbucket.org/lbesson/bin>`_.
 
-:État: *Maintenu activement* (juin 2016).
+---------------------------------------------------------------------
+
+Configuration files
+-------------------
+For `Sublime Text 3 <sublimetext.en.html>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This folder `<ST3/>`_ contains my configuration file, snippets and building scripts for `Sublime Text 3 <http://www.sublimetext.com/3>`_.
+And the page `<sublimetext.en.html>`_ contains a lot more information :).
+
+ * For instance, `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ make it easy to create a new `Python script <python.html>`_, and `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ does the same for a GNU Bash script.
+ * Use `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ to create a blank LaTeX file powered by `autotex`_, which can then easily be compiled to PDF by using this building script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_
+ * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ also make it easy to create an HTML file powered by my awesome `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ project !
+
+:State: *Actively maintained* (June 2016).
 
 `munstrap <publis/munstrap/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un thème francophone pour `Munin 2.x <http://munin-monitoring.org/>`_, basé sur Twitter Bootstrap et grandement inspiré du projet `munstrap  original <https://github.com/jonnymccullagh/munstrap>`_.
-Aussi sur Bitbucket : `<https://bitbucket.org/lbesson/munstrap/>`_ et `<http://lbesson.bitbucket.org/munstrap>`_.
+I translated in French a responsive theme for `Munin 2.x <http://munin-monitoring.org/>`_, based on Twitter Bootstrap, from the `original munstrap <https://github.com/jonnymccullagh/munstrap>`_.
+Open-sourced on Bitbucket : `bitbucket.org/lbesson/munstrap <https://bitbucket.org/lbesson/munstrap/>`_.
 
-:État: *À-jour.* (september 2014)
+:State: Up-to-date.* (September 2014)
 
 `conky <publis/conky/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Configuration pour `GNU Conky <http://conky.sourceforge.net/>`_.
+My configuration for `GNU Conky <http://conky.sourceforge.net/>`_.
 
-:État: *Plus maintenu activement, mais fonctionne.* (janvier 2014)
+:State: *Not actively maintained, but it works.* (January 2014)
 
 `muttrc <publis/muttrc/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Configuration pour `Mutt <http://www.mutt.org/>`_, le meilleur client mail en console.
+My configuration for `Mutt <http://www.mutt.org/>`_, the best command-line email software.
 
-:État: *Plus maintenu activement, mais fonctionne.* (janvier 2014)
+:State: *Not actively maintained, but it works.* (January 2014)
 
 `gedit-coloration <publis/gedit-coloration/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Quelques améliorations pour la configuration pour **GTK-SourceView** (bibliothèque C++ pour la coloration syntaxique de code sources, utilisée notamment par gedit et gobby).
+Some improvements on the **GTK-SourceView** configuration (C++ library for the source code syntactic coloring, used by gedit and gobby).
 
-:État: *Plus du tout maintenu.* (novembre 2011 à juillet 2013)
+:State: *Not at all maintained.* (Nov 2011 to July 2013)
 
 `gedit <publis/gedit/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Divers plugins pour **Gnome Gedit**.
+Some plugins for **Gnome Gedit**.
 
-:État: *Plus du tout maintenu.* (novembre 2011 à juillet 2013)
+:State: *Not at all maintained.* (Nov 2011 to July 2013)
 
 `nautilus-scripts <publis/nautilus-scripts/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-De vieux scripts pour **Gnome Nautilus**.
+Some old scripts for **Gnome Nautilus**.
 
-:État: *N'est plus maintenu !* (novembre 2011 à juillet 2012)
+:State: *Not at all maintained.* (Nov 2011 to July 2013)
 
 `gedit-tools <publis/gedit-tools/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-De vieux scripts pour **Gnome Gedit**, avec le plugin *Outils extérieurs*.
+Some old scripts for **Gnome Gedit**, with the plug-in *Exterior tools*.
 
-:État: *N'est plus maintenu !* (été 2012)
+:State: *Not at all maintained.* (Summer 2012)
 
 ---------------------------------------------------------------------
 
-Divers
-------
+Miscellaneous
+-------------
 `webcomics.pdf <publis/webcomics.pdf>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Un article sur `<http://questionablecontent.net>`_ pour la Sauce du mois de janvier 2014 (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
+ A French one-page article on `<http://questionablecontent.net>`_ for the ENS Cachan student newspaper, in January 2014 (`<http://www.lasauce.ens-cachan.fr/archives.php>`_).
 
 `seminaire_crans.pdf <publis/seminaire_crans/seminaire_crans.pdf>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Les slides du séminaire sur les outils de documentation fait en Mars 2013 pour le `crans <http://www.crans.org>`_.
+ Slides for a technical workshop on documentation tools, given in March 2013 for the `CRANS <http://www.crans.org>`_.
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
