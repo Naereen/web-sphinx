@@ -7,10 +7,6 @@
 Cette page accueille une liste des problèmes à résoudre, de trucs à faire,
 et d'idées pour améliorer ces pages webs (`<index.html>`_ pour en savoir plus).
 
-.. sidebar:: Liste personnelle
-
-   Une liste "à jour" de chose à faire (privée) est là `<TODO.html>`_.
-
 ------------------------------------------------------------------------------
 
 Grâce à `cette extension <http://sphinx-doc.org/ext/todo.html>`_,
