@@ -1,12 +1,10 @@
 .. meta::
    :description lang=en: Description of scripts in folder bin/
-   :description lang=fr: Page décrivant les binaires et les scripts du dossier bin/
+   :description lang=fr: Page décrivant les binaires and les scripts du dossier bin/
 
 ############################################
  Description of scripts in folder `<bin/>`_
 ############################################
-
-.. todo:: Translate this page to English!
 
 About this page
 ---------------
@@ -19,6 +17,8 @@ About this page
 This page explains how to use **some** of the scripts published in the folder `<bin/>`_,
 it contains a lot of small softwares, scripts and command line tools.
 Most of them have been written by `me <index.html>`_.
+
+.. todo:: Add explanations about other important scripts.
 
 .. sidebar:: Go back to the homepage?
 
@@ -43,13 +43,13 @@ GNU Bash
 * `.bashrc <bin/.bashrc>`_,
   My profile for GNU Bash, highly optimized over the years.
 
-  :État: *DONE*.
+  :State: *DONE*.
 
 
 * `.bash_aliases <bin/.bash_aliases>`_,
   Additional file for my GNU Bash profile Bash, defining aliases and functions. Extremely complete.
 
-  :État: *Done*, but constantly improved.
+  :State: *Done*, but constantly improved.
 
 ------------------------------------------------------------------------------
 
@@ -69,274 +69,247 @@ Partial list of my scripts
     (these files are distributed under the conditions of the `GPLv3 license <LICENSE.html>`_).
 
 
-Wrapper colorant la sortie de commandes courantes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Small wrapper script to color the output of some commands
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `ocamlc <bin/ocamlc>`_ et `ocamlopt <bin/ocamlopt>`_,
-  deux scripts colorant la sortie des compilateurs OCaml ``ocamlc`` et
-  ``ocamlopt`` pour la rendre plus lisible (colore ce qui est important, souligne les erreurs en rouge).
-  **Attention** éventuellement, le chemin ``/usr/local/bin/ocamlc`` est à adapter (sur votre machine, c'est sûrement /usr/bin/ocamlc).
+* `ocamlc <bin/ocamlc>`_ and `ocamlopt <bin/ocamlopt>`_,
+  are two tiny scripts to color nicely the output of the `OCaml compilers <https://ocaml.org/learn/tutorials/compiling_ocaml_projects.html#ocamlcandocamlopt>`_ ``ocamlc`` and
+  ``ocamlopt`` to make it simpler to read (highlights the important parts, underline the mistake in red, etc).
+  **Warning** you might have to modify yourself the path the ``ocamlc`` or ``ocamlopt`` binary: it is ``/usr/local/bin/ocamlc`` on my machine, but is probably ``/usr/bin/ocamlc`` on yours.
 
-  :État: *Stable et performant* :red:`New!`
+  :State: *Stable and efficient*
 
 
 * `CP <bin/CP>`_,
-  un script colorant la sortie de ``rsync`` pour la rendre plus lisible.
-  *rsync* est utilisé avec les bonnes options, pour permettre un transfert de fichier efficace,
-  joli (avec une barre de progression dans le terminal), à travers le réseau
-  (par ex. ``CP *.pdf super@man.fr:~/web/pdf/`` copie tous les PDFs du dossier courant vers
-  le dossier ``~/web/pdf/`` sur l'ordinateur *man.fr* pour l'utilisateur *super*).
+  colors the output of the ``rsync`` tool (cf. `<https://rsync.samba.org/>`_) to make it nicer to read and easier to parse.
+  *rsync* is used with all the good options, to allow an efficient and pretty file transfer in a terminal,
+  (with a progression bar in the terminal, like we usually have in a graphical shell),
+  through a network
+  (for example, ``CP *.pdf super@man.fr:~/web/pdf/`` will copy all the PDF files in the current folder to the folder ``~/web/pdf/`` on the distant computer *man.fr* for user *super*),
+  but also locally (e.g., ``CP *.{rst,md,txt} /tmp/``).
 
-  :État: *Stable et performant* :red:`New!`
-
-
-* `pdflatex <bin/pdflatex>`_,
-  un script colorant la sortie de ``pdflatex`` pour la rendre plus lisible (colore ce qui est important).
-
-  :État: *Stable et performant*
+  :State: *Stable and efficient*
 
 
-* `chktex <bin/chktex>`_,
-  un script colorant la sortie de ``chktex`` pour la rendre plus lisible (colore ce qui est important).
+* `pdflatex <bin/pdflatex>`_ and `chktex <bin/chktex>`_
+  are two scripts coloring the output of the LaTeX tools ``pdflatex`` and ``chktex`` (compiling ``.``tex to ``.pdf``, and checking the errors in a ``.tex`` file).
 
-  :État: *Stable et performant*
-
-
-Gallerie photo et lecteur de musique
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `generateglisse.sh <bin/generateglisse.sh>`_ (une démo ? `<generateglisse.sh/>`_ ici),
-  est un script pour générer de jolies galeries photo.
-  Utilise des fichiers disponibles dans le dossier `<bin/generateglisse/>`_.
-  Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
-  (ou n'importe quel dossier dans votre *$PATH*).
-
-  :État: *Super*
+  :State: *Stable and efficient*
 
 
-* `generatejplayer.sh <bin/generatejplayer.sh>`_ (une démo ? `<generatejplayer.sh/>`_ ici),
-  est un script pour générer de superbes playlist pour un dossier contenant des mp3.
-  Utilise des fichiers disponibles dans le dossier `<bin/generatejplayer/>`_.
-  Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
-  (ou n'importe quel dossier dans votre *$PATH*).
+Scripts to generate a photo gallery or a music player
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  :État: *Sympa* (toujours quelques bugs sur certains caractères spéciaux dans les URLs, supporte juste les mp3)
+* `generateglisse.sh <bin/generateglisse.sh>`_ (demo? → `<generateglisse.sh/>`_ here),
+  generates a nice-looking photo gallery (purely static, in pure HTML + js + CSS).
+  It uses files available in the folder `<bin/generateglisse/>`_.
+  You need to download them all, and copy this folder ``generateglisse/`` in your folder *$HOME/bin/*
+  (or in any folder that has been added to your ``$PATH``).
+
+  :State: *Nice and efficient*
 
 
-Utilitaires divers
-^^^^^^^^^^^^^^^^^^
+* `generatejplayer.sh <bin/generatejplayer.sh>`_ (demo? → `<generatejplayer.sh/>`_ here),
+  generates a nice-looking photo gallery (purely static, in pure HTML + js + CSS).
+  It uses files available in the folder `<bin/generatejplayer/>`_.
+  You need to download them all, and copy this folder ``generatejplayer/`` in your folder *$HOME/bin/*
+  (or in any folder that has been added to your ``$PATH``).
+
+  :State: *Quite good* (there is a few bugs with weird non-UTF8 characters in some URL, and it only supports ``mp3``, and not ``ogg`` etc).
+
+
+Some useful command line programs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `autotex <bin/autotex>`_,
-  un outil *expérimental* (uniquement pour GNU/Linux) pour rapidement écrire du \\(\\LaTeX{}\\) sans en-têtes, **juste en écrivant le contenu**.
-  Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.fr.tex <publis/latex/template.fr.tex>`_ (ou `template.en.tex <publis/latex/template.en.tex>`_ en anglais) à sauvegarder dans votre *$HOME* (``~``).
-  D'autres feuilles de style sont disponibles dans le dossier `<publis/latex/>`_.
+  is a *highly experimental* tool (will probably work only in GNU/Linux)
+  to quickly write \\(\\LaTeX{}\\) documents, without to write any header, **just the LaTeX content**.
+  It uses the file `naereen.sty <publis/latex/naereen.sty>`_ as a stylesheet, and `template.en.tex <publis/latex/template.en.tex>`_ (or `template.fr.tex <publis/latex/template.fr.tex>`_ in French), that you have to download and save in your ``$HOME`` (``~``).
+  A few other templates are available in the folder `<publis/latex/>`_
+  (e.g., `template_twocolumns.tex <publis/latex/template_twocolumns.tex>`_ for a document with two columns, and ``autotex`` uses this automatically if the input file has "twocolumns" in in his name).
 
-  :État: *Expérimental* mais fonctionne très bien.
-
-
-* `dl.sh <bin/dl.sh>`_,
-  un script (modifié à chaque utilisation) pour facilement télécharger tous les documents présents sur une page web.
-  Assez expérimental, car l'analyse du code HTML de la page dépend de chaque cas.
-
-  :État: *Expérimental*.
+  :State: *Experimental* but works quite well!
 
 
 * `gravatar.py <bin/gravatar.py>`_,
-  un exemple d'utilisation simple de l'API de `gravatar <https://fr.gravatar.com/>`_.
+  is a simple example using the `Gravatar <https://fr.gravatar.com/>`_ API to display the avatar of someone based on their email.
 
-  :État: *Simpliste*, mais fonctionne :).
-
-
-* `CheckDownload_Pypi.sh <bin/CheckDownload_Pypi.sh>`_,
-  un tout petit script pour lire les statistiques de téléchargement d'un paquet
-  hébergé sur sur `pypi <https://pypi.python.org/>`_.
-  Par exemple, mon `module ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, ou sa version plus récente `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ (Python 2 et 3).
-
-  :État: *Fonctionnait*, mais `pypi`_ a arrêté d'afficher les téléchargements depuis avril 2016.
+  :State: *Demonstration only*.
 
 
 * `PDFCompress <bin/PDFCompress>`_,
-  un script pour automatiquement signer, compresser, ou encore changer les méta-données d'un ou plusieurs document(s) PDF, en ligne de commande.
-  Très utile, notamment avant d'envoyer des PDFs sur un serveur web ou par courriels.
-  Selon le type de *PDF*, l'efficacité de la compression varie de 5% *à 400%* !
+  is a mature script to automatically signed, compressed or change the meta-data of one or more PDF documents, from the command line.
+  Very useful, mostly if you plan to send your PDF document by email or upload them on a website.
+  It varies between documents, and the kind of PDF, but the compression efficiency can be between 5% *to 400%* !
 
-  J'ai enfin ajouté une vérification de l'efficacité de la compression,
-  et il *arrive* que le *PDF* produit soit PLUS lourd qu'avant. Dans ce cas, pas de soucis,
-  il suffit de l'échanger avec l'ancienne version (conservée dans ``/tmp/``).
+  I added a check of the efficiency of the compression, because the process might fail and produce a file *heavier* than it was before. In this case, don't worry, the untouched version is kept in ``/tmp/``.
 
-  Il est désormais muni d'un fichier de bash completion, `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_, avec mon bashrc, il suffit de l'inclure dans ``~/.bash_completion.d``. Sinon, il suffit de l'inclure dans ``/etc/bash_completion.d/``.
+  This script has its own bash completion file, `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_ :
+  with my ``.bashrc`` you only have to download and save this file in the folder ``~/.bash_completion.d``.
+  Or you can simply save it to ``/etc/bash_completion.d/`` (might require the sudo rights).
 
-  :État: *Stable et efficace*.
+  :State: *Stable and efficient*.
 
 
 * `series.sh <bin/series.sh>`_,
-  un script pour automatiser la lecture de l'épisode suivant de la série en cours de lecture.
+  is a simple'n dirty script to automatically play the next episode for your current TV show.
+  It reads a file ``~/current`` to know the folder of the TV show you are currently watching, and then it reads a file ``current_Snn_Emm`` where ``nn`` is the season number (e.g., ``06``) and ``mm`` the episode number (e.g., ``10``).
+  More details in the script itself.
 
-  :red:`Il est désormais muni d'un fichier de bash completion,` `series.sh.bash_completion <bin/series.sh.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
+  This script has its own bash completion file, `series.sh.bash_completion <bin/series.sh.bash_completion>`_ :
+  with my ``.bashrc`` you only have to download and save this file in the folder ``~/.bash_completion.d``.
+  Or you can simply save it to ``/etc/bash_completion.d/`` (might require the sudo rights).
 
-  :État: *Superbe*.
-
-
-* `pytorst.sh <bin/pytorst.sh>`_,
-  un (vieux) script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
-
-  :État: *Terminé*. Note : ``sphinx-apidoc`` ou ``sphinx-autogen`` font pareil, en mieux.
+  :State: *Great*.
 
 
 * `obscureemail.sh <bin/obscureemail.sh>`_,
-  un script pour cacher les adresses emails dans tous les fichiers d'un répertoire.
-  Par défaut, ne cherche que les adresses avec un domaine parmi ceux que j'utilises,
-  et ne modifie que les fichiers *plain/text*.
+  can hide all the email addresses in the ALL the files in a directory (recursively).
+  It hides them by replace a.b@c.d with a.b[AT]c.d or something like this.
+  By default, it searches on only the email domain I use (e.g., NOT @gmail.com, but @crans.org),
+  and only touches *plain/text* file.
 
-  :État: *Assez dangereux* (à manipuler avec précaution).
+  :State: *Dangerous use* (be cautious).
 
 
 * `save_disk_daily.sh <bin/save_disk_daily.sh>`_,
-  un script pour automatiser la sauvegarde d'une distro Ubuntu entière
-  installée via wubi, sur un disque dur externe.
+  is a small script to automatically save your entire Ubuntu distribution,
+  if your laptop runs an Ubuntu installed by `Wubi <https://help.ubuntu.com/community/Wubi>`_, and saves it on an external hard drive.
 
-  :État: *Terminé*.
+  :State: *Done*.
 
 
 * `.color.sh <bin/.color.sh>`_,
-  un script pour définir de nombreuses couleurs ANSI pour GNU Bash,
-  utilisé dans de nombreux autres scripts. Automatiquement généré avec `<publis/ansi-colors/>`_.
-  Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant dans votre ``$HOME``.
+  is a small script which defines a lot of (GNU Bash) variables
+  to use ANSI colors in your GNU Bash session and any scripts.
+  For example: ``echo -e "${red}This is red.${white} That's plain white.${blue}${u} And blue underlined.${reset}"``.
+  This file is generated with my Python module `ansicolortags.py <publis/ansicolortags.py/>`_.
+  They are used by most of my other scripts (but are optional), by sourcing it (``. ~/.color.sh``), and looking for it in your ``$HOME``.
 
-  :État: *Parfait*.
-
-
-* `vrun <bin/vrun>`_,
-  un script pour contrôler ``vlc`` en ligne de commande,
-  est utilisé dans ``series.sh``, et ``.bash_aliases``.
-  *N'est pas écrit par moi !*
-
-  :red:`Il est muni d'un fichier de bash completion,` `vrun.bash_completion <bin/vrun.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
-
-  :État: *Terminé*.
+  :State: *Perfect*. Honestly the GNU Bash script I am the most proud of!
 
 
 * `searchgpg.sh <bin/searchgpg.sh>`_,
-  permet de rechercher dans la base de donnée de `clés GPG <gpg.html>`_ du MIT
-  (serveur `<http://pgp.mit.edu:11371/pks>`_) pour un nom ou prénom.
+  can be used to search in the `GPG keys <gpg.html>`_ MIT database
+  (on the server `<http://pgp.mit.edu:11371/pks>`_) for a name or a firstname.
 
-  :État: *Terminé*. Plus expérimental (et inutile) qu'autre chose.
+  :State: *Done*. More experimental than useful.
 
 
 * `randomgifts.sh <bin/randomgifts.sh>`_,
-  un script pour automatiser l'attribution de cadeaux dans un groupe d'ami.
-  Il lit un fichier ``~/bin/addresses.txt`` contenant les adresses des amis
-  (sous la forme "Prénom Nom <prenom.nom@domain.com>" ou "adresses@dom.com"),
-  et trouve une permutation sans point fixe (*i.e.* un dérangement).
-  Chaque personne reçoit ensuite un mail lui précisant sa *cible*
-  (utilise ``mutt`` et mes fichiers de conf' présents dans `<publis/muttrc/>`_)
-  en lisant le modèle de mail `randomgifts.template.txt <bin/randomgifts.template.txt>`_.
+  is a Secret Santa generator from the command line.
+  It automatically attribute to each of your friends a friend to whom they have to find and offer a gift.
+  It will read the file ``~/bin/addresses.txt`` to know the name and email addresses of your friends
+  (under the form "Firstname Name <firstname.name@domain.com>" or "addresse@dom.com"),
+  and find a non-fix-point permutation of your friends.
+  Each person receives an email stating his "target",
+  by using ``mutt`` and my configuration files from the `<publis/muttrc/>`_ folder, to send an email from the command line,
+  by using the email template `randomgifts.template.txt <bin/randomgifts.template.txt>`_.
 
-  :État: *Trop badass* mais quand même assez expérimental. `Ce site fait pareil mais en mieux <https://secretsantagenerator.net/pages/about>`_.
+  :State: *Cool* but still pretty experimental. `For real use, check-out this website <https://secretsantagenerator.net/pages/about>`_.
 
 
-Quelques scripts pour jouer avec des citations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A few scripts to play with "quotes"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `quotes.sh <bin/quotes.sh>`_,
-  pour récupérer une citation (aléatoire ou non) depuis `<https://www.wikiquote.org>`_.
+  download some quotes (randomly or not) from `<https://www.wikiquote.org>`_.
 
-  :État: *Stable*.
+  :State: *Simple but works*.
 
 
 * `makequotes.sh <bin/makequotes.sh>`_,
-  pour construire une liste de citation
-  (une fichier texte avec une citation complète par ligne).
-  Utilise `quotes.sh`. A permis de construire `<publis/.quotes.txt>`_ !
+  builds a list of quotes
+  (a text file with one full quote on each line).
+  It requires `quotes.sh`, and helped to generate `<publis/.quotes.txt>`_ !
 
-  :État: *Stable*.
+  :State: *Stable*.
 
 * `RandQuote.sh <bin/RandQuote.sh>`_,
-  pour afficher une citation aléatoire (graphiquement avec *zenity*)
-  lue depuis le fichier `<publis/.quotes.txt>`_ (qui doit être sauvé dans votre *$HOME*).
+  displays a random quote (graphically with *zenity*),
+  read from the file `.quotes.txt <publis/.quotes.txt>`_ (which has to be downloaded and saved to your ``$HOME``).
 
-  :État: *Super cool*.
+  :State: *Pretty cool*, isn't it?
 
 * `MailRandQuote.sh <bin/RandQuote.sh>`_,
-  pour envoyer par email une citation aléatoire. Utilise `<bin/mail_ghost.py>`_.
+  does the same but by sending the quote by email. It uses `<bin/mail_ghost.py>`_.
 
-  :État: *Super cool*.
+  :State: *Cool*.
 
 
 * `changemotd.sh <bin/changemotd.sh>`_,
-  un script pour changer le "message of the day" (motd) interactivement
-  (dans le terminal avec *dialog* ou graphiquement avec *zenity*)
+  is a script to display or edit the "message of the day" (motd) file (``~/motd``),
+  in a terminal by using ``dialog`` or graphically using ``zenity``.
 
-  :État: *Fonctionnel*.
+  :State: *Works*.
 
 
-Une expérience: des exercices de maths reçus par email ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_.
+A geeky experiment: receive unsolved maths problems by email?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+These scripts are based on the famous French website `<http://mp.cpgedupuydelome.fr>`_, which hosts thousands of maths problems and exercises (level ~= 1st and 2nd year of Bachelor).
 
 * `Exercice.sh <bin/Exercice.sh>`_,
-  récupère un exercice aléatoire. Lance *elinks* sur la page, à moins d'être appelé
-  avec l'option ``--static``. Encore expérimental pour récupérer le code TeX de chaque exo.
+  downloads a random exercise, and launches *elinks* on the page, except it it has the ``--static`` option, in which case the *raw* TeX code for the exercise (still experimental).
 
-  :État: *Fonctionnel*.
+  :State: *Works*.
 
 * `MailExercice.sh <bin/MailExercice.sh>`_,
-  envoie par email un exercice aléatoire. Peut être appelé avec l'option ``html`` pour envoyer
-  un email formaté en HTML, plus lisible (et qui embarque une autre expérience, l'analyse
-  d'audience via *ga-beacon*, voir `<beacon.html>`_ pour plus d'infos).
-  Encore expérimental pour formater le texte de chaque exercice de façon *vraiment* lisible..
+  sends such a random exercise by email. It can be called with the ``html`` option
+  to *try* to send an HTML-formated email, more readable (which embeds another experiment,
+  the audience analytic with *ga-beacon*, cf. this page `<beacon.html>`_ for more information).
+  The HTML formatting is still experimental.
 
-  :État: *Super cool*.
+  :State: *Pretty cool*.
 
 
-Pour améliorer certains toplevels
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+To improve the use of some *toplevel*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `mocaml <bin/mocaml>`_,
-  une petite surcouche au toplevel ``OCaml``. Utilise *rlwrap* et *ledit*.
-  Fonctionne encore mieux avec cette liste de mots-clés (qui permet d'avoir une tab-complétion) :
-  `keyword_mocaml_rlwrap.txt <bin/keyword_mocaml_rlwrap.txt>`_ à sauvegarder dans votre *$HOME*.
+  is a small overload of the ``OCaml``. It uses the linux tools *rlwrap* and *ledit*.
+  It works even better with this list of OCaml keywords (which allows to have a nice tab-completion feature):
+  `keyword_mocaml_rlwrap.txt <bin/keyword_mocaml_rlwrap.txt>`_, to be downloaded and save in your ``$HOME``.
 
-  :État: *Fonctionne*.
-
-
-* Dans le même genre, `iocaml <bin/iocaml>`_ et `ocm <bin/ocm>`_
-  sont deux expériences pour une meilleure utilisation du terminal ``OCaml``.
-
-  :État: *Plutôt expérimental*.
+  :State: *Works, so fine*. Note: if you can, install `utop <https://github.com/diml/utop>`_, it is a FAR BETTER toplevel for ``OCaml``.
 
 
-* `octave <bin/octave>`_ et `octave-gui <bin/octave-gui>`_,
-  deux scripts pour mieux utiliser ``GNU Octave``.
+* Similarly, `iocaml <bin/iocaml>`_ and `ocm <bin/ocm>`_
+  are two experiments to try to use more cleverly the ``OCaml`` toplevel.
 
-  :État: *Terminé*.
+  :State: *Experimental*.
+
+
+* `octave <bin/octave>`_ and `octave-gui <bin/octave-gui>`_,
+  are two scripts to start ``GNU Octave`` interface, the toplevel or the GUI, with the good options.
+
+  :State: *Done*.
 
 
 * `.pythonrc <bin/.pythonrc>`_,
-  fichier d'initialisation ``Python`` lancé au démarrage du toplevel ``Python``.
+  initialisation file for the ``Python`` toplevel.
 
-  :État: *Terminé*.
+  :State: *Done*, quite convenient (for Python 2, the readline interface was not loaded by default).
 
 
 * `.ocamlinit <bin/.ocamlinit>`_,
-  fichier d'initialisation ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
+  initialisation file for the ``OCaml`` toplevel.
 
-  :État: *Nul*.
+  :State: *OK*.
 
 
-Manipuler l'état de l'ordinateur (volume, batterie, ..)
-
+Manipulate volume or hibernation from command line
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,
-  un script pour mettre l'ordinateur en veille depuis un accès ssh.
+  to make your laptop sleep, and it even works through an SSH connexion.
 
-  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
+  :State: *Experimental*, works on my machine (not tested elsewhere)...
 
 
 * `Volume.sh <bin/Volume.sh>`_,
-  un script pour manipuler le volume de votre ordinateur en ligne de commande.
+  to handle the volume of your laptop from command line (e.g., ``Volume.sh ++``, ``Volume.sh --`` to increase or decrease the volume).
 
-  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
+  :State: *Experimental*, works on my machine (not tested elsewhere)...
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

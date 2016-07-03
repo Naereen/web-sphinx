@@ -19,6 +19,8 @@ Cette page est là pour décrire **certains** éléments du dossier `<bin/>`_,
 qui contient un certain nombre de petits logiciels, scripts ou autres utilitaires.
 La plupart d'entre eux ont été écrits par `moi <index.html>`_.
 
+.. todo:: Ajouter des explications pour d'autres scripts importants.
+
 .. sidebar:: Retourner à l'accueil
 
    Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
@@ -75,31 +77,26 @@ Wrapper colorant la sortie de commandes courantes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `ocamlc <bin/ocamlc>`_ et `ocamlopt <bin/ocamlopt>`_,
-  deux scripts colorant la sortie des compilateurs OCaml ``ocamlc`` et
+  deux scripts colorant la sortie des `compilateurs OCaml <https://ocaml.org/learn/tutorials/compiling_ocaml_projects.html#ocamlcandocamlopt>`_ ``ocamlc`` et
   ``ocamlopt`` pour la rendre plus lisible (colore ce qui est important, souligne les erreurs en rouge).
-  **Attention** éventuellement, le chemin ``/usr/local/bin/ocamlc`` est à adapter (sur votre machine, c'est sûrement /usr/bin/ocamlc).
-
-  :État: *Stable et performant* :red:`New!`
-
-
-* `CP <bin/CP>`_,
-  un script colorant la sortie de ``rsync`` pour la rendre plus lisible.
-  *rsync* est utilisé avec les bonnes options, pour permettre un transfert de fichier efficace,
-  joli (avec une barre de progression dans le terminal), à travers le réseau
-  (par ex. ``CP *.pdf super@man.fr:~/web/pdf/`` copie tous les PDFs du dossier courant vers
-  le dossier ``~/web/pdf/`` sur l'ordinateur *man.fr* pour l'utilisateur *super*).
-
-  :État: *Stable et performant* :red:`New!`
-
-
-* `pdflatex <bin/pdflatex>`_,
-  un script colorant la sortie de ``pdflatex`` pour la rendre plus lisible (colore ce qui est important).
+  **Attention** éventuellement, le chemin vers les binaries ``ocamlc`` et ``ocamlopt`` ``/usr/local/bin/ocamlc`` est à adapter (sur votre machine, c'est sûrement ``/usr/bin/ocamlc``).
 
   :État: *Stable et performant*
 
 
-* `chktex <bin/chktex>`_,
-  un script colorant la sortie de ``chktex`` pour la rendre plus lisible (colore ce qui est important).
+* `CP <bin/CP>`_,
+  un script colorant la sortie de la commande ``rsync`` (cf. `<https://rsync.samba.org/>`_) pour la rendre plus lisible.
+  *rsync* est utilisé avec les bonnes options, pour permettre un transfert de fichier efficace,
+  joli (avec une barre de progression dans le terminal), à travers le réseau
+  (par ex. ``CP *.pdf super@man.fr:~/web/pdf/`` copie tous les PDFs du dossier courant vers
+  le dossier ``~/web/pdf/`` sur l'ordinateur *man.fr* pour l'utilisateur *super*).
+  ou localement (e.g., ``CP *.{rst,md,txt} /tmp/``).
+
+  :État: *Stable et performant*
+
+
+* `pdflatex <bin/pdflatex>`_ et `chktex <bin/chktex>`_
+  sont deux scripts colorant la sortie des outils LaTeX en ligne de commandes ``pdflatex`` et ``chktex`` (pour compiler un fichier ``.tex`` en ``.pdf``, ou pour vérifier les erreurs dans un fichier ``.tex``).
 
   :État: *Stable et performant*
 
@@ -108,19 +105,19 @@ Gallerie photo et lecteur de musique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `generateglisse.sh <bin/generateglisse.sh>`_ (une démo ? `<generateglisse.sh/>`_ ici),
-  est un script pour générer de jolies galeries photo.
+  est un script pour générer de jolies galeries photo (purement statique, juste du HTML + js + CSS).
   Utilise des fichiers disponibles dans le dossier `<bin/generateglisse/>`_.
-  Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
-  (ou n'importe quel dossier dans votre *$PATH*).
+  Il faut tout télécharger, et copier ce dossier ``generateglisse/`` dans *$HOME/bin/*
+  (ou n'importe quel dossier dans votre ``$PATH``).
 
   :État: *Super*
 
 
 * `generatejplayer.sh <bin/generatejplayer.sh>`_ (une démo ? `<generatejplayer.sh/>`_ ici),
-  est un script pour générer de superbes playlist pour un dossier contenant des mp3.
+  est un script pour générer de superbes playlist pour un dossier contenant des ``mp3``.
   Utilise des fichiers disponibles dans le dossier `<bin/generatejplayer/>`_.
   Il faut tout télécharger, et copier ce dossier dans *$HOME/bin/*
-  (ou n'importe quel dossier dans votre *$PATH*).
+  (ou n'importe quel dossier dans votre ``$PATH``).
 
   :État: *Sympa* (toujours quelques bugs sur certains caractères spéciaux dans les URLs, supporte juste les mp3)
 
@@ -131,30 +128,16 @@ Utilitaires divers
 * `autotex <bin/autotex>`_,
   un outil *expérimental* (uniquement pour GNU/Linux) pour rapidement écrire du \\(\\LaTeX{}\\) sans en-têtes, **juste en écrivant le contenu**.
   Repose sur `naereen.sty <publis/latex/naereen.sty>`_ pour le style, et `template.fr.tex <publis/latex/template.fr.tex>`_ (ou `template.en.tex <publis/latex/template.en.tex>`_ en anglais) à sauvegarder dans votre *$HOME* (``~``).
-  D'autres feuilles de style sont disponibles dans le dossier `<publis/latex/>`_.
+  D'autres modèles de documents sont disponibles dans le dossier `<publis/latex/>`_
+  (e.g., `template_twocolumns.tex <publis/latex/template_twocolumns.tex>`_ pour un document à deux colonnes, et ``autotex`` utilise celui-là automatiquement si le fichier d'entrée contient "twocolumns" dans son nom).
 
   :État: *Expérimental* mais fonctionne très bien.
-
-
-* `dl.sh <bin/dl.sh>`_,
-  un script (modifié à chaque utilisation) pour facilement télécharger tous les documents présents sur une page web.
-  Assez expérimental, car l'analyse du code HTML de la page dépend de chaque cas.
-
-  :État: *Expérimental*.
 
 
 * `gravatar.py <bin/gravatar.py>`_,
   un exemple d'utilisation simple de l'API de `gravatar <https://fr.gravatar.com/>`_.
 
   :État: *Simpliste*, mais fonctionne :).
-
-
-* `CheckDownload_Pypi.sh <bin/CheckDownload_Pypi.sh>`_,
-  un tout petit script pour lire les statistiques de téléchargement d'un paquet
-  hébergé sur sur `pypi <https://pypi.python.org/>`_.
-  Par exemple, mon `module ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, ou sa version plus récente `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ (Python 2 et 3).
-
-  :État: *Fonctionnait*, mais `pypi`_ a arrêté d'afficher les téléchargements depuis avril 2016.
 
 
 * `PDFCompress <bin/PDFCompress>`_,
@@ -166,7 +149,9 @@ Utilitaires divers
   et il *arrive* que le *PDF* produit soit PLUS lourd qu'avant. Dans ce cas, pas de soucis,
   il suffit de l'échanger avec l'ancienne version (conservée dans ``/tmp/``).
 
-  Il est désormais muni d'un fichier de bash completion, `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_, avec mon bashrc, il suffit de l'inclure dans ``~/.bash_completion.d``. Sinon, il suffit de l'inclure dans ``/etc/bash_completion.d/``.
+  Il est désormais muni d'un fichier de bash completion, `PDFCompress.bash_completion <bin/PDFCompress.bash_completion>`_ :
+  avec mon ``.bashrc``, il suffit de l'inclure dans ``~/.bash_completion.d``.
+  Sinon, il suffit de l'inclure dans ``/etc/bash_completion.d/`` (les droits sudo peuvent être requis).
 
   :État: *Stable et efficace*.
 
@@ -174,15 +159,11 @@ Utilitaires divers
 * `series.sh <bin/series.sh>`_,
   un script pour automatiser la lecture de l'épisode suivant de la série en cours de lecture.
 
-  :red:`Il est désormais muni d'un fichier de bash completion,` `series.sh.bash_completion <bin/series.sh.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
+  Il est désormais muni d'un fichier de bash completion, `series.sh.bash_completion <bin/series.sh.bash_completion>`_ :
+  avec mon ``.bashrc``, il suffit de l'inclure dans ``~/.bash_completion.d``.
+  Sinon, il suffit de l'inclure dans ``/etc/bash_completion.d/`` (les droits sudo peuvent être requis).!
 
   :État: *Superbe*.
-
-
-* `pytorst.sh <bin/pytorst.sh>`_,
-  un (vieux) script pour automatiser l'écriture d'un fichier .rst pour documenter un script via Sphinx.
-
-  :État: *Terminé*. Note : ``sphinx-apidoc`` ou ``sphinx-autogen`` font pareil, en mieux.
 
 
 * `obscureemail.sh <bin/obscureemail.sh>`_,
@@ -195,27 +176,19 @@ Utilitaires divers
 
 * `save_disk_daily.sh <bin/save_disk_daily.sh>`_,
   un script pour automatiser la sauvegarde d'une distro Ubuntu entière
-  installée via wubi, sur un disque dur externe.
+  installée via `Wubi <https://doc.ubuntu-fr.org/wubi>`_, sur un disque dur externe.
 
   :État: *Terminé*.
 
 
 * `.color.sh <bin/.color.sh>`_,
   un script pour définir de nombreuses couleurs ANSI pour GNU Bash,
-  utilisé dans de nombreux autres scripts. Automatiquement généré avec `<publis/ansi-colors/>`_.
+  utilisé dans de nombreux autres scripts (mais elles sont optionelles).
+  Un exemple : ``echo -e "${red}C'est rouge.${white} Et blanc.${blue}${u} Et bleu et souligné.${reset}"``.
+  Automatiquement généré avec `ansicolortags.py <publis/ansicolortags.py/>`_.
   Il est utilisé par de nombreux autres scripts, qui l'importent, en le cherchant dans votre ``$HOME``.
 
-  :État: *Parfait*.
-
-
-* `vrun <bin/vrun>`_,
-  un script pour contrôler ``vlc`` en ligne de commande,
-  est utilisé dans ``series.sh``, et ``.bash_aliases``.
-  *N'est pas écrit par moi !*
-
-  :red:`Il est muni d'un fichier de bash completion,` `vrun.bash_completion <bin/vrun.bash_completion>`_:red:`, avec mon bashrc, il suffit de l'inclure dans ~/.bash_completion.d. Sinon, il suffit de l'inclure dans /etc/bash_completion.d/ !`
-
-  :État: *Terminé*.
+  :État: *Parfait*. Sincèrement, c'est le script GNU Bash dont je suis le plus fier !
 
 
 * `searchgpg.sh <bin/searchgpg.sh>`_,
@@ -228,13 +201,13 @@ Utilitaires divers
 * `randomgifts.sh <bin/randomgifts.sh>`_,
   un script pour automatiser l'attribution de cadeaux dans un groupe d'ami.
   Il lit un fichier ``~/bin/addresses.txt`` contenant les adresses des amis
-  (sous la forme "Prénom Nom <prenom.nom@domain.com>" ou "adresses@dom.com"),
+  (sous la forme "Prénom Nom <prenom.nom@domain.com>" ou "adresse@dom.com"),
   et trouve une permutation sans point fixe (*i.e.* un dérangement).
   Chaque personne reçoit ensuite un mail lui précisant sa *cible*
   (utilise ``mutt`` et mes fichiers de conf' présents dans `<publis/muttrc/>`_)
   en lisant le modèle de mail `randomgifts.template.txt <bin/randomgifts.template.txt>`_.
 
-  :État: *Trop badass* mais quand même assez expérimental. `Ce site fait pareil mais en mieux <https://secretsantagenerator.net/pages/about>`_.
+  :État: *Cool* mais quand même assez expérimental. `Ce site fait pareil mais en mieux <https://secretsantagenerator.net/pages/about>`_.
 
 
 Quelques scripts pour jouer avec des citations
@@ -254,10 +227,10 @@ Quelques scripts pour jouer avec des citations
   :État: *Stable*.
 
 * `RandQuote.sh <bin/RandQuote.sh>`_,
-  pour afficher une citation aléatoire (graphiquement avec *zenity*)
+  pour afficher une citation aléatoire (graphiquement avec *zenity*),
   lue depuis le fichier `<publis/.quotes.txt>`_ (qui doit être sauvé dans votre *$HOME*).
 
-  :État: *Super cool*.
+  :État: *Super cool*, non?
 
 * `MailRandQuote.sh <bin/RandQuote.sh>`_,
   pour envoyer par email une citation aléatoire. Utilise `<bin/mail_ghost.py>`_.
@@ -266,7 +239,7 @@ Quelques scripts pour jouer avec des citations
 
 
 * `changemotd.sh <bin/changemotd.sh>`_,
-  un script pour changer le "message of the day" (motd) interactivement
+  un script pour changer le fichier (``~/motd``) "message of the day" (motd) interactivement
   (dans le terminal avec *dialog* ou graphiquement avec *zenity*)
 
   :État: *Fonctionnel*.
@@ -274,7 +247,7 @@ Quelques scripts pour jouer avec des citations
 
 Une expérience: des exercices de maths reçus par email ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_.
+Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_, qui héberge des milliers d'exercices de maths (niveau ~= 1ère et 2ème année de Licence).
 
 * `Exercice.sh <bin/Exercice.sh>`_,
   récupère un exercice aléatoire. Lance *elinks* sur la page, à moins d'être appelé
@@ -291,15 +264,15 @@ Ces scripts se basent sur le superbe site `<http://mp.cpgedupuydelome.fr>`_.
   :État: *Super cool*.
 
 
-Pour améliorer certains toplevels
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pour améliorer certains *toplevels*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `mocaml <bin/mocaml>`_,
   une petite surcouche au toplevel ``OCaml``. Utilise *rlwrap* et *ledit*.
   Fonctionne encore mieux avec cette liste de mots-clés (qui permet d'avoir une tab-complétion) :
   `keyword_mocaml_rlwrap.txt <bin/keyword_mocaml_rlwrap.txt>`_ à sauvegarder dans votre *$HOME*.
 
-  :État: *Fonctionne*.
+  :État: *Fonctionne*. Note : si vous pouvez, installez `utop <https://github.com/diml/utop>`_, c'est une BIEN MEILLEURE alternative au toplevel ``OCaml`` par défaut.
 
 
 * Dans le même genre, `iocaml <bin/iocaml>`_ et `ocm <bin/ocm>`_
@@ -309,7 +282,7 @@ Pour améliorer certains toplevels
 
 
 * `octave <bin/octave>`_ et `octave-gui <bin/octave-gui>`_,
-  deux scripts pour mieux utiliser ``GNU Octave``.
+  deux scripts pour mieux utiliser ``GNU Octave``, console ou interface graphique, avec les bonnes options.
 
   :État: *Terminé*.
 
@@ -317,28 +290,28 @@ Pour améliorer certains toplevels
 * `.pythonrc <bin/.pythonrc>`_,
   fichier d'initialisation ``Python`` lancé au démarrage du toplevel ``Python``.
 
-  :État: *Terminé*.
+  :État: *Terminé*, assez pratique (en Python 2, l'interface readline n'était pas lancée par défaut).
 
 
 * `.ocamlinit <bin/.ocamlinit>`_,
   fichier d'initialisation ``OCaml`` lancé au démarrage du toplevel ``OCaml``.
 
-  :État: *Nul*.
+  :État: *OK*.
 
 
 Manipuler l'état de l'ordinateur (volume, batterie, ..)
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,
   un script pour mettre l'ordinateur en veille depuis un accès ssh.
 
-  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
+  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)...
 
 
 * `Volume.sh <bin/Volume.sh>`_,
-  un script pour manipuler le volume de votre ordinateur en ligne de commande.
+  un script pour manipuler le volume de votre ordinateur en ligne de commande. (e.g., ``Volume.sh ++``, ``Volume.sh --`` pour augmenter ou diminuer le volume).
 
-  :État: *Expérimental*, marche sur ma machine *seulement* (enfin, pas testé ailleurs)...
+  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)...
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
