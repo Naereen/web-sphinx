@@ -57,7 +57,7 @@ Regular phone
 
 To speak directly, but **only if it is really important**, you can try to call me, you could use my French cellphone number:.
 
-.. warning:: I am currently out of the French territory, living in Switzerland (in Lausanne).
+.. warning:: I am currently out of the French territory, living in Switzerland (in Lausanne), and these days I am travelling in Budapest and Viena (:gray:`14-07-16`).
 
    Calling someone in a foreign country can be expensive!
    In fact, even receiving them is costly, so please avoid it (if possible).

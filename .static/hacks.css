@@ -6,7 +6,8 @@
 /* Colors and text decoration.
  For example, :black:`text in black` or :blink:`text blinking` in rST. */
   .black	{ color:black; }
-  .gray	{ color:gray; }
+  .gray { color:gray; }
+  .grey	{ color:gray; }
   .silver	{ color:silver; }
   .white	{ color:white; }
   .maroon	{ color:maroon; }

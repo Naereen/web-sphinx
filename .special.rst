@@ -2,6 +2,7 @@
 .. Has to be used with hacks.css (bitbucket.org/lbesson/web-sphinx/src/master/.static/hacks.css)
 .. role:: black
 .. role:: gray
+.. role:: grey
 .. role:: silver
 .. role:: white
 .. role:: maroon
