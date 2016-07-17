@@ -57,7 +57,7 @@ Téléphone
 
 Pour essayer de m'avoir directement (si c'est vraiment important), veuillez utiliser mon numéro français.
 
-.. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne), et voyageant ces jours-ci à Budapest et Vienne (:gray:`14-07-16`).
+.. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne).
 
     Les appels vers l'étranger coûtent cher ! Même recevoir des appels
     coûte cher (pour moi), svp évitez si possible.
