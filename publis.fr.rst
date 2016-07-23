@@ -288,8 +288,8 @@ Par exemple :
 
    open Zenity;;
    let ma_couleur = color_selection ~title:"Choisir une couleur" () ;;
-   (* Permet de demander à l'utilisateur de choisir une couleur,
-   revient à invoquer $ zenity --color-selection --title="Choisir une couleur" dans un terminal. *)
+   (* Permet de demander à l'utilisateur de choisir une couleur, et la renvoie dans une chaîne,
+   revient à invoquer 'zenity --color-selection --title="Choisir une couleur"', dans un terminal. *)
 
 
 :État: *N'est plus maintenu activement* (avril 2014) mais fonctionne avec les dernières versions d'OCaml (4.03.0) et de Zenity.

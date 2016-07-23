@@ -291,8 +291,8 @@ For instance, in a OCaml console or in a program:
 
    open Zenity;;
    let my_color = color_selection ~title:"Choose a color please" () ;;
-   (* Will ask the user to select a color, a return it as a string,
-   it does the same as calling $ zenity --color-selection --title="Choose a color please", in a terminal. *)
+   (* Will ask the user to select a color, and return it as a string,
+   it does the same as calling 'zenity --color-selection --title="Choose a color please"', in a terminal. *)
 
 
 :State: *Not actively maintained* (April 2014), but it works with the latest versions of OCaml (4.03.0) and Zenity.
