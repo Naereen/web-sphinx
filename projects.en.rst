@@ -84,14 +84,6 @@ Studies and past jobs
 
 ------------------------------------------------------------------------------
 
-.. sidebar:: Other language: in French
-
-   :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
-   `en français <index.fr.html>`_ :red:`?`
-   Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
-   or `<index.en.html>`_, according to the preference of your browser.
-
-
 .. note:: Contact me?
 
    Feel free to *contact* me by `the solution you prefer <callme.en.html>`_.
@@ -105,6 +97,14 @@ Some of my profile pages on some great websites:
   #. or my *Github* account `GitHub.com/Naereen <https://github.com/Naereen>`_;
   #. or with my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_;
   #. or on *Transifex* `profile/Naereen <https://www.transifex.com/accounts/profile/Naereen/>`_ (almost not used anymore).
+
+
+.. sidebar:: Other language: in French
+
+   :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
+   `en français <index.fr.html>`_ :red:`?`
+   Now, the page `<index.html>`_ should redirect to `<index.fr.html>`_
+   or `<index.en.html>`_, according to the preference of your browser.
 
 ------------------------------------------------------------------------------
 
