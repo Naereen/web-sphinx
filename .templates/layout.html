@@ -93,8 +93,10 @@
   function writeLocationOfThePage(beforetext, aftertext) {
     if (screen.width > 480) {
     window.document.write(beforetext + "<span class=\"locationOfThePage\">"
-      + "<a title=\"Cette page\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.pathname
-      + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname
+      + "<a title=\"Cette page '" + window.location.protocol + "//" + window.location.host + window.location.pathname
+      + "'\" href=\"" + window.location.protocol + "//" + window.location.host + window.location.pathname
+      // + "\">" + window.location.protocol + "//" + window.location.host + window.location.pathname  // XXX Old style, full URL
+      + "\">" + window.location.pathname.split('/').pop()  // XXX New style, only the pagename
       + "</a></span>" + aftertext);
     };
     if (e == '.fr.html') {
