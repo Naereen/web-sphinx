@@ -133,13 +133,13 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 - Et pour le choix de langages, j'ai surtout utilisé `Markdown <https://wakatime.com/leaders/markdown>`_ (177 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (160 h), `Python <https://wakatime.com/leaders/python>`_ (151 h) et `reStructuredText <demo.html>`_ (85 h, et `je suis souvent 1er utilisateur de reStructuredText dans le tableau des utilisateurs les plus actifs sur WakaTime <https://wakatime.com/leaders/restructuredtext>`_ !); et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
 - `Voir les captures d'écran dans ce dossier <./_images/WakaTime_a_look_back_at_2015/>`_ si besoin.
 
-Petit interlude
-^^^^^^^^^^^^^^^
-.. image::  http://imgs.xkcd.com/comics/time_tracking_software.png
-   :target: https://xkcd.com/1690/
+Petit interlude (de `XKCD.com <https://xkcd.com/>`_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image::  .time_tracking_software.png
    :width:  50%
    :align:  center
-   :alt:    Time-Tracking Software on XKCD.com (https://xkcd.com/1690/)
+   :alt:    Time-Tracking Software (https://xkcd.com/1690/)
+   :target: https://xkcd.com/1690/
 
 ------------------------------------------------------------------------------
 

@@ -38,8 +38,8 @@ Liste des outils
 .. image::	.free_speech.png
    :scale:	100 %
    :align:	center
-   :alt:	Free Speech
-   :target:	http://xkcd.com/1357/
+   :alt:	Free Speech (https://xkcd.com/1357/)
+   :target:	https://xkcd.com/1357/
 
 
 .. note:: Liste des références
@@ -155,8 +155,8 @@ Protéger sa vie privée
 .. image::	.nerd_dream_security.png
    :scale:	100 %
    :align:	center
-   :alt:	Nerd dream about Security
-   :target:	http://xkcd.com/538/
+   :alt:	Nerd dream about Security (https://xkcd.com/538/)
+   :target:	https://xkcd.com/538/
 
 
 ---------------------------------------------------------------------
