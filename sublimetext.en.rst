@@ -21,7 +21,7 @@ This page is there to quickly describe how I use on a daily basis the awesome **
    Needless to say that `I use it constantly <https://wakatime.com/@lbesson/>`_, mostly on Linux (Ubuntu 15.10), and on Windows (7).
 
    The Wikipedia page `on text editors <https://en.wikipedia.org/wiki/Comparison_of_text_editors>`_ contains a list of the most popular publishers multi-platform text.
-   Sublime Text is obviously on the list, along with `gedit <./publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
+   Sublime Text is obviously on the list, along with `gedit <publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
 
 
 
@@ -105,9 +105,9 @@ This (old) `wiki dedicated to Sublime Text <http://sublime-text-community-packag
 
 How I use Sublime Text 3
 ------------------------
-`My configuration <./publis/ST3/>`_
+`My configuration <publis/ST3/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-My configuration files, scripts and snippets of buildings for `Sublime Text 3`_ are all in the folder `publis/ST3 <./publis/ST3/>`_.
+My configuration files, scripts and snippets of buildings for `Sublime Text 3`_ are all in the folder `publis/ST3 <publis/ST3/>`_.
 
 To use one of these files (``.sublime-settings``, ``.sublime-snippet``, ``.sublime-macro`` or ``.sublime-build``), just copy it into `your Packages/User folder <http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-packages-directory>`_.
 More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
@@ -124,11 +124,11 @@ Config
 
 My configuration files:
 
-* `Preferences.sublime-settings <./publis/ST3/Preferences.sublime-settings>`_ is the main config file.
+* `Preferences.sublime-settings <publis/ST3/Preferences.sublime-settings>`_ is the main config file.
 
-* `Distraction Free.sublime-settings <./publis/ST3/Distraction%20Free.sublime-settings>`_ is the specific configuration mode "distraction free". I like this mode because it allows me to project code during a presentation or courses, and zoom in on up to an important element.
+* `Distraction Free.sublime-settings <publis/ST3/Distraction%20Free.sublime-settings>`_ is the specific configuration mode "distraction free". I like this mode because it allows me to project code during a presentation or courses, and zoom in on up to an important element.
 
-* `Package Control.sublime-settings <./publis/ST3/Package%20Control.sublime-settings>`_ just gives a complete list of installed packages (also `packages.list <./publis/packages.list>`_).
+* `Package Control.sublime-settings <publis/ST3/Package%20Control.sublime-settings>`_ just gives a complete list of installed packages (also `packages.list <publis/packages.list>`_).
 
 Key shortcuts
 ~~~~~~~~~~~~~
@@ -140,8 +140,8 @@ Key shortcuts
 Like (almost) everything else in Sublime Text, it's easy to modify or add key shortcut for anything.
 It can be done globaly, or project wise or language wise.
 
-* `Default (Linux).sublime-keymap <./publis/ST3/Default%20(Linux).sublime-keymap>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line),
-* `Python.sublime-keymap <./publis/ST3/Python.sublime-keymap>`_ adds some Python-specific key shortcuts (to be used with `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_).
+* `Default (Linux).sublime-keymap <publis/ST3/Default%20(Linux).sublime-keymap>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line),
+* `Python.sublime-keymap <publis/ST3/Python.sublime-keymap>`_ adds some Python-specific key shortcuts (to be used with `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_).
 
 
 Snippets
@@ -153,12 +153,12 @@ Snippets
 
 List of my snippets:
 
-* `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ to easily create a new `Python <python.html>`_ script,
-* `newpython3.sublime-snippet <./publis/ST3/newpython3.sublime-snippet>`_ to easily create a new `Python 3K <python.html>`_ script,
-* `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <./bin/>`_.
-* `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_.
-* `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.org/md/>`_!
-
+* `newpython.sublime-snippet <publis/ST3/newpython.sublime-snippet>`_ to easily create a new `Python <python.html>`_ script,
+* `newpython3.sublime-snippet <publis/ST3/newpython3.sublime-snippet>`_ to easily create a new `Python 3K <python.html>`_ script,
+* `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <bin/>`_.
+* `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <publis/autotex>`_.
+* `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.org/md/>`_!
+* Snippets for LaTeX, to quickly start a new empty environment (``\begin{stuff}...\env{stuff}``) related to math, for the following (non-standard) environment: `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_.
 
 Build systems
 ~~~~~~~~~~~~~
@@ -173,10 +173,10 @@ ST3 comes with build scripts for a dozen language, and it is easy to create and 
 
 List of my build systems:
 
-* A Bash script can easily be executed (*without* arguments) with the build script `bash.sublime-build <./publis/ST3/bash.sublime-build>`_.
-* An Octave script can easily be executed (*without* arguments) with the build script `octave.sublime-build <./publis/ST3/octave.sublime-build>`_.
-* A \\(\\LaTeX{}\\) document powered by `autotex <./publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <./bin/pdflatex>`_).
-* `StrapDownJS.sublime-build <./publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
+* A Bash script can easily be executed (*without* arguments) with the build script `bash.sublime-build <publis/ST3/bash.sublime-build>`_.
+* An Octave script can easily be executed (*without* arguments) with the build script `octave.sublime-build <publis/ST3/octave.sublime-build>`_.
+* A \\(\\LaTeX{}\\) document powered by `autotex <publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <bin/pdflatex>`_).
+* `StrapDownJS.sublime-build <publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
 
 
 Macro
@@ -190,8 +190,8 @@ With Sublime Text (as with other good text editors), it is possible `to record <
 
 List of my macros (just two right now):
 
-* `copy-to-the-end-of-the-line.sublime-macro <./publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ to select and copy the text of the current line, from the current cursor to the *end* of the line. I associated it the ``Ctrl+Alt+e`` keyboard shortcut.
-* and `copy-to-the-beginning-of-the-line.sublime-macro <./publis/ST3/copy-to-the-beginning-of-the-line.sublime-macro>`_ does the same thing, but select and copy the text from the current cursor to the *beginning* of the line. I associated it the ``Ctrl+Alt+Maj+e`` keyboard shortcut (as the modifier ``Maj`` is already used for ``Ctrl+e`` "go to end of the line" and ``Ctrl+Maj+e`` "go to the beginning of the line").
+* `copy-to-the-end-of-the-line.sublime-macro <publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ to select and copy the text of the current line, from the current cursor to the *end* of the line. I associated it the ``Ctrl+Alt+e`` keyboard shortcut.
+* and `copy-to-the-beginning-of-the-line.sublime-macro <publis/ST3/copy-to-the-beginning-of-the-line.sublime-macro>`_ does the same thing, but select and copy the text from the current cursor to the *beginning* of the line. I associated it the ``Ctrl+Alt+Maj+e`` keyboard shortcut (as the modifier ``Maj`` is already used for ``Ctrl+e`` "go to end of the line" and ``Ctrl+Maj+e`` "go to the beginning of the line").
 
 -----------------------------------------------------------------------------
 
@@ -273,26 +273,26 @@ Some plugin-specific configuration files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some plugins can be configured specifically. Here are their different settings:
 
-* `Anaconda.sublime-settings <./publis/ST3/Anaconda.sublime-settings>`_,
-* `ColorHighlighter.sublime-settings <./publis/ST3/ColorHighlighter.sublime-settings>`_,
-* `HighlightWords.sublime-settings <./publis/ST3/HighlightWords.sublime-settings>`_,
-* `inc_dec_value.sublime-settings <./publis/ST3/inc_dec_value.sublime-settings>`_,
-* `LaTeXing.sublime-settings <./publis/ST3/LaTeXing.sublime-settings>`_,
-* `SendText%2B.sublime-settings <./publis/ST3/SendText%2B.sublime-settings>`_,
-* `Side Bar.sublime-settings <./publis/ST3/Side%20Bar.sublime-settings>`_,
-* `StatusBarWeather.sublime-settings <./publis/ST3/StatusBarWeather.sublime-settings>`_,
-* `SublimeGit.sublime-settings <./publis/ST3/SublimeGit.sublime-settings>`_,
-* `trailing_spaces.sublime-settings <./publis/ST3/trailing_spaces.sublime-settings>`_.
+* `Anaconda.sublime-settings <publis/ST3/Anaconda.sublime-settings>`_,
+* `ColorHighlighter.sublime-settings <publis/ST3/ColorHighlighter.sublime-settings>`_,
+* `HighlightWords.sublime-settings <publis/ST3/HighlightWords.sublime-settings>`_,
+* `inc_dec_value.sublime-settings <publis/ST3/inc_dec_value.sublime-settings>`_,
+* `LaTeXing.sublime-settings <publis/ST3/LaTeXing.sublime-settings>`_,
+* `SendText%2B.sublime-settings <publis/ST3/SendText%2B.sublime-settings>`_,
+* `Side Bar.sublime-settings <publis/ST3/Side%20Bar.sublime-settings>`_,
+* `StatusBarWeather.sublime-settings <publis/ST3/StatusBarWeather.sublime-settings>`_,
+* `SublimeGit.sublime-settings <publis/ST3/SublimeGit.sublime-settings>`_,
+* `trailing_spaces.sublime-settings <publis/ST3/trailing_spaces.sublime-settings>`_.
 
 Some language-specific configuration files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In ST3, you can modify any single parameter for a specific language (for instance, a smaller font for Python files, a bigger margin for Markdown files etc).
 For a few languages, I find these changes quite convenient:
 
-* `Markdown.sublime-settings <./publis/ST3/Markdown.sublime-settings>`_,
-* `Matlab.sublime-settings <./publis/ST3/Matlab.sublime-settings>`_,
-* `Objective-C.sublime-settings <./publis/ST3/Objective-C.sublime-settings>`_ (my change allows to open a `.m` file as a Matlab/Octave file and not an Objective-C one),
-* `Python.sublime-settings <./publis/ST3/Python.sublime-settings>`_.
+* `Markdown.sublime-settings <publis/ST3/Markdown.sublime-settings>`_,
+* `Matlab.sublime-settings <publis/ST3/Matlab.sublime-settings>`_,
+* `Objective-C.sublime-settings <publis/ST3/Objective-C.sublime-settings>`_ (my change allows to open a `.m` file as a Matlab/Octave file and not an Objective-C one),
+* `Python.sublime-settings <publis/ST3/Python.sublime-settings>`_.
 
 -----------------------------------------------------------------------------
 
