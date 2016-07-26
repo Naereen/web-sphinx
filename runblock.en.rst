@@ -1,6 +1,6 @@
 .. meta::
    :description lang=en: Testing the ``autorun`` Sphinx extension
-   :description lang=fr: Extension ``runblock``
+   :description lang=fr: Test de l'extension ``runblock`` pour Sphinx
 
 ##########################################
  Testing the ``autorun`` Sphinx extension
@@ -60,17 +60,23 @@ A few more interesting examples
 This directive accepts the syntax of a shell or Bash session, where the code starts with a *$ * symbol.
 
 
-For instance, the current date and folder:
+For instance, the current date and directory:
 
 .. runblock:: console
 
-    $ LANG=en ; echo "Date: `date`. Folder: `pwd`."
+    $ LANG=en echo "Date: $(date). Directory: $(pwd)."
 
-We can also ask for a list of the `reStructuredText <demo.html>`_ files ``.rst`` in the current repository:
+We can also ask for a list of the `reStructuredText <demo.html>`_ files ``.rst`` (the source code of each of these web-pages) in the current directory:
 
 .. runblock:: console
 
     $ LANG=en ls -larth ./{,.}*.rst
+
+We can look for the 10 longest filenames of the `reStructuredText`_ files in the current directory:
+
+.. runblock:: console
+
+    $ LANG=en for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 We can also ask *GPG* to produce (*on the fly*) a signature of the current file (for more information about *GPG*, see `<pgp.html>`_):
 

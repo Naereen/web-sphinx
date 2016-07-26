@@ -1,5 +1,5 @@
 .. meta::
-   :description lang=fr: Extension ``runblock``
+   :description lang=fr: Test de l'extension ``runblock`` pour Sphinx
    :description lang=en: Testing the ``autorun`` Sphinx extension
 
 ########################
@@ -64,13 +64,19 @@ Par exemple, la date courante et le dossier de travail courant :
 
 .. runblock:: console
 
-    $ LANG=en ; echo "Date: `date`. Folder: `pwd`."
+    $ LANG=en echo "Date : $(date). Dossier : $(pwd)."
 
-Ou bien une liste des fichiers `reStructuredText <demo.html>`_ (``.rst``) dans le répertoire courant :
+Ou bien une liste des fichiers `reStructuredText <demo.html>`_ (``.rst``, sources de chaque de ces pages web) dans le dossier courant :
 
 .. runblock:: console
 
     $ LANG=en ls -larth ./{,.}*.rst
+
+On peut chercher les 10 plus long noms de fichiers (parmi les fichiers `reStructuredText`_) dans le dossier courant :
+
+.. runblock:: console
+
+    $ LANG=en for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichier courant (pour plus d'infos sur *GPG*, voir `<pgp.html>`_) :
 
