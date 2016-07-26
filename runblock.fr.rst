@@ -76,7 +76,7 @@ On peut chercher les 10 plus long noms de fichiers (parmi les fichiers `reStruct
 
 .. runblock:: console
 
-    $ LANG=en for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
+    $ LANG=en ; for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichier courant (pour plus d'infos sur *GPG*, voir `<pgp.html>`_) :
 

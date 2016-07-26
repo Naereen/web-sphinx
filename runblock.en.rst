@@ -76,7 +76,7 @@ We can look for the 10 longest filenames of the `reStructuredText`_ files in the
 
 .. runblock:: console
 
-    $ LANG=en for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
+    $ LANG=en ; for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 We can also ask *GPG* to produce (*on the fly*) a signature of the current file (for more information about *GPG*, see `<pgp.html>`_):
 
