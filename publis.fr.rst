@@ -70,8 +70,8 @@ Nautilus-Terminal, un greffon pour l'explorateur de fichier `Gnome Nautilus <htt
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Quelques fichiers et programmes utiles pour faire du \\(\\LaTeX{}\\).
 
-En particulier `autotex <./publis/latex/autotex>`_, le petit script Bash que j'utilise *régulièrement* pour écrire du \\(\\LaTeX{}\\) sans avoir à recopier d'en-têtes (``\usepackage`` et autres inutilités).
-J'ai écrit `autonomize.sh <./publis/latex/autonomize.sh>`_ et `template_minimalist.tex <./publis/latex/template_minimalist.tex>`_, pour rendre autonome un document utilisant `autotex`_.
+En particulier `autotex <publis/latex/autotex>`_, le petit script Bash que j'utilise *régulièrement* pour écrire du \\(\\LaTeX{}\\) sans avoir à recopier d'en-têtes (``\usepackage`` et autres inutilités).
+J'ai écrit `autonomize.sh <publis/latex/autonomize.sh>`_ et `template_minimalist.tex <publis/latex/template_minimalist.tex>`_, pour rendre autonome un document utilisant `autotex`_.
 
 :État: *Fonctionne bien* et maintenu activement (mars 2016).
 
@@ -151,14 +151,15 @@ Fichiers de configuration
 -------------------------
 Pour `Sublime Text 3  <sublimetext.fr.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Mes fichiers de configurations, snippets et scripts de constructions, pour `Sublime Text 3 <http://www.sublimetext.com/3>`_, sont dans ce dossier `<ST3/>`_.
+Mes fichiers de configurations, snippets et scripts de constructions, pour `Sublime Text 3 <http://www.sublimetext.com/3>`_, sont dans ce dossier `<publis/ST3/>`_.
 La page `<sublimetext.fr.html>`_ contient beaucoup plus d'informations !
 
- * Par exemple, `newpython.sublime-snippet <./publis/ST3/newpython.sublime-snippet>`_ permet de facilement créer un nouveau script `Python <python.html>`_, `newscript.sublime-snippet <./publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un script GNU Bash.
- * `autotex.sublime-snippet <./publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex`_, qui peut ensuite se compiler facilement en PDF via le script de construction `autotex.sublime-build <./publis/ST3/autotex.sublime-build>`_
- * `StrapDownJS.sublime-snippet <./publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon super projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
+ * Par exemple, `newpython.sublime-snippet <publis/ST3/newpython.sublime-snippet>`_ permet de facilement créer un nouveau script `Python <python.html>`_, `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un script GNU Bash.
+ * `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ permet de créer un document LaTeX vide utilisant `autotex`_, qui peut ensuite se compiler facilement en PDF via le script de construction `autotex.sublime-build <publis/ST3/autotex.sublime-build>`_
+ * `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon super projet `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ !
+ * Il y a des *"snippets"* pour écrire plus rapidement des documents LaTeX; et plein d'autres choses.
 
-:État: *Maintenu activement* (juin 2016).
+:État: *Maintenu activement* (juillet 2016).
 
 `munstrap <publis/munstrap/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
