@@ -1,28 +1,42 @@
 #!/usr/bin/env /usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# Lilian Besson on the web documentation build configuration file (24-12-2015)
-#
-# This file is execfile()d with the current directory set to its containing dir.
-# All configuration values have a default; values that are commented out
-# serve to show the default.
+"""
+Lilian Besson on the web documentation build configuration file (date: 03-08-2015).
 
-import sys, os, subprocess
-# import tinkerer
-# import tinkerer.paths
+This file is execfile()d with the current directory set to its containing dir.
+All configuration values have a default; values that are commented out serve to show the default.
+"""
+
+from __future__ import print_function  # Python 2/3 compatible
+
+import sys
+# import os
+# import subprocess
+# # import tinkerer
+# # import tinkerer.paths
 
 reload(sys)
 sys.setdefaultencoding("UTF-8")
 
 # Use https://pypi.python.org/pypi/ANSIColors-balises if possible
-# (its mine, and I'm kind of proud of it !)
 try:
-    from ANSIColors import printc
-except:
-    def printc(a):
-        print a
+    try:
+        from ansicolortags import printc
+    except ImportError:
+        print("Optional dependancy (ansicolortags) is not available, using regular print function.")
+        print("  You can install it with : 'pip install ansicolortags' (or sudo pip)...")
+        from ANSIColors import printc
+except ImportError:
+    print("Optional dependancy (ANSIColors) is not available, using regular print function.")
+    print("  You can install it with : 'pip install ANSIColors-balises' (or sudo pip)...")
 
-printc("<magenta>[LOG]<white> Using python, version %s on %s." % (sys.version, sys.platform))
+    def printc(*a, **kw):
+        """ Print without colors. Install ansicolortags to have colors! """
+        print(*a, **kw)
+
+
+printc("<magenta>[LOG]<white> Using python, version {} on {}.".format(sys.version, sys.platform))
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -37,37 +51,37 @@ needs_sphinx = '1.3'
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
-	'sphinx.ext.todo',
-	'sphinx.ext.autodoc',
-	'sphinx.ext.coverage',
-	'sphinx.ext.viewcode',
-	'sphinx.ext.autosummary',
-	'sphinx.ext.graphviz',
-	'sphinx.ext.doctest',
-#	'sphinx.ext.pngmath',
-	'sphinx.ext.intersphinx',
-####### Sphinx Contrib
-####### From https://bitbucket.org/birkenfeld/sphinx-contrib
-	'sphinxcontrib.cheeseshop',
-	'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
-	'sphinxcontrib.autorun',
-######## Sphinx Spelling https://sphinxcontrib-spelling.readthedocs.io/en/latest/install.html
-	# 'sphinxcontrib.spelling',
-####### From reportLab
-	#'rst2pdf.pdfbuilder',
-####### Change the order ?
-	'sphinx.ext.mathjax',
-#	'sphinxcontrib.email',
-####### New from pypi
-####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
-	'sphinx_pyreverse', # .. uml:: path_to_module
-	'sphinx_git', # .. git_changelog::
-	'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
-	#'hieroglyph', # https://github.com/nyergler/hieroglyph
-	'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
-####### http://sphinx-doc.org/ext/extlinks.html
-  'sphinx.ext.extlinks',
-	]
+    'sphinx.ext.todo',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.coverage',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.doctest',
+    # 'sphinx.ext.pngmath',
+    'sphinx.ext.intersphinx',
+    ####### Sphinx Contrib
+    ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
+    'sphinxcontrib.cheeseshop',
+    'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
+    'sphinxcontrib.autorun',
+    ######## Sphinx Spelling https://sphinxcontrib-spelling.readthedocs.io/en/latest/install.html
+    # 'sphinxcontrib.spelling',
+    ####### From reportLab
+    #'rst2pdf.pdfbuilder',
+    ####### Change the order ?
+    'sphinx.ext.mathjax',
+    # 'sphinxcontrib.email',
+    ####### New from pypi
+    ####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
+    'sphinx_pyreverse', # .. uml:: path_to_module
+    'sphinx_git', # .. git_changelog::
+    'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
+    #'hieroglyph', # https://github.com/nyergler/hieroglyph
+    'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
+    ####### http://sphinx-doc.org/ext/extlinks.html
+    'sphinx.ext.extlinks',
+]
 
 ##############################################################################
 # Here is the good place to put special options for those exterior extensions
@@ -116,13 +130,13 @@ bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
 
 # For extlinks http://sphinx-doc.org/ext/extlinks.html#confval-extlinks
 extlinks = {
-  # 'alias': ('http://monsite.ext/dir/subdir/formatstring/%s', 'prefix')
-  'issue': ('https://bitbucket.org/lbesson/web-sphinx/issues/%s', 'bug '),
-  'wfr': ('https://fr.wikipedia.org/wiki/%s', ''),
-  'wen': ('https://en.wikipedia.org/wiki/%s', ''),
-  'ffaddonfr': ('https://addons.mozilla.org/fr/firefox/addon/%s', ''),
-  'ffaddonen': ('https://addons.mozilla.org/en-us/firefox/addon/%s', ''),
-  'stpkg': ('https://packagecontrol.io/packages/%s', ''),
+    # Command: 'alias': ('http://monsite.ext/dir/subdir/formatstring/%s', 'prefix')
+    'issue': ('https://bitbucket.org/lbesson/web-sphinx/issues/%s', 'bug '),
+    'wfr': ('https://fr.wikipedia.org/wiki/%s', ''),
+    'wen': ('https://en.wikipedia.org/wiki/%s', ''),
+    'ffaddonfr': ('https://addons.mozilla.org/fr/firefox/addon/%s', ''),
+    'ffaddonen': ('https://addons.mozilla.org/en-us/firefox/addon/%s', ''),
+    'stpkg': ('https://packagecontrol.io/packages/%s', ''),
 }
 # Demo on avoir.html / avoir.rst (works very well)
 
@@ -137,13 +151,13 @@ source_suffix = u'.rst'
 # The recommonmark Sphinx extension adds support for Markdown files
 # https://github.com/rtfd/recommonmark (and it works very well)
 try:
-  from recommonmark.parser import CommonMarkParser
-  source_parsers = {
-    '.md': CommonMarkParser,  # README.md is the only concerned file
-  }
-  source_suffix = [u'.rst', u'.md']
+    from recommonmark.parser import CommonMarkParser
+    source_parsers = {
+        '.md': CommonMarkParser,  # README.md is the only concerned file
+    }
+    source_suffix = [u'.rst', u'.md']
 except ImportError:
-  print("recommonmark.parser.CommonMarkParser was not found.\nrecommonmark can be installed with 'pip install recommonmark' (from https://github.com/rtfd/recommonmark)")
+    print("recommonmark.parser.CommonMarkParser was not found.\nrecommonmark can be installed with 'pip install recommonmark' (from https://github.com/rtfd/recommonmark)")
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -181,11 +195,11 @@ today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 exclude_patterns = [
-	'.build', '.git',  # Build and git
-	'.static/mathjax', 'scripts',  # Templates and scripts
-	'whatsnew.fr.rst', 'whatsnew.en.rst',  # Special files to not include
-	'pokedex-doc',  # Old stuff
-	# 'agreg-2014'    # New stuff
+    '.build', '.git',  # Build and git
+    '.static/mathjax', 'scripts',  # Templates and scripts
+    'whatsnew.fr.rst', 'whatsnew.en.rst',  # Special files to not include
+    'pokedex-doc',  # Old stuff
+    # 'agreg-2014'    # New stuff
 ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
@@ -252,12 +266,11 @@ html_short_title = u"Lilian Besson"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = [ '.static' ]
-# , tinkerer.paths.static ] ## XXX add this to use tinkerer
+html_static_path = ['.static']
+# html_static_path.append(tinkerer.paths.static)  # XXX add this to use tinkerer
 
-# The name of an image file (within the static path) to use as favicon of the
-# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
-# pixels large.
+# The name of an image file (within the static path) to use as favicon of the docs.
+# This file should be a Windows icon file (.ico) being 16x16 or 32x32 pixels large.
 html_favicon = u".static/.favicon.ico"
 # html_favicon = u".besson.png"
 
@@ -273,7 +286,7 @@ html_output_encoding = u"utf-8"
 # using the given strftime format.
 html_last_updated_fmt = u"%d %b %Y, %Hh:%Mm:%Ss"
 
-printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>%s<U>..." % html_last_updated_fmt)
+printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(html_last_updated_fmt))
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
@@ -281,13 +294,14 @@ html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-   '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html'
-   '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],
-   'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
-   'index.en':  ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
-   'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
-   'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'],
-   '**/*':      ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html']  # , 'sidebar_gpg.en.html'],
+    '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'sharingbuttons.fr.html'],  # , 'sidebar_gpg.fr.html'
+    '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'sharingbuttons.en.html'],  # , 'sidebar_gpg.en.html'],
+    'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'sharingbuttons.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
+    'index.en':  ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'sharingbuttons.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
+    'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html', 'sharingbuttons.fr.html'],
+    'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html', 'sharingbuttons.en.html'],
+    '**/*':      ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'sharingbuttons.en.html'],  # , 'sidebar_gpg.en.html'],
+    '**/*.en':   ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'sharingbuttons.en.html']  # , 'sidebar_gpg.en.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to template names.
@@ -344,31 +358,28 @@ website = 'http://perso.crans.org/besson/'
 # -- Options for LaTeX output --------------------------------------------------
 
 latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-'papersize': 'a4paper',
-
-# The font size ('10pt', '11pt' or '12pt').
-'pointsize': '10pt',
-
-# Get LaTeX to handle Unicode correctly
-'inputenc': r'\usepackage[utf8x]{inputenc}',
-'utf8extra': ''
-
-# Additional stuff for the LaTeX preamble.
-#'preamble': '',
+    # The paper size ('letterpaper' or 'a4paper').
+    'papersize': 'a4paper',
+    # The font size ('10pt', '11pt' or '12pt').
+    'pointsize': '10pt',
+    # Get LaTeX to handle Unicode correctly
+    'inputenc': r'\usepackage[utf8x]{inputenc}',
+    'utf8extra': '',
+    # Additional stuff for the LaTeX preamble.
+    # 'preamble': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-#  ('index.fr', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
-#   u'Lilian Besson', 'howto'),
-#  ('index.en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
-#   u'Lilian Besson', 'howto'),
-  ('cv.en', 'cv.en.tex', u'Résumé - Lilian BESSON',
-   u'Lilian Besson', 'howto'),
-  ('cv.fr', 'cv.fr.tex', u'CV - Lilian BESSON',
-   u'Lilian Besson', 'howto'),
+    #  ('index.fr', 'LilianBesson.fr.tex', u'Lilian Besson - Page personnelle',
+    #    u'Lilian Besson', 'howto'),
+    #  ('index.en', 'LilianBesson.en.tex', u'Lilian Besson - Personal Page',
+    #    u'Lilian Besson', 'howto'),
+    ('cv.en', 'cv.en.tex', u'Résumé - Lilian BESSON',
+     u'Lilian Besson', 'howto'),
+    ('cv.fr', 'cv.fr.tex', u'CV - Lilian BESSON',
+     u'Lilian Besson', 'howto'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -470,12 +481,12 @@ man_show_urls = True
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index.fr', 'LilianBessonsurleweb', u'Lilian Besson sur le web',
-   u'Lilian Besson', 'LilianBessonsurleweb', 'One line description of project.',
-   'Miscellaneous'),
-  ('index.en', 'LilianBessonontheweb', u'Lilian Besson on the web',
-   u'Lilian Besson', 'LilianBessonontheweb', 'One line description of project.',
-   'Miscellaneous'),
+    ('index.fr', 'LilianBessonsurleweb', u'Lilian Besson sur le web',
+     u'Lilian Besson', 'LilianBessonsurleweb', 'One line description of project.',
+     'Miscellaneous'),
+    ('index.en', 'LilianBessonontheweb', u'Lilian Besson on the web',
+     u'Lilian Besson', 'LilianBessonontheweb', 'One line description of project.',
+     'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
@@ -546,15 +557,15 @@ epub_tocdup = True
 # would mean that specific document would be compressed
 # regardless of the global pdf_compressed setting.
 pdf_documents = [
-  ('trademarks', u'Trademarks', u'Quoted Trademarks', u'Superman\\Lilian Besson'),
-#  ('cv.fr', 'cv.fr', u'CV - Lilian BESSON',
-#   u'Lilian Besson'),
-#  ('cv.en', 'cv.en', u'Résumé - Lilian BESSON',
-#   u'Lilian Besson')
+    ('trademarks', u'Trademarks', u'Quoted Trademarks', u'Superman\\Lilian Besson'),
+    #  ('cv.fr', 'cv.fr', u'CV - Lilian BESSON',
+    #   u'Lilian Besson'),
+    #  ('cv.en', 'cv.en', u'Résumé - Lilian BESSON',
+    #   u'Lilian Besson')
 ]
 
 # A comma-separated list of custom stylesheets. Example:
-pdf_stylesheets = ['sphinx','kerning','a4']
+pdf_stylesheets = ['sphinx', 'kerning', 'a4']
 
 # A list of folders to search for stylesheets. Example:
 # pdf_style_path = ['.', '_styles']
