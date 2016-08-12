@@ -6,8 +6,6 @@
  Utiliser Wolfram|Alpha (en ligne de commande)
 ###############################################
 
-.. todo:: Vérifier de temps en temps que ce tutoriel est à jour !
-
 Wolfram|Alpha ?
 ---------------
  Si vous ne connaissez pas, allez faire un tour sur la page principale,
@@ -65,32 +63,32 @@ Exemples
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "0+0"
+      $ wa_nocolor.sh "0+0"
 
 #. Un calcul de distance :
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "distance Paris Hyderabad" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
+      $ wa_nocolor.sh "distance Paris Hyderabad"
 
 #. Résolution d'une équation :
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
+      $ wa_nocolor.sh "x^3 - sinx = e^-x"
 
 #. Et un exemple plus drôle, un `Pokémon <pokedex-doc/index.html>`_ :
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90 | sed 's/\\#/#/g'
+      $ wa_nocolor.sh pikachu | sed 's/\\#/#/g'
 
 #. Allez, un dernier exemple, on demande `le cours actuel <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ de la `roupie indienne <https://fr.wikipedia.org/wiki/Roupie_indienne>`_ :
 
    .. runblock:: console
 
       $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
+      $ echo -e "The $(date), 1 Euro was worth $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 
 Attention
@@ -197,13 +195,13 @@ Exemples : directement embarqués dans cette page web ?
 
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf 0+0
+    $ wolf 0+0
 
 Un premier exemple
 ^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf "distance Paris Hyderabad"
+    $ wolf "distance Paris Hyderabad"
 
 ------------------------------------------------------------------------------
 
@@ -214,7 +212,7 @@ Résoudre une équation
 ^^^^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf "x^3 - sinx = e^-x"
+    $ wolf "x^3 - sinx = e^-x"
 
 Base de données de Pokémon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -222,7 +220,7 @@ Base de données de Pokémon
 
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/ | fold -s -w 90
+    $ wolf pikachu | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/
 
 D'autres exemples
 ^^^^^^^^^^^^^^^^^
@@ -252,6 +250,6 @@ Faiblesse de cette méthode
 Une extension ?
 ^^^^^^^^^^^^^^^
  On pourrait envisager de faire une extension Sphinx qui, comme `greffon GNUplot <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des tableaux produits par *Wolfram|Alpha*.
- J'ai la flemme de le faire moi-même.
+ J'ai la flemme de le faire moi-même !
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

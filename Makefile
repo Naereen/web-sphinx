@@ -162,11 +162,11 @@ send_simple:
 ################################# Builders ####################################
 
 forceclean:
-	-rm -rvI /tmp/$(BUILDDIR)/
+	rm -rvI /tmp/$(BUILDDIR)/
 
 clean:
-	-mv -vf $(BUILDDIR)/ /tmp/
-	-mkdir --parents $(BUILDDIR)/html/
+	mv -vf $(BUILDDIR)/ /tmp/
+	mkdir --parents $(BUILDDIR)/html/
 
 git:
 	git add *.rst README.md Makefile conf.py .*.rst .templates/ rss.xml

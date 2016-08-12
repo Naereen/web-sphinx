@@ -6,8 +6,6 @@
  Using Wolfram|Alpha from the command line
 ###########################################
 
-.. todo:: From time to time, check that this tutorial still works.
-
 Wolfram|Alpha ?
 ---------------
  If you don't know this famous tool, just go visit the main page:
@@ -65,32 +63,32 @@ Examples
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "0+0"
+      $ wa_nocolor.sh "0+0"
 
 #. Computing a distance:
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "distance Paris Hyderabad" | recode ..ascii | iconv -c -s -t ascii | fold -s -w 90
+      $ wa_nocolor.sh "distance Paris Hyderabad"
 
 #. Solving a numerical equation:
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh "x^3 - sinx = e^-x"
+      $ wa_nocolor.sh "x^3 - sinx = e^-x"
 
 #. And a funnier example, a `Pokémon <pokedex-doc/index.html>`_ :
 
    .. runblock:: console
 
-      $ ~/bin/wa_nocolor.sh pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90 | sed 's/\\#/#/g'
+      $ wa_nocolor.sh pikachu | sed 's/\\#/#/g'
 
-#. We can ask the current `exchange rate <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ between Euro (€) and the `Indian rupee <https://fr.wikipedia.org/wiki/Roupie_indienne>`_:
+#. We can ask the current `exchange rate <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ between Euro (€) and the `Indian rupee <https://en.wikipedia.org/wiki/Indian_rupee>`_:
 
    .. runblock:: console
 
       $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(~/bin/wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
+      $ echo -e "The $(date), 1 Euro was worth $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 
 Warning
@@ -194,13 +192,13 @@ Examples: directly embedded in this webpage?
 
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf 0+0
+    $ wolf 0+0
 
 A first example
 ^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf "distance Paris Hyderabad"
+    $ wolf "distance Paris Hyderabad"
 
 ------------------------------------------------------------------------------
 
@@ -211,7 +209,7 @@ Solving numerically an equation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf "x^3 - sinx = e^-x"
+    $ wolf "x^3 - sinx = e^-x"
 
 Read the Pokémon database
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -219,7 +217,7 @@ Read the Pokémon database
 
  .. runblock:: console
 
-    $ /home/lilian/bin/wolf pikachu | grep -v Japanese | recode utf8..tex | iconv -c -s -t ascii | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/ | fold -s -w 90
+    $ wolf pikachu | sed s/"\\\'"/""/ | sed s/"\\\%"/"%"/
 
 Other examples
 ^^^^^^^^^^^^^^
@@ -249,6 +247,6 @@ Weakness of this approach
 A Sphinx plugin?
 ^^^^^^^^^^^^^^^^
  We could imagine a Wolfram|Alpha plug-in for Sphinx, similar to the `GNUplot plugin <gnuplot_embed.html>`_, allowing to embed graphs and arrays produced by *Wolfram|Alpha*.
- But I am not that motivated to implement it myself...
+ But I am not motivated enough to implement it myself!
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
