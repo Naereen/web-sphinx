@@ -6,14 +6,14 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 
-Pour finir mon M2, j'effectue un stage
---------------------------------------
+Pour finir mon M2, j'effectue actuellement un stage
+---------------------------------------------------
 
-Je travaille actuellement au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur des splines d'opérateurs <http://bigwww.epfl.ch/research/projects/splines_operators.html>`_ ! :yellow:`New!`
+Je travaille actuellement au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur les opérateurs de convolution et les opérateurs steerables <https://bitbucket.org/lbesson/internship-mva-2016>`_ !
 
- * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*). :line:`Thème recherché : Statistique, optimisation ou apprentissage automatique`;
+ * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*).
  * :Durée: avril 2016 à août 2016 (*stage de recherche en mathématiques appliquées*);
- * :Lieu: Lausanne, Suisse. :line:`Lieu recherché : France, mais l'étranger est aussi possible (Suisse, Suède, Norvège, Finlande, Danemark, etc)`.
+ * :Lieu: Lausanne, Suisse.
 
 
 .. sidebar:: Autre langue : en anglais ?

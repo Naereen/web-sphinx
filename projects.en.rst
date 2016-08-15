@@ -15,9 +15,9 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 
 This year (*2015-16*):
 
-- I am currently a `research intern <https://people.epfl.ch/lilian.besson>`_ in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_ :orange:`(new)`.
+- I am currently a `research intern <https://people.epfl.ch/lilian.besson>`_ in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is almost done) !
 
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
+- I am finishing the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
 
 - I was also `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
@@ -127,12 +127,14 @@ For the 2nd trimester (Spring 2016):
 
 MSc research internship in 2016
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `M. Unser <http://bigwww.epfl.ch/unser/>`_. :red:`Not yet started!`
+ "*A theoretical study of steerable convolution operators, and possible applications to stochastic processes for images*".
+
+I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_ (École polytechnique fédérale de Lausanne), from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is almost done) !
 
 
 MSc research internship in 2013
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- "*Towards modularity for planning and robot programs verification*"
+ "*Towards modularity for planning and robot programs verification*".
 
 I did a research internship for the third semester of my Maths MSc and CS MSc from 03 June to 09 August 2013.
 
@@ -142,7 +144,7 @@ I did a research internship for the third semester of my Maths MSc and CS MSc fr
    It is realized with ``LaTeX``, and the package *moderncv*.
 
 
-I worked at **UCL** (:under:`University College of London`),
+I worked at `UCL <http://ucl.ac.uk/>`_ (University College of London),
 under the direction of `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (who quotes me `on his new page <http://www.doc.ic.ac.uk/~jvillar1/>`_, and `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
 about separation logic, planning in `AI`, and the study of *modularity* in those two domains.
 

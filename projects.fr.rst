@@ -15,7 +15,7 @@ Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informat
 
 Cette année (2015-16) :
 
-- Je suis actuellement `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `M. Unser <http://bigwww.epfl.ch/unser/>`_ :orange:`(nouveau)`.
+- Je suis actuellement `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est presque terminé) !
 
 - Je termine le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
 
@@ -141,14 +141,18 @@ Pour le second trimestre (printemps 2016) :
  - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :blue:`18/20``;
  - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :blue:`17.5/20`.
 
-Stage de M2
-^^^^^^^^^^^
-Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `J. Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `M. Unser <http://bigwww.epfl.ch/unser/>`_. :orange:`nouveau !`
+Stage de M2 en 2016
+^^^^^^^^^^^^^^^^^^^
+ "*Étude théorique des opérateurs de convolution étirables, et possibles applications aux processus stochastiques pour l'analyse d'images*".
 
-Stage de M1 : "*Modularité pour la planification et la vérification de programmes pour robots*"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_ (École polytechnique fédérale de Lausanne), entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est presque terminé) !
+
+Stage de M1 en 2013
+^^^^^^^^^^^^^^^^^^^
+ "*Modularité pour la planification et la vérification de programmes pour robots*".
+
 J'ai effectué un **stage de recherche** pour le troisième trimestre 2012/2013 (entre le 03 Juin et le 09 Août 2013).
-J'ai travaillé à l'**UCL** (:under:`University College of London`),
+J'ai travaillé à l'`UCL <http://ucl.ac.uk/>`_ (University College of London),
 sous la direction de `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_ (qui me cite ici `sur sa page <http://www.doc.ic.ac.uk/~jvillar1/>`_, voir `là sur google <http://fr.lmgtfy.com/?q=%22lilian+besson%22+site%3Adoc.ic.ac.uk>`_)
 et `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn/>`_,
 à propos de logique de séparation, de planification en `AI`, et de l'étude de la modularité dans ces deux domaines.
