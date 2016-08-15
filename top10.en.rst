@@ -104,6 +104,11 @@ Video Games
 -----------
 My 10 favorite **GameBoy games**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. sidebar:: GameBoy? *Really?*
+
+   Well, `GameBoy <https://en.wikipedia.org/wiki/GameBoy>`_ and `GameBoy Advance <https://en.wikipedia.org/wiki/GameBoy_Advance>`_ games are the best, *just accept it!!*
+
+
 - `Sword of Mana <https://en.wikipedia.org/wiki/Sword_of_Mana>`_ (GBA),
 - `The Legend of Zelda: Link's Awakening <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_ (GB),
 - `Golden Sun (1) <https://en.wikipedia.org/wiki/Golden_Sun>`_ and `Golden Sun (2): The Lost Age <https://en.wikipedia.org/wiki/Golden_Sun:_The_Lost_Age>`_ (GBA),
@@ -114,11 +119,6 @@ My 10 favorite **GameBoy games**
 - `The Legend of Zelda: Oracle of Age/Season <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Ages>`_ (GBC),
 - `Pokémon Gold / Silver <https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold>`_ (GBC),
 - `Super Mario Bros. 2: Super Mario Advance <https://en.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA).
-
-.. sidebar:: GameBoy? *Really?*
-
-   Well, `GameBoy <https://en.wikipedia.org/wiki/GameBoy>`_ and `GameBoy Advance <https://en.wikipedia.org/wiki/GameBoy_Advance>`_ games are the best, *just accept it!!*
-
 
 My 10 favorite **PC games**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,6 +139,11 @@ Travelling
 ----------
 My 10 favorite **places in France**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. sidebar:: By hitch-hiking?
+
+   Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_... !
+
+
 - `Avignon <https://en.wikipedia.org/wiki/Avignon>`_ (the town and its theaters!),
 - `Paris <https://en.wikipedia.org/wiki/Paris>`_ (mainly the 5th *"arrondissement"*, the *"Quartier Latin"*),
 - `La Ciotat <https://en.wikipedia.org/wiki/La_Ciotat>`_ (the village and its beach),
@@ -149,11 +154,6 @@ My 10 favorite **places in France**
 - `La Rochelle <https://en.wikipedia.org/wiki/La_Rochelle>`_ (mainly its harbor),
 - `Luminy <https://en.wikipedia.org/wiki/Luminy>`_ (in `Marseille <https://en.wikipedia.org/wiki/Marseille>`_, the best University campus I know!),
 - `Pau <https://en.wikipedia.org/wiki/Pau>`_ (its castel, mainly).
-
-.. sidebar:: By hitch-hiking?
-
-   Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_... !
-
 
 My 10 favorite **cities of the world**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

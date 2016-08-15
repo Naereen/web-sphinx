@@ -104,6 +104,11 @@ Jeux Vidéo
 ----------
 Mes 10 **jeux GameBoy** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. sidebar:: `GameBoy <https://fr.wikipedia.org/wiki/GameBoy>`_ ? *Vraiment ?*
+
+   Les jeux `GameBoy <https://fr.wikipedia.org/wiki/GameBoy>`_ et `GameBoy Advance <https://fr.wikipedia.org/wiki/GameBoy_Advance>`_ sont les meilleurs, *et voilà*.
+
+
 - `Sword of Mana <https://fr.wikipedia.org/wiki/Sword_of_Mana>`_ (GBA),
 - `The Legend of Zelda: Link's Awakening <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_ (GB),
 - `Golden Sun (1) <https://fr.wikipedia.org/wiki/Golden_Sun>`_ et `Golden Sun (2): The Lost Age <https://fr.wikipedia.org/wiki/Golden_Sun:_The_Lost_Age>`_ (GBA),
@@ -114,11 +119,6 @@ Mes 10 **jeux GameBoy** préférés
 - `The Legend of Zelda: Oracle of Age/Season <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Ages>`_ (GBC),
 - `Pokémon Or / Argent <https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Or>`_ (GBC),
 - `Super Mario Bros. 2: Super Mario Advance <https://fr.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA).
-
-.. sidebar:: `GameBoy <https://fr.wikipedia.org/wiki/GameBoy>`_ ? *Vraiment ?*
-
-   Les jeux `GameBoy <https://fr.wikipedia.org/wiki/GameBoy>`_ et `GameBoy Advance <https://fr.wikipedia.org/wiki/GameBoy_Advance>`_ sont les meilleurs, *et voilà*.
-
 
 Mes 10 **jeux PC** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,6 +139,11 @@ Voyages
 -------
 Mes 10 **endroits en France** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. sidebar:: En auto-stop ?
+
+   Ah, oui, je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_... !
+
+
 - `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (la ville et ses théâtres !),
 - `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (surtout le 5ème arrondissement, le *"Quartier Latin"*),
 - `La Ciotat <https://fr.wikipedia.org/wiki/La_Ciotat>`_ (le village et sa plage),
@@ -149,11 +154,6 @@ Mes 10 **endroits en France** préférés
 - `La Rochelle <https://fr.wikipedia.org/wiki/La_Rochelle>`_ (le port, surtout),
 - `Luminy <https://fr.wikipedia.org/wiki/Luminy>`_ (à `Marseille <https://fr.wikipedia.org/wiki/Marseille>`_, le campus universitaire le plus agréable que je connaisse !),
 - `Pau <https://fr.wikipedia.org/wiki/Pau>`_ (son château, surtout).
-
-.. sidebar:: En auto-stop ?
-
-   Ah, oui, je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_... !
-
 
 Mes 10 **villes** préférées
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~

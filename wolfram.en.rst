@@ -26,7 +26,7 @@ Advantages and drawbacks
 ^^^^^^^^^^^^^^^^^^^^^^^^
  The advantage of this first tool is its simplicity: it is **very tiny**
  (47 lines of code, *avec* comments!), and does **not have any dependency**,
- except usual GNU tools ``grep``, ``curl``, ``tr`` and ``sed``, already installed on any Linux distribution, and available on Mac OS X (with `brew <http://brew.sh/>`) and on Windows (with `cygwin <https://www.cygwin.org/>`_).
+ except usual GNU tools ``grep``, ``curl``, ``tr`` and ``sed``, already installed on any Linux distribution, and available on Mac OS X (with `brew <http://brew.sh/>`_) and on Windows (with `cygwin <https://www.cygwin.org/>`_).
 
  However, as this tool is quite simple and minimalist, it is much simpler than ``wolf`` (presented below), and does not offer any option.
 

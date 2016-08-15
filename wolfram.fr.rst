@@ -26,7 +26,7 @@ Avantages et inconvénients
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
  L'avantage de ce premier client est sa portabilité : il est **très léger**
  (47 lignes de code, *avec* les commentaires!), et ne demande **aucune dépendance**,
- à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installés sur n'importe quel Linux, et disponibles sur Mac OS X (avec `brew <https://www.brew.sh/>`) and on Windows (with `cygwin <https://www.cygwin.org/>`_)..
+ à part ``grep``, ``curl``, ``tr`` et ``sed``, déjà installés sur n'importe quel Linux, et disponibles sur Mac OS X (avec `brew <https://www.brew.sh/>`_) and on Windows (with `cygwin <https://www.cygwin.org/>`_)..
 
  Néanmoins, ce client est plus minimaliste que ``wolf`` (présenté plus bas), et il ne présente aucune option.
 
