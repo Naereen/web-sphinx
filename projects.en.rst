@@ -129,7 +129,7 @@ MSc research internship in 2016
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  "*A theoretical study of steerable convolution operators, and possible applications to stochastic processes for images*".
 
-I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_ (École polytechnique fédérale de Lausanne), from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is almost done) !
+I will be a research intern in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_ (Swiss Federal Institute of Technology Lausanne), from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is almost done) !
 
 
 MSc research internship in 2013
