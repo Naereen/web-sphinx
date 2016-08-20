@@ -6,9 +6,9 @@
  À-propos d'autostop
 #####################
 
-
 Cette page est une courte présentation de mon expérience personnelle
 sur l'auto-stop, qui est un moyen intéressant, gratuit et ludique de se déplacer.
+Certains disent que ça peut être dangereux, mais je ne pense pas.
 
 Peut-être que j'inclurai ici une liste de *hauts-fais épiques en stop*, peut-être pas.
 
@@ -16,11 +16,11 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 200 + 2200 + 150 + 2000 + 350 = **4900 kms pour l'instant**.
+  J'estime mon total *à environ* 320 + 2200 + 150 + 2000 + 350 = environ **5200 kms pour l'instant**.
 
-En 2016 : **200 kms** (pour l'instant)
+En 2016 : **320 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, environ **200 kms** en France et en Suisse.
+Pour l'instant, environ **320 kms** en France et en Suisse.
 
 En 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -100,7 +100,6 @@ Des sites sont aussi spécialisés pour l'auto-stop :
 - Le site québécois `LePouceux.com <http://www.lepouceux.com/>`_ est de qualité, notamment `tous ces conseils là <http://www.lepouceux.com/index.asp?Chap=Transport_voyage>`_,
 - et ces articles par un couple de voyageurs `ParisToParis.net/?p=3935 <http://paristoparis.net/?p=3935>`_.
 
-
 ------------------------------------------------------------------------------
 
 Statistiques concises
@@ -115,14 +114,13 @@ Quelques remarques à propos des gentils automobilistes qui acceptent de prendre
 * et souvent des gens du coin (de départ ou d'arrivée);
 * *Last but the not the least:* souvent des gens gentils ! Merci à eux !!
 
-
 ------------------------------------------------------------------------------
 
 *Couch Surfing* ?
 -----------------
-Naturellement, je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, et même si je ne m'en suis pas servi beaucoup pour l'instant :
+Naturellement, je connais et je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, et même si je ne m'en suis pas servi beaucoup pour l'instant :
 
-- `j'ai un profil sur couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
+- `j'ai un profil sur CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
 - et j'y propose même `mon canapé <https://www.couchsurfing.com/people/lilian-besson/couch>`_ !
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

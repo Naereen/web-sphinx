@@ -208,21 +208,20 @@ Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `pac
 Petits greffons de personnalisation :
 
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
-* `Buffer​Scroll <https://packagecontrol.io/packages/Buffer​Scroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
+* `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais utile : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
 * `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingue (anglais, français, ...).
 * `GitGutter <https://packagecontrol.io/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
+* `Gremlins <https://packagecontrol.io/packages/Gremlins>`_ permet de facilement voir et corriger les caractères UTF-8 invisibles, qui peuvent être dangereux, comme les espaces invisibles ou insécables.
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
-* `Predawn <https://packagecontrol.io/packages/Predawn>`_ est une amélioration de l'interface, très sombre pour `protéger ses yeux <bin/yeux.sh>`_ !
-* `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. Oui oui, votre éditeur de texte peut vous dire la météo !
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement adaptée à une productivité optimale et des yeux pas fatigués.
-* Le thème `Seti UI <https://packagecontrol.io/packages/Seti_UI>`_ est super aussi, il apporte de belles icônes pour la barre latérale notamment !
+* `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ ajoute une inutile météo dans la barre de statut en bas. Inutile mais marrant. *Oui oui*, votre éditeur de texte peut vous dire la météo !
+* `Boxy Theme <https://packagecontrol.io/packages/Boxy%20Theme>`_ (avec "Boxy Tomorrow") est mon thème préféré, qui apporte une interface toute lisse, très épurée mais parfaitement adaptée à une productivité optimale et des yeux pas fatigués. Il apporte aussi de belles icônes pour la barre latérale !
 
 
 Greffons ajoutant de super fonctionnalités :
 
 * `Calculate <https://packagecontrol.io/packages/Calculate>`_ permet de facilement créer des listes ordonnées (en plus de plein d'autres choses) : on écrit ``i+1`` à chaque ligne, puis un coup de ``Ctrl+Maj+c`` et paf, la multi-sélection est désormais en ``1``, ``2``, ..., ``n``.
-* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
+* `DictionaryAutoComplete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ pour toujours colorer certains mots précis (par exemple ``TODO`` ou ``FIXME``).
 * `IncDecValue <https://packagecontrol.io/packages/IncDecValue>`_ permet de facilement incrémenter ou décrémenter des nombres, des dates ou des couleurs.
 * `InsertDate <https://packagecontrol.io/packages/InsertDate>`_ permet d'ajouter facilement la date d'aujourd'hui avec un raccourcis clavier, par exemple : *mercredi 25 novembre 2015, 22:20:44*.

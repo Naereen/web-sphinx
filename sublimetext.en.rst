@@ -206,21 +206,20 @@ For each packet quoted below, a link to the information page on `packagecontrol.
 Small customization plugins:
 
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ improves how opening and closing parentheses, and opening and closing tags are colored (``(``, ``[``, ``{``, ``<`` etc).
-* `Buffer​Scroll <https://packagecontrol.io/packages/Buffer​Scroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
+* `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ is simple but great: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
 * `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ a for multi-lingual spell-check (English, French, ...).
 * The small `GitGutter <https://packagecontrol.io/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last committed version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
+* `Gremlins <https://packagecontrol.io/packages/Gremlins>`_ help to visualize dangerous non-visible UTF-8 caracters, like odd and invisible whitespace characters.
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
-* `Predawn <https://packagecontrol.io/packages/Predawn>`_ is an improved interface, very dark to `help you protect your eyes <bin/yeux.sh>`_ !
-* `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. Yeah, your text editor can *tell you the weather!*
-* `Theme - Centurion <https://packagecontrol.io/packages/Theme%20-%20Centurion>`_ is my favorite theme, which brings a very refined but perfectly all smooth interface suitable for optimum productivity and is cool with your eyes.
-* The `Seti UI <https://packagecontrol.io/packages/Seti_UI>`_ theme is also great, mainly for the awesome icons it adds to the side-bar!
+* `Status Bar Weather <https://packagecontrol.io/packages/Status%20Bar%20Weather>`_ adds unnecessary weather in the status bar at the bottom. Useless but fun. *Yeah*, your text editor can *tell you the weather!*
+* `Boxy Theme <https://packagecontrol.io/packages/Boxy%20Theme>`_ (with "Boxy Tomorrow") is my favorite theme, it brings a very refined but perfectly all smooth interface, suitable for optimum productivity and is cool with your eyes. It also have awesome icons for your side-bar!
 
 
 Plugins that add great features:
 
 * `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, ..., ``n``.
-* `Dictionary​Auto​Complete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
+* `DictionaryAutoComplete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
 * `IncDecValue <https://packagecontrol.io/packages/IncDecValue>`_ allows to easily increment or decrement numbers, dates or colors.
 * `InsertDate <https://packagecontrol.io/packages/InsertDate>`_ allows to easily add today's date with a key shortcut (``F5`` by default), like this: *Wednesday 25 November 2015, 22:21:57*.

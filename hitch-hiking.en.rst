@@ -6,9 +6,9 @@
  About hitch-hiking
 ####################
 
-
 This page is a short presentation of my personal experience
 on the matter of hitch-hiking, and why it is a really cool, free and culturally interesting way to travel.
+Some might say it is dangerous, but I disagree.
 
 Maybe I will include here a list of *epic hitch-hiking achievements*, maybe not.
 
@@ -16,11 +16,11 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximative* computation gives 200 + 2200 + 150 + 2000 + 350 = **4900 kms as far as now**.
+  An *approximative* computation gives 320 + 2200 + 150 + 2000 + 350 = about **5200 kms as far as now**.
 
-In 2016 : **200 kms** (as far as now)
+In 2016 : **320 kms** (as far as now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-As far as now, about **200 kms** in France and in Switzerland.
+As far as now, about **320 kms** in France and in Switzerland.
 
 In 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -99,7 +99,6 @@ Some websites are specialized about hitch-hiking:
 
   - `HitchWiki.org/en/ <http://hitchwiki.org/en/Main_Page>`_ is a Wiki project only designed to provide help about hitch-hiking!
 
-
 ------------------------------------------------------------------------------
 
 Some informal statistics
@@ -113,14 +112,13 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 * and usually they are locals (living near the start point or the destination);
 * *Last but the not the least:* usually very nice people! Thanks a lot!!
 
-
 ------------------------------------------------------------------------------
 
 *Couch Surfing* ?
 -----------------
-Of course, I really like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, and even if I have not used it a lot:
+Of course, I know and I really like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, and even if I have not used it a lot:
 
-- `I have an account on couchsurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
-- and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellows couch-surfer!
+- `I have an account on CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
+- and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellow couch-surfers!
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
