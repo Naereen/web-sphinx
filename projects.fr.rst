@@ -145,7 +145,7 @@ Stage de M2 en 2016
 ^^^^^^^^^^^^^^^^^^^
  "*Étude théorique des opérateurs de convolution étirables, et possibles applications aux processus stochastiques pour l'analyse d'images*".
 
-Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_ (École polytechnique fédérale de Lausanne), entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est presque terminé) !
+Je serai stagiaire en recherche dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_ (École polytechnique fédérale de Lausanne), entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
 
 Stage de M1 en 2013
 ^^^^^^^^^^^^^^^^^^^
