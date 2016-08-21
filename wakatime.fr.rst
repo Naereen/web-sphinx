@@ -40,8 +40,7 @@ Dans mon cas
 ------------
 Installation et utilisation de WakaTime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'utilise `Sublime Text 3 <sublimetext.fr.html>`_ de façon quasi exclusive, et depuis presque un an et demi.
-
+J'utilise `Sublime Text 3 <sublimetext.fr.html>`_ de façon quasi exclusive, et ce depuis 3 ans.
 Sans surprise, `WakaTime`_ propose un greffon pour `Sublime Text 3`, mon éditeur favori.
 
 `Il s'installe en deux clics <https://packagecontrol.io/packages/WakaTime>`_, et s'intègre à la perfection (discret, charge système minimum, et il peut même accumuler les données et les envoit plus tard si l'ordinateur est déconnecté du réseau).
@@ -91,7 +90,7 @@ Et depuis le début de mon utilisation de WakaTime :
 
 Éditeurs de textes utilisés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-WakaTime détecte que j'utilise presque uniquement l'extraordinaire `Sublime Text 3 <sublimetext.en.html>`_ (et c'est presque vrai !) :
+WakaTime détecte que j'utilise uniquement l'extraordinaire `Sublime Text 3 <sublimetext.fr.html>`_ pour environ 70% de mon temps d'écriture et de programmation quotidien, et `GNU Bash <https://bitbucket.org/lbesson/bin/>`_ (`dans un terminal <https://bitbucket.org/lbesson/nautilus-terminal/>`_) pour les 30% restant :
 
 .. raw:: html
 
@@ -101,6 +100,7 @@ WakaTime détecte que j'utilise presque uniquement l'extraordinaire `Sublime Tex
 .. note::
 
    WakaTime ne compte pas l'utilisation de `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, ou `Spyder <https://pythonhosted.org/spyder/>`_ pour Python 2/3.
+   Par contre, désormais `ils proposent des greffons WakaTime pour Bash, Zsh et iTerm (terminaux) <https://wakatime.com/help/plugins/terminal>`_ !
 
 
 Partager les stats d'un projet en particulier
