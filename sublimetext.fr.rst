@@ -207,6 +207,7 @@ Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `pac
 
 Petits greffons de personnalisation :
 
+* `Better Build System <https://packagecontrol.io/packages/Better%20Build%20System>`_ améliore le système de "build" sur quelques points précis (précis mais utiles !).
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
 * `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais utile : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.

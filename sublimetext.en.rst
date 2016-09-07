@@ -205,6 +205,7 @@ For each packet quoted below, a link to the information page on `packagecontrol.
 
 Small customization plugins:
 
+* `Better Build System <https://packagecontrol.io/packages/Better%20Build%20System>`_ improves the "build system" feature on some very specific points (specific but useful!).
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ improves how opening and closing parentheses, and opening and closing tags are colored (``(``, ``[``, ``{``, ``<`` etc).
 * `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ is simple but great: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
