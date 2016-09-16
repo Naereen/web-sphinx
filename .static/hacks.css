@@ -107,7 +107,7 @@ div.myfolders { font-size: x-large; }
     transition: all 0.2s ease 0s;
 }
 .social-icons li a {
-    background: none no-repeat scroll center top #464646;
+    background: none no-repeat scroll center top #444444;
     border: 2px solid #F6F6F6;
     border-radius: 50% 50% 50% 50%;
     display: block;
