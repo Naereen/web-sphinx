@@ -190,7 +190,8 @@ printc("<yellow>[INFO] <white>Setting language to %s. Copyright: %s." % (languag
 # non-false value, then it is used:
 today = ''
 # Else, today_fmt is used as the format for a strftime call.
-today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
+# today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
+today_fmt = u'%d %m %Y, %Hh:%Mm:%Ss, avec ♥'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -284,7 +285,7 @@ html_output_encoding = u"utf-8"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = u"%d %b %Y, %Hh:%Mm:%Ss"
+html_last_updated_fmt = u"%d %m %Y, %Hh:%Mm:%Ss, avec ♥"
 
 printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(html_last_updated_fmt))
 
