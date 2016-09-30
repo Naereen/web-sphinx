@@ -131,7 +131,7 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 **2015-2016** : seconde seconde année de Master (M2)
 ----------------------------------------------------
 - Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
-- je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+- je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 .. note:: Tous les documents produits pour mon master MVA cette année `sont partagés dans ce dossier <publis/mva-2016/>`_.
 

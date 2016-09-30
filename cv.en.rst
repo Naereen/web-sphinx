@@ -131,7 +131,7 @@ Below there is a precise description of what I studied, year by year, from my Ba
 ------------------------------------------------
 - I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
 
-- I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www2.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+- I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 .. note:: All the documents written during this year for the MVA Master are `on this public folder <publis/mva-2016/>`_.
 
