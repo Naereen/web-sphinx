@@ -145,7 +145,7 @@ Mes 10 **endroits en France** préférés
 
 
 - `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (la ville et ses théâtres !),
-- `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (surtout le 5ème arrondissement, le *"Quartier Latin"*),
+- `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (surtout le centre historique),
 - `La Ciotat <https://fr.wikipedia.org/wiki/La_Ciotat>`_ (le village et sa plage),
 - `Briançon <https://fr.wikipedia.org/wiki/Briançon>`_ (les montagnes),
 - `Corte <https://fr.wikipedia.org/wiki/Corte>`_ (en `Corse <https://fr.wikipedia.org/wiki/Corse>`_),
@@ -158,15 +158,15 @@ Mes 10 **endroits en France** préférés
 Mes 10 **villes** préférées
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
-- `Barcelona <https://fr.wikipedia.org/wiki/Barcelona>`_ (`Espagne <https://fr.wikipedia.org/wiki/Espagne>`_),
+- `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Lausanne <https://fr.wikipedia.org/wiki/Lausanne>`_ (`Suisse <https://fr.wikipedia.org/wiki/Suisse>`_),
+- `Barcelona <https://fr.wikipedia.org/wiki/Barcelona>`_ (`Espagne <https://fr.wikipedia.org/wiki/Espagne>`_),
 - `Briançon <https://fr.wikipedia.org/wiki/Briancon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
+- `Carcassonne <https://fr.wikipedia.org/wiki/Carcassonne>`_ (`France <https://fr.wikipedia.org/wiki/France>`_).
 - `Hampi <https://fr.wikipedia.org/wiki/Hampi>`_ (`Karnataka <https://fr.wikipedia.org/wiki/Karnataka>`_, `Inde <https://fr.wikipedia.org/wiki/Inde>`_),
 - `Heimeay <https://fr.wikipedia.org/wiki/Heimeay>`_ (`Islande <https://fr.wikipedia.org/wiki/Islande>`_),
-- `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Quebec <https://fr.wikipedia.org/wiki/Quebec>`_ (`Canada <https://fr.wikipedia.org/wiki/Canada>`_),
 - `Londres <https://fr.wikipedia.org/wiki/Londres>`_ (`Royaume <https://fr.wikipedia.org/wiki/Royaume-Uni>`_),
-- `Berlin <https://fr.wikipedia.org/wiki/Berlin>`_ (`Allemagne <https://fr.wikipedia.org/wiki/Allemagne>`_).
 
 ------------------------------------------------------------------------------
 
