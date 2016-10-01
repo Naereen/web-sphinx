@@ -57,7 +57,7 @@ Ces fichiers sont tous publiquement distribués, [sous la licence MIT](http://lb
 ### Pour le cours
 Mes références pour le cours de maths étaient :
 
- - ["Le Frido"](http://homepages.ulb.ac.be/~lclaesse/lefrido.pdf) (1362 pages en 2015) est cours en français complet qui couvre "toutes" les mathématiques, du niveau L1 à l'agrégation, gratuit et libre de droit. Un exemplaire de la version 2014 [se trouve à la BU de l'ENS Cachan !](https://catalogue.ens-cachan.fr/cgi-bin/koha/opac-detail.pl?biblionumber=59258),
+ - ["Le Frido"](http://laurent.claessens-donadello.eu/pdf/lefrido.pdf) (1622 pages en 2016) est [un cours en français complet qui couvre "toutes" les mathématiques](http://laurent.claessens-donadello.eu/frido.html), du niveau L1 à l'agrégation, gratuit et libre de droit. Un exemplaire de la version 2014 [se trouve à la BU de l'ENS Cachan !](https://catalogue.ens-cachan.fr/cgi-bin/koha/opac-detail.pl?biblionumber=59258). Achetable en 3 volumes : [volume 1](http://www.thebookedition.com/fr/le-frido-volume-1-p-344540.html), [volume 2](http://www.thebookedition.com/fr/le-frido-volume-2-p-344541.html) et [volume 3](http://www.thebookedition.com/fr/le-frido-volume-3-p-344542.html).
  - [mp.cpgedupuydelome.fr/courspe](http://mp.cpgedupuydelome.fr/courspe.ph) et [mp.cpgedupuydelome.fr/coursup](http://mp.cpgedupuydelome.fr/coursup.ph),
  - et [Wikipédia](https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes), bien sûr.
 
