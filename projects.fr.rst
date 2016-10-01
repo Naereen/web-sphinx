@@ -9,20 +9,27 @@
 À propos (de moi)
 -----------------
 Bonjour !
-Je suis **Lilian Besson**, `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
 :gray:`(une grande école près de Paris, France, spécialisée dans la formation de professeurs du secondaire et du supérieur)`.
 
-Cette année (2015-16) :
 
-- J'étais `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est presque terminé) !
+Cette année (*2016-17*), je vais :
 
-- Je termine le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
-
-- J'étais aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+- Commencer ma thèse de doctorat, `à Centrale-Supélec Rennes (SCEE, IETR) <http://www.rennes.supelec.fr/ren/rd/scee>`_, avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. Ma thèse portera sur les modèles multi-joueurs pour les bandits multi-bras, appliqués à des problèmes de radio télécommunication.
+- Et `enseigner <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
 
 ------------------------------------------------------------------------------
+
+L'année dernière (2015-16)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+* J'étais `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
+
+* Je termine le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
+
+* J'étais aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+
 
 Études et cursus
 ^^^^^^^^^^^^^^^^
