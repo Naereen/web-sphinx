@@ -8,7 +8,7 @@
 
 En 2016/2017
 ------------
-Je recherchais une mission d'enseignement pour 2016/2017, durant ma thèse, et `j'ai trouvé celle-ci <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité and calculabilité).
+Je recherchais une mission d'enseignement pour 2016/2017, durant ma thèse, et `j'ai trouvé celle-ci <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
 .. todo:: Plus de détails et faire une page pour chaque enseignement !
 
