@@ -6,14 +6,15 @@
  **Résumé** : Lilian Besson
 ############################
 
-To conclude my M.Sc., I am currently doing an internship
---------------------------------------------------------
+To conclude my M.Sc., I was doing an internship
+-----------------------------------------------
 
 I am working in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `convolution operators and steerable operators <https://bitbucket.org/lbesson/internship-mva-2016>`_ (amongst other topics)!
 
  * :Theme: theoritical functional analysis, applied to inverse optimization problem, mainly appearing in medical imaging.
  * :Duration: april 2016 to August 2016 (*research internship in applied mathematics*);
  * :Locations: Lausanne, Switzerland.
+ * :Rapport: Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is finished) !
 
 .. sidebar:: Other language: in French
 

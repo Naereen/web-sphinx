@@ -8,10 +8,9 @@
 
 In 2016/2017
 ------------
- **I am actively looking for a teaching activity for 2016/2017, during my PhD.**
- I will be based in Rennes (Centrale-Supélec Rennes), and I want to teach in mathematics and/or computer science, if possible at ENS de Rennes or University Rennes I (prépa agrég, M1, L1-L3).
- For more information, `please read my résumé <cv.en.pdf>`_.
+I was looking for a teaching activity for 2016/2017, during my PhD, and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the agregation national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculability).
 
+.. todo:: More details, and a page for each course.
 
 In 2015
 -------
@@ -19,7 +18,7 @@ In 2015
 
 Second semester of 2015 (in France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Between September 2015 and June 2016, I was teaching on a weekly basis at `Lycée Lakanal (at Sceaux, near Paris) <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
+Between September 2015 and June 2016, I was teaching, on a weekly basis, at `Lycée Lakanal (at Sceaux, near Paris) <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
 - an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
 - and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this good book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.

@@ -8,10 +8,9 @@
 
 En 2016/2017
 ------------
- **Je recherche une mission d'enseignement pour 2016/2017, durant ma thèse.**
- Je serai basé à Rennes (Centrale-Supélec Rennes), et j'aimerai enseigner les mathématiques et/ou l'informatique, si possible à l'ENS de Rennes ou l'Université Rennes I (prépa agrég, M1, L1-L3).
- Pour plus d'informations, `merci de lire mon CV <cv.fr.pdf>`_.
+Je recherchais une mission d'enseignement pour 2016/2017, durant ma thèse, et `j'ai trouvé celle-ci <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité and calculabilité).
 
+.. todo:: Plus de détails et faire une page pour chaque enseignement !
 
 En 2015
 -------
@@ -19,7 +18,7 @@ En 2015
 
 Second semestre en 2015 (en France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Entre septembre 2015 et juin 2016, j'intervenais au `Lycée Lakanal (à Sceaux, 92) <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
+Entre septembre 2015 et juin 2016, j'intervenais, chaque semaine, au `Lycée Lakanal (à Sceaux, 92) <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ en `classe préparatoire <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, pour :
 
 - des colles de mathématiques (2h/semaine). Mes références pour `le cours <http://mp.cpgedupuydelome.fr/courspe.php>`_ et `les exercises <http://mp.cpgedupuydelome.fr/exospe.php>`_ sont ces sites là : `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (surtout), ces exercices `par Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ et `par Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_ (pour des points précis du cours), et `ce Vrai/Faux par Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (et `Wikipédia <https://fr.wikipedia.org/wiki/Math%C3%A9matiques#Annexes>`_, bien sûr).
 - et des TDs d'`informatique « pour tous » <http://informatique-en-prepas.fr/>`_ (`basé sur ce très bon livre <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), avec `Python 3 <apprendre-python.fr.html>`_ et l'`environnement Pyzo <http://www.pyzo.org/>`_ (2 heures toutes les 2 semaines). Mes références pour le cours et les exercises sont ces sites là : `documentation de Python <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ et `ces TPs d'informatique par Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
