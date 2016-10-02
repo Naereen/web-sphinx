@@ -8,6 +8,10 @@
 	text-decoration: none;
 	z-index:95;
 }
+a.forkit:after {
+	content: none;
+}
+
 .forkit-curtain {
 	text-align: center;
 	background: #3B5998;
