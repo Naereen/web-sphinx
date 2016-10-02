@@ -104,6 +104,18 @@ a[href$="jepg"]:after {
 
 a[class*="image"]:after{ content:""; }
 
+/* -- links in the geekcode ------------------------------------------------- */
+div #geekCode a:after {
+    content: none;
+}
+div #geekCode a {
+    text-decoration: none;
+}
+div #geekCode a:hover {
+    text-decoration: underline;
+}
+
+
 /* -- relbar ---------------------------------------------------------------- */
 
 div.related {
