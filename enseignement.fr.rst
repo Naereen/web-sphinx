@@ -10,7 +10,10 @@ En 2016/2017
 ------------
 Je recherchais une mission d'enseignement pour 2016/2017, durant ma thèse, et `j'ai trouvé celle-ci <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
-.. todo:: Plus de détails et faire une page pour chaque enseignement !
+Je vais donner des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et je serai chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
+
+- Pour plus de détails sur `les TDs que je donnerai pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_,
+- Pour plus de détails sur `les cours, oraux et TDs que je donnerai pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
 
 En 2015
 -------
