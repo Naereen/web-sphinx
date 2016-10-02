@@ -198,15 +198,15 @@
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() {  // '%d %m %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "30 09 2016, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "30";
-    var month = last_updated_value.substring(3,  5 ) || "09";
+   var last_updated_value = "{{ last_updated }}" || "02 10 2016, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "02";
+    var month = last_updated_value.substring(3,  5 ) || "10";
     var year  = last_updated_value.substring(6,  10) || "2016";
     var hours = last_updated_value.substring(12, 14) || "12";
     var mins  = last_updated_value.substring(16, 18) || "00";
     var secs  = last_updated_value.substring(20, 22) || "00";
    alert(" Cette page a été mise à jour le " + last_updated_value
-    + ".</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+00:00" ) + "</b>"
+    + ".</br></br>\nSoit <b>" + jQuery.timeago( year + "-" + month + "-" + day + "T" + hours + ":" + mins + ":" + secs + "+02:00" ) + "</b>"
     + ".</br></br>\nCréé par Lilian Besson, © 2011-2016.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
   Mousetrap.bind(["q"], function(){
