@@ -16,8 +16,8 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
 
 Cette année (*2016-17*), je vais :
 
-- Commencer ma thèse de doctorat, `à Centrale-Supélec Rennes (SCEE, IETR) <http://www.rennes.supelec.fr/ren/rd/scee>`_, avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. Ma thèse portera sur les modèles multi-joueurs pour les bandits multi-bras, appliqués à des problèmes de radio télécommunication.
-- Et `enseigner <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
+- Commencer ma thèse de doctorat, `à Centrale-Supélec (équipe SCEE, labo IETR) <http://www.rennes.supelec.fr/ren/rd/scee>`_ à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio télécommunication, en particulier aux I-o-T (Internet des Objets).
+- Et `enseigner <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
 ------------------------------------------------------------------------------
 
