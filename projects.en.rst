@@ -14,11 +14,13 @@ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/
 :gray:`(a French "Grande École" specialized in training researchers and professors for superior studies, located near Paris, in Cachan)`.
 
 
-This year (*2016-17*), I will:
+This year (*2016-17*) :
 
-- Start my PhD `at Centrale-Supélec (SCEE team, IETR lab) <http://www.rennes.supelec.fr/ren/rd/scee>`_ in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. My PhD will be on multi-player multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
-- And `teach <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty).
+- I am starting my PhD `at Centrale-Supélec (SCEE team, IETR lab) <http://www.rennes.supelec.fr/ren/rd/scee>`_ in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. My PhD will be on multi-player multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
+- And I will be `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
+
+------------------------------------------------------------------------------
 
 `Contact information <callme.fr.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

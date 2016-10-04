@@ -14,10 +14,11 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
 :gray:`(une "Grande École" près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur)`.
 
 
-Cette année (*2016-17*), je vais :
+Cette année (*2016-17*) :
 
-- Commencer ma thèse de doctorat, `à Centrale-Supélec (équipe SCEE, labo IETR) <http://www.rennes.supelec.fr/ren/rd/scee>`_ à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio télécommunication, en particulier aux I-o-T (Internet des Objets).
-- Et `enseigner <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
+- Je vais commencer ma thèse de doctorat, `à Centrale-Supélec (équipe SCEE, labo IETR) <http://www.rennes.supelec.fr/ren/rd/scee>`_ à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_. Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio télécommunication, en particulier aux I-o-T (Internet des Objets).
+- Et `je vais enseigner <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_
+
 
 ------------------------------------------------------------------------------
 
