@@ -8,9 +8,9 @@
 
 In 2016/2017
 ------------
-I was looking for a teaching activity for 2016/2017, during my PhD, and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the agregation national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculability).
+I was looking for a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the agregation national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculability).
 
-I will give oral exams at ENS de Rennes (about 20 times 2h; level M2), and will be a teaching assistant (TA) at ENSAI (4 times 3h, twice; level L3).
+I am give oral exams at ENS de Rennes (about 20 times 2h; level M2), and will be a teaching assistant (TA) at ENSAI (4 times 3h, twice; level L3).
 
 - For more details on `the TAing I will do for the course "Complexity and Calculability" at ENSAI, see this page <ensai-2016/>`_,
 - For more details on `the oral exams I will give for the "Computer Science option for agregation" at ENS de Rennes, see this page <agreg-2016/>`_.
