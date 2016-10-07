@@ -19,7 +19,7 @@ Currently, the direct link is : http://www.xm1math.net/texmaker/texmakerwin32_in
 
 .. note:: On Linux ?
 
-   The usual **text editors** (*emacs*, `Sublime Text 3 <sublimetext.fr.html>`_, *vi(m)*, `Geany`, `Kate <http://kate-editor.org>`_, or even the minimalist `GNU Nano <NanoSyntax.html>`_) are all doing a pretty good job (they might require to install one additional plugin, e.g. `LaTeX-plus <https://github.com/randy3k/Latex-Plus/wiki/>`_ for `Sublime Text 3`_).
+   The usual **text editors** (*emacs*, `Sublime Text 3 <sublimetext.en.html>`_, *vi(m)*, `Geany`, `Kate <http://kate-editor.org>`_, or even the minimalist `GNU Nano <NanoSyntax.html>`_) are all doing a pretty good job (they might require to install one additional plugin, e.g. `LaTeX-plus <https://github.com/randy3k/Latex-Plus/wiki/>`_ for `Sublime Text 3`_).
 
    For a editor specific to \\(\\LaTeX{}\\), TeXMaker is also available on Linux, but I recommend the awesome `Kile <http://kile.sourceforge.net/>`_ editor.
 

@@ -22,7 +22,7 @@ This year (*2016-17*) :
 
 ------------------------------------------------------------------------------
 
-`Contact information <callme.fr.html>`_
+`Contact information <callme.en.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 

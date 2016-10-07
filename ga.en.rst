@@ -76,7 +76,7 @@ It's quick and simple, and working well, and for example I am using it for small
       How to use a *one-pixel* image to use Google Analytics
       to measure the audience of a page, or an email.
 
-   Statistics for Google Analytics (`<stats-google-analytics.fr.html>`_)
+   Statistics for Google Analytics (`<stats-google-analytics.en.html>`_)
       A small sum-up of the use of Google Analytics on this website (from the last 3 years),
       and some plots to illustrate the visits and visitors this website got.
 

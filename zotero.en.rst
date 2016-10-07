@@ -1,6 +1,6 @@
 .. meta::
    :description lang=en: Why and how to use Zotero to manage your bibliography
-   :description lang=fr: Comment et pourquoi utiliser Zotero pour gérer sa bibliographie‏
+   :description lang=fr: Comment et pourquoi utiliser Zotero pour gérer sa bibliographie
 
 ##########################################
  Using Zotero to manage your bibliography

@@ -43,9 +43,9 @@ What's the point?
    By using `Bitbucket`_ web interface, you can see `the complete history of changes for this document <https://bitbucket.org/lbesson/web-sphinx/history-node/master/tutogit.en.rst>`_.
 
 
-« *A version control software is a software designed to store a set of files by holding the chronology of all the changes that have been made ​​on it.* »
+« *A version control software is a software designed to store a set of files by holding the chronology of all the changes that have been made on it.* »
 
-« `git`_ *allows notably to find all the previous versions of a lot of related files. It also allows an effective and secure control of your files (and even of entire projects) and also provide a complete track changes made ​​to each file.* »
+« `git`_ *allows notably to find all the previous versions of a lot of related files. It also allows an effective and secure control of your files (and even of entire projects) and also provide a complete track changes made to each file.* »
 
 Needless to say, `I am using git constantly <https://bitbucket.org/lbesson/>`_, mainly when I work on Linux ((X)Ubuntu™ 15.10) on a daily basis, and from time to time on Windows™.
 
