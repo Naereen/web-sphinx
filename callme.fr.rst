@@ -9,6 +9,12 @@
 
    Cette page liste divers moyen d'interagir avec `moi <index.html>`_ (*Lilian Besson*).
 
+Vidéo-conférence instantanée ?
+------------------------------
+1. *D'abord*, prévenez-moi par courriel, on se met d'accord sur un jour et une heure pour s'appeler (*asynchrone*),
+2. *Puis* on utilise le tout récent service *FramaTalk* : `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ !
+3. *Pourquoi ?* Ça ne demande pas d'installation, pas de création de compte, pas de logiciel à part un navigateur web (assez récent). Et c'est parfaitement sécurisé, comme la conversation et les messages ne sont pas espionnés ni enregistrés (le trafic durant la communication se fait en pair-à-pair).
+
 
 Moyens traditionnels
 --------------------
@@ -28,11 +34,12 @@ aux adresses suivantes (listées par ordre de préférence) :
        France
 
 
-2. chez moi (en France), adresse privée que je peux donner si besoin.
+2. chez moi (en France), adresse privée, que je donne sur demande.
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
-Si c'est pour du spam : jarvis.spam@laposte.net !
+Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si vous êtes un spammeur !
+(Bon... les spammeurs sont des robots, mais ça fait du bien de les engueuler !)
 
 .. image:: .courriel.png
    :scale: 120 %
@@ -55,12 +62,12 @@ Téléphone
    :target: callto:100101011101001100111101100001_2
 
 
-Pour essayer de m'avoir directement (si c'est vraiment important), veuillez utiliser mon numéro français.
+Pour (essayer de) m'avoir directement, par exemple si c'est important, veuillez utiliser mon numéro français.
 
-.. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne).
+.. .. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne).
 
-    Les appels vers l'étranger coûtent cher ! Même recevoir des appels
-    coûte cher (pour moi), svp évitez si possible.
+..    Les appels vers l'étranger coûtent cher ! Même recevoir des appels
+..    coûte cher (pour moi), svp évitez si possible.
 
 
 Pour m'envoyer des messages textuels (SMS), idem.
@@ -71,8 +78,8 @@ Autres méthodes
 ---------------
 Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou un *téléphone intelligent* (smartphone) relativement récent.
 
-*Demandez moi n'importe quoi !*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*« Demandez moi n'importe quoi ! »*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Ces deux pages peuvent être utilisées pour me poser une question **publiquement**
 (n'importe qui pourra voir votre question et ma réponse) :
 sur GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_,
@@ -86,18 +93,18 @@ De temps en temps, je suis sur le réseau ``irc.crans.org``, connecté souvent a
 
 Si vous vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
 
-VoIP (Téléphonie par l'Internet)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au ``+33.9.72.11.32.70`` puis composer le "un quatre zero quatre deux" (``14042``) quand le robot le demande.
+.. VoIP (Téléphonie par l'Internet)
+.. ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au ``+33.9.72.11.32.70`` puis composer le "un quatre zero quatre deux" (``14042``) quand le robot le demande.
 
-Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen à linphone point org (" à " = "@", " point " = ".").
+.. Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen à linphone point org (" à " = "@", " point " = ".").
 
-.. note:: Linphone ?
+.. .. note:: Linphone ?
 
-   `Linphone`_ est un outil *libre* et *gratuit* de téléphonie par IP, qui fonctionne parfaitement.
-   Il propose un client pour bureau (Windows, Ubuntu etc) et pour téléphone (Android etc).
-   Pour Android, je préfère `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
-   `Linphone`_ permet aussi de créer un compte utilisateur, gratuitement, afin d'appeler sans limite n'importe quel autre utilisateur de VoIP avec le `protocole SIP <http://fr.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
+..    `Linphone`_ est un outil *libre* et *gratuit* de téléphonie par IP, qui fonctionne parfaitement.
+..    Il propose un client pour bureau (Windows, Ubuntu etc) et pour téléphone (Android etc).
+..    Pour Android, je préfère `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
+..    `Linphone`_ permet aussi de créer un compte utilisateur, gratuitement, afin d'appeler sans limite n'importe quel autre utilisateur de VoIP avec le `protocole SIP <http://fr.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
 
 
 Formulaires web
@@ -116,8 +123,9 @@ Services HTML5
 
 Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.wikipedia.org/wiki/HTML5>`_, permettent de facilement se parler, s'écrire ou s'échanger des fichiers.
 
-* `gruveo.com/#0628412257 <https://www.gruveo.com/#0628412257>`_ pour des appels (vocaux ou vidéos), semble fiable et sécurisé,
-* `appear.in/Naereen <https://appear.in/Naereen>`_ pour des visio-conférences, jusqu'à 8 personnes,
+* `gruveo.com/#Naereen <https://www.gruveo.com/#Naereen>`_ pour des appels (vocaux ou vidéos), semble fiable et sécurisé,
+* `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ pour des visio-conférences (jusqu'à 8 personnes en même temps), hébergé par l'association `FramaSoft <https://framasoft.org/>`_,
+* `appear.in/Naereen <https://appear.in/Naereen>`_ pour des visio-conférences (jusqu'à 8 personnes en même temps),
 * `RTC Copy <https://rtccopy.com/>`_ pour s'envoyer des fichiers (toute taille, tout type).
 
 
