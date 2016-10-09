@@ -202,6 +202,14 @@ All of these plugins are **free**, almost all are free and open-source, and they
 
 For each packet quoted below, a link to the information page on `packagecontrol.io/packages/ <https://packagecontrol.io/packages/>`_ is given.
 
+.. note:: My own plugin?
+
+   In September 2016, I wrote a small plugin, simply because I was bored of having to use two shortcuts to switch between French and English for the spell-cheking.
+   The goal was to be able to switch from one language to another with only one key shortcut...
+
+   It gave `this plugin, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (for ST3 only), which only works for French and English, but does its job perfectly (``ctrl+shift+s`` switches between French, English and no spell-checking, and ``ctrl+shift+a`` guesses between French and English, automatically).
+   My plugin will soon be available through PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+
 
 Small customization plugins:
 

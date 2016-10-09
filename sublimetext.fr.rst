@@ -204,6 +204,14 @@ Tous ces greffons sont **gratuits**, presque tous sont libres et open-sources, e
 
 Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `packagecontrol.io/packages/ <https://packagecontrol.io/packages/>`_ est donné.
 
+.. note:: Mon propre greffon ?
+
+   En septembre 2016, j'ai décidé d'écrire un petit greffon, juste parce que j'en avais marre d'utiliser deux raccourcis clavier pour passer de français à anglais pour la correction orthographique.
+   Le but était de pouvoir passer d'une langue à l'autre avec un seul raccourcis clavier...
+
+   Ça a donné `ce greffon, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (pour ST3 uniquement), qui marche juste pour le français et l'anglais, mais fait son boulot parfaitement (``ctrl+shift+s`` pour passer entre français, anglais et pas de correction orthographique, et ``ctrl+shift+a`` détecte automatiquement la langue et bascule en français ou en anglais selon le contenu du fichier).
+   Mon greffon sera très bientôt disponible via PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+
 
 Petits greffons de personnalisation :
 
