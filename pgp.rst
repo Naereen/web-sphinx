@@ -15,8 +15,10 @@ Qu'est-ce ?
 
  Allez d'abord vous informer, ou vous rafraîchir les idées avant de lire d'avantage.
 
-.. note:: Je vous invite à tester `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
 
+.. .. note:: Je vous invite à tester `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
+
+.. todo:: Translate this page in English!
 
 Où et quand m'en sers-je ?
 --------------------------
@@ -158,7 +160,7 @@ sur un des deux serveurs suivants :
 Donc, une recherche sur un de ces serveurs donne :
 
  * `0x01aacdb9c108f8a0 sur keyserver.ubuntu.com <http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x01AACDB9C108F8A0>`_;
- * `0x01aacdb9c108f8a0 sur pgp.mit.edu <http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x01AACDB9C108F8A0>`_.
+ * `0x01aacdb9c108f8a0 sur pgp.mit.edu <https://pgp.mit.edu/pks/lookup?search=0x01AACDB9C108F8A0&op=index>`_.
 
 Et aussi
 --------
