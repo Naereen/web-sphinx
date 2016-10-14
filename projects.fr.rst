@@ -295,7 +295,7 @@ Infos sur ma **clé PGP**
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Pour des explications sur ma clé **PGP**, savoir comment la *récupérer*,
 l'*importer*, et *vérifier l'intégrité des fichiers* proposés en téléchargement ici,
-cette page `<pgp.html>`_ peut être utile (je ne m'en sers pas beaucoup en fait).
+cette page `<pgp.fr.html>`_ peut être utile (je ne m'en sers pas beaucoup en fait).
 
 Coloration syntaxique pour **GNU/Nano**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

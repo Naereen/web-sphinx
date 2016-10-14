@@ -18,12 +18,10 @@ Qu'est-ce ?
 
 .. .. note:: Je vous invite à tester `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
 
-.. todo:: Translate this page in English!
-
 Où et quand m'en sers-je ?
 --------------------------
-Signer pour assurer l'origine du fichier
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Signer pour assurer l'origine d'un fichier
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 J'essaie de prendre l'habitude de **signer** les fichiers importants, critiques ou sérieux,
 que je propose au téléchargement.
 

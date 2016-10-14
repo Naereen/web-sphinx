@@ -101,6 +101,7 @@ For more details, see `<sitemap.en.html>`_.
    Pages in English <projects.en>
    publis.en
    bin.en
+   pgp.en
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

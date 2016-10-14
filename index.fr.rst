@@ -106,7 +106,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    publis.fr
    Pages en français <projects.fr>
    bin.fr
-   pgp
+   pgp.fr
    Page d'accueil (en anglais) <index.en>
 
 
