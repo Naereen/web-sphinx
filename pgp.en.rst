@@ -16,44 +16,40 @@ What is this about?
  I suggest you go read these, to learn more on GPG or to refresh your ideas on the subject, before reading more this page.
 
 
-.. .. note:: I invite you to try this only tool: `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
-
-.. todo:: Finish to translate this page in English!
+.. .. note:: I invite you to try this tool: `encrypt.to/0x01AACDB9C108F8A0 <https://encrypt.to/0x01AACDB9C108F8A0>`_ !
 
 Where and when do I use it?
 ---------------------------
 Sign to ensure the origin of a file
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-J'essaie de prendre l'habitude de **signer** les fichiers importants, critiques ou sérieux,
-que je propose au téléchargement.
+I tried to take the habit of **signing** the important files (binaries, PDF etc) that can be downloaded on this website (and the other websites I use).
 
-Cela permet pour vous d'être sûr de ce que vous téléchargez : ma clé étant privé
-je suis (normalement) le seul à pouvoir émettre ces signatures.
+This allow any one to be sure that she/he downloaded the correct file:
+my signing key is private, so I should (hopefully) be the only one able to produce these digital signatures.
 
-La plupart des ``urls`` de fichiers que je donne sur mes pages webs
-peuvent permettre de récupérer la signature du fichier en question en rajoutant
-``.asc`` à la fin. Exemple: `<cv.pdf>`_ et `<cv.pdf.asc>`_, ou
-cette page : `<pgp.html>`_ et `<pgp.html.asc>`_.
+Most of the addresses (``URLs``) of files I give on these web-pages can be appended with
+a short ``.asc`` at the end of the address to download the signature:
+for instance, `<cv.en.pdf>`_ and `<cv.en.pdf.asc>`_, or for this page:
+`<pgp.en.html>`_ has its signature in this file `<pgp.en.html.asc>`_.
 
-Exemple
-~~~~~~~
- Par exemple, mon `.bashrc <publis/bin/.bashrc>`_ a une signature
- `.bashrc.asc <publis/bin/.bashrc.asc>`_.
+More examples
+~~~~~~~~~~~~~
+For instance, my Bash profile file, `.bashrc <bin/.bashrc>`_, has a signature `.bashrc.asc <bin/.bashrc.asc>`_.
 
- Avec l'extension ``sphinx.ext.runblock``, il devrait être possible d'embarquer
- la commande qui permet de créer cette signature (et sa sortie) :
+With the `sphinx-doc <http://sphinx-doc.org/>`_ extension ``sphinx.ext.runblock``, it is possible to
+include here in this web-page the command that was used to generate this digital signature (and its output):
 
  .. runblock:: console
 
     $ LANG=en gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
 
-Comment utiliser ces fichiers **.asc** ?
-----------------------------------------
-Il est possible de **vérifier** ces signatures, avec ma clé publique.
+How to use these **.asc** files?
+--------------------------------
+It is possible to **check** these signatures, with my public key.
+And that's the main purpose of the **.asc** files!
 
-Il faut *importer* ma clé publique dans votre répertoire de clés
-auxquelles vous faites confiance (trust-ring).
+First, you have to *import* my public key in your list of trusted keys (trust-ring).
 
 .. image::  .gpgpublickey_80_15.png
    :scale:  120 %
@@ -61,13 +57,13 @@ auxquelles vous faites confiance (trust-ring).
    :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
-En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
+In this case, my public key is in this file `<Lilian_Besson.asc>`_, and you need:
 
- #. **la télécharger**, comme expliqué au paragraphe suivant;
- #. **vérifier** sa somme *MD5* et *SHA256* en comparant les valeurs trouvées
-    aux résultats suivants :
+ #. **to download it**, as explained in the next paragraph;
+ #. and then **check** its *MD5* and *SHA256* checksums, to be sure you downloaded the good file!
+    Simply compare the output of the ``md5sum`` and ``sha256sum`` commands to the one bellow.
 
-    Depuis mon répertoire de clés :
+    From my trust ring:
 
     .. runblock:: console
 
@@ -75,74 +71,53 @@ En ce qui concerne `ma clé publique <Lilian_Besson.asc>`_, il faut :
        $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
 
 
-    Depuis le fichier `<Lilian_Besson.asc>`_ :
+    And from the file you downloaded `<Lilian_Besson.asc>`_ :
 
     .. runblock:: console
 
+       $ # Use ./Lilian_Besson.asc to check the file in the current directory
        $ md5sum ~/Lilian_Besson.asc
        $ sha256sum ~/Lilian_Besson.asc
 
 
-   À quoi cela sert-il ? Cela vous permet de vérifier que vous avez bien téléchargé
-   la bonne armor-art (*ie.* la version ASCII) de ma clé publique.
+   This step is simply here to check that you downloaded the good public key (the .asc file is its armor-art, *ie.* an ASCII representation of its content).
 
 
- #. **l'importer dans votre répertoire de clé** (local sur chaque machine) : ::
+ #. Then you have to **import it in your trust ring** (locally on your machine) : ::
 
       gpg --import Lilian_Besson.asc
 
 
-Ensuite, pour vérifier la signature *fichier.asc* du fichier *fichier*
-il suffit de faire : ::
+And now, you can check the signature *file.asc* of any file *file*,
+with this simple command: ::
 
-    gpg --verify fichier.asc fichier
-
-
-Exemple
-~~~~~~~
- Donc pour l'exemple de mon fichier `.bashrc`_, il suffit de faire : ::
-
-     gpg --verify .bashrc.asc .bashrc
+    gpg --verify file.asc file
 
 
- Alors, :blue:`normalement`, si vous avez bien importé la clé, et
- téléchargé les bons fichiers, cela devrait vous donner un message comme :
+Example (2)
+~~~~~~~~~~~
+And so for the `.bashrc`_ file, if you downloaded it and its signature, you just have to do: ::
 
- .. runblock:: console
-
-    $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
+    gpg --verify .bashrc.asc .bashrc
 
 
- Normalement, ça marche ;)
+Then, :blue:`hopefully`, if you downloaded the files, and have imported my public key,
+it should give you a message like this one:
 
- .. note::
+.. runblock:: console
 
-    J'ai écrit un petit script pour *automatiquement* cacher les adresses courriel
-    écrite par ces commandes *gpg* dans les pages générées avec Sphinx et l'extension
-    runblock.
+   $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
 
-    *Pourquoi ?* Pour rien. Ou si en fait. Pour tenter d'éviter de laisser mes adresses
-    éléctroniques en clair dans les **nouveaux** documents que je produit.
 
-    *Pourquoi seulement nouveaux ?* Parce que je ne savais pas que des *bots* peuvent
-    scanner des millions de pages par jour à la recherche d'adresses électroniques,
-    afin d'envoyer du spam.
-    Donc, tant que faire ce peux, j'essaie de limiter la présence d'une adresse sous forme
-    truc.machin@domain.ext et utilise plutôt un format du genre truc.machin[@] ou [AT].
-
-    Bref, ce script `obscure_email.sh <https://bitbucket.org/lbesson/web-sphinx-scripts/src/master/.obscure_email.sh>`_
-    réalise cette substitution automatiquement, pour tous les documents
-    textuels générés via Sphinx, avant de les envoyer vers un serveur.
-    Comme ça, c'est facile et automatique :)
-
+It should work just fine!
 
 ..     gpg: Signature made Fri Jul 05 19:46:31 2013 BST using RSA key ID C108F8A0
 ..     gpg: GOOD signature from "Lilian Besson <lilian.besson[@]crans[.]org>"
 
 
-Ma clé publique
----------------
-L'**empreinte publique** de ma clé est **C108F8A0**.
+My public key
+-------------
+The **public footprint** of my key is **C108F8A0**.
 
 .. image::  .gpgmypublickey_80_15.png
    :scale:  120 %
@@ -150,63 +125,17 @@ L'**empreinte publique** de ma clé est **C108F8A0**.
    :alt:    R4096/C1108F8A0
    :target: Lilian_Besson.asc
 
-Une méthode pour récupérer ma clé est de la **rechercher** directement
-sur un des deux serveurs suivants :
+One simpler way of importing my key is to simply **look for it** directly!
+From one of these two servers::
 
  * ``keyserver.ubuntu.com``;
  * ``pgp.mit.edu``.
 
 
-Donc, une recherche sur un de ces serveurs donne :
+A quick look-up on these PGP key server gives:
 
- * `0x01aacdb9c108f8a0 sur keyserver.ubuntu.com <http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x01AACDB9C108F8A0>`_;
- * `0x01aacdb9c108f8a0 sur pgp.mit.edu <https://pgp.mit.edu/pks/lookup?search=0x01AACDB9C108F8A0&op=index>`_.
-
-Et aussi
---------
-J'utilise aussi de plus en plus **GPG** pour *signer* ou *chiffrer* mes
-emails, abandonnant ainsi Hotmail pour la rédaction de mails.
-Le paragraphe suivant est consacré à *mutt*, un client de messagerie en console.
-
-------------------------------------------------------------------------------
-
-Mutt
-----
-J'utilise **Mut 1.5.21** pour rédiger et lire mes mails.
-Voir la page officielle pour plus de détails : `<http://www.mutt.org>`_.
-
-Mes fichiers de conf'
-~~~~~~~~~~~~~~~~~~~~~
-Vous pouvez trouver notamment ici `<publis/muttrc/>`_ mes fichiers de configurations
-pour mutt (enfin, les fichiers ne contenant aucune info privée).
-
-Il faut placer `.muttrc` dans votre `$HOME`, et le contenu du dossier `mutt/`
-dans `$HOME/.mutt/`.
-
-Il faut ensuite écrire un couple de fichier `truc.account.muttrc` et
-`truc.signature.muttrc` par compte de messagerie que vous souhaitez utiliser.
-Il est possible d'utiliser un fichier `truc.password.gpg` pour stocker un
-mot de passe pour un serveur SMTP, POP ou IMAP de façon crypté par GPG.
-
-Adaptez enfin le `.muttrc` pour charger les bons fichiers (dans mon cas,
-`truc=ens` et `truc=crans`).
-
-Le jeu de couleur fourni vient du projet `solarized
-<https://github.com/altercation/mutt-colors-solarized>`_.
-
-Astuces
-~~~~~~~
-* Utilisez *mutt* via *tmux* (ou screen ou byobu), afin de pouvoir l'ouvrir facilement !
-
-* Ne stockez pas vos mots de passes en clair dans vos fichiers de configurations
-  dans  `~/.mutt/` !
-
-* Vous pouvez définir un alias `alias mutt-truc=mutt -F ~/.mutt/truc.muttrc`
-  afin de lancer plus vite *mutt* sur un seul de vos comptes.
-
-* Il est possible d'utiliser ses contacts Google pour créer un fichier
-  `$HOME/.goobook_cache`, permettant l'auto-complétion du destinataire
-  via la touche TAB dans *mutt*, avec **goobook**.
+ * `0x01aacdb9c108f8a0 on keyserver.ubuntu.com <http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x01AACDB9C108F8A0>`_;
+ * `0x01aacdb9c108f8a0 on pgp.mit.edu <https://pgp.mit.edu/pks/lookup?search=0x01AACDB9C108F8A0&op=index>`_.
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
