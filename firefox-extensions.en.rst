@@ -103,7 +103,7 @@ Other extensions
 * `All-in-One Sidebar <https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/>`_ if you like having history, downloads, favorites all in the sidebar (useful on a large screen for example),
 * `Copy as Plain Text <https://addons.mozilla.org/en-us/firefox/addon/copy-as-plain-text/>`_ if you work a lot with Markdown or other markup languages,
 * `Markdown Here <https://addons.mozilla.org/en-us/firefox/addon/markdown-here/>`_ if you want to write fancy emails with Markdown,
-* `Mind the Time <https://addons.mozilla.org/en-us/firefox/addon/mind-the-time/>`_ allows to to precisely monitor the time you send on the web, each day, week and month, website by website.
+* `Mind the Time <https://addons.mozilla.org/en-us/firefox/addon/mind-the-time/>`_ allows to precisely monitor the time you spend on the web, each day, week and month, website by website.
 * `about:addons-memory <https://addons.mozilla.org/en-US/firefox/addon/about-addons-memory>`_ is simple but useful if your Firefox uses too much RAM: it adds a `<about:addons-memory>`_ page displaying the memory use of *each* addons. If one is using *way* too much RAM, maybe it's time to uninstall it!
 
 ------------------------------------------------------------------------------
