@@ -143,12 +143,12 @@ So what did I do so far?
 
 I have been using these tools for quite some time, to collect and visualize some more data on myself:
 
-- `Munin <http://munin-monitoring.org/>`_ runs locally on my laptops since March 2013. It is a resource monitoring tool, to analyze resource trends (CPU, memory, uptime, etc), and display them nicely in a local web interface. I use it to have an idea of the frequency and intensity of daily use of my laptops.
+- `Munin <http://munin-monitoring.org/>`_ runs locally on my laptops since March 2013. It is a resource monitoring tool, to analyze resource trends (CPU, memory, uptime, etc), and display them nicely in a local web interface. I use it to have an idea of the frequency and intensity of daily use of my laptops. I recently started to write some plugins for Munin, to monitor some additional stats (eg, number of graphical windows or documents printed every day), see `"My-Munin-plugins" on GitHub <https://github.com/Naereen/My-Munin-plugins>`_.
 - `Mind the Time <https://addons.mozilla.org/en-us/firefox/addon/mind-the-time/>`_ is a `Firefox extension <firefox-extensions.en.html>`_ which allows you to precisely monitor the time you spend on the web, each day, week and month, website by website. I have used it from the October 2014, and I check the data about once a week to have an idea of the websites I visited during the week (which one did I spend more time in?).
 - I used a little `selfspy <https://github.com/gurgeh/selfspy>`_, it is a Python program that runs in the background (on Ubuntu). And I even wrote a simple HTML-based UI, generated with a Python script (cf. `selfspy-vis <http://github.com/Naereen/selfspy-vis>`_). I stopped using it because the data collection was too CPU consuming, and the visualization was very CPU intensive.
 - `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ is a small (and free) `Android app <apk.en.html>`_ to regularly backup my text messages, phone call history etc. The data are XML files, should be easy to use in a script.
 - Zeitgeist on Ubuntu is the complete history of open/edited/modified files (never erased), and it's browsable with `gnome-activity-journal <https://apps.ubuntu.com/cat/applications/gnome-activity-journal/>`_.
-- `uLogMe <https://github.com/Naereen/uLogMe>`_ is an open-source tool that constantly collect the title of my active window and the frequency of my keyboard activity, and then displays the data nicely in a web-based UI. I have been contributing on `my fork <https://github.com/Naereen/uLogMe>`_ actively in October 2016.
+- `uLogMe <https://github.com/Naereen/uLogMe>`_ is an open-source tool that constantly collect the title of my active window and the frequency of my keyboard activity, and then displays the data nicely in a web-based UI. I have been contributing on `my fork <https://github.com/Naereen/uLogMe>`_ actively in October 2016, to improve it and adapt it to my preferences.
 
 
 I wrote a few blog articles (on this website) about some data and statistics:
@@ -160,6 +160,8 @@ I wrote a few blog articles (on this website) about some data and statistics:
 I also wrote some small tools:
 
 - A minimalist dashboard, generated every hour (with cron), with this bash script `GenerateStatsMarkdown.sh <https://bitbucket.org/lbesson/bin/src/master/GenerateStatsMarkdown.sh>`_, displays basic stats about my laptop, and links to other stats and dashboard sites. Minimalist UI: simple Markdown file, powered by `StrapDown.js <http://lbesson.bitbucket.org/md/>`_.
+- See `my fork of uLogMe on GitHub <https://github.com/Naereen/uLogMe>`_.
+- See `my own Munin plugins on GitHub <https://github.com/Naereen/My-Munin-plugins>`_.
 
 
 ------------------------------------------------------------------------------
