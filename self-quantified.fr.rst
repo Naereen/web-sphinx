@@ -7,11 +7,12 @@
 ########################################################
 Qu'est-ce que le *moi quantifié* ?
 ----------------------------------
-Cette page Wikipédia explique cela mieux que moi : ` <https://fr.wikipedia.org/wiki/Moi_quantifié>`_.
+`Cette page Wikipédia <https://fr.wikipedia.org/wiki/Moi_quantifié>`_ explique cela mieux que moi.
 
 Que vais-je tenter dans cette expérience ?
 ------------------------------------------
-.. todo:: Finir la version anglaise et traduire ensuite.
+
+.. todo:: Finir `la version anglaise de cet article <self-quantified.en.html>`_ et traduire ensuite.
 
 ----
 
