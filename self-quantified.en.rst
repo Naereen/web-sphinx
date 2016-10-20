@@ -16,16 +16,20 @@ Ideally, I would try to work on the "self quantified" concept, and follow these 
 
 1. Complete list of digital data about myself
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 I will start by making a complete and exhaustive list of digital data about myself.
 
+1.1 Digital data you can have your hands on
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It should include:
 
-- the data collected by any *websites*, *web services* or online services I have used or still use. It includes sent and received emails (to who? how long are they? do I send more than I receive?), Facebook (messages, posts and notifications), online shops (history of purchase, wait before reception), agenda events (like Google Calendar), gaming history on Steam (what did I play and when, how much did every hour played costed me?), history of videos seen on YouTube, etc. The list is probably too long to be done exhaustively...
+- the data collected by any *websites*, *web services* or online services I have used or still use. It includes sent and received emails (to who? how long are they? do I send more than I receive?), Facebook (messages, posts and notifications), online shops (history of purchase, delay before reception), agenda events (like Google Calendar), gaming history on Steam (what did I play and when, how much did every hour played costed me?), history of videos seen on YouTube, etc. The list is probably too long to be done exhaustively...
 - the data collected by my *laptops* (browsing habits, resource usage, printers history, history of active windows and keys frequency, music played, command line and text editors history, git commits, etc),
 - and my *phone*: text messages, calls, time spent in each applications, time of first and last activation every day, etc),
-- but also my *digital camera* when traveling (how many pictures were taken everyday, when and where?), my 3DS *gaming console* (how long and what did I play everyday?)
+- but also my *digital camera* when traveling (how many pictures were taken everyday, when and where?), my 3DS *gaming console* (how long and what did I play everyday?).
 
+
+1.2 Data collected by tiers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 But also digital data on which you have a less direct access:
 
 - data collected by my *banks*, by the French *health-care*, etc,
@@ -34,10 +38,14 @@ But also digital data on which you have a less direct access:
 - data collected by my *employee*, my *landlord* etc,
 - data collected at home: my daily *electricity* and *water consumption*, the time I spent at home or at the office, etc.
 
-*That's the scary part*: realize how many companies, apps and services have data about *you*.
-And freak out about the fact that almost none of them don't allow you to download raw versions or delete your data - and that most of them don't even allow you *see* your data!
+.. warning::
+
+   *That's the scary part*: realize how many companies, apps and services have data about *you*.
+    And freak out about the fact that almost none of them don't allow you to download raw versions or delete your data - and that most of them don't even allow you *see* your data!
 
 
+1.3 Self-logging outside of the digital world
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 And there is all other kind of data you could collect on yourself, either by self logging (with an app or a notebook) or a dedicated device (eg, health-monitoring bracelet):
 
 - *food and beverages consumption* (time and content of your meals, water and coffee consumption, number, alcohol/non-alcohol consumption, frequency of meals taken at the office / at home / in a restaurant, number of time I go to a bar, daily weight, etc),
@@ -64,7 +72,7 @@ Some service provides API that should be very easy to use.
 
 Write some scripts to *convert* the data into a common format, or an easily read format, in a local database (JSON ? SQLite ?).
 
-This will most probably need to hand-write one script for every different origin (to parse a webpage or a PDF, to connect to an API, etc).
+This will most probably need to hand-write one script for every different origin (to parse a web-page or a PDF, to connect to an API, etc).
 The scripts should try to be as simple as possible, in Python and GNU Bash.
 
 Additionally, the scripts should *process* the data, and compute statistics about them.
@@ -88,33 +96,34 @@ It should be easy to add the support of one more web-service (data collection si
 
 The goal should be to have daily statistics on all the data, answering some questions I have about my numerical self and myself:
 
-- Who are the people I interact the more with (by email, Facebook, phone and SMS). Are they close friends or colleagues? Do I see them more than I reach them electronically? Is there a link between the geographic distance between a friend and the intensity of our electronic communications? Cluster my friends by origins and see which groups do I interact the more with?
-- How much time do I spend working and preparing for my teaching activities, *exactly*? It would allow me to have a precise measure of my hour wage, averaged between the time actually spent in front of my class (when you are paid for it) and the time preparing, reading, printing etc for your class (when you are not paid for it).
-- How many documents do I print every week? How long do I spend reading articles and other PDF documents? How much time do I *really* need to read a 6-page long scientific article?
+- Who are the people I interact the more with (by email, Facebook, phone and SMS). Are they close friends or colleagues? Do I see them more than I reach them electronically? Is there a link between the geographic distance between a friend and the intensity of our electronic communications? Cluster my friends by origins, to see which groups do I interact the more with?
+- How much time do I spend working and preparing for my teaching activities, *exactly* ? It would allow me to have a precise measure of my hour wage, averaged between the time actually spent in front of my class (when you are paid for it) and the time preparing, reading, printing etc for your class (when you are not paid for it).
+- How many documents do I print every week? (cf. `my Munin plugin for this question <https://GitHub.com/Naereen/My-Munin-plugins/tree/master/nb_printed_documents.sh>`_) How long do I spend reading articles and other PDF documents? How much time do I *really* need to read a 6-page long scientific article?
 - How much time do I spend browsing *useless* vs *work-related* vs *coding-related* websites?
 
 
-The statistics should allow me to answer some questions on causality:
+The statistics should also allow me to answer some **questions on causality**:
 
 - When do I sleep better and why? Which factor has the strongest influence on my health and my sleep: food and drinks, weather, sports, time spent on the computer?
-- When am I the more productive at work? When I come early or late? During morning or afternoons? Is coffee helping to be productive? Do I actually gain time and productivity by taking small breaks on `fun <http://questionablecontent.net/>`_ and `useless <http://lesjoiesducode.fr/>`_ websites?
-- Am I *really* in a better health if I take my bike everyday?
+- When am I the more productive at work? When I come early or late? During morning or afternoons? Is coffee helping to be productive? Do I actually gain time and productivity by taking small breaks on `fun <http://questionablecontent.net/>`_ and `useless <http://lesjoiesducode.fr/>`_ websites? (*note:* I first should define "productive" more formally than just number of keyboard hits or ratio of "work-related" computer activity)
+- Am I *really* in a better health if I take and ride my bike everyday ? Same question for coffee, etc.
 - What happens if I skip breakfast? Or if I stop coffee or if I completely stop eating outside meals?
-- Am I more product and a better teaching or research during the week if I don't work at all or if I travel during the week-end?
+- Am I more productive (and a better teacher or researcher) during the week if I don't work at all, or if I travel, during the week-end?
 
 
-Some questions on performance:
+Some questions on **performance**:
 
-- Do I type faster on this or that laptop (which one has the fastest keyboard)?
-- Which language am I using the more (i.e., scripts written in such language are used more) and which one do I produce the more? Am I too slow when working on one language or tool?
-- Does bad weather influence the time I have to ride my bike to go to work? My health, my mood or my productivity?
-- Am I completely wasting my time when working on these questions of self quantified?
+- Do I type faster on this or that laptop (which one has the fastest keyboard)? Do I type faster in French or in English (or no difference)? Am I faster when writing prose than code (should be the case...).
+- Which language am I using the more (i.e., scripts written in such language are used more) and which one do I edit/produce/use the more ? (cf. `my WakaTime profile <https://WakaTime.com/@lbesson>`_) Am I too slow when working on one language or tool?
+- Does bad weather influences the time I have to ride my bike to go to work? My health, my mood or my productivity?
+- And the most important of all: am I completely wasting my time when working on these questions of self quantified? ... I hope not, but I think so.
 
 
 Some other questions include:
 
 - How many people do I meet every year but that I never contact again? How many friends am I really still in touch with?
-- Am I spending too much money on some aspect of my life without knowing it?
+- Am I spending too much money on some aspect of my life, without knowing it?
+- If I had tags to my music mp3 collections, and I log every song I listen to, could I use this to display and find out who are really my favorite artists, and sort the genres and kind of music by frequency of listening.
 
 
 .. note:: And you, do you have any such question on your digital self and on yourself? `Tell me about it! <callme.en.html>`_
@@ -123,7 +132,7 @@ Some other questions include:
 6. Summary goal
 ~~~~~~~~~~~~~~~
 
-Ideally, I would like one unique application/script/program, running locally on my laptop, that I could run manually every week.
+Ideally, I would like one unique application/script/program, running *locally* on my laptop, that I could run manually (every week or so).
 It should download everything (maybe asking passwords or reading them from a secure database), extract all the data and convert it, and backup it to an external disk.
 Then it should display a nice web-based UI, showing awesome charts, plots and statistics about **everything of my life**.
 
@@ -131,21 +140,24 @@ Then it should display a nice web-based UI, showing awesome charts, plots and st
 7. And... publish all this open-source!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-And of course, do all this with open-source tools, and when my tool(s) will be done, publish them (under `the MIT Licence <https://lbesson.mit-license.org/>`_). Then, write a more detailed article blog about it (rST → HTML), and maybe a "research" article (LaTeX → PDF).
+And of course, do all this with open-source tools, and when my tool(s) will be done, publish them (under `the MIT License <https://lbesson.mit-license.org/>`_).
+Then, I should write a more detailed article blog about it (rST → HTML, like this page); and maybe a "research" article (LaTeX → PDF) ?
 
 
-Concretely, I still did not have the time to work on all these points...
+.. warning::
+
+   Concretely, I still did not have the time to work on all these points...
 
 ------------------------------------------------------------------------------
 
-So what did I do so far?
-------------------------
+So... what did I do so far?
+---------------------------
 
-I have been using these tools for quite some time, to collect and visualize some more data on myself:
+I have been using some self-quantifying tools for quite some time, to collect and visualize some data on myself:
 
 - `Munin <http://munin-monitoring.org/>`_ runs locally on my laptops since March 2013. It is a resource monitoring tool, to analyze resource trends (CPU, memory, uptime, etc), and display them nicely in a local web interface. I use it to have an idea of the frequency and intensity of daily use of my laptops. I recently started to write some plugins for Munin, to monitor some additional stats (eg, number of graphical windows or documents printed every day), see `"My-Munin-plugins" on GitHub <https://github.com/Naereen/My-Munin-plugins>`_.
 - `Mind the Time <https://addons.mozilla.org/en-us/firefox/addon/mind-the-time/>`_ is a `Firefox extension <firefox-extensions.en.html>`_ which allows you to precisely monitor the time you spend on the web, each day, week and month, website by website. I have used it from the October 2014, and I check the data about once a week to have an idea of the websites I visited during the week (which one did I spend more time in?).
-- I used a little `selfspy <https://github.com/gurgeh/selfspy>`_, it is a Python program that runs in the background (on Ubuntu). And I even wrote a simple HTML-based UI, generated with a Python script (cf. `selfspy-vis <http://github.com/Naereen/selfspy-vis>`_). I stopped using it because the data collection was too CPU consuming, and the visualization was very CPU intensive.
+- (*not anymore*) I used a little `selfspy <https://github.com/gurgeh/selfspy>`_, it is a Python program that runs in the background (on Ubuntu). And I even wrote a simple HTML-based UI, generated with a Python script (cf. `selfspy-vis <http://github.com/Naereen/selfspy-vis>`_). I stopped using it because the data collection was too CPU consuming, and the visualization was very CPU intensive.
 - `Super Backup <https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts>`_ is a small (and free) `Android app <apk.en.html>`_ to regularly backup my text messages, phone call history etc. The data are XML files, should be easy to use in a script.
 - Zeitgeist on Ubuntu is the complete history of open/edited/modified files (never erased), and it's browsable with `gnome-activity-journal <https://apps.ubuntu.com/cat/applications/gnome-activity-journal/>`_.
 - `uLogMe <https://github.com/Naereen/uLogMe>`_ is an open-source tool that constantly collect the title of my active window and the frequency of my keyboard activity, and then displays the data nicely in a web-based UI. I have been contributing on `my fork <https://github.com/Naereen/uLogMe>`_ actively in October 2016, to improve it and adapt it to my preferences.
@@ -170,10 +182,15 @@ References
 ----------
 - Not yet.
 
-.. seealso:: Article par Stephen Wolfram
+.. seealso:: Article par `Stephen Wolfram <http://blog.stephenwolfram.com/>`_
 
    This `blog post by Stephen Wolfram <http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/>`_ (March 2012)
    was the original inspiration for this idea.
+
+.. seealso:: Article par `Andrej Karpathy <https://karpathy.github.io/>`_
+
+   This `blog post by Stephen Wolfram <https://karpathy.github.io/2014/08/03/quantifying-productivity/>`_ (September 2014)
+   presents the summary of 3 months of use of `uLogMe <>`_.
 
 .. seealso:: `This git repository <https://bitbucket.org/lbesson/self-quantified>`_, almost empty (and private) for now.
 
