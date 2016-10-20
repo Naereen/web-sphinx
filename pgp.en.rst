@@ -126,7 +126,7 @@ The **public footprint** of my key is **C108F8A0**.
    :target: Lilian_Besson.asc
 
 One simpler way of importing my key is to simply **look for it** directly!
-From one of these two servers::
+From one of these two servers:
 
  * ``keyserver.ubuntu.com``;
  * ``pgp.mit.edu``.
