@@ -31,11 +31,11 @@
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git associé" href="https://bitbucket.org/lbesson/web-sphinx/rss" />
   <link rel="alternate" type="application/rss+xml" title="Suivre l'évolution du dépôt git contenant les scripts" href="https://bitbucket.org/lbesson/web-sphinx-scripts/rss" />
   <link rel="author" href="humans.txt" />
-  <link rel="stylesheet" media="screen and (min-width: 681px)" href="{{ pathto('_static/forkit.css', true)|e }}" />
-  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.css', true)|e }}" />
-  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.css', true)|e }}" />
-  <link rel="stylesheet" href="{{ pathto('_static/hacks.css', true)|e }}" />
-  <link rel="stylesheet" href="{{ pathto('_static/sharingbuttons.css', true)|e }}" />
+  <link rel="stylesheet" media="screen and (min-width: 681px)" href="{{ pathto('_static/forkit.min.css', true)|e }}" />
+  <link rel="stylesheet" media="screen" href="{{ pathto('_static/buttons.min.css', true)|e }}" />
+  <link rel="stylesheet" media="screen and (min-width: 380px)" href="{{ pathto('_static/nprogress.min.css', true)|e }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/hacks.min.css', true)|e }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/sharingbuttons.min.css', true)|e }}" />
   <!-- jQuery.Noty.js (Source: http://ned.im/noty/#installation) -->
    <script type="text/javascript" src="{{ pathto('_static/noty/jquery.noty.packaged.min.js', true)|e }}"></script>
   <!-- MouseTrap.js (http://craig.is/killing/mice) -->
@@ -132,13 +132,13 @@
 		if (newcolor != "") {
 			// console.log("[INFO] Loading the stylesheet '" + ("{{ pathto('_static/', true)|e }}" + newcolor + ".css") + "'");
 			$("head").append(
-		    	$("<link/>", {href: ("{{ pathto('_static/', true)|e }}" + newcolor + ".css"), rel: "stylesheet"})
+		    	$("<link/>", {href: ("{{ pathto('_static/', true)|e }}" + newcolor + ".min.css"), rel: "stylesheet"})
 		    );
       setTimeout(function(){
         if (e == '.en.html') {
-  		    noty({text: ("<b>Loading of " + newcolor + ".css ...</b></br><small>The style should have changed now, otherwise, maybe you could <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">report a bug</a>?</small>"), timeout: 3000});
+  		    noty({text: ("<b>Loading of " + newcolor + ".min.css ...</b></br><small>The style should have changed now, otherwise, maybe you could <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">report a bug</a>?</small>"), timeout: 3000});
         } else {
-          noty({text: ("<b>Chargement de " + newcolor + ".css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
+          noty({text: ("<b>Chargement de " + newcolor + ".min.css ...</b></br><small>Le style devrait avoir changé, si non, peut-être pourriez-vous <a href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">signaler un bug</a> ?</small>"), timeout: 3000});
         }
       }, 3000);
 	} };
