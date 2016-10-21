@@ -190,7 +190,7 @@ References
 .. seealso:: Article par `Andrej Karpathy <https://karpathy.github.io/>`_
 
    This `blog post by Stephen Wolfram <https://karpathy.github.io/2014/08/03/quantifying-productivity/>`_ (September 2014)
-   presents the summary of 3 months of use of `uLogMe <>`_.
+   presents the summary of 3 months of use of `uLogMe <https://github.com/Naereen/uLogMe/>`_.
 
 .. seealso:: `This git repository <https://bitbucket.org/lbesson/self-quantified>`_, almost empty (and private) for now.
 
