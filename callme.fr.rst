@@ -23,18 +23,18 @@ Courrier postal
 Vous pouvez m'écrire ou bien m'envoyer des cartes postales (j'adore ça),
 aux adresses suivantes (listées par ordre de préférence) :
 
-1. secrétariat du département de mathématiques, à l'ENS de Cachan, en France
-   (voir `sur un plan OpenStreetMap <http://osm.org/go/0BOchV4ns-->`_) ::
+1. Mon bureau, à *CentraleSupélec*, campus Rennes, en France
+   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.125278&mlon=-1.623611>`_) ::
 
        Mr Lilian Besson,
-       ENS Cachan,
-       Dept. de Mathématiques,
-       41, avenue du Président Wilson,
-       94230 - Cachan,
+       Office 304 - SCEE Team,
+       CentraleSupélec - Campus de Rennes,
+       Avenue de la Boulaie - CS 47601,
+       35576 - Cesson-Sévigné,
        France
 
 
-2. chez moi (en France), adresse privée, que je donne sur demande.
+2. chez moi (en France), adresse privée, que je donne sur demande (e.g., par courriel).
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
@@ -64,7 +64,7 @@ Téléphone
 
 Pour (essayer de) m'avoir directement, par exemple si c'est important, veuillez utiliser mon numéro français.
 
-.. .. warning:: Je suis actuellement à l'étranger, vivant en Suisse (à Lausanne).
+.. .. warning:: Je suis actuellement à l'étranger, vivant à Hyderabad (en Inde).
 
 ..    Les appels vers l'étranger coûtent cher ! Même recevoir des appels
 ..    coûte cher (pour moi), svp évitez si possible.
@@ -82,10 +82,10 @@ Les moyens suivants sont plus technologiques, et nécessitent un ordinateur ou u
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Ces deux pages peuvent être utilisées pour me poser une question **publiquement**
 (n'importe qui pourra voir votre question et ma réponse) :
-sur GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_,
-`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (nécessite un compte GitHub);
-et sur Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_,
-`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (pas besoin d'un compte).
+sur GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_ (en anglais),
+`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (en français), ceux là requièrent un compte GitHub;
+et sur Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_ (en anglais),
+`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (en français), pour ceux là, pas besoin d'un compte Bitbucket.
 
 IRC (salles de discussion)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

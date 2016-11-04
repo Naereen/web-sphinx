@@ -16,25 +16,25 @@ Instantaneous video-conference ?
 3. *Why ?* It does not require any installation or plugin, no need to create any account, no need for a specific software - just your regular web browser (a fairly recent one is needed). And it's awesomely secured, as the conversation and messages are not spied nor registered (the communication uses peer-to-peer trafic with WebRTC, that's safe).
 
 
-Traditionnal ways
------------------
+Traditional ways
+----------------
 Postal addresses
 ^^^^^^^^^^^^^^^^
 You can write a letter or some postal cards to me (I love them),
 at the following addresses (listed by decreasing preference):
 
-1. The Mathematics department secretary, at *ENS de Cachan*, in France
-   (you can `see it on this OpenStreetMap map <http://osm.org/go/0BOchV4ns-->`_) ::
+1. My office, at *CentraleSupélec*, in Rennes, France
+   (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.125278&mlon=-1.623611>`_) ::
 
        Mr Lilian Besson,
-       ENS de Cachan,
-       Dept. de Mathématiques,
-       41, avenue du Président Wilson,
-       94230 - Cachan,
+       Office 304 - SCEE Team,
+       CentraleSupélec - Campus de Rennes,
+       Avenue de la Boulaie - CS 47601,
+       35576 - Cesson-Sévigné,
        France
 
 
-2. to my own place (in France), I give the address by email if you ask it.
+2. to my own place (in France), I give the address if you ask it (e.g., by email).
 
 Emails
 ^^^^^^
@@ -64,7 +64,7 @@ Regular phone
 
 To speak directly, e.g. if it is important, you can (try to) call me, you could use my French cellphone number:
 
-.. .. warning:: I am currently out of the French territory, living in Switzerland (in Lausanne).
+.. .. warning:: I am currently out of the French territory, living in Hyderabad (in India).
 
 ..   Calling someone in a foreign country can be expensive!
 ..   In fact, even receiving them is costly, so please avoid it (if possible).
@@ -83,10 +83,10 @@ The next solutions are way more *geeky*, and you will need a relatively recent c
 *« Ask me anything! »*
 ^^^^^^^^^^^^^^^^^^^^^^
 These two pages can be used to ask my a question **publically** (everyone can see what you ask and my answer):
-on GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_,
-`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (requires a GitHub account);
-and one Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_,
-`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (no need for an account).
+on GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_ (in English),
+`github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (in French), both requires a GitHub account;
+and on Bitbucket : `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_ (in English),
+`bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (in French), no need for an account.
 
 IRC (chat rooms)
 ^^^^^^^^^^^^^^^^
