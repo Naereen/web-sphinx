@@ -12,8 +12,8 @@ Je recherchais une mission d'enseignement de 64 h / an, pour 2016/2017, durant m
 
 Je donne des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et je suis chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
 
-- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_,
-- Pour plus de détails sur `les cours, oraux et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
+- Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
+- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
 
 En 2015
 -------
@@ -111,6 +111,7 @@ Premier semestre en 2014 (en France)
    `Cette page héberge plein de ressources utiles pour préparer l'agrégation <agreg-2014/>`_ (mes listes de développements et ma bibliographie notamment).
 
    J'ai choisi d'être en report de stage pour 2014-15 ainsi qu'en 2015-16, pour finir ma scolarité à l'`École Normale Supérieure de Cachan <http://www.ens-cachan.fr/>`_ (via l'option *"fin de scolarité normalienne"*).
+   Depuis 2016-17, j'enseigne 64 heures / an, afin de valider le stage préliminaire requis pour devenir un "vrai" professeur agrégé.
 
 ------------------------------------------------------------------------------
 

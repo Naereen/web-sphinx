@@ -8,12 +8,12 @@
 
 In 2016/2017
 ------------
-I was looking for a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the agregation national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculability).
+I was looking for a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
 
 I am giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and will be a teaching assistant (TA) at ENSAI (4 times 3h, twice; level L3).
 
-- For more details on `the TAing I am doing for the course "Complexity and Calculability" at ENSAI, see this page <ensai-2016/>`_,
-- For more details on `the oral exams I am giving for the "Computer Science option for agregation" at ENS de Rennes, see this page <agreg-2016/>`_.
+- For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
+- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
 
 In 2015
 -------
@@ -23,8 +23,8 @@ Second semester of 2015 (in France)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Between September 2015 and June 2016, I was teaching, on a weekly basis, at `Lycée Lakanal (at Sceaux, near Paris) <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in a `preparatory class <https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles>`_ `(MP) <http://prepas.org/ups.php?article=56>`_, as:
 
-- an examinator for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
-- and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this good book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environnement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
+- a teaching assistant for regular oral exams in Mathematics (2 hours a week). My references for `the course content <http://mp.cpgedupuydelome.fr/courspe.php>`_ and `the tutorial problems <http://mp.cpgedupuydelome.fr/exospe.php>`_ are these (*French*) websites: `mp.cpgedupuydelome.fr <http://mp.cpgedupuydelome.fr>`_ (mainly), these exercises `by Nicolas Martin <http://nicolas.martin.ens.free.fr/orauxblancs.htm>`_ and `by Loïc Devilliers <http://loic.devilliers.free.fr/colles/colles.html>`_, and `"Le Frido" <http://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_, and this `True/False by Roger Mansuy <http://www.rogermansuy.fr/VF/index.html>`_ (and `Wikipedia <https://en.wikipedia.org/wiki/Mathematics>`_, of course).
+- and as a Teaching Assistant for `the common Computer Science course <http://informatique-en-prepas.fr/>`_ (`based on this good book <http://www.eyrolles.com/Sciences/Livre/informatique-pour-tous-en-classes-preparatoires-aux-grandes-ecoles-9782212137002>`_), with `Python 3k <learn-python.en.html>`_ and the `open-source Pyzo environement <http://www.pyzo.org/>`_ (2 hours every 2 weeks). My references for the course content and the tutorial problems are `Python's documentation <https://doc.python.org/3/>`_, `introtopython.org <http://introtopython.org/>`_ and `these problems written by Jill-Jênn Vie <http://jill-jenn.net/tp/>`_.
 
 .. seealso:: Complete solutions for the *Computer Science* course:
 
@@ -35,7 +35,7 @@ Between September 2015 and June 2016, I was teaching, on a weekly basis, at `Lyc
 
    The solutions (Python files) are `all in open access (→ infoMP/ folder), in French <infoMP/>`_, and `also open-source (on bitbucket.org/lbesson/info-mp-2015-2016) <https://bitbucket.org/lbesson/info-mp-2015-2016>`_.
 
-.. note:: Replacement in BCPST-2A (2nd year biology prep'school)
+.. note:: Replacement in BCPST-2A (2nd year biology prep' school)
 
    Between November 2015 and February 2016, I also gave one weekly hour of oral exam (in maths) for a class of `BCPST 2 <http://prepas.org/ups.php?article=43>`_ prep school.
 
@@ -51,13 +51,13 @@ First semester of 2015 (in India)
    2. *"Then, about the use of files in Python (open, read from and write to a file)"*: `slides_CS101_part5_1.pdf <./publis/slides_CS101_part5_1.pdf>`_,
    3. *"And finally an introduction to scientific plotting in Python with MatPlotLib"*: `slides_CS101_part5_2. <./publis/slides_CS101_part5_2.pdf>`_.
 
-  More ressources are available:
+  More resources are available:
 
    - `Exams (CS101) <./cs101/Exams/>`_: exam papers and complete solutions,
    - `Labs (CS101) <./cs101/labs/>`_: assignments and complete solutions for the practical sessions (labs),
    - `Solutions (CS101) <./cs101/solutions/>`_: solutions to various website or books about learning Python.
 
-  :Projects: In April 2015, we gave to our students a programing project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.io <https://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.io <https://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs.org <https://www.readthedocs.org>`_.
+  :Projects: In April 2015, we gave to our students a programming project, and my teams had two projects: one about matrices and linear algebra operations (→ `mec-cs101-matrices.rtfd.io <https://mec-cs101-matrices.readthedocs.io/en/latest/matrix.html>`_) and one about numerical integration techniques (→ `mec-cs101-integrals.rtfd.io <https://mec-cs101-integrals.readthedocs.io/en/latest/integrals.html>`_). I wrote the complete solutions for these two projects, in Python, and they are hosted on `ReadTheDocs.org <https://www.readthedocs.org>`_.
 
   :Examples: This `new git repository <https://bitbucket.org/lbesson/python-demos/commits/>`_ (`python-demos <https://bitbucket.org/lbesson/python-demos/>`_) now hosts about 60 examples of Python programs, involving various domains (such as image processing, scientific plotting, numerical or symbolical calculus, machine learning, linear algebra etc). These examples were and are here to illustrate what I covered during my lectures, in March and April 2015.
 
@@ -65,7 +65,7 @@ First semester of 2015 (in India)
 
 - `MA102 @ MEC <./ma102/>`_: in charge of one group for Maths tutorials (linear algebra and multi-variable calculus).
 
-  More ressources are available:
+  More resources are available:
 
    - `Exams (MA102) <./ma102/Exams/>`_: exam papers and complete solutions,
    - `Assignments (MA102) <./ma102/exos/>`_: assignments and some solutions for the practical sessions (tutorial),
@@ -86,7 +86,7 @@ Second semester of 2014 (in India)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - `MA101 @ MEC <./ma101/>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
-  More ressources are available:
+  More resources are available:
 
    - `Exams (MA101) <./ma101/Exams/>`_: exam papers and complete solutions,
    - `Assignments (MA101) <./ma101/exos/>`_: assignments and some solutions for the practical sessions (tutorial),
@@ -107,9 +107,10 @@ First semester of 2014 (in France)
 
    In 2014, I also got admitted to the French national competitive exam for becoming a prep' school professor (*"agrégation"*) in mathematics (with a major in maths, minor in CS).
 
-   `Here are a lot of ressources for preparing the exam <agreg-2014/>`_ (in French).
+   `Here are a lot of resources for preparing the exam <agreg-2014/>`_ (in French).
 
    For the two scholar years 2014-15 and 2015-16, I asked to postpone the beginning of my carrier as a professor in the French secondary education, in order to properly conclude my training at `École Normale Supérieure de Cachan (ENS of Cachan) <http://www.ens-cachan.fr/version-anglaise/>`_ (thanks to the choice *"fin de scolarité normalienne"*).
+   From 2016-17, I am teaching 64 hours / year, to validate the internship require to become a full-track professor ("professeur agrégé").
 
 ------------------------------------------------------------------------------
 
