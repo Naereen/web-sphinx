@@ -7,7 +7,7 @@
  * :copyright: Copyright 2007-2013 by the Sphinx team, see AUTHORS.
  * :license: BSD, see LICENSE for details.
  *
- * Modified by Lilian BESSON, (c) 2013
+ * Modified by Lilian BESSON, (c) 2016
  *
  */
 
@@ -17,7 +17,7 @@
 	font-size: 100%;
 }*/
 
-@import url("basic.css");  /* FIXME remove this ? */
+@import url("basic.css");
 
 /* -- page layout ----------------------------------------------------------- */
 
@@ -29,8 +29,8 @@ body {
     color: #000;
     margin: 0;
     padding: 0;
-/*   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=); */
-/*   background-repeat: repeat; */
+    /* background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=); */
+    /* background-repeat: repeat; */
 }
 
 div.document {
@@ -59,7 +59,7 @@ div.body {
     div.footer {
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
         background-repeat: repeat;
-        color: #ffffff;
+        color: white;
     }
 }
 div.footer {
@@ -68,77 +68,69 @@ div.footer {
     font-size: 75%;
     margin-left: 230px; /* Disable if using meny */
 }
-div.footer a {
-    color: #ffffff;
-    text-decoration: underline;
-}
+    div.footer a {
+        color: #ffffff;
+        text-decoration: underline;
+    }
 
 div.related {
     background-color: #4D1351;
     line-height: 30px;
     color: white;
 }
-
-div.related a {
-    color: white;
-}
+    div.related a {
+        color: white;
+    }
 
 span.locationOfThePage {
     color: grey;
     font-size: 100%;
 }
-span.locationOfThePage a {
-    color: grey;
-    text-decoration: underline;
-}
+    span.locationOfThePage a {
+        color: grey;
+        text-decoration: underline;
+    }
 
 div.sphinxsidebar {
 }
-
-div.sphinxsidebar h3 {
-    font-family: 'Trebuchet MS', sans-serif;
-    color: white;
-    font-size: 1.4em;
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-}
-div.sphinxsidebar h3 a {
-    color: white;
-}
-
-div.sphinxsidebar h4 {
-    font-family: 'Trebuchet MS', sans-serif;
-    color: white;
-    font-size: 1.3em;
-    font-weight: normal;
-    margin: 5px 0 0 0;
-    padding: 0;
-}
-
-div.sphinxsidebar p {
-    color: white;
-}
-
-div.sphinxsidebar p.topless {
-    margin: 5px 10px 10px 10px;
-}
-
-div.sphinxsidebar ul {
-    margin: 10px;
-    padding: 0;
-    color: white;
-}
-
-div.sphinxsidebar a {
-    color: #F4DFF7;
-}
-
-div.sphinxsidebar input {
-    border: 1px solid #F4DFF7;
-    font-family: sans-serif;
-    font-size: 1em;
-}
+    div.sphinxsidebar h3 {
+        font-family: 'Trebuchet MS', sans-serif;
+        color: white;
+        font-size: 1.4em;
+        font-weight: normal;
+        margin: 0;
+        padding: 0;
+    }
+        div.sphinxsidebar h3 a {
+            color: white;
+        }
+    div.sphinxsidebar h4 {
+        font-family: 'Trebuchet MS', sans-serif;
+        color: white;
+        font-size: 1.3em;
+        font-weight: normal;
+        margin: 5px 0 0 0;
+        padding: 0;
+    }
+    div.sphinxsidebar p {
+        color: white;
+    }
+        div.sphinxsidebar p.topless {
+            margin: 5px 10px 10px 10px;
+        }
+    div.sphinxsidebar ul {
+        margin: 10px;
+        padding: 0;
+        color: white;
+    }
+    div.sphinxsidebar a {
+        color: #F4DFF7;
+    }
+    div.sphinxsidebar input {
+        border: 1px solid #F4DFF7;
+        font-family: sans-serif;
+        font-size: 1em;
+    }
 
 /* for collapsible sidebar */
 div#sidebarbutton {
@@ -153,11 +145,6 @@ div#sidebarbutton {
     }
     div.bodywrapper {
         margin: 10px 0 0 0;
-    }
-    div.footer {
-        position: relative;
-        margin-top: 10px;
-        /*margin-left: 0;*/  /* FIXME bug unable to click ?? */
     }
     div.sphinxsidebar {
         /*overflow-x: auto;*/
@@ -179,10 +166,13 @@ div#sidebarbutton {
     }
     /* FIXED improve responsive style for the footer (max-width: 680px) */
     div.footer {
+        position: relative;
+        margin-top: 10px;
         padding: 9px 0 9px 0;
         text-align: center;
         font-size: 85%;
         margin-left: 10px;
+        color: white;
     }
 }
 /* End responsive */
@@ -199,24 +189,17 @@ a {
          -o-transition: 0.15s color ease;
             transition: 0.15s color ease;
 }
-
-a:visited {
-    color: #FF7A32;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
+    a:visited {
+        color: #FF7A32;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
 
 /* -- body styles ----------------------------------------------------------- */
 
-div.body h1,
-div.body h2,
-div.body h3,
-div.body h4,
-div.body h5,
-div.body h6 {
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 {
     font-family: 'Trebuchet MS', sans-serif;
     background-color: #F0E1F7;
     font-weight: normal;
@@ -239,11 +222,10 @@ a.headerlink {
     padding: 0 4px 0 4px;
     text-decoration: none;
 }
-
-a.headerlink:hover {
-    background-color: #c60f0f;
-    color: white;
-}
+    a.headerlink:hover {
+        background-color: #c60f0f;
+        color: white;
+    }
 
 div.body p, div.body dd, div.body li {
     text-align: justify;
@@ -288,10 +270,9 @@ div.warning {
 p.admonition-title {
     display: inline;
 }
-
-p.admonition-title:after {
-    content: ":";
-}
+    p.admonition-title:after {
+        content: ":";
+    }
 
 pre {
     padding: 5px;
