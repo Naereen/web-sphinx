@@ -42,10 +42,24 @@
 
 /* responsive, for max-width: 680px, put as much images as possible on the same line */
 @media (max-width: 680px){
-    .resp-sharing-button__ul {
-        /* http://stackoverflow.com/a/27935429/5889533 */
-        display: flex;
+    /* Idea coming from http://stackoverflow.com/a/1695178/5889533 */
+    ul.resp-sharing-button__ul {
         list-style: none;
+        position: relative;
+        float: left;
+        display: block;
+        left: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        ul.resp-sharing-button__ul li {
+            position: relative;
+            float: left;
+            display: block;
+            right: 50%;
+        }
+    #searchbox {  /* XXX durty hack */
+        margin-top: 100px;
     }
 }
 
