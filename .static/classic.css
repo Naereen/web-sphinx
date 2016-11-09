@@ -153,6 +153,11 @@ div#sidebarbutton {
         top: 2px;
         text-align: center;
     }
+        div.sphinxsidebar ul ul {
+            list-style-position: inside;
+            text-align: left;
+            margin-left: 15%;
+        }
     div.sidebar {
         float: none;
         position: relative;
