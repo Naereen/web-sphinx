@@ -198,9 +198,9 @@
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() {  // '%d %m %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "16 10 2016, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "16";
-    var month = last_updated_value.substring(3,  5 ) || "10";
+   var last_updated_value = "{{ last_updated }}" || "09 11 2016, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "09";
+    var month = last_updated_value.substring(3,  5 ) || "11";
     var year  = last_updated_value.substring(6,  10) || "2016";
     var hours = last_updated_value.substring(12, 14) || "12";
     var mins  = last_updated_value.substring(16, 18) || "00";
@@ -231,8 +231,8 @@ to collect audience log, you can disable it with
      src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" />
 </noscript>
 <div class="supportBadges"><ul>
-<li><a class="image-reference" title="Tested on Firefox v47.0, Chromium v35 and elinks v0.12pre6" href="https://www.mozilla.org/en-US/firefox/all/">
- <img alt="Tested on Firefox v47.0, Chromium v35 and elinks v0.12pre6"
+<li><a class="image-reference" title="Tested on Firefox v47.0, Chromium v351and elinks v0.12pre6" href="https://www.mozilla.org/en-US/firefox/all/">
+ <img alt="Tested on Firefox v47.0, Chromium v51 and elinks v0.12pre6"
       src="{{ pathto('_images/.firefox_80_15.png', true)|e }}"
       style="width: 80.0px; height: 15.0px;" /></a></li>
 <li><a class="image-reference" title="Uses Google Analytics" href="https://www.google.com/analytics/">
