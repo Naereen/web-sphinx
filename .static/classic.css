@@ -151,6 +151,7 @@ div#sidebarbutton {
         position: relative;
         width: 90%;
         top: 2px;
+        text-align: center;
     }
     div.sidebar {
         float: none;
