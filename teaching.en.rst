@@ -10,10 +10,10 @@ In 2016/2017
 ------------
 I was looking for a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
 
-I am giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and will be a teaching assistant (TA) at ENSAI (4 times 3h, twice; level L3).
+I am giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
 
 - For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
-- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
 
 In 2015
 -------
