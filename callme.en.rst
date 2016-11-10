@@ -24,7 +24,7 @@ You can write a letter or some postal cards to me (I love them),
 at the following addresses (listed by decreasing preference):
 
 1. My office, at *CentraleSupélec*, in Rennes, France
-   (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.125278&mlon=-1.623611>`_) ::
+   (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
        Mr Lilian Besson,
        Office 304 - SCEE Team,
@@ -34,7 +34,14 @@ at the following addresses (listed by decreasing preference):
        France
 
 
-2. to my own place (in France), I give the address if you ask it (e.g., by email).
+2. to my own place (in France)
+   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+
+       Mr Lilian Besson,
+       23, boulevard Jeanne d'Arc,
+       35000 - Rennes,
+       France
+
 
 Emails
 ^^^^^^

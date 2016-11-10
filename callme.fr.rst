@@ -24,7 +24,7 @@ Vous pouvez m'écrire ou bien m'envoyer des cartes postales (j'adore ça),
 aux adresses suivantes (listées par ordre de préférence) :
 
 1. Mon bureau, à *CentraleSupélec*, campus Rennes, en France
-   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.125278&mlon=-1.623611>`_) ::
+   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
        Mr Lilian Besson,
        Office 304 - SCEE Team,
@@ -34,7 +34,14 @@ aux adresses suivantes (listées par ordre de préférence) :
        France
 
 
-2. chez moi (en France), adresse privée, que je donne sur demande (e.g., par courriel).
+2. chez moi, en France
+   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+
+       Mr Lilian Besson,
+       23, boulevard Jeanne d'Arc,
+       35000 - Rennes,
+       France
+
 
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
