@@ -109,11 +109,18 @@ gnuplot_format = dict(latex='pdf', html='svg')
 
 autorun_languages = {}
 autorun_languages['pycon'] = u'python -'
+autorun_languages['pycon_input_encoding'] = 'utf-8'
+autorun_languages['pycon_output_encoding'] = 'utf-8'
+
+autorun_languages['console_input_encoding'] = 'utf-8'
+autorun_languages['console_output_encoding'] = 'utf-8'
 
 # Un ajout : (ref http://perso.crans.org/besson/runblock.html#des-ajouts)
-# autorun_languages['ocaml'] = u'ocaml -init /dev/null'
+# autorun_languages['ocaml'] = u'ocaml -init /dev/null'  # XXX was not working
 autorun_languages['ocaml'] = u'ocaml -stdin'
 autorun_languages['ocaml_prefix_chars'] = 2
+autorun_languages['ocaml_input_encoding'] = 'utf-8'
+autorun_languages['ocaml_output_encoding'] = 'utf-8'
 
 # sphinxcontrib.bitbucket
 bitbucket_project_url = 'https://bitbucket.org/lbesson/web-sphinx'
