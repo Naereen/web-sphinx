@@ -150,7 +150,7 @@ qui permettent de voir les fichiers modifiés, supprimés ou ajoutés uniquement
 
 .. runblock:: console
 
-   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du depot est "/
+   $ git count-objects -v -H | grep "size-pack" | sed s/"size-pack: "/"La taille du dépôt est "/
 
 
 
@@ -314,12 +314,11 @@ Un dernier conseil ?
  Comme pour tout logiciel aussi puissant et technique, `git`_ demande un certain temps d'adaptation.
  Soyez persévérant, ça en vaut la peine.
 
- « *Je vous souhaite une bonne programmation, et bonne change pour vos projets !*
+ « *Je vous souhaite une bonne programmation, et bonne chance pour vos projets !*
 
 
 Crédit additionnel
 ^^^^^^^^^^^^^^^^^^
  Merci à `Vincent Cohen-Addad <http://www.di.ens.fr/~vcohen/>`_ de m'avoir motivé à m'initier à `git`_, en octobre 2012 pour `le projet de programmation réseau de mon Master d'Informatique Fondamentale (le MPRI, cours #1-21) <https://bitbucket.org/lbesson/mpri-bomberman>`_ sur lequel nous avions travaillé ensemble.
-
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

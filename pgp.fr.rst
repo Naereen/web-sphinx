@@ -42,7 +42,7 @@ la commande qui permet de créer cette signature numérique (et sa sortie) :
 
  .. runblock:: console
 
-    $ LANG=en gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
+    $ gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
 
 Comment utiliser ces fichiers **.asc** ?
@@ -69,8 +69,8 @@ En ce qui concerne ma clé publique, dans ce fichier `<Lilian_Besson.asc>`_ :
 
     .. runblock:: console
 
-       $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | md5sum
-       $ LANG=en GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
+       $ GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | md5sum
+       $ GPGKEY=`gpg.sh` gpg --export --armor $GPGKEY | sha256sum
 
 
     Depuis le fichier `<Lilian_Besson.asc>`_ :
@@ -109,7 +109,7 @@ téléchargé les bons fichiers, cela devrait vous donner un message comme :
 
 .. runblock:: console
 
-   $ LANG=en gpg --verify ~/.bashrc.asc ~/.bashrc
+   $ gpg --verify ~/.bashrc.asc ~/.bashrc
 
 
 Normalement, ça marche !

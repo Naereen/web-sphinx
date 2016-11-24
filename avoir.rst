@@ -167,7 +167,7 @@ Citation random !
 .. versionadded:: 1.8
 
 Cette ligne Bash affiche une citation aléatoire.
-Actuellement, ``~/.quotes.txt`` est une liste très complète des meilleurs citations de Kaamelott.
+Actuellement, ``~/.quotes.txt`` est une liste (très) complète des meilleures citations de Kaamelott.
 
 Cette liste est obtenue à partir des deux scripts suivants,
 depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/Kaamelott>`_ :
@@ -177,7 +177,7 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
 
 .. runblock:: console
 
-   $ LANG=en ; echo -e "Random quote:" ; shuf /home/lilian/.quotes.txt 2>/dev/null| head -n 1 | recode utf8..tex | iconv -c -s -t ascii | fold -s -w 90
+   $ echo -e "Citation aléatoire :" ; shuf /home/lilian/.quotes.txt 2>/dev/null | head -n 1 | fold -s -w 90
 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/

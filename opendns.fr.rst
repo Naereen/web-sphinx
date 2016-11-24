@@ -33,25 +33,25 @@ Mais il est aussi possible de **tester ses réglages via la ligne de commande** 
 
 .. runblock:: console
 
-   $ echo -e "# Reponse principale (serveur 208.67.222.222 d'OpenDNS) :"
+   $ echo -e "# Réponse principale (serveur 208.67.222.222 d'OpenDNS) :"
    $ dig @208.67.222.222 perso.crans.org
 
 
 .. runblock:: console
 
-   $ echo -e "# Autre reponse (serveur 208.67.220.220 d'OpenDNS) : "
+   $ echo -e "# Autre réponse (serveur 208.67.220.220 d'OpenDNS) : "
    $ dig @208.67.220.220 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
 .. runblock:: console
 
-   $ echo -e "# Autre reponse (serveur 208.67.222.220 d'OpenDNS) : "
+   $ echo -e "# Autre réponse (serveur 208.67.222.220 d'OpenDNS) : "
    $ dig @208.67.222.220 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
 .. runblock:: console
 
-   $ echo -e "# Autre reponse (serveur 208.67.220.222 d'OpenDNS) : "
+   $ echo -e "# Autre réponse (serveur 208.67.220.222 d'OpenDNS) : "
    $ dig @208.67.220.222 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
@@ -93,13 +93,13 @@ Google propose aussi un service de DNS gratuit, `non restreint et non restrictif
 
 .. runblock:: console
 
-   $ echo -e "# Reponse principale (serveur 8.8.8.8 de Google) :"
+   $ echo -e "# Réponse principale (serveur 8.8.8.8 de Google) :"
    $ dig @8.8.8.8 perso.crans.org
 
 
 .. runblock:: console
 
-   $ echo -e "# Autre reponse (serveur 8.8.4.4 de Google) :"
+   $ echo -e "# Autre réponse (serveur 8.8.4.4 de Google) :"
    $ dig @8.8.4.4 perso.crans.org | grep -v "^\(;.*\|$\)"
 
 
@@ -121,7 +121,9 @@ Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des 
 
 .. note:: Sécurisé ? Hum, vraiment... ?
 
-   On peut supposer que la plupart les services DNS sont `espionnés par des agences gouvernementales <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_ ou des agences privés ou des groupes d'activistes.
+   On peut supposer que la plupart les services DNS sont `espionnés par des agences gouvernementales <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_... Ou des agences privés ou des groupes d'activistes ou... par Batman ?
+   Bref, essayez de garder ça en tête : quand vous utilisez un service DNS externe, vous ne pouvez tout simplement pas être sûr de leur neutralité et de leur sécurité. Par défaut, il vaudrait mieux supposer que *chaque requête DNS* faite par votre ordinateur/téléphone peut être lue, à la demande, par votre gouvernement.
+   Rassurant, non ?
 
 
 ``resolv.conf``?
