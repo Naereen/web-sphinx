@@ -64,25 +64,25 @@ For instance, the current date and directory:
 
 .. runblock:: console
 
-    $ LANG=en echo "Date: $(date). Directory: $(pwd)."
+    $ echo "Date: $(date). Directory: $(pwd)."
 
 We can also ask for a list of the `reStructuredText <demo.html>`_ files ``.rst`` (the source code of each of these web-pages) in the current directory:
 
 .. runblock:: console
 
-    $ LANG=en ls -larth ./{,.}*.rst
+    $ ls -larth ./{,.}*.rst
 
 We can look for the 10 longest filenames of the `reStructuredText`_ files in the current directory:
 
 .. runblock:: console
 
-    $ LANG=en ; for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
+    $ for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 We can also ask *GPG* to produce (*on the fly*) a signature of the current file (for more information about *GPG*, see `<pgp.html>`_):
 
 .. runblock:: console
 
-    $ LANG=en gpg --quiet -o - --armor --detach-sign runblock.en.rst
+    $ gpg --quiet -o - --armor --detach-sign runblock.en.rst
 
 Other examples
 ~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ Other examples
 
 .. runblock:: console
 
-    $ LANG=en figlet "Isn't  it  pretty  ?"
+    $ figlet "Isn't  it  pretty  ?"
 
 
 My script `<bin/series.sh>`_ was conceived to automatically play the next episode for your current TV show,
@@ -100,14 +100,14 @@ We can use it to display the TV show I am currently watching:
 
 .. runblock:: console
 
-    $ LANG=en echo -e "These days, I am watching the TV show : $(basename "$(cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii)") :)"
+    $ echo -e "These days, I am watching the TV show : $(basename "$(cat /home/lilian/current | tr _ ' ')") :)"
 
 
 Current state of the git repository (shows which files are new (*N*), modified (*M*) or deleted (*D*)) :
 
 .. runblock:: console
 
-    $ LANG=en git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
+    $ git status --porcelain
 
 
 A stupid example with an elk:
@@ -121,14 +121,14 @@ We can go crazy, and try to display a picture **in ASCII** text :
 
 .. runblock:: console
 
-    $ convert ~/.link.ico jpg:- | jp2a -b - --size=31x20 | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.ico jpg:- | jp2a -b - --size=31x20
 
 
 The same, even bigger (*fyi*, this image is `the favicon of this website <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/.favicon.ico>`_):
 
 .. runblock:: console
 
-    $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30 | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30
 
 
 A few statistics about `this git repository <https://bitbucket.org/lbesson/web-sphinx/>`_:
@@ -136,14 +136,14 @@ A few statistics about `this git repository <https://bitbucket.org/lbesson/web-s
 .. runblock:: console
 
    $ echo "Number of commits per author (on this git repository) :"
-   $ git --no-pager shortlog -sn --all | iconv -c -s -t ascii
+   $ git --no-pager shortlog -sn --all
 
 
 A small calendar, showing in ASCII the active days in this git repository (`with this other script <https://bitbucket.org/lbesson/bin/src/master/git-cal>`_, note that `this web-page is a nice looking version of this ASCII "calendar" <https://bitbucket.org/lbesson/web-sphinx/addon/bitbucket-graphs/graphs-repo-page>`_):
 
 .. runblock:: console
 
-   $ git-cal --ascii | iconv -c -s -t ascii
+   $ git-cal --ascii
 
 
 Adding support for another language: OCaml?

@@ -64,25 +64,25 @@ Par exemple, la date courante et le dossier de travail courant :
 
 .. runblock:: console
 
-    $ LANG=en echo "Date : $(date). Dossier : $(pwd)."
+    $ echo "Date : $(date). Dossier : $(pwd)."
 
 Ou bien une liste des fichiers `reStructuredText <demo.html>`_ (``.rst``, sources de chaque de ces pages web) dans le dossier courant :
 
 .. runblock:: console
 
-    $ LANG=en ls -larth ./{,.}*.rst
+    $ ls -larth ./{,.}*.rst
 
 On peut chercher les 10 plus long noms de fichiers (parmi les fichiers `reStructuredText`_) dans le dossier courant :
 
 .. runblock:: console
 
-    $ LANG=en ; for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
+    $ for i in $(find -iname '*'.rst | sort); do echo "${#i} : $i" | sed s/'^\([0-9]\) '/'0\1 '/; done | sort | tail | awk '{ print $3 }'
 
 Ou bien encore, on peut réaliser une signature *GPG* (*à la volée*) du fichier courant (pour plus d'infos sur *GPG*, voir `<pgp.html>`_) :
 
 .. runblock:: console
 
-    $ LANG=en gpg --quiet -o - --armor --detach-sign runblock.fr.rst
+    $ gpg --quiet -o - --armor --detach-sign runblock.fr.rst
 
 Autres exemples divers
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ Autres exemples divers
 
 .. runblock:: console
 
-    $ LANG=en figlet "C'est  joli  non  ?"
+    $ figlet "C'est  joli  non  ?"
 
 
 Mon script `<bin/series.sh>`_ permet de lire automatiquement l'épisode suivant
@@ -100,35 +100,35 @@ On peut s'en servir pour afficher quelle série télé je regarde en ce moment :
 
 .. runblock:: console
 
-    $ LANG=en echo -e "En ce moment, je regarde la serie $(basename "$(cat /home/lilian/current | tr _ ' ' | recode utf8..tex | iconv -c -s -t ascii)") :)"
+    $ echo -e "En ce moment, je regarde la série $(basename "$(cat /home/lilian/current | tr _ ' ')") :)"
 
 
 État du dépôt git (montre quels fichiers sont nouveaux (*N*), modifiés (*M*) ou supprimés (*D*)) :
 
 .. runblock:: console
 
-    $ LANG=en git status --porcelain | recode utf8..tex | iconv -c -s -t ascii
+    $ git status --porcelain
 
 
 Un truc débile avec un élan (cf. Bohort : "Non, moi ça m'évoque plutôt un élan" via `<publis/.quotes.txt>`_) :
 
 .. runblock:: console
 
-    $ cowthink -W 160 -f /usr/share/cowsay/cows/moose.cow "Et vous trouvez ca drole ?"
+    $ cowthink -W 160 -f /usr/share/cowsay/cows/moose.cow "Et vous trouvez ça drôle ?"
 
 
 On peut essayer une idée encore plus folle, afficher une image **en texte ASCII** :
 
 .. runblock:: console
 
-    $ convert ~/.link.ico jpg:- | jp2a -b - --size=31x20 | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.ico jpg:- | jp2a -b - --size=31x20
 
 
 Et la même en plus gros (*au fait*, cette image est `l'icone de ce site web <https://bitbucket.org/lbesson/web-sphinx/src/master/.static/.favicon.ico>`_) :
 
 .. runblock:: console
 
-    $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30 | recode utf8..tex | iconv -c -s -t ascii
+    $ convert ~/.link.ico jpg:- | jp2a -b - --size=62x30
 
 
 Quelques statistiques sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_ :
@@ -136,14 +136,14 @@ Quelques statistiques sur `ce dépôt git <https://bitbucket.org/lbesson/web-sph
 .. runblock:: console
 
    $ echo "Nombre de commits par auteur (dans ce depot git) :"
-   $ git --no-pager shortlog -sn --all | iconv -c -s -t ascii
+   $ git --no-pager shortlog -sn --all
 
 
 Un calendrier montrant les jours d'activités de ce dépôt git (`avec cet autre script <https://bitbucket.org/lbesson/bin/src/master/git-cal>`_, si vous êtes curieux `cette web-page est une jolie version web de ce "calendrier" minimaliste <https://bitbucket.org/lbesson/web-sphinx/addon/bitbucket-graphs/graphs-repo-page>`_) :
 
 .. runblock:: console
 
-   $ git-cal --ascii | iconv -c -s -t ascii
+   $ git-cal --ascii
 
 
 Des ajouts : OCaml ?
@@ -166,6 +166,8 @@ pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents reS
    # Ajouter ça dans votre 'conf.py'
    autorun_languages['ocaml'] = u'ocaml -stdin'
    autorun_languages['ocaml_prefix_chars'] = 2
+   autorun_languages['ocaml_input_language'] = 'utf_8'
+   autorun_languages['ocaml_output_language'] = 'utf_8'
 
 ``.. runblock:: ocaml`` marche désormais
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -176,6 +178,8 @@ Avec cette astuce, on peut désormais inclure facilement des exemples de code en
    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
    # print_int (f 11);;
    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
+
+Pour plus de détails, cf. `le code source de l'extension autorun.py <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/autorun/sphinxcontrib/autorun.py#cl-58>`_.
 
 ------------------------------------------------------------------------------
 

@@ -85,10 +85,11 @@ Exemples
 
 #. Allez, un dernier exemple, on demande `le cours actuel <http://finance.yahoo.com/echarts?s=EURINR=X&t=5d&l=on&z=m&q=l&c=>`_ de la `roupie indienne <https://fr.wikipedia.org/wiki/Roupie_indienne>`_ :
 
+
    .. runblock:: console
 
-      $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
+      $ echo -e "Requête à Wolfram|Alpha en cours..."
+      $ echo -e "Le $(date), 1 € valait $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 
 Attention
@@ -240,12 +241,12 @@ D'autres exemples
 
        $ wolf "ma question"
 
-Faiblesse de cette méthode
-^^^^^^^^^^^^^^^^^^^^^^^^^^
- Une première faiblesse de l'utilisation de la `commande rST <demo.html>`_
- ``.. runblock:: console`` pour exécuter ``wolf question`` est
- la limitation à des caractères ASCII imposée par l'extension `runblock <runblock.html>`_
- (limitation déjà signalée dans `cette page <runblock.html>`_, où je suis forcé de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
+.. Faiblesse de cette méthode
+.. ^^^^^^^^^^^^^^^^^^^^^^^^^^
+..  Une première faiblesse de l'utilisation de la `commande rST <demo.html>`_
+..  ``.. runblock:: console`` pour exécuter ``wolf question`` est
+..  la limitation à des caractères ASCII imposée par l'extension `runblock <runblock.html>`_
+..  (limitation déjà signalée dans `cette page <runblock.html>`_, où je suis forcé de changer la langue du terminal pour que ``gpg`` ne me sorte pas d'accents).
 
 Une extension ?
 ^^^^^^^^^^^^^^^

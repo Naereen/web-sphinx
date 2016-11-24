@@ -87,8 +87,8 @@ Examples
 
    .. runblock:: console
 
-      $ LANG=en ; echo -e "Request to Wolfram|Alpha being processed..."
-      $ echo -e "The $(date), 1 Euro was worth $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
+      $ echo -e "Request to Wolfram|Alpha being processed..."
+      $ echo -e "The $(date), 1 € was worth $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 
 Warning
