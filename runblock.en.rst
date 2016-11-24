@@ -168,6 +168,8 @@ to enable a new directive ``.. code-block:: truc`` in all your reStructuredText 
    # Add these two lines in your 'conf.py' file
    autorun_languages['ocaml'] = u'ocaml -stdin'
    autorun_languages['ocaml_prefix_chars'] = 2
+   autorun_languages['ocaml_input_language'] = 'utf_8'
+   autorun_languages['ocaml_output_language'] = 'utf_8'
 
 ``.. runblock:: ocaml`` now works
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -178,6 +180,8 @@ With this trick, we can now include example of code snippet in OCaml:
    # let rec f = function 0 -> 1 | n -> n *(f (n-1)) in
    # print_int (f 11);;
    # Printf.printf "\n        OCaml version %s\n" Sys.ocaml_version;;
+
+Pour plus de détails, cf. `le code source de l'extension autorun.py <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/autorun/sphinxcontrib/autorun.py#cl-58>`_.
 
 ------------------------------------------------------------------------------
 

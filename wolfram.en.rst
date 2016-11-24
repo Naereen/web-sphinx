@@ -237,12 +237,12 @@ About this page
 
        $ wolf "my question"
 
-Weakness of this approach
-^^^^^^^^^^^^^^^^^^^^^^^^^
- A first weakness of this use of the `rST command <demo.html>`_
- ``.. runblock:: console`` to run an example of ``wolf question ...`` is
- the limitation to pure ASCII character imposed by the `runblock <runblock.html>`_ extension
- (this limitation was already noticed in `this page <runblock.html>`_, where I am forced to manually change the language of the terminal (``export LANG=en``) to ask ``gpg`` to be in English and not in French, in order to avoid accents).
+.. Weakness of this approach
+.. ^^^^^^^^^^^^^^^^^^^^^^^^^
+..  A first weakness of this use of the `rST command <demo.html>`_
+..  ``.. runblock:: console`` to run an example of ``wolf question ...`` is
+..  the limitation to pure ASCII character imposed by the `runblock <runblock.html>`_ extension
+..  (this limitation was already noticed in `this page <runblock.html>`_, where I am forced to manually change the language of the terminal (``export LANG=en``) to ask ``gpg`` to be in English and not in French, in order to avoid accents).
 
 A Sphinx plugin?
 ^^^^^^^^^^^^^^^^

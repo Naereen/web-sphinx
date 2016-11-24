@@ -120,6 +120,12 @@ Google DNS is supposed to be `quicker and more efficient  <https://developers.go
 
 But that free service is supposed to not modify the domain names space, contrarily to other services of that kind; and `it is known to be quite safe <https://developers.google.com/speed/public-dns/docs/security>`_.
 
+.. note:: Safe? Hum, really...?
+
+   It seems legit to assume that all the main DNS services are `spied by governmental agencies <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_... Or private agencies, or activist groups or... by Batman?
+   Anyway, keep this in mind: when you use an external DNS service, you cannot be sure of their neutrality and security. By default, you should probably assume that *every DNS request* your laptop/smartphone makes can simply be *read* by your government.
+   Reassuring, right?
+
 
 ``resolv.conf``?
 ----------------

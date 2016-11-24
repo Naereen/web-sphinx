@@ -116,9 +116,9 @@ autorun_languages['console_input_encoding'] = 'utf-8'
 autorun_languages['console_output_encoding'] = 'utf-8'
 
 # Un ajout : (ref http://perso.crans.org/besson/runblock.html#des-ajouts)
-# autorun_languages['ocaml'] = u'ocaml -init /dev/null'  # XXX was not working
 autorun_languages['ocaml'] = u'ocaml -stdin'
 autorun_languages['ocaml_prefix_chars'] = 2
+autorun_languages['ocaml_show_source'] = True
 autorun_languages['ocaml_input_encoding'] = 'utf-8'
 autorun_languages['ocaml_output_encoding'] = 'utf-8'
 
