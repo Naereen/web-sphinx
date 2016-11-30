@@ -247,6 +247,7 @@ A better support for some languages:
 * `AutoDocstring <https://packagecontrol.io/packages/AutoDocstring>`_ simplifies and improve significantly the writing of `Python docstrings (2 or 3) <http://www.python.org/dev/peps/pep-0287/>`_, and even supports the two popular styles `Google docstring <https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>`_ and `Numpy docstring <https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html>`_.
 * `ColorHighlighter <https://packagecontrol.io/packages/ColorHighlighter>`_ highlights the colors in a CSS, HTML or LaTeX file (or any file), for instance ``red`` will be colored :red:`red`. Simple but great, very useful when editing CSS or colorful LaTeX files.
 * `ColorPicker <https://packagecontrol.io/packages/ColorPicker>`_ allows you to select a color, and insert it as is. Very handy when writing CSS or HTML.
+* `Dotfiles Syntax Highlighting <https://packagecontrol.io/packages/Dotfiles%20Syntax%20Highlighting>`_ brings a clever coloring for about a hundred of Linux/Unix configuration file formats, the so called "dotfiles".
 * `Gnuplot <https://packagecontrol.io/packages/Gnuplot>`_ provides good support for programming with `GNUPlot v4+ <http://www.gnuplot.info/>`_.
 * `JSONLint <https://packagecontrol.io/packages/JSONLint>`_ automatically checks the correctness of any edited JSON file (and ST conf' files are JSON).
 * `LaTeX-plus <https://packagecontrol.io/packages/LaTeX-plus>`_ could improve the use of LaTeX in ST (`see the doc <https://github.com/randy3k/Latex-Plus/wiki/>`_).
