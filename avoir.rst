@@ -15,22 +15,22 @@ L'extension `sphinx.ext.extlinks <http://sphinx-doc.org/ext/extlinks.html#confva
 Quelques exemples des alias `définis dans mon conf.py <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-120>`_ :
 
 - ``:issue:`1``` donnera ce lien :issue:`1` (bug signalé via Bitbucket).
-- ``:wfr:`Grim_Dawn``` donnera ce lien :wfr:`Grim_Dawn` (Wikipédia en français).
-- ``:wen:`Grim_Dawn``` donnera ce lien :wen:`Grim_Dawn` (Wikipédia en français).
-- ``:ffaddonfr:`nosquint``` donnera ce lien :ffaddonfr:`nosquint` (page d'un `greffon pour Firefox <firefox-extensions.fr.html>`_ en français).
-- ``:ffaddonen:`nosquint``` donnera ce lien :ffaddonen:`nosquint` (page d'un `greffon pour Firefox`_ en anglais).
+- ``:wfr:`Grim_Dawn``` donnera ce lien :wfr:`Grim_Dawn` (Wikipédia, en français).
+- ``:wen:`Grim_Dawn``` donnera ce lien :wen:`Grim_Dawn` (Wikipédia, en anglais).
+- ``:ffaddonfr:`nosquint``` donnera ce lien :ffaddonfr:`nosquint` (page d'un `greffon pour Firefox <firefox-extensions.fr.html>`_).
+- ``:ffaddonen:`nosquint``` donnera ce lien :ffaddonen:`nosquint` (page d'un `greffon pour Firefox en anglais <firefox-extensions.en.html>`_).
 - ``:stpkg:`GitGutter``` donnera ce lien :stpkg:`GitGutter`.
 
 Meilleur thème ?
 ^^^^^^^^^^^^^^^^
-* `Read-the-doc <https://github.com/snide/sphinx_rtd_theme>`_ semble le mieux !
-* `SphinxTrab <http://jfardello.github.io/Sphinxtrap>`_ semble intéressant.
-* `Basicstrap <https://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
-* `Sphinx-bootstrap-theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/>`_ idem.
+- `Read-the-doc <https://github.com/snide/sphinx_rtd_theme>`_ semble le mieux !
+- `SphinxTrab <http://jfardello.github.io/Sphinxtrap>`_ semble intéressant.
+- `Basicstrap <https://pythonhosted.org/sphinxjp.themes.basicstrap/>`_ aussi.
+- `Sphinx-bootstrap-theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/>`_ idem.
 
 Réduire les dépendances inutiles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* Enlever `<gnuplot_embed.html>`_ ?
+- Enlever `<gnuplot_embed.html>`_ ?
 
 Une extension Sphinx pour Youtube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -172,8 +172,8 @@ Actuellement, ``~/.quotes.txt`` est une liste (très) complète des meilleures c
 Cette liste est obtenue à partir des deux scripts suivants,
 depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/Kaamelott>`_ :
 
-* `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
-* `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
+- `quotes.sh <publis/bin/quotes.sh>`_ pour télécharger et analyser les citations,
+- `makequotes.sh <publis/bin/makequotes.sh>`_ pour construire un fichier ``quotes.txt``.
 
 .. runblock:: console
 
