@@ -12,9 +12,7 @@ Currently this *project* is in version *2.5* (*public* release)!
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://bitbucket.org/lbesson/ama)
 
 ## Where are those pages ?
-==> On [http://perso.crans.org/besson/](<http://perso.crans.org/besson/> "Check this one !").
-
-[![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
+==> On [http://perso.crans.org/besson/](<http://perso.crans.org/besson/> "Check this one !").   [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
 
 ## What do those pages contain ?
 Some pages host my résumé, others are just experiments, about Sphinx and many other things.
@@ -24,7 +22,7 @@ A few pages talk about some points I am interested in (GNU Nano, Sublime Text 3,
 To limit the size of this one, I used an other git repository to store the `scripts/` folder : [web-sphinx-scripts](<https://bitbucket.org/lbesson/web-sphinx-scripts/> "Hehe").
 
 This second repository mainly hosts some Javascript scripts
-(GNU Plot & OCaml & Python toplevel, `shortcuts.js`, `simpletrailimage.js` etc),
+(GNU Plot & OCaml & Python toplevel, `shortcuts.js`, etc),
 and also a **complete** Python distribution, used with `python.opt.js` to embed a Python toplevel in my web pages (I know, it's useless, but so funny !).
 
 ----
@@ -35,7 +33,7 @@ and also a **complete** Python distribution, used with `python.opt.js` to embed 
 ### Languages
  * the [reStructuredText](http://docutils.sourceforge.net/rst.html) plain text markup language, mainly, for the content of the pages,
  * [Jinja](http://sphinx-doc.org/templating.html#jinja-sphinx-templating-primer) [templates](.templates/) (for changing appearance of the web pages),
- * [Javascript](https://en.wikipedia.org/wiki/Javascript) in the [`.static/`](.static/) folder,  for some interactive stuff on the web-pages. See [this page for some details](http://perso.crans.org/besson/js.html)
+ * [Javascript](https://en.wikipedia.org/wiki/Javascript) in the [`.static/`](.static/) folder,  for some interactive stuff on the web-pages. See [this page for some details](http://perso.crans.org/besson/js.html),
  * [CSS](https://en.wikipedia.org/wiki/CSS) in the [`.static/`](.static/) folder, for an improved style, based on the (old) default Sphinx style,
  * [HTML](https://en.wikipedia.org/wiki/HTML) (to include a few web components in some pages),
  * [Python](https://www.Python.org/) (for Sphinx configuration, [`conf.py`](conf.py) file).
@@ -60,7 +58,6 @@ This project use the following software :
     * [autorun](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/autorun/);
     * [cheeseshop](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/cheeseshop/);
     * [gnuplot](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/gnuplot/);
-    * [graphviz](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/graphviz/);
     * [youtube](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/youtube/);
 
  * these [Python packages, from PyPI](https://pypi.python.org/): [ansicolortags](https://pypi.python.org/pypi/ansicolortags/), [sphinx_pyreverse](https://pypi.python.org/pypi/sphinx_pyreverse/), [sphinx_git](https://pypi.python.org/pypi/sphinx_git/). Install them with `sudo pip install ansicolortags sphinx_pyreverse sphinx_git`;
