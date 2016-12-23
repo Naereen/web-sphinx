@@ -6,7 +6,7 @@
 [![made-with-sphinx](https://img.shields.io/badge/Made%20with-sphinx-1f425f.svg)](http://sphinx-doc.org/)
 
 I have been using [Sphinx](http://sphinx-doc.org) [since 2012](https://bitbucket.org/lbesson/web-sphinx/commits/b3a0205a3f2fe288f91e9bceb9f1ac6f6335bce3), and I like it very much!
-Currently this *project* is in version *2.5* (*public* release)!
+Currently this *project* is in version *2.6* (*public* release)!
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/web-sphinx/commits/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://bitbucket.org/lbesson/ama)
@@ -56,6 +56,7 @@ This project use the following software :
  * and the following [Sphinx contrib extensions](https://bitbucket.org/birkenfeld/sphinx-contrib/), to be installed manually :
 
     * [autorun](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/autorun/);
+    * [bitbucket](https://bitbucket.org/dhellmann/sphinxcontrib-bitbucket);
     * [cheeseshop](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/cheeseshop/);
     * [gnuplot](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/gnuplot/);
     * [youtube](https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/youtube/);
