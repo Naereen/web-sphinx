@@ -6,15 +6,12 @@
  **Résumé** : Lilian Besson
 ############################
 
-To conclude my M.Sc., I was doing an internship
------------------------------------------------
+This year (*2016-17*)
+---------------------
 
-I am working in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `convolution operators and steerable operators <https://bitbucket.org/lbesson/internship-mva-2016>`_ (amongst other topics)!
+- I started `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL labo, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD will be on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
+- And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
- * :Theme: theoritical functional analysis, applied to inverse optimization problem, mainly appearing in medical imaging.
- * :Duration: april 2016 to August 2016 (*research internship in applied mathematics*);
- * :Locations: Lausanne, Switzerland.
- * :Rapport: Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is finished) !
 
 .. sidebar:: Other language: in French
 
@@ -146,9 +143,19 @@ Below there is a precise description of what I studied, year by year, from my Ba
 
    For the 2nd trimester (Spring 2016):
 
-    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`new!`;
-    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`new!`;
-    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`not yet!`.
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_, graded :blue:`17.3/20`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_, graded :blue:`17.64/20`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_, graded :blue:`17.5/20`.
+
+To conclude my M.Sc., I was doing an internship
+-----------------------------------------------
+
+I was working in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL <http://www.epfl.ch/>`_ (in Lausanne, Switzerland), on `convolution operators and steerable operators <https://bitbucket.org/lbesson/internship-mva-2016>`_ (amongst other topics)!
+
+ * :Theme: theoritical functional analysis, applied to inverse optimization problem, mainly appearing in medical imaging.
+ * :Duration: april 2016 to August 2016 (*research internship in applied mathematics*);
+ * :Locations: Lausanne, Switzerland.
+ * :Rapport: Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is finished) !
 
 
 **2014-2015**: teaching for one year in India
@@ -174,8 +181,8 @@ Full time teaching faculty, in `Mathematics <http://perso.crans.org/besson/ma101
    - :Mark: 15.25/20, *magna cum laude*.
 
 
-MSc internship and thesis
-^^^^^^^^^^^^^^^^^^^^^^^^^
+1st MSc internship and thesis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * :Title: *"Towards modularity for planning and robot programs verification"*;
 

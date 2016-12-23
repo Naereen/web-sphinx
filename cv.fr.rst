@@ -6,15 +6,11 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 
-Pour finir mon M2, j'ai fait un stage de recherche
---------------------------------------------------
+Cette année (*2016-17*)
+-----------------------
 
-J'ai travaillais entre avril et août 2016, au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur les opérateurs de convolution et les opérateurs steerables <https://bitbucket.org/lbesson/internship-mva-2016>`_ !
-
- * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*).
- * :Durée: avril 2016 à août 2016 (*stage de recherche en mathématiques appliquées*);
- * :Lieu: Lausanne, Suisse.
- * :Rapport: Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
+- J'ai commencé `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
+- Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
 .. sidebar:: Autre langue : en anglais ?
@@ -146,9 +142,19 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 
    Pour le second trimestre (printemps 2016) :
 
-    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :yellow:`nouveau !`;
-    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :yellow:`nouveau !`;
-    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :red:`pas encore !`.
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_, noté :blue:`17.3/20`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_, noté :blue:`17.64/20`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_, noté :blue:`17.5/20`.
+
+Pour finir mon M2, j'ai fait un stage de recherche
+--------------------------------------------------
+
+J'ai travaillais entre avril et août 2016, au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur les opérateurs de convolution et les opérateurs steerables <https://bitbucket.org/lbesson/internship-mva-2016>`_ !
+
+ * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*).
+ * :Durée: avril 2016 à août 2016 (*stage de recherche en mathématiques appliquées*);
+ * :Lieu: Lausanne, Suisse.
+ * :Rapport: Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
 
 
 **2014-2015** : un an d'enseignement en Inde
@@ -180,8 +186,8 @@ Lauréat du concours de l'agrégation de mathématiques (option informatique).
    - :Note: 15.25/20, *magna cum laude*.
 
 
-Stage et rapport de stage de M1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Stage et rapport de stage de Master 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * :Titre: *"Modularité pour la planification et la vérification de programmes pour robots"*;
 
 * :Encadrant: `Jules Villard <http://www0.cs.ucl.ac.uk/staff/J.Villard/>`_,
