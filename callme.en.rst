@@ -106,6 +106,11 @@ If you are *not* a *spammer*, go on, you can use this one:
 
   `Lilian dot Besson at ens-cachan dot fr <mailto:Lilian dot Besson at ens-cachan dot fr>`_
 
+.. note::
+
+   You can use `this awesome website <http://send-email.org/>`_ (``send-email.org``)
+   if you don't have access to an email client right now.
+
 
 Regular phone
 ^^^^^^^^^^^^^

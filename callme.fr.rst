@@ -106,6 +106,11 @@ Si c'est sérieux, vous pouvez utiliser cette adresse :
 
   `Lilian point Besson à ens-cachan point fr <mailto:Lilian point Besson à ens-cachan point fr>`_
 
+.. note::
+
+   Vous pouvez utiliser `ce super site web <http://send-email.org/>`_ (``send-email.org``)
+   si vous n'avez pas accès à un client de messagerie à l'instant.
+
 
 Téléphone
 ^^^^^^^^^
