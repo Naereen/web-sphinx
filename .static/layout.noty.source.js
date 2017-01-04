@@ -81,7 +81,7 @@ $(document).ready(function(){
     ofcourseyoudo: "<b>Cool, j'aime coder :-)</b>\n</br>N'hésitez pas à consulter d'autre pages !",
     changestylebeta: "Quel style voulez-vous utiliser ?\n</br></br>Cette fonctionnalité utilise un <i>cookie</i>. Actuellement : " + getCookie("layoutstyle") + ".\n</br>En apprendre plus sur les <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies et leurs utilisation sur ce site</a> ?",
     oupsohsorry: "<b>Oups !</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ?\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile et ouvert à tous !</span>",
-    christmas: "Joyeux Noël à tous !",
+    christmas: "Bonne année à tous !",
     success_christmas: "Ho Ho Ho !"
   };
   if (isInEnglish) {
@@ -98,7 +98,7 @@ $(document).ready(function(){
       ofcourseyoudo: "<b>Normal, I love coding :-)</b>\n</br>Please, go read more of my pages!",
       changestylebeta: "Which style do you want to use?\n</br></br>This feature uses a <i>cookie</i>. Currently: " + getCookie("layoutstyle") + ".\n</br>Want to learn more about <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies and their use on this website</a>?",
       oupsohsorry: "<b>Oups!!</b> If it's a bug, could you take the time to report it?\n</br>Thanks to <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">it's easy and open to anyone!</span>",
-      christmas: "Merry Christmas to all!",
+      christmas: "Happy New Year to all!",
       success_christmas: "Ho Ho Ho !"
     }
   };
