@@ -3,12 +3,11 @@
 # Author: Lilian BESSON
 # Email: lilian DOT besson AT normale D O T fr
 # Version: 20
-# Date: 02-07-16
+# Date: 04-01-17
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -v -j 1 -w /tmp/sphinx.log
-# # SPHINXBUILD   = /home/lilian/.local/bin/sphinx-build
 SPHINXBUILD   = /usr/local/bin/sphinx-build
 PAPER         =
 BUILDDIR      = .build
