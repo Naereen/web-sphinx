@@ -142,4 +142,4 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
       Quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

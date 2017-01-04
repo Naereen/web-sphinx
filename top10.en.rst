@@ -198,4 +198,4 @@ My 10 favorite **book writers**
 - `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_),
 - `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et Les Lampions" and "À Tous Ceux Qui").
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

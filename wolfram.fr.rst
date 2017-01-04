@@ -253,4 +253,4 @@ Une extension ?
  On pourrait envisager de faire une extension Sphinx qui, comme `greffon GNUplot <gnuplot_embed.html>`_, permettrait d'embarquer des graphiques et des tableaux produits par *Wolfram|Alpha*.
  J'ai la flemme de le faire moi-même !
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

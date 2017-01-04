@@ -216,4 +216,4 @@ A la fin de la page :
 .. [c2] Texte de la seconde citation.
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -312,4 +312,4 @@ Manipulate volume or hibernation from command line
   :State: *Experimental*, works on my machine (not tested elsewhere)...
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

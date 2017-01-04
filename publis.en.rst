@@ -355,4 +355,4 @@ Old (useless) documents.
  Slides for a technical workshop on documentation tools, given in March 2013 for the `CRANS <http://www.crans.org>`_.
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

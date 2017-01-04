@@ -104,4 +104,4 @@ Et plein d'autres
 Et encore plein d'autres que j'oublie de lister ici... La flemme !
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

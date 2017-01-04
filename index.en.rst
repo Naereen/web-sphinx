@@ -104,4 +104,4 @@ For more details, see `<sitemap.en.html>`_.
    pgp.en
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

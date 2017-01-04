@@ -89,4 +89,4 @@ Other website?
 - `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.org/>`_ (on Bitbucket),
 - My GitHub `<https://github.com/naereen>`_ and `<http://naereen.github.io/>`_ got about 400 visits (since September 2015).
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

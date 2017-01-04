@@ -197,4 +197,4 @@ For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTime
 
 .. warning:: I do not know why, but this small ``wakatime`` command line tool does not work anymore on my laptop (even after uninstalling and reinstalling)... Too bad :( !
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

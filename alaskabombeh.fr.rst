@@ -48,4 +48,4 @@ d'apporter de telles bombes aussi près de l'URSS : le projet Chariot fut abando
    .. [#teller] Dont `Edward Teller <https://fr.wikipedia.org/wiki/Edward_Teller>`_, un des pères de la bombe H américaine et directeur du LRL de 1958 à 1960.
    .. [#inupiak] L'*inupiak*, ou *iñupiak* est une langue iniut, utilisée dans le grand nord de l'Alaska. Plus de détails ici `<https://fr.wikipedia.org/wiki/Inupiak>`_ par exemple.
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

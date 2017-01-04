@@ -28,4 +28,4 @@ To start learning Python, I recommend...
 
 .. note:: Matlab is a trademark of MathWorks. And Python is awesome!
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

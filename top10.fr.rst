@@ -199,4 +199,4 @@ Mes 10 **écrivains** préférés
 - `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (théâtre, 20ème, surtout pour "Les Cendres et Les Lampions" et "À Tous Ceux Qui").
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

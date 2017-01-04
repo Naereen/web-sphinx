@@ -121,4 +121,4 @@ Of course, I know and I really like the concept of `Couch Surfing <http://www.co
 - `I have an account on CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
 - and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellow couch-surfers!
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -82,4 +82,4 @@ Pourquoi ? Principalement parce que le développeur à l'origine de ce service l
     --- Josh
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

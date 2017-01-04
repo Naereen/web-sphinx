@@ -249,4 +249,4 @@ A Sphinx plugin?
  We could imagine a Wolfram|Alpha plug-in for Sphinx, similar to the `GNUplot plugin <gnuplot_embed.html>`_, allowing to embed graphs and arrays produced by *Wolfram|Alpha*.
  But I am not motivated enough to implement it myself!
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -54,4 +54,4 @@ Pour apprendre, ou se rafraîchir la mémoire sur \\(\\LaTeX{}\\), le livre `fr.
    - `cet exemple (#5) de StrapDown.js <http://lbesson.bitbucket.org/md/example5.html>`_.
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -351,4 +351,4 @@ Si vous avez des questions, des suggestions d'améliorations, ou des bugs
 (mauvaise coloration par exemple), `n'hésitez pas à me contacter <callme.fr.html>`_ !
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

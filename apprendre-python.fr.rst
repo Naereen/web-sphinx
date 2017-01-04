@@ -35,4 +35,4 @@ Pour se lancer et apprendre Python, je recommande...
 
 .. note:: Matlab est une marque déposée de MathWorks. Et Python c'est super !
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -124,4 +124,4 @@ Before 2009 (high-school and before)
   I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also *theater*.
 
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

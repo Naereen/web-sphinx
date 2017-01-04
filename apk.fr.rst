@@ -191,4 +191,4 @@ Vieille version
 ^^^^^^^^^^^^^^^
   `La première version de cette page <https://wiki.crans.org/VieCrans/ApplicationsAndroid>`_ était sur le `Wiki <https://wiki.crans.org/>`_ du `CRANS <https://crans.org/>`_.
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -321,4 +321,4 @@ Crédit additionnel
 ^^^^^^^^^^^^^^^^^^
  Merci à `Vincent Cohen-Addad <http://www.di.ens.fr/~vcohen/>`_ de m'avoir motivé à m'initier à `git`_, en octobre 2012 pour `le projet de programmation réseau de mon Master d'Informatique Fondamentale (le MPRI, cours #1-21) <https://bitbucket.org/lbesson/mpri-bomberman>`_ sur lequel nous avions travaillé ensemble.
 
-.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
