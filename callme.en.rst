@@ -23,6 +23,20 @@ Postal addresses
 You can write a letter or some postal cards to me (I love them),
 at the following addresses (listed by decreasing preference):
 
+.. raw:: html
+
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+   <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+   <style type="text/css">
+       #office, #home {
+           margin:  auto;
+           z-index: 0;
+           height:  480px;
+           width:   900px;
+       }
+   </style>
+
+
 1. My office, at *CentraleSupélec*, in Rennes, France
    (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
@@ -33,6 +47,21 @@ at the following addresses (listed by decreasing preference):
        35576 - Cesson-Sévigné,
        France
 
+.. raw:: html
+
+   <div id="office"></div>
+   <script type="text/javascript">
+       var office = L.map("office").setView([48.12576, -1.62312], 18);
+
+       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
+       }).addTo(office);
+
+       L.marker([48.12576, -1.62312]).addTo(office)
+           .bindPopup("Mr Lilian Besson,<br>Office 304 - SCEE Team,<br>CentraleSupélec - Campus de Rennes,<br>Avenue de la Boulaie - CS 47601,<br>35576 - Cesson-Sévigné,<br>France.")
+           .openPopup();
+   </script>
+
 
 2. to my own place (in France)
    (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
@@ -41,6 +70,24 @@ at the following addresses (listed by decreasing preference):
        23, boulevard Jeanne d'Arc,
        35000 - Rennes,
        France
+
+.. raw:: html
+
+   <div id="home"></div>
+   <script type="text/javascript">
+       var home = L.map("home").setView([48.11165, -1.65732], 17);
+
+       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
+       }).addTo(home);
+
+       L.marker([48.11165, -1.65732]).addTo(home)
+           .bindPopup("Mr Lilian Besson,<br>23, boulevard Jeanne d'Arc,<br>35000 - Rennes,<br>France.")
+           .openPopup();
+   </script>
+
+
+.. include:: .javascript.rst
 
 
 Emails
