@@ -72,7 +72,7 @@ $(document).ready(function(){
   var messages = {
     notify_cookies: "Cette page utilise des <i>cookies</i>.\n<br>En navigant sur ce site, vous acceptez ses conditions d'utilisation.",
     btw_cookies: "<b>Super !</b>\n</br>Au fait, vous pouvez changer la couleur du site en <i>appuyant sur 's'</i> !",
-    moreinfo_cookies: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation (innocente) que ce site fait des <i>cookies</i> ?\n</br>Vous pouvez consulter cette page <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies.html</a>.",
+    moreinfo_cookies: "<b>C'est dommage</b>. Peut-être voulez-vous en apprendre plus sur l'utilisation (innocente) que ce site fait des <i>cookies</i> ?\n</br>Vous pouvez consulter cette page <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.fr.html\">cookies.html</a>.",
     agree: "D'accord :-)",
     disagree: "Pas d'accord !",
     likepage: "Cette page vous <b>plait-elle</b> ?",
@@ -81,15 +81,15 @@ $(document).ready(function(){
     ofcourseyoudo: "<b>Cool, j'aime coder :-)</b>\n</br>N'hésitez pas à consulter d'autre pages !",
     changestylebeta: "Quel style voulez-vous utiliser ?\n</br></br>Cette fonctionnalité utilise un <i>cookie</i>. Actuellement : " + getCookie("layoutstyle") + ".\n</br>En apprendre plus sur les <a title=\"Plus d'informations sur les cookies ?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies et leurs utilisation sur ce site</a> ?",
     oupsohsorry: "<b>Oups !</b> Peut-être pouvez vous prendre quelques instants pour signaler un bug ?\n</br>Via <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">c'est facile et ouvert à tous !</span>",
-    christmas: "Bonne année à tous !",
-    success_christmas: "Ho Ho Ho !"
+    happynewyear: "Bonne année à tous !",
+    success_happynewyear: "Ho Ho Ho !"
   };
   if (isInEnglish) {
     // Change message in English, default value
     messages = {
       notify_cookies: "This page is using <i>cookies</i>.\n<br> By browsing this site, you are accepting its general conditions of use.",
       btw_cookies: "<b>Great!</b>\n</br>By the way, you can change the color style <i>with the 's' key on your keyboard</i>!",
-      moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies.html</a>.",
+      moreinfo_cookies: "<b>Oh, I'm sorry</b>. Maybe you would like to learn more about how this website is <i>using cookies</i>?\n</br>You can go read <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.en.html\">cookies.html</a>.",
       agree: "Alright :-)",
       disagree: "What?? No!",
       likepage: "Do you <b>like that page</b>?",
@@ -98,41 +98,40 @@ $(document).ready(function(){
       ofcourseyoudo: "<b>Normal, I love coding :-)</b>\n</br>Please, go read more of my pages!",
       changestylebeta: "Which style do you want to use?\n</br></br>This feature uses a <i>cookie</i>. Currently: " + getCookie("layoutstyle") + ".\n</br>Want to learn more about <a title=\"More information about cookies?\" href=\"http://perso.crans.org/besson/cookies.html\">cookies and their use on this website</a>?",
       oupsohsorry: "<b>Oups!!</b> If it's a bug, could you take the time to report it?\n</br>Thanks to <a title=\"bitbucket.org\" href=\"https://bitbucket.org/lbesson/web-sphinx/issues/new\">bitbucket.org/lbesson/web-sphinx/issues/new</a>, <span style=\"color: cyan\">it's easy and open to anyone!</span>",
-      christmas: "Happy New Year to all!",
-      success_christmas: "Ho Ho Ho !"
+      happynewyear: "Happy New Year to all!",
+      success_happynewyear: "Ho Ho Ho !"
     }
   };
 
  if (screen.width > 680) {
- // BETA responsive
+   // setTimeout(function(){ noty({
+   //  text: messages.notify_cookies,
+   //  closeWith: ['click'], timeout: 5000,
+   //  buttons: [ // this = button element, $noty = $noty element
+   //    {addClass: 'btn btn-primary', text: messages.agree, onClick: function($noty) {
+   //        $noty.close();
+   //        noty({text: messages.btw_cookies,
+   //          type: 'success', timeout: 5000});
+   //      }},
+   //    {addClass: 'btn btn-danger', text: messages.disagree, onClick: function($noty) {
+   //        $noty.close();
+   //        noty({text: messages.moreinfo_cookies,
+   //          type: 'error', layout: 'center', timeout: 20000});
+   //      }}]
+   //  }) }, 5000);
+   // Happy New Year button, just during the holidays
    setTimeout(function(){ noty({
-    text: messages.notify_cookies,
+    text: messages.happynewyear,
     closeWith: ['click'], timeout: 5000,
     buttons: [ // this = button element, $noty = $noty element
       {addClass: 'btn btn-primary', text: messages.agree, onClick: function($noty) {
           $noty.close();
-          noty({text: messages.btw_cookies,
+          noty({text: messages.success_happynewyear,
             type: 'success', timeout: 5000});
         }},
       {addClass: 'btn btn-danger', text: messages.disagree, onClick: function($noty) {
           $noty.close();
-          noty({text: messages.moreinfo_cookies,
-            type: 'error', layout: 'center', timeout: 20000});
-        }}]
-    }) }, 5000);
-   // Merry christmas button, just during the holidays
-   setTimeout(function(){ noty({
-    text: messages.christmas,
-    closeWith: ['click'], timeout: 5000,
-    buttons: [ // this = button element, $noty = $noty element
-      {addClass: 'btn btn-primary', text: messages.agree, onClick: function($noty) {
-          $noty.close();
-          noty({text: messages.success_christmas,
-            type: 'success', timeout: 5000});
-        }},
-      {addClass: 'btn btn-danger', text: messages.disagree, onClick: function($noty) {
-          $noty.close();
-          noty({text: messages.success_christmas,
+          noty({text: messages.success_happynewyear,
             type: 'success', layout: 'center', timeout: 20000});
         }}]
     }) }, 8000);
