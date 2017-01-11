@@ -39,7 +39,7 @@ Contact address
 
 Extra information about me
 --------------------------
- * :Date of Birth: *January 12th, 1993*. Age : **23**.
+ * :Date of Birth: *January 12th, 1993*. Age : **24**.
  * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in 5th year. Studying **Mathematics** and **Computer Science**.
  * :Webpages:
 

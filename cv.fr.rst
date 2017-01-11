@@ -37,7 +37,7 @@ Adresse de contact
 
 Autres informations à propos de moi
 ------------------------------------
- * :Date de Naissance: *12 Janvier 1993*. Âge : **23 ans**.
+ * :Date de Naissance: *12 Janvier 1993*. Âge : **24 ans**.
  * :Actuellement: Étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en 5ème année, en **mathématiques** et **informatique**.
  * :Pages sur le web:
 
