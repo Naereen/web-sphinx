@@ -40,7 +40,7 @@ Contact address
 Extra information about me
 --------------------------
  * :Date of Birth: *January 12th, 1993*. Age : **24**.
- * :Current Status: Student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in 5th year. Studying **Mathematics** and **Computer Science**.
+ * :Current Status: PhD student at `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, in Rennes. (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
  * :Webpages:
 
     #. `This website <index.html>`_;

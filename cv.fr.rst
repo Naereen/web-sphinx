@@ -38,7 +38,7 @@ Adresse de contact
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: *12 Janvier 1993*. Âge : **24 ans**.
- * :Actuellement: Étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en 5ème année, en **mathématiques** et **informatique**.
+ * :Actuellement: PhD student at `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, in Rennes. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
  * :Pages sur le web:
 
    #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
