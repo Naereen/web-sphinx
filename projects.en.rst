@@ -174,6 +174,7 @@ For more details, see `<sitemap.en.html>`_.
    cv.en
    teaching.en
    cookies.en
+   README
    sublimetext.en
    ga.en
    stats-google-analytics.en
