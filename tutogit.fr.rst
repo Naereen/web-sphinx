@@ -247,12 +247,12 @@ Plus de détails sont donnés sur `cette page de doc par Atlassian (en anglais) 
 
 .. note:: `lbesson.Bitbucket.org <http://lbesson.Bitbucket.org>`_ ?
 
-   Voir par exemple cette petite page `lbesson.Bitbucket.org/README.html <http://lbesson.bitbucket.io/README.html>`_ dont la source est hébergée ici `Bitbucket.org/lbesson/lbesson.bitbucket.io/src/master/README.html <https://Bitbucket.org/lbesson/lbesson.bitbucket.io/src/master/README.html>`_.
+   Voir par exemple cette petite page `lbesson.Bitbucket.org/README.html <http://lbesson.bitbucket.io/README.html>`_ dont la source est hébergée ici `Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html <https://Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html>`_.
 
    Je me sers de `lbesson.Bitbucket.org`_ principalement pour :
 
    - `squirt <http://lbesson.bitbucket.io/squirt/>`_ un marque-page scripté pour Firefox, Chrome ou Opéra, permettant de lire une page web *très rapidement* (disponible sur ce site aussi, allez-y, essayer le en tapant "q" sur votre clavier ! *Cool non ?*),
-   - `StrapDown.js <http://lbesson.bitbucket.io/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_. De tels documents utilisant StrapDown sont *directement* prêts à être publiés *telle-quelle* sur n'importe quel site ou serveur, sans aucune étape de compilation requise de votre côté ! (Il n'attire qu'`une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.io/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.io/downloads/StrapDown.js.zip>`_),
+   - `StrapDown.js <http://lbesson.bitbucket.io/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_. De tels documents utilisant StrapDown sont *directement* prêts à être publiés *telle-quelle* sur n'importe quel site ou serveur, sans aucune étape de compilation requise de votre côté ! (Il n'attire qu'`une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/StrapDown.js.zip>`_),
    - mes propres copies du (légendaire) jeu **2048** : `lbo.k.vu/2048 <http://lbo.k.vu/2048>`_ (le jeu initial), `lbo.k.vu/2048-agreg <http://lbo.k.vu/2048-agreg>`_ (une version `pour matheux <http://agreg.org/ResultatsMerite2014.html>`_) ou encore `lbo.k.vu/2048-AI <http://lbo.k.vu/2048-AI>`_ (avec `Intelligence Artificielle <slidesM1Info13.pdf>`_).
    - et `cette page d'accueil qui permet d'enrober mon site <http://lbesson.bitbucket.io/index.html?i=no>`_.
 
