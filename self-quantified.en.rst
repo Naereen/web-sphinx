@@ -171,7 +171,7 @@ I wrote a few blog articles (on this website) about some data and statistics:
 
 I also wrote some small tools:
 
-- A minimalist dashboard, generated every hour (with cron), with this bash script `GenerateStatsMarkdown.sh <https://bitbucket.org/lbesson/bin/src/master/GenerateStatsMarkdown.sh>`_, displays basic stats about my laptop, and links to other stats and dashboard sites. Minimalist UI: simple Markdown file, powered by `StrapDown.js <http://lbesson.bitbucket.org/md/>`_.
+- A minimalist dashboard, generated every hour (with cron), with this bash script `GenerateStatsMarkdown.sh <https://bitbucket.org/lbesson/bin/src/master/GenerateStatsMarkdown.sh>`_, displays basic stats about my laptop, and links to other stats and dashboard sites. Minimalist UI: simple Markdown file, powered by `StrapDown.js <http://lbesson.bitbucket.io/md/>`_.
 - See `my fork of uLogMe on GitHub <https://github.com/Naereen/uLogMe>`_.
 - See `my own Munin plugins on GitHub <https://github.com/Naereen/My-Munin-plugins>`_.
 

@@ -48,7 +48,7 @@ Without any surprise, the `WakaTime`_ team had written a plug-in for `Sublime Te
 
 Overview of the statistics ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- During the first 8 days (after installing it, in January 2015), I was in a `coding marathon <https://bitbucket.org/lbesson/>`_ to conclude some projects (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, my `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), but still, I was kind of scared to see that I used my text editor for **29 hours in 8 days!**
+ During the first 8 days (after installing it, in January 2015), I was in a `coding marathon <https://bitbucket.org/lbesson/>`_ to conclude some projects (`StrapDown.js <http://lbesson.bitbucket.io/md/>`_, my `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), but still, I was kind of scared to see that I used my text editor for **29 hours in 8 days!**
 
 It is also possible to see:
 
@@ -74,7 +74,7 @@ This first chart shows how much I type every day (it counts most of my emails, p
 
 Languages over last 30 days
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can see that I mainly use `Python <learn-python.en.html>`_ and `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ and `reStructuredText <demo.html>`_, and Markdown (or HTML when using `StrapDown.js <http://lbesson.bitbucket.org/md/>`_) :
+You can see that I mainly use `Python <learn-python.en.html>`_ and `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ and `reStructuredText <demo.html>`_, and Markdown (or HTML when using `StrapDown.js <http://lbesson.bitbucket.io/md/>`_) :
 
 .. raw:: html
 

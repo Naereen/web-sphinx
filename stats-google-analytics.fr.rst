@@ -70,7 +70,7 @@ Répartition des **navigateurs** (qui suit l'évolution de `la répartition du m
 **Durée moyenne des visites :** environ 2 minutes (j'estime que c'est la moitié du temps requis pour lire l'article le plus long et environ le temps requis pour lire tous les articles de tailles moyennes hébergés ici, ce que je considère comme un bon signe : les visiteurs lisent *vraiment* ces pages !).
 
 
-**Origine des visites :** Google (45%), *"accès direct"* (42%, qui compte les moteurs de recherche anonymes, dont le magnifique `DuckDuckGo <https://duckduckgo.com/>`_), Facebook (5%), `<http://lbesson.bitbucket.org>`_ (3%), `<http://crans.org>`_ (2%) et `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
+**Origine des visites :** Google (45%), *"accès direct"* (42%, qui compte les moteurs de recherche anonymes, dont le magnifique `DuckDuckGo <https://duckduckgo.com/>`_), Facebook (5%), `<http://lbesson.bitbucket.io>`_ (3%), `<http://crans.org>`_ (2%) et `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
 
 ------------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ D'autres sites ?
 `Ce site <index.html>`_ est celui qui attire le plus de visiteurs (sur des pages écrites par `moi <cv.fr.pdf>`_), mais j'en ai d'autres :
 
 - Certains projets hébergés sur ce domaine (``perso.crans.org/besson``) ont une clé Google Analytics différentes, donc ne sont pas comptées dans la même *"vue"* (ie. base de données), mais ils sont tous quasi-négligeables en terme de nombre de visites,
-- Mon Bitbucket `<https://bitbucket.org/lbesson>`_ et `<http://lbesson.bitbucket.org/>`_ ont reçues environ 5000 visites en trois ans (et `ce jeu en a 20% <http://lbesson.bitbucket.org/2048-agreg/>`_ !),
+- Mon Bitbucket `<https://bitbucket.org/lbesson>`_ et `<http://lbesson.bitbucket.io/>`_ ont reçues environ 5000 visites en trois ans (et `ce jeu en a 20% <http://lbesson.bitbucket.io/2048-agreg/>`_ !),
 - Mes `ressources pour l'« informatique pour tous » en prépa' MP <infoMP/>`_ environ 1200 pages vues pour 400 visites et 290 utilisateurs, depuis août 2015 (elles ont donc des visiteurs récurrents, c'est bon signe, mes élèves s'en servent !),
 - Un petit module Python écrit en 2013, `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `son code <https://bitbucket.org/lbesson/ansi-colors/>`_ et `sa documentation <https://pythonhosted.org/ANSIColors-balises/>`_, ont eu environ 1100 visites depuis leur mise en ligne (février 2013) - c'est ridicule mais tant pis ! Je l'ai mis à jour pour supporter Python 2 et 3 en juin 2016 : `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ : `son code (ansicolortags) <https://bitbucket.org/lbesson/ansicolortags.py/>`_ et `sa documentation (ansicolortags) <http://ansicolortags.readthedocs.io/>`_ !
 - Mon GitHub `<https://github.com/naereen>`_ et cette page (`<http://naereen.github.io/>`_) ont eu environ 400 visites (depuis septembre 2015).

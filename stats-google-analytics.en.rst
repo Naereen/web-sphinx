@@ -69,7 +69,7 @@ Other statistics
 **Mean duration of the visits :** about 2 minutes (that's about half the time to read the longest of my articles, and about the time to read any of the medium-size article hosted here, so it's a good sign: visitors are really reading these pages!).
 
 
-**Referrer :** Google (45%), *"direct access"* (42%, this includes the various anonymous search engine, mainly the wonderful `DuckDuckGo <https://duckduckgo.com/>`_), Facebook (5%), `<http://lbesson.bitbucket.org>`_ (3%), `<http://crans.org>`_ (2%) and `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
+**Referrer :** Google (45%), *"direct access"* (42%, this includes the various anonymous search engine, mainly the wonderful `DuckDuckGo <https://duckduckgo.com/>`_), Facebook (5%), `<http://lbesson.bitbucket.io>`_ (3%), `<http://crans.org>`_ (2%) and `<http://www.mahindraecolecentrale.edu.in/>`_ (1%).
 
 ------------------------------------------------------------------------------
 
@@ -83,10 +83,10 @@ Other website?
 `This website <index.html>`_ is the one that gets most of the visitors (on web pages written by `me <cv.en.pdf>`_), but I have some pages with Google Analystics enabled on other websites:
 
 - Some projects hosted on this same domain (``perso.crans.org/besson``) have a different Google Analytics key, so they are showed on a separate GA database (*"view"*), but they all have very few visitors.
-- My Bitbucket `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.org/>`_ got about 5000 visits in 3 years (and `this small game is responsible for 20% <http://lbesson.bitbucket.org/2048-agreg/>`_ !),
+- My Bitbucket `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.io/>`_ got about 5000 visits in 3 years (and `this small game is responsible for 20% <http://lbesson.bitbucket.io/2048-agreg/>`_ !),
 - My `documents for the "Computer Science" course <infoMP/>`_ that I taught in a MP prep' school (in Sceaux (France) in 2015-16, got about 400 visits, for 1200 pages seen and about 290 different users, since August 2015 (so they have some recurrent visitors, that's a good sign showing that my students are using these documents!),
 - A tiny Python module I wrote in 2013, `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `its code <https://bitbucket.org/lbesson/ansi-colors/>`_ and `its doc <https://pythonhosted.org/ANSIColors-balises/>`_, receives about 1100 visits since I put them online (February 2013) - it's ridiculously small but who cares! I updated it to support Python 3 in June 2016: `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_: `its code (ansicolortags) <https://bitbucket.org/lbesson/ansicolortags.py/>`_ and `its doc (ansicolortags) <http://ansicolortags.readthedocs.io/>`_!
-- `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.org/>`_ (on Bitbucket),
+- `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.io/>`_ (on Bitbucket),
 - My GitHub `<https://github.com/naereen>`_ and `<http://naereen.github.io/>`_ got about 400 visits (since September 2015).
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

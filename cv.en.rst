@@ -137,15 +137,15 @@ Below there is a precise description of what I studied, year by year, from my Ba
 
    For the 1st trimester (Fall 2015):
 
-    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
-    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
-    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_, graded :blue:`18/20`;
+    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.io/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
+    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.io/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
+    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.io/gml2016>`_, graded :blue:`18/20`;
 
    For the 2nd trimester (Spring 2016):
 
-    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_, graded :blue:`17.3/20`;
-    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_, graded :blue:`17.64/20`;
-    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_, graded :blue:`17.5/20`.
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`_, graded :blue:`17.3/20`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`_, graded :blue:`17.64/20`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`_, graded :blue:`17.5/20`.
 
 To conclude my M.Sc., I was doing an internship
 -----------------------------------------------

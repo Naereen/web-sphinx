@@ -185,10 +185,10 @@ On peut affiner le procédé, en ajoutant d'abord la redirection `<beacon/>`_ ve
 
 Et si on veux permettre l'utilisation du proxy pour d'autres sous-clés Google Analytics
 (chaque clé correspond à un compte, et chaque sous-clés à des données d'analyse différentes, par exemple une sous-clé par site web),
-on peut ajouter une règle pour rediriger une url de la forme "``beacon/14/ma page bidon comptée comme étant sur lbesson.bitbucket.org !``"
-vers l'image "``https://ga-beacon.appspot.com/UA-38514290-14/ma page bidon comptée comme étant sur lbesson.bitbucket.org !``",
-qui sera donc affichée comme étant une page avec l'url "``ma page bidon comptée comme étant sur lbesson.bitbucket.org !``"
-sur le site correspond à la clé "``UA-38514290-14``", soit `<http://lbesson.bitbucket.org/>`_ !
+on peut ajouter une règle pour rediriger une url de la forme "``beacon/14/ma page bidon comptée comme étant sur lbesson.bitbucket.io !``"
+vers l'image "``https://ga-beacon.appspot.com/UA-38514290-14/ma page bidon comptée comme étant sur lbesson.bitbucket.io !``",
+qui sera donc affichée comme étant une page avec l'url "``ma page bidon comptée comme étant sur lbesson.bitbucket.io !``"
+sur le site correspond à la clé "``UA-38514290-14``", soit `<http://lbesson.bitbucket.io/>`_ !
 
 .. code-block:: bash
 

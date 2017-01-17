@@ -52,7 +52,7 @@ Liste des autres sous-domaines que j'utilise
     redirigent vers `<http://perso.crans.org/besson/>`_
     (mais ils sont jolis non ? ``k.vu`` c'est drôle je trouve).
 
- * `lbo.k.vu <http://lbo.k.vu>`_ redirige vers `<http://lbesson.bitbucket.org/>`_.
+ * `lbo.k.vu <http://lbo.k.vu>`_ redirige vers `<http://lbesson.bitbucket.io/>`_.
 
 ------------------------------------------------------------------------------
 

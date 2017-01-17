@@ -274,7 +274,7 @@ Que répondre à ça ;) ?
       </item>
 
       <item>
-       <title>http://besson.or.gs marche super bien, avec http://lbesson.bitbucket.org !</title>
+       <title>http://besson.or.gs marche super bien, avec http://lbesson.bitbucket.io !</title>
        <link>http://besson.or.gs/bin/.bashrc</link>
        <description>http://perso.crans.org/besson est plus cassé (mais désormais redirige vers http://perso.crans.org/besson)!</description>
        <guid>http://besson.or.gs/bin/.bash_aliases</guid>
@@ -282,10 +282,10 @@ Que répondre à ça ;) ?
       </item>
 
       <item>
-       <title>Plein de nouveaux trucs (JavaScript), et refonte de lbesson.bitbucket.org !</title>
-       <link>http://lbesson.bitbucket.org?p=top</link>
+       <title>Plein de nouveaux trucs (JavaScript), et refonte de lbesson.bitbucket.io !</title>
+       <link>http://lbesson.bitbucket.io?p=top</link>
        <description>perso.crans.org/besson est toujours cassé...</description>
-       <guid>http://lbesson.bitbucket.org?p=right/</guid>
+       <guid>http://lbesson.bitbucket.io?p=right/</guid>
        <pubDate>Sat, 28 Sep 2013 12:04:43 +0200</pubDate>
       </item>
 
@@ -341,7 +341,7 @@ Que répondre à ça ;) ?
        <title>Dernier jour à Londres !</title>
        <link>http://perso.crans.org/besson/stageM1/slides/</link>
        <description>Rapports et slides presque "parfaits" ! TODO:Conclure slides réduits pour les maths...</description>
-       <guid>http://lbesson.bitbucket.org/</guid>
+       <guid>http://lbesson.bitbucket.io/</guid>
        <pubDate>Fri, 09 Aug 2013 08:04:43 +0200</pubDate>
       </item>
 
@@ -357,7 +357,7 @@ Que répondre à ça ;) ?
        <title>Dernière semaine à Londres !</title>
        <link>http://perso.crans.org/besson/stageM1/</link>
        <description>Rapports en cours de conclusion, slides bien avancés !</description>
-       <guid>http://lbesson.bitbucket.org/index.html</guid>
+       <guid>http://lbesson.bitbucket.io/index.html</guid>
        <pubDate>Sun, 04 Aug 2013 11:04:43 +0200</pubDate>
       </item>
 
@@ -371,9 +371,9 @@ Que répondre à ça ;) ?
 
       <item>
        <title>Un nouveau truc : embarquer un site statique via bitbucket.org... a creuser ?</title>
-       <link>http://lbesson.bitbucket.org</link>
+       <link>http://lbesson.bitbucket.io</link>
        <description>Marche bien, mais le serveur est pas Apache, donc pas drôle!</description>
-       <guid>https://bitbucket.org/lbesson/lbesson.bitbucket.org</guid>
+       <guid>https://bitbucket.org/lbesson/lbesson.bitbucket.io</guid>
        <pubDate>Wed, 03 Jul 2013 17:49:43 +0200</pubDate>
       </item>
 

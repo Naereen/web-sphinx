@@ -26,7 +26,7 @@ L'année dernière (2015-16)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 * J'étais `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
 
-* J'ai obtenu le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_. J'ai *majoré* le master MVA en 2015-16, avec 13 cours et la note finale de **18.43 / 20** (`"très bien avec félicitations du jury" <https://fr.wikipedia.org/wiki/Mention_honorifique>`_).
+* J'ai obtenu le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. J'ai *majoré* le master MVA en 2015-16, avec 13 cours et la note finale de **18.43 / 20** (`"très bien avec félicitations du jury" <https://fr.wikipedia.org/wiki/Mention_honorifique>`_).
 
 * J'étais aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
@@ -57,7 +57,7 @@ L'année dernière (2015-16)
     En plus des mathématiques et de l'informatique (pratiques et théoriques), j'aime aussi cuisiner, randonner et camper,
     voyager en France (ou en Europe, ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
     J'aime particulièrement utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
-    comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_),
+    comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.io/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.io/squirt/>`_),
     des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.fr.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
@@ -138,15 +138,15 @@ J'ai aussi travaillé sur 6 petits projects de recherche, tous publiés sur `mon
 
 Pour le premier trimestre (automne 2015) :
 
- - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ (algorithmes probabilistes pour factorisation de matrices, notamment les matrices de petit rang), noté :blue:`19/20`;
- - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparaison avec les *Hidden Markov Models* et *Gaussian Mixture Models*), noté :blue:`16/20`;
- - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_ (apprentissage automatique de stratégies pour jouer à des jeux de plateau, à partir d'une base de donnée de parties jouées par des experts non optimaux, agrégation et vote optimal d'un ensemble d'experts), noté :blue:`18/20`;
+ - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.io/pcs2016>`_ (algorithmes probabilistes pour factorisation de matrices, notamment les matrices de petit rang), noté :blue:`19/20`;
+ - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.io/pgm2016>`_ (comparaison avec les *Hidden Markov Models* et *Gaussian Mixture Models*), noté :blue:`16/20`;
+ - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.io/gml2016>`_ (apprentissage automatique de stratégies pour jouer à des jeux de plateau, à partir d'une base de donnée de parties jouées par des experts non optimaux, agrégation et vote optimal d'un ensemble d'experts), noté :blue:`18/20`;
 
 Pour le second trimestre (printemps 2016) :
 
- - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :blue:`17.3/20`;
- - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :blue:`18/20``;
- - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :blue:`17.5/20`.
+ - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`_ :blue:`17.3/20`;
+ - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`_ :blue:`18/20``;
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`_ :blue:`17.5/20`.
 
 Stage de M2 en 2016
 ^^^^^^^^^^^^^^^^^^^
@@ -197,12 +197,12 @@ pour résoudre notamment le problème d'Euler compressible en 1D, 2D et 3D.
 Autres pages
 ------------
 Je vous invite tout particulièrement à aller regarder ces pages
-`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.org/README.html>`_
+`<publis.html>`_, `<bin.html>`_, `<js.html>`_, ou encore ce `README.html <http://lbesson.bitbucket.io/README.html>`_
 qui décrivent certains projets, et notamment des scripts sur lesquels je travaille *sur mon temps libre*.
 
 Master MVA (2015-2016)
 ^^^^^^^^^^^^^^^^^^^^^^
-Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 6 projets de recherche pour le 1er trimestre (automne/hiver 2015) : `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, et le 2nd trimestre (printemps 2016) : `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_.
+Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 6 projets de recherche pour le 1er trimestre (automne/hiver 2015) : `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, et le 2nd trimestre (printemps 2016) : `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_.
 
 ansicolortags (module Python)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -242,13 +242,13 @@ Deux petits articles, à propos de `Git et Bitbucket <tutogit.fr.html>`_, et de 
 StrapDown.js v0.5 (09/2014)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un petit outil pour rapidement produire de jolies pages web, en rédigeant directement en *Markdown*, sans la moindre compilation côté serveur !
-La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.org/md/>`_.
+La page de présentation et de démonstration est `là (StrapDown.js) <http://lbesson.bitbucket.io/md/>`_.
 
 SquirtFR (03/2014)
 ^^^^^^^^^^^^^^^^^^
 Un signapplet (aussi appelé marque-page scripté) pour lire *rapidement* n'importe quelle page web,
-c'est `ici (SquirtFr) <http://lbesson.bitbucket.org/squirt/>`_ (ou sur `lbo.k.vu/squirt <http://lbo.k.vu/squirt>`_),
-avec plus d'informations sur le projet `ici (README.html) <http://lbesson.bitbucket.org/squirt/README.html>`_.
+c'est `ici (SquirtFr) <http://lbesson.bitbucket.io/squirt/>`_ (ou sur `lbo.k.vu/squirt <http://lbo.k.vu/squirt>`_),
+avec plus d'informations sur le projet `ici (README.html) <http://lbesson.bitbucket.io/squirt/README.html>`_.
 
 Projet Labyrinthe-Démineur (12/2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -386,8 +386,8 @@ Autres liens externes
 ^^^^^^^^^^^^^^^^^^^^^
 #. `<http://besson.qc.to>`_ (e.g. `<http://besson.qc.to/publis/tutoriel_gedit_couleur_embedded_terminal.html>`_).
 #. `<http://lbesson.qc.to>`_ (e.g. `<http://lbesson.qc.to/publis/astuce_gedit_modificateur.html>`_) et aussi en (inutiles) sous-domaines : `<http://cv.lbesson.qc.to>`_ et `<http://git.lbesson.qc.to>`_;
-#. `<http://lbesson.bitbucket.org>`_ une expérience d'un menu latéral permettant
-   d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.org/?u=http://perso.crans.org/besson/sublimetext.fr.html>`_).
+#. `<http://lbesson.bitbucket.io>`_ une expérience d'un menu latéral permettant
+   d'afficher n'importe quelle page (par exemple, `<http://lbesson.bitbucket.io/?u=http://perso.crans.org/besson/sublimetext.fr.html>`_).
    Je ne suis pas l'auteur du code pour le menu latéral, c'est inspiré de `<http://lab.hakim.se/meny>`_.
 
 .. note:: Ces liens ne servent "à rien" ! Ils ne sont que des redirections DNS.

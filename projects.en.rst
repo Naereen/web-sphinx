@@ -46,7 +46,7 @@ Last year (*2015-16*)
 ^^^^^^^^^^^^^^^^^^^^^
 * I was a `research intern <https://people.epfl.ch/lilian.besson>`_ in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is finished) !
 
-* I obtained the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.org/pcs2016>`_, `PGM <http://lbesson.bitbucket.org/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.org/gml2016>`_, `Kernel <http://lbesson.bitbucket.org/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.org/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.org/neuro2016>`_. I ranked *first* for the MVA master in 2015-16, with 13 courses valided and the final grade of **18.43 / 20** (`"summa cum laude" <https://en.wikipedia.org/wiki/Latin_honors>`_).
+* I obtained the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. I ranked *first* for the MVA master in 2015-16, with 13 courses valided and the final grade of **18.43 / 20** (`"summa cum laude" <https://en.wikipedia.org/wiki/Latin_honors>`_).
 
 * I was also `teaching in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
@@ -77,7 +77,7 @@ Studies and past jobs
 
    I like to walk, travel, go camping around France and Europe, mainly by using `hitch-hiking <autostop.en.html>`_.
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
-   (for instance `some nice javascript hacks <http://lbesson.bitbucket.org/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.en.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
+   (for instance `some nice javascript hacks <http://lbesson.bitbucket.io/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.en.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
 
    **A few words about this site**:
@@ -123,15 +123,15 @@ I also worked on 6 small research projects, all published on `my bitbucket <http
 
 For the 1st trimester (Fall 2015):
 
- - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
- - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
- - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_, graded :blue:`18/20`;
+ - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.io/pcs2016>`_ ("finding structure with randomness"), graded :blue:`19/20`;
+ - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.io/pgm2016>`_ (comparison to Hidden Markov Models and Gaussian Mixture Models), graded :blue:`16/20`;
+ - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.io/gml2016>`_, graded :blue:`18/20`;
 
 For the 2nd trimester (Spring 2016):
 
- - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_ :orange:`new!`;
- - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_ :orange:`new!`;
- - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_ :orange:`new!`.
+ - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`_ :orange:`new!`;
+ - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`_ :orange:`new!`;
+ - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`_ :orange:`new!`.
 
 MSc research internship in 2016
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

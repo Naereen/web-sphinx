@@ -157,7 +157,7 @@ List of my snippets:
 * `newpython3.sublime-snippet <publis/ST3/newpython3.sublime-snippet>`_ to easily create a new `Python 3K <python.html>`_ script,
 * `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <bin/>`_.
 * `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <publis/autotex>`_.
-* `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.org/md/>`_!
+* `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.io/md/>`_!
 * Snippets for LaTeX, to quickly start a new empty environment (``\begin{stuff}...\env{stuff}``) related to math, for the following (non-standard) environment: `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_.
 
 Build systems
@@ -176,7 +176,7 @@ List of my build systems:
 * A Bash script can easily be executed (*without* arguments) with the build script `bash.sublime-build <publis/ST3/bash.sublime-build>`_.
 * An Octave script can easily be executed (*without* arguments) with the build script `octave.sublime-build <publis/ST3/octave.sublime-build>`_.
 * A \\(\\LaTeX{}\\) document powered by `autotex <publis/autotex>`_ (allow you to not have to write any \\(\\LaTeX{}\\) headers) can easily be compiled to a **PDF** thanks to this build script `autotex.sublime-build <publis/ST3/autotex.sublime-build>`_ (requires `autotex`_ and my `pdflatex <bin/pdflatex>`_).
-* `StrapDownJS.sublime-build <publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.org/md/strapdown2pdf.html>`_)!
+* `StrapDownJS.sublime-build <publis/ST3/StrapDownJS.sublime-build>`_ make it easy to compile a HTML file that uses my (great) `StrapDownJS <http://lbesson.bitbucket.io/md/>`_ javascript tool, to a PDF file (thanks to the script `strapdown2pdf <http://lbesson.bitbucket.io/md/strapdown2pdf.html>`_)!
 
 
 Macro

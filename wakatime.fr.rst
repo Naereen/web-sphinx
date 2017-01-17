@@ -48,7 +48,7 @@ Sans surprise, `WakaTime`_ propose un greffon pour `Sublime Text 3`, mon éditeu
 
 Aperçus des statistiques ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Durant les 8 premiers jours (après avoir installé le greffon, en janvier 2015), j'étais en `"mode" « développement intensif » <https://bitbucket.org/lbesson/>`_ pour conclure certains projets (`StrapDown.js <http://lbesson.bitbucket.org/md/>`_, `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), mais j'étais tout de même un peu effrayé de voir **29h d'activité en 8 jours !**
+Durant les 8 premiers jours (après avoir installé le greffon, en janvier 2015), j'étais en `"mode" « développement intensif » <https://bitbucket.org/lbesson/>`_ pour conclure certains projets (`StrapDown.js <http://lbesson.bitbucket.io/md/>`_, `MEC Students Face-Book demo <http://perso.crans.org/besson/MEC_Students/>`_ etc), mais j'étais tout de même un peu effrayé de voir **29h d'activité en 8 jours !**
 
 Il est aussi possible de voir :
 
@@ -74,7 +74,7 @@ Ce premier graphique montre combien de temps je code chaque jour (environ) :
 
 Langages utilisés durant les 30 derniers jours
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Vous pouvez voir que j'utilise principalement `Python <apprendre-python.fr.html>`_ et `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ et `reStructuredText <demo.html>`_, et Markdown (ou HTML, si c'est une page utilisant `StrapDown.js <http://lbesson.bitbucket.org/md/>`_) :
+Vous pouvez voir que j'utilise principalement `Python <apprendre-python.fr.html>`_ et `Bash <bin.html>`_, `LaTeX <./publis/latex/>`_ et `reStructuredText <demo.html>`_, et Markdown (ou HTML, si c'est une page utilisant `StrapDown.js <http://lbesson.bitbucket.io/md/>`_) :
 
 .. raw:: html
 

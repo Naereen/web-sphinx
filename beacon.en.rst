@@ -202,10 +202,10 @@ We can improve a little bit the process, by adding the redirection from `<beacon
 
 And if you want to be able to use the same proxy on ``yourWebSite.ext/beacon/....``, but with other Google Analytics sub-keys.
 (one key for one account, and as many sub-keys as you want for your account, each sub-key corresponds to different datas, for instance one sub-key for every of your web-sites),
-you can add the rule to redirect an URL of the form "``beacon/14/any random paged but seen as being on another website/here lbesson.bitbucket.org``"
-to the picture "``https://ga-beacon.appspot.com/UA-38514290-14/any random paged but seen as being on another website/here lbesson.bitbucket.org``",
-which will be counted (in Google Analytics dashboard) as a page with URL "``any random paged but seen as being on another website/here lbesson.bitbucket.org``"
-on your site with the (example) key being "``UA-38514290-14``" (in my case, the site `<http://lbesson.bitbucket.org/>`_)
+you can add the rule to redirect an URL of the form "``beacon/14/any random paged but seen as being on another website/here lbesson.bitbucket.io``"
+to the picture "``https://ga-beacon.appspot.com/UA-38514290-14/any random paged but seen as being on another website/here lbesson.bitbucket.io``",
+which will be counted (in Google Analytics dashboard) as a page with URL "``any random paged but seen as being on another website/here lbesson.bitbucket.io``"
+on your site with the (example) key being "``UA-38514290-14``" (in my case, the site `<http://lbesson.bitbucket.io/>`_)
 
 .. code-block:: bash
 

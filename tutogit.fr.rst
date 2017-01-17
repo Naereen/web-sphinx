@@ -247,16 +247,16 @@ Plus de détails sont donnés sur `cette page de doc par Atlassian (en anglais) 
 
 .. note:: `lbesson.Bitbucket.org <http://lbesson.Bitbucket.org>`_ ?
 
-   Voir par exemple cette petite page `lbesson.Bitbucket.org/README.html <http://lbesson.bitbucket.org/README.html>`_ dont la source est hébergée ici `Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html <https://Bitbucket.org/lbesson/lbesson.bitbucket.org/src/master/README.html>`_.
+   Voir par exemple cette petite page `lbesson.Bitbucket.org/README.html <http://lbesson.bitbucket.io/README.html>`_ dont la source est hébergée ici `Bitbucket.org/lbesson/lbesson.bitbucket.io/src/master/README.html <https://Bitbucket.org/lbesson/lbesson.bitbucket.io/src/master/README.html>`_.
 
    Je me sers de `lbesson.Bitbucket.org`_ principalement pour :
 
-   - `squirt <http://lbesson.bitbucket.org/squirt/>`_ un marque-page scripté pour Firefox, Chrome ou Opéra, permettant de lire une page web *très rapidement* (disponible sur ce site aussi, allez-y, essayer le en tapant "q" sur votre clavier ! *Cool non ?*),
-   - `StrapDown.js <http://lbesson.bitbucket.org/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_. De tels documents utilisant StrapDown sont *directement* prêts à être publiés *telle-quelle* sur n'importe quel site ou serveur, sans aucune étape de compilation requise de votre côté ! (Il n'attire qu'`une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.org/downloads/StrapDown.js.zip>`_),
+   - `squirt <http://lbesson.bitbucket.io/squirt/>`_ un marque-page scripté pour Firefox, Chrome ou Opéra, permettant de lire une page web *très rapidement* (disponible sur ce site aussi, allez-y, essayer le en tapant "q" sur votre clavier ! *Cool non ?*),
+   - `StrapDown.js <http://lbesson.bitbucket.io/md/>`_ est un joli projet pour rédiger des pages webs adaptatives et jolies en `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_. De tels documents utilisant StrapDown sont *directement* prêts à être publiés *telle-quelle* sur n'importe quel site ou serveur, sans aucune étape de compilation requise de votre côté ! (Il n'attire qu'`une vingtaine de téléchargements par mois <https://bitbucket.org/lbesson/lbesson.bitbucket.io/downloads/>`_ de l'archive `StrapDown.js.zip <https://bitbucket.org/lbesson/lbesson.bitbucket.io/downloads/StrapDown.js.zip>`_),
    - mes propres copies du (légendaire) jeu **2048** : `lbo.k.vu/2048 <http://lbo.k.vu/2048>`_ (le jeu initial), `lbo.k.vu/2048-agreg <http://lbo.k.vu/2048-agreg>`_ (une version `pour matheux <http://agreg.org/ResultatsMerite2014.html>`_) ou encore `lbo.k.vu/2048-AI <http://lbo.k.vu/2048-AI>`_ (avec `Intelligence Artificielle <slidesM1Info13.pdf>`_).
-   - et `cette page d'accueil qui permet d'enrober mon site <http://lbesson.bitbucket.org/index.html?i=no>`_.
+   - et `cette page d'accueil qui permet d'enrober mon site <http://lbesson.bitbucket.io/index.html?i=no>`_.
 
-   Et même si le certificat n'est pas valide, il est parfaitement possible d'utiliser cette fonctionnalité avec le `HTTPS <https://fr.wikipedia.org/wiki/HTTPS>`_ activé : `https://lbesson.Bitbucket.org/README.html <https://lbesson.bitbucket.org/README.html>`_ (si votre navigateur râle et affiche une erreur **c'est parfaitement normal** !).
+   Et même si le certificat n'est pas valide, il est parfaitement possible d'utiliser cette fonctionnalité avec le `HTTPS <https://fr.wikipedia.org/wiki/HTTPS>`_ activé : `https://lbesson.Bitbucket.org/README.html <https://lbesson.bitbucket.io/README.html>`_ (si votre navigateur râle et affiche une erreur **c'est parfaitement normal** !).
    Si vous utilisez un navigateur assez récent, il peut râler et vous expliquer pourquoi (vous verrez alors que la seule raison est que le `certificat SSL <https://fr.wikipedia.org/wiki/SSL>`_ de `https://bitbucket.org <https://bitbucket.org>`_ n'a été signé que pour certains sous domains du site bitbucket.org, pas tous).
    Mais le trafic sera bien crypté et sécurisé par le certificat SSL, aucun problème :)
 
@@ -287,14 +287,14 @@ Voici quelques exemples pour `mon dépôt web-sphinx <https://bitbucket.org/lbes
    <iframe src="http://bb-btns.bitbucket.org/bitbucket-btn.html?user=lbesson&repo=web-sphinx&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
-Les mêmes, mais `hébergés sur  lbesson.bitbucket.org/bbbtns/ <https://lbesson.bitbucket.org/bbbtns/>`_ (pour mon dépôt `bin <./bin/>`_) :
+Les mêmes, mais `hébergés sur  lbesson.bitbucket.io/bbbtns/ <https://lbesson.bitbucket.io/bbbtns/>`_ (pour mon dépôt `bin <./bin/>`_) :
 
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="http://lbesson.bitbucket.org/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="http://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="http://lbesson.bitbucket.io/bbbtns/bitbucket-btn.html?user=lbesson&repo=bin&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
 Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ (pour le dépôt `lbesson.Bitbucket.org`_) :
@@ -302,9 +302,9 @@ Les mêmes, mais `hébergés sur ce site (./bbbtns/) <./bbbtns/>`_ (pour le dép
 .. raw:: html
 
    <p style="text-align:center; margin-left:auto; margin-right:auto; display:block;">
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
-   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.org&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="150" height="40"></iframe>
+   <iframe src="./bbbtns/btn.html?user=lbesson&repo=lbesson.bitbucket.io&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="190" height="40"></iframe></p>
 
 
 -----------------------------------------------------------------------------

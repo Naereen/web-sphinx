@@ -159,7 +159,7 @@ And the page `<sublimetext.en.html>`_ contains a lot more information !
 
  * For instance, `newpython.sublime-snippet <publis/ST3/newpython.sublime-snippet>`_ make it easy to create a new `Python script <python.html>`_, and `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ does the same for a GNU Bash script.
  * Use `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ to create a blank LaTeX file powered by `autotex`_, which can then easily be compiled to PDF by using this building script `autotex.sublime-build <publis/ST3/autotex.sublime-build>`_
- * `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ also make it easy to create an HTML file powered by my awesome `StrapDownJS <http://lbesson.bitbucket.org/md/>`_ project !
+ * `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ also make it easy to create an HTML file powered by my awesome `StrapDownJS <http://lbesson.bitbucket.io/md/>`_ project !
  * I wrote a few snippets to write LaTeX documents quicker; and a lot of other things.
 
 :State: *Actively maintained* (July 2016).

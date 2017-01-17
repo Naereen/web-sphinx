@@ -210,14 +210,14 @@ Autres traductions
    En février 2014, j'ai démarré une bifurcation du projet `github.com/afaqurk/linux-dash <https://github.com/afaqurk/linux-dash/>`_ dans le but de le traduire. Ma bifurcation n'est plus vraiment à jour, mais fonctionne encore bien.
 
 
-.. seealso:: `SquirtFR <http://lbesson.bitbucket.org/squirt/>`_
+.. seealso:: `SquirtFR <http://lbesson.bitbucket.io/squirt/>`_
 
    En avril 2014, j'ai démarré une bifurcation du projet `squirt.io <http://squirt.io/>`_
    dans le but de le traduire, le nettoyer, et pouvoir l'embarquer localement
    et plus facilement (essayez la lecture rapide via la touche "q", allez-y !).
 
 
-.. seealso:: `StrapDown.js <http://lbesson.bitbucket.org/md/>`_
+.. seealso:: `StrapDown.js <http://lbesson.bitbucket.io/md/>`_
 
    En avril 2014, j'ai aussi démarré une bifurcation du projet `strapdownjs.com <http://strapdownjs.com/>`_
    dans le but de le traduire, le nettoyer, et pouvoir l'embarquer localement et plus facile.

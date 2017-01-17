@@ -55,16 +55,16 @@ Langues parlées
 
 Compétences en programmation et développement
 ---------------------------------------------
- * :Expert: `Python <https://pypi.python.org/pypi/ansicolortags>`_ (2 et 3) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.org/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
+ * :Expert: `Python <https://pypi.python.org/pypi/ansicolortags>`_ (2 et 3) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.io/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
  * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://perso.crans.org/besson/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://perso.crans.org/besson/publis/Bomberman/>`_.
- * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.org/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.org/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
+ * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.io/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.io/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
  * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
 
 Informatique pratique
 ---------------------
 * :Systèmes d'exploitation: très compétent en général (*Microsoft Windows*, *Mac OS X*, *Android*), et surtout avec **GNU/Linux** (**Ubuntu**);
 * :Édition de texte: expert, notamment avec `Gedit <http://perso.crans.org/besson/publis/gedit/>`_ & `GNU Nano <http://perso.crans.org/besson/NanoSyntax.html>`_, `Spyder <https://pythonhosted.org/spyder/installation.html>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
-* :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://perso.crans.org/besson/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.org/md/>`_ & `reStructuredText <http://perso.crans.org/besson/demo.html>`_ (*pour des slides, des pages webs ou des articles*).
+* :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://perso.crans.org/besson/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.io/md/>`_ & `reStructuredText <http://perso.crans.org/besson/demo.html>`_ (*pour des slides, des pages webs ou des articles*).
 
 Divers
 ------
@@ -136,15 +136,15 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 
    Pour le premier trimestre (automne 2015) :
 
-    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.org/pcs2016>`_ (algorithmes probabilistes pour factorisation de matrices, notamment les matrices de petit rang), noté :blue:`19/20`;
-    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.org/pgm2016>`_ (comparaison avec les *Hidden Markov Models* et *Gaussian Mixture Models*), noté :blue:`16/20`;
-    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.org/gml2016>`_ (apprentissage automatique de stratégies pour jouer à des jeux de plateau, à partir d'une base de donnée de parties jouées par des experts non optimaux, agrégation et vote optimal d'un ensemble d'experts), noté :blue:`18/20`;
+    - `Parcimonie and Compressed Sensing : « Random factorization for low-rank matrices » <http://lbesson.bitbucket.io/pcs2016>`_ (algorithmes probabilistes pour factorisation de matrices, notamment les matrices de petit rang), noté :blue:`19/20`;
+    - `Probabilistic Graphical Models : « Hidden semi-Markov Models » <http://lbesson.bitbucket.io/pgm2016>`_ (comparaison avec les *Hidden Markov Models* et *Gaussian Mixture Models*), noté :blue:`16/20`;
+    - `Reinforcement Learning / Graphs in Machine Learning : « Multi-Expert board-game Inference » <http://lbesson.bitbucket.io/gml2016>`_ (apprentissage automatique de stratégies pour jouer à des jeux de plateau, à partir d'une base de donnée de parties jouées par des experts non optimaux, agrégation et vote optimal d'un ensemble d'experts), noté :blue:`18/20`;
 
    Pour le second trimestre (printemps 2016) :
 
-    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.org/kernel2016>`_, noté :blue:`17.3/20`;
-    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.org/brain2016>`_, noté :blue:`17.64/20`;
-    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.org/neuro2016>`_, noté :blue:`17.5/20`.
+    - `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`_, noté :blue:`17.3/20`;
+    - `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`_, noté :blue:`17.64/20`;
+    - `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`_, noté :blue:`17.5/20`.
 
 Pour finir mon M2, j'ai fait un stage de recherche
 --------------------------------------------------

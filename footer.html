@@ -30,7 +30,7 @@ N&#8217;hésitez pas à <a class="reference external" href="https://bitbucket.or
 <p class="first admonition-title">Voir aussi</p>
 <dl class="last docutils">
 <dt>Autoindex-Strapdown</dt>
-<dd><a href="http://ais.habilis.net/">Autoindex-Strapdown</a> est aussi un projet intéressant, utilisant à la fois les propriétés <a class="reference external" href="http://httpd.apache.org/docs/2.2/mod/mod_autoindex.html">Apache&#8217;s mod_autoindex directory listings</a> et le super projet <a class="reference external" href="http://lbesson.bitbucket.org/md/">StapDown.js</a>.</dd>
+<dd><a href="http://ais.habilis.net/">Autoindex-Strapdown</a> est aussi un projet intéressant, utilisant à la fois les propriétés <a class="reference external" href="http://httpd.apache.org/docs/2.2/mod/mod_autoindex.html">Apache&#8217;s mod_autoindex directory listings</a> et le super projet <a class="reference external" href="http://lbesson.bitbucket.io/md/">StapDown.js</a>.</dd>
 </dl>
 </div>
 </div>
@@ -152,7 +152,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 +" - <b>h</b> : affiche <i>ce message d'aide</i>,</br>\n"
 +" - <b>i</b> : retourne à l'index,</br>\n"
 +" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut),</br>\n"
-+" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
++" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 Mots/min, j'arrive à monter à 1200 sur du texte que je connais, ET VOUS ?!?\" href=\"http://lbesson.bitbucket.io/squirt/\">SquirtFR</a>,</br>\n"
 +" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"alaskabombeh.fr.html\">page précédente</a>,</br>\n"
 +" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"autostop.fr.html\">page suivante</a>,</br>\n"
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
@@ -174,10 +174,10 @@ Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
     + ".</br></br>\n© Lilian BESSON 2011-2014.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });
   Mousetrap.bind(["q"], function(){
-    console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
-    // Embed http://lbesson.bitbucket.org/squirt !
-    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='http://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
-    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
+    console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.io/squirt/squirt.js?src=layout.html");
+    // Embed http://lbesson.bitbucket.io/squirt !
+    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='http://lbesson.bitbucket.io/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
+    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"http://lbesson.bitbucket.io/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
   } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
    setTimeout( function(){ NProgress.done(); }, 1000);
