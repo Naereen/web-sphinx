@@ -214,8 +214,8 @@
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() {  // '%d %m %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "07 01 2017, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "07";
+   var last_updated_value = "{{ last_updated }}" || "21 01 2017, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "21";
     var month = last_updated_value.substring(3,  5 ) || "01";
     var year  = last_updated_value.substring(6,  10) || "2017";
     var hours = last_updated_value.substring(12, 14) || "12";
