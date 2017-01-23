@@ -119,8 +119,8 @@ $(document).ready(function(){
    //          type: 'error', layout: 'center', timeout: 20000});
    //      }}]
    //  }) }, 5000);
-   // Happy New Year button, just during the holidays
-   setTimeout(function(){ noty({
+   // Merry Christmas or Happy New Year button, just during the holidays
+   /* setTimeout(function(){ noty({
     text: messages.happynewyear,
     closeWith: ['click'], timeout: 5000,
     buttons: [ // this = button element, $noty = $noty element
@@ -134,7 +134,7 @@ $(document).ready(function(){
           noty({text: messages.success_happynewyear,
             type: 'success', layout: 'center', timeout: 20000});
         }}]
-    }) }, 8000);
+    }) }, 8000); */
    setTimeout(function(){ noty({
     text: messages.likepage, timeout: 5000, closeWith: ['click'],
     buttons: [ // this = button element, $noty = $noty element
