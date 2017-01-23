@@ -202,7 +202,7 @@
 +" - <b>h</b> : affiche <i>ce message d'aide</i>,</br>\n"
 +" - <b>i</b> : retourne à l'index,</br>\n"
 +" - <b>s</b> : permet de choisir le thème parmis trois disponibles : orange, vert et violet (par défaut),</br>\n"
-+" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 mots/min\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a>,</br>\n"
++" - <b>q</b> : lance la lecture rapide, via <a title=\"Réglage par défaut à 600 mots/min\" href=\"https://lbesson.bitbucket.io/squirt/\">SquirtFR</a>,</br>\n"
 {% if prev %}+" - Gauche (<b>←</b> ou <b>p</b>) : <a href=\"{{ prev.link|e }}\">page précédente</a>,</br>\n"{% endif %}
 {% if next %}+" - Droite (<b>→</b> ou <b>n</b>) : <a href=\"{{ next.link|e }}\">page suivante</a>,</br>\n"{% endif %}
 +"</br>\n Abonnez-vous à un de mes flux RSS :</br>\n"
@@ -214,8 +214,8 @@
  Mousetrap.bind(["i"], function() { alert("Going to index.html"); location.href="index.html";});
 {% if next %}Mousetrap.bind(["right", "n"], function() { alert("Going to next <a href=\"{{ next.link|e }}\">{{ next.link|e }}</a>"); location.href="{{ next.link|e }}";});{% endif %}
 {% if last_updated %}Mousetrap.bind(["u"], function() {  // '%d %m %Y, %Hh:%Mm:%Ss'
-   var last_updated_value = "{{ last_updated }}" || "21 01 2017, 12h:00m:00s";
-    var day   = last_updated_value.substring(0,  2 ) || "21";
+   var last_updated_value = "{{ last_updated }}" || "23 01 2017, 12h:00m:00s";
+    var day   = last_updated_value.substring(0,  2 ) || "23";
     var month = last_updated_value.substring(3,  5 ) || "01";
     var year  = last_updated_value.substring(6,  10) || "2017";
     var hours = last_updated_value.substring(12, 14) || "12";
@@ -226,10 +226,10 @@
     + ".</br></br>\nCréé par Lilian Besson, © 2011-2017.</br>\n <small>Merci au plugin jQuery.TimeAgo pour le calcul !</small>", {layout:'center', type:'success'});
  });{% endif %}
   Mousetrap.bind(["q"], function(){
-    // console.log("[INFO] Loading SquirtFR from http://lbesson.bitbucket.org/squirt/squirt.js?src=layout.html");
-    // Embed http://lbesson.bitbucket.org/squirt !
-    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='http://lbesson.bitbucket.org/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
-    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"http://lbesson.bitbucket.org/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
+    console.log("[INFO] Loading SquirtFR from https://lbesson.bitbucket.io/squirt/squirt.js?src=layout.html");
+    // Embed https://lbesson.bitbucket.io/squirt !
+    sq=window.sq;if(sq&&sq.closed){window.sq.closed&&window.document.dispatchEvent(new Event('squirt.again'));}else{sq=window.sq||{};sq.version='0.4';sq.host='https://lbesson.bitbucket.io/squirt';sq.j=document.createElement('script');sq.j.src=sq.host+'/squirt.js?src=layout.html';document.body.appendChild(sq.j);}
+    alert("<i>Chargement en cours</i> de <a title=\"Plus de détails sur l'installation du signapplet SquirtFR !\" href=\"https://lbesson.bitbucket.io/squirt/\">SquirtFR</a> pour lire cette page <b>plus vite</b> que dans vos rêves les plus fous !", {timeout: 50000});
   } );
 // Put here all JS code, and its dependencies before closing the $(document).ready call
    setTimeout( function(){ NProgress.done(); }, 1000);
