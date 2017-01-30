@@ -197,6 +197,7 @@ For more details, see `<sitemap.en.html>`_.
    top10.en
    hitch-hiking.en
    packing.en
+   bitbucket-features.en
    plume-air-paris.en
    self-quantified.en
    README

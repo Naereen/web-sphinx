@@ -6,8 +6,8 @@
 .. raw:: html
 
    <noscript><span style="color:red">
-   Attention: votre navigateur semble ne pas supporter Javascript !</span>
-   <a href="http://www.enable-javascript.com/fr/" target="_blank">Apprendre comment activer javascript !</a>
+   Attention : votre navigateur semble ne pas supporter javascript !</span>
+   <a href="http://www.enable-javascript.com/fr/" target="_blank">Apprendre comment activer javascript ?</a>
    </noscript>
 
 

@@ -446,7 +446,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    freedns
    dyndns
    time
-   embed
+   bitbucket-features.fr
    sparkline
    plume-air-paris.fr
    self-quantified.fr

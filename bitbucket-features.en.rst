@@ -1,24 +1,21 @@
 .. meta::
-   :description lang=fr: Page décrivant des scripts sympas sur lesquels je travaille (expérimental)
-   :description lang=en: Description of some nice scripts I work on (experimental)
+   :description lang=en: Description and examples of some hidden features of Bitbucket
+   :description lang=fr: Page décrivant des fonctionnalités peu connues de Bitbucket
 
-############################################################################################
- Scripts et terrain de jeu : utilisation concrète de certaines fonctionnalités de Bitbucket
-############################################################################################
+###############################################################
+ Examples of concrete use of some hidden features of Bitbucket
+###############################################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.en.rst
 
 ---------------------------------------------------------------------
 
+.. todo:: Finish this translation!
+
 À-propos
 --------
-Cette page est là pour décrire certains **scripts** (en Bash, Python, JavaScript notamment)
-stockés dans les dépôts
-`web-sphinx-scripts <https://bitbucket.org/lbesson/web-sphinx-scripts>`_, et
-`home <https://bitbucket.org/lbesson/home>`_.
-
-Mais aussi pour tester des fonctionnalités sympas offertes par `bitbucket <https://bitbucket.org>`_
-(vous savez, le concurrent de github, dont je `participe activement à la traduction <transifex.html>`_).
+Cette page est là pour décrire et tester des fonctionnalités sympas offertes par `Bitbucket <https://Bitbucket.org>`_
+(vous savez, le concurrent de `GitHub <https://GitHub.com>`_, pour lequel `j'ai participé activement à la traduction <transifex.html>`_ et que j'apprécie beaucoup).
 
 
 .. sidebar:: Retourner à l'accueil
@@ -30,17 +27,17 @@ Mais aussi pour tester des fonctionnalités sympas offertes par `bitbucket <http
 
 Liens directs
 -------------
-Historique pour un fichier
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Par exemple: pour `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-node/master/PDFCompress>`_.
+Historique complet pour un fichier
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Par exemple : pour mon script `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-node/master/PDFCompress>`_.
 
 Une ligne spécifique
 ^^^^^^^^^^^^^^^^^^^^
-Par exemple: pour `.bashrc <https://bitbucket.org/lbesson/home/src/master/.bashrc#cl-441>`_ à la ligne 441.
+Par exemple : pour mon fichier `.bashrc <https://bitbucket.org/lbesson/bin/src/master/.bashrc#cl-441>`_, à la ligne 441.
 
 Fichier direct
 ^^^^^^^^^^^^^^
-Par exemple: pour `bin/series.sh <https://bitbucket.org/lbesson/bin/raw/master/series.sh>`_.
+Par exemple : pour mon script `bin/series.sh <https://bitbucket.org/lbesson/bin/raw/master/series.sh>`_.
 
 Inclure un fichier avec ``?t=embed``
 ------------------------------------
@@ -48,7 +45,7 @@ Comment ça marche ?
 ^^^^^^^^^^^^^^^^^^^
 Motif
 ~~~~~
-Bitbucket.org permet d'inclure un fichier (avec coloration syntaxique et tout)
+`Bitbucket.org <https://Bitbucket.org>`_ permet d'inclure un fichier (avec coloration syntaxique et tout)
 facilement, avec le morceau de code ``HTML`` suivant :
 
 .. code-block:: html
@@ -60,9 +57,9 @@ Exemple
 ~~~~~~~
 Il faut remplacer :
 
- #. *PSEUDO* par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
- #. *REPOSITORY* par le nom du dépôt (par exemple, pour moi, `bin <https://bitbucket.org/lbesson/bin>`_);
- #. *PATH* par le chemin du fichier (par exemple, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ qui est aussi `ici bin/pdflatex localement <bin/pdflatex>`_).
+ #. ``PSEUDO`` par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
+ #. ``REPOSITORY`` par le nom du dépôt (par exemple, pour moi, `bin <https://bitbucket.org/lbesson/bin>`_);
+ #. ``PATH`` par le chemin du fichier (par exemple, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ qui est aussi `ici bin/pdflatex localement <bin/pdflatex>`_).
 
 Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
 

@@ -33,7 +33,7 @@ Liste (non exhaustive) des autres utilisations de JS
 * Pour déterminer quel serveur est utilisé (afin d'afficher l'image de NGinx ou d'Apache) en bas,
 * Pour ajouter des ``alert`` dans `<gnuplot.html>`_, `<ocaml.html>`_ ou encore `<python.html>`_,
 * Pour embarquer un graphique de progression de la traduction de Bitbucket.org sur `<transifex.fr.html>`_ et `<transifex.en.html>`_,
-* Pour embarquer un fichier hébergé sur Bitbucket dans `<embed.html>`_,
+* Pour embarquer un fichier hébergé sur Bitbucket dans `<bitbucket-features.fr.html>`_,
 * Pour un test dans `<sparkline.html>`_,
 * Pour embarquer `SquirtFR`_, via le raccourcis clavier "q",
 * Pour le changement de style, via le raccourcis clavier "s", pour changer le style de couleur (violet, orange, ou vert),

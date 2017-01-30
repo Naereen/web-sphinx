@@ -1,0 +1,13 @@
+.. warning:: Javascript is required!
+
+   This web page embeds some small programs written in `javascript <https://developer.mozilla.org/fr/docs/javascript>`_.
+   This should work in *any recent web browser*, supporting *javascript* (and it should not be disabled).
+
+.. raw:: html
+
+   <noscript><span style="color:red">Warning: your browser does not seem to support javascript!</span>
+   <a href="http://www.enable-javascript.com/fr/" target="_blank">Learn how to enable javascript?</a>
+   </noscript>
+
+
+.. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
