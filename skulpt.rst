@@ -2,7 +2,7 @@
  Un **toplevel** ``Python`` embarqué (version **Skulpt**)
 ##########################################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ------------------------------------------------------------------------------
 

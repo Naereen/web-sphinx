@@ -6,7 +6,7 @@
  Exemples d'utilisation concrète de certaines fonctionnalités de Bitbucket
 ###########################################################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ---------------------------------------------------------------------
 

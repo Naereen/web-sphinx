@@ -2,7 +2,7 @@
  Un éditeur de texte intégré
 ##############################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ------------------------------------------------------------------------------
 

@@ -2,7 +2,7 @@
  Une horloge *en base 3*
 #########################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ------------------------------------------------------------------------------
 

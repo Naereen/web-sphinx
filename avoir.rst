@@ -1,7 +1,7 @@
 ###############################
  Expériences faites et à faire
 ###############################
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 .. note:: Page de démos (faites et à faire)
 

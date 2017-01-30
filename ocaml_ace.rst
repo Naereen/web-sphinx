@@ -2,7 +2,7 @@
  Un **toplevel** ``OCaml`` embarqué (avec l'éditeur ACE)
 #########################################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ------------------------------------------------------------------------------
 

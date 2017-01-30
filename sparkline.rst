@@ -6,7 +6,7 @@
  Démonstration de JQuery SparkLine
 ###################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ---------------------------------------------------------------------
 

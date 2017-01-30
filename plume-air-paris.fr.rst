@@ -6,7 +6,7 @@
  Estimation de la qualité de l'air à Paris
 ###########################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 Cette page montre une petite démonstration :
 

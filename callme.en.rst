@@ -87,7 +87,7 @@ at the following addresses (listed by decreasing preference):
    </script>
 
 
-.. include:: .javascript.rst
+.. include:: .javascript.en.rst
 
 
 Emails

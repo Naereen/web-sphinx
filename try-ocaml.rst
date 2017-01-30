@@ -2,7 +2,7 @@
  Un **toplevel** ``OCaml`` embarqué (version Try OCaml)
 ########################################################
 
-.. include:: .javascript.rst
+.. include:: .javascript.fr.rst
 
 ------------------------------------------------------------------------------
 
