@@ -61,7 +61,7 @@ img.languageswitch {
 #scrollUpLeft {
     bottom: 50px; left:   212px;
     height: 38px; width:  38px;
-    background: url('http://perso.crans.org/besson/_images/.top.png');
+    background: url('//perso.crans.org/besson/_images/.top.png');
 }
 
 @media (max-width: 680px){
@@ -114,6 +114,6 @@ div.myfolders { font-size: x-large; }
         transition: all 0.2s ease 0s;
     }
     .social-icons li a.facebook {
-        background-image: url('http://perso.crans.org/besson/_images/.facebook.png');
+        background-image: url('//perso.crans.org/besson/_images/.facebook.png');
         display: block; margin-left: auto; margin-right: auto;
     }
