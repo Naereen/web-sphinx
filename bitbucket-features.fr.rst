@@ -15,12 +15,6 @@
 Cette page est là pour décrire et tester des fonctionnalités sympas offertes par `Bitbucket <https://Bitbucket.org>`_
 (vous savez, le concurrent de `GitHub <https://GitHub.com>`_, pour lequel `j'ai participé activement à la traduction <transifex.html>`_ et que j'apprécie beaucoup).
 
-
-.. sidebar:: Retourner à l'accueil
-
-   Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
-
-
 ---------------------------------------------------------------------
 
 Liens directs
@@ -59,7 +53,7 @@ Il faut remplacer :
  #. ``REPOSITORY`` par le nom du dépôt (par exemple, pour moi, `bin <https://bitbucket.org/lbesson/bin>`_);
  #. ``PATH`` par le chemin du fichier (par exemple, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ qui est aussi `ici bin/pdflatex localement <bin/pdflatex>`_).
 
-Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
+Ainsi, le code ``HTML`` embarqué dans l'exemple plus bas est :
 
 .. code-block:: html
 
@@ -94,8 +88,8 @@ Un fichier rST (celui de cette page !)
 
 .. raw:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/web-sphinx/src/master/embed.rst?embed=t">Fichier embed.rst</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/embed.rst">embed.rst</a>.</noscript>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/web-sphinx/src/master/bitbucket-features.fr.rst?embed=t">Fichier bitbucket-features.fr.rst</script>
+   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/bitbucket-features.fr.rst">bitbucket-features.fr.rst</a>.</noscript>
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

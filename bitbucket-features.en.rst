@@ -10,94 +10,86 @@
 
 ---------------------------------------------------------------------
 
-.. todo:: Finish this translation!
-
-À-propos
---------
-Cette page est là pour décrire et tester des fonctionnalités sympas offertes par `Bitbucket <https://Bitbucket.org>`_
-(vous savez, le concurrent de `GitHub <https://GitHub.com>`_, pour lequel `j'ai participé activement à la traduction <transifex.html>`_ et que j'apprécie beaucoup).
-
-
-.. sidebar:: Retourner à l'accueil
-
-   Si cette page ne vous intéresse pas, allez plutôt consulter `celle là <index.html>`_.
-
+About this page
+---------------
+This page demonstrates some hidden features of the awesome website `Bitbucket <https://Bitbucket.org>`_
+(you know, the Australian concurrent of `GitHub <https://GitHub.com>`_, to which `I participated in his French translation <transifex.html>`_ and that I enjoy very much).
 
 ---------------------------------------------------------------------
 
-Liens directs
--------------
-Historique complet pour un fichier
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Par exemple : pour mon script `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-node/master/PDFCompress>`_.
+Direct links
+------------
+Complete historic for a file
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For example: for my script `bin/PDFCompress <https://bitbucket.org/lbesson/bin/history-node/master/PDFCompress>`_.
 
-Une ligne spécifique
-^^^^^^^^^^^^^^^^^^^^
-Par exemple : pour mon fichier `.bashrc <https://bitbucket.org/lbesson/bin/src/master/.bashrc#cl-441>`_, à la ligne 441.
+To a specific line
+^^^^^^^^^^^^^^^^^^
+For example: for my file `.bashrc <https://bitbucket.org/lbesson/bin/src/master/.bashrc#cl-441>`_, directly to the line 441.
 
-Fichier direct
-^^^^^^^^^^^^^^
-Par exemple : pour mon script `bin/series.sh <https://bitbucket.org/lbesson/bin/raw/master/series.sh>`_.
+Direct file
+^^^^^^^^^^^
+For example: for my script `bin/series.sh <https://bitbucket.org/lbesson/bin/raw/master/series.sh>`_.
 
-Inclure un fichier avec ``?t=embed``
-------------------------------------
-Comment ça marche ?
-^^^^^^^^^^^^^^^^^^^
-Motif
-~~~~~
-`Bitbucket.org <https://Bitbucket.org>`_ permet d'inclure un fichier (avec coloration syntaxique et tout)
-facilement, avec le morceau de code ``HTML`` suivant :
+Include a file with ``?t=embed``
+--------------------------------
+How does it work?
+^^^^^^^^^^^^^^^^^
+Pattern
+~~~~~~~
+`Bitbucket.org <https://Bitbucket.org>`_ allows to include a file (with syntax coloring)
+easily, with the following piece of ``HTML`` code:
 
 .. code-block:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/PSEUDO/REPOSITORY/src/master/PATH?t=embed"></script>
+   <script type="text/javascript" src="https://bitbucket.org/NAME/REPOSITORY/src/master/PATH?t=embed"></script>
 
 
-Exemple
+Example
 ~~~~~~~
-Il faut remplacer :
+You have to replace:
 
- #. ``PSEUDO`` par votre nom d'utilisateur bitbucket (pour moi, c'est `lbesson <https://bitbucket.org/lbesson>`_);
- #. ``REPOSITORY`` par le nom du dépôt (par exemple, pour moi, `bin <https://bitbucket.org/lbesson/bin>`_);
- #. ``PATH`` par le chemin du fichier (par exemple, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ qui est aussi `ici bin/pdflatex localement <bin/pdflatex>`_).
+ #. ``NAME`` by your Bitbucket username (for me, it is `lbesson <https://bitbucket.org/lbesson>`_);
+ #. ``REPOSITORY`` by the name of the repository (for instance, for me, `bin <https://bitbucket.org/lbesson/bin>`_);
+ #. ``PATH`` by the complete path to the file (for instance, `pdflatex <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ which is also `here bin/pdflatex localement <bin/pdflatex>`_).
 
-Ainsi, donc dans l'exemple plus bas, le code ``HTML`` embarqué dans l'exemple plus bas est :
+And so, in the example below, the ``HTML`` code embedded is:
 
 .. code-block:: html
 
    <script type="text/javascript" src="https://bitbucket.org/lbesson/src/master/pdflatex?t=embed"></script>
 
 
-En reStructuredText
+In reStructuredText
 ~~~~~~~~~~~~~~~~~~~
-Enfin, j'inclue ça dans une page générée avec Sphinx avec le code ``rST`` suivant :
+And finally, we can include this in a webpage generated with Sphinx thanks to the following piece of ``rST`` code:
 
 .. code-block:: rst
 
    .. raw:: html
 
-      <script type="text/javascript" src="https://bitbucket.org/lbesson/src/master/pdflatex?embed=t">Fichier bin/pdflatex</script>
-      <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
+      <script type="text/javascript" src="https://bitbucket.org/lbesson/src/master/pdflatex?embed=t">File bin/pdflatex</script>
+      <noscript>Javascript is disabled, impossible to include this file <a href="https://bitbucket.org/lbesson/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
 
 
-Exemples
+Examples
 ^^^^^^^^
 bin/pdflatex
 ~~~~~~~~~~~~
 
 .. raw:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/bin/src/master/pdflatex?embed=t">Fichier bin/pdflatex</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/bin/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/bin/src/master/pdflatex?embed=t">File bin/pdflatex</script>
+   <noscript>Javascript is disabled, impossible to include this file <a href="https://bitbucket.org/lbesson/bin/raw/master/pdflatex">bin/pdflatex</a>.</noscript>
 
 
-Un fichier rST (celui de cette page !)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A rST file (the source code of this page!)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
-   <script type="text/javascript" src="https://bitbucket.org/lbesson/web-sphinx/src/master/embed.rst?embed=t">Fichier embed.rst</script>
-   <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/embed.rst">embed.rst</a>.</noscript>
+   <script type="text/javascript" src="https://bitbucket.org/lbesson/web-sphinx/src/master/bitbucket-features.en.rst?embed=t">File bitbucket-features.en.rst</script>
+   <noscript>Javascript is disabled, impossible to include this file <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/bitbucket-features.en.rst">bitbucket-features.en.rst</a>.</noscript>
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
