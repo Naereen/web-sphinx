@@ -10,8 +10,8 @@
 {% extends "!layout.html" %}
 {% block doctype %}<!DOCTYPE html>{% endblock %}
 {% block rootrellink %}
- <li><a href="http://perso.crans.org/besson/" title="Page principale">
-  <img src="{{ pathto('_static/.besson.png', true)|e }}" alt="http://perso.crans.org/besson/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
+ <li><a href="//perso.crans.org/besson/" title="Page principale">
+  <img src="{{ pathto('_static/.besson.png', true)|e }}" alt="//perso.crans.org/besson/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
  <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
 {% endblock %}
 {# Expériences. Liste des blocks utilisables.
@@ -115,14 +115,14 @@
     "message":   "This website uses cookies to tweak its display. ",
     "dismiss":   "Got it, thanks for letting me know! I agree!",
     "learnMore": "More info?",
-    "link":      "http://perso.crans.org/besson/cookies.en.html",
+    "link":      "//perso.crans.org/besson/cookies.en.html",
   };
   if (e == '.fr.html') {
     window.cookieconsent_options = {
       "message":   "Ce site utilise des cookies pour personnaliser l'affichage. ",
       "dismiss":   "OK, merci de prévenir. D'accord !",
       "learnMore": "Plus d'informations ?",
-      "link":      "http://perso.crans.org/besson/cookies.fr.html",
+      "link":      "//perso.crans.org/besson/cookies.fr.html",
     };
   };
  </script>
