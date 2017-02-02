@@ -104,6 +104,11 @@ Bravo à eux, leur site est parfaitement bien conçu, il contient toutes les inf
 
 Ce (vieux) `wiki dédié à Sublime Text <http://sublime-text-community-packages.googlecode.com/svn/pages/This-site.html>`_ peut aussi aider.
 
+.. seealso::
+
+   Ces listes (en anglais) donnent aussi de très bons conseils, voir `djyde/awesome-sublime-packages <https://github.com/djyde/awesome-sublime-packages>`_, `JaredCubilla/sublime <https://github.com/JaredCubilla/sublime>`_, `dreikanter/sublime-bookmarks <https://github.com/dreikanter/sublime-bookmarks>`_.
+
+
 ---------------------------------------------------------------------
 
 Mon utilisation de Sublime Text 3
