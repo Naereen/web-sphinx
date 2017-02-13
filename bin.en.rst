@@ -243,7 +243,7 @@ A few scripts to play with "quotes"
   The *bot* has a minimalist UI, it can be slowed down, speeded up or stopped from `reactions posted <https://api.slack.com/methods/reactions.get>`_ by users of the Slack conversation in which the quotes are posted
   (`:+1:` doubles the frequency while `:-1:` divides it by two, and `:rage:` stops the bot).
 
-  :État: *Works*. Cool but can quickly be annoying!
+  :State: *Works*. Cool but can quickly be annoying!
 
 
 * `changemotd.sh <bin/changemotd.sh>`_,
