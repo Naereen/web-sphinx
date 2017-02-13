@@ -241,8 +241,8 @@ Quelques scripts pour jouer avec des citations
 * `my-small-slack-bot.py <bin/my-small-slack-bot.py>`_,
   est un petit programme qui se connecte à une équipe `Slack <https://slack.com/>`_
   et poste des citations aléatoires, lues dans le fichier `~/.quotes.txt <publis/.quotes.txt>`_, à des temps réguliers (toutes les heures, par exemple).
-  Le *bot* est peut être ralenti, accéléré ou stoppé par les réactions des utilisateurs de la conversation Slack dans laquelle les citations sont postées
-  (`:+1:` double la fréquence, `:-1` la divise par deux, et `:rage:` arrête le script).
+  Le *bot* est peut être ralenti, accéléré ou stoppé par les `réactions des utilisateurs <https://api.slack.com/methods/reactions.get>`_ de la conversation Slack dans laquelle les citations sont postées
+  (`:+1:` double la fréquence, `:-1:` la divise par deux, et `:rage:` arrête le script).
 
   :État: *Fonctionnel*. Et très chiant.
 
