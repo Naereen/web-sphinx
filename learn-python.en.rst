@@ -30,6 +30,10 @@ To start learning Python, I recommend...
 
    These awesome lists also give very good advices, see `kirang89/pycrumbs <https://github.com/kirang89/pycrumbs>`_, `svaksha/pythonidae <https://github.com/svaksha/pythonidae>`_, `vinta/awesome-python <https://github.com/vinta/awesome-python>`_.
 
+.. seealso::
+
+   This other article is an excellent presentation about how to learn Python: `dataquest.io/blog/learn-python-the-right-way <https://www.dataquest.io/blog/learn-python-the-right-way/>`_.
+
 .. note:: Matlab is a trademark of MathWorks. And Python is awesome!
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

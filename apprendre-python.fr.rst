@@ -37,6 +37,10 @@ Pour se lancer et apprendre Python, je recommande...
 
    Ces listes (en anglais) donnent aussi de très bons conseils, voir `kirang89/pycrumbs <https://github.com/kirang89/pycrumbs>`_, `svaksha/pythonidae <https://github.com/svaksha/pythonidae>`_, `vinta/awesome-python <https://github.com/vinta/awesome-python>`_.
 
+.. seealso::
+
+   Cet article, en anglais, est une excellente présentation pour apprendre Python : `dataquest.io/blog/learn-python-the-right-way <https://www.dataquest.io/blog/learn-python-the-right-way/>`_.
+
 .. note:: Matlab est une marque déposée de MathWorks. Et Python c'est super !
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
