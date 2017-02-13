@@ -237,6 +237,15 @@ A few scripts to play with "quotes"
   :State: *Cool*.
 
 
+* `my-small-slack-bot.py <bin/my-small-slack-bot.py>`_,
+  is a small program that connects to a `Slack <https://slack.com/>`_ team,
+  and posts random quotes, read from the file `~/.quotes.txt <publis/.quotes.txt>`_, at regular times (every hours, for instance).
+  The *bot* has a minimalist UI, it can be slowed down, speeded up or stopped from reactions posted by users of the Slack conversation in which the quotes are posted
+  (`:+1:` doubles the frequency while `:-1` divide it by two, and `:rage:` stops the bot).
+
+  :État: *Works*. Cool but can quickly be annoying!
+
+
 * `changemotd.sh <bin/changemotd.sh>`_,
   is a script to display or edit the "message of the day" (motd) file (``~/motd``),
   in a terminal by using ``dialog`` or graphically using ``zenity``.
