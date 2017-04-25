@@ -93,6 +93,7 @@ extensions = [
 # You can also give a full http:// URL different from the CDN URL.
 
 # mathjax_path = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
+# mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 # NEW: to load MathJax asynchronously, I add it on .template/layout.html, and I load nprogress.js with mathjax_path instead
 mathjax_path = "nprogress.js"
 
