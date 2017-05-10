@@ -88,11 +88,11 @@ Mes 10 **groupes**/**artistes** préférés
 Mes 10 **chansons** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_,
-- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan>`_, par `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
+- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan+Leonard+Cohen>`_, par `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,
 - `The Hanging Tree <https://www.youtube.com/watch?v=aJISG67FjeM>`_, par `Peter Hollens <https://www.youtube.com/user/peterhollens>`_ ou `cette version <https://www.youtube.com/watch?v=Gw9acT0uFLs>`_ par `Taylor Davis <https://www.youtube.com/user/ViolinTay>`_ (reprise),
 - `Rosanna <https://www.youtube.com/results?search_query=Rosanna+Toto>`_, par `Toto <https://fr.wikipedia.org/wiki/Toto_%28groupe%29>`_,
-- `Nothing Else Matters <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Metallica <https://fr.wikipedia.org/wiki/Metallica>`_,
+- `Nothing Else Matters <https://www.youtube.com/results?search_query=Nothing+Else+Matters+Metallica>`_, par `Metallica <https://fr.wikipedia.org/wiki/Metallica>`_,
 - `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, du jeu `The Legend of Zelda: Link's Awakening <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, en version instrumentale, par `Koji Kondo  <https://fr.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_),
 - `Skyrim : The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, par `Malukah <http://www.malukah.com/>`_ (reprise),
 - `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Comédie Musicale),
@@ -194,9 +194,9 @@ Mes 10 **écrivains** préférés
 - `Bernard-Marie Koltès <https://fr.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (théâtre, 20ème, surtout pour "Retour au désert", "La Nuit Juste Avant les Forêts", "Combat de Nègre et de Chiens", et "Quai Ouest"),
 - `Raymond E. Feist <https://fr.wikipedia.org/wiki/Raymond_Feist>`_ (Américain, 20ème, fantasy),
 - `Jules Verne <https://fr.wikipedia.org/wiki/Jules_Verne>`_ (Français, 19ème, romans réalistes et de *propagande scientifique*, mon préféré étant `"L'Île Mystérieuse" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
+- `Neil Gaiman <https://fr.wikipedia.org/wiki/Neil_Gaiman>`_ (Américain, 20ème et 21ème, fantasy et poésie),
 - `Émile Zola <https://fr.wikipedia.org/wiki/Emile_Zola>`_ (Français, 19ème),
 - `Timothy Zahn <https://fr.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20ème, surtout connu pour sa `trilogie Star Wars (« La Croisade noire du Jedi fou ») <https://fr.wikipedia.org/wiki/La_Croisade_noire_du_Jedi_fou>`_),
-- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (théâtre, 20ème, surtout pour "Les Cendres et Les Lampions" et "À Tous Ceux Qui").
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -88,11 +88,11 @@ My 10 favorite **bands**/**artists**
 My 10 favorite **songs**
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Iron Maiden <https://en.wikipedia.org/wiki/Iron_Maiden>`_,
-- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan>`_, by `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_,
+- `The Partisan <https://www.youtube.com/results?search_query=The+Partisan+Leonard+Cohen>`_, by `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, by `Renaud <https://en.wikipedia.org/wiki/Renaud>`_,
 - `The Hanging Tree <https://www.youtube.com/watch?v=aJISG67FjeM>`_, by `Peter Hollens <https://www.youtube.com/user/peterhollens>`_ or `this version <https://www.youtube.com/watch?v=Gw9acT0uFLs>`_ by `Taylor Davis <https://www.youtube.com/user/ViolinTay>`_ (cover),
 - `Rosanna <https://www.youtube.com/results?search_query=Rosanna+Toto>`_, by `Toto <https://en.wikipedia.org/wiki/Toto_%28band%29>`_,
-- `Nothing Else Matters <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Metallica <https://en.wikipedia.org/wiki/Metallica>`_,
+- `Nothing Else Matters <https://www.youtube.com/results?search_query=Nothing+Else+Matters+Metallica>`_, by `Metallica <https://en.wikipedia.org/wiki/Metallica>`_,
 - `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, of the (legendary) game `The Legend of Zelda: Link's Awakening <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, or instrumental, by `Koji Kondo  <https://en.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_),
 - `Skyrim: The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, by `Malukah <http://www.malukah.com/>`_ (cover),
 - `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy),
@@ -193,9 +193,9 @@ My 10 favorite **book writers**
 - `Howard Philip Lovecraft <https://en.wikipedia.org/wiki/H._P._Lovecraft>`_ (American, early 20th, master of horror short novels),
 - `Bernard-Marie Koltès <https://en.wikipedia.org/wiki/Bernard-Marie_Koltès>`_ (theater, 20th, mainly for "Retour au Désert", "La Nuit Juste Avant Les Forêts", "Combat de Nègre et de Chiens", and "Quai Ouest"),
 - `Raymond E. Feist <https://en.wikipedia.org/wiki/Raymond_Feist>`_ (American, 20th, fantasy),
-- `Jules Verne <https://en.wikipedia.org/wiki/Jules_Verne>`_ (French, 19th, realistic science-related novels, I mainly love `"The Mysterious Island" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
+- `Jules Verne <https://en.wikipedia.org/wiki/Jules_Verne>`_ (French, 19th, realistic science-related novels, I really love `"The Mysterious Island" <https://en.wikipedia.org/wiki/The_Mysterious_Island>`_),
+- `Neil Gaiman <https://en.wikipedia.org/wiki/Neil_Gaiman>`_ (American, 20th and 21st, fantasy and poetry),
 - `Émile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th),
 - `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_),
-- `Noëlle Renaude <https://fr.wikipedia.org/wiki/Noëlle_Renaude>`_ (theater, 20th, mainly "Les Cendres et Les Lampions" and "À Tous Ceux Qui").
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
