@@ -432,7 +432,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    transifex.fr
    python
    skulpt
-   ocaml
+   ocaml.fr
    try-ocaml.fr
    iteri.fr
    gnuplot

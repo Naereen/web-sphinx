@@ -37,7 +37,7 @@ I will keep looking once in a while, and I ever find one, it will be included he
 In the mean time, did you know that there is already two online interpreters on my website, `one for Python <https://www.python.org/>`_, `one for OCaml <https://ocaml.org/>`_ and `one for GNU Plot <http://gnuplot.info/>`_ ?
 
 .. seealso:: `Python (v2.7) online interpreter <skulpt.html>`_, on *my* website, and even `another one for Python <python.html>`_.
-.. seealso:: `OCaml (v3.12) online interpreter <ocaml.html>`_, on *my* website.
+.. seealso:: `OCaml (v3.12) online interpreter <ocaml.fr.html>`_, on *my* website.
 .. seealso:: `GNU Plot (v4.6.6) online interpreter <gnuplot.html>`_, on *my* website.
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

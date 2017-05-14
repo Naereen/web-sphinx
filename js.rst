@@ -31,7 +31,7 @@ Liste (non exhaustive) des autres utilisations de JS
 * Utilisation intelligente de Google Analytics (un seul script pour des pages hébergées en plusieurs endroits),
 * Pour afficher le nom de la page dans la barre supérieure,
 * Pour déterminer quel serveur est utilisé (afin d'afficher l'image de NGinx ou d'Apache) en bas,
-* Pour ajouter des ``alert`` dans `<gnuplot.html>`_, `<ocaml.html>`_ ou encore `<python.html>`_,
+* Pour ajouter des ``alert`` dans `<gnuplot.html>`_, `<ocaml.fr.html>`_ ou encore `<python.html>`_,
 * Pour embarquer un graphique de progression de la traduction de Bitbucket.org sur `<transifex.fr.html>`_ et `<transifex.en.html>`_,
 * Pour embarquer un fichier hébergé sur Bitbucket dans `<bitbucket-features.fr.html>`_,
 * Pour un test dans `<sparkline.html>`_,
@@ -60,7 +60,7 @@ Pas les miens
   pour les terminaux Python embarqués (`<skulpt.html>`_ et `<python.html>`_).
 
 * `toplevel.js <_static/toplevel.js>`_ et `try-ocaml <_static/try-ocaml/>`_
-  pour les terminaux OCaml embarqués (`<ocaml.html>`_ et `<try-ocaml.fr.html>`_).
+  pour les terminaux OCaml embarqués (`<ocaml.fr.html>`_ et `<try-ocaml.fr.html>`_).
 
 * `mousetrap.min.js <_static/mousetrap.min.js>`_ pour définir des raccourcis clavier
   (Allez-y, essayez ! Appuyez sur 'h' ou 'i' ou '→' ou '←' ou 'n' ou 'p', ou 'u' par exemple).

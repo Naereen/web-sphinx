@@ -312,7 +312,7 @@ pour le projet réseau de mon Master 1 (*1-21 MPRI*), auquel j'avais reçu 16.9/
 `PDE_02_2015 <publis/PDE_02_2015>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Solution mathématique et numérique pour une équation différentielle partielle (EDP), venue du monde réelle.
-Implémentation en plusieurs langages, en `Python 2 <python.html>`_ pure (`PDE_02_2015 <PDE_02_2015/>`_), et en `MATLAB/Octave <matlab-clones.fr.html>`_ (`PDE_09_2014 <PDE_09_2014/>`_, aussi en `OCaml pure <ocaml.html>`_ avec `GnuPlot <gnuplot.html>`_ pour l'affichage).
+Implémentation en plusieurs langages, en `Python 2 <python.html>`_ pure (`PDE_02_2015 <PDE_02_2015/>`_), et en `MATLAB/Octave <matlab-clones.fr.html>`_ (`PDE_09_2014 <PDE_09_2014/>`_, aussi en `OCaml pure <ocaml.fr.html>`_ avec `GnuPlot <gnuplot.html>`_ pour l'affichage).
 
 :État: *Recherche* (2014, 2015), mais ça marchait bien.
 

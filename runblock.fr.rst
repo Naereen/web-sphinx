@@ -157,7 +157,7 @@ Il faut d'abord créér un *dictionnaire* vide appelé ``autorun_languages`` :
 
    autorun_languages = {}
 
-Et ensuite ajouter une valeur ``truc`` (un programme valide, comme `gnuplot <gnuplot.html>`_ ou `ocaml <ocaml.html>`_)
+Et ensuite ajouter une valeur ``truc`` (un programme valide, comme `gnuplot <gnuplot.html>`_ ou `ocaml <ocaml.fr.html>`_)
 et ``truc_prefix_chars`` (taille des préfixes)
 pour rendre utilisable la balise ``.. code-block:: truc`` dans les documents reStructuredText (dans *ce* projet seulement) :
 

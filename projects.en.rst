@@ -187,6 +187,7 @@ For more details, see `<sitemap.en.html>`_.
    runblock.en
    transifex.en
    try-ocaml.en
+   ocaml.en
    iteri.en
    opendns.en
    latexonwindows.en

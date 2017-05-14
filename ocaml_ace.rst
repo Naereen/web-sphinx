@@ -82,7 +82,7 @@ Le toplevel
 |    :scale: 130 %                 |    :scale: 40 %               |
 |    :align: right                 |    :align: left               |
 |    :alt: OCaml powered :)        |    :alt: ACE powered :)       |
-|    :target: http://caml.inria.fr |    :target: http://ace.c9.io/ |
+|    :target: http://Caml.Inria.fr |    :target: http://ACE.C9.io/ |
 +----------------------------------+-------------------------------+
 
 ------------------------------------------------------------------------------
@@ -106,7 +106,7 @@ Le toplevel
 
    Et je n'ai pas réussi à la recompiler. Il semblerait que le dossier 'toplevel'
    distribué dans l'archive de js_of_ocaml ne soit pas à jour (dernière modification
-   il y a 14 mois, or la dernière version d'OCaml (4.00.1) est sortie en Octobre).
+   il y a plusieurs années, or la dernière version d'OCaml (4.00.1) est sortie en Octobre).
 
    Et je n'ai ni le temps ni l'envie de le modifier.
 
@@ -147,15 +147,14 @@ Hébergements
 
 Copyrights
 ----------
- * **OCaml** est © et ® INRIA;
+ * **OCaml** est © et ® Inria;
  * **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
-     Pour plus d'infos, voir `ocsigen.org/js_of_ocaml
-     <http://www.ocsigen.org/js_of_ocaml/>`_.
+     Pour plus d'infos, voir `<http://www.ocsigen.org/js_of_ocaml/>`_.
 
 Remerciements
 -------------
- * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_);
- * Merci aux auteurs d'**OCaml**;
+ * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_);
+ * Merci aux auteurs d'**OCaml** (voir `<http://OCaml.org/>`_);
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

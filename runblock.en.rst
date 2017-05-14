@@ -159,7 +159,7 @@ First, we have to create an empty *dictionary* called ``autorun_languages``:
    autorun_languages = {}
 
 
-Then, add a value ``truc`` (which has to be a valid command-line program, like `gnuplot <gnuplot.html>`_ or `ocaml <ocaml.html>`_)
+Then, add a value ``truc`` (which has to be a valid command-line program, like `gnuplot <gnuplot.html>`_ or `ocaml <ocaml.fr.html>`_)
 and ``truc_prefix_chars`` (size of the prefix)
 to enable a new directive ``.. code-block:: truc`` in all your reStructuredText document (in *this* project only):
 

@@ -315,7 +315,7 @@ for the networking project in my Master 1 (course *1-21 MPRI*), for which I rece
 `PDE_02_2015 <publis/PDE_02_2015>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Mathematical and numerical solution to a real-world Partial Dynamic Equation.
-Implementation in several languages, in pure `Python 2 <python.html>`_ (`PDE_02_2015 <PDE_02_2015/>`_), and in `MATLAB/Octave <matlab-clones.en.html>`_ (`PDE_09_2014 <PDE_09_2014/>`_, and also in `pure OCaml <ocaml.html>`_ with `GnuPlot <gnuplot.html>`_ for the display).
+Implementation in several languages, in pure `Python 2 <python.html>`_ (`PDE_02_2015 <PDE_02_2015/>`_), and in `MATLAB/Octave <matlab-clones.en.html>`_ (`PDE_09_2014 <PDE_09_2014/>`_, and also in `pure OCaml <ocaml.en.html>`_ with `GnuPlot <gnuplot.html>`_ for the display).
 
 :State: *Research* (2014, 2015), but it worked well.
 

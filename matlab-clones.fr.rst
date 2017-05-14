@@ -57,6 +57,6 @@ Interpréteur en ligne ? (sur ce site)
 -------------------------------------
 .. seealso:: Liste d'`interpréteur pour GNU Octave (v4) en ligne <online-gnu-octave.fr.html>`_, sur *mon* site.
 .. seealso:: `interpréteur Python (v2.7) en ligne <skulpt.html>`_, sur *mon* site, et même `un autre pour Python <python.html>`_.
-.. seealso:: `interpréteur OCaml (v3.12) en ligne <ocaml.html>`_, sur *mon* site.
+.. seealso:: `interpréteur OCaml (v3.12) en ligne <ocaml.fr.html>`_, sur *mon* site.
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

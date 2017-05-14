@@ -72,14 +72,14 @@ Le toplevel
    :scale: 140 %
    :align: center
    :alt: OCaml powered :)
-   :target: http://caml.inria.fr
+   :target: http://Caml.Inria.fr
 
 ------------------------------------------------------------------------------
 
 .. seealso::
 
    Toplevel OCaml
-      La page `<ocaml.html>`_ présente un toplevel ``OCaml`` plus simpliste,
+      La page `<ocaml.fr.html>`_ présente un toplevel ``OCaml`` plus simpliste,
       non à-jour, mais qui à l'avantage d'être plus simple à mettre en place
       (un seul fichier, `<_static/toplevel.js>`_, pas de jeu de CSS).
 
@@ -92,18 +92,18 @@ Hébergements
 
 Copyrights
 ----------
- * **OCaml** est © et ® INRIA;
+ * **OCaml** est © et ® Inria;
  * **Try OCaml** est © et ® OCaml Pro.
 
 Remerciements
 -------------
  * Merci aux auteurs de **TryOCaml** (`try.ocamlpro.com <http://try.ocamlpro.com/>`_).
    La page de référence pour ces morceaux de code est
-   `github.com/OCamlPro/tryocaml <https://github.com/OCamlPro/tryocaml>`_.
+   `GitHub.com/OCamlPro/tryocaml <https://GitHub.com/OCamlPro/tryocaml>`_.
 
- * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_) même si leur projet se semble plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
+ * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_);
 
- * Merci aux auteurs d'**OCaml**;
+ * Merci aux auteurs d'**OCaml** (voir `<http://OCaml.org/>`_).
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

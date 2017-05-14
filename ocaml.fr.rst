@@ -36,7 +36,7 @@ Le toplevel
 |    :scale: 130 %                 |
 |    :align: right                 |
 |    :alt: OCaml powered :)        |
-|    :target: http://caml.inria.fr |
+|    :target: http://Caml.Inria.fr |
 +----------------------------------+
 
 ------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ Le toplevel
        * leçons intéractives en anglais (plus de support du français avec la v4 !);
        * support du "drag and drop" de fichiers;
        * permet de télécharger l'historique des entrées;
-       * et le mieux : support du module Graphics !
+       * et le mieux : support du module ``Graphics`` !
 
 
 Un exemple de programme OCaml
@@ -85,15 +85,14 @@ Hébergements
 
 Copyrights
 ----------
- * **OCaml** est © et ® INRIA;
+ * **OCaml** est © et ® Inria;
  * **toplevel.js** est obtenu par le compilateur **js_of_ocaml**.
-     Pour plus d'infos, voir `ocsigen.org/js_of_ocaml
-     <http://www.ocsigen.org/js_of_ocaml/>`_.
+     Pour plus d'infos, voir `<http://www.ocsigen.org/js_of_ocaml/>`_.
 
 Remerciements
 -------------
- * Merci aux auteurs de **js_of_ocaml** (voir `ocsigen.org/js_of_ocaml`_) même si leur projet est plus à jour (lwt pas à jour, plus installable avec OCaml 4+, soucis de rétrocompatibilité sur le module Unix etc);
- * Merci aux auteurs d'**OCaml**;
+ * Merci aux auteurs de **js_of_ocaml** (voir `<http://ocsigen.org/js_of_ocaml>`_);
+ * Merci aux auteurs d'**OCaml** (voir `<http://OCaml.org/>`_);
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------------
 
 The terminal
------------
+------------
 .. raw:: html
 
    <!-- <script type="text/javascript" src="jquery.console.js"></script> -->
@@ -79,7 +79,7 @@ The terminal
 .. seealso::
 
    Simple OCaml Toplevel
-      The page `<ocaml.html>`_ embeds a simpler ``OCaml`` terminal,
+      The page `<ocaml.en.html>`_ embeds a simpler ``OCaml`` terminal,
       less up-to date, but which has the advantage of being easier to include
       (a single Javascript file, `<_static/toplevel.js>`_, and no CSS tweaks).
 

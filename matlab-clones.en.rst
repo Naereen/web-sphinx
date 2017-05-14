@@ -57,6 +57,6 @@ Online interpreters? (on this website)
 --------------------------------------
 .. seealso:: A list of `GNU Octave (v4) on-line interpreters <online-gnu-octave.en.html>`_, on *my* website.
 .. seealso:: `Python (v2.7) on-line interpreter <skulpt.html>`_, on *my* website, and even `another one for Python <python.html>`_.
-.. seealso:: `OCaml (v3.12) on-line interpreter <ocaml.html>`_, on *my* website.
+.. seealso:: `OCaml (v3.12) on-line interpreter <ocaml.fr.html>`_, on *my* website.
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
