@@ -42,7 +42,7 @@ The terminal
 .. seealso::
 
    Try Ocaml
-      The `<try-ocaml.fr.html>`_ page embeds the **Try OCaml** toplevel,
+      The `<try-ocaml.en.html>`_ page embeds the **Try OCaml** toplevel,
       copied from `try.ocamlpro.com <http://try.ocamlpro.com>`_, which has the following advantages over the simple terminal embedded on this page:
 
        * a few interactive lessons;
