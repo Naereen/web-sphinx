@@ -370,7 +370,7 @@ Certaines pages présentent aussi l'intégration de projets sympas, écrits en *
 
 #. `<ocaml.html>`_, un toplevel ``OCaml 3.12.1`` complet, directement dans un navigateur web ! Voir l'article `<iteri.html>`_ si OCaml vous intéresse.
 
-#. `<try-ocaml.html>`_, un toplevel ``OCaml 4.00.1`` complet,
+#. `<try-ocaml.fr.html>`_, un toplevel ``OCaml 4.00.1`` complet,
    avec quelques lessons (interactives). Propose désormais une implémentation *in-the-browser* du module ``Graphics`` !
 
 #. `<gnuplot.html>`_, une boucle `REPL <https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>`_
@@ -433,7 +433,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    python
    skulpt
    ocaml
-   try-ocaml
+   try-ocaml.fr
    iteri.fr
    gnuplot
    online-gnu-octave.fr

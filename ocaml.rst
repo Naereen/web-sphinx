@@ -44,7 +44,7 @@ Le toplevel
 .. seealso::
 
    Try Ocaml
-      La page `<try-ocaml.html>`_ présente **Try OCaml**, directement copié
+      La page `<try-ocaml.fr.html>`_ présente **Try OCaml**, directement copié
       depuis `try.ocamlpro.com <http://try.ocamlpro.com>`_, qui présente les
       avantages suivants :
 

@@ -186,6 +186,7 @@ For more details, see `<sitemap.en.html>`_.
    zotero.en
    runblock.en
    transifex.en
+   try-ocaml.en
    iteri.en
    opendns.en
    latexonwindows.en
