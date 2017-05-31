@@ -36,7 +36,7 @@ Une extension Sphinx pour Youtube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Voici, par exemple, la première vidéo du `concert du Trio ELM <https://www.youtube.com/playlist?list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb>`_ donné à l'ENS Cachan en 2014 :
 
-.. youtube:: http://www.youtube.com/watch?v=45Ms9-t-Pr4&list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb&index=2
+.. youtube:: https://www.youtube.com/watch?v=45Ms9-t-Pr4&list=PLPtDOWi65kraB9AgUkcN9NkwIsiT6NRnb&index=2
 
 -----------------------------------------------------------------------------
 
