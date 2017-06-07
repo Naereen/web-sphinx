@@ -206,6 +206,7 @@ For more details, see `<sitemap.en.html>`_.
    mount.en
    demo
    alaskabombeh.en
+   test-tabs.en
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
