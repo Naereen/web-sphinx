@@ -80,6 +80,8 @@ extensions = [
     'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
     ####### http://sphinx-doc.org/ext/extlinks.html
     'sphinx.ext.extlinks',
+    ####### https://github.com/djungelorm/sphinx-tabs
+    'sphinx_tabs.tabs',
 ]
 
 ##############################################################################
