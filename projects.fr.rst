@@ -456,6 +456,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    todo
    avoir
    alaskabombeh.fr
+   test-tabs.fr
    folders
    admin
 

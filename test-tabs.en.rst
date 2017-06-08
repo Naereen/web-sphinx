@@ -1,8 +1,54 @@
-######################################
- Testing Sphinx-Tabs Sphinx extension
-######################################
+############################################
+ Testing the *Sphinx-Tabs* Sphinx extension
+############################################
 
-.. seealso:: https://github.com/djungelorm/sphinx-tabs
+.. include:: .javascript.en.rst
+
+This page tests a `Sphinx extension <https://github.com/djungelorm/sphinx-tabs>`_,
+``sphinx-tabs``, to include tabs in a web-page
+generated with `Sphinx <http://sphinx-doc.org/>`_.
+
+Details
+=======
+
+What are tabs?
+See the examples below, and the ones on `the Semantic UI project <https://semantic-ui.com/modules/tab.html#/examples>`_ and its documentation.
+
+How to `install it <https://github.com/djungelorm/sphinx-tabs#installation>`_?
+Use `pip <http://pip.pypa.io/>`_ it's easy: ::
+
+    $ pip install sphinx-tabs
+
+
+How to `use it and configure it <https://github.com/djungelorm/sphinx-tabs#tabs>`_?
+To configure it, add this line to your ``conf.py`` file
+(see `here for an example my conf.py file <https://bitbucket.org/lbesson/web-sphinx/src/master/conf.py#conf.py-83>`_, as changed in :bbchangeset:`0740414aa24c`):
+
+.. code-block:: python
+
+   extensions.append('sphinx_tabs.tabs')
+
+
+Then, in a reStructuredText file, include something like this:
+
+.. code-block:: rst
+
+   .. tabs::
+
+      .. tab:: Apples
+
+         Apples are green, or sometimes red.
+
+      .. tab:: Pears
+
+         Pears are green.
+
+      .. tab:: Oranges
+
+         Oranges are orange.
+
+
+------------------------------------------------------------------------------
 
 Fruits
 ======
@@ -21,6 +67,7 @@ Fruits
 
       Oranges are orange.
 
+
 Luminaries
 ==========
 
@@ -33,6 +80,7 @@ Luminaries
    .. tab:: Moon
 
       The moon is not a star.
+
 
 Code Tabs
 =========
@@ -58,6 +106,10 @@ Code Tabs
    .. code-tab:: julia
 
          Julia Main Function
+
+   .. code-tab:: ocaml
+
+         OCaml Main Function
 
    .. code-tab:: fortran
 
@@ -94,10 +146,17 @@ Code Tabs
          function main()
          end
 
+   .. code-tab:: ocaml
+
+         let main () =
+            ()
+         ;;
+
    .. code-tab:: fortran
 
          PROGRAM main
          END PROGRAM main
+
 
 Group Tabs
 ==========
@@ -129,3 +188,6 @@ Group Tabs
    .. group-tab:: Windows
 
       Windows Line 2
+
+
+.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
