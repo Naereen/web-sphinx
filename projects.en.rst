@@ -196,6 +196,7 @@ For more details, see `<sitemap.en.html>`_.
    matlab-clones.en
    wolfram.en
    graph.en
+   sphinxtabs.en
    top10.en
    hitch-hiking.en
    packing.en
@@ -206,7 +207,6 @@ For more details, see `<sitemap.en.html>`_.
    mount.en
    demo
    alaskabombeh.en
-   test-tabs.en
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

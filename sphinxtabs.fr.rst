@@ -1,5 +1,9 @@
+.. meta::
+   :description lang=fr: Essai de l'extension Sphinx Sphinx-Tabs
+   :description lang=en: Testing the Sphinx-Tabs Sphinx extension
+
 ###########################################
- Essayons l'extension Sphinx *Sphinx-Tabs*
+ Essai de l'extension Sphinx *Sphinx-Tabs*
 ###########################################
 
 .. include:: .javascript.fr.rst

@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=en: Testing the Sphinx-Tabs Sphinx extension
+   :description lang=fr: Essai de l'extension Sphinx Sphinx-Tabs
+
 ############################################
  Testing the *Sphinx-Tabs* Sphinx extension
 ############################################
