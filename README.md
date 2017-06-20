@@ -3,7 +3,7 @@
 
 [![Website http://perso.crans.org/besson/](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/)
 [![Made with Python v3.5.2+](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Made with Sphinx v1.5.1+](https://img.shields.io/badge/Made%20with-sphinx-1f425f.svg)](http://sphinx-doc.org/)
+[![Made with Sphinx v1.5.1+](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](http://sphinx-doc.org/)
 
 I have been using [Sphinx](http://sphinx-doc.org) [since 2012](https://bitbucket.org/lbesson/web-sphinx/commits/b3a0205a3f2fe288f91e9bceb9f1ac6f6335bce3), and I like it very much!
 (Currently this *project* is in version *2.6*, *public* release!)
@@ -69,20 +69,17 @@ This project use the following software:
 
 To install all these dependencies, use [brew](https://brew.sh/) on Mac OS, or your package manager on Linux/UNIX.
 
-## License
+## License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 This project is released under the **GPLv3 license**, for more details,
 take a look at the [LICENSE file](http://perso.crans.org/besson/LICENSE.html) in the source.
-
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 *Basically, that allow you to use all or part of the project for you own business.*
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bitbucket.org/lbesson/web-sphinx/commits/)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/bitbucket.org/lbesson/web-sphinx/README.md?pixel)](https://bitbucket.org/lbesson/web-sphinx)
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://bitbucket.org/lbesson)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/bitbucket.org/lbesson/web-sphinx/README.md?pixel)](https://bitbucket.org/lbesson/web-sphinx)
