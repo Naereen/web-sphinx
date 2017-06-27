@@ -46,6 +46,10 @@ Pour se lancer et apprendre Python, je recommande...
 
 .. seealso::
 
+   Cet `article de blog <http://www.pgbovine.net/python-teaching.htm>`_ par `Philip Guo <http://www.pgbovine.net/>`_ est aussi intéressant, il explique pourquoi Python est un excellent choix de langage de programmation pour commencer à programmer et découvrir l'informatique.
+
+.. seealso::
+
    Ces listes (en anglais) donnent aussi de très bons conseils, voir `kirang89/pycrumbs <https://github.com/kirang89/pycrumbs>`_, `svaksha/pythonidae <https://github.com/svaksha/pythonidae>`_, `vinta/awesome-python <https://github.com/vinta/awesome-python>`_.
 
 .. note:: MATLAB est une marque déposée de MathWorks ®. Et Python c'est super !

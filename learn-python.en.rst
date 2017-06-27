@@ -39,6 +39,10 @@ To start learning Python, I recommend...
 
 .. seealso::
 
+   This `blog post <http://www.pgbovine.net/python-teaching.htm>`_ by `Philip Guo <http://www.pgbovine.net/>`_ is interesting also, as it explains why Python is a great programming language to start learning about programming and computer science.
+
+.. seealso::
+
    These awesome lists also give very good advice, see `kirang89/pycrumbs <https://github.com/kirang89/pycrumbs>`_, `svaksha/pythonidae <https://github.com/svaksha/pythonidae>`_, `vinta/awesome-python <https://github.com/vinta/awesome-python>`_.
 
 .. note:: MATLAB is a trademark of MathWorks ®. And Python is awesome!
