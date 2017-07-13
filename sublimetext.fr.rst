@@ -49,6 +49,14 @@ Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *
    Vous pouvez aussi essayer la version `3dev <http://www.sublimetext.com/3dev>`_, mise à jour plus souvent (mais elle n'est disponible que pour les utilisateurs enregistrés, i.e. il vous faudra payer une licence -- ce n'est pas mon cas).
 
 
+.. seealso::
+
+   `Visual Studio Code <https://code.visualstudio.com/>`_
+      est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
+      il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
+      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+
+
 Qu'est-ce que Sublime Text ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Sublime Text est un éditeur de texte et de code source, disponible sur de multiples plates-formes.
@@ -318,6 +326,13 @@ Un dernier conseil ?
 ^^^^^^^^^^^^^^^^^^^^
  Comme pour tout logiciel aussi puissant et technique, `Sublime Text 3`_ demande un certain temps d'adaptation.
  Soyez persévérant, ça en vaut la peine.
+
+.. seealso::
+
+   `Visual Studio Code <https://code.visualstudio.com/>`_
+      est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
+      il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
+      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
 
 .. seealso::
