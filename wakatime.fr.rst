@@ -28,7 +28,7 @@ Le but de `WakaTime <https://wakatime.com/>`_ est de proposer aux développeurs 
 Et ils font ça bien, puisque `WakaTime`_ se présente sous trois formes :
 
  - `une interface web <https://wakatime.com/>`_, fort bien conçue, qui permet notamment de visualiser son activité,
- - `une très grande collection <https://wakatime.com/help/getting-started/welcome>`_ de *plugin*, ces petits logiciels (aussi appelés greffons) que vous pouvez facilement ajouter à votre éditeur de texte,
+ - `une très grande collection <https://wakatime.com/help/getting-started/welcome>`_ de *plugin*, ces petits logiciels (aussi appelés greffons) que vous pouvez facilement ajouter à votre `éditeur de texte favori <visualstudiocode.en.html>`_,
  - et `un moyen très facile d'intégrer certains graphiques <https://wakatime.com/share>`_ sur un site web, un blog Twitter, Facebook etc.
 
 Le concept est simple : votre éditeur de texte vous espionne, envois les données en ligne sur les serveurs de `WakaTime`_, et ensuite vous (et les responsables du service, ainsi que la NSA bien-sûr) pouvez librement consulter ces données.
@@ -40,10 +40,12 @@ Dans mon cas
 ------------
 Installation et utilisation de WakaTime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-J'utilise `Sublime Text 3 <sublimetext.fr.html>`_ de façon quasi exclusive, et ce depuis 3 ans.
+J'utilisais `Sublime Text 3 <sublimetext.fr.html>`_ de façon quasi exclusive durant 4 ans.
 Sans surprise, `WakaTime`_ propose un greffon pour `Sublime Text 3`, mon éditeur favori.
 
 `Il s'installe en deux clics <https://packagecontrol.io/packages/WakaTime>`_, et s'intègre à la perfection (discret, charge système minimum, et il peut même accumuler les données et les envoit plus tard si l'ordinateur est déconnecté du réseau).
+
+J'utilise désormais `Visual Studio Code <visualstudiocode.fr.html>`_, et il y a bien sûr aussi une extension pour Wakatime `qui s'installe rapidement <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ aussi.
 
 
 Aperçus des statistiques ?

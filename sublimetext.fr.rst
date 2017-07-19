@@ -223,7 +223,9 @@ Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `pac
    Le but était de pouvoir passer d'une langue à l'autre avec un seul raccourcis clavier...
 
    Ça a donné `ce greffon, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (pour ST3 uniquement), qui marche juste pour le français et l'anglais, mais fait son boulot parfaitement (``ctrl+shift+s`` pour passer entre français, anglais et pas de correction orthographique, et ``ctrl+shift+a`` détecte automatiquement la langue et bascule en français ou en anglais selon le contenu du fichier).
-   Mon greffon sera très bientôt disponible via PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+   Mon greffon est désormais disponible via PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+
+   |Package Control total downloads| |Package Control month downloads| |Package Control day downloads|
 
 
 Petits greffons de personnalisation :
@@ -343,6 +345,14 @@ Un dernier conseil ?
 Crédit additionnel
 ^^^^^^^^^^^^^^^^^^
  Merci à `Jill-Jênn Vie <http://jill-jenn.net/>`_ de m'avoir conseillé `Sublime Text 3`_ (en octobre 2013).
+
+
+.. |Package Control total downloads| image:: https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
+.. |Package Control month downloads| image:: https://img.shields.io/packagecontrol/dm/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
+.. |Package Control day downloads| image:: https://img.shields.io/packagecontrol/dd/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -77,7 +77,7 @@ Studies and past jobs
 
    I like to walk, travel, go camping around France and Europe, mainly by using `hitch-hiking <autostop.en.html>`_.
    I also like using new technologies, and enjoy design small games, or tiny pieces of software or web content
-   (for instance `some nice javascript hacks <http://lbesson.bitbucket.io/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.en.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.html>`_, `Sublime Text 3 <sublimetext.en.html>`_ or `git <tutogit.en.html>`_),
+   (for instance `some nice javascript hacks <http://lbesson.bitbucket.io/README.html>`_), geeky tutorials (e.g. about `ga-beacon <beacon.en.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.html>`_, `Sublime Text 3 <sublimetext.en.html>`_, `git <tutogit.en.html>`_ or more recently `Visual Studio Code <visualstudiocode.en.html>`_),
    or Linux command line tools (`see this page for example <https://bitbucket.org/lbesson/bin>`_).
 
    **A few words about this site**:
@@ -176,6 +176,7 @@ For more details, see `<sitemap.en.html>`_.
    cookies.en
    README
    sublimetext.en
+   visualstudiocode.en
    ga.en
    stats-google-analytics.en
    beacon.en

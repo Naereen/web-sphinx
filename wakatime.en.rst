@@ -28,7 +28,7 @@ The goal of `WakaTime <https://wakatime.com/>`_ is to offer to any developer an 
 And they do the job extremely well, because `WakaTime`_ offers three things:
 
  - `a very nice web interface <https://wakatime.com/>`_, well designed (responsive of course), to visualize your activity,
- - `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-ins,* you know, these small softwares that you can easily add to `your favorite text editor <sublimetext.en.html>`_,
+ - `a really rich collection <https://wakatime.com/help/getting-started/welcome>`_ of *plug-ins,* you know, these small softwares that you can easily add to `your favorite text editor <visualstudiocode.en.html>`_,
  - and `an easy way to embed some charts <https://wakatime.com/share>`_ anywhere on the web.
 
 The concept is quite simple after: your text editor is spying on you and each aspect of your programming activity, to send the data on-line on `WakaTime`_ servers, and then you (and their sys-admins, and the NSA of course) can easily read and use your personal data.
@@ -40,10 +40,12 @@ In my situation
 ---------------
 Installation and use of WakaTime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I am using `Sublime Text 3 <sublimetext.en.html>`_ almost exclusively, and from now 3 years.
+I was using `Sublime Text 3 <sublimetext.en.html>`_ almost exclusively for about 4 years.
 Without any surprise, the `WakaTime`_ team had written a plug-in for `Sublime Text 3`.
 
 `You can install it with two clicks <https://packagecontrol.io/packages/WakaTime>`_, and the plug-in will integrate nicely in `ST3 <sublimetext.en.html>`_ (discrete, minimal system workload, and it can even stores the data in order to send them later if your computer is temporarily disconnected from Internet).
+
+I am now using `Visual Studio Code <visualstudiocode.fr.html>`_, and of course it also has an extension for Wakatime `which can be installed quickly <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ too.
 
 
 Overview of the statistics ?

@@ -68,8 +68,8 @@ Sublime Text incorporates most of the *basic features of a text editor*, includi
 But that awesome text editor offers more advanced features, including:
 
 - *Minimap*: previewing entire file in a sidebar,
-- Selecting and editing in several sections of code in parallel (multi-cursor)
-- Bookmark even within files
+- Selecting and editing in several sections of code in parallel (multi-cursor),
+- Bookmark even within files,
 - Automatic backup,
 - Search and replace with plain text or regular expressions,
 - Support for macros and plug-ins written in `Python <python.html>`_ ,
@@ -220,7 +220,9 @@ For each packet quoted below, a link to the information page on `packagecontrol.
    The goal was to be able to switch from one language to another with only one key shortcut...
 
    It gave `this plugin, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (for ST3 only), which only works for French and English, but does its job perfectly (``ctrl+shift+s`` switches between French, English and no spell-checking, and ``ctrl+shift+a`` guesses between French and English, automatically).
-   My plugin will soon be available through PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+   My plugin is now available through PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
+
+   |Package Control total downloads| |Package Control month downloads| |Package Control day downloads|
 
 
 Small customization plugins:
@@ -340,5 +342,12 @@ Additional credit
 ^^^^^^^^^^^^^^^^^
  Thanks to `Jill-Jênn Vie <http://jill-jenn.net/>`_ for advising me to use `Sublime Text 3`_ (in Octobre 2013).
 
+
+.. |Package Control total downloads| image:: https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
+.. |Package Control month downloads| image:: https://img.shields.io/packagecontrol/dm/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
+.. |Package Control day downloads| image:: https://img.shields.io/packagecontrol/dd/SwitchDictionary.svg
+   :target: https://packagecontrol.io/packages/SwitchDictionary
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

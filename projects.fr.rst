@@ -58,7 +58,7 @@ L'année dernière (2015-16)
     voyager en France (ou en Europe, ou en Inde), principalement en `auto-stop <autostop.fr.html>`_ !
     J'aime particulièrement utiliser les nouvelles technologies, mais aussi développer de petits jeux, logiciels ou des pages web,
     comme par exemple du JavaScript (`StrapDown.js <http://lbesson.bitbucket.io/md/>`_ ou `SquirtFR <http://lbesson.bitbucket.io/squirt/>`_),
-    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.fr.html>`_, ou plus récemment `Sublime Text 3 <sublimetext.fr.html>`_ ou `git <tutogit.fr.html>`_),
+    des tutoriels (e.g. à propos de `ga-beacon <beacon.fr.html>`_, `GNU/Nano <NanoSyntax.html>`_, `Firefox <firefox-extensions.fr.html>`_, `Sublime Text 3 <sublimetext.fr.html>`_, `git <tutogit.fr.html>`_, ou plus récemment `Visual Studio Code <visualstudiocode.fr.html>`_),
     ou encore des outils en lignes de commande pour Linux (des scripts, `plus de détails ici <bin.html>`_ ou
     sur le `dépôt git associé <https://bitbucket.org/lbesson/bin>`_).
 
@@ -412,6 +412,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    cookies.fr
    README
    sublimetext.fr
+   visualstudiocode.fr
    ga.fr
    stats-google-analytics.fr
    beacon.fr
