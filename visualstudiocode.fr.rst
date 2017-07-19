@@ -162,7 +162,7 @@ Scripts de construction
 ~~~~~~~~~~~~~~~~~~~~~~~
 .. sidebar:: Plus d'informations sur la doc' ?
 
-   Cette page `<https://code.visualstudio.com/docs/editor/tasks>`_ décrit entièrement le fonctionnement de ces scripts de construction.
+   Cette page `"tasks" <https://code.visualstudio.com/docs/editor/tasks>`_ décrit entièrement le fonctionnement de ces scripts de construction.
 
 
 Avec VS Code (comme avec d'autres bons éditeurs de texte), il est possible de construire, exécuter ou compiler automatiquement et facilement vos fichiers.
@@ -193,57 +193,56 @@ Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `mar
 
 Petits greffons de personnalisation :
 
-* `Paste and Indent <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent>`_ : paste code with "correct" indentation.
-* `Power Mode <https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode>`_ : your code is powerful, unleash it! Useless but fun!
-* `Select Line Status Bar <https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar>`_ : displays selected lines count in status bar.
-* `Shortcuts <https://marketplace.visualstudio.com/items?itemName=gizak.shortcuts>`_ : add handy shortcuts to your status bar.
-* `Sublime Text Keymap <https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings>`_ : popular Sublime Text keybindings for VS Code.
+* `Paste and Indent <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent>`_ : copie-colle avec l'indentation "qu'il faut".
+* `Power Mode <https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode>`_ : « your code is powerful, unleash it! Useless but fun! »
+* `Select Line Status Bar <https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar>`_ : affiche le nombre de ligne sélectionnée dans la bar de statut.
+* `Shortcuts <https://marketplace.visualstudio.com/items?itemName=gizak.shortcuts>`_ : permet d'ajouter des raccourcis pratiques dans la barre de statut.
+* `Sublime Text Keymap <https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings>`_ : permet d'utiliser directement les raccourcis clavier de Sublime Text.
 
 
 Greffons ajoutant de super fonctionnalités :
 
-* `Align <https://marketplace.visualstudio.com/items?itemName=steve8708.Align>`_ : align text in vscode like the atom-alignment package.
-* `Auto Close Tag <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag>`_ : automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
-* `Bookmarks <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>`_ : mark lines and jump to them.
-* `Color Highlight <https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>`_ : highlight web colors in your editor.
-* `Calculate <https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate>`_ : select some math, evaluate it.
-* `change-case <https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case>`_ : quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
-* `Clipboard History <https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history>`_ : keep a history of your copied items and re-paste if needed.
-* `Gremlins <https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins>`_ : reveal invisible whitespace characters and non-breaking spaces.
-* `Trailing Spaces <https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces>`_ : highlight trailing spaces and delete them in a flash!
-* `WakaTime <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ : Metrics, insights, and time tracking automatically generated from your programming activity.
+* `Align <https://marketplace.visualstudio.com/items?itemName=steve8708.Align>`_ : pour facilement aligner du texte sur plusieurs lignes.
+* `Auto Close Tag <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag>`_ : ferme automatiquement les tags HTML/XML, comme pour Sublime Text.
+* `Bookmarks <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>`_ : marque des lignes et permet d'y revenir rapidement plus tard.
+* `Color Highlight <https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>`_ : surligne en couleur les codes couleurs dans l'éditeur, comme en RGB #ff00ff par exemple.
+* `Calculate <https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate>`_ : évalue rapidement des expressions mathématiques sélectionnées et insert le résultat. Très pratique !
+* `change-case <https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case>`_ : pour changer rapidement la casse de la sélection ou du mot courant (camelCase, CONSTANT_CASE, snake_case, etc).
+* `Clipboard History <https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history>`_ : garde un historique des élements copiés et permet de re-coller depuis l'historique si besoin. Utile si vous n'utilisez pas déjà un gestionnaire de presse-papier. Moi j'utilise `glipper <https://launchpad.net/glipper>`_.
+* `Gremlins <https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins>`_ : affiche les caractères invisibles comme les espaces invisibles et les caractères de largeur nulle, pour les effacer rapidement.
+* `Trailing Spaces <https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces>`_ : affiche les espaces restant en fin de ligne, et permet de les supprimer rapidement !
+* `WakaTime <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ : métriques, informations et temps mesuré automatiquement pour vos activités de programmation. J'aime bien Wakatime, j'en parle `ici (wakatime.html) <wakatime.html>`_.
 
 
 Un meilleur support pour certains langages :
 
-* `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ a debugger extension for bash scripts (using bashdb).
-* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
-* `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : syntax highlighter for cutting edge Python.
-* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies autopep8 to your current file.
-* `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : see git blame information in the status bar.
-* `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : view git log, file or line History.
-* `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : language support for .gitignore files. Lets you pull ``.gitignore`` files from the `<https://github.com/github/gitignore>`_ repository.
-* `HTML Preview <https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode>`_ : a HTML previewer.
-* `HTML Snippets <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets>`_ : full HTML tags including HTML5 Snippets.
-* `IntelliSense for CSS class names <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion>`_ : provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace.
-* `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Format, prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI.
-* `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : Julia Language Support.
-* `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-* `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : all you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
-* `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minify for VS Code. Minify with command, and (optionally) re-minify on save.
-* `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : rich OCaml language support for Visual Studio Code. It really works perfectly well!
-* `Ocaml tuareg-master <https://marketplace.visualstudio.com/items?itemName=muchtrix.ocaml-tuareg-master>`_ : a quick extension to send single OCaml statement (finished with ``;;``) to opened console.
-* `reStructuredText <https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext>`_ : edit reStructuredText (RST, ReST) with accurate live preview!
-* `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_ : format table syntax of Markdown, Textile and reStructuredText.
+* `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ : permet le débogage de scripts bash (avec `bashdb <http://bashdb.sourceforge.net/>`_).
+* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : évaluation de la qualité du code, débogage (y compris multi-microprocessus, applications web), Intellisense, auto-complétion, formattage de code, morceaux de code, tests unitaires, et plus, pour le `langage Python <python.html>`_.
+* `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : meilleure coloration syntaxique pour tous les derniers ajouts au langage Python.
+* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applique `autopep8 <https://pypi.python.org/pypi/autopep8>`_ au fichier courant.
+* `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : affiche des informations de ``git blame`` dans la barre de statut.
+* `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : affiche le journal git, et l'historique pour un fichier ou une ligne précise.
+* `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : supporte les fichiers ``.gitignore``. Permet d'ajouter un fichier ``.gitignore`` facilement depuis la collection `<https://github.com/github/gitignore>`_.
+* `HTML Preview <https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode>`_ : affiche un aperçu automatiquement mis-à-jour pour les fichiers HTML.
+* `HTML Snippets <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets>`_ : tous les tags HTML, y compris pour HTML5.
+* `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Formate (``prettify`` et ``beautify``) pour Javascript, CSS, HTML en utilisant des raccourcis clavier ou le menu contextuel.
+* `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : support pour le langage Julia.
+* `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : support très complet pour éditer des fichiers LaTeX efficacement avec aperçu, compilation, autocomplétion, coloration syntaxique, et plus.
+* `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : tout ce qu'il faut pour éditer des fichiers Markdown (raccourcis clavier, table des matières, aperçu latéral etc).
+* `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minifier les codes Javascript, CSS et HTML, depuis la palette ou en sauvegardant un fichier (optionnel).
+* `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : support très complet du langage OCaml pour Visual Studio Code. Ça marche vraiment très bien !
+* `Ocaml tuareg-master <https://marketplace.visualstudio.com/items?itemName=muchtrix.ocaml-tuareg-master>`_ : petite extension pour envoyer un bloc OCaml (terminé par ``;;``) dans un terminal ouvert.
+* `reStructuredText <https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext>`_ : permet d'éditer des fichiers reStructuredText (RST, ReST) avec un aperçu en temps réel précis !
+* `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_ : formate des tableaux écrits en texte avec la syntaxse Markdown, Textile et reStructuredText.
 
 
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
-* `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
-* `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
-* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
-* `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ adds suggestions and autocomplete for emoji to VS Code.
-* `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
+* `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : correcteur d'orthographe pour les commentaires et les noms de variables dans du code.
+* `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : utilitaire pour sélectionner une couleur et insérer son code CSS.
+* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ : accéder rapidement à la documentation locale via `Dash.app <https://kapeli.com/dash>`_ ou `Zeal <http://zealdocs.org/>`_.
+* `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ : ajoute des suggestions et l'autocomplétion pour des emoji dans Markdown.
+* `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : pareil dans les messages de commit pour Git.
 
 
 .. note:: Purement objective

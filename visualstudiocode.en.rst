@@ -202,27 +202,26 @@ Plugins that add great features:
 * `Align <https://marketplace.visualstudio.com/items?itemName=steve8708.Align>`_ : align text in vscode like the atom-alignment package.
 * `Auto Close Tag <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag>`_ : automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 * `Bookmarks <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>`_ : mark lines and jump to them.
-* `Color Highlight <https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>`_ : highlight web colors in your editor.
+* `Color Highlight <https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>`_ : highlight web colors in your editor, like a RGB #ff00ff code for instance.
 * `Calculate <https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate>`_ : select some math, evaluate it.
 * `change-case <https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case>`_ : quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
-* `Clipboard History <https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history>`_ : keep a history of your copied items and re-paste if needed.
-* `Gremlins <https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins>`_ : reveal invisible whitespace characters and non-breaking spaces.
+* `Clipboard History <https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history>`_ : keep a history of your copied items and re-paste if needed. Useful if you don't use a system-wise clipboard manager. I am using the great `glipper <https://launchpad.net/glipper>`_.
+* `Gremlins <https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins>`_ : reveal invisible whitespace characters and non-breaking spaces, to delete them easily.
 * `Trailing Spaces <https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces>`_ : highlight trailing spaces and delete them in a flash!
-* `WakaTime <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ : Metrics, insights, and time tracking automatically generated from your programming activity.
+* `WakaTime <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ : metrics, insights, and time tracking automatically generated from your programming activity. I like using Wakatime, as I talked `about it here (wakatime.html) <wakatime.html>`_.
 
 
 A better support for some languages:
 
-* `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ a debugger extension for bash scripts (using bashdb).
-* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+* `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ : a debugger extension for bash scripts (using `bashdb <http://bashdb.sourceforge.net/>`_).
+* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more, for the `Python language <python.html>`_.
 * `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : syntax highlighter for cutting edge Python.
-* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies autopep8 to your current file.
-* `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : see git blame information in the status bar.
+* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies `autopep8 <https://pypi.python.org/pypi/autopep8>`_ to your current file.
+* `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : see ``git blame`` information in the status bar.
 * `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : view git log, file or line History.
-* `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : language support for .gitignore files. Lets you pull ``.gitignore`` files from the `<https://github.com/github/gitignore>`_ repository.
+* `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : language support for ``.gitignore`` files. Lets you pull ``.gitignore`` files from the `<https://github.com/github/gitignore>`_ repository.
 * `HTML Preview <https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode>`_ : a HTML previewer.
 * `HTML Snippets <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets>`_ : full HTML tags including HTML5 Snippets.
-* `IntelliSense for CSS class names <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion>`_ : provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace.
 * `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Format, prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI.
 * `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : Julia Language Support.
 * `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
@@ -238,8 +237,8 @@ Heavier plugins, or plugins designed for a specific language:
 
 * `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
 * `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
-* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
-* `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ adds suggestions and autocomplete for emoji to VS Code.
+* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ : quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
+* `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ : adds suggestions and autocomplete for emoji to VS Code.
 * `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
 
 
