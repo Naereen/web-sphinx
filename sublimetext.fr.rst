@@ -331,10 +331,10 @@ Un dernier conseil ?
 
 .. seealso::
 
-   `Visual Studio Code <https://code.visualstudio.com/>`_
+   `Visual Studio Code <visualstudiocode.html>`_
       est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
       il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à `Visual Studio Code <https://code.visualstudio.com/>`_, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
 
 .. seealso::

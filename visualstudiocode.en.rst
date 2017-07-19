@@ -116,8 +116,7 @@ How I use Visual Studio Code
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 My configuration files, scripts and snippets of buildings for `Visual Studio Code`_ are all in the folder `publis/VSCode <publis/VSCode/>`_.
 
-To use one of these files (``.sublime-settings``, ``.sublime-snippet``, ``.sublime-macro`` or ``.sublime-build``), just copy it into `your Packages/User folder <http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-packages-directory>`_.
-More details for `the .sublime-settings files <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html#where-to-store-user-settings-once-again>`_, or `the .sublime-build files <http://docs.sublimetext.info/en/sublime-text-3/file_processing/build_systems.html#where-to-store-build-systems>`_.
+To use one of these files, just copy it into `User/ <https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations>`_.
 
 
 :State: *Actively maintained* (July 2017).
@@ -126,12 +125,12 @@ Config
 ~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `customization/settings.html <http://docs.sublimetext.info/en/sublime-text-3/customization/settings.html>`_ explains how to *deeply configure every small aspect* of VSCode.
+   This page `<https://code.visualstudio.com/docs/getstarted/settings>`_ explains how to *configure* of VSCode.
 
 
 My configuration files:
 
-* `TODO <publis/VSCode/TODO>`_ is the main config file.
+* `settings.json <publis/VSCode/settings.json>`_ is the main config file.
 
 Key shortcuts
 ~~~~~~~~~~~~~
@@ -143,7 +142,7 @@ Key shortcuts
 Like (almost) everything else in VS Code, it's easy to modify or add key shortcut for anything.
 It can be done globaly, or project wise or language wise.
 
-* `TODO <publis/VSCode/TODO>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line).
+* `keybindings.json <publis/VSCode/keybindings.json>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line).
 
 
 Snippets
@@ -153,9 +152,7 @@ Snippets
    This page `<https://code.visualstudio.com/docs/editor/userdefinedsnippets>`_ explains completely how these snippets have to be designed and how can they help you to be more effective.
 
 
-List of my snippets:
-
-* TODO
+List of my snippets, in this folder: `snippets <publis/VSCode/snippets>`_.
 
 Build systems
 ~~~~~~~~~~~~~
@@ -168,9 +165,7 @@ VS Code (as with other good text editors), it is possible to build, run or compi
 VS Code comes with "tasks", or build scripts, mainly for Javascript development, with built-in support for npm and bower tasks, and it is easy to create and install new ones.
 
 
-List of my build systems:
-
-* TODO
+List of my build systems, in this folder: `tasks <publis/VSCode/tasks>`_.
 
 
 Macro
@@ -195,22 +190,57 @@ For each packet quoted below, a link to the information page on `marketplace.vis
 
 Small customization plugins:
 
-* TODO
+* `Paste and Indent <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent>`_ : paste code with "correct" indentation.
+* `Power Mode <https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode>`_ : your code is powerful, unleash it! Useless but fun!
+* `Select Line Status Bar <https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar>`_ : displays selected lines count in status bar.
+* `Shortcuts <https://marketplace.visualstudio.com/items?itemName=gizak.shortcuts>`_ : add handy shortcuts to your status bar.
+* `Sublime Text Keymap <https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings>`_ : popular Sublime Text keybindings for VS Code.
 
 
 Plugins that add great features:
 
-* TODO
+* `Align <https://marketplace.visualstudio.com/items?itemName=steve8708.Align>`_ : align text in vscode like the atom-alignment package.
+* `Auto Close Tag <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag>`_ : automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
+* `Bookmarks <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>`_ : mark lines and jump to them.
+* `Color Highlight <https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>`_ : highlight web colors in your editor.
+* `Calculate <https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate>`_ : select some math, evaluate it.
+* `change-case <https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case>`_ : quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
+* `Clipboard History <https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history>`_ : keep a history of your copied items and re-paste if needed.
+* `Gremlins <https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins>`_ : reveal invisible whitespace characters and non-breaking spaces.
+* `Trailing Spaces <https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces>`_ : highlight trailing spaces and delete them in a flash!
+* `WakaTime <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>`_ : Metrics, insights, and time tracking automatically generated from your programming activity.
 
 
 A better support for some languages:
 
-* TODO
+* `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ a debugger extension for bash scripts (using bashdb).
+* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+* `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : syntax highlighter for cutting edge Python.
+* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies autopep8 to your current file.
+* `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : see git blame information in the status bar.
+* `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : view git log, file or line History.
+* `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : language support for .gitignore files. Lets you pull ``.gitignore`` files from the `<https://github.com/github/gitignore>`_ repository.
+* `HTML Preview <https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode>`_ : a HTML previewer.
+* `HTML Snippets <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets>`_ : full HTML tags including HTML5 Snippets.
+* `IntelliSense for CSS class names <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion>`_ : provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace.
+* `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Format, prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI.
+* `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : Julia Language Support.
+* `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+* `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : all you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+* `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minify for VS Code. Minify with command, and (optionally) re-minify on save.
+* `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : rich OCaml language support for Visual Studio Code. It really works perfectly well!
+* `Ocaml tuareg-master <https://marketplace.visualstudio.com/items?itemName=muchtrix.ocaml-tuareg-master>`_ : a quick extension to send single OCaml statement (finished with ``;;``) to opened console.
+* `reStructuredText <https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext>`_ : edit reStructuredText (RST, ReST) with accurate live preview!
+* `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_ : format table syntax of Markdown, Textile and reStructuredText.
 
 
 Heavier plugins, or plugins designed for a specific language:
 
-* TODO
+* `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
+* `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
+* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
+* `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ adds suggestions and autocomplete for emoji to VS Code.
+* `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
 
 
 .. note:: Purely objective

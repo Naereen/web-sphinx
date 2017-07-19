@@ -175,8 +175,8 @@ For more details, see `<sitemap.en.html>`_.
    teaching.en
    cookies.en
    README
-   sublimetext.en
    visualstudiocode.en
+   sublimetext.en
    ga.en
    stats-google-analytics.en
    beacon.en

@@ -411,8 +411,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    rss
    cookies.fr
    README
-   sublimetext.fr
    visualstudiocode.fr
+   sublimetext.fr
    ga.fr
    stats-google-analytics.fr
    beacon.fr

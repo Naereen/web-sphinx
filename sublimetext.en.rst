@@ -48,10 +48,10 @@ My article focuses on version 3 of Sublime Text (currently, version 3.083, *rele
 
 .. seealso::
 
-   `Visual Studio Code <https://code.visualstudio.com/>`_
+   `Visual Studio Code <visualstudiocode.html>`_
       is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use `Visual Studio Code <https://code.visualstudio.com/>`_, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
 
 What is Sublime Text?
