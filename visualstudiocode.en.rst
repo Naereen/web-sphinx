@@ -42,7 +42,7 @@ My article focuses on versions higher than 1.14 of Visual Studio Code.
 
 .. seealso::
 
-   `Sublime Text 3 <https://www.SublimeText.com/3 >`_
+   `Sublime Text 3 <https://www.SublimeText.com/3>`_
       was my favorite editor from a few years back.
       After 4 years of intensive use, I am slowly giving up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
@@ -125,7 +125,7 @@ Config
 ~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `<https://code.visualstudio.com/docs/getstarted/settings>`_ explains how to *configure* of VSCode.
+   This page `"settings" <https://code.visualstudio.com/docs/getstarted/settings>`_ explains how to *configure* of VSCode.
 
 
 My configuration files:
@@ -136,7 +136,7 @@ Key shortcuts
 ~~~~~~~~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `<https://code.visualstudio.com/docs/getstarted/keybindings#_customizing-shortcuts>`_.
+   This page `"keybindings" <https://code.visualstudio.com/docs/getstarted/keybindings#_customizing-shortcuts>`_.
 
 
 Like (almost) everything else in VS Code, it's easy to modify or add key shortcut for anything.
@@ -149,7 +149,7 @@ Snippets
 ~~~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `<https://code.visualstudio.com/docs/editor/userdefinedsnippets>`_ explains completely how these snippets have to be designed and how can they help you to be more effective.
+   This page `"userdefinedsnippets" <https://code.visualstudio.com/docs/editor/userdefinedsnippets>`_ explains completely how these snippets have to be designed and how can they help you to be more effective.
 
 
 List of my snippets, in this folder: `snippets <publis/VSCode/snippets>`_.
@@ -158,7 +158,7 @@ Build systems
 ~~~~~~~~~~~~~
 .. sidebar:: More info on the documentation?
 
-   This page `<https://code.visualstudio.com/docs/editor/tasks>`_ also completely explains how to use and design build systems.
+   This page `"tasks" <https://code.visualstudio.com/docs/editor/tasks>`_ also completely explains how to use and design build systems.
 
 
 VS Code (as with other good text editors), it is possible to build, run or compile your files automatically and easily.
@@ -238,7 +238,7 @@ Heavier plugins, or plugins designed for a specific language:
 
 * `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
 * `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
-* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
+* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
 * `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ adds suggestions and autocomplete for emoji to VS Code.
 * `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
 
@@ -246,7 +246,7 @@ Heavier plugins, or plugins designed for a specific language:
 .. note:: Purely objective
 
    This list simply reflects my daily use of VSCode. These choices are purely objective.
-   For instance, `this awesome-vscode list <https://github.com/viatsko/awesome-vscode`_ also presents a list of good plugins to use.
+   For instance, `this awesome-vscode list <https://github.com/viatsko/awesome-vscode>`_ also presents a list of good plugins to use.
 
 -----------------------------------------------------------------------------
 

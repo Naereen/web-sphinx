@@ -45,7 +45,7 @@ Mon article s'intéresse aux versions supérieures à 1.14 de Visual Studio Code
 
 .. seealso::
 
-   `Sublime Text 3 <https://www.SublimeText.com/3 >`_
+   `Sublime Text 3 <https://www.SublimeText.com/3>`_
       était mon éditeur favori depuis quelques années.
       Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
@@ -129,7 +129,7 @@ Config
 ~~~~~~
 .. sidebar:: Plus d'informations sur la doc' ?
 
-   Cette page `<https://code.visualstudio.com/docs/getstarted/settings>`_ explique comment *configurer* VS Code.
+   Cette page `"settings" <https://code.visualstudio.com/docs/getstarted/settings>`_ explique comment *configurer* VS Code.
 
 
 Mes fichiers de configurations :
@@ -140,7 +140,7 @@ Raccourcis clavier
 ~~~~~~~~~~~~~~~~~~
 .. sidebar:: Plus d'informations sur la doc' ?
 
-   Cette page `<https://code.visualstudio.com/docs/getstarted/keybindings#_customizing-shortcuts>`_.
+   Cette page `"keybindings" <https://code.visualstudio.com/docs/getstarted/keybindings#_customizing-shortcuts>`_.
 
 
 Comme (presque) tout dans VS Code, il est facile de modifier ou d'ajouter des raccourcis clavier.
@@ -153,7 +153,7 @@ Snippets
 ~~~~~~~~
 .. sidebar:: Plus d'informations sur la doc' ?
 
-   Cette page `<https://code.visualstudio.com/docs/editor/userdefinedsnippets>`_ décrit entièrement le fonctionnement de ces snippets ("morceaux de codes").
+   Cette page `"userdefinedsnippets" <https://code.visualstudio.com/docs/editor/userdefinedsnippets>`_ décrit entièrement le fonctionnement de ces snippets ("morceaux de codes").
 
 
 Liste de mes snippets, dans ce dossier : `snippets <publis/VSCode/snippets>`_.
@@ -241,7 +241,7 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 
 * `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
 * `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
-* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
+* `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
 * `:emojisense: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>`_ adds suggestions and autocomplete for emoji to VS Code.
 * `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
 
@@ -249,7 +249,7 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 .. note:: Purement objective
 
    Cette liste reflète simplement mon utilisation quotidienne de VSCode. Ces choix sont purement objectifs.
-   Par exemple, `cette liste "awesome-vscode" <https://github.com/viatsko/awesome-vscode`_ présente aussi une liste de greffons utiles à avoir.
+   Par exemple, `cette liste "awesome-vscode" <https://github.com/viatsko/awesome-vscode>`_ présente aussi une liste de greffons utiles à avoir.
 
 -----------------------------------------------------------------------------
 
