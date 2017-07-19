@@ -92,7 +92,9 @@ Et depuis le début de mon utilisation de WakaTime :
 
 Éditeurs de textes utilisés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-WakaTime détecte que j'utilise uniquement l'extraordinaire `Sublime Text 3 <sublimetext.fr.html>`_ pour environ 70% de mon temps d'écriture et de programmation quotidien, et `GNU Bash <https://bitbucket.org/lbesson/bin/>`_ (`dans un terminal <https://bitbucket.org/lbesson/nautilus-terminal/>`_) pour les 30% restant :
+WakaTime thinks I only use (and it's almost correct!):
+WakaTime détecte que j'utilise uniquement l'extraordinaire `Visual Studio Code <visualstudiocode.en.html>`_ pour environ ~90% de mon temps d'écriture et de programmation quotidien,
+et `Sublime Text <sublimetext.html>`_ et `PyCharm IDE <https://www.jetbrains.com/pycharm/>`_ pour les ~10% restant :
 
 .. raw:: html
 
