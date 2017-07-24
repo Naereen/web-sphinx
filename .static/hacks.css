@@ -3,117 +3,279 @@
  * :copyright: Copyright 2013-2016 Lilian Besson
  * :license: GPLv3, see LICENSE for details.
  */
+
+
 /* Colors and text decoration.
  For example, :black:`text in black` or :blink:`text blinking` in rST. */
-.black    { color:black; }
-.gray     { color:gray; }
-.grey     { color:gray; }
-.silver   { color:silver; }
-.white    { color:white; }
-.maroon   { color:maroon; }
-.red      { color:red; }
-.magenta  { color:magenta; }
-.fuchsia  { color:fuchsia; }
-.pink     { color:pink; }
-.orange   { color:orange; }
-.yellow   { color:yellow; }
-.lime     { color:lime; }
-.green    { color:green; }
-.olive    { color:olive; }
-.teal     { color:teal; }
-.cyan     { color:cyan; }
-.aqua     { color:aqua; }
-.blue     { color:blue; }
-.navy     { color:navy; }
-.purple   { color:purple; }
-.under    { text-decoration: underline; }
-.over     { text-decoration: overline; }
-.blink    { text-decoration: blink; }
-.line     { text-decoration: line-through; }
-.strike   { text-decoration: line-through; }
-.it       { font-style: italic; }
-.ob       { font-style: oblique; }
-.small    { font-size: small; }
-.large    { font-size: large; }
-.smallpar { font-size: small; }
+
+.black {
+    color: black;
+}
+
+.gray {
+    color: gray;
+}
+
+.grey {
+    color: gray;
+}
+
+.silver {
+    color: silver;
+}
+
+.white {
+    color: white;
+}
+
+.maroon {
+    color: maroon;
+}
+
+.red {
+    color: red;
+}
+
+.magenta {
+    color: magenta;
+}
+
+.fuchsia {
+    color: fuchsia;
+}
+
+.pink {
+    color: pink;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.lime {
+    color: lime;
+}
+
+.green {
+    color: green;
+}
+
+.olive {
+    color: olive;
+}
+
+.teal {
+    color: teal;
+}
+
+.cyan {
+    color: cyan;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.blue {
+    color: blue;
+}
+
+.navy {
+    color: navy;
+}
+
+.purple {
+    color: purple;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.over {
+    text-decoration: overline;
+}
+
+.blink {
+    text-decoration: blink;
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.it {
+    font-style: italic;
+}
+
+.ob {
+    font-style: oblique;
+}
+
+.small {
+    font-size: small;
+}
+
+.large {
+    font-size: large;
+}
+
+.smallpar {
+    font-size: small;
+}
+
 
 /* Style pour les badges en bas de la page. */
-div.supportBadges { margin:1em; text-align:center; }
-    div.supportBadges ul { padding:0; display:inline; }
-    div.supportBadges li { display:inline; }
-    div.supportBadges a { margin-right:1px; opacity:0.6; }
-    div.supportBadges a:hover { opacity:1; }
+
+div.supportBadges {
+    margin: 1em;
+    text-align: center;
+}
+
+div.supportBadges ul {
+    padding: 0;
+    display: inline;
+}
+
+div.supportBadges li {
+    display: inline;
+}
+
+div.supportBadges a {
+    margin-right: 1px;
+    opacity: 0.6;
+}
+
+div.supportBadges a:hover {
+    opacity: 1;
+}
+
 
 /* Details elements in the sidebar */
-ul.details { font-size:80%; }
-ul.details li p { font-size:85%; }
+
+ul.details {
+    font-size: 80%;
+}
+
+ul.details li p {
+    font-size: 85%;
+}
+
+ul.externallinks {
+    font-size: 85%;
+}
+
 
 /* Pour le drapeau de langue dans la barre supérieure */
+
 img.languageswitch {
     width: 31px;
     height: 20px;
-    /* position: absolute; */
-    /* margin: 5px 0 0 20%; */
-    /* margin: 5px 0 0 0; */
 }
 
+
 /* Image style for scrollUp jQuery plugin */
+
 #scrollUpLeft {
-    bottom: 50px; left:   212px;
-    height: 38px; width:  38px;
+    bottom: 50px;
+    left: 212px;
+    height: 38px;
+    width: 38px;
     background: url('//perso.crans.org/besson/_images/.top.png');
 }
 
-@media (max-width: 680px){
+@media (max-width: 680px) {
     #scrollUpLeft {
         left: auto;
-        right:   6px;
+        right: 6px;
         bottom: 6px;
     }
 }
 
+
 /* responsive for font-size. */
-@media (max-width: 680px){
+
+@media (max-width: 680px) {
     body {
-        font-size: 105%; /* Increase font size for responsive theme */
-    }
-}
-@media (max-width: 1480px) and (min-width: 681px){
-    body {
-        font-size: 115%; /* Increase font size for not-so-big screens */
-    }
-}
-@media (min-width: 1481px){
-    body {
-        font-size: 120%; /* Increase even more font size for big screens */
+        font-size: 105%;
+        /* Increase font size for responsive theme */
     }
 }
 
-/* responsive for header.html and footer.html. */
-/* XXX I don't use this anymore, see https://bitbucket.org/lbesson/autoindex-strapdown */
-div.myfolders { font-size: x-large; }
-    @media (max-width: 680px){
-        div.myfolders { font-size: medium; }
+@media (max-width: 1480px) and (min-width: 681px) {
+    body {
+        font-size: 115%;
+        /* Increase font size for not-so-big screens */
     }
+}
 
-/* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+) */
-/* XXX I don't use this anymore, see sharingbuttons.css instead */
-.social-icons li a {
+@media (min-width: 1481px) {
+    body {
+        font-size: 120%;
+        /* Increase even more font size for big screens */
+    }
+}
+
+
+/* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+, bitbucket, github) */
+
+.social-icons {
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+}
+
+.social-icons a {
     background: none no-repeat scroll center top #444444;
-    border: 2px solid #F6F6F6;
+    border: 1px solid #F6F6F6;
     border-radius: 50% 50% 50% 50%;
-    display: block;
-    height: 35px; width: 35px;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
     margin: 0;
     text-indent: -9000px;
     transition: all 0.2s ease 0s;
     text-align: center;
 }
-    .social-icons li a:hover {
-        background-color: #666666;
-        transition: all 0.2s ease 0s;
-    }
-    .social-icons li a.facebook {
-        background-image: url('//perso.crans.org/besson/_images/.facebook.png');
-        display: block; margin-left: auto; margin-right: auto;
-    }
+
+.social-icons li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.social-icons a:hover {
+    background-color: #666666;
+    transition: all 0.2s ease 0s;
+}
+
+.social-icons a.facebook {
+    background-image: url('//perso.crans.org/besson/_images/.facebook.png');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 35px 35px;
+}
+
+.social-icons a.bitbucket {
+    background-image: url('//perso.crans.org/besson/_images/.bitbucket.png');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 35px 35px;
+}
+
+.social-icons li a.github {
+    background-image: url('//perso.crans.org/besson/_images/.github.png');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 35px 35px;
+}
