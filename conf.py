@@ -303,14 +303,14 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html'
-    '**.en':     ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],
-    'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'localtoc.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
-    'index.en':  ['language-selector.html', 'social_icons.en.html', 'localtoc.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
-    'cv.fr':     ['sourcepdfcv.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
-    'cv.en':     ['sourcepdfcv.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'social_icons.en.html', 'localtoc.en.html'],
-    '**/*':      ['language-selector.html', 'social_icons.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'linkpdf.fr.html'],  # , 'sidebar_gpg.en.html'],
-    '**/*.en':   ['language-selector.html', 'social_icons.en.html', 'sharingbuttons.en.html', 'localtoc.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html']  # , 'sidebar_gpg.en.html'],
+    '**':        ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.fr.html'
+    '**.en':     ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'localtoc.en.html'],  # , 'sidebar_gpg.en.html'],
+    'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
+    'index.en':  ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'localtoc.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
+    'cv.fr':     ['sourcepdfcv.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'externallinks.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
+    'cv.en':     ['sourcepdfcv.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'externallinks.en.html', 'social_icons.en.html', 'localtoc.en.html'],
+    '**/*':      ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'linkpdf.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],
+    '**/*.en':   ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to template names.
