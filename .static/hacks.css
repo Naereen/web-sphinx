@@ -279,3 +279,11 @@ img.languageswitch {
     margin-right: auto;
     background-size: 35px 35px;
 }
+
+.social-icons li a.wikipedia {
+    background-image: url('//perso.crans.org/besson/_images/.wikipedia.png');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 35px 35px;
+}
