@@ -115,9 +115,9 @@ Il y a une documentation officielle, très bien écrite (en anglais) : `code.vis
 ---------------------------------------------------------------------
 
 Mon utilisation de Visual Studio Code
----------------------------------
+-------------------------------------
 `Ma configuration <publis/VSCode/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Mes fichiers de configurations, snippets et scripts de constructions, pour `Visual Studio Code`_ sont tous dans le dossier `publis/VSCode <publis/VSCode/>`_.
 
 Pour utiliser un de ces fichiers, il suffit de le copier dans `votre dossier User/ <https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations>`_.

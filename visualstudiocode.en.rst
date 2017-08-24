@@ -111,9 +111,9 @@ There is an official documentation, very well written: `code.visualstudio.com/do
 ---------------------------------------------------------------------
 
 How I use Visual Studio Code
-------------------------
+----------------------------
 `My configuration <publis/VSCode/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 My configuration files, scripts and snippets of buildings for `Visual Studio Code`_ are all in the folder `publis/VSCode <publis/VSCode/>`_.
 
 To use one of these files, just copy it into `User/ <https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations>`_.
