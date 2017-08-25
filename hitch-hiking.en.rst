@@ -12,15 +12,43 @@ Some might say it is dangerous, but I disagree.
 
 Maybe I will include here a list of *epic hitch-hiking achievements*, maybe not.
 
-As far as now, I added here a list of some of the nicest trips and travel steps I did by hitch-hiking, with an approximative sum-up of the distance drove by hitch-hiking.
+As far as now, I added here a list of some of the nicest trips and travel steps I did by hitch-hiking, with an approximate sum-up of the distance drove by hitch-hiking.
 
 A quick overview
 ----------------
-  An *approximative* computation gives 320 + 2200 + 150 + 2000 + 350 = about **5200 kms as far as now**.
+  An *approximate* computation gives 170 + 330 + 2200 + 150 + 2000 + 350 = about **5380 kms as far as now**.
 
-In 2016 : **320 kms** (as far as now)
+In 2017 : **165 kms** (as far as now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-As far as now, about **320 kms** in France and in Switzerland.
+As far as now, about **165 kms** in France (Briançon → Gap and Gap → Briançon).
+
+.. digraph:: 17france
+
+   "Gap (1)" -> "Briançon" (1);
+   "Briançon" (2) -> "Gap (2)";
+
+I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
+
+In 2016 : **330 kms**
+^^^^^^^^^^^^^^^^^^^^^
+Sadly, no more than **330 kms** in France and in Switzerland...
+
+.. sidebar::
+
+   Yes, it's hard to teach 120h / year, to be ranked first of your Masters degree, to do a research internship at EPFL in Switzerland, a Machine Learning summer school in Spain, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year...
+
+   Hopefully my first year of PhD will let me more time - :red:`Haha it didn't!`
+
+
+I did once a nice trip from Grenoble to Briançon under the rain, another time from Chambéry to Lausanne, and three times from Genève Airport to Lausanne (very easy).
+
+.. digraph:: 16france
+
+   "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
+   "Chambéry" -> "Genève" -> "Lausanne (1)";
+   "Genève Airport" -> "Lausanne (2)";
+
+A little bit in Rennes, usually a few kilometers to go from the first apartment I had to the train station.
 
 In 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
