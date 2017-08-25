@@ -22,10 +22,10 @@ In 2017 : **165 kms** (as far as now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 As far as now, about **165 kms** in France (Briançon → Gap and Gap → Briançon).
 
-.. digraph:: 17france
+.. digraph:: france17
 
-   "Gap (1)" -> "Briançon" (1);
-   "Briançon" (2) -> "Gap (2)";
+   "Briançon" (1) -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
+   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon" (2);
 
 I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
 
@@ -33,16 +33,16 @@ In 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
 Sadly, no more than **330 kms** in France and in Switzerland...
 
-.. sidebar::
+.. sidebar:: Only 330 kms???
 
-   Yes, it's hard to teach 120h / year, to be ranked first of your Masters degree, to do a research internship at EPFL in Switzerland, a Machine Learning summer school in Spain, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year...
+   Yes, it's hard to `teach 120h / year <teach.html>`, to `be ranked first of your Masters degree <publis/mva-2016>`_, to do `a research internship at EPFL in Switzerland <https://bitbucket.org/lbesson/internship-mva-2016/>`_, a `Machine Learning summer school in Spain <https://bitbucket.org/lbesson/mlss-2016>`_, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year..
 
    Hopefully my first year of PhD will let me more time - :red:`Haha it didn't!`
 
 
 I did once a nice trip from Grenoble to Briançon under the rain, another time from Chambéry to Lausanne, and three times from Genève Airport to Lausanne (very easy).
 
-.. digraph:: 16france
+.. digraph:: france16
 
    "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
    "Chambéry" -> "Genève" -> "Lausanne (1)";
@@ -68,7 +68,7 @@ And a few times between Briançon and Gap also helped me to hitch-hiked about **
 
 In June 2015, I hitch-hiked about 700 kms while I was traveling in France and Switzerland, for 10 days:
 
-.. digraph:: voyage
+.. digraph:: juin15
 
    "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Switzerland)" -> "Zurich (Switzerland)" -> "Bâle (Switzerland)" -> "Mulhouse (France)";
 

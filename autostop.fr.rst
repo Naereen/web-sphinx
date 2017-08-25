@@ -22,10 +22,10 @@ En 2017 : **165 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour l'instant, seulement **165 kms** en France (Briançon → Gap et Gap → Briançon).
 
-.. digraph:: 17france
+.. digraph:: france17
 
-   "Gap (1)" -> "Briançon" (1);
-   "Briançon" (2) -> "Gap (2)";
+   "Briançon" (1) -> "Gap (1)";
+   "Gap (2)" -> "Briançon" (2);
 
 Mais j'ai battu mon record de temps d'attente, deux fois d'affilé, durant le même voyage : en allant de Briançon à Gap, j'ai pris ma seconde voiture (de Savines-le-Lac à Chorges) en 23 secondes d'attente avec le pouce levé (montre en main), et... 4 secondes (ouais, 4) pour la dernière voiture (de Chorges à Gap). Ma main droite était toujours levée après avoir lancé le chronomètre sur ma montre que la voiture s'arrêtait déjà... Quelle chance !
 
@@ -33,16 +33,16 @@ En 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
 Malheureusement, pas plus de **330 kms** en France et en Suisse...
 
-.. sidebar::
+.. sidebar:: Seulement 330 kms ???
 
-  Eh oui, on peut pas enseigner 120h/an, majorer son M2, faire un stage de recherche en Suisse, une école d'été en Espagne, des vacances en Italie, Autriche et Hongrie, et EN PLUS faire beaucoup de stop dans la même année...
+  Eh oui, on peut pas `enseigner 120h/an <teach.html>`_, `majorer son M2 <publis/mva-2016>`_, faire un `stage de recherche à l'EPFL en Suisse <https://bitbucket.org/lbesson/internship-mva-2016/>`_, une `école d'été en apprentissage statistique en Espagne <https://bitbucket.org/lbesson/mlss-2016>`_, des vacances en Italie, Autriche et Hongrie, et EN PLUS faire beaucoup de stop dans la même année...
 
   Espérons que ma première année de thèse me laisse plus de temps - :red:`Haha si seulement !`
 
 
 J'ai fait une fois le trajet charmant de Grenoble à Briançon sous la pluie, une autre fois de Chambéry vers Lausanne, et trois fois de l'aéroport de Genève vers Lausanne (très facile).
 
-.. digraph:: 16france
+.. digraph:: france16
 
    "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
    "Chambéry" -> "Genève" -> "Lausanne (1)";
