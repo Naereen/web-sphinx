@@ -53,10 +53,6 @@ J'ai fait une fois le trajet charmant de Grenoble à Briançon sous la pluie, un
 
 J'en ai fait un peu dans Rennes même, souvent quelques kilomètres, pour aller du premier appartement que j'avais jusqu'à la gare.
 
-En 2016 : **320 kms** (pour l'instant)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, environ **320 kms** en France et en Suisse.
-
 En 2015 : **2200 kms**
 ^^^^^^^^^^^^^^^^^^^^^^
 Environ **2200 kms**, en France surtout, mais aussi un peu en Suisse, et pas mal en Islande !
