@@ -19,15 +19,18 @@ Rapide total
   J'estime mon total *à environ* 170 + 330 + 2200 + 150 + 2000 + 350 = environ **5380 kms pour l'instant**.
 
 En 2017 : **165 kms** (pour l'instant)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pour l'instant, seulement **165 kms** en France (Briançon → Gap et Gap → Briançon).
 
 .. digraph:: france17
 
-   "Briançon" (1) -> "Gap (1)";
-   "Gap (2)" -> "Briançon" (2);
+   "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
+   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
 
-Mais j'ai battu mon record de temps d'attente, deux fois d'affilé, durant le même voyage : en allant de Briançon à Gap, j'ai pris ma seconde voiture (de Savines-le-Lac à Chorges) en 23 secondes d'attente avec le pouce levé (montre en main), et... 4 secondes (ouais, 4) pour la dernière voiture (de Chorges à Gap). Ma main droite était toujours levée après avoir lancé le chronomètre sur ma montre que la voiture s'arrêtait déjà... Quelle chance !
+
+.. note::
+
+   Mais j'ai battu mon record de temps d'attente, deux fois d'affilé, durant le même voyage : en allant de Briançon à Gap, j'ai pris ma seconde voiture (de Savines-le-Lac à Chorges) en 23 secondes d'attente avec le pouce levé (montre en main), et... 4 secondes (ouais, 4) pour la dernière voiture (de Chorges à Gap). Ma main droite était toujours levée après avoir lancé le chronomètre sur ma montre que la voiture s'arrêtait déjà... Quelle chance !
 
 En 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^

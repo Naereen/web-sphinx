@@ -24,10 +24,13 @@ As far as now, about **165 kms** in France (Briançon → Gap and Gap → Brian�
 
 .. digraph:: france17
 
-   "Briançon" (1) -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
-   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon" (2);
+   "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
+   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
 
-I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
+
+.. note::
+
+   I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
 
 In 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
