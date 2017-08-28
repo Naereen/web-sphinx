@@ -5,15 +5,35 @@
 ########################
  My teaching activities
 ########################
+In 2017/2018
+------------
+I will continue to teach, about 64 h / year, for 2017/2018, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
+
+I am giving oral exams and programming practical sessions (for `OCaml <https://ocaml.org/>`_) at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
+
+- For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2017/>`_.
+- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2017/>`_.
+
+.. note:: Extras :
+
+   I will also evaluate research internship reports for students finishing their first year of Masters degree in theoretical Computer Science, at ENS de Rennes,
+   as well as oral exam for students finishing the Bachelor degree and defending the thesis they wrote during their summer internship (September 2017).
+
 
 In 2016/2017
 ------------
-I was looking for a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), and `I found this one <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
+I had a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
 
-I am giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
+I was giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
 
-- For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
-- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+- :gray:`(Old)` For more details on `the oral exams for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
+- :gray:`(Old)` For more details on `the TAing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+
+.. note:: Extras :
+
+   I was also in charge of evaluating research internship reports for students finishing their first year of Masters degree in theoretical Computer Science, at ENS de Rennes, in last September 2016.
+   I gave a few `practical sessions in programming and maths <infoMP/oraux/>`_ for students in Rennes training for the national competitive exam for CentraleSupélec engineering schools in June 2017.
+   And I went to Lycée Pasteur in Lille in July 2017 to attend a lot of oral exams for the national "agrégation de mathématiques" competitive exam (maths, modeling and CS).
 
 In 2015
 -------

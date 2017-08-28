@@ -6,14 +6,36 @@
  Activités d'enseignement
 ##########################
 
+En 2017/2018
+------------
+J'enseigne de nouveau environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
+
+Je vais donner des oraux ainsi que des TPs de programmation (en `OCaml <https://ocaml.org/>`_) à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
+
+- Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2017/>`_.
+- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2017/>`_.
+
+.. note:: Extras :
+
+   J'évaluerai des rapports de stage d'étudiants en M1 d'informatique à l'ENS de Rennes,
+   et je serai jury pour les soutenances de stage d'étudiants finissant leur Licence d'informatique après leur stage d'été (en septembre 2017).
+
+
 En 2016/2017
 ------------
-Je recherchais une mission d'enseignement de 64 h / an, pour 2016/2017, durant ma thèse à Rennes, et `j'ai trouvé celle-ci <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
+J'ai enseigné 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
 Je donne des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
 
-- Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
-- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis et bricolé `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+- :gray:`(Vieux)` Pour plus de détails sur `les cours, oraux (leçons) et TDs pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
+- :gray:`(Vieux)` Pour plus de détails sur `les TDs pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis et bricolé `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+
+.. note:: Extras :
+
+   J'ai aussi évalué des rapports de stage d'étudiants en M1 d'informatique à l'ENS de Rennes en septembre 2016;
+   ainsi que donné quelques TPs d'entraînements au `oraux d'informatique au concours CentraleSupélec <infoMP/oraux/>`_ en juin 2017.
+   J'ai assisté à des tas d'oraux d'agrégation (de maths, en maths, modé et info) au Lycée Pasteur à Lille en juillet 2017.
+
 
 En 2015
 -------
