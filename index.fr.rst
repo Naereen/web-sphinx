@@ -30,9 +30,9 @@ N'hésitez pas à me *contacter* :
    :scale: 120 %
    :align: right
    :alt:   Mon adresse courriel, dans une image png...
-   :target: mailto:Lilian.Besson＠ens-cachan.fr
+   :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
-#. par *courriel* à cette adresse `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
+#. par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
 
    .. image:: .telephone.png
       :scale: 130 %

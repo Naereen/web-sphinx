@@ -29,9 +29,9 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 .. image:: .courriel.png
    :scale: 120 %
    :align: right
-   :target: mailto:Lilian.Besson＠ens-cachan.fr
+   :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
-#. by *email* at this adress `Lilian.Besson＠ens-cachan.fr <mailto:Lilian.Besson＠ens-cachan.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
+#. by *email* at this adress `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
 
    .. image:: .telephone.png
       :scale: 130 %
