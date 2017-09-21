@@ -26,21 +26,21 @@ Contact address
 ---------------
  * :First name: **Besson**
  * :Last name: **Lilian**
- * :Email: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (remove the brackets)
- * Postal address ::
+ * :Email: `Lilian[.]Besson[@]CentraleSupelec[.]fr <mailto:Lilian[.]Besson[@]CentraleSupelec[.]fr>`_ (remove the brackets)
+ * `Postal address <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_ ::
 
        Mr Lilian Besson,
-       ENS Cachan,
-       Dept. de Mathématiques,
-       41, avenue du Président Wilson,
-       94230 - Cachan,
+       Office 304 - SCEE Team,
+       CentraleSupélec - Campus de Rennes,
+       Avenue de la Boulaie - CS 47601,
+       35576 - Cesson-Sévigné,
        France
 
 
 Extra information about me
 --------------------------
  * :Date of Birth: *January 12th, 1993*. Age : **24**.
- * :Current Status: PhD student at `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, in Rennes (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
+ * :Current Status: PhD student at `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
  * :Webpages:
 
     #. `This website <index.html>`_;
@@ -57,7 +57,7 @@ Spoken Languages
 
 Programming Languages
 ----------------------
- * :Advanced: **Python** (2.7) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
+ * :Advanced: **Python** (2.7-3.6) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
  * :Intermediate: **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
  * :Basic: **Maple**, **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 
@@ -79,7 +79,7 @@ Miscellaneous
    - eager to learn and develop new skills;
    - passionate about new technologies;
 
- * :International experience: some trips in Iceland, Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
+ * :International experience: some trips in Portugal, Netherlands, Greece, Iceland, India, Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
  * :Other experiences:
 
    - Theater and clown lessons, during 6 years (**2003-2009**);
@@ -104,8 +104,10 @@ Professors at `ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (2011/2016)
 - `Serge Haddad <http://www.lsv.ens-cachan.fr/~haddad>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
 
 
-Former internship advisors (2011/12 and 2012/13)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Former internship advisors (2012 and 2013 and 2015)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Michael Unser <http://bigwww.epfl.ch/unser/index.html>`_ (`BIG/LIB at EPFL <http://bigwww.epfl.ch>`_),
+- `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ (`BIG/LIB at EPFL <http://bigwww.epfl.ch>`_),
 - `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex `UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn>`_ (`UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ and `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).

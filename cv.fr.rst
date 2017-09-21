@@ -25,20 +25,20 @@ Adresse de contact
 ------------------
  * :Prénom: **Lilian**
  * :Nom: **Besson**
- * :Courriel: `lilian[.]besson[@]ens-cachan[.]fr <mailto:lilian[.]besson[@]ens-cachan[.]fr>`_ (retirez les crochets)
- * Adresse postale ::
+ * :Courriel: `Lilian[.]Besson[@]CentraleSupelec[.]fr <mailto:Lilian[.]Besson[@]CentraleSupelec[.]fr>`_ (retirez les crochets)
+ * `Adresse postale <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_ ::
 
        Mr Lilian Besson,
-       Dept. de Mathématiques,
-       ENS Cachan,
-       41, avenue du Président Wilson,
-       94230 - Cachan,
+       Bureau 304 - Équipe SCEE,
+       CentraleSupélec - Campus de Rennes,
+       Avenue de la Boulaie - CS 47601,
+       35576 - Cesson-Sévigné,
        France
 
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: *12 Janvier 1993*. Âge : **24 ans**.
- * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, à Rennes. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
+ * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, à Rennes et à `Inria <https://team.inria.fr/sequel/team-members/>`_ à Lille. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
  * :Pages sur le web:
 
    #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;
@@ -55,7 +55,7 @@ Langues parlées
 
 Compétences en programmation et développement
 ---------------------------------------------
- * :Expert: `Python <https://pypi.python.org/pypi/ansicolortags>`_ (2 et 3) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.io/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
+ * :Expert: `Python <https://pypi.python.org/pypi/ansicolortags>`_ (2.7-3.6) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.io/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
  * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://perso.crans.org/besson/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://perso.crans.org/besson/publis/Bomberman/>`_.
  * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.io/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.io/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
  * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
@@ -76,7 +76,7 @@ Divers
    - volontaire pour apprendre et développer de nouvelles compétences;
    - passionné de nouvelles technologies et de programmation;
 
- * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en Islande, Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
+ * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en/au/aux Portugal, Pays-Bas, Grèce, Islande, Inde, Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
  * :Expat': Expériences professionnelles internationale au Royaume-Uni (2013) et en Inde (2014-15), recherche et enseignement;
  * :Autres expériences:
 
@@ -104,8 +104,10 @@ Professeurs de l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_ (2011/2016)
 - `Serge Haddad <http://www.lsv.ens-cachan.fr/~haddad>`_ (`LSV <http://www.lsv.ens-cachan.fr/?l=fr>`_)
 
 
-Anciens directeurs de stage (2011/12 et 2012/13)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anciens directeurs de stage (2012 et 2013 et 2015)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Michael Unser <http://bigwww.epfl.ch/unser/index.html>`_ (`BIG/LIB à EPFL <http://bigwww.epfl.ch>`_),
+- `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ (`BIG/LIB à EPFL <http://bigwww.epfl.ch>`_),
 - `Jules Villard <http://www.doc.ic.ac.uk/~jvillar1/>`_ (`ICL <http://www3.imperial.ac.uk/computing/>`_, ex `UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Peter O'Hearn <http://www0.cs.ucl.ac.uk/staff/p.ohearn>`_ (`UCL <http://www.cs.ucl.ac.uk/>`_),
 - `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ et `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
