@@ -41,7 +41,7 @@ aux adresses suivantes (listées par ordre de préférence) :
    (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
        Mr Lilian Besson,
-       Bureau 304 - Équipe SCEE,
+       Bureau 329 - Équipe SCEE,
        CentraleSupélec - Campus de Rennes,
        Avenue de la Boulaie - CS 47601,
        35576 - Cesson-Sévigné,
@@ -58,7 +58,7 @@ aux adresses suivantes (listées par ordre de préférence) :
        }).addTo(office);
 
        L.marker([48.12576, -1.62312]).addTo(office)
-           .bindPopup("Mr Lilian Besson,<br>Bureau 304 - Équipe SCEE,<br>CentraleSupélec - Campus de Rennes,<br>Avenue de la Boulaie - CS 47601,<br>35576 - Cesson-Sévigné,<br>France.")
+           .bindPopup("Mr Lilian Besson,<br>Bureau 329 - Équipe SCEE,<br>CentraleSupélec - Campus de Rennes,<br>Avenue de la Boulaie - CS 47601,<br>35576 - Cesson-Sévigné,<br>France.")
            .openPopup();
    </script>
 

@@ -29,7 +29,7 @@ Adresse de contact
  * `Adresse postale <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_ ::
 
        Mr Lilian Besson,
-       Bureau 304 - Équipe SCEE,
+       Bureau 329 - Équipe SCEE,
        CentraleSupélec - Campus de Rennes,
        Avenue de la Boulaie - CS 47601,
        35576 - Cesson-Sévigné,
