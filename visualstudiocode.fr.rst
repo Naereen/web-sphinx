@@ -228,6 +228,7 @@ Un meilleur support pour certains langages :
 * `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Formate (``prettify`` et ``beautify``) pour Javascript, CSS, HTML en utilisant des raccourcis clavier ou le menu contextuel.
 * `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : support pour le langage Julia.
 * `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : support très complet pour éditer des fichiers LaTeX efficacement avec aperçu, compilation, autocomplétion, coloration syntaxique, et plus.
+* `Makefiles Support For VSCode <https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode>`_ : est `mon <https://github.com/Naereen/Makefiles-support-for-VSCode/>`_ extension pour ajouter le support des fichiers `GNU Makefile <https://www.gnu.org/software/make/manual/make.html>`_ (pour l'instant très simple : juste la coloration et la détection, pas encore l'intégration dans le système de construction). |version-VSCode-extension| |installs-VSCode-extension| |rating-VSCode-extension|
 * `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : tout ce qu'il faut pour éditer des fichiers Markdown (raccourcis clavier, table des matières, aperçu latéral etc).
 * `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minifier les codes Javascript, CSS et HTML, depuis la palette ou en sauvegardant un fichier (optionnel).
 * `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : support très complet du langage OCaml pour Visual Studio Code. Ça marche vraiment très bien !
@@ -254,8 +255,14 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 
 Un dernier conseil ?
 ^^^^^^^^^^^^^^^^^^^^
- Comme pour tout logiciel aussi puissant et technique, `Visual Studio Code`_ demande un certain temps d'adaptation.
- Soyez persévérant, ça en vaut la peine.
+ Comme pour tout logiciel aussi puissant et technique, `Visual Studio Code`_ demande un léger temps d'adaptation,
+ mais il est bien plus simple à prendre en main que d'autres éditeurs comme Emacs, Vi(m), ou même Atom ou Sublime Text.
+ Merci à la traduction entièrement en français (et d'autres langues) de son interface et documentation !
 
+.. |version-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |installs-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |rating-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

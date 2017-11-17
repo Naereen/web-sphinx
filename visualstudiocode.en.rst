@@ -225,6 +225,7 @@ A better support for some languages:
 * `JS-CSS-HTML Formatter <https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter>`_ : Format, prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI.
 * `Julia <https://marketplace.visualstudio.com/items?itemName=julialang.language-julia>`_ : Julia Language Support.
 * `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+* `Makefiles Support For VSCode <https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode>`_ : is `my <https://github.com/Naereen/Makefiles-support-for-VSCode/>`_ extension that adds support for `GNU Makefile <https://www.gnu.org/software/make/manual/make.html>`_ files (as far as now, a very limited support: only the syntax coloring and detection of the files, the Makefiles are not yet integrated within the VS Code build system).
 * `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : all you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
 * `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minify for VS Code. Minify with command, and (optionally) re-minify on save.
 * `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : rich OCaml language support for Visual Studio Code. It really works perfectly well!
@@ -251,7 +252,14 @@ Heavier plugins, or plugins designed for a specific language:
 
 Additional advice
 ^^^^^^^^^^^^^^^^^
- As for every powerful and awesome software, `Visual Studio Code`_ will require a certain training time.
+ As for every powerful and awesome software, `Visual Studio Code`_ will require a small training time,
+ but it is far easier to master than other editors like Emacs, Vi(m), or even Atom or Sublime Text.
+ Thanks to the complete translation in French (and other languages) of the user interface as well as the documentation!
 
+.. |version-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |installs-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg
+   :target: https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode
+.. |rating-VSCode-extension| image:: https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
