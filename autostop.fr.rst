@@ -16,16 +16,17 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 170 + 330 + 2200 + 150 + 2000 + 350 = environ **5380 kms pour l'instant**.
+  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 = environ **5385 kms pour l'instant**.
 
-En 2017 : **165 kms** (pour l'instant)
+En 2017 : **355 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, seulement **165 kms** en France (Briançon → Gap et Gap → Briançon).
+Pour l'instant, seulement **355 kms** en France (Briançon → Gap et Gap → Briançon, et Caen → Avranches → Rennes).
 
 .. digraph:: france17
 
    "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
    "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
+   "Caen" -> "Avranches" -> "Rennes";
 
 
 .. note::

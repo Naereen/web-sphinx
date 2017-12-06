@@ -16,16 +16,17 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximate* computation gives 170 + 330 + 2200 + 150 + 2000 + 350 = about **5380 kms as far as now**.
+  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 = about **5385 kms as far as now**.
 
-In 2017 : **165 kms** (as far as now)
+In 2017 : **355 kms** (as far as now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-As far as now, about **165 kms** in France (Briançon → Gap and Gap → Briançon).
+As far as now, about **355 kms** in France (Briançon → Gap and Gap → Briançon, and Caen → Avranches → Rennes).
 
 .. digraph:: france17
 
    "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
    "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
+   "Caen" -> "Avranches" -> "Rennes";
 
 
 .. note::
