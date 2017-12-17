@@ -445,6 +445,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    autostop.fr
    affaires-voyage.fr
    top10.fr
+   a-faire-avant-30-ans.fr
+   resume-de-mon-annee-2017.fr
    freedns
    dyndns
    time
