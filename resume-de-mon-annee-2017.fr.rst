@@ -53,7 +53,7 @@ Juillet 2017
 
 Août 2017
 ---------
-- Une super semaine entre amis (`A <https://www.theses.fr/s162640>`_, `A <https://fr.linkedin.com/in/alain-virouleau-4b75a7125/en>`_, `B <http://benjamin.dadoun.free.fr/>`_, `C <XXX>`_, `H <https://fr.linkedin.com/in/h%C3%A9l%C3%A8ne-javelaud-95a88050>`_, `L <XXX>`_, `L <http://www.cmap.polytechnique.fr/~sacchelli/>`_) paumés en *Normandie*. *Spoiler alert* : la Normandie en août c'est cool, la Manche on s'y baigne bien !
+- Une super semaine entre amis, paumés en *Normandie*. *Spoiler alert* : la Normandie en août c'est cool, la Manche on s'y baigne bien !
 - Vacances chez moi à Briançon, entouré d'amis super, de belles randonnées et via ferrata dans le Briançonnais. Pas de blessure cette fois !
 - Fin du jeu `Fire Emblem: Path of Radiance <https://fr.wikipedia.org/wiki/Fire_Emblem:_Path_of_Radiance>`_ sur Nintendo GameCube. Un chouette jeu, comme je les adore.
 
