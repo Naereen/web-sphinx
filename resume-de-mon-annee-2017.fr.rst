@@ -66,7 +66,7 @@ Septembre 2017
 Octobre 2017
 ------------
 - "Anniversaire informel" : un an que je vis à Rennes et que je suis en thèse.
-- Fin de la rédaction de `mon premier gros article de recherche <https://hal.inria.fr/hal-01629733>`_.
+- Fin de la rédaction de `mon premier gros et troisième article de recherche <https://hal.inria.fr/hal-01629733>`_.
 - Quelques jours de vacances très agréables à Rennes et Caen entre amis. La mer en plein automne, c'est top aussi !
 
 Novembre 2017
@@ -78,7 +78,7 @@ Novembre 2017
 Décembre 2017
 -------------
 - La soutenance de `thèse de doctorat <http://www.theses.fr/s95562>`_ de mon frère, `Florian Besson <http://paris-sorbonne.academia.edu/FBesson/>`_, a eu lieu le 04 décembre. Félicitations à lui ! `Regardez ça pour un petit aperçu de ses recherches <http://www.paris-sorbonne.fr/terrains-de-recherche-besson>`_.
-- Deux super semaines à Inria Lille, avec `un article accepté <articles/BKM__IEEE_WCNC_2018.pdf>`_, `un autre séminaire <http://seminaire.univ-lille1.fr/node/264>`_ (avec `ces planches <publis/slides/2017_12__Presentation_Inria_Lille_SequeL_Seminar/slides_169.pdf>`_), et de belles rencontres et nouvelles idées !
+- Deux super semaines à Inria Lille, avec deux articles acceptés ! (`1 <articles/BKM__IEEE_WCNC_2018.pdf>`_ et `2 <https://hal.inria.fr/hal-01629733>`_), `un autre séminaire <http://seminaire.univ-lille1.fr/node/264>`_ (avec `ces planches <publis/slides/2017_12__Presentation_Inria_Lille_SequeL_Seminar/slides_169.pdf>`_), et de belles rencontres et nouvelles idées !
 - Une chouette semaine de vacances pour Noël à Gap et Briançon, et un formidable nouvel an avec mes meilleurs amis à Dol-de-Bretagne !!
 
 
