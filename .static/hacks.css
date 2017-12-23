@@ -137,41 +137,39 @@
 
 div.supportBadges {
     margin: 1em;
-    text-align: center;
+    text-align: right;
 }
-
-div.supportBadges ul {
-    padding: 0;
-    display: inline;
-}
-
-div.supportBadges li {
-    display: inline;
-}
-
-div.supportBadges a {
-    margin-right: 1px;
-    opacity: 0.6;
-}
-
-div.supportBadges a:hover {
-    opacity: 1;
-}
+    div.supportBadges ul {
+        padding: 0;
+        display: inline;
+    }
+    div.supportBadges li {
+        display: inline;
+    }
+    div.supportBadges a {
+        margin-right: 1px;
+        opacity: 0.6;
+    }
+    div.supportBadges a:hover {
+        opacity: 1;
+    }
 
 
 /* Details elements in the sidebar */
+a.reference {
+    border-bottom: none;
+    text-decoration: none;
+}
 
 ul.details {
     font-size: 80%;
 }
-
-ul.details li p {
-    font-size: 85%;
-}
-
-ul.externallinks {
-    font-size: 85%;
-}
+    ul.details li p {
+        font-size: 85%;
+    }
+    ul.externallinks {
+        font-size: 85%;
+    }
 
 
 /* Pour le drapeau de langue dans la barre supérieure */
@@ -181,15 +179,20 @@ img.languageswitch {
     height: 20px;
 }
 
+/* FIXME check CSS3 documentation on how to disable the horizontal (x) scrolling for the sidebar only  */
+div.sphinxsidebar {
+    overflow-y: auto !important;
+}
 
 /* Image style for scrollUp jQuery plugin */
 
-#scrollUpLeft {
+#scrollUpRight {
     bottom: 50px;
-    left: 212px;
+    right: 212px;
     height: 38px;
     width: 38px;
-    background: url('//perso.crans.org/besson/_images/.top.png');
+    background: url('../_images/.top.png');
+    /* background: url('//perso.crans.org/besson/_images/.top.png'); */
 }
 
 @media (max-width: 680px) {
@@ -257,7 +260,8 @@ img.languageswitch {
 }
 
 .social-icons a.facebook {
-    background-image: url('//perso.crans.org/besson/_images/.facebook.png');
+    /* background-image: url('//perso.crans.org/besson/_images/.facebook.png'); */
+    background-image: url('../_images/.facebook.png');
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -265,7 +269,8 @@ img.languageswitch {
 }
 
 .social-icons a.bitbucket {
-    background-image: url('//perso.crans.org/besson/_images/.bitbucket.png');
+    /* background-image: url('//perso.crans.org/besson/_images/.bitbucket.png'); */
+    background-image: url('../_images/.bitbucket.png');
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -273,7 +278,8 @@ img.languageswitch {
 }
 
 .social-icons li a.github {
-    background-image: url('//perso.crans.org/besson/_images/.github.png');
+    /* background-image: url('//perso.crans.org/besson/_images/.github.png'); */
+    background-image: url('../_images/.github.png');
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -281,7 +287,8 @@ img.languageswitch {
 }
 
 .social-icons li a.wikipedia {
-    background-image: url('//perso.crans.org/besson/_images/.wikipedia.png');
+    /* background-image: url('//perso.crans.org/besson/_images/.wikipedia.png'); */
+    background-image: url('../_images/.wikipedia.png');
     display: block;
     margin-left: auto;
     margin-right: auto;

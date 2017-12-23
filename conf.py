@@ -10,6 +10,7 @@ All configuration values have a default; values that are commented out serve to 
 from __future__ import print_function  # Python 2/3 compatible
 
 import sys
+import os
 
 # Tweaks to be Python 2/3 compatible
 if sys.version_info.major >= 3:
@@ -97,7 +98,7 @@ extensions = [
 # mathjax_path = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 # mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 # NEW: to load MathJax asynchronously, I add it on .template/layout.html, and I load nprogress.js with mathjax_path instead
-mathjax_path = "nprogress.js"
+# mathjax_path = "nprogress.js"
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
@@ -152,7 +153,8 @@ extlinks = {
 ##############################################################################
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['.templates']
+# templates_path = ['.templates']
+templates_path = ['.templates_new']
 
 # The suffix of source filenames.
 source_suffix = u'.rst'
@@ -253,7 +255,19 @@ rst_epilog = """
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
-html_theme = 'classic'
+# html_theme = 'classic'
+html_theme = 'alabaster'  # FIXME essayer!
+
+# # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
+# on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+# if not on_rtd:  # only import and set the theme if we're building docs locally
+#     # A installer avec 'pip install sphinx_rtd_theme'
+#     import sphinx_rtd_theme
+#     html_theme = 'sphinx_rtd_theme'
+#     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+# # otherwise, readthedocs.org uses their theme by default, so no need to specify it
+
 # 'default' html theme has been renamed to 'classic'.
 # Please change your html_theme setting either to the new 'alabaster' default theme, or to 'classic' to keep using the old default.
 
@@ -303,21 +317,21 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.fr.html'
-    '**.en':     ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'localtoc.en.html'],  # , 'sidebar_gpg.en.html'],
-    'index.fr':  ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'relations.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'],  # , 'sidebar_gpg.fr.html'
-    'index.en':  ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sourcepdf.en.html', 'linkpdf.en.html', 'relations.en.html', 'localtoc.en.html', 'globaltoc.en.html'],  # , 'sidebar_gpg.en.html'
-    'cv.fr':     ['sourcepdfcv.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'sidebar_gpg.fr.html', 'externallinks.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'],
-    'cv.en':     ['sourcepdfcv.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'sidebar_gpg.en.html', 'externallinks.en.html', 'social_icons.en.html', 'localtoc.en.html'],
-    '**/*':      ['language-selector.html', 'social_icons.fr.html', 'externallinks.fr.html', 'sharingbuttons.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'linkpdf.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],
-    '**/*.en':   ['language-selector.html', 'social_icons.en.html', 'externallinks.en.html', 'sharingbuttons.en.html', 'searchbox.en.html', 'relations.en.html', 'linkpdf.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],
+    '**':        ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
+    '**.en':     ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
+    'index.fr':  ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
+    'index.en':  ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
+    'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sharingbuttons.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'
+    'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html', 'sharingbuttons.en.html', 'social_icons.en.html', 'localtoc.en.html'
+    '**/*':      ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.fr.html', 'linkpdf.fr.html'
+    '**/*.en':   ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.en.html', 'linkpdf.en.html'
 }
 
-# Additional templates that should be rendered to pages, maps page names to template names.
-html_additional_pages = {
-    'download.fr': 'download.fr.html',
-    'download.en': 'download.en.html',
-}
+# # Additional templates that should be rendered to pages, maps page names to template names.
+# html_additional_pages = {
+#     'download.fr': 'download.fr.html',
+#     'download.en': 'download.en.html',
+# }
 
 # If false, no module index is generated.
 html_domain_indices = False
