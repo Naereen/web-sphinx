@@ -1,0 +1,13 @@
+{#
+    .templates/relations.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Add links to the next and the prev pages. (fr version)
+
+    :copyright: Copyright 2013-2016 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
+{%- if prev %}<h4>Page précédente</h4>
+  <p class="topless"><a href="{{ prev.link|e }}" title="Page précédente !">{{ prev.title }}</a></p>{%- endif %}
+{%- if next %}<h4>Page suivante</h4>
+  <p class="topless"><a href="{{ next.link|e }}" title="Page suivante !">{{ next.title }}</a></p>{%- endif %}
