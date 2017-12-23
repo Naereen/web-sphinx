@@ -1,0 +1,165 @@
+﻿/*
+ * CSS improvements on alabaster style
+ * Inspired from https://github.com/chriskrycho/chriskrycho.com/tree/master/2014_theme/static (23 dec 2017)
+ * :copyright: Copyright 2017 Lilian Besson
+ * :license: GPLv3, see LICENSE for details.
+ */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1;
+}
+
+html {
+    font-size: 118.75%;
+    font-family: Sabon, "Adobe Garamond Pro", Garamond, serif;
+}
+
+abbr {
+    font-family: "Sabon SMCP", "Adobe Garamond Pro", Garamond, serif;
+    letter-spacing: 0.2pt;
+}
+
+div.body, div.body p, div.body ul, div.body ol, div.body div {
+    text-align: justify;
+    text-align-last: left;
+    text-justify: inter-word;
+}
+
+div.body h1, h1, div.body h2, h2, div.body h3, h3, div.body h4, h4, div.body h5, h5, div.body h6, h6 {
+    font-family: "Cronos Pro", "Century Gothic", Trebuchet, sans;
+    line-height: 1;
+}
+
+h1, div.body h1 {
+    font-weight: 600;
+    font-size: 2em;
+}
+
+h2, div.body h2 {
+    font-weight: 600;
+    font-size: 1.75em;
+}
+
+h3, div.body h3 {
+    font-weight: 500;
+    font-size: 1.50em;
+}
+
+pre, code {
+    -webkit-hyphens: none !important;
+    -moz-hyphens: none !important;
+    -ms-hyphens: none !important;
+    -o-hyphens: none !important;
+    hyphens: none !important;
+}
+
+em, i, cite {
+    font-style: italic;
+    line-height: 1;
+}
+
+em em, em i, em cite, i em, i i, i cite, cite em, cite i, cite cite {
+    font-style: normal;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    -webkit-font-feature-settings: "liga", "onum", "pnum", "kern";
+    -moz-font-feature-settings: "liga", "onum", "pnum", "kern";
+    -ms-font-feature-settings: "liga", "onum", "pnum", "kern";
+    -o-font-feature-settings: "liga", "onum", "pnum", "kern";
+    font-feature-settings: "liga", "onum", "pnum", "kern"
+}
+
+code {
+    font-family: Hack, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+}

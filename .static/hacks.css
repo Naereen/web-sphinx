@@ -179,9 +179,9 @@ img.languageswitch {
     height: 20px;
 }
 
-/* FIXME check CSS3 documentation on how to disable the horizontal (x) scrolling for the sidebar only  */
 div.sphinxsidebar {
-    overflow-y: auto !important;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* Image style for scrollUp jQuery plugin */
