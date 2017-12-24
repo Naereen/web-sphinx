@@ -331,14 +331,14 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
-    '**.en':     ['social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
-    'index.fr':  ['social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
-    'index.en':  ['social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
-    'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sharingbuttons.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'
-    'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html', 'sharingbuttons.en.html', 'social_icons.en.html', 'localtoc.en.html'
-    '**/*':      ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.fr.html', 'linkpdf.fr.html'
-    '**/*.en':   ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.en.html', 'linkpdf.en.html'
+    '**':        ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
+    '**.en':     ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
+    'index.fr':  ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
+    'index.en':  ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
+    'cv.fr':     ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sharingbuttons.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'
+    'cv.en':     ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html', 'sharingbuttons.en.html', 'social_icons.en.html', 'localtoc.en.html'
+    '**/*':      ['mainpage.html', 'language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.fr.html', 'linkpdf.fr.html'
+    '**/*.en':   ['mainpage.html', 'language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.en.html', 'linkpdf.en.html'
 }
 
 # # Additional templates that should be rendered to pages, maps page names to template names.

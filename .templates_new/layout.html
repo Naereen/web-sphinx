@@ -9,11 +9,6 @@
 #}
 {% extends "!layout.html" %}
 {% block doctype %}<!DOCTYPE html>{% endblock %}
-{% block rootrellink %}
-    <li><a href="//perso.crans.org/besson/" title="Page principale">
-    <img src="{{ pathto('_static/.besson.png', true)|e }}" alt="//perso.crans.org/besson/" style="height:32px; width:32px; vertical-align: middle; margin-top: -1px" /></a>»</li>
-    <li><a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}</li>
-{% endblock %}
 
 {% block extrahead %}
     <meta name="viewport" content="width=device-width, maximum-scale=1.5, initial-scale=1, target-densitydpi=device-dpi" />

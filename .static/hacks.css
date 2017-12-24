@@ -180,7 +180,7 @@ img.languageswitch {
 }
 
 div.sphinxsidebar {
-    max-width: 100%;
+    max-width: 90%;
     overflow-x: hidden !important;
     font-size: 120%;
     word-wrap: break-word;
