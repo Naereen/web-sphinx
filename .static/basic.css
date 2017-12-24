@@ -17,11 +17,6 @@ div.clearer {
     clear: both;
 }
 
-/* FIXME ? */
-/*div.body {
-    margin-top: 35px;
-}*/
-
 /* -- href with extra properties -------------------------------------------- */
 
 a[class*="external"]:after {
@@ -37,16 +32,6 @@ a[class*="external"]:after {
 a[href*="perso.crans.org"]:after {
     color: #C200D3;
     content: "p";
-    z-index:40;
-    font-size: 10px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-}
-
-a[href*="www.dptinfo.ens-cachan.fr/~lbesson"]:after {
-    color: #C200D3;
-    content: "d";
     z-index:40;
     font-size: 10px;
     font-weight: normal;
@@ -344,9 +329,9 @@ img.align-right, .figure.align-right, object.align-right {
 }
 
 img.align-center, .figure.align-center, object.align-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .align-left {
