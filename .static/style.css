@@ -132,6 +132,7 @@ h3, div.body h3 {
 }
 
 pre, code {
+    font-family: Hack, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
     -webkit-hyphens: none !important;
     -moz-hyphens: none !important;
     -ms-hyphens: none !important;
@@ -158,8 +159,4 @@ p {
     -ms-font-feature-settings: "liga", "onum", "pnum", "kern";
     -o-font-feature-settings: "liga", "onum", "pnum", "kern";
     font-feature-settings: "liga", "onum", "pnum", "kern"
-}
-
-code {
-    font-family: Hack, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 }

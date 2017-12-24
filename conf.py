@@ -186,7 +186,7 @@ copyright = u'2011-2017, ' + author
 # built documents.
 #
 # The short X.Y version.
-version = '2.6'
+version = '3.0'
 # The full version, including alpha/beta/rc tags.
 release = 'public'
 
@@ -271,6 +271,19 @@ html_theme = 'alabaster'  # FIXME essayer!
 # 'default' html theme has been renamed to 'classic'.
 # Please change your html_theme setting either to the new 'alabaster' default theme, or to 'classic' to keep using the old default.
 
+# http://alabaster.readthedocs.io/en/latest/customization.html
+html_theme_options = {
+    'logo': 'logo.png',
+    'touch_icon': 'logo.png',
+    'logo_name': True,
+    'font_size': '21px',
+    'description': 'Homepage of Lilian Besson',
+    'page_width': '1200px',
+    'github_user': 'Naereen',
+    'github_repo': 'web-sphinx',
+    'github_button': True,
+}
+
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -317,10 +330,10 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
-    '**.en':     ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
-    'index.fr':  ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
-    'index.en':  ['language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
+    '**':        ['social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
+    '**.en':     ['social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
+    'index.fr':  ['social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
+    'index.en':  ['social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
     'cv.fr':     ['sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sharingbuttons.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'
     'cv.en':     ['sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html', 'sharingbuttons.en.html', 'social_icons.en.html', 'localtoc.en.html'
     '**/*':      ['language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.fr.html', 'linkpdf.fr.html'
