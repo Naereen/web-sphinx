@@ -24,11 +24,11 @@ try:
     try:
         from ansicolortags import printc
     except ImportError:
-        print("Optional dependancy (ansicolortags) is not available, using regular print function.")
+        print("Optional dependency (ansicolortags) is not available, using regular print function.")
         print("  You can install it with : 'pip install ansicolortags' (or sudo pip)...")
         from ANSIColors import printc
 except ImportError:
-    print("Optional dependancy (ANSIColors) is not available, using regular print function.")
+    print("Optional dependency (ANSIColors) is not available, using regular print function.")
     print("  You can install it with : 'pip install ANSIColors-balises' (or sudo pip)...")
 
     def printc(*a, **kw):
@@ -95,10 +95,7 @@ extensions = [
 # If you host more than one Sphinx documentation set on one server, it is advisable to install MathJax in a shared location.
 # You can also give a full http:// URL different from the CDN URL.
 
-# mathjax_path = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
-# mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
-# NEW: to load MathJax asynchronously, I add it on .template/layout.html, and I load nprogress.js with mathjax_path instead
-# mathjax_path = "nprogress.js"
+mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;locale=fr"
 
 # The output format for Graphviz when building HTML files. This must be either 'png' or 'svg'; the default is 'png'.
 graphviz_output_format = 'svg'
@@ -255,34 +252,20 @@ rst_epilog = """
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes.
-# html_theme = 'classic'
-html_theme = 'alabaster'  # FIXME essayer!
-
-# # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
-# on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
-# if not on_rtd:  # only import and set the theme if we're building docs locally
-#     # A installer avec 'pip install sphinx_rtd_theme'
-#     import sphinx_rtd_theme
-#     html_theme = 'sphinx_rtd_theme'
-#     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-# # otherwise, readthedocs.org uses their theme by default, so no need to specify it
-
-# 'default' html theme has been renamed to 'classic'.
-# Please change your html_theme setting either to the new 'alabaster' default theme, or to 'classic' to keep using the old default.
+html_theme = 'alabaster'
 
 # http://alabaster.readthedocs.io/en/latest/customization.html
 html_theme_options = {
     'logo': 'logo.png',
     'touch_icon': 'logo.png',
     'logo_name': True,
-    'font_size': '21px',
+    'font_size': '22px',
     'description': 'Homepage of Lilian Besson',
     'page_width': '1250px',
     'sidebar_width': '370px',
-    'github_user': 'Naereen',
-    'github_repo': 'web-sphinx',
-    'github_button': True,
+    # 'github_user': 'Naereen',
+    # 'github_repo': 'web-sphinx',
+    # 'github_button': True,
 }
 
 
@@ -311,7 +294,7 @@ html_static_path = ['.static']
 html_favicon = u".static/.favicon.ico"
 # html_favicon = u".besson.png"
 
-# Sphinx will add “permalinks” for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
+# Sphinx will add "permalinks" for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
 # This value determines the text for the permalink; it defaults to "¶". Set it to None or the empty string to disable permalinks.
 # Changed in version 1.1: This can now be a string to select the actual text of the link. Previously, only boolean values were accepted.
 html_add_permalinks = u"¶"
@@ -331,14 +314,14 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html'
-    '**.en':     ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html'],'sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html'
-    'index.fr':  ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sourcepdf.fr.html', 'linkpdf.fr.html', 'sharingbuttons.fr.html', 'localtoc.fr.html', 'globaltoc.fr.html'
-    'index.en':  ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html''sourcepdf.en.html', 'linkpdf.en.html',, 'sharingbuttons.en.html', 'localtoc.en.html', 'globaltoc.en.html'
-    'cv.fr':     ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],  # , 'sidebar_gpg.fr.html', 'sharingbuttons.fr.html', 'social_icons.fr.html', 'localtoc.fr.html'
-    'cv.en':     ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],  # , 'sidebar_gpg.en.html', 'sharingbuttons.en.html', 'social_icons.en.html', 'localtoc.en.html'
-    '**/*':      ['mainpage.html', 'language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.fr.html', 'linkpdf.fr.html'
-    '**/*.en':   ['mainpage.html', 'language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']  # , 'sidebar_gpg.en.html'],, 'sharingbuttons.en.html', 'linkpdf.en.html'
+    '**':        ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
+    '**.en':     ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
+    'index.fr':  ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
+    'index.en':  ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
+    'cv.fr':     ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
+    'cv.en':     ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],
+    '**/*':      ['mainpage.html', 'language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
+    '**/*.en':   ['mainpage.html', 'language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']
 }
 
 # # Additional templates that should be rendered to pages, maps page names to template names.
