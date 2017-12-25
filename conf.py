@@ -196,10 +196,10 @@ printc("<yellow>[INFO] <white>Setting language to %s. Copyright: %s." % (languag
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = ''
+today = False
 # Else, today_fmt is used as the format for a strftime call.
 # today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
-today_fmt = u'%d %m %Y, %Hh:%Mm:%Ss, avec ♥'
+today_fmt = u'%d %m %Y, %Hh:%Mm:%Ss, avec/with ♥'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -259,10 +259,10 @@ html_theme_options = {
     'logo': 'logo.png',
     'touch_icon': 'logo.png',
     'logo_name': True,
-    'font_size': '22px',
+    'font_size': '23px',
     'description': 'Homepage of Lilian Besson',
     'page_width': '1250px',
-    'sidebar_width': '370px',
+    'sidebar_width': '350px',
     # 'github_user': 'Naereen',
     # 'github_repo': 'web-sphinx',
     # 'github_button': True,
@@ -275,10 +275,10 @@ html_theme_options = {
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 # html_title = u"Page personnelle"
-html_title = ""
+html_title = u"Lilian Besson @ perso.crans.org"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = u"Lilian Besson"
+html_short_title = u"Lilian Besson 🕸"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -314,13 +314,13 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
+    '**':            ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
     '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
     '*.en':         ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
     'cv.fr':        ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
     'cv.en':        ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],
     '**/*.fr':      ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
     '**/*.en':      ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html'],
-    '*':            ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
 }
 
 # # Additional templates that should be rendered to pages, maps page names to template names.

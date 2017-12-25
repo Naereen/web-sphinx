@@ -2,7 +2,7 @@
     .templates/layout.html
     ~~~~~~~~~~~~~~~~~~~~~~
 
-    Page principale. (default version)
+    Main template for all pages. Works blocks by blocks.
 
     :copyright: Copyright 2011-2017 Lilian Besson
     :license: GPLv3, see LICENSE for details.
@@ -38,14 +38,6 @@
                 });
             });
         });
-    </script>
-{{ super() }}
-{% endblock %}
-
-{% block footer %}
-{{ super() }}
-<div class="footer">
-    <script type="text/javascript">
         var thispath = window.location.pathname;
         var thispage = thispath.substring(thispath.length - 8);
         window.cookieconsent_options = {
@@ -63,20 +55,26 @@
             };
         };
     </script>
+{{ super() }}
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+<div class="footer">
     <!-- Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
     <script type="text/javascript" src="{{ pathto('_static/cookieconsent.min.js', true)|e }}"></script>
 
+    <p>
     <a href="https://bitbucket.org/lbesson/web-sphinx/changeset/master" title="Sur bitbucket !">Last changes</a>.
     A remark? A question? Please use this form
     <a href="https://bitbucket.org/lbesson/web-sphinx/issues">web-sphinx/issues</a>!<br>
     This page uses <a href="https://analytics.google.com/">Google Analytics</a>
     to collect audience log, you can disable it with
     <a href="http://noscript.net/getit">NoScript</a> (among other solutions).
+    </p>
 
     <br>
     {% include "geekcode.html" %}
-
-    <noscript><img style="visibility: hidden; display: none;" alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" /></noscript>
 
     <div class="supportBadges"><ul>
     <li><a class="image-reference" title="Tested on Firefox v53.0, Chromium v63 and elinks v0.12pre6" href="https://www.mozilla.org/en-US/firefox/all/">
@@ -119,6 +117,7 @@
     <li><a class="image-reference" title="Web server : Apache HTTPD v2.4.10 (Debian)" href="http://httpd.apache.org/ABOUT_APACHE.html"> <img alt="Web server : Apache HTTPD v2.4.10 (Debian)" src="{{ pathto('_images/.apache_80_15.png', true)|e }}" style="width: 80.0px; height: 15.0px;" /></a></li></ul>
     </div>
     <script type="text/javascript" src="{{ pathto('_static/ga.js', true)|e }}"></script>
+    <noscript><img style="visibility: hidden; display: none;" alt="GA|Analytics" src="https://ga-beacon.appspot.com/UA-38514290-1/{{ pagename|e }}{{ file_suffix|e }}?pixel" /></noscript>
 </div>
 <!-- This page is © Lilian Besson, 2011-2017.
     I'm a PhD student in Reinforcement Learning (Mathematics and Computer Science), at Centrale-Supelec Rennes.
