@@ -16,6 +16,12 @@ I recently switched to a much cleaner theme, based on [alabaster](http://alabast
 ## Where are those pages ?
 ==> On [http://perso.crans.org/besson/](<http://perso.crans.org/besson/> "Check this one !").   [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
 
+## Demos
+- :gb:/:us: in English:
+![Screenshot demo of my web pages in English (1/2)](demo_en.png)
+- :fr: in French:
+![Screenshot demo of my web pages in French (2/2)](demo_fr.png)
+
 ## What do those pages contain ?
 Some pages host my résumé, others are just experiments, about Sphinx and many other things.
 A few pages talk about some points I am interested in (GNU Nano, Sublime Text 3, Firefox, hitch-hiking, maths, Pokémon etc)...
