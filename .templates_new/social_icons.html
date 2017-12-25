@@ -8,7 +8,7 @@
     :license: GPLv3, see LICENSE for details.
 #}
 <script type="text/javascript">
-	if (is_fr) {
+	if ((is_fr) || (!is_en)) {
         window.document.write("<h3><a title='Plus de détails !' href='{{ pathto('callme.fr.html', true)|e }}'>Contactez-moi ?</a></h3>");
     };
     if (is_en) {

@@ -314,6 +314,7 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
+    # Default is to use the common template, which use dynamic javascript to insert correct translation
     '**':            ['mainpage.html', 'social_icons.html', 'externallinks.html', 'language-selector.html', 'searchbox.html', 'relations.html'],
     '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
     '*.en':         ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],

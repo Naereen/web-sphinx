@@ -10,7 +10,7 @@
 {%- if pagename != "search" %}
 <div id="searchbox" style="display: none">
     <script type="text/javascript">
-        if (is_fr) {
+        if ((is_fr) || (!is_en)) {
             window.document.write("<h3>Recherche rapide</h3>");
         };
         if (is_en) {
@@ -24,7 +24,7 @@
         <input type="hidden" name="area" value="default" />
     </form>
     <script type="text/javascript">
-        if (is_fr) {
+        if ((is_fr) || (!is_en)) {
             window.document.write("<p class='searchtip' style='font-size: 80%;'>Saisissez un mot clé ?</p>");
         };
         if (is_en) {

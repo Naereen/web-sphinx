@@ -9,7 +9,7 @@
 #}
 {%- if prev %}
 <script type="text/javascript">
-	if (is_fr) {
+	if ((is_fr) || (!is_en)) {
         window.document.write('<h4>Page précédente</h4><p class="topless"><a href="{{ prev.link|e }}" title="Page précédente !">{{ prev.title }}</a></p>');
     };
     if (is_en) {
@@ -23,7 +23,7 @@
 {%- endif %}
 {%- if next %}
 <script type="text/javascript">
-	if (is_fr) {
+	if ((is_fr) || (!is_en)) {
         window.document.write('<h4>Page suivante</h4><p class="topless"><a href="{{ next.link|e }}" title="Page suivante !">{{ next.title }}</a></p>');
     };
     if (is_en) {
