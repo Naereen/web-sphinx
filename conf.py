@@ -314,14 +314,13 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':        ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
-    '**.en':     ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
-    'index.fr':  ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
-    'index.en':  ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
-    'cv.fr':     ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
-    'cv.en':     ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],
-    '**/*':      ['mainpage.html', 'language-selector.fr.html', 'social_icons.fr.html', 'externallinks.fr.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
-    '**/*.en':   ['mainpage.html', 'language-selector.en.html', 'social_icons.en.html', 'externallinks.en.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html']
+    '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
+    '*.en':         ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
+    'cv.fr':        ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
+    'cv.en':        ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],
+    '**/*.fr':      ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
+    '**/*.en':      ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html'],
+    '*':            ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
 }
 
 # # Additional templates that should be rendered to pages, maps page names to template names.
