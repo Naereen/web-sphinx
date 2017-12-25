@@ -1,0 +1,37 @@
+{#
+    .templates/relations.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Add links to the next and the prev pages. (fr version)
+
+    :copyright: Copyright 2013-2016 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
+{%- if prev %}
+<script type="text/javascript">
+	if (is_fr) {
+        window.document.write('<h4>Page précédente</h4><p class="topless"><a href="{{ prev.link|e }}" title="Page précédente !">{{ prev.title }}</a></p>');
+    };
+    if (is_en) {
+        window.document.write('<h4>Previous page</h4><p class="topless"><a href="{{ prev.link|e }}" title="Previous page!">{{ prev.title }}</a></p>');
+    };
+</script>
+<noscript>
+    <h4>Page précédente</h4>
+    <p class="topless"><a href="{{ prev.link|e }}" title="Page précédente !">{{ prev.title }}</a></p>
+</noscript>
+{%- endif %}
+{%- if next %}
+<script type="text/javascript">
+	if (is_fr) {
+        window.document.write('<h4>Page suivante</h4><p class="topless"><a href="{{ next.link|e }}" title="Page suivante !">{{ next.title }}</a></p>');
+    };
+    if (is_en) {
+        window.document.write('<h4>Next page</h4><p class="topless"><a href="{{ next.link|e }}" title="Next page!">{{ next.title }}</a></p>');
+    };
+</script>
+<noscript>
+    <h4>Page suivante</h4>
+    <p class="topless"><a href="{{ next.link|e }}" title="Page suivante !">{{ next.title }}</a></p>
+</noscript>
+{%- endif %}

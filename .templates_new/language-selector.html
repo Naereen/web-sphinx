@@ -10,16 +10,13 @@
 #}
 <div class="language-selector">
 <script type="text/javascript">
-	var pathname = window.location.pathname;
-	var pagename = pathname.substring(0, pathname.length - 8);
-    var extension = pathname.substring(pathname.length - 8);
-	if ((extension == '.fr.html') || (extension == '_fr.html')) {
+	if (is_fr) {
 		window.document.write('<h3>En anglais ?<a class="image-reference" href="'
 			+ pagename + '.en.html" title="Lire cette page en anglais ?" >'
 			+ '<img style="width:36px; height:23px; float: right;"'
 		    + 'src="{{ pathto('_images/.en-us.gif', true)|e }}" alt="En anglais ?" /></a></h3>');
-	};
-	if ((extension == '.en.html') || (extension == '_en.html')) {
+		};
+	if (is_en) {
 		window.document.write('<h3>In French?<a class="image-reference" href="'
 			+ pagename + '.fr.html" title="Read this page in French?" >'
 			+ '<img style="width:36px; height:23px; float: right;"'

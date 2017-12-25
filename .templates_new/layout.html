@@ -38,15 +38,18 @@
                 });
             });
         });
-        var thispath = window.location.pathname;
-        var thispage = thispath.substring(thispath.length - 8);
+        var pathname = window.location.pathname;
+        var pagename = pathname.substring(0, pathname.length - 8);
+        var extension = pathname.substring(pathname.length - 8);
+        var is_fr = ((extension == '.fr.html') || (extension == '_fr.html'));
+        var is_en = ((extension == '.en.html') || (extension == '_en.html'));
         window.cookieconsent_options = {
             "message":   "This website uses cookies to tweak its display. ",
             "dismiss":   "Got it, thanks for letting me know! I agree!",
             "learnMore": "More info?",
             "link":      "//perso.crans.org/besson/cookies.en.html",
         };
-        if (thispage == '.fr.html') {
+        if (is_fr) {
             window.cookieconsent_options = {
                 "message":   "Ce site utilise des cookies pour personnaliser l'affichage. ",
                 "dismiss":   "OK, merci de prévenir. D'accord !",

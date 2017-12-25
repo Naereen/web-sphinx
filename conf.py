@@ -278,7 +278,7 @@ html_theme_options = {
 html_title = u"Lilian Besson @ perso.crans.org"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = u"Lilian Besson 🕸"
+html_short_title = u"Lilian Besson's 🕸"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -314,7 +314,7 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**':            ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
+    '**':            ['mainpage.html', 'social_icons.html', 'externallinks.html', 'language-selector.html', 'searchbox.html', 'relations.html'],
     '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
     '*.en':         ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
     'cv.fr':        ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],

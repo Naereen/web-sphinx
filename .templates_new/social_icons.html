@@ -1,0 +1,27 @@
+{#
+    .templates/social_icons.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Add links to social networks in the sidebar. (fr version)
+
+    :copyright: Copyright 2013-2017 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
+<script type="text/javascript">
+	if (is_fr) {
+        window.document.write("<h3><a title='Plus de détails !' href='{{ pathto('callme.fr.html', true)|e }}'>Contactez-moi ?</a></h3>");
+    };
+    if (is_en) {
+        window.document.write("<h3><a title='More details!' href='{{ pathto('callme.en.html', true)|e }}'>Contact me?</a></h3>");
+    };
+</script>
+<noscript><h3><a title="Plus de détails !" href="{{ pathto('callme.fr.html', true)|e }}">Contactez-moi ?</a></h3></noscript>
+<ul class="details">
+    <li>📞 <a rel="nofollow" href="tel:100101011101001100111101100001_2">+33 6 28 41 22 57</a></li>
+    <li>✉ <a rel="nofollow" href="mailto:besson(at_crans{.]org">Besson(@)crans.org</a></li>
+</ul>
+<ul class="social-icons">
+    <li><a rel="nofollow" target="_blank" class="github" href="https://GitHub.com/Naereen/" title="Sur GitHub !">GitHub</a></li>
+    <li><a rel="nofollow" target="_blank" class="bitbucket" href="https://Bitbucket.org/lbesson/" title="Sur Bitbucket !">Bitbucket</a></li>
+    <li><a rel="nofollow" target="_blank" class="wikipedia" href="https://fr.wikipedia.org/wiki/Utilisateur:Naereen" title="Sur Wikipedia !">Wikipedia</a></li>
+</ul>
