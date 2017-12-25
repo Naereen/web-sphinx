@@ -40,7 +40,7 @@ Donc, on aimerait aussi avoir des itérateurs du type suivant :
    val Array.iteri : (int -> 'a -> unit) -> 'a array -> unit
 
 
-Où désormais *f* prend en premier argument l'**indice correspondant à son deuxième argument**.
+Où désormais *f* prend en premier argument **l'indice correspondant à son deuxième argument**.
 Très pratique pour éviter les boucles *for* !
 
 .. note:: En Python... ?

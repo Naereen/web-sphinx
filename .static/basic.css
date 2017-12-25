@@ -73,20 +73,6 @@ a[href^="https"]:after {
     top: -7px;
 }
 
-/*a[href$="png"]:after,
-a[href$="jpg"]:after,
-a[href$="gif"]:after,
-a[href$="JPG"]:after,
-a[href$="jepg"]:after {
-    color: #C200D3;
-    content: "§";
-    z-index:40;
-    font-size: 8px;
-    font-weight: normal;
-    position: relative;
-    top: -7px;
-}*/
-
 a[class*="image"]:after{ content:""; }
 
 /* -- links in the geekcode ------------------------------------------------- */

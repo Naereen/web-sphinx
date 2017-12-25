@@ -139,23 +139,28 @@ div.supportBadges {
     margin: 1em;
     text-align: right;
 }
-    div.supportBadges ul {
-        padding: 0;
-        display: inline;
-    }
-    div.supportBadges li {
-        display: inline;
-    }
-    div.supportBadges a {
-        margin-right: 1px;
-        opacity: 0.6;
-    }
-    div.supportBadges a:hover {
-        opacity: 1;
-    }
+
+div.supportBadges ul {
+    padding: 0;
+    display: inline;
+}
+
+div.supportBadges li {
+    display: inline;
+}
+
+div.supportBadges a {
+    margin-right: 1px;
+    opacity: 0.6;
+}
+
+div.supportBadges a:hover {
+    opacity: 1;
+}
 
 
 /* Details elements in the sidebar */
+
 a.reference {
     border-bottom: none;
     text-decoration: none;
@@ -164,12 +169,14 @@ a.reference {
 ul.details {
     font-size: 80%;
 }
-    ul.details li p {
-        font-size: 85%;
-    }
-    ul.externallinks {
-        font-size: 85%;
-    }
+
+ul.details li p {
+    font-size: 85%;
+}
+
+ul.externallinks {
+    font-size: 85%;
+}
 
 
 /* Pour le drapeau de langue dans la barre supérieure */
@@ -199,24 +206,25 @@ div.sphinxsidebar a {
     font-size: 85%;
 }
 
+
 /* Image style for scrollUp jQuery plugin */
 
-#scrollUpRight {
+#scrollUpLeft {
     bottom: 50px;
-    right: 212px;
+    Left: 260px;
     height: 38px;
     width: 38px;
+    background: url('//perso.crans.org/besson/_images/.top.png');
     background: url('../_images/.top.png');
-    /* background: url('//perso.crans.org/besson/_images/.top.png'); */
 }
 
-    @media (max-width: 680px) {
-        #scrollUpRight {
-            right: auto;
-            left: 6px;
-            bottom: 6px;
-        }
+@media (max-width: 680px) {
+    #scrollUpLeft {
+        Left: auto;
+        left: 6px;
+        bottom: 6px;
     }
+}
 
 
 /* responsive for font-size. */
@@ -241,6 +249,7 @@ div.sphinxsidebar a {
         /* Increase even more font size for big screens */
     }
 }
+
 
 /* Social Icons in the sidebar (available: twitter, facebook, linkedin, google+, bitbucket, github) */
 
