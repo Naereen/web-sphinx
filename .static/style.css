@@ -200,6 +200,10 @@ p {
 div.footer, .footer {
     top: 10px;
     padding-right: 10px;
+    color: #444;
+}
+div.footer a, .footer a {
+    color: #555;
 }
 
 @media screen and (max-width: 875px) {
@@ -229,7 +233,7 @@ div.footer, .footer {
         /* background: #222; */
         background: #FFF;
     }
-    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar h3 a {
+    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar h3 a , div.sphinxsidebar a {
         /* color: #FFF; */
         color: #222;
     }
@@ -252,7 +256,12 @@ div.footer, .footer {
         margin-left: auto;
         padding: 0 0 0 0;
         /* background: #222; */
+        background: #FFF;
         /* color: #FFF; */
+        color: #333;
+    }
+    div.footer a, .footer a {
+        color: #444;
     }
     div.supportBadges {
         text-align: center;

@@ -182,9 +182,10 @@ ul.externallinks {
 /* Pour le drapeau de langue */
 
 img.languageswitch {
-    width: 36px;
-    height: 23px;
-    margin-left: 62px;
+    width: 50px;
+    height: 32px;
+    margin-left: 5px;
+    vertical-align: bottom;
 }
 
 div.sphinxsidebar {
