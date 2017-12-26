@@ -96,7 +96,7 @@ body {
 }
 
 html {
-    font-size: 138%;
+    font-size: 135%;
     font-family: Sabon, "Adobe Garamond Pro", Garamond, serif;
 }
 
@@ -219,14 +219,19 @@ div.footer, .footer {
         margin-left: 0;
     }
     div.sphinxsidebar {
-        display: inline;
+        display: block;
         width: 100%;
         max-width: 100%;
         position: relative;
         top: 2px;
         text-align: center;
         float: none;
+        /* background: #222; */
         background: #FFF;
+    }
+    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar h3 a {
+        /* color: #FFF; */
+        color: #222;
     }
     ul {
         margin-left: 0;
@@ -239,13 +244,15 @@ div.footer, .footer {
         width: auto;
     }
     div.footer, .footer {
-        width: 90%;
-        top: 10px;
-        display: inline;
+        width: 100%;
+        max-width: 100%;
+        display: block;
         text-align: center;
         margin-right: auto;
         margin-left: auto;
         padding: 0 0 0 0;
+        /* background: #222; */
+        /* color: #FFF; */
     }
     div.supportBadges {
         text-align: center;
