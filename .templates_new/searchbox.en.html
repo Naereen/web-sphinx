@@ -4,12 +4,12 @@
 
     The search box. (en version)
 
-    :copyright: Copyright 2013-14 Lilian Besson
+    :copyright: Copyright 2013-17 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 {%- if pagename != "search" %}
 <div id="searchbox" style="display: none">
-    <h3>Quick search</h3>
+    <h3>Search</h3>
     <form class="search" action="{{ pathto('search') }}" method="get">
         <input type="text" name="q" />
         <input type="submit" class="btn" value="Go!" />

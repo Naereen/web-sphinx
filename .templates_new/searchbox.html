@@ -4,17 +4,17 @@
 
     The search box. (fr version)
 
-    :copyright: Copyright 2013-14 Lilian Besson
+    :copyright: Copyright 2013-17 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 {%- if pagename != "search" %}
 <div id="searchbox" style="display: none">
     <script type="text/javascript">
         if ((is_fr) || (!is_en)) {
-            window.document.write("<h3>Recherche rapide</h3>");
+            window.document.write("<h3>Recherche</h3>");
         };
         if (is_en) {
-            window.document.write("<h3>Quick search</h3>");
+            window.document.write("<h3>Search</h3>");
         };
     </script>
     <form class="search" action="{{ pathto('search') }}" method="get">
