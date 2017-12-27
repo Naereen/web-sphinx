@@ -1,9 +1,9 @@
 # [Lilian Besson](https://bitbucket.org/lbesson/)'s Web Pages - using Sphinx
-[My web pages](http://perso.crans.org/besson/) are currently generated with [Sphinx Doc](http://sphinx-doc.org) (v*1.5+*).
+[My web pages](http://perso.crans.org/besson/) are currently generated with [Sphinx Doc](http://sphinx-doc.org) (v*1.6+*).
 
 [![Website http://perso.crans.org/besson/](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/)
-[![Made with Python v3.5.2+](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Made with Sphinx v1.5.1+](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](http://sphinx-doc.org/)
+[![Made with Python v3.6+](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Made with Sphinx v1.6+](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](http://sphinx-doc.org/)
 
 I have been using [Sphinx](http://sphinx-doc.org) [since 2012](https://bitbucket.org/lbesson/web-sphinx/commits/b3a0205a3f2fe288f91e9bceb9f1ac6f6335bce3), and I like it very much!
 
@@ -80,6 +80,7 @@ To install all these dependencies, use [brew](https://brew.sh/) on Mac OS, or yo
 ## License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 This project is released under the **GPLv3 license**, for more details,
 take a look at the [LICENSE file](http://perso.crans.org/besson/LICENSE.html) in the source.
+© Lilian Besson, 2012-2018.
 
 *Basically, that allow you to use all or part of the project for you own business.*
 
