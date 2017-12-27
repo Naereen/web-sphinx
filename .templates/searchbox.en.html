@@ -4,22 +4,19 @@
 
     The search box. (en version)
 
-    :copyright: Copyright 2013-14 Lilian Besson
+    :copyright: Copyright 2013-17 Lilian Besson
     :license: GPLv3, see LICENSE for details.
 #}
 {%- if pagename != "search" %}
 <div id="searchbox" style="display: none">
-  <h3>Quick search</h3>
+    <h3>Search</h3>
     <form class="search" action="{{ pathto('search') }}" method="get">
-      <input type="text" name="q" />
-      <input type="submit" class="btn" value="Go ! " />
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
+        <input type="text" name="q" />
+        <input type="submit" class="btn" value="Go!" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
     </form>
     <p class="searchtip" style="font-size: 80%;">Search for a keyword ?</p>
 </div>
 <script type="text/javascript">$('#searchbox').show(0);</script>
-{%- endif %}
-{%- if pagename != "sitemap.en" %}
-  <h3><a href="{{ pathto('sitemap.en.html', true)|e }}" title="Check this page!">Site Map</a></h3>
 {%- endif %}

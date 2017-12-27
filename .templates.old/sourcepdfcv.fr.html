@@ -1,0 +1,23 @@
+{#
+    .templates/sourcepdfcv.fr.html
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    For the CV, show links to PDF. (fr version)
+
+    :copyright: Copyright 2013-2016 Lilian Besson
+    :license: GPLv3, see LICENSE for details.
+#}
+{%- if show_source and has_source and sourcename %}
+<h3>My English résumé?</h3>
+<ul class="this-page-menu">
+  <li><a style="text-decoration: underline" href="cv.en.html" title="Version anglaise"
+         rel="nofollow">Consult it in English</a>, in HTML.</li></br>
+</ul>
+<h3>Mon CV en PDF</h3>
+<ul class="this-page-menu">
+  <li><a style="text-decoration: underline" href="cv.fr.pdf" title="Version française PDF"
+         rel="nofollow">Voir la version française PDF</a>, compilée depuis LaTeX par <a href="http://perso.crans.org/besson/bin/pdflatex" title="Un script colorant la sortie pdflatex pour la rendre plus lisible">PDFLaTeX</a>.</li></br>
+  <li><a style="text-decoration: underline" href="cv.en.pdf" title="Version anglaise PDF"
+         rel="nofollow">Voir la version anglais PDF</a>, compilée depuis LaTeX par <a href="http://perso.crans.org/besson/bin/pdflatex" title="Un script colorant la sortie pdflatex pour la rendre plus lisible">PDFLaTeX</a>.</li></br>
+</ul>
+{%- endif %}
