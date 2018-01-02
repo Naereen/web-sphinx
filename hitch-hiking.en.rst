@@ -41,7 +41,7 @@ Sadly, no more than **330 kms** in France and in Switzerland...
 
    Yes, it's hard to `teach 120h / year <teach.html>`, to `be ranked first of your Masters degree <publis/mva-2016>`_, to do `a research internship at EPFL in Switzerland <https://bitbucket.org/lbesson/internship-mva-2016/>`_, a `Machine Learning summer school in Spain <https://bitbucket.org/lbesson/mlss-2016>`_, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year..
 
-   Hopefully my first year of PhD will let me more time - :red:`Haha it didn't!`
+   Hopefully my first year of PhD will let me more time -- :red:`Haha it didn't!`
 
 
 I did once a nice trip from Grenoble to Briançon under the rain, another time from Chambéry to Lausanne, and three times from Genève Airport to Lausanne (very easy).

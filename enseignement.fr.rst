@@ -87,7 +87,7 @@ Premier semestre en 2015 (en Inde)
   :Hackhathon: Pour la `journée de Pi <https://fr.wikipedia.org/wiki/Journée_de_pi>`_ 2015 (14 mars 2015), j'avais organisé un grand hackhathon sur le thème de *pi* (le nombre, mais aussi les *pie charts* ou diagramme camenberts en français). Le sujet du hackhathon est disponible `ici (publis/hackhathon) <./publis/hackathon/14_03_2015.pdf>`_ (en anglais). Environ 40 élèves avaient travaillés dessus tout en s'amusant ce jour là !
 
 
-- `MA102 @ MEC <./ma102/>`_ : en charge d'un groupe pour des TDs de maths (algèbre linéaire et analyse multi-variable). 2 heures hebdomadaires pendant 17 semaines (janvier - avril 2014).
+- `MA102 @ MEC <./ma102/>`_ : en charge d'un groupe pour des TDs de maths (algèbre linéaire et analyse multi-variable). 2 heures hebdomadaires pendant 17 semaines (janvier -- avril 2014).
 
   Plus de ressources sont disponibles publiquement :
 

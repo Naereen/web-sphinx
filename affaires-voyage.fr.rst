@@ -78,7 +78,7 @@ Appareils numériques
 - Appareil photo numérique, sa batterie (pleine !) et son chargeur.
 - Une ou deux cartes SD (ou microSD) pour l'appareil photo (vide ou presque !).
 
-- Téléphone intelligent (*smartphone*), avec une bonne carte SD (32 ou 64 Go), sa batterie pleine et son chargeur (µUSB - USB et adaptateur 220V). Bien penser à installer `de bonnes applications <apk.fr.html>`_ dessus *avant* le départ (et à minimiser la consommation batterie).
+- Téléphone intelligent (*smartphone*), avec une bonne carte SD (32 ou 64 Go), sa batterie pleine et son chargeur (µUSB -- USB et adaptateur 220V). Bien penser à installer `de bonnes applications <apk.fr.html>`_ dessus *avant* le départ (et à minimiser la consommation batterie).
 
 Matériel de camping
 ^^^^^^^^^^^^^^^^^^^

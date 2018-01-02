@@ -104,7 +104,7 @@ In 2014
 
 Second semester of 2014 (in India)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- `MA101 @ MEC <./ma101/>`_ (July - December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
+- `MA101 @ MEC <./ma101/>`_ (July -- December 2014). In charge of 3 groups (out of 8) for Maths tutorials (introduction to calculus and logical thinking). 6 hours weekly, during 17 weeks (~ 102 hours).
 
   More resources are available:
 

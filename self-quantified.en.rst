@@ -41,7 +41,7 @@ But also digital data on which you have a less direct access:
 .. warning::
 
    *That's the scary part*: realize how many companies, apps and services have data about *you*.
-    And freak out about the fact that almost none of them don't allow you to download raw versions or delete your data - and that most of them don't even allow you *see* your data!
+    And freak out about the fact that almost none of them don't allow you to download raw versions or delete your data -- and that most of them don't even allow you *see* your data!
 
 
 1.3 Self-logging outside of the digital world

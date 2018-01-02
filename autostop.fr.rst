@@ -41,7 +41,7 @@ Malheureusement, pas plus de **330 kms** en France et en Suisse...
 
   Eh oui, on peut pas `enseigner 120h/an <teach.html>`_, `majorer son M2 <publis/mva-2016>`_, faire un `stage de recherche à l'EPFL en Suisse <https://bitbucket.org/lbesson/internship-mva-2016/>`_, une `école d'été en apprentissage statistique en Espagne <https://bitbucket.org/lbesson/mlss-2016>`_, des vacances en Italie, Autriche et Hongrie, et EN PLUS faire beaucoup de stop dans la même année...
 
-  Espérons que ma première année de thèse me laisse plus de temps - :red:`Haha si seulement !`
+  Espérons que ma première année de thèse me laisse plus de temps -- :red:`Haha si seulement !`
 
 
 J'ai fait une fois le trajet charmant de Grenoble à Briançon sous la pluie, une autre fois de Chambéry vers Lausanne, et trois fois de l'aéroport de Genève vers Lausanne (très facile).
@@ -67,8 +67,8 @@ En août 2015, durant mon séjour en Islande, j'ai poucé pour environ **600 kms
    "Landeyahopn (départ)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
 
 
-En juillet 2015, j'ai fait un aller-retour Briançon - Avignon (dans la région PACA), pour environ deux fois 260 kms, soit **520 kms**.
-Quelques aller-retours Briançon - Gap m'ont aussi fait faire environ **300 kms** entre mai et août 2015.
+En juillet 2015, j'ai fait un aller-retour Briançon -- Avignon (dans la région PACA), pour environ deux fois 260 kms, soit **520 kms**.
+Quelques aller-retours Briançon -- Gap m'ont aussi fait faire environ **300 kms** entre mai et août 2015.
 
 En juin 2015, environ **700 kms** durant un petit voyage de 10 jours en France et en Suisse :
 

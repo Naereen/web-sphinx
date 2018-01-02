@@ -86,7 +86,7 @@ Voyages
 Rencontres
 ^^^^^^^^^^
 - Tomber amoureux.
-- Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) - mais pas via le monde de la recherche (c'est trop facile sinon).
+- Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon).
 - Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !).
 
 Activités

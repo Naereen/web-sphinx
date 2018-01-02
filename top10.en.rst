@@ -95,7 +95,7 @@ My 10 favorite **songs**
 - `Nothing Else Matters <https://www.youtube.com/results?search_query=Nothing+Else+Matters+Metallica>`_, by `Metallica <https://en.wikipedia.org/wiki/Metallica>`_,
 - `Ballad of the Wind Fish Song <https://www.youtube.com/results?search_query=Ballad+of+the+Wind+Fish+Song+orchestrated+Zelda+Link%27s+Awakening>`_, of the (legendary) game `The Legend of Zelda: Link's Awakening <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link's_Awakening>`_, or instrumental, by `Koji Kondo  <https://en.wikipedia.org/wiki/Koji_Kondo>`_ (`Orchestre Symphony of the Goddess <http://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses>`_),
 - `Skyrim: The Dragonborn Comes <https://www.youtube.com/watch?v=4z9TdDCWN7g>`_, by `Malukah <http://www.malukah.com/>`_ (cover),
-- `Ces diamants-la (Fleur-de-Lys - Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy),
+- `Ces diamants-la (Fleur-de-Lys -- Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy),
 - `Time in a Bottle <https://www.youtube.com/results?search_query=jim+croce+time+in+a+bottle>`_, by `Jim Croce <https://en.wikipedia.org/wiki/Jim_Croce>`_ (`famous for its use in this mythic X-Men scene <https://www.youtube.com/watch?v=1NnyVc8r2SM>`_).
 
 ------------------------------------------------------------------------------

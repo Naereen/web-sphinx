@@ -36,7 +36,7 @@ Quick historical overview
 
 Main statistics
 ---------------
-These stats have been simply summed from the data last accumulated during the last 3 years (March 2013 - March 2016).
+These stats have been simply summed from the data last accumulated during the last 3 years (March 2013 -- March 2016).
 
 - **27000 visits**, it is about an average of *25 visits every day* (but it includes visits from web-bots and crawlers so it might be over estimated...),
 - **51000 pages served**; and, weirdly, `this page <sublime-text.fr.html>`_ in French (`see its translation <sublime-text.en.html>`_) brings about 10% of visits, and `this other one <beacon.en.html>`_ in English get about 5% of the visits,
@@ -85,7 +85,7 @@ Other website?
 - Some projects hosted on this same domain (``perso.crans.org/besson``) have a different Google Analytics key, so they are showed on a separate GA database (*"view"*), but they all have very few visitors.
 - My Bitbucket `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.io/>`_ got about 5000 visits in 3 years (and `this small game is responsible for 20% <http://lbesson.bitbucket.io/2048-agreg/>`_ !),
 - My `documents for the "Computer Science" course <infoMP/>`_ that I taught in a MP prep' school (in Sceaux (France) in 2015-16, got about 400 visits, for 1200 pages seen and about 290 different users, since August 2015 (so they have some recurrent visitors, that's a good sign showing that my students are using these documents!),
-- A tiny Python module I wrote in 2013, `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `its code <https://bitbucket.org/lbesson/ansi-colors/>`_ and `its doc <https://pythonhosted.org/ANSIColors-balises/>`_, receives about 1100 visits since I put them online (February 2013) - it's ridiculously small but who cares! I updated it to support Python 3 in June 2016: `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_: `its code (ansicolortags) <https://bitbucket.org/lbesson/ansicolortags.py/>`_ and `its doc (ansicolortags) <http://ansicolortags.readthedocs.io/>`_!
+- A tiny Python module I wrote in 2013, `ANSIColors <https://pypi.python.org/pypi/ANSIColors-balises>`_, `its code <https://bitbucket.org/lbesson/ansi-colors/>`_ and `its doc <https://pythonhosted.org/ANSIColors-balises/>`_, receives about 1100 visits since I put them online (February 2013) -- it's ridiculously small but who cares! I updated it to support Python 3 in June 2016: `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_: `its code (ansicolortags) <https://bitbucket.org/lbesson/ansicolortags.py/>`_ and `its doc (ansicolortags) <http://ansicolortags.readthedocs.io/>`_!
 - `<https://bitbucket.org/lbesson>`_ and `<http://lbesson.bitbucket.io/>`_ (on Bitbucket),
 - My GitHub `<https://github.com/naereen>`_ and `<http://naereen.github.io/>`_ got about 400 visits (since September 2015).
 
