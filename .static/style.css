@@ -196,17 +196,32 @@ p {
     font-feature-settings: "liga", "onum", "pnum", "kern"
 }
 
+body, div.document {
+    background: url('../_static/gplaypattern.png') #FFF;
+    background: url('//perso.crans.org/besson/_static/gplaypattern.png') #FFF;
+}
 
 div.footer, .footer {
     top: 10px;
     padding-right: 10px;
     color: #444;
+    background: url('../_static/gplaypattern.png') #FFF;
+    background: url('//perso.crans.org/besson/_static/gplaypattern.png') #FFF;
 }
 div.footer a, .footer a {
     color: #555;
 }
 
+div.documentwrapper, div.bodywrapper {
+    background: #FFF;
+}
+
 @media screen and (max-width: 875px) {
+
+    body, div.document, div.footer, .footer {
+        background: #FFF;
+    }
+
     div.document {
         width: 100%;
     }
