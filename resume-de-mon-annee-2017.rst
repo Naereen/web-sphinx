@@ -82,6 +82,6 @@ Décembre 2017
 - Une chouette semaine de vacances pour Noël à Gap et Briançon, et un formidable nouvel an avec mes meilleurs amis à Dol-de-Bretagne !!
 
 
-.. note:: C'est tout pour 2017, à dans un an pour `la suite <resume-de-mon-annee-2018.fr>`_ !
+.. note:: C'est tout pour 2017, à dans un an pour `la suite <resume-de-mon-annee-2018.html>`_ !
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

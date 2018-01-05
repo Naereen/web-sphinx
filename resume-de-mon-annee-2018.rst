@@ -60,6 +60,6 @@ Décembre 2018
 - TODO
 
 
-.. note:: C'est tout pour 2018, à dans un an pour `la suite <resume-de-mon-annee-2019.fr>`_ !
+.. note:: C'est tout pour 2018, à dans un an pour `la suite <resume-de-mon-annee-2019.html>`_ !
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
