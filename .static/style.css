@@ -202,11 +202,14 @@ body, div.document {
 }
 
 div.footer, .footer {
+    margin-top: 0;
+    padding-top: 30px;
     top: 10px;
-    padding-right: 10px;
+    padding-right: 20px;
     color: #444;
-    background: url('../_static/gplaypattern.png') #FFF;
-    background: url('//perso.crans.org/besson/_static/gplaypattern.png') #FFF;
+    background: #FFF;
+    width: 1250px;
+    max-width: 100%;
 }
 div.footer a, .footer a {
     color: #555;
