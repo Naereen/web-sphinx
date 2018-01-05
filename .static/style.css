@@ -245,12 +245,9 @@ div.documentwrapper, div.bodywrapper {
         top: 2px;
         text-align: center;
         float: none;
-        /* background: #222; */
         background: #FFF;
     }
     div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar h3 a , div.sphinxsidebar a {
-        /* color: #FFF; */
-        color: #222;
     }
     ul {
         margin-left: 0;
@@ -270,9 +267,7 @@ div.documentwrapper, div.bodywrapper {
         margin-right: auto;
         margin-left: auto;
         padding: 0 0 0 0;
-        /* background: #222; */
         background: #FFF;
-        /* color: #FFF; */
         color: #333;
     }
     div.footer a, .footer a {

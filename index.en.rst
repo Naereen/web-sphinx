@@ -10,8 +10,11 @@ A few words about me
 --------------------
 Greetings!
 I am **Lilian Besson**, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/version-anglaise/>`_
-:gray:`(a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris; now the school is called ENS de Paris-Saclay)`.
+in Mathematics and Computer Science at |ENSCachan|.
+
+.. |ENSCachan| raw:: html
+
+  <abbr title='ENS de Cachan is a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris; now the school is called ENS de Paris-Saclay'><a href='http://www.ens-cachan.fr/version-anglaise/'>ENS de Cachan</a></abbr>
 
 
 From September 2016 and until August 2019:

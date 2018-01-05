@@ -10,11 +10,13 @@
 -----------------
 Bonjour !
 Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_
-:gray:`(une "Grande École" près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay)`.
+à |ENSCachan|.
 
+.. |ENSCachan| raw:: html
 
-Depuis septembre 2016 et jusqu'à août 2019 :
+  <abbr title="L'ENS de Cachan est une « Grande École » près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay"><a href='http://www.ens-cachan.fr/version-anglaise/'>l'ENS de Cachan</a></abbr>
+
+Depuis septembre 2016 et jusqu'en août 2019 :
 
 - Je fais `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse porte sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
 - Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
