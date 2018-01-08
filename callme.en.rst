@@ -37,8 +37,8 @@ at the following addresses (listed by decreasing preference):
    </style>
 
 
-Office
-~~~~~~~
+My Office
+~~~~~~~~~
 My office, at *CentraleSupélec*, in Rennes, France
 (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
@@ -65,8 +65,8 @@ My office, at *CentraleSupélec*, in Rennes, France
    </script>
 
 
-Home
-~~~~
+My Home
+~~~~~~~
 To my own place (in France)
 (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
 
