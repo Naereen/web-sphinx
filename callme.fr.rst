@@ -37,8 +37,10 @@ aux adresses suivantes (listées par ordre de préférence) :
    </style>
 
 
-1. Mon bureau, à *CentraleSupélec*, campus Rennes, en France
-   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
+Bureau
+~~~~~~
+Mon bureau, à *CentraleSupélec*, campus Rennes, en France
+(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
        Mr Lilian Besson,
        Bureau 329 - Équipe SCEE,
@@ -63,8 +65,10 @@ aux adresses suivantes (listées par ordre de préférence) :
    </script>
 
 
-2. chez moi, en France
-   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+Maison
+~~~~~~
+Chez moi, en France
+(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
 
        Mr Lilian Besson,
        23, boulevard Jeanne d'Arc,
@@ -102,9 +106,11 @@ Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si v
    :target: mailto:Lilian.Besson à ens-cachan point fr
 
 
-Si c'est sérieux, vous pouvez utiliser cette adresse :
+Si c'est sérieux, vous pouvez utiliser une de ces adresses :
 
-  `Lilian point Besson à ens-cachan point fr <mailto:Lilian point Besson à ens-cachan point fr>`_
+- `Lilian point Besson à ens-cachan point fr <mailto:Lilian point Besson à ens-cachan point fr>`_
+- `Lilian point Besson à centralesupelec point fr <mailto:Lilian point Besson à centralesupelec point fr>`_
+- `Lilian point Besson à inria point fr <mailto:Lilian point Besson à inria point fr>`_
 
 .. note::
 
@@ -151,19 +157,6 @@ IRC (salles de discussion)
 De temps en temps, je suis sur le réseau ``irc.crans.org``, connecté souvent aux salles *#crans* et *#general*, sous le pseudo `Naereen <https://gravatar.com/naereen>`_ (j'utilise généralement `irssi <http://irssi.org/about>`_ avec `ces fichiers de configuration <publis/irssi/>`_, en console).
 
 Si vous vous sentez un peu courageux, vous pouvez aussi tenter de "laisser un message" pour moi là bas, *mais ce n'est pas vraiment conçu pour*.
-
-.. VoIP (Téléphonie par l'Internet)
-.. ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. Vous pouvez suivre la `procédure suivante <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ pour m'appeler : téléphoner au ``+33.9.72.11.32.70`` puis composer le "un quatre zero quatre deux" (``14042``) quand le robot le demande.
-
-.. Vous pouvez aussi essayer de m'appeler au compte `Linphone <http://www.linphone.org/>`_ suivant : naereen à linphone point org (" à " = "@", " point " = ".").
-
-.. .. note:: Linphone ?
-
-..    `Linphone`_ est un outil *libre* et *gratuit* de téléphonie par IP, qui fonctionne parfaitement.
-..    Il propose un client pour bureau (Windows, Ubuntu etc) et pour téléphone (Android etc).
-..    Pour Android, je préfère `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
-..    `Linphone`_ permet aussi de créer un compte utilisateur, gratuitement, afin d'appeler sans limite n'importe quel autre utilisateur de VoIP avec le `protocole SIP <http://fr.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
 
 
 Formulaires web

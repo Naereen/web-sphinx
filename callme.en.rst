@@ -37,8 +37,10 @@ at the following addresses (listed by decreasing preference):
    </style>
 
 
-1. My office, at *CentraleSupélec*, in Rennes, France
-   (you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
+Office
+~~~~~~~
+My office, at *CentraleSupélec*, in Rennes, France
+(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
 
        Mr Lilian Besson,
        Office 329 - SCEE Team,
@@ -63,8 +65,10 @@ at the following addresses (listed by decreasing preference):
    </script>
 
 
-2. to my own place (in France)
-   (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+Home
+~~~~
+To my own place (in France)
+(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
 
        Mr Lilian Besson,
        23, boulevard Jeanne d'Arc,
@@ -102,9 +106,11 @@ If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrs
    :target: mailto:Lilian.Besson at ens-cachan dot fr
 
 
-If you are *not* a *spammer*, go on, you can use this one:
+If you are *not* a *spammer*, go on, you can use one of these email addresses:
 
-  `Lilian dot Besson at ens-cachan dot fr <mailto:Lilian dot Besson at ens-cachan dot fr>`_
+- `Lilian dot Besson at ens-cachan dot fr <mailto:Lilian dot Besson at ens-cachan dot fr>`_
+- `Lilian dot Besson at centralesupelec dot fr <mailto:Lilian dot Besson at centralesupelec dot fr>`_
+- `Lilian dot Besson at inria dot fr <mailto:Lilian dot Besson at inria dot fr>`_
 
 .. note::
 
@@ -152,19 +158,6 @@ IRC (chat rooms)
 From time to time, I appear on the IRC network ``irc.crans.org``, in the rooms *#crans* and *#general*, with pseudo `Naereen <https://gravatar.com/naereen>`_ (I usually use `irssi <http://irssi.org/about>`_ with `these configuration files <publis/irssi/>`_, in a terminal, obviously).
 
 If you are feeling particularly audacious, you can try to "let a message for me" there, *that's really a bad idea*.
-
-.. VoIP (Telephony by the Internet)
-.. ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. You could follow this `procedure (in French) <https://wiki.crans.org/VieCrans/UtiliserVoIP#A.2BAMo-tre_appel.2BAOk_depuis_l.27ext.2BAOk-rieur>`_ to call me: call the French fix number ``+33.9.72.11.32.70`` then compose "one four zero four two" (``14042``) when the robot asks you to do it.
-
-.. You could also try to call me (or to text me) at the `Linphone <http://www.linphone.org/>`_ account: naereen at linphone dot org (" at " = "@", " dot " = ".").
-
-.. .. note:: Linphone ?
-
-..    `Linphone`_ is a *free* and *open-source*  voice over IP implementation, which works perfectly.
-..    They have a desktop application (for Windows, Ubuntu etc) and one for mobile phones (Android etc).
-..    For Android, I prefer to use the awesome `CSip Simple <http://apk-dl.com/store/apps/details?id=com.csipsimple>`_.
-..    `Linphone`_ also provides free user accounts, to call (without limit) any other `Linphone`_ users, thanks to VoIP and the `SIP protocol <http://en.wikipedia.org/wiki/Session_Initiation_Protocol>`_.
 
 
 Forms on some web pages
