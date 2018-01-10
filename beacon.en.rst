@@ -164,11 +164,13 @@ will have the code **03-12-2014/4**, and therefore will contains that piece of `
    In October, November and December 2017, I saw a lot of traffic using my Google Analytics ID, from an entity called `EDM`, who apparently sent some emails with an analytics beacon a few times.
    I hope they realized it was useless, but in the meantime they sent over 30K useless requests...
 
-   .. image:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
+   .. figure:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
       :width: 100%
       :align: center
       :alt: A screen capture of Google Analytics homepage showing visits from an unknown "EDM" entity
       :target: _images/stats-google-analytics/
+
+      A screen capture of Google Analytics homepage showing visits from an unknown "EDM" entity.
 
 
 One dead-pixel ?

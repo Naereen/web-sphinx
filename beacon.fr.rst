@@ -149,11 +149,13 @@ et donc se terminera par le morceau de code ``HTML`` suivant :
    En octobre, novembre and décembre 2017, j'ai vu du trafic bizarre sur cette page Google Analytics, émanant d'une entitée appelée `EDM`, qui apparemment a envoyé des emails utilisant cette clé et ces beacon d'analyse d'audience, quelques fois.
    J'espère qu'ils ont réalisé que c'était inutile, mais en attendant, j'ai reçu presque 30K de requêtes inutiles...
 
-   .. image:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
+   .. figure:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
       :width: 100%
       :align: center
       :alt: Une capture d'écran de la page d'accueil de Google Analytics montrant les visites d'une entité "EDM" inconnue
       :target: _images/stats-google-analytics/
+
+      Une capture d'écran de la page d'accueil de Google Analytics montrant les visites d'une entité "EDM" inconnue.
 
 
 Un seul pixel caché
