@@ -157,14 +157,30 @@ will have the code **03-12-2014/4**, and therefore will contains that piece of `
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-12-2014/4?pixel" />
 
 
+.. warning:: Of course, if you want to use this for your own analytics need, don't forget to **change the Google Analytics ID**! Using `UA-38514290-15` will be useless, you won't be able to see the results...
+
+.. note:: Some one did that...
+
+   In October, November and December 2017, I saw a lot of traffic using my Google Analytics ID, from an entity called `EDM`, who apparently sent some emails with an analytics beacon a few times.
+   I hope they realized it was useless, but in the meantime they sent over 30K useless requests...
+
+   .. image:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
+      :width: 100%
+      :align: center
+      :alt: A screen capture of Google Analytics homepage showing visits from an unknown "EDM" entity
+      :target: _images/stats-google-analytics/
+
+
 One dead-pixel ?
 ----------------
 Just to show how it works, a *one-pixel picture* is included right there,
-before the next paragraph. You shouldn't be able to see it, but with the proper
+before the next paragraph. You shouldn't be able to see it, but with a
 debugging tool or be seeing the source of the page,
 you will have confirmation that it is here !
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.en.html/one-dead-pixel?pixel
+
+(the invisible pixel is above)
 
 References
 ----------

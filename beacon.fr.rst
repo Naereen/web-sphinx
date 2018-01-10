@@ -142,12 +142,28 @@ et donc se terminera par le morceau de code ``HTML`` suivant :
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/1?pixel" />
 
 
+.. warning:: Bien sûr, si vous voulez utiliser cette technique pour vos propres analyses, il **ne faut pas oublier de changer l'identifiant Google Analytics** ! Utiliser `UA-38514290-15` est inutile, vous ne seriez pas capable de voir les résultats... (mais moi oui, et c'est inutile).
+
+.. note:: Quelqu'un a vraiment fait ça en fait...
+
+   En octobre, novembre and décembre 2017, j'ai vu du trafic bizarre sur cette page Google Analytics, émanant d'une entitée appelée `EDM`, qui apparemment a envoyé des emails utilisant cette clé et ces beacon d'analyse d'audience, quelques fois.
+   J'espère qu'ils ont réalisé que c'était inutile, mais en attendant, j'ai reçu presque 30K de requêtes inutiles...
+
+   .. image:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
+      :width: 100%
+      :align: center
+      :alt: Une capture d'écran de la page d'accueil de Google Analytics montrant les visites d'une entité "EDM" inconnue
+      :target: _images/stats-google-analytics/
+
+
 Un seul pixel caché
 -------------------
 À titre d'exemple, une autre image sous forme d'*un seul pixel* est inséré,
 juste ci-dessus. Il est possible de la visualiser avec n'importe quel outil de débuggage (*FireBug* par exemple).
 
 .. image:: https://ga-beacon.appspot.com/UA-38514290-15/beacon.fr.html/une-seule-pixel?pixel
+
+(le pixel invisible est au-dessus)
 
 Sources
 -------
