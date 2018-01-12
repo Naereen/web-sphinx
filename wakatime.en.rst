@@ -133,8 +133,19 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - About 600 hours in 2015 entirely, average for WakaTime users was 269h, median 193h (and max 2342h !).
 - Daily average about 2 hours 27 minutes in 2015, average for WakaTime users was 44 min, median 31 min (and max 6 h 25 min !).
-- As for languages, I mainly used `Markdown <https://wakatime.com/leaders/markdown>`_ (177 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (160 h), `Python <https://wakatime.com/leaders/python>`_ (151 h) and `reStructuredText <demo.html>`_ (85 h, and `I am usually the first user of reStructuredText in WakaTime's LeaderBoard <https://wakatime.com/leaders/restructuredtext>`_ !); while other languages have less than 5h/year (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
-- For more details, `see the screenshots in this folder <./_images/WakaTime_a_look_back_at_2015/>`_.
+- As for languages, I mainly used `Markdown <https://wakatime.com/leaders/markdown>`_ (177 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (160 h), `Python <https://wakatime.com/leaders/python>`_ (151 h) and `reStructuredText <demo.html>`_ (85 h, and `I was usually the first user of reStructuredText in WakaTime's LeaderBoard <https://wakatime.com/leaders/restructuredtext>`_ !); while other languages have less than 5h/year (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
+- For more details, `see the screenshots in this folder (2015) <./_images/WakaTime_a_look_back_at_2015/>`_.
+
+
+`Overview of my coding time in 2017 <https://wakatime.com/a-look-back-at-2017>`__
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Like in 2015, about 600 hours in 2017 entirely (611h), average for WakaTime users was 249h (and max 3468h !).
+- Daily average about 2 hours 17 minutes in 2017, average for WakaTime users was 41 min (but the max was 9 h 30 min, this programmer is most surely a crazy dude!).
+- I coded entirely under GNU/Linux (I am a big fan of XUbuntu, as always), and about 303h with `Sublime Text <sublimetext.en.html>`_, 282h with `Visual Studio Code <visualstudiocode.en.html>`_ and 45h with PyCharm. GNU Nano, Firefox and Jupyter are not counted (but `uLogMe <https://github.com/Naereen/uLogMe/>`_ tells me I don't spend much time in them anyway).
+- Project wise, I coded `266h for this project for my PhD (AlgoBandits) <http://banditslilian.gforge.inria.fr/>`_, `48h pour cet article <https://hal.inria.fr/hal-01629733>`_, `41h for generic stuff about my PhD <https://perso.crans.org/besson/phd/>`_, `38h for my slideshows <https://github.com/Naereen/slides>`_, `20h for this website (and about the same time in GNU Nano) <https://bitbucket.org/lbesson/web-sphinx/>`_, `17h for my scripts and Bash configuration <https://bitbucket.org/lbesson/bin/>`_, `10h for my French cooking blog <https://perso.crans.org/besson/cuisine/>`_, `9h for my notebooks (but it doesn't count the time spent in Jupyter) <https://github.com/Naereen/notebooks>`_, and less than 8h for `all the other <https://bitbucket.org/lbesson/>`_ `projects <https://github.com/Naereen/>`_.
+- As for languages, I mainly used `Python <https://wakatime.com/leaders/python>`_ (277 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (107 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (135 h), and `reStructuredText <demo.html>`_ (28 h); while other languages have less than 5h/year (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
+- For more details, `see the screenshots in this folder (2017) <./_images/WakaTime_a_look_back_at_2015/>`_.
+
 
 Small interlude (from `XKCD.com <https://xkcd.com/>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
