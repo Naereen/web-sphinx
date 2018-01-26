@@ -84,4 +84,48 @@ Décembre 2017
 
 .. note:: C'est tout pour 2017, à dans un an pour `la suite <resume-de-mon-annee-2018.html>`_ !
 
+------------------------------------------------------------------------------
+
+Résumé culturel
+---------------
+
+  Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
+
+En 2017, j'ai voyagé là...
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+- En Grèce en avril 2017 pour des vacances,
+- Aux Pays-Bas et en Belgique en juillet 2017 pour `une conférence <http://www.learningtheory.org/colt2017/>`_,
+- Au Portugal en septembre 2017 pour `une autre conférence <http://crowncom.org/2017/>`_,
+- Pas mal en France, en Normandie, en Bretagne, beaucoup à Paris, à Tour, dans les Alpes...
+
+.. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
+
+En 2017, j'ai joué à ces jeux...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Fire Emblem: Fates* sur **3DS** (très cool, un peu trop court),
+- *Super Smash Bros: Melee* sur **GameCube** (sympa mais un peu répétitif seul),
+- *Fire Emblem: Path of Radiance* sur **GameCube** (très sympa, un peu long),
+- *Mario Kart 7* sur **3DS** (bof bof),
+- *The Legend of Zelda: Wind Waker* sur **GameCube** (parfait),
+- *Child of Light* sur **PC** (extraordinaire, mon jeu de l'année),
+- *Fire Emblem Echoes: Shadows of Valentia* sur **3DS** (parfait aussi).
+
+En 2017, j'ai lu ces livres...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Gagner la Guerre* de Jean-Philippe Jaworski (excellent roman d'aventure fantastique),
+- *La Vérité sur l'Affaire Harry Quebert* de Joël Dicker (bof),
+- Beaucoup d'autres...
+
+En 2017, j'ai vu ces films...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Wonder Woman (nul),
+- Valérian et la Cité des Mille Planètes (bof),
+- Beaucoup d'autres...
+
+En 2017, j'ai vu ces séries...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Saison 1 de *True Detective* (j'aime pas),
+- Saison 10 et 11 de *The Big Bang Theory*. Ça s'essouffle mais ça reste drôle !
+- Saison 2 de *Stranger Things*.
+
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
