@@ -54,7 +54,7 @@ You should know how to do it by yourself on your computer, but there is a
 
 You can also simply display the cookies:
 
-.. youtube:: https://www.youtube.com/watch?v=rx8sS_MQGc8i
+.. youtube:: https://youtu.be/i70TFesD3eg?t=56
 
 
 About (in French)

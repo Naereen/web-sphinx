@@ -51,7 +51,7 @@ en configurant son ordinateur de la manière suivante.
 
 On peut aussi voir les cookies en demandant à les afficher :
 
-.. youtube:: https://www.youtube.com/watch?v=rx8sS_MQGc8i
+.. youtube:: https://youtu.be/i70TFesD3eg?t=56
 
 
 Pour Firefox
