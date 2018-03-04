@@ -47,7 +47,12 @@ S'y opposer ?
 
 L'utilisateur peut s'opposer à l'enregistrement de *cookies*,
 ou être prévenu avant d'accepter les cookies,
-en configurant son ordinateur de la manière suivante :
+en configurant son ordinateur de la manière suivante.
+
+On peut aussi voir les cookies en demandant à les afficher :
+
+.. youtube:: https://www.youtube.com/watch?v=rx8sS_MQGc8i
+
 
 Pour Firefox
 ^^^^^^^^^^^^
