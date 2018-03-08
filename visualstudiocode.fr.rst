@@ -219,7 +219,7 @@ Un meilleur support pour certains langages :
 * `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ : permet le débogage de scripts bash (avec `bashdb <http://bashdb.sourceforge.net/>`_).
 * `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : évaluation de la qualité du code, débogage (y compris multi-microprocessus, applications web), Intellisense, auto-complétion, formattage de code, morceaux de code, tests unitaires, et plus, pour le `langage Python <python.html>`_.
 * `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : meilleure coloration syntaxique pour tous les derniers ajouts au langage Python.
-* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applique `autopep8 <https://pypi.python.org/pypi/autopep8>`_ au fichier courant.
+* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applique `autopep8 <https://pypi.org/project/autopep8>`_ au fichier courant.
 * `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : affiche des informations de ``git blame`` dans la barre de statut.
 * `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : affiche le journal git, et l'historique pour un fichier ou une ligne précise.
 * `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : supporte les fichiers ``.gitignore``. Permet d'ajouter un fichier ``.gitignore`` facilement depuis la collection `<https://github.com/github/gitignore>`_.

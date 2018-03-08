@@ -216,7 +216,7 @@ A better support for some languages:
 * `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ : a debugger extension for bash scripts (using `bashdb <http://bashdb.sourceforge.net/>`_).
 * `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more, for the `Python language <python.html>`_.
 * `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : syntax highlighter for cutting edge Python.
-* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies `autopep8 <https://pypi.python.org/pypi/autopep8>`_ to your current file.
+* `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applies `autopep8 <https://pypi.org/project/autopep8>`_ to your current file.
 * `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : see ``git blame`` information in the status bar.
 * `Git History (git log) <https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory>`_ : view git log, file or line History.
 * `gitignore <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>`_ : language support for ``.gitignore`` files. Lets you pull ``.gitignore`` files from the `<https://github.com/github/gitignore>`_ repository.

@@ -55,7 +55,7 @@ Langues parlées
 
 Compétences en programmation et développement
 ---------------------------------------------
- * :Expert: `Python <https://pypi.python.org/pypi/ansicolortags>`_ (2.7-3.6) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.io/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
+ * :Expert: `Python <https://pypi.org/project/ansicolortags>`_ (2.7-3.6) (*script, numérique et orienté objet*), `GNU Bash <http://lbesson.bitbucket.io/bin/>`_ (*script*), `OCaml <http://perso.crans.org/besson/a/m/2/>`_ (*langage fonctionnel*).
  * :Documentation: (de code, programme et projets) `OCamlDoc <http://caml.inria.fr/pub/docs/manual-ocaml/ocamldoc.html>`_ pour `OCaml <http://perso.crans.org/besson/publis/puzzle/>`_, **PyDOC** & `Sphinx <https://bitbucket.org/lbesson/web-sphinx>`_ pour `Python <http://perso.crans.org/besson/publis/Bomberman/>`_.
  * :Intermédiaire: `HTML & CSS <http://lbesson.bitbucket.io/jarvis.html>`_, `JavaScript <http://lbesson.bitbucket.io/README.html>`_ (*pour le web*), `Matlab <https://fr.wikipedia.org/wiki/Matlab>`_ & `GNU Octave <https://fr.wikipedia.org/wiki/GNU_Octave>`_ et **C** (*calcul séquentiel*);
  * :Basique: `Maple <https://fr.wikipedia.org/wiki/Maple>`_, `assembleurs <https://fr.wikipedia.org/wiki/Assembleur>`_ (*Intel x86, MIPS, TI-83+*), `nVidia CUDA <https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture>`_ (*calcul parallèle* `GPGPU <https://fr.wikipedia.org/wiki/General-purpose_processing_on_graphics_processing_units>`_), `BASIC <https://fr.wikipedia.org/wiki/BASIC>`_ (TI-82, TI-83, *langage embarqué* pour les calculatrices graphiques **Texas-Instrument**);
@@ -310,10 +310,9 @@ Projets de programmation en M1 (2012-2013)
    <https://bitbucket.org/lbesson/mpri-bomberman>`_,
    ou sur ce site, `publis/Bomberman <publis/Bomberman/>`_.
 
- * **ANSI Colors** : un script et un module pour ``Python 2`` (et désormais ``Python 3``, cf. `<https://pypi.python.org/pypi/ansicolortags>`_)
+ * **ANSI Colors** : un script et un module pour ``Python 2`` (et désormais ``Python 3``, cf. `<https://pypi.org/project/ansicolortags>`_)
    pour utiliser les couleurs en mode textuel dans un terminal.
-   Disponible en téléchargement sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_
-   (près de 3000 téléchargements pour l'instant, voir ici `un graphique montrant les téléchargements durant le mois de Mai 2013 <http://pypi-ranking.info/module/ANSIColors-balises>`_).
+   Disponible en téléchargement sur `PyPi <https://pypi.org/project/ANSIColors-balises>`_.
    Ou aussi `ici sur Bitbucket lbesson/ansi-colors
    <https://bitbucket.org/lbesson/ansi-colors>`_,
    ou sur ce site `publis/ansi-colors/ <publis/ansi-colors/>`_.

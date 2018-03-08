@@ -209,20 +209,17 @@ Voici `mes documents produits pour le MVA <./publis/mva-2016/>`_, et 6 projets d
 ansicolortags (module Python)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 :yellow:`Nouveau` J'ai mis à jour ce module, il est désormais entièrement compatible avec Python 2 et 3,
-et s'appelle maintenant `ansicolortags <https://pypi.python.org/pypi/ansicolortags>`_ ! (Juin 2016)
+et s'appelle maintenant `ansicolortags <https://pypi.org/project/ansicolortags>`_ ! (Juin 2016)
 Son code est sur `Bitbucket.org/lbesson/ansicolortags.py <https://bitbucket.org/lbesson/ansicolortags.py/>`_,
 sa documentation sur `<http://ansicolortags.readthedocs.io/>`_.
 
 
 En janvier et mars 2013, j'ai écrit un petit module et script pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
-Ce module est hébergé sur `PyPi <https://pypi.python.org/pypi/ANSIColors-balises>`_.
+Ce module est hébergé sur `PyPi <https://pypi.org/project/ANSIColors-balises>`_.
 Sa documentation est hébergée sur `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
 et son code source est hébergé sur `Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 
-Entre mars 2013 et avril 2016, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ environ **5000 fois** !
-*(Des statistiques partielles, pour le mois de mai 2013* `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_
-*et d'autres* `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_
-*ou là* `sur activestate.com <https://code.activestate.com/pypm/ansicolors-balises/>`_.)
+Entre mars 2013 et avril 2016, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ environ **5000 fois**.
 
 Nautilus Terminal v1.2
 ^^^^^^^^^^^^^^^^^^^^^^

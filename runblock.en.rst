@@ -7,7 +7,7 @@
 ##########################################
 
 In this page, I am testing an "experimental" feature of `Sphinx <http://www.sphinx-doc.org/en/stable/>`_,
-the `autorun extension <https://pypi.python.org/pypi/sphinxcontrib-autorun/>`_, which provides a ``.. runblock::`` directive,
+the `autorun extension <https://pypi.org/project/sphinxcontrib-autorun/>`_, which provides a ``.. runblock::`` directive,
 to execute arbitrary code when generating a Sphinx-powered web-page.
 
 .. seealso:: For a list of possibly useful Sphinx extensions, `this page gives a good overview <http://sphinxext-survey.readthedocs.io/en/latest/index.html>`_.

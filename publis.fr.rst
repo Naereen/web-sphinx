@@ -39,13 +39,13 @@ conçu pour manipuler facilement et efficacement les couleurs ``ANSI``
 dans un terminal **UNIX** ou **Linux** (ou sur **Windows via Cygwin**, ou **Mac OS X**).
 
 .. image::  https://badge.fury.io/py/ansicolortags.svg
-   :target: https://pypi.python.org/pypi/ansicolortags
+   :target: https://pypi.org/project/ansicolortags
 .. image::  https://readthedocs.org/projects/ansicolortags/badge/?version=latest
    :target: http://ansicolortags.readthedocs.io/
 
-* Il est hébergé sur `Pypi <https://pypi.python.org/pypi/ansicolortags>`_ (v0.4), et peut être installé par un simple ``pip install ansicolortags`` !
+* Il est hébergé sur `Pypi <https://pypi.org/project/ansicolortags>`_ (v0.4), et peut être installé par un simple ``pip install ansicolortags`` !
 * La documentation complète du module est ici: `<http://ansicolortags.readthedocs.io/>`_.
-* Il est basé sur `ANSIColors-balises <https://pypi.python.org/pypi/ANSIColors-balises>`_, qui était trop vieux et ne supportait que Python 2. ANSIColors-balises a été téléchargé environ 5000 fois entre mars 2013 et février 2016. (Des statistiques *partielles*, pour mai 2013 `sont ici <http://pypi-ranking.info/module/ANSIColors-balises>`_ et d'autres `ici <http://developers.dazzit.com/item/en/US/Python-Packages/ANSIColors-balises/>`_, `ou encore ici sur pypi-ranking.info <http://pypi-ranking.info/module/ANSIColors-balises>`_.)
+* Il est basé sur `ANSIColors-balises <https://pypi.org/project/ANSIColors-balises>`_, qui était trop vieux et ne supportait que Python 2. ANSIColors-balises a été téléchargé environ 5000 fois entre mars 2013 et février 2016.
 * Un exemple d'utilisation (la sortie ne s'affiche pas comme il faut car Sphinx ne supporte pas l'inclusion de couleurs dans les exemples de code) : ::
 
    >>> # The good way (and safe) to use ansicolortags:
