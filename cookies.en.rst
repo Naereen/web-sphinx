@@ -52,6 +52,11 @@ will be stored (and, obviously, the related functionalities won't work).
 You should know how to do it by yourself on your computer, but there is a
 `google research link to learn how to do it <http://lmgtfy.com/?q=How+to+prevent+cookies+from+being+stored+in+my+computer+%3F>`_.
 
+You can also simply display the cookies:
+
+.. youtube:: https://youtu.be/i70TFesD3eg?t=56
+
+
 About (in French)
 -----------------
 :Source 3: `<https://silktide.com/why-the-cookie-law-is-total-clownshoes/>`_ (in English).
