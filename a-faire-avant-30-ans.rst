@@ -40,9 +40,9 @@ Articles et publications
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
-- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (en particulier `ce projet <http://banditslilian.gforge.inria.fr/>`_).
+- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (DONE en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
-- *Recevoir* plus de 50 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (c'est en cours, avec `ça <https://github.com/Naereen/StrapDown.js>`_, `ou ça <https://github.com/Naereen/Nginx-Fancyindex-Theme>`_ ou `encore ça <https://github.com/Naereen/notebooks>`_... Pour l'instant, 27 étoiles au maximum).
+- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 50, avec `ça <https://github.com/Naereen/badges>`_).
 - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme `MLOSS <http://mloss.org/>`_).
 
 Enseignement
@@ -54,8 +54,8 @@ Enseignement
 
 Collaborations
 ^^^^^^^^^^^^^^
-- Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain !).
-- Avoir (au moins) deux personnes non-francophones dans mon jury de thèse.
+- Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain ?).
+- Avoir (au moins) deux personnes non-francophones dans mon jury de thèse ?
 
 Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -68,7 +68,7 @@ Présentations ou exposés
 Personnellement
 ---------------
 
-- Continuer à être *curieux* de tout.
+- Continuer à être *curieux*, de tout.
 - Continuer d'être toujours aussi *gentil* que possible.
 - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
 
@@ -76,15 +76,15 @@ Voyages
 ^^^^^^^
 - Aller en *Afrique*, en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
 - Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai fait pas beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
-- Aller sur la Lune. Naaan je déconne.
+- Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
 - Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super.
 
+Rencontres
+^^^^^^^^^^
 .. sidebar:: Des suggestions ?
 
     `Dites-moi <callme.html>`_.
 
-Rencontres
-^^^^^^^^^^
 - Tomber amoureux.
 - Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon).
 - Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !).
@@ -120,21 +120,21 @@ Vacances
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
 - Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en ... août 2007).
-- Moins précis, mais... simplement pouvoir continuer à prendre des vacances au moins trois fois dans la'nnée, ce serait GÉNIAL.
+- Moins précis, mais... simplement pouvoir continuer à prendre des vacances au moins trois fois dans l'année, ce serait GÉNIAL.
 
 Famille
 ^^^^^^^
 - *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
-- *Devenir un super tonton*. Ça, je devrais gérer.
+- *Devenir un super tonton*. Ça, je devrais gérer, conditionnellement à l'événement précédent.
 - *Devenir papa*. Ça, ça dépend de moi. Mais pas uniquement. Des volontaires ;-) ?!
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi !
-- *Ne pas acheter de voiture*. Mais vraiment pas quoi.
+- *Ne pas acheter de voiture*. Mais vraiment pas quoi !
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <https://www.penofchaos.com/warham/bd/>`_. Et à être un grand fan de la franchise `Naheulbeuk <https://www.penofchaos.com/warham/donjon/>`_ en entier.
 - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `personne par la guerre ne devient grand <https://www.kaakook.fr/citation-167>`_).
-- Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir.
+- Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
 - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à coeur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et d'autres).
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
