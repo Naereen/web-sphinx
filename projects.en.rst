@@ -29,23 +29,29 @@ From September 2016 and until August 2019:
 Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
 .. image:: .courriel.png
-   :scale: 120 %
-   :align: right
-   :target: mailto:Lilian.Besson＠CentraleSupelec.fr
+    :scale: 75 %
+    :align: left
+    :alt:   My email adress in a PNG image...
+    :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. by *email* at this adress `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
 
-   .. image:: .telephone.png
-      :scale: 130 %
-      :align: right
-      :target: callto:100101011101001100111101100001_2
+.. image:: .telephone.png
+    :scale: 35 %
+    :align: left
+    :alt:   My phone number in a PNG image...
+    :target: callto:100101011101001100111101100001_2
 
 #. you can call me or send me a SMS:
 
 ------------------------------------------------------------------------------
 
-Last year (*2015-16*)
-^^^^^^^^^^^^^^^^^^^^^
+Last year (*2016-17*)
+^^^^^^^^^^^^^^^^^^^
+* I started my PhD.
+
+In *2015-16*
+^^^^^^^^^^^^
 * I was a `research intern <https://people.epfl.ch/lilian.besson>`_ in the `BIG/LIB team <http://bigwww.epfl.ch/people.html>`_ at `EPFL (Lausanne, Switzerland) <http://www.epfl.ch/>`_, from April to August 2016, under the supervision of `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ and `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Check out the `git repository for my internship <https://bitbucket.org/lbesson/internship-mva-2016>`_ (`my Master thesis <https://goo.gl/xPzw4A>`_ is finished) !
 
 * I obtained the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (at `ENS de Cachan`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_. Cf. `my documents written for the MVA <./publis/mva-2016/>`_, and `6 projects <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_: `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. I ranked *first* for the MVA master in 2015-16, with 13 courses valided and the final grade of **18.43 / 20** (`"summa cum laude" <https://en.wikipedia.org/wiki/Latin_honors>`_).

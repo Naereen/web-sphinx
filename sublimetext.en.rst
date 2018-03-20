@@ -18,7 +18,7 @@ This page is there to quickly describe how I use on a daily basis the awesome **
 
    « *Its use is common, even essential for some basic computing tasks such as system administration and software development..* »
 
-   Needless to say that `I use it constantly <https://wakatime.com/@lbesson/>`_, mostly on Linux (Ubuntu 15.10), and on Windows (7).
+   Needless to say that `I use a text editor constantly <https://wakatime.com/@lbesson/>`_, mostly on Linux (Ubuntu 17.10), and on Windows (7/8/10).
 
    The Wikipedia page `on text editors <https://en.wikipedia.org/wiki/Comparison_of_text_editors>`_ contains a list of the most popular publishers multi-platform text.
    Sublime Text is obviously on the list, along with `gedit <publis/gedit/>`_, the two legendary Emacs and Vim, and for example Komodo Edit.
@@ -329,7 +329,7 @@ Additional advice
    `Visual Studio Code <https://code.visualstudio.com/>`_
       is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      After 4 years of intensive use, I completely gave up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_ (no, I don't regret anything, a famous French song)...
 
 
 .. seealso::

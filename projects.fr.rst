@@ -24,8 +24,37 @@ Depuis septembre 2016 et jusqu'en août 2019 :
 
 ------------------------------------------------------------------------------
 
-L'année dernière (2015-16)
+`Adresses de contact <callme.fr.html>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+N'hésitez pas à me *contacter* :
+
+.. image:: .courriel.png
+    :scale: 75 %
+    :align: left
+    :alt:   Mon adresse courriel, dans une image PNG...
+    :target: mailto:Lilian.Besson＠CentraleSupelec.fr
+
+#. par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
+
+.. image:: .telephone.png
+    :scale: 35 %
+    :align: left
+    :alt:   Mon numéro de téléphone dans une image PNG...
+    :target: callto:100101011101001100111101100001_2
+
+#. ou par téléphone :
+
+#. ... et `plus de moyens de me contacter sont présentés ici <callme.fr.html>`_.
+
+
+------------------------------------------------------------------------------
+
+L'année dernière (2016-18)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+* J'ai commencé ma thèse de doctorat.
+
+En *2015-16*
+^^^^^^^^^^^^
 * J'étais `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
 
 * J'ai obtenu le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. J'ai *majoré* le master MVA en 2015-16, avec 13 cours et la note finale de **18.43 / 20** (`"très bien avec félicitations du jury" <https://fr.wikipedia.org/wiki/Mention_honorifique>`_).
@@ -82,17 +111,17 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
 
 #. la façon la plus simple est d'utiliser `ce formulaire <contact/>`_ de façon **non** anonyme (actuellement via l'`annuaire de l'ENS <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_);
 
-   .. image:: .courriel.png
-      :scale: 120 %
-      :align: right
+   .. image:: .courrielCS.png
+      :scale: 75 %
+      :align: left
       :alt:   Mon adresse courriel, dans une image png...
       :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. ou bien par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_ (*oui*, le @ n'est pas en ASCII ici) :
 
-   .. image:: .telephone.png
-      :scale: 130 %
-      :align: right
+   .. image:: .telephoneHandWritten.png
+      :scale: 35 %
+      :align: left
       :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
       :target: callto:100101011101001100111101100001_2
 

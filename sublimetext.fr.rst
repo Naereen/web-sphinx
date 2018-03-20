@@ -18,7 +18,7 @@ Cette page est là pour décrire rapidement l'utilisation que je fais quotidienn
 
    « *Son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.* »
 
-   Inutile de dire donc que `je m'en sers constamment <https://wakatime.com/@lbesson/>`_, principalement sous Linux (Ubuntu 15.10), et aussi sur Windows (7).
+   Inutile de dire donc que `je me sers constamment d'un éditeur de texte <https://wakatime.com/@lbesson/>`_, principalement sous Linux (Ubuntu 17.10), et aussi sur Windows (7/8/10).
 
    La page Wikipédia `sur les éditeurs de textes <https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte#Multi_plates-formes>`_ contient une liste des plus populaires éditeurs de texte multi plates-formes.
    Sublime Text est évidemment dans la liste, accompagné de `gedit <publis/gedit/>`_, des deux légendaires Emacs et Vim, et de Komodo Edit notamment.
@@ -54,7 +54,7 @@ Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *
    `Visual Studio Code <https://code.visualstudio.com/>`_
       est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
       il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      Après 4 ans d'utilisation intensive de Sublime Text, je l'ai abandonné pour passer entièrement à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
 
 
 Qu'est-ce que Sublime Text ?
