@@ -29,16 +29,16 @@ Depuis septembre 2016 et jusqu'en août 2019 :
 N'hésitez pas à me *contacter* :
 
 .. image:: .courriel.png
-    :scale: 75 %
-    :align: left
+    :scale: 40 %
+    :align: right
     :alt:   Mon adresse courriel, dans une image PNG...
     :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
 
 .. image:: .telephone.png
-    :scale: 35 %
-    :align: left
+    :scale: 40 %
+    :align: right
     :alt:   Mon numéro de téléphone dans une image PNG...
     :target: callto:100101011101001100111101100001_2
 

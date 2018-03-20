@@ -30,16 +30,16 @@ From September 2016 and until August 2019:
 Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
 .. image:: .courriel.png
-    :scale: 75 %
-    :align: left
+    :scale: 40 %
+    :align: right
     :alt:   My email adress in a PNG image...
     :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. by *email* at this adress `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
 
 .. image:: .telephone.png
-    :scale: 35 %
-    :align: left
+    :scale: 40 %
+    :align: right
     :alt:   My phone number in a PNG image...
     :target: callto:100101011101001100111101100001_2
 
