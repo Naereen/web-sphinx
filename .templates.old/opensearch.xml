@@ -1,7 +1,0 @@
-{% extends "!opensearch.xml" %}
- {% block extra -%}
-  <ShortName>Lilian Besson's personnal web pages</ShortName>
-  <Description>Search in Lilian Besson's personnal web pages</Description>
-  <Image type="image/x-icon">http://perso.crans.org/besson/_static/.besson.png</Image>
-  <LongName>An opensearch XML description to easily research in Lilian Besson's personnal web pages</LongName>
- {% endblock %}
