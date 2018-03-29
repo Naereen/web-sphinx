@@ -195,7 +195,7 @@ printc("<yellow>[INFO] <white>Setting language to %s. Copyright: %s." % (languag
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
-today = False
+# today = False
 # Else, today_fmt is used as the format for a strftime call.
 # today_fmt = u'%d %b %Y, %Hh:%Mm:%Ss'
 today_fmt = u'%d %m %Y, %Hh:%Mm:%Ss, avec/with ♥'
@@ -314,13 +314,13 @@ printc("<yellow>[INFO]<white> Using html_last_updated_fmt: <u>{}<U>...".format(h
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
     # Default is to use the common template, which use dynamic javascript to insert correct translation
-    '**':            ['mainpage.html', 'social_icons.html', 'externallinks.html', 'language-selector.html', 'searchbox.html', 'relations.html'],
-    '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
-    '*.en':         ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
-    'cv.fr':        ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
-    'cv.en':        ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'externallinks.en.html', 'relations.en.html'],
-    '**/*.fr':      ['mainpage.html', 'social_icons.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
-    '**/*.en':      ['mainpage.html', 'social_icons.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html'],
+    '**':            ['mainpage.html', 'social_icons.html', 'corner-ribbon.html', 'externallinks.html', 'language-selector.html', 'searchbox.html', 'relations.html'],
+    '*.fr':         ['mainpage.html', 'social_icons.fr.html', 'corner-ribbon.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html'],
+    '*.en':         ['mainpage.html', 'social_icons.en.html', 'corner-ribbon.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html'],
+    'cv.fr':        ['mainpage.html', 'sourcepdfcv.fr.html', 'searchbox.fr.html', 'corner-ribbon.fr.html', 'externallinks.fr.html', 'relations.fr.html'],
+    'cv.en':        ['mainpage.html', 'sourcepdfcv.en.html', 'searchbox.en.html', 'corner-ribbon.en.html', 'externallinks.en.html', 'relations.en.html'],
+    '**/*.fr':      ['mainpage.html', 'social_icons.fr.html', 'corner-ribbon.fr.html', 'externallinks.fr.html', 'language-selector.html', 'searchbox.fr.html', 'relations.fr.html', 'localtoc.fr.html'],
+    '**/*.en':      ['mainpage.html', 'social_icons.en.html', 'corner-ribbon.en.html', 'externallinks.en.html', 'language-selector.html', 'searchbox.en.html', 'relations.en.html', 'localtoc.en.html'],
 }
 
 # # Additional templates that should be rendered to pages, maps page names to template names.
