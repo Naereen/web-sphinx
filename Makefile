@@ -26,7 +26,8 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 CP = ~/bin/CP  # Using my CP script, https://bitbucket.org/lbesson/bin/src/master/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure gpghtml send_jarvis send_zamok check
+total: html images obscure send_jarvis send_zamok check
+total_with_gpg: html images obscure gpghtml send_jarvis send_zamok check
 local: html images send_jarvis check
 
 check: warnings severes errors
