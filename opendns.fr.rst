@@ -126,6 +126,48 @@ Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des 
    Rassurant, non ?
 
 
+Two other alternative DNS providers?
+
+Deux autres services DNS alternatifs ?
+--------------------------------------
+Récemment, CloudFare propose aussi un service de DNS gratuit, `non restreint et non restrictif <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, et ouvert à tous :
+
+:Pour l'IPv4: ``1.1.1.1``, ``1.0.0.1`` (encore plus simple à mémoriser !)
+:Pour l'IPv6: ``2606:4700:4700::1111``, ``2606:4700:4700::1001``
+
+
+.. runblock:: console
+
+   $ echo -e "# Réponse principale (1.1.1.1, DNS CloudFare) :"
+   $ dig @1.1.1.1 perso.crans.org
+
+
+.. runblock:: console
+
+   $ echo -e "# Et en IPv6 (2606:4700:4700::1111, DNS CloudFare) :"
+   $ dig @2606:4700:4700::1111 perso.crans.org AAAA +cd
+
+
+Et `Quad9 <https://www.quad9.net/>`_ propose aussi son propre service de DNS.
+
+:Pour l'IPv4: ``9.9.9.9``
+
+
+.. runblock:: console
+
+   $ echo -e "# Réponse principale (9.9.9.9, DNS Quad9) :"
+   $ dig @9.9.9.9 perso.crans.org
+
+
+.. seelalso::
+
+    `Cet article m'a informé de l'existence de ces deux autres services <https://korben.info/1-1-1-1-ou-9-9-9-9-ou-8-8-8-8-quel-dns-choisir.html>`_.
+
+.. seealso::
+
+    `Plus d'informations sur la command dig  <https://blog.udemy.com/dns-lookup-command/>`_ (en anglais).
+
+
 ``resolv.conf``?
 ----------------
 Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf (doc en anglais) <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, en s'inspirant de `cet exemple (www.chaz6.com/files/resolv.conf en anglais) <http://www.chaz6.com/files/resolv.conf>`_, et en suivant `ces explications <https://developers.google.com/speed/public-dns/docs/using#setup>`_.

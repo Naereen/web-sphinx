@@ -127,6 +127,43 @@ But that free service is supposed to not modify the domain names space, contrari
    Reassuring, right?
 
 
+Two other alternative DNS providers?
+------------------------------------
+Recently, CloudFare also offers a free, `non-restrictive <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, and *open-to-anyone* DNS service:
+
+:For IPv4: ``1.1.1.1``, ``1.0.0.1`` (even easier to remember!)
+:For IPv6: ``2606:4700:4700::1111``, ``2606:4700:4700::1001``
+
+.. runblock:: console
+
+   $ echo -e "# Main answer (1.1.1.1 CloudFare server) :"
+   $ dig @1.1.1.1 perso.crans.org
+
+.. runblock:: console
+
+   $ echo -e "# And with IPv6 (2606:4700:4700::1111 CloudFare server) :"
+   $ dig @2606:4700:4700::1111 perso.crans.org AAAA +cd
+
+
+And `Quad9 <https://www.quad9.net/>`_ also offers its own DNS.
+
+:For IPv4: ``9.9.9.9``
+
+.. runblock:: console
+
+   $ echo -e "# Main answer (9.9.9.9 Quad9 server) :"
+   $ dig @9.9.9.9 perso.crans.org
+
+
+.. seelalso::
+
+    `This article informed me of these two new DNS <https://korben.info/1-1-1-1-ou-9-9-9-9-ou-8-8-8-8-quel-dns-choisir.html>`_ (in French).
+
+.. seealso::
+
+    `More about the dig command line <https://blog.udemy.com/dns-lookup-command/>`_.
+
+
 ``resolv.conf``?
 ----------------
 Our Linuxian friends can also use a `resolv.conf <http://manpages.ubuntu.com/manpages/trusty/en/man5/resolv.conf.5.html>`_, and for example `that one on www.chaz6.com/files/resolv.conf <http://www.chaz6.com/files/resolv.conf>`_ can help, or by following `these explanations <https://developers.google.com/speed/public-dns/docs/using#setup>`_.
