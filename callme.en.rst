@@ -100,7 +100,7 @@ If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrs
 (Well... spammers are usually bots, ie spambots, but it feels good to yell at them anyway!)
 
 .. image:: .courriel.png
-   :scale: 120 %
+   :scale: 40 %
    :align: right
    :alt:   My email address in a PNG picture...
    :target: mailto:Lilian.Besson at ens-cachan dot fr
@@ -121,7 +121,7 @@ If you are *not* a *spammer*, go on, you can use one of these email addresses:
 Regular phone
 ^^^^^^^^^^^^^
 .. image:: .telephone.png
-   :scale: 130 %
+   :scale: 50 %
    :align: right
    :alt:   My cellphone number, in a PNG picture...
    :target: callto:100101011101001100111101100001_2
