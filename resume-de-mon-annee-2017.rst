@@ -26,7 +26,7 @@ Mars 2017
 ---------
 - Cérémonie de remise de diplôme du `Master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ (désormais `ENS Paris-Saclay <http://www.ens-paris-saclay.fr/>`_). J'ai `majoré le Master MVA en 2015/2016 <publis/mva-2016>`_ et c'était une année formidable.
 - Deux semaines à Inria Lille. Beaucoup de travail et de nouvelles idées !
-- Participation au `1er Colloque de recherche en histoire dédié à la série Kaamelott d'Alexandre Astier <https://www.him-mag.com/frequence-medievale-colloque-kaamelott-1ere-partie/>`_ à l'Université Paris-Sorbonne.
+- Participation au `1er Colloque de recherche en histoire dédié à la série Kaamelott d'Alexandre Astier <https://www.him-mag.com/frequence-medievale-colloque-kaamelott-1ere-partie/>`_ à l'Université Paris-Sorbonne. Depuis, ils ont sorti `un livre <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ (avril 2018).
 
 Avril 2017
 ----------
@@ -73,7 +73,7 @@ Novembre 2017
 -------------
 - Premier exposé scientifique dans un "atelier" national (à `cette journée du GDR-ISI <http://gdr-isis.fr/index.php?page=reunion&idreunion=348>`_, à Paris), avec `ces planches <publis/slides/2017_09__Presentation_article_CrownCom_Conference/slides_169.pdf>`_.
 - J'ai réussi des `marrons glacés bio maison <cuisine/marrons-glaces-bio-et-faciles.html>`_, pour fêter les 5 mois du lancement `de mon blog de recettes de cuisine <cuisine/>`_. Une trentaine de recettes et plusieurs centaines de vues... Mais ce n'est pas assez, `je continue à avoir d'autres idées <https://github.com/Naereen/cuisine/issues>`_ !
-- Meilleur expérience vidéo-ludique de l'année, j'ai (enfin) joué à `The Legend of Zelda: Wind Waker <https://www.palaiszelda.com/thewindwaker/>`_ sur Nintendo GameCube. Un jeu formidable !
+- Meilleure expérience vidéo-ludique de l'année, j'ai (enfin) joué à `The Legend of Zelda: Wind Waker <https://www.palaiszelda.com/thewindwaker/>`_ sur Nintendo GameCube. Un jeu formidable !
 
 Décembre 2017
 -------------
