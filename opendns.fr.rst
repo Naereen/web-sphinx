@@ -130,7 +130,7 @@ Two other alternative DNS providers?
 
 Deux autres services DNS alternatifs ?
 --------------------------------------
-Récemment, CloudFare propose aussi un service de DNS gratuit, `non restreint et non restrictif <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, et ouvert à tous :
+`Récemment, CloudFare <https://blog.cloudflare.com/announcing-1111/>`_ propose aussi un service de DNS gratuit, `non restreint et non restrictif <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, et ouvert à tous :
 
 :Pour l'IPv4: ``1.1.1.1``, ``1.0.0.1`` (encore plus simple à mémoriser !)
 :Pour l'IPv6: ``2606:4700:4700::1111``, ``2606:4700:4700::1001``

@@ -129,7 +129,7 @@ But that free service is supposed to not modify the domain names space, contrari
 
 Two other alternative DNS providers?
 ------------------------------------
-Recently, CloudFare also offers a free, `non-restrictive <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, and *open-to-anyone* DNS service:
+`Recently, CloudFare <https://blog.cloudflare.com/announcing-1111/>`_ also offers a free, `non-restrictive <https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/>`_, and *open-to-anyone* DNS service:
 
 :For IPv4: ``1.1.1.1``, ``1.0.0.1`` (even easier to remember!)
 :For IPv6: ``2606:4700:4700::1111``, ``2606:4700:4700::1001``
