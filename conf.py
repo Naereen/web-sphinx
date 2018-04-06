@@ -78,7 +78,7 @@ extensions = [
     'sphinx_git', # .. git_changelog::
     'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
     #'hieroglyph', # https://github.com/nyergler/hieroglyph
-    'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/0.1.2'
+    'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/'
     ####### http://sphinx-doc.org/ext/extlinks.html
     'sphinx.ext.extlinks',
     ####### https://github.com/djungelorm/sphinx-tabs
