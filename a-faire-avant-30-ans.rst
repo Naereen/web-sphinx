@@ -30,7 +30,7 @@ Professionnellement
 Voyages
 ^^^^^^^
 - Aller une fois dans *tous les continents* (Amérique, Afrique, Océanie et Asie) *grâce au boulot* ?!
-- Aller sur une île chouette *grâce au boulot* (e.g., la Corse, les Canaries, etc).
+- OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, DONE les Canaries en avril 2018, etc).
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -42,8 +42,8 @@ Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (DONE en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
-- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 50, avec `ça <https://github.com/Naereen/badges>`_).
-- *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme `MLOSS <http://mloss.org/>`_).
+- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 80, avec `ça <https://github.com/Naereen/badges>`_).
+- OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
 
 Enseignement
 ^^^^^^^^^^^^
@@ -71,13 +71,15 @@ Personnellement
 - Continuer à être *curieux*, de tout.
 - Continuer d'être toujours aussi *gentil* que possible.
 - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
+- Perdre un peu de poids !
+- Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
 
 Voyages
 ^^^^^^^
 - Aller en *Afrique*, en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
-- Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai fait pas beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
+- Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai pas fait beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
 - Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
-- Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super.
+- Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super. Comme le Mont Pelvoux par exemple, ou le Mont Rose ou le Mont Blanc.
 
 Rencontres
 ^^^^^^^^^^
@@ -85,21 +87,20 @@ Rencontres
 
     `Dites-moi <callme.html>`_.
 
-- Tomber amoureux.
 - Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon).
 - Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !).
 
 Activités
 ^^^^^^^^^
-- Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
+- Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Faire plus de 10 000 kms en autostop. J'y suis... hum... bientôt (plus que `4000 et des poussières, j'ai commencé à compter ça <autostop.html>`_ à 19 ans...)
+- Faire plus de 10 000 kms en autostop. J'y suis... hum... bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans...)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à ma famille...
 - Couper les cheveux de quelqu'un, et pourquoi pas... me couper moi-même les cheveux ?!
-- Me faire opérer et ne plus avoir besoin de lunettes ?
-- *Devenir un cyborg*. La singularité est proche !
+- Me faire opérer au LASER et ne plus avoir besoin de lunettes ?
+- *Devenir un cyborg*. La singularité est proche ! (blague)
 - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
 .. sidebar:: Des suggestions ?
@@ -109,10 +110,11 @@ Expériences diverses
 Cuisine et envies
 ^^^^^^^^^^^^^^^^^
 - Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (même si on a tendance à les confondre).
-- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois...
-- Distiller de l'alcool moi-même (de prune ou de cerise, par exemple).
-- Brasser de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
+- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc...
+- *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
+- *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
 - Continuer à faire `mes spécialités <cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.
+- Alimenter régulièrement mon `blog de cuisine <cuisine/>`_ avec de belles photos.
 
 Vacances
 ^^^^^^^^
