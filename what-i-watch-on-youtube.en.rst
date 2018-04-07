@@ -48,22 +48,24 @@ Music live concerts
 - `Mahogany Sessions <https://www.youtube.com/channel/UCG36u-k09zdIPQh5EEdVgTA>`_ (weekly).
 - `Sofar Sounds <https://www.youtube.com/channel/UCRLZb8PpI9N7COmYqHiDH7A>`_ (songs from a room) (daily, world music).
 
-Video game music (VGM)
+Video Game Music (VGM)
 ~~~~~~~~~~~~~~~~~~~~~~
 - `8 Bits Brigadier <https://www.youtube.com/channel/UCyxQr-0vV1OivHljmTRKgOg>`_ (8 bits version of VGM).
 - `Bit Symphony <https://www.youtube.com/channel/UCobOC149n-pbHiVZPtue9RQ>`_ (8 bits version of VGM).
 - `Dragonstar DT <https://www.youtube.com/channel/UCykhs_CXvfcX8F_FMKsPW6g>`_ (metal cover of VGM).
-- `Eric Buchholz <XXX>`_ (reorchastration of Zelda music).
-- `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (reorchastration of video game music, maily Zelda and 90s games).
-- `Pokémon Reorchastrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (reorchastration of Pokémon video game music).
-- `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (reorchastration of video game music).
+- `Eric Buchholz <https://ericbuchholz.bandcamp.com/>`_ (reorchestration of Zelda music).
+- `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (reorchestration of VGM, maily Zelda and 90s games).
+- `Games&Symphonies <https://www.youtube.com/user/gamessymphonies>`_ (instrumental).
+- `Pokémon Reorchestrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (reorchestration of Pokémon music).
+- `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (reorchestration of VGM).
+- `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (flute and instrumental covers of VGM)
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (guitar covers of VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (jazz covers of VGM).
-- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (reorchastration of video game music, maily Zelda).
-- `The Second Narrator <XXX>`_ (reorchastration of video game music, maily Zelda).
+- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (reorchestration of VGM, maily Zelda).
+- `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (reorchestration of VGM, maily Zelda). `This playlist <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ is especially awesome!
 - `The Warp Zone <https://www.youtube.com/channel/UCSOkex4abVl14cZ4tLyUYzw>`_ (fun a cappella).
 - `VGMusic Explorers <https://www.youtube.com/channel/UCRyqkxiAAfcYH7hJpup2HzA>`_ (multi-instruments).
-- `ZROE <XXX>`_ (The Legend of Zelda Reorchastrated) (no longer active).
+- `ZROE <http://zreomusic.com/>`_ (`mirror <http://zreo.perix.co.uk/>`_) (The Legend of Zelda Reorchestrated) (no longer active).
 
 Artists doing covers
 ~~~~~~~~~~~~~~~~~~~~
@@ -130,11 +132,11 @@ Vulgarisation in English
 Conferences and talks
 ~~~~~~~~~~~~~~~~~~~~~
 - `Association for Computer Learning <https://www.youtube.com/channel/UCO9-XyXNpEf6Dv9bZuvxACA>`_ (computer science).
-- `CIRM <XXX>`_ (mathematics).
+- `CIRM <https://www.youtube.com/user/CIRMchannel>`_ (advanced applied and theoretical mathematics).
 - `Enthought <https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A>`_ (Python & data science).
-- `IHES <XXX>`_ (mathematics).
-- `Institute for Advanced Studies in Princeton <XXX>`_ (Eistein's).
-- `Institute for Pure & Applied Mathematics <https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA>`_ (IPAM).
+- `IHES <https://www.youtube.com/channel/UC4R1IsRVKs_qlWKTm9pT82Q>`_ (mathematics).
+- `Institute for Advanced Studies in Princeton <https://www.youtube.com/user/videosfromIAS>`_ (advanced physics).
+- `Institute for Pure & Applied Mathematics <https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA>`_ (IPAM) (advanced maths).
 - `Sébastien Bubeck <https://www.youtube.com/channel/UC-UC-nE8B33UGnC-NRaSfug>`_ (machine learning).
 
 ------------------------------------------------------------------------------
@@ -155,7 +157,7 @@ French
 - `Amaury et Quentin <https://www.youtube.com/channel/UCz01c_LhCwq7tCXZPQApG0Q>`_ (French sketches, I love them).
 - `Cyprien <https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ>`_ (French sketches).
 - `France Délires Pro <https://www.youtube.com/channel/UCY8W4Nnjv4OoSI_IKFiBCZA>`_ (OK).
-- `Francois Pérusse <XXX>`_ (Québec, sketches audio).
+- `Francois Pérusse <https://www.youtube.com/user/LeFrancoisPerusse>`_ (Québec, sketches audio).
 - `Gaboom Films <https://www.youtube.com/channel/UC8Boqzo6zcCza64_kOmr6yg>`_ (Québec, fun, active).
 - `Golden Moustache <https://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ>`_ (French sketches, regularly).
 - `Julien Josselin <https://www.youtube.com/channel/UCm7o3SiyBiq-beAi3oNu_Cg>`_ (very fun, not so active).
@@ -182,10 +184,9 @@ English
 Institutions
 ------------
 - `CentraleSupélec <https://www.youtube.com/channel/UC-b_Xc3XZfqOX1P41XErV-w>`_.
-- `CNRS <XXX>`_.
-- `ENS Paris <XXX>`_.
-- `ENS Paris-Saclay <XXX>`_.
-- `ENS Rennes <XXX>`_.
+- `ENS Ulm (Paris) <https://www.youtube.com/channel/UCbn8O8WwMeoZsPRxgumfvAQ>`_.
+- `ENS Paris-Saclay <https://www.youtube.com/user/videoENScachan>`_.
+- `ENS Rennes <https://www.youtube.com/user/ENSRennes>`_.
 - `Mahindra École Centrale <https://www.youtube.com/channel/UCDE0c6dTpKO0PPlV77ZL7XA>`_.
 - `SCEE research team <https://www.youtube.com/channel/UC5UFCuH4jQ_s_4UQb4spt7Q>`_ (I'm doing my PhD there).
 
@@ -194,7 +195,7 @@ Institutions
 Other peoples
 -------------
 - `DaveHax <https://www.youtube.com/channel/UC0rDDvHM7u_7aWgAojSXl1Q>`_ (monthly tip for smart cooking).
-- `Pen of Chaos <XXX>`_ (creator of Naheulbeuk) (news and guitar songs).
+- `Pen of Chaos <https://www.youtube.com/user/Mastapoc>`_ (creator of Naheulbeuk) (news, sketches and guitar songs).
 - `Primitive Technology <https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA>`_ (survival technologies, not so active).
 - `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (Star Wars inspired saberfighting).
 

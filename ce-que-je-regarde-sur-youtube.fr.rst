@@ -53,17 +53,19 @@ Musique de Jeux Vidéos (VGM)
 - `8 Bits Brigadier <https://www.youtube.com/channel/UCyxQr-0vV1OivHljmTRKgOg>`_ (version 8 bits de VGM).
 - `Bit Symphony <https://www.youtube.com/channel/UCobOC149n-pbHiVZPtue9RQ>`_ (version 8 bits de VGM).
 - `Dragonstar DT <https://www.youtube.com/channel/UCykhs_CXvfcX8F_FMKsPW6g>`_ (reprise métal de VGM).
-- `Eric Buchholz <XXX>`_ (réorchastration de musiques de Zelda).
-- `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (réorchastration de VGM, surtout Zelda et des jeux des années 90).
-- `Pokémon Reorchastrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (réorchastration de musiques de Pokémon).
-- `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (réorchastration de VGM).
+- `Eric Buchholz <https://ericbuchholz.bandcamp.com/>`_ (réorchestration de musiques de Zelda).
+- `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (réorchestration de VGM, surtout Zelda et des jeux des années 90).
+- `Games&Symphonies <https://www.youtube.com/user/gamessymphonies>`_ (instrumental).
+- `Pokémon Reorchestrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (réorchestration de musiques de Pokémon).
+- `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (réorchestration de VGM).
+- `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (reprises à la flute de VGM)
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (reprises à deux guitares de VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (reprises jazz de VGM).
-- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (réorchastration de VGM, surtout Zelda).
-- `The Second Narrator <XXX>`_ (réorchastration de video game music, surtout Zelda).
+- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (réorchestration de VGM, surtout Zelda).
+- `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (réorchestration de VGM, surtout Zelda). `Cette liste <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ est assez cool notamment !
 - `The Warp Zone <https://www.youtube.com/channel/UCSOkex4abVl14cZ4tLyUYzw>`_ (drôle, a cappella).
 - `VGMusic Explorers <https://www.youtube.com/channel/UCRyqkxiAAfcYH7hJpup2HzA>`_ (multi-instruments).
-- `ZROE <XXX>`_ (The Legend of Zelda Reorchastrated) (plus actif).
+- `ZROE <http://zreomusic.com/>`_ (`miroir <http://zreo.perix.co.uk/>`_) (The Legend of Zelda Reorchestrated) (plus actif).
 
 Artistes faisant des reprises
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,11 +132,11 @@ Vulgarisation en anglais
 Conférences
 ~~~~~~~~~~~
 - `Association for Computer Learning <https://www.youtube.com/channel/UCO9-XyXNpEf6Dv9bZuvxACA>`_ (informatique).
-- `CIRM <XXX>`_ (mathématiques).
+- `CIRM <https://www.youtube.com/user/CIRMchannel>`_ (mathématiques théoriques avancées et appliquées).
 - `Enthought <https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A>`_ (Python & data science).
-- `IHES <XXX>`_ (mathématiques).
-- `Institute for Advanced Studies in Princeton <XXX>`_ (Eistein's).
-- `Institute for Pure & Applied Mathematics <https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA>`_ (IPAM).
+- `IHES <https://www.youtube.com/channel/UC4R1IsRVKs_qlWKTm9pT82Q>`_ (mathématiques théoriques avancées).
+- `Institute for Advanced Studies in Princeton <https://www.youtube.com/user/videosfromIAS>`_ (physique avancée).
+- `Institute for Pure & Applied Mathematics <https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA>`_ (IPAM) (mathématiques avancées).
 - `Sébastien Bubeck <https://www.youtube.com/channel/UC-UC-nE8B33UGnC-NRaSfug>`_ (apprentissage machine).
 
 ------------------------------------------------------------------------------
@@ -155,7 +157,7 @@ Français
 - `Amaury et Quentin <https://www.youtube.com/channel/UCz01c_LhCwq7tCXZPQApG0Q>`_ (sketches français, je les adore).
 - `Cyprien <https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ>`_ (sketches français).
 - `France Délires Pro <https://www.youtube.com/channel/UCY8W4Nnjv4OoSI_IKFiBCZA>`_ (OK).
-- `Francois Pérusse <XXX>`_ (Québec, sketches audio).
+- `Francois Pérusse <https://www.youtube.com/user/LeFrancoisPerusse>`_ (Québec, sketches audio).
 - `Gaboom Films <https://www.youtube.com/channel/UC8Boqzo6zcCza64_kOmr6yg>`_ (Québec, drôle, active).
 - `Golden Moustache <https://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ>`_ (sketches français, régulier).
 - `Julien Josselin <https://www.youtube.com/channel/UCm7o3SiyBiq-beAi3oNu_Cg>`_ (très drôle, pas très actif).
@@ -182,10 +184,9 @@ English
 Institutions
 ------------
 - `CentraleSupélec <https://www.youtube.com/channel/UC-b_Xc3XZfqOX1P41XErV-w>`_.
-- `CNRS <XXX>`_.
-- `ENS Paris <XXX>`_.
-- `ENS Paris-Saclay <XXX>`_.
-- `ENS Rennes <XXX>`_.
+- `ENS Ulm (Paris) <https://www.youtube.com/channel/UCbn8O8WwMeoZsPRxgumfvAQ>`_.
+- `ENS Paris-Saclay <https://www.youtube.com/user/videoENScachan>`_.
+- `ENS Rennes <https://www.youtube.com/user/ENSRennes>`_.
 - `Mahindra École Centrale <https://www.youtube.com/channel/UCDE0c6dTpKO0PPlV77ZL7XA>`_.
 - `SCEE research team <https://www.youtube.com/channel/UC5UFCuH4jQ_s_4UQb4spt7Q>`_ (je fais ma thèse dans cette équipe).
 
@@ -194,7 +195,7 @@ Institutions
 D'autres gens
 -------------
 - `DaveHax <https://www.youtube.com/channel/UC0rDDvHM7u_7aWgAojSXl1Q>`_ (astuces mensuelles pour cuisiner plus intelligemment et bricoler à la maison).
-- `Pen of Chaos <XXX>`_ (créateur de Naheulbeuk) (actualités et chansons à la guitare).
+- `Pen of Chaos <https://www.youtube.com/user/Mastapoc>`_ (créateur de Naheulbeuk) (actualités, sketches et chansons à la guitare).
 - `Primitive Technology <https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA>`_ (technologies primitives et de survie, pas très actif).
 - `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (combats de sabres laser, inspiré par Star Wars).
 
