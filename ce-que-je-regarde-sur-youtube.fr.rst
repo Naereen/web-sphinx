@@ -58,7 +58,8 @@ Musique de Jeux Vidéos (VGM)
 - `Games&Symphonies <https://www.youtube.com/user/gamessymphonies>`_ (instrumental).
 - `Pokémon Reorchestrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (réorchestration de musiques de Pokémon).
 - `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (réorchestration de VGM).
-- `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (reprises à la flute de VGM)
+- `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (reprises à la flute de VGM).
+- `String Player Gamer <https://www.youtube.com/channel/UCZF_RZUVo-5jUfdlp76G-lQ>`_ (seul, flute & violon, reprises de VGM).
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (reprises à deux guitares de VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (reprises jazz de VGM).
 - `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (réorchestration de VGM, surtout Zelda).
