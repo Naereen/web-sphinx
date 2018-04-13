@@ -56,11 +56,13 @@ Musique de Jeux Vidéos (VGM)
 - `Eric Buchholz <https://ericbuchholz.bandcamp.com/>`_ (réorchestration de musiques de Zelda).
 - `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (réorchestration de VGM, surtout Zelda et des jeux des années 90).
 - `Games&Symphonies <https://www.youtube.com/user/gamessymphonies>`_ (instrumental).
+- `L-Train <https://www.youtube.com/user/TheLTrain9000>`_ (VGM un peu bizarres).
 - `Pokémon Reorchestrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (réorchestration de musiques de Pokémon).
 - `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (réorchestration de VGM).
 - `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (reprises à la flute de VGM).
 - `String Player Gamer <https://www.youtube.com/channel/UCZF_RZUVo-5jUfdlp76G-lQ>`_ (seul, flute & violon, reprises de VGM).
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (reprises à deux guitares de VGM).
+- `The Panda Tooth <https://www.youtube.com/channel/UCxJE4iafiXcoMVrWcGZ4OAQ>`_ (reprises au piano de VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (reprises jazz de VGM).
 - `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (réorchestration de VGM, surtout Zelda).
 - `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (réorchestration de VGM, surtout Zelda). `Cette liste <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ est assez cool notamment !
@@ -93,7 +95,8 @@ Artistes faisant des reprises
 - `Mioune <https://www.youtube.com/channel/UCVixjPv_OAeq5HkTmGWJEsg>`_ (a cappella, traduction française de chansons d'animes).
 - `Nathan Chan <https://www.youtube.com/channel/UCG-c_kl-QP1oeK_Wm-qm16A>`_ (violoncelle).
 - `Nathan Shaumann <https://www.youtube.com/channel/UCCHJOc3eJXwFaQ9UOM7YCaw>`_ (piano).
-- `Pawel Zadrovniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (bizarre, allez écouter un morceau, vous vous ferez un idée).
+- `Paweł Zadrożniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (bizarre, allez écouter un morceau, vous vous ferez un idée).
+- `Roxane Genot - Cellist <https://www.youtube.com/channel/UCXsBCsb-NB62Tuzkj0JfImA>`_ (violoncelle).
 - `Samuel Fu <https://www.youtube.com/channel/UCEnAjXVlOnwPUQN7qkGfMdA>`_ (piano, surtout des morceaux tirés des films Marvel).
 - `Smooth McGroove <https://www.youtube.com/channel/UCJvBEEqTaLaKclbCPgIjBSQ>`_ (reprise a cappella de musiques de jeux vidéo en 8 bits, n'est plus actif).
 - `STL Ocarina <https://www.youtube.com/channel/UC_Dr7hu6jpBqHDHMercHCkg>`_ (ocarina).

@@ -56,11 +56,13 @@ Video Game Music (VGM)
 - `Eric Buchholz <https://ericbuchholz.bandcamp.com/>`_ (reorchestration of Zelda music).
 - `Fenix Ark Angelus <https://www.youtube.com/channel/UCD2LbwVfIX0I_CuzjBQPmwgF>`_ (reorchestration of VGM, maily Zelda and 90s games).
 - `Games&Symphonies <https://www.youtube.com/user/gamessymphonies>`_ (instrumental).
+- `L-Train <https://www.youtube.com/user/TheLTrain9000>`_ (weird VGM).
 - `Pokémon Reorchestrated <https://www.youtube.com/channel/UCMLZcVH-c_Bko4tggYZa7pA>`_ (reorchestration of Pokémon music).
 - `Sean Shafianski <https://www.youtube.com/channel/UC2HIZNaJTmf710uANZxiCTw>`_ (reorchestration of VGM).
 - `Soundole VGM Covers <https://www.youtube.com/user/SoUnDoLe>`_ (flute and instrumental covers of VGM).
 - `String Player Gamer <https://www.youtube.com/channel/UCZF_RZUVo-5jUfdlp76G-lQ>`_ (alone guy, flute & violin, covers of VGM).
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (guitar covers of VGM).
+- `The Panda Tooth <https://www.youtube.com/channel/UCxJE4iafiXcoMVrWcGZ4OAQ>`_ (piano covers of VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (jazz covers of VGM).
 - `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (reorchestration of VGM, maily Zelda).
 - `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (reorchestration of VGM, maily Zelda). `This playlist <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ is especially awesome!
@@ -93,7 +95,8 @@ Artists doing covers
 - `Mioune <https://www.youtube.com/channel/UCVixjPv_OAeq5HkTmGWJEsg>`_ (a cappella, French translation of anime songs).
 - `Nathan Chan <https://www.youtube.com/channel/UCG-c_kl-QP1oeK_Wm-qm16A>`_ (cello).
 - `Nathan Shaumann <https://www.youtube.com/channel/UCCHJOc3eJXwFaQ9UOM7YCaw>`_ (piano).
-- `Pawel Zadrovniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (weird, just go have a look to understand).
+- `Paweł Zadrożniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (weird, just go have a look to understand).
+- `Roxane Genot - Cellist <https://www.youtube.com/channel/UCXsBCsb-NB62Tuzkj0JfImA>`_ (cello).
 - `Samuel Fu <https://www.youtube.com/channel/UCEnAjXVlOnwPUQN7qkGfMdA>`_ (piano, mainly Marvel musics).
 - `Smooth McGroove <https://www.youtube.com/channel/UCJvBEEqTaLaKclbCPgIjBSQ>`_ (a cappella version of 8bits music, no longer active).
 - `STL Ocarina <https://www.youtube.com/channel/UC_Dr7hu6jpBqHDHMercHCkg>`_ (ocarina).
