@@ -82,6 +82,7 @@ Artistes faisant des reprises
 - `Hari Sivan <https://www.youtube.com/channel/UCoZ9sNCWVB7ccW-B4h9FA5g>`_ (piano).
 - `Jill-Jênn Vie <https://www.youtube.com/channel/UCKYfMq4YRiaND2STCzSNUAg>`_ (piano).
 - `Jonathan Estabrooks <https://www.youtube.com/channel/UCIH3jBhzNFTnriQAuWG8y4Q>`_ (a cappella, opera).
+- `Julia Lange <https://www.youtube.com/channel/UCg2K_7mrkygu0xmCQ6v9Chg>`_ (guitare acoustique).
 - `Lara6683 <https://www.youtube.com/channel/UC11j-ApkeIcxSTFtBYBMq3g>`_ (piano, reprise de VGM et musiques de films).
 - `Laura Cox <https://www.youtube.com/channel/UCzQNvCiZtLMvCqyZMX6D9Gg>`_ (bass).
 - `Lee and Lie <https://www.youtube.com/channel/UC8THb_fnOptyVgpi3xuCd-A>`_ (a cappella, chansons d'animes).
