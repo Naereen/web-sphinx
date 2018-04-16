@@ -43,6 +43,13 @@ Code et programmation
 - *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (DONE en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
 - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 97, avec `ça <https://github.com/Naereen/badges>`_).
+    |Stargazers badges over time|
+
+.. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
+   :target: https://starcharts.herokuapp.com/Naereen/badges
+   :scale:  40%
+
+
 - OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
 
 Enseignement
