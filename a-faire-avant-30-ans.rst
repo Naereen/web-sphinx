@@ -34,15 +34,15 @@ Voyages
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations non comptées !). Où :math:`x \geq 1` et aussi grand que possible ! Pour l'instant, :math:`x = 0`...
-- Publier au moins un *article dans une revue* (un *journal*).
+- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible ! Pour l'instant, :math:`x = 0`...
+- Publier au moins un *article dans une revue* (un *"journal"*).
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``. J'y suis presque !
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (DONE en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
-- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 97, avec `ça <https://github.com/Naereen/badges>`_).
+- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 99, avec `ça <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
