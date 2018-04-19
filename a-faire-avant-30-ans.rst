@@ -30,7 +30,7 @@ Professionnellement
 Voyages
 ^^^^^^^
 - Aller une fois dans *tous les continents* (Amérique, Afrique, Océanie et Asie) *grâce au boulot* ?!
-- OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, DONE les Canaries en avril 2018, etc).
+- OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -40,9 +40,9 @@ Articles et publications
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
-- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (DONE en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
+- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
-- *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 99, avec `ça <https://github.com/Naereen/badges>`_).
+- OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 100, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -67,7 +67,7 @@ Collaborations
 Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Recevoir un (autre) *prix pour un article ou un exposé scientifique* (après `le Best Paper Award à CROWNCOM 2017 <https://hal.inria.fr/hal-01575419>`_).
-- Être invité "personnellement" à parler dans un séminaire ou un atelier national (TODO), européen (DONE) ou international (TODO).
+- Être invité "personnellement" à parler dans un séminaire ou un atelier national (TODO), européen (OK) ou international (TODO).
 - Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante, en discuter après l'exposé avec la personne, et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
 
 -----------------------------------

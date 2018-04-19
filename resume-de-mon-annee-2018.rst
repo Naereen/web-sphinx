@@ -31,10 +31,11 @@ Mars 2018
 Avril 2018
 ----------
 - De belles expériences avec `CouchSurfing <https://www.CouchSurfing.com/>`_, à Rennes et Nantes et en Espagne.
-- Deux semaines géniales en Espagne, à l'occasion des conférences `ALT 2018 <http://www.cs.cornell.edu/conferences/alt2018/>`_ à Lanzarote (Îles Canaries) et `WCNC 2018 <http://wcnc2018.ieee-wcnc.org/>`_ (Barcelone), pour deux articles de recherche écrits pour ma thèse, `"Multi-Player Bandits Revisited" <https://hal.inria.fr/hal-01629733>`_ et `"Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access" <https://hal.inria.fr/hal-01705292>`_.
-- Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
+- Deux semaines géniales en Espagne, à l'occasion des conférences `ALT 2018 <http://www.cs.cornell.edu/conferences/alt2018/>`_ à Lanzarote (Îles Canaries) et `WCNC 2018 <http://wcnc2018.ieee-wcnc.org/>`_ (Barcelone), pour deux articles de recherche écrits pour ma thèse, `"Multi-Player Bandits Revisited" <https://hal.inria.fr/hal-01629733>`_ et `"Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access" <https://hal.inria.fr/hal-01705292>`_.- Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
 
 .. youtube:: 7_VQCD863CU?t=30
+
+.. warning:: La suite est… dans le futur !
 
 Mai 2018
 --------
