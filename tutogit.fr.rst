@@ -135,6 +135,9 @@ Pour ces deux fichiers de configurations, (sur Linux), un fichier ``.gitconfig``
 
       Cette page `git-scm.com/docs/gitignore <http://git-scm.com/docs/gitignore>`_ ou `cet article sur kernel.org <https://www.kernel.org/pub/software/scm/git/docs/gitignore.html>`_ peuvent aussi aider.
 
+   "Punk Rock Git"
+      `Cet article <https://zwischenzugs.com/2018/05/14/beyond-punk-rock-git-in-eleven-steps/>`_ par `Ian Miell <https://twitter.com/ianmiell>`_ explique très bien certaines commandes git et leurs concepts.
+
 
 En ligne de commande
 ^^^^^^^^^^^^^^^^^^^^
