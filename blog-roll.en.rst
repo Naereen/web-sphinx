@@ -18,7 +18,7 @@ In English, updated regularly.
 
 For geeks:
 
-- `"Coding Horror" <https://blog.codinghorror.com/>`_, `RSS <https://feeds.feedburner.com/codinghorror?format=xml>`_),
+- `"Coding Horror" <https://blog.codinghorror.com/>`_, `RSS <https://feeds.feedburner.com/codinghorror?format=xml>`_,
 - `"CommitStrip" <http://www.commitstrip.com/fr/>`_, `RSS <http://www.commitstrip.com/fr/feed/>`_,
 - `"xkcd.com" <https://xkcd.com/>`_, `RSS <https://xkcd.com/rss.xml>`_.
 
@@ -55,7 +55,7 @@ Maths:
 - `"Homepage of Gabriel Peyré" <http://www.gpeyre.com/>`_, `RSS <http://www.gpeyre.com/feed.xml>`_,
 - `"John D. Cook" <https://www.johndcook.com/>`_, `RSS <https://feeds.feedburner.com/TheEndeavour?format=xml>`_,
 - `"Kevin London's blog" <https://www.kevinlondon.com/>`_, `RSS <https://www.kevinlondon.com/feed.xml>`_,
-- `"Math ∩ Programming" by Jeremy Kun <https://jeremykun.com/>`_, `RSS <https://jeremykun.com/feed/>`_).
+- `"Math ∩ Programming" by Jeremy Kun <https://jeremykun.com/>`_, `RSS <https://jeremykun.com/feed/>`_.
 
 
 Computer science:
@@ -76,15 +76,15 @@ Machine learning:
 - `"composition.al" <http://composition.al/>`_, `RSS <http://composition.al/atom.xml>`_,
 - `"Embedded in Academia" <http://blog.regehr.org/>`_, `RSS <http://blog.regehr.org/feed>`_,
 - `"Erik Bernhardsson" <https://erikbern.com/>`_, `RSS <https://erikbern.com/atom.xml>`_,
-- `"Felix Rieseberg" <https://felixrieseberg.com/>`_, `RSS <https://felixrieseberg.com/rss/>`_),
+- `"Felix Rieseberg" <https://felixrieseberg.com/>`_, `RSS <https://felixrieseberg.com/rss/>`_,
 - `"Google Research Blog" <http://googleresearch.blogspot.com/>`_, `RSS <http://googleresearch.blogspot.com/atom.xml>`_,
 - `"i am trask" <https://iamtrask.github.io/>`_, `RSS <https://iamtrask.github.io/feed.xml>`_,
-- `"John Resig" <https://johnresig.com/>`_, `RSS <https://feeds.feedburner.com/JohnResig>`_),
+- `"John Resig" <https://johnresig.com/>`_, `RSS <https://feeds.feedburner.com/JohnResig>`_,
 - `"Julius Schulz blog" <http://blog.juliusschulz.de/>`_, `RSS <http://blog.juliusschulz.de/blog.rss>`_,
-- `"Kamal Marhubi" <http://kamalmarhubi.com/>`_, `RSS <http://kamalmarhubi.com/blog/feed.xml>`_),
+- `"Kamal Marhubi" <http://kamalmarhubi.com/>`_, `RSS <http://kamalmarhubi.com/blog/feed.xml>`_,
 - `"Kate Murphy" <https://kate.io/>`_, `RSS <https://kate.io/feed.xml>`_,
 - `"math" <https://kettenreihen.wordpress.com/>`_, `RSS <https://kettenreihen.wordpress.com/feed/>`_,
-- `"Matt Might's blog" <http://matt.might.net/articles/>`_, `RSS <http://matt.might.net/articles/feed.rss>`_),
+- `"Matt Might's blog" <http://matt.might.net/articles/>`_, `RSS <http://matt.might.net/articles/feed.rss>`_,
 - `"mdk.fr" <https://mdk.fr/>`_, `RSS <https://mdk.fr/feeds/all.atom.xml>`_.
 
 ----
@@ -110,7 +110,7 @@ Updates on software
 - `"Sublime Blog" <https://www.sublimetext.com/blog/>`_, `RSS <https://www.sublimetext.com/blog/feed>`_,
 - `"Xubuntu" <https://xubuntu.org/>`_, `RSS <https://xubuntu.org/feed/>`_,
 - `"Visual Studio Code - Code Editing. Redefined." <https://code.visualstudio.com/>`_, `RSS <https://code.visualstudio.com/feed.xml>`_,
-- `"TryAlgo" <http://tryalgo.org/>`_, `RSS <http://tryalgo.org/atom.xml>`_).
+- `"TryAlgo" <http://tryalgo.org/>`_, `RSS <http://tryalgo.org/atom.xml>`_.
 
 
 Training blogs
@@ -118,17 +118,17 @@ Training blogs
 
 - `"Codeception" <http://foobarnbaz.com/>`_, `RSS <https://feeds.feedburner.com/foobarnbaz?format=xml>`_,
 - `"Code as Craft" <https://codeascraft.com/>`_, `RSS <https://codeascraft.com/feed/>`_,
-- `"Dataquest" <https://www.dataquest.io/blog/>`_, `RSS <https://www.dataquest.io/blog/feed.xml>`_),
+- `"Dataquest" <https://www.dataquest.io/blog/>`_, `RSS <https://www.dataquest.io/blog/feed.xml>`_,
 - `"interviewing.io blog" <http://blog.interviewing.io/>`_, `RSS <http://blog.interviewing.io/feed/>`_,
 - `"life is short - you need Python!" <https://love-python.blogspot.fr/>`_, `RSS <http://feeds.feedburner.com/LifeIsShort-YouNeedPython?format=xml>`_,
 - `"Make Art with Python" <https://www.makeartwithpython.com/blog/>`_, `RSS <https://www.makeartwithpython.com/blog/feed.xml>`_,
 - `"Many things about OCaml" <http://typeocaml.com/>`_, `RSS <http://typeocaml.com/rss/>`_,
-- `"My Tech Interviews" <http://www.mytechinterviews.com/>`_, `RSS <https://feeds.feedburner.com/MyTechInterviews?format=xml>`_),
+- `"My Tech Interviews" <http://www.mytechinterviews.com/>`_, `RSS <https://feeds.feedburner.com/MyTechInterviews?format=xml>`_,
 - `"OCaml Labs" <http://ocamllabs.io/>`_, `RSS <http://ocamllabs.io/feed.xml>`_,
 - `"pydanny" <https://www.pydanny.com/>`_, `RSS <https://www.pydanny.com/feeds/all.atom.xml>`_,
 - `"PyMOTW – Doug Hellmann" <https://pymotw.com/3/>`_, `RSS <http://feeds.doughellmann.com/PyMOTW?format=xml>`_,
 - `"Python Insider" <https://pythoninsider.blogspot.fr/>`_, `RSS <http://feeds.feedburner.com/PythonInsider?format=xml>`_,
-- `"Real Python" <https://realpython.com/>`_, `RSS <https://realpython.com/atom.xml>`_),
+- `"Real Python" <https://realpython.com/>`_, `RSS <https://realpython.com/atom.xml>`_,
 - `"Runhe Tian Coding Practice" <https://tianrunhe.wordpress.com/>`_, `RSS <https://tianrunhe.wordpress.com/feed/>`_.
 
 ----
@@ -145,7 +145,7 @@ Software development:
 
 Specific technologies:
 
-- `"Allison Kaptur" <http://akaptur.com/>`_, `RSS <http://akaptur.com/atom.xml>`_),
+- `"Allison Kaptur" <http://akaptur.com/>`_, `RSS <http://akaptur.com/atom.xml>`_,
 - `"Armin Ronacher's Thoughts and Writings" <http://lucumr.pocoo.org/>`_, `RSS <http://lucumr.pocoo.org/feed.atom>`_,
 - `"Artem Golubin" <https://rushter.com/>`_, `RSS <https://rushter.com/blog/feed/>`_,
 - `"Attractive Chaos" <https://attractivechaos.wordpress.com/>`_, `RSS <https://attractivechaos.wordpress.com/feed/>`_,
@@ -160,7 +160,7 @@ Computer science:
 - `"Xuedong Shang" <https://xuedong.github.io/>`_, `RSS <https://xuedong.github.io/feed.xml>`_,
 - `"I’m a bandit" <https://blogs.princeton.edu/imabandit/>`_, `RSS <https://blogs.princeton.edu/imabandit/feed/>`_,
 - `"Pythonic Perambulations" <https://jakevdp.github.io/>`_, `RSS <https://jakevdp.github.io/atom.xml>`_,
-- `"inFERENCe" <http://www.inference.vc/>`_, `RSS <http://www.inference.vc/rss/>`_),
+- `"inFERENCe" <http://www.inference.vc/>`_, `RSS <http://www.inference.vc/rss/>`_,
 - `"Elided Branches" <http://www.elidedbranches.com/>`_, `RSS <http://www.elidedbranches.com/feeds/posts/default>`_,
 - `"Machine Learning (Theory)" on hunch.net <hunch.net/>`_, `RSS <https://feeds.feedburner.com/MachineLearningtheory?format=xml>`_,
 - `"WildML" <http://www.wildml.com/>`_, `RSS <http://www.wildml.com/feed/>`_,
@@ -192,9 +192,9 @@ Others:
 - `"Tall, Snarky Canadian" <https://snarky.ca/>`_, `RSS <https://snarky.ca/rss/>`_,
 - `"Tavish Armstrong" <http://tavisharmstrong.com/>`_, `RSS <http://tavisharmstrong.com/index.xml>`_,
 - `"the blAAAAAAAg" <https://cedeela.fr/>`_, `RSS <https://cedeela.fr/feeds/all.atom.xml>`_,
-- `"The hacker known as "Alex"" <https://defaultnamehere.tumblr.com/>`_, `RSS <https://defaultnamehere.tumblr.com/rss>`_),
+- `"The hacker known as "Alex"" <https://defaultnamehere.tumblr.com/>`_, `RSS <https://defaultnamehere.tumblr.com/rss>`_,
 - `"Zero Wind :: Jamie Wong" <http://jamie-wong.com/>`_, `RSS <http://jamie-wong.com/atom.xml>`_,
-- `"thoughts from the red planet" <http://nathanmarz.com/blog/>`_, `RSS <http://feeds.feedburner.com/thoughtsfromtheredplanet?format=xml>`_),
+- `"thoughts from the red planet" <http://nathanmarz.com/blog/>`_, `RSS <http://feeds.feedburner.com/thoughtsfromtheredplanet?format=xml>`_,
 - `"Tom Preston-Werner" <http://tom.preston-werner.com/>`_, `RSS <http://feeds.feedburner.com/tom-preston-werner>`_,
 - `"Toni Cebrián" <http://www.tonicebrian.com/>`_, `RSS <http://www.tonicebrian.com/feed/rss.xml>`_.
 
@@ -217,8 +217,8 @@ Travelers blogs
 
 Others
 ------
-- `"🌯 Emoji Wrap" <http://emojiwrap.com/>`_, `RSS <http://emojiwrap.com/issues.rss>`_),
-- `"Abstractivate" <http://blog.jessitron.com/>`_, `RSS <http://blog.jessitron.com/feeds/posts/default>`_),
+- `"🌯 Emoji Wrap" <http://emojiwrap.com/>`_, `RSS <http://emojiwrap.com/issues.rss>`_,
+- `"Abstractivate" <http://blog.jessitron.com/>`_, `RSS <http://blog.jessitron.com/feeds/posts/default>`_,
 - `"okepi" <https://okepi.wordpress.com/>`_, `RSS <https://okepi.wordpress.com/feed/>`_.
 
 ----

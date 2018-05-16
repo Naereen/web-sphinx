@@ -2,9 +2,9 @@
    :description lang=en: Cookies policy
    :description lang=fr: Conditions d'utilisations du site à propos des cookies
 
-#######################################################
- Not so personnal datas about the user of this website
-#######################################################
+######################################################
+ Not so personnal data about the user of this website
+######################################################
 
 
 Cookies use policy
@@ -54,7 +54,10 @@ You should know how to do it by yourself on your computer, but there is a
 
 You can also simply display the cookies:
 
-.. youtube:: i70TFesD3eg?t=56
+
+.. raw:: html
+
+    <iframe width="560" height="345" src="https://www.youtube.com/embed/i70TFesD3eg?rel=0&start=53" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 About (in French)

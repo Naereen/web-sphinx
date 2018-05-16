@@ -51,7 +51,10 @@ en configurant son ordinateur de la manière suivante.
 
 On peut aussi voir les cookies en demandant à les afficher :
 
-.. youtube:: i70TFesD3eg?t=56
+
+.. raw:: html
+
+    <iframe width="560" height="345" src="https://www.youtube.com/embed/i70TFesD3eg?rel=0&start=53" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Pour Firefox
