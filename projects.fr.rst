@@ -474,7 +474,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    affaires-voyage.fr
    top10.fr
    ce-que-je-regarde-sur-youtube.fr
-   blog-rolls.fr
+   blog-roll.fr
    a-faire-avant-30-ans
    resume-de-mon-annee-2017
    data-analysis-of-2-years-of-sms-2016-2017.fr
