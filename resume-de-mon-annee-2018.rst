@@ -30,18 +30,19 @@ Mars 2018
 
 Avril 2018
 ----------
-- De belles expériences avec `CouchSurfing <https://www.CouchSurfing.com/>`_, à Rennes et Nantes et en Espagne.
-- Deux semaines géniales en Espagne, à l'occasion des conférences `ALT 2018 <http://www.cs.cornell.edu/conferences/alt2018/>`_ à Lanzarote (Îles Canaries) et `WCNC 2018 <http://wcnc2018.ieee-wcnc.org/>`_ (Barcelone), pour deux articles de recherche écrits pour ma thèse, `"Multi-Player Bandits Revisited" <https://hal.inria.fr/hal-01629733>`_ et `"Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access" <https://hal.inria.fr/hal-01705292>`_.- Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
+- De belles expériences avec `CouchSurfing <https://www.CouchSurfing.com/>`_, à Rennes (en tant qu'hôte) et Nantes et en Espagne (en tant qu'invité).
+- Deux semaines géniales en Espagne, à l'occasion des conférences `ALT 2018 <http://www.cs.cornell.edu/conferences/alt2018/>`_ à Lanzarote (Îles Canaries) et `WCNC 2018 <http://wcnc2018.ieee-wcnc.org/>`_ (Barcelone), pour deux articles de recherche écrits pour ma thèse, `"Multi-Player Bandits Revisited" <https://hal.inria.fr/hal-01629733>`_ et `"Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access" <https://hal.inria.fr/hal-01705292>`_.
+- Deux jours de randonnées en Bretagne avec mon petit frère, de Saint-Malo au Mont-St-Michel.
+
+Mai 2018
+--------
+- Un long weekend très agréable à Marseille (pour prendre un peu le soleil et rendre visite à des amis).
+- Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
+- Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
 
 .. youtube:: 7_VQCD863CU?t=30
 
 .. warning:: La suite est… dans le futur !
-
-Mai 2018
---------
-- Un weekend très agréable à Cassis, La Ciotat et Marseille (pour prendre un peu le soleil et rendre visite à des amis).
-- Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster <https://bitbucket.org/lbesson/XXX>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
-- TODO
 
 Juin 2018
 ---------
@@ -77,5 +78,69 @@ Décembre 2018
 
 
 .. note:: C'est tout pour 2018, à dans un an pour `la suite <resume-de-mon-annee-2019.html>`_ !
+
+------------------------------------------------------------------------------
+
+Résumé culturel
+---------------
+
+  Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
+
+En 2018, j'ai voyagé là...
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+- En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
+- Aux Pays-Bas en mai 2018 pour `un atelir international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
+- Pas mal en France : en Bretagne, beaucoup à Paris, à Marseille, dans les Alpes...
+
+.. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
+
+En 2018, j'ai joué à ces jeux...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Zelda: Mystery of Solarus* sur **PC** (jeu amateur, `open-source <http://www.solarus-games.org/games/zelda-mystery-of-solarus-dx/>`_),
+- *The Legend of Zelda: Twilight Princess* sur **Wii** (très bien).
+
+En 2018, j'ai vu ces séries...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Saisons 1 et 2 de *Star Wars: Rebels* (extraordinaire),
+- Saison 11 de *The Big Bang Theory* (toujours aussi drôle je trouve),
+- Saison 1 de *Young Sheldon* (correct mais pas ultime non plus),
+- Saison 1 de *Alex Inc.* (que le début),
+- Saison 1 de *American Gods* (correct mais trop lent).
+
+En 2018, j'ai lu ces livres...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `Actuel Moyen-Âge <http://www.arkhe-editions.com/portfolio/actuel-moyen-age/>`_, un livre d'histoire écrit par mon frère et ses collaborateurs,
+- *Harry Potter*, tômes 5 à 7, en français et en anglais,
+- *Zelda History*, un livre d'histoire sur les jeux *La Légende de Zelda*,
+- Les meilleurs récits de `Weird Tales <https://fr.wikipedia.org/wiki/Weird_Tales>`_, tômes 1 à 3.
+- `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore),
+- `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_,
+- Beaucoup d'autres...
+
+En 2018, j'ai vu ces films...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Whilplash (2014), génial,
+- Zoolander, 1 et 2, correct,
+- The Babysitters, bof,
+- Jeune et Jolie, correct,
+- Les Trois Brigands, correct,
+- Thelma et Louise, enfin,
+- Kubo et l'armure magique,
+- Coco (Disney, 2017),
+- Flatliners, bof,
+- Guardians of the Galaxy vol 2, très bof !
+- Ant-Man, correct,
+- Big Hero 6 (Disney), génial,
+- Attention, bandits (français, 1987), très beau,
+- La Tour au-delà des nuages, très beau !
+- Ame et Yuki, les enfants loups, magnifique aussi !
+- Princess Bride, débile mais culte !
+- La Rose et la Flèche, beau mais triste !
+- Before Sunset, très beau et intense,
+- Docteur Strange, assez cool !
+- Thor: Ragnarok, ridicule mais drôle,
+- Avengers: Civil War, correct mais un peu brouillon,
+- Harry Potter, du 1 au 7a et 7b (enfin, je n'avais jamais vu après le tôme 4 !),
+- Beaucoup d'autres...
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

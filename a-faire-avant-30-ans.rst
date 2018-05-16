@@ -47,7 +47,7 @@ Code et programmation
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
     :target: https://starcharts.herokuapp.com/Naereen/badges
-    :scale:  40%
+    :scale:  35%
 
 
 - OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
