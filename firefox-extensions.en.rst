@@ -15,22 +15,66 @@
 
 ------------------------------------------------------------------------------
 
-Some lists of extensions
-------------------------
- There are a few lists of some useful extensions, kinda sorted by category.
+My list of extensions
+---------------------
+Please find below my list of favorite extensions for Firefox.
 
 .. note:: What is an extension?
 
-   An extension is an additional piece of program a for your browser.
-   I am focusing on the wonderful `Firefox <https://www.mozilla.org/firefox/>`_ here.
+    An extension is an additional piece of program a for your browser.
+    I am focusing on the wonderful `Firefox <https://www.mozilla.org/firefox/>`_ here.
 
-   These extensions are somewhat similar to `Sublime Text plugins <https://packagecontrol.io/>`_, so if you are interested: `I wrote a page about Sublime Text <sublimetext.en.html>`_ too!
+    These extensions are somewhat similar to `Sublime Text plugins <https://packagecontrol.io/>`_, so if you are interested: `I wrote a page about Sublime Text <sublimetext.en.html>`_ too!
 
 
-.. warning:: Might be out-of-date!
+For a better user experience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   This list was written in *October 2015*, so now it might be a little bit out-of-date...
-   I checked it in *May 2016*, and it was alright.
+- `Activate Reader View <https://addons.mozilla.org/en-US/firefox/addon/activate-reader-view/>`_ (0.1.0) to easily activate the "reader view" on any website,
+- `Dark Reader <https://addons.mozilla.org/en-US/firefox/addon/darkreader>`_ (4.5.0) to turn on a "dark mode" for (almost) any website, very nice when working during the night!
+- `JSONView <https://addons.mozilla.org/en-US/firefox/addon/jsonview>`_ (2.0.0) to display nicely JSON files,
+- `Markdown Viewer Webext <https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext>`_ (1.3.0) to display nicely Markdown files,
+- `Tab Session Manager <https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager>`_ (3.1.1) to save and restore sessions (list of open tabs and windows),
+- `Tab Notifier <https://addons.mozilla.org/en-US/firefox/addon/tab-notifier>`_ (3.1) to notify whenever a tab changes its title (*e.g.*, next video on YouTube).
+
+For improved privacy and security
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Facebook container <https://addons.mozilla.org/firefox/addon/facebook-container/>`_ (1.3.1), see `here on GitHub <https://github.com/mozilla/contain-facebook>`_, to contain any tab when you log on Facebook: the other tabs don't know you are logged in, and you minimize the risk of seeing some of your private data stolen!
+- `Ghostery <https://addons.mozilla.org/en-Us/firefox/addon/ghostery>`_ (8.1.2) to block all trackers and analytic beacons!
+- `NoScript <https://addons.mozilla.org/en-Us/firefox/addon/noscript>`_ (10.1.8) is even more powerful, and it allows a very fine control on what scripts do you allow to run, for every page. Rich configuration, very powerful tool!
+- `uBlock Origin <https://addons.mozilla.org/en-Us/firefox/addon/ublock-origin>`_ (1.16.4), see `here on GitHub <https://github.com/gorhill/uBlock>`_, is the best ad-blocker. Nothing more to say. Warning: it is not the same as uBlock!
+
+For customizing user experience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Greasemonkey <https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/>`_ (4.3), see `official website <https://www.greasespot.net/>`_.
+- `Stylish <https://addons.mozilla.org/en-Us/firefox/addon/stylish/>`_ (3.0.5), and `this website to find userstyles <https://userstyles.org/>`_.
+
+.. note:: My user scripts and user style sheets are available in `this folder on my website <https://perso.crans.org/besson/publis/firefox/>`_.
+
+For some specific websites
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Emoji Cheatsheet for GitHub, Basecamp etc. <https://addons.mozilla.org/en-Us/firefox/addon/emoji-cheatsheet>`_ (2.0.1) allows to easily pick "the right emoji" to reply on website such as `GitHub <https://github.com/>`_.
+- `GitHub File Icon <https://addons.mozilla.org/en-Us/firefox/addon/github-file-icon>`_ (0.5.0) shows icons associated with file types. Very small but very useful when browing large code repository online!
+- `GitHub with MathJax <https://github.com/traversaro/github-mathjax-firefox>`_ (0.2.3) (no yet published on `Firefox addons <https://addons.mozilla.org/en-Us/firefox/addon/>`_. Simple but efficient: uses `MathJax <https://www.mathjax.org/>`_ to display nicely any LaTeX math equation in Markdown (and other) files seen on `GitHub <https://github.com/>`_.
+- `YouTube Control Center <https://addons.mozilla.org/en-Us/firefox/addon/youtube-control-center>`_ (0.6.3), see `on the editor's website <https://add0n.com/control-center.html>`_, allows a powerful control on `YouTube.com <https://www.YouTube.com/>`_.
+
+
+--------------------------------------------------------------------------------
+
+Previous list
+-------------
+
+There are a few lists of some useful extensions, kinda sorted by category.
+
+.. warning:: Completely out-of-date!
+
+    This list was written in *October 2015*, so now it might be a little bit out-of-date...
+    I checked it in *May 2016*, and it was alright.
+    In 2017, from Firefox version 57, `the format of extensions changed <https://blog.mozilla.org/addons/2017/09/28/webextensions-in-firefox-57/>`_, and most of the extensions I was using no longer exist.
+    I keep the original list just for fun.
 
 
 Extensions *everyone* should have

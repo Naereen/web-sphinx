@@ -34,29 +34,29 @@ Voyages
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible ! Pour l'instant, :math:`x = 0`...
+- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`1 = 0`...
 - Publier au moins un *article dans une revue* (un *"journal"*).
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``. J'y suis presque !
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
-- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair...
+- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair... `Ce site essaie de bien expliquer <https://fossa.io/>`_, ça ne m'a guère aidé.
 - OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 100, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
-   :target: https://starcharts.herokuapp.com/Naereen/badges
-   :scale:  40%
+    :target: https://starcharts.herokuapp.com/Naereen/badges
+    :scale:  40%
 
 
-- OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
+- OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
 
 Enseignement
 ^^^^^^^^^^^^
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
-- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <http://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seuls disponibles sur Internet, il faudrait que j'en fasse quelque chose !
+- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <http://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
 - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)... (Mais ça aussi c'est un peu idéaliste).
 
 Collaborations
@@ -68,7 +68,7 @@ Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Recevoir un (autre) *prix pour un article ou un exposé scientifique* (après `le Best Paper Award à CROWNCOM 2017 <https://hal.inria.fr/hal-01575419>`_).
 - Être invité "personnellement" à parler dans un séminaire ou un atelier national (TODO), européen (OK) ou international (TODO).
-- Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante, en discuter après l'exposé avec la personne, et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
+- Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante (OK), en discuter après l'exposé avec la personne (OK)… et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
 
 -----------------------------------
 
@@ -100,13 +100,16 @@ Rencontres
 Activités
 ^^^^^^^^^
 - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
+- Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
+- Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
 - Faire plus de 10 000 kms en autostop. J'y suis... hum... bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans...)
-- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à ma famille...
+- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"...
 - Couper les cheveux de quelqu'un, et pourquoi pas... me couper moi-même les cheveux ?!
-- Me faire opérer au LASER et ne plus avoir besoin de lunettes ?
+- Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
+- OK En attendant, essayer des lentilles ! (DONE)
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
@@ -116,8 +119,8 @@ Expériences diverses
 
 Cuisine et envies
 ^^^^^^^^^^^^^^^^^
-- Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (même si on a tendance à les confondre).
-- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc...
+- Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (*même si on a tendance à les confondre*, d'après Hervé de Rinel).
+- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc... (ça attendra que j'ai un meilleur four)
 - *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
 - *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
 - Continuer à faire `mes spécialités <cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.

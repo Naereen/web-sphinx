@@ -16,22 +16,32 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 = environ **5385 kms pour l'instant**.
+  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 = environ **5465 kms pour l'instant**.
+
+En 2018 : **80 kms** (pour l'instant)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pour l'instant, seulement **50 kms** en France (La Pointe du Groin au Mont-St-Michel, et un peu à côté), et environ **30 kms** en Espagne (sur l'`île de Lanzarote <https://www.google.fr/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, de Yaiza à l'aéroport, et de Fermés à Playa Blanca).
+
+.. digraph:: france18
+
+    "La Pointe du Groin" -> "Mont St-Michel";
+    "Yaiza (Lanzarote, Espagne)" -> "Aéroport de Lanzarote";
+    "Fermés (Lanzarote, Espagne)" -> "Playa Blanca";
 
 En 2017 : **355 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, seulement **355 kms** en France (Briançon → Gap et Gap → Briançon, et Caen → Avranches → Rennes).
+Malheureusement, pas plus de **355 kms** en France (Briançon → Gap et Gap → Briançon, et Caen → Avranches → Rennes).
 
 .. digraph:: france17
 
-   "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
-   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
-   "Caen" -> "Avranches" -> "Rennes";
+    "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
+    "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
+    "Caen" -> "Avranches" -> "Rennes";
 
 
 .. note::
 
-   Mais j'ai battu mon record de temps d'attente, deux fois d'affilé, durant le même voyage : en allant de Briançon à Gap, j'ai pris ma seconde voiture (de Savines-le-Lac à Chorges) en 23 secondes d'attente avec le pouce levé (montre en main), et... 4 secondes (ouais, 4) pour la dernière voiture (de Chorges à Gap). Ma main droite était toujours levée après avoir lancé le chronomètre sur ma montre que la voiture s'arrêtait déjà... Quelle chance !
+    Mais j'ai battu mon record de temps d'attente, deux fois d'affilé, durant le même voyage : en allant de Briançon à Gap, j'ai pris ma seconde voiture (de Savines-le-Lac à Chorges) en 23 secondes d'attente avec le pouce levé (montre en main), et... 4 secondes (ouais, 4) pour la dernière voiture (de Chorges à Gap). Ma main droite était toujours levée après avoir lancé le chronomètre sur ma montre que la voiture s'arrêtait déjà... Quelle chance !
 
 En 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
@@ -48,9 +58,9 @@ J'ai fait une fois le trajet charmant de Grenoble à Briançon sous la pluie, un
 
 .. digraph:: france16
 
-   "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
-   "Chambéry" -> "Genève" -> "Lausanne (1)";
-   "Genève Airport" -> "Lausanne (2)";
+    "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
+    "Chambéry" -> "Genève" -> "Lausanne (1)";
+    "Genève Airport" -> "Lausanne (2)";
 
 J'en ai fait un peu dans Rennes même, souvent quelques kilomètres, pour aller du premier appartement que j'avais jusqu'à la gare.
 
@@ -62,9 +72,9 @@ En août 2015, durant mon séjour en Islande, j'ai poucé pour environ **600 kms
 
 .. digraph:: aout15islande
 
-   "Keflavik (aéroport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
-   "Hopn (à l'est)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik" -> "Skogar" -> "Landeyahopn (arrivée)";
-   "Landeyahopn (départ)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
+    "Keflavik (aéroport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
+    "Hopn (à l'est)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik" -> "Skogar" -> "Landeyahopn (arrivée)";
+    "Landeyahopn (départ)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
 
 
 En juillet 2015, j'ai fait un aller-retour Briançon -- Avignon (dans la région PACA), pour environ deux fois 260 kms, soit **520 kms**.
@@ -74,7 +84,7 @@ En juin 2015, environ **700 kms** durant un petit voyage de 10 jours en France e
 
 .. digraph:: juin15
 
-   "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Suisse)" -> "Zurich (Suisse)" -> "Bâle (Suisse)" -> "Mulhouse (France)";
+    "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Suisse)" -> "Zurich (Suisse)" -> "Bâle (Suisse)" -> "Mulhouse (France)";
 
 
 En 2014 : **150 kms**
@@ -89,7 +99,7 @@ En octobre 2013, quelques jours de vacances en Normandie et en Bretagne, environ
 
 .. digraph:: octobre13
 
-   "Caen (France)" -> "Nantes" -> "Vannes" -> "Lorient" -> "Le Mans" -> "Paris";
+    "Caen (France)" -> "Nantes" -> "Vannes" -> "Lorient" -> "Le Mans" -> "Paris";
 
 En août 2013, après le `festival Berlioz <http://www.festivalberlioz.com/>`_, retour à Paris dans l'après-midi, environ 500 kms :
 
@@ -101,7 +111,7 @@ En mai 2013, au retour d'un séjour en Espagne, environ 700 kms :
 
 .. digraph:: mai13
 
-   "Pau (France)" -> "La Rochelle" -> "Paris";
+    "Pau (France)" -> "La Rochelle" -> "Paris";
 
 En 2012 : **350 kms**
 ^^^^^^^^^^^^^^^^^^^^^
@@ -115,8 +125,8 @@ Occasionnellement, un tout petit peu (oui, ben j'étais mineur quoi).
 
 .. note:: Avec Google Maps ?
 
-   J'ai déjà vu que Google Maps permet d'enregistrer et de partager des *itinéraires* voiture
-   personnalisés, peut-être m'en servirais-je pour garder une trace de mes trajets en stop, et les partager ici.
+    J'ai déjà vu que Google Maps permet d'enregistrer et de partager des *itinéraires* voiture
+    personnalisés, peut-être m'en servirais-je pour garder une trace de mes trajets en stop, et les partager ici.
 
 Conseils divers (externes)
 --------------------------

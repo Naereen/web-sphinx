@@ -16,22 +16,32 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 = about **5385 kms as far as now**.
+  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 = about **5465 kms as far as now**.
+
+In 2018 : **80 kms** (as far as now)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For now, only **50 kms** in France (La Pointe du Groin to Mont-St-Michel, and a little bit around), and about **30 kms** in Spain (on the `Island of Lanzarote <https://www.google.com/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, from Yaiza to the airport, and from Fermés to Playa Blanca).
+
+.. digraph:: france18
+
+    "La Pointe du Groin (France)" -> "Mont St-Michel";
+    "Yaiza (Lanzarote, Spain)" -> "Lanzarote Airport";
+    "Fermés (Lanzarote, Spain)" -> "Playa Blanca";
 
 In 2017 : **355 kms** (as far as now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-As far as now, about **355 kms** in France (Briançon → Gap and Gap → Briançon, and Caen → Avranches → Rennes).
+Sadly, no more than **355 kms** in France (Briançon → Gap and Gap → Briançon, and Caen → Avranches → Rennes).
 
 .. digraph:: france17
 
-   "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
-   "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
-   "Caen" -> "Avranches" -> "Rennes";
+    "Briançon (1)" -> "Chorges (1)" -> "Savines-le-Lac" -> "Gap (1)";
+    "Gap (2)" -> "Chorges (2)" -> "Embrun" -> "Briançon (2)";
+    "Caen" -> "Avranches" -> "Rennes";
 
 
 .. note::
 
-   I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
+    I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
 
 In 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
@@ -39,18 +49,18 @@ Sadly, no more than **330 kms** in France and in Switzerland...
 
 .. sidebar:: Only 330 kms???
 
-   Yes, it's hard to `teach 120h / year <teach.html>`, to `be ranked first of your Masters degree <publis/mva-2016>`_, to do `a research internship at EPFL in Switzerland <https://bitbucket.org/lbesson/internship-mva-2016/>`_, a `Machine Learning summer school in Spain <https://bitbucket.org/lbesson/mlss-2016>`_, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year..
+    Yes, it's hard to `teach 120h / year <teach.html>`, to `be ranked first of your Masters degree <publis/mva-2016>`_, to do `a research internship at EPFL in Switzerland <https://bitbucket.org/lbesson/internship-mva-2016/>`_, a `Machine Learning summer school in Spain <https://bitbucket.org/lbesson/mlss-2016>`_, to travel for holidays to Italy, Austria and Hungary, and ALSO to do a lot of hitch-hiking during the same year..
 
-   Hopefully my first year of PhD will let me more time -- :red:`Haha it didn't!`
+    Hopefully my first year of PhD will let me more time -- :red:`Haha it didn't!`
 
 
 I did once a nice trip from Grenoble to Briançon under the rain, another time from Chambéry to Lausanne, and three times from Genève Airport to Lausanne (very easy).
 
 .. digraph:: france16
 
-   "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
-   "Chambéry" -> "Genève" -> "Lausanne (1)";
-   "Genève Airport" -> "Lausanne (2)";
+    "Grenoble" -> "Bourg d'Oisan" -> "La Grave" -> Briançon;
+    "Chambéry" -> "Genève" -> "Lausanne (1)";
+    "Genève Airport" -> "Lausanne (2)";
 
 A little bit in Rennes, usually a few kilometers to go from the first apartment I had to the train station.
 
@@ -62,9 +72,9 @@ In August 2015, I visited Iceland mainly by hitch-hiking, and I hitch-hiked abou
 
 .. digraph:: aug15island
 
-   "Keflavik (airport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
-   "Hopn (in the East)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik (South)" -> "Skogar" -> "Landeyahopn (arrival)";
-   "Landeyahopn (departure)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
+    "Keflavik (airport)" -> "Gardur" -> "Grindavik" -> "Selfoss (1)";
+    "Hopn (in the East)" -> "Jokurlsarlon" -> "Skaftafell" -> "Klaustur" -> "Vik (South)" -> "Skogar" -> "Landeyahopn (arrival)";
+    "Landeyahopn (departure)" -> "Selfoss (2)" -> "Geysir" -> "Laugarvatn" -> "Thingvellir" -> "Reykjavik";
 
 
 In July 2015, I went from Briançon to Avignon and the way back (in the PACA region), which is about 260 kms, twice, so **520 kms**.
@@ -74,7 +84,7 @@ In June 2015, I hitch-hiked about 700 kms while I was traveling in France and Sw
 
 .. digraph:: juin15
 
-   "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Switzerland)" -> "Zurich (Switzerland)" -> "Bâle (Switzerland)" -> "Mulhouse (France)";
+    "Briançon (France)" -> "Gap" -> "Grenoble" -> "Chambéry" -> "Annecy" -> "Lausanne (Switzerland)" -> "Zurich (Switzerland)" -> "Bâle (Switzerland)" -> "Mulhouse (France)";
 
 
 In 2014 : **150 kms**
@@ -89,19 +99,19 @@ In October 2013, I took a few days off, for a short trip in Normandie and in Bre
 
 .. digraph:: october13
 
-   "Caen (France)" -> "Nantes" -> "Vannes" -> "Lorient" -> "Le Mans" -> "Paris";
+    "Caen (France)" -> "Nantes" -> "Vannes" -> "Lorient" -> "Le Mans" -> "Paris";
 
 In august 2013, after `the festival Berlioz <http://www.festivalberlioz.com/>`_, I came back to Paris in one afternoon, for about 500 kms:
 
 .. digraph:: aug13
 
-   "La-Côte-St-André (France)" -> "Grenoble" -> "Bourgouin-Jallieu" -> "Lyon" -> "Dijon" -> "Paris";
+    "La-Côte-St-André (France)" -> "Grenoble" -> "Bourgouin-Jallieu" -> "Lyon" -> "Dijon" -> "Paris";
 
 In May 2013, after a short stay in Spain, I came back to Paris from Pau (in the South-West part of France), for about environ 700 kms:
 
 .. digraph:: may13
 
-   "Pau (France)" -> "La Rochelle" -> "Paris";
+    "Pau (France)" -> "La Rochelle" -> "Paris";
 
 In 2012
 ^^^^^^^
@@ -115,9 +125,9 @@ A very little bit, well I was not 18 at the time...
 
 .. note:: With Google Maps ?
 
-   I know that Google Maps can be used to save and share custom car *itineraries* (travel history),
-   maybe I will use that to keep a trace of my hitch-hiking trips and
-   share them here. Or maybe not.
+    I know that Google Maps can be used to save and share custom car *itineraries* (travel history),
+    maybe I will use that to keep a trace of my hitch-hiking trips and
+    share them here. Or maybe not.
 
 (External) Hitch-Hiking guide to...
 -----------------------------------

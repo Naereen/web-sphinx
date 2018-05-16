@@ -15,22 +15,66 @@
 
 ------------------------------------------------------------------------------
 
-Quelques listes d'extensions
-----------------------------
- Voici quelques listes d'applications utiles, presque classées par catégories.
+Ma liste d'extensions
+---------------------
+Veuillez trouver ci-dessous ma liste d'extensions favorites pour Firefox.
 
-.. note:: Qu'est-ce qu'une extension?
+.. note:: Qu'est-ce qu'une extension ?
 
-   Une extension est un petit programme additionnel pour votre navigateur Internet.
-   Ici je parlerai uniquement du légendaire `Firefox <https://www.mozilla.org/firefox/>`_.
+    Une extension est un petit programme additionnel pour votre navigateur Internet.
+    Ici je parlerai uniquement du légendaire `Firefox <https://www.mozilla.org/firefox/>`_.
 
-   Ces extensions sont en quelques sortes similaire aux `greffons pour Sublime Text <https://packagecontrol.io/>`_, donc si vous êtes intéresse : `j'ai aussi écrit une page pour Sublime Text <sublimetext.fr.html>`_ !
+    Ces extensions sont en quelques sortes similaire aux `greffons pour Sublime Text <https://packagecontrol.io/>`_, donc si vous êtes intéresse : `j'ai aussi écrit une page pour Sublime Text <sublimetext.fr.html>`_ !
 
 
-.. warning:: N'est peut-être plus à jour !
+Pour une meilleure expérience utilisateur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
-   Je l'ai relu et vérifié en *mai 2016*, et ça avait l'air d'aller !
+- `Activate Reader View <https://addons.mozilla.org/en-US/firefox/addon/activate-reader-view/>`_ (0.1.0) permet de facilement activer le "mode lecture" sur n'importe quel site,
+- `Dark Reader <https://addons.mozilla.org/en-US/firefox/addon/darkreader>`_ (4.5.0) permet d'activer un mode "sombre" pour (presque) n'importe quel site web ! Très pratique quand on travaille de nuit !
+- `JSONView <https://addons.mozilla.org/en-US/firefox/addon/jsonview>`_ (2.0.0) pour afficher joliment des fichiers JSON,
+- `Markdown Viewer Webext <https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext>`_ (1.3.0) pour afficher joliment des fichiers Markdown,
+- `Tab Session Manager <https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager>`_ (3.1.1) pour sauvegarder et restaurer ses sessions (liste d'onglets et de fenêtres ouvertes),
+- `Tab Notifier <https://addons.mozilla.org/en-US/firefox/addon/tab-notifier>`_ (3.1) pour être notifié quand un onglet change de titre (*e.g.*, vidéo suivante sur YouTube).
+
+Pour une meilleure sécurité
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Facebook container <https://addons.mozilla.org/firefox/addon/facebook-container/>`_ (1.3.1), cf. `ici sur GitHub <https://github.com/mozilla/contain-facebook>`_, permet de restreindre dans un "conteneur" un onglet dans lequel vous vous connectez à  Facebook : c'est un peu technique, mais en gros ça suffit à ce que tous les autres onglets n'aient en fait aucun moyen de savoir que vous êtes connecté, et donc empêcher tout vol de données privées,
+- `Ghostery <https://addons.mozilla.org/en-Us/firefox/addon/ghostery>`_ (8.1.2) pour bloquer tous les traqueurs et scripts d'espionnage et de mesure d'audience !
+- `NoScript <https://addons.mozilla.org/en-Us/firefox/addon/noscript>`_ (10.1.8) est encore plus puissant, et permet un contrôle très fin sur les scripts que vous autorisez à exécuter, pour chaque page, pour chaque page !
+- `uBlock Origin <https://addons.mozilla.org/en-Us/firefox/addon/ublock-origin>`_ (1.16.4), cf. `ici sur GitHub <https://github.com/gorhill/uBlock>`_, est le meilleur bloqueur de publicités. Rien d'autre à dire. Ah si, attention : il ne faut pas utiliser son grand frère uBlock !
+
+Pour personnaliser l'expérience utilisateur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Greasemonkey <https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/>`_ (4.3), cf. `son site officiel <https://www.greasespot.net/>`_.
+- `Stylish <https://addons.mozilla.org/en-Us/firefox/addon/stylish/>`_ (3.0.5), et `ce site pour trouver des "userstyles" <https://userstyles.org/>`_.
+
+.. note:: Mes scripts utilisateur et mes feuilles de styles personnalisées sont, évidemment, disponibles sur mon site web,  `dans ce dossier <https://perso.crans.org/besson/publis/firefox/>`_.
+
+Pour certains sites web
+^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Emoji Cheatsheet for GitHub, Basecamp etc. <https://addons.mozilla.org/en-Us/firefox/addon/emoji-cheatsheet>`_ (2.0.1) pour facilement choisir "la bonne émoticône" pour réagir à n'importe quelle situation sur des sites comme `GitHub <https://github.com/>`_,
+- `GitHub File Icon <https://addons.mozilla.org/en-Us/firefox/addon/github-file-icon>`_ (0.5.0) montre une petite icône différente pour chaque type de fichiers, très pratique quand on regarde un gros dépôt entier sur `GitHub <https://github.com/>`_
+- `GitHub with MathJax <https://github.com/traversaro/github-mathjax-firefox>`_ (0.2.3) (pas encore publié sur `le site des extensions de Firefox <https://addons.mozilla.org/en-Us/firefox/addon/>`_. Simple mais efficace : utilise `MathJax <https://www.mathjax.org/>`_ pour afficher joliment des équations écrits en LaTeX dans des fichiers Markdown (ou d'autres format), quand on les vois affichés sur `GitHub <https://github.com/>`_.
+- `YouTube Control Center <https://addons.mozilla.org/en-Us/firefox/addon/youtube-control-center>`_ (0.6.3), cf. `le site web de l'éditeur <https://add0n.com/control-center.html>`_, permet un contrôle plus fin de `YouTube.com <https://www.YouTube.com/>`_.
+
+
+--------------------------------------------------------------------------------
+
+Ancienne liste
+--------------
+Voici quelques listes d'applications utiles, presque classées par catégories.
+
+
+.. warning:: N'est plus du tout à jour !
+
+    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
+    Je l'ai relu et vérifié en *mai 2016*, et ça avait l'air d'aller !
+    En 2017, depuis la version 57 de Firefox, `le format des extensions a changé <https://blog.mozilla.org/addons/2017/09/28/webextensions-in-firefox-57/>`_, et la plupart des extensions que j'utilisais depuis des années ne sont plus disponibles.
+    Je garde cette liste originale pour le plaisir.
 
 
 Liste des extensions qu'*il faut avoir*
