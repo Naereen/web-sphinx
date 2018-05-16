@@ -208,6 +208,7 @@ For more details, see `<sitemap.en.html>`_.
    sphinxtabs.en
    top10.en
    what-i-watch-on-youtube.en
+   blog-rolls.en
    data-analysis-of-2-years-of-sms-2016-2017.en
    hitch-hiking.en
    packing.en
