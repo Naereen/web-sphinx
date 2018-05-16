@@ -96,7 +96,7 @@ En 2017, j'ai voyagé là...
 - En Grèce en avril 2017 pour des vacances,
 - Aux Pays-Bas et en Belgique en juillet 2017 pour `une conférence <http://www.learningtheory.org/colt2017/>`_,
 - Au Portugal en septembre 2017 pour `une autre conférence <http://crowncom.org/2017/>`_,
-- Pas mal en France, en Normandie, en Bretagne, beaucoup à Paris, à Tour, dans les Alpes...
+- Pas mal en France, en Normandie, en Bretagne, beaucoup à Paris, deux jours à Tour, dans les Alpes...
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
@@ -108,7 +108,8 @@ En 2017, j'ai joué à ces jeux...
 - *Mario Kart 7* sur **3DS** (bof bof),
 - *The Legend of Zelda: Wind Waker* sur **GameCube** (parfait),
 - *Child of Light* sur **PC** (extraordinaire, mon jeu de l'année),
-- *Fire Emblem Echoes: Shadows of Valentia* sur **3DS** (parfait aussi).
+- *Fire Emblem Echoes: Shadows of Valentia* sur **3DS** (parfait aussi),
+- *Cherry Blossom* sur **PC** (poétique et entraînant).
 
 En 2017, j'ai lu ces livres...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

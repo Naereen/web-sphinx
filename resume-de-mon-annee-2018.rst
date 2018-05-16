@@ -119,28 +119,28 @@ En 2018, j'ai lu ces livres...
 
 En 2018, j'ai vu ces films...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Whilplash (2014), génial,
-- Zoolander, 1 et 2, correct,
-- The Babysitters, bof,
-- Jeune et Jolie, correct,
-- Les Trois Brigands, correct,
-- Thelma et Louise, enfin,
-- Kubo et l'armure magique,
-- Coco (Disney, 2017),
-- Flatliners, bof,
-- Guardians of the Galaxy vol 2, très bof !
-- Ant-Man, correct,
-- Big Hero 6 (Disney), génial,
-- Attention, bandits (français, 1987), très beau,
-- La Tour au-delà des nuages, très beau !
-- Ame et Yuki, les enfants loups, magnifique aussi !
-- Princess Bride, débile mais culte !
-- La Rose et la Flèche, beau mais triste !
-- Before Sunset, très beau et intense,
-- Docteur Strange, assez cool !
-- Thor: Ragnarok, ridicule mais drôle,
-- Avengers: Civil War, correct mais un peu brouillon,
-- Harry Potter, du 1 au 7a et 7b (enfin, je n'avais jamais vu après le tôme 4 !),
+- *Whilplash* (2014), génial,
+- *Zoolander*, 1 et 2, correct,
+- *The Babysitters*, bof,
+- *Jeune et Jolie*, correct,
+- *Les Trois Brigands*, correct,
+- *Thelma et Louise*, enfin (et j'adore),
+- *Kubo et l'armure magique*, très beau film d'animation !
+- *Coco* (Disney, 2017),
+- *Flatliners*, bof,
+- *Guardians of the Galaxy vol. 2*, très bof !
+- *Ant-Man*, correct,
+- *Big Hero 6* (Disney), génial,
+- *Attention, bandits* (français, 1987), très beau,
+- *La Tour au-delà des nuages*, très beau !
+- *Ame et Yuki, les enfants loups*, magnifique aussi ! (j'avoue, j'ai pleuré)
+- *Princess Bride*, débile mais culte !
+- *La Rose et la Flèche*, beau mais triste !
+- *Before Sunset*, la suite de *Before Sunrise*, très beau et intense,
+- *Docteur Strange*, assez cool !
+- *Thor: Ragnarok*, purement ridicule mais drôle,
+- *Avengers: Civil War*, correct mais un peu brouillon,
+- *Harry Potter*, du 1 au 7a et 7b (enfin, je n'avais jamais vu après le tôme 4 !),
 - Beaucoup d'autres...
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
