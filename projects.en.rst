@@ -186,6 +186,7 @@ For more details, see `<sitemap.en.html>`_.
    visualstudiocode.en
    sublimetext.en
    ga.en
+   js.en
    stats-google-analytics.en
    beacon.en
    apk.en

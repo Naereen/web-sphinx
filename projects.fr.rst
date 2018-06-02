@@ -452,7 +452,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    latexonwindows.fr
    zotero.fr
    opendns.fr
-   js
+   js.fr
    NanoSyntax
    math
    graph.fr
