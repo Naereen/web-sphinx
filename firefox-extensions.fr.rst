@@ -44,6 +44,7 @@ Pour une meilleure sécurité
 - `Ghostery <https://addons.mozilla.org/en-Us/firefox/addon/ghostery>`_ (8.1.2) pour bloquer tous les traqueurs et scripts d'espionnage et de mesure d'audience !
 - `NoScript <https://addons.mozilla.org/en-Us/firefox/addon/noscript>`_ (10.1.8) est encore plus puissant, et permet un contrôle très fin sur les scripts que vous autorisez à exécuter, pour chaque page, pour chaque page !
 - `uBlock Origin <https://addons.mozilla.org/en-Us/firefox/addon/ublock-origin>`_ (1.16.4), cf. `ici sur GitHub <https://github.com/gorhill/uBlock>`_, est le meilleur bloqueur de publicités. Rien d'autre à dire. Ah si, attention : il ne faut pas utiliser son grand frère uBlock !
+- La minuscule `Tracking Token Stripper <https://addons.mozilla.org/en-Us/firefox/addon/utm-tracking-token-stripper>`_ (2.1) permet de supprimer tous les tokens de suivi de Google Analytics (UTM) des chaînes de requête d'URL. Très simple mais parfaitement efficace !
 
 Pour personnaliser l'expérience utilisateur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

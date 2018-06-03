@@ -43,7 +43,8 @@ For improved privacy and security
 - `Facebook container <https://addons.mozilla.org/firefox/addon/facebook-container/>`_ (1.3.1), see `here on GitHub <https://github.com/mozilla/contain-facebook>`_, to contain any tab when you log on Facebook: the other tabs don't know you are logged in, and you minimize the risk of seeing some of your private data stolen!
 - `Ghostery <https://addons.mozilla.org/en-Us/firefox/addon/ghostery>`_ (8.1.2) to block all trackers and analytic beacons!
 - `NoScript <https://addons.mozilla.org/en-Us/firefox/addon/noscript>`_ (10.1.8) is even more powerful, and it allows a very fine control on what scripts do you allow to run, for every page. Rich configuration, very powerful tool!
-- `uBlock Origin <https://addons.mozilla.org/en-Us/firefox/addon/ublock-origin>`_ (1.16.4), see `here on GitHub <https://github.com/gorhill/uBlock>`_, is the best ad-blocker. Nothing more to say. Warning: it is not the same as uBlock!
+- `uBlock Origin <https://addons.mozilla.org/en-Us/firefox/addon/ublock-origin>`_ (1.16.4), see `here on GitHub <https://github.com/gorhill/uBlock>`_, is **the best ad-blocker**. Nothing more to say. Warning: it is not the same as uBlock!
+- The tiny `Tracking Token Stripper <https://addons.mozilla.org/en-Us/firefox/addon/utm-tracking-token-stripper>`_ (2.1) allows to remove any Google Analytics (UTM) tracking tokens from URL query strings. Very simple but perfectly efficient!
 
 For customizing user experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
