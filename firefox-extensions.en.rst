@@ -36,6 +36,7 @@ For a better user experience
 - `Markdown Viewer Webext <https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext>`_ (1.3.0) to display nicely Markdown files,
 - `Tab Session Manager <https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager>`_ (3.1.1) to save and restore sessions (list of open tabs and windows),
 - `Tab Notifier <https://addons.mozilla.org/en-US/firefox/addon/tab-notifier>`_ (3.1) to notify whenever a tab changes its title (*e.g.*, next video on YouTube).
+- `Textarea Cache <https://addons.mozilla.org/en-US/firefox/addon/textarea-cache/>`_ is tiny but very handy: it keeps the contents of the last textarea, those text editing areas in your browser. Very handy when you write an answer or a message but close the tab without paying attention…
 
 For improved privacy and security
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -110,7 +111,7 @@ Extensions for *geeks*
 * `Customizable Shortcuts <https://addons.mozilla.org/en-us/firefox/addon/customizable-shortcuts>`_ allows to customize every single Firefox shortcut (I just use it to disable ``Ctrl+q`` and ``Ctrl+Q``... I don't want Firefox to quit without asking me with just a small shortcut!),
 * `Download Status Bar <https://addons.mozilla.org/en-us/firefox/addon/download-status-bar>`_ adds nice feature for a better control of the downloading feature in Firefox,
 * `Stylish <https://addons.mozilla.org/en-us/firefox/addon/stylish>`_ lets you easily manage user styles: `user styles <https://userstyles.org>`_ are themes for web sites. I am a huge fan of the sweet `github-dark <https://userstyles.org/styles/37035/github-dark>`_ custom style for `GitHub <https://github.com>`_. See also `my style for live.com and outlook.com <publis/firefox/stylish_better_outlook.css>`_ (Outlook Microsoft webmail).
-* `Textarea cache <https://addons.mozilla.org/fr/firefox/addon/textarea-cache>`_ will save automatically the content in textarea or *"WYSIWYG"* editor when you are typing. Then you can recover the saved texts in the cache window, even if the tab or the window was closed unexpectedly.
+* `Textarea cache <https://addons.mozilla.org/en-US/firefox/addon/textarea-cache>`_ will save automatically the content in textarea or *"WYSIWYG"* editor when you are typing. Then you can recover the saved texts in the cache window, even if the tab or the window was closed unexpectedly.
 
 Read and view more types of files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
