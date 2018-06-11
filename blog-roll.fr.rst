@@ -24,6 +24,7 @@ Sur l'Histoire :
 
 Sur la vie :
 
+- `"Zero Waste France" <https://www.zerowastefrance.org/>`_, `RSS <https://www.zerowastefrance.org/feed?format=rss>`_,
 - `"Viser la lune" <http://viserlalune.com/>`_, `RSS <http://viserlalune.com/content/feeds/rss>`_.
 
 Informatique :
