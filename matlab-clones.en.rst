@@ -15,27 +15,34 @@ This page is here for this.
 List of alternative softwares for MATLAB
 ----------------------------------------
 
-1. **GNU Octave**
+1. **Julia**
+~~~~~~~~~~~~
+`Julia <https://julialang.org/>`_ is my new favorite open-source alternative to MATLAB.
+It's completely awesome, with a fastly growing community (+200% by year since 2015!), you should definitely check it out!
+
+.. seealso:: I gave a presentation at `IETR seminar 2018 <https://seminar-ietr-18.sciencesconf.org/program>`_ about Julia, with `Pierre Haessig <http://pierreh.eu/efficient-tools-seminar/>`_. The slides are `available here! <https://perso.crans.org/besson/publis/slides/2018_06__Julia_my_new_optimization_friend__introduction_for_MATLAB_users__at_IETR_seminar/slides.pdf>`_.
+
+2. **GNU Octave**
 ~~~~~~~~~~~~~~~~~
 `GNU Octave <https://www.gnu.org/software/octave/>`_ aims to be a full clone of MATLAB, and has been developed for the last 25 years.
 It works really well, and `now has a built-in GUI <http://octave.org/NEWS-4.0.html>`_, very similar to the MATLAB one.
 
-2. SciLab
+3. Python with scientific tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Python with the `Spyder IDE <https://pythonhosted.org/spyder/>`_ (with `IPython <https://ipython.org/>`_), the `NumPy/SciPy packages <http://www.numpy.org/>`_ for computations and `MatPlotLib for plotting <http://matplotlib.org/>`_.
+
+All this is included in the free `Anaconda <http://continuum.io/downloads>`_ installer, which allow to install everything in two clicks (one file of 500 MB, free to download of course).
+
+.. seealso:: More `details on how to start learning and using Python <learn-python.en.html>`_ on this website.
+
+4. SciLab
 ~~~~~~~~~
 `SciLab <https://www.scilab.org/scilab/about>`_, was originally developed by a French team, joint work of CNRS and INRIA.
 It has a syntax very close to the MATLAB and Octave one, and is still actively developed.
 
-3. SAGE (Python SageMath)
+5. SAGE (Python SageMath)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 More details on their website: `SageMath.org <http://www.sagemath.org/tour.html>`_.
-
-4. Python with scientific tools
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Python with the `Spyder IDE <https://pythonhosted.org/spyder/>`_ (with `IPython <https://ipython.org/>`_), the `NumPy/SciPy packages <http://www.numpy.org/>`_ for computations and `MatPlotLib for plotting <http://matplotlib.org/>`_.
-
-All this is included in the free `Anaconda <http://continuum.io/downloads>`_ installer, which allow to install everything in two clicks (one huge file of 400 MB, free to download of course).
-
-.. seealso:: More `details on how to start learning and using Python <learn-python.en.html>`_ on this website.
 
 .. note:: "*Freeware*"?
 

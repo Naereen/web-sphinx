@@ -15,28 +15,35 @@ Cette page est là pour ça.
 Lite de logiciels alternatifs à MATLAB
 --------------------------------------
 
-1. **GNU Octave**
+1. **Julia**
+~~~~~~~~~~~~
+`Julia <https://julialang.org/>`_ est mon nouveau favori parmi les remplaçants libres de MATLAB.
+C'est vraiment un langage génial, et une communauté en très forte croissance (+200% par an depuis 2015 !), vous devriez vraiment aller jeter un œil !
+
+.. seealso:: J'ai donné une présentation au `séminaire IETR 2018 <https://seminar-ietr-18.sciencesconf.org/program>`_ à propos de Julia, avec `Pierre Haessig <http://pierreh.eu/efficient-tools-seminar/>`_. Les planches sont `disponibles ici ! <https://perso.crans.org/besson/publis/slides/2018_06__Julia_my_new_optimization_friend__introduction_for_MATLAB_users__at_IETR_seminar/slides.pdf>`_ (en anglais).
+
+2. **GNU Octave**
 ~~~~~~~~~~~~~~~~~
 `GNU Octave <https://www.gnu.org/software/octave/>`_ a pour but d'être un clone complet de MATLAB, et est en développement depuis plus de 25 ans.
 Il marche vraiment très bien, et est `désormais muni d'une interface graphique (GUI) de qualité <http://octave.org/NEWS-4.0.html>`_, très proche de celle de MATLAB.
 
-2. SciLab
-~~~~~~~~~
-`SciLab <https://www.scilab.org/scilab/about>`_, était initialement développé par une équipe Française, une collaboration entre le CNRS et INRIA.
-
-SciLab propose une syntaxe très proche de celle de MATLAB ou d'Octave, et est toujours en développement actif.
-
-3. SAGE (Python SageMath)
-~~~~~~~~~~~~~~~~~~~~~~~~~
-Plus de détails sur leur site : `SageMath.org <http://www.sagemath.org/tour.html>`_.
-
-4. Python avec ses modèles scientifiques
+3. Python avec ses modèles scientifiques
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Python, avec `l'IDE Spyder <https://pythonhosted.org/spyder/>`_ (et `la console IPython <https://ipython.org/>`_), les `modules NumPy/SciPy <http://www.numpy.org/>`_ pour les calculs et `MatPlotLib pour l'affichage <http://matplotlib.org/>`_.
 
 Tout ça (et bien plus) est inclut dans l'installeur gratuit `Anaconda <http://continuum.io/downloads>`_, qui permet d'installer tout ça en deux clics (juste un seul gros fichier de 400 Mo, en téléchargement gratuit bien-sûr).
 
 .. seealso:: Plus de `détails pour commencer à apprendre Python <apprendre-python.fr.html>`_ sur ce site.
+
+4. SciLab
+~~~~~~~~~
+`SciLab <https://www.scilab.org/scilab/about>`_, était initialement développé par une équipe Française, une collaboration entre le CNRS et INRIA.
+
+SciLab propose une syntaxe très proche de celle de MATLAB ou d'Octave, et est toujours en développement actif.
+
+5. SAGE (Python SageMath)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Plus de détails sur leur site : `SageMath.org <http://www.sagemath.org/tour.html>`_.
 
 .. note:: *"Graticiel"* ?
 
