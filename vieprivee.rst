@@ -96,12 +96,16 @@ Crypter ses fichiers
 
 Outils de "communication" à usage unique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* Ce guide est très bien fait, `<https://thebestvpn.com/anonymous-email/>`_.
+
 * `anonbox.net <https://anonbox.net/fr/>`_ propose une adresse courriel à usage unique (un seul message reçu, en texte brute ASCII, avec les pièces jointes encodées en base64 : un courriel "dans sa forme brute" quoi).
 
 * `10minutemail.com <http://10minutemail.com/10MinuteMail/index.html>`_ propose aussi une adresse email
   qui s'auto-détruit 10 minutes plus tard, mais sans possibilité de lecture.
 
 * `send-email.org <http://send-email.org/>`_ permet d'envoyer de petits courriels (moins de 2000 caractères) sans pièce jointe à n'importe qui, très facilement. Super pratique !
+
+* Et `anonymousemail.me <https://anonymousemail.me/>`_ fait pareil, en plus joli !
 
 * `cURL.io <http://curl.io/>`_ permet d'envoyer des fichiers, en clair ou chiffré, via le terminal. Et en plus, leur site web est très bien réalisé (minimaliste, mais superbe).
 
