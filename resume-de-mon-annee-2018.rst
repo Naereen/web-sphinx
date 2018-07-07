@@ -14,7 +14,7 @@ J'ai rédigé ça au fur et à mesure de l'année, avec une dernière rédaction
 Janvier 2018
 ------------
 - Un formidable nouvel an avec mes meilleurs amis à Dol-de-Bretagne, avec des visites bien agréables à St-Malo et au Mont St-Michel !
-- `50 000ème visiteurs sur ce site web <stats-google-analytics.fr.html>`_ courant janvier, depuis 5 ans (je collecte des statistiques depuis début 2013). Je note aussi le gain en popularité de certains `de mes projets GitHub <https://naereen.github.io/>`_, avec quelques un ayant plus de 50 "*stars*" et d'autres attirants plus de 500 visites par mois (`celui-là <https://github.com/Naereen/badges>`_ ou `celui-ci <https://github.com/Naereen/Nginx-Fancyindex-Theme/>`_, par exemple).
+- `50 000ème visiteur sur ce site web <stats-google-analytics.fr.html>`_ courant janvier, depuis 5 ans (je collecte des statistiques depuis début 2013). Je note aussi le gain en popularité de certains `de mes projets GitHub <https://naereen.github.io/>`_, avec quelques un ayant plus de 50 "*stars*" et d'autres attirants plus de 500 visites par mois (`celui-là <https://github.com/Naereen/badges>`_ ou `celui-ci <https://github.com/Naereen/Nginx-Fancyindex-Theme/>`_, par exemple).
 
 Février 2018
 ------------
@@ -37,23 +37,24 @@ Avril 2018
 Mai 2018
 --------
 - Un long weekend très agréable à Marseille (pour prendre un peu le soleil et rendre visite à des amis).
-- Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
+- Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster <https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
 - Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
 
 .. youtube:: 7_VQCD863CU?t=30
 
-.. warning:: La suite est… dans le futur !
-
 Juin 2018
 ---------
 - Une semaine de vacances dans les Alpes (dans `la plus belle vallée du monde <https://fr.wikipedia.org/wiki/Brian%C3%A7on>`_).
-- Notre `équipe de recherche <http://www-scee.rennes.supelec.fr/>`_ a organisé la `Conférence Internationale sur les Télécommunications (ICT) <http://ict-2018.org/>`_ à St-Malo, fin juin 2018. Tous `les doctorants <http://www-scee.rennes.supelec.fr/wp/phd/>`_ de notre équipe ont bien sûr participé, et `Rémi <https://remibonnefoi.wordpress.com/>`_ et moi avons présenté `cette démonstration <https://bitbucket.org/scee_ietr/multi-arm-bandit-learning-for-lora-networks-with-grc>`_.
+- Notre `équipe de recherche <http://www-scee.rennes.supelec.fr/>`_ a organisé la `Conférence Internationale sur les Télécommunications (ICT) <http://ict-2018.org/>`_ à St-Malo, fin juin 2018. Tous `les doctorants <http://www-scee.rennes.supelec.fr/wp/phd/>`_ de notre équipe ont bien sûr participé, et `Rémi <https://remibonnefoi.wordpress.com/>`_ et moi avons présenté `cette démonstration <https://bitbucket.org/scee_ietr/multi-arm-bandit-learning-for-lora-networks-with-grc>`_. C'était une chouette semaine !
 - Ma seconde participation au festival `Paris est Ludique (PEL) <https://sites.google.com/a/parisestludique.fr/paris-est-ludique-2018/>`_, et c'était encore mieux qu'en 2017 !
 
 Juillet 2018
 ------------
-- Une chouette visite à Marseille, Arles et évidemment en Avignon pour `le festival d'Avignon <http://www.festival-avignon.com/fr/>`_ !
+- Je ne suis pas fan de football, mais regarder des bons matchs entre amis en terrasse quand il fait beau, c'est quand même sympa !
+- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille. Mes élèves s'en sont bien sortis. Et encore une bonne discussion avec un Inspecteur Général de l'EN, pour mon poste en prépa après ma thèse. Ça se profile bien...
 - TODO
+
+.. warning:: La suite est… dans le futur !
 
 Août 2018
 ---------
@@ -89,8 +90,8 @@ Résumé culturel
 En 2018, j'ai voyagé là...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
-- Aux Pays-Bas en mai 2018 pour `un atelir international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
-- Pas mal en France : en Bretagne, beaucoup à Paris, à Marseille, dans les Alpes...
+- Aux Pays-Bas en mai 2018 pour `un atelier international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
+- Pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes...
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
@@ -101,10 +102,10 @@ En 2018, j'ai joué à ces jeux...
 
 En 2018, j'ai vu ces séries...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saisons 1 et 2 de *Star Wars: Rebels* (extraordinaire),
+- Saisons 1, 2 et 3 de *Star Wars: Rebels* (extraordinaire),
 - Saison 11 de *The Big Bang Theory* (toujours aussi drôle je trouve),
 - Saison 1 de *Young Sheldon* (correct mais pas ultime non plus),
-- Saison 1 de *Alex Inc.* (que le début),
+- Saison 1 de *Alex Inc.* (bof bof),
 - Saison 1 de *American Gods* (correct mais trop lent).
 
 En 2018, j'ai lu ces livres...
@@ -115,6 +116,7 @@ En 2018, j'ai lu ces livres...
 - Les meilleurs récits de `Weird Tales <https://fr.wikipedia.org/wiki/Weird_Tales>`_, tômes 1 à 3.
 - `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore),
 - `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_,
+- (de nouveau) Les Fleurs du Mal, de Charles Baudelaire (un classique toujours agréable),
 - Beaucoup d'autres...
 
 En 2018, j'ai vu ces films...
@@ -130,18 +132,20 @@ En 2018, j'ai vu ces films...
 - *Flatliners*, bof,
 - *Guardians of the Galaxy vol. 2*, très bof !
 - *Ant-Man*, correct,
-- *Big Hero 6* (Disney), génial,
+- *Big Hero 6* (Disney), plutôt sympa,
 - *Attention, bandits* (français, 1987), très beau,
 - *La Tour au-delà des nuages*, très beau !
 - *Ame et Yuki, les enfants loups*, magnifique aussi ! (j'avoue, j'ai pleuré)
 - *Princess Bride*, débile mais culte !
-- *La Rose et la Flèche*, beau mais triste !
+- *La Rose et la Flèche*, beau mais triste ! (et vieux !)
 - *Before Sunset*, la suite de *Before Sunrise*, très beau et intense,
 - *Docteur Strange*, assez cool !
 - *Thor: Ragnarok*, purement ridicule mais drôle,
 - *Avengers: Civil War*, correct mais un peu brouillon,
 - *Harry Potter*, du 1 au 7a et 7b (enfin, je n'avais jamais vu après le tôme 4 !),
 - *Les Poupées Russes*, j'ai bien fait d'attendre si longtemps parce que j'ai A-DO-RÉ !
-- Beaucoup d'autres...
+- *Les Indestructibles 2*, formidable !
+- *The Boy and The Beast* (Bakemono no Ko, バケモノの子), un film d'animation japosaise qui m'a beaucoup plû !
+- Plein d'autres...
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

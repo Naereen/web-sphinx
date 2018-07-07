@@ -59,7 +59,7 @@ Août 2017
 
 Septembre 2017
 --------------
-- Une semaine à Inria Lille, pour un `atelier sur deux jours <https://team.inria.fr/magnet/workshop-on-decentralized-machine-learning-optimization-and-privacy/>`_ (pour `présenter ce poster <https://bitbucket.org/scee_ietr/phd-student-day-ietr-2017-bonnefoi-and-besson/downloads/poster.pdf>`_), et `un exposé au séminaire SequeL <http://seminaire.univ-lille1.fr/>`_. Fin de la rédaction de mon `deuxième article <articles/BKM__IEEE_WCNC_2018.pdf>`_.
+- Une semaine à Inria Lille, pour un `atelier sur deux jours <https://team.inria.fr/magnet/workshop-on-decentralized-machine-learning-optimization-and-privacy/>`_ (pour `présenter ce poster <https://bitbucket.org/scee_ietr/phd-student-day-ietr-2017-bonnefoi-and-besson/downloads/poster.pdf>`_), et `un exposé au séminaire SequeL <http://seminaire.univ-lille1.fr/>`_. Fin de la rédaction de mon `deuxième article <https://hal.inria.fr/hal-01705292>`_.
 - Premier voyage international pour présenter un article dans une conférence, j'étais à Lisbonne pour `CROWNCOM 2017 <crowncom.org/2017/>`_, et `notre article <https://hal.inria.fr/hal-01575419>`_ a reçu le *Best Paper Award* (prix du meilleur article).
 - Une petite semaine de télétravail et un peu de vacances à Lisbonne au Portugal. Sintra et Cascaïs sont de très beaux lieux ! L'océan c'est magique :-) !
 
@@ -78,7 +78,7 @@ Novembre 2017
 Décembre 2017
 -------------
 - La soutenance de `thèse de doctorat <http://www.theses.fr/s95562>`_ de mon frère, `Florian Besson <http://paris-sorbonne.academia.edu/FBesson/>`_, a eu lieu le 04 décembre. Félicitations à lui ! `Regardez ça pour un petit aperçu de ses recherches <http://www.paris-sorbonne.fr/terrains-de-recherche-besson>`_.
-- Deux super semaines à Inria Lille, avec deux articles acceptés ! (`1 <articles/BKM__IEEE_WCNC_2018.pdf>`_ et `2 <https://hal.inria.fr/hal-01629733>`_), `un autre séminaire <http://seminaire.univ-lille1.fr/node/264>`_ (avec `ces planches <publis/slides/2017_12__Presentation_Inria_Lille_SequeL_Seminar/slides_169.pdf>`_), et de belles rencontres et nouvelles idées !
+- Deux super semaines à Inria Lille, avec deux articles acceptés ! (`1 <https://hal.inria.fr/hal-01705292>`_ et `2 <https://hal.inria.fr/hal-01629733>`_), `un autre séminaire <http://seminaire.univ-lille1.fr/node/264>`_ (avec `ces planches <publis/slides/2017_12__Presentation_Inria_Lille_SequeL_Seminar/slides_169.pdf>`_), et de belles rencontres et nouvelles idées !
 - Une chouette semaine de vacances pour Noël à Gap et Briançon, et un formidable nouvel an avec mes meilleurs amis à Dol-de-Bretagne !!
 
 

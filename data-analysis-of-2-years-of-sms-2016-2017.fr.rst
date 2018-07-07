@@ -20,10 +20,10 @@ Messages par mois
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_month.png
     :width: 50%
     :align: center
-    :alt: J'envoie plus de texte en septembre, décembre et janvier
+    :alt: J'envoie plus de textos en septembre, décembre et janvier.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
 
-    J'envoie plus de texte en septembre, décembre et janvier.
+    J'envoie plus de textos en septembre, décembre et janvier.
 
 Messages par heures
 ~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ Messages par heures
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_hour.png
     :width: 50%
     :align: center
-    :alt: J'envoie plus de textos vers 19h et le soir en général
+    :alt: J'envoie plus de textos vers 19h et le soir en général.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
 
     J'envoie plus de textos vers 19h et le soir en général.
@@ -42,7 +42,7 @@ Messages par jour dans la semaine
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_weekday_2.png
     :width: 50%
     :align: center
-    :alt: J'envoie moins de textos en début de semaine et (beaucoup) plus pendant le week-end
+    :alt: J'envoie moins de textos en début de semaine et (beaucoup) plus pendant le week-end.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
 
     J'envoie moins de textos en début de semaine et (beaucoup) plus pendant le week-end.
@@ -64,7 +64,7 @@ Messages dans la semaine ou le weekend
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/week_vs_weekend.png
     :width: 50%
     :align: center
-    :alt: Proportionnellement, j'envoie plus de textos en 2 jours de week-end que 5 jours de la semaine
+    :alt: Proportionnellement, j'envoie plus de textos en 2 jours de week-end que 5 jours de la semaine.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
 
     Proportionnellement, j'envoie plus de textos en 2 jours de week-end que 5 jours de la semaine.

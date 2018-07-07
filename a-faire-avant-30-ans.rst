@@ -34,14 +34,14 @@ Voyages
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`1 = 0`...
+- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`x = 1`...
 - Publier au moins un *article dans une revue* (un *"journal"*).
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``. J'y suis presque !
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
-- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair... `Ce site essaie de bien expliquer <https://fossa.io/>`_, ça ne m'a guère aidé.
+- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair... `Ce site essaie de bien expliquer <https://fossa.io/>`_, mais j'ai toujours des doutes.
 - OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 100, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
