@@ -153,12 +153,6 @@ on GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_ (in Engli
 and on Bitbucket : `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_ (in English),
 `bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (in French), no need for an account.
 
-IRC (chat rooms)
-^^^^^^^^^^^^^^^^
-From time to time, I appear on the IRC network ``irc.crans.org``, in the rooms *#crans* and *#general*, with pseudo `Naereen <https://gravatar.com/naereen>`_ (I usually use `irssi <http://irssi.org/about>`_ with `these configuration files <publis/irssi/>`_, in a terminal, obviously).
-
-If you are feeling particularly audacious, you can try to "let a message for me" there, *that's really a bad idea*.
-
 
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
