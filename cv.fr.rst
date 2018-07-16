@@ -9,7 +9,7 @@
 Cette année (*2016-17*)
 -----------------------
 
-- J'ai commencé `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
+- J'ai commencé `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
 - Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
@@ -38,7 +38,7 @@ Adresse de contact
 Autres informations à propos de moi
 ------------------------------------
  * :Date de Naissance: *12 Janvier 1993*. Âge : **24 ans**.
- * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, à Rennes et à `Inria <https://team.inria.fr/sequel/team-members/>`_ à Lille. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
+ * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, à Rennes et à `Inria <https://team.inria.fr/sequel/team-members/>`_ à Lille. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
  * :Pages sur le web:
 
    #. mes pages web personnelles, hébergées par le CRANS : `perso.crans.org/besson <http://perso.crans.org/besson>`_;

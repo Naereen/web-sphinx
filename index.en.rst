@@ -19,7 +19,7 @@ in Mathematics and Computer Science at |ENSCachan|.
 
 From September 2016 and until August 2019:
 
-- I am pursuing `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL lab, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD is on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
+- I am pursuing `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL lab, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD is on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
 - And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 

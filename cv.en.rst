@@ -9,7 +9,7 @@
 This year (*2016-17*)
 ---------------------
 
-- I started `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL labo, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD will be on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
+- I started `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL labo, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD will be on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
 - And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
@@ -40,7 +40,7 @@ Contact address
 Extra information about me
 --------------------------
  * :Date of Birth: *January 12th, 1993*. Age : **24**.
- * :Current Status: PhD student at `CentraleSupelec <http://www.rennes.supelec.fr/ren/rd/scee/membres.html>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
+ * :Current Status: PhD student at `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
  * :Webpages:
 
     #. `This website <index.html>`_;
