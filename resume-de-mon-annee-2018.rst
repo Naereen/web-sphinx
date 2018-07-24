@@ -39,8 +39,7 @@ Mai 2018
 - Un long weekend très agréable à Marseille (pour prendre un peu le soleil et rendre visite à des amis).
 - Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster <https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
 - Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
-
-.. youtube:: 7_VQCD863CU?t=30
+  .. youtube:: 7_VQCD863CU?t=30
 
 Juin 2018
 ---------
@@ -50,14 +49,15 @@ Juin 2018
 
 Juillet 2018
 ------------
-- Je ne suis pas fan de football, mais regarder des bons matchs entre amis en terrasse quand il fait beau, c'est quand même sympa !
-- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille. Mes élèves s'en sont bien sortis. Et encore une bonne discussion avec un Inspecteur Général de l'EN, pour mon poste en prépa après ma thèse. Ça se profile bien...
-- TODO
+- Je ne suis pas fan de football, mais regarder des bons matchs entre amis en terrasse quand il fait beau, c'est quand même sympa ! Et bon, la France a de nouveau gagné la coupe du monde, l'ambiance était pas mal !
+- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille. Mes élèves s'en sont bien sortis. Et encore une bonne discussion avec un Inspecteur Général de l'EN, pour mon poste en prépa après ma thèse. Ça se profile bien…
+- J'ai hébergé 6 personnes en CouchSurfing et deux amis, très agréable d'avoir de la visite comme ça et de profiter de l'été avec des gens ne connaissant pas bien la ville, il y a plein de choses à leur montrer !
 
 .. warning:: La suite est… dans le futur !
 
 Août 2018
 ---------
+- Une semaine de vacances en Écosse, c'était génial !
 - TODO
 
 Septembre 2018
@@ -87,20 +87,20 @@ Résumé culturel
 
   Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
-En 2018, j'ai voyagé là...
+En 2018, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
 - Aux Pays-Bas en mai 2018 pour `un atelier international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
-- Pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes...
+- Pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes…
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
-En 2018, j'ai joué à ces jeux...
+En 2018, j'ai joué à ces jeux…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Zelda: Mystery of Solarus* sur **PC** (jeu amateur, `open-source <http://www.solarus-games.org/games/zelda-mystery-of-solarus-dx/>`_),
 - *The Legend of Zelda: Twilight Princess* sur **Wii** (très bien).
 
-En 2018, j'ai vu ces séries...
+En 2018, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saisons 1, 2 et 3 de *Star Wars: Rebels* (extraordinaire),
 - Saison 11 de *The Big Bang Theory* (toujours aussi drôle je trouve),
@@ -108,7 +108,7 @@ En 2018, j'ai vu ces séries...
 - Saison 1 de *Alex Inc.* (bof bof),
 - Saison 1 de *American Gods* (correct mais trop lent).
 
-En 2018, j'ai lu ces livres...
+En 2018, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Actuel Moyen-Âge <http://www.arkhe-editions.com/portfolio/actuel-moyen-age/>`_, un livre d'histoire écrit par mon frère et ses collaborateurs,
 - *Harry Potter*, tômes 5 à 7, en français et en anglais,
@@ -117,9 +117,9 @@ En 2018, j'ai lu ces livres...
 - `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore),
 - `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_,
 - (de nouveau) Les Fleurs du Mal, de Charles Baudelaire (un classique toujours agréable),
-- Beaucoup d'autres...
+- Beaucoup d'autres…
 
-En 2018, j'ai vu ces films...
+En 2018, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Whilplash* (2014), génial,
 - *Zoolander*, 1 et 2, correct,
@@ -146,6 +146,6 @@ En 2018, j'ai vu ces films...
 - *Les Poupées Russes*, j'ai bien fait d'attendre si longtemps parce que j'ai A-DO-RÉ !
 - *Les Indestructibles 2*, formidable !
 - *The Boy and The Beast* (Bakemono no Ko, バケモノの子), un film d'animation japosaise qui m'a beaucoup plû !
-- Plein d'autres...
+- Plein d'autres…
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
