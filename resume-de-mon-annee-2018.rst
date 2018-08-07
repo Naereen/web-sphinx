@@ -19,7 +19,7 @@ Janvier 2018
 Février 2018
 ------------
 - `50ème recette de cuisine <https://perso.crans.org/besson/cuisine/>`_ rédigée pour `mon blog de cuisine <https://perso.crans.org/besson/cuisine/>`_, lancé en juillet 2017 (6 mois avant). Peu de visiteurs (environ 400 par mois pour l'instant), mais ça me plaît bien !
-- Une innoubliable fête d'anniversaire pour mes 25 ans, avec une chasse aux trésors photographique que j'ai organisé pour 25 amis au Musée du Louvre ! `Les sources sont distribués sous licence libre <https://github.com/Naereen/Chasse-aux-tr-sors-au-Louvre-pour-mes-25-ans>`_.
+- Une innoubliable fête d'anniversaire pour mes 25 ans, avec une chasse aux trésors photographique que j'ai organisé pour 25 amis au Musée du Louvre ! `Les sources sont distribuées sous licence libre <https://github.com/Naereen/Chasse-aux-tr-sors-au-Louvre-pour-mes-25-ans>`_.
 - Une chandeleur mémorable durant laquelle j'ai perdu des sourcils après `une galette bretonne flambée au rhum <https://perso.crans.org/besson/cuisine/galettes-bretonnes.html>`_, un peu trop explosive !
 
 Mars 2018
@@ -39,7 +39,9 @@ Mai 2018
 - Un long weekend très agréable à Marseille (pour prendre un peu le soleil et rendre visite à des amis).
 - Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster <https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
 - Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
-  .. youtube:: 7_VQCD863CU?t=30
+
+.. youtube:: 7_VQCD863CU?t=30
+
 
 Juin 2018
 ---------
@@ -50,15 +52,16 @@ Juin 2018
 Juillet 2018
 ------------
 - Je ne suis pas fan de football, mais regarder des bons matchs entre amis en terrasse quand il fait beau, c'est quand même sympa ! Et bon, la France a de nouveau gagné la coupe du monde, l'ambiance était pas mal !
-- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille. Mes élèves s'en sont bien sortis. Et encore une bonne discussion avec un Inspecteur Général de l'EN, pour mon poste en prépa après ma thèse. Ça se profile bien…
-- J'ai hébergé 6 personnes en CouchSurfing et deux amis, très agréable d'avoir de la visite comme ça et de profiter de l'été avec des gens ne connaissant pas bien la ville, il y a plein de choses à leur montrer !
-
-.. warning:: La suite est… dans le futur !
+- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille. Mes élèves s'en sont bien sortis. Et encore une bonne discussion avec un Inspecteur Général de l'Éducation Nationale, pour mon poste en prépa après ma thèse. Ça se profile bien… (même si on ne peut rien dire tant que rien n'est décidé).
+- J'ai hébergé 6 personnes en CouchSurfing et deux amis (en moins de trois semaines), très agréable d'avoir de la visite comme ça et de profiter de l'été avec des gens ne connaissant pas bien la ville, il y a plein de choses à leur montrer !
 
 Août 2018
 ---------
-- Une semaine de vacances en Écosse, c'était génial !
+- Une semaine de vacances en Écosse, c'était *génial* !
+- Deux semaines à la montagne (à Briançon), avec beaucoup de repos en famille, entre de nombreuses sorties VTT, vélo de route, kayak, randonnées, camping etc…
 - TODO
+
+.. warning:: La suite est… dans le futur !
 
 Septembre 2018
 --------------
@@ -91,12 +94,13 @@ En 2018, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
 - Aux Pays-Bas en mai 2018 pour `un atelier international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
-- Pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes…
+- En Écosse en juillet 2018 en *"road trip"* avec des amis.
+- Et pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes…
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
-En 2018, j'ai joué à ces jeux…
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+En 2018, j'ai joué à ces jeux vidéo…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Zelda: Mystery of Solarus* sur **PC** (jeu amateur, `open-source <http://www.solarus-games.org/games/zelda-mystery-of-solarus-dx/>`_),
 - *The Legend of Zelda: Twilight Princess* sur **Wii** (très bien).
 
@@ -111,13 +115,16 @@ En 2018, j'ai vu ces séries…
 En 2018, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Actuel Moyen-Âge <http://www.arkhe-editions.com/portfolio/actuel-moyen-age/>`_, un livre d'histoire écrit par mon frère et ses collaborateurs,
-- *Harry Potter*, tômes 5 à 7, en français et en anglais,
+- *Harry Potter*, tôme 5, en français et en anglais,
 - *Zelda History*, un livre d'histoire sur les jeux *La Légende de Zelda*,
 - Les meilleurs récits de `Weird Tales <https://fr.wikipedia.org/wiki/Weird_Tales>`_, tômes 1 à 3.
-- `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore),
-- `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_,
+- `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore !),
+- `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_ (un cadeau, qui m'a bien plu),
 - (de nouveau) Les Fleurs du Mal, de Charles Baudelaire (un classique toujours agréable),
-- Beaucoup d'autres…
+- La trilogie Star Wars, "L'Académie Jedi", de Kevin J. Anderson. Histoire sympa, mais écriture (ou traduction) bof bof…
+- Une anthologie de poèmes de Victor Hugo (un autre classique, que j'ai adoré redécouvrir),
+- Une anthologie en anglais de poèmes de John Keats (coup de cœur !),
+- Beaucoup d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,8 +134,8 @@ En 2018, j'ai vu ces films…
 - *Jeune et Jolie*, correct,
 - *Les Trois Brigands*, correct,
 - *Thelma et Louise*, enfin (et j'adore),
-- *Kubo et l'armure magique*, très beau film d'animation !
-- *Coco* (Disney, 2017),
+- *Kubo et l'armure magique*, très beau film d'animation ! (en *"step motion"* en plus, très impressionnant !)
+- *Coco* (Disney, 2017), joli mais pas si bien,
 - *Flatliners*, bof,
 - *Guardians of the Galaxy vol. 2*, très bof !
 - *Ant-Man*, correct,
