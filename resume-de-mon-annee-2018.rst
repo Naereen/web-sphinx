@@ -40,7 +40,7 @@ Mai 2018
 - Un chouette `coloque sur les bandits multi-bras et leurs applications <http://www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_, deux jours à Rotterdam, où j'ai pu présenter `ce poster <https://bitbucket.org/lbesson/phd-student-day-ietr-2018>`_ résumant `un de mes articles de recherche <https://hal.inria.fr/hal-01629733>`_.
 - Première sortie kayak de l'année ! *Pourquoi j'aime le kayak ?* *Vous avez vu, ça se lit dans les deux sens !*
 
-.. youtube:: 7_VQCD863CU?t=30
+.. youtube:: 7_VQCD863CU?start=30
 
 
 Juin 2018
