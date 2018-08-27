@@ -7,7 +7,7 @@
 ##################################
 
 
-To start learning Python, I recommend...
+To start learning Python, I recommend…
 ----------------------------------------
 .. note:: Wait, what is Python?
 

@@ -86,7 +86,7 @@ Result
 
    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
    <script type="text/javascript" src="https://www.transifex.com/projects/p/bitbucketorg/resource/bitbucket-django/chart/inc_js/"></script>
-   <div id="txchart-bitbucketorg-bitbucket-django">Loading chart...</div>
+   <div id="txchart-bitbucketorg-bitbucket-django">Loading chart…</div>
    <h4>Embedded chart thanks to Transifex's API, © of Transifex</h4>
 
 ------------------------------------------------------------------------------

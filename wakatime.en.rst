@@ -15,7 +15,7 @@ What is this weird idea?
 
 Why exactly?
 ------------
- Hum... in fact, the real reason seems to be pure ego: programmers are *proud* to see *how much time* they can work on each of their projects.
+ Hum… in fact, the real reason seems to be pure ego: programmers are *proud* to see *how much time* they can work on each of their projects.
 
 ------------------------------------------------------------------------------
 
@@ -209,6 +209,6 @@ For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTime
    $ wakatime | head -n3
 
 
-.. warning:: I do not know why, but this small ``wakatime`` command line tool does not work anymore on my laptop (even after uninstalling and reinstalling)... Too bad :( !
+.. warning:: I do not know why, but this small ``wakatime`` command line tool does not work anymore on my laptop (even after uninstalling and reinstalling)… Too bad :( !
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

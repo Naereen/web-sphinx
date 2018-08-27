@@ -12,7 +12,7 @@ Using `this (free) application on my Android phone <https://play.google.com/stor
 I then used `Python <https://www.python.org/>`_ (with `this module to read XML <https://docs.python.org/3/library/xml.etree.elementtree.html>`_ and `the pandas library <https://pandas.pydata.org/>`_) to extract and perform some analysis on that data.
 As I did my best in preserving the privacy of this data, so `you can read here the notebook <publis/notebooks/private/SMS.html>`_.
 
-Here are some statistics and information...
+Here are some statistics and information…
 
 Messages by month
 ~~~~~~~~~~~~~~~~~

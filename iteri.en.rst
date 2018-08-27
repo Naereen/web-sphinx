@@ -29,7 +29,7 @@ Very convenient!
 
 A better version?
 -----------------
-*But*... quite often, we need more than just the value of ``x`` of each element, we might need their **index** ``i``
+*But*… quite often, we need more than just the value of ``x`` of each element, we might need their **index** ``i``
 (for instance to print something like "the ith value contains x[i]").
 
 So, we would like to have two other iterator functions with the following signature:
@@ -43,7 +43,7 @@ So, we would like to have two other iterator functions with the following signat
 Now, *f* accepts as first argument the **index** ``i`` corresponding to its second argument the **value** ``xi``.
 That will be very convenient to avoid *for* loops!
 
-.. note:: In Python... ?
+.. note:: In Python… ?
 
    The common syntax for every *iterator* is already doing this, e.g. :
 
@@ -58,7 +58,7 @@ That will be very convenient to avoid *for* loops!
 Two functions that took their time to appear
 --------------------------------------------
 We can check that *Array.iteri* has been implemented back in 1997 [#arraydiff]_,
-but its straightforward equivalent for lists *List.iteri* has only been added **in... 2010**
+but its straightforward equivalent for lists *List.iteri* has only been added **in… 2010**
 with OCaml v4.00.1 ! (cf [#listdiff]_).
 
 

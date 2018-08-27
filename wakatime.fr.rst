@@ -15,7 +15,7 @@ Concept ?
 
 Pourquoi ?
 ----------
- Hum... en fait, la vraie raison semble purement liée à l'égo : les programmeurs sont *fiers* de voir *tout le temps* qu'il passe sur leurs projets.
+ Hum… en fait, la vraie raison semble purement liée à l'égo : les programmeurs sont *fiers* de voir *tout le temps* qu'il passe sur leurs projets.
 
 ------------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
    </p>
 
 
-.. note:: En attendant de faire mieux...
+.. note:: En attendant de faire mieux…
 
    :line:`J'aimerai trouver un moyen pour n'inclure que le graphique en camembert, et pas toute la page.`
    :red:`Correction :` Le 19 décembre (2015), j'ai reçu un courriel personnel de `Alan Hamlet <https://github.com/alanhamlett>`_ PDG et créateur de WakaTime, pour m'informer de la nouvelle fonctionnalité de `partage de graphiques <https://wakatime.com/share>`_ WakaTime.

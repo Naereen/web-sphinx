@@ -29,7 +29,7 @@ Pratique donc !
 
 Une meilleure version ?
 -----------------------
-*Mais*... Souvent, on a besoin, en plus de la valeur ``x`` de chaque élément, de leur **indice** ``i``
+*Mais*… Souvent, on a besoin, en plus de la valeur ``x`` de chaque élément, de leur **indice** ``i``
 (par exemple pour afficher "la case i contient x[i]" ou autre).
 
 Donc, on aimerait aussi avoir des itérateurs du type suivant :
@@ -43,7 +43,7 @@ Donc, on aimerait aussi avoir des itérateurs du type suivant :
 Où désormais *f* prend en premier argument **l'indice correspondant à son deuxième argument**.
 Très pratique pour éviter les boucles *for* !
 
-.. note:: En Python... ?
+.. note:: En Python… ?
 
    La syntaxe commune à tous les *itérateurs* permet d'éviter ça de toutes façons, e.g. :
 
@@ -58,7 +58,7 @@ Très pratique pour éviter les boucles *for* !
 Deux fonctions qui ont tardées à venir
 --------------------------------------
 On constate que si *Array.iteri* a été codée en 1997 [#arraydiff]_,
-son équivalent pour les listes *List.iteri* n'a été ajoutée **qu'en... 2010**
+son équivalent pour les listes *List.iteri* n'a été ajoutée **qu'en… 2010**
 avec OCaml v4.00.1 ! (cf [#listdiff]_).
 
 

@@ -181,7 +181,7 @@ Pour les citations et les notes de bas de pages
 
 Footnote
 ^^^^^^^^
-Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_.
+Lorem ipsum [#f1]_ dolor sit amet … [#f2]_.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -191,7 +191,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Citation
 ^^^^^^^^
-Lorem ipsum [c1]_ dolor sit amet ... [c2]_.
+Lorem ipsum [c1]_ dolor sit amet … [c2]_.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

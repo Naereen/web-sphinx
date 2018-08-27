@@ -273,7 +273,7 @@ Take it away, Eric the Orchestra Leader!
     |         when half the bee is not a bee,
     |             due to some ancient injury?
     |
-    | Singing...
+    | Singing…
 
 Block Quotes
 ------------
@@ -470,7 +470,7 @@ Admonitions
 .. WARNING:: Strong prose may provoke extreme mental exertion.
    Reader discretion is strongly advised.
 
-.. admonition:: And, by the way...
+.. admonition:: And, by the way…
 
    You can make up your own admonition too.
 
@@ -513,9 +513,9 @@ Compound Paragraph
 
    This paragraph contains a literal block::
 
-       Connecting... OK
-       Transmitting data... OK
-       Disconnecting... OK
+       Connecting… OK
+       Transmitting data… OK
+       Disconnecting… OK
 
    and thus consists of a simple paragraph, a literal block, and
    another simple paragraph.  Nonetheless it is semantically *one*

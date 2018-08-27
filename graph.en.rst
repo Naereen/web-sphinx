@@ -108,7 +108,7 @@ For instance here is a dependance graph
 generated via `pyreverse <https://www.logilab.org/2560>`_, and included here with ``.. graphviz:: .graph.dot``
 (the file is called **.graph.dot**).
 
-.. warning:: This graph is not correctly scaled...
+.. warning:: This graph is not correctly scaled…
 
 .. graphviz:: .graph.dot
 

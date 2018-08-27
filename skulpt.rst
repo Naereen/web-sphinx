@@ -66,11 +66,11 @@ Toplevel Python 2.7.3 Skulpt
    <script type="text/javascript" charset="utf-8" src="_static/ace-new/ace.js"></script>
 
    <i id="buttons-input" style="margin-left: 20%; margin-right: auto; display: block;">
-     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...');" />
-     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
+     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement…" style="margin: auto;" onclick="window.alert('Nothing :(…');" />
+     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement…" style="margin: auto;" />
    </i><br/>
    <h4>Sortie du toplevel (<tt>output</tt>) :
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement…" style="margin: auto;" /></h4>
     <pre id="output" style="font-family: monospace; width: 80%;"></pre><br/><hr/>
    <h4>Espace d'écriture (<tt>spanaoutput</tt>) pour le toplevel :</h4>
    <div id="outdiv">
@@ -85,7 +85,7 @@ Toplevel Python 2.7.3 Skulpt
    <script type="text/javascript">
    $(document).ready(function() {
     // window.onload = function() {
-       window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser... ~~~");
+       window.alert("~~~ Le terminal Python (2.7.3) commence à s'initialiser… ~~~");
        // Launch ACE
        // var editor = try { ace.edit("preeditor"); } catch(err) { document.getElementById('preeditor'); };
        var editor = document.getElementById('preeditor');
@@ -153,7 +153,7 @@ Toplevel Python 2.7.3 Skulpt
         button.value = "Exécute le code courant";
         button.disabled = false;
         button.onclick = function() {
-          window.alert("Interprétation commencée...");
+          window.alert("Interprétation commencée…");
           runit();
         };
       var cleanin = document.getElementById('cleanin');
@@ -182,14 +182,14 @@ Toplevel Python 2.7.3 Skulpt
           try {
             tmpvalue = output.innerHTML;
           } catch(err) {
-            console.log("[ERROR] ACE was not able to get the content of the output with '... = output.value'.");
+            console.log("[ERROR] ACE was not able to get the content of the output with '… = output.value'.");
             tmpvalue = output.value;
           };
           // output.innerHTML = "";
           try {
             output.innerHTML = "";
           } catch(err) {
-            console.log("[ERROR] ACE was not able to change the content of the output with 'output.value = ...'.");
+            console.log("[ERROR] ACE was not able to change the content of the output with 'output.value = …'.");
             output.value = "";  };
           window.alert("Sortie du toplevel vidée ! Ancien contenu :\n" + tmpvalue);
         };

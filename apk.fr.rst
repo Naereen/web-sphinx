@@ -30,7 +30,7 @@ Quelques listes d'applis
 
 .. warning:: N'est peut-être plus à jour !
 
-   J'ai écrit cette liste en *juin et juillet 2014*, donc elle est peut-être obsolète...
+   J'ai écrit cette liste en *juin et juillet 2014*, donc elle est peut-être obsolète…
    Je l'ai relu et vérifié en *juillet 2017*, et ça avait l'air d'aller !
    Par contre, mes choix d'applications ne sont plus les mêmes (mon téléphone a moins de mémoire en 2017 qu'en 2013 !).
 
@@ -113,7 +113,7 @@ Quelques jeux vidéos
 * `GBC A.D. <http://apk-dl.com/store/apps/details?id=com.bslapps.gbc>`_ est un bon émulateur pour Game Boy Color™ (bien évidemment, il fournit sans *roms*),
 * `Inotia™ III <http://apk-dl.com/store/apps/details?id=com.com2us.inotia3.normal.freefull.google.global.android.common>`_ et `Inotia™ IV <http://apk-dl.com/store/apps/details?id=com.com2us.inotia4.normal.freefull.google.global.android.common>`_ sont deux bons *hack-n-slash* (pas vraiment des jeux de rôles, plutôt de l'action), :gray:`(vieux)`
 * `Mojo GBA <http://apk-dl.com/store/apps/details?id=com.momojo.gba.lite>`_ est un excellent émulateur pour Game Boy Advance™ !
-* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ est un client pour Mumble (voilà une description pour le moins tautologique...), :gray:`(vieux)`
+* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ est un client pour Mumble (voilà une description pour le moins tautologique…), :gray:`(vieux)`
 * `Pixel Dungeon <http://apk-dl.com/store/apps/details?id=com.watabou.pixeldungeon>`_ est un bon *rogue-like* assez bien réalisé, et très difficile,
 * `SNesoid <http://apk-dl.com/store/apps/details?id=com.bslapps.snes>`_ ou `Snes9x Ex <http://apk-dl.com/store/apps/details?id=com.explusalpha.Snes9xPlus>`_ sont deux bons émulateurs pour Super NES™ (plutôt pour tablettes donc),
 * `Zenonia™ 1 Free <http://apk-dl.com/store/apps/details?id=com.gamevil.zenoniafree>`_, `Zenonia™ 3 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia3.global>`_, `Zenonia™ 4 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia4.global>`_ ou encore `Zenonia™ 5 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia5.global>`_ sont des bons *hack-n-slash*, dans le même genre que Inotia™. Seul le 2 est payant, les épisodes 1, 3, 4 et 5 sont gratuits. :gray:`(vieux)`

@@ -312,13 +312,13 @@ Manipulate volume or hibernation from command line
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,
   to make your laptop sleep, and it even works through an SSH connexion.
 
-  :State: *Experimental*, works on my machine (not tested elsewhere)...
+  :State: *Experimental*, works on my machine (not tested elsewhere)…
 
 
 * `Volume.sh <bin/Volume.sh>`_,
   to handle the volume of your laptop from command line (e.g., ``Volume.sh ++``, ``Volume.sh --`` to increase or decrease the volume).
 
-  :State: *Experimental*, works on my machine (not tested elsewhere)...
+  :State: *Experimental*, works on my machine (not tested elsewhere)…
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

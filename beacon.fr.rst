@@ -111,7 +111,7 @@ en enlevant le ``?pixel`` à la fin de l'adresse URL.
      a été téléchargée depuis ``appspot`` avec l'adresse du fichier *"virtuel"* ``beacon.fr.html/avec-un-badge``.
      Il est en fait possible, avec cette méthode, d'utiliser n'importe quelle adresse URL,
      la seule limite est votre imagination !
-     (hum, ça ressemblait drôlement à une pub pour des Legos... ou peut-être juste pour moi !)
+     (hum, ça ressemblait drôlement à une pub pour des Legos… ou peut-être juste pour moi !)
 
 
 En pratique : comment rédiger un courriel en ``HTML`` ?
@@ -142,12 +142,12 @@ et donc se terminera par le morceau de code ``HTML`` suivant :
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/11-03-2014/1?pixel" />
 
 
-.. warning:: Bien sûr, si vous voulez utiliser cette technique pour vos propres analyses, il **ne faut pas oublier de changer l'identifiant Google Analytics** ! Utiliser `UA-38514290-15` est inutile, vous ne seriez pas capable de voir les résultats... (mais moi oui, et c'est inutile).
+.. warning:: Bien sûr, si vous voulez utiliser cette technique pour vos propres analyses, il **ne faut pas oublier de changer l'identifiant Google Analytics** ! Utiliser `UA-38514290-15` est inutile, vous ne seriez pas capable de voir les résultats… (mais moi oui, et c'est inutile).
 
-.. note:: Quelqu'un a vraiment fait ça en fait...
+.. note:: Quelqu'un a vraiment fait ça en fait…
 
    En octobre, novembre and décembre 2017, j'ai vu du trafic bizarre sur cette page Google Analytics, émanant d'une entitée appelée `EDM`, qui apparemment a envoyé des emails utilisant cette clé et ces beacon d'analyse d'audience, quelques fois.
-   J'espère qu'ils ont réalisé que c'était inutile, mais en attendant, j'ai reçu presque 30K de requêtes inutiles...
+   J'espère qu'ils ont réalisé que c'était inutile, mais en attendant, j'ai reçu presque 30K de requêtes inutiles…
 
    .. figure:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
       :width: 100%

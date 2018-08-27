@@ -22,7 +22,7 @@ I will start by making a complete and exhaustive list of digital data about myse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It should include:
 
-- the data collected by any *websites*, *web services* or online services I have used or still use. It includes sent and received emails (to who? how long are they? do I send more than I receive?), Facebook (messages, posts and notifications), online shops (history of purchase, delay before reception), agenda events (like Google Calendar), gaming history on Steam (what did I play and when, how much did every hour played costed me?), history of videos seen on YouTube, etc. The list is probably too long to be done exhaustively...
+- the data collected by any *websites*, *web services* or online services I have used or still use. It includes sent and received emails (to who? how long are they? do I send more than I receive?), Facebook (messages, posts and notifications), online shops (history of purchase, delay before reception), agenda events (like Google Calendar), gaming history on Steam (what did I play and when, how much did every hour played costed me?), history of videos seen on YouTube, etc. The list is probably too long to be done exhaustively…
 - the data collected by my *laptops* (browsing habits, resource usage, printers history, history of active windows and keys frequency, music played, command line and text editors history, git commits, etc),
 - and my *phone*: text messages, calls, time spent in each applications, time of first and last activation every day, etc),
 - but also my *digital camera* when traveling (how many pictures were taken everyday, when and where?), my 3DS *gaming console* (how long and what did I play everyday?).
@@ -55,7 +55,7 @@ And there is all other kind of data you could collect on yourself, either by sel
 - *weather* of my city, *temperature* of my room or office, or other external factor that can influence my mood, health or productivity.
 
 
-2. Download, access or visualize the data... **All the data!**
+2. Download, access or visualize the data… **All the data!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I should find easy or automatic ways to *download* and *extract* these numerous data.
@@ -91,7 +91,7 @@ It should also be a framework with which you can play, most probably with Python
 It should be easy to add the support of one more web-service (data collection side), and one more statistics or answers taken from the data: everything has to be modular!
 
 
-5. Questions I would like to be able to answer...
+5. Questions I would like to be able to answer…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The goal should be to have daily statistics on all the data, answering some questions I have about my numerical self and myself:
@@ -113,10 +113,10 @@ The statistics should also allow me to answer some **questions on causality**:
 
 Some questions on **performance**:
 
-- Do I type faster on this or that laptop (which one has the fastest keyboard)? Do I type faster in French or in English (or no difference)? Am I faster when writing prose than code (should be the case...).
+- Do I type faster on this or that laptop (which one has the fastest keyboard)? Do I type faster in French or in English (or no difference)? Am I faster when writing prose than code (should be the case…).
 - Which language am I using the more (i.e., scripts written in such language are used more) and which one do I edit/produce/use the more ? (cf. `my WakaTime profile <https://WakaTime.com/@lbesson>`_) Am I too slow when working on one language or tool?
 - Does bad weather influences the time I have to ride my bike to go to work? My health, my mood or my productivity?
-- And the most important of all: am I completely wasting my time when working on these questions of self quantified? ... I hope not, but I think so.
+- And the most important of all: am I completely wasting my time when working on these questions of self quantified? … I hope not, but I think so.
 
 
 Some other questions include:
@@ -137,7 +137,7 @@ It should download everything (maybe asking passwords or reading them from a sec
 Then it should display a nice web-based UI, showing awesome charts, plots and statistics about **everything of my life**.
 
 
-7. And... publish all this open-source!
+7. And… publish all this open-source!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 And of course, do all this with open-source tools, and when my tool(s) will be done, publish them (under `the MIT License <https://lbesson.mit-license.org/>`_).
@@ -146,11 +146,11 @@ Then, I should write a more detailed article blog about it (rST → HTML, like t
 
 .. warning::
 
-   Concretely, I still did not have the time to work on all these points...
+   Concretely, I still did not have the time to work on all these points…
 
 ------------------------------------------------------------------------------
 
-So... what did I do so far?
+So… what did I do so far?
 ---------------------------
 
 I have been using some self-quantifying tools for quite some time, to collect and visualize some data on myself:

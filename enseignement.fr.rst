@@ -120,7 +120,7 @@ Second semestre en 2014 (en Inde)
 
 :Total 1: Pour ce second semestre en 2014, j'estime ma charge d'enseignement à **environ 110 heures** (nombre estimé d'heures passées à enseigner à un groupe d'élève ou à une section entière).
 
-:Examens: Durant toute l'année, j'étais aussi en charge des sujets d'examens de mathématiques et d'informatique : les concevoir, rassembler les idées des collègues, taper le tout (en :math:`\LaTeX2e{}` bien-sûr), rédiger une solution, corriger et surveiller la correction faite par les collègues... Avec un total de 9 examens (3 pour MA101, 3 pour CS101, 3 pour MA102 : *1er* et *2ème* *mi-semestre*, et *fin du semestre*), et une douzaine de quiz et examens de TPs, j'ai acquis une certaine dextérité pour ce genre de chose.
+:Examens: Durant toute l'année, j'étais aussi en charge des sujets d'examens de mathématiques et d'informatique : les concevoir, rassembler les idées des collègues, taper le tout (en :math:`\LaTeX2e{}` bien-sûr), rédiger une solution, corriger et surveiller la correction faite par les collègues… Avec un total de 9 examens (3 pour MA101, 3 pour CS101, 3 pour MA102 : *1er* et *2ème* *mi-semestre*, et *fin du semestre*), et une douzaine de quiz et examens de TPs, j'ai acquis une certaine dextérité pour ce genre de chose.
 
 
 Premier semestre en 2014 (en France)
@@ -144,6 +144,6 @@ Entre 2009 et 2013 (prépa et L3+M1)
 
 Avant 2009 (lycée et avant)
 ---------------------------
-  J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique... mais aussi en *théâtre* !
+  J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique… mais aussi en *théâtre* !
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -123,7 +123,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
      Here you just saw an example of a customized URL, as the previous image
      was loaded from ``appspot`` with the *"virtual"* file ``beacon.en.html/with-a-badge``.
      You can use any URL you want, the only limitation is your imagination !
-     (hum, wait, that sounded like a Lego advertisement... or maybe just for me)
+     (hum, wait, that sounded like a Lego advertisement… or maybe just for me)
 
 -------------------------------------------------------------
 
@@ -157,12 +157,12 @@ will have the code **03-12-2014/4**, and therefore will contains that piece of `
    <img style="visibility:hidden;display:none;" src="https://ga-beacon.appspot.com/UA-38514290-15/mail/03-12-2014/4?pixel" />
 
 
-.. warning:: Of course, if you want to use this for your own analytics need, don't forget to **change the Google Analytics ID**! Using `UA-38514290-15` will be useless, you won't be able to see the results...
+.. warning:: Of course, if you want to use this for your own analytics need, don't forget to **change the Google Analytics ID**! Using `UA-38514290-15` will be useless, you won't be able to see the results…
 
-.. note:: Some one did that...
+.. note:: Some one did that…
 
    In October, November and December 2017, I saw a lot of traffic using my Google Analytics ID, from an entity called `EDM`, who apparently sent some emails with an analytics beacon a few times.
-   I hope they realized it was useless, but in the meantime they sent over 30K useless requests...
+   I hope they realized it was useless, but in the meantime they sent over 30K useless requests…
 
    .. figure:: _images/stats-google-analytics/weird_visits_on_my_beacon_analytics_id.png
       :width: 100%
@@ -218,7 +218,7 @@ We can improve a little bit the process, by adding the redirection from `<beacon
    RewriteRule ^()$ /besson/beacon.html [L]    # Point to this explanation page.
 
 
-And if you want to be able to use the same proxy on ``yourWebSite.ext/beacon/....``, but with other Google Analytics sub-keys.
+And if you want to be able to use the same proxy on ``yourWebSite.ext/beacon/….``, but with other Google Analytics sub-keys.
 (one key for one account, and as many sub-keys as you want for your account, each sub-key corresponds to different datas, for instance one sub-key for every of your web-sites),
 you can add the rule to redirect an URL of the form "``beacon/14/any random paged but seen as being on another website/here lbesson.bitbucket.io``"
 to the picture "``https://ga-beacon.appspot.com/UA-38514290-14/any random paged but seen as being on another website/here lbesson.bitbucket.io``",

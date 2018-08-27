@@ -2,7 +2,7 @@
  Des clones gratuits pour remplacer DynDNS
 ###########################################
 
-.. note:: Cette page est un peu inutile...
+.. note:: Cette page est un peu inutile…
 
 -----
 

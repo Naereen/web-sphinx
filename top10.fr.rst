@@ -18,7 +18,7 @@ Mes 10 **films** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 .. sidebar:: Un 11ème ?
 
-   J'aime aussi beaucoup `Into the Wild <https://fr.wikipedia.org/wiki/Into_the_Wild>`_, mais il n'est pas classable avec les autres...
+   J'aime aussi beaucoup `Into the Wild <https://fr.wikipedia.org/wiki/Into_the_Wild>`_, mais il n'est pas classable avec les autres…
 
 
 - `The Truman Show <https://fr.wikipedia.org/wiki/The_Truman_Show>`_,
@@ -32,7 +32,7 @@ Mes 10 **films** préférés
 - `Le Cinquième Élément <https://fr.wikipedia.org/wiki/Le_Cinqui%C3%A8me_%C3%89l%C3%A9ment>`_,
 - `Princesse Mononoké <https://fr.wikipedia.org/wiki/Princesse_Mononok%C3%A9>`_.
 
-.. seealso:: Un autre top 7 de films préférés...
+.. seealso:: Un autre top 7 de films préférés…
 
    Par un ami cinéphile, `jill-jenn.net/cinema <http://jill-jenn.net/cinema/>`_.
 
@@ -141,7 +141,7 @@ Mes 10 **endroits en France** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. sidebar:: En auto-stop ?
 
-   Ah, oui, je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_... !
+   Ah, oui, je suis effectivement allé dans ou parti de chacune de ces villes `en auto-stop <autostop.fr.html>`_… !
 
 
 - `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (la ville et ses théâtres !),

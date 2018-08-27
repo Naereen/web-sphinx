@@ -40,7 +40,7 @@ Cette fonctionnalité `est présentée ici <https://www.zotero.org/#features-3>`
 
 Mon cas ?
 ---------
-*Je n'ai pas encore commencé à m'en servir régulièrement*, cette page est donc là avant tout pour me motiver à le faire...
+*Je n'ai pas encore commencé à m'en servir régulièrement*, cette page est donc là avant tout pour me motiver à le faire…
 
 C'est un logiciel auquel on peut faire confiance, c'est populaire, simple et très efficace.
 

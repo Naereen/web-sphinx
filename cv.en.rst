@@ -299,7 +299,7 @@ Other diplomas
 
 Other research experience
 -------------------------
-.. note:: Not up-to-date, I should add the projects done since 2013...
+.. note:: Not up-to-date, I should add the projects done since 2013…
 
 MSc programming projects (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

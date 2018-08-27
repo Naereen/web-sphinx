@@ -41,11 +41,11 @@ Sadly, no more than **355 kms** in France (Briançon → Gap and Gap → Brianç
 
 .. note::
 
-    I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and... 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping... What a success!
+    I did beat up my record of the waiting time between two cars, twice in a row during the same trip: when going from Briançon to Gap, I successfully took my second car (from Savines-le-Lac to Chorges) with about 23 seconds of waiting with my thumbs up (precise timing with my wrist watch), and… 4 seconds (yes, 4) for the last car (from Chorges to Gap). My right hand was still up from starting the timing that the car was already stopping… What a success!
 
 In 2016 : **330 kms**
 ^^^^^^^^^^^^^^^^^^^^^
-Sadly, no more than **330 kms** in France and in Switzerland...
+Sadly, no more than **330 kms** in France and in Switzerland…
 
 .. sidebar:: Only 330 kms???
 
@@ -119,7 +119,7 @@ Less than 300 kms, mainly in *Corsica* and the *Côte-d'Azur*.
 
 Before 2012
 ^^^^^^^^^^^
-A very little bit, well I was not 18 at the time...
+A very little bit, well I was not 18 at the time…
 
 ------------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ A very little bit, well I was not 18 at the time...
     maybe I will use that to keep a trace of my hitch-hiking trips and
     share them here. Or maybe not.
 
-(External) Hitch-Hiking guide to...
+(External) Hitch-Hiking guide to…
 -----------------------------------
 Some Hitch-Hiking guide to the Hitch-Hiker (of the road, not H2G2) !
 

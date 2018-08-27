@@ -6,7 +6,7 @@
  How I use `Visual Studio Code <https://code.visualstudio.com/>`_
 #################################################################
 
-About...
+About…
 --------
 About this page
 ^^^^^^^^^^^^^^^
@@ -44,7 +44,7 @@ My article focuses on versions higher than 1.14 of Visual Studio Code.
 
    `Sublime Text 3 <https://www.SublimeText.com/3>`_
       was my favorite editor from a few years back.
-      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
 
 What is Visual Studio Code?
@@ -59,7 +59,7 @@ See on GitHub: `Microsoft/vscode <https://github.com/Microsoft/vscode/>`_.
 However, the software as distributed on `the download website <https://code.visualstudio.com/Download>`_, comes `with a restrictive license <https://code.visualstudio.com/license>`_. Well, it's Microsoft, what were you expecting, GPL?!
 
 
-Visual Studio Code incorporates most of the *basic features of a text editor*, including customizable syntax highlighting, auto-completion, a plugin system ...
+Visual Studio Code incorporates most of the *basic features of a text editor*, including customizable syntax highlighting, auto-completion, a plugin system …
 
 But that awesome text editor offers more advanced features, including:
 

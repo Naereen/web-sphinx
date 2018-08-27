@@ -72,7 +72,7 @@ Finally check that the disk has been well mounted with: ::
 
 .. note::
 
-   This page is mainly here because I fail to remember these stupid commands...
+   This page is mainly here because I fail to remember these stupid commands…
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

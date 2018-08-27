@@ -51,7 +51,7 @@ GNU Bash
 * `.bash_aliases <bin/.bash_aliases>`_,
   Profil complémentaire pour GNU Bash, définition d'alias et de fonctions. Extrêmement riche.
 
-  :État: *Terminé*, mais en amélioration constante...
+  :État: *Terminé*, mais en amélioration constante…
 
 ------------------------------------------------------------------------------
 
@@ -314,13 +314,13 @@ Manipuler l'état de l'ordinateur (volume, batterie, ..)
 * `GoingSleep.sh <bin/GoingSleep.sh>`_,
   un script pour mettre l'ordinateur en veille depuis un accès ssh.
 
-  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)...
+  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)…
 
 
 * `Volume.sh <bin/Volume.sh>`_,
   un script pour manipuler le volume de votre ordinateur en ligne de commande. (e.g., ``Volume.sh ++``, ``Volume.sh --`` pour augmenter ou diminuer le volume).
 
-  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)...
+  :État: *Expérimental*, marche sur ma machine (enfin, pas testé ailleurs)…
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -115,7 +115,7 @@ Second semester of 2014 (in India)
 
 :Total 1: For the second semester of 2014, I evaluated my teaching load to be **about 110 hours** (number of hours teaching in front of a group or an amphitheater of students).
 
-:Examens: During the whole year, I was also in charge of the exam papers for Maths and CS: conceive them, merge the ideas from the colleagues, then write everything (in :math:`\LaTeX2e{}` of course), and write a complete and detailed solution, grade myself some of the papers and also overlook the grading done by my colleagues... With a total number of 9 exams (3 for MA101, 3 for CS101, 3 for MA102: *1st* and *2nd* *Mid-Term,* and *Final*), and about a dozen of quiz papers and lab exams, I became quite skilled at this kind of things.
+:Examens: During the whole year, I was also in charge of the exam papers for Maths and CS: conceive them, merge the ideas from the colleagues, then write everything (in :math:`\LaTeX2e{}` of course), and write a complete and detailed solution, grade myself some of the papers and also overlook the grading done by my colleagues… With a total number of 9 exams (3 for MA101, 3 for CS101, 3 for MA102: *1st* and *2nd* *Mid-Term,* and *Final*), and about a dozen of quiz papers and lab exams, I became quite skilled at this kind of things.
 
 
 First semester of 2014 (in France)
@@ -141,7 +141,7 @@ Between 2009 and 2013
 
 Before 2009 (high-school and before)
 ------------------------------------
-  I used to regularly help my friends for Maths, Chemistry, Biology, Physics... but also *theater*.
+  I used to regularly help my friends for Maths, Chemistry, Biology, Physics… but also *theater*.
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

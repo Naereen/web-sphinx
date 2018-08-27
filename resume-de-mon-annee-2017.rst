@@ -15,7 +15,7 @@ Janvier 2017
 ------------
 - Un super nouvel an dans un chalet perdu au dessus de Serre Chevalier dans les Alpes.
 - Trois jours (trop courts mais très utile) à `Inria Lille Nord Europe <https://www.inria.fr/lille>`_. J'adore cette ville, ce laboratoire et cette équipe !
-- 24 ans ! Aucun souvenir de ce que j'ai fait pour célébrer ça...
+- 24 ans ! Aucun souvenir de ce que j'ai fait pour célébrer ça…
 
 Février 2017
 ------------
@@ -41,13 +41,13 @@ Mai 2017
 
 Juin 2017
 ---------
-- Une super semaine de vacances à Briançon et Gap en famille. `La vallée de la Clarée <http://www.nevache-tourisme.fr/fr/vallee-de-la-claree/>`_ est un endroit vraiment magique. Blessures dans une descente en VTT depuis Névache, mais rien de trop grave...
+- Une super semaine de vacances à Briançon et Gap en famille. `La vallée de la Clarée <http://www.nevache-tourisme.fr/fr/vallee-de-la-claree/>`_ est un endroit vraiment magique. Blessures dans une descente en VTT depuis Névache, mais rien de trop grave…
 - Trois semaines à Inria Lille. La fête de la musique à Lille, c'est chouette !
 - Ma première participation au festival `Paris est Ludique (PEL) <https://sites.google.com/a/parisestludique.fr/paris-est-ludique-2017/>`_. Inutile de dire que c'est un super weekend !
 
 Juillet 2017
 ------------
-- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille (quelle coïncidence !). Super discussion avec `un Inspecteur Général de l'EN <https://twitter.com/CP_Torossian>`_ pour mon poste en prépa après ma thèse. Ça se profile bien...
+- Quelques jours à assiter à des oraux de l'`agrégation de mathématiques <http://agreg.org/>`_ à Lille (quelle coïncidence !). Super discussion avec `un Inspecteur Général de l'EN <https://twitter.com/CP_Torossian>`_ pour mon poste en prépa après ma thèse. Ça se profile bien…
 - Première conférence internationale pour ma thèse, j'étais à Amsterdam en juillet pour `COLT 2017 <www.learningtheory.org/colt2017/>`_. C'était super ! Et deux jours de vacances à Amsterdam, j'ai adoré !
 - Une longue sortie en VTT de Rennes vers Dinan le long du canal de la Rance. Pas terminé à cause d'une blessure mais c'était sympa.
 
@@ -72,7 +72,7 @@ Octobre 2017
 Novembre 2017
 -------------
 - Premier exposé scientifique dans un "atelier" national (à `cette journée du GDR-ISI <http://gdr-isis.fr/index.php?page=reunion&idreunion=348>`_, à Paris), avec `ces planches <publis/slides/2017_09__Presentation_article_CrownCom_Conference/slides_169.pdf>`_.
-- J'ai réussi des `marrons glacés bio maison <cuisine/marrons-glaces-bio-et-faciles.html>`_, pour fêter les 5 mois du lancement `de mon blog de recettes de cuisine <cuisine/>`_. Une trentaine de recettes et plusieurs centaines de vues... Mais ce n'est pas assez, `je continue à avoir d'autres idées <https://github.com/Naereen/cuisine/issues>`_ !
+- J'ai réussi des `marrons glacés bio maison <cuisine/marrons-glaces-bio-et-faciles.html>`_, pour fêter les 5 mois du lancement `de mon blog de recettes de cuisine <cuisine/>`_. Une trentaine de recettes et plusieurs centaines de vues… Mais ce n'est pas assez, `je continue à avoir d'autres idées <https://github.com/Naereen/cuisine/issues>`_ !
 - Meilleure expérience vidéo-ludique de l'année, j'ai (enfin) joué à `The Legend of Zelda: Wind Waker <https://www.palaiszelda.com/thewindwaker/>`_ sur Nintendo GameCube. Un jeu formidable !
 
 Décembre 2017
@@ -91,16 +91,16 @@ Résumé culturel
 
   Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
-En 2017, j'ai voyagé là...
+En 2017, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En Grèce en avril 2017 pour des vacances,
 - Aux Pays-Bas et en Belgique en juillet 2017 pour `une conférence <http://www.learningtheory.org/colt2017/>`_,
 - Au Portugal en septembre 2017 pour `une autre conférence <http://crowncom.org/2017/>`_,
-- Pas mal en France, en Normandie, en Bretagne, beaucoup à Paris, deux jours à Tour, dans les Alpes...
+- Pas mal en France, en Normandie, en Bretagne, beaucoup à Paris, deux jours à Tour, dans les Alpes…
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
-En 2017, j'ai joué à ces jeux...
+En 2017, j'ai joué à ces jeux…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Fire Emblem: Fates* sur **3DS** (très cool, un peu trop court),
 - *Super Smash Bros: Melee* sur **GameCube** (sympa mais un peu répétitif seul),
@@ -111,21 +111,21 @@ En 2017, j'ai joué à ces jeux...
 - *Fire Emblem Echoes: Shadows of Valentia* sur **3DS** (parfait aussi),
 - *Cherry Blossom* sur **PC** (poétique et entraînant).
 
-En 2017, j'ai lu ces livres...
+En 2017, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Gagner la Guerre* de Jean-Philippe Jaworski (excellent roman d'aventure fantastique),
 - *La Vérité sur l'Affaire Harry Quebert* de Joël Dicker (bof),
 - *Harry Potter*, tômes 1 à 4, en français et en anglais,
 - `Le Cercle, de Dave Eggers <https://www.babelio.com/livres/Eggers-Le-Cercle/837945>`_,
-- Beaucoup d'autres...
+- Beaucoup d'autres…
 
-En 2017, j'ai vu ces séries...
+En 2017, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 1 de *True Detective* (j'aime pas),
 - Saison 10 et 11 de *The Big Bang Theory*. Ça s'essouffle mais ça reste drôle !
 - Saison 2 de *Stranger Things*.
 
-En 2017, j'ai vu ces films...
+En 2017, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Zootopia (Disney), ultime !
 - Inside Out (Disney), super !
@@ -144,6 +144,6 @@ En 2017, j'ai vu ces films...
 - The Imitation Game, sympa mais un peu caricatural,
 - Astérix et le Domaine des Dieux, très drôle !
 - 500 days of Summer, beau mais triste mais joyeux mais re-triste derrière,
-- Beaucoup d'autres... je n'ai pas maintenu la liste au fur et à mesure.
+- Beaucoup d'autres… je n'ai pas maintenu la liste au fur et à mesure.
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

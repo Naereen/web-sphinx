@@ -125,7 +125,7 @@ Outils de "communication" à usage unique
 
 * `WebRTC Copy <https://rtccopy.com/>`_ est un service web d'échange de fichier en ``P2P`` (pair à pair, donc le fichier est sensé ne pas passer par un serveur annexe). Marche super bien !
 
-* :red:`N'existe plus !` `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``. Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation ! `ZimageZ <http://www.zimagez.com/>`_ propose des fonctionnalités similaires... mais il semble moins sécurisé et moins garant de votre vie privée.
+* :red:`N'existe plus !` `IMG.bi <https://img.bi/>`_ est un service web d'échange de photo, sécurisé par ``AES 256``. Fonctionne vraiment bien, et propose même la possibilité d'effacer l'image après la première visualisation ! `ZimageZ <http://www.zimagez.com/>`_ propose des fonctionnalités similaires… mais il semble moins sécurisé et moins garant de votre vie privée.
 
 * `Digify <http://www.digify.com/about/>`_ permet d'envoyer des fichiers qui s'auto-détruiront (comme présenté `ici par Korben.info <https://korben.info/digify.html>`_).
 

@@ -5,7 +5,7 @@
 .. warning:: Style un peu familier !
 
    J'utilise dans cette page un style plus "oral" que dans le reste de ce site.
-   N'en soyez pas outrés, vous êtes prévenus...
+   N'en soyez pas outrés, vous êtes prévenus…
 
 FreeDNS ?
 ---------
@@ -21,7 +21,7 @@ FreeDNS ?
  Enfin, l'occasion ne s'est pas encore présenté.
 
  Quand j'aurais des milliers de fan, je leur demanderai si "besson.qc.to" est plus
- simple à retenir que "perso.crans.org/besson"...  **Ou pas !**
+ simple à retenir que "perso.crans.org/besson"…  **Ou pas !**
 
  Bref, c'est pas super crucial. → La page d'accueil est `par là <index.html>`_ !
 
@@ -42,7 +42,7 @@ Liste des sous-domaines que j'utilise
 .. note:: En fait non.
 
    Il n'y en a que 5, c'est normal, c'est la limite d'un compte gratuit.
-   Bien sûr, je pourrais faire d'autres comptes au besoin... Donc non.
+   Bien sûr, je pourrais faire d'autres comptes au besoin… Donc non.
 
 Liste des autres sous-domaines que j'utilise
 --------------------------------------------

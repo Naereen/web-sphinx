@@ -97,12 +97,12 @@ To my own place (in France)
 Emails
 ^^^^^^
 If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrself also if you are a *spammer*!!
-(Well... spammers are usually bots, ie spambots, but it feels good to yell at them anyway!)
+(Well… spammers are usually bots, ie spambots, but it feels good to yell at them anyway!)
 
 .. image:: .courriel.png
    :scale: 40 %
    :align: right
-   :alt:   My email address in a PNG picture...
+   :alt:   My email address in a PNG picture…
    :target: mailto:Lilian.Besson at ens-cachan dot fr
 
 
@@ -123,7 +123,7 @@ Regular phone
 .. image:: .telephone.png
    :scale: 50 %
    :align: right
-   :alt:   My cellphone number, in a PNG picture...
+   :alt:   My cellphone number, in a PNG picture…
    :target: callto:100101011101001100111101100001_2
 
 

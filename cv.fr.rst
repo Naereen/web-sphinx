@@ -301,7 +301,7 @@ Autres diplômes
 
 Autres expériences de recherche
 -------------------------------
-.. note:: Pas à-jour, je devrais ajouter les projets réalisés depuis 2013...
+.. note:: Pas à-jour, je devrais ajouter les projets réalisés depuis 2013…
 
 Projets de programmation en M1 (2012-2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

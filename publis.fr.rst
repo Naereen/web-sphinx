@@ -50,9 +50,9 @@ dans un terminal **UNIX** ou **Linux** (ou sur **Windows via Cygwin**, ou **Mac 
 
    >>> # The good way (and safe) to use ansicolortags:
    >>> try:
-   ...     from ansicolortags import printc
+   …     from ansicolortags import printc
    >>> except ImportError:
-   ...     def printc(a): print(a)  # Placeholder
+   …     def printc(a): print(a)  # Placeholder
    >>> printc("<red>Ceci est rouge !<white> La c'est blanc.<blue> Et enfin en bleu ici.<reset> (ca ne marche pas ici, normal)")
    Ceci est rouge ! La c'est blanc. Et enfin en bleu ici. (ca ne marche pas ici, normal)
 

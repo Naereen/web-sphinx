@@ -93,7 +93,7 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 .. warning:: Un léger défaut
 
-   Avec ``$$code ... encore du code$$``, et donc aussi
+   Avec ``$$code … encore du code$$``, et donc aussi
    ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
 
@@ -195,7 +195,7 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 
 .. warning::
 
-   Avec ``$$code ... encore du code$$``, et donc aussi
+   Avec ``$$code … encore du code$$``, et donc aussi
    ``\(code LaTeX\)`` il *faut* échapper les
    ``\`` sinon rien ne marche.
 

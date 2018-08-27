@@ -39,7 +39,7 @@ Currently, the direct installer link is: http://mirrors.ctan.org/systems/win32/m
 
 Issues?
 ^^^^^^^
-If any issue occurs during the installation... do it again by following *step-by-step* `the official tutorial <http://www.miktex.org/howto/install-miktex>`_.
+If any issue occurs during the installation… do it again by following *step-by-step* `the official tutorial <http://www.miktex.org/howto/install-miktex>`_.
 
 Learn how to use \\(\\LaTeX{}\\) ?
 ----------------------------------

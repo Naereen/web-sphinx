@@ -49,9 +49,9 @@ in a terminal application from Python, on **UNIX** or **Linux** (or on **Windows
 
    >>> # The good way (and safe) to use ansicolortags:
    >>> try:
-   ...     from ansicolortags import printc
+   …     from ansicolortags import printc
    >>> except ImportError:
-   ...     def printc(a): print(a)  # Placeholder
+   …     def printc(a): print(a)  # Placeholder
    >>> printc("<red>This is red!<white> That's white.<blue> And that is blue.<reset> (not working here)")
    This is red! That's white. And that is blue. (not working here)
 

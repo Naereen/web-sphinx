@@ -89,7 +89,7 @@ Graphe et entrée texte
     </textarea></td></tr></tbody></table>
     <br clear="all"><hr>
     <h2 style="float: left;">Messages de sorties :</h2>
-    <textarea id="output" rows="10" cols="50" style="float: right; margin-right: 20px; margin-left: auto; font-family: monospace; font-size: 10pt;">Chargement, veuillez patienter...
+    <textarea id="output" rows="10" cols="50" style="float: right; margin-right: 20px; margin-left: auto; font-family: monospace; font-size: 10pt;">Chargement, veuillez patienter…
     </textarea>
     <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Efface la sortie" style="margin: auto; display: block;" />
     <script type="text/javascript" src="_static/gnuplot_api.js"></script>

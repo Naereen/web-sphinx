@@ -107,7 +107,7 @@ Voici par exemple un graphe de dépendances (pour `un vieux jeu en réseau écri
 généré via `pyreverse <https://www.logilab.org/2560>`_, et inclus via ``.. graphviz:: .graph.dot``
 (le fichier s'appelle **.graph.dot**).
 
-.. warning:: Soucis de zoom pour ce graphe...
+.. warning:: Soucis de zoom pour ce graphe…
 
 .. graphviz:: .graph.dot
 

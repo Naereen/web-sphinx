@@ -73,7 +73,7 @@ There are a few lists of some useful extensions, kinda sorted by category.
 
 .. warning:: Completely out-of-date!
 
-    This list was written in *October 2015*, so now it might be a little bit out-of-date...
+    This list was written in *October 2015*, so now it might be a little bit out-of-date…
     I checked it in *May 2016*, and it was alright.
     In 2017, from Firefox version 57, `the format of extensions changed <https://blog.mozilla.org/addons/2017/09/28/webextensions-in-firefox-57/>`_, and most of the extensions I was using no longer exist.
     I keep the original list just for fun.
@@ -91,7 +91,7 @@ Extensions *everyone* should have
 
 .. note:: « What about `Google Chrome <https://www.google.com/chrome>`_? »
 
-   I have never used another browser than Firefox, sorry...
+   I have never used another browser than Firefox, sorry…
 
    However, it should be easy for you to look for in the `Google Chrome extensions store <https://chrome.google.com/webstore/category/extensions?hl=fr>`_ to find extensions similar to the one presented here.
 
@@ -108,7 +108,7 @@ Styling extensions
 Extensions for *geeks*
 ^^^^^^^^^^^^^^^^^^^^^^
 * `Classic Theme Restorer <https://addons.mozilla.org/en-us/firefox/addon/classic-theme-restorer>`_ allows to disable some of the new Firefox theme features. This add-on restores squared tabs, the application button with application menu (known from Firefox for Windows), the add-on bar, bookmarks/history menu/sidebar buttons and other buttons,
-* `Customizable Shortcuts <https://addons.mozilla.org/en-us/firefox/addon/customizable-shortcuts>`_ allows to customize every single Firefox shortcut (I just use it to disable ``Ctrl+q`` and ``Ctrl+Q``... I don't want Firefox to quit without asking me with just a small shortcut!),
+* `Customizable Shortcuts <https://addons.mozilla.org/en-us/firefox/addon/customizable-shortcuts>`_ allows to customize every single Firefox shortcut (I just use it to disable ``Ctrl+q`` and ``Ctrl+Q``… I don't want Firefox to quit without asking me with just a small shortcut!),
 * `Download Status Bar <https://addons.mozilla.org/en-us/firefox/addon/download-status-bar>`_ adds nice feature for a better control of the downloading feature in Firefox,
 * `Stylish <https://addons.mozilla.org/en-us/firefox/addon/stylish>`_ lets you easily manage user styles: `user styles <https://userstyles.org>`_ are themes for web sites. I am a huge fan of the sweet `github-dark <https://userstyles.org/styles/37035/github-dark>`_ custom style for `GitHub <https://github.com>`_. See also `my style for live.com and outlook.com <publis/firefox/stylish_better_outlook.css>`_ (Outlook Microsoft webmail).
 * `Textarea cache <https://addons.mozilla.org/en-US/firefox/addon/textarea-cache>`_ will save automatically the content in textarea or *"WYSIWYG"* editor when you are typing. Then you can recover the saved texts in the cache window, even if the tab or the window was closed unexpectedly.
@@ -130,8 +130,8 @@ Extensions for secrets agents (or paranoid people)
 * `Disconnect <https://addons.mozilla.org/en-us/firefox/addon/disconnect>`_ removes trackers and advertising,
 * `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ to be able to remove *any type* of web element (image, banner etc) like if it was an advertising handled by AdBlock,
 * `Facebook Disconnect <https://addons.mozilla.org/en-us/firefox/addon/facebook-disconnect>`_ to completely disable Facebook's default tracking behavior on other websites,
-* `FlashBlock <https://addons.mozilla.org/en-us/firefox/addon/flashblock>`_ disables by default Flash objects on every page (*note:* AdBlock or Ghostery offer the same feature). No more auto-played videos...
-* `Ghostery <https://addons.mozilla.org/en-us/firefox/addon/ghostery>`_ is THE user-friendly tool to disable tracking cookies, tracking beacons and other mini spying softwares that are nowadays on every website (and I have nothing to about it: *this* website `alse uses Google Analytics <ga.en.html>`_...),
+* `FlashBlock <https://addons.mozilla.org/en-us/firefox/addon/flashblock>`_ disables by default Flash objects on every page (*note:* AdBlock or Ghostery offer the same feature). No more auto-played videos…
+* `Ghostery <https://addons.mozilla.org/en-us/firefox/addon/ghostery>`_ is THE user-friendly tool to disable tracking cookies, tracking beacons and other mini spying softwares that are nowadays on every website (and I have nothing to about it: *this* website `alse uses Google Analytics <ga.en.html>`_…),
 * `HTTPS Everywhere <https://addons.mozilla.org/en-us/firefox/addon/https-everywhere>`_ protects your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the ``https:`` prefix.
 * `NoScript Security Suite <https://addons.mozilla.org/en-us/firefox/addon/noscript>`_ is THE less-user-friendly tool to significantly improve security in Firefox: by default, *all unknown* ``javascript`` programs will be disabled (and many other improvements like XSS checks etc),
 * `SSLeuth <https://addons.mozilla.org/en-us/firefox/addon/ssleuth/>`_ ranks an established SSL/TLS connection and gives a brief summary of the cipher suite, certificate and other SSL/TLS parameters,
@@ -139,9 +139,9 @@ Extensions for secrets agents (or paranoid people)
 
 Extensions for web-developpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to... quickly check links!
+* `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to… quickly check links!
 * `Octotree <https://addons.mozilla.org/en-US/firefox/addon/octotree/>`_ is sweet if you use `GitHub`_ a lot.
-* `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to... quickly change the ``locale`` settings (the language you ask the pages to be displayed),
+* `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to… quickly change the ``locale`` settings (the language you ask the pages to be displayed),
 * `Reload Plus <https://addons.mozilla.org/en-us/firefox/addon/reload-plus>`_ to regain control of your cache (``Ctrl+F5`` reload the page, erasing the local cached version).
 
 Other extensions

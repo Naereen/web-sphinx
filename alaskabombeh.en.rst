@@ -33,7 +33,7 @@ a few weeks later, you have a shiny and clean new harbor !
 A shiny new harbor, and as "no one live there, that north in Alaska", so no problem with atomic radiations.
 
 The project is approved, and it even had a slogan : *"If your moutain is not at a convenient spot, just send us a postal card"*.
-As if, an atomic bomb was after all nothing more than a good old dynamite stick...
+As if, an atomic bomb was after all nothing more than a good old dynamite stick…
 
 
 But that was without including the fierce resistance of an Iñupiak [#inupiak]_ village,

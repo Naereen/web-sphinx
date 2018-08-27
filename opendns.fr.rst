@@ -69,7 +69,7 @@ On peut vérifier leur **protection de l’hameçonnage** et des *"mauvais"* sit
       Afin de `vérifier si son Fournisseur d'Accès à Internet <http://www.dnsleaktest.com/>`_  ne procède pas à `des fuites DNS <https://dnsleaktest.com/what-is-a-dns-leak.html>`_ dans votre dos.
 
    DNS Leak Test - Hidester
-      Un autre `outil du même genre (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, parce que son auteur m'a demandé d'inclure un lien ici...
+      Un autre `outil du même genre (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, parce que son auteur m'a demandé d'inclure un lien ici…
 
 ----
 
@@ -119,9 +119,9 @@ Il est sensé être `plus rapide, plus performant etc <https://developers.google
 
 Ce service gratuit prétend ne procéder à aucune manipulation de l'espace des noms de domaine, `contrairement à d'autres services <http://www.bortzmeyer.org/dns-menteur.html>`_ de ce type; et `est réputé pour être sécurisé <https://developers.google.com/speed/public-dns/docs/security>`_.
 
-.. note:: Sécurisé ? Hum, vraiment... ?
+.. note:: Sécurisé ? Hum, vraiment… ?
 
-   On peut supposer que la plupart les services DNS sont `espionnés par des agences gouvernementales <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_... Ou des agences privés ou des groupes d'activistes ou... par Batman ?
+   On peut supposer que la plupart les services DNS sont `espionnés par des agences gouvernementales <http://www.lemonde.fr/economie/visuel/2015/01/24/cowbells-nouvelles-revelations-sur-les-pratiques-de-la-nsa_4561547_3234.html>`_… Ou des agences privés ou des groupes d'activistes ou… par Batman ?
    Bref, essayez de garder ça en tête : quand vous utilisez un service DNS externe, vous ne pouvez tout simplement pas être sûr de leur neutralité et de leur sécurité. Par défaut, il vaudrait mieux supposer que *chaque requête DNS* faite par votre ordinateur/téléphone peut être lue, à la demande, par votre gouvernement.
    Rassurant, non ?
 

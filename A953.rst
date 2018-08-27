@@ -153,7 +153,7 @@ Sources (en anglais)
 
 .. note::
 
-   Je n'utilise plus ce téléphone depuis un moment... Mais l'astuce reste valide !
+   Je n'utilise plus ce téléphone depuis un moment… Mais l'astuce reste valide !
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

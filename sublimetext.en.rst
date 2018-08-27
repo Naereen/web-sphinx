@@ -6,7 +6,7 @@
  How I use `Sublime Text 3 <http://www.sublimetext.com/3>`_
 ############################################################
 
-About...
+About…
 --------
 About this page
 ^^^^^^^^^^^^^^^
@@ -51,7 +51,7 @@ My article focuses on version 3 of Sublime Text (currently, version 3.083, *rele
    `Visual Studio Code <visualstudiocode.html>`_
       is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use `Visual Studio Code <https://code.visualstudio.com/>`_, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      After 4 years of intensive use, I am slowly giving up on Sublime Text to only use `Visual Studio Code <https://code.visualstudio.com/>`_, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
 
 What is Sublime Text?
@@ -63,7 +63,7 @@ Sublime Text is a proprietary software, subject to the acceptance of a license, 
 The (free) license is for an indefinite period, with only occasional reminders proposing to buy a *non-mandatory* commercial license (for $ 20).
 
 
-Sublime Text incorporates most of the *basic features of a text editor*, including customizable syntax highlighting, auto-completion, a plugin system ...
+Sublime Text incorporates most of the *basic features of a text editor*, including customizable syntax highlighting, auto-completion, a plugin system …
 
 But that awesome text editor offers more advanced features, including:
 
@@ -170,7 +170,7 @@ List of my snippets:
 * `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ to easily create a new `GNU Bash script <bin/>`_.
 * `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ to create an empty \\(\\LaTeX{}\\) document powered by `autotex <publis/autotex>`_.
 * `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilitates the creation of an Markdown/HTML file powered by my (awesome) project `StrapDownJS <http://lbesson.bitbucket.io/md/>`_!
-* Snippets for LaTeX, to quickly start a new empty environment (``\begin{stuff}...\env{stuff}``) related to math, for the following (non-standard) environment: `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_.
+* Snippets for LaTeX, to quickly start a new empty environment (``\begin{stuff}…\env{stuff}``) related to math, for the following (non-standard) environment: `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_.
 
 Build systems
 ~~~~~~~~~~~~~
@@ -217,7 +217,7 @@ For each packet quoted below, a link to the information page on `packagecontrol.
 .. note:: My own plugin?
 
    In September 2016, I wrote a small plugin, simply because I was bored of having to use two shortcuts to switch between French and English for the spell-cheking.
-   The goal was to be able to switch from one language to another with only one key shortcut...
+   The goal was to be able to switch from one language to another with only one key shortcut…
 
    It gave `this plugin, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (for ST3 only), which only works for French and English, but does its job perfectly (``ctrl+shift+s`` switches between French, English and no spell-checking, and ``ctrl+shift+a`` guesses between French and English, automatically).
    My plugin is now available through PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
@@ -231,7 +231,7 @@ Small customization plugins:
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ improves how opening and closing parentheses, and opening and closing tags are colored (``(``, ``[``, ``{``, ``<`` etc).
 * `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ is interesting because it allows to keep in mind absolutely all positional information (sliders panel, buffer etc. for each file and each window).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ is simple but great: to highlight the URLs (local or Internet) addresses, and open them with a keyboard shortcut.
-* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ a for multi-lingual spell-check (English, French, ...).
+* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ a for multi-lingual spell-check (English, French, …).
 * The small `GitGutter <https://packagecontrol.io/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last committed version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 * `Gremlins <https://packagecontrol.io/packages/Gremlins>`_ help to visualize dangerous non-visible UTF-8 caracters, like odd and invisible whitespace characters.
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ also adds various dictionaries for French.
@@ -241,7 +241,7 @@ Small customization plugins:
 
 Plugins that add great features:
 
-* `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, ..., ``n``.
+* `Calculate <https://packagecontrol.io/packages/Calculate>`_ to easily create ordered lists (among many other things): write ``i+1`` on each line, then one hit of ``Ctrl+Maj+c`` and pouf, the multi-selection is now ``1``, ``2``, …, ``n``.
 * `DictionaryAutoComplete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ enables auto-completion to integrate the words of dictionaries used for spell checking. Quite cool but can quickly be boring. Can be useful if you write prose and not code (project report, poetry etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ to always highlight some specific words (for instance, ``TODO`` or ``FIXME``).
 * `IncDecValue <https://packagecontrol.io/packages/IncDecValue>`_ allows to easily increment or decrement numbers, dates or colors.
@@ -249,7 +249,7 @@ Plugins that add great features:
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ to highlight and easily erase the painful (and unnecessary) spaces at the end of lines.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ will launch from the control panel of any rule of construction from a `Makefile <https://en.wikipedia.org/wiki/Makefile>`_. *It's simple*, but purely awesome! I use `a lot of Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ for my various projects. Such an efficient idea in fact!
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ makes the sidebar much more useful.
-* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license... But it is really awesome, so you will support this. `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ seems to be a good free and open-source alternative.
+* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy a (useless) 10$ commercial license… But it is really awesome, so you will support this. `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ seems to be a good free and open-source alternative.
 * `TableEditor <https://packagecontrol.io/packages/Table%20Editor>`_ is great to easily edit tables in plain text documents (for Markdown, reStructedText, pandoc etc). Very well documented and quite complete.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I never use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
@@ -279,7 +279,7 @@ Heavier plugins, or plugins designed for a specific language:
 
 
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.5 and 3.6).
-* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*...
+* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*…
 * The brilliant `SublimeLinter <https://sublimelinter.readthedocs.io/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python. There is plenty of awesome linters: `annotations <https://packagecontrol.io/packages/SublimeLinter-annotations>`_, `chktex <https://packagecontrol.io/packages/SublimeLinter-chktex>`_, `flake8 <https://packagecontrol.io/packages/SublimeLinter-flake8>`_, `json <https://packagecontrol.io/packages/SublimeLinter-json>`_, `mdl <https://packagecontrol.io/packages/SublimeLinter-contrib-mdl>`_, `pylint <https://packagecontrol.io/packages/SublimeLinter-pylint>`_, `shellcheck <https://packagecontrol.io/packages/SublimeLinter-shellcheck>`_.
 * `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
 * `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ is convenient to quickly "send" some code to an open terminal in another window (to work with Python, Octave, R, bash or anyother toplevel).
@@ -329,7 +329,7 @@ Additional advice
    `Visual Studio Code <https://code.visualstudio.com/>`_
       is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      After 4 years of intensive use, I completely gave up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_ (no, I don't regret anything, a famous French song)...
+      After 4 years of intensive use, I completely gave up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_ (no, I don't regret anything, a famous French song)…
 
 
 .. seealso::

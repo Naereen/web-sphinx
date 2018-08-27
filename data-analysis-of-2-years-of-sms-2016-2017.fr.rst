@@ -12,7 +12,7 @@ Avec `cette application (gratuite) sur mon téléphone Android <https://play.goo
 J'ai ensuite utilisé `Python <https://www.python.org/>`_ (avec `ce module pour lire le XML <https://docs.python.org/3/library/xml.etree.elementtree.html>`_ et `la bibliothèque pandas <https://pandas.pydata.org/>`_) pour extraire et analyser ces données.
 Comme j'ai fait de mon mieux pour préserver la confidentialité de ces données durant l'analyse, `vous pouvez consulter le notebook ici <publis/notebooks/private/SMS.html>`_ (en anglais).
 
-Voici un rapide résumé de ce que j'ai découvert...
+Voici un rapide résumé de ce que j'ai découvert…
 
 Messages par mois
 ~~~~~~~~~~~~~~~~~

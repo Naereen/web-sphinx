@@ -27,7 +27,7 @@ Comment monter un disque (fichier ``.disk``) sur Ubuntu ?
 2. Monter le fichier ``.disk`` (qui est comme une image disque ISO) sur le dossier destination (``/media/mydisk`` ou celui de votre choix, créé au point 1.) : ::
 
     sudo mount -o loop /host/ubuntu/mydisks/root.disk /media/mondisque
-    # Il faut peut-etre adapter ce chemin /host/[...]/root.disk vers le chemin réel de votre fichier rook.disk
+    # Il faut peut-etre adapter ce chemin /host/[…]/root.disk vers le chemin réel de votre fichier rook.disk
 
 
 3. Et lorsque vous avez fini de travailler sur ce disque monté, il ne faut pas oublier de le démonter : ::

@@ -18,7 +18,7 @@ My 10 favorite **movies**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 .. sidebar:: An extra one?
 
-   I also love `Into the Wild <https://en.wikipedia.org/wiki/Into_the_Wild>`_, but it is different than the 10 other ones...
+   I also love `Into the Wild <https://en.wikipedia.org/wiki/Into_the_Wild>`_, but it is different than the 10 other ones…
 
 
 - `The Truman Show <https://en.wikipedia.org/wiki/The_Truman_Show>`_,
@@ -32,7 +32,7 @@ My 10 favorite **movies**
 - `The Fifth Element <https://en.wikipedia.org/wiki/The_Fifth_Element>`_,
 - `Princess Mononoke <https://en.wikipedia.org/wiki/Princess_Mononoke>`_.
 
-.. seealso:: Another top 7 of favorite movies...
+.. seealso:: Another top 7 of favorite movies…
 
    `<http://jill-jenn.net/cinema/>`_
 
@@ -53,7 +53,7 @@ My 10 favorite **movies actors/actresses**
 - `Brad Pitt <https://en.wikipedia.org/wiki/Brad_Pitt>`_, mainly in `Fight Club <https://en.wikipedia.org/wiki/Fight_Club_%28movie%29>`_, `7 years in Tibet <https://en.wikipedia.org/wiki/Seven_Years_in_Tibet_%281997_film%29>`_, `Inglorious Basterds <https://en.wikipedia.org/wiki/Inglorious_Basterds>`_, `12 Monkeys <https://en.wikipedia.org/wiki/12_Monkeys>`_, `Snatch <https://en.wikipedia.org/wiki/Snatch>`_, etc,
 - `Bruce Willis <https://en.wikipedia.org/wiki/Bruce_Willis>`_, mainly in all the `Die Hard <https://en.wikipedia.org/wiki/Die_Hard>`_ movies, `The Fifth Element`_, `Lucky Number Slevin <https://en.wikipedia.org/wiki/Lucky_Number_Slevin>`_, `Unbreakable <https://en.wikipedia.org/wiki/Unbreakable_%28movie%29>`_, etc,
 - `Uma Thurman <https://en.wikipedia.org/wiki/Uma_Thurman>`_, mainly in `Pulp Fiction`_, `Gattaca <https://en.wikipedia.org/wiki/Gattaca>`_ and `Kill Bill <https://en.wikipedia.org/wiki/Kill_Bill>`_,
-- `Samuel L. Jackson <https://en.wikipedia.org/wiki/Samuel_L._Jackson>`_, mainly in `Pulp Fiction`_, `Django Unchained <https://en.wikipedia.org/wiki/Django_Unchained>`_, the `Star Wars`_ and `Die Hard`_ movies etc... and of course the recurrent role as `Nick Fury <https://en.wikipedia.org/wiki/Ultimate_Nick_Fury>`_!
+- `Samuel L. Jackson <https://en.wikipedia.org/wiki/Samuel_L._Jackson>`_, mainly in `Pulp Fiction`_, `Django Unchained <https://en.wikipedia.org/wiki/Django_Unchained>`_, the `Star Wars`_ and `Die Hard`_ movies etc… and of course the recurrent role as `Nick Fury <https://en.wikipedia.org/wiki/Ultimate_Nick_Fury>`_!
 
 My 10 favorite **TV shows**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -141,7 +141,7 @@ My 10 favorite **places in France**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. sidebar:: By hitch-hiking?
 
-   Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_... !
+   Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_… !
 
 
 - `Avignon <https://en.wikipedia.org/wiki/Avignon>`_ (the town and its theaters!),

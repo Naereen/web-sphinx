@@ -42,7 +42,7 @@ avec une balise ``.. raw:: html`` et la commande *HTML*
 Déclarer les graphiques
 ^^^^^^^^^^^^^^^^^^^^^^^
 Encore avec une balise ``.. raw:: html`` en *rST*
-et la commande *HTML* ``<script type="text/javascript">...</script>"``.
+et la commande *HTML* ``<script type="text/javascript">…</script>"``.
 
 On en génère 4, comme dans l'exemple sur la
 `page de doc <http://omnipotent.net/jquery.sparkline/#s-docs>`_.
@@ -94,7 +94,7 @@ Un exemple plus sympa
 ---------------------
 On va essayer un exemple **plus intéressant** ?
 
-.. warning:: Le script plante parfois...
+.. warning:: Le script plante parfois…
 
 .. raw:: html
 
@@ -146,7 +146,7 @@ On va essayer un exemple **plus intéressant** ?
     drawMouseSpeedDemo();
    }); /* ]]> */
    </script>
-   Mouse speed <span id="mousespeed">Loading...</span>.
+   Mouse speed <span id="mousespeed">Loading…</span>.
 
 
 Un autre exemple

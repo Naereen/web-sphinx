@@ -40,7 +40,7 @@ This cool feature `is presented here <https://www.zotero.org/#features-3>`_.
 
 What about my use of Zotero?
 ----------------------------
-*I have not really started to use it intensively*, so one of this page's purpose is to motivate me to do so...
+*I have not really started to use it intensively*, so one of this page's purpose is to motivate me to do so…
 
 Zotero is a trustworthy software, very popular, simple and efficient.
 

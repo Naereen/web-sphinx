@@ -20,7 +20,7 @@ Rapide aperçu historique
  - `Ce site web <index.html>`_ ``http://perso.crans.org/besson`` est hébergé par les `pages personnelles du CRANS <http://www.crans.org/PagesPerso>`_.
  - Il est `en ligne <http://isup.me/perso.crans.org/besson/>`_ sous `cette forme <https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fperso.crans.org%2Fbesson>`_ depuis mars 2013 (et c'est un projet libre et ouvert, son code source est sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_).
  - Il utilise `Sphinx <http://www.sphinx-doc.org/>`_ pour générer un site web statique (i.e., des fichiers HTML et CSS, et un peu de JavaScript), à partir de fichiers textes écrits en `rST <demo.html>`_.
- - Depuis le début, malgré les questions éthiques que ça soulevait, j'avais choisi d'utiliser `Google Analytics <https://www.google.com/analytics/>`_. Je voudrais passer à `Piwik <https://piwik.org/>`_ depuis longtemps mais le `serveur hébergeant mon site <https://www.crans.org/VieCrans/TousLesServices#Zamok>`_ ne le permet pas...
+ - Depuis le début, malgré les questions éthiques que ça soulevait, j'avais choisi d'utiliser `Google Analytics <https://www.google.com/analytics/>`_. Je voudrais passer à `Piwik <https://piwik.org/>`_ depuis longtemps mais le `serveur hébergeant mon site <https://www.crans.org/VieCrans/TousLesServices#Zamok>`_ ne le permet pas…
 
 
 .. raw:: html
@@ -32,13 +32,13 @@ Rapide aperçu historique
 *Plan de l'article :*
 
 - Le reste de ce court article donne un aperçu de ces visites, par quelques chiffres clés.
-- Veuillez notez que cet article n'a été rédigé que dans le but d'*être informatif* et *par soucis de transparence* (comme sur tout ce que je fais), mais il n'est *pas* là par frime, ni pour divulguer des informations confidentielles (Google Analytics est anonyme, en fait (d'une certaine façon...)).
+- Veuillez notez que cet article n'a été rédigé que dans le but d'*être informatif* et *par soucis de transparence* (comme sur tout ce que je fais), mais il n'est *pas* là par frime, ni pour divulguer des informations confidentielles (Google Analytics est anonyme, en fait (d'une certaine façon…)).
 
 Principaux chiffres
 -------------------
 Ces chiffres sont simplement cumulés depuis 3 ans (mars 2013 -- mars 2016).
 
-- **27000 visites**, soit une moyenne d'environ *25 visites par jour* (mais ça compte les visites de robots...),
+- **27000 visites**, soit une moyenne d'environ *25 visites par jour* (mais ça compte les visites de robots…),
 - **51000 pages vues**, tout compris; avec `cette page <sublime-text.fr.html>`_ attirant 10% des visites, et `celle là <beacon.en.html>`_ 5%,
 - un ratio de *83%* de *nouveaux utilisateurs* vs *utilisateurs connus*.
 
@@ -46,9 +46,9 @@ Ces chiffres sont simplement cumulés depuis 3 ans (mars 2013 -- mars 2016).
 **Origines géographiques :**
 
 - **157 pays différents** (presque tous !) en trois ans. Mais c'est assez consistent : en 6 semaines, j'en ai en moyenne une centaine (e.g., 110 entre le 01-01-16 à 19-01-16). La plupart des pays n'ont été vus moins de dix fois, et 33 pays n'ont été vus qu'avec une seule visite ! Seulement 22 pays ont émis plus de 100 visites, et 5 pays se partagent environ 75% du trafic (par ordre décroissant, France 45%, ÉUA 20%, Russie 7%, Inde 4% et RU 3%),
-- **5 continents différents** (`je les ai tous eu ! <http://bulbapedia.bulbagarden.net/wiki/Gotta_catch_%27em_all>`_), avec 60% depuis l'Europe, 23% depuis l'Amérique, 10% depuis l'Asie, et... seulement 1% depuis l'Océanie,
+- **5 continents différents** (`je les ai tous eu ! <http://bulbapedia.bulbagarden.net/wiki/Gotta_catch_%27em_all>`_), avec 60% depuis l'Europe, 23% depuis l'Amérique, 10% depuis l'Asie, et… seulement 1% depuis l'Océanie,
 - **21 sous-continents différents** (`je les ai tous eu ! <http://bulbapedia.bulbagarden.net/wiki/Gotta_catch_%27em_all>`_), même répartition en gros (Europe Ouest 45%, Europe Nord 15%),
-- **3152 villes différentes** (... c'est pas mal, mais il y en a beaucoup !). Les dix plus importantes étant "inconnu/non renseigné" (*25%*), Paris (7%), Cachan (6%), Samara (en Russie, il doit y avoir un bot ou un crawler web là-bas, 3%), Londres (3%), Hyderabad (Inde, 2%), Toulouse (1%), Bangalore (Inde, 0.9%), New York (0.8%) et Rennes (0.8%). On voit nettement l'influence de `ma présence <cv.fr.pdf>`_ sur ces chiffres (ayant vécu à Paris, Cachan, Londres, et Hyderabad entre 2013 et 2016), et des grands pôles "High-Tech" (New York et Bangalore) et des maths et info en France (Rennes et Toulouse).
+- **3152 villes différentes** (… c'est pas mal, mais il y en a beaucoup !). Les dix plus importantes étant "inconnu/non renseigné" (*25%*), Paris (7%), Cachan (6%), Samara (en Russie, il doit y avoir un bot ou un crawler web là-bas, 3%), Londres (3%), Hyderabad (Inde, 2%), Toulouse (1%), Bangalore (Inde, 0.9%), New York (0.8%) et Rennes (0.8%). On voit nettement l'influence de `ma présence <cv.fr.pdf>`_ sur ces chiffres (ayant vécu à Paris, Cachan, Londres, et Hyderabad entre 2013 et 2016), et des grands pôles "High-Tech" (New York et Bangalore) et des maths et info en France (Rennes et Toulouse).
 
 
 **Langues :** le français est à 40%, l'anglais est à 25%, les langues "inconnues/non renseignées" à 25%, et le russe, l'espagnol et les autres sont à 10%.

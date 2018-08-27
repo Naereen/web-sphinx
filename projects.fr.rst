@@ -31,7 +31,7 @@ N'hésitez pas à me *contacter* :
 .. image:: .courriel.png
     :scale: 40 %
     :align: right
-    :alt:   Mon adresse courriel, dans une image PNG...
+    :alt:   Mon adresse courriel, dans une image PNG…
     :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
@@ -39,12 +39,12 @@ N'hésitez pas à me *contacter* :
 .. image:: .telephone.png
     :scale: 40 %
     :align: right
-    :alt:   Mon numéro de téléphone dans une image PNG...
+    :alt:   Mon numéro de téléphone dans une image PNG…
     :target: callto:100101011101001100111101100001_2
 
 #. ou par téléphone :
 
-#. ... et `plus de moyens de me contacter sont présentés ici <callme.fr.html>`_.
+#. … et `plus de moyens de me contacter sont présentés ici <callme.fr.html>`_.
 
 
 ------------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
    .. image:: .courrielCS.png
       :scale: 40 %
       :align: right
-      :alt:   Mon adresse courriel, dans une image png...
+      :alt:   Mon adresse courriel, dans une image png…
       :target: mailto:Lilian.Besson＠CentraleSupelec.fr
 
 #. ou bien par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_ (*oui*, le @ n'est pas en ASCII ici) :
@@ -122,7 +122,7 @@ Pour n'importe quelle raison, n'hésitez pas à me *contacter* :
    .. image:: .telephoneHandWritten.png
       :scale: 40 %
       :align: right
-      :alt:   Mon numéro de téléphone, dans un image png... je reçoit assez de spam comme ça !
+      :alt:   Mon numéro de téléphone, dans un image png… je reçoit assez de spam comme ça !
       :target: callto:100101011101001100111101100001_2
 
 #. ou enfin par téléphone (:red:`seulement si c'est urgent ou important`) :

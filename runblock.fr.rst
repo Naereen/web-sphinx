@@ -28,7 +28,7 @@ Par exemple, le code suivant :
    .. runblock:: pycon
 
        >>> for i in range(5):
-       ...  print(i)
+       …  print(i)
 
 
 produira la sortie suivante :
@@ -36,7 +36,7 @@ produira la sortie suivante :
 .. runblock:: pycon
 
     >>> for i in range(5):
-    ...  print(i)
+    …  print(i)
 
 
 On peut aussi vérifier la version de Python utilisée par l'extension :
@@ -192,6 +192,6 @@ le support (annoncé comme expérimental) de ``pkg_resources``
 dans le fichier `plugin.py <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_ dans les sources de pygments,
 en forçant :red:`manuellement` ``pkg_resources = None``
 (`à la ligne 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
-:red:`C'est sale` mais ça corrige le bug...
+:red:`C'est sale` mais ça corrige le bug…
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -88,7 +88,7 @@ Exemples
 
    .. runblock:: console
 
-      $ echo -e "Requête à Wolfram|Alpha en cours..."
+      $ echo -e "Requête à Wolfram|Alpha en cours…"
       $ echo -e "Le $(date), 1 € valait $(wa_nocolor.sh "1 EUR in INR" | grep -o "₹.*$")."
 
 

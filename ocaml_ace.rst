@@ -29,7 +29,7 @@ Le toplevel
    <script src="_static/ace-new/ace.js" type="text/javascript" charset="utf-8"></script>
    </br>
    <script type="text/javascript">
-    window.alert("~~~ Le terminal OCaml (3.12.1) commence à s'initialiser... ~~~");
+    window.alert("~~~ Le terminal OCaml (3.12.1) commence à s'initialiser… ~~~");
     $(document).ready(function() {
    // window.onload = function() {
        // Launch ACE
@@ -69,8 +69,8 @@ Le toplevel
     });
    </script>
    </br></br>
-   <input disabled="disabled" id="cleanin" type="button" class="btn btn-success" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" />
+   <input disabled="disabled" id="cleanin" type="button" class="btn btn-success" onclick="editor.setValue('');" value="Chargement…" style="margin: auto;" />
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement…" style="margin: auto;" />
    </br></br>
 
 

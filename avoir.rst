@@ -128,7 +128,7 @@ Résultats attendus :
  * aucune erreur **grave** pour les pages **XHTML** 1.0 Transitional !
  * aucune erreur pour le flux RSS !
 
-.. warning:: Mes pages ne sont plus correctes sémantiquement ...
+.. warning:: Mes pages ne sont plus correctes sémantiquement …
 
    Aucunes pages ne passent désormais le test XHTML, à cause de bout de
    code écrits par des extensions non officielles de Sphinx (``sphinx.ext.gnuplot`` par exemple).

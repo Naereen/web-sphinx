@@ -24,7 +24,7 @@ Le toplevel
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align="center"><div id="toplevel" align="left"></div></div>
    </br><script type="text/javascript">
-    window.alert("~~~ Le terminal OCaml (4.00.1) commence à s'initialiser... ~~~");
+    window.alert("~~~ Le terminal OCaml (4.00.1) commence à s'initialiser… ~~~");
     $(document).ready(function() {
       window.alert("~~~ Le terminal OCaml (4.00.1) semble bien initialisé ! ~~~");
     });

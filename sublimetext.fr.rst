@@ -6,7 +6,7 @@
  Mon utilisation de `Sublime Text 3 <http://www.sublimetext.com/3>`_
 #####################################################################
 
-À-propos...
+À-propos…
 -----------
 À-propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -54,7 +54,7 @@ Mon article s'intéresse à la version 3 de Sublime Text (actuellement v3.083, *
    `Visual Studio Code <https://code.visualstudio.com/>`_
       est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
       il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      Après 4 ans d'utilisation intensive de Sublime Text, je l'ai abandonné pour passer entièrement à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      Après 4 ans d'utilisation intensive de Sublime Text, je l'ai abandonné pour passer entièrement à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
 
 Qu'est-ce que Sublime Text ?
@@ -66,7 +66,7 @@ Sublime Text est un logiciel propriétaire, soumis à l'acceptation d'une licenc
 La licence (gratuite) est à durée indéterminée, avec seulement des rappels occasionnels proposant d'acheter une inutile licence commerciale (pour 20$).
 
 
-Sublime Text intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins...
+Sublime Text intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins…
 
 L'éditeur propose cependant des fonctions plus avancées, dont :
 
@@ -174,7 +174,7 @@ Liste de mes snippets :
 * `newscript.sublime-snippet <publis/ST3/newscript.sublime-snippet>`_ fait la même chose pour un `script GNU Bash <bin/>`_.
 * `autotex.sublime-snippet <publis/ST3/autotex.sublime-snippet>`_ permet de créer un document \\(\\LaTeX{}\\) vide utilisant `autotex <bin/autotex>`_.
 * `StrapDownJS.sublime-snippet <publis/ST3/StrapDownJS.sublime-snippet>`_ facilite la création d'un fichier HTML utilisant mon (super) projet `StrapDownJS <http://lbesson.bitbucket.io/md/>`_ !
-* Snippets pour LaTeX, permettant de créer un nouvel environnement vide (``\begin{truc}...\env{truc}``) de maths, plus rapidement, pour les environnement suivants : `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_ (certains sont non standards).
+* Snippets pour LaTeX, permettant de créer un nouvel environnement vide (``\begin{truc}…\env{truc}``) de maths, plus rapidement, pour les environnement suivants : `defn <publis/ST3/defn.sublime-snippet>`_, `example <publis/ST3/example.sublime-snippet>`_, `examples <publis/ST3/examples.sublime-snippet>`_, `proof <publis/ST3/proof.sublime-snippet>`_, `remark <publis/ST3/remark.sublime-snippet>`_, `remarks <publis/ST3/remarks.sublime-snippet>`_, `theorem <publis/ST3/theorem.sublime-snippet>`_ (certains sont non standards).
 
 Scripts de construction
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,7 +220,7 @@ Pour chaque paquet cité ci-dessous, un lien vers sa page d'information sur `pac
 .. note:: Mon propre greffon ?
 
    En septembre 2016, j'ai décidé d'écrire un petit greffon, juste parce que j'en avais marre d'utiliser deux raccourcis clavier pour passer de français à anglais pour la correction orthographique.
-   Le but était de pouvoir passer d'une langue à l'autre avec un seul raccourcis clavier...
+   Le but était de pouvoir passer d'une langue à l'autre avec un seul raccourcis clavier…
 
    Ça a donné `ce greffon, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (pour ST3 uniquement), qui marche juste pour le français et l'anglais, mais fait son boulot parfaitement (``ctrl+shift+s`` pour passer entre français, anglais et pas de correction orthographique, et ``ctrl+shift+a`` détecte automatiquement la langue et bascule en français ou en anglais selon le contenu du fichier).
    Mon greffon est désormais disponible via PackageControl, cf. `SwitchDictionary <https://packagecontrol.io/SwitchDictionary>`_.
@@ -234,7 +234,7 @@ Petits greffons de personnalisation :
 * `BracketHighlighter <https://packagecontrol.io/packages/BracketHighlighter>`_ colore comme il faut les parenthèses et balises ouvrants et fermants (``(``, ``[``, ``{``, ``<`` etc).
 * `BufferScroll <https://packagecontrol.io/packages/BufferScroll>`_ est intéressant car il permet de conserver en mémoire absolument toutes les informations positionnelles (curseurs, panneau, buffer etc pour chaque fichier, et chaque fenêtre).
 * `Clickable URLs <https://packagecontrol.io/packages/Clickable%20URLs>`_ est tout simple mais utile : permet de souligner les adresses URLs (locales ou Internet), et de les ouvrir avec un raccourcis clavier.
-* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingue (anglais, français, ...).
+* `Dictionaries <https://packagecontrol.io/packages/Dictionaries>`_ pour une correction orthographique multi-lingue (anglais, français, …).
 * `GitGutter <https://packagecontrol.io/packages/GitGutter>`_ permet de visualiser l'état de chaque ligne de chaque fichier par rapport au dépôt *git* dans lequel il se trouve (visuellement génial pour voir les changements depuis le dernier *commit*).
 * `Gremlins <https://packagecontrol.io/packages/Gremlins>`_ permet de facilement voir et corriger les caractères UTF-8 invisibles, qui peuvent être dangereux, comme les espaces invisibles ou insécables.
 * `Language - French - Français <https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais>`_ ajoute aussi différents dictionnaires pour le français.
@@ -244,7 +244,7 @@ Petits greffons de personnalisation :
 
 Greffons ajoutant de super fonctionnalités :
 
-* `Calculate <https://packagecontrol.io/packages/Calculate>`_ permet de facilement créer des listes ordonnées (en plus de plein d'autres choses) : on écrit ``i+1`` à chaque ligne, puis un coup de ``Ctrl+Maj+c`` et paf, la multi-sélection est désormais en ``1``, ``2``, ..., ``n``.
+* `Calculate <https://packagecontrol.io/packages/Calculate>`_ permet de facilement créer des listes ordonnées (en plus de plein d'autres choses) : on écrit ``i+1`` à chaque ligne, puis un coup de ``Ctrl+Maj+c`` et paf, la multi-sélection est désormais en ``1``, ``2``, …, ``n``.
 * `DictionaryAutoComplete <https://packagecontrol.io/packages/DictionaryAutoComplete>`_ permet à l'auto-complétion d'intégrer les mots du dictionnaires utilisé pour la correction orthographique. Assez gonflant, mais intéressant. Utile pour écrire de la prose et pas du code (rapport, poésie etc).
 * `HighlightWords <https://packagecontrol.io/packages/HighlightWords>`_ pour toujours colorer certains mots précis (par exemple ``TODO`` ou ``FIXME``).
 * `IncDecValue <https://packagecontrol.io/packages/IncDecValue>`_ permet de facilement incrémenter ou décrémenter des nombres, des dates ou des couleurs.
@@ -252,7 +252,7 @@ Greffons ajoutant de super fonctionnalités :
 * `LineEndings <https://packagecontrol.io/packages/LineEndings>`_ pour surligner et facilement effacer les pénibles (et inutiles) espaces en fin de lignes.
 * `MakeCommands <https://packagecontrol.io/packages/MakeCommands>`_ permet de lancer depuis le panneau de contrôle n'importe quelle règle de construction venant d'un fichier `Makefile <https://fr.wikipedia.org/wiki/Makefile>`_. C'est *tout simple*, mais purement génial ! J'utilise `beaucoup de Makefile <https://bitbucket.org/lbesson/web-sphinx/src/master/Makefile>`_ pour mes différents projets. Quel gain de temps en fait !
 * `SideBarEnhancements <https://packagecontrol.io/packages/SideBarEnhancements>`_ rend la barre latérale bien plus utile.
-* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)... Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut ! `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ semble être une bonne alternative gratuite et libre.
+* `SublimeGit <https://sublimegit.net/>`_ (installable depuis `packagecontrol.io/packages/SublimeGit <https://packagecontrol.io/packages/SublimeGit>`_). Permet un intégration complète de *git* via le panneau de contrôle. Il est gratuit, mais vous embêtera régulièrement afin de vous demander d'acheter une (inutile) licence commercial (pour 10$)… Mais ce greffon est vraiment génial, donc vous supporterez son petit défaut ! `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ semble être une bonne alternative gratuite et libre.
 * `TableEditor <https://packagecontrol.io/packages/Table%20Editor>`_ permet d'éditer facilement des tableaux en texte brut (pour Markdown, reStructedText, pandoc etc). Très bien documenté, très complet.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ permet d'ouvrir un terminal (ie. une console) déjà dans le bon dossier. Je ne m'en sers jamais, mais il marche bien. Plus de détails `sur wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ pour utiliser `Wakatime.com <https://wakatime.com/>`_ (`lire cet autre article pour plus de détails <wakatime.fr.html>`_).
@@ -281,11 +281,11 @@ Un meilleur support pour certains langages :
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ améliore la coloration syntaxique pour Python (en prenant notamment en charge les changements des dernières versions 3.5 et 3.6).
-* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé...
+* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ ajoute les noms de fonctions Matlab/Octave (de fichiers `file.m`) à la complétion automatique. Ça compense le fait que chaque fonction en Matlab/Octave doit être écrite dans un fichier séparé…
 * Le génial `SublimeLinter <https://sublimelinter.readthedocs.io/en/latest/installation.html>`_ permet la vérification *à la volée* du code que vous rédigez (Spyder fait de même pour Python, par exemple). Assez extraordinaire ! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ propose beaucoup plus de fonctionnalités spécifique à Python. Il y a plein de très bons *linters* : `annotations <https://packagecontrol.io/packages/SublimeLinter-annotations>`_, `chktex <https://packagecontrol.io/packages/SublimeLinter-chktex>`_, `flake8 <https://packagecontrol.io/packages/SublimeLinter-flake8>`_, `json <https://packagecontrol.io/packages/SublimeLinter-json>`_, `mdl <https://packagecontrol.io/packages/SublimeLinter-contrib-mdl>`_, `pylint <https://packagecontrol.io/packages/SublimeLinter-pylint>`_, `shellcheck <https://packagecontrol.io/packages/SublimeLinter-shellcheck>`_.
 * `LaTeXing <http://www.latexing.com/>`_ (installable depuis `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), améliore le support de \\(\\LaTeX{}\\).
 * `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ est pratique pour "envoyer" du code dans un terminal ouvert dans une autre fenêtre (terminal qui peut être lancé sur Python, Octave, R, bash ou n'importe quel toplevel).
-* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (je n'aime pas... mais il est populaire).
+* `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ est *censé* permettre un accès intelligent à un programme : en reconnaissant les définitions de variables, fonctions, classes etc, il devrait permettre de "sauter" directement à la définition de n'importe quel élément du programme (je n'aime pas… mais il est populaire).
 * `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon *assez magique*. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit valoir le coup !
 
 
@@ -334,7 +334,7 @@ Un dernier conseil ?
    `Visual Studio Code <visualstudiocode.html>`_
       est un superbe éditeur aussi ! Développé `par Microsoft <https://github.com/Microsoft/vscode/>`_,
       il a l'avantage d'être complètement `libre et gratuit <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
-      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à `Visual Studio Code <https://code.visualstudio.com/>`_, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à `Visual Studio Code <https://code.visualstudio.com/>`_, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
 
 .. seealso::

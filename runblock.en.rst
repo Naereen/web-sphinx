@@ -28,7 +28,7 @@ For instance, this snippet of code:
    .. runblock:: pycon
 
        >>> for i in range(5):
-       ...  print(i)
+       …  print(i)
 
 
 will produce this output (raw included in the HTML web-page):
@@ -36,7 +36,7 @@ will produce this output (raw included in the HTML web-page):
 .. runblock:: pycon
 
     >>> for i in range(5):
-    ...  print(i)
+    …  print(i)
 
 
 We can also check which version of Python used by the extension:
@@ -194,6 +194,6 @@ and the only bugfix I found was to :red:`manually` delete the "experimental" sup
 in the pygments file `plugin.py <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_,
 by :red:`manually` forcing ``pkg_resources = None``
 (`at line 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
-:red:`It's durty`, but it fixes my bug...
+:red:`It's durty`, but it fixes my bug…
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

@@ -261,7 +261,7 @@ Features (2): Handouts
          .. class:: handout
 
             These paragraphs are the content
-            of the "class" directive.  And as such...
+            of the "class" directive.  And as such…
 
             Both paragraphs will *individually* receive
             ``class="handout"`` attributes.
@@ -336,10 +336,10 @@ Caveats
 
 .. class:: incremental
 
-3. Subsections ...
+3. Subsections …
 ------------------
 
-... may be used, sparingly.
+… may be used, sparingly.
 
 .. container:: handout
 
@@ -348,7 +348,7 @@ Caveats
 
    Subsections (of any level) work normally in handouts though.  Add
    "``.. class:: handout``" before a subsection (or sub-subsection, or
-   ...), and the entire subsection will only appear in the handout.
+   …), and the entire subsection will only appear in the handout.
 
 
 Generating a Slide Show (1)
@@ -425,11 +425,11 @@ Examples (2): Incremental Text
 
 .. class:: incremental
 
-   Paragraphs can be displayed one at a time...
+   Paragraphs can be displayed one at a time…
 
    .. container::
 
-      ... or a bunch at a time.
+      … or a bunch at a time.
 
       This second paragraph is displayed together with the previous
       one by grouping them with the "container" directive.

@@ -31,7 +31,7 @@ Some lists of applications
 
 .. warning:: Might be out-of-date!
 
-   This list was written in *June and July 2014*, so now it might be a little bit out-of-date...
+   This list was written in *June and July 2014*, so now it might be a little bit out-of-date…
    I checked it in *July 2017*, and it was alright.
    However, I am not using all these apps anymore (my phone in 2017 has way less memory than the one I used in 2013 !).
 
@@ -110,7 +110,7 @@ A few videos games
 * `GBC A.D. <http://apk-dl.com/store/apps/details?id=com.bslapps.gbc>`_ is a good Game Boy Color™ emulator (of course, it does not include any roms),
 * `Inotia™ III <http://apk-dl.com/store/apps/details?id=com.com2us.inotia3.normal.freefull.google.global.android.common>`_ and `Inotia™ IV <http://apk-dl.com/store/apps/details?id=com.com2us.inotia4.normal.freefull.google.global.android.common>`_ are two pretty good *hack-n-slash* game, :gray:`(old)`
 * `Mojo GBA <http://apk-dl.com/store/apps/details?id=com.momojo.gba.lite>`_ is an excellent Game Boy Advance™ emulator!
-* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ is a client for Mumble (and this description is not a tautology...), :gray:`(old)`
+* `Mumble client <http://apk-dl.com/store/apps/details?id=com.lordmarty.mumbleclient>`_ is a client for Mumble (and this description is not a tautology…), :gray:`(old)`
 * `Pixel Dungeon <http://apk-dl.com/store/apps/details?id=com.watabou.pixeldungeon>`_ is a pretty good *rogue-like*, well conceived but impressively difficult,
 * `SNesoid <http://apk-dl.com/store/apps/details?id=com.bslapps.snes>`_ or `Snes9x Ex <http://apk-dl.com/store/apps/details?id=com.explusalpha.Snes9xPlus>`_ are two good emulators for Super NES™ (a tablet is more appropriate), :gray:`(old)`
 * `Zenonia™ 1 Free <http://apk-dl.com/store/apps/details?id=com.gamevil.zenoniafree>`_, `Zenonia™ 3 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia3.global>`_, `Zenonia™ 4 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia4.global>`_ and the last one `Zenonia™ 5 <http://apk-dl.com/store/apps/details?id=com.gamevil.zenonia5.global>`_ are good *hack-n-slash*, similar to Inotia™ (only the 2nd one is not free). :gray:`(old)`

@@ -142,7 +142,7 @@ In particular,
  * HeVeA is © of Luc Marranget,
  * Nintendo, for some pictures of Link and Zelda (© & ®),
  * ACE (and ace.js) is © & ® of AjaxOrg,
- * and many others...
+ * and many others…
 
 ------------------------------------------------------------------------------
 
@@ -201,7 +201,7 @@ So, I used the following software :
  * Google Calendar, ang Google Analytics, respectivly to store calendars online, and to monitor my web pages,
  * Javascript and Django templating (for Sphinx) to automatically embbed the Google Analytics script,
  * caml2html, pyhtmlizer and pygmentize to generate HTML pages from source code,
- * JDownloader, as the best Youtube downloader, even if it is written in Java...
+ * JDownloader, as the best Youtube downloader, even if it is written in Java…
  * Cover Thumbnailer and Nautilus Terminal plug-ins for Nautilus,
  * Arandr and ArandrAuto (my script) to handle multi screens on Ubuntu,
  * HeVeA, as a powerfull LaTeX to HTML conversion tool,
@@ -213,7 +213,7 @@ So, I used the following software :
  * Gravatar and Worldpress,
  * FreeDNS for shortlink (http://perso.crans.org/besson and others),
  * Pixlr online picture editor (`<http://pixlr.com/editor/>`_),
- * and many others...
+ * and many others…
 
 ------------------------------------------------------------------------------
 

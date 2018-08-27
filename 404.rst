@@ -17,7 +17,7 @@
       <script type="text/javascript">
         if (document.referrer != ""){
             document.write("<a href='"+document.referrer+"'>Retourner vers "+document.referrer+"</a> ?"
-            - " (L'erreur continuera sûrement...)");
+            - " (L'erreur continuera sûrement…)");
         }
         else {
             document.write("<span style=\"color:red\">Accès direct à cette page d'erreur détectée !</span>");
@@ -42,7 +42,7 @@
 
    .. raw:: html
 
-      <!-- Useless here because 404.html is displayed on http://perso.crans.org/besson/404.html not on the located missing page... -->
+      <!-- Useless here because 404.html is displayed on http://perso.crans.org/besson/404.html not on the located missing page… -->
       <div id="wb404"/>
       <script type="text/javascript" src="https://archive.org/web/wb404.js"> </script>
       </div>
@@ -55,7 +55,7 @@
 .. image:: .error.jpg
    :scale: 140 %
    :align: center
-   :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"...
+   :alt: Un petit bonhomme tient un panneau "Sorry, this page is unavailable"…
    :target: index.html
 
 

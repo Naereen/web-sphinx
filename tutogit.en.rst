@@ -166,7 +166,7 @@ These ones are good shortcuts, which by default also launches local compression 
 
 And finally, I have defined an practical alias to synchronize the current project with the deposit mother and its sub-folder on my website.
 
-* ``alias Sync='clear; echo -e "Synchronizing (git push, gc, send_zamok, send_dpt)..."; git push; git gc --aggressive; make send_zamok; make send_dpt; alert'``
+* ``alias Sync='clear; echo -e "Synchronizing (git push, gc, send_zamok, send_dpt)…"; git push; git gc --aggressive; make send_zamok; make send_dpt; alert'``
 
 
 For instance, `that repository <https://bitbucket.org/lbesson/ansi-colors>`_ is `here locally on my website (publis/ansi-colors) <publis/ansi-colors/>`_.
@@ -196,7 +196,7 @@ The following free plugins allow a smooth and easy use of `git`_ on `Sublime Tex
 
 * The small `GitGutter <https://sublime.wbond.net/packages/GitGutter>`_  will help to visualize the difference of *each line* of *each file* regarding the last commited version for the *git* repository in which it is located (visually great to see the changes since the last *commit*).
 
-* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial licence... But it is really awesome, so you will support this.
+* The wonderful `SublimeGit <https://sublimegit.net/>`_ (installable from `sublime.wbond.net/packages/SublimeGit <https://sublime.wbond.net/packages/SublimeGit>`_). Allows a full integration of git via the control panel. Free but annoys you regularly to ask you buy an (useless) 10$ commercial licence… But it is really awesome, so you will support this.
 
 * `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_ seems to be a good free and open-source alternative.
 

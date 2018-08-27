@@ -97,12 +97,12 @@ Chez moi, en France
 Courrier électronique
 ^^^^^^^^^^^^^^^^^^^^^
 Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si vous êtes un spammeur !
-(Bon... les spammeurs sont des robots, mais ça fait du bien de les engueuler !)
+(Bon… les spammeurs sont des robots, mais ça fait du bien de les engueuler !)
 
 .. image:: .courriel.png
    :scale: 50 %
    :align: right
-   :alt:   Mon adresse courriel, dans une image PNG...
+   :alt:   Mon adresse courriel, dans une image PNG…
    :target: mailto:Lilian.Besson à ens-cachan point fr
 
 
@@ -123,7 +123,7 @@ Téléphone
 .. image:: .telephone.png
    :scale: 50 %
    :align: right
-   :alt:   Mon numéro de téléphone, dans un image PNG...
+   :alt:   Mon numéro de téléphone, dans un image PNG…
    :target: callto:100101011101001100111101100001_2
 
 

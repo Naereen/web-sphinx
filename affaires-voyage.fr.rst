@@ -114,7 +114,7 @@ Affaires de toilette
 - Pansements divers.
 - Pastille MicroPur® (ou autre) pour purifier l'eau (en espérant *ne pas* avoir à s'en servir).
 - Rasoir et lame supplémentaire (attention dans l'avion !).
-- Un peigne, du maquillage, des bijoux, enfin si vous aimez...
+- Un peigne, du maquillage, des bijoux, enfin si vous aimez…
 
 Alimentation et consommables
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

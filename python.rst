@@ -98,17 +98,17 @@ Toplevel Python 2.7.2 avec l'éditeur ACE
      };
      window.onload = start;
    </script>
-   <!--    <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" />
-   <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="editor.setValue('');" value="Chargement..." style="margin: auto;" />
+   <!--    <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement…" style="margin: auto;" />
+   <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="editor.setValue('');" value="Chargement…" style="margin: auto;" />
    <h4>Sortie du toplevel :</h4>
    <textarea id="output" style="font-family: monospace; width: 100%;" rows="8" cols="80"></textarea>
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement..." style="margin: auto;" /> -->
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value=''" value="Chargement…" style="margin: auto;" /> -->
    <i id="buttons-input" style="margin-left: 20%; margin-right: auto; display: block;">
-     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement..." style="margin: auto;" onclick="window.alert('Nothing :(...');" />
-     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement..." style="margin: auto;" />
+     <input disabled="disabled" id="button" type="button" class="btn btn-success" value="Chargement…" style="margin: auto;" onclick="window.alert('Nothing :(…');" />
+     <input disabled="disabled" id="cleanin" type="button" class="btn btn-danger" onclick="input.value='';" value="Chargement…" style="margin: auto;" />
    </i><br/>
    <h4>Sortie du toplevel (<tt>output</tt>) :
-   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement..." style="margin: auto;" /></h4>
+   <input disabled="disabled" id="cleanout" type="button" class="btn btn-warning" onclick="output.value='';" value="Chargement…" style="margin: auto;" /></h4>
    <pre id="output" style="font-family: monospace; width: 80%;"></pre>
    <br/><hr/>
 

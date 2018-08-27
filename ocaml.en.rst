@@ -22,7 +22,7 @@ The terminal
    <script type="text/javascript" src="_static/toplevel.js"></script>
    <div align="center"><div id="toplevel" align="left"></div></div>
    </br><script type="text/javascript">
-    window.alert("~~~ The OCaml terminal (4.00.1) is starting to be initialized... ~~~");
+    window.alert("~~~ The OCaml terminal (4.00.1) is starting to be initialized… ~~~");
     $(document).ready(function() {
       window.alert("~~~ The OCaml terminal (4.00.1) seems to have been correctly initialized! ~~~");
     });

@@ -6,7 +6,7 @@
  Mon utilisation de `Visual Studio Code <https://code.visualstudio.com/>`_
 ##########################################################################
 
-À-propos...
+À-propos…
 -----------
 À-propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -47,7 +47,7 @@ Mon article s'intéresse aux versions supérieures à 1.14 de Visual Studio Code
 
    `Sublime Text 3 <https://www.SublimeText.com/3>`_
       était mon éditeur favori depuis quelques années.
-      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_...
+      Après 4 ans d'utilisation intensive de Sublime Text, je suis en train de l'abandonner pour passer à Visual Studio Code, et tel Edith Piaf, `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
 
 Qu'est-ce que Visual Studio Code ?
@@ -62,7 +62,7 @@ Regardez sur GitHub : `Microsoft/vscode <https://github.com/Microsoft/vscode/>`_
 Le logiciel distribué sur `le site de téléchargement <https://code.visualstudio.com/Download>`_, quant à lui, l'est sous `une licence privatrice <https://code.visualstudio.com/license>`_ malheuresement. Oui bon, en même temps, c'est un produit Microsoft, vous vous attendiez à quoi, une license GPL ?!
 
 
-Visual Studio Code intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins...
+Visual Studio Code intègre la plupart des *fonctionnalités de base* d'un éditeur de texte, dont la coloration syntaxique personnalisable, l'auto-complétion, un système de plugins…
 
 L'éditeur propose cependant des fonctions plus avancées, dont :
 

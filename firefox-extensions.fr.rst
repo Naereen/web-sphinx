@@ -73,7 +73,7 @@ Voici quelques listes d'applications utiles, presque classées par catégories.
 
 .. warning:: N'est plus du tout à jour !
 
-    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète...
+    J'ai écrit cette liste en *octobre 2015*, donc elle est peut-être obsolète…
     Je l'ai relu et vérifié en *mai 2016*, et ça avait l'air d'aller !
     En 2017, depuis la version 57 de Firefox, `le format des extensions a changé <https://blog.mozilla.org/addons/2017/09/28/webextensions-in-firefox-57/>`_, et la plupart des extensions que j'utilisais depuis des années ne sont plus disponibles.
     Je garde cette liste originale pour le plaisir.
@@ -91,7 +91,7 @@ Liste des extensions qu'*il faut avoir*
 
 .. note:: « Et pour `Google Chrome <https://www.google.com/chrome>`_ ? »
 
-   Je n'ai jamais vraiment utilisé d'autres navigateurs que Firefox, désolé...
+   Je n'ai jamais vraiment utilisé d'autres navigateurs que Firefox, désolé…
 
    Néanmoins, il devrait être possible d'utiliser `le magasin d'extensions de Google Chrome <https://chrome.google.com/webstore/category/extensions?hl=fr>`_ pour trouver des *équivalents* à chacune des extensions cités dans cette page.
 
@@ -108,7 +108,7 @@ Extensions pour améliorer l'ergonomie
 Extensions pour *geeks*
 ^^^^^^^^^^^^^^^^^^^^^^^
 * `Classic Theme Restorer <https://addons.mozilla.org/fr/firefox/addon/classic-theme-restorer>`_ rétablit certains éléments de l'ancien thème de Firefox,
-* `Customizable Shortcuts <https://addons.mozilla.org/fr/firefox/addon/customizable-shortcuts>`_ permet de changer chaque raccourcis clavier de Firefox (je m'en sers uniquement pour enlever les énervants raccourcis ``Ctrl+q`` et ``Ctrl+Q``... Je ne veux pas fermer Firefox sans confirmation à chaque fois qu'un ``Ctrl+C`` ou ``Ctrl+A`` ripe en un ``Ctrl+Q`` !),
+* `Customizable Shortcuts <https://addons.mozilla.org/fr/firefox/addon/customizable-shortcuts>`_ permet de changer chaque raccourcis clavier de Firefox (je m'en sers uniquement pour enlever les énervants raccourcis ``Ctrl+q`` et ``Ctrl+Q``… Je ne veux pas fermer Firefox sans confirmation à chaque fois qu'un ``Ctrl+C`` ou ``Ctrl+A`` ripe en un ``Ctrl+Q`` !),
 * `Download Status Bar <https://addons.mozilla.org/fr/firefox/addon/download-status-bar>`_ permet de mieux contrôler les téléchargements faits dans Firefox, via une jolie barre de statut,
 * `Stylish <https://addons.mozilla.org/fr/firefox/addon/stylish>`_ permet de gérer ses styles personnalisés : les `styles personnalisés <https://userstyles.org>`_ sont comme des thèmes pour un site web particulier. Je suis fan du joli thème `"github-dark" <https://userstyles.org/styles/37035/github-dark>`_ pour `GitHub <https://github.com>`_. J'ai aussi écrit `mon style pour live.com et outlook.com <publis/firefox/stylish_better_outlook.css>`_ (Outlook Microsoft webmail).
 * `Textarea cache <https://addons.mozilla.org/fr/firefox/addon/textarea-cache>`_ conserve automatiquement le contenu de n'importe quelle zone d'édition de texte rencontrée, et celles d'un éditeur *"WYSIWYG"* lorsque vous écrivez dedans. Il est ensuite possible de restaurer ou copier les textes sauvegardes, même si l'onglet ou la fenêtre s'est fermée inopinément.
@@ -130,8 +130,8 @@ Extensions pour agents secrets (ou paranoïaques)
 * `Decentrales <https://addons.mozilla.org/fr/firefox/addon/decentraleyes>`_ permet d'héberger localement les dépendances (javascript) normalement hébergées sur des *Content Delivery Networks*. C'est une bonne idée, pour améliorer les performances de navigation et l'anonymat,
 * `Element Hiding Helper for AdBlock Plus <https://adblockplus.org/en/elemhidehelper>`_ permet de mettre en place des règles pour cacher *n'importe quel* élément d'une page web (image, panneau de pub etc), comme si c'était une publicité bloquée par AdBlock,
 * `Facebook Disconnect <https://addons.mozilla.org/fr/firefox/addon/facebook-disconnect>`_ supprime complètement le suivi et l'espionnage que fait Facebook dans d'autres sites,
-* `FlashBlock <https://addons.mozilla.org/fr/firefox/addon/flashblock>`_ désactive les objets Flash par défaut sur chaque page (*note :* AdBlock ou Ghostery font la même chose). Les vidéos ne se liront plus toutes seules...
-* `Ghostery <https://addons.mozilla.org/fr/firefox/addon/ghostery>`_ est l'outil facile-à-utiliser NUMÉRO UN pour désactiver les cookies, traqueurs et autres mini logiciels espions qui pullulent sur chaque site (j'ai rien à dire : *ce* site `utilise Google Analytics aussi <ga.fr.html>`_...),
+* `FlashBlock <https://addons.mozilla.org/fr/firefox/addon/flashblock>`_ désactive les objets Flash par défaut sur chaque page (*note :* AdBlock ou Ghostery font la même chose). Les vidéos ne se liront plus toutes seules…
+* `Ghostery <https://addons.mozilla.org/fr/firefox/addon/ghostery>`_ est l'outil facile-à-utiliser NUMÉRO UN pour désactiver les cookies, traqueurs et autres mini logiciels espions qui pullulent sur chaque site (j'ai rien à dire : *ce* site `utilise Google Analytics aussi <ga.fr.html>`_…),
 * `HTTPS Everywhere <https://addons.mozilla.org/fr/firefox/addon/https-everywhere>`_ protège vos communications en autorisant le cryptage HTTPS automatiquement sur les sites qui le supportent, même si vous tapez une adresse URLs ou suivez un lien auquel il manque le préfixe ``https:``.
 * `NoScript Security Suite <https://addons.mozilla.org/fr/firefox/addon/noscript>`_ est THE outil pas-facile-à-utiliser pour améliorer significativement la sécurité dans Firefox : par défaut, *tous les scripts* (``javascript``) *inconnus* seront désactivés (et ça améliore aussi plein d'autres choses, comme le risque d'injection de scripts XSS etc),
 * `SSLeuth <https://addons.mozilla.org/fr/firefox/addon/ssleuth/>`_ évalue la qualité d'une connexion HTTPS sécurisée (SSL ou TLS) établie et donne un bref résumé de la suite de chiffrement, du certificat et d'autres paramètres SSL / TLS (`merci à cet article <https://korben.info/ssleuth.html>`_).
@@ -139,9 +139,9 @@ Extensions pour agents secrets (ou paranoïaques)
 
 Extensions pour web-développeurs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `Link Checker <https://addons.mozilla.org/fr/firefox/addon/link-checker/>`_ pour... rapidement vérifier des liens !
+* `Link Checker <https://addons.mozilla.org/fr/firefox/addon/link-checker/>`_ pour… rapidement vérifier des liens !
 * `Octotree <https://addons.mozilla.org/fr/firefox/addon/octotree/>`_ est intéressant si vous utilisez beaucoup `GitHub`_.
-* `Quick Locale Switcher <https://addons.mozilla.org/fr/firefox/addon/quick-locale-switcher>`_ pour... rapidement changer le paramètre de **langue** (``locale``),
+* `Quick Locale Switcher <https://addons.mozilla.org/fr/firefox/addon/quick-locale-switcher>`_ pour… rapidement changer le paramètre de **langue** (``locale``),
 * `Reload Plus <https://addons.mozilla.org/fr/firefox/addon/reload-plus>`_ pour regagner plein contrôle du cache de votre navigateur (e.g. ``Ctrl+F5`` permet de recharger une page, en écrasant la version localement mise en mémoire cache).
 
 Autres extensions
