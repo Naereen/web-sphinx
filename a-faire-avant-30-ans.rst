@@ -13,7 +13,7 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 
 .. note:: Cette liste *n'est pas* ordonnée.
 
-.. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_. Qui sont presque aussi inutiles...
+.. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_. Qui sont presque aussi inutiles…
 
 .. sidebar:: Des suggestions ?
 
@@ -24,25 +24,25 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- Évidemment, *finir ma thèse*... Et en être content.
+- Évidemment, *finir ma thèse*… Et en être content.
 - Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite.
 
 Voyages
 ^^^^^^^
 - Aller une fois dans *tous les continents* (Amérique, Afrique, Océanie et Asie) *grâce au boulot* ?!
-- OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
+- 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`x` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`x` fois (auto-citations **non** comptées !). Où :math:`x \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`x = 1`...
+- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 2`… Mais ça monte… lentement…
 - Publier au moins un *article dans une revue* (un *"journal"*).
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``. J'y suis presque !
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
-- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
-- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair... `Ce site essaie de bien expliquer <https://fossa.io/>`_, mais j'ai toujours des doutes.
-- OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 100, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
+- *Publier* en libre accès et sous licence libre ma thèse et son code source , et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
+- *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est toujours pas clair… `Ce site essaie de bien expliquer <https://fossa.io/>`_, mais j'ai toujours des doutes.
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 200, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -50,14 +50,14 @@ Code et programmation
     :scale:  35%
 
 
-- OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
+- 👌 OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
 
 Enseignement
 ^^^^^^^^^^^^
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
 - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <http://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
-- Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)... (Mais ça aussi c'est un peu idéaliste).
+- Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (Mais ça aussi c'est un peu idéaliste).
 
 Collaborations
 ^^^^^^^^^^^^^^
@@ -105,9 +105,9 @@ Activités
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Faire plus de 10 000 kms en autostop. J'y suis... hum... bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans...)
-- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"...
-- Couper les cheveux de quelqu'un, et pourquoi pas... me couper moi-même les cheveux ?!
+- Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans…)
+- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
+- Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
 - OK En attendant, essayer des lentilles ! (DONE)
 - *Devenir un cyborg*. La singularité est proche ! (blague)
@@ -120,7 +120,7 @@ Expériences diverses
 Cuisine et envies
 ^^^^^^^^^^^^^^^^^
 - Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (*même si on a tendance à les confondre*, d'après Hervé de Rinel).
-- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc... (ça attendra que j'ai un meilleur four)
+- Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc… (ça attendra que j'ai un meilleur four)
 - *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
 - *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
 - Continuer à faire `mes spécialités <cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.
@@ -128,11 +128,11 @@ Cuisine et envies
 
 Vacances
 ^^^^^^^^
-- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout !
+- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 150/200 kms par jour, deux semaines).
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
-- Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en ... août 2007).
-- Moins précis, mais... simplement pouvoir continuer à prendre des vacances au moins trois fois dans l'année, ce serait GÉNIAL.
+- Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en … août 2007).
+- Moins précis, mais… simplement pouvoir continuer à prendre des vacances au moins trois fois dans l'année, ce serait GÉNIAL.
 
 Famille
 ^^^^^^^

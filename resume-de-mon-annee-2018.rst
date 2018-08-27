@@ -59,17 +59,19 @@ Août 2018
 ---------
 - Une semaine de vacances en Écosse, c'était *génial* !
 - Deux semaines à la montagne (à Briançon), avec beaucoup de repos en famille, entre de nombreuses sorties VTT, vélo de route, kayak, randonnées, camping etc…
-- TODO
-
-.. warning:: La suite est… dans le futur !
+- Toujours plus de nouvelles rencontres amicales et très agréables via le formidable site `CouchSurfing.com <https://www.CouchSurfing.com/>`_ sur lequel je suis plus actif que jamais ! Je compte 6 rencontres en dix jours entre mon retour à Rennes le 20 août et la reprise début septembre… Trop de chance 🙏 !
 
 Septembre 2018
 --------------
+- Reprise de mes enseignements, après un été sans activité professorale (rien depuis mai dernier). Jury d'oraux pour des soutenances de stage d'élèves terminant leur première ou deuxième année (L3 ou M1) à l'ENS de Rennes (en informatique appliquée ou fondamentale), ces quelques journées était très intéressantes !
+
+.. warning:: La suite est… dans le futur !
+
 - TODO
 
 Octobre 2018
 ------------
-- Début de ma dernière année de thèse !
+- Début de ma dernière année de thèse ! J'ai plein de travaux très motivants en cours, des choses terminées, des choses commencées, des choses déjà publiées et citées mais pas encore acceptées… Tellement de chance d'avoir pendant encore un an cette bourse ministérielle, pour vivre et travailler comme je l'entends sur tous ces sujets !
 - TODO
 
 Novembre 2018
