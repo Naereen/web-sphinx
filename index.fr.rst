@@ -48,9 +48,9 @@ N'hésitez pas à me *contacter* :
 
 ------------------------------------------------------------------------------
 
-L'année dernière (2016-18)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-* J'ai commencé ma thèse de doctorat.
+Les deux dernières années (2016-18)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* J'ai commencé ma thèse de doctorat. Lisez `cette page là <https://perso.Crans.org/besson/me/index.fr.html>`_ pour plus de détails.
 
 En *2015-16*
 ^^^^^^^^^^^^

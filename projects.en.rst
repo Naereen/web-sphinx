@@ -46,9 +46,9 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
 ------------------------------------------------------------------------------
 
-Last year (*2016-17*)
-^^^^^^^^^^^^^^^^^^^
-* I started my PhD.
+The last two years (2016-18)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* I started my PhD. Please `read this page <https://perso.Crans.org/besson/me/index.en.html>`_ to learn more!
 
 In *2015-16*
 ^^^^^^^^^^^^
@@ -222,4 +222,4 @@ For more details, see `<sitemap.en.html>`_.
    alaskabombeh.en
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

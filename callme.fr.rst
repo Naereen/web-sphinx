@@ -129,7 +129,7 @@ Téléphone
 
 Pour (essayer de) m'avoir directement, par exemple si c'est important, veuillez utiliser mon numéro français.
 
-.. .. warning:: Je suis actuellement à l'étranger, vivant à Hyderabad (en Inde).
+.. .. warning:: Je suis actuellement à l'étranger, vivant à XXX (en XXX).
 
 ..    Les appels vers l'étranger coûtent cher ! Même recevoir des appels
 ..    coûte cher (pour moi), svp évitez si possible.
@@ -181,4 +181,4 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
       Quelques autres outils pouvant être utilisés pour (essayer de) préserver sa vie privée en ligne.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

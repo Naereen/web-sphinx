@@ -129,7 +129,7 @@ Regular phone
 
 To speak directly, e.g. if it is important, you can (try to) call me, you could use my French cellphone number:
 
-.. .. warning:: I am currently out of the French territory, living in Hyderabad (in India).
+.. .. warning:: I am currently out of the French territory, living in XXX (in XXX).
 
 ..   Calling someone in a foreign country can be expensive!
 ..   In fact, even receiving them is costly, so please avoid it (if possible).
@@ -182,4 +182,4 @@ These web services, strongly based on the great functions offered by the `HTML 5
       Some others tools are presented there, and they surely can be used to (try to) preserve your on-line private life.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

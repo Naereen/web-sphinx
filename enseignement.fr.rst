@@ -6,8 +6,8 @@
  Activités d'enseignement
 ##########################
 
-En 2017/2018
-------------
+En 2017/2018 et en 2018/2019
+----------------------------
 J'enseigne de nouveau environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
 Je vais donner des oraux ainsi que des TPs de programmation (en `OCaml <https://ocaml.org/>`_) à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
@@ -146,4 +146,4 @@ Avant 2009 (lycée et avant)
 ---------------------------
   J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique… mais aussi en *théâtre* !
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

@@ -5,8 +5,8 @@
 ########################
  My teaching activities
 ########################
-In 2017/2018
-------------
+In 2017/2018 and 2018/2019
+--------------------------
 I will continue to teach, about 64 h / year, for 2017/2018, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
 
 I am giving oral exams and programming practical sessions (for `OCaml <https://ocaml.org/>`_) at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
@@ -144,4 +144,4 @@ Before 2009 (high-school and before)
   I used to regularly help my friends for Maths, Chemistry, Biology, Physics… but also *theater*.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
