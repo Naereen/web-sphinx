@@ -26,9 +26,9 @@ Where are those pages ?
 Demos
 -----
 
--  :gb:/:us: in English: |Screenshot demo of my web pages in English
+-  🇬🇧 in English: |Screenshot demo of my web pages in English
    (1/2)|
--  :fr: in French: |Screenshot demo of my web pages in French (2/2)|
+-  🇫🇷 in French: |Screenshot demo of my web pages in French (2/2)|
 
 What do those pages contain ?
 -----------------------------
