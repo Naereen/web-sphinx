@@ -2,7 +2,7 @@
 ===============================================================================
 
 `My web pages <http://perso.crans.org/besson/>`__ are currently
-generated with `Sphinx Doc <http://sphinx-doc.org>`__ (v*1.6+*).
+generated with `Sphinx Doc <http://sphinx-doc.org>`__ (*v1.6+*).
 
 |Website http://perso.crans.org/besson/| |Made with Python v3.6+| |Made
 with Sphinx v1.6+|
@@ -21,7 +21,7 @@ default theme, and nicer fonts (in Dec 2017).
 Where are those pages ?
 -----------------------
 
-==> On http://perso.crans.org/besson/. |Website perso.crans.org|
+⟹ On http://perso.crans.org/besson/. |Website perso.crans.org|
 
 Demos
 -----
