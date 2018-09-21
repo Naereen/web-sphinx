@@ -18,7 +18,7 @@ Messages by month
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_month.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: I text more in September, December and January
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -29,7 +29,7 @@ Messages by hours
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_hour.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: I text more around 7 PM and in the evening in general
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -40,7 +40,7 @@ Messages by weekday
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_weekday_2.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: I text less in the beginning of the week and (way) more during the weekend
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -51,7 +51,7 @@ Sizes of messages
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/size_of_sms_sent_vs_received.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: I write (slightly) more than the people who reply or contact to me. Most the my messages fit in 2 SMS at most
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -62,7 +62,7 @@ Messages during the week vs the weekend
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/week_vs_weekend.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: Proportionally, I text more in 2 days of weekend than 5 days of the week !
     :target: _images/Data_Analysis_of_SMS_2016_2018/

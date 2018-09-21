@@ -15,10 +15,10 @@ Je vais donner des oraux ainsi que des TPs de programmation (en `OCaml <https://
 - Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2017/>`_.
 - Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2017/>`_.
 
-.. note:: Extras :
+.. note::
 
-   J'évaluerai des rapports de stage d'étudiants en M1 d'informatique à l'ENS de Rennes,
-   et je serai jury pour les soutenances de stage d'étudiants finissant leur Licence d'informatique après leur stage d'été (en septembre 2017).
+   J'évalue des rapports de stage d'étudiants en M1 d'informatique à l'ENS de Rennes,
+   et je suis jury pour les soutenances de stage d'étudiants finissant leur Licence d'informatique après leur stage d'été (en septembre 2017 et 2018).
 
 
 En 2016/2017

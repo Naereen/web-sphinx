@@ -1,6 +1,6 @@
-###############################
- Expériences faites et à faire
-###############################
+#######################################################################
+ Expériences faites et à faire (dans des pages web faites avec Sphinx)
+#######################################################################
 .. include:: .javascript.fr.rst
 
 .. note:: Page de démos (faites et à faire)

@@ -39,6 +39,14 @@ About Visual Studio Code
 The official website is `code.VisualStudio.com <https://code.visualstudio.com/>`_.
 My article focuses on versions higher than 1.14 of Visual Studio Code.
 
+.. figure:: _images/.visualstudiocode.png
+    :width: 100%
+    :align: center
+    :alt: Overview of Visual Studio Code when using my configuration (September 2018).
+    :target: _images/.visualstudiocode.png
+
+    Overview of Visual Studio Code when using my configuration (September 2018).
+
 
 .. seealso::
 

@@ -92,9 +92,9 @@ Pour Google Chrome
 
 À-propos
 --------
-:Source 1: `<http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies>`_ (en français).
-:Source 2: `<https://korben.info/respecter-loi-cookies-site.html>`_ (en français).
-:Source 3: `<https://silktide.com/why-the-cookie-law-is-total-clownshoes/>`_ (en anglais).
+:Ref 1: `<http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies>`_ (en français).
+:Ref 2: `<https://korben.info/respecter-loi-cookies-site.html>`_ (en français).
+:Ref 3: `<https://silktide.com/why-the-cookie-law-is-total-clownshoes/>`_ (en anglais).
 
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

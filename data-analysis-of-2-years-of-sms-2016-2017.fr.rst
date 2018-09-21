@@ -18,7 +18,7 @@ Messages par mois
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_month.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: J'envoie plus de textos en septembre, décembre et janvier.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -29,7 +29,7 @@ Messages par heures
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_hour.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: J'envoie plus de textos vers 19h et le soir en général.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -40,7 +40,7 @@ Messages par jour dans la semaine
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/messages_by_weekday_2.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: J'envoie moins de textos en début de semaine et (beaucoup) plus pendant le week-end.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -51,7 +51,7 @@ Taille des messages
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/size_of_sms_sent_vs_received.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: J'écris (légèrement) plus que les personnes qui me répondent ou me contactent, la plupart de mes messages tiennt dans moins de 2 SMS.
     :target: _images/Data_Analysis_of_SMS_2016_2018/
@@ -62,7 +62,7 @@ Messages dans la semaine ou le weekend
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: _images/Data_Analysis_of_SMS_2016_2018/week_vs_weekend.png
-    :width: 50%
+    :width: 65%
     :align: center
     :alt: Proportionnellement, j'envoie plus de textos en 2 jours de week-end que 5 jours de la semaine.
     :target: _images/Data_Analysis_of_SMS_2016_2018/

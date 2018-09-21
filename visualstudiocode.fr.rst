@@ -42,6 +42,14 @@ des liens vers mes fichiers de configurations, et des remarques générales.
 Le site officiel est `code.VisualStudio.com <https://code.visualstudio.com/>`_.
 Mon article s'intéresse aux versions supérieures à 1.14 de Visual Studio Code.
 
+.. figure:: _images/.visualstudiocode.png
+    :width: 100%
+    :align: center
+    :alt: Aperçu de Visual Studio Code avec ma configuration (septembre 2018).
+    :target: _images/.visualstudiocode.png
+
+    Aperçu de Visual Studio Code avec ma configuration (septembre 2018).
+
 
 .. seealso::
 

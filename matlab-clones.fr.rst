@@ -20,7 +20,11 @@ Lite de logiciels alternatifs à MATLAB
 `Julia <https://julialang.org/>`_ est mon nouveau favori parmi les remplaçants libres de MATLAB.
 C'est vraiment un langage génial, et une communauté en très forte croissance (+200% par an depuis 2015 !), vous devriez vraiment aller jeter un œil !
 
-.. seealso:: J'ai donné une présentation au `séminaire IETR 2018 <https://seminar-ietr-18.sciencesconf.org/program>`_ à propos de Julia, avec `Pierre Haessig <http://pierreh.eu/efficient-tools-seminar/>`_. Les planches sont `disponibles ici ! <https://perso.crans.org/besson/publis/slides/2018_06__Julia_my_new_optimization_friend__introduction_for_MATLAB_users__at_IETR_seminar/slides.pdf>`_ (en anglais).
+.. seealso:: J'ai donné une présentation au `séminaire IETR 2018 <https://seminar-ietr-18.sciencesconf.org/program>`_ à propos de Julia, avec `Pierre Haessig <http://pierreh.eu/efficient-tools-seminar/>`_. Les planches sont `disponibles ici ! <https://hal.archives-ouvertes.fr/cel-01830248/document>`_ (en anglais).
+
+.. raw:: html
+
+   <center><iframe src="https://hal.archives-ouvertes.fr/cel-01830248/document#page=2&zoom=page-fit,-207,576" width="80%" height="500"></iframe></center>
 
 2. **GNU Octave**
 ~~~~~~~~~~~~~~~~~

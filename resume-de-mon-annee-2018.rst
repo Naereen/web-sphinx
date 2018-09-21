@@ -64,6 +64,7 @@ Août 2018
 Septembre 2018
 --------------
 - Reprise de mes enseignements, après un été sans activité professorale (rien depuis mai dernier). Jury d'oraux pour des soutenances de stage d'élèves terminant leur première ou deuxième année (L3 ou M1) à l'ENS de Rennes (en informatique appliquée ou fondamentale), ces quelques journées était très intéressantes !
+- De belles soirées chez moi, avec des bons ami-e-s 🙏 !
 
 .. warning:: La suite est… dans le futur !
 
@@ -128,6 +129,8 @@ En 2018, j'ai lu ces livres…
 - Une anthologie en anglais de poèmes de John Keats (coup de cœur !),
 - Le Cid, de Pierre Corneille,
 - Quai Ouest, et Sallinger, du grand Bernard-Marie Koltès,
+- King Kong Theory, de Virginie Despentes, un beau livre féministe,
+- Exercices de style, de Raymond Queneau, un joli livre "expérimental" (c'est un classique, de 1947, mais je ne connais pas !),
 - Beaucoup d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…

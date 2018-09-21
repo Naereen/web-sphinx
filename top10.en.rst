@@ -144,29 +144,29 @@ My 10 favorite **places in France**
    Oh, yes, I have been to or left from each of these cities `by hitch-hiking <autostop.en.html>`_… !
 
 
+- `Briançon <https://en.wikipedia.org/wiki/Briançon>`_ (the mountains),
 - `Avignon <https://en.wikipedia.org/wiki/Avignon>`_ (the town and its theaters!),
+- `Rennes <https://en.wikipedia.org/wiki/Rennes>`_ (where I live, the city center, the market),
 - `Paris <https://en.wikipedia.org/wiki/Paris>`_ (mainly the historical center),
 - `La Ciotat <https://en.wikipedia.org/wiki/La_Ciotat>`_ (the village and its beach),
-- `Briançon <https://en.wikipedia.org/wiki/Briançon>`_ (the mountains),
 - `Corte <https://en.wikipedia.org/wiki/Corte>`_ (in `Corsica <https://en.wikipedia.org/wiki/Corsica>`_),
 - `Grenoble <https://en.wikipedia.org/wiki/Grenoble>`_ (the town and the Bastille),
 - `Nyons <https://en.wikipedia.org/wiki/Nyons>`_ (the village and its river),
-- `La Rochelle <https://en.wikipedia.org/wiki/La_Rochelle>`_ (mainly its harbor),
 - `Luminy <https://en.wikipedia.org/wiki/Luminy>`_ (in `Marseille <https://en.wikipedia.org/wiki/Marseille>`_, the best University campus I know!),
 - `Pau <https://en.wikipedia.org/wiki/Pau>`_ (its castel, mainly).
 
 My 10 favorite **cities of the world**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Avignon <https://en.wikipedia.org/wiki/Avignon>`_ (`France <https://en.wikipedia.org/wiki/France>`_),
+- `Briançon <https://en.wikipedia.org/wiki/Briancon>`_ (`France <https://en.wikipedia.org/wiki/France>`_),
+- `Rennes <https://en.wikipedia.org/wiki/Rennes>`_ (`France <https://en.wikipedia.org/wiki/France>`_),
 - `Paris <https://en.wikipedia.org/wiki/Paris>`_ (`France <https://en.wikipedia.org/wiki/France>`_),
 - `Lausanne <https://en.wikipedia.org/wiki/Lausanne>`_ (`Switzerland <https://en.wikipedia.org/wiki/Switzerland>`_),
 - `Barcelona <https://en.wikipedia.org/wiki/Barcelona>`_ (`Spain <https://en.wikipedia.org/wiki/Spain>`_),
-- `Briançon <https://en.wikipedia.org/wiki/Briancon>`_ (`France <https://en.wikipedia.org/wiki/France>`_),
-- `Carcassonne <https://en.wikipedia.org/wiki/Carcassonne>`_ (`France <https://en.wikipedia.org/wiki/France>`_).
-- `Hampi <https://en.wikipedia.org/wiki/Hampi>`_ (`Karnataka <https://en.wikipedia.org/wiki/Karnataka>`_, India),
+- `Hampi <https://en.wikipedia.org/wiki/Hampi>`_ (`Karnataka <https://en.wikipedia.org/wiki/Karnataka>`_, `India <https://en.wikipedia.org/wiki/India>`_),
 - `Heimeay <https://en.wikipedia.org/wiki/Heimeay>`_ (`Iceland <https://en.wikipedia.org/wiki/Iceland>`_),
-- `Quebec <https://en.wikipedia.org/wiki/Quebec>`_ (`Canada <https://en.wikipedia.org/wiki/Canada>`_),
-- `London <https://en.wikipedia.org/wiki/London>`_ (`UK <https://en.wikipedia.org/wiki/UK>`_),
+- `Amsterdam <https://en.wikipedia.org/wiki/Amsterdam>`_ (`Netherlands <https://en.wikipedia.org/wiki/Netherlands>`_),
+- `Carcassonne <https://en.wikipedia.org/wiki/Carcassonne>`_ (`France <https://en.wikipedia.org/wiki/France>`_).
 
 ------------------------------------------------------------------------------
 

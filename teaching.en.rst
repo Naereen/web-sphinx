@@ -14,10 +14,10 @@ I am giving oral exams and programming practical sessions (for `OCaml <https://o
 - For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2017/>`_.
 - For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2017/>`_.
 
-.. note:: Extras :
+.. note::
 
-   I will also evaluate research internship reports for students finishing their first year of Masters degree in theoretical Computer Science, at ENS de Rennes,
-   as well as oral exam for students finishing the Bachelor degree and defending the thesis they wrote during their summer internship (September 2017).
+   I also evaluate research internship reports for students finishing their first year of Masters degree in theoretical Computer Science, at ENS de Rennes,
+   as well as oral exam for students finishing the Bachelor degree and defending the thesis they wrote during their summer internship (September 2017 and 2018).
 
 
 In 2016/2017

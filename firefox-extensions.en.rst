@@ -37,6 +37,7 @@ For a better user experience
 - `Tab Session Manager <https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager>`_ (3.1.1) to save and restore sessions (list of open tabs and windows),
 - `Tab Notifier <https://addons.mozilla.org/en-US/firefox/addon/tab-notifier>`_ (3.1) to notify whenever a tab changes its title (*e.g.*, next video on YouTube).
 - `Textarea Cache <https://addons.mozilla.org/en-US/firefox/addon/textarea-cache/>`_ is tiny but very handy: it keeps the contents of the last textarea, those text editing areas in your browser. Very handy when you write an answer or a message but close the tab without paying attention…
+* `Tab reloader <https://addons.mozilla.org/firefox/addon/tab-reloader/>`_ to automatically reload a tab every 5 seconds or more. Useful for pages like `agreg.org <http://agreg.org/>`_ when waiting for the results of an exam (or other things)!
 
 For improved privacy and security
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

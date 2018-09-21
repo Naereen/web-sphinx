@@ -37,6 +37,7 @@ Pour une meilleure expérience utilisateur
 - `Tab Session Manager <https://addons.mozilla.org/fr/firefox/addon/tab-session-manager>`_ (3.1.1) pour sauvegarder et restaurer ses sessions (liste d'onglets et de fenêtres ouvertes),
 - `Tab Notifier <https://addons.mozilla.org/fr/firefox/addon/tab-notifier>`_ (3.1) pour être notifié quand un onglet change de titre (*e.g.*, vidéo suivante sur YouTube).
 - `Textarea Cache <https://addons.mozilla.org/fr/firefox/addon/textarea-cache/>`_ est minuscule mais très pratique : il conserve le contenu des dernières "textarea", ces zones d'édition de texte dans votre navigateur. Très pratique quand on écrit une réponse ou un message mais qu'on ferme l'onglet sans faire attention…
+* `Tab reloader <https://addons.mozilla.org/firefox/addon/tab-reloader/>`_ pour recharger automatiquement un onglet toutes les 5 secondes ou plus. Utile pour des pages comme `agreg.org <http://agreg.org/>`_ en attendant les résultats d'un examen (ou autres choses) !
 
 Pour une meilleure sécurité
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
