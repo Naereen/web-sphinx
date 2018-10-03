@@ -77,6 +77,7 @@ A little loose, but still in the order from the best reference to the blurrier:
 * `www.Atlassian.com/git/ <https://www.atlassian.com/git/>`_ covers lots of things. I like the graphic and English styles of these explanations,
 * `the official reference book on git-scm.com <http://git-scm.com/book/en/>`_,
 * the `help.GitHub.com <https://help.github.com/>`_ website is really well designed, and it can sure help you,
+* this project on GitHub is a git style guide, to help you learn how to correctly name your branches, commits etc, see `this article by @agis <https://github.com/agis/git-style-guide>`_,
 * this last `tutorial on readwrite.com <http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1>`_ is quite well written (`second part <http://readwrite.com/2013/10/02/github-for-beginners-part-2>`_).
 
 

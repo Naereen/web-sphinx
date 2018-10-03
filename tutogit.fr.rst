@@ -80,6 +80,7 @@ Un peu en vrac, mais quand même dans l'ordre du plus utile au plus flou :
 * `www.Atlassian.com/git/ <https://www.atlassian.com/git/>`_ couvre plein de choses. J'aime bien le style (graphique et structurel) de ces explications (en anglais).
 * `le livre de référence officiel sur git-scm.com <http://git-scm.com/book/fr/v1>`_,
 * le site `help.GitHub.com <https://help.github.com/>`_ est bien conçu (surtout en anglais),
+* ce projet sur GitHub est un guide de style pour git. En quelques phrases, ce guide vous apprend comment bien choisir des noms de branches ou de modifications, voir `cet article par @pierreroth64 <https://github.com/pierreroth64/git-style-guide>`_,
 * ce `dernier tutorial (en anglais) sur readwrite.com <http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1>`_ est très bien rédigé (`seconde partie <http://readwrite.com/2013/10/02/github-for-beginners-part-2>`_).
 
 Deux documents en PDF à télécharger pour ne pas paniquer quand on est paumé ou qu'on débute :
