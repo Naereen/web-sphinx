@@ -147,6 +147,20 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 - For more details, `see the screenshots in this folder (2017) <./_images/WakaTime_a_look_back_at_2015/>`_.
 
 
+Short overview of my total coding time since 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Apparently, as of October 2018, I accumulated over 2529 hours of coding stats since 3 years and a half (January 2015).
+That's a lot. In over 10+3*12=46 months, I lived about 33120 hours, and slept approximately 10000 hours. So 2500 hours of coding is about 7% of my life and about 11% of my awaken life.
+I spent 11% of my life coding. That's a lot, I think (it does not count just office hours, but ALL MY LIFE since 3 years). Oh boy.
+
+.. image::  .2529_hours_of_coding_stats_older_since_I_use_WakaTime.png
+   :width:  50%
+   :align:  center
+   :alt:    You have 2,529 hours of coding stats older than the 2 week limit
+   :target: https://wakatime.com/@lbesson
+
+
 Small interlude (from `XKCD.com <https://xkcd.com/>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image::  .time_tracking_software.png

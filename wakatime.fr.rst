@@ -148,6 +148,20 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 - `Voir les captures d'écran dans ce dossier (2017) <./_images/WakaTime_a_look_back_at_2017/>`_ si besoin.
 
 
+Bref aperçu de mon temps de programmation depuis 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Apparemment, en octobre 2018, j'avais accumulé plus de 2529 heures de statistiques de programmation depuis 3 ans et demi (janvier 2015).
+C'est beaucoup ! En plus de 10+3*12=46 mois, j'ai vécu environ 33 120 heures, et dormi environ 10 000 heures. Ainsi, 2500 heures de programmation représentent environ 7% de ma vie et environ 11% de ma vie éveillée.
+J'ai passé 11% de ma vie à coder. C'est beaucoup, je pense (ça ne compte pas seulement les heures de bureau, mais TOUTE MA VIE depuis 3 ans). Ohlala…
+
+.. image::  .2529_hours_of_coding_stats_older_since_I_use_WakaTime.png
+   :width:  50%
+   :align:  center
+   :alt:    Vous avez 2529 heures de statistiques de programmation datant d'au delà de la limite de 2 semaines.
+   :target: https://wakatime.com/@lbesson
+
+
 Petit interlude (de `XKCD.com <https://xkcd.com/>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image::  .time_tracking_software.png
