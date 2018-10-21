@@ -144,6 +144,7 @@ En 2017, j'ai vu ces films…
 - The Imitation Game, sympa mais un peu caricatural,
 - Astérix et le Domaine des Dieux, très drôle !
 - 500 days of Summer, beau mais triste mais joyeux mais re-triste derrière,
+- Ghost in the Shell (2017), au cinéma,
 - Beaucoup d'autres… je n'ai pas maintenu la liste au fur et à mesure.
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/

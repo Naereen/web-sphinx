@@ -57,7 +57,7 @@ Juillet 2018
 
 Août 2018
 ---------
-- Une semaine de vacances en Écosse, c'était *génial* !
+- Une semaine de vacances en Écosse, c'était *génial* ! (cf. `cet article de blogue <https://perso.crans.org/besson/zero-dechet/une-semaine-de-camping-en-ecosse-09-08-2018.html>`_),
 - Deux semaines à la montagne (à Briançon), avec beaucoup de repos en famille, entre de nombreuses sorties VTT, vélo de route, kayak, randonnées, camping etc…
 - Toujours plus de nouvelles rencontres amicales et très agréables via le formidable site `CouchSurfing.com <https://www.CouchSurfing.com/>`_ sur lequel je suis plus actif que jamais ! Je compte 6 rencontres en dix jours entre mon retour à Rennes le 20 août et la reprise début septembre… Trop de chance 🙏 !
 
@@ -65,18 +65,19 @@ Septembre 2018
 --------------
 - Reprise de mes enseignements, après un été sans activité professorale (rien depuis mai dernier). Jury d'oraux pour des soutenances de stage d'élèves terminant leur première ou deuxième année (L3 ou M1) à l'ENS de Rennes (en informatique appliquée ou fondamentale), ces quelques journées était très intéressantes !
 - De belles soirées chez moi, avec des bons ami-e-s 🙏 !
-
-.. warning:: La suite est… dans le futur !
-
-- TODO
+- Une chouette semaine à Toulouse pour un colloque de recherche (`voir cet article <https://perso.crans.org/besson/zero-dechet/un-atelier-de-recherche-et-une-semaine-a-toulouse-20-09-2018.html>`_).
 
 Octobre 2018
 ------------
 - Début de ma dernière année de thèse ! J'ai plein de travaux très motivants en cours, des choses terminées, des choses commencées, des choses déjà publiées et citées mais pas encore acceptées… Tellement de chance d'avoir pendant encore un an cette bourse ministérielle, pour vivre et travailler comme je l'entends sur tous ces sujets !
-- TODO
+- Une super semaine à Lille pour un autre colloque de recherche (`voir cet autre article ! <https://perso.crans.org/besson/zero-dechet/un-conference-de-recherche-et-une-semaine-a-lille-06-10-2018.html>`_)
+- De nouvelles réussites quant à mes engagements écologique, zéro déchet et zéro pollution. Ça progresse, lentement (`cf. ce blogue <https://perso.crans.org/besson/zero-dechet>`_).
+
+.. warning:: La suite est… dans le futur !
 
 Novembre 2018
 -------------
+- Une chouette (petite) semaine de vacances, entre le sud et Paris !
 - TODO
 
 Décembre 2018
@@ -98,7 +99,8 @@ En 2018, j'ai voyagé là…
 - En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
 - Aux Pays-Bas en mai 2018 pour `un atelier international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
 - En Écosse en juillet 2018 en *"road trip"* avec des amis.
-- Et pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, dans les Alpes…
+- Et pas mal en France : en Bretagne, beaucoup à Lille, à Paris, à Marseille, à Toulouse, dans les Alpes…
+- Une journée en octobre m'a permis d'aller faire un rapide tour en Belgique, du côté de Mons, Charleroi, c'était très sympa !
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
@@ -123,14 +125,19 @@ En 2018, j'ai lu ces livres…
 - Les meilleurs récits de `Weird Tales <https://fr.wikipedia.org/wiki/Weird_Tales>`_, tômes 1 à 3.
 - `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore !),
 - `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_ (un cadeau, qui m'a bien plu),
-- (de nouveau) Les Fleurs du Mal, de Charles Baudelaire (un classique toujours agréable),
-- La trilogie Star Wars, "L'Académie Jedi", de Kevin J. Anderson. Histoire sympa, mais écriture (ou traduction) bof bof…
-- Une anthologie de poèmes de Victor Hugo (un autre classique, que j'ai adoré redécouvrir),
-- Une anthologie en anglais de poèmes de John Keats (coup de cœur !),
-- Le Cid, de Pierre Corneille,
-- Quai Ouest, et Sallinger, du grand Bernard-Marie Koltès,
-- King Kong Theory, de Virginie Despentes, un beau livre féministe,
-- Exercices de style, de Raymond Queneau, un joli livre "expérimental" (c'est un classique, de 1947, mais je ne connais pas !),
+- (de nouveau) *Les Fleurs du Mal*, de Charles Baudelaire (un classique toujours agréable),
+- (en cours) La trilogie Star Wars, "L'Académie Jedi", de Kevin J. Anderson. Histoire sympa, mais écriture (ou traduction) bof bof…
+- (en cours) Une anthologie de poèmes de Victor Hugo (un autre classique, que j'ai adoré redécouvrir),
+- (en cours) Une anthologie en anglais de poèmes de John Keats (coup de cœur !),
+- *Le Cid*, de Pierre Corneille (un classique mais j'adore les relire),
+- *Quai Ouest*, et *Sallinger*, du grand Bernard-Marie Koltès !
+- *King Kong Theory*, de Virginie Despentes, un beau livre féministe qui m'a bien plu,
+- *Exercices de style*, de Raymond Queneau, un joli livre "expérimental" (c'est un classique, de 1947, mais je ne connais pas !),
+- *Andromaque*, de Racine,
+- *Intimes*, de Solange, un autre livre "intime"
+- (en cours) *La maison de Bernada Alba*, de Federico García Lorca,
+- Une anthologie de contes d'Andersen (cf. `cette liste <https://fr.wikipedia.org/wiki/Liste_des_contes_d%27Andersen>`) que j'ai lu *leeeentement* au bureau.
+- Plein de BDs, dont `Les Ignorants <http://www.planetebd.com/bd/futuropolis/les-ignorants/-/14394.html>`_ de Richard Leroy et Etienne Davodeau (une perle),
 - Beaucoup d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…
@@ -160,6 +167,12 @@ En 2018, j'ai vu ces films…
 - *Les Poupées Russes*, j'ai bien fait d'attendre si longtemps parce que j'ai A-DO-RÉ !
 - *Les Indestructibles 2*, formidable !
 - *The Boy and The Beast* (Bakemono no Ko, バケモノの子), un film d'animation japosaise qui m'a beaucoup plû !
+- *Sisters Brothers* au cinéma, j'ai bien aimé !
+- *A Star Wars Story: Solo*, correct mais pas à la hauteur de ce que j'espérais,
+- *Grease* (comédie musicale culte),
+- *Tomb Raider* (2018), un film d'action correct et immersif, et dont le réalisme m'a surpris !
+- *Ready Player One* (2018), j'ai vraiment pas accroché alors qu'il a tous les éléments que j'aurai pu aimer !
+- *Colonia* (2016), j'ai adoré !
 - Plein d'autres…
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
