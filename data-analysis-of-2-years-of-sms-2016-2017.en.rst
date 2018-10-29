@@ -47,6 +47,19 @@ Messages by weekday
 
     I text less in the beginning of the week and (way) more during the weekend.
 
+
+------------------------------------------------------------------------------
+
+Petit interlude (de `XKCD.com <https://xkcd.com/>`_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image::  https://imgs.xkcd.com/comics/who_sends_the_first_text.png
+   :width:  50%
+   :align:  center
+   :alt:    Who Sends the First Text? (https://xkcd.com/2065/)
+   :target: https://xkcd.com/2065/ https://xkcd.com/2065/
+
+------------------------------------------------------------------------------
+
 Sizes of messages
 ~~~~~~~~~~~~~~~~~
 

@@ -47,6 +47,19 @@ Messages par jour dans la semaine
 
     J'envoie moins de textos en début de semaine et (beaucoup) plus pendant le week-end.
 
+
+------------------------------------------------------------------------------
+
+Petit interlude (de `XKCD.com <https://xkcd.com/>`_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image::  https://imgs.xkcd.com/comics/who_sends_the_first_text.png
+   :width:  50%
+   :align:  center
+   :alt:    Who Sends the First Text? (https://xkcd.com/2065/)
+   :target: https://xkcd.com/2065/ https://xkcd.com/2065/
+
+------------------------------------------------------------------------------
+
 Taille des messages
 ~~~~~~~~~~~~~~~~~~~
 
