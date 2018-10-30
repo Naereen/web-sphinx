@@ -30,7 +30,7 @@ To have fun:
 
 - `"Dumbing of Age" <http://www.dumbingofage.com/>`_, `RSS <http://www.dumbingofage.com/feed/>`_,
 - `"Oglaf! -- Comics. Often dirty." <http://www.oglaf.com/>`_, `RSS <http://www.oglaf.com/feeds/rss/>`_,
-- `"Questionable Content" <https://questionablecontent.net/>`_, `RSS <https://www.questionablecontent.net/QCRSS.xml>`_, and the blog of the author, `"jephjacques.com" <http://jephjacques.com/`_, `RSS <http://jephjacques.com/rss>`_.
+- `"Questionable Content" <https://questionablecontent.net/>`_, `RSS <https://www.questionablecontent.net/QCRSS.xml>`_, and the blog of the author, `"jephjacques.com" <http://jephjacques.com/>`_, `RSS <http://jephjacques.com/rss>`_.
 
 In French:
 
