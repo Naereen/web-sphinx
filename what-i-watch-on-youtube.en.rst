@@ -132,7 +132,8 @@ Vulgarisation in English
 - `Smarter Every Day <https://www.youtube.com/channel/UCH6vXjt-BA7QHl0KnfL-7RQ>`_ (talks).
 - `The Backyard Scientist <https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw>`_ (homemade heavy science experiments).
 - `The Infographics Show <https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA>`_ (focussed on American society).
-- `Veritasium <https://www.youtube.com/channe.l/UCHnyfMqiRRG1u-2MsSQLbXA>`_ (advanced physical science)
+- `Veritasium <https://www.youtube.com/channe.l/UCHnyfMqiRRG1u-2MsSQLbXA>`_ (advanced physical science).
+- `Pop Culture Detective <https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw>`_ (interesting videos on pop culture and weird things that people don't notice).
 
 Conferences and talks
 ~~~~~~~~~~~~~~~~~~~~~
@@ -182,7 +183,7 @@ English
 - `Foil Arms and Hog <https://www.youtube.com/channel/UCzb-6smlTg5UPirLdsdQ_cQ>`_ (fun and short English sketches).
 - `How it Should Have Ended <https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ>`_ (HISHE) (animated parody on scify and big budgets movies).
 - `Simon's Cat <https://www.youtube.com/channel/UCH6vXjt-BA7QHl0KnfL-7RQ>`_ (the funiest animated cat on the Internet !).
-- `Whatever <https://www.youtube.com/channel/UC37PFGlxWgx4tU6SlhPCdCw>`_ (pranks.)
+- `Whatever <https://www.youtube.com/channel/UC37PFGlxWgx4tU6SlhPCdCw>`_ (pranks).
 
 ------------------------------------------------------------------------------
 

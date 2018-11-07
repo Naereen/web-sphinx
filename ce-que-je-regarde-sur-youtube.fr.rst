@@ -133,6 +133,7 @@ Vulgarisation en anglais
 - `The Backyard Scientist <https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw>`_ (grosses expériences faites à la maison, beaucoup d'explosions).
 - `The Infographics Show <https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA>`_ (très focalisé sur la société des USA).
 - `Veritasium <https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA>`_ (science physique avancée, drôle).
+- `Pop Culture Detective <https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw>`_ (vidéos intéressantes sur la culture "pop" et des choses étranges que même les fans ne remarquent pas).
 
 Conférences
 ~~~~~~~~~~~
