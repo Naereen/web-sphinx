@@ -39,7 +39,7 @@ Contact address
 
 Extra information about me
 --------------------------
- * :Date of Birth: *January 12th, 1993*. Age : **24**.
+ * :Date of Birth: *January 12th, 1993*. Age : **25**.
  * :Current Status: PhD student at `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
  * :Webpages:
 

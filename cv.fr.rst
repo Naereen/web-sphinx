@@ -37,7 +37,7 @@ Adresse de contact
 
 Autres informations à propos de moi
 ------------------------------------
- * :Date de Naissance: *12 Janvier 1993*. Âge : **24 ans**.
+ * :Date de Naissance: *12 Janvier 1993*. Âge : **25 ans**.
  * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, à Rennes et à `Inria <https://team.inria.fr/sequel/team-members/>`_ à Lille. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
  * :Pages sur le web:
 
