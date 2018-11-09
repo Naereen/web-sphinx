@@ -73,11 +73,13 @@ Octobre 2018
 - Une super semaine à Lille pour un autre colloque de recherche (`voir cet autre article ! <https://perso.crans.org/besson/zero-dechet/un-conference-de-recherche-et-une-semaine-a-lille-06-10-2018.html>`_)
 - De nouvelles réussites quant à mes engagements écologique, zéro déchet et zéro pollution. Ça progresse, lentement (`cf. ce blogue <https://perso.crans.org/besson/zero-dechet>`_).
 
-.. warning:: La suite est… dans le futur !
-
 Novembre 2018
 -------------
 - Une chouette (petite) semaine de vacances, entre le sud et Paris !
+
+.. warning:: La suite est… dans le futur !
+
+
 - TODO
 
 Décembre 2018
