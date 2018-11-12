@@ -6,13 +6,14 @@
  Liste d'outils de sécurité informatique
 #########################################
 
+.. seealso:: Guide par John Mason
 
-:Source: http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/
+   `Ce guide <https://thebestvpn.com/online-privacy-guide/>`_ est très bien conçu (en anglais).
 
 .. seealso:: Slides par Micah Flee
 
    `Ces slides <https://raw.githubusercontent.com/micahflee/slides/master/2013/10/sfpl_crypto.pdf>`_
-   sont très bien faits, et présentent rapidement l'importance des outils de crypto-sécurité.
+   sont très bien faits, et présentent rapidement l'importance des outils de crypto-sécurité (en anglais).
 
 ---------------------------------------------------------------------
 
@@ -172,5 +173,7 @@ Gérer ses mots de passe
 * `The Password Meter <http://www.passwordmeter.com/>`_, un site joli pour tester la solidité
   de ses mots de passe. Fonctionne *super* bien.
 
+
+:Source: http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/
 
 .. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
