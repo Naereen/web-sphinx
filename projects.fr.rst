@@ -245,10 +245,9 @@ sa documentation sur `<http://ansicolortags.readthedocs.io/>`_.
 
 En janvier et mars 2013, j'ai écrit un petit module et script pour manipuler les *couleurs* ANSI (*i.e.* en mode textuel, dans un terminal).
 Ce module est hébergé sur `PyPi <https://pypi.org/project/ANSIColors-balises>`_.
-Sa documentation est hébergée sur `PythonHosted.org <https://pythonhosted.org/ANSIColors-balises/>`_,
-et son code source est hébergé sur `Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
+Son code source est hébergé sur `Bitbucket.org/lbesson/ansi-colors <https://bitbucket.org/lbesson/ansi-colors/>`_.
 
-Entre mars 2013 et avril 2016, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ environ **5000 fois**.
+Entre mars 2013 et avril 2016, il a déjà `été téléchargé <http://pypi-ranking.info/module/ANSIColors-balises>`_ environ **5000 fois** (lien mort).
 
 Nautilus Terminal v1.2
 ^^^^^^^^^^^^^^^^^^^^^^

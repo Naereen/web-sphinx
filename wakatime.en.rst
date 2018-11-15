@@ -103,7 +103,7 @@ and `PyCharm IDE <https://www.jetbrains.com/pycharm/>`_ for the remaining ~10% :
 
 .. note::
 
-   WakaTime does not count `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, or `Spyder <https://pythonhosted.org/spyder/>`_ for Python 2/3.
+   WakaTime does not count `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, or `Spyder <https://www.spyder-ide.org/>`_ for Python 2/3.
    However, now `they offer a WakaTime plugin for Bash, Zsh and iTerm (terminal) <https://wakatime.com/help/plugins/terminal>`_!
 
 

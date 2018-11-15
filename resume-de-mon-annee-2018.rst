@@ -76,6 +76,7 @@ Octobre 2018
 Novembre 2018
 -------------
 - Une chouette (petite) semaine de vacances, entre le sud et Paris !
+- J'ai `envoyé ma candidature à des postes de professeur en classes préparatoires (CPGE) <http://igmaths.org/spip/spip.php?article8>`_ !
 
 .. warning:: La suite est… dans le futur !
 

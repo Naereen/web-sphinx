@@ -103,7 +103,7 @@ et `Sublime Text <sublimetext.html>`_ et `PyCharm IDE <https://www.jetbrains.com
 
 .. note::
 
-   WakaTime ne compte pas l'utilisation de `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, ou `Spyder <https://pythonhosted.org/spyder/>`_ pour Python 2/3.
+   WakaTime ne compte pas l'utilisation de `GNU Nano <NanoSyntax.html>`_, `GNU Octave GUI <http://www.gnu.org/software/octave/>`_, ou `Spyder <https://www.spyder-ide.org/>`_ pour Python 2/3.
    Par contre, désormais `ils proposent des greffons WakaTime pour Bash, Zsh et iTerm (terminaux) <https://wakatime.com/help/plugins/terminal>`_ !
 
 

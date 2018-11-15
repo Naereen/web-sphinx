@@ -25,7 +25,7 @@ Professionnellement
 -------------------
 
 - Évidemment, *finir ma thèse*… Et en être content.
-- Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite.
+- Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois<http://igmaths.org/spip/spip.php?article8>`_ !)
 
 Voyages
 ^^^^^^^
@@ -35,13 +35,13 @@ Voyages
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 2`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*).
-- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``. J'y suis presque !
+- Publier au moins un *article dans une revue* (un *"journal"*) ??
+- Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
-- 👌 OK *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
+- 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
 - 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 200, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
@@ -67,7 +67,7 @@ Collaborations
 Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Recevoir un (autre) *prix pour un article ou un exposé scientifique* (après `le Best Paper Award à CROWNCOM 2017 <https://hal.inria.fr/hal-01575419>`_).
-- Être invité "personnellement" à parler dans un séminaire ou un atelier national (TODO), européen (OK) ou international (TODO).
+- Être invité "personnellement" à parler dans un séminaire ou un atelier national (OK, `au CMAP <https://perso.crans.org/besson/publis/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_), européen (TODO) ou international (TODO).
 - Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante (OK), en discuter après l'exposé avec la personne (OK)… et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
 
 -----------------------------------
@@ -105,7 +105,7 @@ Activités
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans…)
+- Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais plus fait depuis des années !)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
 - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
@@ -123,8 +123,8 @@ Cuisine et envies
 - Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc… (ça attendra que j'ai un meilleur four)
 - *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
 - *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
-- Continuer à faire `mes spécialités <cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.
-- Alimenter régulièrement mon `blog de cuisine <cuisine/>`_ avec de belles photos.
+- Continuer à faire `mes spécialités <https://perso.crans.org/besson/cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.
+- Alimenter régulièrement mon `blog de cuisine <https://perso.crans.org/besson/cuisine/>`_ avec de belles photos.
 
 Vacances
 ^^^^^^^^
@@ -138,14 +138,14 @@ Famille
 ^^^^^^^
 - *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
 - *Devenir un super tonton*. Ça, je devrais gérer, conditionnellement à l'événement précédent.
-- *Devenir papa*. Ça, ça dépend de moi. Mais pas uniquement. Des volontaires 😜 ?!
+- *Devenir papa* ?? Ça, ça dépend de moi. Mais pas uniquement. Des volontaires 😜 ?!
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi !
 - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <https://www.penofchaos.com/warham/bd/>`_. Et à être un grand fan de la franchise `Naheulbeuk <https://www.penofchaos.com/warham/donjon/>`_ en entier.
-- Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `personne par la guerre ne devient grand <https://www.kaakook.fr/citation-167>`_).
+- Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
 - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
 - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à coeur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et d'autres).
 

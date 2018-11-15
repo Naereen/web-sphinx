@@ -30,10 +30,12 @@ C'est vraiment un langage génial, et une communauté en très forte croissance 
 ~~~~~~~~~~~~~~~~~
 `GNU Octave <https://www.gnu.org/software/octave/>`_ a pour but d'être un clone complet de MATLAB, et est en développement depuis plus de 25 ans.
 Il marche vraiment très bien, et est `désormais muni d'une interface graphique (GUI) de qualité <http://octave.org/NEWS-4.0.html>`_, très proche de celle de MATLAB.
+Par contre, c'est *lent*, et la communauté est minuscule.
 
 3. Python avec ses modèles scientifiques
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Python, avec `l'IDE Spyder <https://pythonhosted.org/spyder/>`_ (et `la console IPython <https://ipython.org/>`_), les `modules NumPy/SciPy <http://www.numpy.org/>`_ pour les calculs et `MatPlotLib pour l'affichage <http://matplotlib.org/>`_.
+Python, avec `l'IDE Spyder <https://www.spyder-ide.org/>`_ (et `la console IPython <https://ipython.org/>`_), les `modules NumPy/SciPy <http://www.numpy.org/>`_ pour les calculs et `MatPlotLib pour l'affichage <http://matplotlib.org/>`_.
+D'autres bons éditeurs sont `Visual Studio Code <visualstudiocode.en.html>`_ (mon nouveau favori !), `Sublime Text <sublimetext.en.html>`_, `GNU Emacs <https://www.gnu.org/software/emacs/>`_, `vi/vim/gvim/neovim etc <https://www.vim.org/>`_, et `JetBrains PyCharm <https://www.jetbrains.com/pycharm/download/>`_.
 
 Tout ça (et bien plus) est inclut dans l'installeur gratuit `Anaconda <http://continuum.io/downloads>`_, qui permet d'installer tout ça en deux clics (juste un seul gros fichier de 400 Mo, en téléchargement gratuit bien-sûr).
 

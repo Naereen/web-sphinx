@@ -63,7 +63,7 @@ Compétences en programmation et développement
 Informatique pratique
 ---------------------
 * :Systèmes d'exploitation: très compétent en général (*Microsoft Windows*, *Mac OS X*, *Android*), et surtout avec **GNU/Linux** (**Ubuntu**);
-* :Édition de texte: expert, notamment avec `Gedit <http://perso.crans.org/besson/publis/gedit/>`_ & `GNU Nano <http://perso.crans.org/besson/NanoSyntax.html>`_, `Spyder <https://pythonhosted.org/spyder/installation.html>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
+* :Édition de texte: expert, notamment avec `Gedit <http://perso.crans.org/besson/publis/gedit/>`_ & `GNU Nano <http://perso.crans.org/besson/NanoSyntax.html>`_, `Spyder <https://www.spyder-ide.org>`_ et `Sublime Text 3 <sublimetext.fr.html>`_;
 * :Rédaction de documents: utilisation très régulière de `\\(\\LaTeX{}\\) <http://perso.crans.org/besson/publis/latex/>`_ et **Beamer**, `MarkDown <http://lbesson.bitbucket.io/md/>`_ & `reStructuredText <http://perso.crans.org/besson/demo.html>`_ (*pour des slides, des pages webs ou des articles*).
 
 Divers
