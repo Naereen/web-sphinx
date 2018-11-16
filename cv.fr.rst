@@ -6,11 +6,18 @@
  **Curriculum Vitæ** : Lilian Besson
 #####################################
 
-Cette année (*2016-17*)
+.. note::
+
+    Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
+    Bienvenue sur mon site web.
+
+
+
+Cette année (*2018-19*)
 -----------------------
 
-- J'ai commencé `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
-- Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+- Je suis en troisième et dernière année de `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portera sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
+- Et `j'enseigne encore <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
 .. sidebar:: Autre langue : en anglais ?
@@ -18,7 +25,7 @@ Cette année (*2016-17*)
    :red:`This page is written in French. Maybe you would like to read the`
    `English <cv.en.html>`_ :red:`version ?`
 
-   Une version en **PDF** est disponible `cv.fr.pdf <cv.fr.pdf>`_.
+   Une version en **PDF** est disponible `cv.fr.pdf <cv.fr.pdf>`_. :red:`Le PDF est bien plus à jour !`
 
 
 Adresse de contact
@@ -37,7 +44,7 @@ Adresse de contact
 
 Autres informations à propos de moi
 ------------------------------------
- * :Date de Naissance: *12 Janvier 1993*. Âge : **25 ans**.
+ * :Date de Naissance: *12 Janvier 1993*, né à Briançon (France). Âge : **25 ans**.
  * :Actuellement: Doctorant (PhD student) à `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, à Rennes et à `Inria <https://team.inria.fr/sequel/team-members/>`_ à Lille. (J'étais étudiant à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en **mathématiques** et **informatique**.)
  * :Pages sur le web:
 
@@ -51,7 +58,7 @@ Langues parlées
  * :Français: **langue maternelle**;
  * :Anglais: **courant**, écrit et parlé, commun et scientifique. **TOEIC** obtenu en avril 2012, avec la note *900/990*;
  * :Espagnol: **débutant**, écrit et parlé, commun uniquement;
- * :Japonais: **vrai débutant** entre sept. 2013 et mars 2014, hiragana seulement pour l'instant;
+ * :Japonais: **vrai débutant** entre sept. 2013 et mars 2014, hiragana seulement pour l'instant.
 
 Compétences en programmation et développement
 ---------------------------------------------
@@ -77,17 +84,19 @@ Divers
    - passionné de nouvelles technologies et de programmation;
 
  * :Voyage: Nombreux voyages (en `stop notamment <autostop.fr.html>`_) en/au/aux Portugal, Pays-Bas, Grèce, Islande, Inde, Espagne, Allemagne, Suède, Italie, États-Unis, Irlande, Canada, Suisse, Luxembourg.
- * :Expat': Expériences professionnelles internationale au Royaume-Uni (2013) et en Inde (2014-15), recherche et enseignement;
- * :Autres expériences:
+ * :Expat': Expériences professionnelles internationale au Royaume-Uni (2013), en Inde (2014-15), en Suisse (2016), recherche et enseignement;
+ * :Autres expériences et passions:
 
+   - 🍴 Cuisinier amateur, regardez `ce blogue <https://perso.crans.org/besson/cuisine/>`_ 🎂 🍸 🍝 (🇫🇷 📒).
+   - 💚 Écologiste motivé qui essaie de réduire mes production et consommation de 🍃 déchets non-recyclables. Cf. `cet autre blogue <https://perso.crans.org/besson/zero-dechet/>`_ (🇫🇷 📒).
    - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
    - `Joueur passionné <http://exkalibur.lestitous.pagesperso-orange.fr/exkalibur/accueil_contact_lesanimationsactuelles.htm>`_ de *Magic The Gathering*, durant 5 ans (**2004-2009**).
      Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
      Champion départemental pendant 2 ans (dans les *Hautes-Alpes*, 05, France).
 
- * :Loisir: peinture, jeu de rôle, cinéma, programmation, jeux vidéos, littérature de fantasy et poésie;
+ * :Loisir: théâtre, jeux vidéo, cinéma, programmation littérature de fantasy et poésie, cuisine;
  * :Santé: bonne santé (vaccins à-jour, y compris les vaccins exotiques), et je porte des lunettes !
- * :Sports: escalade, trek, VTT, trottinette, natation, `auto-stop <autostop.fr.html>`_, badminton.
+ * :Sports: escalade, trek, VTT, trottinette, natation, `auto-stop <autostop.fr.html>`_, badminton, futsal, course à pied.
 
 .. warning:: Pas autant à jour que la `version PDF <cv.fr.pdf>`_ (même si j'essaie).
 
@@ -113,13 +122,19 @@ Anciens directeurs de stage (2012 et 2013 et 2015)
 - `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ et `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
 
 
-Employeurs en 2014/2015 (et avant)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Employeurs et établissements de références
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- `CentraleSupélec <http://www.centralesupelec.fr>`_ (depuis 2016),
+- `Inria <http://www.inria.fr>`_ (depuis 2016),
+- `ENS Rennes <http://www.ens-rennes.fr>`_ (depuis 2016),
+- `ENSAI <http://www.ensai.fr>`_ (en 2016, 2017),
+- `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ (en 2016, 2017),
+- `EPFL <https://www.epfl.ch/>`_ (en 2016),
 - `École Centrale de Paris <http://www.ecp.fr>`_ (en 2014-2015),
 - `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (en 2014-2015),
-- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasionnel, en 2014),
+- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasionnel, en 2014, site web mort),
 - `Cours Thalès <http://www.cours-thales.fr>`_ (en 2013-14),
-- (Et plus si besoin).
+- `ENS Cachan <http://www.ens-cachan.fr>`_ (en 2011-2016).
 
 ---------------------------------------------------------------------
 
@@ -127,10 +142,10 @@ Formation académique
 --------------------
 Ci dessous se trouve une description précise, année par année, de ce que j'ai étudié depuis mon bac en 2009.
 
-**2015-2016** : seconde seconde année de Master (M2)
-----------------------------------------------------
-- Je prépare le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
-- je suis aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
+**2015-2016** : seconde année de Master (M2)
+--------------------------------------------
+- J'ai suivi et majoré le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_, pour une promotion de 115 élèves), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,
+- J'ai aussi été `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 
 .. note:: Tous les documents produits pour mon master MVA cette année `sont partagés dans ce dossier <publis/mva-2016/>`_.
 
@@ -151,7 +166,7 @@ Ci dessous se trouve une description précise, année par année, de ce que j'ai
 Pour finir mon M2, j'ai fait un stage de recherche
 --------------------------------------------------
 
-J'ai travaillais entre avril et août 2016, au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur les opérateurs de convolution et les opérateurs steerables <https://bitbucket.org/lbesson/internship-mva-2016>`_ !
+J'ai travaillé entre avril et août 2016, au sein de l'équipe `LIB <http://bigwww.epfl.ch/>`_ à `l'EPFL <http://www.epfl.ch/>`_ (à Lausanne, Suisse), notamment `sur les opérateurs de convolution et les opérateurs steerables <https://bitbucket.org/lbesson/internship-mva-2016>`_ !
 
  * :Thème: analyse fonctionnelle théorique, appliquée à des problèmes d'optimisation pour résoudre des problèmes inverses apparaissant notamment en imagerie médicale (*inverse problem*).
  * :Durée: avril 2016 à août 2016 (*stage de recherche en mathématiques appliquées*);
@@ -170,7 +185,7 @@ Professeur à temps plein en `Mathématiques <http://perso.crans.org/besson/ma10
 ---------------------------------------------
 Étudiant au statut de **normalien** (fonctionnaire stagiaire) à l'`ÉNS de Cachan <http://www.ens-cachan.fr>`_, en troisième année.
 Étudiant en **mathématiques** et **informatique**.
-Lauréat du concours de l'agrégation de mathématiques (option informatique).
+Lauréat du concours de l'agrégation de mathématiques (option informatique), classé 23ème (275 admis, 785 admissibles).
 
 
 **2012-2013** : première année de Master (M1)

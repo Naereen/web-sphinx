@@ -435,6 +435,10 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    :maxdepth: 2
    :titlesonly:
 
+   callme.fr
+   cv.fr
+   research.fr
+   teaching.fr
    rss
    cookies.fr
    README

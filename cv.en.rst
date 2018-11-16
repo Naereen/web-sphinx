@@ -6,11 +6,17 @@
  **Résumé** : Lilian Besson
 ############################
 
-This year (*2016-17*)
+.. note::
+
+   I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
+   Welcome to my website.
+
+
+This year (*2018-19*)
 ---------------------
 
-- I started `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL labo, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD will be on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
-- And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+- I am currently in my third and last year for `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL labo, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD will be on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
+- And I am still `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
 .. sidebar:: Other language: in French
@@ -18,8 +24,8 @@ This year (*2016-17*)
    :red:`Cette page est en anglais. Peut-être voulez-vous la voir`
    `en français <cv.fr.html>`_ :red:`?`
 
-   I'm trying to keep those two files absolutly equivalent.
-   A pretty **PDF** version is also available `cv.en.pdf <cv.en.pdf>`_!
+   I'm trying to keep those two files synchronized.
+   A pretty **PDF** version is also available `cv.en.pdf <cv.en.pdf>`_! :red:`The PDF is much more up-to date!`
 
 
 Contact address
@@ -39,8 +45,8 @@ Contact address
 
 Extra information about me
 --------------------------
- * :Date of Birth: *January 12th, 1993*. Age : **25**.
- * :Current Status: PhD student at `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
+ * :Date of Birth: *January 12th, 1993*, born in Briançon (France). Age : **25**.
+ * :Current Status: PhD student at `CentraleSupelec <http://www-scee.rennes.supelec.fr/wp/>`_, in Rennes and at `Inria <https://team.inria.fr/sequel/team-members/>`_ in Lille (France). (I was a "normalien" student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, studying **Mathematics** and **Computer Science**.)
  * :Webpages:
 
     #. `This website <index.html>`_;
@@ -53,11 +59,11 @@ Spoken Languages
  * :French: **native** speaker;
  * :English: **fluent**, speaking and writing, usual and scientific. **TOEIC** got in April 2012, with the mark *900/990*;
  * :Spanish: **beginner**, speaking and writing, usual only;
- * :Japanese: **beginner** from Sept. 2013 to March 2015, hiragana only;
+ * :Japanese: **beginner** from Sept. 2013 to March 2015, hiragana only.
 
 Programming Languages
 ----------------------
- * :Advanced: **Python** (2.7-3.6) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional language*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
+ * :Advanced: **Python** (2.7-3.6) (*object oriented and scripting*), *Texas Instrument*-BASICs (*embedded languages for graphical calculator*), **GNU Bash** (*scripting*), **OCaml** (*functional elanguage*), **LaTeX** & **reStructuredText** (*for slides, web pages and articles*).
  * :Intermediate: **BASIC**, **Matlab** & **GNU/Octave** and **C** (*sequential computation*), **nVidia CUDA** (*parallel computation on GPU*);
  * :Basic: **Maple**, **HTML**, Assembly (*Intel x86, MIPS, TI-83+*), **XML**, **Javascript**;
 
@@ -80,15 +86,19 @@ Miscellaneous
    - passionate about new technologies;
 
  * :International experience: some trips in Portugal, Netherlands, Greece, Iceland, India, Spain, Germany, Sweden, Italy, UK, Ireland, USA, Canada, Switzerland, Luxembourg (since 2004);
+ * :Work away: Professionnal experiences abroad, in the UK (2013), India (2014-15), and Switzerland (2016), for research and teaching;
  * :Other experiences:
 
+   - 🍴 Amateur (French) cook, see `this blog <https://perso.crans.org/besson/cuisine/>`_ 🎂 🍸 🍝 (in French, 🇫🇷 📒).
+   - 💚 Motivated ecologist who tries to produce the least possible amount of 🍃 non-recyclable waste. See `this blog (in French, 🇫🇷 📒) <https://perso.crans.org/besson/zero-dechet/>`_.
    - Theater and clown lessons, during 6 years (**2003-2009**);
    - Passionnate player of *Magic The Gathering*, during 5 years (**2004-2009**).
      Many national tournaments, a few internations competition (Sweden, Spain, Italy).
      Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
- * :Entertainment: painting, role playing games, theater, video games, cinema, programming, fantasy literature and poetry;
- * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking, badminton.
+ * :Entertainment: theater, video games, cinema, programming, fantasy literature and poetry, cooking;
+ * :Health: perfect health (up-to-date vaccines, even exotic ones), and I'm wearing glasses!
+ * :Sports: climbing, trek, mountain bike, kick-scooter, swimming, hitchhiking, badminton, football, footing.
 
 
 .. warning:: Not as up-to-date as the `PDF version <cv.en.pdf>`_!
@@ -113,13 +123,19 @@ Former internship advisors (2012 and 2013 and 2015)
 - `Florian de Vuyst <http://www.ens-cachan.fr/de-vuyst-florian-100567.kjsp>`_ (`CMLA <http://www.cmla.ens-cachan.fr/presentation/>`_ and `ÉNS de Cachan <http://www.ens-cachan.fr/>`_).
 
 
-Employees in 2014/2015 and before
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Employees
+~~~~~~~~~
+- `CentraleSupélec <http://www.centralesupelec.fr>`_ (since 2016),
+- `Inria <http://www.inria.fr>`_ (since 2016),
+- `ENS Rennes <http://www.ens-rennes.fr>`_ (since 2016),
+- `ENSAI <http://www.ensai.fr>`_ (in 2016, 2017),
+- `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ (in 2016, 2017),
+- `EPFL <https://www.epfl.ch/>`_ (in 2016),
 - `École Centrale de Paris <http://www.ecp.fr>`_ (in 2014-2015),
 - `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (in 2014-2015),
-- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasional, in 2014),
+- `Corrections Rue d'Ulm <http://ulm-corrections.fr>`_ (occasional, in 2014, dead website),
 - `Cours Thalès <http://www.cours-thales.fr>`_ (in 2013-14),
-- (And more if needed).
+- `ENS Cachan <http://www.ens-cachan.fr>`_ (in 2011-2016).
 
 ------------------------------------------------------------------------------
 
@@ -127,11 +143,11 @@ Academic Education
 ------------------
 Below there is a precise description of what I studied, year by year, from my Baccalaureat in 2009.
 
-**2015-2016**: second second year Msc (*Master*)
-------------------------------------------------
-- I am studying for the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
+**2015-2016**: second year of Msc (*Master*)
+--------------------------------------------
+- I graduated and ranked 1st (among 115 students) from the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
 
-- I am also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
+- I was also `teaching regularly in Maths. <teaching.en.html>`_ and `in Computer Science <infoMP/>`_ in a prep' school for national competitive exams for French Engineering Schools (*"Grandes Écoles"*), at `"Lycée Lakanal" <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ in Sceaux (near Paris).
 
 .. note:: All the documents written during this year for the MVA Master are `on this public folder <publis/mva-2016/>`_.
 
@@ -166,6 +182,13 @@ I was working in the `BIG/LIB <http://bigwww.epfl.ch/>`_ research team, at `EPFL
 Full time teaching faculty, in `Mathematics <http://perso.crans.org/besson/ma101>`_ (`MA101 <http://perso.crans.org/besson/ma101>`_ course in the first semester August-December 2014, `MA102 <http://perso.crans.org/besson/ma102>`_ course in the second semester January-May 2015) and in `Computer Science <http://perso.crans.org/besson/cs101/>`_ `(cours CS101 during the second semester) <http://perso.crans.org/besson/cs101/index.pdf>`_.
 
 .. note:: `See here for more information <teaching.en.html>`_.
+
+**2014-2015** : Second-year MSc (*Master*)
+---------------------------------------------
+Still normalien student at `ÉNS de Cachan <http://www.ens-cachan.fr>`_, in third year.
+I kept studying both **Mathematics** and **Computer Science**.
+
+I ranked 23rd on the national competitive exam to become a mathematics teacher in Frence ("agrégation"), with a major in Maths and minor in Computer Science.
 
 **2012-2013**: First-year MSc (*Master*)
 ----------------------------------------

@@ -108,6 +108,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
 
    callme.fr
    cv.fr
+   recherche.fr
    enseignement.fr
    agreg-2014/index
    publis.fr

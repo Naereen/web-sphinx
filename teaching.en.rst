@@ -5,6 +5,13 @@
 ########################
  My teaching activities
 ########################
+
+.. note::
+
+    I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
+    Welcome to my website.
+
+
 In 2017/2018 and 2018/2019
 --------------------------
 I will continue to teach, about 64 h / year, for 2017/2018, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).

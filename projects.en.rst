@@ -180,6 +180,7 @@ For more details, see `<sitemap.en.html>`_.
 
    callme.en
    cv.en
+   research.en
    teaching.en
    cookies.en
    README

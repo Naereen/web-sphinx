@@ -106,6 +106,7 @@ For more details, see `<sitemap.en.html>`_.
 
    callme.en
    cv.en
+   research.en
    teaching.en
    Pages in English <projects.en>
    publis.en
