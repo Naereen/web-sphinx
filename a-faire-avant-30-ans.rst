@@ -25,7 +25,7 @@ Professionnellement
 -------------------
 
 - Évidemment, *finir ma thèse*… Et en être content.
-- Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois<http://igmaths.org/spip/spip.php?article8>`_ !)
+- Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois <http://igmaths.org/spip/spip.php?article8>`_ !)
 
 Voyages
 ^^^^^^^
@@ -42,12 +42,12 @@ Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 200, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 300, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
     :target: https://starcharts.herokuapp.com/Naereen/badges
-    :scale:  20%
+    :scale:  15%
 
 
 - 👌 OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
@@ -138,7 +138,7 @@ Famille
 ^^^^^^^
 - *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
 - *Devenir un super tonton*. Ça, je devrais gérer, conditionnellement à l'événement précédent.
-- *Devenir papa* ?? Ça, ça dépend de moi. Mais pas uniquement. Des volontaires 😜 ?!
+- *Devenir papa* ?? Ou pas. Peut-être pas en fait. Peut-être ? Ou pas. (Oui, je ne sais pas)
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
