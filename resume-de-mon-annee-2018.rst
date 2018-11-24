@@ -138,9 +138,11 @@ En 2018, j'ai lu ces livres…
 - *Exercices de style*, de Raymond Queneau, un joli livre "expérimental" (c'est un classique, de 1947, mais je ne connais pas !),
 - *Andromaque*, de Racine,
 - *Intimes*, de Solange, un autre livre "intime"
-- (en cours) *La maison de Bernada Alba*, de Federico García Lorca,
+- *La maison de Bernada Alba*, de Federico García Lorca,
 - Une anthologie de contes d'Andersen (cf. `cette liste <https://fr.wikipedia.org/wiki/Liste_des_contes_d%27Andersen>`) que j'ai lu *leeeentement* au bureau.
 - Plein de BDs, dont `Les Ignorants <http://www.planetebd.com/bd/futuropolis/les-ignorants/-/14394.html>`_ de Richard Leroy et Etienne Davodeau (une perle),
+- (encore une fois) *Le Petit Prince*, d'Antoine de Saint-Exupéry,
+- *Les Onze*, de Pierre Michon,
 - Beaucoup d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…
