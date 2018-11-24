@@ -178,6 +178,7 @@ En 2018, j'ai vu ces films…
 - *Tomb Raider* (2018), un film d'action correct et immersif, et dont le réalisme m'a surpris !
 - *Ready Player One* (2018), j'ai vraiment pas accroché alors qu'il a tous les éléments que j'aurai pu aimer !
 - *Colonia* (2016), j'ai adoré !
+- *120 battements par minute*, coup de cœur !
 - Plein d'autres…
 
 .. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

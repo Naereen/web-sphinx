@@ -127,24 +127,24 @@ En 2017, j'ai vu ces séries…
 
 En 2017, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Zootopia (Disney), ultime !
-- Inside Out (Disney), super !
-- Moana (Disney), j'ai adoré !
-- 5 centimètres par seconde, sublime !
-- Your Name, GÉNIAL GÉNIAL GÉNIAL !
-- Free Love, beau mais triste,
-- Into the Forest, beau mais la fin est nulle,
-- The East, correct mais pas extraordinaire,
-- Tallulah, très beau film à petit budget (et ❤ Ellen Page),
-- Super, qui ironiquement est loin d'être super !
-- Wonder Woman (nul),
-- Valérian et la Cité des Mille Planètes (bof),
-- Before Sunrise, très beau et intense,
-- Dikkenek, stupide et débile, et re stupide derrière,
-- The Imitation Game, sympa mais un peu caricatural,
-- Astérix et le Domaine des Dieux, très drôle !
-- 500 days of Summer, beau mais triste mais joyeux mais re-triste derrière,
-- Ghost in the Shell (2017), au cinéma,
+- *Zootopia* (Disney), ultime !
+- *Inside Out* (Disney), super !
+- *Moana* (Disney), j'ai adoré !
+- *5 centimètres par seconde*, sublime !
+- *Your Name*, GÉNIAL GÉNIAL GÉNIAL !
+- *Free Love*, beau mais triste,
+- *Into the Forest*, beau mais la fin est nulle,
+- *The East*, correct mais pas extraordinaire,
+- *Tallulah*, très beau film à petit budget (et ❤ Ellen Page),
+- *Super*, qui ironiquement est loin d'être super !
+- *Wonder Woman* (nul),
+- *Valérian et la Cité des Mille Planètes* (bof),
+- *Before Sunrise*, très beau et intense,
+- *Dikkenek*, stupide et débile, et re stupide derrière,
+- *The Imitation Game*, sympa mais un peu caricatural,
+- *Astérix et le Domaine des Dieux*, très drôle !
+- *500 days of Summer*, beau mais triste mais joyeux mais re-triste derrière,
+- *Ghost in the Shell* (2017), au cinéma,
 - Beaucoup d'autres… je n'ai pas maintenu la liste au fur et à mesure.
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
