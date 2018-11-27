@@ -123,7 +123,7 @@ The `naereen.github.io <http://naereen.github.io/>`_ website, open-source `on Gi
 
 `notebooks <publis/notebooks>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Common repository for `Jupyter notebooks <https://www.jupyter.org/>`_, open-source `on GitHub <https://github.com/Naereen/notebooks/>`_. Readables on `nbviewer.jupyter.org <http://nbviewer.jupyter.org/github/Naereen/notebooks/>`_.
+Common repository for `Jupyter notebooks <https://www.jupyter.org/>`_, open-source `on GitHub <https://github.com/Naereen/notebooks/>`_. Readables on `nbviewer.jupyter.org <https://nbviewer.jupyter.org/github/Naereen/notebooks/>`_.
 
 :State: *Active* (July 2016), still in development.
 

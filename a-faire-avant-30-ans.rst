@@ -56,7 +56,7 @@ Enseignement
 ^^^^^^^^^^^^
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
-- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <http://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
+- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
 - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (Mais ça aussi c'est un peu idéaliste).
 
 Collaborations

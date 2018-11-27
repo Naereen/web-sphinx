@@ -119,7 +119,7 @@ Le mini-site `naereen.github.io <http://naereen.github.io/>`_, open-source `sur 
 `notebooks <publis/notebooks>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Dépôt git pour des `"notebooks" avec Jupyter <https://www.jupyter.org/>`_, open-source `sur GitHub <https://github.com/Naereen/notebooks/>`_.
-Consultables sur `nbviewer.jupyter.org <http://nbviewer.jupyter.org/github/Naereen/notebooks/>`_.
+Consultables sur `nbviewer.jupyter.org <https://nbviewer.jupyter.org/github/Naereen/notebooks/>`_.
 
 :État: *Actif* (juillet 2016), encore en développement.
 
