@@ -11,6 +11,8 @@ J'ai trié ça par catégories.
 
 .. note:: Quelques artistes, dans cette longue liste, n'ont pas de chaîne YouTube, mais je donne un lien vers leur site personnel.
 
+.. seealso:: `Cet article sur le blogue de Korben <https://korben.info/youtube-autrement.html>`_ (10 déc. 2018) cite une liste de 350 chaînes YouTube francophones, assemblées par le Ministère de la Culture (`la liste en PDF <http://www.culture.gouv.fr/content/download/200193/2128837/version/1/file/350%20chaines%20Youtube.pdf>`_ - lien valable le 10 déc. 2018).
+
 ------------------------------------------------------------------------------
 
 Musique
@@ -24,7 +26,9 @@ Musique
 Créateurs de musique
 ~~~~~~~~~~~~~~~~~~~~
 - `2CELLOS <https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw>`_ (violoncelles & orchestre).
+- `Alice Phoebe Lou <https://www.youtube.com/channel/UCgYqDQHmeM1ZIt7rYVdflVA>`_ (guitare & chant, très belle voix).
 - `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theramin & a cappella).
+- `Danheim <https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ>`_ (métal viking).
 - `Evynne Hollens <https://www.youtube.com/channel/UCNWunYGHZ-zA1NDuW2EWwPA>`_ (a cappella).
 - `Gunhil Carling <https://www.youtube.com/channel/UCgl6hVVGcnpI0JKwRiZQsrQ>`_ (jazz, quotidien).
 - `Hybrid Origins <https://www.youtube.com/channel/UCgQQqWlQMcOUrZjBMoHiNYg>`_ (métal, français).

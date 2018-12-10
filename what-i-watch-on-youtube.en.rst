@@ -24,7 +24,9 @@ Music
 Music creator
 ~~~~~~~~~~~~~
 - `2CELLOS <https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw>`_ (cellos & orchestra).
+- `Alice Phoebe Lou <https://www.youtube.com/channel/UCgYqDQHmeM1ZIt7rYVdflVA>`_ (guitar & voice, very nice voice).
 - `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theramin & a cappella).
+- `Danheim <https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ>`_ (viking metal).
 - `Evynne Hollens <https://www.youtube.com/channel/UCNWunYGHZ-zA1NDuW2EWwPA>`_ (a cappella).
 - `Gunhil Carling <https://www.youtube.com/channel/UCgl6hVVGcnpI0JKwRiZQsrQ>`_ (jazz, daily).
 - `Hybrid Origins <https://www.youtube.com/channel/UCgQQqWlQMcOUrZjBMoHiNYg>`_ (metal, French).
