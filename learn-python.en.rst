@@ -14,7 +14,7 @@ To start learning Python, I recommend…
    A very popular, free and open-source `programming language <https://fr.wikipedia.org/wiki/Programing_language>`_. Python is also multi-platform, simple to learn, write and read.
 
 
-#. The `Anaconda <http://continuum.io/downloads>`_ installer, which basically allow you to install "everything" need to work with Python, in one click (you just have to download one big file, almost 400 Mo, and it's free), on Windows, Linux or Mac OS. `Canopy (by Enthougt) <https://www.enthought.com/products/canopy/>`_ is another excellent one-click installer, see this video:
+#. The `Anaconda <https://www.anaconda.com/download/>`_ installer, which basically allow you to install "everything" need to work with Python, in one click (you just have to download one big file, almost 400 Mo, and it's free), on Windows, Linux or Mac OS. `Canopy (by Enthougt) <https://www.enthought.com/products/canopy/>`_ is another excellent one-click installer, see this video:
 
     .. raw:: html
 
@@ -27,7 +27,9 @@ To start learning Python, I recommend…
 
 #. Other good editors include `Visual Studio Code <visualstudiocode.en.html>`_ (my new favorite!), `Sublime Text <sublimetext.en.html>`_, `GNU Emacs <https://www.gnu.org/software/emacs/>`_ or `vi/vim/gvim/neovim etc <https://www.vim.org/>`_. Each have excellent support for Python (with all the features you could dream of), after installing a certain package or group of packages (or plugin or extensions, they have different names but the same meaning).
 
-.. sidebar:: There exists dozen of good Python editors. A recent one is especially good for beginners is `Thonny <https://thonny.org/>`_ (as presented `in this article <https://realpython.com/python-thonny/>`_).
+.. seealso::
+
+    There exists dozen of good Python editors. A recent one is especially good for beginners is `Thonny <https://thonny.org/>`_ (as presented `in this article <https://realpython.com/python-thonny/>`_).
 
 #. In order to learn Python, `the fundamentals are well taught here <http://introtopython.org/var_string_num.html>`_ (and in the next pages). Do not worry, if you already have some programming experience, the syntax and concepts in Python are quite similar to other languages, you will learn easily.
 

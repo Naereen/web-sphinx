@@ -21,7 +21,7 @@ Pour se lancer et apprendre Python, je recommande…
    Leur page `pour installer Python <https://python-prepa.github.io/preparation.html>`_ est très bien rédigée.
 
 
-#. L'installeur `Anaconda <http://continuum.io/downloads>`_, qui permet de "tout" installer en un seul clic (un seul gros fichier de presque 400 Mo, gratuit), sur Windows, Linux ou Mac OS. `Canopy (par Enthougt) <https://www.enthought.com/products/canopy/>`_ est une excellente alternative pour installer Python en un clic, comme décrit par cette vidéo :
+#. L'installeur `Anaconda <https://www.anaconda.com/download/>`_, qui permet de "tout" installer en un seul clic (un seul gros fichier de presque 400 Mo, gratuit), sur Windows, Linux ou Mac OS. `Canopy (par Enthougt) <https://www.enthought.com/products/canopy/>`_ est une excellente alternative pour installer Python en un clic, comme décrit par cette vidéo :
 
     .. raw:: html
 
@@ -34,7 +34,10 @@ Pour se lancer et apprendre Python, je recommande…
 
 #. D'autres éditeurs excellents pour Python sont `Visual Studio Code <visualstudiocode.en.html>`_ (mon nouveau favori !), `Sublime Text <sublimetext.en.html>`_, `GNU Emacs <https://www.gnu.org/software/emacs/>`_ ou `vi/vim/gvim/neovim etc <https://www.vim.org/>`_. Ils proposent tous une excellente intégration avec Python (avec toutes les fonctionnalités dont vous pourriez rêver), après avoir installé un certain greffon ou un groupe de greffon (ou plugin, ou package ou extension, ils ont des noms différents selon les éditeurs mais le même concept).
 
-.. sidebar:: Il y a des douzaines d'éditeurs solides pour Python. Un éditeur récent et très approprié pour les débutants est `Thonny <https://thonny.org/>`_ (présenté dans `cet article <https://realpython.com/python-thonny/>`_).
+.. seealso::
+
+    Il y a des douzaines d'éditeurs solides pour Python. Un éditeur récent et très approprié pour les débutants est `Thonny <https://thonny.org/>`_ (présenté dans `cet article <https://realpython.com/python-thonny/>`_).
+
 
 #. Pour apprendre Python, `les bases sont bien abordées ici (en anglais) <http://introtopython.org/var_string_num.html>`_ (et dans les pages suivantes). Sachant que la plupart des éléments de syntaxes et des concepts sont très faciles d'approche, en particulier si vous avez déjà une expérience de programmation.
 
