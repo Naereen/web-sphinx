@@ -57,4 +57,4 @@ Copyrights
  **ACE** est © et ® d'AjaxOrg. Voir la page officielle du projet,
  `ajaxorg.github.io/ace <http://ajaxorg.github.io/ace/#about>`_.
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

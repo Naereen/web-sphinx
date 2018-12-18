@@ -138,4 +138,4 @@ A quick look-up on these PGP key server gives:
  * `0x01aacdb9c108f8a0 on pgp.mit.edu <https://pgp.mit.edu/pks/lookup?search=0x01AACDB9C108F8A0&op=index>`_.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

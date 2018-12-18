@@ -57,4 +57,4 @@ to bring such bombs as close to the USSR : the Chariot project was abandoned in 
    .. [#convert] See `this kms to miles conversion tool <http://www.checkyourmath.com/convert/length/miles_km.php>`_.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

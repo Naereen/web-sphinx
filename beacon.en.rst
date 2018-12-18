@@ -235,4 +235,4 @@ on your site with the (example) key being "``UA-38514290-14``" (in my case, the 
    Of course, if you want to use this small trick, do not forget to change ``UA-38514290`` to **your key**.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

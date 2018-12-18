@@ -42,4 +42,4 @@ Contenu du dossier
          Et ça rend trop bien !
 
 
-.. (c) Lilian Besson, 2011-2013, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

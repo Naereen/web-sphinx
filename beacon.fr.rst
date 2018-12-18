@@ -221,4 +221,4 @@ sur le site correspond à la clé "``UA-38514290-14``", soit `<http://lbesson.bi
    Tous les visiteurs traqués avec cette technique génèreront en effet des visites émises par me serveur (donc, même localisation, même *User-Agent* etc).
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

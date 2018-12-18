@@ -213,4 +213,4 @@ And then, you can display a **TODO list** with the directive
 ``.. totolist::``, like I do in the `<todo.html>`_ page.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

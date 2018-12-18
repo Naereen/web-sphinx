@@ -355,4 +355,4 @@ Crédit additionnel
    :target: https://packagecontrol.io/packages/SwitchDictionary
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

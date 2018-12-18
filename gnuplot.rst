@@ -215,4 +215,4 @@ Emscripten
  voir `github.com/kripken/emscripten <https://github.com/kripken/emscripten>`_
  pour plus de détails.
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

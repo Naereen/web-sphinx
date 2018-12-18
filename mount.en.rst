@@ -75,4 +75,4 @@ Finally check that the disk has been well mounted with: ::
    This page is mainly here because I fail to remember these stupid commands…
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

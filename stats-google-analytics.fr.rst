@@ -89,4 +89,4 @@ D'autres sites ?
 - Un petit module Python écrit en 2013, `ANSIColors <https://pypi.org/project/ANSIColors-balises>`_, `son code <https://bitbucket.org/lbesson/ansi-colors/>`_ et `sa documentation (lien mort) <https://pythonhosted.org/ANSIColors-balises/>`_, ont eu environ 1100 visites depuis leur mise en ligne (février 2013) -- c'est ridicule mais tant pis ! Je l'ai mis à jour pour supporter Python 2 et 3 en juin 2016 : `ansicolortags <https://pypi.org/project/ansicolortags>`_ : `son code (ansicolortags) <https://bitbucket.org/lbesson/ansicolortags.py/>`_ et `sa documentation (ansicolortags) <http://ansicolortags.readthedocs.io/>`_ !
 - Mon GitHub `<https://github.com/naereen>`_ et cette page (`<http://naereen.github.io/>`_) ont eu environ 400 visites (depuis septembre 2015).
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

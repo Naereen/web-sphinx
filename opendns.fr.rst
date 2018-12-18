@@ -174,4 +174,4 @@ Les barbus sur Linux peuvent aussi utiliser un fichier `resolv.conf (doc en angl
 D'autres explications sont `là sur theos.in (en anglais) <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ ou `sur die.net (en anglais) <http://linux.die.net/man/5/resolv.conf>`_, ou enfin `sur Wikipédia (encore, toujours, mais en anglais) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

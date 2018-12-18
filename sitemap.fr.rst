@@ -22,4 +22,4 @@ La sitemap complète est disponible `ici dans un fichier XML <sitemap.xml>`_, ou
    404
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

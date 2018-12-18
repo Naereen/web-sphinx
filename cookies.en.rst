@@ -66,4 +66,4 @@ About (in French)
 :Ref 1: `<http://www.20minutes.fr/web/1302834-20140219-navigateur-pourquoi-sites-francais-affichent-avertissement-cookies>`_ (in French).
 :Ref 2: `<https://korben.info/respecter-loi-cookies-site.html>`_ (in French).
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

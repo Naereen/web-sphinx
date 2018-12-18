@@ -189,4 +189,4 @@ Old version
 ^^^^^^^^^^^
   `The first version of that page <https://wiki.crans.org/VieCrans/ApplicationsAndroid>`_ was in French, on the `Wiki <https://wiki.crans.org/>`_ of the `CRANS <https://crans.org/>`_ association.
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

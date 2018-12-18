@@ -176,4 +176,4 @@ Gérer ses mots de passe
 
 :Source: http://bugbrother.blog.lemonde.fr/comment-proteger-ses-sources/
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

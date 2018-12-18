@@ -106,4 +106,4 @@ Remerciements
  * Merci aux auteurs d'**OCaml** (voir `<http://OCaml.org/>`_).
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

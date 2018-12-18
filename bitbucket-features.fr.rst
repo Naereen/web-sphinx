@@ -92,4 +92,4 @@ Un fichier rST (celui de cette page !)
    <noscript>Pas de JavaScript pour inclure le fichier <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/bitbucket-features.fr.rst">bitbucket-features.fr.rst</a>.</noscript>
 
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/

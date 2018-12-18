@@ -196,4 +196,4 @@ by :red:`manually` forcing ``pkg_resources = None``
 (`at line 41 <https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/plugin.py#plugin.py-41>`_).
 :red:`It's durty`, but it fixes my bug…
 
-.. (c) Lilian Besson, 2011-2017, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
