@@ -53,4 +53,4 @@ To learn, or refresh your memory about \\(\\LaTeX{}\\), the Wikibook `en.WikiBoo
    - `this example (#5) of StrapDown.js <http://lbesson.bitbucket.io/md/example5.html>`_.
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

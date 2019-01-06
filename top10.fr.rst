@@ -199,4 +199,4 @@ Mes 10 **écrivains** préférés
 - `Timothy Zahn <https://fr.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20ème, surtout connu pour sa `trilogie Star Wars (« La Croisade noire du Jedi fou ») <https://fr.wikipedia.org/wiki/La_Croisade_noire_du_Jedi_fou>`_),
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

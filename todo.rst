@@ -44,4 +44,4 @@ sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
    Ils ont tous les deux ACE d'activés, de jolis bouton etc.
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

@@ -40,4 +40,4 @@ En attendant, saviez-vous que j'ai déjà ajouté deux interpréteurs sur ce sit
 .. seealso:: `Interpreteur web pour OCaml (v3.12) <ocaml.fr.html>`_, sur *ce* site web.
 .. seealso:: `Interpreteur web pour GNU Plot (v4.6.6) <gnuplot.html>`_, sur *ce* site web.
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

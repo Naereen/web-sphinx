@@ -155,4 +155,4 @@ Avant 2009 (lycée et avant)
 ---------------------------
   J'avais l'habitude d'aider mes camarades en mathématiques, chimie, SVT (biologie et géologie), physique… mais aussi en *théâtre* !
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

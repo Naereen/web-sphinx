@@ -94,4 +94,4 @@ Les miens
 
 * (utilisé pour les dossiers) `SquirtFR <_static/squirt/>`_ un *signapplet* pour lire rapidement une page web.
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

@@ -163,4 +163,4 @@ et vient du projet Empythoned (voir cette page
 pour plus de détails.
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

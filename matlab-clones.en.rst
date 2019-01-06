@@ -72,4 +72,4 @@ Online interpreters? (on this website)
 .. seealso:: `Python (v2.7) on-line interpreter <skulpt.html>`_, on *my* website, and even `another one for Python <python.html>`_.
 .. seealso:: `OCaml (v3.12) on-line interpreter <ocaml.fr.html>`_, on *my* website.
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

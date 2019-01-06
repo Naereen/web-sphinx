@@ -97,4 +97,4 @@ BSc internship (2012)
 
 * :Published: On my web page, the `bachelor thesis, in French <publis/rapportL3Maths12.pdf>`_.
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

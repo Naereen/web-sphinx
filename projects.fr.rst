@@ -499,4 +499,4 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    admin
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

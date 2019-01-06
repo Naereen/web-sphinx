@@ -100,4 +100,4 @@ Stage de recherche de L3 (2012)
 
 * :Publication: Sur ma page personnelle, le `rapport de stage <publis/rapportL3Maths12.pdf>`_.
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

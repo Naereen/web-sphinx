@@ -165,4 +165,4 @@ Naturellement, je connais et je suis fan du concept de `Couch Surfing <http://ww
 - `j'ai un profil sur CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
 - et j'y propose même `mon canapé <https://www.couchsurfing.com/people/lilian-besson/couch>`_ !
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

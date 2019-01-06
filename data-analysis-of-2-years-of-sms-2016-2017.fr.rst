@@ -83,4 +83,4 @@ Messages dans la semaine ou le weekend
     Proportionnellement, j'envoie plus de textos en 2 jours de week-end que 5 jours de la semaine.
 
 
-.. (c) Lilian Besson, 2011-2018, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
