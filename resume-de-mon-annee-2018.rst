@@ -139,6 +139,10 @@ En 2018, j'ai lu ces livres…
 - Plein de BDs, dont `Les Ignorants <http://www.planetebd.com/bd/futuropolis/les-ignorants/-/14394.html>`_ de Richard Leroy et Etienne Davodeau (une perle),
 - (encore une fois) *Le Petit Prince*, d'Antoine de Saint-Exupéry,
 - *Les Onze*, de Pierre Michon,
+- *Les Années*, d'Annie Ernaux, un livre formidable et incomparable, mon gros coup de cœur !
+- *Une femme gelée*, d'Annie Ernaux, très bonne lecture aussi, qui me donne envie de lire davantage de ses livres !
+- *Regarde les lumières mon amour*, d'Annie Ernaux (j'adore),
+- *Star Wars - L'Académie Jedi*, de Kevin J. Anderson (trilogie), bof mais intéressante,
 - Beaucoup d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…
@@ -175,6 +179,9 @@ En 2018, j'ai vu ces films…
 - *Ready Player One* (2018), j'ai vraiment pas accroché alors qu'il a tous les éléments que j'aurai pu aimer !
 - *Colonia* (2016), j'ai adoré !
 - *120 battements par minute*, coup de cœur !
+- *Le compte de la Princesse Kaguya*, un très beau film d'animation du studio Ghibli !
+- *Miraï, ma petite sœur*, au cinéma, j'ai *adoré*,
+- *Astérix, et le secret de la potion magique*, au cinéma,
 - Plein d'autres…
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
