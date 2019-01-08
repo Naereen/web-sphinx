@@ -77,16 +77,12 @@ Novembre 2018
 -------------
 - Une chouette (petite) semaine de vacances, entre le sud et Paris !
 - J'ai `envoyé ma candidature à des postes de professeur en classes préparatoires (CPGE) <http://igmaths.org/spip/spip.php?article8>`_ !
-
-.. warning:: La suite est… dans le futur !
-
-
-- TODO
+- Je me suis remis à lire beaucoup, grâce aux suggestions et aux près avisés d'une amie, et c'était très agréable !
 
 Décembre 2018
 -------------
-- TODO
-
+- Un petit week-end entre amis à Paris, avec notamment une magnifique représentation `du spectacle "Trintignant Mille Piazzolla" <https://www.youtube.com/results?search_query=+TRINTIGNANT+MILLE+PIAZZOLLA+>`_ au Théâtre de la Porte Saint-Martin (merci Pierre) !
+- 10 jours de vacances géniales chez mes parents à Briançon, pour les fêtes de Noël et du Nouvel An !
 
 .. note:: C'est tout pour 2018, à dans un an pour `la suite <resume-de-mon-annee-2019.html>`_ !
 
@@ -98,7 +94,7 @@ Résumé culturel
   Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2018, j'ai voyagé là…
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 - En Espagne en avril 2018 pour des vacances et deux conférences (Barcelone et Lanzarote, aux Canaries),
 - Aux Pays-Bas en mai 2018 pour `un atelier international <www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/>`_,
 - En Écosse en juillet 2018 en *"road trip"* avec des amis.
@@ -113,7 +109,7 @@ En 2018, j'ai joué à ces jeux vidéo…
 - *The Legend of Zelda: Twilight Princess* sur **Wii** (très bien).
 
 En 2018, j'ai vu ces séries…
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saisons 1, 2 et 3 de *Star Wars: Rebels* (extraordinaire),
 - Saison 11 de *The Big Bang Theory* (toujours aussi drôle je trouve),
 - Saison 1 de *Young Sheldon* (correct mais pas ultime non plus),
@@ -121,7 +117,7 @@ En 2018, j'ai vu ces séries…
 - Saison 1 de *American Gods* (correct mais trop lent).
 
 En 2018, j'ai lu ces livres…
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Actuel Moyen-Âge <http://www.arkhe-editions.com/portfolio/actuel-moyen-age/>`_, un livre d'histoire écrit par mon frère et ses collaborateurs,
 - *Harry Potter*, tôme 5, en français et en anglais,
 - *Zelda History*, un livre d'histoire sur les jeux *La Légende de Zelda*,

@@ -24,7 +24,7 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- Évidemment, *finir ma thèse*… Et en être content.
+- Évidemment, *finir* `ma thèse <https://perso.crans.org/besson/phd/>`_… Et en être content.
 - Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois <http://igmaths.org/spip/spip.php?article8>`_ !)
 
 Voyages

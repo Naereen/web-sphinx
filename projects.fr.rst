@@ -482,6 +482,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    resume-de-mon-annee-2017
    data-analysis-of-2-years-of-sms-2016-2017.fr
    resume-de-mon-annee-2018
+   resume-de-mon-annee-2019
    freedns
    dyndns
    time
