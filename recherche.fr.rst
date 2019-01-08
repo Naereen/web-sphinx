@@ -63,9 +63,9 @@ Pour le premier trimestre (automne 2015) :
 
 Pour le second trimestre (printemps 2016) :
 
-- `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`,
-- `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`,
-- `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`,
+- `Kernel Methods for Machine Learning : « Recognizing hand-written digits with a SVM classifier » <http://lbesson.bitbucket.io/kernel2016>`_,
+- `Brain Imaging : « Decoding of fMRI images with the SpaceNet classifier » <http://lbesson.bitbucket.io/brain2016>`_,
+- `Modelisation in Neuro-Sciences : « Self-Organizing Maps and Dynamical SOM » <http://lbesson.bitbucket.io/neuro2016>`_,
 
 Stage de recherche de M2 (2016)
 -------------------------------
