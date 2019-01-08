@@ -114,14 +114,14 @@ En 2017, j'ai joué à ces jeux…
 En 2017, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Gagner la Guerre* de Jean-Philippe Jaworski (excellent roman d'aventure fantastique),
-- *La Vérité sur l'Affaire Harry Quebert* de Joël Dicker (bof),
+- *La Vérité sur l'Affaire Harry Quebert* de Joël Dicker (bof, je n'ai pas terminé),
 - *Harry Potter*, tômes 1 à 4, en français et en anglais,
-- `Le Cercle, de Dave Eggers <https://www.babelio.com/livres/Eggers-Le-Cercle/837945>`_,
-- Beaucoup d'autres…
+- `Le Cercle, de Dave Eggers <https://www.babelio.com/livres/Eggers-Le-Cercle/837945>`_ (bof, pas eu le courage de terminer),
+- Et d'autres que j'ai oublié de noter…
 
 En 2017, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 1 de *True Detective* (j'aime pas),
+- Saison 1 de *True Detective* (j'aime pas, mais alors vraiment pas),
 - Saison 10 et 11 de *The Big Bang Theory*. Ça s'essouffle mais ça reste drôle !
 - Saison 2 de *Stranger Things*.
 

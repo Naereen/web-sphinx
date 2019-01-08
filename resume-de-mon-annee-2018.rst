@@ -75,14 +75,15 @@ Octobre 2018
 
 Novembre 2018
 -------------
-- Une chouette (petite) semaine de vacances, entre le sud et Paris !
-- J'ai `envoyé ma candidature à des postes de professeur en classes préparatoires (CPGE) <http://igmaths.org/spip/spip.php?article8>`_ !
-- Je me suis remis à lire beaucoup, grâce aux suggestions et aux près avisés d'une amie, et c'était très agréable !
+- Une chouette (petite) semaine de vacances, entre le sud et Paris ! Et j'en ai profité pour doner `un séminaire au laboratoire de mathématiques appliquées de l'École Polytechnique (CMAP) <https://perso.crans.org/besson/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_.
+- (pour la première fois) j'ai `envoyé ma candidature à des postes de professeur en classes préparatoires (CPGE) <http://igmaths.org/spip/spip.php?article8>`_ !
+- Je me suis remis à lire plus régulièrement, et des livres plus variés, grâce aux suggestions et aux près avisés d'une amie, et c'était très agréable !
 
 Décembre 2018
 -------------
-- Un petit week-end entre amis à Paris, avec notamment une magnifique représentation `du spectacle "Trintignant Mille Piazzolla" <https://www.youtube.com/results?search_query=+TRINTIGNANT+MILLE+PIAZZOLLA+>`_ au Théâtre de la Porte Saint-Martin (merci Pierre) !
-- 10 jours de vacances géniales chez mes parents à Briançon, pour les fêtes de Noël et du Nouvel An !
+- Un petit week-end entre amis à Paris, avec notamment une magnifique représentation `du spectacle "Trintignant Mille Piazzolla" <https://www.youtube.com/results?search_query=+TRINTIGNANT+MILLE+PIAZZOLLA+>`_ au Théâtre de la Porte Saint-Martin !
+- Après plusieurs mois sans jouer à aucun jeu vidéo, j'ai pris beaucoup de plaisir à commencer et bien avancer un jeu de la série des Fire Emblem (`Fire Emblem : New Mystery of The Emblem <http://www.heroesofshadow.net/p/readme.html>`_), sur Nintendo DS, dans une traduction en anglais faite par des fans.
+- J'ai eu la chance de prendre deux semaines de vacances géniales, chez mes parents à Briançon, pour les fêtes de Noël et du Nouvel An !
 
 .. note:: C'est tout pour 2018, à dans un an pour `la suite <resume-de-mon-annee-2019.html>`_ !
 
@@ -143,7 +144,7 @@ En 2018, j'ai lu ces livres…
 - *Une femme gelée*, d'Annie Ernaux, très bonne lecture aussi, qui me donne envie de lire davantage de ses livres !
 - *Regarde les lumières mon amour*, d'Annie Ernaux (j'adore),
 - *Star Wars - L'Académie Jedi*, de Kevin J. Anderson (trilogie), bof mais intéressante,
-- Beaucoup d'autres que j'ai oublié de noter…
+- Et d'autres que j'ai oublié de noter…
 
 En 2018, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -175,6 +176,8 @@ En 2018, j'ai vu ces films…
 - *Sisters Brothers* au cinéma, j'ai bien aimé !
 - *A Star Wars Story: Solo*, correct mais pas à la hauteur de ce que j'espérais,
 - *Grease* (comédie musicale culte),
+- *Girl* (2018), très beau et que j'ai beaucoup apprécié !
+- *Les Nuits Fauves* (1992), un film culte et à la hauteur de sa légende !
 - *Tomb Raider* (2018), un film d'action correct et immersif, et dont le réalisme m'a surpris !
 - *Ready Player One* (2018), j'ai vraiment pas accroché alors qu'il a tous les éléments que j'aurai pu aimer !
 - *Colonia* (2016), j'ai adoré !
@@ -182,6 +185,6 @@ En 2018, j'ai vu ces films…
 - *Le compte de la Princesse Kaguya*, un très beau film d'animation du studio Ghibli !
 - *Miraï, ma petite sœur*, au cinéma, j'ai *adoré*,
 - *Astérix, et le secret de la potion magique*, au cinéma,
-- Plein d'autres…
+- Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
