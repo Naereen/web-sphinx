@@ -125,7 +125,7 @@ En 2018, j'ai lu ces livres…
 - `Kaamelott, un livre d'histoire <http://www.editions-vendemiaire.com/catalogue/a-paraitre/kaamelott-un-livre-d-histoire-florian-besson-et-justine-breton-dir/>`_ un livre d'histoire écrit par mon frère et ses collaborateurs (encore !),
 - `Le Chat de Schrödinger, de Philippe Forest <https://www.babelio.com/livres/Forest-Le-chat-de-Schrdinger/446072>`_ (un cadeau, qui m'a bien plu),
 - (de nouveau) *Les Fleurs du Mal*, de Charles Baudelaire (un classique toujours agréable),
-- (en cours) La trilogie Star Wars, "L'Académie Jedi", de Kevin J. Anderson. Histoire sympa, mais écriture (ou traduction) bof bof…
+- (terminé en 2019) La trilogie Star Wars, "L'Académie Jedi", de Kevin J. Anderson. Histoire sympa, mais écriture (ou traduction) bof bof…
 - (en cours) Une anthologie de poèmes de Victor Hugo (un autre classique, que j'ai adoré redécouvrir),
 - (en cours) Une anthologie en anglais de poèmes de John Keats (coup de cœur !),
 - *Le Cid*, de Pierre Corneille (un classique mais j'adore les relire),
@@ -133,9 +133,9 @@ En 2018, j'ai lu ces livres…
 - *King Kong Theory*, de Virginie Despentes, un beau livre féministe qui m'a bien plu,
 - *Exercices de style*, de Raymond Queneau, un joli livre "expérimental" (c'est un classique, de 1947, mais je ne connais pas !),
 - *Andromaque*, de Racine,
-- *Intimes*, de Solange, un autre livre "intime"
+- *Intimes*, de Solange, un autre livre "intime",
 - *La maison de Bernada Alba*, de Federico García Lorca,
-- Une anthologie de contes d'Andersen (cf. `cette liste <https://fr.wikipedia.org/wiki/Liste_des_contes_d%27Andersen>`) que j'ai lu *leeeentement* au bureau.
+- Une anthologie de contes d'Andersen (cf. `cette liste <https://fr.wikipedia.org/wiki/Liste_des_contes_d%27Andersen>`_) que j'ai (un peu) lu *leeeentement* au bureau.
 - Plein de BDs, dont `Les Ignorants <http://www.planetebd.com/bd/futuropolis/les-ignorants/-/14394.html>`_ de Richard Leroy et Etienne Davodeau (une perle),
 - (encore une fois) *Le Petit Prince*, d'Antoine de Saint-Exupéry,
 - *Les Onze*, de Pierre Michon,
