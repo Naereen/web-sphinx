@@ -64,7 +64,7 @@ Décembre 2019
 - TODO
 
 
-.. note:: C'est tout pour 2019, à dans un an pour `la suite <resume-de-mon-annee-2019.html>`_ !
+.. note:: C'est tout pour 2019, à dans un an pour `la suite <resume-de-mon-annee-2020.html>`_ !
 
 ------------------------------------------------------------------------------
 
@@ -82,19 +82,21 @@ En 2019, j'ai voyagé là…
 En 2019, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Fire Emblem : New Mystery of The Emblem <http://www.heroesofshadow.net/p/readme.html>`_, sur Nintendo DS, dans une traduction en anglais faite par des fans.
+- TODO
 
 En 2019, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
+- TODO
 
 En 2019, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Beaucoup d'autres que j'ai oublié de noter…
+- Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - TODO
-- Plein d'autres…
+- Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
