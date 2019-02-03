@@ -24,27 +24,29 @@ Liste de publications
 
 `Travaux publiés <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__ :
 
-- `Multi-Player Bandits Revisited <https://hal.inria.fr/hal-01629733/document>`__, par **L. Besson** & `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. `ALT <http://www.cs.cornell.edu/conferences/alt2018/accepted.html>`__ (*Algorithmic Learning Theory*), Lanzarote, Espagne, avril 2018, `HAL-01629733 <https://hal.inria.fr/hal-01629733>`__.
+- `GNU Radio Implementation of MALIN: "Multi-Arm bandits Learning for Internet-of-things Networks" <https://perso.crans.org/besson/articles/BBM__IEEE_WCNC_2019.pdf>`__, par **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__ et `C. Moy <https://moychris.wordpress.com/>`__. `IEEE WCNC <http://wcnc2019.ieee-wcnc.org/>`__ (*Wireless Communication and Networks Conference*), Marrakech, Maroc, avril 2018.
 
-- `Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access <https://hal.inria.fr/hal-01705292/document>`__, par **L. Besson**, `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__ & `C. Moy <https://moychris.wordpress.com/>`__. `IEEE WCNC <http://wcnc2018.ieee-wcnc.org/>`__, Barcelone, Espagne, avril 2018, `HAL-01705292 <https://hal.inria.fr/hal-01705292>`__.
+- `MALIN: "Multi-Arm bandit Learning for Iot Networks" with GRC: A TestBed Implementation and Demonstration that Learning Helps <https://perso.crans.org/besson/articles/BBM__Demo_ICT_2018.pdf>`__, par **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__ et `C. Moy <https://moychris.wordpress.com/>`__. Démonstration présentée à ICT (*International Conference on Communication*), Saint-Malo, France, juin 2018. Cf. `YouTu.be/HospLNQhcMk <https://YouTu.be/HospLNQhcMk>`__.
 
-- `Multi-Armed Bandit Learning in IoT Networks and non-stationary settings <https://hal.inria.fr/hal-01575419/document>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, `C. Moy <https://moychris.wordpress.com/>`__, `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__ & J. Palicot. `CrownCom <http://crowncom.org/2017/>`__ (*Conference on Cognitive Radio Oriented Wireless Networks*), Lisbonne, Portugal, septembre 2017, `HAL-01575419 <https://hal.inria.fr/hal-01575419>`__, **prix du meilleur article**.
+- `Multi-Player Bandits Revisited <https://hal.inria.fr/hal-01629733/document>`__, par **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. `ALT <http://www.cs.cornell.edu/conferences/alt2018/accepted.html>`__ (*Algorithmic Learning Theory*), Lanzarote, Espagne, avril 2018, `HAL-01629733 <https://hal.inria.fr/hal-01629733>`__.
 
-`Travaux
-soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
+- `Aggregation of Multi-Armed Bandits learning algorithms for Opportunistic Spectrum Access <https://hal.inria.fr/hal-01705292/document>`__, par **L. Besson**, `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__ et `C. Moy <https://moychris.wordpress.com/>`__. `IEEE WCNC <http://wcnc2018.ieee-wcnc.org/>`__, Barcelone, Espagne, avril 2018, `HAL-01705292 <https://hal.inria.fr/hal-01705292>`__.
+
+- `Multi-Armed Bandit Learning in IoT Networks and non-stationary settings <https://hal.inria.fr/hal-01575419/document>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, `C. Moy <https://moychris.wordpress.com/>`__, `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__ et J. Palicot. `CrownCom <http://crowncom.org/2017/>`__ (*Conference on Cognitive Radio Oriented Wireless Networks*), Lisbonne, Portugal, septembre 2017, `HAL-01575419 <https://hal.inria.fr/hal-01575419>`__, **prix du meilleur article**.
+
+
+`Travaux soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
 ou en cours de réécriture pour une nouvelle soumission :
 
-- `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBBM__IEEE_WCNC__2019.pdf>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, J. Manco-Vasquez, **L. Besson**, `F. Bader <https://cfaouzi-bader.com/>`__, `C. Moy <https://moychris.wordpress.com/>`__. Article soumis à WCNC (*Wireless Communication and Networks Conference*), Marrakech, Maroc, septembre 2018.
+- `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://perso.crans.org/besson/articles/BK__COLT_2019.pdf>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Article soumis à `COLT 2019 <http://www.learningtheory.org/colt2019/>`__, février 2019. Lisez `cette page à propos du code des simulations et plus de détails <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__.
 
-- `GNU Radio Implementation of MALIN: "Multi-Arm bandits Learning for Internet-of-things Networks" <https://perso.crans.org/besson/articles/BBM__IEEE_WCNC_2019.pdf>`__, par **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, `C. Moy <https://moychris.wordpress.com/>`__. Article soumis à WCNC, Marrakech, Maroc, septembre 2018.
+- `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBBM__IEEE_WCNC__2019.pdf>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, J. Manco-Vasquez et `C. Moy <https://moychris.wordpress.com/>`__. Article soumis au `1er workshop MOTIoN <https://sites.google.com/view/wcncworkshop-motion2019/>`_ à WCNC (*Wireless Communication and Networks Conference*), Marrakech, Maroc, janvier 2018.
 
-- `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, par **L. Besson**, développement depuis octobre :math:`2016` et encore actif, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code sur `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (environ 40000 lignes), documentation sur `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
+- `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, par **L. Besson**, développement depuis octobre 2016 et encore actif, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code sur `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (environ 40000 lignes), documentation sur `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
 
-- `What Doubling-Trick Can and Can’t Do for Multi-Armed Bandits <https://hal.inria.fr/hal-01736357/document>`__, par **L. Besson** & `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, septembre 2018, `HAL-01736357 <https://hal.inria.fr/hal-01736357>`__.
+- `What Doubling-Trick Can and Can’t Do for Multi-Armed Bandits <https://hal.inria.fr/hal-01736357/document>`__, par **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, septembre 2018, `HAL-01736357 <https://hal.inria.fr/hal-01736357>`__.
 
-- `MALIN: "Multi-Arm bandit Learning for Iot Networks" with GRC: A TestBed Implementation and Demonstration that Learning Helps <https://perso.crans.org/besson/articles/BBM__Demo_ICT_2018.pdf>`__, par **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, `C. Moy <https://moychris.wordpress.com/>`__. Démonstration présentée à ICT (*International Conference on Communication*), Saint-Malo, France, juin 2018. Cf. ``YouTu.be/HospLNQhcMk``
-
-- `A Note on the Ei Function and a Useful Sum-Inequality <https://hal.inria.fr/hal-01847480/document>`__, par **L. Besson**, février 2018 `HAL-01847480 <https://hal.inria.fr/hal-01847480>`__.
+- `A Note on the Ei Function and a Useful Sum-Inequality <https://hal.inria.fr/hal-01847480/document>`__, par **L. Besson**, février 2018, `HAL-01847480 <https://hal.inria.fr/hal-01847480>`__.
 
 
 -----------------------------------------------------------------------------
