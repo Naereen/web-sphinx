@@ -15,16 +15,19 @@ Janvier 2019
 ------------
 - Un réveillon du nouvel an très très sympathique, entre amis, à Briançon. De très beaux souvenirs !
 - Ce n'est pas forcément joyeux, ou en tout cas pas facile, mais j'ai commencé à rédiger ma thèse !
+- Rédaction de mon dernier article de recherche en mathématiques (cf. `HAL.Inria.fr/hal-02006471 <https://hal.inria.fr/hal-02006471>`_), et deux articles acceptés pour la `conférence IEEE WCNC 2019 <https://wcnc2019.ieee-wcnc.org/>`_ (cf. `HAL.Inria.fr/hal-02006825 <https://hal.inria.fr/hal-02006825>`_ et `HAL.Inria.fr/hal-02XXX <https://hal.inria.fr/hal-02XXX>`_)
+
+Février 2019
+------------
+- J'ai eu la chance d'aller à Marseille passer un super weekend entre amis, notamment pour fêter mon anniversaire (26 ans !) et celui de `mon amie Hélène <https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_de_Troie>`_. De nombreuses amies et nombreux amis avaient pu faire le déplacement, trop chouette !
+- Trois chouettes weekends d'affilée avec un trio de festival à Rennes : festival littéraire (`"Jardins d'Hivers" <https://www.leschampslibres.fr/agenda/evenement/jardins-dhiver-2019/>`_), festival de cinéma ("`Travelling" <https://www.clairobscur.info/Festival-de-cinema-Travelling-2573-0-0-0.html>`_), et festival de jazz (`"Jazz à l'Étage" <https://www.jazzaletage.com/date.php?id=139>`_).
 - TODO
 
 .. warning:: La suite est… dans le futur !
 
-Février 2019
-------------
-- TODO
-
 Mars 2019
 ---------
+- `Petite célébration des formidables 183 derniers jours depuis la rentrée en septembre <https://www.wolframalpha.com/input/?i=number+of+days+between+3rd+of+March+2019+and+Friday+31st+of+August+2018>`_
 - TODO
 
 Avril 2019
@@ -86,17 +89,25 @@ En 2019, j'ai joué à ces jeux vidéo…
 
 En 2019, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve),
+- Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve, c'est la dernière !),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
 - TODO
 
 En 2019, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *La Place*, et *L'événement* de Annie Ernaux, courts mais très biens,
+- *Vol de Nuit*, de Antoine de Saint-Exupéry,
+- *En attendant Godot*, de Samuel Becket,
+- *Manuel du jeune adulte responsable* (voir `le site web associé <http://www.manuel-adulte-responsable.fr/>`_), lu rapidement principalement pour l'aspect humoristique,
+- Quelques contes du *Livre de sable* de Jorge Luis Borges, en édition bilingue (j'adore !),
 - Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Talons Aiguilles*, de Pedro Almodovar,
+- *Une nuit chez Maud*, de Éric Rohmer,
+- *Belle de jour*, de Luis Bunuel,
+- *Mulholland Drive*, de David Lynch,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
