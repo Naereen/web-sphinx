@@ -24,6 +24,8 @@ Publications list
 
 `Published works <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__ :
 
+- `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBM__IEEE_WCNC_2019.pdf>`__, by `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, J. Manco-Vasquez and `C. Moy <https://moychris.wordpress.com/>`__. `1st MOTIoN workshop <https://sites.google.com/view/wcncworkshop-motion2019/>`_ at WCNC (*Wireless Communication and Networks Conference*), Marrakech, Morrocco, January 2018, `HAL-02049824 <https://hal.inria.fr/hal-02049824>`__.
+
 - `GNU Radio Implementation of MALIN: "Multi-Armed bandits Learning for Internet-of-things Network" <https://hal.inria.fr/hal-02006825/document>`__, by **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, `C. Moy <https://moychris.wordpress.com/>`__. `IEEE WCNC <http://wcnc2019.ieee-wcnc.org/>`__ (*Wireless Communication and Networks Conference*), Marrakech, Morrocco, April 2019, `HAL-02006825 <https://hal.inria.fr/hal-02006825>`__.
 
 - `MALIN: "Multi-Arm bandit Learning for Iot Networks" with GRC: A TestBed Implementation and Demonstration that Learning Helps <https://perso.crans.org/besson/articles/BBM__Demo_ICT_2018.pdf>`__, by **L. Besson**, `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__ and `C. Moy <https://moychris.wordpress.com/>`__. Demonstration presented at ICT (*International Conference on Communication*), Saint-Malo, France, June 2018. Cf. `YouTu.be/HospLNQhcMk <https://YouTu.be/HospLNQhcMk>`_ and `poster <https://hal.inria.fr/hal-02013866/document>`__.
@@ -39,8 +41,6 @@ Publications list
 or writing still in progress for a new submission:
 
 - `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://hal.inria.fr/hal-02006471/document>`__, by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Article sent to `COLT 2019 <http://www.learningtheory.org/colt2019/>`__, February 2019. See `this page for the code and more details <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`__.
-
-- `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBM__IEEE_WCNC_2019.pdf>`__, by `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, J. Manco-Vasquez and `C. Moy <https://moychris.wordpress.com/>`__. Article sent to the `1st MOTIoN workshop <https://sites.google.com/view/wcncworkshop-motion2019/>`_ at WCNC (*Wireless Communication and Networks Conference*), Marrakech, Morrocco, January 2018.
 
 - `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, by **L. Besson**, in development since Octobre 2016 and still active, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code on `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (about 40000 lines), documentation on `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
 
