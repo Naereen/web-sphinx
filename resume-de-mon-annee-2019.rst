@@ -21,14 +21,14 @@ Février 2019
 ------------
 - J'ai eu la chance d'aller à Marseille passer un super weekend entre amis, notamment pour fêter mon anniversaire (26 ans !) et celui de `mon amie Hélène <https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_de_Troie>`_. De nombreuses amies et nombreux amis avaient pu faire le déplacement, trop chouette !
 - Trois chouettes weekends d'affilée avec un trio de festival à Rennes : festival littéraire (`"Jardins d'Hivers" <https://www.leschampslibres.fr/agenda/evenement/jardins-dhiver-2019/>`_), festival de cinéma ("`Travelling" <https://www.clairobscur.info/Festival-de-cinema-Travelling-2573-0-0-0.html>`_), et festival de jazz (`"Jazz à l'Étage" <https://www.jazzaletage.com/date.php?id=139>`_).
-- TODO
-
-.. warning:: La suite est… dans le futur !
+- Fin de la rédaction de mon premier chapitre de thèse (le chapitre 4).
 
 Mars 2019
 ---------
-- `Petite célébration des formidables 183 derniers jours depuis la rentrée en septembre <https://www.wolframalpha.com/input/?i=number+of+days+between+3rd+of+March+2019+and+Friday+31st+of+August+2018>`_
+- `Petite célébration des formidables 183 derniers jours depuis la rentrée en septembre <https://www.wolframalpha.com/input/?i=number+of+days+between+3rd+of+March+2019+and+Friday+31st+of+August+2018>`_.
 - TODO
+
+.. warning:: La suite est… dans le futur !
 
 Avril 2019
 ----------
@@ -108,6 +108,7 @@ En 2019, j'ai vu ces films…
 - *Une nuit chez Maud*, de Éric Rohmer,
 - *Belle de jour*, de Luis Bunuel,
 - *Mulholland Drive*, de David Lynch,
+- *Bohemian Rhapsody*, de Bryan Singer,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
