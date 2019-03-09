@@ -40,6 +40,8 @@ Liste de publications
 `Travaux soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
 ou en cours de réécriture pour une nouvelle soumission :
 
+- `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://hal.inria.fr/hal-XXX/document>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Article soumis à `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__, mars 2019. Lisez `cette page à propos du code des simulations et plus de détails <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
+
 - `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://hal.inria.fr/hal-02006471/document>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Article soumis à `COLT 2019 <http://www.learningtheory.org/colt2019/>`__, février 2019. Lisez `cette page à propos du code des simulations et plus de détails <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`__.
 
 - `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, par **L. Besson**, développement depuis octobre 2016 et encore actif, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code sur `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (environ 40000 lignes), documentation sur `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
