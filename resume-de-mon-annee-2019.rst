@@ -15,7 +15,7 @@ Janvier 2019
 ------------
 - Un réveillon du nouvel an très très sympathique, entre amis, à Briançon. De très beaux souvenirs !
 - Ce n'est pas forcément joyeux, ou en tout cas pas facile, mais j'ai commencé à rédiger ma thèse !
-- Rédaction de mon dernier article de recherche en mathématiques (cf. `HAL.Inria.fr/hal-02006471 <https://hal.inria.fr/hal-02006471>`_), et deux articles acceptés pour la `conférence IEEE WCNC 2019 <https://wcnc2019.ieee-wcnc.org/>`_ (cf. `HAL.Inria.fr/hal-02006825 <https://hal.inria.fr/hal-02006825>`_ et `HAL.Inria.fr/hal-02XXX <https://hal.inria.fr/hal-02XXX>`_)
+- Rédaction de mon dernier article de recherche en mathématiques (cf. `HAL.Inria.fr/hal-02006471 <https://hal.inria.fr/hal-02006471>`_), et deux articles acceptés pour la `conférence IEEE WCNC 2019 <https://wcnc2019.ieee-wcnc.org/>`_ (cf. `HAL.Inria.fr/hal-02006825 <https://hal.inria.fr/hal-02006825>`_ et `HAL.Inria.fr/hal-02049824 <https://hal.inria.fr/hal-02049824>`_).
 
 Février 2019
 ------------
