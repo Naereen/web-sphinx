@@ -26,13 +26,15 @@ Février 2019
 Mars 2019
 ---------
 - `Petite célébration des formidables 183 derniers jours depuis la rentrée en septembre <https://www.wolframalpha.com/input/?i=number+of+days+between+3rd+of+March+2019+and+Friday+31st+of+August+2018>`_.
-- TODO
-
-.. warning:: La suite est… dans le futur !
+- En deux semaines, j'ai aidé mon encadrant de thèse Christophe Moy à écrire `un article de recherche <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_ ("Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation"), et j'en ai écrit `un autre avec mon encadrante de thèse Emilie Kaufmann <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_ ("Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires").
+- J'avance bien dans la rédaction de ma thèse ! Je souhaite la terminer en juin, et soutenir en octobre ou novembre prochain (2019).
 
 Avril 2019
 ----------
+.. warning:: La suite est… dans le futur !
+
 - TODO
+- Une semaine extraordinaire au Maroc, à l'occasion de la conférence `WCNC 2019 <http://wcnc2019.ieee-wcnc.org/>`_ (à Marrakech). J'y ai présenté deux articles de recherche écrits pour ma thèse, `"GNU Radio Implementation of MALIN: « Multi-Armed bandits Learning for Internet-of-things Networks »" <https://hal.inria.fr/hal-02006825>`_ et `"Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions" <https://hal.inria.fr/hal-02049824>`_.
 
 Mai 2019
 --------

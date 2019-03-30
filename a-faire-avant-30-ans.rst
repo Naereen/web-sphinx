@@ -24,12 +24,12 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- Évidemment, *finir* `ma thèse <https://perso.crans.org/besson/phd/>`_… Et en être content.
+- Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content.
 - Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois <http://igmaths.org/spip/spip.php?article8>`_ !)
 
 Voyages
 ^^^^^^^
-- Aller une fois dans *tous les continents* (Amérique, Afrique, Océanie et Asie) *grâce au boulot* ?!
+- Aller une fois dans *tous les continents* (Amérique, Afrique - OK, Océanie et Asie) *grâce au boulot* ?!
 - 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
 
 Articles et publications
@@ -42,7 +42,7 @@ Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 300, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 400, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -59,10 +59,17 @@ Enseignement
 - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
 - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (Mais ça aussi c'est un peu idéaliste).
 
+.. sidebar:: Le Frido
+
+    Depuis 2014, je participe activement et régulièrement à la rédaction `d'un cours de mathématiques <https://laurent.claessens-donadello.eu/frido.html>`_ assez complet pour l'agrégation de mathématiques ("Le Frido"), avec `Laurent Claessens <https://laurent.claessens-donadello.eu/>`_.
+    Les documents sources du livre sont `sous licence libre GPL sur GitHub <https://github.com/LaurentClaessens/mazhe/>`_ (`github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe <https://github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe>`_), et le `livre est distribué gratuitement en version PDF <https://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_.
+
+
 Collaborations
 ^^^^^^^^^^^^^^
-- Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain ?).
-- Avoir (au moins) deux personnes non-francophones dans mon jury de thèse ?
+- 👌 OK - Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain ?).
+  C'est fait avec `cet article <https://hal.inria.fr/hal-02049824>`_, co-écrit avec `Julio César Manco-Vasquez <https://www.researchgate.net/profile/Julio_Manco2>`_ (voir aussi `cette page <http://gtas.unican.es/user/116/publications>`_), un chercheur et docteur péruvien qui était en `séjour post-doctoral <http://www-scee.rennes.supelec.fr/wp/post-doc/>`_ dans mon `équipe SCEE <http://www-scee.rennes.supelec.fr/>`_ en 2018 et 2019.
+- Raté - Avoir (au moins) deux personnes non-francophones dans mon jury de thèse ?
 
 Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,7 +90,7 @@ Personnellement
 
 Voyages
 ^^^^^^^
-- Aller en *Afrique*, en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
+- Aller en *Afrique* (OK en avril 2019), en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
 - Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai pas fait beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
 - Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
 - Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super. Comme le Mont Pelvoux par exemple, ou le Mont Rose ou le Mont Blanc.
@@ -119,6 +126,8 @@ Expériences diverses
 
 Cuisine et envies
 ^^^^^^^^^^^^^^^^^
+J'aime beaucoup cuisiner moi-même, et je suis très curieux de réussir certaines recettes.
+
 - Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (*même si on a tendance à les confondre*, d'après Hervé de Rinel).
 - Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc… (ça attendra que j'ai un meilleur four)
 - *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
