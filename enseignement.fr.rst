@@ -15,13 +15,14 @@
 
 En 2017/2018 et en 2018/2019
 ----------------------------
-J'enseigne de nouveau environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
+J'ai de nouveau enseigné environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).
 
-Je vais donner des oraux ainsi que des TPs de programmation (en `OCaml <https://ocaml.org/>`_) à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
+Je donnais des oraux ainsi que des TPs de programmation (en `OCaml <https://ocaml.org/>`_) à l'ENS de Rennes (environ 20 fois 2h, niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes, niveau L3).
 
-- Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2017/>`_.
-- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2017/>`_.
-- J'ai encore donné de nouveau 8 heures d'entraînement pour l'épreuve orale d'informatique pour le concours national CentraleSupélec, au `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_, à Rennes (bénévolement). Cf. `les solutions des problèmes qu'on a traité <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2018.ipynb>`_.
+- Pour plus de détails sur `les cours, oraux (leçons) et TDs que je donne pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2017/>`_ (2017/2018 et 2018/2019).
+- Pour plus de détails sur `les TDs que je donne pour le cours "Complexité et Calculabilité" à l'ENSAI, lisez cette page <ensai-2017/>`_ (seulement en 2017/2018).
+- J'ai aussi dépanné pour des TP d'informatique théorique avec OCaml, pour des élèves en prépa MPSI (option informatique), au `Lycée Chateaubriand <https://www.lycee-chateaubriand.fr/>`_ à Rennes.
+- J'ai encore donné quelques heures d'entraînement pour l'épreuve orale d'informatique pour le concours national CentraleSupélec en prépa PSI, au `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_ à Rennes (bénévolement). Cf. `les solutions des problèmes qu'on a traité <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2018.ipynb>`_.
 
 .. note::
 
@@ -37,7 +38,7 @@ Je donne des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'éta
 
 - :gray:`(Vieux)` Pour plus de détails sur `les cours, oraux (leçons) et TDs pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
 - :gray:`(Vieux)` Pour plus de détails sur `les TDs pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis et bricolé `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
-- J'ai donné de nouveau 8 heures d'entraînement pour l'épreuve orale d'informatique pour le concours national CentraleSupélec, au `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_, à Rennes (bénévolement). Cf. `les solutions des problèmes qu'on a traité <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_.
+- J'ai donné de quelques heures d'entraînement pour l'épreuve orale d'informatique pour le concours national CentraleSupélec (en prépa PSI), au `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_ à Rennes (bénévolement). Cf. `les solutions des problèmes qu'on a traité <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_.
 
 .. note:: Extras :
 

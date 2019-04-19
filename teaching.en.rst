@@ -14,13 +14,14 @@
 
 In 2017/2018 and 2018/2019
 --------------------------
-I will continue to teach, about 64 h / year, for 2017/2018, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
+I continued to teach, about 64 h / year, for 2017/2018 and 2018/2019, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
 
-I am giving oral exams and programming practical sessions (for `OCaml <https://ocaml.org/>`_) at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
+I gave oral exams and programming practical sessions (for `OCaml <https://ocaml.org/>`_) at ENS de Rennes (about 20 times 2h, level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups, level L3).
 
-- For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2017/>`_.
-- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2017/>`_.
-- I gave again 8 hours of training for the exam in Computer Science for students in prep' school for the CentraleSupélec national entrance exam, at the `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_, in Rennes. See `the solutions of the problems we covered <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2018.ipynb>`_ (not paid).
+- For more details on `the oral exams I am giving for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2017/>`_ (2017/2018 and 2018/2019).
+- For more details on `the TAing I am doing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2017/>`_ (only 2017/2018).
+- I helped for some practical sessions theoretical computer science using OCaml, for students in prep' school (MPSI), at the `Lycée Chateaubriand <https://www.lycee-chateaubriand.fr/>`_, in Rennes (not paid).
+- I gave again some training sessions for the exam in Computer Science for students in prep' school for the CentraleSupélec national entrance exam (PSI), at the `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_, in Rennes. See `the solutions of the problems we covered <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2018.ipynb>`_.
 
 .. note::
 
@@ -36,7 +37,7 @@ I was giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I wa
 
 - :gray:`(Old)` For more details on `the oral exams for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
 - :gray:`(Old)` For more details on `the TAing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
-- I also gave 8 hours of training for the exam in Computer Science for students in prep' school for the CentraleSupélec national entrance exam, at the `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_, in Rennes. See `the solutions of the problems we covered <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_ (not paid).
+- I also gave some training sessions for the exam in Computer Science for students in prep' school for the CentraleSupélec national entrance exam (prep' school PSI), at the `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_ in Rennes. See `the solutions of the problems we covered <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_ (not paid).
 
 .. note:: Extras :
 

@@ -142,6 +142,13 @@ Formation académique
 --------------------
 Ci dessous se trouve une description précise, année par année, de ce que j'ai étudié depuis mon bac en 2009.
 
+**2016-2019** : thèse de doctorat (PhD)
+---------------------------------------
+
+Pour mon doctorat, mes recherches portent sur l'apprentissage machine appliqué, centré sur l'apprentissage en ligne à faible coût avec de l'information partielle ("feedback bandit"). Mes recherches s'appliquent principalement aux problèmes de radio intelligente pour l'Accès Opportuniste au Spectre (*OSA*) et mise en place de protocoles d'accès au réseau le plus fiables possible, pour les futurs réseaux de l'Internet des Objets (*IoT*). En étudiant et en appliquant des algorithmes classiques de Bandit Multi-Bras (*MAB*), et d'autres plus récents, nous sommes en mesure de prouver certaines garanties de performance, à la fois numériquement via des simulations et théoriquement via des preuves statistiques.
+
+Pour plus de détails, et une liste de publications, cf cette autre page `recherche <recherche.fr.html>`_.
+
 **2015-2016** : seconde année de Master (M2)
 --------------------------------------------
 - J'ai suivi et majoré le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (`à l'ÉNS de Cachan <http://www.ens-cachan.fr/>`_, pour une promotion de 115 élèves), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_,

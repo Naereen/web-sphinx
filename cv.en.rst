@@ -143,6 +143,12 @@ Academic Education
 ------------------
 Below there is a precise description of what I studied, year by year, from my Baccalaureat in 2009.
 
+**2016-2019**: PhD
+------------------
+For my Ph.D., my research is in applied machine learning, focused on low-cost online learning algorithm with limited feedback (bandit feedback), mainly applied to cognitive radio problems for Opportunistic Spectrum Access and setting up reliable network access protocol for the future Internet of Things networks. By studying and applying classical and recent Multi-Armed Bandit algorithms to carefully designed radio models, we are able to prove some performance guarantees, both numerically in simulations and theoretically with statistical proofs.
+
+For more details, and a list of publications, see the page `research <research.en.html>`_.
+
 **2015-2016**: second year of Msc (*Master*)
 --------------------------------------------
 - I graduated and ranked 1st (among 115 students) from the `MVA master program <http://www.cmla.ens-cachan.fr/version-anglaise/academics/mva-master-degree-227777.kjsp>`_ (`at ENS de Cachan <http://www.ens-cachan.fr/>`_), in applied Maths, mainly in `machine learning <https://en.wikipedia.org/wiki/Machine_learning>`_ and `numerical optimization <https://en.wikipedia.org/wiki/Mathematical_optimization>`_.
