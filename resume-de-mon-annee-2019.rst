@@ -15,7 +15,7 @@ Janvier 2019
 ------------
 - Un réveillon du nouvel an très très sympathique, entre amis, à Briançon. De très beaux souvenirs !
 - Ce n'est pas forcément joyeux, ou en tout cas pas facile, mais j'ai commencé à rédiger ma thèse !
-- Rédaction de mon dernier article de recherche en mathématiques (cf. `HAL.Inria.fr/hal-02006471 <https://hal.inria.fr/hal-02006471>`_), et deux articles acceptés pour la `conférence IEEE WCNC 2019 <https://wcnc2019.ieee-wcnc.org/>`_ (cf. `HAL.Inria.fr/hal-02006825 <https://hal.inria.fr/hal-02006825>`_ et `HAL.Inria.fr/hal-02049824 <https://hal.inria.fr/hal-02049824>`_).
+- Rédaction de mon dernier article de recherche en mathématiques (cf. `HAL.Inria.fr/hal-02006471 <https://hal.inria.fr/hal-02006471>`_, malheureusement refusé), et deux articles acceptés pour la `conférence IEEE WCNC 2019 <https://wcnc2019.ieee-wcnc.org/>`_ (cf. `HAL.Inria.fr/hal-02006825 <https://hal.inria.fr/hal-02006825>`_ et `HAL.Inria.fr/hal-02049824 <https://hal.inria.fr/hal-02049824>`_).
 
 Février 2019
 ------------
@@ -26,18 +26,19 @@ Février 2019
 Mars 2019
 ---------
 - `Petite célébration des formidables 183 derniers jours depuis la rentrée en septembre <https://www.wolframalpha.com/input/?i=number+of+days+between+3rd+of+March+2019+and+Friday+31st+of+August+2018>`_.
-- En deux semaines, j'ai aidé mon encadrant de thèse Christophe Moy à écrire `un article de recherche <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_ ("Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation"), et j'en ai écrit `un autre avec mon encadrante de thèse Emilie Kaufmann <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_ ("Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires").
+- En deux semaines, j'ai aidé mon encadrant de thèse Christophe Moy à écrire `un article de recherche <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_ ("Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation", accepté), et j'en ai écrit `un autre avec mon encadrante de thèse Emilie Kaufmann <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_ ("Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires").
 - J'avance bien dans la rédaction de ma thèse ! Je souhaite la terminer en juin, et soutenir en octobre ou novembre prochain (2019).
 
 Avril 2019
 ----------
-.. warning:: La suite est… dans le futur !
-
-- TODO
 - Une semaine extraordinaire au Maroc, à l'occasion de la conférence `WCNC 2019 <http://wcnc2019.ieee-wcnc.org/>`_ (à Marrakech). J'y ai présenté deux articles de recherche écrits pour ma thèse, `"GNU Radio Implementation of MALIN: « Multi-Armed bandits Learning for Internet-of-things Networks »" <https://hal.inria.fr/hal-02006825>`_ et `"Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions" <https://hal.inria.fr/hal-02049824>`_.
+- Quelques jours de vacances en famille très agréables, dans le pays de Saint-Malo, pour le samedime de Pâques.
+- Un chouette séjour en Espagne, où j'ai vécu une belle expérience CouchSurfing avec une amie pendant deux jours chez un espagnol très sympathique !
 
 Mai 2019
 --------
+.. warning:: La suite est… dans le futur !
+
 - TODO
 
 Juin 2019

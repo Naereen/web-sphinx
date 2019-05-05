@@ -116,7 +116,7 @@ Expériences diverses
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
 - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
-- OK En attendant, essayer des lentilles ! (DONE)
+- OK En attendant, essayer des lentilles !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
@@ -130,14 +130,14 @@ J'aime beaucoup cuisiner moi-même, et je suis très curieux de réussir certain
 
 - Confiseries : du *bon* nougat blanc ET noir, des calissons d'Aix, des truffes au chocolat, des financiers et des partenaires (*même si on a tendance à les confondre*, d'après Hervé de Rinel).
 - Pâtisserie : faire un très bon *kouigh aman* breton, essayer des *merveilleux* lillois, des chocolatines, des macarons etc… (ça attendra que j'ai un meilleur four)
-- *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
-- *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
+- ?? *Distiller* de l'alcool moi-même (de prune ou de cerise, par exemple).
+- ?? *Brasser* de la bière moi-même. Réussir une bonne bière blonde ou blanche, et essayer une ambrée ou brune.
 - Continuer à faire `mes spécialités <https://perso.crans.org/besson/cuisine/>`_ régulièrement, dont du génépi, du vin de noix et du rhum au gingembre, des confitures, des gâteaux, etc.
-- Alimenter régulièrement mon `blog de cuisine <https://perso.crans.org/besson/cuisine/>`_ avec de belles photos.
+- Alimenter régulièrement mon `blog de cuisine <https://perso.crans.org/besson/cuisine/>`_ avec de belles photos et de nouvelles recettes.
 
 Vacances
 ^^^^^^^^
-- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 150/200 kms par jour, deux semaines).
+- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 150/200 kms par jour, une semaine).
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
 - Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en … août 2007).
