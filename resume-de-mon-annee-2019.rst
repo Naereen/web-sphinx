@@ -81,6 +81,9 @@ Résumé culturel
 
 En 2019, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
+- Rabat et Marrakech, au Maroc, en avril,
+- Madrid, en Espagne, en avril,
+- Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon en juillet, etc…
 - TODO
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
@@ -94,6 +97,7 @@ En 2019, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve, c'est la dernière !),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
+- Saison 8 de *Game of Thrones*,
 - TODO
 
 En 2019, j'ai lu ces livres…
@@ -103,6 +107,9 @@ En 2019, j'ai lu ces livres…
 - *En attendant Godot*, de Samuel Becket,
 - *Manuel du jeune adulte responsable* (voir `le site web associé <http://www.manuel-adulte-responsable.fr/>`_), lu rapidement principalement pour l'aspect humoristique,
 - Quelques contes du *Livre de sable* de Jorge Luis Borges, en édition bilingue (j'adore !),
+- *Debout les Morts*, de Fred Vargas, j'ai beaucoup aimé !
+- *L'autre fille*, d'Annie Ernaux, court mais très émouvant et beau,
+- *Au revoir là haut*, de Pierre Lemaître, en cours…
 - Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…
@@ -112,6 +119,7 @@ En 2019, j'ai vu ces films…
 - *Belle de jour*, de Luis Bunuel,
 - *Mulholland Drive*, de David Lynch,
 - *Bohemian Rhapsody*, de Bryan Singer,
+- *La boulangère de Monceau*, de Éric Rohmer,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
