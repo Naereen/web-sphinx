@@ -24,7 +24,9 @@ Publications list
 
 `Published works <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__ :
 
-- `Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_, by `C. Moy <https://moychris.wordpress.com/>`__ and **L. Besson**. Article sent to the `1st ISIoT workshop <https://sites.google.com/view/ISIoT2019/>`_ at the `DCOSS 2019 <https://dcoss.org/>`_ conference, March 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
+- `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`__ (in French), by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__ conference, Lille, France, August 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
+
+- `Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_, by `C. Moy <https://moychris.wordpress.com/>`__ and **L. Besson**. `1st ISIoT workshop <https://sites.google.com/view/ISIoT2019/>`_ at the `DCOSS 2019 <https://dcoss.org/>`_ conference, Santorini, Greece, May 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
 
 - `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBM__IEEE_WCNC_2019.pdf>`__, by `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, J. Manco-Vasquez and `C. Moy <https://moychris.wordpress.com/>`__. `1st MOTIoN workshop <https://sites.google.com/view/wcncworkshop-motion2019/>`_ at WCNC (*Wireless Communication and Networks Conference*), Marrakech, Morrocco, January 2018, `HAL-02049824 <https://hal.inria.fr/hal-02049824>`__.
 
@@ -41,8 +43,6 @@ Publications list
 
 `Submitted work <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
 or writing still in progress for a new submission:
-
-- `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`__ (in French), by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Article sent to the `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__ conference, March 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
 
 - `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://hal.inria.fr/hal-02006471/document>`__, by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, February 2019. See `this page for the code and more details <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`__.
 
