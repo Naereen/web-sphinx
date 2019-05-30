@@ -26,7 +26,7 @@ Liste de publications
 
 - `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. Colloque `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__, Lille, France, août 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
 
-- `Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_, par `C. Moy <https://moychris.wordpress.com/>`__ et **L. Besson**. `1er workshop ISIoT <https://sites.google.com/view/ISIoT2019/>`_ à la conférence `DCOSS 2019 <https://dcoss.org/>`_, Santorin, Grèce, mai 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
+- `Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_, par `C. Moy <https://moychris.wordpress.com/>`__ et **L. Besson**. `1er workshop ISIoT <https://sites.google.com/view/ISIoT2019/>`_ à la conférence `DCOSS 2019 <https://dcoss.org/>`_, Santorin, Grèce, mai 2019, `HAL-02144465 <https://hal.inria.fr/hal-02144465>`__.
 
 - `Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions <https://perso.crans.org/besson/articles/BMBM__IEEE_WCNC_2019.pdf>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, J. Manco-Vasquez et `C. Moy <https://moychris.wordpress.com/>`__. `1er workshop MOTIoN <https://sites.google.com/view/wcncworkshop-motion2019/>`_ à WCNC (*Wireless Communication and Networks Conference*), Marrakech, Maroc, janvier 2018, `HAL-02049824 <https://hal.inria.fr/hal-02049824>`__.
 
