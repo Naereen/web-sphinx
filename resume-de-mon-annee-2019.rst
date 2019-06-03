@@ -32,17 +32,19 @@ Mars 2019
 Avril 2019
 ----------
 - Une semaine extraordinaire au Maroc, à l'occasion de la conférence `WCNC 2019 <http://wcnc2019.ieee-wcnc.org/>`_ (à Marrakech). J'y ai présenté deux articles de recherche écrits pour ma thèse, `"GNU Radio Implementation of MALIN: « Multi-Armed bandits Learning for Internet-of-things Networks »" <https://hal.inria.fr/hal-02006825>`_ et `"Upper-Confidence Bound for Channel Selection in LPWA Networks with Retransmissions" <https://hal.inria.fr/hal-02049824>`_.
-- Quelques jours de vacances en famille très agréables, dans le pays de Saint-Malo, pour le samedime de Pâques.
-- Un chouette séjour en Espagne, où j'ai vécu une belle expérience CouchSurfing avec une amie pendant deux jours chez un espagnol très sympathique !
+- Quelques jours très agréables de vacances en famille, dans le pays de Saint-Malo, pour le samedime de Pâques.
+- Un chouette séjour en Espagne ; où j'ai notamment vécu une belle expérience CouchSurfing avec une amie, pendant deux jours, chez un espagnol très sympathique !
 
 Mai 2019
 --------
-.. warning:: La suite est… dans le futur !
-
-- TODO
+- Mon article "Analyse non asymptotique d'un test séquentiel de détection de ruptureet application aux bandits non stationnaires" (`voir le PDF <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_) a été accepté pour la conférence `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_, j'irai à Lille en août pour le présenter !
+- J'ai fait une deuxième fois une longue sortie en vélo, entre Rennes et Saint-Malo, en un weekend, accompagné de mes meilleures amies, et c'était super !
+- J'ai eu la chance d'être auditionné pour un poste d'AGPR à l'ENS de Rennes, au département informatique. J'ai utilisé `ces planches <https://perso.crans.org/besson/slides/2019_05__Audition_AGPR__ENS_de_Rennes/slides.pdf>`_, et j'étais content du déroulement de l'oral !
 
 Juin 2019
 ---------
+.. warning:: La suite est… dans le futur !
+
 - TODO
 
 Juillet 2019

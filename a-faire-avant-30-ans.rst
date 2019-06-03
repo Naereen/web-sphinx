@@ -9,11 +9,11 @@
 Cette page contient quelques idées de choses que je veux faire avant mes 30 ans.
 
 J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25).
-*Encore 5 ans pour faire tout ça !*
+*Encore 4 ans pour faire tout ça !*
 
 .. note:: Cette liste *n'est pas* ordonnée.
 
-.. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_. Qui sont presque aussi inutiles…
+.. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_.
 
 .. sidebar:: Des suggestions ?
 
@@ -25,7 +25,7 @@ Professionnellement
 -------------------
 
 - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content.
-- Obtenir un *poste de professeur en classe préparatoire* (ou dans une ENS) par la suite. (j'ai `postulé en novembre 2018 pour la première fois <http://igmaths.org/spip/spip.php?article8>`_ !)
+- 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
 
 Voyages
 ^^^^^^^
@@ -34,15 +34,15 @@ Voyages
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 2`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*) ??
+- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 3`… Mais ça monte… lentement…
+- Publier au moins un *article dans une revue* (un *"journal"*) ?
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'ai déjà plus de 400, avec `ce projet (badges) <https://github.com/Naereen/badges>`_). Maintenant on vise 500 ?!
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà presque 500, avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -69,7 +69,7 @@ Collaborations
 ^^^^^^^^^^^^^^
 - 👌 OK - Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain ?).
   C'est fait avec `cet article <https://hal.inria.fr/hal-02049824>`_, co-écrit avec `Julio César Manco-Vasquez <https://www.researchgate.net/profile/Julio_Manco2>`_ (voir aussi `cette page <http://gtas.unican.es/user/116/publications>`_), un chercheur et docteur péruvien qui était en `séjour post-doctoral <http://www-scee.rennes.supelec.fr/wp/post-doc/>`_ dans mon `équipe SCEE <http://www-scee.rennes.supelec.fr/>`_ en 2018 et 2019.
-- Raté - Avoir (au moins) deux personnes non-francophones dans mon jury de thèse ?
+- 😭 Raté - Avoir (au moins) deux personnes non-francophones dans mon jury de thèse ?
 
 Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -90,7 +90,7 @@ Personnellement
 
 Voyages
 ^^^^^^^
-- Aller en *Afrique* (OK en avril 2019), en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
+- Aller en *Afrique* (👌 OK en avril 2019), en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
 - Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai pas fait beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
 - Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
 - Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super. Comme le Mont Pelvoux par exemple, ou le Mont Rose ou le Mont Blanc.
