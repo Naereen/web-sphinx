@@ -24,7 +24,7 @@ Publications list
 
 `Published works <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__ :
 
-- `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`__ (in French), by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__ conference, Lille, France, August 2019, `HAL-XXX <https://hal.inria.fr/hal-XXX>`__.
+- `Analyse non asymptotique d'un test séquentiel de détection de ruptures et application aux bandits non stationnaires <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`__ (in French), by **L. Besson** and `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__. `GRETSI 2019 <http://gretsi.fr/colloque2019/>`__ conference, Lille, France, August 2019, `HAL-02152243 <https://hal.inria.fr/hal-02152243>`__.
 
 - `Decentralized Spectrum Learning for IoT Wireless Networks Collision Mitigation <https://perso.crans.org/besson/articles/MB__ISIoT_2019.pdf>`_, by `C. Moy <https://moychris.wordpress.com/>`__ and **L. Besson**. `1st ISIoT workshop <https://sites.google.com/view/ISIoT2019/>`_ at the `DCOSS 2019 <https://dcoss.org/>`_ conference, Santorini, Greece, May 2019, `HAL-02144465 <https://hal.inria.fr/hal-02144465>`__.
 
