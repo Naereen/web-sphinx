@@ -44,6 +44,8 @@ Liste de publications
 `Travaux soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
 ou en cours de réécriture pour une nouvelle soumission :
 
+- `Decentralized Spectrum Learning for Radio Collision Mitigation in Ultra-Dense IoT Networks: LoRaWAN Case Study and Measurements <https://hal.inria.fr/hal-02006471/document>`__, par C. Moy, **L. Besson**, G. Delbarre et L. Toutain, juillet 2019. Soumis à la revue `Machine Learning for Intelligent Wireless Communications and Networking <https://annalsoftelecommunications.wp.imt.fr>`__.
+
 - `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://hal.inria.fr/hal-02006471/document>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, février 2019. Lisez `cette page à propos du code des simulations et plus de détails <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`__.
 
 - `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, par **L. Besson**, développement depuis octobre 2016 et encore actif, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code sur `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (environ 40000 lignes), documentation sur `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
