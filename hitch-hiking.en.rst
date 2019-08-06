@@ -16,11 +16,24 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 = about **5465 kms as far as now**.
+  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 = about **5785 kms as far as now**.
 
-In 2018 : **80 kms** (as far as now)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-For now, only **50 kms** in France (La Pointe du Groin to Mont-St-Michel, and a little bit around), and about **30 kms** in Spain (on the `Island of Lanzarote <https://www.google.com/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, from Yaiza to the airport, and from Fermés to Playa Blanca).
+In 2019 : **320 kms** (for now)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For now, about **320 kms** only in France.
+I hitchhiked once again from Briançon to Avignon in July 2019, passing by the Drôme department (Nyons and Vaison-la-Romaine).
+I also hitchhiked a little bit during one week of holidays in the Périgord region, for very small distances (15 to 30 kms each time), in August 2019.
+I also hitchhiked a few times with friends, for instance from the train station of La Ciotat to the calanque of Le Muget (nearby).
+
+.. digraph:: france19
+
+    "Briançon" -> "Gap" -> "Serres" -> "Nyons" -> "Vaison-la-Romaine" -> "Avignon";
+    "Saint-Crépin-en-Carlucet" -> "Sarlat-la-Canéda" -> "Galujac";
+    "La Ciotat" -> "Le Muget";
+
+In 2018 : **80 kms**
+^^^^^^^^^^^^^^^^^^^^
+Only **50 kms** in France (La Pointe du Groin to Mont-St-Michel, and a little bit around), and about **30 kms** in Spain (on the `Island of Lanzarote <https://www.google.com/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, from Yaiza to the airport, and from Fermés to Playa Blanca).
 
 .. digraph:: france18
 

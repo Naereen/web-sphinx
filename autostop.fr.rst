@@ -16,11 +16,24 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 = environ **5465 kms pour l'instant**.
+  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320  = environ **5785 kms pour l'instant**.
 
-En 2018 : **80 kms** (pour l'instant)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, seulement **50 kms** en France (La Pointe du Groin au Mont-St-Michel, et un peu à côté), et environ **30 kms** en Espagne (sur l'`île de Lanzarote <https://www.google.fr/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, de Yaiza à l'aéroport, et de Fermés à Playa Blanca).
+En 2019 : **320 kms** (pour l'instant)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pour l'instant, environ **320 kms** en France.
+J'ai refait une fois le trajet de Briançon à Avignon en juillet 2019, en passant par la Drôme (Nyons et Vaison-la-Romaine).
+J'ai aussi fait un peu de stop pendant une semaine de vacances dans le Périgord noir, pour de toutes petites distances (15 à 30 kms à chaque fois), en août 2019.
+J'ai fait quelques fois du stop avec des ami-e-s, par exemple depuis la gare ferroviaire de La Ciotat jusqu'à la calanque du Muget.
+
+.. digraph:: france19
+
+    "Briançon" -> "Gap" -> "Serres" -> "Nyons" -> "Vaison-la-Romaine" -> "Avignon";
+    "Saint-Crépin-en-Carlucet" -> "Sarlat-la-Canéda" -> "Galujac";
+    "La Ciotat" -> "Le Muget";
+
+En 2018 : **80 kms**
+^^^^^^^^^^^^^^^^^^^^
+Seulement **50 kms** en France (La Pointe du Groin au Mont-St-Michel, et un peu à côté), et environ **30 kms** en Espagne (sur l'`île de Lanzarote <https://www.google.fr/maps/place/Lanzarote/@28.9286471,-13.7945591,13.75z/>`_, de Yaiza à l'aéroport, et de Fermés à Playa Blanca).
 
 .. digraph:: france18
 
