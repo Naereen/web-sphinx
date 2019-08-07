@@ -43,20 +43,27 @@ Mai 2019
 
 Juin 2019
 ---------
-.. warning:: La suite est… dans le futur !
-
-- TODO
+- J'ai été recruté pour ce poste d'AGPR à l'ENS de Rennes ! Je serai très probablement "professeur junior" au département informatique pour les trois prochaines années (sauf empêchement).
+- Je terminais la rédaction de ma thèse en juin !
 
 Juillet 2019
 ------------
-- TODO
+- Mes 8 élèves agrégatif-ve-s ont été admis-es au concours national de l'agrégation de mathématiques. Je les préparais pour l'option informatique, et notre classe a obtenu de très bons résultats cette année : un 25ème, un 31ème, un 34ème et un 42ème (notamment). Deux élèves ont obtenu 20/20 à leur épreuve de leçon en informatique, grâce à l'excellente formation que nous leur donnons à l'ENS de Rennes !
+- J'ai pu soumettre mon manuscrit de thèse le 12 juillet !
+- Début d'un mois et demi de vacances très attendues et très appréciées !
 
 Août 2019
 ---------
+- Toujours des vacances, cette fois à Marseille, un après-midi à La Ciotat, un soir en Savoie au lac du Bourget et à Yenne, une semaine dans le Périgord noir, puis une semaine sur la Côte de Granit Rose en Bretagne.
+- Une semaine de conférence au `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_ à Lille, c'était super !
 - TODO
+
+.. warning:: La suite est… dans le futur !
 
 Septembre 2019
 --------------
+- 🎉🎉🎉🎉 Ma première rentrée en tant qu'enseignant non-étudiant !
+- Un super weekend de fête de famille dans les Alpes !
 - TODO
 
 Octobre 2019
@@ -65,6 +72,7 @@ Octobre 2019
 
 Novembre 2019
 -------------
+- 🎉🎉🎉🎉🎉 Ma soutenance de thèse ! 🎉🎉🎉🎉
 - TODO
 
 Décembre 2019
@@ -85,7 +93,7 @@ En 2019, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - Rabat et Marrakech, au Maroc, en avril,
 - Madrid, en Espagne, en avril,
-- Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon en juillet, etc…
+- Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon & Arles & Marseille en juillet, Périgord & Bretagne en août etc…
 - TODO
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
@@ -108,10 +116,12 @@ En 2019, j'ai lu ces livres…
 - *Vol de Nuit*, de Antoine de Saint-Exupéry,
 - *En attendant Godot*, de Samuel Becket,
 - *Manuel du jeune adulte responsable* (voir `le site web associé <http://www.manuel-adulte-responsable.fr/>`_), lu rapidement principalement pour l'aspect humoristique,
-- Quelques contes du *Livre de sable* de Jorge Luis Borges, en édition bilingue (j'adore !),
+- Les contes du *Livre de sable* de Jorge Luis Borges, en édition bilingue (j'adore !),
 - *Debout les Morts*, de Fred Vargas, j'ai beaucoup aimé !
 - *L'autre fille*, d'Annie Ernaux, court mais très émouvant et beau,
-- *Au revoir là haut*, de Pierre Lemaître, en cours…
+- *Au revoir là haut*, de Pierre Lemaître,
+- Des nouvelles du recueil *Les rois des sables* de George R. R. Martin (j'adore aussi !);
+- *Le petit maître* (?) et *Le rêve d'un homme ridicule* de Fedor Dostoïevsky,
 - Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…

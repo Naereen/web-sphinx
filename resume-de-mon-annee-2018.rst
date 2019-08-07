@@ -75,7 +75,7 @@ Octobre 2018
 
 Novembre 2018
 -------------
-- Une chouette (petite) semaine de vacances, entre le sud et Paris ! Et j'en ai profité pour doner `un séminaire au laboratoire de mathématiques appliquées de l'École Polytechnique (CMAP) <https://perso.crans.org/besson/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_.
+- Une chouette (petite) semaine de vacances, entre le sud et Paris ! Et j'en ai profité pour donner `un séminaire au laboratoire de mathématiques appliquées de l'École Polytechnique (CMAP) <https://perso.crans.org/besson/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_.
 - (pour la première fois) j'ai `envoyé ma candidature à des postes de professeur en classes préparatoires (CPGE) <http://igmaths.org/spip/spip.php?article8>`_ !
 - Je me suis remis à lire plus régulièrement, et des livres plus variés, grâce aux suggestions et aux près avisés d'une amie, et c'était très agréable !
 

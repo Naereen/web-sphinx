@@ -24,7 +24,7 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content.
+- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. J'ai envoyé mon manuscrit début juillet 2019 et je vais soutenir en novembre 2019.
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
 
 Voyages
@@ -35,12 +35,12 @@ Voyages
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 3`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*) ?
+- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis un en juillet 2019.
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
-- *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
+- 👌 OK - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
 - 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà plus de 500, avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
@@ -84,6 +84,7 @@ Personnellement
 
 - Continuer à être *curieux*, de tout.
 - Continuer d'être toujours aussi *gentil* que possible.
+- Me prendre moins la tête !
 - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
 - Perdre un peu de poids !
 - Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
@@ -107,14 +108,15 @@ Rencontres
 Activités
 ^^^^^^^^^
 - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
+- Jouer souvent à des jeux de société !
 - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais plus fait depuis des années !)
+- Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais je n'en ai plus fait depuis des années !)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
-- Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
+- 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
 - OK En attendant, essayer des lentilles !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
