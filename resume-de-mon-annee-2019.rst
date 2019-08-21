@@ -54,7 +54,7 @@ Juillet 2019
 
 Août 2019
 ---------
-- Toujours des vacances, cette fois à Marseille, un après-midi à La Ciotat, un soir en Savoie au lac du Bourget et à Yenne, une semaine dans le Périgord noir, puis une semaine sur près de Saint-Malo en Bretagne.
+- Toujours des vacances, cette fois à Marseille, un après-midi à La Ciotat, un soir en Savoie au lac du Bourget et à Yenne, une semaine dans le Périgord noir, puis une semaine près de Saint-Malo en Bretagne.
 - Une semaine de conférence au `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_ à Lille, c'était super !
 - TODO
 
