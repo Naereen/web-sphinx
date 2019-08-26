@@ -47,9 +47,9 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 
 ------------------------------------------------------------------------------
 
-The last two years (2016-18)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* I started my PhD. Please `read this page <https://perso.Crans.org/besson/me/index.en.html>`_ to learn more!
+The last three years (2016-19)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* I was doing my PhD. Please `read this page <https://perso.crans.org/besson/me/index.en.html>`_ to learn more!
 
 In *2015-16*
 ^^^^^^^^^^^^
