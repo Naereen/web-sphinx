@@ -120,8 +120,9 @@ En 2019, j'ai lu ces livres…
 - *Debout les Morts*, de Fred Vargas, j'ai beaucoup aimé !
 - *L'autre fille*, d'Annie Ernaux, court mais très émouvant et beau,
 - *Au revoir là haut*, de Pierre Lemaître,
-- Des nouvelles du recueil *Les rois des sables* de George R. R. Martin (j'adore aussi !);
-- *Le petit maître* (?) et *Le rêve d'un homme ridicule* de Fedor Dostoïevsky,
+- Des nouvelles du recueil *Les rois des sables*, de George R. R. Martin (j'adore aussi !);
+- *Le petit maître* et *Le rêve d'un homme ridicule*, de Fedor Dostoïevsky,
+- *Seul dans la splendeur*, de John Keats (en cours),
 - Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…

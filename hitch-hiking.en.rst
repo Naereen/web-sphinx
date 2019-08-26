@@ -171,9 +171,11 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 
 *Couch Surfing* ?
 -----------------
-Of course, I know and I really like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, and even if I have not used it a lot:
+Of course, I know and I really like the concept of `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_:
 
 - `I have an account on CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (without any photo -- as always),
 - and I even offer `my couch <https://www.couchsurfing.com/people/lilian-besson/couch>`_ to fellow couch-surfers!
+- I have hosted people for about 30 times in 2018 and 2019!
+- I have been hosted by about 10 different people, in Spain, Switzerland, and France!
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

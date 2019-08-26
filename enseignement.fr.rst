@@ -13,6 +13,17 @@
 
 
 
+En 2019/2020
+------------
+
+Je serai `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
+
+- En charge de la `préparation à l'option informatique de l'agrégation de mathématiques <https://perso.crans.org/besson/teach/agreg-2019/>`__ (**"prépa agrég"**, option D), et notamment des `TP de programmation en Python 🐍 et OCaml 🐫 <https://github.com/Naereen/notebooks/tree/master/agreg/>`__. (80 h / an) `L'emploi du temps est ici ! <https://perso.crans.org/besson/agreg_info_planning/>`__
+- En charge du cours `**d'Introduction à l'Algorithmique** (ALGO1) <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ pour les élèves en L3 (première année) à l'ENS de Rennes (voir `la page du même cours au département de maths <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, donné par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / an)
+- Chargé de TD pour le cours `**d'Algorithmique avancée** (ALGO2) <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ pour les élèves en L3 (première année) à l'ENS de Rennes, donné par `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / an)
+- Aussi en charge du `séminaire bi-hebdomadaire du département Informatique <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, des visites de laboratoire, des stages des élèves en L3 (première année) à l'ENS de Rennes. (40h / an)
+
+
 En 2017/2018 et en 2018/2019
 ----------------------------
 J'ai de nouveau enseigné environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).

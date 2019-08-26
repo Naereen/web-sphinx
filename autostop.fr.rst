@@ -167,15 +167,17 @@ Quelques remarques à propos des gentils automobilistes qui acceptent de prendre
 * pas vraiment de constat sur l'âge, même si un peu plus souvent dans la tranche 25/35 ans,
 * souvent des distances assez longues (50/200 kms),
 * et souvent des gens du coin (de départ ou d'arrivée);
-* *Last but the not the least:* souvent des gens gentils ! Merci à eux !!
+* *Last but the not the least* : souvent des gens gentils ! Merci à eux !!
 
 ------------------------------------------------------------------------------
 
 *Couch Surfing* ?
 -----------------
-Naturellement, je connais et je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_, et même si je ne m'en suis pas servi beaucoup pour l'instant :
+Naturellement, je connais et je suis fan du concept de `Couch Surfing <http://www.couchsurfing.com/about/how-it-works>`_ :
 
 - `j'ai un profil sur CouchSurfing.com <https://www.couchsurfing.com/people/lilian-besson/>`_ (mais sans aucune photo -- comme toujours),
 - et j'y propose même `mon canapé <https://www.couchsurfing.com/people/lilian-besson/couch>`_ !
+- I have hosted people for about 30 times in 2018 and 2019!
+- I have been hosted by about 10 different people, in Spain, Switzerland, and France!
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
