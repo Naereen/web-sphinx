@@ -39,7 +39,7 @@ Note that other good editors include `Visual Studio Code <visualstudiocode.en.ht
 
 All this is included in the free `Anaconda <http://continuum.io/downloads>`_ installer, which allow to install everything in two clicks (one file of 500 MB, free to download of course).
 
-.. seealso:: More `details on how to start learning and using Python <learn-python.en.html>`_ on this website.
+.. seealso:: More `details on how to start learning and using Python <learn-python.en.html>`_ on this website. `This online course gives many details on how to learn using Python as a replacement for MATLAB <https://realpython.com/matlab-vs-python/>`_ (on `RealPython.com <https://realpython.com/matlab-vs-python/>`_).
 
 4. SciLab
 ~~~~~~~~~

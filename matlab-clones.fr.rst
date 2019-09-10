@@ -39,7 +39,7 @@ D'autres bons éditeurs sont `Visual Studio Code <visualstudiocode.en.html>`_ (m
 
 Tout ça (et bien plus) est inclut dans l'installeur gratuit `Anaconda <http://continuum.io/downloads>`_, qui permet d'installer tout ça en deux clics (juste un seul gros fichier de 400 Mo, en téléchargement gratuit bien-sûr).
 
-.. seealso:: Plus de `détails pour commencer à apprendre Python <apprendre-python.fr.html>`_ sur ce site.
+.. seealso:: Plus de `détails pour commencer à apprendre Python <apprendre-python.fr.html>`_ sur ce site. `Ce cours en ligne donne beaucoup de détails pour la prise en main de Python en remplacement de MATLAB. <https://realpython.com/matlab-vs-python/>`_ (sur `RealPython.com <https://realpython.com/matlab-vs-python/>`_).
 
 4. SciLab
 ~~~~~~~~~

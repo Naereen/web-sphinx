@@ -55,16 +55,16 @@ Juillet 2019
 Août 2019
 ---------
 - Toujours des vacances, cette fois à Marseille, un après-midi à La Ciotat, un soir en Savoie au lac du Bourget et à Yenne, une semaine dans le Périgord noir, puis une semaine près de Saint-Malo en Bretagne.
-- Une semaine de conférence au `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_ à Lille, c'était super !
-- TODO
-
-.. warning:: La suite est… dans le futur !
+- Une semaine de conférence au `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_ à Lille, c'était super ! `J'y ai donné cet exposé <https://perso.crans.org/besson/publis/slides/2019_08__Bernoulli_GLRTest_and_PieceWise-Stationary_Bandits__GRETSI_2019_Lille/slides.pdf>`_, présentant `cet article <https://hal.inria.fr/hal-02152243/document>`_ écrit avec `Émilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_.
+- Un chouette weekend à Lyon ! C'est une belle ville !
 
 Septembre 2019
 --------------
 - 🎉🎉🎉🎉 Ma première rentrée en tant qu'enseignant non-étudiant !
 - Un super weekend de fête de famille dans les Alpes !
 - TODO
+
+.. warning:: La suite est… dans le futur !
 
 Octobre 2019
 ------------
