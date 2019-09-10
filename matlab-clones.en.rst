@@ -20,6 +20,8 @@ List of alternative softwares for MATLAB
 `Julia <https://julialang.org/>`_ is my new favorite open-source alternative to MATLAB.
 It's completely awesome, with a fastly growing community (+200% by year since 2015!), you should definitely check it out!
 
+.. seealso:: `This article by Nobel laureate Paul Romer <https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/>`_, about the Jupyter notebook and the future of the research paper.
+
 .. seealso:: I gave a presentation at `IETR seminar 2018 <https://seminar-ietr-18.sciencesconf.org/program>`_ about Julia, with `Pierre Haessig <http://pierreh.eu/efficient-tools-seminar/>`_. The slides are `available here! <https://hal.archives-ouvertes.fr/cel-01830248/document>`_.
 
 .. raw:: html
