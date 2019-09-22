@@ -50,13 +50,13 @@ Code et programmation
     :scale:  15%
 
 
-- 👌 OK - *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
+- *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
 
 Enseignement
 ^^^^^^^^^^^^
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
-- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
+- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
 - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (Mais ça aussi c'est un peu idéaliste).
 
 .. sidebar:: Le Frido
@@ -92,7 +92,7 @@ Personnellement
 Voyages
 ^^^^^^^
 - Aller en *Afrique* (👌 OK en avril 2019), en *Amérique du Sud*, en *Océanie* (pas par ordre de préférence), aller de nouveau en Amérique du Nord (après le Connecticut en avril 2005) et en Asie (après l'Inde en 2014-2015).
-- Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`j'en ai pas fait beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
+- Finir d'aller dans `tous les pays d'Europe <https://fr.wikipedia.org/wiki/Liste_des_pays_d%27Europe>`_ (`je n'en ai pas fait beaucoup (16/44) ! <https://naereen.github.io/world-tour-timeline/>`_).
 - Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
 - Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super. Comme le Mont Pelvoux par exemple, ou le Mont Rose ou le Mont Blanc.
 
@@ -118,7 +118,7 @@ Expériences diverses
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
 - 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
-- OK En attendant, essayer des lentilles !
+- 👌 OK -  En attendant, essayer des lentilles ! Je déteste ça !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
@@ -139,7 +139,7 @@ J'aime beaucoup cuisiner moi-même, et je suis très curieux de réussir certain
 
 Vacances
 ^^^^^^^^
-- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 150/200 kms par jour, une semaine).
+- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 100/150 kms par jour, une semaine).
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
 - Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en … août 2007).
@@ -153,7 +153,7 @@ Famille
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-- *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi !
+- *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
 - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <https://www.penofchaos.com/warham/bd/>`_. Et à être un grand fan de la franchise `Naheulbeuk <https://www.penofchaos.com/warham/donjon/>`_ en entier.
 - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
