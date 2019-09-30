@@ -20,7 +20,7 @@ Janvier 2019
 Février 2019
 ------------
 - J'ai eu la chance d'aller à Marseille passer un super weekend entre amis, notamment pour fêter mon anniversaire (26 ans !) et celui de `mon amie Hélène <https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_de_Troie>`_. De nombreuses amies et nombreux amis avaient pu faire le déplacement, trop chouette !
-- Trois chouettes weekends d'affilée avec un trio de festival à Rennes : festival littéraire (`"Jardins d'Hivers" <https://www.leschampslibres.fr/agenda/evenement/jardins-dhiver-2019/>`_), festival de cinéma ("`Travelling" <https://www.clairobscur.info/Festival-de-cinema-Travelling-2573-0-0-0.html>`_), et festival de jazz (`"Jazz à l'Étage" <https://www.jazzaletage.com/date.php?id=139>`_).
+- Trois chouettes weekends d'affilée avec une amie proche, pour un trio de festival à Rennes : festival littéraire (`"Jardins d'Hivers" <https://www.leschampslibres.fr/agenda/evenement/jardins-dhiver-2019/>`_), festival de cinéma ("`Travelling" <https://www.clairobscur.info/Festival-de-cinema-Travelling-2573-0-0-0.html>`_), et festival de jazz (`"Jazz à l'Étage" <https://www.jazzaletage.com/date.php?id=139>`_).
 - Fin de la rédaction de mon premier chapitre de thèse (le chapitre 4).
 
 Mars 2019
@@ -37,32 +37,33 @@ Avril 2019
 
 Mai 2019
 --------
-- Mon article "Analyse non asymptotique d'un test séquentiel de détection de ruptureet application aux bandits non stationnaires" (`voir le PDF <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_) a été accepté pour la conférence `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_, j'irai à Lille en août pour le présenter !
+- Mon article "Analyse non asymptotique d'un test séquentiel de détection de ruptureet application aux bandits non stationnaires" (`voir le PDF <https://perso.crans.org/besson/articles/BK__GRETSI_2019.pdf>`_) a été accepté pour la conférence `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_, j'irai à Lille en août pour le présenter (`voir ces planches <https://perso.crans.org/besson/slides/2019_08__Bernoulli_GLRTest_and_PieceWise-Stationary_Bandits__GRETSI_2019_Lille/slides.pdf>`_) !
 - J'ai fait une deuxième fois une longue sortie en vélo, entre Rennes et Saint-Malo, en un weekend, accompagné de mes meilleures amies, et c'était super !
-- J'ai eu la chance d'être auditionné pour un poste d'AGPR à l'ENS de Rennes, au département informatique. J'ai utilisé `ces planches <https://perso.crans.org/besson/slides/2019_05__Audition_AGPR__ENS_de_Rennes/slides.pdf>`_, et j'étais content du déroulement de l'oral !
+- J'ai eu la chance d'être auditionné pour un poste d'AGPR à l'ENS de Rennes, au département informatique. J'ai utilisé `ces planches <https://perso.crans.org/besson/slides/2019_05__Audition_AGPR__ENS_de_Rennes/slides.pdf>`_, et j'étais content du déroulement de l'oral ! (*J'ai été recruté pour ce poste*)
 
 Juin 2019
 ---------
 - J'ai été recruté pour ce poste d'AGPR à l'ENS de Rennes ! Je serai très probablement "professeur junior" au département informatique pour les trois prochaines années (sauf empêchement).
 - Je terminais la rédaction de ma thèse en juin !
+- Un début d'été très décevant, mais du temps de repos et des discussions avec mes ami-e-s proches m'ont permis d'aller de l'avant.
 
 Juillet 2019
 ------------
 - Mes 8 élèves agrégatif-ve-s ont été admis-es au concours national de l'agrégation de mathématiques. Je les préparais pour l'option informatique, et notre classe a obtenu de très bons résultats cette année : un 25ème, un 31ème, un 34ème et un 42ème (notamment). Deux élèves ont obtenu 20/20 à leur épreuve de leçon en informatique, grâce à l'excellente formation que nous leur donnons à l'ENS de Rennes !
 - J'ai pu soumettre mon manuscrit de thèse le 12 juillet !
-- Début d'un mois et demi de vacances très attendues et très appréciées !
+- Début d'un mois et demi de vacances… très attendues et très appréciées !
 
 Août 2019
 ---------
 - Toujours des vacances, cette fois à Marseille, un après-midi à La Ciotat, un soir en Savoie au lac du Bourget et à Yenne, une semaine dans le Périgord noir, puis une semaine près de Saint-Malo en Bretagne.
 - Une semaine de conférence au `GRETSI 2019 <http://gretsi.fr/colloque2019/>`_ à Lille, c'était super ! `J'y ai donné cet exposé <https://perso.crans.org/besson/publis/slides/2019_08__Bernoulli_GLRTest_and_PieceWise-Stationary_Bandits__GRETSI_2019_Lille/slides.pdf>`_, présentant `cet article <https://hal.inria.fr/hal-02152243/document>`_ écrit avec `Émilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_.
-- Un chouette weekend à Lyon ! C'est une belle ville !
+- Ma première visite à Lyon avec une amie… Un chouette weekend à Lyon… C'est une belle ville !
 
 Septembre 2019
 --------------
-- 🎉🎉🎉🎉 Ma première rentrée en tant qu'enseignant non-étudiant !
+- 🎉🎉🎉🎉 Ma première rentrée en tant qu'enseignant non-étudiant ! Après 10 années d'étude !
 - Un super weekend de fête de famille dans les Alpes !
-- TODO
+- Un début d'automne rempli de déceptions et de tristesse aussi, mais plein de changements positifs s'annoncent dans ma vie… !
 
 .. warning:: La suite est… dans le futur !
 
@@ -107,7 +108,7 @@ En 2019, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve, c'est la dernière !),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
-- Saison 8 de *Game of Thrones*,
+- Saison 8 de *Game of Thrones* (Arya t'es la meilleure),
 - TODO
 
 En 2019, j'ai lu ces livres…
@@ -119,7 +120,7 @@ En 2019, j'ai lu ces livres…
 - Les contes du *Livre de sable* de Jorge Luis Borges, en édition bilingue (j'adore !),
 - *Debout les Morts*, de Fred Vargas, j'ai beaucoup aimé !
 - *L'autre fille*, d'Annie Ernaux, court mais très émouvant et beau,
-- *Au revoir là haut*, de Pierre Lemaître,
+- *Au revoir là haut*, de Pierre Lemaître (long mais beau),
 - Des nouvelles du recueil *Les rois des sables*, de George R. R. Martin (j'adore aussi !);
 - *Le petit maître* et *Le rêve d'un homme ridicule*, de Fedor Dostoïevsky,
 - *Seul dans la splendeur*, de John Keats (en cours),
