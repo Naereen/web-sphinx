@@ -10,6 +10,10 @@
 
     `Ce guide <https://thebestvpn.com/online-privacy-guide/>`_ est très bien conçu (en anglais).
 
+.. seealso:: Guide par Maria Flagg
+
+    `Ce guide <https://techiepassion.com/online-privacy-guide-2019/>`_ est intéressant (en anglais).
+
 .. seealso:: Slides par Micah Flee
 
     `Ces slides <https://raw.githubusercontent.com/micahflee/slides/master/2013/10/sfpl_crypto.pdf>`_
