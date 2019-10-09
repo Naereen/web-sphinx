@@ -20,6 +20,7 @@ Depuis septembre 2016 et jusqu'en août 2019 :
 
 - Je fais `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse porte sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
 - Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+- Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
 
 ------------------------------------------------------------------------------
@@ -32,9 +33,9 @@ N'hésitez pas à me *contacter* :
     :scale: 40 %
     :align: right
     :alt:   Mon adresse courriel, dans une image PNG…
-    :target: mailto:Lilian.Besson＠CentraleSupelec.fr
+    :target: mailto:Lilian.Besson＠ENS-Rennes.fr
 
-#. par *courriel* à cette adresse `Lilian.Besson＠CentraleSupelec.fr <mailto:Lilian.Besson＠CentraleSupelec.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
+#. par *courriel* à cette adresse `Lilian.Besson＠ENS-Rennes.fr <mailto:Lilian.Besson＠ENS-Rennes.fr>`_, ou `besson à crans.org <mailto:besson à crans.org>`_ :
 
 .. image:: .telephone.png
     :scale: 40 %
