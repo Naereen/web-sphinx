@@ -27,7 +27,6 @@ Liste des utilisations de JS
 * Pour ajouter des ``alert`` dans `<gnuplot.html>`_, `<ocaml.fr.html>`_ ou encore `<python.html>`_,
 * Pour embarquer un graphique de progression de la traduction de Bitbucket.org sur `<transifex.fr.html>`_ et `<transifex.en.html>`_,
 * Pour embarquer un fichier hébergé sur Bitbucket dans `<bitbucket-features.fr.html>`_,
-* Pour un test dans `<sparkline.html>`_,
 * Pour tester des choses dans `<avoir.html>`_,
 * Pour les terminaux dans `<try-ocaml.html>`_, `<skulpt.html>`_, `<python.html>`_, `<gnuplot.html>`_ et  `<gnuplot_embed.html>`_.
 * Pour afficher la qualité de l'air à Paris dans `<plume-air-paris.fr.html>`_,

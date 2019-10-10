@@ -485,10 +485,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    resume-de-mon-annee-2018
    resume-de-mon-annee-2019
    freedns
-   dyndns
    time
    bitbucket-features.fr
-   sparkline
    plume-air-paris.fr
    self-quantified.fr
    mount.fr
@@ -496,7 +494,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    A953
    todo
    avoir
-   alaskabombeh.fr
    folders
    admin
 

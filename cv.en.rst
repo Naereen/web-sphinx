@@ -91,10 +91,6 @@ Miscellaneous
 
    - 🍴 Amateur (French) cook, see `this blog <https://perso.crans.org/besson/cuisine/>`_ 🎂 🍸 🍝 (in French, 🇫🇷 📒).
    - 💚 Motivated ecologist who tries to produce the least possible amount of 🍃 non-recyclable waste. See `this blog (in French, 🇫🇷 📒) <https://perso.crans.org/besson/zero-dechet/>`_.
-   - Theater and clown lessons, during 6 years (**2003-2009**);
-   - Passionnate player of *Magic The Gathering*, during 5 years (**2004-2009**).
-     Many national tournaments, a few internations competition (Sweden, Spain, Italy).
-     Department champion for 3 years (in *Hautes-Alpes*, 05, France).
 
  * :Entertainment: theater, video games, cinema, programming, fantasy literature and poetry, cooking;
  * :Health: perfect health (up-to-date vaccines, even exotic ones), and I'm wearing glasses!
@@ -125,9 +121,9 @@ Former internship advisors (2012 and 2013 and 2015)
 
 Employees
 ~~~~~~~~~
-- `CentraleSupélec <http://www.centralesupelec.fr>`_ (since 2016),
-- `Inria <http://www.inria.fr>`_ (since 2016),
-- `ENS Rennes <http://www.ens-rennes.fr>`_ (since 2016),
+- `ENS Rennes <http://www.ens-rennes.fr>`_ (since 2016 and main employer since 2019),
+- `Inria <http://www.inria.fr>`_ (associate PhD student 2016-2019, associate researcher, since 2019),
+- `CentraleSupélec <http://www.centralesupelec.fr>`_ (main employer 2016-2019),
 - `ENSAI <http://www.ensai.fr>`_ (in 2016, 2017),
 - `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ (in 2016, 2017),
 - `EPFL <https://www.epfl.ch/>`_ (in 2016),

@@ -17,11 +17,13 @@ in Mathematics and Computer Science at |ENSCachan|.
   <abbr title='ENS de Cachan is a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris; now the school is called ENS de Paris-Saclay'><a href='http://www.ens-cachan.fr/version-anglaise/'>ENS de Cachan</a></abbr>
 
 
+From August 2019, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_.
+
+
 From September 2016 and until August 2019:
 
 - I am pursuing `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL lab, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD is on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
 - And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
-- From August 2019, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
 
 ------------------------------------------------------------------------------
@@ -109,10 +111,46 @@ For more details, see `<sitemap.en.html>`_.
    cv.en
    research.en
    teaching.en
-   Pages in English <projects.en>
+   cookies.en
+   README
    publis.en
    bin.en
    pgp.en
-
+   visualstudiocode.en
+   sublimetext.en
+   ga.en
+   js.en
+   stats-google-analytics.en
+   beacon.en
+   apk.en
+   firefox-extensions.en
+   tutogit.en
+   wakatime.en
+   zotero.en
+   runblock.en
+   transifex.en
+   try-ocaml.en
+   ocaml.en
+   iteri.en
+   opendns.en
+   latexonwindows.en
+   learn-python.en
+   online-gnu-octave.en
+   matlab-clones.en
+   wolfram.en
+   graph.en
+   sphinxtabs.en
+   top10.en
+   what-i-watch-on-youtube.en
+   blog-roll.en
+   plume-air-paris.en
+   self-quantified.en
+   README
+   mount.en
+   demo
+   bitbucket-features.en
+   data-analysis-of-2-years-of-sms-2016-2017.en
+   hitch-hiking.en
+   packing.en
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

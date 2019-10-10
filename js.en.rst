@@ -27,7 +27,6 @@ List of usage of JavaScript here
 * To have ``alert`` windows in `<gnuplot.html>`_, `<ocaml.en.html>`_ or `<python.html>`_,
 * To embed a graphic on `<transifex.en.html>`_ and `<transifex.fr.html>`_,
 * To embed a file hosted on Bitbucket in `<bitbucket-features.en.html>`_,
-* To display a nice test in `<sparkline.html>`_,
 * To experiment some things in `<avoir.html>`_,
 * Pour les terminaux in `<try-ocaml.html>`_, `<skulpt.html>`_, `<python.html>`_, `<gnuplot.html>`_ and  `<gnuplot_embed.html>`_.
 * To display the current air quality in Paris in `<plume-air-paris.en.html>`_,

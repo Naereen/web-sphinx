@@ -16,11 +16,14 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
 
   <abbr title="L'ENS de Cachan est une « Grande École » près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay"><a href='http://www.ens-cachan.fr/version-anglaise/'>l'ENS de Cachan</a></abbr>
 
+
+Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
+
+
 Depuis septembre 2016 et jusqu'en août 2019 :
 
 - Je fais `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse porte sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets).
 - Et `j'enseigne <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
-- Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
 
 ------------------------------------------------------------------------------
@@ -112,11 +115,68 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    recherche.fr
    enseignement.fr
    agreg-2014/index
+   README
+   cookies.fr
    publis.fr
-   Pages en français <projects.fr>
    bin.fr
    pgp.fr
+   rss
+   visualstudiocode.fr
+   sublimetext.fr
+   ga.fr
+   stats-google-analytics.fr
+   beacon.fr
+   apk.fr
+   firefox-extensions.fr
+   tutogit.fr
+   apprendre-python.fr
+   wakatime.fr
+   latexonwindows.fr
+   zotero.fr
+   opendns.fr
+   js.fr
+   NanoSyntax
+   math
+   graph.fr
+   sphinxtabs.fr
+   gnuplot_embed
+   runblock.fr
+   transifex.fr
+   python
+   skulpt
+   ocaml.fr
+   try-ocaml.fr
+   iteri.fr
+   gnuplot
+   online-gnu-octave.fr
+   matlab-clones.fr
+   ace
+   wolfram.fr
+   top10.fr
+   ce-que-je-regarde-sur-youtube.fr
+   blog-roll.fr
+   resume-de-mon-annee-2017
+   resume-de-mon-annee-2018
+   resume-de-mon-annee-2019
+   freedns
+   time
+   bitbucket-features.fr
+   plume-air-paris.fr
+   self-quantified.fr
+   mount.fr
+   vieprivee
+   A953
+   todo
+   avoir
+   folders
    Page d'accueil (en anglais) <index.en>
+
+   admin
+   autostop.fr
+   affaires-voyage.fr
+   data-analysis-of-2-years-of-sms-2016-2017.fr
+   a-faire-avant-30-ans
+
 
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

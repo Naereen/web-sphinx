@@ -89,10 +89,6 @@ Divers
 
    - 🍴 Cuisinier amateur, regardez `ce blogue <https://perso.crans.org/besson/cuisine/>`_ 🎂 🍸 🍝 (🇫🇷 📒).
    - 💚 Écologiste motivé qui essaie de réduire mes production et consommation de 🍃 déchets non-recyclables. Cf. `cet autre blogue <https://perso.crans.org/besson/zero-dechet/>`_ (🇫🇷 📒).
-   - Cours de théâtre et de clown, durant 6 ans (**2003-2009**);
-   - `Joueur passionné <http://exkalibur.lestitous.pagesperso-orange.fr/exkalibur/accueil_contact_lesanimationsactuelles.htm>`_ de *Magic The Gathering*, durant 5 ans (**2004-2009**).
-     Nombreuses participations à des tournois nationaux, et à quelques tournois internationaux.
-     Champion départemental pendant 2 ans (dans les *Hautes-Alpes*, 05, France).
 
  * :Loisir: théâtre, jeux vidéo, cinéma, programmation littérature de fantasy et poésie, cuisine;
  * :Santé: bonne santé (vaccins à-jour, y compris les vaccins exotiques), et je porte des lunettes !
@@ -124,9 +120,9 @@ Anciens directeurs de stage (2012 et 2013 et 2015)
 
 Employeurs et établissements de références
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `CentraleSupélec <http://www.centralesupelec.fr>`_ (depuis 2016),
-- `Inria <http://www.inria.fr>`_ (depuis 2016),
-- `ENS Rennes <http://www.ens-rennes.fr>`_ (depuis 2016),
+- `ENS Rennes <http://www.ens-rennes.fr>`_ (depuis 2016 et depuis 2019 comme employeur principal),
+- `Inria <http://www.inria.fr>`_ (docteur associé 2016-2019, chercheur associé depuis 2019),
+- `CentraleSupélec <http://www.centralesupelec.fr>`_ (employeur principal 2016-2019),
 - `ENSAI <http://www.ensai.fr>`_ (en 2016, 2017),
 - `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ (en 2016, 2017),
 - `EPFL <https://www.epfl.ch/>`_ (en 2016),
