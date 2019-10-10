@@ -39,28 +39,28 @@ aux adresses suivantes (listées par ordre de préférence) :
 
 Bureau
 ~~~~~~
-Mon bureau, à *CentraleSupélec*, campus Rennes, en France
-(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
+Mon bureau, à l'`École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, à Bruz, en France
+(voir `sur un plan OpenStreetMap <https://www.OpenStreetMap.org/?mlat=48.04615&mlon=-1.74530#map=19/48.04615/-1.74530&layers=N>`_) ::
 
-       Mr Lilian Besson,
-       Bureau 329 - Équipe SCEE,
-       CentraleSupélec - Campus de Rennes,
-       Avenue de la Boulaie - CS 47601,
-       35576 - Cesson-Sévigné,
-       France
+       Mr Lilian Besson
+       Bureau R112 - Département Informatique et Télécommunications
+       École Normale Supérieure de Rennes
+       Campus de Ker Lann
+       Avenue Robert Schuman
+       35170 Bruz - France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-       var office = L.map("office").setView([48.12576, -1.62312], 18);
+       var office = L.map("office").setView([48.04615, -1.74530], 18);
 
        L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
            attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
        }).addTo(office);
 
-       L.marker([48.12576, -1.62312]).addTo(office)
-           .bindPopup("Mr Lilian Besson,<br>Bureau 329 - Équipe SCEE,<br>CentraleSupélec - Campus de Rennes,<br>Avenue de la Boulaie - CS 47601,<br>35576 - Cesson-Sévigné,<br>France.")
+       L.marker([48.04615, -1.74530]).addTo(office)
+           .bindPopup("Mr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
            .openPopup();
    </script>
 
@@ -103,14 +103,14 @@ Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si v
    :scale: 50 %
    :align: right
    :alt:   Mon adresse courriel, dans une image PNG…
-   :target: mailto:Lilian.Besson à ens-cachan point fr
+   :target: mailto:Lilian.Besson à ens-rennes point fr
 
 
 Si c'est sérieux, vous pouvez utiliser une de ces adresses :
 
-- `Lilian point Besson à ens-cachan point fr <mailto:Lilian point Besson à ens-cachan point fr>`_
-- `Lilian point Besson à centralesupelec point fr <mailto:Lilian point Besson à centralesupelec point fr>`_
+- `Lilian point Besson à ens-rennes point fr <mailto:Lilian point Besson à ens-rennes point fr>`_
 - `Lilian point Besson à inria point fr <mailto:Lilian point Besson à inria point fr>`_
+- `Lilian point Besson à crans point org <mailto:Lilian point Besson à crans point org>`_
 
 .. note::
 
@@ -155,8 +155,7 @@ et sur Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`
 
 Formulaires web
 ^^^^^^^^^^^^^^^
-* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'`annuaire électronique <http://www.math.ens-cachan.fr/annuaire/besson-lilian-128754.kjsp>`_ de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ : http://perso.crans.org/besson/contact,
-* ou bien signaler un bug via le formulaire suivant : https://bitbucket.org/lbesson/home/issues/new. Mais **ce n'est pas conçu pour me contacter directement !**
+* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'`annuaire électronique <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ de l'`ENS de Rennes <http://www.ens-rennes.fr/>`_ : `https://perso.crans.org/besson/contact <https://perso.crans.org/besson/contact>`_
 
 Services HTML5
 ^^^^^^^^^^^^^^

@@ -39,28 +39,28 @@ at the following addresses (listed by decreasing preference):
 
 My Office
 ~~~~~~~~~
-My office, at *CentraleSupélec*, in Rennes, France
-(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_) ::
+My office, at `École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, in Bruz, France
+(you can `see it on this OpenStreetMap map <https://www.OpenStreetMap.org/?mlat=48.04615&mlon=-1.74530#map=19/48.04615/-1.74530&layers=N>`_) ::
 
-       Mr Lilian Besson,
-       Office 329 - SCEE Team,
-       CentraleSupélec - Campus de Rennes,
-       Avenue de la Boulaie - CS 47601,
-       35576 - Cesson-Sévigné,
-       France
+       Mr Lilian Besson
+       Bureau R112 - Département Informatique et Télécommunications
+       École Normale Supérieure de Rennes
+       Campus de Ker Lann
+       Avenue Robert Schuman
+       35170 Bruz - France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-       var office = L.map("office").setView([48.12576, -1.62312], 18);
+       var office = L.map("office").setView([48.04615, -1.74530], 18);
 
        L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
            attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
        }).addTo(office);
 
-       L.marker([48.12576, -1.62312]).addTo(office)
-           .bindPopup("Mr Lilian Besson,<br>Office 329 - SCEE Team,<br>CentraleSupélec - Campus de Rennes,<br>Avenue de la Boulaie - CS 47601,<br>35576 - Cesson-Sévigné,<br>France.")
+       L.marker([48.04615, -1.74530]).addTo(office)
+           .bindPopup("Mr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
            .openPopup();
    </script>
 
@@ -103,14 +103,14 @@ If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrs
    :scale: 40 %
    :align: right
    :alt:   My email address in a PNG picture…
-   :target: mailto:Lilian.Besson at ens-cachan dot fr
+   :target: mailto:Lilian.Besson at ens-rennes dot fr
 
 
 If you are *not* a *spammer*, go on, you can use one of these email addresses:
 
-- `Lilian dot Besson at ens-cachan dot fr <mailto:Lilian dot Besson at ens-cachan dot fr>`_
-- `Lilian dot Besson at centralesupelec dot fr <mailto:Lilian dot Besson at centralesupelec dot fr>`_
+- `Lilian dot Besson at ens-rennes dot fr <mailto:Lilian dot Besson at ens-rennes dot fr>`_
 - `Lilian dot Besson at inria dot fr <mailto:Lilian dot Besson at inria dot fr>`_
+- `Lilian dot Besson at crans dot org <mailto:Lilian dot Besson at crans dot org>`_
 
 .. note::
 
@@ -156,8 +156,7 @@ and on Bitbucket : `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama
 
 Forms on some web pages
 ^^^^^^^^^^^^^^^^^^^^^^^
-* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.ens-cachan.fr/version-anglaise/directory/besson-lilian-128786.kjsp>`_ for `ENS Cachan <http://www.ens-cachan.fr/>`_ : http://perso.crans.org/besson/contact,
-* or if it is related to one of my pages or softwares, you could signal a bug with this form: https://bitbucket.org/lbesson/home/issues/new. But **it is not designed to contact me directly!**
+* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ for `ENS de Rennes <http://www.ens-rennes.fr/>`_ : `https://perso.crans.org/besson/contact <https://perso.crans.org/besson/contact>`_
 
 HTML5 Services
 ^^^^^^^^^^^^^^
