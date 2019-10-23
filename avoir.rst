@@ -149,12 +149,6 @@ peut-être consultée avec le flux `rss <https://bitbucket.org/lbesson/web-sphin
 
 .. git_changelog::
 
-``sphinx_pyreverse``
-^^^^^^^^^^^^^^^^^^^^
-.. .. uml:: scripts/python/lib/python2.7/json
-
-.. uml:: scripts/test_pyreverse
-
 
 ``sphinxcontrib.bitbucket``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
