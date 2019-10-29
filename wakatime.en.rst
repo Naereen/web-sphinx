@@ -227,14 +227,12 @@ Then, in order to be able to use the tool, you will need to add `your API Key (a
     wakatime -api yourApiKeyHere
 
 
-For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the lat 7 days.
+For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTimeCLI/blob/master/src/lib/wakatime.js#L245>`_ gives the total time spent in your text editor(s) during the last 7 days.
 
 
 .. runblock:: console
 
-   $ wakatime | head -n3
+   $ wakatime -w
 
-
-.. warning:: I do not know why, but this small ``wakatime`` command line tool does not work anymore on my laptop (even after uninstalling and reinstalling)… Too bad :( !
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/

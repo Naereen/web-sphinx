@@ -232,9 +232,6 @@ Par exemple, la commande `wakatime -w <https://github.com/JoshLankford/WakaTimeC
 
 .. runblock:: console
 
-   $ wakatime | head -n3
-
-
-.. attention:: Je ne sais pas pourquoi, mais ce script ``wakatime`` en ligne de commande ne fonctionne plus sur mon ordinateur (même après une désinstallation et réinstallation).. Dommage :( !
+   $ wakatime -w
 
 .. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
