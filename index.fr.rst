@@ -19,7 +19,7 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
 
 Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
-Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
+Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_à de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
 
 
 Entre septembre 2016 et août 2019 :

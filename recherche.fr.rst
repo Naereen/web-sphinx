@@ -14,10 +14,18 @@
 Liens : `Orcid <https://orcid.org/0000-0003-2767-2563>`__ • `arXiv <https://arxiv.org/search/?searchtype=author&query=Besson%2C+Lilian>`__ • `DBLP <https://dblp.uni-trier.de/pers/hd/b/Besson:Lilian>`__ • `IdHAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`__ • `Google Scholar <https://scholar.google.fr/citations?user=bt3upq8AAAAJ>`__ • `HALtools <https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Lilian%2C+Besson&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css>`__ • `Liste de mes articles en PDF <https://perso.crans.org/besson/articles/>`__
 
 
+Après ma thèse (2019-)
+----------------------
+
+En cours…
+
+
 Thèse de doctorat (PhD) (2016-19)
 ---------------------------------
 
 Pour mon doctorat, mes recherches portent sur l'apprentissage machine appliqué, centré sur l'apprentissage en ligne à faible coût avec de l'information partielle ("feedback bandit"). Mes recherches s'appliquent principalement aux problèmes de radio intelligente pour l'Accès Opportuniste au Spectre (*OSA*) et mise en place de protocoles d'accès au réseau le plus fiables possible, pour les futurs réseaux de l'Internet des Objets (*IoT*). En étudiant et en appliquant des algorithmes classiques de Bandit Multi-Bras (*MAB*), et d'autres plus récents, nous sommes en mesure de prouver certaines garanties de performance, à la fois numériquement via des simulations et théoriquement via des preuves statistiques.
+
+J'ai soutenu le 20 novembre 2019. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 
 Liste de publications
 ~~~~~~~~~~~~~~~~~~~~~
@@ -41,14 +49,16 @@ Liste de publications
 - `Multi-Armed Bandit Learning in IoT Networks and non-stationary settings <https://hal.inria.fr/hal-01575419/document>`__, par `R. Bonnefoi <https://remibonnefoi.wordpress.com/>`__, **L. Besson**, `C. Moy <https://moychris.wordpress.com/>`__, `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__ et J. Palicot. `CrownCom <http://crowncom.org/2017/>`__ (*Conference on Cognitive Radio Oriented Wireless Networks*), Lisbonne, Portugal, septembre 2017, `HAL-01575419 <https://hal.inria.fr/hal-01575419>`__ et `affiche <https://hal.inria.fr/hal-02013839/document>`__, **prix du meilleur article**.
 
 
-`Travaux soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__
-ou en cours de réécriture pour une nouvelle soumission :
+`Travaux soumis <https://scholar.google.com/citations?user=bt3upq8AAAAJ?hl=fr>`__ :
 
 - `Decentralized Spectrum Learning for Radio Collision Mitigation in Ultra-Dense IoT Networks: LoRaWAN Case Study and Measurements <https://hal.inria.fr/hal-02006471/document>`__, par C. Moy, **L. Besson**, G. Delbarre et L. Toutain, juillet 2019. Soumis à un numéro spécial de la revue `Annals of Telecommunications <https://annalsoftelecommunications.wp.imt.fr>`__, à propos de "Machine Learning for Intelligent Wireless Communications and Networking".
 
 - `The Generalized Likelihood Ratio Test meets klUCB: an Improved Algorithm for Piece-Wise Non-Stationary Bandits <https://hal.inria.fr/hal-02006471/document>`__, by **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, février 2019. Lisez `cette page à propos du code des simulations et plus de détails <https://smpybandits.github.io/NonStationaryBandits.html#example-of-simulation-configuration>`__, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`__.
 
 - `SMPyBandits: an Open-Source Research Framework for Single and Multi-Players Multi-Arms Bandits (MAB) Algorithms in Python <https://hal.inria.fr/hal-01840022/document>`__, par **L. Besson**, développement depuis octobre 2016 et encore actif, `HAL-01840022 <https://hal.inria.fr/hal-01840022>`__. Code sur `GitHub.com/SMPyBandits <https://GitHub.com/SMPyBandits/SMPyBandits>`__ (environ 40000 lignes), documentation sur `SMPyBandits.rtfd.io <https://SMPyBandits.rtfd.io>`__.
+
+
+Travaux en cours de réécriture pour une nouvelle soumission :
 
 - `What Doubling-Trick Can and Can’t Do for Multi-Armed Bandits <https://hal.inria.fr/hal-01736357/document>`__, par **L. Besson** et `E. Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`__, septembre 2018, `HAL-01736357 <https://hal.inria.fr/hal-01736357>`__.
 
