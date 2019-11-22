@@ -19,11 +19,13 @@ in Mathematics and Computer Science at |ENSCachan|.
 
 From August 2019, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
+I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA and INRIA Rennes. My research interests lie between sequential learning, tensor decomposition, cognitive radio, Python and open source software, and other directions.
 
-From September 2016 and until August 2019:
 
-- I am pursuing `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL lab, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD is on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems.
-- And I am `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+Between September 2016 and August 2019:
+
+- I was pursuing `my PhD <phd/>`_ at CentraleSupélec (`SCEE team <http://www-scee.rennes.supelec.fr/wp/>`_, `IETR lab <https://www.ietr.fr/spip.php?auteur1069>`_) in Rennes (France), with `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ and `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`SequeL team, CRIStAL lab, at Lille <https://team.inria.fr/sequel/team-members/>`_). My PhD was on multi-players multi-arms bandits models applied to radio-telecommunication, especially I-o-T problems. I now hold a PhD in telecommunications. My PhD `thesis is here <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ and the slides used for my defense are `there <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
+- And I was `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
 ------------------------------------------------------------------------------

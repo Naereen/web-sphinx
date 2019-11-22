@@ -24,7 +24,7 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. J'ai envoyé mon manuscrit début juillet 2019 et je vais soutenir en novembre 2019.
+- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. J'ai envoyé mon manuscrit début juillet 2019 et j'ai soutenu en novembre 2019 !
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
 
 Voyages
@@ -34,8 +34,8 @@ Voyages
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 3`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis un en juillet 2019.
+- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 4`… Mais ça monte… lentement…
+- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis un en juillet 2019…
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
 
 Code et programmation

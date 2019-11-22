@@ -63,18 +63,21 @@ Septembre 2019
 --------------
 - 🎉🎉🎉🎉 Ma première rentrée en tant qu'enseignant non-étudiant ! Après 10 années d'étude !
 - Un super weekend de fête de famille dans les Alpes !
-- Un début d'automne rempli de déceptions et de tristesse aussi, mais plein de changements positifs s'annoncent dans ma vie… !
-
-.. warning:: La suite est… dans le futur !
+- Un début d'automne rempli de déceptions, et de tristesses aussi, mais plein de changements positifs s'annoncent dans ma vie… !
 
 Octobre 2019
 ------------
-- TODO
+- Des visites à Lyon, je commence à aimer cette ville !
+- Mes cours à l'ENS de Rennes se passent bien, j'apprécie beaucoup mes heures passées à `enseigner l'algorithmique aux élèves de L3 <https://perso.crans.org/besson/info1_algo1_2019/>`_.
+- Une chouette semaine de vacances en Bretagne, à se reposer et préparer ma soutenance de thèse !
 
 Novembre 2019
 -------------
-- 🎉🎉🎉🎉🎉 Ma soutenance de thèse ! 🎉🎉🎉🎉
-- TODO
+- Ma dernière visite à l'équipe `SequeL à Inria Lille <https://team.inria.fr/sequel/>`_, pour présenter mes travaux de thèse.
+- 🎉🎉🎉🎉🎉 Ma soutenance de thèse ! 🎉🎉🎉🎉 Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
+- J'ai rejoins `l'équipe-projet PANAMA <https://team.inria.fr/panama/>`_ à l'IRISA / Inria Rennes, en tant que collaborateur extérieur.
+
+.. warning:: La suite est… dans le futur !
 
 Décembre 2019
 -------------
