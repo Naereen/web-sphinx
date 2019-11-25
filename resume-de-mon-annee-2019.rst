@@ -67,9 +67,9 @@ Septembre 2019
 
 Octobre 2019
 ------------
-- Des visites à Lyon, je commence à aimer cette ville !
+- Encore d'autres visites à Lyon, je commence à aimer cette ville !
 - Mes cours à l'ENS de Rennes se passent bien, j'apprécie beaucoup mes heures passées à `enseigner l'algorithmique aux élèves de L3 <https://perso.crans.org/besson/info1_algo1_2019/>`_.
-- Une chouette semaine de vacances en Bretagne, à se reposer et préparer ma soutenance de thèse !
+- Une chouette semaine de vacances en famille, en Bretagne, à me reposer et préparer ma soutenance de thèse !
 
 Novembre 2019
 -------------
@@ -97,7 +97,7 @@ En 2019, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - Rabat et Marrakech, au Maroc, en avril,
 - Madrid, en Espagne, en avril,
-- Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon & Arles & Marseille en juillet, Périgord & Bretagne en août etc…
+- Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon & Arles & Marseille en juillet, Périgord & Bretagne en août, et Lyon depuis août etc…
 - TODO
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
@@ -112,6 +112,7 @@ En 2019, j'ai vu ces séries…
 - Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve, c'est la dernière !),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
 - Saison 8 de *Game of Thrones* (Arya t'es la meilleure),
+- Saison 3 de *Stranger Things*,
 - TODO
 
 En 2019, j'ai lu ces livres…
@@ -127,6 +128,7 @@ En 2019, j'ai lu ces livres…
 - Des nouvelles du recueil *Les rois des sables*, de George R. R. Martin (j'adore aussi !);
 - *Le petit maître* et *Le rêve d'un homme ridicule*, de Fedor Dostoïevsky,
 - *Seul dans la splendeur*, de John Keats (en cours),
+- *Actuel Moyen-Âge II* (voir `sur le site d'Arkhé éditions <https://www.arkhe-editions.com/livre/actuel-moyen-age-deux/>`_),
 - Et d'autres que j'ai oublié de noter…
 
 En 2019, j'ai vu ces films…
@@ -137,6 +139,8 @@ En 2019, j'ai vu ces films…
 - *Mulholland Drive*, de David Lynch,
 - *Bohemian Rhapsody*, de Bryan Singer,
 - *La boulangère de Monceau*, de Éric Rohmer,
+- *Plaire, aimer, courir vite*, de Christophe Honoré,
+- *Chambre 212*, de Christophe Honoré,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

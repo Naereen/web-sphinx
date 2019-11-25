@@ -19,7 +19,7 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
 
 Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
 
-Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_à de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
+Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ à de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
 
 
 Entre septembre 2016 et août 2019 :
@@ -56,13 +56,13 @@ N'hésitez pas à me *contacter* :
 
 Les trois dernières années (2016-19)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* J'effectuais ma thèse de doctorat. Lisez `cette page là <https://perso.crans.org/besson/me/index.fr.html>`_ pour plus de détails.
+* J'effectuais ma thèse de doctorat. Lisez `cette page là <https://perso.crans.org/besson/me/index.fr.html>`_ pour plus de détails. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 
 En *2015-16*
 ^^^^^^^^^^^^
 * J'étais `stagiaire en recherche <https://people.epfl.ch/lilian.besson>`_ dans l'`équipe LIB <http://bigwww.epfl.ch/people.html>`_ à l'`EPFL (Lausanne, Suisse) <http://www.epfl.ch/>`_, entre avril et août 2016, sous la direction de `Julien Fageot <http://bigwww.epfl.ch/fageot/index.html>`_ et `Michael Unser <http://bigwww.epfl.ch/unser/>`_. Allez voir `le dépôt git pour mon stage <https://bitbucket.org/lbesson/internship-mva-2016>`_ (mon `mémoire de master <https://goo.gl/xPzw4A>`_ est terminé) !
 
-* J'ai obtenu le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan`_), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. J'ai *majoré* le master MVA en 2015-16, avec 13 cours et la note finale de **18.43 / 20** (`"très bien avec félicitations du jury" <https://fr.wikipedia.org/wiki/Mention_honorifique>`_).
+* J'ai obtenu le `master MVA <http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/>`_ (à l'`ÉNS de Cachan <http://www.ens-cachan.fr/>`_, désormais l'ENS de Paris-Saclay), un master en maths appliquées, spécialisé en `apprentissage statistique <https://fr.wikipedia.org/wiki/Apprentissage_automatique>`_ et en `optimisation numérique <https://fr.wikipedia.org/wiki/Optimisation_(mathématiques)>`_. Cf. `mes documents produits pour le MVA <./publis/mva-2016/>`_, et `6 projets <https://bitbucket.org/lbesson/profile/repositories?search=MVA>`_ : `PCS <http://lbesson.bitbucket.io/pcs2016>`_, `PGM <http://lbesson.bitbucket.io/pgm2016>`_, `RL / GML <http://lbesson.bitbucket.io/gml2016>`_, `Kernel <http://lbesson.bitbucket.io/kernel2016>`_, `Brain Imaging <http://lbesson.bitbucket.io/brain2016>`_, `Neuro-Sciences <http://lbesson.bitbucket.io/neuro2016>`_. J'ai *majoré* le master MVA en 2015-16, avec 13 cours et la note finale de **18.43 / 20** (`"très bien avec félicitations du jury" <https://fr.wikipedia.org/wiki/Mention_honorifique>`_).
 
 * J'étais aussi `colleur en maths <enseignement.fr.html>`_ et `chargé de TD en informatique <infoMP/>`_ en classe prépa' MP, au `Lycée Lakanal <http://www.lyc-lakanal-sceaux.ac-versailles.fr/>`_ à Sceaux.
 

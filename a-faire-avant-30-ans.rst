@@ -24,7 +24,7 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. J'ai envoyé mon manuscrit début juillet 2019 et j'ai soutenu en novembre 2019 !
+- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
 
 Voyages
@@ -35,14 +35,14 @@ Voyages
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 4`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis un en juillet 2019…
+- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019…
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà plus de 500, avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà presque 700 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -86,8 +86,9 @@ Personnellement
 - Continuer d'être toujours aussi *gentil* que possible.
 - Me prendre moins la tête !
 - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
-- Perdre un peu de poids !
+- 👌 OK - Perdre un peu de poids ! TODO ne pas le perdre !
 - Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
+- M'investir dans des associations écologistes à Rennes !
 
 Voyages
 ^^^^^^^
@@ -149,7 +150,7 @@ Famille
 ^^^^^^^
 - *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
 - *Devenir un super tonton*. Ça, je devrais gérer, conditionnellement à l'événement précédent.
-- *Devenir papa* ?? Ou pas. Peut-être pas en fait. Peut-être ? Ou pas. (Oui, je ne sais pas)
+- *Devenir papa* ?? Ou pas. Peut-être pas en fait. Peut-être ? Ou pas. Probablement pas. (Oui, je ne sais pas)
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
