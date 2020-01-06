@@ -77,12 +77,10 @@ Novembre 2019
 - 🎉🎉🎉🎉🎉 Ma soutenance de thèse ! 🎉🎉🎉🎉 Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 - J'ai rejoins `l'équipe-projet PANAMA <https://team.inria.fr/panama/>`_ à l'IRISA / Inria Rennes, en tant que collaborateur extérieur.
 
-.. warning:: La suite est… dans le futur !
-
 Décembre 2019
 -------------
-- TODO
-
+- Fêtes en famille sous la neige à Briançon.
+- Une fin d'année difficilement question moral. Mais ça ira mieux…
 
 .. note:: C'est tout pour 2019, à dans un an pour `la suite <resume-de-mon-annee-2020.html>`_ !
 
@@ -141,6 +139,7 @@ En 2019, j'ai vu ces films…
 - *La boulangère de Monceau*, de Éric Rohmer,
 - *Plaire, aimer, courir vite*, de Christophe Honoré,
 - *Chambre 212*, de Christophe Honoré,
+- *Star Wars IX : L'ascension de Skywalker*,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

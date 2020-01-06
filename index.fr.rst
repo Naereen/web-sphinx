@@ -160,6 +160,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    resume-de-mon-annee-2017
    resume-de-mon-annee-2018
    resume-de-mon-annee-2019
+   resume-de-mon-annee-2020
    freedns
    time
    bitbucket-features.fr
