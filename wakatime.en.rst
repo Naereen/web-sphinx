@@ -159,6 +159,16 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 - And for the choice of languages, I mainly used `Python <https://wakatime.com/leaders/python>`_ (217 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (115 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (175 h), and `reStructuredText <demo.html>`_ (13 h), Bash (11h), CSS (8h); and all other languages are less than 5h/year away (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
 
 
+`Overview of my coding time in 2019 <https://wakatime.com/a-look-back-at-2019>`__
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- A lot less than in 2018 I coded about 500 hours in total in 2019 (508h), while the average number for WakaTime users was 289h.
+- A very stable daily average, at 2 hours 15 minutes in 2019, while the average for WakaTime users was 47 minutes.
+- My most intense day was January 28, 2019, with 8h 58 minutes. I think it was to finish this article, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`_!
+- I coded 100% under GNU/Linux (I'm a XUbuntu fan as always), and 100% with `Visual Studio Code <visualstudiocode.html>`_. GNU Nano, Firefox and Jupyter are not counted (but `uLogMe <https://github.com/Naereen/uLogMe/>`_ tells me that I spend less time there anyway, although I used Jupyter much more in 2019, with these two projects `ALGO1-Info1-2019 <https://github.com/Naereen/ALGO1-Info1-2019/>`_ and `notebooks <https://github.com/Naereen/notebooks/>`_).
+- Projects by projects, I coded `226h for my PhD thesis <https://github.com/Naereen/phd-thesis/>`_, `63h for this project for my thesis (SMPyBandits) <https://smpybandits.github.io/>`_, `58h for my slides <https://github.com/Naereen/slides>`_.
+- And for the choice of languages, I mainly used `LaTeX <https://wakatime.com/leaders/latex>`_ (363 h), `Python <https://wakatime.com/leaders/python>`_ (77 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (29 h); and all other languages are less than 5h/year away (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
+
+
 Short overview of my total coding time since 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
