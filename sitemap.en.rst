@@ -22,4 +22,4 @@ The whole sitemap is `there in a XML file <sitemap.xml>`_, or `gzipped <sitemap.
    404
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

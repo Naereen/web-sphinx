@@ -372,4 +372,4 @@ First-year BSc research project (2009-2010)
  * :Abstract: implementation of a two players chess game, and of a simple AI (quite inefficient, naive and slow, but functional). About **7000 lines of TI-Basic code**, one of the biggest project for *TI-82* calculator (*an old one : 6 MHz, 28 Ko of RAM!*).
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

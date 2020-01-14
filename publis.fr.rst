@@ -352,4 +352,4 @@ Vieux documents (inutiles).
  Les slides de mon séminaire sur les outils de documentation, fait en Mars 2013 pour le `CRANS <http://www.crans.org>`_ (en français).
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

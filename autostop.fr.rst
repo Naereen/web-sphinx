@@ -169,4 +169,4 @@ Quelques remarques à propos des gentils automobilistes qui acceptent de prendre
 * et souvent des gens du coin (de départ ou d'arrivée);
 * *Last but the not the least* : souvent des gens gentils ! Merci à eux !!
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

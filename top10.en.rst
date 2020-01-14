@@ -198,4 +198,4 @@ My 10 favorite **book writers**
 - `Émile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th),
 - `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_),
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

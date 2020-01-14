@@ -214,4 +214,4 @@ Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
 ``.. totolist::``, comme dans la page `todo <todo.html>`_.
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

@@ -40,4 +40,4 @@ Flux valide ?
 Normalement, le flux écrit à la main est valide, comme le montre le lien suivant :
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

@@ -44,4 +44,4 @@ What about my use of Zotero?
 
 Zotero is a trustworthy software, very popular, simple and efficient.
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

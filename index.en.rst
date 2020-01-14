@@ -155,4 +155,4 @@ For more details, see `<sitemap.en.html>`_.
    hitch-hiking.en
    packing.en
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

@@ -92,4 +92,4 @@ A rST file (the source code of this page!)
    <noscript>Javascript is disabled, impossible to include this file <a href="https://bitbucket.org/lbesson/web-sphinx/raw/master/bitbucket-features.en.rst">bitbucket-features.en.rst</a>.</noscript>
 
 
-.. (c) Lilian Besson, 2011-2019, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
