@@ -73,14 +73,15 @@ Octobre 2019
 
 Novembre 2019
 -------------
-- Ma dernière visite à l'équipe `SequeL à Inria Lille <https://team.inria.fr/sequel/>`_, pour présenter mes travaux de thèse.
+- Ma dernière visite à l'équipe `SequeL à Inria Lille <https://team.inria.fr/sequel/>`_, pour présenter mes travaux de thèse. J'adore cette équipe, ces gens, cette ville… Je vais essayer d'y retourner quelques fois en 2020 !
 - 🎉🎉🎉🎉🎉 Ma soutenance de thèse ! 🎉🎉🎉🎉 Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 - J'ai rejoins `l'équipe-projet PANAMA <https://team.inria.fr/panama/>`_ à l'IRISA / Inria Rennes, en tant que collaborateur extérieur.
 
 Décembre 2019
 -------------
+- Quasiment 5 ans après mon année passée en Inde, durant laquelle j'enseignais à `Mahindra École Centrale <http://www.mahindraecolecentrale.com>`_ et pour laquelle j'avais conçu et dirigé des examens de fin de semestre, j'ai de nouveau dû concevoir et corriger un examen terminal de fin de semestre, cette fois pour mon `cours d'algorithmique (ALGO1) <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_ pour mes élèves de L3 de `l'ENS Rennes <https://www.ens-rennes.fr/>`_.
 - Fêtes en famille sous la neige à Briançon.
-- Une fin d'année difficilement question moral. Mais ça ira mieux…
+- Une fin d'année difficile question moral et motivation. Mais ça ira mieux…
 
 .. note:: C'est tout pour 2019, à dans un an pour `la suite <resume-de-mon-annee-2020.html>`_ !
 
@@ -96,22 +97,19 @@ En 2019, j'ai voyagé là…
 - Rabat et Marrakech, au Maroc, en avril,
 - Madrid, en Espagne, en avril,
 - Lille en janvier et juin et août, Marseille en février et juillet, Paris en mai et en juin, Avignon & Arles & Marseille en juillet, Périgord & Bretagne en août, et Lyon depuis août etc…
-- TODO
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
 En 2019, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Fire Emblem : New Mystery of The Emblem <http://www.heroesofshadow.net/p/readme.html>`_, sur Nintendo DS, dans une traduction en anglais faite par des fans.
-- TODO
 
 En 2019, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 12 de *The Big Bang Theory* (toujours aussi drôle je trouve, c'est la dernière !),
 - Saison 2 de *Young Sheldon* (correct mais pas ultime non plus),
 - Saison 8 de *Game of Thrones* (Arya t'es la meilleure),
-- Saison 3 de *Stranger Things*,
-- TODO
+- Saison 3 de *Stranger Things* (nul).
 
 En 2019, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,7 +138,6 @@ En 2019, j'ai vu ces films…
 - *Plaire, aimer, courir vite*, de Christophe Honoré,
 - *Chambre 212*, de Christophe Honoré,
 - *Star Wars IX : L'ascension de Skywalker*,
-- TODO
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

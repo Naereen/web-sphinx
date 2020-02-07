@@ -36,13 +36,13 @@ Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 4`… Mais ça monte… lentement…
 - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019…
-- Publier au moins un article dans une *conférence de classe internationale* dite ``A*`` ??
+- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ??
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà presque 700 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà presque 800 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -86,9 +86,9 @@ Personnellement
 - Continuer d'être toujours aussi *gentil* que possible.
 - Me prendre moins la tête !
 - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
-- 👌 OK - Perdre un peu de poids ! TODO ne pas le perdre !
+- 👌 OK - Perdre un peu de poids ! TODO ne pas le re prendre !
 - Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
-- M'investir dans des associations écologistes à Rennes !
+- M'investir dans des associations écologistes à Rennes !?
 
 Voyages
 ^^^^^^^
@@ -110,11 +110,12 @@ Activités
 ^^^^^^^^^
 - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
 - Jouer souvent à des jeux de société !
-- Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
+- 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
+- Apprendre à jouer d'un instrument de musique, et lire des partitions. J'apprends le piano depuis mi-janvier 2020 !
 - Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais je n'en ai plus fait depuis des années !)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
 - 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!

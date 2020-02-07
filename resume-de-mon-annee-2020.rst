@@ -13,10 +13,14 @@ J'ai rédigé ça au fur et à mesure de l'année, avec une dernière rédaction
 
 Janvier 2020
 ------------
-- TODO
+- Un chouette moment de mon année d'enseignement, une visite des laboratoires de recherche en informatique à Bordeaux (LaBRI et Inria Bordeaux) avec mes élèves de L3 et M1 du département Informatique de l'ENS de Rennes. Très sympa de prendre ces responsabilités !
+- Un anniversaire de mes 27 ans assez original, et des nouvelles rencontres variées et intéressantes.
+- Je me suis (enfin) mis au piano !
 
 Février 2020
 ------------
+- Une excellente expérience lors de ma première participation à la `conférence Didapro <https://www.didapro.org/8/>`_, à Lille, durant trois jours. C'est une conférence sur l'enseignement et la didactique de l'informatique, et j'ai ADORÉ les différentes sessions, les rencontres professionnelles et ce que j'y ai appris.
+- Un petit weekend à la montagne, trop rapide, mais très agréable !
 - TODO
 
 Mars 2020
@@ -70,6 +74,7 @@ Résumé culturel
 
 En 2020, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
+- En France : à Paris, à Bordeaux, à Lille, à Marseille, etc.
 - TODO
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
@@ -80,17 +85,21 @@ En 2020, j'ai joué à ces jeux vidéo…
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 1 de *The Mandalorean*,
+- Saison 1 de *The Mandalorean* (bof),
+- Saisons 5 et 6 de *Star Wars: the Clone Wars* (géniale mais bizarre),
+- Saisons 4 de *Star Wars: Rebels* (pas mal),
 - TODO
 
 En 2020, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- TODO
 - *Ce qu'ils disent ou rien*, de Annie Ernaux (encore, j'adore toujours autant),
+- La *Trilogie Yan Solo*,
+- TODO
 - Et d'autres que j'ai oublié de noter…
 
 En 2020, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Once upon a Time in… Holliwood*, de Quentin Tarantino,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
