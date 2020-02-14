@@ -15,7 +15,7 @@ Janvier 2020
 ------------
 - Un chouette moment de mon année d'enseignement, une visite des laboratoires de recherche en informatique à Bordeaux (LaBRI et Inria Bordeaux) avec mes élèves de L3 et M1 du département Informatique de l'ENS de Rennes. Très sympa de prendre ces responsabilités !
 - Un anniversaire de mes 27 ans assez original, et des nouvelles rencontres variées et intéressantes.
-- Je me suis (enfin) mis au piano !
+- Je me suis (enfin) mis au piano ! J'apprends à jouer `ce morceau de Bach <http://www.partition-piano.org/piano/prelude-de-bach.html>`_.
 
 Février 2020
 ------------
