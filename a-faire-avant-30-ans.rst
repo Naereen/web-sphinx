@@ -42,7 +42,7 @@ Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà presque 800 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà plus de 800 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
