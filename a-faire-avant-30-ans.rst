@@ -141,7 +141,7 @@ J'aime beaucoup cuisiner moi-même, et je suis très curieux de réussir certain
 
 Vacances
 ^^^^^^^^
-- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 100/150 kms par jour, une semaine).
+- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 100/150 kms par jour, une semaine). *OK* Fin mai 2020, je vais faire la course `la Clacyclo <https://www.clacyclo.fr/>`_ avec un de mes meilleurs amis !
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
 - Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en … août 2007).

@@ -21,10 +21,12 @@ Février 2020
 ------------
 - Une excellente expérience lors de ma première participation à la `conférence Didapro <https://www.didapro.org/8/>`_, à Lille, durant trois jours. C'est une conférence sur l'enseignement et la didactique de l'informatique, et j'ai ADORÉ les différentes sessions, les rencontres professionnelles et ce que j'y ai appris.
 - Un petit weekend à la montagne, trop rapide, mais très agréable !
-- TODO
+- Un ou deux concerts de musique, souvent du classique et quelques fois du contemporain, à Rennes et ailleurs.
 
 Mars 2020
 ---------
+- Petit voyage pendant mes vacances de février, à Avignon, Marseille, Arles, Lyon !
+- Un chouette mariage à Lyon fin mars,
 - TODO
 
 Avril 2020
@@ -81,7 +83,7 @@ En 2020, j'ai voyagé là…
 
 En 2020, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- TODO
+- En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,13 +95,15 @@ En 2020, j'ai vu ces séries…
 En 2020, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Ce qu'ils disent ou rien*, de Annie Ernaux (encore, j'adore toujours autant),
-- La *Trilogie Yan Solo*,
+- `La *Trilogie Yan Solo* <https://fr.wikipedia.org/wiki/La_Trilogie_Yan_Solo>`_, de Ann C. Crispin,
+- `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
 En 2020, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Once upon a Time in… Holliwood*, de Quentin Tarantino,
+- *Avengers: Endgame*, le dernier film de la série Avengers,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
