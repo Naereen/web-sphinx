@@ -15,8 +15,12 @@
 Mon état de santé en temps réel
 -------------------------------
 
-Haha, on est en 2020 mais je déteste Twitter.
-Les informations ci dessous seront mises à jour le matin et le soir.
+Haha, on est en 2020, je pourrais utiliser une solution plus "moderne", mais je déteste Twitter. Je vais poster des choses sur mon mur Facebook, mais normalement, comme d'habitude.
+
+Les informations ci-dessous seront mises à jour le matin et le soir, et concernent davantage mon état de santé. L'historique (git) de cette page me servira de carnet de bord.
+
+.. todo:: A garder à jour au moins une fois par jour !
+
 
 - Télétravail depuis vendredi 13 mars, et je suis ravi, j'ai à manger et tout ce qu'il me faut chez moi pour 3/6 semaines.
 - Vendredi 13/03 au soir j'ai eu des difficultés à respirer, comme une crise d'asthme. Nuit parfaite.
@@ -24,18 +28,11 @@ Les informations ci dessous seront mises à jour le matin et le soir.
 - Je me suis promené en étant très prudent, entre 14h et 18h50, pour faire des courses (quartier rue de Paris à Jeanne d'Arc, place de la Mairie et rues entre les deux).
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
 - Je n'ai pas appelé le SAMU, aucun besoin. Je suis désormais en isolement complet jusqu'à nouvel ordre.
-- Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou `inria.fr`, ou par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
-
 
 .. note::
 
     Bonne chance à vous tous :-) Soyez prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
-
-
-.. note::
-
-    Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
-    Bienvenue sur mon site web.
+    Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou `inria.fr`, ou par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
 
 
 Télétravail pendant l'épidémie de Coronavirus
@@ -46,7 +43,7 @@ A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Renne
 Je décris dans cette page web comment je vais (faire de mon mieux) enseigner à distance, pendant cette période.
 
 
-.. todo:: finish!
+.. todo:: attendre les réunions de lundi, et lister ici plein d'idées, de techniques, et d'outils.
 
 ---------------------------------------------
 
@@ -59,5 +56,12 @@ Je serai `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/rec
 - En charge du cours `d'Introduction à l'Algorithmique <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** pour les élèves en L3 (première année) à l'ENS de Rennes (voir `la page du même cours au département de maths <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, donné par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / an)
 - Chargé de TD pour le cours `d'Algorithmique avancée <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ **(ALGO2)** pour les élèves en L3 (première année) à l'ENS de Rennes, donné par `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / an)
 - Aussi en charge du `séminaire bi-hebdomadaire du département Informatique <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, des visites de laboratoire, des stages des élèves en L3 (première année) à l'ENS de Rennes, et aussi des admissions sur dossier. (60h / an)
+
+
+.. note::
+
+    Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
+    Bienvenue sur mon site web.
+
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
