@@ -29,6 +29,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
 - Je n'ai pas appelé le SAMU, aucun besoin. Je suis désormais en isolement complet jusqu'à nouvel ordre.
 - Samedi 14/03 21h30 : marre de compiler le site web à la main, j'ai écrit `ce script <https://bitbucket.org/lbesson/bin/src/master/corona_virus_update_iam_alive>`_ pour mettre cette page web automatiquement.
+- Samedi 14/03 23h59 : le `gouvernement a décidé de fermer quasiment tout <https://www.lemonde.fr/politique/live/2020/03/14/en-direct-edouard-philippe-annonce-la-fermeture-de-tous-les-lieux-publics-non-indispensables_6033113_823448.html>`_. ENFIN
 
 .. note::
 
