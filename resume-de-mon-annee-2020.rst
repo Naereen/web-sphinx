@@ -27,7 +27,13 @@ Mars 2020
 ---------
 - Un court voyage pendant mes vacances de février, à Avignon, Marseille, Arles, Lyon !
 - Une rencontre fort sympathique début mars pour le travail et le plaisir, à Lyon !
-- Un chouette mariage à Lyon fin mars, avec des ami-e-s de `l'ENS Cachan <https://www.ens-paris-saclay.fr/>`_.
+
+- Début des mesures d'isolement pour lutter contre l'épidémie de Coronavirus, télétravail dès le 13 mars.
+
+.. note:: Page dédiée à cet événement
+
+    Consultez cette page : `<coronavirus.fr.html>`_.
+
 
 Avril 2020
 ----------
@@ -84,6 +90,7 @@ En 2020, j'ai voyagé là…
 En 2020, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
+- … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers). Si le confinement dure trop longtemps, je pense acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,6 +111,7 @@ En 2020, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Once upon a Time in… Holliwood*, de Quentin Tarantino,
 - *Avengers: Endgame*, le dernier film de la série Avengers,
+- *Patéma : le monde inversé*, un chouette film d'animation japonais,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
