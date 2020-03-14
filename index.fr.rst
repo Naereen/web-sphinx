@@ -8,6 +8,12 @@
 
 À propos (de moi)
 -----------------
+
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements
+
+    Veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
+
+
 Bonjour !
 Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 à |ENSCachan|.

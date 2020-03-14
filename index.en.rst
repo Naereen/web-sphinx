@@ -8,6 +8,12 @@
 
 A few words about me
 --------------------
+
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities
+
+    Please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a day (as of 13/03/2020).
+
+
 Greetings!
 I am **Lilian Besson**, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 in Mathematics and Computer Science at |ENSCachan|.
