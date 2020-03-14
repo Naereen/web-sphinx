@@ -28,6 +28,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Je me suis promené en étant très prudent, entre 14h et 18h50, pour faire des courses (quartier rue de Paris à Jeanne d'Arc, place de la Mairie et rues entre les deux).
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
 - Je n'ai pas appelé le SAMU, aucun besoin. Je suis désormais en isolement complet jusqu'à nouvel ordre.
+- Samedi 14/03 21h30 : marre de compiler le site web à la main, j'ai écrit `ce script <https://bitbucket.org/lbesson/bin/src/master/corona_virus_update_iam_alive>`_ pour mettre cette page web automatiquement.
 
 .. note::
 
