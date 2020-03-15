@@ -6,16 +6,14 @@
  Activités de recherche
 ########################
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements
-
-    Veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
-
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
 
 
 .. note::
 
     Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
     Bienvenue sur mon site web.
+
 
 Liens : `Orcid <https://orcid.org/0000-0003-2767-2563>`__ • `arXiv <https://arxiv.org/search/?searchtype=author&query=Besson%2C+Lilian>`__ • `DBLP <https://dblp.uni-trier.de/pers/hd/b/Besson:Lilian>`__ • `IdHAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`__ • `Google Scholar <https://scholar.google.fr/citations?user=bt3upq8AAAAJ>`__ • `HALtools <https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Lilian%2C+Besson&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css>`__ • `Liste de mes articles en PDF <https://perso.crans.org/besson/articles/>`__
 

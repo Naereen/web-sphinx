@@ -9,9 +9,7 @@
 A few words about me
 --------------------
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities
-
-    Please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a day (as of 13/03/2020).
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a day (as of 13/03/2020).
 
 
 Greetings!
@@ -115,10 +113,11 @@ For more details, see `<sitemap.en.html>`_.
    :maxdepth: 2
    :titlesonly:
 
+   coronavirus.en
    callme.en
+   teaching.en
    cv.en
    research.en
-   teaching.en
    cookies.en
    README
    publis.en
