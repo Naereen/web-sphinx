@@ -31,6 +31,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Samedi 14/03 21h30 : marre de compiler le site web à la main, j'ai écrit `ce script <https://bitbucket.org/lbesson/bin/src/master/corona_virus_update_iam_alive>`_ pour mettre cette page web automatiquement.
 - Samedi 14/03 23h59 : le `gouvernement a décidé de fermer quasiment tout <https://www.lemonde.fr/politique/live/2020/03/14/en-direct-edouard-philippe-annonce-la-fermeture-de-tous-les-lieux-publics-non-indispensables_6033113_823448.html>`_. ENFIN : il faut prendre des mesures drastiques, rapidement !
 - Dimanche 15/03 : les élections municipales sont maintenues. J'irai voter vers 10h, en espérant ne pas croiser grand monde. Il me reste 4 masques, je souhaite les économiser…
+- Dimanche 15/03 : je vais craquer et acheter une Switch Lite ! Avec Octopath Traveler, Zelda Link's Awakening, Zelda Breath of the Wild, Fire Emblem : three Houses, ou Xenoblade Chronicles 2… J'en cherche d'occasion (moins d'impact carbone), sur `LeBonCoin <https://
 
 .. note::
 
