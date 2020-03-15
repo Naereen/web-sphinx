@@ -10,7 +10,7 @@
 
     Allez lire *chaque jour* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
     Et lire `<https://www.lemonde.fr>`_ est aussi une très bonne idée !
-    J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/pandemie-coronavirus/>`_.
+    J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
 Mon état de santé en temps réel
