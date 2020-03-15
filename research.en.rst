@@ -6,6 +6,11 @@
  Research activities
 #####################
 
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities
+
+    Please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a day (as of 13/03/2020).
+
+
 .. note::
 
     I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.

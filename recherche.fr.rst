@@ -6,6 +6,12 @@
  Activités de recherche
 ########################
 
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements
+
+    Veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
+
+
+
 .. note::
 
     Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
