@@ -23,8 +23,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 
 
 - Télétravail depuis vendredi 13 mars, et je suis ravi, j'ai à manger et tout ce qu'il me faut chez moi pour 3/6 semaines.
-- Vendredi 13/03 au soir j'ai eu des difficultés à respirer, comme une crise d'asthme. Nuit parfaite.
-- Samedi 14/03 midi, j'allais mieux, mais j'ai mis un masque pour sortir, et j'ai prévenu tous mes proches.
+- Samedi 14/03 midi, après un début de ce qui ressemblait à une crise d'asthem, je vais mieux, mais j'ai mis un masque pour sortir, et j'ai prévenu tous mes proches.
 - Je me suis promené en étant très prudent, entre 14h et 18h50, pour faire des courses (quartier rue de Paris à Jeanne d'Arc, place de la Mairie et rues entre les deux).
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
 - Je n'ai pas appelé le SAMU, aucun besoin. Je suis désormais en isolement complet jusqu'à nouvel ordre.
