@@ -33,7 +33,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Dimanche 15/03 : les élections municipales sont maintenues. J'irai voter vers 10h, en espérant ne pas croiser grand monde. Il me reste 4 masques, je souhaite les économiser…
 - Dimanche 15/03 5h30 : j'ai craqué et acheté une Switch Lite ! Avec Octopath Traveler, et Fire Emblem : three Houses #nofever
 - Dimanche 15/03 20h30 : j'ai bien pu voter ! Je suis fier d'avoir voté à Rennes **pour la liste écologiste** (`sans surprise <https://perso.crans.org/besson/zero-dechet/>`_) !
-- Lundi 16/03 3h30 : petite promenade nocturne, et dodo !
+- Lundi 16/03 3h30 : petite promenade nocturne, et dodo ! Lundi 9h : derniere sortie, pour des courses je serai prudent !
 - Je dois terminer cette page…
 
 .. note::
