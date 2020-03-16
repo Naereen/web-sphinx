@@ -28,12 +28,12 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Je me suis promené, en étant très prudent, entre 14h et 18h50, pour faire des courses (quartier rue de Paris à Jeanne d'Arc, place de la Mairie et rues entre les deux).
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
 - Je n'ai pas appelé le SAMU, aucun besoin. Je suis désormais en isolement complet jusqu'à nouvel ordre.
-- Samedi 14/03 21h30 : marre de compiler le site web à la main, j'ai écrit `ce script <https://bitbucket.org/lbesson/bin/src/master/corona_virus_update_iam_alive>`_ pour mettre cette page web automatiquement.
+- Samedi 14/03 21h30 : marre de compiler le site web à la main, j'ai écrit `ce script <https://bitbucket.org/lbesson/bin/src/master/corona_virus_update_iam_alive.sh>`_ pour mettre cette page web automatiquement.
 - Samedi 14/03 23h59 : le `gouvernement a décidé de fermer quasiment tout <https://www.lemonde.fr/politique/live/2020/03/14/en-direct-edouard-philippe-annonce-la-fermeture-de-tous-les-lieux-publics-non-indispensables_6033113_823448.html>`_. ENFIN : il faut prendre des mesures drastiques, rapidement ! #nofever
 - Dimanche 15/03 : les élections municipales sont maintenues. J'irai voter vers 10h, en espérant ne pas croiser grand monde. Il me reste 4 masques, je souhaite les économiser…
-- Dimanche 15/03 5h30 : je vais craquer et acheter une Switch Lite ! Avec Octopath Traveler, Zelda Link's Awakening, Zelda Breath of the Wild, Fire Emblem : three Houses, ou Xenoblade Chronicles 2… J'en cherche d'occasion (moins d'impact carbone), sur `LeBonCoin <https://leboncoin.fr/>`_. #nofever
-- Dimanche 15/03 20h30 : j'ai bien pu voter ! **Pour une liste écologiste**, `évidemment <https://perso.crans.org/besson/zero-dechet/>`_.
-
+- Dimanche 15/03 5h30 : j'ai craqué et acheté une Switch Lite ! Avec Octopath Traveler, et Fire Emblem : three Houses #nofever
+- Dimanche 15/03 20h30 : j'ai bien pu voter ! Je suis fier d'avoir voté à Rennes **pour la liste écologiste** (`sans surprise <https://perso.crans.org/besson/zero-dechet/>`_) !
+- Lundi 16/03 3h30 : petite promenade nocturne, et dodo !
 - Je dois terminer cette page…
 
 .. note::
