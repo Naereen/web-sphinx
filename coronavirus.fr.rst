@@ -34,6 +34,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Dimanche 15/03 5h30 : j'ai craqué et acheté une Switch Lite ! Avec Octopath Traveler, et Fire Emblem : three Houses #nofever
 - Dimanche 15/03 20h30 : j'ai bien pu voter ! Je suis fier d'avoir voté à Rennes **pour la liste écologiste** (`sans surprise <https://perso.crans.org/besson/zero-dechet/>`_) !
 - Lundi 16/03 3h30 : petite promenade nocturne, et dodo ! Lundi 9h : derniere sortie, pour des courses je serai prudent !
+- Mardi minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi : Justine (pb psy, vis seule, 32 ans, près de la gare et du Gatsby), Agathe & O (33 et 31 ans, O semble malade, elle le sera peut-être, je leur ai offert un bon kouign aman pour la soirée de la Saint-Patrick), Amandine (35 ans, pas de nouvelle × !), mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
 - Je dois terminer cette page…
 
 .. note::
