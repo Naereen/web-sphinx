@@ -37,6 +37,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mardi minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi : Justine (pb psy, vis seule, 32 ans, près de la gare et du Gatsby), Agathe & O (33 et 31 ans, O semble malade, elle le sera peut-être, je leur ai offert un bon kouign aman pour la soirée de la Saint-Patrick), Amandine (35 ans, pas de nouvelle × !), mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
 - Pas dormi de la nuit : j'angoisse trop !!! Je crois avoir le coronavirus depuis *au moins* jeudi soir, ou vendredi matin ! Toux sèche, bronches encombrées, mal partout, pas sommeil, groooose anxiété ! J'ai essayé sans réussir d'appeler le SAMu e tles pompiers mais ça répnondais pas depuiis ds heures; EN écouttaan la radio j'ai cru entenra que la russeia avecia t bombardé le pauaasys je panique
 - Je dois terminer cette page…
+- Oupssssie, phase maniaque depuis samedi !
 
 .. note::
 
