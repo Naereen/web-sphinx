@@ -44,12 +44,13 @@ Blogue et autres présences sur les réseaux sociaux ?
     + Dans quelques jours, le numéro ``+33 (0)7 4neuf 0cinq 9trois 6sept`` sera disponible 24h/24 !
 
 
-.. sidebar:: Comment me contacter ?
+Comment me contacter ?
+~~~~~~~~~~~~~~~~~~~~~~
 
-    Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
-    Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou `inria.fr`, ou par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
+Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
+Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou `inria.fr`, ou par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
 
-    La page `<callme.fr.html>`_ donne plus de détails !
+La page `<callme.fr.html>`_ donne plus de détails !
 
 
 .. sidebar:: Qui suis-je ?
