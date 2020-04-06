@@ -23,10 +23,7 @@ Working from home because of the Coronavirus outbreak
 
 As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked to start working from home.
 
-I am describing in this webpage how I will (try my best) to teach remotely, during this period.
-
-
-.. todo:: finish!
+I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I will (try my best) to teach remotely, during this special moment !
 
 
 ---------------------------------------------
