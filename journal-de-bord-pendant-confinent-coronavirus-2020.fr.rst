@@ -32,6 +32,9 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 
 - Mise à jour après deux semaines de retard du mercredi 18/03 au samedi 04 avril !
 - Tout va bien : je suis en arrêt temporaire de travail, je reviens mi avril :-) !
+- Lundi 06 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
+
+------------------------------------------------------------------------------
 
 Blogue et autres présences sur les réseaux sociaux ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
