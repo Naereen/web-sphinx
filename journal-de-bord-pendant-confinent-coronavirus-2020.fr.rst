@@ -57,10 +57,11 @@ Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou
 La page `<callme.fr.html>`_ donne plus de détails !
 
 
-.. sidebar:: Qui suis-je ?
+Qui suis-je ?
+~~~~~~~~~~~~~
 
-    Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
-    Bienvenue sur mon site web.
+Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
+Bienvenue sur mon site web.
 
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
