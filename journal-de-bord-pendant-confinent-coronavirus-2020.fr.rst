@@ -46,7 +46,8 @@ Blogue et autres présences sur les réseaux sociaux ?
 - **Comment nous contacter** ?
     + `par des tickets GitHub (questions publiques) <https://github.com/Rennes-en-Resilience/Contactez-nous/>`_,
     + Par mails *chiffrés* : ``Rennes.en.Resilience`` à ``ProtonMail.com`` (créer un compte est gratuit) ou ``Laposte.net``
-    + Dans quelques jours, le numéro ``+33 (0)7 4neuf 0cinq 9trois 6sept`` sera disponible 24h/24 !
+
+..  + Dans quelques jours, le numéro ``+33 (0)7 4neuf 0cinq 9trois 6sept`` sera disponible 24h/24 !
 
 
 Comment me contacter ?
