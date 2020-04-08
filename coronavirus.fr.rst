@@ -15,7 +15,7 @@
 
 Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
 
-Je suis joignable par email : ``lilian.besson`` à ``ProtonMail.com``, ``crans.org``, ``ens-rennes.fr`` ou ``inria.fr``, ou par téléphone : *zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept* (si besoin).
+Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``, ou par téléphone : *zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept* (si besoin).
 
 
 Télétravail pendant l'épidémie de Coronavirus
