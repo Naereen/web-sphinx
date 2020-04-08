@@ -41,6 +41,7 @@ Blogue et autres présences sur les réseaux sociaux ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Je vais gérer et animer ce blogue : `Rennes En Résilience <https://RennesEnResilience.home.blog/>`_ !
+- Très vite, nous serons un petit groupe de jeunes écologistes, plus ou moins anonymes.
 
 - **Comment nous contacter** ?
     + `par des tickets GitHub (questions publiques) <https://github.com/Rennes-en-Resilience/Contactez-nous/>`_,
