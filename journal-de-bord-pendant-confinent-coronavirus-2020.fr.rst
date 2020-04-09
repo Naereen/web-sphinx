@@ -32,8 +32,9 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 
 - Mise à jour après deux semaines de retard du mercredi 18/03 au samedi 04 avril !
 - Tout va bien : je suis en arrêt temporaire de travail, je reviens mi avril :-) !
-- Lundi 06 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
-- Mardi 07 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
+- Lundi 6 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
+- Mardi 7 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
+- Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
 
 ------------------------------------------------------------------------------
 
