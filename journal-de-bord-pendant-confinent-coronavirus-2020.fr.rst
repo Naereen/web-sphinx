@@ -35,6 +35,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Lundi 6 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
 - Mardi 7 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
 - Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
+- Jeudi 9 avril : j'ai aussi pas mal avancé sur `mon projet « Rennes en Résilience » <https://rennes-en-resilience.github.io/Cartes-des-commerces-resilients/carte.html>`_.
 
 ------------------------------------------------------------------------------
 
