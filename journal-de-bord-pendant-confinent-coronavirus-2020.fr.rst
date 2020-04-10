@@ -36,6 +36,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mardi 7 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
 - Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
 - Jeudi 9 avril : j'ai aussi pas mal avancé sur `mon projet « Rennes en Résilience » <https://rennes-en-resilience.github.io/Cartes-des-commerces-resilients/carte.html>`_.
+- Vendredi 10 avril : je me sens enfin content de l'application web que j'ai écrite pour voir les commerces ouverts à 1 km de chez soi : https://perso.crans.org/besson/carte-confinement/#1km (`voir ici <https://perso.crans.org/besson/carte-confinement/#1km>`_).
 
 ------------------------------------------------------------------------------
 
