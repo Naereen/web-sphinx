@@ -27,8 +27,7 @@ Mars 2020
 ---------
 - Un court voyage pendant mes vacances de février, à Avignon, Marseille, Arles, Lyon !
 - Une rencontre fort sympathique début mars pour le travail et le plaisir, à Lyon !
-
-- Début des mesures d'isolement pour lutter contre l'épidémie de Coronavirus, télétravail dès le 13 mars.
+- Début des mesures d'isolement pour lutter contre l'épidémie de Coronavirus, télétravail dès le 13 mars...
 
 .. note:: Page dédiée à cet événement
 
@@ -37,11 +36,29 @@ Mars 2020
 
 Avril 2020
 ----------
+- Un confinement très chiant, qui a duré jusqu'à Pâques (week-end du 11-13 avril), au moins...
+- Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
 - TODO
 
 Mai 2020
 --------
 - TODO
+
+Objectifs pour cet été 2020
+---------------------------
+
+J'ai peu d'objectifs pour cet été, mais quelques uns :
+
+1. Aller voir Y. et leur auberge à la frontière franco-suisse au sud du lac Léman ;
+2. Retourner à Lausanne et voir mon ancien colloque S. !
+3. Monter au dessus de 4000, et faire une randonnée d'alpinisme !
+4. Dormir à la belle étoile en haute montagne !
+5. Re,ndre visite à des bons ami-e-s, en France et ailleurs ;
+6. Marcher avec mes frères !
+7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ligurophone (je sais que ce n'est pas le bon mot, mais je ne retrouve plus l'adjectif pour dire "parlant italien" !!!!) ;
+8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ;
+9. Faire de belles rencontres, dans la bienveillance, le respect, l'amour et le partage (je partagerai tout, comme toujours, sauf mes virus et mes microbes) ;
+10. Des idées ? `envoyez-moi un mail <contact>`_
 
 Juin 2020
 ---------
