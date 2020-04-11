@@ -23,7 +23,7 @@ Télétravail pendant l'épidémie de Coronavirus
 
 A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Rennes avons été invités à travailler à domicile.
 
-Je décris dans cette page web comment je vais (faire de mon mieux) enseigner à distance, pendant cette période.
+Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
 
 
 .. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils.
@@ -32,7 +32,7 @@ Je décris dans cette page web comment je vais (faire de mon mieux) enseigner à
 Cours magistraux
 ~~~~~~~~~~~~~~~~
 
-- Outil web : Discord
+- Outil web : `Discord <https://discordapp.com/>`_
 - ?
 
 .. todo:: terminer !
@@ -42,7 +42,7 @@ Cours magistraux
 Travaux Dirigés (TD)
 ~~~~~~~~~~~~~~~~~~~~
 
-- Outil web : Discord
+- Outil web : `Discord <https://discordapp.com/>`_
 - ?
 
 .. todo:: terminer !
@@ -52,7 +52,7 @@ Travaux Dirigés (TD)
 Travaux Pratiques (TP)
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- Outil web : Discord
+- Outil web : `Discord <https://discordapp.com/>`_
 - ?
 
 .. todo:: terminer !
@@ -62,7 +62,7 @@ Travaux Pratiques (TP)
 Examens finaux (partiels)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Outil web : Discord
+- Outil web : `Discord <https://discordapp.com/>`_
 - ?
 
 .. todo:: terminer !
