@@ -37,6 +37,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
 - Jeudi 9 avril : j'ai aussi pas mal avancé sur `mon projet « Rennes en Résilience » <https://rennes-en-resilience.github.io/Cartes-des-commerces-resilients/carte.html>`_.
 - Vendredi 10 avril : je me sens enfin *content* de l'application web que j'ai écrite pour voir les commerces ouverts à 1 km de chez soi : https://perso.crans.org/besson/carte-confinement/#1km (`voir ici <https://perso.crans.org/besson/carte-confinement/#1km>`_).
+- Samedi 11 avril : pas mal de travail pour `le cours d'ALGO2 <https://perso.crans.org/besson/teach/info1_algo2_2019/about.html>`_, et du repos pour ce beau week-end de Pâques qui commence.
 
 ------------------------------------------------------------------------------
 
