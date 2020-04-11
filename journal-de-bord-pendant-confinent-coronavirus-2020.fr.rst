@@ -40,6 +40,8 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Samedi 11 avril : pas mal de travail pour `le cours d'ALGO2 <https://perso.crans.org/besson/teach/info1_algo2_2019/about.html>`_, et du repos pour ce beau week-end de Pâques qui commence.
 - Je suis assez fier du boulot réalisé sur `ma page "spéciale confinement" <https://perso.crans.org/besson/carte-confinement/>`_ !
 
+.. todo:: mettre à jour au moins tous les trois jours cette page web !
+
 ------------------------------------------------------------------------------
 
 Blogue et autres présences sur les réseaux sociaux ?
