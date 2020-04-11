@@ -59,8 +59,9 @@ Comment me contacter ?
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
-Je suis joignable par email : `lilian.besson` à `crans.org`, `ens-rennes.fr` ou `inria.fr`, ou par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
+Je suis joignable par email : ``lilian.besson`` à ``crans.org``, ``ens-rennes.fr`` ou ``inria.fr``.
 
+Je suis aussi joignable par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. Si besoin.
 La page `<callme.fr.html>`_ donne plus de détails !
 
 
