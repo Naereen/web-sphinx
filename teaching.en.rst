@@ -6,7 +6,7 @@
  My teaching activities
 ########################
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a day (as of 13/03/2020).
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a week (as of 13/03/2020).
 
 
 .. note::
