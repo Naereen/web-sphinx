@@ -53,7 +53,7 @@ J'ai peu d'objectifs pour cet été, mais quelques uns :
 2. Retourner à Lausanne et voir mon ancien colloque S. !
 3. Monter au dessus de 4000, et faire une randonnée d'alpinisme !
 4. Dormir à la belle étoile en haute montagne !
-5. Re,ndre visite à des bons ami-e-s, en France et ailleurs ;
+5. Rendre visite à des bons ami-e-s, en France et ailleurs ;
 6. Marcher avec mes frères !
 7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ligurophone (je sais que ce n'est pas le bon mot, mais je ne retrouve plus l'adjectif pour dire "parlant italien" !!!!) ;
 8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ;
