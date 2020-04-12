@@ -38,18 +38,20 @@ Avril 2020
 ----------
 - Un confinement très chiant, qui a duré jusqu'à Pâques (week-end du 11-13 avril), au moins...
 - Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
-- TODO
+- J'ai ENFIN acheté un nom de domaine pour héberger ce site hors des <pages web du crans <https://perso.crans.org/besson/>`_ : `<http://besson.link/>`_ !
 
 Mai 2020
 --------
 - TODO
+
+------------------------------------------------------------------------------
 
 Objectifs pour cet été 2020
 ---------------------------
 
 J'ai peu d'objectifs pour cet été, mais quelques uns :
 
-1. Aller voir Y. et leur auberge à la frontière franco-suisse au sud du lac Léman ;
+1. Aller voir un cousin Y. et leur auberge à la frontière franco-suisse au sud du lac Léman ;
 2. Retourner à Lausanne et voir mon ancien colloque S. !
 3. Monter au dessus de 4000, et faire une randonnée d'alpinisme !
 4. Dormir à la belle étoile en haute montagne !
