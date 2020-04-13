@@ -9,12 +9,10 @@
 
 The list of applications given here corresponds to the applications I have installed on my (two) Android™ smartphones in 2020, and that I opened and used every day during the `coronavirus containment` (at least one month).
 
-.. todo:: This was translated using `DeepL <https://www.DeepL.com/>`_, so I need to proof-read it, and update if needed.
-
 I list them by categories, following the categories already used on my phones.
 
 
-... note:: This page is about applications for Android™
+.. note:: This page is about applications for Android™
 
    For more details, it may be useful to go elsewhere for more information:
 
@@ -26,8 +24,8 @@ Messages
 ~~~~~~~~
 
 .. image:: .apk-list-messages.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to Messages
    :target: https://www.Messenger.com/
 
@@ -36,7 +34,7 @@ Messages
 - `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough);
 - `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough);
 - `WhatsApp <https://www.WhatsApp.com/>`_;
-- `Discord <https://www.DiscordApp.com/>`` : my colleagues and I use Discord for ``our distance learning (during the coronavirus epidemic) <coronavirus.html>` ;
+- `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activites learning (during the coronavirus epidemic) <coronavirus.html>` ;
 - `ProtonMail <https://www.ProtonMail.com/>`_: best encrypted mail (free, Swiss, reliable).
 
 
@@ -44,15 +42,15 @@ Meeting people
 ~~~~~~~~~~~~~~
 
 .. image:: .apk-list-encounters.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to encounters
    :target: https://www.CouchSurfing.com/
 
 
 - `CouchSurfing <https://www.CouchSurfing.com/>`_: I use it to lodge people in my home, and to get people to lodge me in other people's homes, when I travel;
-- SnapChat : to play spy with your friends;
-- `OkCupid <https://www.OkCupid.com/>`_: not many people, but smart, nice people;
+- `SnapChat <https://www.OkCupid.com/>`_: to play "spies" with your friends;
+- `OkCupid <https://www.OkCupid.com/>`_: there are not many people, but smart, nice people;
 - `Tinder <https://www.Tinder.com/>`_: there are a lot of people, and few people who respond to conversations afterwards;
 - `Happn <https://www.Happn.com/>`_: I don't really like it, there are a lot of people, but nobody answers;
 - `Once <https://www.Once.com/>`_: I really don't like it.
@@ -67,14 +65,14 @@ Audio
 ~~~~~
 
 .. image:: .apk-list-audio.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to audio
    :target: https://www.YouTube.com/
 
 
-- FM radio: to listen (with headphones) ;
-- `YouTube <https://www.YouTube.com/>`Evidently;
+- FM radio: to listen (with headphones);
+- `YouTube <https://www.YouTube.com/>`_ of course;
 - `YouTube Music <https://music.YouTube.com/>`_: to listen to unlimited music in streaming (with a subscription, at 10€ per month, and free one to four months);
 - Tape recorder: to record sound with your phone in one click. Very handy to record a bird and try to find its name after (e.g., a chicken) ;
 - `Duolingo <https://www.DuoLingo.com/>`_ : to learn another language! In confinement, nothing like 20 minutes every day to learn Portuguese, for example!
@@ -85,8 +83,8 @@ Useful apps
 ~~~~~~~~~~~
 
 .. image:: .apk-list-daily_useful_apps.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of daily useful apps
    :target: https://www.WordPress.com/
 
@@ -95,7 +93,7 @@ To use websites easily on mobile (registered account, easy to use) :
 
 - `WordPress <https://www.WordPress.com/>`_ : to manage a blog under WordPress (e.g., `Actual Middle Ages <https://ActuelMoyenAge.WordPress.com/>`_, `Rennes en Résilience <https://RennesenResilience.WordPress.com/>`_);
 - `TheWorld <https://www.LeMonde.fr/>`_ for current events. I think it is essential to read the news quickly in the morning on AT LEAST ONE digital newspaper;
-- `Doctolib <https://www.Doctolib.fr/>` to make an appointment with one's health practitioners (doctor, dentist, etc);
+- `Doctolib <https://www.Doctolib.fr/>`_ to make an appointment with one's health practitioners (doctor, dentist, etc);
 
 Three tiny applications, just to access a phone sensor:
 
@@ -124,8 +122,8 @@ To (not) travel
 ~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-travel.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to travel
    :target: https://www.Trainline.fr/
 
@@ -150,8 +148,8 @@ Online stores
 ~~~~~~~~~~~~~
 
 .. image:: .apk-list-shops.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to shops
    :target: https://www.CouchSurfing.com/
 
@@ -168,8 +166,8 @@ To relax
 ~~~~~~~~
 
 .. image:: .apk-list-zen.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to zen activities
    :target: https://Generative.fm/
 
@@ -187,8 +185,8 @@ For food
 ~~~~~~~~
 
 .. image:: .apk-list-food.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to food
    :target: https://www.TooGoodToGo.com/
 
@@ -209,8 +207,8 @@ Other apps :
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-soundboxes.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to soundboxes
 
 

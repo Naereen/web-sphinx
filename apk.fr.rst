@@ -23,8 +23,8 @@ Messages
 ~~~~~~~~
 
 .. image:: .apk-list-messages.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to Messages
    :target: https://www.Messenger.com/
 
@@ -41,8 +41,8 @@ Rencontres
 ~~~~~~~~~~
 
 .. image:: .apk-list-encounters.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to encounters
    :target: https://www.CouchSurfing.com/
 
@@ -64,8 +64,8 @@ Audio
 ~~~~~
 
 .. image:: .apk-list-audio.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to audio
    :target: https://www.YouTube.com/
 
@@ -82,8 +82,8 @@ Utilitaires
 ~~~~~~~~~~~
 
 .. image:: .apk-list-daily_useful_apps.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of daily useful apps
    :target: https://www.WordPress.com/
 
@@ -92,6 +92,12 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
 
 - `WordPress <https://www.WordPress.com/>`_ : pour gérer un blogue sous WordPress (e.g., `Actuel Moyen-Âge <https://ActuelMoyenAge.WordPress.com/>`_, `Rennes en Résilience <https://RennesenResilience.WordPress.com/>`_) ;
 - `LeMonde <https://www.LeMonde.fr/>`_ pour l'actualité. Je pense qu'il est essentiel de lire rapidement l'actualité le matin sur AU MOINS UN journal numérique ;
+
+.. sidebar:: D'autre langues ?
+
+   Je lis aussi `The Times <https://www.times.co.uk/>`_, `The NY Times <https://www.nytimes.com/>`_, `The Guardian <https://www.TheGuardian.com/>`_ en anglais, et `El Pais <https://www.ElPais.com/>`_ en espagnol.
+
+
 - `Doctolib <https://www.Doctolib.fr/>`_ pour prendre rendez-vous chez ses practicien-ne-s de santé (médecin, dentiste, etc) ;
 
 Trois applications minuscules, juste pour avoir accès à un capteur du téléphone :
@@ -121,8 +127,8 @@ Pour (ne pas) voyager
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-travel.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to travel
    :target: https://www.Trainline.fr/
 
@@ -147,8 +153,8 @@ Magasins en ligne
 ~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-shops.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to shops
    :target: https://www.CouchSurfing.com/
 
@@ -166,8 +172,8 @@ Pour se détendre
 ~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-zen.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to zen activities
    :target: https://Generative.fm/
 
@@ -185,8 +191,8 @@ Pour l'alimentation
 ~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-food.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to food
    :target: https://www.TooGoodToGo.com/
 
@@ -207,8 +213,8 @@ Boîtes à son pour rigoler
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-soundboxes.jpg
-   :scale: 70%
-   :align: left
+   :scale: 50%
+   :align: center
    :alt: List of apps related to soundboxes
 
 - Instant Kaamelott
