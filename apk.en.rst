@@ -133,7 +133,7 @@ To use websites easily on mobile (registered account, easy to use) :
 - `Trainline EU <https://www.Trainline.fr/>`_ to book and pay (and keep) train tickets. Now works in the (western) half of Europe!
 - `(Google) Maps <https://maps.Google.com/>`_ to calculate routes and locate yourself. I also suggest Waze for car routes.
 
-... sidebar:: A free, free alternative to Google Maps ?
+.. sidebar:: A free, free alternative to Google Maps ?
 
    In addition to being free and open source, `OpenStreetMap <https://www.openstreetmap.org/>`_ is created and managed by the community.
    With `OSM And <https://osmand.net/>`_ you can download maps in advance and access them easily without an internet connection.
@@ -177,7 +177,8 @@ To relax
 - **Calm**: to help daily meditation, and offers free ambient sounds like forest or birds;
 - **Forest**: to help disconnect from your phone;
 - **Drink Water Reminder**: super simple but effective;
-- **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep ;
+- **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning
+... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep ;
 - Bonus: the website `Generative.fm <https://Generative.fm/>`_ offers dozens of pieces of background music, random, composed by... programs (neural networks and everything)! It's ideal for work, I love it !
 
 

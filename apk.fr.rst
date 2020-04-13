@@ -143,6 +143,8 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
    En plus d'être libre et gratuite, `OpenStreetMap <https://www.openstreetmap.org/>`_ est créée et gérée par la communauté.
    Avec `OSM And <https://osmand.net/>`_, on peut télécharger à l'avance les cartes et y accéder facilement sans connexion à Internet.
 
+   .. todo:: Est-ce qu'il y a d'autres alternatives ? `Dites mmoi stp <contact>`_ !
+
 
 - `Rome2rio <https://www.Rome2rio.com/>`_ pour calculer des itinéraires qui mélangent train, voiture, avion, etc. Très fiable, très efficace partout en Europe, je ne sais pas pour le reste du monde. En France, il connaît les horaires de bus et de train mieux que Google Maps !
 - `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ pour réserver et gérer ses trajets de covoiturage avec la plateforme la plus populaire en France (plusieurs millions d'utilisatrices) ;
