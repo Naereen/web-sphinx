@@ -91,7 +91,6 @@ Useful apps
    :target: https://www.WordPress.com/
 
 
-
 To use websites easily on mobile (registered account, easy to use) :
 
 - `WordPress <https://www.WordPress.com/>`_ : to manage a blog under WordPress (e.g., `Actual Middle Ages <https://ActuelMoyenAge.WordPress.com/>`_, `Rennes en Résilience <https://RennesenResilience.WordPress.com/>`_);
@@ -121,7 +120,6 @@ And finally:
    or the *Disk iMaGe* for **Mac OS X™** with the ``.dmg`` format.
 
 
-
 To (not) travel
 ~~~~~~~~~~~~~~~
 
@@ -130,7 +128,6 @@ To (not) travel
    :align: right
    :alt: List of apps related to travel
    :target: https://www.Trainline.fr/
-
 
 
 To use websites easily on mobile (registered account, easy to use) :
@@ -142,6 +139,7 @@ To use websites easily on mobile (registered account, easy to use) :
 
    In addition to being free and open source, `OpenStreetMap <https://www.openstreetmap.org/>`_ is created and managed by the community.
    With `OSM And <https://osmand.net/>`_ you can download maps in advance and access them easily without an internet connection.
+
 
 - `Rome2rio <https://www.Rome2rio.com/>`_ to calculate routes that mix train, car, plane, etc.. Very reliable, very efficient everywhere in Europe, I don't know about the rest of the world. In France, it knows bus and train timetables better than Google Maps!
 - `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ to book and manage his carpool trips with the most popular platform in France (several million users) ;
@@ -173,7 +171,7 @@ To relax
    :scale: 80%
    :align: right
    :alt: List of apps related to zen activities
-   :target: https://www.CouchSurfing.com/
+   :target: https://Generative.fm/
 
 
 - **Petit Bamboo** : to initiate yourself to meditation;
@@ -181,7 +179,8 @@ To relax
 - **Calm**: to help daily meditation, and offers free ambient sounds like forest or birds;
 - **Forest**: to help disconnect from your phone;
 - **Drink Water Reminder**: super simple but effective;
-- **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep.
+- **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep ;
+- Bonus: the website `Generative.fm <https://Generative.fm/>`_ offers dozens of pieces of background music, random, composed by... programs (neural networks and everything)! It's ideal for work, I love it !
 
 
 For food
@@ -191,7 +190,7 @@ For food
    :scale: 80%
    :align: right
    :alt: List of apps related to food
-   :target: https://www.CouchSurfing.com/
+   :target: https://www.TooGoodToGo.com/
 
 
 Two very similar applications, which propose in large cities to recover lunch baskets or other that will be thrown away:
@@ -206,8 +205,8 @@ Other apps :
 - **Pumpkin** to pay his friends, I use it because it is used by the association at the ENS in Rennes which manages the AMAP.
 
 
-Sound boxes for fun
-~~~~~~~~~~~~~~~~~~~
+*Soundboxes* to have fun
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-soundboxes.jpg
    :scale: 80%

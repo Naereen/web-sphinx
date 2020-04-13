@@ -11,8 +11,6 @@ La liste d'application donnée ici correspond aux applications que j'ai install�
 
 Je les liste par catégories, en suivant les catégories déjà utilisées sur mes téléphones.
 
-.. todo:: Ajouter les captures d'écran de chaque catégorie !
-
 .. sidebar:: Cette page parle d'applications pour Android™
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
@@ -24,6 +22,13 @@ Je les liste par catégories, en suivant les catégories déjà utilisées sur m
 Messages
 ~~~~~~~~
 
+.. image:: .apk-list-messages.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to Messages
+   :target: https://www.Messenger.com/
+
+
 - K-9 Mail : le meilleur client mail que je connaisse ;
 - `Messenger lite <https://www.Messenger.com/>`_ (version *lite* qui suffit largement) ;
 - `Facebook lite <https://www.Facebook.com/>`_ (version *lite* qui suffit largement) ;
@@ -34,6 +39,13 @@ Messages
 
 Rencontres
 ~~~~~~~~~~
+
+.. image:: .apk-list-encounters.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to encounters
+   :target: https://www.CouchSurfing.com/
+
 
 - `CouchSurfing <https://www.CouchSurfing.com/>`_ : je m'en sers pour héberger des gens chez moi, et pour me faire héberger chez d'autres gens, quand je voyage ;
 - `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ;
@@ -51,6 +63,13 @@ Rencontres
 Audio
 ~~~~~
 
+.. image:: .apk-list-audio.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to audio
+   :target: https://www.YouTube.com/
+
+
 - Radio FM : pour écouter (avec un casque) ;
 - `YouTube <https://www.YouTube.com/>`_ : évidemment ;
 - `YouTube Music <https://music.YouTube.com/>`_ : pour écouter de la musique en illimité en streaming (avec un abonnement, à 10€ par mois, et gratuit un à quatre mois) ;
@@ -61,6 +80,13 @@ Audio
 
 Utilitaires
 ~~~~~~~~~~~
+
+.. image:: .apk-list-daily_useful_apps.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of daily useful apps
+   :target: https://www.WordPress.com/
+
 
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
@@ -91,9 +117,15 @@ Et enfin :
    ou d'un *Disk iMaGe* pour Mac OS X sous le format ``.dmg``.
 
 
-
 Pour (ne pas) voyager
 ~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: .apk-list-travel.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to travel
+   :target: https://www.Trainline.fr/
+
 
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
@@ -114,6 +146,14 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
 Magasins en ligne
 ~~~~~~~~~~~~~~~~~
 
+.. image:: .apk-list-shops.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to shops
+   :target: https://www.CouchSurfing.com/
+
+
+
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
 - `Fnac <https://www.Fnac.com/>`_ ;
@@ -125,16 +165,31 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
 Pour se détendre
 ~~~~~~~~~~~~~~~~
 
+.. image:: .apk-list-zen.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to zen activities
+   :target: https://Generative.fm/
+
+
 - **Petit Bambou** : pour s'initier à la méditation ;
 - **Daily Yoga** : pour s'initier au yoga ;
 - **Calm** : pour aider la méditation quotidienne, et propose gratuitement des bruits d'ambiance style forêt ou oiseaux ;
 - **Forest** : pour aider à déconnecter de son téléphone ;
 - **Drink Water** Reminer : super simple mais efficace ;
-- **Sleep Monitor** : suggère d'aller dormir le soir, alarme efficace (douce mais persistante) le matin... L'appli propose aussi des statistiques très précises, si on pense à lui indiquer les débuts et fin de sommeil.
+- **Sleep Monitor** : suggère d'aller dormir le soir, alarme efficace (douce mais persistante) le matin... L'appli propose aussi des statistiques très précises, si on pense à lui indiquer les débuts et fin de sommeil ;
+- Bonus : le site web `Generative.fm <https://Generative.fm/>`_ propose des dizaines de morceaux de musique d'ambiance, alétaoires, composées par... des programmes (réseaux de neurones et tout) ! C'est idéal pour travailler, j'adore !
 
 
 Pour l'alimentation
 ~~~~~~~~~~~~~~~~~~~
+
+.. image:: .apk-list-food.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to food
+   :target: https://www.TooGoodToGo.com/
+
 
 Deux applications très similaires, qui proposent dans les grandes villes de récupérer des paniers repas ou autre qui vont être jetés :
 
@@ -150,6 +205,11 @@ D'autres applications :
 
 Boîtes à son pour rigoler
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: .apk-list-soundboxes.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to soundboxes
 
 - Instant Kaamelott
 - Kaamelott répliques & GIF
