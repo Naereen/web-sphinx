@@ -39,6 +39,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Vendredi 10 avril : je me sens enfin *content* de l'application web que j'ai écrite pour voir les commerces ouverts à 1 km de chez soi : ``https://perso.crans.org/besson/carte-confinement/#1km`` (`voir ici <https://perso.crans.org/besson/carte-confinement/#1km>`_).
 - Samedi 11 avril : pas mal de travail pour `le cours d'ALGO2 <https://perso.crans.org/besson/teach/info1_algo2_2019/about.html>`_, et du repos pour ce beau week-end de Pâques qui commence.
 - Je suis assez fier du boulot réalisé sur `ma page "spéciale confinement" <https://perso.crans.org/besson/carte-confinement/>`_ !
+- Lundi 13 avril : j'ai ENFIN mis à jour ma `liste d'application <apk.fr.html>`_ pour refléter mes nouveaux usages de mon smartphone. Cette liste d'applications contient des idées d'applications utiles pour quelqu'un qui a) vit seul, b) vit isolé, c) est curieux ! (a, b, c me correspondent complètement !)
 
 .. todo:: mettre à jour au moins tous les trois jours cette page web !
 
