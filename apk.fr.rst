@@ -11,7 +11,7 @@ La liste d'application donnée ici correspond aux applications que j'ai install�
 
 Je les liste par catégories, en suivant les catégories déjà utilisées sur mes téléphones.
 
-.. sidebar:: Cette page parle d'applications pour Android™
+.. note:: Cette page parle d'applications pour Android™
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
 
@@ -23,8 +23,8 @@ Messages
 ~~~~~~~~
 
 .. image:: .apk-list-messages.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to Messages
    :target: https://www.Messenger.com/
 
@@ -41,8 +41,8 @@ Rencontres
 ~~~~~~~~~~
 
 .. image:: .apk-list-encounters.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to encounters
    :target: https://www.CouchSurfing.com/
 
@@ -64,8 +64,8 @@ Audio
 ~~~~~
 
 .. image:: .apk-list-audio.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to audio
    :target: https://www.YouTube.com/
 
@@ -82,8 +82,8 @@ Utilitaires
 ~~~~~~~~~~~
 
 .. image:: .apk-list-daily_useful_apps.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of daily useful apps
    :target: https://www.WordPress.com/
 
@@ -121,8 +121,8 @@ Pour (ne pas) voyager
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-travel.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to travel
    :target: https://www.Trainline.fr/
 
@@ -147,8 +147,8 @@ Magasins en ligne
 ~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-shops.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to shops
    :target: https://www.CouchSurfing.com/
 
@@ -166,8 +166,8 @@ Pour se détendre
 ~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-zen.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to zen activities
    :target: https://Generative.fm/
 
@@ -185,8 +185,8 @@ Pour l'alimentation
 ~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-food.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to food
    :target: https://www.TooGoodToGo.com/
 
@@ -207,8 +207,8 @@ Boîtes à son pour rigoler
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: .apk-list-soundboxes.jpg
-   :scale: 80%
-   :align: right
+   :scale: 70%
+   :align: left
    :alt: List of apps related to soundboxes
 
 - Instant Kaamelott
