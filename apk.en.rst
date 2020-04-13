@@ -7,7 +7,9 @@
 #####################################################
 
 
-The list of applications given here corresponds to the applications I installed on my two phones in 2020, and that I opened and used during the `coronavirus containment` (at least one month).
+The list of applications given here corresponds to the applications I have installed on my (two) Android™ smartphones in 2020, and that I opened and used every day during the `coronavirus containment` (at least one month).
+
+.. todo:: This was translated using `DeepL <https://www.DeepL.com/>`_, so I need to proof-read it, and update if needed.
 
 I list them by categories, following the categories already used on my phones.
 
@@ -23,6 +25,13 @@ I list them by categories, following the categories already used on my phones.
 Messages
 ~~~~~~~~
 
+.. image:: .apk-list-messages.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to Messages
+   :target: https://www.Messenger.com/
+
+
 - K-9 Mail: the best mail client I know;
 - `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough);
 - `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough);
@@ -33,6 +42,13 @@ Messages
 
 Meeting people
 ~~~~~~~~~~~~~~
+
+.. image:: .apk-list-encounters.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to encounters
+   :target: https://www.CouchSurfing.com/
+
 
 - `CouchSurfing <https://www.CouchSurfing.com/>`_: I use it to lodge people in my home, and to get people to lodge me in other people's homes, when I travel;
 - SnapChat : to play spy with your friends;
@@ -50,6 +66,13 @@ Meeting people
 Audio
 ~~~~~
 
+.. image:: .apk-list-audio.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to audio
+   :target: https://www.YouTube.com/
+
+
 - FM radio: to listen (with headphones) ;
 - `YouTube <https://www.YouTube.com/>`Evidently;
 - `YouTube Music <https://music.YouTube.com/>`_: to listen to unlimited music in streaming (with a subscription, at 10€ per month, and free one to four months);
@@ -60,6 +83,14 @@ Audio
 
 Useful apps
 ~~~~~~~~~~~
+
+.. image:: .apk-list-daily_useful_apps.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of daily useful apps
+   :target: https://www.WordPress.com/
+
+
 
 To use websites easily on mobile (registered account, easy to use) :
 
@@ -94,6 +125,14 @@ And finally:
 To (not) travel
 ~~~~~~~~~~~~~~~
 
+.. image:: .apk-list-travel.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to travel
+   :target: https://www.Trainline.fr/
+
+
+
 To use websites easily on mobile (registered account, easy to use) :
 
 - `Trainline EU <https://www.Trainline.fr/>`_ to book and pay (and keep) train tickets. Now works in the (western) half of Europe!
@@ -112,60 +151,78 @@ To use websites easily on mobile (registered account, easy to use) :
 Online stores
 ~~~~~~~~~~~~~
 
+.. image:: .apk-list-shops.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to shops
+   :target: https://www.CouchSurfing.com/
+
+
 To use websites easily on mobile (registered account, easy to use) :
 
-- `Fnac <https://www.Fnac.com/>`;
+- `Fnac <https://www.Fnac.com/>`_;
 - `The GoodCoin <https://www.LeBonCoin.fr/>`_ ;
-- `GitHub <https://GitHub.com/>`;
+- `GitHub <https://GitHub.com/>`_;
 - your bank's app (e.g., La Banque Postale, BNP PariBas, etc).
 
 
 To relax
-~~~~~~~~~~~~~~~~
+~~~~~~~~
 
-- **Petit Bamboo** : to initiate oneself to meditation;
-- "Daily Yoga": to learn yoga;
-- Calm: to help daily meditation, and offers free ambient sounds like forest or birds;
-- Forest: to help disconnect from your phone;
-- Drink Water Reminer: super simple but effective;
-- Sleep Monitor: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep.
+.. image:: .apk-list-zen.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to zen activities
+   :target: https://www.CouchSurfing.com/
 
 
-Pour l'alimentation
-~~~~~~~~~~~~~~~~~~~
+- **Petit Bamboo** : to initiate yourself to meditation;
+- **Daily Yoga**: to learn yoga;
+- **Calm**: to help daily meditation, and offers free ambient sounds like forest or birds;
+- **Forest**: to help disconnect from your phone;
+- **Drink Water Reminder**: super simple but effective;
+- **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep.
 
-Deux applications très similaires, qui proposent dans les grandes villes de récupérer des paniers repas ou autre qui vont être jetés :
 
-- **Phénix App** ;
+For food
+~~~~~~~~
+
+.. image:: .apk-list-food.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to food
+   :target: https://www.CouchSurfing.com/
+
+
+Two very similar applications, which propose in large cities to recover lunch baskets or other that will be thrown away:
+
+- **Phoenix App**;
 - **TooGoodToGo**.
 
-D'autres applications :
+Other apps :
 
-- **OpenFoodFacts** donne plein d'informations curieuses sur tous types de produits d'alimentation ;
-- **Saison** pour connaître les fruits et légumes de saison ;
-- **Pumpkin** pour payer auprès de ses amis, je m'en sers car elle est utilisée par l'association à l'ENS de Rennes qui gère l'AMAP.
+- **OpenFoodFacts** gives a lot of curious information about all kinds of food products;
+- **Season** to know the fruits and vegetables in season;
+- **Pumpkin** to pay his friends, I use it because it is used by the association at the ENS in Rennes which manages the AMAP.
 
 
-Boîtes à son pour rigoler
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Sound boxes for fun
+~~~~~~~~~~~~~~~~~~~
+
+.. image:: .apk-list-soundboxes.jpg
+   :scale: 80%
+   :align: right
+   :alt: List of apps related to soundboxes
+
 
 - Instant Kaamelott
-- Kaamelott répliques & GIF
+- Kaamelott replicas & GIF
 - Soundbox Kaamelott
-- On en a gros
-- **La Soundbox** est de loin la meilleure, car contient plein de films culte !
+- We got a lot of them.
+- **The Soundbox** is by far the best, because it contains a lot of cult movies!
 - Instant Louis de Funès
-- Naheulbeuk Boîte à Chiantos
-- **Naheulbeuk MP3** est chouette, télécharge à la volée les épisodes depuis `le site web de Naheulbeuk (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
+- Naheulbeuk Chiantos Box
+- **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`.
 
-
-Pour faire croire qu'on est encore en prépa
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Banque Exo (MP CCP)**
-- **ExoSupSpé**
-- **OCaml Toplevel for Android**
-
-.. todo:: Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/

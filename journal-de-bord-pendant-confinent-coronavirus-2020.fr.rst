@@ -41,7 +41,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Je suis assez fier du boulot réalisé sur `ma page "spéciale confinement" <https://perso.crans.org/besson/carte-confinement/>`_ !
 - Lundi 13 avril : j'ai ENFIN mis à jour ma `liste d'application <apk.fr.html>`_ pour refléter mes nouveaux usages de mon smartphone. Cette liste d'applications contient des idées d'applications utiles pour quelqu'un qui a) vit seul, b) vit isolé, c) est curieux ! (a, b, c me correspondent complètement !)
 
-.. todo:: mettre à jour au moins tous les trois jours cette page web !
+.. todo:: mettre à jour au moins tous les deux ou trois jours cette page web !
 
 ------------------------------------------------------------------------------
 

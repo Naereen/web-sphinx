@@ -7,10 +7,11 @@
 ######################################################
 
 
-La liste d'application donnée ici correspond aux applications que j'ai installées sur mes deux téléphones en 2020, et que j'ai ouvert et utilisé durant `le confinement lié au coronavirus <coronavirus.fr.html>`_ (au moins un mois).
+La liste d'application donnée ici correspond aux applications que j'ai installées sur mes deux téléphones "intelligents" (sous Android™) en 2020, et que j'ai ouvert et utilisé chaque jour durant `le confinement lié au coronavirus <coronavirus.fr.html>`_ (au moins un mois).
 
 Je les liste par catégories, en suivant les catégories déjà utilisées sur mes téléphones.
 
+.. todo:: Ajouter les captures d'écran de chaque catégorie !
 
 .. sidebar:: Cette page parle d'applications pour Android™
 
@@ -103,6 +104,7 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
 
    En plus d'être libre et gratuite, `OpenStreetMap <https://www.openstreetmap.org/>`_ est créée et gérée par la communauté.
    Avec `OSM And <https://osmand.net/>`_, on peut télécharger à l'avance les cartes et y accéder facilement sans connexion à Internet.
+
 
 - `Rome2rio <https://www.Rome2rio.com/>`_ pour calculer des itinéraires qui mélangent train, voiture, avion, etc. Très fiable, très efficace partout en Europe, je ne sais pas pour le reste du monde. En France, il connaît les horaires de bus et de train mieux que Google Maps !
 - `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ pour réserver et gérer ses trajets de covoiturage avec la plateforme la plus populaire en France (plusieurs millions d'utilisatrices) ;
