@@ -60,7 +60,8 @@ J'ai peu d'objectifs pour cet été, mais quelques uns :
 7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ligurophone (je sais que ce n'est pas le bon mot, mais je ne retrouve plus l'adjectif pour dire "parlant italien" !!!!) ;
 8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ;
 9. Faire de belles rencontres, dans la bienveillance, le respect, l'amour et le partage (je partagerai tout, comme toujours, sauf mes virus et mes microbes) ;
-10. Des idées ? `envoyez-moi un mail <contact>`_
+10. Faire de nouveau (beaucoup) d'autostop, au moins 4000 kilomètre ce serait génial, histoire de dépasser `mon total <autostop.fr.html>`_ qui est actuellement vers 6400km...
+11. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
 
 Juin 2020
 ---------
@@ -109,7 +110,8 @@ En 2020, j'ai voyagé là…
 En 2020, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
-- … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers). Si le confinement dure trop longtemps, je pense acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
+- … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers), que je n'ai finalement pas ouvert. Si le confinement dure trop longtemps, je pensais acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
+- Mais j'ai plutôt craqué pour une Switch lite (d'occasion !). J'ai acheté les deux meilleurs jeux de rôles (japonais) disponibles sur cette (nouvelle) console : **Octopath Traveler**, et **Fire Emblem: Three Houses**. Pas trop eu le temps d'y jouer encore... mais cet été ça viendra ?
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,6 +125,7 @@ En 2020, j'ai lu ces livres…
 - *Ce qu'ils disent ou rien*, de Annie Ernaux (encore, j'adore toujours autant),
 - `La Trilogie Yan Solo <https://fr.wikipedia.org/wiki/La_Trilogie_Yan_Solo>`_, de Ann C. Crispin,
 - `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
+- **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
