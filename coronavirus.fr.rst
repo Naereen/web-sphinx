@@ -26,7 +26,8 @@ A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Renne
 Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
 
 
-.. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils.
+.. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils...
+.. todo:: Un mois après, écrire ici des bilans !
 
 
 Cours magistraux
