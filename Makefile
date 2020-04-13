@@ -2,8 +2,8 @@
 # Makefile for Sphinx web builder
 # Author: Lilian BESSON
 # Email: lilian DOT besson AT normale D O T fr
-# Version: 20
-# Date: 04-01-17
+# Version: 22
+# Date: 13-04-20
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
@@ -146,7 +146,8 @@ send_zamok: fixperms
 	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
 
 send_ovh: fixperms
-	$(CP) -r $(BUILDDIR)/html/ bessonlihy@ftp.cluster028.hosting.ovh.net:~/www/
+	# $(CP) -r $(BUILDDIR)/html/ bessonlihy@ftp.cluster028.hosting.ovh.net:~/www/
+	echo TODO TODO TODO $(CP) -r $(BUILDDIR)/html/ bessonlihy@ssh.cluster028.hosting.ovh.net:~/www/ | figlet | lolcat
 	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
 
 send_latexpdf: fixperms
