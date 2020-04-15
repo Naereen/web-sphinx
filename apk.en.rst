@@ -30,19 +30,18 @@ Messages
    :target: https://www.Messenger.com/
 
 
-- K-9 Mail: the best mail client I know;
-- `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough);
-- `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough);
-- `WhatsApp <https://www.WhatsApp.com/>`_;
-- `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activites learning (during the coronavirus epidemic) <coronavirus.html>` ;
-- `ProtonMail <https://www.ProtonMail.com/>`_: best encrypted mail (free, Swiss, reliable).
-
+- 📧 🐕 K-9 Mail: the best mail client I know ``#chien`` ``#mail`` ;
+- 📧 `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough) ``#messenger`` ;
+- 📧 `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough) ``#fb`` ;
+- 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
+- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activites learning (during the coronavirus epidemic) <coronavirus.html>` ``#dvd`` ``#discord`` ``#gaming`` ``#geek`` ;
+- 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_: best encrypted mail (free, Swiss, reliable) ``#suisse`` (my ProtonMail address is ``firstname.lastname@ProtonMail.com``).
 
 Meeting people
 ~~~~~~~~~~~~~~
 
-- `CouchSurfing <https://www.CouchSurfing.com/>`_: I use it to lodge people in my home, and to get people to lodge me in other people's homes, when I travel;
-- `SnapChat <https://www.OkCupid.com/>`_: to play "spies" with your friends;
+- 🛋 🏄 `CouchSurfing <https://www.CouchSurfing.com/>`_: I use it to lodge people in my home, and to get people to lodge me in other people's homes, when I travel ``#couch`` ``#canape`` ``#surf``;
+- 👻 `SnapChat <https://www.OkCupid.com/>`_: to play "spies" with your friends ``#ghost`` ``#snap``;
 
 
 ...sidebar:: Might be out of date!

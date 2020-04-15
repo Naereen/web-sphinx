@@ -33,7 +33,7 @@ Messages
 - 📧 `Messenger lite <https://www.Messenger.com/>`_ (version *lite* qui suffit largement) ``#messenger`` ;
 - 📧 `Facebook lite <https://www.Facebook.com/>`_ (version *lite* qui suffit largement) ``#fb`` ;
 - 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
-- 💿 🎮  `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ``#dvd`` ``#discord`` ;
+- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ``#dvd`` ``#discord``  ``#gaming`` ``#geek`` ;
 - 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_ : meilleur mail chiffré (gratuit, Suisse, fiable) ``#swiss`` (mon mail ProtonMail est ``prenom.nom@ProtonMail.com``).
 
 
@@ -41,7 +41,7 @@ Rencontres
 ~~~~~~~~~~
 
 - 🛋 🏄 `CouchSurfing <https://www.CouchSurfing.com/>`_ : je m'en sers pour héberger des gens chez moi, et pour me faire héberger chez d'autres gens, quand je voyage ``#couch`` ``#surf`` ;
-- 👻 `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ``#ghost`` ;
+- 👻 `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ``#ghost`` ``#snap`` ;
 
 
 .. sidebar:: N'est peut-être plus à jour !
