@@ -44,7 +44,7 @@ Meeting people
 - 👻 `SnapChat <https://www.OkCupid.com/>`_: to play "spies" with your friends ``#ghost`` ``#snap``;
 
 
-...sidebar:: Might be out of date!
+.. sidebar:: Might be out of date!
 
    I wrote this list in *April 2020*, so it might  be obsolete...
 
