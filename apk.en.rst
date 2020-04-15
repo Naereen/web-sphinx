@@ -41,19 +41,8 @@ Messages
 Meeting people
 ~~~~~~~~~~~~~~
 
-.. image:: .apk-list-encounters.jpg
-   :scale: 50%
-   :align: center
-   :alt: List of apps related to encounters
-   :target: https://www.CouchSurfing.com/
-
-
 - `CouchSurfing <https://www.CouchSurfing.com/>`_: I use it to lodge people in my home, and to get people to lodge me in other people's homes, when I travel;
 - `SnapChat <https://www.OkCupid.com/>`_: to play "spies" with your friends;
-- `OkCupid <https://www.OkCupid.com/>`_: there are not many people, but smart, nice people;
-- `Tinder <https://www.Tinder.com/>`_: there are a lot of people, and few people who respond to conversations afterwards;
-- `Happn <https://www.Happn.com/>`_: I don't really like it, there are a lot of people, but nobody answers;
-- `Once <https://www.Once.com/>`_: I really don't like it.
 
 
 ...sidebar:: Might be out of date!

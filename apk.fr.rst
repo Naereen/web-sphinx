@@ -29,30 +29,19 @@ Messages
    :target: https://www.Messenger.com/
 
 
-- K-9 Mail : le meilleur client mail que je connaisse ;
-- `Messenger lite <https://www.Messenger.com/>`_ (version *lite* qui suffit largement) ;
-- `Facebook lite <https://www.Facebook.com/>`_ (version *lite* qui suffit largement) ;
-- `WhatsApp <https://www.WhatsApp.com/>`_ ;
-- `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ;
-- `ProtonMail <https://www.ProtonMail.com/>`_ : meilleur mail chiffré (gratuit, Suisse, fiable).
+- 📧 🐕 K-9 Mail : le meilleur client mail que je connaisse ``#dog`` ``#mail`` ;
+- 📧 `Messenger lite <https://www.Messenger.com/>`_ (version *lite* qui suffit largement) ``#messenger`` ;
+- 📧 `Facebook lite <https://www.Facebook.com/>`_ (version *lite* qui suffit largement) ``#fb`` ;
+- 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
+- 💿 🎮  `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ``#dvd`` ``#discord`` ;
+- 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_ : meilleur mail chiffré (gratuit, Suisse, fiable) ``#swiss`` (mon mail ProtonMail est ``prenom.nom@ProtonMail.com``).
 
 
 Rencontres
 ~~~~~~~~~~
 
-.. image:: .apk-list-encounters.jpg
-   :scale: 50%
-   :align: center
-   :alt: List of apps related to encounters
-   :target: https://www.CouchSurfing.com/
-
-
-- `CouchSurfing <https://www.CouchSurfing.com/>`_ : je m'en sers pour héberger des gens chez moi, et pour me faire héberger chez d'autres gens, quand je voyage ;
-- `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ;
-- `OkCupid <https://www.OkCupid.com/>`_ : il y a pas beaucoup de gens, mais des gens intelligents et sympa ;
-- `Tinder <https://www.Tinder.com/>`_ : il y a beaucoup de gens, et peu de gens qui répondent ensuite aux conversations ;
-- `Happn <https://www.Happn.com/>`_ : je n'aime pas vraiment, il y a pas mal de gens mais personne ne répond ;
-- `Once <https://www.Once.com/>`_ : je n'aime vraiment pas.
+- 🛋 🏄 `CouchSurfing <https://www.CouchSurfing.com/>`_ : je m'en sers pour héberger des gens chez moi, et pour me faire héberger chez d'autres gens, quand je voyage ``#couch`` ``#surf`` ;
+- 👻 `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ``#ghost`` ;
 
 
 .. sidebar:: N'est peut-être plus à jour !
