@@ -41,6 +41,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Je suis assez fier du boulot réalisé sur `ma page "spéciale confinement" <https://perso.crans.org/besson/carte-confinement/>`_ !
 - Lundi 13 avril : j'ai ENFIN mis à jour ma `liste d'application <apk.fr.html>`_ pour refléter mes nouveaux usages de mon smartphone. Cette liste d'applications contient des idées d'applications utiles pour quelqu'un qui a) vit seul, b) vit isolé, c) est curieux ! (a, b, c me correspondent complètement !)
 - Mardi 14 avril : une journée un peu monotone. J'ai terminé mon travail sur `ma page d'informations sur le confinement <https://perso.crans.org/besson/carte-confinement/>`_, et c'est tout...
+- Mercredi 15 avril : j'ai eu envie de me lancer dans `ce projet <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ pour jouer collaborativement aux vieux jeux Pokémon (en utilisant git et GitHub pour stocker l'historique des sauvegardes). Nous allons commencer par `Pokémon version Jaune <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ : c'est ouvert à n'importe qui, rejoins nous !
 - Jeudi 16 avril : je reste enfermé, je travaille, je lis.
 
 .. todo:: mettre à jour au moins tous les deux ou trois jours cette page web !
