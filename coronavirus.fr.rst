@@ -34,6 +34,7 @@ Cours magistraux
 ~~~~~~~~~~~~~~~~
 
 - Outil web : `Discord <https://discordapp.com/>`_
+- Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_ pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
 - ?
 
 .. todo:: terminer !
