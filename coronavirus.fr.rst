@@ -29,6 +29,7 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 .. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils...
 .. todo:: Un mois après, écrire ici des bilans !
 
+------------------------------------------------------------------------------
 
 Devoirs maison (DM)
 ~~~~~~~~~~~~~~~~~~~
@@ -46,7 +47,7 @@ Cours magistraux (CM)
 
 Donner un cours magistral en période de confinement peut être plus ou moins facile, selon la forme qu'avait le cours en période normale :
 
-- Pour un cours qui utilisait (c'est souvent le cas pour les cours de niveau M1 ou M2) 
+- Pour un cours qui utilisait des planches (*slides*) projetés au tableau pendant deux heures (c'est souvent le cas pour les cours de niveau M1 ou M2), et la voix du professeur, alors il est très facile de passer le cours en cours *synchrone* (tous 
 
 - Outil web : `Discord <https://discordapp.com/>`_
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
