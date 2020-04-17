@@ -79,7 +79,7 @@ Travaux Dirigés (TD)
 2. Une heure en synchrone, suivant un peu les idées expliquées pour les cours magistraux, peut éventuellement compléter le travail fait en asynchrone.
 3. Demander à un binôme d'élèves de rédiger la correction du cours pour la séance suivante, et d'envoyer leur solution au reste de la classe (après relecture et validation par le chargé de TD) est une très bonne idée.
 
-- Outil web : `Discord <https://discordapp.com/>`_
+- Outil web : `Discord <https://discordapp.com/>`_, et `OverLeaf <https://www.overleaf.com/>`_ pour que les élèves collaborent facilement sur leurs documents (LaTeX) rédigés pour la correction du TD.
 
 
 Travaux Pratiques (TP)
