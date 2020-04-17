@@ -46,8 +46,7 @@ Travaux Dirigés (TD)
 
 - Outil web : `Discord <https://discordapp.com/>`_
 - En asynchrone les TD fonctionnent bien : on donne la feuille de TD, les élèves ont une semaine pour travailler de leur côté, et nous poser des questions quand ils veulent.
-- Une heure en synchrone peut éventuellement compléter le 
-séance
+- Une heure en synchrone peut éventuellement compléter le travail fait en asynchrone.
 - ?
 
 .. todo:: terminer !
@@ -57,7 +56,9 @@ séance
 Travaux Pratiques (TP)
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- Outil web : `Discord <https://discordapp.com/>`_
+Comme les TD, sauf qu'il peut y avoir une partie demandant aux élèves une implémentation logicielle.
+
+- Outils web : `Discord <https://discordapp.com/>`_, et j'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme XXX et TODO,
 - ?
 
 .. todo:: terminer !
@@ -66,6 +67,8 @@ Travaux Pratiques (TP)
 
 Examens finaux (partiels)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nous avons pris la décision de ne pas essayer de faire des évaluations en mode synchrone à distance (qui simulerait un examen réel), et donc d'évaluer nos élè
 
 - Outil web : `Discord <https://discordapp.com/>`_
 - ?
