@@ -48,6 +48,9 @@ Devoirs maison (DM)
 
 - La correction du DM se fait par un ou plusieurs enseignant-e-s, comme d'habitude en utilisant une feuille de calcul partagée (sur Google Drive ou `FramaCalc <https://FramaCalc.org/>`_).
 
+- Tout fonctionnera pareil pour un examen terminal qui serait transformé en devoir maison.
+
+
 Cours magistraux (CM)
 ~~~~~~~~~~~~~~~~~~~~~
 
