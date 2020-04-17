@@ -32,7 +32,8 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 Petit vocabulaire
 ~~~~~~~~~~~~~~~~~
 
-- Synchrone : tous les élèves et le ou la professeur-e se retrouvent *en même temps* (synchrone) sur une plateforme web qui permet d'échanger des messages, de l'audio (pour la voix) ou de l'image, ou partager un écran.
+- **Synchrone** : tous les élèves et le ou la professeur-e se retrouvent *en même temps* (synchrone) sur une plateforme web qui permet d'échanger des messages, de l'audio (pour la voix) ou de l'image, ou partager un écran. Typiquement, les cours magistraux et les corrections de travaux dirigés seront synchrones.
+- **Asynchrone** : c'est l'inverse. On peut toujours utiliser la plateforme web, pour s'échanger des messages, mais il n'y a pas d'emploi du temps à respecter. Les travaux pratiques, certains cours magistraux, et les devoirs maisons seront asynchrones
 
 ------------------------------------------------------------------------------
 
