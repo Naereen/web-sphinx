@@ -45,6 +45,9 @@ Travaux Dirigés (TD)
 ~~~~~~~~~~~~~~~~~~~~
 
 - Outil web : `Discord <https://discordapp.com/>`_
+- En asynchrone les TD fonctionnent bien : on donne la feuille de TD, les élèves ont une semaine pour travailler de leur côté, et nous poser des questions quand ils veulent.
+- Une heure en synchrone peut éventuellement compléter le 
+séance
 - ?
 
 .. todo:: terminer !
