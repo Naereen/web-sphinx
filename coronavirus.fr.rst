@@ -30,6 +30,13 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 .. todo:: Un mois après, écrire ici des bilans !
 
 
+Devoirs maison (DM)
+~~~~~~~~~~~~~~~~~~~
+
+Le confinement ne change rien : on donne un sujet au jour J, avec comme consigne aux élèves que chacun-e doit le terminer pour le jour J + x, et envoyer sa solution par email (ou via Discord ou via le Moodle de l'école).
+
+
+
 Cours magistraux
 ~~~~~~~~~~~~~~~~
 
@@ -68,12 +75,7 @@ Comme les TD, sauf qu'il peut y avoir une partie demandant aux élèves une impl
 Examens finaux (partiels)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nous avons pris la décision de ne pas essayer de faire des évaluations en mode synchrone à distance (qui simulerait un examen réel), et donc d'évaluer nos élè
-
-- Outil web : `Discord <https://discordapp.com/>`_
-- ?
-
-.. todo:: terminer !
+Nous avons pris la décision de ne pas essayer de faire des évaluations en mode synchrone à distance (qui simulerait un examen réel), et donc d'évaluer nos élèves uniquement en asynchrone : comme des devoirs à la maison (DM).
 
 
 ---------------------------------------------
