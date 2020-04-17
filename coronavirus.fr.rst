@@ -26,8 +26,11 @@ A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Renne
 Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
 
 
-.. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils...
-.. todo:: Un mois après, écrire ici des bilans !
+.. note:: Mi-mars, au tout début de la période de confinement, j'ai créé cette page web mais je n'ai pas été très réactif pour raconter nos idées, (idées en terme de techniques, et d'outils etc)...
+.. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
+
+.. todo:: Mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
+
 
 Point vocabulaire : synchrone ou asynchrone
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,6 +98,8 @@ Examens finaux (partiels)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nous avons pris la décision de ne pas essayer de faire des évaluations en mode synchrone à distance (qui simulerait un examen réel), et donc d'évaluer nos élèves uniquement en asynchrone : comme des devoirs à la maison (DM).
+
+Tous les examens finaux seront des DM, à faire seul (pas de binôme), en quelques jours pour limiter les risques de triches et de partages de copies entre les élèves.
 
 
 ---------------------------------------------
