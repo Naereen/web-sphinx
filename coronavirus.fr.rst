@@ -29,6 +29,11 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 .. todo:: attendre les réunions et lister ici plein d'idées, de techniques, et d'outils...
 .. todo:: Un mois après, écrire ici des bilans !
 
+Petit vocabulaire
+~~~~~~~~~~~~~~~~~
+
+- Synchrone : tous les élèves et le ou la professeur-e se retrouvent *en même temps* (synchrone) sur une plateforme web qui permet d'échanger des messages, de l'audio (pour la voix) ou de l'image, ou partager un écran.
+
 ------------------------------------------------------------------------------
 
 Devoirs maison (DM)
