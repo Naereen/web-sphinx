@@ -56,11 +56,13 @@ Cours magistraux (CM)
 
 Donner un cours magistral en période de confinement peut être plus ou moins facile, selon la forme qu'avait le cours en période normale :
 
-- Pour un cours qui utilisait des planches (*slides*) projetés au tableau pendant deux heures (c'est souvent le cas pour les cours de niveau M1 ou M2), et la voix du professeur, alors il est très facile de passer le cours en cours *synchrone* (tous 
+- Pour un cours qui utilisait des planches (*slides*) projetés au tableau pendant deux heures (c'est souvent le cas pour les cours de niveau M1 ou M2), et la voix du professeur, alors il est très facile de passer le cours en cours *synchrone* : le professeur partage son écran (avec les planches) et sa voix, et les élèves écoutent et suivent le cours. Avec Discord (et aussi d'autres plateformes) les élèves peuvent parler entre eux et entre elles, pendant la séance, par message textuel que le professeur ne voit qu'à la fin, et par audio en demandant à interrompre le cours (c'est l'équivalent "web" de lever la main !).
 
-- Outil web : `Discord <https://discordapp.com/>`_
+
+Outils :
+
+- Outil web recommandé : `Discord <https://discordapp.com/>`_
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
-- ?
 
 .. todo:: terminer !
 
