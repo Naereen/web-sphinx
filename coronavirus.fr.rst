@@ -33,12 +33,20 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 Devoirs maison (DM)
 ~~~~~~~~~~~~~~~~~~~
 
-Le confinement ne change rien : on donne un sujet au jour J, avec comme consigne aux élèves que chacun-e doit le terminer pour le jour J + x, et envoyer sa solution par email (ou via Discord ou via le Moodle de l'école).
+- Le confinement ne change rien, dans le fond : on donne un sujet au jour J, avec comme consigne aux élèves que chacun-e doit le terminer pour le jour J + x, et envoyer sa solution par email (ou via Discord ou via le Moodle de l'école).
 
+- On peut proposer des DM à faire seul-e ou en binôme ou en groupe, comme toujours.
 
+- Le confinement change le fait que les élèves ne se verront pas en vrai, et donc ils et elles auront moins d'occasion d'échanger et de discuter sur le DM.
 
-Cours magistraux
-~~~~~~~~~~~~~~~~
+- La correction du DM se fait par un ou plusieurs enseignant-e-s, comme d'habitude en utilisant une feuille de calcul partagée (sur Google Drive ou `FramaCalc <https://FramaCalc.org/>`_).
+
+Cours magistraux (CM)
+~~~~~~~~~~~~~~~~~~~~~
+
+Donner un cours magistral en période de confinement peut être plus ou moins facile, selon la forme qu'avait le cours en période normale :
+
+- Pour un cours qui utilisait (c'est souvent le cas pour les cours de niveau M1 ou M2) 
 
 - Outil web : `Discord <https://discordapp.com/>`_
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
