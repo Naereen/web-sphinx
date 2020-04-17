@@ -44,7 +44,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mercredi 15 avril : j'ai eu envie de me lancer dans `ce projet <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ pour jouer collaborativement aux vieux jeux Pokémon (en utilisant git et GitHub pour stocker l'historique des sauvegardes). Nous allons commencer par `Pokémon version Jaune <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ : c'est ouvert à n'importe qui, rejoins nous !
 - Jeudi 16 avril : je suis quasiment resté enfermé toute la journée, je travaille, je lis. Je vais bien, mais le monde extérieur "normal" me manque...
 
-.. todo:: mettre à jour au moins tous les deux ou trois jours cette page web !
+.. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
 ------------------------------------------------------------------------------
 
