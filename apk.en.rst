@@ -127,7 +127,7 @@ To use websites easily on mobile (registered account, easy to use) :
 - `Trainline EU <https://www.Trainline.fr/>`_ to book and pay (and keep) train tickets. Now works in the (western) half of Europe!
 - `(Google) Maps <https://maps.Google.com/>`_ to calculate routes and locate yourself. I also suggest Waze for car routes.
 
-... sidebar:: A free, free alternative to Google Maps ?
+.. sidebar:: An open-source, free alternative to Google Maps ?
 
    In addition to being free and open source, `OpenStreetMap <https://www.openstreetmap.org/>`_ is created and managed by the community.
    With `OSM And <https://osmand.net/>`_ you can download maps in advance and access them easily without an internet connection.
