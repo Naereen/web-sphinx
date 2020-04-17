@@ -56,16 +56,19 @@ Cours magistraux (CM)
 
 Donner un cours magistral en période de confinement peut être plus ou moins facile, selon la forme qu'avait le cours en période normale :
 
-- Pour un cours qui utilisait des planches (*slides*) projetés au tableau pendant deux heures (c'est souvent le cas pour les cours de niveau M1 ou M2), et la voix du professeur, alors il est très facile de passer le cours en cours *synchrone* : le professeur partage son écran (avec les planches) et sa voix, et les élèves écoutent et suivent le cours. Avec Discord (et aussi d'autres plateformes) les élèves peuvent parler entre eux et entre elles, pendant la séance, par message textuel que le professeur ne voit qu'à la fin, et par audio en demandant à interrompre le cours (c'est l'équivalent "web" de lever la main !).
+1. Pour un cours qui utilisait des planches (*slides*) projetés au tableau pendant deux heures (c'est souvent le cas pour les cours de niveau M1 ou M2), et la voix du professeur, alors il est très facile de passer le cours en cours *synchrone* : le professeur partage son écran (avec les planches) et sa voix, et les élèves écoutent et suivent le cours. Avec Discord (et aussi d'autres plateformes) les élèves peuvent parler entre eux et entre elles, pendant la séance, par message textuel que le professeur ne voit qu'à la fin, et par audio en demandant à interrompre le cours (c'est l'équivalent "web" de lever la main !).
 
+2. Pour un cours qui utilisait un polycopié ou des notes manuscrites bien écrites proprement avant chaque séance, recopié en direct à la main au tableau, donner le cours en période de confinement, via Internet, est moins facile mais reste assez simple. La professeure peut par exemple partager son écran (par Discord) qui montre le poly du cours, et le faire défiler et le commenter (ou le lire) ligne par ligne.
+
+.. sidebar:: Le cours sur lequel j'interviens ce semestre, `ALGO2 <https://perso.crans.org/besson/teach/info1_algo2_2019/>`_, nous avons choisi cette approche.
+
+3. Pour un cours qui serait au tableau sans aucune note de cours, par exemple un cours improvisé (?!?), il est plus difficile de le donner en période de confinement... Mais personne ne fait raisonnablement cours en improvisation !
 
 Outils :
 
-- Outil web recommandé : `Discord <https://discordapp.com/>`_
+- Outil web recommandé : `Discord <https://discordapp.com/>`_.
+- Avec une tablette graphique (ou une bonne souris), et un bon lecteur de PDF (je recommande **Okular** sous GNU/Linux), il est assez facile de surligner le PDF affiché.
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
-
-.. todo:: terminer !
-
 
 
 Travaux Dirigés (TD)
