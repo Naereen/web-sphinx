@@ -13,9 +13,9 @@
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
-Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
-
-Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``, ou par téléphone : *zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept* (si besoin).
+Bonne chance à vous tous 👍 !
+Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus fragiles et les plus âgés notamment !).
+Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
 
 
 Télétravail pendant l'épidémie de Coronavirus
