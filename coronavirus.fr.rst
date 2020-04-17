@@ -64,6 +64,7 @@ Donner un cours magistral en période de confinement peut être plus ou moins fa
 
 3. Pour un cours qui serait au tableau sans aucune note de cours, par exemple un cours improvisé (?!?), il est plus difficile de le donner en période de confinement... Mais personne ne fait raisonnablement cours en improvisation !
 
+
 Outils :
 
 - Outil web recommandé : `Discord <https://discordapp.com/>`_.
@@ -74,13 +75,11 @@ Outils :
 Travaux Dirigés (TD)
 ~~~~~~~~~~~~~~~~~~~~
 
+1. En asynchrone les TD fonctionnent bien : on donne la feuille de TD, les élèves ont une semaine pour travailler de leur côté, et nous poser des questions quand ils veulent.
+2. Une heure en synchrone, suivant un peu les idées expliquées pour les cours magistraux, peut éventuellement compléter le travail fait en asynchrone.
+3. Demander à un binôme d'élèves de rédiger la correction du cours pour la séance suivante, et d'envoyer leur solution au reste de la classe (après relecture et validation par le chargé de TD) est une très bonne idée.
+
 - Outil web : `Discord <https://discordapp.com/>`_
-- En asynchrone les TD fonctionnent bien : on donne la feuille de TD, les élèves ont une semaine pour travailler de leur côté, et nous poser des questions quand ils veulent.
-- Une heure en synchrone peut éventuellement compléter le travail fait en asynchrone.
-- ?
-
-.. todo:: terminer !
-
 
 
 Travaux Pratiques (TP)
