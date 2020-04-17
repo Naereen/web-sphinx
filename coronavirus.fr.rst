@@ -27,6 +27,7 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 
 
 .. note:: Mi-mars, au tout début de la période de confinement, j'ai créé cette page web mais je n'ai pas été très réactif pour raconter nos idées, (idées en terme de techniques, et d'outils etc)...
+
 .. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
 
 .. todo:: Mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
