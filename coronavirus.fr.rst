@@ -88,8 +88,7 @@ Travaux Pratiques (TP)
 Comme les TD, sauf qu'il peut y avoir une partie demandant aux élèves une implémentation logicielle.
 
 - Outils web : `Discord <https://discordapp.com/>`_,
-- et j'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme `CoderPad <https://coderpad.io/>`_ et `CollabEdit <http://collabedit.com/>`_ (`il <>`_ `en <>`_ `existe <>`_ `plein <>`_ `d'autres <>`_),
-
+- J'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme `CoderPad <https://coderpad.io/>`_ et `CollabEdit <http://collabedit.com/>`_ (`il <https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654>`_ `en <https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/>`_ `existe <http://www.crackingthecodinginterview.com/>`_ `plein <https://duckduckgo.com/?q=online+coding+interview+website&t=canonical&ia=web>`_ `d'autres <https://www.quora.com/What-are-the-best-online-coding-environments-for-conducting-programming-interviews>`_),
 
 
 Examens finaux (partiels)
