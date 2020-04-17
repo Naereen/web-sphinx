@@ -87,10 +87,8 @@ Travaux Pratiques (TP)
 
 Comme les TD, sauf qu'il peut y avoir une partie demandant aux élèves une implémentation logicielle.
 
-- Outils web : `Discord <https://discordapp.com/>`_, et j'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme XXX et TODO,
-- ?
-
-.. todo:: terminer !
+- Outils web : `Discord <https://discordapp.com/>`_,
+- et j'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme `CoderPad <https://coderpad.io/>`_ et `CollabEdit <http://collabedit.com/>`_ (`il <>`_ `en <>`_ `existe <>`_ `plein <>`_ `d'autres <>`_),
 
 
 
