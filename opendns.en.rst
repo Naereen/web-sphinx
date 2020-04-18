@@ -71,6 +71,9 @@ You can also check how the OpenDNS servers **protect you against fishing** and *
    Hidester's DNS Leak Test
       Another `tool of this kind (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, quoted here because the author asked me to include a link here…
 
+   Pixel Privacy's DNS Leak Test
+      I've been kindly asked to add a link `to this test (PixelPrivacy.com/resources/dns-leak) <https://pixelprivacy.com/resources/dns-leak>`_.
+
 ----
 
 Why this rather empty page on my web-site?

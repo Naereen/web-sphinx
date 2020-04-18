@@ -213,7 +213,7 @@ Other apps :
 - **The Soundbox** is by far the best, because it contains a lot of cult movies!
 - Instant Louis de Funès
 - Naheulbeuk Chiantos Box
-- **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`.
+- **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
 
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
