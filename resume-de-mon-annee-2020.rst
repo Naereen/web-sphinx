@@ -29,16 +29,19 @@ Mars 2020
 - Une rencontre fort sympathique début mars pour le travail et le plaisir, à Lyon !
 - Début des mesures d'isolement pour lutter contre l'épidémie de Coronavirus, télétravail dès le 13 mars...
 
-.. note:: Page dédiée à cet événement
+.. note:: Page dédiée à cet événement ?
 
     Consultez cette page : `<coronavirus.fr.html>`_.
+    J'explique comment nos enseignements à l'ENS ont réussi à ne pas être trop perturbés par le confinement, puisque nous avons été très rapides et réactifs, en utilisant des technologies modernes.
+
+    Regardez aussi `ma page rassemblant des cartes <https://perso.crans.org/besson/carte-confinement/>`_ utiles pendant le confinement.
 
 
 Avril 2020
 ----------
 - Un confinement très chiant, qui a duré jusqu'à Pâques (week-end du 11-13 avril), au moins...
-- Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
-- J'ai ENFIN acheté un nom de domaine pour héberger ce site hors des <pages web du crans <https://perso.crans.org/besson/>`_ : `<http://besson.link/>`_ !
+- Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/carte.html#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
+- J'ai ENFIN acheté un nom de domaine pour héberger ce site hors des `pages web du CRANS <https://perso.crans.org/besson/>`_ : `<http://besson.link/>`_ !
 
 Mai 2020
 --------
@@ -125,7 +128,7 @@ En 2020, j'ai lu ces livres…
 - *Ce qu'ils disent ou rien*, de Annie Ernaux (encore, j'adore toujours autant),
 - `La Trilogie Yan Solo <https://fr.wikipedia.org/wiki/La_Trilogie_Yan_Solo>`_, de Ann C. Crispin,
 - `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
-- **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons,
+- (en cours) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
