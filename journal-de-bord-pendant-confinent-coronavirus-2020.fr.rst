@@ -48,6 +48,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Dimanche 19 avril : essais pas très convaincu avec `Twitch`_ mais je retenterai. Essais très convaincant avec `Ziteboard <https://app.ziteboard.com/>`_, j'aime bien l'interface épurée, l'appli est très réactive, et tout fonctionne bien avec ma tablette graphique ("Bamboo" de Wacom).
 - Lundi 20 avril : du boulot sur ALGO2, sur ma carte spéciale confinement, sur l'agrégation pour 2020/2021 aussi.
 - Mardi 21 avril : petite pause de travail, je vais faire des courses pour tout ce qu'il me manque chez moi !
+- Mercredi 22 avril : des sorties pour refaire des courses, j'avais oublié tellement de choses. Je relis des livres "d'informatique pour tous" (informatique en prépa scientifique), ça occupe bien !
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
