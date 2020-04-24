@@ -50,6 +50,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mardi 21 avril : petite pause de travail, je vais faire des courses pour tout ce qu'il me manque chez moi !
 - Mercredi 22 avril : des sorties pour refaire des courses, j'avais oublié tellement de choses. Je relis des livres "d'informatique pour tous" (informatique en prépa scientifique), ça occupe bien !
 - Jeudi 23 avril : repoooos, et un peu de bricolage chez moi (i.e., j'ai planté un clou !).
+- Vendredi 24 avril : dodo, lecture, jardinage et bricolage dans ma terrasse (i.e., j'ai coupé trois branches d'un arbre qui dépassait).
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
