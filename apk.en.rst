@@ -79,7 +79,7 @@ Useful apps
 
 To use websites easily on mobile (registered account, easy to use) :
 
-- `WordPress <https://www.WordPress.com/>`_ : to manage a blog under WordPress (e.g., `Actual Middle Ages <https://ActuelMoyenAge.WordPress.com/>`_, `Rennes en Résilience <https://RennesenResilience.WordPress.com/>`_);
+- `WordPress <https://www.WordPress.com/>`_ : to manage a blog under WordPress, e.g., `Actuel Moyen-Âge <https://ActuelMoyenAge.WordPress.com/>`_ ;
 - `LeMonde <https://www.LeMonde.fr/>`_ for current events (in France). I think it is essential to read the news quickly in the morning on AT LEAST ONE digital newspaper.
 
 .. sidebar:: Other languages?

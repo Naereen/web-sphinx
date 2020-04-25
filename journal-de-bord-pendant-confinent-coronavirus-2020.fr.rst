@@ -51,7 +51,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Mercredi 22 avril : des sorties pour refaire des courses, j'avais oublié tellement de choses. Je relis des livres "d'informatique pour tous" (informatique en prépa scientifique), ça occupe bien !
 - Jeudi 23 avril : repoooos, et un peu de bricolage chez moi (i.e., j'ai planté un clou !).
 - Vendredi 24 avril : dodo, lecture, jardinage et bricolage dans ma terrasse (i.e., j'ai coupé trois branches d'un arbre qui dépassait). J'ai pris du temps pour (re(re(re)))relire en détail le polycopié du cours d'ALGO2 !
-- Samedi 25 avril : je suis content j'ai fini le bricolage du jardin, j'ai passé beaucoup de temps dans de belles lectures, et je me suis reposé, une petite course (des sirops, il commence à faire tellement chaud que je dois me forcer à boire de l'eau, comme en plein été). J'ai beaucoup bricolé et ranger chez moi, mon appartement a pris un coup de jeune en quelques jours, je suis très content !
+- Samedi 25 avril : je suis content j'ai fini le bricolage du jardin, j'ai passé beaucoup de temps dans de belles lectures, et je me suis reposé, une petite course (des sirops, il commence à faire tellement chaud que je dois me forcer à boire de l'eau, comme en plein été). J'ai beaucoup bricolé et ranger chez moi, mon appartement a pris un coup de jeune en quelques jours, je suis très content !!
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 

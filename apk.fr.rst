@@ -79,7 +79,7 @@ Utilitaires
 
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
-- `WordPress <https://www.WordPress.com/>`_ : pour gérer un blogue sous WordPress (e.g., `Actuel Moyen-Âge <https://ActuelMoyenAge.WordPress.com/>`_, `Rennes en Résilience <https://RennesenResilience.WordPress.com/>`_) ;
+- `WordPress <https://www.WordPress.com/>`_ : pour gérer un blogue sous WordPress, e.g., `Actuel Moyen-Âge <https://ActuelMoyenAge.WordPress.com/>`_ ;
 - `LeMonde <https://www.LeMonde.fr/>`_ pour l'actualité. Je pense qu'il est essentiel de lire rapidement l'actualité le matin sur AU MOINS UN journal numérique ;
 
 .. sidebar:: D'autre langues ?
