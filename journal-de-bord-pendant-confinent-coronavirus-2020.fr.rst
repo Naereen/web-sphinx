@@ -60,15 +60,8 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 Présence sur les réseaux sociaux ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `cette carte pour vous aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_,
-- Très vite, nous serons un petit groupe de jeunes écologistes, plus ou moins anonymes.
-
-- **Comment nous contacter** ?
-    + `par des tickets GitHub (questions publiques) <https://github.com/Rennes-en-Resilience/Contactez-nous/>`_,
-    + Par mails *chiffrés* : ``Rennes.en.Resilience`` à ``ProtonMail.com`` (créer un compte est gratuit) ou ``Laposte.net``
-
-..  + Dans quelques jours, le numéro ``+33 (0)7 4neuf 0cinq 9trois 6sept`` sera disponible 24h/24 !
-
+- Je suis présent sur Facebook, et c'est tout. Demandez moi par email ou par SMS.
+- J'ai créé `cette carte pour vous aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_,
 
 Comment me contacter ?
 ~~~~~~~~~~~~~~~~~~~~~~
