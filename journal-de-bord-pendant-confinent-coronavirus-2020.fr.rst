@@ -57,11 +57,10 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 
 ------------------------------------------------------------------------------
 
-Blogue et autres présences sur les réseaux sociaux ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Présence sur les réseaux sociaux ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Je vais gérer et animer ce blogue : `Rennes En Résilience <https://RennesEnResilience.wordpress.com/>`_ !
-- Notamment `cette carte pour vous aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_,
+- `cette carte pour vous aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_,
 - Très vite, nous serons un petit groupe de jeunes écologistes, plus ou moins anonymes.
 
 - **Comment nous contacter** ?
