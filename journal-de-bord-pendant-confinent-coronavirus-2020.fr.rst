@@ -8,8 +8,8 @@
 
 .. warning:: Informations sur l'épidémie de Coronavirus
 
-    Allez lire *chaque jour* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
-    Et lire `<https://www.lemonde.fr>`_ est aussi une très bonne idée !
+    Si vous cherchez des informations sur l'épidémie de coronavirus, allez lire (*chaque jour*) la page `<https://www.gouvernement.fr/info-coronavirus>`_, qui est maintenue par notre gouvernement (français).
+    Je recommande aussi de lire au moins un journal en ligne, par exemple `Le Monde<https://www.lemonde.fr>`_, pour se tenir au courant de l'évolution de 
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
@@ -20,6 +20,7 @@ Alors j'ai essayé d'utiliser une page dédiée sur `mon site web <index.fr.html
 
     OK je ne déteste pas Facebook, j'ai un compte depuis 2008, et je me sers un peu (typiquement deux fois par semaine) de Messenger.
     Je vais continuer à poster des choses sur mon mur Facebook, mais normalement, comme d'habitude.
+
 
 Les informations ci-dessous seront mises à jour régulièrement (typiquement, deux fois par jour, le matin et le soir), et concernent mon état de santé.
 
