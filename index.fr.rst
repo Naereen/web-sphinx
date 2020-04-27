@@ -117,7 +117,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    :titlesonly:
 
    coronavirus.fr
-   journal-de-bord-pendant-confinent-coronavirus-2020.fr
+   journal-de-bord-pendant-confinement-coronavirus-2020.fr
    callme.fr
    enseignement.fr
    cv.fr
