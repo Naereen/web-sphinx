@@ -3,7 +3,7 @@
    :description lang=fr: Mon état de santé en temps réel
 
 #################################
- Mon état de santé en temps réel
+ Journal de bord pendant le confinement pour lutter face au coronavirus en 2020
 #################################
 
 .. warning:: Informations sur l'épidémie de Coronavirus
