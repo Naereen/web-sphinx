@@ -54,6 +54,7 @@ Les informations ci-dessous seront mises à jour le matin et le soir, et concern
 - Samedi 25 avril : je suis content j'ai fini le bricolage du jardin, j'ai passé beaucoup de temps dans de belles lectures, et je me suis reposé, une petite course (des sirops, il commence à faire tellement chaud que je dois me forcer à boire de l'eau, comme en plein été). J'ai beaucoup bricolé et ranger chez moi, mon appartement a pris un coup de jeune en quelques jours, je suis très content !
 - Dimanche 26 avril : repos. J'ai `cuisiné ça <cuisine/XXX.html>`_. Et *pour une fois* je me suis rasé, et pour fêter cet événement exceptionnellement rare, je me suis fait livrer une pizza ! (depuis le `Pizza Hut juste à côté <https://www.pizzahut.fr/huts/fr-1/203-rennes-maginot/>`_). J'ai aussi regardé *Nausicaa, de la vallée du vent* et *Mon voisin Totoro*, deux excellents films du studio Ghibli, qui mettent en avant des personnages féminins forts et libres \o/ !
 - Lundi 27 avril : ajouts d'articles sur mes blogues `de cuisine <cuisine/>`_ et `de zéro déchet <zero-dechet/>`_, après de longs mois sans y avoir touché ! Et ces nouvelles pages ici : `<jitsi.fr.html>`_, `<twitch.fr.html>`_, `<pokemon>`_, `<carte-confinement>`_ (à faire).
+- Mardi 28 avril : des lectures pour l'agrég, et j'ai rangé mes cartes Magic ! J'ai aussi commandé quelques trucs sur `Decathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
