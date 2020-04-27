@@ -2,9 +2,9 @@
    :description lang=en: Description of my teaching activities now that we are working from home
    :description lang=fr: Mon état de santé en temps réel
 
-#################################
+################################################################################
  Journal de bord pendant le confinement pour lutter face au coronavirus en 2020
-#################################
+################################################################################
 
 .. warning:: Informations sur l'épidémie de Coronavirus
 
@@ -13,11 +13,24 @@
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
-Haha, on est en 2020, je pourrais utiliser une solution plus "moderne", mais je déteste Twitter. Je vais poster des choses sur mon mur Facebook, mais normalement, comme d'habitude.
+Nous sommes en 2020, je pourrais utiliser une solution plus "moderne" (comme Twitter) mais je déteste l'idée de Twitter.
+Alors j'ai essayé d'utiliser une page dédiée sur `mon site web <index.fr.html>`_ !
 
-Les informations ci-dessous seront mises à jour le matin et le soir, et concernent davantage mon état de santé. L'historique (git) de cette page me servira de carnet de bord.
+.. note:: Et Facebook ?
 
-- Télétravail depuis vendredi 13 mars, et je suis ravi, j'ai à manger et tout ce qu'il me faut chez moi pour 3/6 semaines.
+    OK je ne déteste pas Facebook, j'ai un compte depuis 2008, et je me sers un peu (typiquement deux fois par semaine) de Messenger.
+    Je vais continuer à poster des choses sur mon mur Facebook, mais normalement, comme d'habitude.
+
+Les informations ci-dessous seront mises à jour régulièrement (typiquement, deux fois par jour, le matin et le soir), et concernent mon état de santé.
+
+.. note::
+
+    Cette page (et son historique git) me servira de carnet de bord.
+
+
+.. sidebar:: Je suis en télétravail depuis vendredi 13 mars, et je suis ravi, j'ai à manger (et je garderai de l'avance) et tout ce qu'il me faut chez moi pour plusieurs semaines.
+
+
 - Samedi 14/03 midi, après un début de ce qui ressemblait à une crise d'asthme, je vais mieux, mais j'ai mis un masque pour sortir, et j'ai prévenu tous mes proches.
 - Je me suis promené, en étant très prudent, entre 14h et 18h50, pour faire des courses (quartier rue de Paris à Jeanne d'Arc, place de la Mairie et rues entre les deux).
 - Samedi 14/03 21h : pas de fièvre, une toux très légère. Je me sens bien. Trois pharamaciens consultés, aucun n'était inquiet.
