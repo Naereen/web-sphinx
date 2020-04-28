@@ -48,13 +48,13 @@ Mars 2020
 
 - Mardi minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi, notamment mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
 
-- Mon médecin traitant m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19 sauf la fièvre.
+- Mon médecin traitant m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19 sauf la fièvre. Mais je vais parfaitement bien : je suis juste en arrêt temporaire de travail, je reviens début avril 👶 !
+
+
+Avril 2020
+~~~~~~~~~~
+
 - Mise à jour après deux semaines de retard du mercredi 18/03 au samedi 04 avril !
-- Tout va bien : je suis en arrêt temporaire de travail, je reviens mi avril :-) !
-
-Mars 2020
-~~~~~~~~~
-
 - Lundi 6 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
 - Mardi 7 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
 - Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
