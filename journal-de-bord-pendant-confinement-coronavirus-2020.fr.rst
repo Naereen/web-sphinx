@@ -54,7 +54,11 @@ Mars 2020
 Avril 2020
 ~~~~~~~~~~
 
-- Mise à jour après deux semaines de retard du mercredi 18 mars au samedi 04 avril !
+.. note:: Deux semaines de repos, sans mise à jour de cette page.
+
+    Mise à jour après deux semaines de retard du mercredi 18 mars au samedi 04 avril !
+
+
 - Lundi 6 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
 - Mardi 7 avril : j'ai fait une belle promenade ce matin, maintenant je travaille pour corriger le DM du cours d'ALGO2, donné avec `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`_ ! Je travaille aussi sur `ce projet <https://github.com/Rennes-en-Resilience/>`_.
 - Mercredi 8 avril : je travaille à relire des développements. Encore dessus toute la journée jeudi 9 avril.
