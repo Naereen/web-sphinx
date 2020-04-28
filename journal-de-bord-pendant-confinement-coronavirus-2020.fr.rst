@@ -90,7 +90,7 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Mardi 28 avril : des lectures pour l'agrég, et j'ai rangé mes cartes Magic ! J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
+- Mardi 28 avril : des lectures pour l'agrég, et j'ai commencé à ranger mon énorme collection de cartes Magic (ça va prendre du temps !)... J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
