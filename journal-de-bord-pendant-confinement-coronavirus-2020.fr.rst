@@ -100,7 +100,7 @@ Présence sur les réseaux sociaux ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Je suis présent sur Facebook, et c'est tout. Demandez moi par email ou par SMS.
-- J'ai créé `cette carte pour vous aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_,
+- J'ai créé `cette carte pour m'aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_, elle peut aussi être vous utile ?
 
 
 Comment me contacter ?
