@@ -46,9 +46,9 @@ Mars 2020
 
 - Lundi 16 mars 3h30 : petite promenade nocturne, et dodo ! Lundi 9h : une de mes dernières sorties, pour des courses : je serai rapide, efficace et prudent !
 
-- Mardi minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi, notamment mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
+- Mardi 17 mars vers minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi, notamment mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
 
-- Mon médecin traitant m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19 sauf la fièvre. Mais je vais parfaitement bien : je suis juste en arrêt temporaire de travail, je reviens début avril 👶 !
+- Mercredi 18 mars : mon médecin traitant (Dr L.C. à Plaine de B.) m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19 sauf la fièvre. Mais je vais parfaitement bien : je suis juste en arrêt temporaire de travail, je reviens début avril 👶 !
 
 
 Avril 2020
@@ -76,7 +76,7 @@ Avril 2020
 - Vendredi 24 avril : dodo, lecture, jardinage et bricolage dans ma terrasse (i.e., j'ai coupé trois branches d'un arbre qui dépassait). J'ai pris du temps pour (re(re(re)))relire en détail le polycopié du cours d'ALGO2 !
 - Samedi 25 avril : je suis content j'ai fini le bricolage du jardin, j'ai passé beaucoup de temps dans de belles lectures, et je me suis reposé, une petite course (des sirops, il commence à faire tellement chaud que je dois me forcer à boire de l'eau, comme en plein été). J'ai beaucoup bricolé et ranger chez moi, mon appartement a pris un coup de jeune en quelques jours, je suis très content !
 - Dimanche 26 avril : repos. J'ai `cuisiné ça <cuisine/XXX.html>`_. Et *pour une fois* je me suis rasé, et pour fêter cet événement exceptionnellement rare, je me suis fait livrer une pizza ! (depuis le `Pizza Hut juste à côté <https://www.pizzahut.fr/huts/fr-1/203-rennes-maginot/>`_). J'ai aussi regardé *Nausicaa, de la vallée du vent* et *Mon voisin Totoro*, deux excellents films du studio Ghibli, qui mettent en avant des personnages féminins forts et libres \o/ !
-- Lundi 27 avril : ajouts d'articles sur mes blogues `de cuisine <cuisine/>`_ et `de zéro déchet <zero-dechet/>`_, après de longs mois sans y avoir touché ! Et ces nouvelles pages ici : `<jitsi.fr.html>`_, `<twitch.fr.html>`_, `<pokemon>`_, `<carte-confinement>`_ (à faire).
+- Lundi 27 avril : ajouts d'articles sur mes blogues `de cuisine <cuisine/>`_ et `de zéro déchet <zero-dechet/>`_, après de longs mois sans y avoir touché ! Et ces nouvelles pages ici : `<jitsi.fr.html>`_, `<twitch.fr.html>`_, `<pokemon.fr.html>`_, `<carte-confinement.fr.html>`_ (à faire).
 - Mardi 28 avril : des lectures pour l'agrég, et j'ai rangé mes cartes Magic ! J'ai aussi commandé quelques trucs sur `Decathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
