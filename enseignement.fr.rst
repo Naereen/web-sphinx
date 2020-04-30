@@ -6,7 +6,9 @@
  Activités d'enseignement
 ##########################
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par semaine (à partir du 13/03/2020).
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
+
+**Jusqu'au 11 mai, je suis disponible pour donner des cours particuliers à distance**, par Internet en visioconférence, en informatique et en mathématiques, à *tout niveau, école primaire jusqu'à Licence 3* (comme `Jitsi Meet <https://meet.jit.si/>`_).
 
 
 .. note::
@@ -18,7 +20,7 @@
 En 2019/2020
 ------------
 
-Je serai `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
+Je suis un `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
 
 - En charge de la `préparation à l'option informatique de l'agrégation de mathématiques <https://perso.crans.org/besson/teach/agreg-2019/>`__ (**"prépa agrég"**, option D), et notamment des `TP de programmation en Python 🐍 et OCaml 🐫 <https://github.com/Naereen/notebooks/tree/master/agreg/>`__. (80 h / an) `L'emploi du temps est ici ! <https://perso.crans.org/besson/agreg_info_planning/>`__
 - En charge du cours `d'Introduction à l'Algorithmique <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** pour les élèves en L3 (première année) à l'ENS de Rennes (voir `la page du même cours au département de maths <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, donné par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / an)

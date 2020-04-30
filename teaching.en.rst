@@ -6,7 +6,9 @@
  My teaching activities
 ########################
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a week (as of 13/03/2020).
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
+
+**I am available to give private lessons**, in mathematics or computer science, by using online video-conference tools (like `Jitsi Meet <https://meet.jit.si/>`_).
 
 
 .. note::
@@ -18,7 +20,7 @@
 In 2019/2020
 ------------
 
-I will be `junior professor (agrégé préparateur) in Computer Sience at ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
+I am a `junior professor (agrégé préparateur) in Computer Sience at ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
 
 - I am in charge of the `training for Computer Science option for the national exam of "agrégation de mathématiques" (to become a teacher in maths and/or computer science) <https://perso.crans.org/besson/teach/agreg-2019/>`__ (**"prépa agrég"**, option D), and in particular I'm in charge `of the practical sessions of programming, in Python 🐍 and OCaml 🐫 <https://github.com/Naereen/notebooks/tree/master/agreg/>`__. (80 h / year) `The time table is here! <https://perso.crans.org/besson/agreg_info_planning/>`__
 - I give the course of `Introduction to Algorithmic <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** for the first year student (in L3) at ENS de Rennes (see `the page for the same course in the maths department <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, given by `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / year)
