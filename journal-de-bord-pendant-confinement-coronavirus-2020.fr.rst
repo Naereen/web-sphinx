@@ -84,6 +84,7 @@ Avril 2020
 - Dimanche 26 avril : repos. J'ai `cuisiné ça <cuisine/XXX.html>`_. Et *pour une fois* je me suis rasé, et pour fêter cet événement exceptionnellement rare, je me suis fait livrer une pizza ! (depuis le `Pizza Hut juste à côté <https://www.pizzahut.fr/huts/fr-1/203-rennes-maginot/>`_). J'ai aussi regardé *Nausicaa, de la vallée du vent* et *Mon voisin Totoro*, deux excellents films du studio Ghibli, qui mettent en avant des personnages féminins forts et libres \\o/ !
 - Lundi 27 avril : ajouts d'articles sur mes blogues `de cuisine <cuisine/>`_ et `de zéro déchet <zero-dechet/>`_, après de longs mois sans y avoir touché ! Et ces nouvelles pages ici : `sur Jitsi <jitsi.fr.html>`_, `à propos de Twitch <twitch.fr.html>`_, `parlant de Pokémon <pokemon.fr.html>`_, `et de mes cartes produites durant le confinement <carte-confinement.fr.bhtml>`_ (à faire).
 - Mardi 28 avril : des lectures pour l'agrég, et j'ai commencé à ranger mon énorme collection de cartes Magic (ça va prendre du temps !)... J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
+- Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
 
 Maintenant
 ~~~~~~~~~~
@@ -91,7 +92,8 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
+- Jeudi 29 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* !
+
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
