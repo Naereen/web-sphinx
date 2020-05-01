@@ -92,7 +92,8 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Jeudi 29 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
+- Jeudi 30 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
+- Vendredi 1er mai : fête du travail, mais sans manifestation.
 
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
