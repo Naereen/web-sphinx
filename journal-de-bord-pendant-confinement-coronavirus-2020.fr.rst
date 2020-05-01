@@ -93,7 +93,7 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos.
+- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/>`_ !
 
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
