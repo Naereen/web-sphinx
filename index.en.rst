@@ -130,6 +130,7 @@ For more details, see `<sitemap.en.html>`_.
    stats-google-analytics.en
    beacon.en
    apk.en
+   jisti.en
    firefox-extensions.en
    tutogit.en
    wakatime.en

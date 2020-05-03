@@ -135,6 +135,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    stats-google-analytics.fr
    beacon.fr
    apk.fr
+   jitsi.fr
    firefox-extensions.fr
    tutogit.fr
    apprendre-python.fr
