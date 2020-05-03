@@ -38,8 +38,8 @@ WhatsApp, Telegram and Signal seem more secure since communications are encrypte
 ------------------------------------------------------------------------------
 
 
-And what solution do you propose?
---------------------------------
+And what solution do I propose?
+-------------------------------
 
 In the year 2020, using one of the above-mentioned solutions seems to me to be a serious mistake...
 When there are so many secure, simple and installation-free tools with nothing to do: no account, just a link, you click and it works, in a fairly recent web browser (i.e., Firefox or Google Chrome or Chromium).
@@ -63,19 +63,25 @@ There is `meet.jit.si <https://meet.jit.si/>`_ which is the official server. The
 A Jitsi Meet server can't be overloaded since Jitsi Meet works in **peer-to-peer** : as soon as the call is launched, the network traffic (audio as well as video as text) goes through the central server but just between us !
 
 Another Jitsi Meet instance?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: .jitsi_crans.png
+   :scale: 50%
+   :align: center
+   :alt: Home page of the Jitsi Meet server on https://jitsi.crans.org/
+   :target: https://jitsi.crans.org/
 
 You can also use the instance on the server of the association CRANS of the ENS Cachan / Paris Saclay (of which I was an active member in 2012/13...): `Jitsi.crans.org <https://jitsi.crans.org/>`_ which is hosted in France, in Cachan, and managed by volunteers who don't spy on their users 😊!
 
 The application on Android™
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It works very well, and allows the use of meeting rooms, whether they are hosted on `meet.jit.si <https://meet.jit.si/>`_ or anywhere else on any server.
 
 .. note:: See `this page about other applications for Android™.
 
 Installing Jitsi Meet on your own computer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It's very simple, just follow `this user guide <https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md>`_ on the jitsi-meet `GitHub <https://github.com/jitsi/jitsi-meet/>`_.
 

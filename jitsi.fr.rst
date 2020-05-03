@@ -65,7 +65,7 @@ Un serveur Jitsi Meet ne peut pas être surchargé puisque Jitsi Meet marche en 
 Une autre instance Jitsi Meet ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: .jitsi_crans.jpg
+.. image:: .jitsi_crans.png
    :scale: 50%
    :align: center
    :alt: Home page of the Jitsi Meet server on https://jitsi.crans.org/
