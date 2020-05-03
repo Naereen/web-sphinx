@@ -86,6 +86,8 @@ Avril 2020
 - Mardi 28 avril : des lectures pour l'agrég, et j'ai commencé à ranger mon énorme collection de cartes Magic (ça va prendre du temps !)... J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 - Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
 - Jeudi 30 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
+- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
+- Samedi 2 mai : repos, promenade à vélo.
 
 Maintenant
 ~~~~~~~~~~
@@ -93,8 +95,6 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
-- Samedi 2 mai : repos, promenade à vélo.
 - Dimanche 2 mai : repos, promenade à vélo, tri de cartes Magic.
 
 
