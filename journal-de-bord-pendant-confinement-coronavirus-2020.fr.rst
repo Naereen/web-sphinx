@@ -95,7 +95,7 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 
-- Dimanche 2 mai : repos, promenade à vélo, tri de cartes Magic.
+- Dimanche 3 mai : repos, promenade à vélo, tri de cartes Magic.
 
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
