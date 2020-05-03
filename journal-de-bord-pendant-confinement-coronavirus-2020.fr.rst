@@ -74,7 +74,7 @@ Avril 2020
 - Jeudi 16 avril : je suis quasiment resté enfermé toute la journée, je travaille, je lis. Je vais bien, mais le monde extérieur "normal" me manque...
 - Vendredi 17 avril : gros ménage chez moi, j'ai tout changé dans ma chambre !
 - Samedi 18 avril : pas grand chose à raconter. J'expérimente `Twitch <https://www.twitch.tv/Naereen>`_ pour voir comment je pourrais m'en servir pour enseigner à distance...
-- Dimanche 19 avril : essais pas très convaincu avec `Twitch`_ mais je retenterai. Essais très convaincant avec `Ziteboard <https://app.ziteboard.com/>`_, j'aime bien l'interface épurée, l'appli est très réactive, et tout fonctionne bien avec ma tablette graphique ("Bamboo" de Wacom).
+- Dimanche 19 avril : essai pas très convaincant avec `Twitch`_ mais je retenterai. Essais très convaincant avec `Ziteboard <https://app.ziteboard.com/>`_, j'aime bien l'interface épurée, l'appli est très réactive, et tout fonctionne bien avec ma tablette graphique ("Bamboo" de Wacom).
 - Lundi 20 avril : du boulot sur ALGO2, sur ma carte spéciale confinement, sur l'agrégation pour 2020/2021 aussi.
 - Mardi 21 avril : petite pause de travail, je vais faire des courses pour tout ce qu'il me manque chez moi !
 - Mercredi 22 avril : des sorties pour refaire des courses, j'avais oublié tellement de choses. Je relis des livres "d'informatique pour tous" (informatique en prépa scientifique), ça occupe bien !
@@ -86,7 +86,7 @@ Avril 2020
 - Mardi 28 avril : des lectures pour l'agrég, et j'ai commencé à ranger mon énorme collection de cartes Magic (ça va prendre du temps !)... J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 - Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
 - Jeudi 30 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
-- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
+- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/Naereen>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
 - Samedi 2 mai : repos, promenade à vélo.
 
 Maintenant
