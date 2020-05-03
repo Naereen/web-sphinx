@@ -15,7 +15,7 @@ To quote `the Wikipedia page <https://en.wikipedia.org/wiki/Twitch>`_ :
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/langfr-1920px-Twitch_logo_2019.svg.png
-   :scale: 75%
+   :scale: 25%
    :align: center
    :alt: Logo of https://Twitch.tv/
    :target: https://commons.wikimedia.org/wiki/File:Twitch_logo_2019.svg#/media/Fichier:Twitch_logo_2019.svg
@@ -25,7 +25,7 @@ My Twitch Channel
 ----------------
 
 .. image:: .twitch-homepage.png
-   :scale: 50%.
+   :scale: 35%
    :align: center
    :alt: Home page of my Twitch channel on https://www.twitch.tv/Naereen
    :target: https://www.twitch.tv/Naereen
@@ -38,7 +38,7 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 - when I play Pokémon (and other games) for the project `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_:
 
 .. image:: .twitch-pokemon.png
-   :scale: 50%.
+   :scale: 35%
    :align: center
    :alt: My Twitch channel on https://www.twitch.tv/Naereen when I play Pokémon
    :target: https://www.twitch.tv/Naereen
@@ -47,7 +47,7 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 - when I code for a public project:
 
 .. image:: .twitch-code.png
-   :scale: 50%.
+   :scale: 35%
    :align: center
    :alt: My Twitch channel on https://www.twitch.tv/Naereen when I code for a public project (this page)
    :target: https://www.twitch.tv/Naereen
@@ -56,7 +56,7 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 - when I give presentations at conferences, to make them accessible to anyone:
 
 .. image:: .twitch-slides.png
-   :scale: 50%.
+   :scale: 35%
    :align: center
    :alt: My Twitch channel on https://www.twitch.tv/Naereen when I make a presentation with a PDF.
    :target: https://www.twitch.tv/Naereen

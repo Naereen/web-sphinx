@@ -134,6 +134,7 @@ For more details, see `<sitemap.en.html>`_.
    firefox-extensions.en
    tutogit.en
    wakatime.en
+   twitch.en
    zotero.en
    runblock.en
    transifex.en

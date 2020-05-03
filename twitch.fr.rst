@@ -22,7 +22,7 @@ Pour citer `la page Wikipédia <https://fr.wikipedia.org/wiki/Twitch>`_ :
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/langfr-1920px-Twitch_logo_2019.svg.png
-   :scale: 75%
+   :scale: 25%
    :align: center
    :alt: Logo of https://Twitch.tv/
    :target: https://commons.wikimedia.org/wiki/File:Twitch_logo_2019.svg#/media/Fichier:Twitch_logo_2019.svg
@@ -42,28 +42,28 @@ J'ai désormais une chaîne sur `Twitch <https://Twitch.tv/>`_ : `Twitch.tv/Naer
 
 Je vais essayer d'y "streamer" (= diffuser en temps réel) pour les occasions suivantes :
 
-- quand je jouerai à Pokémon (et d'autres jeux) pour les projets XXX,
+- quand je jouerai à Pokémon (et d'autres jeux) pour les projets `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_, et d'autres projets similaires :
 
 .. image:: .twitch-pokemon.png
-   :scale: 50%
+   :scale: 35%
    :align: center
    :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je joue à Pokémon
    :target: https://www.twitch.tv/Naereen
 
 
-- quand je coderai pour un projet public,
+- quand je coderai pour un projet public :
 
 .. image:: .twitch-code.png
-   :scale: 50%
+   :scale: 35%
    :align: center
    :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je code pour un projet public (cette page)
    :target: https://www.twitch.tv/Naereen
 
 
-- quand je donnerai des exposés dans des conférences, pour les rendre accessibles à n'importe qui.
+- quand je donnerai des exposés dans des conférences, pour les rendre accessibles à n'importe qui :
 
 .. image:: .twitch-slides.png
-   :scale: 50%
+   :scale: 35%
    :align: center
    :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je fais une présentation avec un PDF.
    :target: https://www.twitch.tv/Naereen
