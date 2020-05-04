@@ -20,14 +20,6 @@ Pour citer `la page Wikipédia <https://fr.wikipedia.org/wiki/Twitch>`_ :
     Twitch permet aux spectateurs (couramment appelés viewers) de disposer d'un large éventail de diffusions de jeux vidéo, proposés par des personnes souhaitant diffuser ces contenus en direct (appelés également streameurs), et couvrent ainsi la plupart des genres. Les genres les plus populaires sont les jeux de stratégie en temps réel (RTS, MOBA), les jeux de combat, les jeux de courses et les jeux de tir à la première personne (FPS), entre autres. Les jeux type bac à sable (sandbox) attirent également beaucoup de spectateurs, le plus connu étant Minecraft. La page d'accueil affiche les jeux les plus diffusés sur le site.
 
 
-
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/langfr-1920px-Twitch_logo_2019.svg.png
-   :scale: 25%
-   :align: center
-   :alt: Logo of https://Twitch.tv/
-   :target: https://commons.wikimedia.org/wiki/File:Twitch_logo_2019.svg#/media/Fichier:Twitch_logo_2019.svg
-
-
 Ma chaîne Twitch
 ----------------
 

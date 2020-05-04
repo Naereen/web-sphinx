@@ -6,9 +6,7 @@
  A propos de Jitsi Meet
 ########################
 
-.. note:: Petit point d'énervement contre le vocabulaire :
-
-    Parce que j'en ai marre que tout le monde utilise le verbe Skyper et le mot Skype pour dire appel visio.
+.. note:: Petit point d'énervement contre le vocabulaire : parce que j'en ai marre que tout le monde utilise le verbe Skyper et le mot Skype pour dire **appel visio**.
 
 Cette petite page web est rédigée pour faire la publicité de l'outil `Jitsi Meet <https://jitsi.org>`_.
 

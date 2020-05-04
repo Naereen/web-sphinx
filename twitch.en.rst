@@ -14,13 +14,6 @@ To quote `the Wikipedia page <https://en.wikipedia.org/wiki/Twitch>`_ :
     Twitch is a video live streaming service operated by Twitch Interactive, a subsidiary of Amazon. Introduced in June 2011 as a spin-off of the general-interest streaming platform, Justin.tv, the site primarily focuses on video game live streaming, including broadcasts of eSports competitions, in addition to music broadcasts, creative content, and more recently, "in real life" streams. Content on the site can be viewed either live or via video on demand.
 
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/langfr-1920px-Twitch_logo_2019.svg.png
-   :scale: 25%
-   :align: center
-   :alt: Logo of https://Twitch.tv/
-   :target: https://commons.wikimedia.org/wiki/File:Twitch_logo_2019.svg#/media/Fichier:Twitch_logo_2019.svg
-
-
 My Twitch Channel
 ----------------
 

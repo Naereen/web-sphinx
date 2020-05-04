@@ -6,9 +6,7 @@
  About Jitsi Meet
 ##################
 
-.. note:: Small point of anger against the vocabulary:
-
-    Because I'm sick of everyone using the verb Skyper and the word Skype to say video call.
+.. note:: Small point of anger against the vocabulary: because I'm sick of everyone using the verb Skyper and the word Skype to say **video call**.
 
 This little web page is written to advertise the `Jitsi Meet <https://jitsi.org>`_ tool.
 
