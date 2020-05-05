@@ -96,7 +96,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi.
+- Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi. J'ai bidouillé du réseau, voir par exemple ces liens : `<https://jitsi.besson.link/>`_, `<http://CV.besson.link/>`_, `<http://cartes.besson.link/>`_.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
