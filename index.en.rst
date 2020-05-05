@@ -135,6 +135,7 @@ For more details, see `<sitemap.en.html>`_.
    tutogit.en
    wakatime.en
    twitch.en
+   pokemon.en
    zotero.en
    runblock.en
    transifex.en

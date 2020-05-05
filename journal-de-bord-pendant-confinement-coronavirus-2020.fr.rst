@@ -96,7 +96,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 5 mai : un peu de vélo le matin, du repos, du code.
+- Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 

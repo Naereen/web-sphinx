@@ -141,6 +141,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    apprendre-python.fr
    wakatime.fr
    twitch.fr
+   pokemon.fr
    latexonwindows.fr
    zotero.fr
    opendns.fr
