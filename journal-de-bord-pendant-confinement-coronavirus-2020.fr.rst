@@ -100,6 +100,11 @@ Maintenant
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
+Interlude comique mais utile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. youtube:: 0Mrb0lNO75I
+
 ------------------------------------------------------------------------------
 
 Présence sur les réseaux sociaux ?
