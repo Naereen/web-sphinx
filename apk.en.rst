@@ -12,9 +12,7 @@ The list of applications given here corresponds to the applications I have insta
 I list them by categories, following the categories already used on my phones.
 
 
-.. note:: This page is about applications for Android™
-
-   For more details, it may be useful to go elsewhere for more information:
+.. note:: This page is about applications for Android™. For more details, it may be useful to go elsewhere for more information:
 
     * for example at `en.wikipedia.org/wiki/Android <https://fr.wikipedia.org/wiki/Android>`_,
     * or at `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.

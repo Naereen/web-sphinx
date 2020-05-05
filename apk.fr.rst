@@ -11,9 +11,7 @@ La liste d'application donnée ici correspond aux applications que j'ai install�
 
 Je les liste par catégories, en suivant les catégories déjà utilisées sur mes téléphones.
 
-.. note:: Cette page parle d'applications pour Android™
-
-   Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
+.. note:: Cette page parle d'applications pour Android™. Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
 
     * par exemple sur `fr.wikipedia.org/wiki/Android <https://fr.wikipedia.org/wiki/Android>`_,
     * ou sur `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.

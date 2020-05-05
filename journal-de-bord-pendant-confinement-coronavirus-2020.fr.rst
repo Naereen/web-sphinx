@@ -87,16 +87,16 @@ Avril 2020
 - Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
 - Jeudi 30 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
 - Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/Naereen>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
-- Samedi 2 mai : repos, promenade à vélo.
+- Samedi 2 mai : j'ai lu, je me suis reposé, et j'ai fait une longue promenade à vélo et quelques courses à pied.
+- Dimanche 3 mai : encore du repos, une autre promenade à vélo pour aller sur le campus de Rennes de CentraleSupélec, et jeter un oeil. Un peu de tri de mes cartes Magic.
+- Lundi 4 mai : reprise du boulot, avec des relectures de développements et de mémoires de mes élèves agrégatifs (maths option informatique). J'essaie de `coder un bot <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/Version-Jaune/issues/19>`_ qui prendrait des captures d'écran automatiquement, sur `la partie de Pokémon Jaune que j'ai lancé <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ en collaboration avec des amis, via GitHub.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-
-- Dimanche 3 mai : repos, promenade à vélo, tri de cartes Magic.
-
+- Mardi 5 mai : un peu de vélo le matin, du repos, du code.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
