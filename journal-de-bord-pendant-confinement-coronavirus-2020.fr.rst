@@ -50,7 +50,12 @@ Mars 2020
 
 - Mardi 17 mars vers minuit : tout est terminé, j'ai fait pleeeein de petites siestes, du yoga, etc, j'ai TOUT rangé, tout aménagé comme je voulais ! Pas malade, j'ai pris soin d'aller voir mes ami-e-s que je sais plus vulnérables que moi, notamment mes voisins (Titouan, 19 ans, que j'adore, vis avec sa mère et son ptit frère) :-)
 
-- Mercredi 18 mars : mon médecin traitant (Dr L.C. à Plaine de B.) m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19 sauf la fièvre. Mais je vais parfaitement bien : je suis juste en arrêt temporaire de travail, je reviens début avril 👶 !
+- Mercredi 18 mars : mon médecin traitant (Dr L.C.) m'a arrêté pour deux semaines, car mes symptômes depuis quelques jours étaient ceux du Coronavirus Covid-19, sauf la fièvre. Mais je me sens très bien : je suis juste en arrêt temporaire de travail, je reviens début avril 👶 !
+
+Interlude comique mais utile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. youtube:: 0Mrb0lNO75I
 
 
 Avril 2020
@@ -100,11 +105,6 @@ Maintenant
 - Mercredi 6 mai : encore beaucoup de rangement chez moi, et boulot pour commencer à corriger le `projet de C++ <https://mquinson.frama.io/prog2-cpp/>`_ des élèves de L3 à l'`ENS de Rennes <https://www.dit.ens-rennes.fr/>`_ (projet encadré par `Martin Quinson <https://mquinson.frama.io/>`_).
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
-
-Interlude comique mais utile
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. youtube:: 0Mrb0lNO75I
 
 ------------------------------------------------------------------------------
 

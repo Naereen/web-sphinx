@@ -89,16 +89,16 @@ Je vais essayer d'y "streamer" (= diffuser en temps réel) quand je jouerai à P
 
 --------------------------------------------------------------------------------
 
-Reprise de musique de Pokémon
------------------------------
+Reprise de musiques de Pokémon
+------------------------------
 
 `Insane in the Rain <https://www.youtube.com/channel/UC_OtnV-9QZmBj6oWBelMoZw>`_ est une super chaîne YouTube qui fait des reprises de morceaux de musique de jeux vidéo en jazz.
 
-.. youtube:: pb_V8CPGIPE&list=OLAK5uy_krdy3lri-9L5N5iAAY7SpW-vLbEjOlBZA
+.. youtube:: pb_V8CPGIPE
 
 `Cette liste de lecture <https://www.youtube.com/watch?v=OEPfTXABIUw&list=PLG5z-46tZguJBt0wl6fvX4r_63w2BsQE6>`_ contient toutes les reprises de musiques de Pokémon, et j'aime beaucoup l'écouter !
 
-.. youtube:: OEPfTXABIUw&list=PLG5z-46tZguJBt0wl6fvX4r_63w2BsQE6
+.. youtube:: OEPfTXABIUw
 
 
 .. seealso::
