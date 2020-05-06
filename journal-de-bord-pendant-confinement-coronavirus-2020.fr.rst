@@ -96,7 +96,8 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi. J'ai bidouillé du réseau, voir par exemple ces liens : `<https://jitsi.besson.link/>`_, `<http://CV.besson.link/>`_, `<http://cartes.besson.link/>`_.
+- Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi. J'ai bidouillé du réseau, voir par exemple ces liens : `<https://jitsi.besson.link/>`_, `<https://CV.besson.link/>`_, `<http://cartes.besson.link/>`_.
+- Mercredi 6 mai : encore beaucoup de rangement chez moi, et boulot pour commencer à corriger le `projet de C++ <https://mquinson.frama.io/prog2-cpp/>`_ des élèves de L3 à l'`ENS de Rennes <https://www.dit.ens-rennes.fr/>`_ (projet encadré par `Martin Quinson <https://mquinson.frama.io/>`_).
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
