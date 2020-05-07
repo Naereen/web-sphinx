@@ -63,7 +63,7 @@ Avril 2020
 
 .. note:: Deux semaines de repos, sans mise à jour de cette page.
 
-    Mise à jour après deux semaines de retard du mercredi 18 mars au samedi 04 avril !
+    Mise à jour après deux semaines de retard du mercredi 18 mars au samedi 4 avril !
 
 
 - Lundi 6 avril : je recommence lentement à travailler, et ça fait *très plaisir* !
@@ -114,6 +114,11 @@ Présence sur les réseaux sociaux ?
 
 - Je suis présent sur Facebook, et c'est tout. Demandez moi par email ou par SMS.
 - J'ai créé `cette carte pour m'aider durant le confinement <https://perso.crans.org/besson/carte-confinement/#1km>`_, elle peut aussi être vous utile ?
+
+Petit interlude humouristique
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. youtube:: -sfIesm0jo0
 
 
 Comment me contacter ?
