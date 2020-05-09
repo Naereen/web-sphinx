@@ -97,13 +97,15 @@ Avril 2020
 - Lundi 4 mai : reprise du boulot, avec des relectures de développements et de mémoires de mes élèves agrégatifs (maths option informatique). J'essaie de `coder un bot <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/Version-Jaune/issues/19>`_ qui prendrait des captures d'écran automatiquement, sur `la partie de Pokémon Jaune que j'ai lancé <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ en collaboration avec des amis, via GitHub.
 - Mardi 5 mai : un peu de vélo le matin, du repos, du code le midi. J'ai bidouillé du réseau, voir par exemple ces liens : `<https://jitsi.besson.link/>`_, `<https://CV.besson.link/>`_, `<http://cartes.besson.link/>`_.
 - Mercredi 6 mai : encore beaucoup de rangement chez moi, et boulot pour commencer à corriger le `projet de C++ <https://mquinson.frama.io/prog2-cpp/>`_ des élèves de L3 à l'`ENS de Rennes <https://www.dit.ens-rennes.fr/>`_ (projet encadré par `Martin Quinson <https://mquinson.frama.io/>`_).
+- Jeudi 7 mai : repos le matin, travail l'après-midi.
+- Vendredi 7 mai : repos le matin, travail l'après-midi.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Jeudi 7 mai : repos le matin, travail l'après-midi.
+- Samedi 9 mai : repos le matin, travail l'après-midi. Longue sortie pour courir (environ 9 kms)
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
