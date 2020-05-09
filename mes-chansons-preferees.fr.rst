@@ -40,7 +40,7 @@ Dans la comédie musicale **Notre Dame de Paris** :
 
 Renaud
 ~~~~~~
-- `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,
+- `Hexagone <https://www.youtube.com/watch?v=v9j7oWUuH18>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,
 
 
 --------------------------------------------------------------------------------

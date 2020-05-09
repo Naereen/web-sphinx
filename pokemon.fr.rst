@@ -25,7 +25,11 @@ Cette page parle de `Pokémon <https://fr.wikipedia.org/wiki/Pok%C3%A9mon>`_.
 Projet Pokémon contre Covid-19
 ------------------------------
 
-`Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ !
+J'ai lancé en avril le projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ !
+
+Comme la page web l'explique, le but du projet est le suivant :
+
+   "Jouons ensemble à tous les jeux Pokémon, via GitHub, pour nous occuper (et apprendre git et GitHub) durant la pandémie de Covid en 2020"
 
 --------------------------------------------------------------------------------
 
@@ -49,22 +53,25 @@ Mes Pokémon préférés de la génération 2 :
 
 1. Pharamp (liens : `veekun <https://veekun.com/dex/pokemon/ampharos>`_, `Poképédia <https://www.pokepedia.fr/Pharamp>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/pharamp/pharamp>`_) ;
 2. Cotovol (liens : `veekun <https://veekun.com/dex/pokemon/jumpluff>`_, `Poképédia <https://www.pokepedia.fr/Cotovol>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/cotovol/cotovol>`_) ;
-3. Tyranocif (liens : `veekun <https://veekun.com/dex/pokemon/tyranitar>`_, `Poképédia <https://www.pokepedia.fr/Tyranocif>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/tyranocif/tyranocif>`_).
+3. Tyranocif (liens : `veekun <https://veekun.com/dex/pokemon/tyranitar>`_, `Poképédia <https://www.pokepedia.fr/Tyranocif>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/tyranocif/tyranocif>`_) ;
+4. Sûrement d'autres, mais la flemme.
 
 Mes Pokémon préférés des autres générations :
 
 1. Gardevoir de la génération 3 (liens : `veekun <https://veekun.com/dex/pokemon/Gardevoir>`_, `Poképédia <https://www.pokepedia.fr/Gardevoir>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/gardevoir/gardevoir>`_) ;
 2. Galeking de la génération 3 (liens : `veekun <https://veekun.com/dex/pokemon/aggron>`_, `Poképédia <https://www.pokepedia.fr/Galeking>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/galeking/galeking>`_) ;
-3. Drattak de la génération 3 (liens : `veekun <https://veekun.com/dex/pokemon/salamence>`_, `Poképédia <https://www.pokepedia.fr/Drattak>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/drattak/drattak>`_).
+3. Drattak de la génération 3 (liens : `veekun <https://veekun.com/dex/pokemon/salamence>`_, `Poképédia <https://www.pokepedia.fr/Drattak>`_, `PokéBip <https://www.pokebip.com/pokedex/pokemon/drattak/drattak>`_) ;
+4. Sûrement d'autres, mais la flemme.
 
 
 Mes versions de Pokémon préférées
 ---------------------------------
 
-1. Versions **Or et Argent**, jouées en 2001 sur Game Boy et plusieurs autres fois sur émulateur ;
+1. Versions **Or et Argent**, jouées en 2001 ou 2002 sur Game Boy et plusieurs autres fois sur émulateur ;
 2. Versions **Noir et Blanc**, jouée en 2012 sur Nintendo DS ;
 3. Versions **Rouge Feu et Vert Feuille**, jouée en 2010 sur émulateur ;
-4. Versions **X et Y**, jouée en 2014 sur Nintendo DS.
+4. Versions **X et Y**, jouée en 2014 sur Nintendo DS ;
+4. Versions **Jaune**, jouée en 2000 (je crois) sur Game Boy et plusieurs fois sur émulateur.
 
 --------------------------------------------------------------------------------
 

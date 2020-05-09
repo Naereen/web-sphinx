@@ -142,6 +142,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    wakatime.fr
    twitch.fr
    pokemon.fr
+   star-wars.fr
    latexonwindows.fr
    zotero.fr
    opendns.fr

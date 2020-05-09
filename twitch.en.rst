@@ -9,7 +9,7 @@
 What's Twitch?
 --------------
 
-To quote `the Wikipedia page <https://en.wikipedia.org/wiki/Twitch>`_ :
+Let's start by quoting `the Wikipedia page <https://en.wikipedia.org/wiki/Twitch>`_:
 
     Twitch is a video live streaming service operated by Twitch Interactive, a subsidiary of Amazon. Introduced in June 2011 as a spin-off of the general-interest streaming platform, Justin.tv, the site primarily focuses on video game live streaming, including broadcasts of eSports competitions, in addition to music broadcasts, creative content, and more recently, "in real life" streams. Content on the site can be viewed either live or via video on demand.
 

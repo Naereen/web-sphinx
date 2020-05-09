@@ -60,6 +60,17 @@ There is `meet.jit.si <https://meet.jit.si/>`_ which is the official server. The
 
 A Jitsi Meet server can't be overloaded since Jitsi Meet works in **peer-to-peer** : as soon as the call is launched, the network traffic (audio as well as video as text) goes through the central server but just between us !
 
+------------------------------------------------------------------------------
+
+Humoristic break
+~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/04/Strip-Covide19-7-650-finalenglish.jpg
+   :scale: 25%
+   :align: center
+   :alt: Link to the comic strip https://www.commitstrip.com/en/2020/04/28/boiling-point/
+   :target: https://www.commitstrip.com/en/2020/04/28/boiling-point/
+
 Another Jitsi Meet instance?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

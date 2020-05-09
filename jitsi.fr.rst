@@ -60,6 +60,18 @@ Il y a `meet.jit.si <https://meet.jit.si/>`_ qui est le serveur officiel. L'URL 
 
 Un serveur Jitsi Meet ne peut pas être surchargé puisque Jitsi Meet marche en **pair-à-pair** : dès que l'appel est lancé, le trafic réseau (audio comme vidéo comme texte) passe plus par le serveur central mais juste entre nous !
 
+------------------------------------------------------------------------------
+
+Interlude humoristique
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/04/Strip-Covide19-7-650-final.jpg
+   :scale: 25%
+   :align: center
+   :alt: Lien vers la planche de BD https://www.commitstrip.com/fr/2020/04/28/boiling-point/
+   :target: https://www.commitstrip.com/fr/2020/04/28/boiling-point/
+
+
 Une autre instance Jitsi Meet ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

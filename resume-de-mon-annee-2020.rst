@@ -39,32 +39,34 @@ Mars 2020
 
 Avril 2020
 ----------
-- Un confinement très chiant, qui a duré jusqu'à Pâques (week-end du 11-13 avril), au moins...
+- Un confinement très chiant, qui a duré bien au delà de Pâques (week-end du 11-13 avril)...
 - Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/carte.html#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
 - J'ai ENFIN acheté un nom de domaine pour héberger ce site hors des `pages web du CRANS <https://perso.crans.org/besson/>`_ : `<http://besson.link/>`_ !
 
 Mai 2020
 --------
-- TODO
+- Toujours confiné, jusqu'au 11 mai.
 
 ------------------------------------------------------------------------------
 
 Objectifs pour cet été 2020
 ---------------------------
 
-J'ai peu d'objectifs pour cet été, mais quelques uns :
+J'ai décidé de me fixer les objectifs suivants pour cet été :
 
-1. Aller voir un cousin Y. et leur auberge à la frontière franco-suisse au sud du lac Léman ;
-2. Retourner à Lausanne et voir mon ancien colloque S. !
-3. Monter au dessus de 4000, et faire une randonnée d'alpinisme !
+1. Retourner à Lausanne et voir mon ancien colloque S. !
+2. Aller voir un cousin et leur auberge à la frontière franco-suisse, au sud du lac Léman ;
+3. Monter au dessus de 4000m, et faire une randonnée d'alpinisme !
 4. Dormir à la belle étoile en haute montagne !
 5. Rendre visite à des bons ami-e-s, en France et ailleurs ;
 6. Marcher avec mes frères !
-7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ligurophone (je sais que ce n'est pas le bon mot, mais je ne retrouve plus l'adjectif pour dire "parlant italien" !!!!) ;
+7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ;
 8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ;
 9. Faire de belles rencontres, dans la bienveillance, le respect, l'amour et le partage (je partagerai tout, comme toujours, sauf mes virus et mes microbes) ;
-10. Faire de nouveau (beaucoup) d'autostop, au moins 4000 kilomètre ce serait génial, histoire de dépasser `mon total <autostop.fr.html>`_ qui est actuellement vers 6400km...
+10. Faire de nouveau (beaucoup) d'autostop, au moins 3600 kilomètre ce serait génial, histoire de dépasser `mon total <autostop.fr.html>`_ qui est actuellement vers 6400km...
 11. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
+
+------------------------------------------------------------------------------
 
 Juin 2020
 ---------
@@ -115,6 +117,7 @@ En 2020, j'ai joué à ces jeux vidéo…
 - En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
 - … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers), que je n'ai finalement pas ouvert. Si le confinement dure trop longtemps, je pensais acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
 - Mais j'ai plutôt craqué pour une Switch lite (d'occasion !). J'ai acheté les deux meilleurs jeux de rôles (japonais) disponibles sur cette (nouvelle) console : **Octopath Traveler**, et **Fire Emblem: Three Houses**. Pas trop eu le temps d'y jouer encore... mais cet été ça viendra ?
+- Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -137,6 +140,10 @@ En 2020, j'ai vu ces films…
 - *Once upon a Time in… Holliwood*, de Quentin Tarantino,
 - *Avengers: Endgame*, le dernier film de la série Avengers,
 - *Patéma : le monde inversé*, un chouette film d'animation japonais,
+- Tous les *Star Wars* (lisez `cette page <star-wars.fr.html>`_ pour voir l'ordre dans lequel je recommande de regarder les films Star Wars),
+- Tous les *Indiana Jones*,
+- *Jeune Femme* (2017), pas bien apprécié,
+- Tous les *Jason Bourne*,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
