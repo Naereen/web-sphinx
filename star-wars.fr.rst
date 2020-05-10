@@ -49,7 +49,7 @@ L'ordre dans lequel je recommande de regarder Star Wars est le suivant :
 1. *A Star Wars story: Rogue One* (2016) : ce très bon film, sans présence des Jedis ou des Siths, et sans aucun héros principaux est la meilleure façon de rentrer dans l'univers Star Wars, et fait une transition parfaite avec le film suivant ;
 2. *Star Wars 4 : Un nouvel espoir* (1977) en entier ;
 
-.. note:: Pourquoi regarder les SW 1 et 2 et la série *Clone Wars* maintenant ? Pour les considérer comme des flash-backs, qui correspondent à ce que Obi Wan Kenobi aurait raconté à Luke ;
+.. note:: Pourquoi regarder les SW 1 et 2 et la série *Clone Wars* maintenant ? Pour les considérer comme des flash-backs, qui correspondent à ce que Obi Wan Kenobi aurait raconté à Luke.
 
 3. *Star Wars 1 : La Menace Fantôme* (1999) en entier ;
 4. *Star Wars 2 : La Guerre des Clones* (2002). Je recommande d'ignorer la scène de combat avec tous les Jedis dans le stade (scène absurde).
@@ -57,16 +57,19 @@ L'ordre dans lequel je recommande de regarder Star Wars est le suivant :
 
 6. *Star Wars 5 : L'empire Contre Attaque* (1981) ;
 
-.. note:: Pourquoi regarder le SW 3 et la série *Rebels* maintenant ? Comme des flash-backs, qui correspondent à ce que Yoda aurait raconté à Luke, et aux recherches faites par Luke dans les archives de l'Alliance Rebelle ;
-
+.. note:: Pourquoi regarder le SW 3 et la série *Rebels* maintenant ? Comme des flash-backs, qui correspondent à ce que Yoda aurait raconté à Luke.
 7. *Star Wars 3 : La revanche des Sith* (2005)
 8. *Star Wars 6 : Le Retour du Jedi (1983) ;
 9. *A Star Wars story: Solo* (2018) : comme un flashback de Han Solo (dernier flashback) ;
 
 10. *Star Wars 7 : Le réveil de la Force* (2015)
+
+.. note:: Pourquoi regarder la série *Rebels* maintenant ? Comme des flash-backs, qui correspondent aux recherches faites par Luke dans les archives de l'Alliance Rebelle.
+
 11. *Star Wars: Rebels* en entier, qui s'explique parce que Luke a cherché des dossiers impliquant Dark Vador et les derniers Jedis avant d'essayer de recréer l'ordre Jedi, et parce qu'il raconte tout cela à Rey ;
 12. *Star Wars 8 : Le dernier Jedi* (2017) ;
-13. *Star Wars 9 : L'Ascension de Skywalker* (2019).
+13. *Star Wars 9 : L'Ascension de Skywalker* (2019), en corrigeant le nombre de vaisseaux de la flotte du Dernier Ordre de 10000 à 20 vaisseaux (plus réaliste et bien suffisant pour être très inquiétant).
+
 
 --------------------------------------------------------------------------------
 

@@ -50,24 +50,27 @@ The order in which I recommend watching Star Wars is as follows:
 1. *A Star Wars story: Rogue One* (2016): This very good movie, with no Jedis or Sith and no main heroes, is the best way to enter the Star Wars universe, and makes a perfect transition to the next movie;
 2. *Star Wars 4 : A New Hope* (1977) in its entirety ;
 
-...note: Why watch SW 1 and 2 and the *Clone Wars* series now? To consider them as flashbacks, corresponding to what Obi Wan Kenobi would have told Luke ;
+.. note:: Why watch Star Wars 1 and 2 and the *Clone Wars* series now? To consider them as flashbacks, corresponding to what Obi Wan Kenobi would have told Luke ;
 
 3. *Star Wars 1: The Phantom Menace* (1999) in full;
 4. *Star Wars 2: The Clone Wars* (2002). I recommend ignoring the fight scene with all the Jedis in the stadium (absurd scene).
 5. *Star Wars: The Clone Wars* the entire TV series;
 
-6. *Star Wars 5: Empire Strikes Back* (1981);
+6. *Star Wars 5: Empire Strikes Back* (1981) in its entirety too;
 
-...note: Why watch SW 3 and the series Rebels now? Like flashbacks, consistent with what Yoda would have told Luke, and Luke's research in the Rebel Alliance archives;
+.. note:: Why watch Star Wars 3 now? Like flashbacks, being what Yoda would have told Luke during his training time on Dagobah.
 
-7. *Star Wars 3: Revenge of the Sith* (2005)
-8. *Star Wars 6: The Return of the Jedi (1983) ;
+7. *Star Wars 3: Revenge of the Sith* (2005);
+8. *Star Wars 6: The Return of the Jedi (1983);
 9. *A Star Wars story: Solo* (2018): Like a flashback of Han Solo (last flashback);
 
 10. *Star Wars 7: The Force Awakens* (2015)
+
+.. note:: Why watch the series Rebels now? Like flashbacks, being what Luke can tell to Rey regarding his the early days of the Rebel Alliance and the stories of the last Jedis.
+
 11. *Star Wars: Rebels* in its entirety, watch it now because Luke looked up files involving Darth Vader and the last Jedis before trying to recreate the Jedi order, and because he's telling Rey about all the stories happening in this TV show;
 12. *Star Wars 8: The Last Jedi* (2017);
-13. *Star Wars 9: Skywalker's Ascension* (2019).
+13. *Star Wars 9: Skywalker's Ascension* (2019), correcting the number of ships of the Last Order fleet from 10000 to about 20 (more realistic, and enough to be totally scary).
 
 --------------------------------------------------------------------------------
 
