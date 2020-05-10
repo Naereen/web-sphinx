@@ -14,8 +14,8 @@ Cette page parle de `Star Wars <https://fr.wikipedia.org/wiki/Star_Wars>`_.
     Star Wars (à l'origine nommée sous son titre français, La Guerre des étoiles) est un univers de fantasy et de science-fiction créé par George Lucas. D'abord conçue comme une trilogie cinématographique sortie entre 1977 et 1983, la saga s'accroît ensuite, entre 1999 et 2005, de trois nouveaux films, qui racontent des événements antérieurs à la première trilogie. Cette dernière (épisodes IV, V et VI) ainsi que la deuxième trilogie dite « Prélogie » (épisodes I, II et III) connaissent un immense succès commercial et un accueil critique généralement positif. Dans un souci de cohérence, et pour atteindre un résultat qu'il n'avait pas pu obtenir dès le départ, le créateur de la saga retravaille également les films de sa première trilogie, ressortis en 1997 et 2004 dans de nouvelles versions.
 
 
-L'ordre dans lequel je conseille de regarder Star Wars
-------------------------------------------------------
+Liste des films et séries animées Star Wars
+-------------------------------------------
 
 J'inclus les trois trilogies :
 
@@ -32,6 +32,16 @@ Et les séries animées suivants :
 
 1. Star Wars: The Clone Wars ;
 2. Star Wars: Rebels.
+
+
+L'ordre dans lequel je conseille de regarder Star Wars
+------------------------------------------------------
+
+.. image:: https://www.dumbingofage.com/comics/2020-03-10-skywalker.png
+   :scale: 35%
+   :align: center
+   :alt: Link to the webcomic https://www.dumbingofage.com/2020/comic/book-10/02-to-remind-you-of-my-love/skywalker/
+   :target: https://www.dumbingofage.com/2020/comic/book-10/02-to-remind-you-of-my-love/skywalker/
 
 
 L'ordre dans lequel je recommande de regarder Star Wars est le suivant :

@@ -31,6 +31,13 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 .. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
 
 
+.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
+   :scale: 50%
+   :align: center
+   :alt: Link to the XKCD comic https://xkcd.com/2282/
+   :target: https://xkcd.com/2282/
+
+
 Point vocabulaire : synchrone ou asynchrone
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -99,6 +106,13 @@ Examens finaux (partiels)
 Nous avons pris la décision de ne pas essayer de faire des évaluations en mode synchrone à distance (qui simulerait un examen réel), et donc d'évaluer nos élèves uniquement en asynchrone : comme des devoirs à la maison (DM).
 
 Tous les examens finaux seront des DM, à faire seul (pas de binôme), en quelques jours pour limiter les risques de triches et de partages de copies entre les élèves.
+
+
+.. image:: https://imgs.xkcd.com/comics/coronavirus_charts.png
+   :scale: 50%
+   :align: center
+   :alt: Link to the XKCD comic https://xkcd.com/2294/
+   :target: https://xkcd.com/2294/
 
 
 ---------------------------------------------

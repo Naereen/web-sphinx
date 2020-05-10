@@ -15,14 +15,14 @@ This page is about `Star Wars <https://en.wikipedia.org/wiki/Star_Wars>`_.
     The original film, retroactively subtitled Episode IV: A New Hope, was followed by the sequels Episode V: The Empire Strikes Back (1980) and Episode VI: Return of the Jedi (1983), forming the original Star Wars trilogy. A prequel trilogy was later released, consisting of Episode I: The Phantom Menace (1999), Episode II: Attack of the Clones (2002), and Episode III: Revenge of the Sith (2005). In 2012, Lucas sold his production company to Disney, relinquishing his ownership of the franchise. The subsequently produced sequel trilogy consists of Episode VII: The Force Awakens (2015), Episode VIII: The Last Jedi (2017), and Episode IX: The Rise of Skywalker (2019). Together, the three trilogies form what has been referred to as the "Skywalker saga". All nine films were nominated for Academy Awards (with wins going to the first two released) and were commercially successful. Together with the theatrical spin-off films Rogue One (2016) and Solo: A Star Wars Story (2018), the combined box office revenue of the films equates to over US$10 billion, and it is currently the second-highest-grossing film franchise.
 
 
-The order in which I advise watching Star Wars
-------------------------------------------------------
+List of Star Wars movies and TV shows
+-------------------------------------
 
 I include all three trilogies:
 
 1. Star Wars 4, 5 and 6: the original trilogy from the 1980s;
-2. Star Wars 1, 2 and 3: the trilogy of the 2000s;
-3. Star Wars 7, 8 and 9: the trilogy of the years 2010.
+2. Star Wars 1, 2 and 3: the prequel trilogy of the 2000s;
+3. Star Wars 7, 8 and 9: the sequel trilogy of the years 2010.
 
 I include the two following films:
 
@@ -33,6 +33,16 @@ And the following anime series:
 
 1. Star Wars: The Clone Wars ;
 2. Star Wars: Rebels.
+
+
+The order in which I advise watching Star Wars
+----------------------------------------------
+
+.. image:: https://www.dumbingofage.com/comics/2020-03-10-skywalker.png
+   :scale: 35%
+   :align: center
+   :alt: Link to the webcomic https://www.dumbingofage.com/2020/comic/book-10/02-to-remind-you-of-my-love/skywalker/
+   :target: https://www.dumbingofage.com/2020/comic/book-10/02-to-remind-you-of-my-love/skywalker/
 
 
 The order in which I recommend watching Star Wars is as follows:

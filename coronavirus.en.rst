@@ -26,6 +26,13 @@ As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked
 I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I will (try my best) to teach remotely, during this special moment !
 
 
+.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
+   :scale: 50%
+   :align: center
+   :alt: Link to the XKCD comic https://xkcd.com/2282/
+   :target: https://xkcd.com/2282/
+
+
 ---------------------------------------------
 
 Responsibilities in 2019/2020
@@ -37,6 +44,13 @@ I will be `junior professor (agrégé préparateur) in Computer Sience at ENS de
 - I give the course of `Introduction to Algorithmic <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** for the first year student (in L3) at ENS de Rennes (see `the page for the same course in the maths department <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, given by `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / year)
 - I give the tutorial sessions for the course of `Advanced Algorithmic <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ **(ALGO2)**, for the first year student (in L3) at ENS de Rennes, given by `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / year)
 - I'm also in charge of the `bi-monthly research seminar of the Computer Science department <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, of some visits of research labs, and of the internships of first year students (in L3) at ENS de Rennes, as well as responsible of sorting the admission on file of new students (not the competitive exam). (60h / year)
+
+
+.. image:: https://imgs.xkcd.com/comics/coronavirus_charts.png
+   :scale: 50%
+   :align: center
+   :alt: Link to the XKCD comic https://xkcd.com/2294/
+   :target: https://xkcd.com/2294/
 
 
 .. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
