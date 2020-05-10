@@ -99,13 +99,14 @@ Avril 2020
 - Mercredi 6 mai : encore beaucoup de rangement chez moi, et boulot pour commencer à corriger le `projet de C++ <https://mquinson.frama.io/prog2-cpp/>`_ des élèves de L3 à l'`ENS de Rennes <https://www.dit.ens-rennes.fr/>`_ (projet encadré par `Martin Quinson <https://mquinson.frama.io/>`_).
 - Jeudi 7 mai : repos le matin, travail l'après-midi.
 - Vendredi 7 mai : repos le matin, travail l'après-midi.
+- Samedi 9 mai : repos le matin, travail l'après-midi. Longue sortie pour courir (environ 7 kms).
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Samedi 9 mai : repos le matin, travail l'après-midi. Longue sortie pour courir (environ 9 kms)
+- Dimanche 10 mai : toujours le même rythme : repos le matin, travail l'après-midi, petite sortie pour courir environ 4 kms, entre deux grosses pluies.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
