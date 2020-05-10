@@ -55,11 +55,12 @@ L'ordre dans lequel je recommande de regarder Star Wars est le suivant :
 4. *Star Wars 2 : La Guerre des Clones* (2002). Je recommande d'ignorer la scène de combat avec tous les Jedis dans le stade (scène absurde).
 5. *Star Wars: The Clone Wars* la série télé en entier ;
 
-6. *Star Wars 5 : L'empire Contre Attaque* (1981) ;
+6. *Star Wars 5 : L'Empire Contre Attaque* (1981) ;
 
-.. note:: Pourquoi regarder le SW 3 et la série *Rebels* maintenant ? Comme des flash-backs, qui correspondent à ce que Yoda aurait raconté à Luke.
-7. *Star Wars 3 : La revanche des Sith* (2005)
-8. *Star Wars 6 : Le Retour du Jedi (1983) ;
+.. note:: Pourquoi regarder Star Wars 3 maintenant ? Comme des flash-backs, qui correspondent à ce que Yoda aurait raconté à Luke.
+
+7. *Star Wars 3 : La Revanche des Sith* (2005)
+8. *Star Wars 6 : Le Retour du Jedi* (1983) ;
 9. *A Star Wars story: Solo* (2018) : comme un flashback de Han Solo (dernier flashback) ;
 
 10. *Star Wars 7 : Le réveil de la Force* (2015)
@@ -67,7 +68,7 @@ L'ordre dans lequel je recommande de regarder Star Wars est le suivant :
 .. note:: Pourquoi regarder la série *Rebels* maintenant ? Comme des flash-backs, qui correspondent aux recherches faites par Luke dans les archives de l'Alliance Rebelle.
 
 11. *Star Wars: Rebels* en entier, qui s'explique parce que Luke a cherché des dossiers impliquant Dark Vador et les derniers Jedis avant d'essayer de recréer l'ordre Jedi, et parce qu'il raconte tout cela à Rey ;
-12. *Star Wars 8 : Le dernier Jedi* (2017) ;
+12. *Star Wars 8 : Le Dernier Jedi* (2017) ;
 13. *Star Wars 9 : L'Ascension de Skywalker* (2019), en corrigeant le nombre de vaisseaux de la flotte du Dernier Ordre de 10000 à 20 vaisseaux (plus réaliste et bien suffisant pour être très inquiétant).
 
 
