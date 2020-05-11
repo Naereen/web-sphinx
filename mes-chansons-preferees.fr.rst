@@ -18,19 +18,19 @@ En français
 
 Angèle
 ~~~~~~
-- Balance ton quoi ?
-- Jalousie,
-- Les Amoureux Des Bancs publics - Cover.
+- *Balance ton quoi ?*
+- *Jalousie*,
+- *Les Amoureux Des Bancs publics - Cover*.
 
 Claude Nougaro
 ~~~~~~~~~~~~~~
-- Bidonville,
-- C'est une Garonne,
-- Toulouse,
+- *Bidonville*,
+- *C'est une Garonne*,
+- *Toulouse*,
 
 Coeur de Pirate
 ~~~~~~~~~~~~~~~
-- C'était salement romantique,
+- *C'était salement romantique*,
 
 Notre Dame de Paris
 ~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,22 @@ Dans la comédie musicale **Notre Dame de Paris** :
 
 Renaud
 ~~~~~~
-- `Hexagone <https://www.youtube.com/watch?v=v9j7oWUuH18>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,
+- *C'est pas l'homme qui prend la mer*, me donne toujours envie de faire un tour de bateau, comme *Trois Matelots*,
+- *Déserteur*, qui résume très bien mon avis sur le service militaire ou toute autre idée de ce genre,
+- *Déconne pas Manu*, à envoyer à ceux qui ont des idées sombres,
+- *Dès que le vent reviendra*,
+- *En la selva*, soutien à une victime symbolique,
+- `Hexagone <https://www.youtube.com/watch?v=v9j7oWUuH18>`_,
+- *Laisse béton* drôle et dynamique,
+- *Manhattan Kaboul* très connue, belle version à deux voix, chanson engagée,
+- *Marche à l'ombre*, drôle et lugubre mais drôle (je sais j'ai dit deux fois drôle),
+- *Mistral Gagnant* aussi très connue, chanson engagée dont je partage le message,
+- *Petit pédé*, chanson engagée qui mériterait d'être plus connue,
+- *Putain de camion*, chanson de soutien à Coluche après son accident mortel en août 1986,
+- *Société*, et *Fatigué* très importante pour comprendre l'engagement politique de Renaud dans les années 80 et 90,
+- *Société tu m'auras pas* aussi une chanson très engagée,
+- *Trivial Poursuit* est une des plus connues, chanson engagée dont je partage aussi le message,
+- *Zénobe* chanson peu connue mais c'est une de mes préférées, engagée contre la drogue.
 
 
 --------------------------------------------------------------------------------
