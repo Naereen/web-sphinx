@@ -86,7 +86,19 @@ Regardez `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLV
 Reprise de musiques de Star Wars
 --------------------------------
 
+Parce que tout est plus drôle si le protagoniste est déguisé en Storm Trooper :
+
 .. youtube:: xA_wXdZ26Gg
+
+Deux vidéos d'une heure de musiques de Star Wars au piano :
+
+.. youtube:: lKYy4sT4pPM
+
+.. youtube:: 1ISa6bnxPbE
+
+Dix heures des meilleures musiques de Star Wars :
+
+.. youtube:: lKYy4sT4pPM
 
 .. seealso::
 

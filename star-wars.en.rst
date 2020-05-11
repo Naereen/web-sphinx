@@ -86,7 +86,20 @@ Watch `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukM
 Cover of Star Wars music
 ------------------------
 
+Because everything is funnier if the protagonist is dressed up as a Storm Trooper:
+
 .. youtube:: xA_wXdZ26Gg
+
+Two videos of one hour of piano covers of famous Star Wars musics:
+
+.. youtube:: lKYy4sT4pPM
+
+.. youtube:: 1ISa6bnxPbE
+
+Ten hours of the best Star Wars musics:
+
+.. youtube:: lKYy4sT4pPM
+
 
 .. seealso::
 
