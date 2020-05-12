@@ -12,7 +12,7 @@
 Instantaneous video-conference ?
 --------------------------------
 1. *First*, reach me by e-mail, so we agree on a date and time to call (*asynchronous*),
-2. *Then* we use the awesome and brand new website *FramaTalk*: `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ !
+2. *Then* we use the awesome and brand new website *FramaTalk*: `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ or Jitsi on `<jitsi/>`_ (see `this page on Jitsi <jitsi.en.html>`_) !
 3. *Why ?* It does not require any installation or plugin, no need to create any account, no need for a specific software - just your regular web browser (a fairly recent one is needed). And it's awesomely secured, as the conversation and messages are not spied nor registered (the communication uses peer-to-peer trafic with WebRTC, that's safe).
 4. Other web services that I like : `<https://services.renater.fr/rendez-vous/index>`_ (by RENATER, for French researchers and teachers), `<https://visio.inria.fr/?lang=fr-FR>`_ (by INRIA), `<https://meet.jit.si/>`_, `<https://www.gruveo.com/>`_, `<https://whereby.com/>`_ (it was appear.in before).
 

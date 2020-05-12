@@ -16,7 +16,7 @@
 Vidéo-conférence instantanée ?
 ------------------------------
 1. *D'abord*, prévenez-moi par courriel, on se met d'accord sur un jour et une heure pour s'appeler (*asynchrone*),
-2. *Puis* on utilise le tout récent service *FramaTalk* : `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ !
+2. *Puis* on utilise le tout récent service *FramaTalk* : `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ ou Jitsi sur la page `<jitsi/>`_ (voir `cette page à propos de Jitsi <jitsi.fr.html>`_) !
 3. *Pourquoi ?* Ça ne demande pas d'installation, pas de création de compte, pas de logiciel à part un navigateur web (assez récent). Et c'est parfaitement sécurisé, comme la conversation et les messages ne sont pas espionnés ni enregistrés (le trafic durant la communication se fait en pair-à-pair).
 4. D'autres services web que j'aimse bien : `<https://services.renater.fr/rendez-vous/index>`_ (de RENATER, pour les enseignants-chercheurs en France), `<https://visio.inria.fr/?lang=fr-FR>`_ (de INRIA), `<https://meet.jit.si/>`_, `<https://www.gruveo.com/>`_, `<https://whereby.com/>`_ (c'était appear.in avant).
 
