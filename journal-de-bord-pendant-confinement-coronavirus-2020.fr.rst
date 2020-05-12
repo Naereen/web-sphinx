@@ -9,7 +9,7 @@
 .. warning:: Informations sur la pandémie de Coronavirus
 
     Si vous cherchez des informations sur l'épidémie de coronavirus, allez lire (*chaque jour*) la page `<https://www.gouvernement.fr/info-coronavirus>`_, qui est maintenue par notre gouvernement (français).
-    Je recommande aussi de lire au moins un journal en ligne, par exemple `Le Monde<https://www.lemonde.fr>`_, pour se tenir au courant de l'évolution de la pandémie.
+    Je recommande aussi de lire au moins un journal en ligne, par exemple `Le Monde <https://www.lemonde.fr>`_, pour se tenir au courant de l'évolution de la pandémie.
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
