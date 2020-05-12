@@ -23,6 +23,9 @@ Working from home because of the Coronavirus outbreak
 
 As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked to start working from home.
 
+.. warning:: This page is only describing MY point-of-view, it is NOT officially from the point of view of my employer.
+
+
 I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I will (try my best) to teach remotely, during this special moment !
 
 
