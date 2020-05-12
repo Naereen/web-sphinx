@@ -30,23 +30,16 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 
 .. warning:: Cette page n'est là que pour décrire MON point de vue, ce n'est PAS le point de vue de mon employeur.
 
-.. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées.
+.. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées (plus bas).
 
 
-.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
-   :scale: 50%
-   :align: center
-   :alt: Link to the XKCD comic https://xkcd.com/2282/
-   :target: https://xkcd.com/2282/
-
+------------------------------------------------------------------------------
 
 Point vocabulaire : synchrone ou asynchrone
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Synchrone** : tous les élèves et le ou la professeur-e se retrouvent *en même temps* (synchrone) sur une plateforme web qui permet d'échanger des messages, de l'audio (pour la voix) ou de l'image, ou partager un écran. Typiquement, les cours magistraux et les corrections de travaux dirigés seront synchrones.
 - **Asynchrone** : c'est l'inverse. On peut toujours utiliser la plateforme web, pour s'échanger des messages, mais il n'y a pas d'emploi du temps à respecter. Les travaux pratiques, certains cours magistraux, et les devoirs maisons seront asynchrones
-
-------------------------------------------------------------------------------
 
 Devoirs maison (DM)
 ~~~~~~~~~~~~~~~~~~~
@@ -110,6 +103,8 @@ Nous avons pris la décision de ne pas essayer de faire des évaluations en mode
 Tous les examens finaux seront des DM, à faire seul (pas de binôme), en quelques jours pour limiter les risques de triches et de partages de copies entre les élèves.
 
 
+---------------------------------------------
+
 Discord comme outil principal ? Oui mais...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -134,10 +129,20 @@ Plus de détails ? Cette vidéo est courte et très bien faite, et répond avec 
 .. youtube:: zjNxArUFI4Q
 
 
-Interlude comique
-~~~~~~~~~~~~~~~~~
+---------------------------------------------
 
-J'aime bien `cette planche de XKCD <https://xkcd.com/2294/>`_, qui est un peu absurde mais drôle :
+Interludes comiques
+~~~~~~~~~~~~~~~~~~~
+
+J'aime bien `cette planche de XKCD <https://xkcd.com/2282/>`_ et `cette autre planche <https://xkcd.com/2294/>`_, qui est un peu absurde mais drôle :
+
+
+.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
+   :scale: 50%
+   :align: center
+   :alt: Link to the XKCD comic https://xkcd.com/2282/
+   :target: https://xkcd.com/2282/
+
 
 .. image:: https://imgs.xkcd.com/comics/coronavirus_charts.png
    :scale: 50%
