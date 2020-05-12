@@ -110,6 +110,35 @@ Nous avons pris la décision de ne pas essayer de faire des évaluations en mode
 Tous les examens finaux seront des DM, à faire seul (pas de binôme), en quelques jours pour limiter les risques de triches et de partages de copies entre les élèves.
 
 
+Discord comme outil principal ? Oui mais...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+J'ai beaucoup apprécié d'utiliser Discord, et je le conseille comme outil principal de discussion et d'échanges avec vos classes, que ce soit pour des échanges textuels, vocaux ou vidéo (avec webcam ou partage d'écran).
+
+- Je recommande de créer un serveur par classe, et dans un  même serveur, un canal par cours, voir plusieurs canaux pour chaque cours (par exemple un pour les TP et TD, un pour les DM et projets, et un pour les CM).
+- Je recommande de demander à tous les élèves de choisir "Prénom Nom" comme pseudonyme, pour ne jamais avoir de doute quant à l'identité des différentes personnes connectées.
+
+Il n'y a pas de publicité sur les sites ou applications de Discord, et à en croire leurs conditions générales d'utilisation, il n'y aura pas de publicité.
+
+Donc la question légitime à poser est **comment Discord gagne de l'argent ?**...
+Discord est gratuit mais :
+
+- une partie des 200 millions d'utilisateurs paie entre 5$ et 10$ par mois pour les souscriptions Nitro et autres souscriptions premium, qui permettent d'améliorer l'expérience pour un-e utilisateur-trice ou pour un serveur ;
+- avec sa plateforme de vente de jeux vidéo ;
+- avec l'argent des levers de fonds (plusieurs dizaines de millions de dollar en 2015, 2017 et encore en 2019).
+
+A priori, ils ne vendent pas les données de leurs utilisateurs et utilisatrices à d'autres entreprises, ni n'espionnent les communications textuelles, vocales ou vidéo.
+
+Plus de détails ? Cette vidéo est courte et très bien faite, et répond avec plus de détails à cette question (à jour en 2020) :
+
+.. youtube:: zjNxArUFI4Q
+
+
+Interlude comique
+~~~~~~~~~~~~~~~~~
+
+J'aime bien `cette planche de XKCD <https://xkcd.com/2294/>`_, qui est un peu absurde mais drôle :
+
 .. image:: https://imgs.xkcd.com/comics/coronavirus_charts.png
    :scale: 50%
    :align: center
