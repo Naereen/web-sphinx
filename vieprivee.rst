@@ -148,13 +148,18 @@ Protéger sa vie privée
 
 * `Tor <https://torproject.org/>`_ pour communiquer de façon sécurisée. Voir par exemple `ce schéma interactif <https://people.torproject.org/~lunar/tor-and-https/fr/tor-and-https.svg>`_ pour mieux comprendre l'intérêt de ``HTTPS`` et ou de `Tor`_.
 
-
 .. image::	.nerd_dream_security.png
     :scale:	100 %
     :align:	center
     :alt:	Nerd dream about Security (https://xkcd.com/538/)
     :target:	https://xkcd.com/538/
 
+
+* `DuckDuckGo <https://www.duckduckgo.com/>`_ est un moteur de recherche indépendant, concurrent à Google Search et Bing, qui s'illustre par une absence complète d'espionnage et de suivi (tracking) de ses utilisateurs et utilisatrices. Il fonctionne désormais très bien, et propose plein de fonctionnalités matures. Je m'en sers comme moteur principal, notamment parce qu'il implémente des "bang" très pratique : par exemple ``République Rennes !gmap`` lance `la recherche suivante <https://duckduckgo.com/?q=r%C3%A9publique+rennes+%21gmap&t=canonical>`_ qui arrive sur `la page de recherche de Google Maps <https://www.google.fr/maps?hl=fr&q=r%C3%A9publique+rennes>`_.
+
+* `Qwant <https://www.qwant.com/>`_ est un moteur de recherche européen, concurrent à Google Search et Bing, qui s'illustre par une absence complète d'espionnage et de suivi (tracking) de ses utilisateurs et utilisatrices. Il fonctionne désormais très bien, et propose plein de fonctionnalités matures. (Un de mes amis travaille chez eux !). La vidéo suivante explique l'état dans lequel se trouve `Qwant`_ en 2020 :
+
+.. youtube:: yII-NFvNVxE
 
 ---------------------------------------------------------------------
 
