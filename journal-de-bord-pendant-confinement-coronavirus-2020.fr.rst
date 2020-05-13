@@ -109,7 +109,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 12 mai : correction, corrections, correctionsssss !
+- Mercredi 12 mai : correction, corrections, correctionsssss !
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
