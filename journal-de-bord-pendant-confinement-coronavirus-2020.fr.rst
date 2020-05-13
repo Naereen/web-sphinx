@@ -102,13 +102,14 @@ Avril 2020
 - Samedi 9 mai : repos le matin, travail l'après-midi. Longue sortie pour courir (environ 7 kms).
 - Dimanche 10 mai : toujours le même rythme : repos le matin, travail l'après-midi, petite sortie pour courir environ 4 kms, entre deux grosses pluies.
 - Lundi 11 mai : travail le matin et l'après-midi, petite sortie à pied dans mon quartier.
+- Mardi 12 mai : réunion de travail le matin, travail l'après-midi.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 12 mai : réunion de travail le matin, travail l'après-midi.
+- Mardi 12 mai : correction, corrections, correctionsssss !
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
