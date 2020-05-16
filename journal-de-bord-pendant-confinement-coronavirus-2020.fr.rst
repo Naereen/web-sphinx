@@ -104,13 +104,15 @@ Avril 2020
 - Lundi 11 mai : travail le matin et l'après-midi, petite sortie à pied dans mon quartier.
 - Mardi 12 mai : réunion de travail le matin, travail l'après-midi.
 - Mercredi 13 mai : correction, corrections, correctionsssss !
+- Jeudi 14 mai : correction, jardinage, correctionsssss !
+- Vendredi 15 mai : encore des corrections, de l'aide à un ami de l'équipe MAGNET à Inria Lille pour répéter sa soutenance de thèse !
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Jeudi 14 mai : correction, jardinage, correctionsssss !
+- Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
