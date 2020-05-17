@@ -106,13 +106,14 @@ Avril 2020
 - Mercredi 13 mai : correction, corrections, correctionsssss !
 - Jeudi 14 mai : correction, jardinage, correctionsssss !
 - Vendredi 15 mai : encore des corrections, de l'aide à un ami de l'équipe MAGNET à Inria Lille pour répéter sa soutenance de thèse !
+- Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
+- Dimanche 17 mai : fin des corrections du DM d'ALGO2 le matin, promenade et pique-nique l'après-midi !
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
