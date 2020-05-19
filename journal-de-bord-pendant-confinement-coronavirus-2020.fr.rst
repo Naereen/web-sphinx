@@ -108,13 +108,14 @@ Avril 2020
 - Vendredi 15 mai : encore des corrections, de l'aide à un ami de l'équipe MAGNET à Inria Lille pour répéter sa soutenance de thèse !
 - Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
 - Dimanche 17 mai : fin des corrections du DM d'ALGO2 le matin, promenade et pique-nique l'après-midi !
+- Lundi 18 mai : du boulot en lisant des livres niveau agrégation.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Lundi 18 mai : du boulot en lisant des livres niveau agrégation.
+- Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
