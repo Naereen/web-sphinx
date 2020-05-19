@@ -115,7 +115,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA.
+- Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA : XXX.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
