@@ -109,13 +109,14 @@ Avril 2020
 - Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
 - Dimanche 17 mai : fin des corrections du DM d'ALGO2 le matin, promenade et pique-nique l'après-midi !
 - Lundi 18 mai : du boulot en lisant des livres niveau agrégation.
+- Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA : `<https://GBA-RPG-via-GitHub-contre-Covid-2020.github.io/>`_.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA : `<https://GBA-RPG-via-GitHub-contre-Covid-2020.github.io/>`_.
+- Mercredi 20 mai : du boulot en lisant des livres niveau agrégation.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
