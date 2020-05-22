@@ -33,6 +33,11 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 .. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées (plus bas).
 
 
+.. seealso::
+
+   Ce poste de blogue par la Free Software Foundation (FSF) liste des outils pour enseigner à distance et rester en contact par Internet : `<https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch>`_.
+
+
 ------------------------------------------------------------------------------
 
 Point vocabulaire : synchrone ou asynchrone

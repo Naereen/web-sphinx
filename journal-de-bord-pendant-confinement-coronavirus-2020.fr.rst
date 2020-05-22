@@ -110,13 +110,15 @@ Avril 2020
 - Dimanche 17 mai : fin des corrections du DM d'ALGO2 le matin, promenade et pique-nique l'après-midi !
 - Lundi 18 mai : du boulot en lisant des livres niveau agrégation.
 - Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA : `<https://GBA-RPG-via-GitHub-contre-Covid-2020.github.io/>`_.
+- Mercredi 20 mai : du boulot en lisant des livres niveau agrégation.
+- Jeudi 21 mai : pas grand chose à raconter, du repos et du sport.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Mercredi 20 mai : du boulot en lisant des livres niveau agrégation.
+- Jeudi 21 mai : pas grand chose à raconter, du repos, de la cuisine, et du boulot en relisant mes notes de cours et mes notebooks du `cours ALGO1 <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_ que je redonne en septembre.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 

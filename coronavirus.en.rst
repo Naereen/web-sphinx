@@ -36,6 +36,10 @@ I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I wil
    :target: https://xkcd.com/2282/
 
 
+.. seealso::
+
+   This blog post by the Free Software Foundation (FSF) lists tools to teach remote classes and stay in touch online: `<https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch>`_.
+
 ---------------------------------------------
 
 Responsibilities in 2019/2020
