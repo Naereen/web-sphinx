@@ -119,7 +119,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Samedi 22 mai : pas grand chose à raconter, du repos et du travail. J'ai acheté un vélo vintage Peugeot, pour avoir un second vélo.
+- Samedi 22 mai : pas grand chose à raconter, du repos et du travail. J'ai acheté un vélo vintage Peugeot, pour avoir un second vélo plus léger que mon VTT.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
