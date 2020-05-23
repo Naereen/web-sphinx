@@ -105,7 +105,7 @@ Avril 2020
 - Mardi 12 mai : réunion de travail le matin, travail l'après-midi.
 - Mercredi 13 mai : correction, corrections, correctionsssss !
 - Jeudi 14 mai : correction, jardinage, correctionsssss !
-- Vendredi 15 mai : encore des corrections, de l'aide à un ami de l'équipe MAGNET à Inria Lille pour répéter sa soutenance de thèse !
+- Vendredi 15 mai : encore des corrections, de l'aide à `un ami <https://guilgautier.github.io/>`_ de l'équipe SiGMA à Inria Lille pour répéter sa soutenance de thèse !
 - Samedi 16 mai : j'ai compilé manuellement `OpenBoard <https://www.openboard.ch/>`_ pour l'avoir sur mon ordinateur de boulot, j'ai travaillé pour des corrections (toujours le projet de C++), de la cuisine, du bricolage, du repos.
 - Dimanche 17 mai : fin des corrections du DM d'ALGO2 le matin, promenade et pique-nique l'après-midi !
 - Lundi 18 mai : du boulot en lisant des livres niveau agrégation.
