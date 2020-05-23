@@ -112,13 +112,14 @@ Avril 2020
 - Mardi 19 mai : du boulot en réunion, et le lancement de projets similaires à `Pokémon on GitHub vs COVID 19 <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/>`_ pour les jeux de rôles de GBA : `<https://GBA-RPG-via-GitHub-contre-Covid-2020.github.io/>`_.
 - Mercredi 20 mai : du boulot en lisant des livres niveau agrégation.
 - Jeudi 21 mai : pas grand chose à raconter, du repos et du sport.
+- Vendredi 22 mai : pas grand chose à raconter, du repos, de la cuisine, et du boulot en relisant mes notes de cours et mes notebooks du `cours ALGO1 <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_ que je redonne en septembre.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Vendredi 21 mai : pas grand chose à raconter, du repos, de la cuisine, et du boulot en relisant mes notes de cours et mes notebooks du `cours ALGO1 <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_ que je redonne en septembre.
+- Samedi 22 mai : pas grand chose à raconter, du repos et du travail. J'ai acheté un vélo vintage Peugeot, pour avoir un second vélo.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
