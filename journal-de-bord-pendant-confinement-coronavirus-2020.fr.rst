@@ -120,7 +120,7 @@ Maintenant
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Dimanche 24 mai : pas grand chose à raconter, du repos et du sport.
+- Dimanche 24 mai à jeudi 28 mai : pas grand chose à raconter, du repos et du sport.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
