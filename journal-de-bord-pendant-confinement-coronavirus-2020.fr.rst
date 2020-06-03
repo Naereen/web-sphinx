@@ -115,13 +115,14 @@ Avril 2020
 - Vendredi 22 mai : pas grand chose à raconter, du repos, de la cuisine, et du boulot en relisant mes notes de cours et mes notebooks du `cours ALGO1 <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_ que je redonne en septembre.
 - Samedi 23 mai : pas grand chose à raconter, du repos et du travail. J'ai acheté un vélo vintage Peugeot, pour avoir un second vélo plus léger que mon VTT.
 - Dimanche 24 mai à samedi 30 mai : pas grand chose à raconter, du repos et du sport.
+- Dimanche 31 mai à mercredi 03 juin : pas grand chose à raconter, un peu triste d'être trop seul.
 
 Maintenant
 ~~~~~~~~~~
 
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
-- Dimanche 31 mai : pas grand chose à raconter, un peu triste d'être trop seul.
+- Mercredi 03 juin à ? : pas grand chose à raconter, du repos, du boulot et du sport.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 
