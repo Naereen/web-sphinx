@@ -104,6 +104,7 @@ En 2020, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Once upon a Time in… Holliwood*, de Quentin Tarantino,
 - *Avengers: Endgame*, le dernier film de la série Avengers,
+- *Patéma : le monde inversé*, un chouette film d'animation japonais,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

@@ -180,6 +180,12 @@ Macro
 ~~~~~
 Not yet.
 
+Fun comic book about VS Code
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/06/Strip-Visual-Studio-Code-650-final.jpg
+    :src:  http://www.commitstrip.com/fr/2020/06/11/im-watching-you/
+
 -----------------------------------------------------------------------------
 
 

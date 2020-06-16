@@ -184,6 +184,12 @@ Macro
 ~~~~~
 Pas encore.
 
+Interlude comique
+~~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/06/Strip-Visual-Studio-Code-650-final.jpg
+    :src:  http://www.commitstrip.com/fr/2020/06/11/im-watching-you/
+
 -----------------------------------------------------------------------------
 
 Les meilleurs greffons ?
