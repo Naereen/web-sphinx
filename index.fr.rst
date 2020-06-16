@@ -8,6 +8,10 @@
 
 À propos (de moi)
 -----------------
+
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par semaine (à partir du 13/03/2020).
+
+
 Bonjour !
 Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 à |ENSCachan|.
@@ -112,10 +116,12 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    :maxdepth: 2
    :titlesonly:
 
+   coronavirus.fr
+   journal-de-bord-pendant-confinement-coronavirus-2020.fr
    callme.fr
+   enseignement.fr
    cv.fr
    recherche.fr
-   enseignement.fr
    agreg-2014/index
    README
    cookies.fr
@@ -129,10 +135,14 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    stats-google-analytics.fr
    beacon.fr
    apk.fr
+   jitsi.fr
    firefox-extensions.fr
    tutogit.fr
    apprendre-python.fr
    wakatime.fr
+   twitch.fr
+   pokemon.fr
+   star-wars.fr
    latexonwindows.fr
    zotero.fr
    opendns.fr

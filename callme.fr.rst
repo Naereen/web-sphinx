@@ -5,6 +5,10 @@
 ########################
  Comment me contacter ?
 ########################
+
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
+
+
 .. sidebar:: À propos
 
    Cette page liste divers moyen d'interagir avec `moi <index.html>`_ (*Lilian Besson*).
@@ -12,8 +16,9 @@
 Vidéo-conférence instantanée ?
 ------------------------------
 1. *D'abord*, prévenez-moi par courriel, on se met d'accord sur un jour et une heure pour s'appeler (*asynchrone*),
-2. *Puis* on utilise le tout récent service *FramaTalk* : `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ !
+2. *Puis* on utilise le tout récent service *FramaTalk* : `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ ou Jitsi sur la page `<jitsi/>`_ (voir `cette page à propos de Jitsi <jitsi.fr.html>`_) !
 3. *Pourquoi ?* Ça ne demande pas d'installation, pas de création de compte, pas de logiciel à part un navigateur web (assez récent). Et c'est parfaitement sécurisé, comme la conversation et les messages ne sont pas espionnés ni enregistrés (le trafic durant la communication se fait en pair-à-pair).
+4. D'autres services web que j'aimse bien : `<https://services.renater.fr/rendez-vous/index>`_ (de RENATER, pour les enseignants-chercheurs en France), `<https://visio.inria.fr/?lang=fr-FR>`_ (de INRIA), `<https://meet.jit.si/>`_, `<https://www.gruveo.com/>`_, `<https://whereby.com/>`_ (c'était appear.in avant).
 
 
 Moyens traditionnels
@@ -161,7 +166,7 @@ Services HTML5
 ^^^^^^^^^^^^^^
 .. sidebar:: Plus d'explications
 
-   Vous pouvez utiliser `cette page là <http://iswebrtcready.appear.in/>`_ pour vérifier si votre navigateur actuel supporte la technologie WebRTC.
+   Vous pouvez utiliser `cette page là <http://iswebrtcready.whereby.com/>`_ pour vérifier si votre navigateur actuel supporte la technologie WebRTC.
 
    En revanche, comme ils sont *synchrones*, **il faut se mettre d'accord pour un rendez-vous d'abord** !
 
@@ -170,7 +175,7 @@ Les services suivants, basés sur les fonctionnalités de l'`HTML 5 <https://fr.
 
 * `gruveo.com/#Naereen <https://www.gruveo.com/#Naereen>`_ pour des appels (vocaux ou vidéos), semble fiable et sécurisé,
 * `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ pour des visio-conférences (jusqu'à 8 personnes en même temps), hébergé par l'association `FramaSoft <https://framasoft.org/>`_,
-* `appear.in/Naereen <https://appear.in/Naereen>`_ pour des visio-conférences (jusqu'à 8 personnes en même temps),
+* `whereby.com/Naereen <https://whereby.com/Naereen>`_ pour des visio-conférences (jusqu'à 8 personnes en même temps),
 * `RTC Copy <https://rtccopy.com/>`_ pour s'envoyer des fichiers (toute taille, tout type).
 
 

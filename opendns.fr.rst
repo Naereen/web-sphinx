@@ -71,6 +71,9 @@ On peut vérifier leur **protection de l’hameçonnage** et des *"mauvais"* sit
    DNS Leak Test - Hidester
       Un autre `outil du même genre (hidester.com/dns-leak-test) <https://hidester.com/dns-leak-test/>`_, parce que son auteur m'a demandé d'inclure un lien ici…
 
+   Pixel Privacy's DNS Leak Test
+      On m'a gentiment demandé d'ajouter `un lien vers cet autre guide (PixelPrivacy.com/resources/dns-leak) <https://pixelprivacy.com/resources/dns-leak>`_.
+
 ----
 
 Pourquoi avoir écrit cette page un peu vide pour mon site ?

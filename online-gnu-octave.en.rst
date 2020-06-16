@@ -27,6 +27,21 @@ It also work pretty well!
 .. seealso:: They also offer `LaTeX editing <https://desktop.nclab.com/viewer/472c63697aa944088cc8d40113b29c8b>`_, `R coding <https://desktop.nclab.com/viewer/22a11d1b28614676bfe24977598e7712>`_, `Javascript coding <https://desktop.nclab.com/viewer/25968f5006f7410d96298b87a9b99683>`_, and `Python coding <https://desktop.nclab.com/viewer/7d5b7f1dfbea4bd59595768ef70e031e>`_.
 .. warning:: The links to their webapp could change, so if it is broken, you can find it on their `web-applications page <https://nclab.com/login-free>`_.
 
+`SAGE Cell <https://sagecell.sagemath.org/static/about.html>`_
+--------------------------------------------------------------
+SAGE cells are a component of the SAGE project, which allow to embed an editor for different languages, one being GNU Octave, directly in a web page:
+
+.. html::
+
+    <iframe scr="https://sagecell.sagemath.org/?z=eJxLSSxJVLBVSC7NLS7N1ShKzEvJ0zA00FEw1NTkKsjJL9FIASrQBADxIQv5&lang=octave&interacts=eJyLjgUAARUAuQ==" allowtransparency="true" frameborder="0" scrolling="0" width="1000" height="400"></iframe>
+
+By following `the instructions to embed it <https://sagecell.sagemath.org/static/about.html>`_.
+Thanks to `Harald Shilly <http://harald.schil.ly/>`_ for sharing this link with me!
+
+`cocalc.com <https://cocalc.com/>`_
+-----------------------------------
+Propose `an online editor for Octave <https://cocalc.com/doc/octave.html>`_.
+
 ---------------------------------------------------------------------
 
 Other online interpreters?

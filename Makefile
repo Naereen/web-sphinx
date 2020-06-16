@@ -2,8 +2,8 @@
 # Makefile for Sphinx web builder
 # Author: Lilian BESSON
 # Email: lilian DOT besson AT normale D O T fr
-# Version: 20
-# Date: 04-01-17
+# Version: 22
+# Date: 13-04-20
 # Web: https://bitbucket.org/lbesson/web-sphinx
 
 # You can set these variables from the command line.
@@ -26,8 +26,8 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 CP = ~/bin/CP  # Using my CP script, https://bitbucket.org/lbesson/bin/src/master/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure send_jarvis send_zamok check
-total_with_gpg: html images obscure gpghtml send_jarvis send_zamok check
+total: html images obscure send_jarvis send_zamok send_ovh check
+total_with_gpg: html images obscure gpghtml send_jarvis send_zamok send_ovh check
 local: html images send_jarvis check
 
 check: warnings severes errors
@@ -113,7 +113,7 @@ gpgpdf: pdf
 
 ################################# Senders #####################################
 
-send: rss send_jarvis send_zamok send_pdf send_latexpdf
+send: rss send_jarvis send_zamok send_ovh send_pdf send_latexpdf
 
 sendAll: notify_archive send
 
@@ -143,6 +143,11 @@ send_jarvis: fixperms
 
 send_zamok: fixperms
 	$(CP) -r $(BUILDDIR)/html/ besson@zamok.crans.org:~/www/
+	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
+
+send_ovh: fixperms
+	# $(CP) -r $(BUILDDIR)/html/ bessonlihy@ftp.cluster028.hosting.ovh.net:~/www/
+	echo TODO TODO TODO $(CP) -r $(BUILDDIR)/html/ bessonlihy@ssh.cluster028.hosting.ovh.net:~/www/ | figlet | lolcat
 	-$(CP) ~/Dropbox/web-sphinx.* besson@zamok.crans.org:~/www/dl/
 
 send_latexpdf: fixperms

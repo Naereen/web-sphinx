@@ -92,9 +92,8 @@ Et depuis le début de mon utilisation de WakaTime :
 
 Éditeurs de textes utilisés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-WakaTime thinks I only use (and it's almost correct!):
-WakaTime détecte que j'utilise uniquement l'extraordinaire `Visual Studio Code <visualstudiocode.en.html>`_ pour environ ~90% de mon temps d'écriture et de programmation quotidien,
-et `Sublime Text <sublimetext.html>`_ et `PyCharm IDE <https://www.jetbrains.com/pycharm/>`_ pour les ~10% restant :
+WakaTime détecte que j'ai utilisé l'extraordinaire `Visual Studio Code <visualstudiocode.en.html>`_ depuis 2018 et `Sublime Text <sublimetext.html>`_ avant 2018, pour environ ~90% de mon temps d'écriture et de programmation quotidien,
+et Bash et `PyCharm IDE <https://www.jetbrains.com/pycharm/>`_ pour les ~10% restant :
 
 .. raw:: html
 
@@ -141,7 +140,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 `Aperçu complet de 2017 <https://wakatime.com/a-look-back-at-2017>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Comme en 2015, environ 600 heures en tout en 2017 (611h), alors que la moyenne des utilisateurs de WakaTime était de 249h (mais le max à 3468h !).
-- Une moyenne quotidienne de 2 heures 17 minutes en 2017, alors que la moyenne des utilisateurs de WakaTime était de 41 min (mais le max à 9 h 30 min, ce codeur doit être un grand malade !).
+- Une moyenne quotidienne de 2 heures 17 minutes en 2017, alors que la moyenne des utilisateurs de WakaTime était de 41 min (mais le max à 9 h 30 min, ce codeur doit être un grand passionné !).
 - J'ai codé à 100% sous GNU/Linux (fan de XUbuntu comme toujours), et 303h avec `Sublime Text <sublimetext.fr.html>`_, 282h avec `Visual Studio Code <visualstudiocode.fr.html>`_ et 45h avec PyCharm. GNU Nano, Firefox et Jupyter ne sont pas comptés (mais `uLogMe <https://github.com/Naereen/uLogMe/>`_ me dit que je n'y passe pas beaucoup de temps de toute façon).
 - Projets par projets, j'ai codé `266h pour ce projet pour ma thèse (SMPyBandits) <https://smpybandits.github.io/>`_, `48h pour cet article <https://hal.inria.fr/hal-01629733>`_, `41h pour ma thèse en général <https://perso.crans.org/besson/phd/>`_, `38h pour mes slides <https://github.com/Naereen/slides>`_, `20h pour ce site web <https://bitbucket.org/lbesson/web-sphinx/>`_, `17h pour mes scripts et configuration Bash <https://bitbucket.org/lbesson/bin/>`_, `10h pour mon blog de cuisine <https://perso.crans.org/besson/cuisine/>`_, `9h pour mes notebooks (mais ça ne compte pas le temps passé dans Jupyter) <https://github.com/Naereen/notebooks>`_, et moins de 8h pour tous les `autres <https://bitbucket.org/lbesson/>`_ `projets <https://github.com/Naereen/>`_.
 - Et pour le choix de langages, j'ai surtout utilisé `Python <https://wakatime.com/leaders/python>`_ (277 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (107 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (135 h),  et `reStructuredText <demo.html>`_ (28 h); et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
@@ -165,7 +164,7 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 - Un peu moins qu'en 2018 j'ai codé environ 500 heures en tout en 2019 (508h), alors que la moyenne des utilisateurs de WakaTime était de 289h.
 - Une moyenne quotidienne très stable, à 2 heures 15 minutes en 2018, alors que la moyenne des utilisateurs de WakaTime était de 47 minutes.
 - Mon jour le plus intense a été le 10 octobre 2018, avec 8h 58 minutes. Je pense que c'était pour terminer cet artcle, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`_!
-- J'ai codé à 100% sous GNU/Linux (fan de XUbuntu comme toujours), et 100% avec `Visual Studio Code <visualstudiocode.fr.html>`_. GNU Nano, Firefox et Jupyter ne sont pas comptés (mais `uLogMe <https://github.com/Naereen/uLogMe/>`_ me dit que j'y passe moins de temps de toute façon, quoique j'ai utilisé Jupyter beaucoup plus en 2018, avec ces deux projets `ALGO1-Info1-2019 <https://github.com/Naereen/ALGO1-Info1-2019/>`_ et `notebooks <https://github.com/Naereen/notebooks/>`_).
+- J'ai codé à 100% sous GNU/Linux (fan de XUbuntu comme toujours), et 100% avec `Visual Studio Code <visualstudiocode.fr.html>`_. GNU Nano, Firefox et Jupyter ne sont pas comptés (mais `uLogMe <https://github.com/Naereen/uLogMe/>`_ me dit que j'y passe moins de temps de toute façon, quoique j'ai utilisé Jupyter beaucoup plus en 2019, avec ces deux projets `ALGO1-Info1-2019 <https://github.com/Naereen/ALGO1-Info1-2019/>`_ et `notebooks <https://github.com/Naereen/notebooks/>`_).
 - Projets par projets, j'ai codé `226h pour ma thèse de doctorat <https://github.com/Naereen/phd-thesis/>`_, `63h pour ce projet pour ma thèse (SMPyBandits) <https://smpybandits.github.io/>`_, `58h pour mes slides <https://github.com/Naereen/slides>`_.
 - Et pour le choix de langages, j'ai surtout utilisé `LaTeX <https://wakatime.com/leaders/latex>`_ (363 h), `Python <https://wakatime.com/leaders/python>`_ (77 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (29 h); et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
 

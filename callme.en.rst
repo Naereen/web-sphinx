@@ -12,8 +12,9 @@
 Instantaneous video-conference ?
 --------------------------------
 1. *First*, reach me by e-mail, so we agree on a date and time to call (*asynchronous*),
-2. *Then* we use the awesome and brand new website *FramaTalk*: `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ !
+2. *Then* we use the awesome and brand new website *FramaTalk*: `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ or Jitsi on `<jitsi/>`_ (see `this page on Jitsi <jitsi.en.html>`_) !
 3. *Why ?* It does not require any installation or plugin, no need to create any account, no need for a specific software - just your regular web browser (a fairly recent one is needed). And it's awesomely secured, as the conversation and messages are not spied nor registered (the communication uses peer-to-peer trafic with WebRTC, that's safe).
+4. Other web services that I like : `<https://services.renater.fr/rendez-vous/index>`_ (by RENATER, for French researchers and teachers), `<https://visio.inria.fr/?lang=fr-FR>`_ (by INRIA), `<https://meet.jit.si/>`_, `<https://www.gruveo.com/>`_, `<https://whereby.com/>`_ (it was appear.in before).
 
 
 Traditional ways
@@ -171,7 +172,7 @@ These web services, strongly based on the great functions offered by the `HTML 5
 
 * `gruveo.com/#Naereen <https://www.gruveo.com/#Naereen>`_ for vocal or videos calls. It seems to be secured and reliable,
 * `framatalk.org/Naereen <https://framatalk.org/Naereen>`_ for video-chat (up to 8 persons at a time), hosted by the `FramaSoft <https://framasoft.org/>`_ non-profit association,
-* `appear.in/Naereen <https://appear.in/Naereen>`_ for video-chat (up to 8 persons at a time),
+* `whereby.com/Naereen <https://whereby.com/Naereen>`_ for video-chat (up to 8 persons at a time),
 * `RTC Copy <https://rtccopy.com/>`_ to securely send files over the Internet (no matter the type, no matter the size).
 
 

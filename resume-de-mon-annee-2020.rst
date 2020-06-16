@@ -27,15 +27,46 @@ Mars 2020
 ---------
 - Un court voyage pendant mes vacances de février, à Avignon, Marseille, Arles, Lyon !
 - Une rencontre fort sympathique début mars pour le travail et le plaisir, à Lyon !
-- Un chouette mariage à Lyon fin mars, avec des ami-e-s de `l'ENS Cachan <https://www.ens-paris-saclay.fr/>`_.
+- Début des mesures d'isolement pour lutter contre l'épidémie de Coronavirus, télétravail dès le 13 mars...
+
+.. note:: Page dédiée à cet événement ?
+
+    Consultez cette page : `<coronavirus.fr.html>`_.
+    J'explique comment nos enseignements à l'ENS ont réussi à ne pas être trop perturbés par le confinement, puisque nous avons été très rapides et réactifs, en utilisant des technologies modernes.
+
+    Regardez aussi `ma page rassemblant des cartes <https://perso.crans.org/besson/carte-confinement/>`_ utiles pendant le confinement.
+
 
 Avril 2020
 ----------
-- TODO
+- Un confinement très chiant, qui a duré bien au delà de Pâques (week-end du 11-13 avril)...
+- Je me suis bien amusé à coder `cette appli web <https://perso.crans.org/besson/carte-confinement/carte.html#1km>`_ qui permet de visualiser ces fameux 1 km autour de son domicile.
+- J'ai ENFIN acheté un nom de domaine pour héberger ce site hors des `pages web du CRANS <https://perso.crans.org/besson/>`_ : `<http://besson.link/>`_ !
 
 Mai 2020
 --------
-- TODO
+- Toujours confiné, jusqu'au 11 mai.
+
+------------------------------------------------------------------------------
+
+Objectifs pour cet été 2020
+---------------------------
+
+J'ai décidé de me fixer les objectifs suivants pour cet été :
+
+1. Retourner à Lausanne et voir mon ancien colloque S. !
+2. Aller voir un cousin et leur auberge à la frontière franco-suisse, au sud du lac Léman ;
+3. Monter au dessus de 4000m, et faire une randonnée d'alpinisme !
+4. Dormir à la belle étoile en haute montagne !
+5. Rendre visite à des bons ami-e-s, en France et ailleurs ;
+6. Marcher avec mes frères !
+7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ;
+8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ;
+9. Faire de belles rencontres, dans la bienveillance, le respect, l'amour et le partage (je partagerai tout, comme toujours, sauf mes virus et mes microbes) ;
+10. Faire de nouveau (beaucoup) d'autostop, au moins 3600 kilomètre ce serait génial, histoire de dépasser `mon total <autostop.fr.html>`_ qui est actuellement vers 6400km...
+11. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
+
+------------------------------------------------------------------------------
 
 Juin 2020
 ---------
@@ -84,6 +115,9 @@ En 2020, j'ai voyagé là…
 En 2020, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
+- … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers), que je n'ai finalement pas ouvert. Si le confinement dure trop longtemps, je pensais acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
+- Mais j'ai plutôt craqué pour une Switch lite (d'occasion !). J'ai acheté les deux meilleurs jeux de rôles (japonais) disponibles sur cette (nouvelle) console : **Octopath Traveler**, et **Fire Emblem: Three Houses**. Pas trop eu le temps d'y jouer encore... mais cet été ça viendra ?
+- Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,6 +131,7 @@ En 2020, j'ai lu ces livres…
 - *Ce qu'ils disent ou rien*, de Annie Ernaux (encore, j'adore toujours autant),
 - `La Trilogie Yan Solo <https://fr.wikipedia.org/wiki/La_Trilogie_Yan_Solo>`_, de Ann C. Crispin,
 - `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
+- (en cours) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
@@ -105,6 +140,11 @@ En 2020, j'ai vu ces films…
 - *Once upon a Time in… Holliwood*, de Quentin Tarantino,
 - *Avengers: Endgame*, le dernier film de la série Avengers,
 - *Patéma : le monde inversé*, un chouette film d'animation japonais,
+- Tous les *Star Wars* (lisez `cette page <star-wars.fr.html>`_ pour voir l'ordre dans lequel je recommande de regarder les films Star Wars),
+- Tous les *Indiana Jones*,
+- *Jeune Femme* (2017), pas bien apprécié,
+- Tous les *Jason Bourne*,
+- *Captain Fantastic*,
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
