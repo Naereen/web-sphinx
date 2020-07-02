@@ -126,7 +126,7 @@ Some useful command line programs
   to quickly write \\(\\LaTeX{}\\) documents, without to write any header, **just the LaTeX content**.
   It uses the file `naereen.sty <publis/latex/naereen.sty>`_ as a stylesheet, and `template.en.tex <publis/latex/template.en.tex>`_ (or `template.fr.tex <publis/latex/template.fr.tex>`_ in French), that you have to download and save in your ``$HOME`` (``~``).
   A few other templates are available in the folder `<publis/latex/>`_
-  (e.g., `template_twocolumns.tex <publis/latex/template_twocolumns.tex>`_ for a document with two columns, and ``autotex`` uses this automatically if the input file has "twocolumns" in in his name).
+  (e.g., `template_twocolumns.tex <publis/latex/template_twocolumns.tex>`_ for a document with two columns, and ``autotex`` uses this automatically if the input file has "twocolumns" in his name).
 
   :State: *Experimental* but works quite well!
 
