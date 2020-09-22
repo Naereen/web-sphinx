@@ -22,6 +22,7 @@ Télétravail pendant l'épidémie de Coronavirus
 ---------------------------------------------
 
 A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Rennes avons été invités à travailler à domicile.
+**Mise à jour** : depuis la reprise fin août 2020, tout est de nouveau en présentiel.
 
 Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
 

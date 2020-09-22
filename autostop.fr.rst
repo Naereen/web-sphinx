@@ -16,11 +16,24 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320  = environ **5785 kms pour l'instant**.
+  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 740  = environ **6525 kms pour l'instant**.
 
-En 2019 : **320 kms** (pour l'instant)
+En 2020 : **740 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, environ **320 kms** en France.
+For now, about **740 kms** only in France.
+J'ai fait du stop de Briançon à Gap et de Gap à Briançon en juillet 2020 (85+85 = 170 kms), et aussi une fois de Briançon à Grenoble (115 kms)
+J'ai aussi fait du stop de Gap jusqu'à un petit village au nord des Alpes-Maritimes (où `cette ferme était <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_), puis je suis revenu à Briançon, pour environ 185 + 270 = 455 kms.
+
+.. digraph:: france20
+
+    "Briançon" -> "Gap" -> "Briançon (2)";
+    "Briançon (3)" -> "Grenoble";
+    "Gap (2)" -> "Laragne-Monteglin" -> "Sisteron" -> "Chateau-Arnaud-St-Auban" -> "Digne-les-Bains" -> "Saint-André-les-Alpes" -> "Castellane" -> "Saint-Auban" -> "Briançonnet";
+    "Briançonnet" -> "Entrevaux" -> "Saint-André-les-Alpes (2)" -> "Digne-les-Bains (2)" -> "Chateau-Arnaud-St-Auban (2)" -> "Sisteron (2)" -> "Laragne-Monteglin (2)" -> "Gap (3)" -> "Briançon (4)";
+
+En 2019 : **320 kms**
+^^^^^^^^^^^^^^^^^^^^^
+Environ **320 kms** en France.
 J'ai refait une fois le trajet de Briançon à Avignon en juillet 2019, en passant par la Drôme (Nyons et Vaison-la-Romaine).
 J'ai aussi fait un peu de stop pendant une semaine de vacances dans le Périgord noir, pour de toutes petites distances (15 à 30 kms à chaque fois), en août 2019.
 J'ai fait quelques fois du stop avec des ami-e-s, par exemple depuis la gare ferroviaire de La Ciotat jusqu'à la calanque du Muget.

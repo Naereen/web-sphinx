@@ -123,6 +123,7 @@ Maintenant
 .. note:: La dernière ligne de cette liste concerne (normalement) le jour d'aujourd'hui :
 
 - Mercredi 03 juin à ? : pas grand chose à raconter, du repos, du boulot et du sport.
+- J'arrête de mettre à jour cette page.
 
 .. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
 

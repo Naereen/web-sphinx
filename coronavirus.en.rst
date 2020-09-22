@@ -22,6 +22,7 @@ Working from home because of the Coronavirus outbreak
 -----------------------------------------------------
 
 As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked to start working from home.
+**Update** : since we started working at the end of August 2020, everything so far has been in presence, as usual.
 
 .. warning:: This page is only describing MY point-of-view, it is NOT officially from the point of view of my employer.
 
@@ -29,7 +30,7 @@ As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked
 I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I will (try my best) to teach remotely, during this special moment !
 
 
-.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
+.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png
    :scale: 50%
    :align: center
    :alt: Link to the XKCD comic https://xkcd.com/2282/

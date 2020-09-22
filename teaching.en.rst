@@ -17,6 +17,14 @@
     Welcome to my website.
 
 
+In 2020/2021
+------------
+
+I keep the same responsibilities as last year, but I am also teaching two new courses:
+
+- A small course, of 6 lectures of 2 hours, of **Introduction to Computer Sience**, for the first year students of the `departement Droit Economie Management <http://www.dem.ens-rennes.fr/>`_: see `the page of the course <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. I teach the basics of computer science, both from a historical and technological point of view, and the basics of programming with an introduction to the Linux/Mac/Windows shell (terminal) and with Python ;
+- I also give TDs and TPs (10 of each, 2*2*10h=40h) for the course **Informatique 1**, for the first year students of Licence Informatique and Licence Mathématiques, at the University of Rennes 1. On `my course page <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ I give solutions to TDs and TPs in Java (and Python, for the curious) in Jupyter notebooks.
+
 In 2019/2020
 ------------
 
