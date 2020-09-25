@@ -22,7 +22,7 @@ En 2020/2021
 
 Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plus :
 
-- Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python ;
+- Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python;
 - Je donne aussi des TD et des TP (10 de chaque, 2*2*10h=40h) pour le cours **Informatique 1**, pour les élèves de première année de Licence Informatique et de Licence Mathématiques, à l'Université de Rennes 1. Sur `ma page du cours <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ je donne des solutions aux TD et TP en Java (et en Python, pour les curieux-ses) dans des notebooks Jupyter.
 
 En 2019/2020
