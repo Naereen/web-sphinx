@@ -83,12 +83,15 @@ Juillet 2020
 
 Août 2020
 ---------
-- Deux jours de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_ dans le nord des Alpes Maritimes (06), pour apprendre à s'occuper d'un troupeau (chèvres et moutons), les traire, transformer le lait en fromages, etc. C'était génial, j'ai vraiment adoré !
+- Deux jours de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_ dans le nord des Alpes Maritimes (06), pour apprendre à s'occuper d'un troupeau (chèvres et moutons), les traire, transformer le lait en fromages, etc. C'était génial, j'ai vraiment adoré ! Refaire du stop, malgré le contexte sanitaire, m'a vraiment fait du bien !
+- Encore plein de randonnées... !
+- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux !
 
 Septembre 2020
 --------------
 - Un weekend en bateau avec un ami, sur un petit voilier de 7.5m, dans la baie de Quiberon et autours des îles de Belle-Île-en-Mer, d'Houat et d'Haedic. C'était vraiment trop chouette, j'adore ça !
 - Reprise des cours en présentiel à l'ENS et à l'Université de Rennes 1
+- Des moments entre amis qui ont fait beaucoup de bien, après ces quelques mois compliqués depuis mars...
 
 Octobre 2020
 ------------
@@ -166,6 +169,8 @@ En 2020, j'ai vu ces films…
 - *Comment tuer son boss*, sans aucun intérêt non plus...
 - *Millennium Actress* (2001) de Satochi Kon, très beau !
 - *Tokyo Godfathers* (2003) de Satochi Kon, vraiment génial !
+- *The Anthem of the Heart* (2015), que j'ai beaucoup aimé !
+- *Her Blue Skye* (2019), de Tatsuyuki Nagai, superbe et très agréable !
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
