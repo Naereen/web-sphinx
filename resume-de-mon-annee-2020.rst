@@ -130,7 +130,7 @@ En 2020, j'ai joué à ces jeux vidéo…
 - Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
 - En août et début septembre, j'ai joué à **Fire Emblem: Three Houses**, pour l'Alliance, et c'était très chouette ! Un scénario moins surprenant que dans d'autres volumes de la série, mais des combats très techniques et de nouvelles mécaniques intéressantes.
 - En septembre, j'ai enfin terminé **Transistor** mais sur Switch (je l'avais commencé sur PC il y a quelques années). Un petit jeu, assez court, mêlant action-RPG au rythme effrené et narration contemplative très agréable. Des décorts magnifiques peints à la main.
-- Je suis en train de jouer (très rapidement) à **Octopath Traveler**, mais je suis déjà déçu...
+- Je suis en train de jouer (très rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal.
 - Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis **The Witcher 3: Wild Hunt**, et peut-être **Xenoblade Chronicles 2** (j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS).
 
 En 2020, j'ai vu ces séries…
@@ -171,6 +171,7 @@ En 2020, j'ai vu ces films…
 - *Tokyo Godfathers* (2003) de Satochi Kon, vraiment génial !
 - *The Anthem of the Heart* (2015), que j'ai beaucoup aimé !
 - *Her Blue Skye* (2019), de Tatsuyuki Nagai, superbe et très agréable !
+- *Birthday Wonderland* (2019), de Keiichi Hara, pas incroyable mais agréable.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
