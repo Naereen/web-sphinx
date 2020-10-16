@@ -172,6 +172,7 @@ En 2020, j'ai vu ces films…
 - *The Anthem of the Heart* (2015), que j'ai beaucoup aimé !
 - *Her Blue Skye* (2019), de Tatsuyuki Nagai, superbe et très agréable !
 - *Birthday Wonderland* (2019), de Keiichi Hara, pas incroyable mais agréable.
+- *A Whisker Away* (Nakitai Watashi wa Neko wo Kaburu) (2020) j'ai adoré !
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
