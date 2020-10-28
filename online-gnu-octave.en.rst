@@ -6,7 +6,7 @@
  HOWTO: Use GNU Octave in your browser
 #######################################
 
-This short article explain two ways to use `GNU Octave <https://octave.org/>`_,
+This short article explains two ways to use `GNU Octave <https://octave.org/>`_,
 the `world-famous free and open-source software <https://www.gnu.org/software/octave/>`_,
 the most serious alternative to `MATLAB <https://en.wikipedia.org/wiki/MATLAB>`_
 (`SciLab <https://www.scilab.org>`_ is also a good `FOSS <https://en.wikipedia.org/wiki/Free_and_open_source_software>`_ alternative, if you are interested).

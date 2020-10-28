@@ -125,6 +125,7 @@ For more details, see `<sitemap.en.html>`_.
    pgp.en
    visualstudiocode.en
    sublimetext.en
+   pair-programming-tools.en
    ga.en
    js.en
    stats-google-analytics.en

@@ -131,6 +131,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    rss
    visualstudiocode.fr
    sublimetext.fr
+   pair-programming-tools.fr
    ga.fr
    stats-google-analytics.fr
    beacon.fr
