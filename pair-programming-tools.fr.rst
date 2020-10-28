@@ -39,7 +39,7 @@ Il y a aussi évidemment des solutions spécifiques à des IDE :
 Des EDI en ligne (online IDE)
 -----------------------------
 
-- `CodeAnyWhere <https://codeanywhere.com/>`_est l'un des plus populaires et complets,
+- `CodeAnyWhere <https://codeanywhere.com/>`_ est l'un des plus populaires et complets,
 - `PythonTutor <https://pythontutor.com/>`_ fonctionne pour Python 2 et 3, JavaScript et Java, et il est génial, je m'en sers pour mes `enseignements <enseignements.fr.html>`_ (mais il ne fonctionne que pour un seul petit fichier à la fois),
 - `Cloud9 <https://aws.amazon.com/cloud9/>`_ est générique et puissant.
 
