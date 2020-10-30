@@ -10,8 +10,8 @@ Ce petit article liste quelques outils qu'un groupe (d'au moins deux personnes) 
 
 *Contexte* : cet article est écrit dans le but d'être utile aux élèves de 1ère année de licence de mathématiques et d'informatique, en 2020, à l'Université de Rennes 1, pour le cours INF1. Mais ces conseils peuvent être utiles à n'importe qui.
 
-1) Approche basique : pour les débutants
-----------------------------------------
+1) Approche basique : pour les débutants et débutantes
+------------------------------------------------------
 
 Pour collaborer avec votre binôme sur du code (Java ou autre), ou des documents (Microsoft Word ou LibreOffice ou OpenOffice), l'approche suivante fonctionne bien :
 
@@ -26,8 +26,8 @@ C'est simple mais un peu limité...
 - **Inconvénients ?** Besoin d'installer Java sur votre machine personnelle, besoin d'avoir un ordinateur, pas besoin d'installer un plugin supplémentaire dans Eclipse ou un logiciel supplémentaire.
 
 
-2) Approche plus avancée : pour les curieux
--------------------------------------------
+2) Approche plus avancée : pour les curieuses et curieux
+--------------------------------------------------------
 
 2.a) Avec `REPL.it <https://repl.it/>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ Nous vous recommandons d'utiliser l'outil `REPL.it <https://repl.it/>`_, pour é
 - **Avantages ?** Pas besoin d'installer Java sur votre machine personnelle, pas besoin d'avoir un ordinateur.
 - **Inconvénients ?** C'est des fois un peu lent...
 
-.. note:: Si vous voulez écrire du code Java et l'exécuter en ligne, vous pouvez aussi utiliser le très bon outil Python Tutor, qui propose un mode Java (version 8) : PythonTutor.com/java.html <http://pythontutor.com/java.html#mode=edit>`_.
+.. note:: Si vous voulez écrire du code Java et l'exécuter en ligne, vous pouvez aussi utiliser le très bon outil Python Tutor, qui propose un mode Java (version 8) : `PythonTutor.com/java.html <http://pythontutor.com/java.html#mode=edit>`_.
 
 
 2.b) Avec Saros intégré dans Eclipse
@@ -61,8 +61,8 @@ Le logiciel libre et gratuit `Saros <https://www.saros-project.org/>`_ fonctionn
 - **Inconvénients ?** Besoin d'installer Java sur votre machine personnelle, besoin d'avoir un ordinateur, besoin d'installer un plugin supplémentaire dans Eclipse.
 
 
-3) Approche encore plus avancée : pour les experts !
-----------------------------------------------------
+3) Approche encore plus avancée : pour les expert-e-s !
+-------------------------------------------------------
 
 3.a) Avec un dépôt Git
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -71,10 +71,10 @@ Vous pouvez utiliser Git directement dans `REPL.it <https://repl.it/>`_ !
 
 Vous pouvez aussi choisir l'approche suivante :
 
-- Vous pouvez apprendre à utiliser les commandes de base du logiciel de gestion de version Git (`j'ai écrit un tutoriel ici <tutogit.fr.html>`_, il y en a `un autre assez concis ici <https://learnxinyminutes.com/docs/git/>`_, `un autre très bien ici <https://guides.github.com/introduction/git-handbook/>̀`_ et d'autres ressources listées `ici <https://try.github.io/>`_),
+- Vous pouvez apprendre à utiliser les commandes de base du logiciel de gestion de version Git (`j'ai écrit un tutoriel ici <tutogit.fr.html>`_, il y en a `un autre assez concis ici <https://learnxinyminutes.com/docs/git/>`_, `un autre très bien ici <https://guides.github.com/introduction/git-handbook/>`_ et d'autres ressources listées `ici <https://try.github.io/>`_),
 - Puis chaque membre du binôme crée un compte sur un site web qui propose d'héberger des dépôts Git. Le plus populaire est `GitHub <https://GitHub.com/>`_, il y a aussi `GitLab.com <https://gitlab.com>`_, `BitBucket <https://bitbucket.org/>`_. Créez un compte avec votre adresse email favorite. Mais l'ISTIC à l'Université Rennes 1 propose aussi un site vous permettant de faire ça, avec votre compte étudiant : `GitLab de l'ISTIC <https://gitlab.istic.univ-rennes1.fr/>`_
 - Créez un dépôt git pour votre projet (ou vos TP), invitez votre binôme à collaborer sur le projet,
-- Puis utilisez Eclipse (ou votre éditeur de code favori, moi j'aime bien `Visual Studio Code <visualstudiocode.fr.html>`_), sur votre machine personnelle, pour écrire votre code, et faites de nouveaux commits de temps en temps (régulièrement) pour sauvegarder votre code, et synchroniser le avec le dépôt git (``git add *.java``, ``git commit -m "message de commit"``, ``git push``).
+- Puis utilisez Eclipse (ou votre éditeur de code favori, moi j'aime bien `Visual Studio Code <visualstudiocode.fr.html>`_), sur votre machine personnelle, pour écrire votre code, et faites de nouveaux commits de temps en temps (régulièrement) pour sauvegarder votre code, et synchroniser le avec le dépôt git (typiquement, vous aurez à taper des commandes qui ressemblent à ça, ``git add *.java``, ``git commit -m "message de commit"``, ``git push``, dans un terminal).
 
 - Utilisez git n'empêche pas de s'appeler et de travailler à deux, avec une personne écrivant son code dans Eclipse (ou autre), partageant son écran.
 
@@ -89,14 +89,14 @@ Vous pouvez aussi choisir l'approche suivante :
 
 ------------------------------------------------------------------------------
 
-.. note:: Je n'ai jamais utilisé ces outils, je n'ai pas eu l'occasion de faire du pair-programming moi-même...
+.. warning:: Je n'ai pas utilisé tous ces outils, je n'ai pas eu beaucoup d'occasion de faire du pair-programming moi-même...
 
 
 Des EDI en ligne (online IDE)
 -----------------------------
 
-- `REPL.it <https://repl.it/>`_ semble très puissant, supporte plein de langages, et un mode "multi-joueurs", pour collaborer sur un code à plusieurs (maximum 10 personnes en même temps avec l'offre gratuite),
-- `PythonTutor <https://pythontutor.com/>`_ fonctionne pour Python 2 et 3, JavaScript et Java, et il est génial, je m'en sers pour mes `enseignements <enseignements.fr.html>`_ (mais il ne fonctionne que pour un seul petit fichier à la fois),
+- `REPL.it <https://repl.it/>`_ semble très puissant, supporte plein de langages, et un mode "multi-joueurs", pour collaborer sur un code à plusieurs (maximum 10 personnes en même temps avec l'offre gratuite). C'est vraiment l'outil que je recommande !
+- `PythonTutor <https://pythontutor.com/>`_ fonctionne pour Python 2 et 3, JavaScript et Java, et il est génial, je m'en sers pour mes `enseignements <enseignements.fr.html>`_ (mais il ne fonctionne que pour un seul petit fichier à la fois). C'est vraiment un bon outil, qui aide à comprendre la portée des variables, les pointeurs pour les tableaux etc car en plus de montrer la sortie du terminal, il visualise les objets créés par le code.
 - `CodeAnyWhere <https://codeanywhere.com/>`_ est l'un des plus populaires et complets,
 - `Cloud9 <https://aws.amazon.com/cloud9/>`_ est générique et puissant.
 
