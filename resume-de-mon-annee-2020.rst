@@ -95,11 +95,13 @@ Septembre 2020
 
 Octobre 2020
 ------------
-- TODO
-- Normalement : une semaine de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/XXX>`_ dans le nord de l'Ille-et-Vilaine (35)...
+- Mise en place d'un « couvre-feu » à Rennes (et dans la plupart des grandes villes de France), interdisant les sorties entre 21h et 6h du matin...
+- Une (petite) semaine de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/XXX>`_ dans le nord de l'Ille-et-Vilaine (35)...
+- Une semaine après le début du « couvre-feu », reconfinement, à Rennes.
 
 Novembre 2020
 -------------
+- Reprise de mes enseignements en 100% distanciel, en utilisant des mails, des `serveurs BigBlueButton <https://www.bigbluebutton.org/>`_, des `serveurs Discord <https://www.discord.com/>`_ et tout. Et ça va plutôt bien !
 - TODO
 
 Décembre 2020
@@ -130,12 +132,13 @@ En 2020, j'ai joué à ces jeux vidéo…
 - Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
 - En août et début septembre, j'ai joué à **Fire Emblem: Three Houses**, pour l'Alliance, et c'était très chouette ! Un scénario moins surprenant que dans d'autres volumes de la série, mais des combats très techniques et de nouvelles mécaniques intéressantes.
 - En septembre, j'ai enfin terminé **Transistor** mais sur Switch (je l'avais commencé sur PC il y a quelques années). Un petit jeu, assez court, mêlant action-RPG au rythme effrené et narration contemplative très agréable. Des décorts magnifiques peints à la main.
-- Je suis en train de jouer (très rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal.
-- Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis **The Witcher 3: Wild Hunt**, et peut-être **Xenoblade Chronicles 2** (j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS).
+- Je suis en train de jouer (rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal, et finalement je l'ai terminé à 100% en y passant du temps !
+- Depuis fin octobre 2020, je joue pas mal à **The Witcher 3: Wild Hunt**, qui est à la hauteur de sa réputation : un jeu légendaire !
+- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis **The Elder Scrolls V: Skyrim**, et peut-être **Xenoblade Chronicles 2** (j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS).
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 1 de *The Mandalorean* (bof),
+- Saison 1 et 2 de *The Mandalorean* (bof),
 - Saisons 5 et 6 de *Star Wars: the Clone Wars* (géniale mais bizarre),
 - Saisons 4 de *Star Wars: Rebels* (pas mal),
 - J'ai enfin terminé *How I met your Mother*, en regardant les saisons 8 et 9, et j'étais très déçu, c'est vraiment inutile comme série...
@@ -173,6 +176,7 @@ En 2020, j'ai vu ces films…
 - *Her Blue Skye* (2019), de Tatsuyuki Nagai, superbe et très agréable !
 - *Birthday Wonderland* (2019), de Keiichi Hara, pas incroyable mais agréable.
 - *A Whisker Away* (Nakitai Watashi wa Neko wo Kaburu) (2020) j'ai adoré !
+- *Call me by your name* (2017), très beau mais il ne sera pas un de mes films préférés.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
