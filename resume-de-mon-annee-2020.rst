@@ -102,6 +102,7 @@ Octobre 2020
 Novembre 2020
 -------------
 - Reprise de mes enseignements en 100% distanciel, en utilisant des mails, des `serveurs BigBlueButton <https://www.bigbluebutton.org/>`_, des `serveurs Discord <https://www.discord.com/>`_ et tout. Et ça va plutôt bien !
+- Une triste nouvelle dans ma famille... pour citer Renaud, `quel connard ce virus <https://www.youtube.com/watch?v=RK3J2sDEQ1M>`_...
 - TODO
 
 Décembre 2020
@@ -119,14 +120,14 @@ Résumé culturel
 
 En 2020, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : à Paris, à Bordeaux, à Lille, à Marseille, etc.
-- TODO
+- En France : à Paris, à Bordeaux, à Lille, à Marseille, dans le nord des Alpes Maritimes, etc.
+- Mais très peu : 2020 aura été l'année du confinement !
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça.
 
 En 2020, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
+- (début 2020) En fait, je crois ne plus vouloir jouer au jeux vidéo en ce moment !
 - … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers), que je n'ai finalement pas ouvert. Si le confinement dure trop longtemps, je pensais acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
 - Mais j'ai plutôt craqué pour une Switch lite (d'occasion !). J'ai acheté les deux meilleurs jeux de rôles (japonais) disponibles sur cette (nouvelle) console : **Octopath Traveler**, et **Fire Emblem: Three Houses**. Pas trop eu le temps d'y jouer encore... mais cet été ça viendra ?
 - Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
@@ -142,6 +143,7 @@ En 2020, j'ai vu ces séries…
 - Saisons 5 et 6 de *Star Wars: the Clone Wars* (géniale mais bizarre),
 - Saisons 4 de *Star Wars: Rebels* (pas mal),
 - J'ai enfin terminé *How I met your Mother*, en regardant les saisons 8 et 9, et j'étais très déçu, c'est vraiment inutile comme série...
+- Saison 4 de *Young Sheldon*,
 - TODO
 
 En 2020, j'ai lu ces livres…
