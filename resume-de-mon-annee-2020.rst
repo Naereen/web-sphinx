@@ -103,10 +103,12 @@ Novembre 2020
 -------------
 - Reprise de mes enseignements en 100% distanciel, en utilisant des mails, des `serveurs BigBlueButton <https://www.bigbluebutton.org/>`_, des `serveurs Discord <https://www.discord.com/>`_ et tout. Et ça va plutôt bien !
 - Une triste nouvelle dans ma famille... pour citer Renaud, `quel connard ce virus <https://www.youtube.com/watch?v=RK3J2sDEQ1M>`_...
-- TODO
+- Avantage : j'ai passé quelques jours très reposants dans les Alpes fin novembre...
 
 Décembre 2020
 -------------
+- Je me lance dans l'écriture d'un livre de cours et exercices corrigés d'informatique ! Gros projet pour les huit prochains mois !
+- Noël masqués !
 - TODO
 
 .. note:: C'est tout pour 2020, à dans un an pour `la suite <resume-de-mon-annee-2021.html>`_ !
