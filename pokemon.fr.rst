@@ -113,4 +113,4 @@ Reprise de musiques de Pokémon
     `Cette page qui liste mes abonnements YouTube <ce-que-je-regarde-sur-youtube.fr.html>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

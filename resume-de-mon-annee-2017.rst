@@ -147,4 +147,4 @@ En 2017, j'ai vu ces films…
 - *Ghost in the Shell* (2017), au cinéma,
 - Beaucoup d'autres… je n'ai pas maintenu la liste au fur et à mesure.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

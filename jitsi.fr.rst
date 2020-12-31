@@ -97,4 +97,4 @@ Installer Jitsi Meet sur son propre ordinateur
 C'est très simple, en suivant `ce guide d'utilisation <https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md>`_ sur le `GitHub de jitsi-meet <https://github.com/jitsi/jitsi-meet/>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

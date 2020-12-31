@@ -91,4 +91,4 @@ My scripts
 
 * (used for folder views) `SquirtFR <_static/squirt/>`_ is a *bookmarklet* to read very quickly a webpage.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

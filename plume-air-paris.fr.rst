@@ -33,4 +33,4 @@ Comment cette démo marche ?
  Plus de détails sur `<https://www.plumelabs.com/embed/>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

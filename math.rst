@@ -213,4 +213,4 @@ $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$
 (en rST avec ``:math:``, en HTML avec ``.. raw:: html`` et directement avec ``\(code LaTeX\)``)
 affichent la même chose.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

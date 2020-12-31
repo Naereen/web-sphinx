@@ -142,4 +142,4 @@ Ici je donne quelques liens vers des articles en ligne que j'ai consultées pour
 - `www.makeitinua.com/posts/13-best-tools-for-remote-pair-programming-in-2020 <https://www.makeitinua.com/posts/13-best-tools-for-remote-pair-programming-in-2020>`_
 - `www.sitepoint.com/collaborative-coding-tools-for-remote-pair-programming/ <https://www.sitepoint.com/collaborative-coding-tools-for-remote-pair-programming/>`_
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

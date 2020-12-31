@@ -225,4 +225,4 @@ Pour faire croire qu'on est encore en prépa
 
 .. todo:: Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

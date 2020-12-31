@@ -97,4 +97,4 @@ Pour Google Chrome
 :Ref 3: `<https://silktide.com/why-the-cookie-law-is-total-clownshoes/>`_ (en anglais).
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

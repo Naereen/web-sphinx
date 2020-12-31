@@ -146,4 +146,4 @@ Autres idées
 - Une cape de pluie pour son sac à dos (protection en plastique contre la pluie et l'humidité).
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

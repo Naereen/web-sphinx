@@ -83,4 +83,4 @@ Messages during the week vs the weekend
     Proportionally, I text more in 2 days of weekend than 5 days of the week !
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

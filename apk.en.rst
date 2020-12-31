@@ -214,4 +214,4 @@ Other apps :
 - **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

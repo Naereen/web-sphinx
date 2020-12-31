@@ -73,4 +73,4 @@ Enfin, on peut vérifier que le disque ait bien été monté avec ces commandes 
    Cette page est surtout là pour que je puisse facilement retrouver ces commandes que j'oublie facilement.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

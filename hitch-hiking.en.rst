@@ -180,4 +180,4 @@ A few remarks about the nice drivers who are willing to take hitch-hikers :
 * and usually they are locals (living near the start point or the destination);
 * *Last but the not the least:* usually very nice people! Thanks a lot!!
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

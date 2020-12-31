@@ -69,4 +69,4 @@ Copyrights
  Voir la page officielle du projet, `ajaxorg.github.io/ace
  <http://ajaxorg.github.io/ace/#about>`_.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

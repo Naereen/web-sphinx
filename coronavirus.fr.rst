@@ -178,4 +178,4 @@ Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cacha
 Bienvenue sur mon site web.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

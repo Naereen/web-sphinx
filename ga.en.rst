@@ -81,4 +81,4 @@ It's quick and simple, and working well, and for example I am using it for small
       and some plots to illustrate the visits and visitors this website got.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

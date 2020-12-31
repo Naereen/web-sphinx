@@ -83,4 +83,4 @@ C'est simple et rapide à utiliser, ça marche bien, et par exemple je m'en sers
       Un résumé de l'utilisation de Google Analytics depuis 3 ans sur ce site,
       et des graphiques pour illustrer quelques chiffres sur les visiteurs que ce site a attiré.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

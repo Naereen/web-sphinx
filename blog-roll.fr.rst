@@ -267,4 +267,4 @@ Mes propres blogs
 - `"Wikipédia - Contributions de l’utilisateur [fr]" <https://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_, `RSS <https://fr.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

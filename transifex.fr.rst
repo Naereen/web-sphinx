@@ -231,4 +231,4 @@ Autres traductions
    (Par contre, mon clone ne peut pas être accessible à n'importe qui (question de sécurité blabla).)
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

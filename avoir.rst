@@ -176,4 +176,4 @@ depuis les données du superbe projet `WikiQuote <https://fr.wikiquote.org/wiki/
    $ echo -e "Citation aléatoire :" ; shuf /home/lilian/.quotes.txt 2>/dev/null | head -n 1 | fold -s -w 90
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

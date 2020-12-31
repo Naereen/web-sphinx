@@ -173,4 +173,4 @@ Our Linuxian friends can also use a `resolv.conf <http://manpages.ubuntu.com/man
 Some extra explanations `are also here on theos.in <http://theos.in/desktop-linux/resolve-conf-linux-example/>`_ or `here on die.net <http://linux.die.net/man/5/resolv.conf>`_, or as always `on Wikipédia (yes, I like Wikipédia!) <https://en.wikipedia.org/wiki/Resolv.conf>`_.
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

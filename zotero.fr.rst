@@ -44,4 +44,4 @@ Mon cas ?
 
 C'est un logiciel auquel on peut faire confiance, c'est populaire, simple et très efficace.
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

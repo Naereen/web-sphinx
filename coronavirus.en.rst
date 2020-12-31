@@ -61,4 +61,4 @@ I will be `junior professor (agrégé préparateur) in Computer Sience at ENS de
    :target: https://xkcd.com/2294/
 
 
-.. (c) Lilian Besson, 2011-2020, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
