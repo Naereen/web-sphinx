@@ -14,7 +14,7 @@
 
 
 Bonne chance à vous tous 👍 !
-Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus fragiles et les plus âgés notamment !).
+Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
 Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
 
 
@@ -22,7 +22,8 @@ Télétravail pendant l'épidémie de Coronavirus
 ---------------------------------------------
 
 A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Rennes avons été invités à travailler à domicile.
-**Mise à jour** : depuis la reprise fin août 2020, tout est de nouveau en présentiel.
+- **Mise à jour** : depuis la reprise des cours fin août 2020, tout est de nouveau en présentiel.
+- **Mise à jour** : depuis la reprise du confinement fin octobre 2020, tout est de nouveau en distanciel (sauf les examens).
 
 Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
 
@@ -80,6 +81,7 @@ Outils :
 - Outil web recommandé : `Discord <https://discordapp.com/>`_.
 - Avec une tablette graphique (ou une bonne souris), et un bon lecteur de PDF (je recommande **Okular** sous GNU/Linux), il est assez facile de surligner le PDF affiché.
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
+- **Mise à jour** : je recommande désormais l'outil `TableauNoir <https://tableaunoir.github.io/>`_, développé par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`_ et des collègues du Département Informatique de l'ENS de Rennes.
 
 
 Travaux Dirigés (TD)
@@ -143,7 +145,7 @@ Interludes comiques
 J'aime bien `cette planche de XKCD <https://xkcd.com/2282/>`_ et `cette autre planche <https://xkcd.com/2294/>`_, qui est un peu absurde mais drôle :
 
 
-.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png 
+.. image:: https://imgs.xkcd.com/comics/coronavirus_worries.png
    :scale: 50%
    :align: center
    :alt: Link to the XKCD comic https://xkcd.com/2282/

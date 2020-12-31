@@ -41,10 +41,10 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 .. image:: .courriel.png
     :scale: 40 %
     :align: right
-    :alt:   My email adress in a PNG image…
+    :alt:   My email address in a PNG image…
     :target: mailto:Lilian.Besson＠ENS-Rennes.fr
 
-#. by *email* at this adress `Lilian.Besson＠ENS-Rennes.fr <mailto:Lilian.Besson＠ENS-Rennes.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
+#. by *email* at this address `Lilian.Besson＠ENS-Rennes.fr <mailto:Lilian.Besson＠ENS-Rennes.fr>`_, or `besson at crans.org <mailto:besson at crans.org>`_:
 
 .. image:: .telephone.png
     :scale: 40 %

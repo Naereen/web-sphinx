@@ -60,12 +60,11 @@ J'ai décidé de me fixer les objectifs suivants pour cet été :
 3. Monter au dessus de 4000m, et faire une randonnée d'alpinisme ! --> échec
 4. Dormir à la belle étoile en haute montagne ! --> réussite, au sommet du `Mont Chaberton <https://fr.wikipedia.org/wiki/Mont_Chaberton>`_ en juillet (il a fait -6°C au plus froid de la nuit !) ;
 5. Rendre visite à des bons ami-e-s, en France et ailleurs ; --> réussite
-6. Marcher avec mes frères ! --> réussite
+6. Marcher avec mes frères ! --> semi réussite
 7. Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ; --> échec
 8. Rendre visite à des ami-e-s de CouchSurfing, en France et ailleurs ; --> réussite
 9. Faire de belles rencontres, dans la bienveillance, le respect, l'amour et le partage (je partagerai tout, comme toujours, sauf mes virus et mes microbes) ; --> réussite
 10. Faire de nouveau (beaucoup) d'autostop, au moins 3600 kilomètres ce serait génial, histoire de dépasser `mon total <autostop.fr.html>`_ qui est actuellement vers 6400km... --> échec mais j'ai quand même fait pas mal de stop (pour un été avec la COVID...)
-11. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
 
 ------------------------------------------------------------------------------
 
@@ -108,8 +107,8 @@ Novembre 2020
 Décembre 2020
 -------------
 - Je pensais me lancer dans l'écriture d'un livre de cours et exercices corrigés d'informatique... mais non.
-- Noël masquées et masqués ? Non.
-- TODO
+- Noël masquées et masqués ? Non, j'ai rien fait.
+- Réveillon masquées et masqués ? Non, j'ai rien fait.
 
 .. note:: C'est tout pour 2020, à dans un an pour `la suite <resume-de-mon-annee-2021.html>`_ !
 
@@ -133,20 +132,21 @@ En 2020, j'ai joué à ces jeux vidéo…
 - … au début du confinement (vendredi 13 mars), j'ai racheté un jeu de Nintendo 3DS (Final Fantasy Explorers), que je n'ai finalement pas ouvert. Si le confinement dure trop longtemps, je pensais acheter Pokémon Lune ou Pokémon Soleil, pour m'amuser un peu (à EasyCash à place République à Rennes).
 - Mais j'ai plutôt craqué pour une Switch lite (d'occasion !). J'ai acheté les deux meilleurs jeux de rôles (japonais) disponibles sur cette (nouvelle) console : **Octopath Traveler**, et **Fire Emblem: Three Houses**. Pas trop eu le temps d'y jouer encore... mais cet été ça viendra ?
 - Par contre, j'ai joué à Pokémon Jaune avec des amis, via ce projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_.
-- En août et début septembre, j'ai joué à **Fire Emblem: Three Houses**, pour l'Alliance, et c'était très chouette ! Un scénario moins surprenant que dans d'autres volumes de la série, mais des combats très techniques et de nouvelles mécaniques intéressantes.
-- En septembre, j'ai enfin terminé **Transistor** mais sur Switch (je l'avais commencé sur PC il y a quelques années). Un petit jeu, assez court, mêlant action-RPG au rythme effrené et narration contemplative très agréable. Des décorts magnifiques peints à la main.
-- Je suis en train de jouer (rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal, et finalement je l'ai terminé à 100% en y passant du temps !
-- Depuis fin octobre 2020, je joue pas mal à **The Witcher 3: Wild Hunt**, qui est à la hauteur de sa réputation : un jeu légendaire !
-- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis **The Elder Scrolls V: Skyrim**, et peut-être **Xenoblade Chronicles 2** (j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS).
+- En août et début septembre, j'ai joué à **Fire Emblem: Three Houses**, pour l'Alliance, et c'était très chouette ! Un scénario moins surprenant que dans d'autres volumes de la série, mais des combats très techniques et de nouvelles mécaniques intéressantes. (~50 heures)
+- En septembre, j'ai enfin terminé **Transistor** mais sur Switch (je l'avais commencé sur PC il y a quelques années). Un petit jeu, assez court, mêlant action-RPG au rythme effréné et narration contemplative très agréable. Des décors magnifiques peints à la main.
+- Je suis en train de jouer (rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal, et finalement je l'ai terminé à 100% en y passant du temps ! (~80 heures)
+- Entre fin octobre et début décembre 2020, je joue pas mal à **The Witcher 3: Wild Hunt**, qui est à la hauteur de sa réputation : un jeu légendaire !
+- J'ai essayé **Xenoblade Chronicles 2**, parce que j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS (réédition du jeu de Wii), mais je n'avais pas accroché... en comparaison de TW3, c'est vraiment trop irréaliste et les combats sont trop bizarres.
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 1 et 2 de *The Mandalorean* (bof),
 - Saisons 5 et 6 de *Star Wars: the Clone Wars* (géniale mais bizarre),
 - Saisons 4 de *Star Wars: Rebels* (pas mal),
 - J'ai enfin terminé *How I met your Mother*, en regardant les saisons 8 et 9, et j'étais très déçu, c'est vraiment inutile comme série...
-- Saison 4 de *Young Sheldon*,
-- TODO
+- Saison 1 et 2 de *The Mandalorean* : malgré son succès, je ne peux rien dire d'autre que : « joli, épique mais... bof ! » Il n'y a que des combats ! Les Storm Troopers sont inutiles (blessent-ils quelqu'un au moins une fois ?), le droïde de combat en fin de S1 est absurdément fort, les Jedi de la S2 sont nuls. Je n'ai même pas voulu regarder la fin de la S2, et je ne regarderai par la suite. Jolis costumes et musiques, mais le scénario est très décevant !
+- Saisons 1 et 2 de *Fargo* (sur Netflix), j'étais captivé par la S1, déçu par la S2, et je n'ai pas voulu essayer la S3. Très déçu que ce ne soit *pas* inspiré de faits réels, contrairement à ce qui est indiqué au début des épisodes ! Ça m'apprendra à me renseigner trop tard quant à la véracité d'une telle affirmation...
+- Saison 4 de *Young Sheldon*, en cours ! C'est un peu naze, mais au moins c'est drôle et léger.
+- J'ai aussi (enfin) essayé les 1/2/3 premiers épisodes de ces séries : *Arrested Development*, *Brooklyn 99*, *Rick and Morty*, *The Walking Dead*, *Family Business*. Si je dis juste essayé, c'est qu'aucune ne m'a plu.
 
 En 2020, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
