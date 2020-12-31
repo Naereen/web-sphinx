@@ -20,12 +20,13 @@ J'ai décidé de me fixer les objectifs suivants pour cette année :
    + Monter au dessus de 4000m, et faire une randonnée d'alpinisme ! --> échec
    + Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ; --> échec
 2. Guérir de certaines habitudes un peu toxiques : jouer moins aux jeux vidéos, dormir mieux, travailler plus, coder plus, sortir plus, faire plus de sport, etc !
-3. Me remettre à courir et au vélo, puis au foot !
+3. Me remettre à courir et au vélo, puis au foot ! Idéalement, être de nouveau capable de courir une heure et/ou 10 kilomètres pour fin août !
 4. Me remettre à cuisiner davantage et alimenter le `blogue de cuisine <https://perso.crans.org/besson/cuisine/>`_ ! Et aussi le `blogue zéro déchet <https://perso.crans.org/besson/zero-dechet>`_ !
 5. Été 2021 : marcher une semaine au moins ? Faire du Woofying dans des fermes bio ?
 6. Bosser sur des poly de cours d'informatique (ISN/NSI) au lycée ! Et en prépa (info tronc commun, option info MPSI/MP, et info MP2I/MPI).
 7. Me fixer des objectifs réalistes (daily/weekly/monthly/yearly) et les tenir !
-8. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
+8. Perdre 10 kilos avant juillet !
+9. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
 
 ------------------------------------------------------------------------------
 
@@ -37,6 +38,7 @@ Résumé de mon année 2021
 Janvier 2021
 ------------
 - J'ai eu 28 ans, et j'ai rien fait de spécial pour célébrer ça.
+- Reprise des cours en présentiel, après quasiment trois mois de distanciel... j'en avais plus que marre ! Consultez cette page `<coronavirus.fr.html>`_ pour plus d'informations sur l'enseignement en distanciel !
 - TODO
 
 Février 2021
@@ -69,6 +71,7 @@ Août 2021
 
 Septembre 2021
 --------------
+- Ma troisième (et dernière !) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes enseignements et les mêmes responsabilités que l'an dernier !
 - TODO
 
 Octobre 2021
@@ -83,7 +86,7 @@ Décembre 2021
 -------------
 - TODO
 
-.. note:: C'est tout pour 2021, à dans un an pour `la suite <resume-de-mon-annee-2021.html>`_ !
+.. note:: C'est tout pour 2021, à dans un an pour `la suite <resume-de-mon-annee-2022.html>`_ !
 
 ------------------------------------------------------------------------------
 
