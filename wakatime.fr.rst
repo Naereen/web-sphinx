@@ -160,17 +160,27 @@ Ci dessus est intégrée la `page https://wakatime.com/@lbesson <https://wakatim
 
 
 `Aperçu complet de 2019 <https://wakatime.com/a-look-back-at-2019>`__
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Un peu moins qu'en 2018 j'ai codé environ 500 heures en tout en 2019 (508h), alors que la moyenne des utilisateurs de WakaTime était de 289h.
-- Une moyenne quotidienne très stable, à 2 heures 15 minutes en 2018, alors que la moyenne des utilisateurs de WakaTime était de 47 minutes.
-- Mon jour le plus intense a été le 10 octobre 2018, avec 8h 58 minutes. Je pense que c'était pour terminer cet artcle, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`_!
+- Une moyenne quotidienne très stable, à 2 heures 15 minutes en 2019, alors que la moyenne des utilisateurs de WakaTime était de 47 minutes.
+- Mon jour le plus intense a été le 28 janvier 2019, avec 8h 58 minutes. Je pense que c'était pour terminer cet article, `HAL-02006471 <https://hal.inria.fr/hal-02006471>`_!
 - J'ai codé à 100% sous GNU/Linux (fan de XUbuntu comme toujours), et 100% avec `Visual Studio Code <visualstudiocode.fr.html>`_. GNU Nano, Firefox et Jupyter ne sont pas comptés (mais `uLogMe <https://github.com/Naereen/uLogMe/>`_ me dit que j'y passe moins de temps de toute façon, quoique j'ai utilisé Jupyter beaucoup plus en 2019, avec ces deux projets `ALGO1-Info1-2019 <https://github.com/Naereen/ALGO1-Info1-2019/>`_ et `notebooks <https://github.com/Naereen/notebooks/>`_).
 - Projets par projets, j'ai codé `226h pour ma thèse de doctorat <https://github.com/Naereen/phd-thesis/>`_, `63h pour ce projet pour ma thèse (SMPyBandits) <https://smpybandits.github.io/>`_, `58h pour mes slides <https://github.com/Naereen/slides>`_.
 - Et pour le choix de langages, j'ai surtout utilisé `LaTeX <https://wakatime.com/leaders/latex>`_ (363 h), `Python <https://wakatime.com/leaders/python>`_ (77 h), `Markdown <https://wakatime.com/leaders/markdown>`_ (29 h); et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `Octave/Matlab <https://wakatime.com/leaders/matlab>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc).
 
 
+`Aperçu complet de 2020 <https://wakatime.com/a-look-back-at-2020>`__
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Beaucoup moins qu'en 2018, j'ai codé environ 128 heures en tout en 2020, alors que la moyenne des utilisateurs de WakaTime était de 313h (en hausse). J'explique cette grosse baisse par le fait que a) je n'ai quasiment plus écrit d'articles et je n'avais pas ma thèse à rédiger ! b) je ne suis plus en développement actif d'un gros projet (comme je l'étais les années précédentes avec notamment `SMPyBandits <https://smpybandits.github.io/>`_, c) je n'ai quasiment pas eu besoin de rédiger ni `slides <https://github.com/Naereen/slides>`_, ni `notebooks <https://github.com/Naereen/notebooks>`_, d) la plupart de mon matériel d'enseignement était déjà prêt ou quasiment prêt, e) je code quand même, mais assez souvent pour des petites modifications j'utilise GNU Nano dans un terminal, ou Python dans un notebook Jupyter (et donc ça n'est pas compté par WakaTime), f) pour un cours (INF1 en L1 à l'Université Rennes 1), il m'a fallu utiliser Eclipse et je n'avais pas pensé à installer le plug-in WakaTime.
+- Une moyenne quotidienne très diminuée, à 1 heures 2 minutes en 2020, alors que la moyenne des utilisateurs de WakaTime était de 51 minutes (donc je code quand même plus que la moyenne ? intéressant !).
+- Mon jour le plus intense a été le 4 novembre 2020, avec 5h 30 minutes (en grosse baisse des jours intenses des années précédentes). Je ne sais plus pour quoi c'était, mais sûrement un peu un mélange des projets suivants : `Discord-bot-to-add-spoiler-to-any-code-snippet <https://github.com/Naereen/Discord-bot-to-add-spoiler-to-any-code-snippet/>`_, `Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France<https://github.com/Naereen/Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France>`_.
+- Comme toujours, j'ai codé à 100% sous GNU/Linux (fan de XUbuntu comme toujours), et 100% avec `Visual Studio Code <visualstudiocode.fr.html>`_... du moins c'est ce que croit WakaTime ! WakaTime ne détecte pas l'utilisation de GNU Nano, Firefox et Jupyter.
+- Projets par projets, j'ai codé 26h de LaTeX et de Java pour ce cours INF1 en L1 à l'Université Rennes 1, pour rédiger et mettre à jour des sujets de TD/TP/projets/exam et corrections. J'ai aussi travaillé environ 20h pour `cette carte <https://perso.crans.org/besson/ReR-carte/carte.html>`_ (surtout pour expérimenter des trucs), et moins de 10h dans tous les autres projets.
+- Et pour le choix de langages, cette année j'ai surtout utilisé `Markdown <https://wakatime.com/leaders/markdown>`_ (53 h), `LaTeX <https://wakatime.com/leaders/latex>`_ (30 h) et `Java <https://wakatime.com/leaders/java>`_ et `Python <https://wakatime.com/leaders/python>`_ à égalité avec 13h chacun (sur VSCode, en comptant Eclipse et Jupyter notebooks, je dois avoir trois fois plus au moins) ; et les tous les autres langages sont à moins de 5h/an (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `JavaScript <https://wakatime.com/leaders/javascript>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc). Mais c'est assez injuste envers ces langages, comme j'écris beaucoup de scripts Bash en une ligne dans un terminal, que j'utilise souvent GNU Nano pour éditer des scripts Bash, et des notebooks Jupyter pour Python et aussi OCaml, etc.
+
+
 Bref aperçu de mon temps de programmation depuis 2015
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Apparemment, en octobre 2018, j'avais accumulé plus de 2529 heures de statistiques de programmation depuis 3 ans et demi (janvier 2015).
 C'est beaucoup ! En plus de 10+3*12=46 mois, j'ai vécu environ 33 120 heures, et dormi environ 10 000 heures. Ainsi, 2500 heures de programmation représentent environ 7% de ma vie et environ 11% de ma vie éveillée.
