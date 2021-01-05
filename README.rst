@@ -110,6 +110,7 @@ This project use the following software:
    -  `cheeseshop <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/cheeseshop/>`__;
    -  `gnuplot <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/gnuplot/>`__;
    -  `youtube <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/youtube/>`__;
+   - note: there are bugs in each of these extensions, that were written for Python 2 or previous versions of Sphinx. I know know almost by memory how to fixes these bugs, but I don't have the energy of trying again to submit tickets and pull-requests to `the new repository <https://github.com/thewtex/sphinx-contrib>`_. I had tickets opened on the old bitbucket repository, and didn't receive any feedback in two to four years. Basically, what I do everytime I have to install the dependencies to build my website, for instance on a new laptop, is to clone the repository, install them with a few ``sudo python3 setup.py install`` ran in the folders of the desired extensions. Then I try to compile the website, and everytime a Python exception occurs in the code of an extension, I manually edit the file in /usr/local/lib/python3.6/dist-packages/sphinxcontrib_XXX/XXX/XXX.py. It's durty, but simple.
 
 -  these `Python packages, from PyPI <https://pypi.python.org/>`__:
    `ansicolortags <https://pypi.python.org/pypi/ansicolortags/>`__,
