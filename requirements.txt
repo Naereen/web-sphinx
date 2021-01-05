@@ -1,0 +1,6 @@
+sphinx
+docutils
+ansicolortags
+sphinx_pyreverse
+sphinx_git
+sphinx_tabs
