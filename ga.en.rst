@@ -8,14 +8,14 @@
 
 .. note:: This short page is focusing on Google Analytics
 
-   For more informations, it might be useful to consult first one of these pages:
+   For more information, it might be useful to consult first one of these pages:
     * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,
     * `www.google.com/analytics <https://www.google.com/analytics/>`_.
 
 
 .. note:: This short page is also focusing on Sphinx
 
-   Therefore, for more informations, it might be useful to have in mind how Sphinx works,
+   Therefore, for more information, it might be useful to have in mind how Sphinx works,
    and in particular how to use HTML templating support `sphinx-doc.org/templating.html <http://sphinx-doc.org/templating.html>`_.
 
 

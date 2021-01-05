@@ -8,7 +8,7 @@
 
 .. note:: This short page is focusing on *Google Analytics*
 
-   For more informations, it might be useful to consult first one of these pages:
+   For more information, it might be useful to consult first one of these pages:
 
     * this other article `<ga.en.html>`_ on this website,
     * and for instance `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,

@@ -1,6 +1,6 @@
 .. meta::
    :description lang=fr: Page d'informations pour contacter Lilian Besson
-   :description lang=en: Informations on how to stay in touch with Lilian Besson
+   :description lang=en: Information on how to stay in touch with Lilian Besson
 
 ########################
  Comment me contacter ?
