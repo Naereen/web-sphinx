@@ -102,7 +102,7 @@ This project use the following software:
 -  `GNU grep <https://www.gnu.org/software/grep/>`__;
 -  `GnuPG <https://www.gnupg.org/>`__ (``gpg``);
 -  and the following `Sphinx contrib
-   extensions <https://bitbucket.org/birkenfeld/sphinx-contrib/>`__, to
+   extensions <https://bitbucket.org/birkenfeld/sphinx-contrib/>`__ (now living on `this GitHub repo <https://github.com/thewtex/sphinx-contrib>`_), to
    be installed manually :
 
    -  `autorun <https://bitbucket.org/birkenfeld/sphinx-contrib/src/default/autorun/>`__;
