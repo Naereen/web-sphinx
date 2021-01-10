@@ -84,12 +84,12 @@ Août 2020
 ---------
 - Deux jours de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_ dans le nord des Alpes Maritimes (06), pour apprendre à s'occuper d'un troupeau (chèvres et moutons), les traire, transformer le lait en fromages, etc. C'était génial, j'ai vraiment adoré ! Refaire du stop, malgré le contexte sanitaire, m'a vraiment fait du bien !
 - Encore plein de randonnées... !
-- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux !
+- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux ! Edit novembre : Je l'ai mis en bouteille fin novembre, trois mois après, et c'est le meilleur génépi que j'ai pu faire jusqu'ici ! (regardez ̀ la recette <https://perso.crans.org/besson/cuisine/genepi.html>`_).
 
 Septembre 2020
 --------------
 - Un weekend en bateau avec un ami, sur un petit voilier de 7.5m, dans la baie de Quiberon et autours des îles de Belle-Île-en-Mer, d'Houat et d'Haedic. C'était vraiment trop chouette, j'adore ça !
-- Reprise des cours en présentiel à l'ENS et à l'Université de Rennes 1
+- Reprise des cours en présentiel à l'ENS et à l'Université de Rennes 1.
 - Des moments entre amis qui ont fait beaucoup de bien, après ces quelques mois compliqués depuis mars...
 
 Octobre 2020
@@ -135,8 +135,9 @@ En 2020, j'ai joué à ces jeux vidéo…
 - En août et début septembre, j'ai joué à **Fire Emblem: Three Houses**, pour l'Alliance, et c'était très chouette ! Un scénario moins surprenant que dans d'autres volumes de la série, mais des combats très techniques et de nouvelles mécaniques intéressantes. (~50 heures)
 - En septembre, j'ai enfin terminé **Transistor** mais sur Switch (je l'avais commencé sur PC il y a quelques années). Un petit jeu, assez court, mêlant action-RPG au rythme effréné et narration contemplative très agréable. Des décors magnifiques peints à la main.
 - Je suis en train de jouer (rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal, et finalement je l'ai terminé à 100% en y passant du temps ! (~80 heures)
-- Entre fin octobre et début décembre 2020, je joue pas mal à **The Witcher 3: Wild Hunt**, qui est à la hauteur de sa réputation : un jeu légendaire !
+- Entre fin octobre et début décembre 2020, j'ai fait la quasi intégralité du merveilleux, du magnifique, du légendaire, du sublime  jeu de rôle **The Witcher 3: Wild Hunt**. C'est vraiment un jeu qui est à la hauteur de sa réputation : un jeu légendaire !
 - J'ai essayé **Xenoblade Chronicles 2**, parce que j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS (réédition du jeu de Wii), mais je n'avais pas accroché... en comparaison de TW3, c'est vraiment trop irréaliste et les combats sont trop bizarres.
+- Depuis mi décembre 2020, je me fais plaisir en refaisant **The Elder Scrolls V: Skyirm** sur Switch, après l'avoir fait en 2012. J'avais fini la quête principale, mais en fait je n'avais pas beaucoup joué au reste du jeu, et j'adore !
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -154,9 +155,10 @@ En 2020, j'ai lu ces livres…
 - `La Trilogie Yan Solo <https://fr.wikipedia.org/wiki/La_Trilogie_Yan_Solo>`_, de Ann C. Crispin, j'ai adoré ! Ce livre raconte l'enfance et la jeunesse de mon personnage préféré de Star Wars, le contrebandier Yan Solo.
 - `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
 - *De bons présages*, de Terry Pratchett et Neil Gaiman, j'ai adoré !
-- (en cours) *Le dernier rayon du soleil*, de Guy Gabriel Kay, j'aime bien mais ce n'est pas transcendant, je vais le finir vite... J'ai pas réussi à terminer, le milieu est juste tellement long et chiant. Pas assez fantasy pour moi, je crois !
+- (pas terminé) *Le dernier rayon du soleil*, de Guy Gabriel Kay, j'aime bien mais ce n'est pas transcendant, je vais le finir vite... J'ai pas réussi à terminer, le milieu est juste tellement long et chiant. Pas assez fantasy pour moi, je crois !
 - TODO
-- (à lire après) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons. J'ai essayé le début, ça m'a vraiment saoulé en fait, c'est très dur à lire et trop prétentieux, je trouve.
+- (pas terminé) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons. J'ai essayé le début, ça m'a vraiment saoulé en fait, c'est très dur à lire et trop prétentieux, je trouve.
+- *What If?* de Randall Munroe, relu rapidement en décembre 2020. Je me suis offert ̀`le second volume du même auteur <https://livre.fnac.com/a14939569/Randall-Munroe-Et-comment>`_ pour Noël, j'ai hâte !
 - Et d'autres que j'ai oublié de noter…
 
 En 2020, j'ai vu ces films…
