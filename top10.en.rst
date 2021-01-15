@@ -44,7 +44,7 @@ My 10 favorite **movies actors/actresses**
    `Coluche <https://en.wikipedia.org/wiki/Coluche>`_, mainly in `Tchao Pantin <https://en.wikipedia.org/wiki/Tchao_Pantin>`_ (RIP Coluche).
 
 
-- `Ellen Page <https://en.wikipedia.org/wiki/Ellen_Page>`_, mainly in `Juno`_, `Hard Candy <https://en.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Whip It <https://en.wikipedia.org/wiki/Whip_It_%28movie%29>`_ and `To Rome with love <https://en.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_,
+- `Elliot Page <https://en.wikipedia.org/wiki/Elliot_Page>`_, mainly in `Juno`_, `Hard Candy <https://en.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Whip It <https://en.wikipedia.org/wiki/Whip_It_%28movie%29>`_ and `To Rome with love <https://en.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_,
 - `Ewan McGregor <https://en.wikipedia.org/wiki/Ewan_McGregor>`_, mainly in the `Star Wars <https://en.wikipedia.org/wiki/Star_Wars_%28movie%29>`_ movies, `Moulin Rouge <https://en.wikipedia.org/wiki/Moulin_Rouge!>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `The Men Who Stare at Goats <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc,
 - `Jim Carrey <https://en.wikipedia.org/wiki/Jim_Carrey>`_, mainly in `The Truman Show`_, `The Mask <https://en.wikipedia.org/wiki/The_Mask_%28movie%29>`_, `Bruce almighty <https://en.wikipedia.org/wiki/Bruce_Almighty>`_ and `I Love you Philip Morris <https://en.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_,
 - `Louis de Funès <https://en.wikipedia.org/wiki/Louis_de_Funès>`_, mainly in the *Gendarmes* and the *Fantomas* movies,
@@ -119,6 +119,10 @@ My 10 favorite **GameBoy games**
 - `The Legend of Zelda: Oracle of Age/Season <https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Ages>`_ (GBC),
 - `Pokémon Gold / Silver <https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold>`_ (GBC),
 - `Super Mario Bros. 2: Super Mario Advance <https://en.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA).
+
+.. sidebar:: An extra one?
+
+   The Witcher 3: Wild Hunt (2015) is originally a PC game, but I played it on Nintendo Switch in 2020. It is without any doubt the best game I ever played!!! I LOVED it.
 
 My 10 favorite **PC games**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~

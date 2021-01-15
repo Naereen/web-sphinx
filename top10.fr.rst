@@ -44,7 +44,7 @@ Mes 10 **acteurs/actrices de films** préférés
    `Coluche <https://fr.wikipedia.org/wiki/Coluche>`_, principalement dans `Tchao Pantin <https://fr.wikipedia.org/wiki/Tchao_Pantin>`_.
 
 
-- `Ellen Page <https://fr.wikipedia.org/wiki/Ellen_Page>`_, principalement dans `Juno`_, `Hard Candy <https://fr.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Bliss <https://fr.wikipedia.org/wiki/Bliss_%28film%29>`_ et `To Rome with love <https://fr.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_,
+- `Elliot Page <https://fr.wikipedia.org/wiki/Elliot_Page>`_, principalement dans `Juno`_, `Hard Candy <https://fr.wikipedia.org/wiki/Hard_Candy_%28film%29>`_, `Bliss <https://fr.wikipedia.org/wiki/Bliss_%28film%29>`_ et `To Rome with love <https://fr.wikipedia.org/wiki/To_Rome_with_Love_%28film%29>`_,
 - `Ewan McGregor <https://fr.wikipedia.org/wiki/Ewan_McGregor>`_, principalement dans les films `Star Wars <https://fr.wikipedia.org/wiki/Star_Wars_%28film%29>`_, `Moulin Rouge <https://fr.wikipedia.org/wiki/Moulin_Rouge_%28film%29>`_, `The Ghost Writer <https://en.wikipedia.org/wiki/The_Ghost_Writer>`_, `Les Chèvres du Pentagone <https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_%28film%29>`_, `I Love you Philip Morris`_, etc,
 - `Jim Carrey <https://fr.wikipedia.org/wiki/Jim_Carrey>`_, principalement dans `The Truman Show`_, `The Mask <https://fr.wikipedia.org/wiki/The_Mask_%28film%29>`_, `Bruce Tout Puissant <https://fr.wikipedia.org/wiki/Bruce_tout_puissant>`_ et `I Love you Philip Morris <https://fr.wikipedia.org/wiki/I_Love_You_Phillip_Morris>`_,
 - `Louis de Funès <https://fr.wikipedia.org/wiki/Louis_de_Funès>`_, principalement dans les films *Les Gendarmes* et la série des *Fantomas*,
@@ -119,6 +119,10 @@ Mes 10 **jeux GameBoy** préférés
 - `The Legend of Zelda: Oracle of Age/Season <https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Ages>`_ (GBC),
 - `Pokémon Or / Argent <https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Or>`_ (GBC),
 - `Super Mario Bros. 2: Super Mario Advance <https://fr.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance>`_ (GBA).
+
+.. sidebar:: Un extra ?
+
+   **The Witcher 3: Wild Hunt** (2015) est à l'origine un jeu sur PC, mais j'y ai joué sur Nintendo Switch en 2020. C'est sans hésiter le meilleur jeu auquel j'ai jamais joué, toute plateforme confondue. J'ai ADORÉ !
 
 Mes 10 **jeux PC** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
