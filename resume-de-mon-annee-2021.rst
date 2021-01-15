@@ -104,22 +104,27 @@ En 2021, j'ai voyagé là…
 
 En 2021, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Depuis mi-décembre 2020, je joue à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC, et j'y joue différemment : en mode « difficile », sans faire l'histoire principale et en ne faisant quasiment que les quêtes de factions que je n'avais pas faites en 2012 ! J'adore Skyrim !!
+- Depuis mi-décembre 2020, je joue à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC, et j'y joue différemment : en mode « difficile », sans faire l'histoire principale et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! J'adore Skyrim !!
 - TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc.
-- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que je le trouverai d'occasion (et oui, je n'achète rien de neuf, y compris mes jeux vidéos !).
+- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !).
 
 En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 4 de *Young Sheldon*, en cours !
+- Saison 4 de *Young Sheldon*, en cours ! (ça sort lentement)
+- Saisons 1 et 2 de *Marseille* (sur Netflix), regardé en faisant autre chose parce que franchement ça casse pas trois pattes à un canard. C'était sympa de revoir les paysages et la ville de Marseille, mais le reste n'a aucun intérêt j'ai trouvé (pas terminé la saison 2).
+- J'ai essayé le début de *Friends From College*, une sitcom produite par Netflix. J'aime bien les acteurs et actrices, mais fichtre que c'est nul...
+- Je veux réessayer *New Girl*, que j'avais essayé en ~2014 (je crois).
 - TODO
 
 En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Guide de Survie en Milieu Naturel*, de David Manise, lu et relu.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
 En 2021, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Regarder des films m'a passé, je n'ai plus envie de ça en ce moment.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
