@@ -43,6 +43,7 @@ Janvier 2021
 
 Février 2021
 ------------
+- Week-end à Paris et à Massy, si possible ?
 - TODO
 
 Mars 2021
@@ -59,14 +60,17 @@ Mai 2021
 
 Juin 2021
 ---------
+- Oraux d'agrégation de mathématiques à Lille ?
 - TODO
 
 Juillet 2021
 ------------
 - TODO
+- Vacances !
 
 Août 2021
 ---------
+- Suite et fin des vacances !
 - TODO
 
 Septembre 2021
@@ -110,21 +114,23 @@ En 2021, j'ai joué à ces jeux vidéo…
 
 En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 4 de *Young Sheldon*, en cours ! (ça sort lentement)
+- Saison 4 de *Young Sheldon*, en cours ! (ça sort lentement c'est dommage)
 - Saisons 1 et 2 de *Marseille* (sur Netflix), regardé en faisant autre chose parce que franchement ça casse pas trois pattes à un canard. C'était sympa de revoir les paysages et la ville de Marseille, mais le reste n'a aucun intérêt j'ai trouvé (pas terminé la saison 2).
 - J'ai essayé le début de *Friends From College*, une sitcom produite par Netflix. J'aime bien les acteurs et actrices, mais fichtre que c'est nul...
-- Je veux réessayer *New Girl*, que j'avais essayé en ~2014 (je crois).
+- J'ai réessayeé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze...
+- *Désanchantée*, une série animée des USA, sur Netflix. Sympa le début, mais très vite lassant.
 - TODO
 
 En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- *Guide de Survie en Milieu Naturel*, de David Manise, lu et relu.
+- *Guide de Survie en Milieu Naturel*, de David Manise, lu en détail.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
 En 2021, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Regarder des films m'a passé, je n'ai plus envie de ça en ce moment.
+.. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
+
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
