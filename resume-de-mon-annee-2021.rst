@@ -109,6 +109,7 @@ En 2021, j'ai voyagé là…
 En 2021, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Depuis mi-décembre 2020, je joue à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC, et j'y joue différemment : en mode « difficile », sans faire l'histoire principale et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! J'adore Skyrim !!
+- Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, ̀`Yarntown <https://www.solarus-games.org/en/games/yarntown>`_). Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>̀`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment.
 - TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc.
 - En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !).
 
