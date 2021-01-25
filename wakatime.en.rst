@@ -174,7 +174,7 @@ Below is included that `page https://wakatime.com/@lbesson <https://wakatime.com
 - Way less than in 2019, I coded about 128 hours in 2020, when the average of all WakaTime users was 313h (increasing).
 - I can explain this drop of coding time by a few reasons a) I almost did not write any research articles this year, and I did not have to write my PhD thesis (i spent so much time on it in 2019!) b) I am no longer in active development of any personal programming project (as I was in the last two years with `SMPyBandits <https://smpybandits.github.io/>`_, c) I almost did not have to write any `slides <https://github.com/Naereen/slides>`_ or `notebooks <https://github.com/Naereen/notebooks>`_, d) most of my teaching material was already finished or almost ready, e) I still code, but often I just use GNU Nano in a terminal for quick and small edits, or Python in a Jupyter notebook (and this isn't accounted for by WakaTime), f) for one course (INF1, introduction to programming using Java, at L1 level at University Rennes 1), I had to use Eclipse and didn't think about installing the WakaTime plug-in.
 - A daily average significantly reduced since 2019, with 1 hours and 2 minutes in 2020, in comparison to the average of 51 minutes a day for all WakaTime users (oh so I still code more than the average? interesting!).
-- My most active day was November 4th 2020, with 5h 30 minutes (and its much less than in the previous years). I am not sure what I was doing exactly that day, but probably for these two projects: `Discord-bot-to-add-spoiler-to-any-code-snippet <https://github.com/Naereen/Discord-bot-to-add-spoiler-to-any-code-snippet/>`_, `Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France<https://github.com/Naereen/Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France>`_.
+- My most active day was November 4th 2020, with 5h 30 minutes (and its much less than in the previous years). I am not sure what I was doing exactly that day, but probably for these two projects: `Discord-bot-to-add-spoiler-to-any-code-snippet <https://github.com/Naereen/Discord-bot-to-add-spoiler-to-any-code-snippet/>`_, `Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France <https://github.com/Naereen/Generateur-attestation-de-sortie-automatique-COVID-19-confinement-en-France>`_.
 - As always, I entirely worked under GNU/Linux (I love XUbuntu as always, even if I installed GNOME 3 on my latest laptop), and 100% with `Visual Studio Code <visualstudiocode.fr.html>`_... as far as WakaTime is aware! But I use GNU Nano, Firefox and Jupyter and they are not accounted for.
 - Regarding projects, I used 26h of LaTeX and Java for a course I taught in Autumn 2020 (INF1 at L1 level at University Rennes 1), to write and update practical sessions sheets, project instructions and exam papers. I also worked about 20h for `this map <https://perso.crans.org/besson/ReR-carte/carte.html>`_ (mainly experimenting things), and less than 10 hours in every other projects.
 - Regarding the choice of languages, this year I mainly used `Markdown <https://wakatime.com/leaders/markdown>`_ (53 h) even though I'm not sure for what projects, `LaTeX <https://wakatime.com/leaders/latex>`_ (30 h) and both `Java <https://wakatime.com/leaders/java>`_ and `Python <https://wakatime.com/leaders/python>`_ are tight with 13h each (on VSCode, but by counting Eclipse and Jupyter notebooks I must have at least three time more !) ; and all the other languages are about 1-5 hours by year (`Bash <https://wakatime.com/leaders/bash>`_, `OCaml <https://wakatime.com/leaders/ocaml>`_, `JavaScript <https://wakatime.com/leaders/javascript>`_, `HTML <https://wakatime.com/leaders/html>`_ / `CSS <https://wakatime.com/leaders/css>`_ etc). But it's unfair, as I write a lot of one-liner bash script directly in a terminal, as I use GNU Nano for small bash files, Jupyter notebooks for Python and OCaml, etc.
@@ -255,5 +255,18 @@ For instance, the command `wakatime -w <https://github.com/JoshLankford/WakaTime
 
    $ wakatime -w | sed -r "s/\x1B\[([0-9]{1,2}(;[0-9]{1,2})?)?[mGK]//g"
 
+.. warning:: This tool seems broken, `cf this bug (25/01/2021) <https://github.com/JoshLankford/WakaTimeCLI/issues/17>`_.
+
+
+Another tool to read its WakaTime statistics from the command line: official wakatime Python client
+---------------------------------------------------------------------------------------------------
+
+Using `pip install wakatime`, you can install the official CLI client, which is `this project on Pypi <https://pypi.org/project/wakatime/>`_.
+
+.. runblock:: console
+
+   wakatime --today
+
+It does not allow any other visualisation except this `--today`, it's quite disappointing.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
