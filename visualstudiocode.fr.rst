@@ -253,6 +253,8 @@ Un meilleur support pour certains langages :
 
 Greffons plus lourds, ou conçu pour un langage spécifique :
 
+* `VSCode LTex <https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex>`_ (et `sa documentation <https://valentjn.github.io/vscode-ltex/index.html>`_) : vérification de la grammaire avec `LanguageTool <https://languagetool.org/>`_ : il fonctionne directement dans les fichiers LaTeX et Markdown mais peut être utilisé sur d'autres formats également. Je trouve ça incroyable, je viens de le découvrir (février 2021).
+* `Readability Check <https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck>`_ pour vérifier la lisibilité (mais seulement en anglais).
 * `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : correcteur d'orthographe pour les commentaires et les noms de variables dans du code.
 * `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : utilitaire pour sélectionner une couleur et insérer son code CSS.
 * `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ : accéder rapidement à la documentation locale via `Dash.app <https://kapeli.com/dash>`_ ou `Zeal <http://zealdocs.org/>`_.

@@ -96,7 +96,7 @@ How to install plugins?
 ~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Plugin ?
 
-   For computer softwares, `plugins`_ are additionals component that completes a `software`_ host to provide it with new features.
+   For computer softwares, `plugins`_ are additional components that complete a `software`_ host to provide it with new features.
 
 
 VS Code is shipped with an awesome package manager that allows users to find, install, update and remove additional packages.
@@ -250,6 +250,8 @@ A better support for some languages:
 
 Heavier plugins, or plugins designed for a specific language:
 
+* `VSCode LTex <https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex>`_ (and `its documentation <https://valentjn.github.io/vscode-ltex/index.html>`_) : grammar checking with `LanguageTool <https://languagetool.org/>`_ : it works directly in LaTeX and Markdown file but can be used on other formats as well. It seems amazing, I just discovered it (February 2021).
+* `Readability Check <https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck>`_ to check for readability (but only in English).
 * `Code Spellchecker <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>`_ : spelling checker for source code.
 * `Color Picker <https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color>`_ : helper with GUI to generate color codes such as CSS color notations.
 * `Dash <https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash>`_ : quickly access local documentation with `Dash.app <https://kapeli.com/dash>`_ or `Zeal <http://zealdocs.org/>`_ integration in Visual Studio Code.
