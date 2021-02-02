@@ -49,7 +49,7 @@ My article focuses on version 3 of Sublime Text (currently, version 3.083, *rele
 .. seealso::
 
    `Visual Studio Code <visualstudiocode.html>`_
-      is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
+      is also a wonderful editor! It is developed `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
       After 4 years of intensive use, I am slowly giving up on Sublime Text to only use `Visual Studio Code <https://code.visualstudio.com/>`_, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_…
 
@@ -89,7 +89,7 @@ How to install plugins?
 ~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Plugin ?
 
-   For computer softwares, `plugins`_ are additionals component that completes a `software`_ host to provide it with new features.
+   For computer softwares, `plugins`_ are additional components that completes a `software`_ host to provide it with new features.
 
 
 Sublime Text can be equipped with a package manager that allows users to find, install, update and remove additional packages without even having to restart Sublime Text!
@@ -150,7 +150,7 @@ Key shortcuts
 
 
 Like (almost) everything else in Sublime Text, it's easy to modify or add key shortcut for anything.
-It can be done globaly, or project wise or language wise.
+It can be done globally, or project wise or language wise.
 
 * `Default (Linux).sublime-keymap <publis/ST3/Default%20(Linux).sublime-keymap>`_ are my custom shortcuts (I like ``ctrl+e`` to go the end of a line, like in Emacs, or ``ctrl+maj+e`` for beginning of a line),
 * `Python.sublime-keymap <publis/ST3/Python.sublime-keymap>`_ adds some Python-specific key shortcuts (to be used with `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_).
@@ -216,7 +216,7 @@ For each packet quoted below, a link to the information page on `packagecontrol.
 
 .. note:: My own plugin?
 
-   In September 2016, I wrote a small plugin, simply because I was bored of having to use two shortcuts to switch between French and English for the spell-cheking.
+   In September 2016, I wrote a small plugin, simply because I was bored of having to use two shortcuts to switch between French and English for the spell-checking.
    The goal was to be able to switch from one language to another with only one key shortcut…
 
    It gave `this plugin, SwitchDictionary <https://github.com/Naereen/SublimeText3_SwitchDictionary/>`_ (for ST3 only), which only works for French and English, but does its job perfectly (``ctrl+shift+s`` switches between French, English and no spell-checking, and ``ctrl+shift+a`` guesses between French and English, automatically).
@@ -253,7 +253,7 @@ Plugins that add great features:
 * `TableEditor <https://packagecontrol.io/packages/Table%20Editor>`_ is great to easily edit tables in plain text documents (for Markdown, reStructedText, pandoc etc). Very well documented and quite complete.
 * `Terminal <https://packagecontrol.io/packages/Terminal>`_ to open a terminal (ie. a console) already in the correct folder. I never use it, but it works well. More details `on wbond.net/sublime_packages/terminal <http://wbond.net/sublime_packages/terminal>`_.
 * `Wakatime <https://packagecontrol.io/packages/Wakatime>`_ to use `Wakatime.com <https://wakatime.com/>`_ (`read this other article for more explanations <wakatime.en.html>`_).
-* `WordCount <https://packagecontrol.io/packages/WordCount>`_ adds a counter for words (and pages optionnally) in the information bar. Small and simple but useful!
+* `WordCount <https://packagecontrol.io/packages/WordCount>`_ adds a counter for words (and pages) in the information bar. Small and simple but useful!
 
 
 A better support for some languages:
@@ -279,10 +279,10 @@ Heavier plugins, or plugins designed for a specific language:
 
 
 * `MagicPython <https://packagecontrol.io/packages/MagicPython>`_ improves the syntax  coloring for Python (it recognizes the new syntax features that came in the last versions 3.5 and 3.6).
-* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the borring fact that Matlab/Octave asks to write any function as a *seperate file*…
+* `MatlabFilenameAutoComplete <https://packagecontrol.io/packages/MatlabFilenameAutoComplete>`_ adds the filename of the Matlab/Octave functions (ie the local files `file.m`) to the automatic tab completion. It is a way to compensate with the boring fact that Matlab/Octave asks to write any function as a *seperate file*…
 * The brilliant `SublimeLinter <https://sublimelinter.readthedocs.io/en/latest/installation.html>`_ checks the code you write for syntax error *as you write it* (Spyder does the same for Python, for example). Quite extraordinary! `Anaconda IDE <http://damnwidget.github.io/anaconda/IDE/>`_ is far more powerful but specific to Python. There is plenty of awesome linters: `annotations <https://packagecontrol.io/packages/SublimeLinter-annotations>`_, `chktex <https://packagecontrol.io/packages/SublimeLinter-chktex>`_, `flake8 <https://packagecontrol.io/packages/SublimeLinter-flake8>`_, `json <https://packagecontrol.io/packages/SublimeLinter-json>`_, `mdl <https://packagecontrol.io/packages/SublimeLinter-contrib-mdl>`_, `pylint <https://packagecontrol.io/packages/SublimeLinter-pylint>`_, `shellcheck <https://packagecontrol.io/packages/SublimeLinter-shellcheck>`_.
 * `LaTeXing <http://www.latexing.com/>`_ (installable from `packagecontrol.io/packages/LaTeXing <https://packagecontrol.io/packages/LaTeXing>`_), improve support for \\(\\LaTeX{}\\).
-* `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ is convenient to quickly "send" some code to an open terminal in another window (to work with Python, Octave, R, bash or anyother toplevel).
+* `SendText+ <https://packagecontrol.io/packages/SendText%2B>`_ is convenient to quickly "send" some code to an open terminal in another window (to work with Python, Octave, R, bash or any other toplevel).
 * `SublimeCodeIntel <https://packagecontrol.io/packages/SublimeCodeIntel>`_ is *supposed* to enable intelligent access to a program recognizing the definitions of variables, functions, classes, etc., it is expected to "jump" directly to the definition of any element of the program (I do not like it).
 * `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents *quite magically*. It surely takes time to master its features, but I guess it's worth it!
 
@@ -327,7 +327,7 @@ Additional advice
 .. seealso::
 
    `Visual Studio Code <https://code.visualstudio.com/>`_
-      is also a wonderful editor! It is developped `by Microsoft <https://github.com/Microsoft/vscode/>`_,
+      is also a wonderful editor! It is developed `by Microsoft <https://github.com/Microsoft/vscode/>`_,
       but it has the advantage to be fully `open-source and free <https://github.com/Microsoft/vscode/blob/master/LICENSE.txt>`_.
       After 4 years of intensive use, I completely gave up on Sublime Text to only use Visual Studio Code, and like Edith Piaf `"non, je ne regrette rien" <https://www.youtube.com/results?search_query=%C3%A9dith%20piaf%20je%20ne%20regrette%20rien>`_ (no, I don't regret anything, a famous French song)…
 

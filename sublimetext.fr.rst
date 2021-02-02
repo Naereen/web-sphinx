@@ -206,7 +206,7 @@ Avec Sublime Text (comme avec n'importe quel bon éditeur de texte), il est faci
 
 Liste de mes macros (juste 2 pour l'instant) :
 
-* `copy-to-the-end-of-the-line.sublime-macro <publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ pour selectionner et copier le texte de la ligne actuelle, depuis la position du curseur jusqu'à la *fin* de la ligne. Je lui ai associé le raccouris clavier ``Ctrl+Alt+e``.
+* `copy-to-the-end-of-the-line.sublime-macro <publis/ST3/copy-to-the-end-of-the-line.sublime-macro>`_ pour sélectionner et copier le texte de la ligne actuelle, depuis la position du curseur jusqu'à la *fin* de la ligne. Je lui ai associé le raccourcis clavier ``Ctrl+Alt+e``.
 * et `copy-to-the-beginning-of-the-line.sublime-macro <publis/ST3/copy-to-the-beginning-of-the-line.sublime-macro>`_ fait pareil, mais sélectionne jusqu'au *début* de la ligne. Je lui ai associé le raccourcis ``Ctrl+Alt+Maj+e`` (comme le modificateur ``Maj`` est déjà utilisé pour ``Ctrl+e`` "aller à la fin de la ligne" et ``Ctrl+Maj+e`` "aller au début de la ligne").
 
 -----------------------------------------------------------------------------
