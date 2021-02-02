@@ -6,11 +6,6 @@
  Activités d'enseignement
 ##########################
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
-
-**Jusqu'au 11 mai, je suis disponible pour donner des cours particuliers à distance**, par Internet en visioconférence, en informatique et en mathématiques, à *tout niveau, école primaire jusqu'à Licence 3* (comme `Jitsi Meet <https://meet.jit.si/>`_).
-
-
 .. note::
 
     Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
@@ -22,8 +17,9 @@ En 2020/2021
 
 Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plus :
 
-- Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python;
-- Je donne aussi des TD et des TP (10 de chaque, 2*2*10h=40h) pour le cours **Informatique 1**, pour les élèves de première année de Licence Informatique et de Licence Mathématiques, à l'Université de Rennes 1. Sur `ma page du cours <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ je donne des solutions aux TD et TP en Java (et en Python, pour les curieux-ses) dans des notebooks Jupyter.
+- Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python (10 h / an).
+- Je donne aussi des TD et des TP (10 de chaque, 2*2*10h=40h) pour le cours **Informatique 1**, pour les élèves de première année de Licence Informatique et de Licence Mathématiques, à l'Université de Rennes 1. Sur `ma page du cours <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ je donne des solutions aux TD et TP en Java (et en Python, pour les curieux-ses) dans des notebooks Jupyter. J'ai aussi fait des vidéos de corrections de TD et TP en Java, publiées sur `cette chaîne YouTube <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, j'ai rédigé et fait le barème et la correction du CC2 et du projet Java `Démineur <http://demineur.org/>`_. (60 h / an)
+- En charge du `petit projet Wikipédia <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_ pour le cours d'`ALGO2 <http://people.irisa.fr/Francois.Schwarzentruber/algo2/>`_ au second semestre. (16 h / an)
 
 En 2019/2020
 ------------
@@ -34,6 +30,9 @@ Je suis un `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/r
 - En charge du cours `d'Introduction à l'Algorithmique <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** pour les élèves en L3 (première année) à l'ENS de Rennes (voir `la page du même cours au département de maths <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, donné par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / an)
 - Chargé de TD pour le cours `d'Algorithmique avancée <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ **(ALGO2)** pour les élèves en L3 (première année) à l'ENS de Rennes, donné par `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / an)
 - Aussi en charge du `séminaire bi-hebdomadaire du département Informatique <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, des visites de laboratoire, des stages des élèves en L3 (première année) à l'ENS de Rennes, et aussi des admissions sur dossier. (60h / an)
+
+
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
 
 
 En 2017/2018 et en 2018/2019
@@ -59,8 +58,8 @@ J'ai enseigné 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Ren
 
 Je donne des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'étais chargé de TDs à l'ENSAI (4 fois 3h, pour deux groupes; niveau L3).
 
-- :gray:`(Vieux)` Pour plus de détails sur `les cours, oraux (leçons) et TDs pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
-- :gray:`(Vieux)` Pour plus de détails sur `les TDs pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis et bricolé `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+- Pour plus de détails sur `les cours, oraux (leçons) et TDs pour "l'option Informatique pour l'agrégation" à l'ENS de Rennes, lisez cette page <agreg-2016/>`_.
+- Pour plus de détails sur `les TDs pour le cours "Complexité and Calculabilité" à l'ENSAI, lisez cette page <ensai-2016/>`_. J'ai notamment traduis et bricolé `ce simulateur de machines de Turing <http://morphett.info/turing/turing.html>`_ en français : `disponible ici <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`code source libre sur GitHub <https://github.com/Naereen/jsTuring_fr>`_).
 - J'ai donné de quelques heures d'entraînement pour l'épreuve orale d'informatique pour le concours national CentraleSupélec (en prépa PSI), au `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_ à Rennes (bénévolement). Cf. `les solutions des problèmes qu'on a traité <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_.
 
 .. note:: Extras :

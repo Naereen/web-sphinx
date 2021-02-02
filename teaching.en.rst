@@ -6,11 +6,6 @@
  My teaching activities
 ########################
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
-
-**I am available to give private lessons**, in mathematics or computer science, by using online video-conference tools (like `Jitsi Meet <https://meet.jit.si/>`_).
-
-
 .. note::
 
     I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
@@ -22,18 +17,22 @@ In 2020/2021
 
 I keep the same responsibilities as last year, but I am also teaching two new courses:
 
-- A small course, of 6 lectures of 2 hours, of **Introduction to Computer Sience**, for the first year students of the `department "Droit Économie Management" <http://www.dem.ens-rennes.fr/>`_: see `the page of the course <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. I teach the basics of computer science, both from a historical and technological point of view, and the basics of programming with an introduction to the Linux/Mac/Windows shell (terminal) and with Python ;
-- I also give TDs and TPs (10 of each, 2*2*10h=40h) for the course **Computer Science 1**, for the first year students of Computer Science and Mathematics bachelors, at the University of Rennes 1. On `my course page <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ I give solutions to TDs and TPs in Java (and Python, for the curious) in Jupyter notebooks.
+- A small course, of 6 lectures of 2 hours, of **Introduction to Computer Science**, for the first year students of the `department "Droit Économie Management" <http://www.dem.ens-rennes.fr/>`_: see `the page of the course <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. I teach the basics of computer science, both from a historical and technological point of view, and the basics of programming with an introduction to the Linux/Mac/Windows shell (terminal) and with Python ;
+- I also give TDs and TPs (10 of each, 2*2*10h=40h) for the course **Computer Science 1**, for the first year students of Computer Science and Mathematics bachelors, at the University of Rennes 1. On `my course page <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ I give solutions to TDs and TPs in Java (and Python, for the curious) in Jupyter notebooks. I also made videos of TD and TP corrections in Java, published on `this YouTube channel <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, I wrote and made the scale and correction of the CC2 and the `MineSweeper <http://demineur.org/>`_ Java project. (60 h / year)
+- I'm in charge of supervising `a Wikipedia project (in French) <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_ for the `Advanced Algorithms (ALGO2) <http://people.irisa.fr/Francois.Schwarzentruber/algo2/>`_ course on the second semester.
 
 In 2019/2020
 ------------
 
-I am a `junior professor (agrégé préparateur) in Computer Sience at ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
+I am a `junior professor (agrégé préparateur) in Computer Science at ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
 
 - I am in charge of the `training for Computer Science option for the national exam of "agrégation de mathématiques" (to become a teacher in maths and/or computer science) <https://perso.crans.org/besson/teach/agreg-2019/>`__ (**"prépa agrég"**, option D), and in particular I'm in charge `of the practical sessions of programming, in Python 🐍 and OCaml 🐫 <https://github.com/Naereen/notebooks/tree/master/agreg/>`__. (80 h / year) `The time table is here! <https://perso.crans.org/besson/agreg_info_planning/>`__
 - I give the course of `Introduction to Algorithmic <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** for the first year student (in L3) at ENS de Rennes (see `the page for the same course in the maths department <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, given by `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / year)
 - I give the tutorial sessions for the course of `Advanced Algorithmic <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ **(ALGO2)**, for the first year student (in L3) at ENS de Rennes, given by `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / year)
 - I'm also in charge of the `bi-monthly research seminar of the Computer Science department <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, of some visits of research labs, and of the internships of first year students (in L3) at ENS de Rennes, as well as responsible of sorting the admission on file of new students (not the competitive exam). (60h / year)
+
+
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
 
 
 In 2017/2018 and 2018/2019
@@ -59,8 +58,8 @@ I had a teaching load of ~ 64 h / year, for 2016/2017, during my PhD in Rennes (
 
 I was giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I was a teaching assistant (TA) at ENSAI (4 times 3h, for two groups; level L3).
 
-- :gray:`(Old)` For more details on `the oral exams for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
-- :gray:`(Old)` For more details on `the TAing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
+- For more details on `the oral exams for the "Computer Science option for agrégation" at ENS de Rennes, see this page <agreg-2016/>`_.
+- For more details on `the TAing for the course "Complexity and Computability" at ENSAI, see this page <ensai-2016/>`_. I translated and tweaked this `Turing machine simulator <http://morphett.info/turing/turing.html>`_ into French : `my version is available here <https://naereen.github.io/jsTuring_fr/turing.html#Machine>`_ (`open source on GitHub <https://github.com/Naereen/jsTuring_fr>`_).
 - I also gave some training sessions for the exam in Computer Science for students in prep' school for the CentraleSupélec national entrance exam (prep' school PSI), at the `Lycée Joliot Curie <http://www.lycee-joliot-curie-rennes.ac-rennes.fr/>`_ in Rennes. See `the solutions of the problems we covered <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/Oraux_CentraleSupelec_PSI__Juin_2017.ipynb>`_ (not paid).
 
 .. note:: Extras :
