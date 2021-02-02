@@ -31,6 +31,7 @@ Pour une meilleure expérience utilisateur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Activate Reader View <https://addons.mozilla.org/fr/firefox/addon/activate-reader-view/>`_ (0.1.0) permet de facilement activer le "mode lecture" sur n'importe quel site,
+- En plus d'activer la vérification orthographique avec le dictionnaire (intégré), cette extension `LanguageTool <https://addons.mozilla.org/fr/firefox/addon/languagetool/>`_ vérification de la grammaire avec `LanguageTool.org <https://languagetool.org/>`_. Il s'intègre à toute zone de texte, on peut le désactiver pour un site web particulier. Par défaut, le greffon envoie le texte tapé en ligne, ce qui n'est pas optimal niveau sécurité et vie privée (et ne fonctionne pas hors-ligne), mais on peut `installer ça soi-même sur son ordinateur (en bidouillant un peu) <https://dev.languagetool.org/http-server>`_. Je trouve ça incroyable, je viens de le découvrir (février 2021).
 - `Dark Reader <https://addons.mozilla.org/fr/firefox/addon/darkreader>`_ (4.5.0) permet d'activer un mode "sombre" pour (presque) n'importe quel site web ! Très pratique quand on travaille de nuit !
 - `JSONView <https://addons.mozilla.org/fr/firefox/addon/jsonview>`_ (2.0.0) pour afficher joliment des fichiers JSON,
 - `Markdown Viewer Webext <https://addons.mozilla.org/fr/firefox/addon/markdown-viewer-webext>`_ (1.3.0) pour afficher joliment des fichiers Markdown,

@@ -31,6 +31,7 @@ For a better user experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Activate Reader View <https://addons.mozilla.org/en-US/firefox/addon/activate-reader-view/>`_ (0.1.0) to easily activate the "reader view" on any website,
+- In addition to enabling spell checking with the (built-in) dictionary, this `LanguageTool <https://addons.mozilla.org/en-US/firefox/addon/languagetool/>`_ extension checks grammar with `LanguageTool.org <https://languagetool.org/>`_. It integrates into any text box, it can be disabled for a particular website. By default, the plugin sends typed text online, which is not optimal for security and privacy (and doesn't work offline), but you can `install it yourself on your computer (with a little tweaking) <https://dev.languagetool.org/http-server>`_. I find it incredible, I just discovered it (February 2021),
 - `Dark Reader <https://addons.mozilla.org/en-US/firefox/addon/darkreader>`_ (4.5.0) to turn on a "dark mode" for (almost) any website, very nice when working during the night!
 - `JSONView <https://addons.mozilla.org/en-US/firefox/addon/jsonview>`_ (2.0.0) to display nicely JSON files,
 - `Markdown Viewer Webext <https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext>`_ (1.3.0) to display nicely Markdown files,
@@ -138,8 +139,8 @@ Extensions for secrets agents (or paranoid people)
 * `SSLeuth <https://addons.mozilla.org/en-us/firefox/addon/ssleuth/>`_ ranks an established SSL/TLS connection and gives a brief summary of the cipher suite, certificate and other SSL/TLS parameters,
 * `Toggle Proxy <https://addons.mozilla.org/en-us/firefox/addon/toggle-proxy-51740>`_ if you use different proxies.
 
-Extensions for web-developpers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Extensions for web-developers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * `Link Checker <https://addons.mozilla.org/en-us/firefox/addon/link-checker/>`_ to… quickly check links!
 * `Octotree <https://addons.mozilla.org/en-US/firefox/addon/octotree/>`_ is sweet if you use `GitHub`_ a lot.
 * `Quick Locale Switcher <https://addons.mozilla.org/en-us/firefox/addon/quick-locale-switcher>`_ to… quickly change the ``locale`` settings (the language you ask the pages to be displayed),
