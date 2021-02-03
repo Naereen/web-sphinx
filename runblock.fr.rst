@@ -11,7 +11,6 @@ Je teste ici la fonctionnalité "expérimentale" de `Sphinx <http://www.sphinx-d
 qui permet d'exécuter du code lors de la génération de la page web.
 
 .. seealso:: Pour une liste d'extensions Sphinx utiles, `cette page donne un bonne idée de ce qui existe <http://sphinxext-survey.readthedocs.io/en/latest/index.html>`_ (en anglais).
-.. seealso:: `Plus de détails sur runblock et autorun <http://pvbookmarks.readthedocs.io/en/latest/devel/documentation/doc_generators/sphinx/extensions/contributed_extensions/autorun.html>`_ (en anglais).
 
 Exemples
 --------

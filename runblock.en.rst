@@ -11,7 +11,6 @@ the `autorun extension <https://pypi.org/project/sphinxcontrib-autorun/>`_, whic
 to execute arbitrary code when generating a Sphinx-powered web-page.
 
 .. seealso:: For a list of possibly useful Sphinx extensions, `this page gives a good overview <http://sphinxext-survey.readthedocs.io/en/latest/index.html>`_.
-.. seealso:: `More details on runblock and autorun <http://pvbookmarks.readthedocs.io/en/latest/devel/documentation/doc_generators/sphinx/extensions/contributed_extensions/autorun.html>`_.
 
 Examples
 --------
