@@ -9,9 +9,6 @@
 À propos (de moi)
 -----------------
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_. Je la mettais à jour deux fois par semaine (à partir du 13/03/2020) mais désormais les mises à jour sont moins fréquentes.
-
-
 Bonjour !
 Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 à |ENSCachan|.
@@ -21,7 +18,7 @@ Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en i
   <abbr title="L'ENS de Cachan est une « Grande École » près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay"><a href='http://www.ens-cachan.fr/version-anglaise/'>l'ENS de Cachan</a></abbr>
 
 
-Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour l'`introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_.
+Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
 
 Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ à de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
 
@@ -30,6 +27,9 @@ Entre septembre 2016 et août 2019 :
 
 - Je faisais `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portait sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunication, en particulier aux I-o-T (Internet des Objets). Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 - Et `j'enseignais <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+
+
+.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_. Je la mettais à jour deux fois par semaine (à partir du 13/03/2020) mais désormais les mises à jour sont moins fréquentes.
 
 
 ------------------------------------------------------------------------------
@@ -81,7 +81,7 @@ En *2015-16*
   et le `master Hadamard de mathématiques fondamentales <http://www.math.ens-cachan.fr/version-francaise/formations/formation-en-mathematiques-de-l-ens-cachan-ex-magistere-/2eme-annee-le-m1-hadamard/>`_ de l'ÉNS de Cachan (les deux avec une mention *Bien*).
 
 * En 2011/2012, j'avais eu deux **licences** (**L3**), en **maths** et en **informatique**,
-  (avec mention *Bien*; *Bachelor of Science* en anglais).
+  (avec mention *Bien*, *Bachelor of Science* en anglais).
 
 * En 2009/2010 et 2010/2011, j'étais élève du `Lycée Thiers <https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Thiers>`_ de Marseille, en `MPSI 2 <https://fr.wikipedia.org/wiki/MPSI>`_ et `MP\*1 <https://fr.wikipedia.org/wiki/MP*>`_.
 
@@ -89,10 +89,10 @@ En *2015-16*
 
 D'autres projets ailleurs en ligne
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#. Sur *Bitbucket* : `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ ou sur *GitHub* : `GitHub.com/naereen <https://github.com/naereen>`_ (`dépôts git <tutogit.fr.html>`_).
+#. Sur *Bitbucket* : `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ ou sur *GitHub* : `GitHub.com/Naereen <https://github.com/Naereen>`_ ou sur *GitLab* : `GitLab.com/Naereen <https://gitlab.com/Naereen>`_ (`dépôts git <tutogit.fr.html>`_).
 
 #. Sur *Wikipédia*, `Utilisateur:Naereen <http://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_
-   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_, mais je `suis donateur régulier <https://dons.wikimedia.fr/journal/2012-11-12>`_).
+   (moyennement actif, voir par exemple `des stats <http://wikiscan.org/utilisateur/Naereen>`_, mais je `suis donateur régulier <https://dons.wikimedia.fr/journal/2012-11-12>`_ depuis 2012).
 
 
 .. note:: Curriculum Vitæ
