@@ -83,6 +83,8 @@ extensions = [
     'sphinx.ext.extlinks',
     ####### https://github.com/djungelorm/sphinx-tabs
     'sphinx_tabs.tabs',
+    ####### https://sphinx-copybutton.readthedocs.io/
+    'sphinx_copybutton',
 ]
 
 ##############################################################################

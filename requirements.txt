@@ -9,3 +9,4 @@ sphinx_tabs
 #sphinxcontrib-cheeseshop
 #sphinxcontrib-gnuplot
 #sphinxcontrib-youtube
+sphinx-copybutton
