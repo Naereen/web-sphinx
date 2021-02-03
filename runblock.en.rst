@@ -28,7 +28,7 @@ For instance, this snippet of code:
    .. runblock:: pycon
 
        >>> for i in range(5):
-       …  print(i)
+       ...     print(i)
 
 
 will produce this output (raw included in the HTML web-page):

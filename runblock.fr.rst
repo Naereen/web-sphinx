@@ -36,7 +36,7 @@ produira la sortie suivante :
 .. runblock:: pycon
 
     >>> for i in range(5):
-    …  print(i)
+    ...     print(i)
 
 
 On peut aussi vérifier la version de Python utilisée par l'extension :
