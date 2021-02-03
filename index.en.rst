@@ -162,6 +162,7 @@ For more details, see `<sitemap.en.html>`_.
    mount.en
    demo
    bitbucket-features.en
+   jokes.en
    data-analysis-of-2-years-of-sms-2016-2017.en
    hitch-hiking.en
    packing.en

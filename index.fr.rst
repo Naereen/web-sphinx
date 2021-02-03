@@ -181,6 +181,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    mount.fr
    vieprivee
    A953
+   blagues.fr
    todo
    avoir
    folders
