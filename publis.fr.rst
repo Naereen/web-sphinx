@@ -6,6 +6,11 @@
  Productions techniques diverses (du dossier `<publis/>`_)
 ###########################################################
 
+.. warning:: Cette page n'est PAS DU TOUT à jour !
+
+    Allez regarder dans le dossier `<publis/>`_ directement, ou aussi sur cette page `<https://naereen.github.io/>`_ qui est un portfolio de mes contributions personnelles sur mon profil `GitHub <https://github.com/Naereen/>`_.
+
+
 À-propos de cette page
 ----------------------
 Cette page est là pour décrire les divers petits (et moins petits) projets *techniques* présents dans le dossier `<publis/>`_.

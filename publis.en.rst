@@ -6,6 +6,11 @@
  Description of publications in folder `<publis/>`_
 ####################################################
 
+.. warning:: This page is NOT up to date AT ALL!
+
+    Go look in the folder `<publis/>`_ directly, or also on this page `<https://naereen.github.io>`_ which is a portfolio of my personal contributions on my profile `GitHub <https://github.com/Naereen/>`_.
+
+
 About this page
 ---------------
 This page describes all the tiny (and less tiny) technical projects published in the folder `<publis/>`_.

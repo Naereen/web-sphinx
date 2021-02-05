@@ -41,8 +41,8 @@ Let's print `ALL THE JOKES! <https://knowyourmeme.com/memes/all-the-things>`_
    >>> f = open('/home/lilian/.jokes.json')
    >>> for line in json.load(f):
    ...    print()
-   ...    print(line['setup]')
-   ...    print(line['punchline]')
+   ...    print(line['setup'])
+   ...    print(line['punchline'])
 
 Links
 ~~~~~
