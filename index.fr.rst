@@ -167,6 +167,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    wolfram.fr
    top10.fr
    ce-que-je-regarde-sur-youtube.fr
+   mes-chansons-preferees.fr
    blog-roll.fr
    resume-de-mon-annee-2017
    resume-de-mon-annee-2018
