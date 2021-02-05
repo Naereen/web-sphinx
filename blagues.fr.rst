@@ -1,6 +1,6 @@
 .. meta::
     :description lang=fr: Des blagues en français
-    :description lang=en: Somes jokes in English
+    :description lang=en: Some jokes in English
 
 =========================
  Des blagues en français
@@ -28,14 +28,17 @@ En gros, elle fait ça :
 ALL THE JOKES!
 ~~~~~~~~~~~~~~
 
-On affiche `TOUTES LES BLAGUES ! <https://knowyourmeme.com/memes/all-the-things>`_
+.. include:: .blagues.rst
 
-.. runblock:: pycon
 
-   >>> import random
-   >>> f = open('/home/lilian/.blagues.txt')
-   >>> for line in f.readlines():
-   ...    print(line)
+.. On affiche `TOUTES LES BLAGUES ! <https://knowyourmeme.com/memes/all-the-things>`_
+.. 
+.. .. runblock:: pycon
+.. 
+..    >>> import random
+..    >>> f = open('/home/lilian/.blagues.txt')
+..    >>> for line in f.readlines():
+..    ...    print(line)
 
 Liens
 ~~~~~

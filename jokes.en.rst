@@ -1,5 +1,5 @@
 .. meta::
-    :description lang=en: Somes jokes in English
+    :description lang=en: Some jokes in English
     :description lang=fr: Des blagues en français
 
 =======================

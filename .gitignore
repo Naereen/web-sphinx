@@ -16,3 +16,6 @@ admin*
 .htaccess*
 vpn.*.rst
 __TODO__
+
+# Generate it with 'make .blagues.rst'
+.blagues.rst

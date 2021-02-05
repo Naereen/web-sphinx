@@ -26,9 +26,10 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 CP = ~/bin/CP  # Using my CP script, https://bitbucket.org/lbesson/bin/src/master/CP
 GPG = gpg --detach-sign --armor --quiet --yes
 
-total: html images obscure send_jarvis send_zamok send_ovh check
-total_with_gpg: html images obscure gpghtml send_jarvis send_zamok send_ovh check
-local: html images send_jarvis check
+total: preprocess html images obscure send_jarvis send_zamok send_ovh check
+total_with_gpg: preprocess html images obscure gpghtml send_jarvis send_zamok send_ovh check
+local: preprocess html images send_jarvis check
+preprocess:	.blagues.rst
 
 check: warnings severes errors
 
@@ -90,6 +91,9 @@ stats:
 
 sitemap:
 	-@(cd scripts/sitemap/ && $(MAKE))
+
+.blagues.rst:
+	./.blagues.sh
 
 ################################ GPG signs ####################################
 
