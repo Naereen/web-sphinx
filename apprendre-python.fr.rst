@@ -28,7 +28,11 @@ Pour se lancer et apprendre Python, je recommande…
         <center><iframe width="640" height="360" src="https://www.youtube.com/embed/e7M-_K4B7Lg" frameborder="0" allowfullscreen></iframe></center>
 
 
-#. Pour écrire des programmes Python, `Spyder <https://www.spyder-ide.org/>`_ (avec `IPython <http://ipython.org/>`_) est une combinaison simple mais efficace. Surtout pour faire du Python numérique/scientifique. L'interface utilisateur ressemble assez à celle de MATLAB (code à gauche, sortie à droite, un bouton vert à cliquer pour exécuter *etc*), et le logiciel entier est vraiment parfait. Seule la *recherche d'aide* est (un peu) moins bien que MATLAB, le reste me semble (objectivement) mieux conçu pour Spyder. Mais une recherche sur Internet (avec `DuckDuckGo <https://duckduckgo.com>`_ bien sûr, et pas Gouuuugle) marche bien généralement. Et vous pouvez utiliser `DevDocs.io <https://devdocs.io/>`_ pour chercher efficacement la documentation.
+#. Pour écrire des programmes Python, `Spyder <https://www.spyder-ide.org/>`_ (avec `IPython <http://ipython.org/>`_) est une combinaison simple mais efficace. Surtout pour faire du Python numérique/scientifique. L'interface utilisateur ressemble assez à celle de MATLAB (code à gauche, sortie à droite, un bouton vert à cliquer pour exécuter *etc*), et le logiciel entier est vraiment parfait. Seule la *recherche d'aide* est (un peu) moins bien que MATLAB, le reste me semble (objectivement) mieux conçu pour Spyder. Mais une recherche sur Internet (avec `DuckDuckGo <https://duckduckgo.com>`_ bien sûr, et pas Gouuuugle) marche bien généralement.
+
+#. Je recommande aussi d'essayer les `Notebooks Jupyter <https://jupyter.org/>`_ qui proposent une interface dans un navigateur, pour éditer (notamment) du Python. Vous pouvez essayer ici : `<https://jupyter.org/try>`_.
+
+#. Et vous pouvez utiliser `DevDocs.io <https://devdocs.io/>`_ pour chercher efficacement la documentation, et `Zeal Docs <https://zealdocs.org/>`_ pour un accès hors ligne (sans Internet).
 
 #. Un éditeur plus complet de niveau professionnel est `PyCharm par JetBrains <https://www.jetbrains.com/pycharm/download/>`_, moins facile à prendre en main mais PyCharm est très puissant !
 

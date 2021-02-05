@@ -21,7 +21,11 @@ To start learning Python, I recommend…
         <center><iframe width="640" height="360" src="https://www.youtube.com/embed/e7M-_K4B7Lg" frameborder="0" allowfullscreen></iframe></center>
 
 
-#. To write and execute your Python program, the `Spyder <https://www.spyder-ide.org/>`_ editor (with `IPython <https://ipython.org/>`_) is a truly brilliant software. Especially to use Python for numerical computation or scientific programming. The user interface is really similar to the one offered by MATLAB or Octave (program on the left, output on the right, one big green button to click to execute the program *etc*), and the entire software is extremely well designed and written. Only the *help research tool* is (slightly) less efficient than the one provided in MATLAB, but everything else seems (objectively) as good or better in `Spyder`_ than in MATLAB. And a simple Internet request (with `DuckDuckGo <https://duckduckgo.com>`_ of course, and not Gouuugle) works really fine in general. And you can use `DevDocs.io <https://devdocs.io/>`_ to efficiently search for documentation.
+#. To write and execute your Python program, the `Spyder <https://www.spyder-ide.org/>`_ editor (with `IPython <https://ipython.org/>`_) is a truly brilliant software. Especially to use Python for numerical computation or scientific programming. The user interface is really similar to the one offered by MATLAB or Octave (program on the left, output on the right, one big green button to click to execute the program *etc*), and the entire software is extremely well designed and written. Only the *help research tool* is (slightly) less efficient than the one provided in MATLAB, but everything else seems (objectively) as good or better in `Spyder`_ than in MATLAB. And a simple Internet request (with `DuckDuckGo <https://duckduckgo.com>`_ of course, and not Gouuugle) works really fine in general.
+
+#. I also strongly recommend to try `Notebooks Jupyter <https://jupyter.org/>`_ which gives a very nice web-based (in browser) interface to edit Python (among a hundred other languages). You can try here: `<https://jupyter.org/try>`_.
+
+#. You can use `DevDocs.io <https://devdocs.io/>`_ to efficiently search for documentation, and `Zeal Docs <https://zealdocs.org/>`_ to have an access offline (without Internet).
 
 #. A more complete editor for Python is the industry-strong `PyCharm by JetBrains <https://www.jetbrains.com/pycharm/download/>`_, less easy to manipulate and learn but PyCharm is very powerful!
 
