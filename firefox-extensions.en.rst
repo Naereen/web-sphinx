@@ -64,6 +64,9 @@ For some specific websites
 - `GitHub File Icon <https://addons.mozilla.org/en-Us/firefox/addon/github-file-icon>`_ (0.5.0) shows icons associated with file types. Very small but very useful when browing large code repository online!
 - `GitHub with MathJax <https://github.com/traversaro/github-mathjax-firefox>`_ (0.2.3) (no yet published on `Firefox addons <https://addons.mozilla.org/en-Us/firefox/addon/>`_. Simple but efficient: uses `MathJax <https://www.mathjax.org/>`_ to display nicely any LaTeX math equation in Markdown (and other) files seen on `GitHub <https://github.com/>`_.
 - `YouTube Control Center <https://addons.mozilla.org/en-Us/firefox/addon/youtube-control-center>`_ (0.6.3), see `on the editor's website <https://add0n.com/control-center.html>`_, allows a powerful control on `YouTube.com <https://www.YouTube.com/>`_.
+- `YouTube Audio <https://addons.mozilla.org/fr/firefox/addon/youtube-audio/>`_ allows you not to receive the video stream, and therefore significantly reduces power consumption and therefore the ecological impact of your consumption of YouTube videos, if you don't watch them but just listen to them...
+
+.. seealso:: `What I watch on YouTube! <what-i-watch-on-youtube.en.html>`_ ;
 
 
 --------------------------------------------------------------------------------

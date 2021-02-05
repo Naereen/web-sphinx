@@ -116,14 +116,15 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    :maxdepth: 2
    :titlesonly:
 
-   coronavirus.fr
-   journal-de-bord-pendant-confinement-coronavirus-2020.fr
    callme.fr
    enseignement.fr
    cv.fr
    recherche.fr
+   mes-outils-preferes.fr
    agreg-2014/index
    README
+   coronavirus.fr
+   journal-de-bord-pendant-confinement-coronavirus-2020.fr
    cookies.fr
    publis.fr
    bin.fr

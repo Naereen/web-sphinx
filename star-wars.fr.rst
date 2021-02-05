@@ -83,8 +83,15 @@ Regardez `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLV
 
 .. youtube:: lNKn7xvn6BE
 
-Reprise de musiques de Star Wars
---------------------------------
+Regardez `le site web de UltraSabers <https://ultrasabers.com/real-lightsabers/>`_ ou `cet exploit enregistré au Guiness Book des Records en 2020 <https://www.guinnessworldrecords.com/news/2020/12/canadian-inventor-hacksmith-creates-world%E2%80%99s-first-retractable-lightsaber-641762>`_ : «_Canadian Inventor Hacksmith creates world's first retractable lightsaber ».
+
+.. todo:: Acheter un sabre laser réaliste ? Comme ça je pourrai faire comme Léonard de The Big Bang Theory ?
+
+.. youtube:: 3NztVkTXXCc
+
+
+Reprises de musiques de Star Wars
+---------------------------------
 
 Parce que tout est plus drôle si le protagoniste est déguisé en Storm Trooper :
 

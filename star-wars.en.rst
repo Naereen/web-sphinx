@@ -74,14 +74,20 @@ The order in which I recommend watching Star Wars is as follows:
 
 --------------------------------------------------------------------------------
 
-Lightsaber fighting
--------------------
+Light-saber fighting
+--------------------
 
-Watch `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_, two YouTube channels that show lightsaber fights, inspired by Star Wars.
+Watch `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_, two YouTube channels that show light-saber fights, inspired by Star Wars.
 
 .. youtube:: AmR5LoyZ4jw
 
 .. youtube:: lNKn7xvn6BE
+
+Regardez `le site web de UltraSabers <https://ultrasabers.com/real-lightsabers/>`_ ou `cet exploit enregistré au Guiness Book des Records en 2020 <https://www.guinnessworldrecords.com/news/2020/12/canadian-inventor-hacksmith-creates-world%E2%80%99s-first-retractable-lightsaber-641762>`_ : «_Canadian Inventor Hacksmith creates world's first retractable lightsaber ».
+
+.. todo:: Acheter un sabre laser réaliste ? Comme ça je pourrai faire comme Léonard de The Big Bang Theory ?
+
+.. youtube:: 3NztVkTXXCc
 
 Cover of Star Wars music
 ------------------------
