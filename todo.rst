@@ -5,7 +5,10 @@
 À propos
 --------
 Cette page accueille une liste des problèmes à résoudre, de trucs à faire,
-et d'idées pour améliorer ces pages webs (`<index.html>`_ pour en savoir plus).
+et d'idées pour améliorer ces pages webs (`<index.fr.html>`_ pour en savoir plus).
+
+.. warning:: Je n'utilise pas vraiment cette page, à part pour tester cette extension...
+
 
 ------------------------------------------------------------------------------
 

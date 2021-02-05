@@ -2,18 +2,26 @@ git-complete-stats.sh: do statistics on this git repository.
   From https://github.com/Naereen/git-stats/
 
 Number of commits per author:
-  1415	Lilian Besson
+  2030	Lilian Besson
+     5	Lilian Besson (Naereen)
      1	Jill-Jênn Vie
 
------------------------------
-Statistics for: Lilian Besson
-  - Number of files changed: 1918
-  - Number of lines added: 615879
-  - Number of lines deleted: 589818
+----------------------
+Statistics for: Lilian
+  - Number of files changed: 2220
+  - Number of lines added: 627469
+  - Number of lines deleted: 590218
   - Number of merges: 0
 
------------------------------
-Statistics for: Jill-Jênn Vie
+----------------------
+Statistics for: Lilian
+  - Number of files changed: 2220
+  - Number of lines added: 627469
+  - Number of lines deleted: 590218
+  - Number of merges: 0
+
+-------------------------
+Statistics for: Jill-Jênn
   - Number of files changed: 1
   - Number of lines added: 1
   - Number of lines deleted: 1
