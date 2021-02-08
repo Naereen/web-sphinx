@@ -7,7 +7,9 @@
 =========================
 
 Cette petite page montre des blagues en français.
-Je ne suis pas l'auteur de la plupart de ces blagues.
+
+.. warning:: Je ne suis **pas** l'auteur de la plupart de ces blagues.
+
 
 Une première blague ?
 ~~~~~~~~~~~~~~~~~~~~~
@@ -25,16 +27,17 @@ En gros, elle fait ça :
 
    $ python3 -c "import random; f=open('$HOME/.blagues.txt'); line=random.choice(f.readlines()); print(line)"
 
+
 ALL THE JOKES!
 ~~~~~~~~~~~~~~
+
+On affiche `TOUTES LES BLAGUES ! <https://knowyourmeme.com/memes/all-the-things>`_ :
 
 .. include:: .blagues.rst
 
 
-.. On affiche `TOUTES LES BLAGUES ! <https://knowyourmeme.com/memes/all-the-things>`_
-.. 
 .. .. runblock:: pycon
-.. 
+..
 ..    >>> import random
 ..    >>> f = open('/home/lilian/.blagues.txt')
 ..    >>> for line in f.readlines():
@@ -42,6 +45,9 @@ ALL THE JOKES!
 
 Liens
 ~~~~~
-- Vidéos « Jokes de Papa » sur YouTube
+- `Vidéos « Jokes de Papa » sur YouTube <https://www.youtube.com/playlist?list=PLKVHXumEUNS53qA3_GkAlR9eMsHkMfsek>`_ ;
+- Le jeu `Jokes de Papa <https://www.fnac.com/Jokes-de-papa/a11184531/w-4>`_ (sur la Fnac).
+
+.. youtube:: IhkNo3znU5s
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

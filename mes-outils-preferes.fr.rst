@@ -162,9 +162,7 @@ Autres logiciels
 - **Suivi d'activités sur mon ordinateur** (*self spying*, voir `cette page <self-quantified.fr.html>`_) :
     + Générique : `uLogMe <https://github.com/Naereen/uLogMe/>`_ que je maintiens depuis 2016. J'adore ! Elle utilise Python et Flask, et des scripts Bash.
     + Pour le code dans VSCode : `WakaTime <wakatime.fr.html>`_ ;
-    + J'avais des extensions Firefox qui faisaient des statistiques très avancées, mais elles ne sont plus mises à jour ou sont trop consommatrices de RAM... donc je n'en ai pas retrouvé !
-
-.. todo:: Retrouver un équivalent en 2021 ?
+    + J'avais des extensions Firefox qui faisaient des statistiques très avancées, et `Mind the Time <https://addons.mozilla.org/en-US/firefox/addon/mind-the-time/>`_ fonctionne très bien.
 
 - **Navigateur de fichiers** : **GNOME Nautilus**. En 2012/13, j'avais écrit une extension pour avoir un terminal intégré mais flemme de la remettre à jour, c'était pas si utile.
 - TODO continuer, quand j'aurai des idées.
