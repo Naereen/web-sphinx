@@ -126,7 +126,7 @@ Maintenant
 - Mercredi 03 juin à ? : pas grand chose à raconter, du repos, du boulot et du sport.
 - J'arrête de mettre à jour cette page, la situation est moins compliquée.
 
-.. todo:: Mettre à jour au moins tous les deux ou trois jours cette page web !
+.. DONE Mettre à jour au moins tous les deux ou trois jours cette page web !
 
 ------------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ Petit interlude humoristique
 Comment me contacter ?
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Bonne chance à vous tous :-) Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
+Bonne chance à vous tous :-) Soyez prudents, travaillez bien, soyez gentils et serviables (pour les plus âgés notamment !).
 Je suis joignable par email : ``lilian.besson`` à ``crans.org``, ``ens-rennes.fr`` ou ``inria.fr``.
 
 Je suis aussi joignable par téléphone : zéro six vingt-huit quarante-et-un vingt-deux cinquante-sept. **Seulement si c'est vraiment important**.
