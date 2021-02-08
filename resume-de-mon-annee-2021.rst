@@ -15,10 +15,10 @@ Principaux objectifs pour 2021
 J'ai décidé de me fixer les objectifs suivants pour cette année :
 
 1. Objectifs de l'été 2020 ratés, que je replace ici sans honte :
-   + Retourner à Lausanne et voir mon ancien colloque S. ! --> échec
-   + Aller voir un cousin et leur auberge à la frontière franco-suisse, au sud du lac Léman ; --> échec
-   + Monter au dessus de 4000m, et faire une randonnée d'alpinisme ! --> échec
-   + Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ; --> échec
+    + Retourner à Lausanne et voir mon ancien colloque S. ! --> échec
+    + Aller voir un cousin et leur auberge à la frontière franco-suisse, au sud du lac Léman ; --> échec
+    + Monter au dessus de 4000m, et faire une randonnée d'alpinisme ! --> échec
+    + Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ; --> échec
 2. Prendre mon temps mais réussir à guérir de certaines habitudes un peu toxiques : jouer moins aux jeux vidéos, dormir mieux, travailler plus, coder plus, sortir plus, faire plus de sport, etc !
 3. Me remettre à courir et au vélo, puis au foot ! Idéalement, être de nouveau capable de courir une heure et/ou 10 kilomètres pour fin août !
 4. Me remettre à cuisiner davantage et alimenter le `blogue de cuisine <https://perso.crans.org/besson/cuisine/>`_ ! Et aussi le `blogue zéro déchet <https://perso.crans.org/besson/zero-dechet>`_ !
@@ -45,6 +45,7 @@ Février 2021
 ------------
 - Un chouette week-end à Paris et à Massy, je n'y étais pas retourné depuis fin août 2020 !
 - Discussions pour en éventuel poste en classes préparatoires... affaire à suivre !
+- TODO
 
 .. warning:: Le reste est dans le futur !
 

@@ -17,6 +17,9 @@ Je les liste par catégories, en suivant les catégories déjà utilisées sur m
     * ou sur `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.
 
 
+.. todo:: Ajouter un lien vers `Google Play Store <https://play.google.com/store/apps/>`_ pour chaque application !
+
+
 Messages
 ~~~~~~~~
 
@@ -130,12 +133,12 @@ Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisati
    En plus d'être libre et gratuite, `OpenStreetMap <https://www.openstreetmap.org/>`_ est créée et gérée par la communauté.
    Avec `OSM And <https://osmand.net/>`_, on peut télécharger à l'avance les cartes et y accéder facilement sans connexion à Internet.
 
-   .. todo:: Est-ce qu'il y a d'autres alternatives ? `Dites mmoi stp <contact>`_ !
+   .. todo:: Est-ce qu'il y a d'autres alternatives ? `Dites moi stp <contact>`_ !
 
 
 - `Rome2rio <https://www.Rome2rio.com/>`_ pour calculer des itinéraires qui mélangent train, voiture, avion, etc. Très fiable, très efficace partout en Europe, je ne sais pas pour le reste du monde. En France, il connaît les horaires de bus et de train mieux que Google Maps !
 - `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ pour réserver et gérer ses trajets de covoiturage avec la plateforme la plus populaire en France (plusieurs millions d'utilisatrices) ;
-- `Booking.com <https://www.Booking.com/>`_ pour réserver des logements, que ce soit appartements de location (comme AirBNB), des hôtels, etc. Je peux vous paraîner si vous voulez devenir client, utilisez ce lien : FIXME.
+- `Booking.com <https://www.Booking.com/>`_ pour réserver des logements, que ce soit appartements de location (comme AirBNB), des hôtels, etc.
 
 
 Magasins en ligne
@@ -171,9 +174,9 @@ Pour se détendre
 - **Daily Yoga** : pour s'initier au yoga ;
 - **Calm** : pour aider la méditation quotidienne, et propose gratuitement des bruits d'ambiance style forêt ou oiseaux ;
 - **Forest** : pour aider à déconnecter de son téléphone ;
-- **Drink Water** Reminer : super simple mais efficace ;
+- **Drink Water** Reminder : super simple mais efficace ;
 - **Sleep Monitor** : suggère d'aller dormir le soir, alarme efficace (douce mais persistante) le matin... L'appli propose aussi des statistiques très précises, si on pense à lui indiquer les débuts et fin de sommeil ;
-- Bonus : le site web `Generative.fm <https://Generative.fm/>`_ propose des dizaines de morceaux de musique d'ambiance, alétaoires, composées par... des programmes (réseaux de neurones et tout) ! C'est idéal pour travailler, j'adore !
+- Bonus : le site web `Generative.fm <https://Generative.fm/>`_ propose des dizaines de morceaux de musique d'ambiance, aléatoires, composées par... des programmes (réseaux de neurones et tout) ! C'est idéal pour travailler, j'adore !
 
 
 Pour l'alimentation
@@ -206,23 +209,23 @@ Boîtes à son pour rigoler
    :align: center
    :alt: List of apps related to soundboxes
 
-- Instant Kaamelott
-- Kaamelott répliques & GIF
-- Soundbox Kaamelott
-- On en a gros
+- Instant Kaamelott ;
+- Kaamelott répliques & GIF ;
+- Soundbox Kaamelott ;
+- On en a gros ;
 - **La Soundbox** est de loin la meilleure, car contient plein de films culte !
-- Instant Louis de Funès
-- Naheulbeuk Boîte à Chiantos
+- Instant Louis de Funès ;
+- Naheulbeuk Boîte à Chiantos ;
 - **Naheulbeuk MP3** est chouette, télécharge à la volée les épisodes depuis `le site web de Naheulbeuk (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
 
 
 Pour faire croire qu'on est encore en prépa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Banque Exo (MP CCP)**
-- **ExoSupSpé**
-- **OCaml Toplevel for Android**
+- **OCaml Toplevel for Android** pour coder en `OCaml 3.12 <ocaml.fr.html>`_ sur votre smartphone ou tablette ;
+- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** ou **`QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_** pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
+- **Banque Exo (MP CCP)** et **ExoSupSpé** pour des problèmes de maths et leur correction.
 
-.. todo:: Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
+.. Idées ? Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

@@ -164,7 +164,7 @@ console.log("[INFO] Starting main JS content when document will be ready ! © Li
 Mousetrap.bind(["u"], function() { //'%d %b %Y, %Hh:%Mm:%Ss'
    var last_updated_value = "24 Sep 2015, 14h:52m:33s" || "06 04 2014, 00h:30m:14s";
     var day   = last_updated_value.substring(0,  2 ) || "06";
-    var month = last_updated_value.substring(3,  6 ) || "04"; // FIXME convert Sep -> 09, Oct -> 10 ect...
+    var month = last_updated_value.substring(3,  6 ) || "04"; // ? convert Sep -> 09, Oct -> 10 ect...
     var year  = last_updated_value.substring(7,  11) || "2014";
     var hours = last_updated_value.substring(13, 15) || "12";
     var mins  = last_updated_value.substring(17, 19) || "00";

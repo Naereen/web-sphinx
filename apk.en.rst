@@ -18,6 +18,8 @@ I list them by categories, following the categories already used on my phones.
     * or at `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.
 
 
+.. todo:: Add link to `Google Play Store <https://play.google.com/store/apps/>`_ for each application!
+
 Messages
 ~~~~~~~~
 
@@ -32,7 +34,7 @@ Messages
 - 📧 `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough) ``#messenger`` ;
 - 📧 `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough) ``#fb`` ;
 - 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
-- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activites learning (during the coronavirus epidemic) <coronavirus.html>` ``#dvd`` ``#discord`` ``#gaming`` ``#geek`` ;
+- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activities learning (during the coronavirus epidemic) <coronavirus.en.html>`_ ``#dvd`` ``#discord`` ``#gaming`` ``#geek`` ;
 - 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_: best encrypted mail (free, Swiss, reliable) ``#suisse`` (my ProtonMail address is ``firstname.lastname@ProtonMail.com``).
 
 Meeting people
@@ -133,7 +135,7 @@ To use websites easily on mobile (registered account, easy to use) :
 
 - `Rome2rio <https://www.Rome2rio.com/>`_ to calculate routes that mix train, car, plane, etc.. Very reliable, very efficient everywhere in Europe, I don't know about the rest of the world. In France, it knows bus and train timetables better than Google Maps!
 - `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ to book and manage his carpool trips with the most popular platform in France (several million users) ;
-- `Booking.com <https://www.Booking.com/>`_ to book accommodation, whether rental apartments (like AirBNB), hotels, etc. If you want to become a customer, use this link : FIXME.
+- `Booking.com <https://www.Booking.com/>`_ to book accommodation, whether rental apartments (like AirBNB), hotels, etc.
 
 
 Online stores
@@ -204,14 +206,21 @@ Other apps :
    :alt: List of apps related to soundboxes
 
 
-- Instant Kaamelott
-- Kaamelott replicas & GIF
-- Soundbox Kaamelott
-- We got a lot of them.
+- Instant Kaamelott;
+- Kaamelott replicas & GIF;
+- Soundbox Kaamelott;
+- We got a lot of them;
 - **The Soundbox** is by far the best, because it contains a lot of cult movies!
-- Instant Louis de Funès
-- Naheulbeuk Chiantos Box
+- Instant Louis de Funès;
+- Naheulbeuk Chiantos Box;
 - **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
 
+
+To make people believe that we are still in "prépa"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** or **`QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_** to code in `Python 3 <python.html>`_ on your smartphone or tablet;
+- **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet.
+- **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

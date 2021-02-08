@@ -59,6 +59,6 @@
    :target: index.html
 
 
-.. todo:: Traduire cette page en anglais aussi !
+.. Idée ? Traduire cette page en anglais aussi !
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
