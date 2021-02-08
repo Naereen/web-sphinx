@@ -2,12 +2,13 @@
    :description lang=en: Description of how I use the text editor Visual Studio Code (VSCode)
    :description lang=fr: Page décrivant mon utilisation de l'éditeur de texte Visual Studio Code (VSCode)
 
-##########################################################################
+###########################################################################
  Mon utilisation de `Visual Studio Code <https://code.visualstudio.com/>`_
-##########################################################################
+###########################################################################
 
-À-propos…
+À-propos...
 -----------
+
 À-propos de cette page
 ^^^^^^^^^^^^^^^^^^^^^^
 Cette page est là pour décrire rapidement l'utilisation que je fais quotidiennement du génial **Visual Studio Code**, un `éditeur de texte <https://fr.wikipedia.org/wiki/Éditeur_de_texte>`_ multi-plateforme.
@@ -188,7 +189,7 @@ Interlude comique
 ~~~~~~~~~~~~~~~~~
 
 .. image:: https://www.commitstrip.com/wp-content/uploads/2020/06/Strip-Visual-Studio-Code-650-final.jpg
-    :src:  http://www.commitstrip.com/fr/2020/06/11/im-watching-you/
+   :src:  http://www.commitstrip.com/fr/2020/06/11/im-watching-you/
 
 -----------------------------------------------------------------------------
 
@@ -232,7 +233,7 @@ Greffons ajoutant de super fonctionnalités :
 Un meilleur support pour certains langages :
 
 * `Bash Debug <https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug>`_ : permet le débogage de scripts bash (avec `bashdb <http://bashdb.sourceforge.net/>`_).
-* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : évaluation de la qualité du code, débogage (y compris multi-microprocessus, applications web), Intellisense, auto-complétion, formattage de code, morceaux de code, tests unitaires, et plus, pour le `langage Python <python.html>`_.
+* `Python <https://marketplace.visualstudio.com/items?itemName=donjayamanne.python>`_ : évaluation de la qualité du code, débogage (y compris multi-microprocessus, applications web), Intellisense, auto-complétion, formatage de code, morceaux de code, tests unitaires, et plus, pour le `langage Python <python.html>`_.
 * `MagicPython <https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython>`_ : meilleure coloration syntaxique pour tous les derniers ajouts au langage Python.
 * `Python-autopep8 <https://marketplace.visualstudio.com/items?itemName=himanoa.Python-autopep8>`_ : applique `autopep8 <https://pypi.org/project/autopep8>`_ au fichier courant.
 * `Git Blame <https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame>`_ : affiche des informations de ``git blame`` dans la barre de statut.
@@ -245,12 +246,15 @@ Un meilleur support pour certains langages :
 * `LaTeX Workshop <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>`_ : support très complet pour éditer des fichiers LaTeX efficacement avec aperçu, compilation, autocomplétion, coloration syntaxique, et plus.
 * C'est une extension que j'ai faite moi-même! Mais maintenant, à partir de 2019, cela ne sert à rien, car VSCode est livré avec un support intégré pour Makefiles. `Makefiles Support For VSCode <https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode>`_ : est `mon <https://github.com/Naereen/Makefiles-support-for-VSCode/>`_ extension pour ajouter le support des fichiers `GNU Makefile <https://www.gnu.org/software/make/manual/make.html>`_ (pour l'instant très simple : juste la coloration et la détection, pas encore l'intégration dans le système de construction). |version-VSCode-extension| |installs-VSCode-extension| |rating-VSCode-extension|
 * `Make <https://marketplace.visualstudio.com/items?itemName=technosophos.vscode-make>`_ seems to be exactly offering what I had on `Sublime Text <sublimetext.en.html>`_ and was using extensively: « Run any Makefile target with ease. Just run CMD-SHIFT-P and type make. You will be prompted for a target. » ! Mais `je ne peux pas le faire fonctionner localement... <https://github.com/technosophos/vscode-make/issues/10>`_
+
+.. todo:: TODO: trouver une extension qui permette vraiment de faire ça ! J'ai essayé `make-task-provider <https://marketplace.visualstudio.com/items?itemName=carlos-algms.make-task-provider>`_, `Makefile Command Runner <https://marketplace.visualstudio.com/items?itemName=madmous.makefile-command-runner>`_ et `makeRunner <https://marketplace.visualstudio.com/items?itemName=alexnesnes.makeRunner>`_ le 08/02/2021, sans succès.
+
 * `Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>`_ : tout ce qu'il faut pour éditer des fichiers Markdown (raccourcis clavier, table des matières, aperçu latéral etc).
 * `minify <https://marketplace.visualstudio.com/items?itemName=HookyQR.minify>`_ : minifier les codes Javascript, CSS et HTML, depuis la palette ou en sauvegardant un fichier (optionnel).
 * `OCaml <https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml>`_ : support très complet du langage OCaml pour Visual Studio Code. Ça marche vraiment très bien !
 * `Ocaml tuareg-master <https://marketplace.visualstudio.com/items?itemName=muchtrix.ocaml-tuareg-master>`_ : petite extension pour envoyer un bloc OCaml (terminé par ``;;``) dans un terminal ouvert.
 * `reStructuredText <https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext>`_ : permet d'éditer des fichiers reStructuredText (RST, ReST) avec un aperçu en temps réel précis !
-* `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_ : formate des tableaux écrits en texte avec la syntaxse Markdown, Textile et reStructuredText.
+* `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_ : formate des tableaux écrits en texte avec la syntaxe Markdown, Textile et reStructuredText.
 
 
 Greffons plus lourds, ou conçu pour un langage spécifique :

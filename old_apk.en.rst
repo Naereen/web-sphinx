@@ -6,6 +6,8 @@
  My favorite Android™ apps !
 #############################
 
+.. seealso:: `My new list of apps (2020) <apk.en.html>`_.
+
 .. note:: This page is about Android™ apps
 
    For more details, maybe you should first read one of these:

@@ -6,6 +6,8 @@
  Mes applications Android™ favorites
 #####################################
 
+.. seealso:: `Ma nouvelle liste d'applications (2020) <apk.fr.html>`_.
+
 .. note:: Cette page parle d'applications pour Android™
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
