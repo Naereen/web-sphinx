@@ -6,18 +6,18 @@
  Mes extensions préférées pour Firefox
 #######################################
 
-.. note:: Cette page parle d'extensions pour Firefox
+.. note:: Cette page parle d'extensions pour Mozilla Firefox, le meilleur navigateur web !
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
 
-    * par exemple `la page officielle des extensions Firefox <https://addons.mozilla.org/en/firefox/>`_,
+    * par exemple `la page officielle des extensions Firefox <https://addons.mozilla.org/fr/firefox/>`_,
     * ou sur Wikipédia : `Extension (Mozilla) <https://fr.wikipedia.org/wiki/Extension_(Mozilla)>`_.
 
 ------------------------------------------------------------------------------
 
 Ma liste d'extensions
 ---------------------
-Veuillez trouver ci-dessous ma liste d'extensions favorites pour Firefox.
+Veuillez trouver ci-dessous ma liste d'extensions favorites pour Mozilla Firefox, le meilleur navigateur web !.
 
 .. note:: Qu'est-ce qu'une extension ?
 
@@ -63,6 +63,7 @@ Pour certains sites web
 - `Emoji Cheatsheet for GitHub, Basecamp etc. <https://addons.mozilla.org/fr/firefox/addon/emoji-cheatsheet>`_ (2.0.1) pour facilement choisir "la bonne émoticône" pour réagir à n'importe quelle situation sur des sites comme `GitHub <https://github.com/>`_,
 - `GitHub File Icon <https://addons.mozilla.org/fr/firefox/addon/github-file-icon>`_ (0.5.0) montre une petite icône différente pour chaque type de fichiers, très pratique quand on regarde un gros dépôt entier sur `GitHub <https://github.com/>`_
 - `GitHub with MathJax <https://github.com/traversaro/github-mathjax-firefox>`_ (0.2.3) (pas encore publié sur `le site des extensions de Firefox <https://addons.mozilla.org/fr/firefox/addon/>`_. Simple mais efficace : utilise `MathJax <https://www.mathjax.org/>`_ pour afficher joliment des équations écrits en LaTeX dans des fichiers Markdown (ou d'autres format), quand on les vois affichés sur `GitHub <https://github.com/>`_.
+- `Quick Commands <https://addons.mozilla.org/fr/firefox/addon/quick-commands/>`_ fournit un moyen rapide de rechercher et de changer entre les onglets ouverts ou les onglets ouverts à partir de l'historique et des signets. C'est similaire au mode "commande" de `VSCode <visualstudiocode.en.html>`_ et des `notebooks Jupyter <https://www.jupyter.org/>`_.
 - `YouTube Control Center <https://addons.mozilla.org/fr/firefox/addon/youtube-control-center>`_ (0.6.3), cf. `le site web de l'éditeur <https://add0n.com/control-center.html>`_, permet un contrôle plus fin de `YouTube.com <https://www.YouTube.com/>`_.
 
 À des fins écologiques

@@ -6,7 +6,7 @@
  My favorite Firefox extensions
 ################################
 
-.. note:: This page is about Firefox extensions
+.. note:: This page is about extensions for Mozilla Firefox, the best web browser!
 
    For more details, maybe you should first read one of these:
 
@@ -17,7 +17,7 @@
 
 My list of extensions
 ---------------------
-Please find below my list of favorite extensions for Firefox.
+Please find below my list of favorite extensions for Mozilla Firefox, the best web browser!.
 
 .. note:: What is an extension?
 
@@ -61,15 +61,15 @@ For some specific websites
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Emoji Cheatsheet for GitHub, Basecamp etc. <https://addons.mozilla.org/en-Us/firefox/addon/emoji-cheatsheet>`_ (2.0.1) allows to easily pick "the right emoji" to reply on website such as `GitHub <https://github.com/>`_.
-- `GitHub File Icon <https://addons.mozilla.org/en-Us/firefox/addon/github-file-icon>`_ (0.5.0) shows icons associated with file types. Very small but very useful when browing large code repository online!
+- `GitHub File Icon <https://addons.mozilla.org/en-Us/firefox/addon/github-file-icon>`_ (0.5.0) shows icons associated with file types. Very small but very useful when browsing large code repository online!
 - `GitHub with MathJax <https://github.com/traversaro/github-mathjax-firefox>`_ (0.2.3) (no yet published on `Firefox addons <https://addons.mozilla.org/en-Us/firefox/addon/>`_. Simple but efficient: uses `MathJax <https://www.mathjax.org/>`_ to display nicely any LaTeX math equation in Markdown (and other) files seen on `GitHub <https://github.com/>`_.
+- `Quick Commands <https://addons.mozilla.org/en-US/firefox/addon/quick-commands/>`_ provides a fast way to search and change between open Tabs or open tabs from History and Bookmarks. It's similar to the "command" mode from `VSCode <visualstudiocode.en.html>`_ and `Jupyter notebooks <https://www.jupyter.org/>`_.
 - `YouTube Control Center <https://addons.mozilla.org/en-Us/firefox/addon/youtube-control-center>`_ (0.6.3), see `on the editor's website <https://add0n.com/control-center.html>`_, allows a powerful control on `YouTube.com <https://www.YouTube.com/>`_.
 
 For ecological purposes
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Carbonalyser <https://addons.mozilla.org/en-US/firefox/addon/carbonalyser/>`_ analyses which websites you browse the most, and which ones are the most polluting by analyzing the quantity of data sent and received. For me on February 2021, it was 34% `YouTube <https://YouTube.com/>`_, 12% `Netflix <https://www.netflix.com/>`_ and 11% `9Gag <https://9gag.com>`_.
-
 - `YouTube Audio <https://addons.mozilla.org/en-US/firefox/addon/youtube-audio/>`_ allows you not to receive the video stream, and therefore significantly reduces power consumption and therefore the ecological impact of your consumption of YouTube videos, if you don't watch them but just listen to them...
 
 .. seealso:: `What I watch on YouTube! <what-i-watch-on-youtube.en.html>`_ ;
