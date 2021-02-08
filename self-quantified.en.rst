@@ -9,6 +9,8 @@ What does *self-quantified* mean?
 ---------------------------------
  `This Wikipedia page <https://en.wikipedia.org/wiki/Quantified_Self>`_ explains this better than I could do.
 
+.. warning:: This page is OLD!
+
 
 What will I try in this experiment?
 -----------------------------------
@@ -192,7 +194,7 @@ References
    This `blog post by Stephen Wolfram <https://karpathy.github.io/2014/08/03/quantifying-productivity/>`_ (September 2014)
    presents the summary of 3 months of use of `uLogMe <https://github.com/Naereen/uLogMe/>`_.
 
-.. seealso:: `This git repository <https://bitbucket.org/lbesson/self-quantified>`_, almost empty (and private) for now.
+.. TODO: `This git repository <https://bitbucket.org/lbesson/self-quantified>`_, almost empty (and private) for now.
 
 .. todo:: Finish this article on self-quantified.
 

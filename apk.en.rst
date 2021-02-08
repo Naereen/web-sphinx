@@ -223,4 +223,6 @@ To make people believe that we are still in "prépa"
 - **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet.
 - **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
 
+.. seealso:: `My old list of apps <old_apk.fr.html>`_.
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

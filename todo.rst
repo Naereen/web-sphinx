@@ -35,11 +35,12 @@ De tels soucis peuvent être déclarés via : ::
 
 TODO génériques
 ---------------
-Ici se trouve des **TODO** génériques, qui concernent le projet entier (hebergé
+Ici se trouve des **TODO** génériques, qui concernent le projet entier (hébergé
 sur le dépôt `web-sphinx <https://bitbucket.org/lbesson/web-sphinx/>`_).
 
 .. todo:: Nettoyer les vieilles pages, notamment `<trademarks.html>`_.
 .. todo:: Abandonner l'intégration d'ACE aux toplevels GNUPlot et OCaml !
+.. todo:: Écrire des scripts npm pour lancer la construction du site depuis VSCode ?
 
 .. versionadded:: 2.1
 

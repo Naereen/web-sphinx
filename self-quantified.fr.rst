@@ -16,6 +16,6 @@ Que vais-je tenter dans cette expérience ?
 
 ----
 
-.. seealso:: `Ce dépôt git <https://bitbucket.org/lbesson/self-quantified>`_, presque vide pour l'instant (et privé).
+.. TODO: `Ce dépôt git <https://bitbucket.org/lbesson/self-quantified>`_, presque vide pour l'instant (et privé).
 
 .. (c) Lilian Besson, 2016, https://bitbucket.org/lbesson/self-quantified/

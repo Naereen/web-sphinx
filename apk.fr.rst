@@ -228,4 +228,6 @@ Pour faire croire qu'on est encore en prépa
 
 .. Idées ? Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
 
+.. seealso:: `Mon ancienne liste d'applications <old_apk.fr.html>`_.
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

@@ -233,7 +233,7 @@ html:
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
-# FIXME: ne doit plus marcher. De toutes façons, ne sert à rien
+# FIXED: ne doit plus marcher. De toutes façons, ne sert à rien
 epub:
 	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
 	@echo
