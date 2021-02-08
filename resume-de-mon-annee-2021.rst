@@ -46,6 +46,8 @@ Février 2021
 - Un chouette week-end à Paris et à Massy, je n'y étais pas retourné depuis fin août 2020 !
 - Discussions pour en éventuel poste en classes préparatoires... affaire à suivre !
 
+.. warning:: Le reste est dans le futur !
+
 Mars 2021
 ---------
 - TODO
@@ -109,11 +111,11 @@ En 2021, j'ai voyagé là…
 
 En 2021, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Depuis mi-décembre 2020, je joue à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC, et j'y joue différemment : en mode « difficile », sans faire l'histoire principale et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! J'adore Skyrim ! **Fus, Ro, Dah !**
+- De mi-décembre 2020 à début février, j'ai rejoué à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC. Cette fois, j'y ai joué différemment : en mode « très difficile » (ou plus dur, et je baisse progressivement la difficulté si je meurs), mais sans faire l'histoire principale (que je connaissais encore bien), et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! Et les deux DLC Dragonborn et Dawnguard ! J'adore Skyrim ! **Fus, Ro, Dah !**
 - Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, ̀`Yarntown <https://www.solarus-games.org/en/games/yarntown>`_).
 - Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>̀`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment.
 - TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc.
-- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !).
+- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que Octopath Traveler, qui m'avait déçu en septembre 2020.
 
 En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,6 +128,8 @@ En 2021, j'ai vu ces séries…
 
 En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. note:: Lire des livres m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
+
 - *Guide de Survie en Milieu Naturel*, de David Manise, lu en détail.
 - TODO
 - Et d'autres que j'ai oublié de noter…

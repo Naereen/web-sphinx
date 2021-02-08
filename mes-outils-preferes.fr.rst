@@ -59,7 +59,7 @@ Messagerie
 ~~~~~~~~~~
 
 - **Client email** : **Mozilla Thunderbird** ;
-- **Client RSS/ATOM** : **Mozilla Thunderbird**. `Voir la liste de blogs que je lis <blog-roll.fr.html>`_ ;
+- **Client RSS/ATOM** : **Mozilla Thunderbird**. `Voir la liste de blogs que je lis <blog-roll.fr.html>`_. J'utilise encore RSS ! (comme `ce gars <https://atthis.link/blog/2021/rss.html>`_).
 
 Autres messageries :
 
@@ -89,14 +89,14 @@ Gestionnaire de version
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 - J'utilise Git avec passion depuis 2013.
-  + Pourquoi ? Après avoir perdu des documents lors d'un vol d'un ordinateur en 2011, puis lors de la mort prématurée d'un disque dur, je fais désormais très attention de bien archiver mes documents de travail les plus importants.
-  + Pour quoi ? Pour tout !
-  + Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_
+    + Pourquoi ? Après avoir perdu des documents lors d'un vol d'un ordinateur en 2011, puis lors de la mort prématurée d'un disque dur, je fais désormais très attention de bien archiver mes documents de travail les plus importants.
+    + Pour quoi ? Pour tout !
+    + Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_
 
 - J'ai utilisé SVN avec `ce projet (teachensren) <https://gforge.inria.fr/projects/teachensren>`_ pendant 5 ans à l'ENS Rennes, et j'aime pas. Vraiment, j'arrive pas à voir l'intérêt...
 
 
-Multimedia
+Multimédia
 ~~~~~~~~~~
 
 - **Lecteur de musique** : **gmusicbrowser** (`<http://gmusicbrowser.org/>`_), vraiment parfait, je l'utilise constamment, depuis 2014. Interface très légère, charge CPU/RAM quasi inexistante, gère sans problème mes ~80 Go et ~23000 titres de musique, peut être modifié à la volée (tout le code est du Perl assez lisible, ce qui est un exploit en soit), peut être scripté et optimisé aux petits oignons ;
@@ -106,8 +106,8 @@ Multimedia
 - **Création de vidéo** depuis le bureau : `OBS Studio <https://obsproject.com/fr/>`_ quand besoin de son ou de longues vidéos (cf `<twitch.fr.html>`_), et `Peek <https://github.com/phw/peek>`_ pour des petits GIF ;
 
 - Autres :
-  + interface plein écran quand je ne travaille pas : ma petite application `GMusicBrowser-FullScreen-WebApp <https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp>`_ qui utilise Python et Flask ;
-  + visualisations sympas : `ProjectM <https://github.com/projectM-visualizer/projectm>`_ mais bon c'est bof ;
+    + interface plein écran quand je ne travaille pas : ma petite application `GMusicBrowser-FullScreen-WebApp <https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp>`_ qui utilise Python et Flask ;
+    + visualisations sympas : `ProjectM <https://github.com/projectM-visualizer/projectm>`_ mais bon c'est bof ;
 
 
 Lecture et édition de PDF
@@ -120,7 +120,8 @@ Lecture et édition de PDF
 Édition d'images et de photos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- GIMP ;
+- GIMP : pour des petits choses sur des images, graphiquement ;
+- imagemagick : pareil, mais en lignes de commande !
 - Inkscape, un peu ;
 
 Créer des documents pédagogiques
@@ -132,12 +133,12 @@ Créer des documents pédagogiques
 - LaTeX TikZ pour des figures, pour des documents LaTeX ou des sites Sphinx avec XXX
 - **pandoc** pour transformer plein de formats en pages web ou PDF ;
 - **Jupyter notebook** : pour rédiger des sujets de TD/TP d'informatique et de programmation, et plus.
-  + Voir ces liens : `@Naereen/notebooks <https://github.com/Naereen/notebooks/>`_.
-  + Je l'utilise pour Python 3, évidemment, mais pas seulement...
-  + `Jupyter SQLite <https://github.com/jupyter-xeus/xeus-sqlite>`_ pour SQLite et enseigner les bases de données ;
-  + `OCaml Jupyter <https://github.com/akabe/ocaml-jupyter/>`_ pour OCaml et l'enseigner !
-  + `IJava Jupyter kernel <https://github.com/SpencerPark/IJava>`_ pour Java et l'enseigner !
-  + Et j'ai aussi écrit des notebooks utilisant les kernels suivants : `GNU Octave <https://pypi.org/project/gnuplot-kernel/>`_, `GNU Bash <https://github.com/takluyver/bash_kernel>`_, `Rust <https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md#installation>`_ (`ici aussi <https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/>`_), et même `le C <https://github.com/brendan-rius/jupyter-c-kernel>`_
+    + Voir ces liens : `@Naereen/notebooks <https://github.com/Naereen/notebooks/>`_.
+    + Je l'utilise pour Python 3, évidemment, mais pas seulement...
+    + `Jupyter SQLite <https://github.com/jupyter-xeus/xeus-sqlite>`_ pour SQLite et enseigner les bases de données ;
+    + `OCaml Jupyter <https://github.com/akabe/ocaml-jupyter/>`_ pour OCaml et l'enseigner !
+    + `IJava Jupyter kernel <https://github.com/SpencerPark/IJava>`_ pour Java et l'enseigner !
+    + Et j'ai aussi écrit des notebooks utilisant les kernels suivants : `GNU Octave <https://pypi.org/project/gnuplot-kernel/>`_, `GNU Bash <https://github.com/takluyver/bash_kernel>`_, `Rust <https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md#installation>`_ (`ici aussi <https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/>`_), et même `le C <https://github.com/brendan-rius/jupyter-c-kernel>`_
 - **OCamlDoc** pour générer des documentations de programmes OCaml, voir ces exemples : `modélisation d'agrég <https://perso.crans.org/besson/a/m/2/doc/>`_, `Zenity OCaml <https://perso.crans.org/besson/publis/Zenity/doc/Zenity.html>`_, etc.
 - **Sphinx doc** pour générer des documentations de programmes OCaml, voir ces exemples : `SMPyBandits <https://smpybandits.readthedocs.io/>`_, `MEC CS101 integrals <https://mec-cs101-integrals.readthedocs.io/>`_ et `MEC CS101 matrices <https://mec-cs101-matrices.readthedocs.io/>`_, `ansicolortags <https://ansicolortags.readthedocs.io/>`_,
 
@@ -153,15 +154,15 @@ Autres logiciels
 - **Sauvegarde en ligne** (cloud backup) : le même logiciel `ownCloud <https://owncloud.org/>`_ synchronise des dossiers sur plusieurs hébergeurs, notamment `le CRANS <https://owncloud.crans.org/login>`_ ;
 
 - **Autres logiciels pour la musique** :
-  + `Bruit Ambiant (Anoise) <http://anoise.tuxfamily.org/>`_ pour avoir des bruits d'oiseaux dans son salon,
-  + et ce site `<https://generative.fm/>`_ pour des musiques discrètes d'ambiance quand je travaille ou durant les visios.
+    + `Bruit Ambiant (Anoise) <http://anoise.tuxfamily.org/>`_ pour avoir des bruits d'oiseaux dans son salon,
+    + et ce site `<https://generative.fm/>`_ pour des musiques discrètes d'ambiance quand je travaille ou durant les visios.
 
 - **Appels visio** : fervent défenseur de la solution libre et gratuite `Jisti <jisti.fr.html>`_, j'ai aussi beaucoup utilisé de BigBlueButton à l'ENS Rennes. J'aime bien Discord, cf plus haut. Je n'aime pas Zoom, Microsoft Teams ou Skype, mais je peux les utiliser si on m'y oblige...
 
 - **Suivi d'activités sur mon ordinateur** (*self spying*, voir `cette page <self-quantified.fr.html>`_) :
-  + Générique : `uLogMe <https://github.com/Naereen/uLogMe/>`_ que je maintiens depuis 2016. J'adore ! Elle utilise Python et Flask, et des scripts Bash.
-  + Pour le code dans VSCode : `WakaTime <wakatime.fr.html>`_ ;
-  + J'avais des extensions Firefox qui faisaient des statistiques très avancées, mais elles ne sont plus mises à jour ou sont trop consommatrices de RAM... donc je n'en ai pas retrouvé !
+    + Générique : `uLogMe <https://github.com/Naereen/uLogMe/>`_ que je maintiens depuis 2016. J'adore ! Elle utilise Python et Flask, et des scripts Bash.
+    + Pour le code dans VSCode : `WakaTime <wakatime.fr.html>`_ ;
+    + J'avais des extensions Firefox qui faisaient des statistiques très avancées, mais elles ne sont plus mises à jour ou sont trop consommatrices de RAM... donc je n'en ai pas retrouvé !
 
 .. todo:: Retrouver un équivalent en 2021 ?
 
@@ -169,10 +170,10 @@ Autres logiciels
 - TODO continuer, quand j'aurai des idées.
 
 - Jeux vidéos sous Ubuntu :
-  + **Pictionnary** : `un tableaunoir partagé <http://tableaunoir.irisa.fr/>`_ + `mon appli minimaliste pour générer un mot aléatoire <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ;
-  + **Clone de Zelda 2D** : `Solarus Games <https://www.solarus-games.org/>`_ (moteur en C++, jeux en Lua, open source !) ;
-  + **Clones de Fire Emblem 2D** : `Lex Talionis <https://gitlab.com/rainlash/lex-talionis/>`_ (moteur en Python, jeux en XML/text et Python, open source !) ;
-  + **Steam** : `disponible sous Linux <https://store.steampowered.com/linux>`_ depuis quelques années !
+    + **Pictionnary** : `un tableaunoir partagé <http://tableaunoir.irisa.fr/>`_ + `mon appli minimaliste pour générer un mot aléatoire <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ;
+    + **Clone de Zelda 2D** : `Solarus Games <https://www.solarus-games.org/>`_ (moteur en C++, jeux en Lua, open source !) ;
+    + **Clones de Fire Emblem 2D** : `Lex Talionis <https://gitlab.com/rainlash/lex-talionis/>`_ (moteur en Python, jeux en XML/text et Python, open source !) ;
+    + **Steam** : `disponible sous Linux <https://store.steampowered.com/linux>`_ depuis quelques années !
 
 
 Logiciels en lignes
@@ -181,12 +182,14 @@ Logiciels en lignes
 - **Tableau en ligne** : le magnifique et régulièrement amélioré **Tableaunoir** !
 - **Traduction automatique** : https://www.deepl.com/translator et https://translate.google.com/ quand nécessaire !
 
-- **Cartographie** : https://www.openstreetmap.org/, https://www.rome2rio.com/, et en dernier recours https://www.google.fr/maps
+- **Cartographie** : `OpenStreetMap <https://www.openstreetmap.org/>`_, `rome2rio <https://www.rome2rio.com/>`_, et en dernier recours `Google Maps <https://www.google.fr/maps>`_ ;
 
-- **Notes et suivi de tâches** : https://keep.google.com/
-- **Emploi du temps et calendrier** : https://calendar.google.com/
+- **Voyages** : `CouchSurfing <https://www.couchsurfing.com/>`_, `BlaBlaCar <https://www.BlaBlaCar.fr/>`_ ;
 
 - **Billets de train** : `The TrainLine <https://www.thetrainline.com/fr>`_, anciennement TrainLine, anciennement CaptainTrain, anciennement Capitaine Train. Je les adore depuis le début, mais <je râle> leurs nouveaux site et appli sont vraiment moins bien qu'avant </je râle>.
+
+- **Notes et suivi de tâches** : `Google Keep <https://keep.google.com/>`_ ;
+- **Emploi du temps et calendrier** : `Google Notes <https://calendar.google.com/>`_ ;
 
 .. todo:: Passer à des solutions Open Source et hébergées localement ? FramaSoft propose des bonnes idées.
 
@@ -196,17 +199,18 @@ Logiciels en lignes
 D'autres listes sur ce site ?
 -----------------------------
 
-.. seealso:: Pour des applications sur téléphone ?
+.. seealso::
 
-   `Cette page <apk.fr.html>`_ liste mes applications Android préférées.
+    Pour des applications sur téléphone ? `Cette page <apk.fr.html>`_ liste mes applications Android préférées.
 
-.. seealso:: Pour des extensions (plugin) des logiciels principaux ?
+.. seealso::
 
+   Pour des extensions (plugin) des logiciels principaux ?
    Ces pages parlent des logiciels que j'utilise principalement, et des extensions et configurations que j'utilise pour ces logiciels :
 
    - `Pour Mozilla Firefox <firefox-extensions.fr.html>`_, meilleur navigateur web ;
    - `Pour (Microsoft) Visual Studio Code <visualstudiocode.fr.html>`_, un très bon éditeur de texte générique ;
-   - D'autres pointeurs : `<zotero.fr.html>`_ gestionnaire de bibliographie, `un tutoriel sur Git <tutogit.fr.html>`_ le meilleur gestionnaire de version, sur Python : pour `apprendre Python <apprendre-python.fr.html>`_ ou `écrire du Python depuis une page web sur ce site <skulpt.fr.html>`_, idem `pour OCaml <try-ocaml.fr.html>`_...
+   - D'autres pointeurs : `<zotero.fr.html>`_ gestionnaire de bibliographie, `un tutoriel sur Git <tutogit.fr.html>`_ le meilleur gestionnaire de version, sur Python : pour `apprendre Python <apprendre-python.fr.html>`_ ou `écrire du Python depuis une page web sur ce site <skulpt.html>`_, idem `pour OCaml <try-ocaml.fr.html>`_...
 
 ---------------------------------------------------------------------
 

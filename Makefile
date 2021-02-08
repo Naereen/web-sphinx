@@ -31,7 +31,7 @@ total_with_gpg: preprocess html images obscure gpghtml send_jarvis send_zamok se
 local: preprocess html images send_jarvis check
 preprocess:	.blagues.rst
 
-check: warnings severes errors
+check: warnings severes errors notify
 
 warnings:
 	@echo "Searching for warnings ..."

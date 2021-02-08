@@ -121,10 +121,8 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    cv.fr
    recherche.fr
    mes-outils-preferes.fr
-   agreg-2014/index
    README
    coronavirus.fr
-   journal-de-bord-pendant-confinement-coronavirus-2020.fr
    cookies.fr
    publis.fr
    bin.fr
@@ -187,6 +185,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    todo
    avoir
    folders
+   agreg-2014/index
    Page d'accueil (en anglais) <index.en>
 
    admin
