@@ -1,7 +1,6 @@
 .. meta::
    :description lang=fr: Mes chansons préférées, avec des liens vers des vidéos YouTube
    :description lang=en: My favorite songs, with links to YouTube videos
-Top 10 of my favorite *stuffs* (movies, games, places, countries, etc)
 
 ################################################################
  Mes chansons préférées, avec des liens vers des vidéos YouTube
@@ -10,6 +9,8 @@ Top 10 of my favorite *stuffs* (movies, games, places, countries, etc)
 Cette page liste mes chansons préférées, dans différentes langues.
 
 .. note:: J'essaie de maintenir des liens vers des vidéos YouTube, pour chaque chanson, pointant à mon passage préféré dans la chanson en question.
+
+.. todo:: Translate in English?
 
 En français
 -----------

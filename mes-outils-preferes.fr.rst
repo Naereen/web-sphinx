@@ -1,15 +1,17 @@
 .. meta::
-   :description lang=fr: Mes outils informatique (et autres) préférés
-   :description lang=en: My favorite IT tools (and others)
+   :description lang=fr: Mes outils et logiciels informatique préférés, discussions et mes recommandations
+   :description lang=en: My favorite computer tools and software, discussions and recommendations
 
-##############################################
- Mes outils informatique (et autres) préférés
-##############################################
+###################################################################################
+ Mes outils et logiciels informatique préférés, discussions et mes recommandations
+###################################################################################
 
 Ce petit article liste quelques outils que j'aime utiliser sur mon ordinateur.
 
 .. todo:: Ajouter les liens web partout, quand la liste sera terminée.
-.. todo:: Translate to `<mes-outils-preferes.en.html>`_ and `<my-favorite-tools.en.html>`_ !
+.. todo:: Translate to `<mes-outils-preferes.en.html>`_ and `<my-favorite-tools.en.html>`_, when the page will be finished!
+
+.. seealso:: Cette liste et discussion sur les `outils pédagogiques <https://perso.crans.org/besson/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book/Outils-pedagogiques.html>`_.
 
 Logiciels principaux
 --------------------
@@ -20,8 +22,10 @@ Logiciels principaux
 - Mail : **Thunderbird** ;
 - Terminal : **GNOME terminal + GNU/Bash + Byobu** ;
 - Gestionnaire de version : **git** ;
+- Éditeur de texte : **Visual Studio Code** (graphique), GNU Nano (terminal), et Jupyter notebook (navigateur) ;
 - Lecteur de musique : **gmusicbrowser** ;
 - PDF : **GNOME Evince** ;
+- Sites favoris : Wikipédia, GitHub, DuckDuckGo, YouTube, etc.
 
 ---------------------------------------------------------------------
 
@@ -33,7 +37,7 @@ Je suis fan d'Ubuntu depuis 2012. Cette distribution GNU/Linux grand public comb
 - J'ai utilisé XUbuntu jusqu'en 2020, et un de mes ordinateurs utilise encore l'interface graphique XFCE.
 - Un autre de mes ordinateurs utilise l'interface graphique GNOME. Je crois que je préfère XFCE, je n'ai pas encore fait l'effort de changer sur ce nouvel ordinateur.
 
-.. todo:: Passer à XFCE sur jarvis3 !
+.. todo:: Passer à XFCE sur jarvis3 ?
 
 **Avantages** : Quels sont les avantages d'Ubuntu ?
 
@@ -63,37 +67,74 @@ Messagerie
 
 Autres messageries :
 
-- Discord : site web, et appli bureau ;
-- Facebook Messenger et WhatsApp : quand nécessaire, mais je n'aime pas ça !
+- **Discord** : site web, et appli bureau (et appli mobile). Pour les enseignements uniquement, à cause de la `crise sanitaire 2020+ <coronavirus.fr.html>`_ ;
+- **Facebook Messenger** et **WhatsApp** : quand nécessaire, mais je n'aime pas ça !
 
 .. todo:: En 2021, enfin quitter ces deux applications/réseaux qui sont chiants ?
+
+
+Éditeur de texte
+~~~~~~~~~~~~~~~~
+
+- **Visual Studio Code** pour quasiment tout ! Voir `ces conseils <visualstudiocode.fr.html>`_.
+    - Pour Python, OCaml, Bash et d'autres langages de programmation ;
+    - Pour Markdown, reStructuredText et d'autres langages à balise ;
+    - Pour LaTeX, avec LaTeX Workshop ça marche bien ;
+    - Pour des Makefile, des fichiers YAML et autres fichiers de configurations ;
+    - Mais *pas* pour des notebooks, je ne suis pas encore convaincu de l'interface !
+- et **Jupyter notebook** dans un navigateur, pour rédiger des notebooks (voir `ces notebooks <https://github.com/Naereen/notebooks/>`_ par exemple) en Python, OCaml et d'autres langages (même `en Java ! <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_).
+
+- J'édite quasiment toujours mes fichiers avec `VSCode <visualstudiocode.fr.html>`_, mais souvent quand je souhaite juste lire ou modifier rapidement un fichier depuis le terminal, j'utilise **GNU Nano**, qui est rapide, simple et fiable. Bien plus modeste que les vénérables (mais trop compliqués) GNU Emacs et Vi(m), et plus standard que les alternatives modernes comme `slap <https://github.com/slap-editor/slap/>`_ ou `micro <https://micro-editor.github.io/>`_.
+
+.. seealso:: `Codium <https://github.com/VSCodium/vscodium>`_ est VSCode mais moins intrusif, i.e., sans la possibilité pour Microsoft de vous espionner. Je recommande d'installer Codium, si on commence !
 
 Terminal
 ~~~~~~~~
 
-- TL;DR **Terminal** : **Terminal GNOME** + **GNU Bash** + **Byobu**.
+- TL;DR **Terminal** : **Terminal GNOME** + **GNU Bash** + **Byobu** = love !
 
-- J'utilise le terminal, avec GNU Bash, de façon quotidienne depuis 2012. Je suis tombé dedans en L3 de maths et info, et j'en suis jamais ressorti, pour mon plus grand plaisir.
+- J'utilise le terminal, avec **GNU Bash**, de façon quotidienne depuis 2012. Je suis tombé dedans en L3 de maths et info, et j'en suis jamais ressorti, pour mon plus grand plaisir.
 - Sous Ubuntu, j'utilise Konsole sous XFCE, ou **Terminal GNOME** sous GNOME.
-- L'essentiel est qu'il soit rapide, configurable, et qu'il supporte les émojis ! On est en 2021 quand même !
+- L'essentiel est qu'il soit rapide, configurable... Et qu'il supporte les émojis 👌 ! On est en 2021 quand même !
 
-- S'il fallait changer de shell, je choisirai sans hésiter `Fish Shell <https://fishshell.com/>`_ qui est très puissant et bien plus propre, plus moderne. Voir `cette page <https://hyperpolyglot.org/unix-shells>`_ pour des comparaisons.
-- J'utilise GNU Bash version 4. J'aimerai bien changer, mais j'ai écrit des centaines de script et des milliers d'alias, de commandes diverses et variées, et je n'ai ni le temps ni le courage de réécrire ça en Fish... Voir `ce dépôt (bin/) <https://bitbucket.org/lbesson/bin/>`_ et `cette page pour un aperçu <bin.fr.html>`_.
-- J'aimerai avoir un terminal aussi puissant que `iTerm2 <https://iterm2.com/>`_ qui n'existe que pour Mac OS X, je suis jaloux de certaines fonctionnalités avancées. Mais pas grave !
+.. note:: Alternative à GNU Bash ?
 
-- J'utilise depuis 2014 un gestionnaire de session et d'onglets pour le terminal, qui s'appelle `Byobu <https://www.byobu.org/>`_. Après quelques jours, c'est juste indispensable... Ma (vieille) configuration est `ici <https://perso.crans.org/besson/publis/byobu.zip>`_.
+    - S'il fallait changer de shell, je choisirai sans hésiter `Fish Shell <https://fishshell.com/>`_ qui est très puissant et bien plus propre, plus moderne. Voir `cette page <https://hyperpolyglot.org/unix-shells>`_ pour des comparaisons.
+    - J'utilise GNU Bash version 4. J'aimerai bien changer, mais j'ai écrit des centaines de script et des milliers d'alias, de commandes diverses et variées, et je n'ai ni le temps ni le courage de réécrire ça en Fish... Voir `ce dépôt (bin/) <https://bitbucket.org/lbesson/bin/>`_ et `cette page pour un aperçu <bin.fr.html>`_.
 
-.. todo:: Publish more cleanly my Byobu configuration? Not so useful...
+.. note:: Ma seule raison d'être jaloux de Mac OS X
+
+    - J'aimerai avoir un terminal aussi puissant que `iTerm2 <https://iterm2.com/>`_ qui n'existe que pour Mac OS X, je suis jaloux de certaines fonctionnalités avancées. Mais pas grave !
+    - Je crois que des émulateurs de terminal récents et modernes, comme `Hyper <https://hyper.is/>`_ (basé sur Electron), `Kitty <https://sw.kovidgoyal.net/kitty/>`_ ou `Alacritty <https://github.com/alacritty/alacritty/>`_ pourraient permettre d'avoir certaines fonctionnalités avancées aussi sur Ubuntu...
+
+    .. todo:: A essayer ces trois alternatives ? Je n'avais pas été convaincu de Alacritty (`ils friment en disant « it's the fastest terminal », mais sans vrai preuve ! <https://github.com/alacritty/alacritty/issues/289>`_). Hyper semblait trop lent en 2017, et Kitty je n'ai pas essayé !
+
+
+- J'utilise depuis 2014 un gestionnaire de session et d'onglets pour le terminal, qui s'appelle `Byobu <https://www.byobu.org/>`_.
+    + Après quelques jours, c'est juste indispensable... Ma (vieille) configuration est `ici <https://perso.crans.org/besson/publis/byobu.zip>`_ ;
+    + J'utilise aussi des `tmux-plugins <https://github.com/tmux-plugins/>`_ dont `tmux plugin manager <https://github.com/tmux-plugins/tpm>`_ qui permet d'installer un greffon pour sauvegarder et restaurer mes onglets.
+
+.. todo:: Publish more cleanly my Byobu configuration? Not so useful....
+
+- Et j'utilise très souvent **GNU Nano** dans un terminal, pour des petites modifications rapides ;
 
 Gestionnaire de version
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-- J'utilise Git avec passion depuis 2013.
-    + Pourquoi ? Après avoir perdu des documents lors d'un vol d'un ordinateur en 2011, puis lors de la mort prématurée d'un disque dur, je fais désormais très attention de bien archiver mes documents de travail les plus importants.
-    + Pour quoi ? Pour tout !
-    + Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_
+- J'utilise **Git** avec passion depuis 2013.
+    - Pourquoi ? Après avoir perdu des documents lors d'un vol d'un ordinateur en 2011, puis lors de la mort prématurée d'un disque dur, je fais désormais très attention de bien archiver mes documents de travail les plus importants.
+    - Pour quoi ? Pour tout !
+    - Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_
 
-- J'ai utilisé SVN avec `ce projet (teachensren) <https://gforge.inria.fr/projects/teachensren>`_ pendant 5 ans à l'ENS Rennes, et j'aime pas. Vraiment, j'arrive pas à voir l'intérêt...
+- J'utilise **Git** avec les outils suivants :
+
+    - en ligne de commande, avec des alias expliqués dans `<tutogit.fr.html>`_, quasiment tout le temps. Je sais que ce n'est pas le plus rapide ou le plus "user friendly", mais j'ai juste trop l'habitude. Et mes alias font une lettre : ``a file.txt`` pour ``git add``, ``c "Done"`` pour ``git commit -m "Done"``, ``p`` ou ``v`` pour ``git push`` et ``git pull``, etc ;
+    - graphiquement depuis `VSCode <visualstudiocode.fr.html>`_ très souvent aussi ;
+    - des fois avec `Git Kraken <https://www.gitkraken.com/>`_ qui est l'interface graphique moderne la plus puissante et jolie que je connaisse, et que je recommande.
+
+- J'ai utilisé **SVN** avec `ce projet (teachensren) <https://gforge.inria.fr/projects/teachensren>`_ pendant 5 ans à l'ENS Rennes, et j'aime pas. Vraiment, j'arrive pas à voir l'intérêt, comparé à Git. Ça tombe bien, c'est moins utilisé désormais.
+
+- J'ai utilisé **Mercurial** (hg) pour collaborer à quelques projets, il y a longtemps. Je n'en ai pas de bon souvenir, mais ça tombe bien, c'est moins utilisé désormais.
 
 
 Multimédia
@@ -120,18 +161,21 @@ Lecture et édition de PDF
 Édition d'images et de photos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- GIMP : pour des petits choses sur des images, graphiquement ;
-- imagemagick : pareil, mais en lignes de commande !
-- Inkscape, un peu ;
+- *GIMP* : pour des petits choses sur des images, graphiquement ;
+- *imagemagick* : pareil, mais en lignes de commande !
+- *Inkscape*, un peu ;
 
 Créer des documents pédagogiques
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **reStructuredText**, pour ce site web surtout !
-- **Markdown**, beaucoup, partout, tous les jours !
-- **LaTeX**, avec pdfLaTeX ou XeLaTeX, et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup latexmk et mes propres Makefiles en ligne de commande ;
-- LaTeX TikZ pour des figures, pour des documents LaTeX ou des sites Sphinx avec XXX
+- **reStructuredText**, pour ce site web surtout ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
+- **Markdown**, beaucoup, partout, tous les jours ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
+
+- **LaTeX**, avec pdfLaTeX ou XeLaTeX, et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup `latexmk` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
+- **LaTeX TikZ** pour des figures, pour des documents LaTeX ou des sites Sphinx avec `sphinx-tikz <https://sphinxcontrib-tikz.readthedocs.io/en/latest/>`_ ;
+
 - **pandoc** pour transformer plein de formats en pages web ou PDF ;
+
 - **Jupyter notebook** : pour rédiger des sujets de TD/TP d'informatique et de programmation, et plus.
     + Voir ces liens : `@Naereen/notebooks <https://github.com/Naereen/notebooks/>`_.
     + Je l'utilise pour Python 3, évidemment, mais pas seulement...
@@ -139,10 +183,11 @@ Créer des documents pédagogiques
     + `OCaml Jupyter <https://github.com/akabe/ocaml-jupyter/>`_ pour OCaml et l'enseigner !
     + `IJava Jupyter kernel <https://github.com/SpencerPark/IJava>`_ pour Java et l'enseigner !
     + Et j'ai aussi écrit des notebooks utilisant les kernels suivants : `GNU Octave <https://pypi.org/project/gnuplot-kernel/>`_, `GNU Bash <https://github.com/takluyver/bash_kernel>`_, `Rust <https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md#installation>`_ (`ici aussi <https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/>`_), et même `le C <https://github.com/brendan-rius/jupyter-c-kernel>`_
+
 - **OCamlDoc** pour générer des documentations de programmes OCaml, voir ces exemples : `modélisation d'agrég <https://perso.crans.org/besson/a/m/2/doc/>`_, `Zenity OCaml <https://perso.crans.org/besson/publis/Zenity/doc/Zenity.html>`_, etc.
 - **Sphinx doc** pour générer des documentations de programmes OCaml, voir ces exemples : `SMPyBandits <https://smpybandits.readthedocs.io/>`_, `MEC CS101 integrals <https://mec-cs101-integrals.readthedocs.io/>`_ et `MEC CS101 matrices <https://mec-cs101-matrices.readthedocs.io/>`_, `ansicolortags <https://ansicolortags.readthedocs.io/>`_,
 
-- **Jupyter book** : jamais encore utilisé, mais c'est LE TRUC qui m'excite pour 2021 !
+- **Jupyter book** : jamais encore utilisé, mais c'est LE TRUC qui m'excite pour 2021 ! Cf. `<https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
 .. todo:: ajouter une section spécifique à Jupyter ? Ou des liens ?
 .. todo:: Essayer https://sqlitebrowser.org/ quand j'enseignerai SQL ?
@@ -157,14 +202,16 @@ Autres logiciels
     + `Bruit Ambiant (Anoise) <http://anoise.tuxfamily.org/>`_ pour avoir des bruits d'oiseaux dans son salon,
     + et ce site `<https://generative.fm/>`_ pour des musiques discrètes d'ambiance quand je travaille ou durant les visios.
 
-- **Appels visio** : fervent défenseur de la solution libre et gratuite `Jisti <jisti.fr.html>`_, j'ai aussi beaucoup utilisé de BigBlueButton à l'ENS Rennes. J'aime bien Discord, cf plus haut. Je n'aime pas Zoom, Microsoft Teams ou Skype, mais je peux les utiliser si on m'y oblige...
+- **Appels visio** : fervent défenseur de la solution libre et gratuite `Jisti <jisti.fr.html>`_, j'ai aussi beaucoup utilisé de BigBlueButton à l'ENS Rennes. J'aime bien Discord, cf. plus haut. Je n'aime pas Zoom, Microsoft Teams ou Skype, mais je peux les utiliser si on m'y oblige...
 
-- **Suivi d'activités sur mon ordinateur** (*self spying*, voir `cette page <self-quantified.fr.html>`_) :
-    + Générique : `uLogMe <https://github.com/Naereen/uLogMe/>`_ que je maintiens depuis 2016. J'adore ! Elle utilise Python et Flask, et des scripts Bash.
+- **Suivi d'activités sur mon ordinateur** (*self spying* ou *self quantified*, voir `cette page <self-quantified.fr.html>`_) :
+    + Générique : `uLogMe <https://github.com/Naereen/uLogMe/>`_ que je maintiens depuis 2016. J'adore ! Elle utilise Python et Flask, et des scripts Bash ;
     + Pour le code dans VSCode : `WakaTime <wakatime.fr.html>`_ ;
-    + J'avais des extensions Firefox qui faisaient des statistiques très avancées, et `Mind the Time <https://addons.mozilla.org/en-US/firefox/addon/mind-the-time/>`_ fonctionne très bien.
+    + J'ai des extensions Firefox qui font des statistiques très avancées, et `Mind the Time <https://addons.mozilla.org/en-US/firefox/addon/mind-the-time/>`_ fonctionne très bien.
 
-- **Navigateur de fichiers** : **GNOME Nautilus**. En 2012/13, j'avais écrit une extension pour avoir un terminal intégré mais flemme de la remettre à jour, c'était pas si utile.
+- **Navigateur de fichiers** : **GNOME Nautilus**.
+    - En 2012/13, j'avais contribué à `une extension pour avoir un terminal intégré <https://bitbucket.org/lbesson/nautilus-terminal/>`_, mais flemme de la remettre à jour, ce n'était pas si utile.
+
 - TODO continuer, quand j'aurai des idées.
 
 - Jeux vidéos sous Ubuntu :
@@ -178,7 +225,7 @@ Logiciels en lignes
 ~~~~~~~~~~~~~~~~~~~
 
 - **Tableau en ligne** : le magnifique et régulièrement amélioré **Tableaunoir** !
-- **Traduction automatique** : https://www.deepl.com/translator et https://translate.google.com/ quand nécessaire !
+- **Traduction automatique** : `DeepL <https://www.deepl.com/translator>`_ et `Google Translate <https://translate.google.com/>`_, quand nécessaire !
 
 - **Cartographie** : `OpenStreetMap <https://www.openstreetmap.org/>`_, `rome2rio <https://www.rome2rio.com/>`_, et en dernier recours `Google Maps <https://www.google.fr/maps>`_ ;
 
@@ -190,6 +237,25 @@ Logiciels en lignes
 - **Emploi du temps et calendrier** : `Google Notes <https://calendar.google.com/>`_ ;
 
 .. todo:: Passer à des solutions Open Source et hébergées localement ? FramaSoft propose des bonnes idées.
+
+---------------------------------------------------------------------
+
+Je dois encore m'améliorer
+--------------------------
+
+.. todo:: Je liste ici des pistes pour améliorer certains aspects de mon utilisation de mes ordinateurs.
+
+Je pense qu'il existe des greffons pour mes logiciels favoris, pour répondre à ces besoins :
+
+- Des templates de mail facile d'accès, et pas des brouillons copié-collés (Thunderbird) ;
+- Des templates de nouveaux documents facile d'utilisation, et pas de copier-coller (VSCode) ;
+
+Moins importants :
+
+- Une bonne façon de recevoir par flux RSS ou email les modifications sur une page web quelconque : pour suivre les nouveaux documents publiés par des collègues, les résultats de concours etc...
+- Une meilleure solution de back-up de mes ordinateurs ?
+- Ne plus utiliser Google Agenda et Google Notes ;
+- Une meilleure solution de sauvegarde de dossiers de mon ordinateur en ligne, et entre les ordinateurs ;
 
 ---------------------------------------------------------------------
 
