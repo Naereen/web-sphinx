@@ -7,9 +7,18 @@
 #########################
 
 This page lists all the `YouTube <https://www.youtube.com/feed/subscriptions>`_ chains and peoples that I follow and (try to) watch or listen to regularly.
-I tried to sort that by categories.
+
+As of February 2021, I have more than 500 different channels on my `subscription feed <https://www.youtube.com/feed/channels>`_, most of which never publish videos, and a lot of them are channels for music bands automatically created by YouTube. I don't list all of them here, only the ones that I really like and regularly watch.
+
+Still, this page is long. I tried to sort that by categories.
 
 .. note:: Some artists don't have a YouTube channel, but I give a link to their website.
+
+.. seealso:: My own YouTube channel?In 2020, I taught for a course called INF1 at Rennes 1 University, see `these documents <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_, and I produced about ten YouTube videos of TD, TP and exam corrections, on `this channel <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_. It will probably be used in the future!
+
+.. tip:: You can get a RSS feed for a YouTube channel, see `this StackOverflow question <https://stackoverflow.com/questions/28014363/getting-a-youtube-channels-video-list-as-an-rss-feed>`_, for instance `this RSS feed for my channel <https://www.youtube.com/feeds/videos.xml?channel_id=UCHcxNtvAcNUUTjB3YwVtdpQ>`_ (you can copy the URL, replace the ``channel_id=UC..pQ`` by the channel_id of the channel you want to follow, and paste this in your RSS client).
+
+.. todo:: Each year, I should go on `<https://www.youtube.com/feed/channels>`_, and add the new channels or remove here the channels that I no longer watch.
 
 ------------------------------------------------------------------------------
 
@@ -25,7 +34,8 @@ Music creator
 ~~~~~~~~~~~~~
 - `2CELLOS <https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw>`_ (cellos & orchestra).
 - `Alice Phoebe Lou <https://www.youtube.com/channel/UCgYqDQHmeM1ZIt7rYVdflVA>`_ (guitar & voice, very nice voice).
-- `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theramin & a cappella).
+- `Airelle Besson <https://www.youtube.com/channel/UC-WaLelA-zL4Juwqys-cI_Q>`_ (super modern jazz, I saw her in concert! - no it's not my mother or my sister!).
+- `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theremin & a cappella).
 - `Danheim <https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ>`_ (viking metal).
 - `Evynne Hollens <https://www.youtube.com/channel/UCNWunYGHZ-zA1NDuW2EWwPA>`_ (a cappella).
 - `Gunhil Carling <https://www.youtube.com/channel/UCgl6hVVGcnpI0JKwRiZQsrQ>`_ (jazz, daily).
@@ -34,7 +44,7 @@ Music creator
 - `Karliene <https://www.youtube.com/channel/UC-QCyIGEY6DzNyQOnyxIaEg>`_ (a cappella & arrangements).
 - `Lindsey Stirling <https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g>`_ (violin).
 - `Lucas King <https://www.youtube.com/channel/UCq52MbjRULLbjRPvxM7FwZg>`_ (piano).
-- `Lydia Kavina <https://www.youtube.com/channel/UC2-Ua-OeEYIWwCOiO5Wn7gw>`_ (theramin, no longer active).
+- `Lydia Kavina <https://www.youtube.com/channel/UC2-Ua-OeEYIWwCOiO5Wn7gw>`_ (theremin, no longer active).
 - `Machinae Supremacy <https://www.youtube.com/channel/UC_p8C8DwrkjwI1uWsW_Dchw>`_ (metal & rock).
 - `Miracle of Sounds <https://www.youtube.com/channel/UCSfoxYTlCPFfglckBLrjpsA>`_ (a cappella & arrangements).
 - `Peter Hollens <https://www.youtube.com/channel/UCgITW_70LNZFkNna7VsXbuQ>`_ (a cappella & collaborations)).
@@ -66,8 +76,8 @@ Video Game Music (VGM)
 - `Super Guitar Bros <https://www.youtube.com/channel/UCHXgyt8HgbgmJ2XOobFZlZA>`_ (guitar covers of VGM).
 - `The Panda Tooth <https://www.youtube.com/channel/UCxJE4iafiXcoMVrWcGZ4OAQ>`_ (piano covers of VGM).
 - `The Consouls <https://www.youtube.com/channel/UChkiL7Q3d6I7gdgs34pYGHw>`_ (jazz covers of VGM).
-- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (reorchestration of VGM, maily Zelda).
-- `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (reorchestration of VGM, maily Zelda). `This playlist <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ is especially awesome!
+- `The Noble Demon <https://www.youtube.com/channel/UC90yjMp6aeAOy1BdWQR6Szw>`_ (reorchestration of VGM, mainly Zelda).
+- `The Second Narrator <https://www.youtube.com/user/thesecondnarrator>`_ (reorchestration of VGM, mainly Zelda). `This playlist <https://www.youtube.com/playlist?list=PLQ58HYTDzLvL92US1q6csKkVmQN-4SeT->`_ is especially awesome!
 - `The Warp Zone <https://www.youtube.com/channel/UCSOkex4abVl14cZ4tLyUYzw>`_ (fun a cappella).
 - `VGMusic Explorers <https://www.youtube.com/channel/UCRyqkxiAAfcYH7hJpup2HzA>`_ (multi-instruments).
 - `ZROE <http://zreomusic.com/>`_ (`mirror <http://zreo.perix.co.uk/>`_) (The Legend of Zelda Reorchestrated) (no longer active).
@@ -119,15 +129,18 @@ Vulgarisation in French
 ~~~~~~~~~~~~~~~~~~~~~~~
 - `Boneless <https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ>`_ (archeology and prehistory).
 - `C'est Pas Sorcier ! <https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg>`_ (only the old episodes).
+- `Jammy - Épicurieux <https://www.youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg>`_ (new short episodes by Jammy from C'est Pas Sorcier, fun and very frequent).
 - `Dirty Biology <https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q>`_ (biology, fun).
 - `La Statistique Expliquée à mon Chat <https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA>`_ (from Belgium, statistics, animated and funny).
 - `Le Projet Lutétium <https://www.youtube.com/channel/UCkwx826rwD3pDEoybx_kZZQ>`_ (advanced physical science).
 - `Nota Bene <https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A>`_ (history).
+- `Primum Non Nocere <https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ>`_ (science and especially anatomy).
+- `Syllabus <https://www.youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA>`_ (unusual science, physics and anatomy).
 
 Vulgarisation in English
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- `Allen Pan - Sufficiantly Advanced <https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A>`_ (homemade hacking and technologies inspired by geek culture).
-- `Macro Room <https://www.youtube.com/channel/UCBLBaTZqjr8-VEjXBnz7tOA>`_ (awesome macro and slowmotion shootings).
+- `Allen Pan - Sufficiently Advanced <https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A>`_ (homemade hacking and technologies inspired by geek culture).
+- `Macro Room <https://www.youtube.com/channel/UCBLBaTZqjr8-VEjXBnz7tOA>`_ (awesome macro and slow-motion shootings).
 - `Osmosys <https://www.youtube.com/channel/UCNI0qOojpkhsUtaQ4_2NUhQ>`_ (weekly medicine videos).
 - `Physics Girl <https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA>`_ (physics).
 - `SciShow <https://www.youtube.com/channel/UC-UC-nE8B33UGnC-NRaSfug>`_ (weekly videos about broad questions in science).
@@ -136,6 +149,7 @@ Vulgarisation in English
 - `The Infographics Show <https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA>`_ (focussed on American society).
 - `Veritasium <https://www.youtube.com/channe.l/UCHnyfMqiRRG1u-2MsSQLbXA>`_ (advanced physical science).
 - `Pop Culture Detective <https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw>`_ (interesting videos on pop culture and weird things that people don't notice).
+- `3Blue1Brown <https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw>`_ (science videos especially maths and signal processing, with awesome visualizations).
 
 Conferences and talks
 ~~~~~~~~~~~~~~~~~~~~~
@@ -183,8 +197,9 @@ English
 - `Cinema Sins (Honest Trailers) <https://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg>`_ (parody on movies).
 - `College Humour <https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g>`_ (weekly American sketches).
 - `Foil Arms and Hog <https://www.youtube.com/channel/UCzb-6smlTg5UPirLdsdQ_cQ>`_ (fun and short English sketches).
-- `How it Should Have Ended <https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ>`_ (HISHE) (animated parody on scify and big budgets movies).
-- `Simon's Cat <https://www.youtube.com/channel/UCH6vXjt-BA7QHl0KnfL-7RQ>`_ (the funiest animated cat on the Internet !).
+- `How it Should Have Ended <https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ>`_ (HISHE) (animated parody on sci-fy and big budgets movies).
+- `Jeff Dunham <https://www.youtube.com/user/jeffdunham>`_ (the best English speaking ventriloquist, very funny and frequent videos).
+- `Simon's Cat <https://www.youtube.com/channel/UCH6vXjt-BA7QHl0KnfL-7RQ>`_ (the funniest animated cat on the Internet !).
 - `Whatever <https://www.youtube.com/channel/UC37PFGlxWgx4tU6SlhPCdCw>`_ (pranks).
 
 ------------------------------------------------------------------------------
@@ -205,6 +220,8 @@ Other peoples
 - `DaveHax <https://www.youtube.com/channel/UC0rDDvHM7u_7aWgAojSXl1Q>`_ (monthly tip for smart cooking).
 - `Pen of Chaos <https://www.youtube.com/user/Mastapoc>`_ (creator of Naheulbeuk) (news, sketches and guitar songs).
 - `Primitive Technology <https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA>`_ (survival technologies, not so active).
-- `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (Star Wars inspired saberfighting).
+- `School of Saber-fighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (Star Wars inspired saber-fighting).
+
+.. todo:: Could I provide a way to subscribe to all these YouTube channels, in one click? Or a joint URL feed which would give all my subscriptions? Apparently, `it's no longer possible <https://webapps.stackexchange.com/questions/103017/single-rss-feed-for-all-youtube-subscriptions>`_.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

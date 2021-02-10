@@ -7,11 +7,16 @@
 ###############################
 
 Cette page liste toutes les chaînes et personnes sur `YouTube <https://www.youtube.com/feed/subscriptions>`_ que je regarde régulièrement.
-J'ai trié ça par catégories.
+
+En février 2021, j'avais plus de 500 chaînes différentes sur mon `flux d'abonnement <https://www.youtube.com/feed/channels>`_, dont la plupart ne publient jamais de vidéos, et beaucoup d'entre elles sont des chaînes pour des groupes de musique créés automatiquement par YouTube.Je ne les énumère pas tous ici, seulement ceux que j'aime vraiment et que je regarde régulièrement.
+
+Pourtant, cette page est longue. J'ai trié ça par catégories.
 
 .. note:: Quelques artistes, dans cette longue liste, n'ont pas de chaîne YouTube, mais je donne un lien vers leur site personnel.
 
 .. seealso:: `Cet article sur le blogue de Korben <https://korben.info/youtube-autrement.html>`_ (10 déc. 2018) cite une liste de 350 chaînes YouTube francophones, assemblées par le Ministère de la Culture (`la liste en PDF <http://www.culture.gouv.fr/content/download/200193/2128837/version/1/file/350%20chaines%20Youtube.pdf>`_ - lien valable le 10 déc. 2018).
+
+.. seealso:: Ma propre chaîne YouTube ? En 2020, j'ai enseigné pour un cours appelé INF1 à l'Université Rennes 1, cf `ces documents <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_, et j'ai produit une dizaine de vidéos YouTube de corrections de TD, TP et examen, sur `cette chaîne <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_. Elle sera probablement utilisée pour la suite !
 
 ------------------------------------------------------------------------------
 
@@ -27,7 +32,8 @@ Créateurs de musique
 ~~~~~~~~~~~~~~~~~~~~
 - `2CELLOS <https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw>`_ (violoncelles & orchestre).
 - `Alice Phoebe Lou <https://www.youtube.com/channel/UCgYqDQHmeM1ZIt7rYVdflVA>`_ (guitare & chant, très belle voix).
-- `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theramin & a cappella).
+- `Airelle Besson <https://www.youtube.com/channel/UC-WaLelA-zL4Juwqys-cI_Q>`_ (du super jazz moderne, je l'ai vue en concert ! - non ce n'est pas ma mère ni ma sœur !).
+- `Caroline Eyck <https://www.youtube.com/channel/UCYkSWMBi1pZUqjs2OngjUyA>`_ (theremin & a cappella).
 - `Danheim <https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ>`_ (métal viking).
 - `Evynne Hollens <https://www.youtube.com/channel/UCNWunYGHZ-zA1NDuW2EWwPA>`_ (a cappella).
 - `Gunhil Carling <https://www.youtube.com/channel/UCgl6hVVGcnpI0JKwRiZQsrQ>`_ (jazz, quotidien).
@@ -36,7 +42,7 @@ Créateurs de musique
 - `Karliene <https://www.youtube.com/channel/UC-QCyIGEY6DzNyQOnyxIaEg>`_ (a cappella & arrangements).
 - `Lindsey Stirling <https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g>`_ (violon).
 - `Lucas King <https://www.youtube.com/channel/UCq52MbjRULLbjRPvxM7FwZg>`_ (piano).
-- `Lydia Kavina <https://www.youtube.com/channel/UC2-Ua-OeEYIWwCOiO5Wn7gw>`_ (theramin, plus actif).
+- `Lydia Kavina <https://www.youtube.com/channel/UC2-Ua-OeEYIWwCOiO5Wn7gw>`_ (theremin, plus actif).
 - `Machinae Supremacy <https://www.youtube.com/channel/UC_p8C8DwrkjwI1uWsW_Dchw>`_ (metal & rock).
 - `Miracle of Sounds <https://www.youtube.com/channel/UCSfoxYTlCPFfglckBLrjpsA>`_ (a cappella & arrangements).
 - `Peter Hollens <https://www.youtube.com/channel/UCgITW_70LNZFkNna7VsXbuQ>`_ (a cappella & collaborations).
@@ -100,7 +106,7 @@ Artistes faisant des reprises
 - `Mioune <https://www.youtube.com/channel/UCVixjPv_OAeq5HkTmGWJEsg>`_ (a cappella, traduction française de chansons d'animes).
 - `Nathan Chan <https://www.youtube.com/channel/UCG-c_kl-QP1oeK_Wm-qm16A>`_ (violoncelle).
 - `Nathan Shaumann <https://www.youtube.com/channel/UCCHJOc3eJXwFaQ9UOM7YCaw>`_ (piano).
-- `Paweł Zadrożniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (bizarre, allez écouter un morceau, vous vous ferez un idée).
+- `Paweł Zadrożniak <https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA>`_ (bizarre, allez écouter un morceau, vous vous ferez une idée).
 - `Roxane Genot - Cellist <https://www.youtube.com/channel/UCXsBCsb-NB62Tuzkj0JfImA>`_ (violoncelle).
 - `Samuel Fu <https://www.youtube.com/channel/UCEnAjXVlOnwPUQN7qkGfMdA>`_ (piano, surtout des morceaux tirés des films Marvel).
 - `Smooth McGroove <https://www.youtube.com/channel/UCJvBEEqTaLaKclbCPgIjBSQ>`_ (reprise a cappella de musiques de jeux vidéo en 8 bits, n'est plus actif).
@@ -121,15 +127,18 @@ Vulgarisation en français
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Boneless <https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ>`_ (archéologie et préhistoire).
 - `C'est Pas Sorcier ! <https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg>`_ (repassent les vieux épisodes).
+- `Jammy - Épicurieux <https://www.youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg>`_ (nouveaux épisodes courts de Jammy, de C'est Pas Sorcier, amusants et très fréquents).
 - `Dirty Biology <https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q>`_ (biologie, drôle).
 - `La Statistique Expliquée à mon Chat <https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA>`_ (de Belgique, statistiques, animé et drôle).
 - `Le Projet Lutétium <https://www.youtube.com/channel/UCkwx826rwD3pDEoybx_kZZQ>`_ (science physique avancée).
 - `Nota Bene <https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A>`_ (Histoire).
+- `Primum Non Nocere <https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ>`_ (science et surtout anatomie).
+- `Syllabus <https://www.youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA>`_ (science insolite, physique et anatomie).
 
 Vulgarisation en anglais
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- `Allen Pan - Sufficiantly Advanced <https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A>`_ (bidouillage maison pour fabriquer des objets tirés de la culture geek).
-- `Macro Room <https://www.youtube.com/channel/UCBLBaTZqjr8-VEjXBnz7tOA>`_ (vidéo en macro et en ralentin d'expériences physiques).
+- `Allen Pan - Sufficiently Advanced <https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A>`_ (bidouillage maison pour fabriquer des objets tirés de la culture geek).
+- `Macro Room <https://www.youtube.com/channel/UCBLBaTZqjr8-VEjXBnz7tOA>`_ (vidéo en macro et en ralenti d'expériences physiques).
 - `Osmosys <https://www.youtube.com/channel/UCNI0qOojpkhsUtaQ4_2NUhQ>`_ (chaque semaine, vidéos de médicine).
 - `Physics Girl <https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA>`_ (physique).
 - `SciShow <https://www.youtube.com/channel/UC-UC-nE8B33UGnC-NRaSfug>`_ (chaque semaine, videos sur des questions génériques en science).
@@ -138,6 +147,7 @@ Vulgarisation en anglais
 - `The Infographics Show <https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA>`_ (très focalisé sur la société des USA).
 - `Veritasium <https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA>`_ (science physique avancée, drôle).
 - `Pop Culture Detective <https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw>`_ (vidéos intéressantes sur la culture "pop" et des choses étranges que même les fans ne remarquent pas).
+- `3Blue1Brown <https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw>`_ (vidéos scientifiques surtout maths et traitement de signal, avec des visualisations magnifiques).
 
 Conférences
 ~~~~~~~~~~~
@@ -186,6 +196,7 @@ English
 - `College Humour <https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g>`_ (chaque semaine, des sketches depuis un studio aux USA).
 - `Foil Arms and Hog <https://www.youtube.com/channel/UCzb-6smlTg5UPirLdsdQ_cQ>`_ (drôles et courts sketches Britanniques).
 - `How it Should Have Ended <https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ>`_ (HISHE) (parodies animées de films de science-fiction et de films gros budgets).
+- `Jeff Dunham <https://www.youtube.com/user/jeffdunham>`_ (le meilleur ventriloque anglophone, très drôle et des vidéos fréquentes).
 - `Simon's Cat <https://www.youtube.com/channel/UCH6vXjt-BA7QHl0KnfL-7RQ>`_ (le chat animé le plus drôle des Internet).
 - `Whatever <https://www.youtube.com/channel/UC37PFGlxWgx4tU6SlhPCdCw>`_ (canulars et blagues).
 
@@ -207,6 +218,6 @@ D'autres gens
 - `DaveHax <https://www.youtube.com/channel/UC0rDDvHM7u_7aWgAojSXl1Q>`_ (astuces mensuelles pour cuisiner plus intelligemment et bricoler à la maison).
 - `Pen of Chaos <https://www.youtube.com/user/Mastapoc>`_ (créateur de Naheulbeuk) (actualités, sketches et chansons à la guitare).
 - `Primitive Technology <https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA>`_ (technologies primitives et de survie, pas très actif).
-- `School of Saberfighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saberproject <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (combats de sabres laser, inspiré par Star Wars).
+- `School of Saber-fighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saber-project <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (combats de sabres laser, inspiré par Star Wars).
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
