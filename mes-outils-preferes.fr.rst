@@ -212,6 +212,8 @@ Autres logiciels
 - **Navigateur de fichiers** : **GNOME Nautilus**.
     - En 2012/13, j'avais contribué à `une extension pour avoir un terminal intégré <https://bitbucket.org/lbesson/nautilus-terminal/>`_, mais flemme de la remettre à jour, ce n'était pas si utile.
 
+- **Gestionnaire de presse-papiers** : c'est un tout petit truc, mais indispensable ! Cela permet de garder en mémoire les derniers "copié-collés" et de les retrouver avec un petit menu. J'utilise depuis des années le merveilleux `glipper <https://launchpad.net/glipper>`_, mais il existe des alternatives sur Windows et Mac OS, et d'autres logiciels sous Ubuntu et autres Linux ;
+
 - TODO continuer, quand j'aurai des idées.
 
 - Jeux vidéos sous Ubuntu :
