@@ -32,9 +32,7 @@ My 10 favorite **movies**
 - `The Fifth Element <https://en.wikipedia.org/wiki/The_Fifth_Element>`_,
 - `Princess Mononoke <https://en.wikipedia.org/wiki/Princess_Mononoke>`_.
 
-.. seealso:: Another top 7 of favorite movies…
-
-   `<http://jill-jenn.net/cinema/>`_
+.. seealso:: Another top 7 of favorite movies… `by my friend Jill-Jênn Vie <https://jill-jenn.net/cinema/>`_.
 
 
 My 10 favorite **movies actors/actresses**

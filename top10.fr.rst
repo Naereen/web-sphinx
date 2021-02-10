@@ -32,9 +32,7 @@ Mes 10 **films** préférés
 - `Le Cinquième Élément <https://fr.wikipedia.org/wiki/Le_Cinqui%C3%A8me_%C3%89l%C3%A9ment>`_,
 - `Princesse Mononoké <https://fr.wikipedia.org/wiki/Princesse_Mononok%C3%A9>`_.
 
-.. seealso:: Un autre top 7 de films préférés…
-
-   Par un ami cinéphile, `jill-jenn.net/cinema <http://jill-jenn.net/cinema/>`_.
+.. seealso:: Un autre top 7 de films préférés… Par un ami cinéphile, `Jill-Jênn Vie <https://jill-jenn.net/cinema/>`_.
 
 
 Mes 10 **acteurs/actrices de films** préférés
