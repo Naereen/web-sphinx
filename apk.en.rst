@@ -1,13 +1,13 @@
 .. meta::
-   :description lang=en: Android™ applications "for the confinement" in 2020
+   :description lang=en: Android™ applications "for the lock-down" in 2020
    :description lang=fr: Applications Android™ "spéciale confinement" en 2020
 
-#####################################################
- Android™ applications "for the confinement" in 2020
-#####################################################
+###################################################
+ Android™ applications "for the lock-down" in 2020
+###################################################
 
 
-The list of applications given here corresponds to the applications I have installed on my (two) Android™ smartphones in 2020, and that I opened and used every day during the `coronavirus containment` (at least one month).
+The list of applications given here corresponds to the applications I have installed on my (two) Android™ smartphones in 2020, and that I opened and used every day during the "coronavirus lock-down" (at least one month).
 
 I list them by categories, following the categories already used on my phones.
 
@@ -18,7 +18,7 @@ I list them by categories, following the categories already used on my phones.
     * or at `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.
 
 
-.. todo:: Add link to `Google Play Store <https://play.google.com/store/apps/>`_ for each application!
+.. todo:: Add link to `Google Play Store <https://play.google.com/store/apps/>`_ for each application! I should define a role ``:apken:`apken```.
 
 Messages
 ~~~~~~~~
@@ -30,11 +30,11 @@ Messages
    :target: https://www.Messenger.com/
 
 
-- 📧 🐕 K-9 Mail: the best mail client I know ``#chien`` ``#mail`` ;
+- 📧 🐕 K-9 Mail: the best mail client I know ``#dog`` ``#mail`` ;
 - 📧 `Messenger lite <https://www.Messenger.com/>`_ (*lite* version which is more than enough) ``#messenger`` ;
 - 📧 `Facebook lite <https://www.Facebook.com/>`_ (*lite* version which is more than enough) ``#fb`` ;
 - 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
-- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activities learning (during the coronavirus epidemic) <coronavirus.en.html>`_ ``#dvd`` ``#discord`` ``#gaming`` ``#geek`` ;
+- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : my colleagues and I use Discord to `continue our teaching activities learning (during the coronavirus epidemic) <coronavirus.en.html>`_ ``#discord`` ``#gaming`` ``#geek`` ;
 - 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_: best encrypted mail (free, Swiss, reliable) ``#suisse`` (my ProtonMail address is ``firstname.lastname@ProtonMail.com``).
 
 Meeting people
@@ -99,6 +99,7 @@ And finally:
 
 - Your favorite app that offers a **VPN** (e.g., **NordVPN**);
 - Your favorite weather app;
+- Your favorite application to edit text files, I have been using since 2012 `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ (to which I had contributed a little by proposing syntax highlighting for OCaml and a few other languages) ;
 - `Language <https://www.Linguee.com/>`_: online dictionary.
 
 
@@ -150,10 +151,21 @@ Online stores
 
 To use websites easily on mobile (registered account, easy to use) :
 
-- `Fnac <https://www.Fnac.com/>`_;
-- `The GoodCoin <https://www.LeBonCoin.fr/>`_ ;
-- `GitHub <https://GitHub.com/>`_;
-- your bank's app (e.g., La Banque Postale, BNP PariBas, etc).
+- `LeBonCoin <https://www.LeBonCoin.fr/>`_ that I use a little, to resell and buy video games, books, and also flats or bikes ;
+- `Fnac <https://www.Fnac.com/>`_ that I use when needed to buy university books in particular ;
+- `GitHub <https://GitHub.com/>`_ which now works very well !
+- your bank's app (e.g., Boursorama, La Banque Postale, BNP PariBas, etc).
+
+.. warning:: I am actively **against Amazon**!
+
+   Inquire!
+   `Amazon destroys jobs <https://duckduckgo.com/?q=amazon+détruit+des+emplois+en+france+%3F>`_...
+   Amazon's hegemony has almost killed independent booksellers.
+   Excessive delivery is toxic to the planet.
+   Amazon hardly pays taxes in Europe.
+   Amazon employees cannot unionize (in the US) and are paid the minimum hourly rate in almost all countries.
+   If the boss of Amazon is one of the richest men in the world, it's probably for the wrong reasons ...
+   I share some of these arguments against Microsoft, but at least they're less guilty of tax evasion and exploitation of their employees.Google, Apple and others are just as open to criticism as Amazon.
 
 
 To relax
@@ -172,7 +184,7 @@ To relax
 - **Forest**: to help disconnect from your phone;
 - **Drink Water Reminder**: super simple but effective;
 - **Sleep Monitor**: suggests to go to sleep in the evening, effective alarm (soft but persistent) in the morning... The app also offers very precise statistics, if you think about indicating the beginning and end of sleep ;
-- Bonus: the website `Generative.fm <https://Generative.fm/>`_ offers dozens of pieces of background music, random, composed by... programs (neural networks and everything)! It's ideal for work, I love it !
+- *Bonus*: the website `Generative.fm <https://Generative.fm/>`_ offers dozens of pieces of background music, random, composed by... programs (neural networks and everything)! It's ideal for work, I love it !
 
 
 For food
@@ -194,7 +206,7 @@ Other apps :
 
 - **OpenFoodFacts** gives a lot of curious information about all kinds of food products;
 - **Season** to know the fruits and vegetables in season;
-- **Pumpkin** to pay his friends, I use it because it is used by the association at the ENS in Rennes which manages the AMAP.
+- **Pumpkin** to pay his friends, I use it because it was used by the association at the ENS in Rennes which manages the AMAP.
 
 
 *Soundboxes* to have fun
@@ -219,7 +231,7 @@ Other apps :
 To make people believe that we are still in "prépa"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** or **`QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_** to code in `Python 3 <python.html>`_ on your smartphone or tablet;
+- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
 - **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet.
 - **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
 

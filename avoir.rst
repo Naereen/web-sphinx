@@ -19,7 +19,9 @@ Quelques exemples des alias `définis dans mon conf.py <https://bitbucket.org/lb
 - ``:wen:`Grim_Dawn``` donnera ce lien :wen:`Grim_Dawn` (Wikipédia, en anglais).
 - ``:ffaddonfr:`nosquint``` donnera ce lien :ffaddonfr:`nosquint` (page d'un `greffon pour Firefox <firefox-extensions.fr.html>`_).
 - ``:ffaddonen:`nosquint``` donnera ce lien :ffaddonen:`nosquint` (page d'un `greffon pour Firefox en anglais <firefox-extensions.en.html>`_).
-- ``:stpkg:`GitGutter``` donnera ce lien :stpkg:`GitGutter`.
+- ``:stpkg:`GitGutter``` donnera ce lien :stpkg:`GitGutter` (page d'un `greffon pour Sublime Text <sublimetext.en.html>`_).
+
+.. todo:: Définir des rôles pour `<apk.fr.html>`_,  `<apk.en.html>`_, `<visualstudiocode.fr.html>`_.
 
 Meilleur thème ?
 ^^^^^^^^^^^^^^^^

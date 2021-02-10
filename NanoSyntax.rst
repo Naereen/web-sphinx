@@ -11,7 +11,7 @@
 
    Pour mes fichiers de coloration à jour, allez voir sur mon projet GitHub
    `<http://github.com/Naereen/nanorc/>`_.
-   Cette page est un tutoriel expliquant le fonctionnement de la coloration syntaxique pour l'éditeur `GNU Nano <https://nano-editor.org/>`_.
+   Cette page est un **vieux** tutoriel expliquant le fonctionnement de la coloration syntaxique pour l'éditeur `GNU Nano <https://nano-editor.org/>`_.
 
 .. note:: Liens directs vers les *vrais* fichiers de coloration
 

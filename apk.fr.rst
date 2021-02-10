@@ -1,6 +1,6 @@
 .. meta::
    :description lang=fr: Applications Android™ "spéciale confinement" en 2020
-   :description lang=en: Android™ applications "for the confinement" in 2020
+   :description lang=en: Android™ applications "for the lockdown" in 2020
 
 ######################################################
  Applications Android™ "spéciale confinement" en 2020
@@ -17,7 +17,7 @@ Je les liste par catégories, en suivant les catégories déjà utilisées sur m
     * ou sur `www.cnetfrance.fr/Android/ <https://www.cnetfrance.fr/Android/>`_.
 
 
-.. todo:: Ajouter un lien vers `Google Play Store <https://play.google.com/store/apps/>`_ pour chaque application !
+.. todo:: Ajouter un lien vers `Google Play Store <https://play.google.com/store/apps/>`_ pour chaque application ! Je devrais définir un rôle ``:apkfr:`apkfr```.
 
 
 Messages
@@ -34,9 +34,10 @@ Messages
 - 📧 `Messenger lite <https://www.Messenger.com/>`_ (version *lite* qui suffit largement) ``#messenger`` ;
 - 📧 `Facebook lite <https://www.Facebook.com/>`_ (version *lite* qui suffit largement) ``#fb`` ;
 - 📧 `WhatsApp <https://www.WhatsApp.com/>`_ ``#WhatsApp`` ;
-- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ``#dvd`` ``#discord``  ``#gaming`` ``#geek`` ;
+- 💿 🎮 `Discord <https://www.DiscordApp.com/>`_ : mes collègues et moi-même nous servons de Discord pour `nos enseignements à distance (durant l'épidémie de coronavirus) <coronavirus.fr.html>`_ ``#discord``  ``#gaming`` ``#geek`` ;
 - 🇨🇭 `ProtonMail <https://www.ProtonMail.com/>`_ : meilleur mail chiffré (gratuit, Suisse, fiable) ``#swiss`` (mon mail ProtonMail est ``prenom.nom@ProtonMail.com``).
 
+.. todo:: Pourquoi est-ce que j'avais ajouté des tags ``#tags`` sachant qu'ils ne sont pas utilisés ?
 
 Rencontres
 ~~~~~~~~~~
@@ -100,6 +101,7 @@ Et enfin :
 
 - Votre application favorite proposant un **VPN** (e.g., **NordVPN**) ;
 - Votre application favorite de **météo** ;
+- Votre application favorite pour éditer des fichiers texte, moi j'utilise depuis 2012 `Jota Text Editor <https://sites.google.com/site/aquamarinepandora/home/jota-text-editor/syntax>`_ (auquel j'avais contribué un peu en proposant la coloration syntaxique pour OCaml et quelques autres langages) ;
 - `Linguee <https://www.Linguee.com/>`_ : dictionnaire en ligne.
 
 
@@ -154,10 +156,21 @@ Magasins en ligne
 
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
-- `Fnac <https://www.Fnac.com/>`_ ;
-- `LeBonCoin <https://www.LeBonCoin.fr/>`_ ;
-- `GitHub <https://GitHub.com/>`_ ;
-- l'appli de votre banque (e.g., La Banque Postale, BNP PariBas, etc) .
+- `LeBonCoin <https://www.LeBonCoin.fr/>`_ que j'utilise un peu, pour revendre et acheter des jeux vidéos, des livres, et aussi des appartements ou des vélos ;
+- `Fnac <https://www.Fnac.com/>`_ que j'utilise en cas de besoin pour acheter des livres universitaires notamment ;
+- `GitHub <https://GitHub.com/>`_ qui fonctionne désormais très bien !
+- l'appli de votre banque (e.g., Boursorama, La Banque Postale, BNP PariBas, etc) .
+
+.. warning:: Je suis activement **Anti Amazon** !
+
+   Renseignez vous !
+   `Amazon détruit des emplois <https://duckduckgo.com/?q=amazon+détruit+des+emplois+en+france+%3F>`_...
+   L'hégémonie d'Amazon a quasiment tué les libraires indépendantes.
+   La livraison à outrance est toxique pour la planète.
+   Amazon ne paie quasiment pas d'impôts en Europe.
+   Les employés d'Amazon ne peuvent pas se syndiquer (aux USA) et sont payés au taux horaire minimum dans quasiment tous les pays.
+   Si le patron d'Amazon est un des hommes les plus riches du monde, c'est probablement pour des mauvaises raisons...
+   Je partage certains de ces arguments contre Microsoft, mais au moins ils sont moins coupable de fraude fiscale et d'exploitation de leurs employés. Google, Apple et d'autres sont tout aussi critiquables que Amazon.
 
 
 Pour se détendre
@@ -176,7 +189,7 @@ Pour se détendre
 - **Forest** : pour aider à déconnecter de son téléphone ;
 - **Drink Water** Reminder : super simple mais efficace ;
 - **Sleep Monitor** : suggère d'aller dormir le soir, alarme efficace (douce mais persistante) le matin... L'appli propose aussi des statistiques très précises, si on pense à lui indiquer les débuts et fin de sommeil ;
-- Bonus : le site web `Generative.fm <https://Generative.fm/>`_ propose des dizaines de morceaux de musique d'ambiance, aléatoires, composées par... des programmes (réseaux de neurones et tout) ! C'est idéal pour travailler, j'adore !
+- *Bonus* : le site web `Generative.fm <https://Generative.fm/>`_ propose des dizaines de morceaux de musique d'ambiance, aléatoires, composées par... des programmes (réseaux de neurones et tout) ! C'est idéal pour travailler, j'adore !
 
 
 Pour l'alimentation
@@ -192,13 +205,15 @@ Pour l'alimentation
 Deux applications très similaires, qui proposent dans les grandes villes de récupérer des paniers repas ou autre qui vont être jetés :
 
 - **Phénix App** ;
-- **TooGoodToGo**.
+- **Too Good To Go**.
 
 D'autres applications :
 
 - **OpenFoodFacts** donne plein d'informations curieuses sur tous types de produits d'alimentation ;
 - **Saison** pour connaître les fruits et légumes de saison ;
-- **Pumpkin** pour payer auprès de ses amis, je m'en sers car elle est utilisée par l'association à l'ENS de Rennes qui gère l'AMAP.
+- **Pumpkin** pour payer auprès de ses amis, je m'en servais car elle est utilisée par l'association à l'ENS de Rennes qui gère l'AMAP.
+
+.. todo:: Trouver une bonne application pour suivre ces repas et vérifier que l'on a une alimentation bien équilibrée ?
 
 
 Boîtes à son pour rigoler
@@ -223,10 +238,8 @@ Pour faire croire qu'on est encore en prépa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **OCaml Toplevel for Android** pour coder en `OCaml 3.12 <ocaml.fr.html>`_ sur votre smartphone ou tablette ;
-- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** ou **`QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_** pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
+- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (ou `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
 - **Banque Exo (MP CCP)** et **ExoSupSpé** pour des problèmes de maths et leur correction.
-
-.. Idées ? Écrire une page spéciale, sur ReR/blog/ avec des captures d'écran etc !
 
 .. seealso:: `Mon ancienne liste d'applications <old_apk.fr.html>`_.
 

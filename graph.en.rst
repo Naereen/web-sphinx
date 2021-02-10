@@ -2,9 +2,9 @@
    :description lang=en: Embed a DOT graph with GraphViz in a Sphinx-generated page
    :description lang=fr: Inclure des graphes DOT avec GraphViz dans une page Sphinx
 
-#############################################
- HOW-TO: Embed a DOT graph with **GraphViz**
-#############################################
+################################################################
+ Embed a DOT graph with **GraphViz** in a Sphinx-generated page
+################################################################
 
 
 Graphes?
@@ -42,6 +42,18 @@ Examples
       "rST text files (.rst)" -> "web pages (.epub)";
    }
 
+The reStructuredText code is simple and contains the semantic information about the graph, not graphical/vectorial/pixel information:
+
+.. code-block:: rst
+
+   .. graphviz::
+
+      digraph Sphinx {
+         "rST text files (.rst)" -> "web pages (.html)";
+         "rST text files (.rst)" -> "man pages (.1)";
+         "rST text files (.rst)" -> "LaTeX files (.tex)";
+         "rST text files (.rst)" -> "web pages (.epub)";
+      }
 
 ``.. digraph::``:
 ~~~~~~~~~~~~~~~~~
@@ -79,6 +91,16 @@ This directive is for **non-directed** graphs.
    ".tex" -- ".html";
    "cv.tex" -- "cv.hevea.html";
 
+The reStructuredText code is again simple and contains the semantic information about the graph, not graphical/vectorial/pixel information:
+
+.. code-block:: rst
+
+   .. graph:: latex
+
+      "LaTeX file" -- "PDF file"
+      ".tex" -- ".pdf";
+      "cv.en.tex" -- "cv.en.pdf";
+
 
 The "Hautes-Alpes" region in France
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,11 +126,11 @@ An external file
 ~~~~~~~~~~~~~~~~
 This rST command can also automatically fetch an *external file*.
 For instance here is a dependance graph
-(for `an old network game project I wrote in 2012 <./publis/Bomberman/>`_)
+(for `an old network game project I wrote in Python back in 2012 <./publis/Bomberman/>`_)
 generated via `pyreverse <https://www.logilab.org/2560>`_, and included here with ``.. graphviz:: .graph.dot``
-(the file is called **.graph.dot**).
+(the file is called :download:`.graph.dot`, you can download it and view it on a text editor).
 
-.. warning:: This graph is not correctly scaled…
+.. .. warning:: This graph is not correctly scaled…
 
 .. graphviz:: .graph.dot
 
@@ -207,7 +229,9 @@ Another extension: ``sphinx.ext.todolist``
 This page also tests the feature provided by the `sphinx.ext.todolist <http://sphinx-doc.org/ext/todo.html>`_ extension.
 This extension adds a directive ``.. todo::`` which allows to add a **TODO**, *i.e.* one thing to do, to fix or to work on.
 
-.. todo:: For example, try to reduce the zoom factor of the last graph embedded above.
+.. .. todo:: For example, try to reduce the zoom factor of the last graph embedded above.
+
+.. todo:: How to use this from a `MyST <https://myst-parser.readthedocs.io/>`_ or Markdown page in Sphinx?
 
 And then, you can display a **TODO list** with the directive
 ``.. totolist::``, like I do in the `<todo.html>`_ page.

@@ -2,9 +2,9 @@
    :description lang=en: Embed a DOT graph with GraphViz in a Sphinx-generated page
    :description lang=fr: Inclure des graphes DOT avec GraphViz dans une page Sphinx
 
-###################################
- Des graphes DOT avec **GraphViz**
-###################################
+################################################################
+ Inclure des graphes DOT avec **GraphViz** dans une page Sphinx
+################################################################
 
 
 Des graphes ?
@@ -41,6 +41,19 @@ Exemples
       "fichiers texte (.rst)" -> "fichiers LaTeX (.tex)";
       "fichiers texte (.rst)" -> "pages web (.epub)";
    }
+
+Le code reStructuredText est simple et contient les informations sémantiques sur le graphique, pas les informations graphiques / vectorielles / pixels :
+
+.. code-block:: rst
+
+   .. graphviz::
+
+      digraph Sphinx {
+         "fichiers texte (.rst)" -> "pages web (.html)";
+         "fichiers texte (.rst)" -> "pages de manuel (.1)";
+         "fichiers texte (.rst)" -> "fichiers LaTeX (.tex)";
+         "fichiers texte (.rst)" -> "pages web (.epub)";
+      }
 
 
 ``.. digraph::``:
@@ -79,6 +92,16 @@ Cette directive sert à décrire des graphes **non-dirigés**.
    ".tex" -- ".html";
    "cv.tex" -- "cv.hevea.html";
 
+Le code reStructuredText est encore une fois simple et contient les informations sémantiques sur le graphique, pas les informations graphiques / vectorielles / pixels :
+
+.. code-block:: rst
+
+   .. graph:: latex
+
+      "LaTeX file" -- "PDF file"
+      ".tex" -- ".pdf";
+      "cv.en.tex" -- "cv.en.pdf";
+
 
 Les Hautes-Alpes
 ^^^^^^^^^^^^^^^^
@@ -103,11 +126,11 @@ Dans les Hautes-Alpes, il y a notamment les villes suivantes
 Un fichier externe
 ~~~~~~~~~~~~~~~~~~
 On peut aussi aller chercher un *fichier externe*.
-Voici par exemple un graphe de dépendances (pour `un vieux jeu en réseau écrit en 2012 <./publis/Bomberman/>`_)
+Voici par exemple un graphe de dépendances (pour `un vieux jeu en réseau écrit Python en 2012 <./publis/Bomberman/>`_)
 généré via `pyreverse <https://www.logilab.org/2560>`_, et inclus via ``.. graphviz:: .graph.dot``
-(le fichier s'appelle **.graph.dot**).
+(le fichier s'appelle :download:`.graph.dot`, vous pouvez le télécharger et le visualiser dans un éditeur de texte).
 
-.. warning:: Soucis de zoom pour ce graphe…
+.. .. warning:: Soucis de zoom pour ce graphe…
 
 .. graphviz:: .graph.dot
 
@@ -208,7 +231,9 @@ Cette page permet aussi de tester la fonctionnalité ajouté par l'extension
 Cette extension ajoute une directive ``.. todo::`` qui permet de déclarer
 un **TODO**, *i.e.* une chose à régler.
 
-.. todo:: Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
+.. .. todo:: Chercher a diminuer l'échelle du graphe embarqué par le fichier d'exemple.
+
+.. todo:: Comment l'utiliser à partir d'une page `MyST <https://myst-parser.readthedocs.io/>`_ ou Markdown dans Sphinx?
 
 Et ensuite, il est possible d'afficher une **liste des TODOs** via la directive
 ``.. totolist::``, comme dans la page `todo <todo.html>`_.

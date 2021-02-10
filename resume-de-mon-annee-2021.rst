@@ -45,12 +45,13 @@ Février 2021
 ------------
 - Un chouette week-end à Paris et à Massy, je n'y étais pas retourné depuis fin août 2020 !
 - Discussions pour en éventuel poste en classes préparatoires... affaire à suivre !
-- TODO
+- J'ai commencé à rédiger `ces livres en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
 .. warning:: Le reste est dans le futur !
 
 Mars 2021
 ---------
+- Début mars 2021 (04, 05) ont lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). J'espère qu'ils ne seront pas annulés cette année !
 - TODO
 
 Avril 2021
@@ -59,6 +60,7 @@ Avril 2021
 
 Mai 2021
 --------
+- Petites vacances à Marseille en début de mois de mai ?
 - TODO
 
 Juin 2021
