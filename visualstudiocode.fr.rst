@@ -280,9 +280,9 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 * `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : pareil dans les messages de commit pour Git.
 
 
-.. note:: Purement objective
+.. note:: Purement subjective
 
-   Cette liste reflète simplement mon utilisation quotidienne de VSCode. Ces choix sont purement objectifs.
+   Cette liste reflète simplement mon utilisation quotidienne de VSCode. Ces choix sont purement subjectifs.
    Par exemple, `cette liste "awesome-vscode" <https://github.com/viatsko/awesome-vscode>`_ présente aussi une liste de greffons utiles à avoir.
 
 -----------------------------------------------------------------------------

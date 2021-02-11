@@ -287,9 +287,9 @@ Heavier plugins, or plugins designed for a specific language:
 * `Emmet <http://emmet.io/>`_ (installable from `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), improves writing HTML, CSS and Javascript documents *quite magically*. It surely takes time to master its features, but I guess it's worth it!
 
 
-.. note:: Purely objective
+.. note:: Purely subjective
 
-   This list simply reflects my daily use of ST3. These choices are purely objective.
+   This list simply reflects my daily use of ST3. These choices are purely subjective.
    For instance, `this article <http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/>`_ also presents a list of good plugins to use.
 
 

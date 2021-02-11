@@ -277,9 +277,9 @@ Heavier plugins, or plugins designed for a specific language:
 * `Gitmoji snippets <https://marketplace.visualstudio.com/items?itemName=thierrymichel.vscode-gitmoji-snippets>`_ : easy-to-use emojis for your commit messages.
 
 
-.. note:: Purely objective
+.. note:: Purely subjective
 
-   This list simply reflects my daily use of VSCode. These choices are purely objective.
+   This list simply reflects my daily use of VSCode. These choices are purely subjective.
    For instance, `this awesome-vscode list <https://github.com/viatsko/awesome-vscode>`_ also presents a list of good plugins to use.
 
 -----------------------------------------------------------------------------

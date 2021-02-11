@@ -289,9 +289,9 @@ Greffons plus lourds, ou conçu pour un langage spécifique :
 * `Emmet <http://emmet.io/>`_ (installable depuis `packagecontrol.io/packages/Emmet <https://packagecontrol.io/packages/Emmet>`_), améliore la rédaction de documents HTML, CSS et Javascript de façon *assez magique*. J'imagine que ça demande du temps pour maîtriser ses fonctionnalités, mais ça doit valoir le coup !
 
 
-.. note:: Purement objective
+.. note:: Purement subjective
 
-   Cette liste reflète simplement mon utilisation quotidienne de ST3. Ces choix sont purement objectifs.
+   Cette liste reflète simplement mon utilisation quotidienne de ST3. Ces choix sont purement subjectifs.
    Par exemple, `cet article <http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/>`_ présente aussi une liste de greffons utiles à avoir.
 
 
