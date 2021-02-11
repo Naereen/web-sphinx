@@ -171,7 +171,7 @@ Créer des documents pédagogiques
 - **reStructuredText**, pour ce site web surtout ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
 - **Markdown**, beaucoup, partout, tous les jours ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
 
-- **LaTeX**, avec pdfLaTeX ou XeLaTeX, et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup `latexmk` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
+- **LaTeX**, avec pdfLaTeX ou XeLaTeX, et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup ``latexmk`` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
 - **LaTeX TikZ** pour des figures, pour des documents LaTeX ou des sites Sphinx avec `sphinx-tikz <https://sphinxcontrib-tikz.readthedocs.io/en/latest/>`_ ;
 
 - **pandoc** pour transformer plein de formats en pages web ou PDF ;
@@ -213,6 +213,10 @@ Autres logiciels
     - En 2012/13, j'avais contribué à `une extension pour avoir un terminal intégré <https://bitbucket.org/lbesson/nautilus-terminal/>`_, mais flemme de la remettre à jour, ce n'était pas si utile.
 
 - **Gestionnaire de presse-papiers** : c'est un tout petit truc, mais indispensable ! Cela permet de garder en mémoire les derniers "copié-collés" et de les retrouver avec un petit menu. J'utilise depuis des années le merveilleux `glipper <https://launchpad.net/glipper>`_, mais il existe des alternatives sur Windows et Mac OS, et d'autres logiciels sous Ubuntu et autres Linux ;
+
+- Recherche centralisée de logiciel ou de fichier : j'utilise **Synapse** sous GNOME, c'est très pratique pour lancer rapidement un programmable ;
+
+- Automatisation de compilation, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout !
 
 - TODO continuer, quand j'aurai des idées.
 
