@@ -1,10 +1,10 @@
 .. meta::
-   :description lang=fr: Page décrivant mon utilisation de l'éditeur de texte Sublime Text 3 (ST3)
-   :description lang=en: Description of how I use the text editor Sublime Text 3 (ST3)
+   :description lang=fr: Page décrivant mon ancienne utilisation de l'éditeur de texte Sublime Text 3 (ST3)
+   :description lang=en: Description of how I used the text editor Sublime Text 3 (ST3)
 
-#####################################################################
- Mon utilisation de `Sublime Text 3 <http://www.sublimetext.com/3>`_
-#####################################################################
+##############################################################################
+ Mon ancienne utilisation de `Sublime Text 3 <http://www.sublimetext.com/3>`_
+##############################################################################
 
 À-propos…
 -----------

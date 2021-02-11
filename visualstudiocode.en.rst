@@ -116,6 +116,16 @@ There is an official documentation, very well written: `code.visualstudio.com/do
    This "awesome" list gives very good advices:
    `github.com/viatsko/awesome-vscode <https://github.com/viatsko/awesome-vscode>`_.
 
+
+Humorous interlude
+~~~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/06/Strip-Visual-Studio-Code-650-finalenglish.jpg
+   :scale: 80%
+   :align: center
+   :alt: I'm watching you… Drawing of Thursday 11 June 2020 on https://www.commitstrip.com/en/
+   :target: https://www.commitstrip.com/en/2020/06/11/im-watching-you/?
+
 ---------------------------------------------------------------------
 
 How I use Visual Studio Code

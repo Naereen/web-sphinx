@@ -121,6 +121,15 @@ Il y a une documentation officielle, très bien écrite (en anglais) : `code.vis
    `github.com/viatsko/awesome-vscode <https://github.com/viatsko/awesome-vscode>`_.
 
 
+Interlude humoristique
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/06/Strip-Visual-Studio-Code-650-final.jpg
+   :scale: 80%
+   :align: center
+   :alt: Je t'ai à l'oeil… Dessin du jeudi 11 juin 2020 sur https://www.commitstrip.com/fr/
+   :target: https://www.commitstrip.com/fr/2020/06/11/im-watching-you/?
+
 ---------------------------------------------------------------------
 
 Mon utilisation de Visual Studio Code
