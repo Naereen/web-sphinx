@@ -6,9 +6,9 @@
  Teaching remotely - Coronavirus outbreak
 ##########################################
 
-.. warning:: Information on the Coronavirus Epidemic
+.. warning:: Information on the Coronavirus Epidemic (in France)
 
-    Go read *every day* the `<https://www.gouvernement.fr/info-coronavirus>` page of the French government.
+    Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>` page of the French government.
     And reading `<https://www.lemonde>`_ is also a very good idea!
 
 

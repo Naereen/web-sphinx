@@ -8,12 +8,11 @@
 
 .. warning:: Informations sur l'épidémie de Coronavirus
 
-    Allez lire *chaque jour* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
+    Allez lire *régulièrement* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
     Et lire `<https://www.lemonde.fr>`_ est aussi une très bonne idée !
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
-Bonne chance à vous tous 👍 !
 Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
 Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
 
@@ -32,7 +31,7 @@ Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner
 
 .. warning:: Cette page n'est là que pour décrire MON point de vue, ce n'est PAS le point de vue de mon employeur.
 
-.. note:: Mi-avril, j'ai décrit ici nos principales, mais mi-mai à la fin du semestre je devrais aussi raconter le bilan de toutes ces idées (plus bas).
+.. note:: Mi-avril, j'ai décrit ici nos principales, mais après quasiment un an je devrais aussi raconter le bilan de toutes ces idées (plus bas).
 
 
 .. seealso::
