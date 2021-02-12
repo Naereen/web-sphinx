@@ -180,6 +180,13 @@ For instance, `that repository <https://bitbucket.org/lbesson/ansi-colors>`_ is 
    More information is available `in this book about Bash programming <http://abs.traduc.org/abs-5.3-fr/ch24.html>`_, `on the Linux documentation project <http://www.tldp.org/LDP/abs/html/aliases.html>`_, `that other doc <http://ss64.com/bash/alias.html>`_, or that `last Wikipédia about aliases on generic scripting programming language <https://en.wikipedia.org/wiki/Alias_%28command%29>`_.
 
 
+.. warning:: Git does * not * store compressed diffs, but entire files, at every release (in compressed form, okay)!
+
+   Contrary to what I believed for a long time (until 2020!), There is a difference between what *git* displays when we do a ``git diff file`` and what *git* stores when we add this file in a new commit!
+   I thought for a long time that *git* stores the ``diff``, but actually no!
+   This is the biggest "urban legend" or misunderstanding on *git*, and I discovered my mistake thanks to `this blog post on GitHub.blog <https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/>`_ (and `this one too <https://nedbatchelder.com/blog/202012/experimenting_with_git_storage.html>`_).
+
+
 
 With `Sublime Text 3 <http://www.sublimetext.com/3/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

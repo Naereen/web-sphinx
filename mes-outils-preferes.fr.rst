@@ -76,7 +76,7 @@ Autres messageries :
 - Telegram, Signal, Matrix et autres : je n'ai rien contre, juste pas encore utilisés ;
 - **Facebook Messenger** et **WhatsApp** : quand nécessaire, mais je n'aime pas ça !
 
-.. todo:: En 2021, enfin quitter ces deux applications/réseaux qui sont chiants ?
+.. todo:: En 2021, enfin quitter ces deux applications/réseaux qui sont chiants ? Comme `ce blogueur que j'aime beaucoup <https://robertheaton.com/deleting-facebook/>`_ ?
 
 
 Éditeur de texte
@@ -178,7 +178,7 @@ Créer des documents pédagogiques
 - **reStructuredText**, pour ce site web surtout ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
 - **Markdown**, beaucoup, partout, tous les jours ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
 
-- **LaTeX**, avec pdfLaTeX ou XeLaTeX, et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup ``latexmk`` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
+- **LaTeX**, avec `pdfLaTeX <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ (ou XeLaTeX), et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup ``latexmk`` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
 - **LaTeX TikZ** pour des figures, pour des documents LaTeX ou des sites Sphinx avec `sphinx-tikz <https://sphinxcontrib-tikz.readthedocs.io/en/latest/>`_ ;
 
 - **pandoc** pour transformer plein de formats en pages web ou PDF ;
