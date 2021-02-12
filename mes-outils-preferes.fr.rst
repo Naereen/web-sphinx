@@ -6,12 +6,15 @@
  Mes outils et logiciels informatique préférés, discussions et mes recommandations
 ###################################################################################
 
-Ce petit article liste quelques outils que j'aime utiliser sur mon ordinateur.
+Ce article (trop long) liste quelques outils que j'aime utiliser sur mes ordinateurs.
 
 .. todo:: Ajouter les liens web partout, quand la liste sera terminée.
 .. todo:: Translate to `<mes-outils-preferes.en.html>`_ and `<my-favorite-tools.en.html>`_, when the page will be finished!
 
 .. seealso:: Cette liste et discussion sur les `outils pédagogiques <https://perso.crans.org/besson/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book/Outils-pedagogiques.html>`_.
+
+- Date : février 2021 ;
+- `Envoyez moi <callme.fr.html>`_ vos suggestions ?
 
 Logiciels principaux
 --------------------
@@ -20,12 +23,12 @@ Logiciels principaux
 
 - Navigateur : **Firefox** ;
 - Mail : **Thunderbird** ;
-- Terminal : **GNOME terminal + GNU/Bash + Byobu** ;
-- Gestionnaire de version : **git** ;
-- Éditeur de texte : **Visual Studio Code** (graphique), GNU Nano (terminal), et Jupyter notebook (navigateur) ;
-- Lecteur de musique : **gmusicbrowser** ;
+- Terminal : **GNOME terminal** + **GNU/Bash** + **Byobu** ;
+- Gestionnaire de version : **git** (et GitHub, Bitbucket et GitLab) ;
+- Éditeur de texte : **Visual Studio Code** (graphique), **GNU Nano** (terminal), et **Jupyter notebook** (navigateur) ;
+- Multimedia : musique avec **gmusicbrowser**, vidéo avec **VLC** ;
 - PDF : **GNOME Evince** ;
-- Sites favoris : Wikipédia, GitHub, DuckDuckGo, YouTube, etc.
+- Sites favoris : *Wikipédia*, *GitHub*, *DuckDuckGo*, *YouTube*, etc.
 
 ---------------------------------------------------------------------
 
@@ -37,27 +40,29 @@ Je suis fan d'Ubuntu depuis 2012. Cette distribution GNU/Linux grand public comb
 - J'ai utilisé XUbuntu jusqu'en 2020, et un de mes ordinateurs utilise encore l'interface graphique XFCE.
 - Un autre de mes ordinateurs utilise l'interface graphique GNOME. Je crois que je préfère XFCE, je n'ai pas encore fait l'effort de changer sur ce nouvel ordinateur.
 
-.. todo:: Passer à XFCE sur jarvis3 ?
-
 **Avantages** : Quels sont les avantages d'Ubuntu ?
 
 - Gratuit !
 - Quasiment tout sous licence libre (pas aussi strict que Debian), quasiment tous les logiciels conçus pour GNU/Linux sont disponibles.
-- Stable et très fiable, aucun bug matériel.
+- Stable et très fiable, aucun bug matériel. Aucune mise à jour chiante qui ralentit quand on allume ou éteint l'ordinateur.
+- Très peu de risque de virus !
 
 **Inconvénients** :
 
 - Même si Steam et quelques jeux vidéo sont disponibles nativement sous GNU/Linux, la plupart ne le sont pas. Je n'ai pas réessayé Wine ou PlayOnLinux depuis très longtemps (2012 ?), mais en attendant de le faire, cela limite le nombre de jeux vidéos disponibles sous Ubuntu... (*The Witcher 2* en fait partie et `j'espère y jouer en 2021 <resume-de-mon-annee-2021.html#en-2021-j-ai-joue-a-ces-jeux-video>`_).
 - A part ça... je ne vois pas d'Inconvénient !
 
+.. todo:: Passer à XFCE sur jarvis3 ?
+
 
 Internet
 ~~~~~~~~
 - **Navigateur web** : **Mozilla Firefox** (voir `mes extensions favorites <firefox-extensions.fr.html>`_ et trucs et astuces) ;
 
-- Second navigateur web : Google Chromium. Très pratique d'en avoir un deuxième, sans aucune extension et sans aucune connexion à aucun site web, pour facilement tester une nouvelle page web que l'on vient de créer. En 2021, si une page web s'affiche bien sur Firefox *et* sur Chromium, elle est bien accessible à plus de 90% des visiteurs sur ordinateur.
+- Second navigateur web : **Google Chromium**. Très pratique d'en avoir un deuxième, sans aucune extension et sans aucune connexion à aucun site web, pour facilement tester une nouvelle page web que l'on vient de créer. En 2021, si une page web s'affiche bien sur Firefox *et* sur Chromium, elle est bien accessible à plus de 90% des visiteurs sur ordinateur.
 
 - Gestionnaire de téléchargement : rien, je ne pirate pas ! C'est terminé l'époque des eMule et autres trucs P2P...
+
 
 Messagerie
 ~~~~~~~~~~
@@ -68,6 +73,7 @@ Messagerie
 Autres messageries :
 
 - **Discord** : site web, et appli bureau (et appli mobile). Pour les enseignements uniquement, à cause de la `crise sanitaire 2020+ <coronavirus.fr.html>`_ ;
+- Telegram, Signal, Matrix et autres : je n'ai rien contre, juste pas encore utilisés ;
 - **Facebook Messenger** et **WhatsApp** : quand nécessaire, mais je n'aime pas ça !
 
 .. todo:: En 2021, enfin quitter ces deux applications/réseaux qui sont chiants ?
@@ -82,11 +88,13 @@ Autres messageries :
     - Pour LaTeX, avec LaTeX Workshop ça marche bien ;
     - Pour des Makefile, des fichiers YAML et autres fichiers de configurations ;
     - Mais *pas* pour des notebooks, je ne suis pas encore convaincu de l'interface !
-- et **Jupyter notebook** dans un navigateur, pour rédiger des notebooks (voir `ces notebooks <https://github.com/Naereen/notebooks/>`_ par exemple) en Python, OCaml et d'autres langages (même `en Java ! <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_).
+
+.. sidebar:: `Codium <https://github.com/VSCodium/vscodium>`_ est VSCode mais moins intrusif, i.e., sans la possibilité pour Microsoft de vous espionner. Je recommande d'installer Codium, si on commence !
+
+- Et **Jupyter notebook** dans un navigateur, pour rédiger des notebooks (voir `ces notebooks <https://github.com/Naereen/notebooks/>`_ par exemple) en Python, OCaml et d'autres langages (même `en Java ! <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_).
 
 - J'édite quasiment toujours mes fichiers avec `VSCode <visualstudiocode.fr.html>`_, mais souvent quand je souhaite juste lire ou modifier rapidement un fichier depuis le terminal, j'utilise **GNU Nano**, qui est rapide, simple et fiable. Bien plus modeste que les vénérables (mais trop compliqués) GNU Emacs et Vi(m), et plus standard que les alternatives modernes comme `slap <https://github.com/slap-editor/slap/>`_ ou `micro <https://micro-editor.github.io/>`_.
 
-.. seealso:: `Codium <https://github.com/VSCodium/vscodium>`_ est VSCode mais moins intrusif, i.e., sans la possibilité pour Microsoft de vous espionner. Je recommande d'installer Codium, si on commence !
 
 Terminal
 ~~~~~~~~
@@ -110,13 +118,12 @@ Terminal
     .. todo:: A essayer ces trois alternatives ? Je n'avais pas été convaincu de Alacritty (`ils friment en disant « it's the fastest terminal », mais sans vrai preuve ! <https://github.com/alacritty/alacritty/issues/289>`_). Hyper semblait trop lent en 2017, et Kitty je n'ai pas essayé !
 
 
-- J'utilise depuis 2014 un gestionnaire de session et d'onglets pour le terminal, qui s'appelle `Byobu <https://www.byobu.org/>`_.
+- J'utilise depuis 2014 un gestionnaire de session et d'onglets pour le terminal, qui s'appelle `Byobu <https://www.byobu.org/>`_ (surcouche à ``tmux``).
     + Après quelques jours, c'est juste indispensable... Ma (vieille) configuration est `ici <https://perso.crans.org/besson/publis/byobu.zip>`_ ;
     + J'utilise aussi des `tmux-plugins <https://github.com/tmux-plugins/>`_ dont `tmux plugin manager <https://github.com/tmux-plugins/tpm>`_ qui permet d'installer un greffon pour sauvegarder et restaurer mes onglets.
 
-.. todo:: Publish more cleanly my Byobu configuration? Not so useful....
-
 - Et j'utilise très souvent **GNU Nano** dans un terminal, pour des petites modifications rapides ;
+
 
 Gestionnaire de version
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -185,7 +192,7 @@ Créer des documents pédagogiques
     + Et j'ai aussi écrit des notebooks utilisant les kernels suivants : `GNU Octave <https://pypi.org/project/gnuplot-kernel/>`_, `GNU Bash <https://github.com/takluyver/bash_kernel>`_, `Rust <https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md#installation>`_ (`ici aussi <https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/>`_), et même `le C <https://github.com/brendan-rius/jupyter-c-kernel>`_
 
 - **OCamlDoc** pour générer des documentations de programmes OCaml, voir ces exemples : `modélisation d'agrég <https://perso.crans.org/besson/a/m/2/doc/>`_, `Zenity OCaml <https://perso.crans.org/besson/publis/Zenity/doc/Zenity.html>`_, etc.
-- **Sphinx doc** pour générer des documentations de programmes OCaml, voir ces exemples : `SMPyBandits <https://smpybandits.readthedocs.io/>`_, `MEC CS101 integrals <https://mec-cs101-integrals.readthedocs.io/>`_ et `MEC CS101 matrices <https://mec-cs101-matrices.readthedocs.io/>`_, `ansicolortags <https://ansicolortags.readthedocs.io/>`_,
+- **Sphinx doc** pour générer des documentations de programmes OCaml, voir ces exemples : `SMPyBandits <https://smpybandits.readthedocs.io/>`_, `MEC CS101 integrals <https://mec-cs101-integrals.readthedocs.io/>`_ et `MEC CS101 matrices <https://mec-cs101-matrices.readthedocs.io/>`_, `ansicolortags <https://ansicolortags.readthedocs.io/>`_ (et ce site web !) ;
 
 - **Jupyter book** : jamais encore utilisé, mais c'est LE TRUC qui m'excite pour 2021 ! Cf. `<https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
@@ -216,7 +223,41 @@ Autres logiciels
 
 - Recherche centralisée de logiciel ou de fichier : j'utilise **Synapse** sous GNOME, c'est très pratique pour lancer rapidement un programmable ;
 
-- Automatisation de compilation, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout !
+- Automatisation de compilation, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout ! J'ai abusé et écrit `mymake.sh <https://bitbucket.org/lbesson/bin/src/master/mymake.sh>`_ pour améliorer ``make`` (en cherchant un Makefile dans un dossier supérieur, et possiblement m'envoyer des SMS avec ``--FreeSMS``)
+
+- Choix de formats et d'outils spécifiques :
+
+    + **Compression** de fichiers : tout en archive ``zip``. Je sais, c'est pas le meilleur format, mais c'est le seul qui soit vraiment multi-plateformes. Je compresse aussi mes PDF avec ce `script <https://bitbucket.org/lbesson/bin/src/master/PDFCompress>`_.
+
+    + **Gestion de photos** : je prends des photos avec mes téléphones, au format JPEG. Je nettoie les données EXIF avec ``exiftool`` (alias ``CleanPicturesR``) et je les compresse avec ``jpegoptim`` et `photosmagic.sh <https://bitbucket.org/lbesson/bin/src/master/photosmagic.sh>`_, et fait des galeries web avec `generateglisse.sh <https://perso.crans.org/besson/generateglisse.sh/>`_.
+
+    + **Gestion de captures d'écrans** : je prends des captures d'écran très souvent, avec ``xfce4-screenshooter``, au format PNG. Des fois, je les compresse avec ``advpng`` ou ``optipng``.
+
+- **Blogues et sites statiques** :
+
+    + Ce site est généré avec `Sphinx <https://www.sphinx-doc.org/>`_ (générateur de documentation de Python) depuis 2013, sans trop de raison à part ma curiosité. Ces pages web sont donc écrites en `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ (cf `source de ce document <_sources/mes-outils-preferes.fr.rst.txt>`_) J'ai utilisé Sphinx pour des projets pédagogiques, j'aime bien !
+    + J'ai aussi deux petits blogues : `Zéro Déchet <zero-dechet/>`_ (~35 articles) et `cuisine <cuisine/>`_ (~100 articles), écrits en `Markdown <https://commonmark.org/>`_ et générés avec `Pelican <https://blog.getpelican.com/>`_, un générateur de site statique plus modeste, écrit en Python ;
+    + Je triche en utilisant `StrapDown.js <https://github.com/Naereen/StrapDown.js/>`_ avec mon `autoindex StrapDown <https://bitbucket.org/lbesson/autoindex-strapdown/>`_ (pour Apache HTTPD) pour des jolis affichages du contenu des dossiers sur ce site, cf `cet exemple de dossier <https://perso.crans.org/besson/publis/>`_.
+
+- **En ligne de commande**, j'utilise :
+
+    + ``watch`` et ``crontab`` pour lancer des commandes régulières ;
+    + ``wget`` et ``curl`` pour télécharger des fichiers depuis Internet, `CP <https://bitbucket.org/lbesson/bin/src/master/CP>`_ pour copier mes fichiers localement et sur le réseau (surcouche à `rsync <https://fr.wikipedia.org/wiki/Rsync>`_ ;
+    + ``notify-send`` et ``zenity`` pour des notifications et petites interfaces graphiques en Bash ;
+    + `rip-grep <https://github.com/BurntSushi/ripgrep>`_ comme alternative moderne à ``grep``, ``find`` et ``ls`` pour trouver et manipuler des fichiers ;
+    + quand nécessaire, ``tr``, ``sort``, ``tail``/``head``, ``shuf``, ``cut`` pour manipuler des flux de textes ;
+    + et un peu de ``sed`` (j'adore) et ``awk`` aussi (mais je connais pas bien awk) ;
+    + `yt-dl <https://yt-dl.org/>`_ et des scripts maisons pour télécharger des chansons, `playlists <https://bitbucket.org/lbesson/bin/src/master/youtube-playlist.sh>`_ et `albums <https://bitbucket.org/lbesson/bin/src/master/youtube-album.sh>`_ depuis `YouTube <https://www.YouTube.com>`_ ;
+    + et ces sites magnifiques : `ExplainShell.com <https://explainshell.com/>`_ pour l'aide, `wttr.in <http://wttr.in/>`_ pour la météo, `Wolfram|Alpha en mode texte <wolfram.fr.html>`_ c'est drôle et pratique ;
+
+- **Licence libre ?**
+
+    + J'utilise quasiment uniquement la `Licence MIT <https://lbesson.mit-license.org/>`_, principalement parce que le site `<https://mit-license.org/>`_ est cool et la licence est courte et permissive ;
+    + Mes articles de recherche sur `HAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`_ et `CEL <https://hal.inria.fr/cel-01830248v1>`_ sont sous `licence Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr>`_ ;
+    + Des vieux projets sont encore sous `licence GPLv3 <LICENSE.html>`_, mais je sais plus trop pourquoi ;
+    + J'admire les `licence WTFPL <http://www.wtfpl.net/about/>`_, et autres ;
+    + `Il faut choisir une licence, sinon tout est fermé <https://choosealicense.com/no-permission/>`_ et même si votre code est accessible en ligne, il reste sous votre copyright !
+    + `Ça reste <https://en.wikipedia.org/wiki/Free-software_license>`_ `compliqué <https://en.wikipedia.org/wiki/List_of_free-content_licences>`_, et `il y a beaucoup de licences <https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences>`_.
 
 - TODO continuer, quand j'aurai des idées.
 
@@ -253,7 +294,7 @@ Je dois encore m'améliorer
 
 Je pense qu'il existe des greffons pour mes logiciels favoris, pour répondre à ces besoins :
 
-- Des templates de mail facile d'accès, et pas des brouillons copié-collés (Thunderbird) ;
+- Des templates de mail facile d'accès, et pas des brouillons copier-coller (Thunderbird) ;
 - Des templates de nouveaux documents facile d'utilisation, et pas de copier-coller (VSCode) ;
 
 Moins importants :
