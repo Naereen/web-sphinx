@@ -12,11 +12,11 @@ This page is about `Pokémon <https://en.wikipedia.org/wiki/Pok%C3%A9mon>`_.
 
     Pokémon (English: /ˈpoʊkɪˌmɒn, -ki-, -keɪ-/), also known as Pocket Monsters in Japan, is a Japanese media franchise managed by the Pokémon Company, a company founded and with shares divided between Nintendo, Game Freak, and Creatures. The franchise copyright and Japanese trademark is shared by all three companies, but Nintendo is the sole owner of the trademark in other countries. The franchise was created by Satoshi Tajiri in 1995, and is centered on fictional creatures called "Pokémon", which humans, known as Pokémon Trainers, catch and train to battle each other for sport. The English slogan for the franchise is "Gotta Catch 'Em All". Works within the franchise are set in the Pokémon universe.
 
-    The franchise began as Pokémon Red and Green (later released outside of Japan as Pokémon Red and Blue), a pair of video games for the original Game Boy handheld system that were developed by Game Freak and published by Nintendo in February 1996. It soon became a media mix franchise adapted into various different media. Pokémon has since become the highest-grossing media franchise of all time, with $90 billion in total franchise revenue. The original video game series is the second best-selling video game franchise (behind Nintendo's Mario franchise) with more than 346 million copies sold and 1 billion mobile downloads, and it spawned a hit anime television series that has become the most successful video game adaptation with over 20 seasons and 1,000 episodes in 169 countries. In addition, the Pokémon franchise includes the world's top-selling toy brand, the top-selling trading card game with over 28.8 billion cards sold, an anime film series, a live-action film, books, manga comics, music, merchandise, and a theme park. The franchise is also represented in other Nintendo media, such as the Super Smash Bros. series. 
+    The franchise began as Pokémon Red and Green (later released outside of Japan as Pokémon Red and Blue), a pair of video games for the original Game Boy handheld system that were developed by Game Freak and published by Nintendo in February 1996. It soon became a media mix franchise adapted into various different media. Pokémon has since become the highest-grossing media franchise of all time, with $90 billion in total franchise revenue. The original video game series is the second best-selling video game franchise (behind Nintendo's Mario franchise) with more than 346 million copies sold and 1 billion mobile downloads, and it spawned a hit anime television series that has become the most successful video game adaptation with over 20 seasons and 1,000 episodes in 169 countries. In addition, the Pokémon franchise includes the world's top-selling toy brand, the top-selling trading card game with over 28.8 billion cards sold, an anime film series, a live-action film, books, manga comics, music, merchandise, and a theme park. The franchise is also represented in other Nintendo media, such as the Super Smash Bros. series.
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1920px-International_Pok%C3%A9mon_logo.svg.png
-   :scale: 50%
+   :scale: 20%
    :align: center
    :alt: Wikipédia page on Pokémon https://fr.wikipedia.org/wiki/Pok%C3%A9mon
    :target: https://fr.wikipedia.org/wiki/Pok%C3%A9mon
@@ -29,7 +29,9 @@ I launched in April the `Pokémon via GitHub against Covid 2020 en <https://poke
 
 As the web page explains, the goal of the project is the following:
 
-   "Let's play all the Pokémon games together, via GitHub, to keep us busy (and learn git and GitHub) during the Covid pandemic in 2020"
+   "Let's play all the Pokémon games together, via GitHub, to keep us busy (and learn git and GitHub) during the Covid pandemic in 2020".
+
+Well, we just played Pokémon Yellow, as explained `on this page <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_, but it was fun.
 
 --------------------------------------------------------------------------------
 
@@ -64,14 +66,14 @@ My favourite Pokémon from other generations:
 4. Probably others, but I'm lazy.
 
 
-My favourite versions of Pokémon
----------------------------------
+My favorite versions of Pokémon
+-------------------------------
 
-1. Gold and Silver** versions, played in 2001 or 2002 on Game Boy and several other times on emulator ;
-2. 2. **Black and White** versions, played in 2012 on Nintendo DS ;
-3. Red Leaf and Green Leaf** versions, played in 2010 on the emulator ;
-4. 4. **X and Y** versions, played in 2014 on Nintendo DS ;
-4. 4. **Yellow** version, played in 2000 (I think) on Game Boy and several times on emulator.
+1. **Gold and Silver** versions, played in 2001 or 2002 on Game Boy and several other times on emulator ;
+2. **Black and White** versions, played in 2012 on Nintendo DS ;
+3. **Red Leaf and Green Leaf** versions, played in 2010 on the emulator ;
+4. **X and Y** versions, played in 2014 on Nintendo DS ;
+5. **Yellow** version, played in 2000 (I think) on Game Boy and several times on emulator.
 
 --------------------------------------------------------------------------------
 
@@ -107,10 +109,8 @@ Pokémon music covers
 
 .. youtube:: OEPfTXABIUw
 
-
 .. seealso::
 
-    `This page lists what I watch on YouTube <what-i-watch-on-youtube.en.html>`_.
-
+   `This page lists what I watch on YouTube <what-i-watch-on-youtube.en.html>`_.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

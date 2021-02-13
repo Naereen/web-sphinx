@@ -10,13 +10,13 @@ Cette page parle de `Pokémon <https://fr.wikipedia.org/wiki/Pok%C3%A9mon>`_.
 
 .. note:: Citons Wikipédia :
 
-   Pokémon (prononcé [pɔ.ke.mɔn] ; en japonais ポケモン, Pokemon, prononcé [po̞kʲe̞mõ̞ɴ]) est une franchise créée par Satoshi Tajiri en 1996, présente en particulier en jeu vidéo, dans des séries éditées par Nintendo. Selon les statistiques de Nintendo en 2010, les jeux Pokémon se sont vendus à environ 250 millions d’unités. Le jeu vidéo Pokémon Rouge et Bleu s’est vendu à plus de 30 millions d’exemplaires, ce qui en fait un record des ventes dans l’histoire du jeu vidéo.
+   Pokémon (prononcé [pɔ.ke.mɔn] ; en japonais ポケモン, Pokemon, prononcé [po̞kʲe̞mõ̞ɴ]) est une franchise créée par Satoshi Tajiri en 1996, présente en particulier en jeu vidéo, dans des séries éditées par Nintendo. Selon les statistiques de Nintendo en 2010, les jeux Pokémon se sont vendus à environ 250 millions d'unités. Le jeu vidéo Pokémon Rouge et Bleu s'est vendu à plus de 30 millions d'exemplaires, ce qui en fait un record des ventes dans l'histoire du jeu vidéo.
 
-   La franchise est également exploitée sous forme d’anime, de mangas, et de jeux de cartes à collectionner. Dans la série animée homonyme, le personnage principal, Sacha, voyage à travers diverses régions fictives dans le but d’attraper de nouvelles sortes de monstres éponymes, un concept qu’on retrouve également dans les jeux vidéo de la franchise. Pokémon a eu un impact culturel très important dans les pays où il a été introduit, dont le Japon, les États-Unis, le Canada, la France et d'autres pays européens.
+   La franchise est également exploitée sous forme d'anime, de mangas, et de jeux de cartes à collectionner. Dans la série animée homonyme, le personnage principal, Sacha, voyage à travers diverses régions fictives dans le but d'attraper de nouvelles sortes de monstres éponymes, un concept qu'on retrouve également dans les jeux vidéo de la franchise. Pokémon a eu un impact culturel très important dans les pays où il a été introduit, dont le Japon, les États-Unis, le Canada, la France et d'autres pays européens.
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1920px-International_Pok%C3%A9mon_logo.svg.png
-   :scale: 50%
+   :scale: 20%
    :align: center
    :alt: Page Wikipédia sur Pokémon https://fr.wikipedia.org/wiki/Pok%C3%A9mon
    :target: https://fr.wikipedia.org/wiki/Pok%C3%A9mon
@@ -25,11 +25,13 @@ Cette page parle de `Pokémon <https://fr.wikipedia.org/wiki/Pok%C3%A9mon>`_.
 Projet Pokémon contre Covid-19
 ------------------------------
 
-J'ai lancé en avril le projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ !
+J'ai lancé en avril le (petit) projet `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ !
 
 Comme la page web l'explique, le but du projet est le suivant :
 
-   "Jouons ensemble à tous les jeux Pokémon, via GitHub, pour nous occuper (et apprendre git et GitHub) durant la pandémie de Covid en 2020"
+   "Jouons ensemble à tous les jeux Pokémon, via GitHub, pour nous occuper (et apprendre git et GitHub) durant la pandémie de Covid en 2020".
+
+Bon, on a juste joué à Pokémon Jaune, comme expliqué `sur cette page <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_, mais c'était amusant.
 
 --------------------------------------------------------------------------------
 
