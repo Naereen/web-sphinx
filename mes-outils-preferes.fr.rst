@@ -52,8 +52,6 @@ Je suis fan d'Ubuntu depuis 2012. Cette distribution GNU/Linux grand public comb
 - Même si Steam et quelques jeux vidéo sont disponibles nativement sous GNU/Linux, la plupart ne le sont pas. Je n'ai pas réessayé Wine ou PlayOnLinux depuis très longtemps (2012 ?), mais en attendant de le faire, cela limite le nombre de jeux vidéos disponibles sous Ubuntu... (*The Witcher 2* en fait partie et `j'espère y jouer en 2021 <resume-de-mon-annee-2021.html#en-2021-j-ai-joue-a-ces-jeux-video>`_).
 - A part ça... je ne vois pas d'Inconvénient !
 
-.. todo:: Passer à XFCE sur jarvis3 ?
-
 
 Internet
 ~~~~~~~~
