@@ -156,7 +156,6 @@ En 2020, j'ai lu ces livres…
 - `Intelligence Artificielle : pas sans elles <https://www.babelio.com/livres/Bernheim-Lintelligence-artificielle-pas-sans-elles/1117213>`_, de Aude Bernheim, Flora Vincent, et Annie Batlle,
 - *De bons présages*, de Terry Pratchett et Neil Gaiman, j'ai adoré !
 - (pas terminé) *Le dernier rayon du soleil*, de Guy Gabriel Kay, j'aime bien mais ce n'est pas transcendant, je vais le finir vite... J'ai pas réussi à terminer, le milieu est juste tellement long et chiant. Pas assez fantasy pour moi, je crois !
-- TODO
 - (pas terminé) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons. J'ai essayé le début, ça m'a vraiment saoulé en fait, c'est très dur à lire et trop prétentieux, je trouve.
 - *What If?* de Randall Munroe, relu rapidement en décembre 2020. Je me suis offert ̀`le second volume du même auteur <https://livre.fnac.com/a14939569/Randall-Munroe-Et-comment>`_ pour Noël, j'ai hâte !
 - Et d'autres que j'ai oublié de noter…
@@ -183,7 +182,6 @@ En 2020, j'ai vu ces films…
 - *Birthday Wonderland* (2019), de Keiichi Hara, pas incroyable mais agréable.
 - *A Whisker Away* (Nakitai Watashi wa Neko wo Kaburu) (2020) j'ai adoré !
 - *Call me by your name* (2017), très beau mais il ne sera pas un de mes films préférés. Trop lent et contemplatif, et trop prétentieux.
-- TODO
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

@@ -70,6 +70,9 @@ I was giving oral exams at ENS de Rennes (about 20 times 2h; level M2), and I wa
    I gave a few `practical sessions in programming and maths <infoMP/oraux/>`_ for students in Rennes training for the national competitive exam for CentraleSupélec engineering schools in June 2017.
    And I went to Lycée Pasteur in Lille in July 2017 to attend a lot of oral exams for the national "agrégation de mathématiques" competitive exam (maths, modeling and CS).
 
+
+.. youtube:: A6qDGUqG_N4
+
 In 2015
 -------
 .. seealso:: `This folder contains most of the documents related to my teaching <./teach/>`_.

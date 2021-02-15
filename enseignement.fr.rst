@@ -71,6 +71,9 @@ Je donne des oraux à l'ENS de Rennes (environ 20 fois 2h; niveau M2), et j'éta
    J'ai assisté à des tas d'oraux d'agrégation (de maths, en maths, modé et info) au Lycée Pasteur à Lille en juillet 2017.
 
 
+.. youtube:: A6qDGUqG_N4
+
+
 En 2015
 -------
 .. seealso:: `Ce dossier contient la plupart des documents concernant mon enseignement <./teach/>`_.
