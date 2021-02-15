@@ -2,9 +2,11 @@
    :description lang=en: Sum-up of my use of Google Analytics for 3 years
    :description lang=fr: Résumé de trois ans d'utilisation de Google Analytics
 
-#################################################
+##################################################
  Sum-up of my use of Google Analytics for 3 years
-#################################################
+##################################################
+
+.. warning:: I no longer advise to use Google Analytics, and I will remove it from my webpages, and no longer update these tutorials.
 
 .. note:: This short page is focusing on *Google Analytics*
 
@@ -16,7 +18,7 @@
 
 Quick historical overview
 -------------------------
- - `This website <index.html>`_ ``http://perso.crans.org/besson`` is hosted by the `personal pages at CRANS <http://www.crans.org/PagesPerso>`_ (student association in charge of the Internet connexion on the `campus of the ENS Cachan superior school <http://www.ens-cachan.fr/version-anglaise/campus/>`_).
+ - `This website <index.html>`_ ``https://perso.crans.org/besson`` is hosted by the `personal pages at CRANS <http://www.crans.org/PagesPerso>`_ (student association in charge of the Internet connexion on the `campus of the ENS Cachan superior school <http://www.ens-cachan.fr/version-anglaise/campus/>`_).
  - It has been `available on-line <http://isup.me/perso.crans.org/besson/>`_ with `this form <https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fperso.crans.org%2Fbesson>`_, since March 2013 (and it's an open source project, its source code is available `on this git repository <https://bitbucket.org/lbesson/web-sphinx/>`_).
  - This website is powered by `Sphinx <http://www.sphinx-doc.org/>`_, to generate a static website (i.e., some HTML and CSS files, a few JavaScript files), from files written in plain text, in the `rST <demo.html>`_ markup language.
  - From the beginning, even with the ethical questions this raised, I decided to use `Google Analytics <https://www.google.com/analytics/>`_. I wanted to move to `Piwik <https://piwik.org/>`_ from a while, but `the hosting server for this website <https://www.crans.org/VieCrans/TousLesServices#Zamok>`_ does not support it…

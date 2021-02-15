@@ -6,6 +6,8 @@
  Résumé de trois ans d'utilisation de Google Analytics
 #######################################################
 
+.. warning:: Je ne conseille plus d'utiliser Google Analytics, je le supprimerai de mes pages Web et je ne mettrai plus à jour ces tutoriels.
+
 .. note:: Cette page parle de *Google Analytics*
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
@@ -17,7 +19,7 @@
 
 Rapide aperçu historique
 ------------------------
- - `Ce site web <index.html>`_ ``http://perso.crans.org/besson`` est hébergé par les `pages personnelles du CRANS <http://www.crans.org/PagesPerso>`_.
+ - `Ce site web <index.html>`_ ``https://perso.crans.org/besson`` est hébergé par les `pages personnelles du CRANS <http://www.crans.org/PagesPerso>`_.
  - Il est `en ligne <http://isup.me/perso.crans.org/besson/>`_ sous `cette forme <https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fperso.crans.org%2Fbesson>`_ depuis mars 2013 (et c'est un projet libre et ouvert, son code source est sur `ce dépôt git <https://bitbucket.org/lbesson/web-sphinx/>`_).
  - Il utilise `Sphinx <http://www.sphinx-doc.org/>`_ pour générer un site web statique (i.e., des fichiers HTML et CSS, et un peu de JavaScript), à partir de fichiers textes écrits en `rST <demo.html>`_.
  - Depuis le début, malgré les questions éthiques que ça soulevait, j'avais choisi d'utiliser `Google Analytics <https://www.google.com/analytics/>`_. Je voudrais passer à `Piwik <https://piwik.org/>`_ depuis longtemps mais le `serveur hébergeant mon site <https://www.crans.org/VieCrans/TousLesServices#Zamok>`_ ne le permet pas…

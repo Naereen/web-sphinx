@@ -7,6 +7,8 @@
  Utiliser Google Analytics avec une petite image
 #################################################
 
+.. warning:: Je ne conseille plus d'utiliser Google Analytics, je le supprimerai de mes pages Web et je ne mettrai plus à jour ces tutoriels.
+
 .. note:: Cette page parle de Google Analytics
 
    Pour plus de détails, il peut être utile d'aller s'informer ailleurs :
@@ -34,14 +36,14 @@ Et aussi plus facile à maintenir !
 Il suffit de créer un script ``ga.js`` contenant le morceau de code précédant,
 et l'ajouter sur votre site, n'importe où.
 
-Par exemple : `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
+Par exemple : `ga.js <https://perso.crans.org/besson/_static/ga.js>`_.
 
 Il faut alors l'inclure dans chaque page avec ce code ``HTML``
 à la fin du fichier (dans ``<bottom>`` ou à la fin de ``<body>``) :
 
 .. code-block:: html
 
-   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js"></script>
+   <script type="text/javascript" async src="https://perso.crans.org/besson/_static/ga.js"></script>
 
 
 En plus, la balise ``async`` accélèrera le chargement de la page
@@ -95,7 +97,7 @@ en enlevant le ``?pixel`` à la fin de l'adresse URL.
      :scale: 300%
      :align: center
      :alt: Un petit badge « analytics | GA ».
-     :target: http://perso.crans.org/besson/beacon.html
+     :target: https://perso.crans.org/besson/beacon.html
 
 
   est obtenu avec le code ``rST`` suivant :

@@ -7,6 +7,8 @@
  How to use Google Analytics with a beacon image
 #################################################
 
+.. warning:: I no longer advise to use Google Analytics, and I will remove it from my webpages, and no longer update these tutorials.
+
 .. note:: This short page is focusing on Google Analytics
 
    For more information, it might be useful to consult first one of these pages:
@@ -33,7 +35,7 @@ The default code to add in every page is the following piece of JavaScript (at l
 
 .. sidebar:: A popular page?
 
-   Apparently, this `very page <http://perso.crans.org/besson/beacon.en.html>`_ became quite popular *recently* (fall 2014),
+   Apparently, this `very page <https://perso.crans.org/besson/beacon.en.html>`_ became quite popular *recently* (fall 2014),
    receiving more visitors than any of my other webpages.
    `Any feedback about it is therefore most surely welcome! <contact/en/>`_.
 
@@ -47,14 +49,14 @@ And also easier to maintain!
 You just have to create a small ``ga.js`` script containing
 the previous piece of code, and add it somewhere on your website.
 
-For instance: `ga.js <http://perso.crans.org/besson/_static/ga.js>`_.
+For instance: `ga.js <https://perso.crans.org/besson/_static/ga.js>`_.
 
 Then you have to load it in every webpage with one-line of ``HTML`` code
 at the end of the file (in the ``<bottom>`` paragraph or at the end of ``<body>``):
 
 .. code-block:: html
 
-   <script type="text/javascript" async src="http://perso.crans.org/besson/_static/ga.js"></script>
+   <script type="text/javascript" async src="https://perso.crans.org/besson/_static/ga.js"></script>
 
 
 (Moreover, the ``async`` tag will improve the speed of the page, by
@@ -108,7 +110,7 @@ simply by removing the ``?pixel`` at the end of the URL addresse.
     :scale: 300%
     :align: center
     :alt: A small « analytics | GA » badge.
-    :target: http://perso.crans.org/besson/beacon.html
+    :target: https://perso.crans.org/besson/beacon.html
 
 
   which is included with the following ``rST`` line of code:
