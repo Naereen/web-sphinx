@@ -10,15 +10,21 @@ A few words about me
 --------------------
 
 Greetings!
-I am **Lilian Besson**, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-in Mathematics and Computer Science at |ENSCachan|.
+I am **Lilian Besson**, now teaching Computer Science at `ENS Rennes`_.
+I wish to become a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ in France.
+
+I `did my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning.
 
 .. |ENSCachan| raw:: html
 
-  <abbr title='ENS de Cachan is a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris ; now the school is called ENS de Paris-Saclay'><a href='http://www.ens-cachan.fr/version-anglaise/'>ENS de Cachan</a></abbr>
+    <abbr title='ENS de Cachan, now ENS de Paris-Saclay, is a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris ; now the school is called ENS de Paris-Saclay'><a href='http://www.ens-cachan.fr/version-anglaise/'>ENS de Cachan</a></abbr>
 
 
 From August 2019, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
+
+.. youtube:: zleSzn76FMs
+
 
 I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA and INRIA Rennes. My research interests lie between sequential learning, tensor decomposition, cognitive radio, Python and open source software, and other directions.
 

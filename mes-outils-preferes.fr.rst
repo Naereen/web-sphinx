@@ -134,7 +134,7 @@ Gestionnaire de version
 - J'utilise **Git** avec les outils suivants :
 
     - en ligne de commande, avec des alias expliqués dans `<tutogit.fr.html>`_, quasiment tout le temps. Je sais que ce n'est pas le plus rapide ou le plus "user friendly", mais j'ai juste trop l'habitude. Et mes alias font une lettre : ``a file.txt`` pour ``git add``, ``c "Done"`` pour ``git commit -m "Done"``, ``p`` ou ``v`` pour ``git push`` et ``git pull``, etc ;
-    - graphiquement depuis `VSCode <visualstudiocode.fr.html>`_ très souvent aussi ;
+    - graphiquement depuis `VSCode`_ très souvent aussi ;
     - des fois avec `Git Kraken <https://www.gitkraken.com/>`_ qui est l'interface graphique moderne la plus puissante et jolie que je connaisse, et que je recommande.
 
 - J'ai utilisé **SVN** avec `ce projet (teachensren) <https://gforge.inria.fr/projects/teachensren>`_ pendant 5 ans à l'ENS Rennes, et j'aime pas. Vraiment, j'arrive pas à voir l'intérêt, comparé à Git. Ça tombe bien, c'est moins utilisé désormais.
@@ -173,13 +173,17 @@ Lecture et édition de PDF
 Créer des documents pédagogiques
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **reStructuredText**, pour ce site web surtout ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
-- **Markdown**, beaucoup, partout, tous les jours ! Édités avec `VSCode <visualstudiocode.fr.html>`_ ;
+- **reStructuredText**, pour ce site web surtout ! Édités avec `VSCode`_ ;
+- **Markdown**, beaucoup, partout, tous les jours ! Édités avec `VSCode`_ ;
+    + Avant j'utilisais des fois `Typora <https://typora.io/>`_ pour éditer des Markdown, mais `VSCode`_ est vraiment pratique et puissant, et ça fait un logiciel de moins à maîtriser ;
+    + On peut écrire des slides avec Markdown, de plusieurs façons : j'ai déjà utilisé `remarkjs <https://remarkjs.com/>`_, `Marp (old Electron) <https://yhatt.github.io/marp/>`_, `Marp VSCode <https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode>`_, `Marp-cli <https://github.com/marp-team/marp-cli>`_ que j'aime bien, et surtout `pandoc <https://pandoc.org/>`_ avec un bon template LaTeX Beamer, suivi d'une étape de travail dans le LaTeX ;
 
-- **LaTeX**, avec `pdfLaTeX <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ (ou XeLaTeX), et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup ``latexmk`` et mes propres Makefiles en ligne de commande. Édités avec `VSCode <visualstudiocode.fr.html>`_ et :vscode:`LaTeX Workshop` ;
+- **LaTeX**, avec `pdfLaTeX <https://bitbucket.org/lbesson/bin/src/master/pdflatex>`_ (ou XeLaTeX), et VSCode avec des bonnes extensions pour la compilation intégrée et l'aperçu rapide. J'utilise aussi beaucoup ``latexmk`` et mes propres Makefiles en ligne de commande. Édités avec `VSCode`_ et :vscode:`LaTeX Workshop` ;
 - **LaTeX TikZ** pour des figures, pour des documents LaTeX ou des sites Sphinx avec `sphinx-tikz <https://sphinxcontrib-tikz.readthedocs.io/en/latest/>`_ ;
+- **LaTeX Beamer** pour des planches de cours ou de présentations ;
 
 - **pandoc** pour transformer plein de formats en pages web ou PDF ;
+    + y compris des slides, cf `@Naereen/slides <https://github.com/Naereen/slides/>`_ ;
 
 - **Jupyter notebook** : pour rédiger des sujets de TD/TP d'informatique et de programmation, et plus.
     + Voir ces liens : `@Naereen/notebooks <https://github.com/Naereen/notebooks/>`_.
@@ -205,7 +209,7 @@ Autres logiciels
 
 - **Autres logiciels pour la musique** :
     + `Bruit Ambiant (Anoise) <http://anoise.tuxfamily.org/>`_ pour avoir des bruits d'oiseaux dans son salon,
-    + et ce site `<https://generative.fm/>`_ pour des musiques discrètes d'ambiance quand je travaille ou durant les visios.
+    + et ce site `Generative.fm <https://play.generative.fm/browse>`_ pour des musiques discrètes d'ambiance quand je travaille ou durant les visios.
 
 - **Appels visio** : fervent défenseur de la solution libre et gratuite `Jisti <jisti.fr.html>`_, j'ai aussi beaucoup utilisé de BigBlueButton à l'ENS Rennes. J'aime bien Discord, cf. plus haut. Je n'aime pas Zoom, Microsoft Teams ou Skype, mais je peux les utiliser si on m'y oblige...
 

@@ -1,19 +1,23 @@
 .. meta::
     :description lang=fr: À faire : avant mes 30 ans (Lilian Besson)
-    :description lang=en: Sumup of my year 2017 (Lilian Besson)
+    :description lang=en: Sum-up of my year 2017 (Lilian Besson)
 
-##########################################
+###########################################
 À faire : avant mes 30 ans (Lilian Besson)
-##########################################
+###########################################
 
 Cette page contient quelques idées de choses que je veux faire avant mes 30 ans.
 
-J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25).
-*Encore 4 ans pour faire tout ça !*
+**Première rédaction** : J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25).
+
+**Mises à jour** : au fur et à mesure que j'ai des idées supplémentaires, ou que je réussis certains objectifs !
+Encore un peu moins de **deux ans** pour faire tout ça !
 
 .. note:: Cette liste *n'est pas* ordonnée.
 
 .. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_.
+
+.. warning:: Cette page est privée, normalement. Mais bon elle ne contient rien de très privé non plus.
 
 .. sidebar:: Des suggestions ?
 
@@ -24,25 +28,28 @@ J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25)
 Professionnellement
 -------------------
 
-- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
+- 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content ! C'est fait depuis le 20 novembre 2019. Je suis désormais **docteur en informatique** (et en télécommunications). Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
+- 👌 OK - Devenir **professeur agrégé titulaire** ? C'est fait depuis le 1er septembre 2019, je suis actuellement rattaché à l'`Académie de Rennes <https://fr.wikipedia.org/wiki/Acad%C3%A9mie_de_Rennes>`_ (donc je dépends de `ce rectorat <http://www.ac-rennes.fr/>`_ et de `ces IGEN <https://www.education.gouv.fr/inspecteurs-generaux-exercant-dans-l-academie-de-rennes-4376>`_).
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
+- Obtenir un *poste de professeur* en *classe préparatoire* (CPGE).
 
 Voyages
 ^^^^^^^
 - Aller une fois dans *tous les continents* (Amérique, Afrique - OK, Océanie et Asie) *grâce au boulot* ?!
 - 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
+- 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème !
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Pour l'instant, :math:`h = 4`… Mais ça monte… lentement…
-- Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019…
-- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ??
+- 👌 OK - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Depuis janvier 2021, :math:`h = 6` !
+- 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
+- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine...
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - *Publier* en libre accès et sous licence libre ma thèse et son code source, et le code de tous les morceaux de codes écrits en 3 ans (👌 OK en particulier `ce projet <https://SMPyBandits.GitHub.io/>`_).
 - 👌 OK - *Comprendre* réellement les questions `de licences <http://choosealicense.com/>`_ et de droit de copie et de propriété (*copyrights*). C'est resté pas clair pendant longtemps… `Ce site essaie de bien expliquer <https://fossa.io/>`_, et je crois enfin bien comprendre !
-- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà plus de 1900 avec `ce projet (badges) <https://github.com/Naereen/badges>`_).
+- 👌 OK - *Recevoir* plus de 100 "étoiles" sur un de `mes projets GitHub <https://github.com/Naereen/>`_ (j'en ai déjà plus de 2300 avec `ce projet (badges) <https://github.com/Naereen/badges>`_, cf `son historique de stars <https://www.gitmemory.com/Naereen/badges>`_).
     |Stargazers badges over time|
 
 .. |Stargazers badges over time| image:: https://starcharts.herokuapp.com/Naereen/badges.svg
@@ -50,19 +57,21 @@ Code et programmation
     :scale:  15%
 
 
-- *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_).
+- *Publier* un de mes logiciels libres scientifiques à une revue dématérialisée (comme la revue `JMLR MLOSS <http://jmlr.org/mloss/>`_ associée à `MLOSS <http://mloss.org/>`_, où j'ai publié `SMPyBandits <http://mloss.org/software/view/710/>`_). J'ai essayé plusieurs fois de soumettre un article à propos de `SMPyBandits`_, sans succès, j'ai abandonné à l'été 2020.
 
 Enseignement
 ^^^^^^^^^^^^
-- Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST !
+- Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST ! Je n'ai pas le droit tant que je serai AGPR à l'`ENS Rennes <http://www.ens-rennes.fr/lilian-besson--292020.kjsp>`_, mais dès que je ferai autre chose, je souhaite refaire des colles de maths et/ou d'informatique !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
 - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
-- Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (Mais ça aussi c'est un peu idéaliste).
+- 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci Pierre !
+- 👌 OK - Recevoir un *remerciement sincère* d'un-e collègue pour des ressources pédagogiques mises en ligne. Ça arrive de temps en temps !
 
-.. sidebar:: Le Frido
+.. sidebar:: **"Le Frido"**
 
     Depuis 2014, je participe activement et régulièrement à la rédaction `d'un cours de mathématiques <https://laurent.claessens-donadello.eu/frido.html>`_ assez complet pour l'agrégation de mathématiques ("Le Frido"), avec `Laurent Claessens <https://laurent.claessens-donadello.eu/>`_.
     Les documents sources du livre sont `sous licence libre GPL sur GitHub <https://github.com/LaurentClaessens/mazhe/>`_ (`github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe <https://github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe>`_), et le `livre est distribué gratuitement en version PDF <https://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_.
+    On peut le commander depuis `TheBookEdition.com <https://www.thebookedition.com/fr/>`_ : `volume 1 <https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html>`_, `volume 2 <https://www.thebookedition.com/fr/le-frido-2020-volume-2-p-377488.html>`_, `volume 3 <https://www.thebookedition.com/fr/le-frido-2020-volume-3-p-377486.html>`_, `volume 4 <https://www.thebookedition.com/fr/le-frido-2020-volume-4-p-377487.html>`_.
 
 
 Collaborations
@@ -82,13 +91,13 @@ Présentations ou exposés
 Personnellement
 ---------------
 
-- Continuer à être *curieux*, de tout.
-- Continuer d'être toujours aussi *gentil* que possible.
-- Me prendre moins la tête !
-- Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
-- 👌 OK - Perdre un peu de poids ! TODO ne pas le re prendre !
+- 👌 OK - Continuer à être *curieux*, de tout.
+- 👌 OK - Continuer d'être toujours aussi *gentil* que possible.
+- 👌 OK - Me prendre moins la tête !
+- 👌 OK - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
+- Perdre un peu de poids ! TODO ne pas le re prendre !
 - Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
-- M'investir dans des associations écologistes à Rennes !?
+- M'investir dans des associations écologistes à Rennes ! J'ai essayé en 2019 et j'ai fait plein de choses avec `ANV COP21 <https://anv-cop21.org/le-defi-climatique/>`_ mais pas pu reprendre après les confinements de `la crise sanitaire du COVID 19 <coronavirus.fr.html>`_.
 
 Voyages
 ^^^^^^^
@@ -108,21 +117,21 @@ Rencontres
 
 Activités
 ^^^^^^^^^
-- Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon).
-- Jouer souvent à des jeux de société !
+- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette !
 - 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
+- Jouer souvent à des jeux de société !
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Apprendre à jouer d'un instrument de musique, et lire des partitions. J'apprends le piano depuis mi-janvier 2020 !
+- Apprendre à jouer d'un instrument de musique, et lire des partitions. J'ai essayé un peu d'apprendre le piano entre janvier et mars 2020, mais je n'ai pas continué très longtemps.
 - Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais je n'en ai plus fait depuis des années !)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
 - 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
-- 👌 OK -  En attendant, essayer des lentilles ! Je déteste ça !
+- 👌 OK -  En attendant, essayer des lentilles ! **Résultat** : je déteste ça !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
-- Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
+- 👌 OK - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
 .. sidebar:: Des suggestions ?
 
@@ -141,7 +150,7 @@ J'aime beaucoup cuisiner moi-même, et je suis très curieux de réussir certain
 
 Vacances
 ^^^^^^^^
-- Faire des *vacances à vélo*. Avec les saccoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 100/150 kms par jour, une semaine). *OK* Fin mai 2020, je vais faire la course `la Clacyclo <https://www.clacyclo.fr/>`_ avec un de mes meilleurs amis !
+- Faire des *vacances à vélo*. Avec les sacoches sur le côté et tout ! J'ai très envie de faire de longues vacances à vélo (style 100/150 kms par jour, une semaine). Fin mai 2020 je prévoyais de faire la course `la Clacyclo <https://www.clacyclo.fr/>`_ avec un de mes meilleurs amis, mais bon, `j'ai pris un confinement dans le genou <journal-de-bord-pendant-confinement-coronavirus-2020.fr>`_ !
 - Faire de nouveau des *vacances en sac à dos et itinérance* à l'étranger (après l'Islande en août 2015).
 - Marcher l'intégralité d'un "grand chemin de randonnée" (comme le chemin de Saint-Jacques, le tour des Alpes, le tour de la Bretagne etc).
 - Faire de nouveau des vacances en randonnées en haute montagne, dans les Alpes ou les Pyrénées (après la Vanoise en … août 2007).
@@ -160,6 +169,6 @@ Achats et investissements
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <https://www.penofchaos.com/warham/bd/>`_. Et à être un grand fan de la franchise `Naheulbeuk <https://www.penofchaos.com/warham/donjon/>`_ en entier.
 - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
 - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
-- Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à coeur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et d'autres).
+- 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et plein autres).
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

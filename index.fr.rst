@@ -10,15 +10,20 @@
 -----------------
 
 Bonjour !
-Je suis **Lilian Besson**, ancien `étudiant normalien en mathématiques et en informatique <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-à |ENSCachan|.
+Je suis **Lilian Besson**, et j'enseigne maintenant l'informatique à `ENS Rennes`_.
+Je souhaite devenir professeur d'informatique à temps plein dans les `classes préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en France.
+
+J'ai `fait ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ in CentraleSupélec Rennes, et je `suis diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de l'|ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en Apprentissage Automatique.
 
 .. |ENSCachan| raw:: html
 
-  <abbr title="L'ENS de Cachan est une « Grande École » près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay"><a href='http://www.ens-cachan.fr/version-anglaise/'>l'ENS de Cachan</a></abbr>
+   <abbr title="L'ENS de Cachan est une « Grande École » près de Paris, spécialisée dans la formation de professeurs du secondaire et du supérieur, désormais appelée ENS de Paris-Saclay"><a href='http://www.ens-cachan.fr/version-anglaise/'>l'ENS de Cachan</a></abbr>
 
 
 Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
+
+.. youtube:: zleSzn76FMs
+
 
 Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ à de l'IRISA et de l'INRIA Rennes. Mes intérêts de recherche se situent entre l'apprentissage séquentiel, les méthodes de décomposition tensorielles, la radio intelligente, Python et les logiciels libres, et d'autres directions.
 

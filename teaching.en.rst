@@ -9,7 +9,7 @@
 .. note::
 
     I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
-    Welcome to my website.
+    **Welcome to my website.**
 
 
 In 2020/2021
@@ -20,6 +20,8 @@ I keep the same responsibilities as last year, but I am also teaching two new co
 - A small course, of 6 lectures of 2 hours, of **Introduction to Computer Science**, for the first year students of the `department "Droit Économie Management" <http://www.dem.ens-rennes.fr/>`_: see `the page of the course <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. I teach the basics of computer science, both from a historical and technological point of view, and the basics of programming with an introduction to the Linux/Mac/Windows shell (terminal) and with Python ;
 - I also give TDs and TPs (10 of each, 2*2*10h=40h) for the course **Computer Science 1**, for the first year students of Computer Science and Mathematics bachelors, at the University of Rennes 1. On `my course page <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ I give solutions to TDs and TPs in Java (and Python, for the curious) in Jupyter notebooks. I also made videos of TD and TP corrections in Java, published on `this YouTube channel <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, I wrote and made the scale and correction of the CC2 and the `MineSweeper <http://demineur.org/>`_ Java project. (60 h / year)
 - I'm in charge of supervising `a Wikipedia project (in French) <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_ for the `Advanced Algorithms (ALGO2) <http://people.irisa.fr/Francois.Schwarzentruber/algo2/>`_ course on the second semester.
+
+.. youtube:: zleSzn76FMs
 
 In 2019/2020
 ------------

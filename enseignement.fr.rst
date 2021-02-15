@@ -9,7 +9,7 @@
 .. note::
 
     Je suis *Lilian Besson*, un ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et jeune chercheur en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
-    Bienvenue sur mon site web.
+    **Bienvenue sur mon site web.**
 
 
 En 2020/2021
@@ -20,6 +20,8 @@ Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plu
 - Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python (10 h / an).
 - Je donne aussi des TD et des TP (10 de chaque, 2*2*10h=40h) pour le cours **Informatique 1**, pour les élèves de première année de Licence Informatique et de Licence Mathématiques, à l'Université de Rennes 1. Sur `ma page du cours <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ je donne des solutions aux TD et TP en Java (et en Python, pour les curieux-ses) dans des notebooks Jupyter. J'ai aussi fait des vidéos de corrections de TD et TP en Java, publiées sur `cette chaîne YouTube <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, j'ai rédigé et fait le barème et la correction du CC2 et du projet Java `Démineur <http://demineur.org/>`_. (60 h / an)
 - En charge du `petit projet Wikipédia <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_ pour le cours d'`ALGO2 <http://people.irisa.fr/Francois.Schwarzentruber/algo2/>`_ au second semestre. (16 h / an)
+
+.. youtube:: zleSzn76FMs
 
 En 2019/2020
 ------------

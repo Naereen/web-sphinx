@@ -16,13 +16,14 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 740 = about **6525 kms as far as now**.
+  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 790 = about **6555 kms as far as now**.
 
-In 2020 : **740 kms** (for now)
+In 2020 : **790 kms** (for now)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-For now, about **740 kms** only in France.
+For now, about **790 kms** only in France.
 I hitchhiked from Briançon to Gap and Gap to Briançon in July 2020 (85+85 = 170 kms), and also once from Briançon to Grenoble (115 kms)
 I also hitchhiked from Gap to a small village north of Alpes Maritime (where `this farm was <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_), and then back to Briançon, for about 185 + 270 = 455 kms.
+And at the end of October 2020, I also hitchhiked in Brittany to return from the village of *Montauban de Bretagne* where I had gone for a few days of `Wwoofying <https://wwoof.fr/>`_.
 
 .. digraph:: france20
 
@@ -30,6 +31,7 @@ I also hitchhiked from Gap to a small village north of Alpes Maritime (where `th
     "Briançon (3)" -> "Grenoble";
     "Gap (2)" -> "Laragne-Monteglin" -> "Sisteron" -> "Chateau-Arnaud-St-Auban" -> "Digne-les-Bains" -> "Saint-André-les-Alpes" -> "Castellane" -> "Saint-Auban" -> "Briançonnet";
     "Briançonnet" -> "Entrevaux" -> "Saint-André-les-Alpes (2)" -> "Digne-les-Bains (2)" -> "Chateau-Arnaud-St-Auban (2)" -> "Sisteron (2)" -> "Laragne-Monteglin (2)" -> "Gap (3)" -> "Briançon (4)";
+    "Montauban de Bretagne" -> "Rennes";
 
 In 2019 : **320 kms**
 ^^^^^^^^^^^^^^^^^^^^^
