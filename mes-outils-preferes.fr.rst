@@ -11,7 +11,7 @@ Ce article (trop long) liste quelques outils que j'aime utiliser sur mes ordinat
 .. todo:: Ajouter les liens web partout, quand la liste sera terminée.
 .. todo:: Translate to `<mes-outils-preferes.en.html>`_ and `<my-favorite-tools.en.html>`_, when the page will be finished!
 
-.. seealso:: Cette liste et discussion sur les `outils pédagogiques <https://perso.crans.org/besson/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book/Outils-pedagogiques.html>`_.
+.. seealso:: Cette liste et discussion sur les `outils pédagogiques <https://perso.crans.org/besson/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book/Outils-pedagogiques.html>`_. Et la liste du `Socle interministériel de logiciels libres <https://fr.wikipedia.org/wiki/Socle_interminist%C3%A9riel_de_logiciels_libres#Principaux_outils_num%C3%A9riques_pr%C3%A9conis%C3%A9s_par_le_SILL_2020>`_ (`catalogue <https://sill.etalab.gouv.fr/fr/software>`_) préconisés par l'État français depuis 2016.
 
 - Date : février 2021 ;
 - `Envoyez moi <callme.fr.html>`_ vos suggestions ?
@@ -50,7 +50,7 @@ Je suis fan d'Ubuntu depuis 2012. Cette distribution GNU/Linux grand public comb
 **Inconvénients** :
 
 - Même si Steam et quelques jeux vidéo sont disponibles nativement sous GNU/Linux, la plupart ne le sont pas. Je n'ai pas réessayé Wine ou PlayOnLinux depuis très longtemps (2012 ?), mais en attendant de le faire, cela limite le nombre de jeux vidéos disponibles sous Ubuntu... (*The Witcher 2* en fait partie et `j'espère y jouer en 2021 <resume-de-mon-annee-2021.html#en-2021-j-ai-joue-a-ces-jeux-video>`_).
-- A part ça... je ne vois pas d'Inconvénient !
+- A part ça... je ne vois pas d'inconvénient !
 
 
 Internet
@@ -129,7 +129,7 @@ Gestionnaire de version
 - J'utilise **Git** avec passion depuis 2013.
     - Pourquoi ? Après avoir perdu des documents lors d'un vol d'un ordinateur en 2011, puis lors de la mort prématurée d'un disque dur, je fais désormais très attention de bien archiver mes documents de travail les plus importants.
     - Pour quoi ? Pour tout !
-    - Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_
+    - Où ? `sur GitHub <https://github.com/Naereen/>`_ pour quasiment tout depuis 2016, `sur Bitbucket <https://bitbucket.org/lbesson/>`_ avant (j'avais même `traduit le site web en 2013 <transifex.fr.html>`_) ;
 
 - J'utilise **Git** avec les outils suivants :
 
@@ -331,7 +331,8 @@ Références
 ----------
 Ici je donne quelques liens vers des articles en ligne que j'ai consultées pour écrire cette page :
 
-- `Ma vieille liste <trademarks.html#used-softwares>`_ probablement pas mise à jour depuis 2013 ;
 - `Cette liste d'outils de Nicolas Mesnier <http://nmesnier.free.fr/#outils>`_ ;
+- `Cette liste d'outils (en anglais) de Karl Voit <https://karl-voit.at/apps-I-am-using>`_, exhaustive et bien rédigée ;
+- `Ma vieille liste <trademarks.html#used-softwares>`_ probablement pas mise à jour depuis 2013 ;
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

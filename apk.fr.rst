@@ -238,7 +238,7 @@ Pour faire croire qu'on est encore en prépa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **OCaml Toplevel for Android** pour coder en `OCaml 3.12 <ocaml.fr.html>`_ sur votre smartphone ou tablette ;
-- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (ou `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
+- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (ou QPython 3L :apk:`org.qpython.qpy3`) pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
 - **Banque Exo (MP CCP)** et **ExoSupSpé** pour des problèmes de maths et leur correction.
 
 .. seealso:: `Mon ancienne liste d'applications <old_apk.fr.html>`_.

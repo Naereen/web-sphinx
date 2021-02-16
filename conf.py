@@ -146,6 +146,10 @@ extlinks = {
     'ffaddonfr': ('https://addons.mozilla.org/fr/firefox/addon/%s', ''),
     'ffaddonen': ('https://addons.mozilla.org/en-us/firefox/addon/%s', ''),
     'stpkg': ('https://packagecontrol.io/packages/%s', ''),
+    'apk': ('https://play.google.com/store/apps/details?id=%s', ''),
+    'apkfr': ('https://play.google.com/store/apps/details?id=%s', ''),
+    'apken': ('https://play.google.com/store/apps/details?id=%s', ''),
+    'vscode': ('https://marketplace.visualstudio.com/items?itemName=', ''),
 }
 # Demo on avoir.html / avoir.rst (works very well)
 

@@ -9,7 +9,7 @@ What does *self-quantified* mean?
 ---------------------------------
  `This Wikipedia page <https://en.wikipedia.org/wiki/Quantified_Self>`_ explains this better than I could do.
 
-.. warning:: This page is OLD!
+.. warning:: This page is OLD! I haven't updated this page in years, but you can see section "So… what did I do so far?" below.
 
 
 What will I try in this experiment?
@@ -184,12 +184,14 @@ References
 ----------
 - Not yet.
 
-.. seealso:: Article par `Stephen Wolfram <http://blog.stephenwolfram.com/>`_
+.. seealso:: `Memacs by Karl Voit <https://github.com/novoid/Memacs>`_, very interesting piece of software! He has written data extractor for `basically anything <https://github.com/novoid/Memacs#memacs-modules>`_. It seems to rely heavily on GNU Emacs. `The author wrote a research paper (2013) <https://arxiv.org/abs/1304.1332>`_ about it!
+
+.. seealso:: Article by `Stephen Wolfram <http://blog.stephenwolfram.com/>`_
 
    This `blog post by Stephen Wolfram <http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/>`_ (March 2012)
    was the original inspiration for this idea.
 
-.. seealso:: Article par `Andrej Karpathy <https://karpathy.github.io/>`_
+.. seealso:: Article by `Andrej Karpathy <https://karpathy.github.io/>`_
 
    This `blog post by Stephen Wolfram <https://karpathy.github.io/2014/08/03/quantifying-productivity/>`_ (September 2014)
    presents the summary of 3 months of use of `uLogMe <https://github.com/Naereen/uLogMe/>`_.
