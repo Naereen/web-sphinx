@@ -125,6 +125,16 @@ Artists doing covers
 Science
 -------
 
+Teaching in French
+~~~~~~~~~~~~~~~~~~~~~~~~
+- High school math: `Maths Cheval <https://www.youtube.com/channel/UCdW4jyrRpV4GeWcuXpNt6dg/videos>`_, of my late friend Rémi Cheval (see also his website `maths-cheval.com <http://www.maths-cheval.com/>`_) ;
+- Computer Science "for all" in scientific prep schools: `Professeur Karré <https://www.youtube.com/channel/UCU5zu_JjuRExQNbJWVWIvyw>`_ some very good videos ;
+- PCSI / PSI science preparatory level math: `M. Devilliers : Maths pour la CPGE de l'Essouriau <https://www.youtube.com/channel/UClAA8_k2mWuMiZNqUVdF1Xw>`_ (a friend of mine, `see his site <https://loicdevilliers.frama.site/>`_) ;
+- Math L1 / L2: ` Maths Villebon - Georges Charpak <https://www.youtube.com/channel/UClFti-hWtiqSYywsgvAYb7g>`_ where teaches one of my other friends (from the 2013/2014 prepa at ENS Cachan) ;
+
+.. seealso:: There will surely be more and more channels covering this kind of teaching, `just look for it <https://www.youtube.com/results?search_query=option+informatique+pr%C3%A9pa+mpsi>`_ if you need!
+
+
 Vulgarisation in French
 ~~~~~~~~~~~~~~~~~~~~~~~
 - `Boneless <https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ>`_ (archeology and prehistory).

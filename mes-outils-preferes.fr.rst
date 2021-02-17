@@ -225,7 +225,7 @@ Autres logiciels
 
 - Recherche centralisée de logiciel ou de fichier : j'utilise **Synapse** sous GNOME, c'est très pratique pour lancer rapidement un programmable ;
 
-- Automatisation de compilation, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout ! J'ai abusé et écrit `mymake.sh <https://bitbucket.org/lbesson/bin/src/master/mymake.sh>`_ pour améliorer ``make`` (en cherchant un Makefile dans un dossier supérieur, et possiblement m'envoyer des SMS avec ``--FreeSMS``)
+- **Automatisation de compilation**, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout ! J'ai abusé et écrit `mymake.sh <https://bitbucket.org/lbesson/bin/src/master/mymake.sh>`_ pour améliorer ``make`` (en cherchant un Makefile dans un dossier supérieur, et possiblement m'envoyer des SMS avec ``--FreeSMS``).
 
 - Choix de formats et d'outils spécifiques :
 

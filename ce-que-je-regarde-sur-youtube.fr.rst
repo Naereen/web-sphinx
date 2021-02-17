@@ -123,6 +123,16 @@ Artistes faisant des reprises
 Science
 -------
 
+Enseignement en français
+~~~~~~~~~~~~~~~~~~~~~~~~
+- Maths de niveau lycée : `Maths Cheval <https://www.youtube.com/channel/UCdW4jyrRpV4GeWcuXpNt6dg/videos>`_, de mon regretté ami Rémi Cheval (voir aussi son site `maths-cheval.com <http://www.maths-cheval.com/>`_) ;
+- Informatique "pour tous" en prépas scientifiques : `Professeur Karré <https://www.youtube.com/channel/UCU5zu_JjuRExQNbJWVWIvyw>`_ quelques très bonnes vidéos ;
+- Maths de niveau prépas scientifiques PCSI/PSI : `M. Devilliers : Maths pour la CPGE de l'Essouriau <https://www.youtube.com/channel/UClAA8_k2mWuMiZNqUVdF1Xw>`_ (un de mes amis, `voir son site <https://loicdevilliers.frama.site/>`_) ;
+- Maths de niveau L1/L2 : ` Maths Villebon - Georges Charpak <https://www.youtube.com/channel/UClFti-hWtiqSYywsgvAYb7g>`_ où enseigne un de mes autres amis (de la prépa agrég 2013/2014 à l'ENS Cachan) ;
+
+.. seealso:: Il y aura sûrement de plus en plus de chaînes couvrant ce genre d'enseignements, `allez chercher <https://www.youtube.com/results?search_query=option+informatique+pr%C3%A9pa+mpsi>`_ si vous avez besoin !
+
+
 Vulgarisation en français
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Boneless <https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ>`_ (archéologie et préhistoire).
