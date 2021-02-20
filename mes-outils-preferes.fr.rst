@@ -286,6 +286,8 @@ Logiciels en lignes
 - **Emploi du temps et calendrier** : `Google Notes <https://calendar.google.com/>`_ ;
 
 .. todo:: Passer à des solutions Open Source et hébergées localement ? FramaSoft propose des bonnes idées.
+.. todo:: Pour Google Notes au moins, je peux essayer `Orgzly <https://play.google.com/store/apps/details?id=com.orgzly&hl=en>`_ côté appli android, et `org-mode <http://orgmode.org/>`_ in VSCode côté bureau ? mais comment synchroniser facilement ? Ou alors `une appli avec Markdown <https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal>`_ mais `org-mode gère bien les calendriers <https://karl-voit.at/2017/09/23/orgmode-as-markup-only/>`_ `apparemment <https://beepb00p.xyz/tags.html#quantifiedself>`_.
+.. todo:: Pour l'emploi du temps, je veux passer à autre chose, mais j'ai besoin de garder des notifications bureaux/android !!
 
 ---------------------------------------------------------------------
 

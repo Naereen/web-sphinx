@@ -232,7 +232,8 @@ To make people believe that we are still in "prépa"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
-- **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet.
+- **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet;
+- `**Coding C** <https://play.google.com/store/apps/details?id=com.kvassyu.coding.c>`_ to develop tiny programs in the C language, from your smartphone or tablet (offline, doesn't require Internet, the compiler is integrated);
 - **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
 
 .. seealso:: `My old list of apps <old_apk.en.html>`_.
