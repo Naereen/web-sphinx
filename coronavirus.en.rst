@@ -11,11 +11,7 @@
     Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>` page of the French government.
     And reading `<https://www.lemonde>`_ is also a very good idea!
 
-
-.. note::
-
-    I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
-    Welcome to my website.
+.. youtube:: TAJDzGfKE
 
 
 Working from home because of the Coronavirus outbreak

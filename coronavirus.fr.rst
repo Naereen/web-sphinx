@@ -13,8 +13,10 @@
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
-Soyez *très* prudents, travaillez bien, soyez gentils et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
+TL;DR: Soyez prudents, travaillez bien, soyez gentil-l-es et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
 Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
+
+.. youtube:: TAJDzGfKE
 
 
 Télétravail pendant l'épidémie de Coronavirus
