@@ -15,11 +15,13 @@ ou des graphes de fonctions écrits avec une directive **rST** ``.. gnuplot::``
       :maroon:`dès que l'entrée du toplevel change`.
 
 
-.. warning::
+.. .. warning::
+.. 
+..    Si les graphes suivants ne sont pas affichés, c'est probablement
+..    parce que votre navigateur ne supporte pas les images ``SVG``.
+..    Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
 
-   Si les graphes suivants ne sont pas affichés, c'est probablement
-   parce que votre navigateur ne supporte pas les images ``SVG``.
-   Dans ce cas, un seul conseil : adoptez **Mozilla Firefox** :) !
+.. warning:: Cette page est très vieille. Ca n'a jamais été autre chose qu'une petite démonstration.
 
 
 Exemples

@@ -231,10 +231,11 @@ Other apps :
 To make people believe that we are still in "prépa"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **`PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_** (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
-- **OCaml Toplevel for Android** to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet;
+- `**PyDroid 3** <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_ (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
+- `**OCaml Toplevel for Android** <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet. It was written in 2011 by `a friend of mine <https://romain.vernoux.fr/>`_, when we were in L3 (3rd year of bachelor) at `ENS Cachan <http://www.ens-cachan.fr/>`_!
 - `**Coding C** <https://play.google.com/store/apps/details?id=com.kvassyu.coding.c>`_ to develop tiny programs in the C language, from your smartphone or tablet (offline, doesn't require Internet, the compiler is integrated);
 - **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
+- There are others like it, but this one looks well done: `JDoodle <https://play.google.com/store/apps/details?id=com.nutpan.jdoodle_app>`_ allows you to access from your phone to `JDoodle.com <https://www.jdoodle.com/>`_ an online multi-language IDE (Internet request).
 
 .. seealso:: `My old list of apps <old_apk.en.html>`_.
 

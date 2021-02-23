@@ -6,6 +6,7 @@
  Precision about the quoted **trademarks**
 ###########################################
 
+.. seealso:: This other page lists my favorite computer and online tools: `<my-favorite-tools.en.html>`_.
 
 This page is written to clarify some *« legal »* points regarding my webpages.
 
@@ -15,9 +16,9 @@ This page is written to clarify some *« legal »* points regarding my webpages.
 
 About
 -----
- This little page is intented to quote the trademarks I quote
+ This little page is intended to quote the trademarks I quote
  in the other pages. And also to give an almost exhaustive
- list of the software and usefull website I'm using for my projects.
+ list of the software and useful website I'm using for my projects.
 
 ------------------------------------------------------------------------------
 
@@ -79,21 +80,21 @@ LSV (*CS* research institute)
 
 CNRS (French scientific research institute)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- The CNRS is the French Institude for Scientific Research
+ The CNRS is the French Institute for Scientific Research
  ("Centre National de la Recherche Scientifique").
 
  I have no connection to the CNRS. Not at all.
 
- Anyway, I used their name and their logo for a few months,
- on a few pages.
- **For this, I sincerely appologize** : I will no longer do such a thing.
+..  Anyway, I used their name and their logo for a few months,
+..  on a few pages.
+..  **For this, I sincerely apologize** : I will no longer do such a thing.
 
- .. note::
+..  .. note::
 
-    I'm trying to clean up some of my old codes,
-    and my old web pages, to erase all occurrences
-    of the CNRS name or logo.
-    If you find of I forgot to erase, please inform me.
+..     I'm trying to clean up some of my old codes,
+..     and my old web pages, to erase all occurrences
+..     of the CNRS name or logo.
+..     If you find of I forgot to erase, please inform me.
 
 ------------------------------------------------------------------------------
 
@@ -118,7 +119,7 @@ In particular,
  * CUDA and nVidia CUDA are © and ® of nVidia,
  * Python, PyDOC, Pypi and Sphinx are © and ® of The Python Foundation,
  * OCaml, and OCamlDoc are © and ® of INRIA,
- * XML, HTML, Javascript are name of technologies developped by the WWW consortium, and the Mozilla Foundation,
+ * XML, HTML, Javascript are name of technologies developed by the WWW consortium, and the Mozilla Foundation,
  * Firefox is © and ® of the Mozilla Foundation,
  * Google Analytics, Google, Google Code, Google Site and Youtube are © and ® of Google Inc.,
  * reStructuredText and docutils are © and ® of David Goodger et al.,

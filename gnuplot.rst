@@ -12,6 +12,8 @@
 
 ------------------------------------------------------------------------------
 
+.. warning:: Cette page est très vieille, et ne marche probablement plus bien. Ca n'a jamais été autre chose qu'une petite démonstration.
+
 Le toplevel Gnuplot 4.6.3
 -------------------------
 Optionnel

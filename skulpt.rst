@@ -6,6 +6,11 @@
 
 ------------------------------------------------------------------------------
 
+.. seealso:: Je recommande les outils suivants, plus modernes et plus complets !
+
+  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `<skulpt.html>`_ !
+  - Le `notebook RustPython <https://rustpython.github.io/demo/notebook/>`_ est aussi bien fait, mais pas sûr de savoir quels modules de la librairie standard et quelles fonctionnalités de Python sont bien supportées. Mais c'est très impressionnant...
+
 .. warning:: Compatibilité HTML5 requise !
 
    Cette page nécessite `un navigateur compatible HTML 5 <http://html5test.com/>`_
@@ -53,7 +58,7 @@ Toplevel Python 2.7.3 Skulpt
        t.forward(75)
        t.right(90)
    # Demo with 'document' module
-   print("A demo of the minimalistic DOM handler ('document') module is in progress !")
+   print("A demo of the minimalist DOM handler ('document') module is in progress !")
    import document
    spanoutput = document.getElementById('spanoutput')
    spanoutput.innerHTML = ' <br/><hr/><h1 style="color:red;">Skulpt can also access the DOM !</h1><br/><br/><hr/> '

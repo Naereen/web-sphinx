@@ -6,6 +6,12 @@
 
 ------------------------------------------------------------------------------
 
+.. seealso:: I recommend the following, more modern and comprehensive tools!
+
+  - `BetterOCaml.ml <https://betterocaml.ml/editor/>`_ is a good little OCaml editor (with the code on the left, the output of its execution on the right), developed by `a CPGE MP* student <https://github.com/jbdo99/>`_ in 2020) ;
+  - `TryOCaml.OCamlPro.com <https://try.ocamlpro.com/>`_ is another good environment to use the basic OCaml system online, without installing anything!It's done by OCamlPro and the "official" solution ;
+  - `Learn-OCaml <https://ocaml-sf.org/learn-ocaml-public/index.html>`_ is a heavier and more complete environment. Not sure if it works entirely offline.
+
 The terminal
 ------------
 .. raw:: html

@@ -6,6 +6,12 @@
 
 ------------------------------------------------------------------------------
 
+.. seealso:: Je recommande les outils suivants, plus modernes et plus complets !
+
+  - `BetterOCaml.ml <https://betterocaml.ml/editor/>`_ est un bon petit éditeur de OCaml (avec le code à gauche, la sortie de son exécution à droite), développé par `un élève de MP* <https://github.com/jbdo99/>`_ en 2020) ;
+  - `TryOCaml.OCamlPro.com <https://try.ocamlpro.com/>`_ est un autre bon environnement pour utiliser le système de base de OCaml en ligne, sans rien installer ! C'est fait par OCamlPro et la solution "officielle" ;
+  - `Learn-OCaml <https://ocaml-sf.org/learn-ocaml-public/index.html>`_ est un environnement plus lourd et plus complet. Pas sûr qu'il marche en entier hors-ligne.
+
 Le toplevel
 -----------
 .. raw:: html

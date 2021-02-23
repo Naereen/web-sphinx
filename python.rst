@@ -6,6 +6,13 @@
 
 ------------------------------------------------------------------------------
 
+.. seealso:: Je recommande les outils suivants, plus modernes et plus complets !
+
+  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `<skulpt.html>`_ !
+  - Le `notebook RustPython <https://rustpython.github.io/demo/notebook/>`_ est aussi bien fait, mais pas sûr de savoir quels modules de la librairie standard et quelles fonctionnalités de Python sont bien supportées. Mais c'est très impressionnant...
+
+.. warning:: Cette page est très vieille, et ne marche probablement plus bien. Ca n'a jamais été autre chose qu'une petite démonstration.
+
 .. warning:: Une autre version, plus légère et rapide, est disponible : `<skulpt.html>`_ !
 
 Toplevel Python 2.7.2 avec l'éditeur ACE
@@ -141,7 +148,7 @@ Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. 
 
 Libraire standard
 ~~~~~~~~~~~~~~~~~
-En utilisant un débuggeur JavaScript, comme `FireBug <https://getfirebug.com/whatisfirebug>`_,
+En utilisant un débogueur JavaScript, comme `FireBug <https://getfirebug.com/whatisfirebug>`_,
 il est possible de voir les appels aux fichiers de la librairie Python.
 
 Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)

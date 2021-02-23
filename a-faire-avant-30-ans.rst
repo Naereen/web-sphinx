@@ -166,7 +166,7 @@ Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
 - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
-- Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <https://www.penofchaos.com/warham/bd/>`_. Et à être un grand fan de la franchise `Naheulbeuk <https://www.penofchaos.com/warham/donjon/>`_ en entier.
+- Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <http://www.penofchaos.com/warham/bd/index.htm>`_. Et à être un grand fan de la franchise `Naheulbeuk <http://www.penofchaos.com/warham/donjon.htm>`_ en entier.
 - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
 - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
 - 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et plein autres).
