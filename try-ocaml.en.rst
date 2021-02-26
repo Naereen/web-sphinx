@@ -12,6 +12,10 @@
   - `TryOCaml.OCamlPro.com <https://try.ocamlpro.com/>`_ is another good environment to use the basic OCaml system online, without installing anything!It's done by OCamlPro and the "official" solution ;
   - `Learn-OCaml <https://ocaml-sf.org/learn-ocaml-public/index.html>`_ is a heavier and more complete environment. Not sure if it works entirely offline.
 
+.. seealso:: Locally use an OCaml editor and interpreter? It is possible on this site! Without having to install anything!
+
+   `BetterOCaml <https://BetterOCaml.ml/>`_ is a simple OCaml console and editor, but one that works online without the need for a server that computes your code behind: everything is interpreted in javascript in your browser!I host a local copy here: `BetterOCaml <publis/BetterOCaml/>`_. It is also on `ocaml.besson.link <http://ocaml.besson.link>`_.
+
 The terminal
 ------------
 .. raw:: html

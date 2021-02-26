@@ -23,6 +23,9 @@ Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plu
 
 .. youtube:: zleSzn76FMs
 
+
+- Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `<http://ocaml.besson.link>`_ pour OCaml 4.08, `<http://jscpp.besson.link>`_ pour C/C++, `<http://python.besson.link>`_  et `<http://notebook.besson.link>`_ pour Python 3.8, `<http://turing.besson.link>`_ pour des machines de Turing, et `<http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
+
 En 2019/2020
 ------------
 

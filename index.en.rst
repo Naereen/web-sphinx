@@ -9,24 +9,36 @@
 A few words about me
 --------------------
 
-Greetings!
-I am **Lilian Besson**, now teaching Computer Science at `ENS Rennes`_.
+|Greetings|, and welcome to my website!
+I am **Lilian Besson**, now teaching Computer Science at |ENSRennes|.
 I wish to become a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ in France.
 
 I `did my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning.
 
+.. |Greetings| raw:: html
+
+    <abbr title='This is obviously a reference to the French fantasy audio series, « Le Donjon de Naheulbeuk », and more broadly to the whole roll-playing games and heroic fantasy worlds, that I had liked since my childhood.'><a href='http://www.penofchaos.com/donjon/'><em>Greetings traveler</em></a></abbr>
+
 .. |ENSCachan| raw:: html
 
     <abbr title='ENS de Cachan, now ENS de Paris-Saclay, is a French "Grande École" specialized in training researchers and professors for superior studies, located in Cachan, near Paris ; now the school is called ENS de Paris-Saclay'><a href='http://www.ens-cachan.fr/version-anglaise/'>ENS de Cachan</a></abbr>
 
+.. |ENSRennes| raw:: html
 
-From August 2019, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
+    <abbr title='ENS de Rennes, previously known as Antenne Bretagne of ENS de Cachan, is a French "Grande École" specialized in training researchers and professors for superior studies (in maths, computer science, etc), located in Rennes, in Brittany in France.'><a href='http://www.ens-rennes.fr/'>ENS de Rennes</a></abbr>
+
+
+- From August 2019 to August 2022, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
+
+- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `ocaml.besson.link <http://ocaml.besson.link>`_ for OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ for C/C++, `python.besson.link <http://python.besson.link>`_  and `notebook.besson.link <http://notebook.besson.link>`_ for Python 3.8, `turing.besson.link <http://turing.besson.link>`_ for Turing machines, and `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard!Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
+
+- If you want to learn more about |ENSRennes|, watch this:
 
 .. youtube:: zleSzn76FMs
 
 
-I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA and INRIA Rennes. My research interests lie between sequential learning, tensor decomposition, cognitive radio, Python and open source software, and other directions.
+- I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA in Rennes. My research interests lie novative technologies for modern teaching, Python and OCaml programming, machine learning in general, and other directions.
 
 
 Between September 2016 and August 2019:

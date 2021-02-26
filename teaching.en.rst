@@ -23,6 +23,10 @@ I keep the same responsibilities as last year, but I am also teaching two new co
 
 .. youtube:: zleSzn76FMs
 
+
+- I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `<http://ocaml.besson.link>`_ for OCaml 4.08, `<http://jscpp.besson.link>`_ for C/C++, `<http://python.besson.link>`_  and `<http://notebook.besson.link>`_ for Python 3.8, `<http://turing.besson.link>`_ for Turing machines, and `<http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard!Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
+
+
 In 2019/2020
 ------------
 

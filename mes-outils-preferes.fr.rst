@@ -93,6 +93,22 @@ Autres messageries :
 
 - J'édite quasiment toujours mes fichiers avec `VSCode <visualstudiocode.fr.html>`_, mais souvent quand je souhaite juste lire ou modifier rapidement un fichier depuis le terminal, j'utilise **GNU Nano**, qui est rapide, simple et fiable. Bien plus modeste que les vénérables (mais trop compliqués) GNU Emacs et Vi(m), et plus standard que les alternatives modernes comme `slap <https://github.com/slap-editor/slap/>`_ ou `micro <https://micro-editor.github.io/>`_.
 
+.. seealso:: Utiliser localement Python et un notebook Jupyter ? C'est possible sur ce site ! Sans rien avoir à installer !
+
+    `Basthon <https://basthon.fr/>`_ est une console et un notebook Python très complets, fonctionnant en ligne sans besoin d'un serveur qui calcule votre code derrière : tout est interprété en javascript dans votre navigateur ! J'héberge une copie locale de Basthon, ici : `console Python 3.8 <Basthon/python/>`_, `notebook Jupyter Python 3.8 <Basthon/notebook/>`_. Ils sont aussi sur `python.besson.link <http://python.besson.link>`_ et `notebook.besson.link <http://notebook.besson.link>`_ (sans HTTPS mais c'est juste une copie transparente des dossiers de ce site).
+
+.. seealso:: Utiliser localement un éditeur et interpréteur OCaml ?
+
+    `BetterOCaml <https://BetterOCaml.ml/>`_ est une console et un éditeur OCaml simple, mais qui fonctionne en ligne sans besoin d'un serveur qui calcule votre code derrière : tout est interprété en javascript dans votre navigateur ! J'héberge une copie locale ici : `BetterOCaml <publis/BetterOCaml/>`_. Il est aussi sur `ocaml.besson.link <http://ocaml.besson.link>`_.
+
+.. seealso:: Utiliser localement un éditeur et interpréteur C ?
+
+    `JSCPP <https://github.com/felixhao28/JSCPP/issues/>`_ est un éditeur et débogueur C/C++ simple, mais qui fonctionne en ligne sans besoin d'un serveur qui calcule votre code derrière : tout est interprété en javascript dans votre navigateur ! J'héberge une copie locale ici : `JSCPP <publis/JSCPP/>`_. Il est aussi sur `jscpp.besson.link <http://jscpp.besson.link>`_.
+
+.. seealso:: Utiliser localement un simulateur de machines de Turing ?
+
+    `jsTuring_fr <https://github.com/Naereen/jsTuring_fr>`_ est un simulateur de machines de Turing, qui fonctionne en ligne ! J'héberge une copie locale ici : `jsTuring_fr <publis/jsTuring_fr/>`_. Il est aussi sur `turing.besson.link <http://turing.besson.link>`_.
+
 
 Terminal
 ~~~~~~~~
@@ -145,8 +161,8 @@ Gestionnaire de version
 Multimédia
 ~~~~~~~~~~
 
-- **Lecteur de musique** : **gmusicbrowser** (`<http://gmusicbrowser.org/>`_), vraiment parfait, je l'utilise constamment, depuis 2014. Interface très légère, charge CPU/RAM quasi inexistante, gère sans problème mes ~80 Go et ~23000 titres de musique, peut être modifié à la volée (tout le code est du Perl assez lisible, ce qui est un exploit en soit), peut être scripté et optimisé aux petits oignons ;
-- **Lecteur vidéo** : **VLC** (`<https://www.videolan.org/>`_) ;
+- **Lecteur de musique** : **gmusicbrowser** (`GMusicBrowser.org <http://gmusicbrowser.org/>`_), vraiment parfait, je l'utilise constamment, depuis 2014. Interface très légère, charge CPU/RAM quasi inexistante, gère sans problème mes ~80 Go et ~23000 titres de musique, peut être modifié à la volée (tout le code est du Perl assez lisible, ce qui est un exploit en soit), peut être scripté et optimisé aux petits oignons ;
+- **Lecteur vidéo** : **VLC** (`VideoLAN.org <https://www.videolan.org/>`_) ;
 
 - **Vidéos en ligne** : `YouTube <https://www.youtube.com/>`_, regardez `cette liste de ce que j'essaie de regarder et écouter sur YouTube <ce-que-je-regarde-sur-youtube.fr.html>`_ ;
 - **Création de vidéo** depuis le bureau : `OBS Studio <https://obsproject.com/fr/>`_ quand besoin de son ou de longues vidéos (cf `<twitch.fr.html>`_), et `Peek <https://github.com/phw/peek>`_ pour des petits GIF ;
@@ -196,7 +212,7 @@ Créer des documents pédagogiques
 - **OCamlDoc** pour générer des documentations de programmes OCaml, voir ces exemples : `modélisation d'agrég <https://perso.crans.org/besson/a/m/2/doc/>`_, `Zenity OCaml <https://perso.crans.org/besson/publis/Zenity/doc/Zenity.html>`_, etc.
 - **Sphinx doc** pour générer des documentations de programmes OCaml, voir ces exemples : `SMPyBandits <https://smpybandits.readthedocs.io/>`_, `MEC CS101 integrals <https://mec-cs101-integrals.readthedocs.io/>`_ et `MEC CS101 matrices <https://mec-cs101-matrices.readthedocs.io/>`_, `ansicolortags <https://ansicolortags.readthedocs.io/>`_ (et ce site web !) ;
 
-- **Jupyter book** : jamais encore utilisé, mais c'est LE TRUC qui m'excite pour 2021 ! Cf. `<https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+- **Jupyter book** : jamais encore utilisé, mais c'est LE TRUC qui m'excite pour 2021 ! Cf. `Info-Prepas-MP2I/ <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
 .. todo:: ajouter une section spécifique à Jupyter ? Ou des liens ?
 .. todo:: Essayer https://sqlitebrowser.org/ quand j'enseignerai SQL ?
@@ -254,7 +270,7 @@ Autres logiciels
 
 - **Licence libre ?**
 
-    + J'utilise quasiment uniquement la `Licence MIT <https://lbesson.mit-license.org/>`_, principalement parce que le site `<https://mit-license.org/>`_ est cool et la licence est courte et permissive ;
+    + J'utilise quasiment uniquement la `Licence MIT <https://lbesson.mit-license.org/>`_, principalement parce que le site `mit-license.org <https://mit-license.org/>`_ est cool et la licence est courte et permissive ;
     + Mes articles de recherche sur `HAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`_ et `CEL <https://hal.inria.fr/cel-01830248v1>`_ sont sous `licence Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr>`_ ;
     + Des vieux projets sont encore sous `licence GPLv3 <LICENSE.html>`_, mais je sais plus trop pourquoi ;
     + J'admire les `licence WTFPL <http://www.wtfpl.net/about/>`_, et autres ;
@@ -273,8 +289,8 @@ Autres logiciels
 Logiciels en lignes
 ~~~~~~~~~~~~~~~~~~~
 
-- **Tableau en ligne** : le magnifique et régulièrement amélioré **Tableaunoir** !
-- **Traduction automatique** : `DeepL <https://www.deepl.com/translator>`_ et `Google Translate <https://translate.google.com/>`_, quand nécessaire !
+- **Tableau en ligne** : le magnifique et régulièrement amélioré **Tableaunoir** ! Il est aussi sur mon site sur `tableaunoir.besson.link <http://tableaunoir.besson.link>`_.
+- **Traduction automatique** : `DeepL <https://www.deepl.com/translator>`_ et `Google Translate <https://translate.google.com/>`_, quand nécessaire ! Mais le moins possible !
 
 - **Cartographie** : `OpenStreetMap <https://www.openstreetmap.org/>`_, `rome2rio <https://www.rome2rio.com/>`_, et en dernier recours `Google Maps <https://www.google.fr/maps>`_ ;
 

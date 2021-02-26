@@ -19,7 +19,7 @@ Fichiers publiés ici
 Développements et couplages (maths et info)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    Note : je n'ai ***pas** tapé les développements*, c'est juste des
+    Note : je n'ai **pas** tapé les développements, c'est juste des
     listes d'idées (avec références complètes).
 
 -  Développements et couplages pour les leçons de maths `en HTML (page
@@ -85,20 +85,13 @@ Licence d'utilisation ?
 Ces fichiers sont tous publiquement distribués, `sous la licence
 MIT <http://lbesson.mit-license.org/>`__.
 
-    Notamment : Vous pouvez imprimer les PDF, mais vous pouvez aussi
-    utiliser le code de ces documents ! - Pour les pages HTML, c'est en
-    fait du
-    `Markdown <http://daringfireball.net/projects/markdown/syntax.php>`__
-    avec du LaTeX pour les maths, et elles sont affichées avec
-    `StrapDown.js <https://github.com/Naereen/StrapDown.js>`__, - Pour
-    les fichiers LaTeX, ils fonctionnent avec `ce
-    template <https://perso.crans.org/besson/publis/latex/template.fr.tex>`__
-    et `ce script <https://perso.crans.org/besson/bin/autotex>`__ (en
-    fait les .tex et .pdf sont obtenus par conversion automatique depuis
-    les .html, via `ce
-    script <https://perso.crans.org/besson/bin/strapdown2pdf>`__), - Pour
-    les deux, la bibliographie est faite "à la main" avec des liens
-    directs (pas de BibTeX).
+Notamment : Vous pouvez imprimer les PDF, mais vous pouvez aussi utiliser le code de ces documents !
+
+- Pour les pages HTML, c'est en fait du `Markdown <http://daringfireball.net/projects/markdown/syntax.php>`__ avec du LaTeX pour les maths, et elles sont affichées avec `StrapDown.js <https://github.com/Naereen/StrapDown.js>`__,
+
+- Pour les fichiers LaTeX, ils fonctionnent avec `ce template <https://perso.crans.org/besson/publis/latex/template.fr.tex>`__ et `ce script <https://perso.crans.org/besson/bin/autotex>`__ (en fait les .tex et .pdf sont obtenus par conversion automatique depuis les .html, via `ce script <https://perso.crans.org/besson/bin/strapdown2pdf>`__),
+
+- Pour les deux, la bibliographie est faite "à la main" avec des liens directs (pas de BibTeX).
 
 --------------
 

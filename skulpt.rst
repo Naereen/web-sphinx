@@ -8,7 +8,11 @@
 
 .. seealso:: Je recommande les outils suivants, plus modernes et plus complets !
 
-  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `<skulpt.html>`_ !
+  - `Basthon <https://basthon.fr/>`_ est une console et un notebook Python très complets, fonctionnant en ligne sans besoin d'un serveur qui calcule votre code derrière : tout est interprété en javascript dans votre navigateur ! J'héberge une copie locale de Basthon, ici : `console Python 3.8 <Basthon/python/>`_, `notebook Jupyter Python 3.8 <Basthon/notebook/>`_. Ils sont aussi sur `python.besson.link <http://python.besson.link>`_ et `notebook.besson.link <http://notebook.besson.link>`_ (sans HTTPS mais c'est juste une copie transparente des dossiers de ce site).
+
+  En cas de problème, on peut aussi utiliser :
+
+  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `skulpt <skulpt.html>`_ !
   - Le `notebook RustPython <https://rustpython.github.io/demo/notebook/>`_ est aussi bien fait, mais pas sûr de savoir quels modules de la librairie standard et quelles fonctionnalités de Python sont bien supportées. Mais c'est très impressionnant...
 
 .. warning:: Compatibilité HTML5 requise !
@@ -17,10 +21,10 @@
    (voir aussi `html5readiness.com <http://html5readiness.com>`_)
 
    Malgré ça, cette version de l'interprète Python semble plus accessible que
-   la première mise en place (`<python.html>`_), en particulier **Skulpt**
+   la première mise en place (`python <python.html>`_), en particulier **Skulpt**
    semble plus compatible avec les navigateurs des smartphones (si ce n'est
    pas votre cas, un retour ou une remarque me ferait plaisir, voir
-   `<index.html>`_ pour me contacter !).
+   `<callme.fr.html>`_ pour me contacter !).
 
 ------------------------------------------------------------------------------
 

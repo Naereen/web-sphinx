@@ -33,11 +33,11 @@ J'ai décidé de me fixer les objectifs suivants pour cette année :
 Résumé de mon année 2021
 ------------------------
 
-.. note:: Je me suis limité à maximum trois points par mois.
+.. note:: J'ai essayé de me limiter à maximum trois points par mois.
 
 Janvier 2021
 ------------
-- J'ai eu 28 ans, et j'ai rien fait de spécial pour célébrer ça.
+- J'ai eu 28 ans, mais je n'ai rien fait de spécial pour célébrer ça.
 - Reprise des cours en présentiel, après quasiment trois mois de distanciel... j'en avais plus que marre ! Consultez cette page `<coronavirus.fr.html>`_ pour plus d'informations sur l'enseignement en distanciel !
 - Plein de choses sympa au boulot, en `prépa agrég <agreg-2020/>`_, en `ALGO2 <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_, pour `les séminaires à l'ENS Rennes <http://www.dit.ens-rennes.fr/seminaires/>`_ etc.
 
@@ -45,12 +45,24 @@ Février 2021
 ------------
 - Un chouette week-end à Paris et à Massy, je n'y étais pas retourné depuis fin août 2020 !
 - Discussions pour en éventuel poste en classes préparatoires... affaire à suivre !
-- J'ai commencé à rédiger `ces livres en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+- Des discussions très intéressantes sur GitHub et Framagit avec les développeurs de `<https://Basthon.fr>`_ (console/notebook  mobile-friendly in-browser offline-ready pour Python 3.8 !) et `<https://BetterOCaml.ml>`_ (console/éditeur mobile-friendly in-browser offline-ready pour OCaml 4.08)... J'espère fusionner un peu les deux projets, pour proposer un "kernel" OCaml pour le notebook Basthon, comme `ocaml-jupyter <https://github.com/akabe/ocaml-jupyter/>`_...
+
+- Tempête de mails et réactions vives des professeurs de prépa agrégation (maths) en France, suite à `des annonces inquiétantes sur le site du jury <https://github.com/Naereen/Bibliographie-agregation-maths-option-info#mode-survie-pas-sans-biblioth%C3%A8que-dagr%C3%A9g-ni-malle--wtf->`_...
+- Quelques petits projets sur GitHub qui m'ont occupés en février :
+
+  - `Bibliographie agrégation maths option info <https://github.com/Naereen/Bibliographie-agregation-maths-option-info/>`_ (`des suggestions ? <https://github.com/Naereen/Bibliographie-agregation-maths-option-info/issues/4>`_) ;
+  - `Peut on coder avec OCaml Python et C par SMS ? <https://github.com/Naereen/Peut-on-coder-avec-OCaml-Python-et-C-par-SMS/>`_ ;
+  - `Perspectives carrière enseignement informatique en 2021 <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021>`_ ;
+  - (comme quoi, quand je ne joue pas à Skyrim ou Witcher, j'ai du temps pour faire des petites choses chouettes !)
+
 
 .. warning:: Le reste est dans le futur !
 
 Mars 2021
 ---------
+- Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
+- J'ai commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+
 - Début mars 2021 (04, 05) ont lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). J'espère qu'ils ne seront pas annulés cette année !
 - TODO
 

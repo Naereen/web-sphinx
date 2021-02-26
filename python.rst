@@ -8,12 +8,16 @@
 
 .. seealso:: Je recommande les outils suivants, plus modernes et plus complets !
 
-  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `<skulpt.html>`_ !
+  - `Basthon <https://basthon.fr/>`_ est une console et un notebook Python très complets, fonctionnant en ligne sans besoin d'un serveur qui calcule votre code derrière : tout est interprété en javascript dans votre navigateur ! J'héberge une copie locale de Basthon, ici : `console Python 3.8 <Basthon/python/>`_, `notebook Jupyter Python 3.8 <Basthon/notebook/>`_. Ils sont aussi sur `python.besson.link <http://python.besson.link>`_ et `notebook.besson.link <http://notebook.besson.link>`_ (sans HTTPS mais c'est juste une copie transparente des dossiers de ce site).
+
+  En cas de problème, on peut aussi utiliser :
+
+  - `CodeSkulptor 3 <https://py3.codeskulptor.org/>`_ est assez complet pour la librairie standard et ça marche bien ! Pas sûr qu'il marche parfaitement hors ligne. Basé sur `Skulpt.org <http://skulpt.org/>`_, que j'avais déployé dans la page `skulpt <skulpt.html>`_ !
   - Le `notebook RustPython <https://rustpython.github.io/demo/notebook/>`_ est aussi bien fait, mais pas sûr de savoir quels modules de la librairie standard et quelles fonctionnalités de Python sont bien supportées. Mais c'est très impressionnant...
 
 .. warning:: Cette page est très vieille, et ne marche probablement plus bien. Ca n'a jamais été autre chose qu'une petite démonstration.
 
-.. warning:: Une autre version, plus légère et rapide, est disponible : `<skulpt.html>`_ !
+.. warning:: Une autre version, plus légère et rapide, est disponible : `skulpt <skulpt.html>`_ !
 
 Toplevel Python 2.7.2 avec l'éditeur ACE
 -----------------------------------------
@@ -132,11 +136,11 @@ Toplevel Python 2.7.2 avec l'éditeur ACE
 
 .. seealso::
 
-   Skulpt (`<skulpt.html>`_)
-      Skulpt est une autre implémentation en *JavaScript* de Python.
-      Il semble aussi posséder un genre d'interface graphique :) !
+   Skulpt (`ici aussi <skulpt.html>`_)
+      `Skulpt <https://skulpt.org/>`_ est une autre implémentation en *JavaScript* de Python.
+      Il propose aussi des modules simples pour manipuler des canvas HTML pour avoir des interfaces graphiques !
 
-   SymPy Live (`<http://live.sympy.org/>`_)
+   SymPy Live (`live.SymPy.org <http://live.sympy.org/>`_)
       Est encore un autre terminal Python s'exécutant dans un navigateur.
       Avec SymPy installé (calcul symbolique en Python), et en interprétant
       la sortie de SymPy comme du code LaTeX, rendu avec MathJax.
@@ -149,6 +153,7 @@ Comme dans `.special.rst <_sources/.special.txt>`_, j'utilise la directive ``.. 
 Libraire standard
 ~~~~~~~~~~~~~~~~~
 En utilisant un débogueur JavaScript, comme `FireBug <https://getfirebug.com/whatisfirebug>`_,
+ou les "outils développeurs" dans Firefox ou Chromium,
 il est possible de voir les appels aux fichiers de la librairie Python.
 
 Ils sont stockés dans ce dossier `<_static/python/lib/python2.7/>`_ :)

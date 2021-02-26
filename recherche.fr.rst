@@ -29,7 +29,8 @@ Thèse de doctorat (PhD) (2016-19)
 
 Pour mon doctorat, mes recherches portent sur l'apprentissage machine appliqué, centré sur l'apprentissage en ligne à faible coût avec de l'information partielle ("feedback bandit"). Mes recherches s'appliquent principalement aux problèmes de radio intelligente pour l'Accès Opportuniste au Spectre (*OSA*) et mise en place de protocoles d'accès au réseau le plus fiables possible, pour les futurs réseaux de l'Internet des Objets (*IoT*). En étudiant et en appliquant des algorithmes classiques de Bandit Multi-Bras (*MAB*), et d'autres plus récents, nous sommes en mesure de prouver certaines garanties de performance, à la fois numériquement via des simulations et théoriquement via des preuves statistiques.
 
-J'ai soutenu le 20 novembre 2019. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
+
+J'ai soutenu le 20 novembre 2019. Je suis désormais docteur en télécommunications. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 
 Liste de publications
 ~~~~~~~~~~~~~~~~~~~~~
