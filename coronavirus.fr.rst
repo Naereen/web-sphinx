@@ -13,10 +13,17 @@
     J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
 
 
-TL;DR: Soyez prudents, travaillez bien, soyez gentil-l-es et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
-Je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
+TL;DR: Soyez prudent-e-s, travaillez bien, soyez gentil-l-es et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
 
-.. youtube:: TAJDzGfKE
+- Si besoin, je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
+
+- Si vous vous sentez trop seul-e, on peut s'appeler (via `Jitsi <jitsi.fr.html>`_ en visio), ou jouer ensemble au Pictionnary avec `Tableaunoir <https://tableaunoir.github.io/>`_ et `ce générateur de mot <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ?
+
+- Besoin d'idées culturelles, livres films et autres ? Cf. `mon top 10 <top10.fr.html>`_ !
+- Envie de jouer aux jeux vidéo ensemble ? Je souhaite poursuivre `avec Pokémon Or/Argent <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ (ou autre), `contactez moi <callme.fr.html>`_ !
+- Envie de rigoler cinq minutes ?
+
+.. youtube:: t4h8j9xLyxQ
 
 
 Télétravail pendant l'épidémie de Coronavirus

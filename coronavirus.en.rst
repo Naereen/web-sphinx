@@ -8,10 +8,10 @@
 
 .. warning:: Information on the Coronavirus Epidemic (in France)
 
-    Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>` page of the French government.
+    Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>`_ page of the French government.
     And reading `<https://www.lemonde>`_ is also a very good idea!
 
-.. youtube:: TAJDzGfKE
+.. youtube:: t4h8j9xLyxQ
 
 
 Working from home because of the Coronavirus outbreak
