@@ -45,7 +45,7 @@ Février 2021
 ------------
 - Un chouette week-end à Paris et à Massy, je n'y étais pas retourné depuis fin août 2020 !
 - Discussions pour en éventuel poste en classes préparatoires... affaire à suivre !
-- Des discussions très intéressantes sur GitHub et Framagit avec les développeurs de `<https://Basthon.fr>`_ (console/notebook  mobile-friendly in-browser offline-ready pour Python 3.8 !) et `<https://BetterOCaml.ml>`_ (console/éditeur mobile-friendly in-browser offline-ready pour OCaml 4.08)... J'espère fusionner un peu les deux projets, pour proposer un "kernel" OCaml pour le notebook Basthon, comme `ocaml-jupyter <https://github.com/akabe/ocaml-jupyter/>`_...
+- Des discussions très intéressantes sur GitHub et Framagit avec les développeurs de `<https://Basthon.fr>`_ (console/notebook  mobile-friendly in-browser offline-ready pour Python 3.8 !) et `<https://BetterOCaml.ml>`_ (console/éditeur mobile-friendly in-browser offline-ready pour OCaml 4.08)... J'espère fusionner un peu les deux projets, pour proposer un "kernel" OCaml pour le notebook Basthon, comme `ocaml-jupyter <https://github.com/akabe/ocaml-jupyter/>`_, ou même plutôt `IOCaml-JS <publis/iocamljs/>`_ qui est un kernel IPython pour OCaml, compilé en javascript (donc tout est interprété en javascript dans le navigateur)...
 
 - Tempête de mails et réactions vives des professeurs de prépa agrégation (maths) en France, suite à `des annonces inquiétantes sur le site du jury <https://github.com/Naereen/Bibliographie-agregation-maths-option-info#mode-survie-pas-sans-biblioth%C3%A8que-dagr%C3%A9g-ni-malle--wtf->`_...
 - Quelques petits projets sur GitHub qui m'ont occupés en février :
@@ -63,23 +63,26 @@ Février 2021
 Mars 2021
 ---------
 - Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
-- J'ai commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+- J'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
-- Début mars 2021 (04, 05) ont lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). J'espère qu'ils ne seront pas annulés cette année !
+- Début mars 2021 (mercredi 3 et jeudi 4) ont eu lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). :strike:`J'espère qu'ils ne seront pas annulés cette année !` Les écrits ont bien eu lieu ! Ouf !!
+
+- Une chouette sortie à la mer à Dinard, où je n'étais jamais allé !
 - TODO
 
 Avril 2021
 ----------
 - TODO
+- Petites vacances dans le Finistère en fin du mois d'avril ?
 
 Mai 2021
 --------
-- Petites vacances à Marseille en début de mois de mai ?
+- Petites vacances à Marseille en début du mois de mai ?
 - TODO
 
 Juin 2021
 ---------
-- Oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ?
+- Oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espère qu'ils seront maintenus, mais le jury a déjà annoncé que les visiteurs extérieures seront interdits...
 - TODO
 
 Juillet 2021
@@ -94,7 +97,7 @@ Août 2021
 
 Septembre 2021
 --------------
-- Ma troisième (et dernière !) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier !
+- Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier !
 - TODO
 
 Octobre 2021
@@ -120,7 +123,7 @@ Résumé culturel
 
 En 2021, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : TODO
+- En France : très très peu (Paris, Saint-Malo, Dinard), TODO.
 - Mais j'espère plus qu'en 2020, si 2020 aura été l'année des deux confinements, j'espère (comme tout le monde) que 2021 ne le sera pas !!
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas prévu.
@@ -128,9 +131,9 @@ En 2021, j'ai voyagé là…
 
 En 2021, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- De mi-décembre 2020 à début février, j'ai rejoué à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC. Cette fois, j'y ai joué différemment : en mode « très difficile » (ou plus dur, et je baisse progressivement la difficulté si je meurs), mais sans faire l'histoire principale (que je connaissais encore bien), et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! Et les deux DLC Dragonborn et Dawnguard ! J'adore Skyrim ! **Fus, Ro, Dah !**
+- De mi-décembre 2020 à début février 2021, j'ai rejoué à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC. Cette fois, j'y ai joué différemment : en mode « très difficile » (ou plus dur, et je baisse progressivement la difficulté si je meurs), mais sans faire l'histoire principale (que je connaissais encore bien, et qui est malheureusement linéaire), et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! Et les deux DLC Dragonborn et Dawnguard ! J'adore Skyrim ! **Fus, Ro, Dah !**
 - Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, `Yarntown <https://www.solarus-games.org/en/games/yarntown>`_).
-- Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment.
+- Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment... si j'ai le temps !
 - TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc.
 - En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020.
 
