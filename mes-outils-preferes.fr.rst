@@ -239,6 +239,8 @@ Autres logiciels
 
 - **Gestionnaire de presse-papiers** : c'est un tout petit truc, mais indispensable ! Cela permet de garder en mémoire les derniers "copié-collés" et de les retrouver avec un petit menu. J'utilise depuis des années le merveilleux `glipper <https://launchpad.net/glipper>`_, mais il existe des alternatives sur Windows et Mac OS, et d'autres logiciels sous Ubuntu et autres Linux ;
 
+- **Protéger ses yeux** : je travaille souvent la nuit, et j'utilise depuis des années un logiciel qui permet de réduire automatiquement la luminosité de mon écran, ainsi que réduire la lumière bleue. J'utilisais `Flux <https://justgetflux.com/linux.html>`_ mais depuis 2015 je préfère `Redshift <http://jonls.dk/redshift/>`_ (libre `sur GitHub <https://github.com/jonls/redshift/releases>`_), qui fonctionne mieux et s'installe facilement (voici [ma configuration](publis/redshift.conf) qui désactive la géolocalisation par défaut). Sur `téléphone <apk.fr.html>`_, j'utilise `"Filtre lumière bleue - S'endormir facilement" <https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free>`_.
+
 - Recherche centralisée de logiciel ou de fichier : j'utilise **Synapse** sous GNOME, c'est très pratique pour lancer rapidement un programmable ;
 
 - **Automatisation de compilation**, scripts locaux dans un dossier etc : **GNU Makefile**. J'en utilise partout ! J'ai abusé et écrit `mymake.sh <https://bitbucket.org/lbesson/bin/src/master/mymake.sh>`_ pour améliorer ``make`` (en cherchant un Makefile dans un dossier supérieur, et possiblement m'envoyer des SMS avec ``--FreeSMS``).

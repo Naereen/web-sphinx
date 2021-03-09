@@ -43,7 +43,6 @@ Rencontres
 ~~~~~~~~~~
 
 - 🛋 🏄 `CouchSurfing <https://www.CouchSurfing.com/>`_ : je m'en sers pour héberger des gens chez moi, et pour me faire héberger chez d'autres gens, quand je voyage ``#couch`` ``#surf`` ;
-- 👻 `SnapChat <https://www.SnapChat.com/>`_ : pour jouer aux espions avec ses amis ``#ghost`` ``#snap`` ;
 
 
 .. sidebar:: N'est peut-être plus à jour !
@@ -82,7 +81,7 @@ Utilitaires
 Pour utiliser des sites web facilement sur mobile (compte enregistré, utilisation facilitée) :
 
 - `WordPress <https://www.WordPress.com/>`_ : pour gérer un blogue sous WordPress, e.g., `Actuel Moyen-Âge <https://ActuelMoyenAge.WordPress.com/>`_ ;
-- `LeMonde <https://www.LeMonde.fr/>`_ pour l'actualité. Je pense qu'il est essentiel de lire rapidement l'actualité le matin sur AU MOINS UN journal numérique ;
+- `LeMonde <https://www.LeMonde.fr/>`_ pour l'actualité. Je pense qu'il est essentiel de lire rapidement l'actualité les matins (en semaine, pas en weekend), sur AU MOINS UN journal numérique ;
 
 .. sidebar:: D'autre langues ?
 
@@ -96,6 +95,8 @@ Trois applications minuscules, juste pour avoir accès à un capteur du téléph
 - **Barometer** : avec l'aide d'Internet, et l'éventuel capteur interne, donne la pression actuelle (utile pour prédire la météo) ;
 - **Sonomètre** : volume sonore actuel, très bien faite !
 - **Podomètre** : n'importe quelle bonne application le fera. Si vous avez une "montre connectée" elle peut parler à l'application !
+
+J'aime bien aussi utiliser un logiciel qui permet de réduire automatiquement la luminisoté de mon écran, ainsi que réduire la lumière bleue. J'utilise j'utilise `"Filtre lumière bleue - S'endormir facilement" <https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free>`_ sur Android depuis des années, et j'en suis très content. Malheureusement, la version gratuite ne permet pas d'automatiser le changement à heure fixe (comme `Redshift <http://jonls.dk/redshift/>`_ sur Linux), mais ce n'est pas très grave...
 
 Et enfin :
 

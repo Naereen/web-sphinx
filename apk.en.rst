@@ -95,6 +95,8 @@ Three tiny applications, just to access a phone sensor:
 - **Sonometer**: current volume, very well done!
 - **Pedometer**: any good application will do it. If you have a "connected watch" it can talk to the application!
 
+I like to use a software which allows to automatically reduce the lightness of my screen, and its blue light. I use `"Bluelight Filter for Eye Care - Auto screen filter" <https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free>`_ on Android since many years, and I'm happy about it. Sadly the free version does not allow to change the lightness automatically at a chosen time in the night (like `Redshift <http://jonls.dk/redshift/>`_ does on Linux), but it's not so bad.
+
 And finally:
 
 - Your favorite app that offers a **VPN** (e.g., **NordVPN**);
