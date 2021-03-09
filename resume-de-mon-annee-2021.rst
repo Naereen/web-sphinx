@@ -57,9 +57,6 @@ Février 2021
   - `OCaml avec des mots clés en français <https://github.com/Naereen/OCaml-mots-cles-en-francais>`_, et `langage-c-mots-cles-en-francais <https://github.com/Naereen/langage-c-mots-cles-en-francais>`_ ;
   - (comme quoi, quand je ne joue pas à Skyrim ou Witcher, j'ai du temps pour faire des petites choses chouettes !)
 
-
-.. warning:: Le reste est dans le futur !
-
 Mars 2021
 ---------
 - Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
@@ -69,6 +66,10 @@ Mars 2021
 
 - Une chouette sortie à la mer à Dinard, où je n'étais jamais allé !
 - TODO
+
+
+.. warning:: Le reste est dans le futur !
+
 
 Avril 2021
 ----------

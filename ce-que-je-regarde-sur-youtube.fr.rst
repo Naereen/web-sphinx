@@ -230,4 +230,9 @@ D'autres gens
 - `Primitive Technology <https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA>`_ (technologies primitives et de survie, pas très actif).
 - `School of Saber-fighting <https://www.youtube.com/channel/UCf63jfFN-KLVukMja7hv6CQ>`_ & `Saber-project <https://www.youtube.com/channel/UCiGXdygdUUD_rd2nxGOVVeA>`_ (combats de sabres laser, inspiré par Star Wars).
 
+D'autres listes ?
+-----------------
+
+.. seealso:: Ce `chouette gars <https://xem.github.io/>`_ a aussi une liste similaire, mieux organisée et présentée que la mienne : `ici <https://xem.github.io/youtube/index.html>`_.
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
