@@ -53,6 +53,8 @@ Février 2021
   - `Bibliographie agrégation maths option info <https://github.com/Naereen/Bibliographie-agregation-maths-option-info/>`_ (`des suggestions ? <https://github.com/Naereen/Bibliographie-agregation-maths-option-info/issues/4>`_) ;
   - `Peut on coder avec OCaml Python et C par SMS ? <https://github.com/Naereen/Peut-on-coder-avec-OCaml-Python-et-C-par-SMS/>`_ ;
   - `Perspectives carrière enseignement informatique en 2021 <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021>`_ ;
+  - En utilisant les travaux d'autres gens : `Mon utilisation de Basthon <https://github.com/Naereen/Mon-utilisation-de-Basthon/>`_, `IOCamlJS-static <https://github.com/Naereen/IOCamlJS-static>`_, `MiniPy-interpreter-in-OCaml <https://github.com/Naereen/MiniPy-interpreter-in-OCaml>`_, `Kit-informatique-debranchee-preuve-pb-arret-Turing <https://github.com/Naereen/kit-informatique-debranchee-preuve-pb-arret-Turing>`_, et `BetterOCaml <https://github.com/jbdo99/BetterOCaml>`_ ;
+  - `OCaml avec des mots clés en français <https://github.com/Naereen/OCaml-mots-cles-en-francais>`_, et `langage-c-mots-cles-en-francais <https://github.com/Naereen/langage-c-mots-cles-en-francais>`_ ;
   - (comme quoi, quand je ne joue pas à Skyrim ou Witcher, j'ai du temps pour faire des petites choses chouettes !)
 
 
@@ -136,16 +138,25 @@ En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 4 de *Young Sheldon*, en cours ! (ça sort lentement c'est dommage). Toujours pas incroyable mais drôle et bonne ambiance.
 - Saisons 1 et 2 de *Marseille* (sur Netflix), regardé en faisant autre chose parce que franchement ça casse pas trois pattes à un canard. C'était sympa de revoir les paysages et la ville de Marseille, mais le reste n'a aucun intérêt j'ai trouvé (pas terminé la saison 2).
-- J'ai essayé le début de *Friends From College*, une sitcom produite par Netflix. J'aime bien les acteurs et actrices, mais fichtre que c'est nul...
-- J'ai réessayé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze...
-- *Désenchantée*, une série animée des USA, sur Netflix. Sympa le début, mais très vite lassant.
+- J'ai essayé le début de *Friends From College*, une sitcom produite par Netflix. J'aime bien les acteurs et actrices, mais fichtre que c'était nul... Et le même problème qu'avec *Arrow* : si tous les acteurs et actrices sont des modèles et incarnent des personnages très riches, il est difficile de s'identifier et de trouver des points communs... (alors que *Friends* et *Scrubs* n'avaient pas ce défaut !).
+- J'ai réessayé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze... C'est pétillant et drôle, mais très irréaliste (même problème d'avoir des modèles pour actrices principales...).
+- *Désenchantée*, une série animée des USA, sur Netflix. Sympa le début, mais très vite lassant. Je ne comprends pas l'attirance pour des séries animées aussi "moches"... en comparaison de *Star Wars: Clone Wars* ou *Avatar* c'est vraiment moche ! J'ai le même avis tranché envers *Futurama*, *Rick et Morty* et tant d'autres.
+- *Rick et Morty*, la fameuse série animée des USA. Sexiste, violente, vulgaire, apologie d'un alcoolique, et dessins trop moches. Franchement aucun intérêt...
+- *Platante*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite.
+- *Mr Robot*, une série des USA de 2015, j'ai adoré le premier épisode, puis très vite lassant, je n'ai même pas voulu finir la saison 1. Trop de sexe, de drogue, et de manipulations psychologique de personnages secondaires... Le personnage principal me plaisait trop (Rami Malek !) mais dès le quatrième épisode c'est le bazar. J'ai préféré arrêter !
 - TODO
 
 En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. note:: Lire des livres m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
+.. note:: J'ai toujours adoré lire des livres de fiction pour le plaisir (voir `mon top10 <top10.fr.html#mes-10-ecrivains-preferes>`_), mais en ce moment, cela m'a passé, j'ai plutôt envie de lire des livres techniques. Mais si vous avez des bonnes suggestions, je suis preneur !
 
 - *Guide de Survie en Milieu Naturel*, de David Manise, lu en détail.
+- *Éléments de mathématiques discrètes : cours, exercices résolus, implémentations avec les langages Python et OCaml*, de Mathieu Jaume, lu et travaillé pendant des semaines.
+- *Ma cuisine végétarienne, pour tous les jours*, par Garance Leureux. Une excellente référence très complète pour la cuisine végétarienne (et végétalienne), dont je suis adepte depuis 2018 déjà ! (et `non il n'est pas indispensable de manger de la viande pour être en bonne santé ! <https://www.lemonde.fr/les-decodeurs/article/2021/02/27/non-il-n-est-pas-necessaire-de-manger-de-la-viande-pour-etre-en-bonne-sante_6071378_4355770.html>`_, et allez lire `ce site aussi (viande.info) <https://www.viande.info/>`_).
+- *Python au lycée* `tome 1 <https://github.com/exo7math/python1-exo7>`_ et `tome 2 <https://github.com/exo7math/python2-exo7>`_, par Arnaud Bodin. Lu et travaillé en profondeur (en deux soirées, ça reste très court et pas très compliqué).
+- *Calculateurs, calculs, calculabilité*, de Olivier Ridoux et Gilles Lesventes, lu et travaillé en profondeur.
+- *Parcours et méthodes (1ère)*, spécialité NSI (Numérique et sciences informatiques), par David Legrand, aux éditions Ellipses (2020). Lu en profondeur, et alimenté de très nombreux échanges sur `la liste des profs de NSI <https://groupes.renater.fr/sympa/subscribe/numerique-sciences-informatiques>`_.
+- *Spécialité NSI (terminale), Numérique et Sciences Informatiques*, par Tbhiaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen, même constat (2020).
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
@@ -154,6 +165,7 @@ En 2021, j'ai vu ces films…
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
 - TODO *La couleur tombée du ciel* (2019)
+- TODO *Raya and the Last Dragon* (2021)
 - TODO
 - Et d'autres que j'ai oublié de noter…
 
