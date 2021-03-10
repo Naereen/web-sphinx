@@ -40,6 +40,11 @@ Je suis un `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/r
 .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
 
 
+Dans toutes mes activités d'enseignement ou mes interventions devant des élèves, j'aspire à être l'exact opposé de Pierre Richard dans cet extrait (*La moutarde me monte au nez* (1974) - Leçon de Mathématiques) :
+
+.. youtube:: vEZcqVF6JbI
+
+
 En 2017/2018 et en 2018/2019
 ----------------------------
 J'ai de nouveau enseigné environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).

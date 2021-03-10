@@ -41,6 +41,11 @@ I am a `junior professor (agrégé préparateur) in Computer Science at ENS de R
 .. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
 
 
+In all my teaching activities or anytime with students, I wish to be the exact opposite of the famous French comic actor Pierre Richard in this short video (in French, from the movie *La moutarde me monte au nez* (1974) - Leçon de Mathématiques) :
+
+.. youtube:: vEZcqVF6JbI
+
+
 In 2017/2018 and 2018/2019
 --------------------------
 I continued to teach, about 64 h / year, for 2017/2018 and 2018/2019, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).
