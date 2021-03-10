@@ -1,6 +1,6 @@
 .. meta::
     :description lang=fr: Des blagues en français
-    :description lang=en: Some jokes in English
+    :description lang=en: Some jokes in French
 
 =========================
  Des blagues en français
