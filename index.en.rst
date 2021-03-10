@@ -18,7 +18,7 @@ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publi
 
 .. |Greetings| raw:: html
 
-    <abbr title='This is obviously a reference to the French fantasy audio series, « Le Donjon de Naheulbeuk », and more broadly to the whole roll-playing games and heroic fantasy worlds, that I had liked since my childhood.'><a href='http://www.penofchaos.com/donjon/'><em>Greetings traveler</em></a></abbr>
+    <abbr title="This is obviously a reference to the French fantasy audio series, « Le Donjon de Naheulbeuk », and more broadly to the whole roll-playing games and heroic fantasy worlds, that I had liked since my childhood."><a href="http://www.penofchaos.com/donjon/"><em>Greetings traveler</em></a></abbr>
 
 .. |ENSCachan| raw:: html
 

@@ -17,7 +17,7 @@ J'ai `terminé ma thèse de doctorat en Télécommunications et Apprentissage Au
 
 .. |Salutations| raw:: html
 
-    <abbr title='Il s'agit évidemment d'une référence à la série audio fantastique française, « Le Donjon de Naheulbeuk », et plus largement à l'ensemble des jeux de rôle et des univers d'heroic fantasy, que j'aimais depuis mon enfance.'><a href='http://www.penofchaos.com/donjon/'><em>Salutations voyageurs</em></a></abbr>
+    <abbr title="Il s'agit évidemment d'une référence à la série audio fantastique française, « Le Donjon de Naheulbeuk », et plus largement à l'ensemble des jeux de rôle et des univers d'heroic fantasy, que j'aimais depuis mon enfance."><a href="http://www.penofchaos.com/donjon/"><em>Salutations voyageurs</em></a></abbr>
 
 .. |ENSCachan| raw:: html
 

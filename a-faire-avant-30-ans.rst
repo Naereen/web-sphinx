@@ -171,4 +171,10 @@ Achats et investissements
 - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
 - 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et plein autres).
 
+Listes amusantes
+^^^^^^^^^^^^^^^^
+
+.. image:: https://xem.github.io/LOL/2019-1/1550332078-20190216.png
+   :src: https://xem.github.io/LOL/2019-1.html
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
