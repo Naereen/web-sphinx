@@ -20,8 +20,8 @@ TL;DR: Soyez prudent-e-s, travaillez bien, soyez gentil-l-es et serviables (pour
 - Si vous vous sentez trop seul-e, on peut s'appeler (via `Jitsi <jitsi.fr.html>`_ en visio), ou jouer ensemble au Pictionnary avec `Tableaunoir <https://tableaunoir.github.io/>`_ et `ce générateur de mot <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ?
 
 - Besoin d'idées culturelles, livres films et autres ? Cf. `mon top 10 <top10.fr.html>`_ !
-- Envie de jouer aux jeux vidéo ensemble ? Je souhaite poursuivre `avec Pokémon Or/Argent <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ (ou autre), `contactez moi <callme.fr.html>`_ !
-- Envie de rigoler cinq minutes ?
+- Envie de jouer aux jeux vidéo ensemble ? Je souhaite poursuivre mon projet collaboratif de l'an dernier, `avec Pokémon Or/Argent <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ (ou d'autres jeux), `contactez moi <callme.fr.html>`_ !
+- Envie de rigoler cinq minutes tout en révisant les gestes barrières ?
 
 .. youtube:: t4h8j9xLyxQ
 
@@ -30,17 +30,19 @@ Télétravail pendant l'épidémie de Coronavirus
 ---------------------------------------------
 
 A partir du vendredi 13 mars 2020, mes collègues et moi-même à l'ENS de Rennes avons été invités à travailler à domicile.
+
 - **Mise à jour** : depuis la reprise des cours fin août 2020, tout est de nouveau en présentiel.
 - **Mise à jour** : depuis la reprise du confinement fin octobre 2020, tout est de nouveau en distanciel (sauf les examens).
+- **Mise à jour** : depuis mi décembre 2020, le second confinement est terminé, mais nous restons sous un régime :strike:`dictatorial` strict de couvre-feu. Les Universités dans lesquelles `j'enseigne <enseignement.fr.html>`_ restent quasiment fermées, ou en jauges limitées en tous cas.
 
-Je décris dans cette page comment je vais (faire de mon mieux pour) **enseigner à distance**, pendant cette période.
+Je décris dans cette page comment mes collègues et moi avons essayer de (faire de notre mieux pour) **enseigner à distance**, pendant cette période.
 
 
-.. note:: Mi-mars, au tout début de la période de confinement, j'ai créé cette page web mais je n'ai pas été très réactif pour raconter nos idées, (idées en terme de techniques, et d'outils etc)...
+.. note:: Mi-mars 2020, au tout début de la période de confinement, j'ai créé cette page web mais je n'ai pas été très réactif pour raconter nos idées, (idées en terme de techniques, et d'outils etc)...
 
-.. warning:: Cette page n'est là que pour décrire MON point de vue, ce n'est PAS le point de vue de mon employeur.
+.. warning:: Cette page n'est là que pour décrire MON point de vue, ce n'est PAS le point de vue de mon employeur. ELle n'est pas à jour, et pas parfaite.
 
-.. note:: Mi-avril, j'ai décrit ici nos principales, mais après quasiment un an je devrais aussi raconter le bilan de toutes ces idées (plus bas).
+.. note:: Mi-avril 2020, j'ai décrit ici nos principales idées, mais après quasiment un an **je devrais aussi raconter le bilan de toutes ces idées** (plus bas).
 
 
 .. seealso::
@@ -84,7 +86,7 @@ Donner un cours magistral en période de confinement peut être plus ou moins fa
 3. Pour un cours qui serait au tableau sans aucune note de cours, par exemple un cours improvisé (?!?), il est plus difficile de le donner en période de confinement... Mais personne ne fait raisonnablement cours en improvisation !
 
 
-Outils :
+**Outils :**
 
 - Outil web recommandé : `Discord <https://discordapp.com/>`_.
 - Avec une tablette graphique (ou une bonne souris), et un bon lecteur de PDF (je recommande **Okular** sous GNU/Linux), il est assez facile de surligner le PDF affiché.
@@ -132,7 +134,7 @@ J'ai beaucoup apprécié d'utiliser Discord, et je le conseille comme outil prin
 Il n'y a pas de publicité sur les sites ou applications de Discord, et à en croire leurs conditions générales d'utilisation, il n'y aura pas de publicité.
 
 Donc la question légitime à poser est **comment Discord gagne de l'argent ?**...
-Discord est gratuit mais :
+Discord est gratuit mais voici quelques informations, assemblées en octobre 2020 :
 
 - une partie des 200 millions d'utilisateurs paie entre 5$ et 10$ par mois pour les souscriptions Nitro et autres souscriptions premium, qui permettent d'améliorer l'expérience pour un-e utilisateur-trice ou pour un serveur ;
 - avec sa plateforme de vente de jeux vidéo ;

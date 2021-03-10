@@ -8,8 +8,8 @@
 
 .. warning:: Information on the Coronavirus Epidemic (in France)
 
-    Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>`_ page of the French government.
-    And reading `<https://www.lemonde>`_ is also a very good idea!
+    Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>`_ page of the French government, as well as your own government.
+    And reading a local newspaper (e.g. in France: `<https://www.lemonde>`_) is also a very good idea!
 
 .. youtube:: t4h8j9xLyxQ
 
@@ -22,6 +22,7 @@ As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked
 
 .. warning:: This page is only describing MY point-of-view, it is NOT officially from the point of view of my employer.
 
+.. todo:: Translate this page from French to English here?
 
 I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I will (try my best) to teach remotely, during this special moment !
 
