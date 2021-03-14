@@ -31,7 +31,15 @@ As the web page explains, the goal of the project is the following:
 
    "Let's play all the Pokémon games together, via GitHub, to keep us busy (and learn git and GitHub) during the Covid pandemic in 2020".
 
-Well, we just played Pokémon Yellow, as explained `on this page <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_, but it was fun.
+Well, we just played Pokémon Yellow, as explained `on this page <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_, but it was fun. Thanks to the friend who played with me!
+I would like to do that again, if we have time, as long as the `coronovirus crisis <coronavirus.en.html>`_ in not resolved.
+
+
+.. seealso::
+
+    This `nice and fun YouTuber (SmallAnt) <https://www.youtube.com/channel/UC0VVYtw21rg2cokUystu2Dw>`_ did a challenge last April 2020 (discovered in March 2021), entitled « Pokemon but the trainers are Social Distancing ». He plays a modified version of Pokémon Red but all trainers are at home, because of the COVID virus. Watch this video, it's 35 minutes of fun:
+
+.. youtube:: 9PYlF-xU3bA
 
 --------------------------------------------------------------------------------
 
