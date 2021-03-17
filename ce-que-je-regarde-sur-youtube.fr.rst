@@ -96,7 +96,7 @@ Artistes faisant des reprises
 - `Lara6683 <https://www.youtube.com/channel/UC11j-ApkeIcxSTFtBYBMq3g>`_ (piano, reprise de VGM et musiques de films).
 - `Laura Cox <https://www.youtube.com/channel/UCzQNvCiZtLMvCqyZMX6D9Gg>`_ (bass).
 - `Lee and Lie <https://www.youtube.com/channel/UC8THb_fnOptyVgpi3xuCd-A>`_ (a cappella, chansons d'animes).
-- `Les Lueurs de Lily <https://www.youtube.com/channel/UCwHQ4ipxXoDOv29xcX1f59A>`_ (a cappella, français).
+- `Camille Laïly <https://www.youtube.com/channel/UCwHQ4ipxXoDOv29xcX1f59A>`_ (a cappella, français).
 - `Lizz Robinett <https://www.youtube.com/channel/UCq36dja_0U4SgB3wYVtr_Zw>`_ (a cappella).
 - `Malinda Kathleen Reese <https://www.youtube.com/channel/UCP2-S6-M9ZvlY8t7cRn4O6A>`_ (a cappella, drôle).
 - `Malukah <https://www.youtube.com/channel/UCS613EogLXE0lTsxyC1cWLA>`_ (a cappella, guitare).

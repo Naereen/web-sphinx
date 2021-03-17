@@ -103,7 +103,7 @@ Technical company blogs
 Updates on software
 -------------------
 
-- `"OCaml – Jane Street Tech Blogs" <https://blogs.janestreet.com/>`_, `RSS <https://blogs.janestreet.com/category/ocaml/feed/>`_,
+- `"OCaml - Jane Street Tech Blogs" <https://blogs.janestreet.com/>`_, `RSS <https://blogs.janestreet.com/category/ocaml/feed/>`_,
 - `"OpenAI Blog" <https://blog.openai.com/>`_, `RSS <https://blog.openai.com/rss/>`_,
 - `"Project Jupyter" <https://blog.jupyter.org/>`_, `RSS <https://blog.jupyter.org/rss>`_,
 - `"Project Nayuki" <https://www.nayuki.io/>`_, `RSS <https://www.nayuki.io/rss20.xml>`_,
@@ -126,7 +126,7 @@ Training blogs
 - `"My Tech Interviews" <http://www.mytechinterviews.com/>`_, `RSS <https://feeds.feedburner.com/MyTechInterviews?format=xml>`_,
 - `"OCaml Labs" <http://ocamllabs.io/>`_, `RSS <http://ocamllabs.io/feed.xml>`_,
 - `"pydanny" <https://www.pydanny.com/>`_, `RSS <https://www.pydanny.com/feeds/all.atom.xml>`_,
-- `"PyMOTW – Doug Hellmann" <https://pymotw.com/3/>`_, `RSS <http://feeds.doughellmann.com/PyMOTW?format=xml>`_,
+- `"PyMOTW - Doug Hellmann" <https://pymotw.com/3/>`_, `RSS <http://feeds.doughellmann.com/PyMOTW?format=xml>`_,
 - `"Python Insider" <https://pythoninsider.blogspot.fr/>`_, `RSS <http://feeds.feedburner.com/PythonInsider?format=xml>`_,
 - `"Real Python" <https://realpython.com/>`_, `RSS <https://realpython.com/atom.xml>`_,
 - `"Runhe Tian Coding Practice" <https://tianrunhe.wordpress.com/>`_, `RSS <https://tianrunhe.wordpress.com/feed/>`_.

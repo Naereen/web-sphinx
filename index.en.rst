@@ -137,6 +137,7 @@ For more details, see `<sitemap.en.html>`_.
    teaching.en
    cv.en
    research.en
+   rules-and-principles.en
    cookies.en
    README
    publis.en
