@@ -20,7 +20,11 @@ Basically, it's the worst possible solution for making video calls!
 
 Skype requires an account, an email, it depends on Microsoft, audio and video traffic is spied on in real time (that's how they manage to offer translation and subtitles in real time), all the traffic goes through the USA, etc.
 
-.. warning:: Basically, you make a call via Skype, well in three clicks and 24 seconds, Trump can see you, if he wants to...
+.. warning:: Basically, when you make a call via Skype, well in three clicks and 24 seconds, Trump or Biden or any "big USA chief" can see you, if he/she wants to...
+
+If you have 5 minutes and want a good laugh while joking about Skype, please watch this fun video by CollegeHumour (2021-03-17):
+
+.. youtube:: ZI0w_pwZY3E
 
 
 And with Zoom / and with OTHER TOOL THAT SUCKS TOO ?

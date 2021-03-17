@@ -46,6 +46,11 @@ In all my teaching activities or anytime with students, I wish to be the exact o
 .. youtube:: vEZcqVF6JbI
 
 
+Keep in mind that we all have all the right to fail, and try again. As Master Yoda said, « *The Greatest Teacher Failure is* » :
+
+.. youtube:: 1kjEnDj7K30
+
+
 In 2017/2018 and 2018/2019
 --------------------------
 I continued to teach, about 64 h / year, for 2017/2018 and 2018/2019, during my PhD in Rennes (France), at `ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for the "agrégation" national exam) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and computability).

@@ -245,8 +245,14 @@ Here are a few lists of great scientist and persons that I consider to be very i
 My 10 favorite historical figures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- King Arthur, at least the version of Alexandre Astier in Kaamelott!
-- TODO
+I am a strong believer of the value of Pacifism, and I refuse to admire military figures or "great warriors", because as Yoda says in Star Wars, « Wars not make one great » (in *The Empire Strikes Back*).
+
+- **King Arthur**, at least the version of Alexandre Astier in Kaamelott!
+- **Gandhi** ;
+- **Tenzin Gyatso**, the 14th Dalaï Lama ;
+- **Martin Luther King** ;
+- **Nelson Mandela** ;
+- **Abbé Pierre** ;
 
 .. todo:: Write this top10 !
 
@@ -267,17 +273,17 @@ My 10 favorite computer scientist in the 20th century
 My 10 favorite computer scientist of the 21st century
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. sidebar:: `**Aaron Swartz** <https://en.wikipedia.org/wiki/Aaron_Swartz>`_ also has a special place as a very inspirational figure of a young computer scientist and activist.
+.. sidebar:: `Aaron Swartz <https://en.wikipedia.org/wiki/Aaron_Swartz>`_ also has a special place as a very inspirational figure of a young computer scientist and activist.
 
-- `**Yann LeCun** <http://yann.lecun.com/>`_, for his inspirational lectures at Collège de France ;
-- `**Xavier Leroy** <https://xavierleroy.org/>`_, for the OCaml language and his books (and lectures!) ;
-- `**Gilles Dowek** <https://en.wikipedia.org/wiki/Gilles_Dowek>`_, for all his books ;
-- `**Isabelle Collet** <https://en.wikipedia.org/wiki/Isabelle_Collet>`_ for her books and inspiration talks ;
-- `**Jimmy Wales** <https://en.wikipedia.org/wiki/Jimmy_Wales>`_ founder of the Wikipedia and Wikimedia projects ;
-- `**Demis Hassabis** <https://en.wikipedia.org/wiki/Demis_Hassabis>`_, and all of DeepMind, for their amazing works on reinforcement learning and most notably for the ATARI games which was very inspirational to me before starting my PhD thesis ;
-- `**Matthias Bussonnier** <https://matthiasbussonnier.com/>`_ for his inspirational blog, and impressive work on the IPython and Jupyter project (and because he also is a passionate programmer, who have graduated from ENS Cachan but not from a Computer Science major, like me!) ;
-- `**Anne-Marie Kermarrec** <https://en.wikipedia.org/wiki/Anne-Marie_Kermarrec>`_, for her books and inspirational blog posts, and a very inspiring career ;
-- `**Bret Victor** <http://worrydream.com/>`_, for these two inspirational videos `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_ and `« The future of programming » <https://www.youtube.com/watch?v=8pTEmbeENF4>`_
+- `Yann LeCun <http://yann.lecun.com/>`_, for his inspirational lectures at Collège de France ;
+- `Xavier Leroy <https://xavierleroy.org/>`_, for the OCaml language and his books (and lectures!) ;
+- `Gilles Dowek <https://en.wikipedia.org/wiki/Gilles_Dowek>`_, for all his books ;
+- `Isabelle Collet <https://en.wikipedia.org/wiki/Isabelle_Collet>`_ for her books and inspiration talks ;
+- `Jimmy Wales <https://en.wikipedia.org/wiki/Jimmy_Wales>`_ founder of the Wikipedia and Wikimedia projects ;
+- `Demis Hassabis <https://en.wikipedia.org/wiki/Demis_Hassabis>`_, and all of DeepMind, for their amazing works on reinforcement learning and most notably for the ATARI games which was very inspirational to me before starting my PhD thesis ;
+- `Matthias Bussonnier <https://matthiasbussonnier.com/>`_ for his inspirational blog, and impressive work on the IPython and Jupyter project (and because he also is a passionate programmer, who have graduated from ENS Cachan but not from a Computer Science major, like me!) ;
+- `Anne-Marie Kermarrec <https://en.wikipedia.org/wiki/Anne-Marie_Kermarrec>`_, for her books and inspirational blog posts, and a very inspiring career ;
+- `Bret Victor <http://worrydream.com/>`_, for these two inspirational videos `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_ and `« The future of programming » <https://www.youtube.com/watch?v=8pTEmbeENF4>`_
 - **Gérard Berry**, for all his books, and `his <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/issues/4>`_ `amazing conference <https://www.youtube.com/watch?v=xoZlOV1Bt18>`_ given for the `the sponsorship ceremony of batch 2020 at ENS Rennes <http://www.ens-rennes.fr/actualites/ceremonie-de-parrainage-de-la-promotion-2020-295773.kjsp>`_ ;
 
 .. youtube:: xoZlOV1Bt18
@@ -301,7 +307,7 @@ My 10 favorite scientist of the 20st century
 - **Boris Vian**, the famous French poet and singer, was also a great engineer ;
 - **John Forbes Nash**, for being an inspirational figure of a great mathematician and career in science, despite suffering all his life from a mental illness ;
 - **Hedy Lamarr**, the perfect example of a great woman in science, not known enough despite a great career in Hollywood and cinema, and a major contribution in telecommunication and algorithms ;
-- `**Richard Garfield** <https://en.wikipedia.org/wiki/Richard_Garfield>`_ for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
+- `Richard Garfield <https://en.wikipedia.org/wiki/Richard_Garfield>`_ for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
 
 My 10 favorite scientist before 1900
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -313,8 +319,41 @@ My 10 favorite scientist before 1900
 - **Isaac Newton** in the 18th century in England, for amazing work in mathematics, physics and many other domains ;
 - **Carl Friedrich Gauss** in the late 18th and early 19th centuries in Germany, for amazing works in all branches of mathematics, and early discovery of what would later become the Fast Fourier Transform, the Karatsuba algorithms, and many more ;
 - **Ada Lovelace** and **Charles Babbage**, who are recognized as one of the earlier scientist to work on algorithms between 780 and 850 ;
-- **Lewis Carroll** was a mathematics professor and writer,
-- etc
+- **Lewis Carroll** was a mathematics professor and writer ;
+
+.. todo:: Finish this top10 !
+
+------------------------------------------------------------------------------
+
+Inspirational science
+---------------------
+
+My 10 favorite mathematical results
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Euclide's proof** of the theorem that states that there exists an infinite number of prime numbers ;
+- Pascal triangle and its relationships with binomial coefficients ;
+- Last but not least, the **Binomial theorem**, and its application to limited series development and computation of pi by Newton (see `this video <https://www.youtube.com/watch?v=gMlf1ELvRzc>`_) ;
+
+.. youtube:: gMlf1ELvRzc
+
+.. todo:: Finish this top10 !
+
+My 10 favorite algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Euclide's algorithm** for the computation of Greatest Common Divisors, as one of the earliest example of recursive algorithm ;
+- **Babylonia method** to compute square roots, and its generalization as the Newton's method to find roots of a continuous function ;
+- **Gauss-Karatsuba algorithm** to compute product of large polynomials or long integers ;
+- **Quick exponentiation** to compute quickly exponential (:math:`x^n`) and **Straßen algorithm** to compute quickly matrix products, and their (not well-known) combination to compute :math:`n \times n` matrix exponentials like :math:`A^k` in :math:`\mathcal{O}( \log_2(k) n^{\log_2(7)} )` rather than :math:`k n^3` ;
+- **Robin-Milner typing algorithm** as the foundations of OCaml and ML-like strongly-typed programming languages ;
+- **Cocke-Younger-Kasami** for lexical analysis for regular grammars in normal Chomsky form ;
+- **Fast Fourier Transform** and its applications, one my favorite algorithms to teach (for "maths agrégation option informatique" in France), see `this notebook <https://nbviewer.jupyter.org/github/Naereen/notebooks/blob/master/agreg/Algorithme%20de%20Cocke-Kasami-Younger%20(python3).ipynb>`_ ;
+- **Upper Confidence Bounds** and similar index-policy in reinforcement learning and especially for multi-armed bandits ;
+- My own "aggregator" expert aggregation algorithm, see `this page <https://smpybandits.github.io/Aggregation.html>`_ and `this article (HAL-01705292) <https://hal.inria.fr/hal-01705292>`_ ;
+- **Cocktail sort** as a funny named sorting algorithm, and **bubble sort** especially because of this famous video featuring Barack Obama:
+
+.. youtube:: k4RRi_ntQc8
 
 ------------------------------------------------------------------------------
 

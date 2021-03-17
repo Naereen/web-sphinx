@@ -45,6 +45,11 @@ Dans toutes mes activités d'enseignement ou mes interventions devant des élèv
 .. youtube:: vEZcqVF6JbI
 
 
+Gardez aussi en tête que nous avons tous et toutes le droit d'échouer, et de réessayer. Comme le dit Maître Yoda, « *le meilleur enseignant l'échec est* » :
+
+.. youtube:: 1kjEnDj7K30
+
+
 En 2017/2018 et en 2018/2019
 ----------------------------
 J'ai de nouveau enseigné environ 64 h / an, dans le cadre de ma thèse à Rennes, à `l'ENS de Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour le concours de l'agrégation) et `l'ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité).

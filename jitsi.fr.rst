@@ -20,7 +20,12 @@ En gros, c'est la pire solution possible pour passer des appels visio !
 
 Skype demande d'avoir un compte, un mail, ça dépend de Microsoft, le trafic audio comme vidéo est espionné en temps réel (c'est grâce à ça qu'ils arrivent à proposer de la traduction et des sous-titres en temps réel), tout le trafic passe par les USA, etc.
 
-.. warning:: En gros, tu fais un appel via Skype, bah en trois clics et 24 secondes, Trump peut te voir, s'il veut...
+.. warning:: En gros, si tu fais un appel via Skype, bah en trois clics et 24 secondes, Trump ou Biden ou je ne sais quel-le chef-fe aux USA peut te voir, s'il ou elle veut...
+
+
+Si vous avez 5 minutes et que vous voulez un bien rire en se moquant de Skype, veuillez regarder cette vidéo amusante de CollegeHumour (2021-03-17) :
+
+.. youtube:: ZI0w_pwZY3E
 
 
 Et avec Zoom / et avec CET AUTRE OUTIL TOUT AUSSI NUL ?
