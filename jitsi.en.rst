@@ -6,13 +6,13 @@
  About Jitsi Meet
 ##################
 
-.. note:: Small point of anger against the vocabulary: because I'm sick of everyone using the verb Skyper and the word Skype to say **video call**.
+.. note:: Small point of *anger* against the vocabulary: because I'm sick of everyone using the verb "to Skype" (or even worst, in French "skyper") and the word Skype to say **video call**.
 
 This little web page is written to advertise the `Jitsi Meet <https://jitsi.org>`_ tool.
 
 
 What's wrong with Skype?
-------------------------------------
+------------------------
 
 Skype was bought out by Microsoft years ago.
 Skype is a proprietary tool, not free, not peer-to-peer, not encrypted.
@@ -62,14 +62,19 @@ A Jitsi Meet server can't be overloaded since Jitsi Meet works in **peer-to-peer
 
 ------------------------------------------------------------------------------
 
-Humoristic break
-~~~~~~~~~~~~~~~~
+Funny break
+~~~~~~~~~~~
 
 .. image:: https://www.commitstrip.com/wp-content/uploads/2020/04/Strip-Covide19-7-650-finalenglish.jpg
    :scale: 25%
    :align: center
    :alt: Link to the comic strip https://www.commitstrip.com/en/2020/04/28/boiling-point/
    :target: https://www.commitstrip.com/en/2020/04/28/boiling-point/
+
+I also recommend that you watch this video, made by `Raphaël Truffet <https://www.youtube.com/channel/UCKdT0orbp8_eX5qh-NygBhg>`_, a friend and colleague, currently doctoral student in IRISA (EN 2021).
+
+.. youtube:: 8RUdGAypXxs
+
 
 Another Jitsi Meet instance?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,7 +85,7 @@ Another Jitsi Meet instance?
    :alt: Home page of the Jitsi Meet server on https://jitsi.crans.org/
    :target: https://jitsi.crans.org/
 
-You can also use the instance on the server of the association CRANS of the ENS Cachan / Paris Saclay (of which I was an active member in 2012/13...): `Jitsi.crans.org <https://jitsi.crans.org/>`_ which is hosted in France, in Cachan, and managed by volunteers who don't spy on their users 😊!
+You can also use the instance on the server of the association CRANS of the ENS Cachan / Paris Saclay (of which I was an active member in 2012/13...): `Jitsi.crans.org <https://jitsi.crans.org/>`_ which is hosted in France, in Cachan, and managed by volunteers who will never spy on their users 😊!
 
 The application on Android™
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,7 +97,18 @@ It works very well, and allows the use of meeting rooms, whether they are hosted
 Installing Jitsi Meet on your own computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It's very simple, just follow `this user guide <https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md>`_ on the jitsi-meet `GitHub <https://github.com/jitsi/jitsi-meet/>`_.
+It's very simple, just follow `this user guide <https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md>`_ on the `jitsi-meet page on GitHub <https://github.com/jitsi/jitsi-meet/>`_.
+I have it on one of my laptop, and it can be useful if you are connected on a local network and want to talk with someone from another office, a room in your home etc.
 
+------------------------------------------------------------------------------
+
+And another tool? BigBlueButton is awesome too!
+-----------------------------------------------
+
+`BigBlueButton <https://bigbluebutton.org/>`_ is another free and open-source software like Jitsi Meet, which you can install for free ony your laptop or web-server, or use if your school, University or laboratory has set-up an instance on their home.
+However, unlike Jitsi Meet, there are no public instances that you can use without any account or for free.
+
+For my `teaching activities <teaching.en.html>`_ since the `coronavirus <coronavirus.en.html>`_ crisis, I have used a lot of BigBlueButton servers, on `<https://bbb.irisa.fr/>`_ by IRISA lab, or `<https://plmwebconf.math.cnrs.fr/>`_ by CNRS.
+For the research seminars I organize twice a month for our students of Computer Science at ENS Rennes (see `this page <https://perso.crans.org/besson/seminaire_dptinfo_2020/>`_ and `this one <http://www.dit.ens-rennes.fr/seminaires/>`_), we are using a BigBlueButton server gracefully hosted by CNRS.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

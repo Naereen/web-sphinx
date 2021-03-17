@@ -71,6 +71,10 @@ Interlude humoristique
    :alt: Lien vers la planche de BD https://www.commitstrip.com/fr/2020/04/28/boiling-point/
    :target: https://www.commitstrip.com/fr/2020/04/28/boiling-point/
 
+Je vous recommande aussi de regarder cette vidéo, réalisée par `Raphaël Truffet <https://www.youtube.com/channel/UCKdT0orbp8_eX5qh-NygBhg>`_, un ami et collègue, actuellement doctorant en informatique à l'IRISA (en 2021).
+
+.. youtube:: 8RUdGAypXxs
+
 
 Une autre instance Jitsi Meet ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,6 +99,17 @@ Installer Jitsi Meet sur son propre ordinateur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 C'est très simple, en suivant `ce guide d'utilisation <https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md>`_ sur le `GitHub de jitsi-meet <https://github.com/jitsi/jitsi-meet/>`_.
+Je l'ai sur l'un de mes ordinateurs portables, et cela peut être utile si vous êtes connecté sur un réseau local et que vous voulez parler avec quelqu'un d'un autre bureau, une pièce de votre maison, etc.
 
+------------------------------------------------------------------------------
+
+Et un autre outil ? BigBluebutton est génial aussi !
+----------------------------------------------------
+
+`BigBlueButton <https://bigbluebutton.org/>`_ est un autre logiciel gratuit et open source comme Jitsi Rencontre, que vous pouvez installer gratuitement sur votre ordinateur portable ou votre serveur Web, ou utilisez si votre école, votre université ou votre laboratoire a mis en place une instance à votre domicile.
+Cependant, contrairement à Jitsi Meet, il n'y a pas d'instances publiques que vous pouvez utiliser sans aucun compte ni gratuitement.
+
+Pour mes `activités d'enseignements <enseignements.fr.html>`_ depuis le début de la crise sanitaire du `coronavirus 2020 <coronavirus.fr.html>`_, j'ai utilisé beaucoup de serveurs BigBluebutton, sur `<https://bbb.irisa.fr/>`_ par le laboratoire de recherche IRISA, ou `<https://plmwebconf.math.cnrs.fr/>`_ par le CNRS.
+Pour les séminaires de recherche, j'ai organisé deux fois par mois pour nos étudiants en informatique à l'ENS Rennes (cf `cette page <https://perso.crans.org/besson/seminaire_dptinfo_2020/>`_ et `cette autre <http://www.dit.ens-rennes.fr/seminaires/>`_), nous utilisons un serveur BigBluebutton hébergé gracieusement par le CNRS.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

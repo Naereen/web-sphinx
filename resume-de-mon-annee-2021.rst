@@ -33,7 +33,7 @@ J'ai décidé de me fixer les objectifs suivants pour cette année :
 Résumé de mon année 2021
 ------------------------
 
-.. note:: J'ai essayé de me limiter à maximum trois points par mois.
+.. note:: J'ai essayé de me limiter à au plus quatre points par mois.
 
 Janvier 2021
 ------------
@@ -55,7 +55,8 @@ Février 2021
   - `Perspectives carrière enseignement informatique en 2021 <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021>`_ ;
   - En utilisant les travaux d'autres gens : `Mon utilisation de Basthon <https://github.com/Naereen/Mon-utilisation-de-Basthon/>`_, `IOCamlJS-static <https://github.com/Naereen/IOCamlJS-static>`_, `MiniPy-interpreter-in-OCaml <https://github.com/Naereen/MiniPy-interpreter-in-OCaml>`_, `Kit-informatique-debranchee-preuve-pb-arret-Turing <https://github.com/Naereen/kit-informatique-debranchee-preuve-pb-arret-Turing>`_, et `BetterOCaml <https://github.com/jbdo99/BetterOCaml>`_ ;
   - `OCaml avec des mots clés en français <https://github.com/Naereen/OCaml-mots-cles-en-francais>`_, et `langage-c-mots-cles-en-francais <https://github.com/Naereen/langage-c-mots-cles-en-francais>`_ ;
-  - (comme quoi, quand je ne joue pas à Skyrim ou Witcher, j'ai du temps pour faire des petites choses chouettes !)
+
+.. - (comme quoi, quand je ne joue pas à Skyrim ou Witcher, j'ai du temps pour faire des petites choses chouettes !)
 
 Mars 2021
 ---------
@@ -65,7 +66,7 @@ Mars 2021
 - Début mars 2021 (mercredi 3 et jeudi 4) ont eu lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). :strike:`J'espère qu'ils ne seront pas annulés cette année !` Les écrits ont bien eu lieu ! Ouf !!
 
 - Une chouette sortie à la mer à Dinard, où je n'étais jamais allé !
-- TODO
+- WOOOO le ministère a annoncé la création de l'agrégation d'informatique ! Je `rassemble ici des informations <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/issues/3>`_, dès que j'en obtiens.
 
 
 .. warning:: Le reste est dans le futur !
@@ -83,7 +84,7 @@ Mai 2021
 
 Juin 2021
 ---------
-- Oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espère qu'ils seront maintenus, mais le jury a déjà annoncé que les visiteurs extérieures seront interdits...
+- J'aimerai aller assister aux oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espère qu'ils seront maintenus, mais le jury a déjà annoncé que les visiteurs extérieures seront interdits... Et aux oraux du CAPES d'informatique aussi, s'ils sont publics ?
 - TODO
 
 Juillet 2021
@@ -98,7 +99,7 @@ Août 2021
 
 Septembre 2021
 --------------
-- Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier !
+- Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! A priori, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
 - TODO
 
 Octobre 2021
