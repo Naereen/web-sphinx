@@ -454,23 +454,25 @@ My other favorite things
 In order of preference (first means 😍) :
 
 - **Operating Systems**: XUbuntu, Ubuntu, Fedora ;
-- **Fonts**: I loved `FiraCode <https://github.com/tonsky/FiraCode>`_, which is awesome for developers but it was confusing for my teaching activities in 2019 so I stopped using it. Nowadays I use mainly `Fira Mono by Mozilla <https://mozilla.github.io/Fira/>`_, and Ubuntu Mono for monospace fonts (for code), and I love TeX Gyre Pagella (open-source alternative to Palatino (in LaTeX, ``\usepackage{tgpagella}`` is enough)
-- **Text editors**: Visual Studio Code (see `this page <visualstudiocode.en.html>`_), Jupyter notebook, GNU Nano, Sublime Text 3, GNU Emacs (tuareg mode for OCaml).
-- **Days of the year**: 31st of August (last day before new scholar year, and a good memory of a loved one), 21st of March (first day of spring, I love spring), 14th of March (Pi Day, and International Mathematician Day), 4th of May (`Star Wars <star-wars.en.html>`_ day!), 21st of June (longest day! victory of light over darkness!), 31st of October (not because of Halloween), 17th of February (birthday of my best friend, and many good memories), and not the 12th of January as I'm not especially a big fan of my own birthday.
-- Other: see `my-favorite-tools.en.html>`_ for a detailed list of my favorite computer tools.
+- **Fonts**: I loved `FiraCode <https://github.com/tonsky/FiraCode>`_, which is awesome for developers but it was confusing for my teaching activities in 2019 so I stopped using it. Nowadays I use mainly `Fira Mono by Mozilla <https://mozilla.github.io/Fira/>`_, and Ubuntu Mono for monospace fonts (for code), and I love TeX Gyre Pagella (open-source alternative to Palatino (in LaTeX, ``\usepackage{tgpagella}`` is enough) ;
+- **Text editors**: Visual Studio Code (see `this page <visualstudiocode.en.html>`_), Jupyter notebook, GNU Nano, Sublime Text 3, GNU Emacs (tuareg mode for OCaml) ;
+- **Days of the year**: 31st of August (last day before new scholar year, and a good memory of a loved one), 21st of March (first day of spring, I love spring), 14th of March (Pi Day, and International Mathematician Day), 4th of May (`Star Wars <star-wars.en.html>`_ day!), 21st of June (longest day! victory of light over darkness!), 31st of October (not because of Halloween), 17th of February (birthday of my best friend, and many good memories), and not the 12th of January as I'm not especially a big fan of my own birthday ;
+- Other: see `<my-favorite-tools.en.html>`_ for a detailed list of my favorite computer tools.
 
 My 10 favorite languages
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. **Python** is without a doubt my favorite language.
+
    - I `wrote a lot of Python <https://naereen.github.io/#python>`_ since my first use of Python (2.7) in 2012, for `a multiplayer Bomberman game I wrote in 2012 <https://bitbucket.org/lbesson/mpri-bomberman>`_ and `reinforcement learning on old Mario NES game in 2018 <https://github.com/Naereen/gym-nes-mario-bros/>`_, `hundreds <https://github.com/Naereen/FreeSMS.py/>`_ `of scripts <https://github.com/Naereen/bin/>`_ and static web-sites (`this one <https://github.com/Naereen/web-sphinx>`_, and `other blogs <https://github.com/Naereen/cuisine>`_) since 2012, for my PhD for `SMPyBandits <https://github.com/SMPyBandits/SMPyBandits>`_ and `other packages <https://naereen.github.io/#science>`_ `published on Pypi <https://pypi.org/user/Naereen/>`_ ;
    - I also wrote tiny `web apps using Flask <https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp/>`_, worked on `designing my own hand-written font <https://github.com/Naereen/My-Own-HandWriting-Font/>`_, `using Fontify <https://github.com/Naereen/Fontify/>`_ in 2018, and in 2021 I did fun experiments like `can you program by just sending SMS messages? <https://github.com/Naereen/Peut-on-coder-avec-OCaml-Python-et-C-par-SMS/>`_
    - I also have tiny contributions to Numpy, Scipy, Matplotlib, Jupyter and other awesome projects. I'm a huge fan of Jupyter and IPython since 2014, and contribute frequently to tiny extensions like `lolviz <https://github.com/parrt/lolviz/>`_ or `tutormagic <https://github.com/kikocorreoso/tutormagic/>`_.
    - I taught different couses in Python, starting with `CS101 in India in 2015 <https://perso.crans.org/besson/cs101/>`_, then `in prep school MP in France in 2015/16 <https://perso.crans.org/besson/infoMP/>`_, `advanced algorithms at ENS Rennes in 2019 <https://perso.crans.org/besson/teach/info1_algo1_2019/>`_, `introduction to Computer Science and History of Machines in 2020 <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_, and many more.
 
 2. **GNU Bash**, is my second favorite language. You can do so much in just a few lines, I love it.
-   - I use it daily as my shell, and wrote so many tiny scripts that I regularly rediscover some of the old ones...
-   - I use it for my `uLogMe fork <https://github.com/Naereen/uLogMe/`_ for self-quantified on your laptop,
+
+- I use it daily as my shell, and wrote so many tiny scripts that I regularly rediscover some of the old ones...
+   - I use it for my `uLogMe fork <https://github.com/Naereen/uLogMe/>`_ for self-quantified on your laptop,
 
 3. **OCaml**, is my third favorite language, even if I mainly used and use it for teaching it (`see this list <https://naereen.github.io/#teaching>`_) ;
 4. **Julia** that I discovered during my PhD thesis, I love it but unfortunately I didn't use it as much as I would have liked it. I published `two tiny packages <https://naereen.github.io/#julia>`_ on Julia Pkg manager ;
