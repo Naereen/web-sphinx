@@ -300,14 +300,14 @@ My 10 favorite scientist of the 20st century
 
 - **David Hilbert**, I was amazed by his list of problems and the fact that most of them were and still are the main research goals in many directions of mathematics and computer science ;
 - **Nikolas Tesla**, for his life-long dedication to science, to common good and the fact that he refused to make money from his creations.
-- **Bertrand Russell**, for his amazing work that I discovered in the famous comic book "Logicomix" ;
+- **Bertrand Russell**, for his amazing work on logic and foundations of mathematics, that I discovered in the famous comic book "Logicomix" ;
 - **John von Neumann**, for many incredibly useful contributions in various domains and especially computer science, and for being one the most famous and inspirational `polymath <https://en.wikipedia.org/wiki/Polymath>`_ of our time ;
-- **Richard Feynman**, for his physics lecture and books ;
-- **Claude Shannon**, for a very inspiration career and amazing works on the foundations of information theory, which had huge influence in computer science, maths and signal processing ;
+- **Richard Feynman**, for his physics lecture and books, and being a famous professor recognized for the quality of his lectures ;
+- **Claude Shannon**, for a very inspiration career and amazing works on the foundations of information theory, which had huge influence in computer science, maths and signal processing, and also his passion about juggling ;
 - **Boris Vian**, the famous French poet and singer, was also a great engineer ;
 - **John Forbes Nash**, for being an inspirational figure of a great mathematician and career in science, despite suffering all his life from a mental illness ;
 - **Hedy Lamarr**, the perfect example of a great woman in science, not known enough despite a great career in Hollywood and cinema, and a major contribution in telecommunication and algorithms ;
-- `Richard Garfield <https://en.wikipedia.org/wiki/Richard_Garfield>`_ for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
+- **Richard Garfield** for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
 
 My 10 favorite scientist before 1900
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -318,7 +318,7 @@ My 10 favorite scientist before 1900
 - **Blaise Pascal** in the 17th century in France, for his mathematical work but most importantly his work on the "Pascaline", one of the earliest mechanical computing machine, precursor to the work of Lovelace two centuries later ;
 - **Isaac Newton** in the 18th century in England, for amazing work in mathematics, physics and many other domains ;
 - **Carl Friedrich Gauss** in the late 18th and early 19th centuries in Germany, for amazing works in all branches of mathematics, and early discovery of what would later become the Fast Fourier Transform, the Karatsuba algorithms, and many more ;
-- **Ada Lovelace** and **Charles Babbage**, who are recognized as one of the earlier scientist to work on algorithms between 780 and 850 ;
+- **Ada Lovelace** and **Charles Babbage**, who are recognized as one of the earlier scientist to work on algorithms between 1780 and 1850 ;
 - **Lewis Carroll** was a mathematics professor and writer ;
 
 .. todo:: Finish this top10 !
@@ -372,7 +372,7 @@ My 10 favorite spices
 - Red chili ;
 - Black and red pepper ;
 - Ginger ;
-- Clove (clou de girofle in French) ;
+- Clove ("clou de girofle" in French) ;
 - Zaatar (mix of spices) ;
 - Vanilla.
 
@@ -394,7 +394,7 @@ My 10 favorite cheeses
 
 With their French names:
 
-- **Abondance** and **beaufort**, and to a lesser extent **Comté**, from Savoie in France ;
+- **Abondance** and **Beaufort**, and to a lesser extent **Comté**, from Jura and Savoie in France ;
 - **Parmesan** (from Italy) ;
 - **Camembert** from Normandy in France ;
 - **Roquefort** (goat blue cheese) from Roquefort in France ;
@@ -405,8 +405,8 @@ With their French names:
 - **Pélardon** and **picodon** from south-east and Provence in France ;
 - **Ossau-iraty** from south-west in France.
 
-My 10 favorite meat and fish
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite meat and fish?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **NONE !** **I am a strict vegetarian since 2018, and proud to be one!**
 Please `go read <https://duckduckgo.com/?q=where+can+I+learn+more+about+the+ecological+and+economical+impact+of+consuming+meat&t=canonical&ia=web>`_ more about the negative ecological and economical impact of consuming meat! (in French, `<https://www.viande.info/>`_ is a great website)
@@ -415,7 +415,7 @@ Please `go read <https://duckduckgo.com/?q=where+can+I+learn+more+about+the+ecol
 My 10 favorite meal in France
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Tartiflette**, with or without sliced pork meat but great cheese ;
+- **Tartiflette**, without sliced pork meat but great cheese ;
 - **Raclette** in Savoie, with no meat but best quality cheese ;
 - **« Boîte Chaude »** in France, kinda like a cheese fondue but simpler to cook and as tasty ;
 - **Chestnut log** (Christmas desert) by my grand-mother (`recipe <https://perso.crans.org/besson/cuisine/buche-glacee-aux-marrons-noel.html>`_) ;
@@ -432,7 +432,7 @@ My 10 favorite meal in France
 My 10 favorite meal around the world
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Vegetarian biryani** in India (especially Hyderabad where I lived in 2014/15, which is often considered as the capital of biryani!) ;
+- **Vegetarian biryani** in India (especially Hyderabad where I lived in 2014/15, which is often considered as the capital of biryani in India!) ;
 - **Cheese fondue** in Switzerland! Even if we eat this meal a lot in France, it's from Switzerland!
 - **Pizza** in Italy! Especially this or that kind, no I'm just kidding I love all pizzas!
 - **Vegetarian burgers**, for example I had the best burger of my life in Madrid in Spain in 2018 ;
@@ -471,7 +471,7 @@ My 10 favorite languages
 
 2. **GNU Bash**, is my second favorite language. You can do so much in just a few lines, I love it.
 
-- I use it daily as my shell, and wrote so many tiny scripts that I regularly rediscover some of the old ones...
+   - I use it daily as my shell, and wrote so many tiny scripts that I regularly rediscover some of the old ones...
    - I use it for my `uLogMe fork <https://github.com/Naereen/uLogMe/>`_ for self-quantified on your laptop,
 
 3. **OCaml**, is my third favorite language, even if I mainly used and use it for teaching it (`see this list <https://naereen.github.io/#teaching>`_) ;

@@ -2,13 +2,19 @@
    :description lang=fr: Une petite liste de blogs que je lis
    :description lang=en: A short blog-roll list
 
-########################
+######################################
  Une petite liste de blogs que je lis
-########################
+######################################
 
 Cette page liste tous les blogs que j'ai lus ces dernières années, classés par catégories.
 
 N'hésitez pas à `me suggérer quelque chose <callme.fr.html>`_ !
+
+.. note:: Je suis abonné à chacun de ces blogs à l'aide de `rss <https://fr.wikipedia.org/wiki/rss>` _ et non aux médias sociaux tels que Facebook et Twitter. RSS est une norme ancienne mais efficace et vous permet de recevoir automatiquement les mises à jour sur un site Web, un blog, etc, sans être suivis par ledit site Web ou par votre application ou votre média social. Si vous êtes curieux, veuillez lire `"Why I Still Use RSS", par Marc sur atthis.link (2021-02) <https://atthis.link/blog/2021/rss.html>`_.
+
+.. warning:: Cette liste, comme toutes les listes sur mon site, n'est probablement pas parfaitement à jour. Désolé, je ne suis qu'un humain ! Elle est maintenue *manuellement*, et j'essaie de l'améliorer et la compléter régulièrement, au moins une fois par an. Je ne souhaite pas mettre en place de liste automatiquement une liste des flux RSS qui sont dans mes abonnements sur Thunderbird, bien que ce soit possible d'exporter cela comme `un fichier OPML <https://fr.wikipedia.org/wiki/Outline_Processor_Markup_Language>`_, parce que certains de ces flux n'ont pas vocation à être publics.
+
+.. seealso:: Cette autre page liste mes abonnements YouTube (qu'il n'est malheureusement plus possible de recevoir comme des flux RSS) : `<ce-que-je-regarde-sur-youtube.fr.html>`_ `<what-i-watch-on-youtube.fr.html>`_.
 
 ------------------------------------------------------------------------------
 
@@ -19,7 +25,7 @@ Sur l'Histoire :
 
 - `"Actuel Moyen Âge" <https://actuelmoyenage.wordpress.com/>`_, `RSS <https://actuelmoyenage.wordpress.com/feed/>`_,
 - `"On dit médiéval, pas moyenâgeux !" <https://feeds.feedburner.com/Onditmedievalpasmoyenageux?format=xml>`_, `RSS <https://feeds.feedburner.com/Onditmedievalpasmoyenageux?format=xml>`_,
-- `"Savoirs d’Histoire" <https://savoirsdhistoire.wordpress.com/feed/>`_, `RSS <https://savoirsdhistoire.wordpress.com/feed/>`_.
+- `"Savoirs d'Histoire" <https://savoirsdhistoire.wordpress.com/feed/>`_, `RSS <https://savoirsdhistoire.wordpress.com/feed/>`_.
 
 
 Sur la vie :
@@ -188,7 +194,7 @@ Sur certaines technologies :
 Informatique :
 
 - `"Xuedong Shang" <https://xuedong.github.io/>`_, `RSS <https://xuedong.github.io/feed.xml>`_,
-- `"I’m a bandit" <https://blogs.princeton.edu/imabandit/>`_, `RSS <https://blogs.princeton.edu/imabandit/feed/>`_,
+- `"I'm a bandit" <https://blogs.princeton.edu/imabandit/>`_, `RSS <https://blogs.princeton.edu/imabandit/feed/>`_,
 - `"Pythonic Perambulations" <https://jakevdp.github.io/>`_, `RSS <https://jakevdp.github.io/atom.xml>`_,
 - `"inFERENCe" <http://www.inference.vc/>`_, `RSS <http://www.inference.vc/rss/>`_,
 - `"Elided Branches" <http://www.elidedbranches.com/>`_, `RSS <http://www.elidedbranches.com/feeds/posts/default>`_,
@@ -264,7 +270,7 @@ Mes propres blogs
 - `"Objectif Zéro Déchet pour l'année 2018 - par Lilian Besson" <https://perso.crans.org/besson/zero-dechet/>`_, `RSS <https://perso.crans.org/besson/zero-dechet/feeds/all.atom.xml>`_,
 - `"Recettes de cuisine - Lilian Besson" <http://perso.crans.org/besson/cuisine/>`_, `RSS <http://perso.crans.org/besson/cuisine/feeds/all.atom.xml>`_,
 - `"Wikipedia - Naereen contributions [en]" <https://en.wikipedia.org/wiki/User:Naereen>`_, `RSS <https://en.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_,
-- `"Wikipédia - Contributions de l’utilisateur [fr]" <https://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_, `RSS <https://fr.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_.
+- `"Wikipédia - Contributions de l'utilisateur [fr]" <https://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_, `RSS <https://fr.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_.
 
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

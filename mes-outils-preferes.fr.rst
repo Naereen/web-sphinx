@@ -316,7 +316,7 @@ Je dois encore m'améliorer
 
 Je pense qu'il existe des greffons pour mes logiciels favoris, pour répondre à ces besoins :
 
-- Des templates de mail facile d'accès, et pas des brouillons copier-coller (Thunderbird) ;
+- Des templates de mail facile d'accès, et pas des brouillons à copier-coller (Thunderbird) ;
 - Des templates de nouveaux documents facile d'utilisation, et pas de copier-coller (VSCode) ;
 
 Moins importants :

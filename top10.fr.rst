@@ -10,6 +10,9 @@
 
    Ces différents *tops 10* ne sont **pas triés** (c'est vraiment impossible de dire quel film est SON préféré !).
 
+
+.. todo:: Cette `page en anglais <top10.en.html>`_ contient plus de listes, que je dois traduire ici.
+
 ------------------------------------------------------------------------------
 
 Cinéma

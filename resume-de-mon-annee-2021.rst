@@ -61,25 +61,23 @@ Février 2021
 Mars 2021
 ---------
 - Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
-- J'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 
 - Début mars 2021 (mercredi 3 et jeudi 4) ont eu lieu les écrits du concours de l'agrégation de mathématiques (cf. `<http://agreg.org>`_). :strike:`J'espère qu'ils ne seront pas annulés cette année !` Les écrits ont bien eu lieu ! Ouf !!
 
-- Une chouette sortie à la mer à Dinard, où je n'étais jamais allé !
 - WOOOO le ministère a annoncé la création de l'agrégation d'informatique ! Je `rassemble ici des informations <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/issues/3>`_, dès que j'en obtiens.
 
+- Un chouette weekend express à Marseille !
 
 .. warning:: Le reste est dans le futur !
 
 
 Avril 2021
 ----------
+- J'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
 - TODO
-- Petites vacances dans le Finistère en fin du mois d'avril ?
 
 Mai 2021
 --------
-- Petites vacances à Marseille en début du mois de mai ?
 - TODO
 
 Juin 2021
@@ -147,8 +145,9 @@ En 2021, j'ai vu ces séries…
 - J'ai réessayé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze... C'est pétillant et drôle, mais très irréaliste (même problème d'avoir des modèles pour actrices principales...).
 - *Désenchantée*, une série animée des USA, sur Netflix. Sympa le début, mais très vite lassant. Je ne comprends pas l'attirance pour des séries animées aussi "moches"... en comparaison de *Star Wars: Clone Wars* ou *Avatar* c'est vraiment moche ! J'ai le même avis tranché envers *Futurama*, *Rick et Morty* et tant d'autres.
 - *Rick et Morty*, la fameuse série animée des USA. Sexiste, violente, vulgaire, apologie d'un alcoolique, et dessins trop moches. Franchement aucun intérêt...
-- *Platante*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite.
+- *Platane*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite.
 - *Mr Robot*, une série des USA de 2015, j'ai adoré le premier épisode, puis très vite lassant, je n'ai même pas voulu finir la saison 1. Trop de sexe, de drogue, et de manipulations psychologique de personnages secondaires... Le personnage principal me plaisait trop (Rami Malek !) mais dès le quatrième épisode c'est le bazar. J'ai préféré arrêter !
+- *Star Wars: The Clone Wars*, j'ai terminé la saison 6 que je n'avais fait que commencer, et regardé la dernière saison 7 sortie en 2020. Toujours sympa, mais trop violent et souvent assez ridicule de voir que les jedis sont trop nuls...
 - TODO
 
 En 2021, j'ai lu ces livres…

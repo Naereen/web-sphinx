@@ -10,6 +10,12 @@ This page lists all blogs I have been reading in the last few years, sorted by c
 
 Feel free to `suggest me anything <callme.en.html>`_ !
 
+.. note:: I subscribe to each of these blogs using `RSS <https://en.wikipedia.org/wiki/RSS>`_, and not social media like Facebook and Twitter. RSS is an old but efficient standard, and it allows you to receive automatically the updates on a website, a blog, etc, without being tracked by said website or by your app or social media. If you are curious, please read `Why I Still Use RSS, by Marc on atthis.link (2021-02) <https://atthis.link/blog/2021/rss.html>`_.
+
+.. warning:: This list, like all lists on my site, is probably not perfectly up-to-date. Sorry, I'm just a human! It is maintained *manually*, and I try to improve it and complete it regularly, at least once a year. I do not want to set up a list of RSS feeds in my Thunderbird subscriptions, although it is possible to export this as `an OPML file <https://en.wikipedia.org/wiki/Outline_Processor_Markup_Language>`_, Because some of these flows are not intended to be public.
+
+.. seealso:: This other page list My YouTube subscriptions (unfortunately, it is no longer possible to receive as RSS feeds): `<what-i-watch-on-youtube.en.html>`_.
+
 ------------------------------------------------------------------------------
 
 Fun and web comics
@@ -158,7 +164,7 @@ Specific technologies:
 Computer science:
 
 - `"Xuedong Shang" <https://xuedong.github.io/>`_, `RSS <https://xuedong.github.io/feed.xml>`_,
-- `"I’m a bandit" <https://blogs.princeton.edu/imabandit/>`_, `RSS <https://blogs.princeton.edu/imabandit/feed/>`_,
+- `"I'm a bandit" <https://blogs.princeton.edu/imabandit/>`_, `RSS <https://blogs.princeton.edu/imabandit/feed/>`_,
 - `"Pythonic Perambulations" <https://jakevdp.github.io/>`_, `RSS <https://jakevdp.github.io/atom.xml>`_,
 - `"inFERENCe" <http://www.inference.vc/>`_, `RSS <http://www.inference.vc/rss/>`_,
 - `"Elided Branches" <http://www.elidedbranches.com/>`_, `RSS <http://www.elidedbranches.com/feeds/posts/default>`_,
@@ -230,7 +236,7 @@ About history:
 
 - `"Actuel Moyen Âge" <https://actuelmoyenage.wordpress.com/>`_, `RSS <https://actuelmoyenage.wordpress.com/feed/>`_,
 - `"On dit médiéval, pas moyenâgeux !" <https://feeds.feedburner.com/Onditmedievalpasmoyenageux?format=xml>`_, `RSS <https://feeds.feedburner.com/Onditmedievalpasmoyenageux?format=xml>`_,
-- `"Savoirs d’Histoire" <https://savoirsdhistoire.wordpress.com/feed/>`_, `RSS <https://savoirsdhistoire.wordpress.com/feed/>`_.
+- `"Savoirs d'Histoire" <https://savoirsdhistoire.wordpress.com/feed/>`_, `RSS <https://savoirsdhistoire.wordpress.com/feed/>`_.
 
 
 About life:
@@ -258,7 +264,7 @@ My own blogs
 - `"Objectif Zéro Déchet pour l'année 2018 - par Lilian Besson" <https://perso.crans.org/besson/zero-dechet/>`_, `RSS <https://perso.crans.org/besson/zero-dechet/feeds/all.atom.xml>`_,
 - `"Recettes de cuisine - Lilian Besson" <http://perso.crans.org/besson/cuisine/>`_, `RSS <http://perso.crans.org/besson/cuisine/feeds/all.atom.xml>`_,
 - `"Wikipedia - Naereen contributions [en]" <https://en.wikipedia.org/wiki/User:Naereen>`_, `RSS <https://en.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_,
-- `"Wikipédia - Contributions de l’utilisateur [fr]" <https://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_, `RSS <https://fr.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_.
+- `"Wikipédia - Contributions de l'utilisateur [fr]" <https://fr.wikipedia.org/wiki/Utilisateur:Naereen>`_, `RSS <https://fr.wikipedia.org/w/api.php?action=feedcontributions&user=Naereen&feedformat=atom>`_.
 
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
