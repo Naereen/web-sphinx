@@ -64,7 +64,7 @@ Enseignement
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST ! Je n'ai pas le droit tant que je serai AGPR à l'`ENS Rennes <http://www.ens-rennes.fr/lilian-besson--292020.kjsp>`_, mais dès que je ferai autre chose, je souhaite refaire des colles de maths et/ou d'informatique !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
 - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
-- 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci Pierre !
+- 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci `Pierre <http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon/agreg.html>`_ ;-) !
 - 👌 OK - Recevoir un *remerciement sincère* d'un-e collègue pour des ressources pédagogiques mises en ligne. Ça arrive de temps en temps !
 
 .. sidebar:: **"Le Frido"**

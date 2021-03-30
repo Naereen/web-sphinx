@@ -21,9 +21,27 @@ I will also try to give links to personal websites of inspirational people or au
 
 This page is already quite long, and I don't intend on trying to keep it short, but rather as complete and detailed as I it can be.
 
+Thougts that I liked and what to discuss or include here
+--------------------------------------------------------
+.. todo:: Reularly include some links to great articles here, and then remove the links from this list, to include them in the proper section in my article(s).
+
+About limiting usage of social media, apps, online activity and smartphones (2021-03-29):
+
+- `« Avoiding the global lobotomy » <https://www.meta-nomad.net/avoiding-the-global-lobotomy/>`_ ;
+- `« Parentings new frontier, no smartphone? » <https://www.vogue.com/article/parentings-new-frontier-no-smartphones>`_ ;
+
+About sponsoring open-source projects (2021-03-29):
+
+- My « GitHub sponsor » profile : `<https://github.com/sponsors/Naereen/>`_ (you can go sponsor me for 1$/month!) ;
+- Example of another GitHub profile, for the Python project and Python software foundation: `<https://github.com/sponsors/python>`_ ;
+- About sponsoring blogs, authors etc, an example being `Aditya Shulka <https://www.buymeacoffee.com/AdityaShukla>`_ who wrote the article `« Phone addiction: coping solutions from research statistics » <https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/>`_, and whom I sponsored on `Buy me a Coffe <https://www.buymeacoffee.com/>`_ for the first time on this website (I've been using Patreon since a few months, for artists mainly, and Tipee for French YouTubers) ;
+
+About donating more money to NGO and local associations (2021-03-29):
+
+- 
+
 Life philosophy
 ---------------
-
 
 Top 10 rules and principles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
