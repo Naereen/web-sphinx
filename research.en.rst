@@ -6,21 +6,15 @@
  Research activities
 #####################
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it twice a week (as of 13/03/2020).
+.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly.
 
 
 .. note::
 
-    I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
+    I am *Lilian Besson*, professor of Computer Science at `ENS Rennes <http://www.ens-rennes.fr/>`_, and former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and did research for my PhD thesis, in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
     Welcome to my website.
 
 Links: `Orcid <https://orcid.org/0000-0003-2767-2563>`__ • `arXiv <https://arxiv.org/search/?searchtype=author&query=Besson%2C+Lilian>`__ • `DBLP <https://dblp.uni-trier.de/pers/hd/b/Besson:Lilian>`__ • `IdHAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`__ • `Google Scholar <https://scholar.google.fr/citations?user=bt3upq8AAAAJ>`__ • `HALtools <https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Lilian%2C+Besson&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css>`__ • `List of the PDF of my articles <https://perso.crans.org/besson/articles/>`__
-
-
-After my PhD (2019-)
---------------------
-
-Currently in progress…
 
 
 PhD thesis (2016-19)
