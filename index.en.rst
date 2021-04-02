@@ -38,7 +38,7 @@ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publi
 .. youtube:: zleSzn76FMs
 
 
-- I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA in Rennes. My research interests lie novative technologies for modern teaching, Python and OCaml programming, machine learning in general, and other directions.
+- I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA in Rennes. My research interests lie innovative technologies for modern teaching, Python and OCaml programming, machine learning in general, and other directions.
 
 
 Between September 2016 and August 2019:

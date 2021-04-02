@@ -11,7 +11,7 @@
 
 .. note::
 
-    Je suis *Lilian Besson*, professeur d'informatique à `l'ENS Rennes <http://www.ens-rennes.fr/>`_, ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée.
+    Je suis *Lilian Besson*, professeur d'informatique à `l'ENS Rennes <http://www.ens-rennes.fr/>`_, ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée, et je suis `loyal-bon <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Loyal_bon_ou_%C2%AB_Crois%C3%A9_%C2%BB>`_ même IRL.
     Bienvenue sur mon site web.
 
 

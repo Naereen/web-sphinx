@@ -10,6 +10,12 @@
 
 This page is inspired by the work of `Bret Victor <http://worrydream.com/>`_, mainly this inspirational video `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_. I loved his vision of **living your life driven by principles**, and fighting and standing for them.
 
+.. note::
+
+    I am *Lilian Besson*, professor of Computer Science at `ENS Rennes <http://www.ens-rennes.fr/>`_, and former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, an open-source enthusiast, and I did research for my PhD thesis, in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike, and I am `lawful-good <https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Lawful_good>`_ even IRL.
+    Welcome to my website.
+
+
 For all the following sections and categories, I will try to sort some advices I can give, some rules I try to live for, some principles that I wish to defend, or ideas that I like and want to try to apply more in my own life.
 
 **This page, as most of the similar pages on my website, is intended for a personal use more than anything else.**
@@ -36,29 +42,25 @@ About sponsoring open-source projects (2021-03-29):
 - Example of another GitHub profile, for the Python project and Python software foundation: `<https://github.com/sponsors/python>`_ ;
 - About sponsoring blogs, authors etc, an example being `Aditya Shulka <https://www.buymeacoffee.com/AdityaShukla>`_ who wrote the article `« Phone addiction: coping solutions from research statistics » <https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/>`_, and whom I sponsored on `Buy me a Coffe <https://www.buymeacoffee.com/>`_ for the first time on this website (I've been using Patreon since a few months, for artists mainly, and Tipee for French YouTubers) ;
 
-About donating more money to NGO and local associations (2021-03-29):
-
-- 
-
 Life philosophy
 ---------------
 
 Top 10 rules and principles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I tried to summarize my main rules with just 10 points.
+I tried to summarize my main rules with just 10 points. Of course, it's a partial list, and it will evolve.
 They will probably evolve, if I find a better way to write my ideas in a short sentence, or change my mind about some ideas.
 
-1. Always be curious and amazed, as the world is amazing in all its details ;
-2. When you spend money, you should try your best in understanding the consequences of this gesture (being social, economical, ecological) ;
-3. Be nice to everyone (except people who directly threaten your safety), don't be afraid to defend your ideas, and be memorable (see below) ;
-4. You are not great for what you possess (and money is only a mean to achieve happiness), but for what you fight for, for what you believe in, for what you achieve ;
-5. Violence is never an answer nor a solution ; all form of war are bad and morally wrong ; using any weapon or form of violence to obtain anything from someone else should be considered as shameful and demeaning ;
-6. Never do anything that is offensive and illegal, or dangerous and illegal, or has negative impact on the world while being legal - but something that is not offensive and not dangerous, has no known negative impact but is illegal should probably be legal, so you should not refrain from doing it ;
-7. Go vegetarian, eat almost only local and organic and seasonal vegetables, fruits and cereals, and some cheese and dairy product as well as very small amount of locally produced alcohol ;
-8. Science has brought us where we stand, as a world-wide ultra-connected society. It is not the time to go back to obscurantism, and conspiracy theory ;
-9. Trust modern western medicine, especially vaccines, our understanding of viruses and diseases, and the political measures such as masks and lock-downs that have been decided based on science ;
-10. Anything you do, every behavior and action you take, when you are in public space and not alone, should be the best example you can give to other people, especially children, and posterity [#posterity]_.
+1. **Always be curious and amazed**, as the world is amazing in all its details ;
+2. **When you spend money, you often can decide not to spend it**. At least, you should try your best in understanding the consequences of this gesture (being social, economical, ecological) ;
+3. **Be nice** to everyone (except people who directly threaten your safety), don't be afraid to defend your ideas, and **be memorable** (see below) ;
+4. **You are not great for what you possess** (and money is only a mean to achieve happiness), **but how happy and positive you are**, and for what you fight for, for what you believe in, for what you achieve ;
+5. **Violence is never an answer nor a solution** ; all form of war are bad and morally wrong ; using any weapon or form of violence to obtain anything from someone else should be considered as shameful and demeaning ;
+6. **Never do anything that is offensive and illegal, or dangerous and illegal**, or has negative impact on the world *while being legal* - but something that is not offensive and not dangerous, has no known negative impact but is illegal should probably be legal, so you should not refrain from doing it ;
+7. **Go vegetarian** (or try to), eat almost only local and organic and seasonal vegetables, fruits and cereals, and some cheese and dairy product as well as very small amount of locally produced alcohol ;
+8. Science has brought us where we stand, as a world-wide ultra-connected and ultra-reliable modern society. **The 21st century is not the time to go back to obscurantism, and conspiracy theories** ;
+9. **Trust modern medicine** ("western"), **especially vaccines, our understanding of viruses and diseases**, and the political measures such as masks and lock-downs that have been decided based on science ;
+10. **Be exemplary in public (including Internet)**: anything you do, every behavior and action you take, when you are in public space and not alone, should be the best example you can give to other people, especially children, and posterity [#posterity]_.
 
 .. [#posterity] If it helps you, you can imagine that you are living in Antique Pompei, and that your environment could be destroyed by burning ashes of a volcano, killing you instantly where you stand. Do you want to be found while doing something shameful like throwing away a cigarette butt, insulting a stranger, or stealing from a shop? or do you want to be found while doing something virtuous and to be proud of, like teaching something to someone, cleaning up your street, etc?
 
