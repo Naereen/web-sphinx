@@ -135,10 +135,9 @@ License |GPLv3 license|
 This project is released under the **GPLv3 license**, for more details,
 take a look at the `LICENSE
 file <http://perso.crans.org/besson/LICENSE.html>`__ in the source. ©
-Lilian Besson, 2012-2018.
+Lilian Besson, 2012-2021.
 
-*Basically, that allow you to use all or part of the project for you own
-business.*
+*Basically, that allows you to use all or part of the project for you own business.*
 
 |ForTheBadge built-with-love| |Analytics|
 
