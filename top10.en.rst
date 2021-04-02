@@ -256,8 +256,8 @@ I am a strong believer of the value of Pacifism, and I refuse to admire military
 
 .. todo:: Write this top10 !
 
-My 10 favorite computer scientist in the 20th century
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite computer scientists in the 20th century
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Alan Turing**, for his machines and inspirational fight in the governments repression against non-heterosexual persons. I have taught different classes on computability and complexity since 2016, and used `Turing Machines <https://naereen.github.io/jsTuring_fr/turing.html>`_ a lot ;
 - **Kurt Gödel**, for fondamental work on the foundations of computer science and mathematics. His incompleteness theorems that I studied in 2012 (during my Bachelor degree in Computer Science) are probably the theoretical results that most amazed me, ever ;
@@ -270,8 +270,8 @@ My 10 favorite computer scientist in the 20th century
 - **Tim Berners-Lee**, legendary figure of the early days of the Internet, less known for his current fights for a free and non-regulated Internet ;
 - **Gordon Moore**, co-founder of Intel, and legendary figure of computer science and especially the development of personal computers. His famous "Moore's law" is the best example of a self-realizing prophecy: it was announced by the co-founder of the very company which worked to fulfil the prophecy, now true for more than 55 years.
 
-My 10 favorite computer scientist of the 21st century
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite computer scientists of the 21st century
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. sidebar:: `Aaron Swartz <https://en.wikipedia.org/wiki/Aaron_Swartz>`_ also has a special place as a very inspirational figure of a young computer scientist and activist.
 
@@ -293,8 +293,8 @@ My 10 favorite computer scientist of the 21st century
    **Katie Bouman** for her amazing work to produce the first ever image of a black whole, and using Python and the Jupyter project for this work ; **Michael Unser** with whom I worked in 2016 at EPFL in Lausanne (Switzerland) ; **Jill-Jênn Vie** to be a great inspiration since 2013 ; my late friend **Rémi Cheval** since 2014 ; `Karl Voit <https://karl-voit.at/>`_ for his amazing blog and `Karli Koss <https://beepb00p.xyz/>`_ too ; **Fabrice Bellard** ; **Noam Chomsky** ; **Thierry Coquand** ; **Jean-Paul Delahaye** ; **Douglas Engelbart** ;
 
 
-My 10 favorite scientist of the 20st century
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite scientists of the 20st century
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. sidebar:: Have you seen David Bowie playing Nikolas Tesla in `the great movie "The Prestige" by Christopher Nolan <https://en.wikipedia.org/wiki/The_Prestige_(film)>`_ ? No? Go see it!
 
@@ -305,12 +305,12 @@ My 10 favorite scientist of the 20st century
 - **Richard Feynman**, for his physics lecture and books, and being a famous professor recognized for the quality of his lectures ;
 - **Claude Shannon**, for a very inspiration career and amazing works on the foundations of information theory, which had huge influence in computer science, maths and signal processing, and also his passion about juggling ;
 - **Boris Vian**, the famous French poet and singer, was also a great engineer ;
-- **John Forbes Nash**, for being an inspirational figure of a great mathematician and career in science, despite suffering all his life from a mental illness ;
+- **John Forbes Nash**, for being an inspirational figure of a great mathematician and career in science, despite suffering all his life from a mental illness. Have you watched `« A Beautiful Mind » <https://www.imdb.com/title/tt0268978/?ref_=ttls_li_tt>`_, a movie about his life?
 - **Hedy Lamarr**, the perfect example of a great woman in science, not known enough despite a great career in Hollywood and cinema, and a major contribution in telecommunication and algorithms ;
 - **Richard Garfield** for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
 
-My 10 favorite scientist before 1900
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite scientists before 1900
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Al-Khwârizmî** in the 9th century, who is recognized as one of the earlier scientist to work on algorithms between 780 and 850 ;
 - **Léonard de Vinci** in the 15th and 16th centuries in France and Italy, for being an incredible polymath ;
@@ -320,8 +320,34 @@ My 10 favorite scientist before 1900
 - **Carl Friedrich Gauss** in the late 18th and early 19th centuries in Germany, for amazing works in all branches of mathematics, and early discovery of what would later become the Fast Fourier Transform, the Karatsuba algorithms, and many more ;
 - **Ada Lovelace** and **Charles Babbage**, who are recognized as one of the earlier scientist to work on algorithms between 1780 and 1850 ;
 - **Lewis Carroll** was a mathematics professor and writer ;
+- **Évariste Galois**, a brilliant young mathematician, student in Paris at École Normale Supérieure (de la rue d'Ulm), who most probably was murdered (in a forced duel) because of his political convictions and true French democratic spirit ;
+- **Gaspard Monge**, for his mathematical works as well as his political carreer.
 
-.. todo:: Finish this top10 !
+My 10+10+10 most inspirational famous (alive) people
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+From France:
+
+- **Sylvain Tesson**, a great writer, traveler, ecologist ;
+- **Pablo Servigne**, ecologist and great talker ;
+- **Aurélien Barrau**, a famous astrophysician and ecologist ;
+- I have more names, including some important women, in mind, TODO: write them ;
+
+From North America:
+
+- **Barack Obama**, not for his Nobel prize despite the fact that his government was in war for 8 years, but for his ecological fights, his great personality and very inspirational and rational talks ;
+- **Julian Assange**, for his fight for true information ;
+- **Keanu Reeves**, the most inspirational male actor from USNA, for a great carreer but mainly a great human being. So selfless! 9Gag community love him, for good reasons!
+- **Edward Snowden**, a true hero of modern times, because as I read already on Twitter (don't go there, boycott it but read it without an account, if needed) and 9Gag, the greatest patriot from the USA is currently living in exile in Russia ;
+- **Bill Gates**, not for what he did to become rich, but what he does since then. He is one of the world largest philanthropist and writes books and give talks about ecology and how to avoid a global climate disaster ;
+
+From the rest of the world:
+
+- **Greta Thunberg**, one of the most inspirational young ecologist fighter  ever ;
+- **APJ Abdul Kalam**, a great politician who was president of India until his death in 2015. I remember many of my colleagues in `Mahindra École Centrale <http://www.mahindraecolecentrale.edu.in/>`_ (where I taught in 2014/15 in India) to be strong supporters of APJ Abdul Kalam ;
+- **Arnold Schwarzenegger**, for his amazing actor carreer but most importantly his political carreer in the USNA, and ecological convictions. He is trully a hero of the 20th and 21st century, and `his Twitter <https://twitter.com/Schwarzenegger/>`_ and other social media can be a true source of inspiration (see `this 6min talk from 10th of January 2021 <https://www.youtube.com/watch?v=x_P-0I6sAck>`_). Also, he was Conan, Terminator and he killed the Predator, that's something ;
+- **Angela Merkel** ;
+- I have more names, including some important women, in mind, TODO: write them ;
 
 ------------------------------------------------------------------------------
 
@@ -332,8 +358,11 @@ My 10 favorite mathematical results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Euclide's proof** of the theorem that states that there exists an infinite number of prime numbers ;
+- Lagrangian interpolation of polynomials ;
+- Being able to write the n-th :math:`u_n` term of recurrent linear sequence of order k as a result of a :math:`k \times k` matrix A to the power k multiplied by a vector, and computing the power by a Straßen method combined with fast exponentiation (leading to an algorithm in :math:`\mathcal{O}(\log_2(k) n^{\log_2(7)})` instead of :math:`\mathcal{O}(k n^3)`) ;
 - Pascal triangle and its relationships with binomial coefficients ;
-- Last but not least, the **Binomial theorem**, and its application to limited series development and computation of pi by Newton (see `this video <https://www.youtube.com/watch?v=gMlf1ELvRzc>`_) ;
+- Indecidability of the halting problem, as well as Gödel incompleteness theorems, which lay down limits of what is unreachable in mathematics and computer science ;
+- Last but not least, the **Binomial theorem**, and its application to limited series development and computation of :math:`\pi` by Newton (see `this video <https://www.youtube.com/watch?v=gMlf1ELvRzc>`_) ;
 
 .. youtube:: gMlf1ELvRzc
 
@@ -412,8 +441,8 @@ My 10 favorite meat and fish?
 Please `go read <https://duckduckgo.com/?q=where+can+I+learn+more+about+the+ecological+and+economical+impact+of+consuming+meat&t=canonical&ia=web>`_ more about the negative ecological and economical impact of consuming meat! (in French, `<https://www.viande.info/>`_ is a great website)
 
 
-My 10 favorite meal in France
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite meals in France
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Tartiflette**, without sliced pork meat but great cheese ;
 - **Raclette** in Savoie, with no meat but best quality cheese ;
@@ -429,8 +458,8 @@ My 10 favorite meal in France
 .. seealso:: `This blog where I write my favorite recipes! <https://perso.crans.org/besson/cuisine/>`_.
 
 
-My 10 favorite meal around the world
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My 10 favorite meals around the world
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Vegetarian biryani** in India (especially Hyderabad where I lived in 2014/15, which is often considered as the capital of biryani in India!) ;
 - **Cheese fondue** in Switzerland! Even if we eat this meal a lot in France, it's from Switzerland!
