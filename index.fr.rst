@@ -10,8 +10,8 @@
 -----------------
 
 |Salutations|, et bienvenue sur ce site !
-Je suis **Lilian Besson**, et j'enseigne actuellement l'informatique à |ENSRennes|.
-Je souhaite devenir professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en France.
+Je suis **Lilian Besson**, enseignant-développeur en informatique, et enseignant au département Informatique à |ENSRennes| depuis 2016.
+Je serai professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_ à la rentrée prochaine 2021.
 
 J'ai `terminé ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ en 2019, à CentraleSupélec Rennes et Inria Lille, et je `suis agrégé et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées.
 
@@ -30,7 +30,7 @@ J'ai `terminé ma thèse de doctorat en Télécommunications et Apprentissage Au
 
 - Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
 
-- Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
+- En février 2021, je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir intéractif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
 
 - Si vous voulez en apprendre plus sur |ENSRennes|, en quelques minutes, regardez ça :
 
@@ -189,7 +189,6 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    resume-de-mon-annee-2019
    resume-de-mon-annee-2020
    resume-de-mon-annee-2021
-   freedns
    time
    bitbucket-features.fr
    plume-air-paris.fr

@@ -8,8 +8,8 @@
 
 .. note::
 
-    I am *Lilian Besson*, a former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, open-source enthusiast and young researcher in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
-    **Welcome to my website.**
+    I am *Lilian Besson*, professor of Computer Science at `ENS Rennes <http://www.ens-rennes.fr/>`_, and former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, an open-source enthusiast, and I did research for my PhD thesis, in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike.
+    Welcome to my website.
 
 
 In 2020/2021
