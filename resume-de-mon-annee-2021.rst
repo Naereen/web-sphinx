@@ -68,13 +68,15 @@ Mars 2021
 
 - Un chouette weekend express à Marseille !
 
-.. warning:: Le reste est dans le futur !
-
 
 Avril 2021
 ----------
-- J'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
-- TODO
+- J'ai (enfin) obtenu confirmation de mutation en prépas scientifiques pour septembre 2021, dans une des 25 classes ouvertes pour les nouvelles filières de MP2I (`cf. ce site d'informations <https://prepas.org/index.php?article=42>`_) !
+- Et donc, j'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+- Confinement, saison trois... Annoncé le mercredi 31 mars pour quatre semaines jusuq'au samedi 1er mai. Et zut, ça grille mes rapides vacances prévues à Lyon et Grenoble fin avril.
+
+.. warning:: Le reste est dans le futur !
+
 
 Mai 2021
 --------
