@@ -27,7 +27,7 @@ I will also try to give links to personal websites of inspirational people or au
 
 This page is already quite long, and I don't intend on trying to keep it short, but rather as complete and detailed as I it can be.
 
-Thougts that I liked and what to discuss or include here
+Thougts that I liked and want to discuss or include here
 --------------------------------------------------------
 .. todo:: Reularly include some links to great articles here, and then remove the links from this list, to include them in the proper section in my article(s).
 
@@ -81,6 +81,9 @@ TODO: detail more
 - **Dr Richard Stallman**, founder of the free software movement and the GNU project, and many other activists and developers for their views and fights for free software ;
 - **Tyler Durden**, from Fight Club by Chuck Palahniuk (see some quotes below), and many other people including Middle-Age monks orders, for the will to possess as little as possible, and be great by your ideas and your actions not your possessions ;
 - **Dr Jordan B Peterson**, for many things about our modern society (including `his views on patriarchy <https://www.youtube.com/watch?v=1iUHbalzKgk>`_). I also like his view that « People don't have ideas, ideas have people », and that most people are owned by the ideas they embrace ;
+- **Estas Tonne**, a famous guitarist, especially this inspirational video:
+
+.. youtube:: OzIduxEP6VM
 
 .. seealso:: This other page lists some quotes that I like, see `<quotes.en.html>`_. TODO: start this other page!
 
