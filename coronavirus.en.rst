@@ -18,7 +18,12 @@ Working from home because of the Coronavirus outbreak
 -----------------------------------------------------
 
 As of Friday 13rd of March 2020, my colleagues and I at ENS de Rennes were asked to start working from home.
+
 **Update** : since we started working at the end of August 2020, everything so far has been in presence, as usual.
+
+**Update** : since end of October 2020, everything so far has been in fully remote.
+
+**Update** : since January 2021, everything so far has been in fully remote, except at most one day a week (or two half-days).
 
 .. warning:: This page is only describing MY point-of-view, it is NOT officially from the point of view of my employer.
 
@@ -33,23 +38,9 @@ I am describing **in French** in `this webpage <coronavirus.fr.html>`_ how I wil
    :alt: Link to the XKCD comic https://xkcd.com/2282/
    :target: https://xkcd.com/2282/
 
-
 .. seealso::
 
    This blog post by the Free Software Foundation (FSF) lists tools to teach remote classes and stay in touch online: `<https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch>`_.
-
----------------------------------------------
-
-Responsibilities in 2019/2020
------------------------------
-
-I will be `junior professor (agrégé préparateur) in Computer Sience at ENS de Rennes <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp?RH=1205317096837>`_
-
-- I am in charge of the `training for Computer Science option for the national exam of "agrégation de mathématiques" (to become a teacher in maths and/or computer science) <https://perso.crans.org/besson/teach/agreg-2019/>`__ (**"prépa agrég"**, option D), and in particular I'm in charge `of the practical sessions of programming, in Python 🐍 and OCaml 🐫 <https://github.com/Naereen/notebooks/tree/master/agreg/>`__. (80 h / year) `The time table is here! <https://perso.crans.org/besson/agreg_info_planning/>`__
-- I give the course of `Introduction to Algorithmic <https://perso.crans.org/besson/teach/info1_algo1_2019/>`__ **(ALGO1)** for the first year student (in L3) at ENS de Rennes (see `the page for the same course in the maths department <http://people.irisa.fr/Francois.Schwarzentruber/math1_algo1_2019/>`__, given by `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`__). (20h / year)
-- I give the tutorial sessions for the course of `Advanced Algorithmic <http://people.rennes.inria.fr/Nathalie.Bertrand/teaching.html>`__ **(ALGO2)**, for the first year student (in L3) at ENS de Rennes, given by `Nathalie Bertrand <http://people.rennes.inria.fr/Nathalie.Bertrand/>`__. (20h / year)
-- I'm also in charge of the `bi-monthly research seminar of the Computer Science department <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, of some visits of research labs, and of the internships of first year students (in L3) at ENS de Rennes, as well as responsible of sorting the admission on file of new students (not the competitive exam). (60h / year)
-
 
 .. image:: https://imgs.xkcd.com/comics/coronavirus_charts.png
    :scale: 50%

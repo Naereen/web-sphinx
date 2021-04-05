@@ -21,6 +21,7 @@ TL;DR: Soyez prudent-e-s, travaillez bien, soyez gentil-l-es et serviables (pour
 
 - Besoin d'idées culturelles, livres films et autres ? Cf. `mon top 10 <top10.fr.html>`_ !
 - Envie de jouer aux jeux vidéo ensemble ? Je souhaite poursuivre mon projet collaboratif de l'an dernier, `avec Pokémon Or/Argent <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ (ou d'autres jeux), `contactez moi <callme.fr.html>`_ !
+- Je donne des conseils pour des meilleures visio sur `conseils.fr.html>`_ !
 - Envie de rigoler cinq minutes tout en révisant les gestes barrières ?
 
 .. youtube:: t4h8j9xLyxQ
@@ -91,7 +92,7 @@ Donner un cours magistral en période de confinement peut être plus ou moins fa
 - Outil web recommandé : `Discord <https://discordapp.com/>`_.
 - Avec une tablette graphique (ou une bonne souris), et un bon lecteur de PDF (je recommande **Okular** sous GNU/Linux), il est assez facile de surligner le PDF affiché.
 - Je me suis aussi formé à utiliser `Ziteboard <https://app.ziteboard.com/>`_, pour utiliser un écran blanc partagé, sur lequel je dessine avec une tablette graphique !
-- **Mise à jour** : je recommande désormais l'outil `TableauNoir <https://tableaunoir.github.io/>`_, développé par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`_ et des collègues du Département Informatique de l'ENS de Rennes.
+- **Mise à jour** : je recommande désormais l'outil `TableauNoir <https://tableaunoir.github.io/>`_, développé par `François Schwarzentruber <http://people.irisa.fr/Francois.Schwarzentruber/>`_ et des collègues du Département Informatique de l'ENS de Rennes. Ce tableau peut être utilisé en mode partagé en ligne, ou bien localement et en diffusant son écran (on peut même `s'en servir hors-ligne <https://github.com/tableaunoir/tableaunoir/issues/137#issuecomment-780389185>`_).Tableaunoir est spécifiquement conçu pour l'enseignement de l'informatique, avec des "magnets frigo" pour illustrer des algorithmes de tri, des structures de données, etc. Entièrement traduit en allemand, français et espagnol !
 
 
 Travaux Dirigés (TD)
@@ -111,6 +112,7 @@ Comme les TD, sauf qu'il peut y avoir une partie demandant aux élèves une impl
 
 - Outils web : `Discord <https://discordapp.com/>`_,
 - J'avais l'envie d'utiliser des outils web conçus pour les interview à distance, comme `CoderPad <https://coderpad.io/>`_ et `CollabEdit <http://collabedit.com/>`_ (`il <https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654>`_ `en <https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/>`_ `existe <http://www.crackingthecodinginterview.com/>`_ `plein <https://duckduckgo.com/?q=online+coding+interview+website&t=canonical&ia=web>`_ `d'autres <https://www.quora.com/What-are-the-best-online-coding-environments-for-conducting-programming-interviews>`_),
+- Cf. cette autre page `<pair-programming-tools.fr.html>`_.
 
 
 Examens finaux (partiels)
@@ -120,13 +122,15 @@ Nous avons pris la décision de ne pas essayer de faire des évaluations en mode
 
 Tous les examens finaux seront des DM, à faire seul (pas de binôme), en quelques jours pour limiter les risques de triches et de partages de copies entre les élèves.
 
+**Mise à jour** à partir de décembre 2020, nous avions pu donner des examens en présentiel, à l'Université Rennes 1 et à l'ENS Rennes.
+
 
 ---------------------------------------------
 
 Discord comme outil principal ? Oui mais...
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-J'ai beaucoup apprécié d'utiliser Discord, et je le conseille comme outil principal de discussion et d'échanges avec vos classes, que ce soit pour des échanges textuels, vocaux ou vidéo (avec webcam ou partage d'écran).
+J'ai beaucoup apprécié utiliser Discord, et je le conseille comme outil principal de discussion et d'échanges avec vos classes, que ce soit pour des échanges textuels, vocaux ou vidéo (avec webcam ou partage d'écran).
 
 - Je recommande de créer un serveur par classe, et dans un  même serveur, un canal par cours, voir plusieurs canaux pour chaque cours (par exemple un pour les TP et TD, un pour les DM et projets, et un pour les CM).
 - Je recommande de demander à tous les élèves de choisir "Prénom Nom" comme pseudonyme, pour ne jamais avoir de doute quant à l'identité des différentes personnes connectées.
@@ -146,6 +150,13 @@ Plus de détails ? Cette vidéo est courte et très bien faite, et répond avec 
 
 .. youtube:: zjNxArUFI4Q
 
+Alternatives libres à Discord ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+En combinant plusieurs logiciels et outils :
+
+1. **Un serveur Moodle**, avec un bon découpage pour chaque cours, pour héberger les documents, animer un forum qui ressemblera un peu aux salons textuels ;
+1. Un serveur avec des salons BigBlueButton (ou Jitsi) ou `Galene <https://galene.org/>`_, pour les visios.
 
 ---------------------------------------------
 
