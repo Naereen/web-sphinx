@@ -119,7 +119,8 @@ Personnellement
 - 👌 OK - Continuer de boycotter le plastique, et notamment celui pour les emballages (y compris les bouteilles) et qui se recyclent mal ;
 - 👌 OK - Boycotter toutes les "grandes" entreprises internationales, et même françaises, comme McDonalds, Starbucks, Amazon, etc.
 
-    - En France, je continue des fois à utiliser la Fnac (même si je préfère une libraire locale comme Le Failher à Rennes), et occasionnellement CDiscount ou Décathlon pour des ou livraisons en temps de pandémie. Je ne me ferai plus jamais livrer (avril 2021).
+    - En France, je continue des fois à utiliser la Fnac (même si je préfère une libraire locale comme `Le Failher à Rennes <http://www.librairielefailler.fr/>`_), et occasionnellement CDiscount ou Décathlon pour des ou livraisons en temps de pandémie. Je ne me ferai plus jamais livrer (avril 2021).
+    - Je n'irai plus jamais déjeuner ou consommer dans une antenne d'une marque de la grande distribution, que ce soit Carrefour, Brioche Dorée, Flunch ou autre. Je préfère manger encore et toujours mes pois cassés végétaliens que manger des choses qui soient éthiquement pas correctes, pour plein de raisons !
 
 Santé
 ^^^^^

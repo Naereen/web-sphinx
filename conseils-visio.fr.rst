@@ -11,7 +11,7 @@ Cette courte page liste **quelques conseils pour faire des bonnes visio confére
 
 En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
 
-Nous connaissons certains de ces outils depuis longtemps déjà, comme le trop populaire Skype, et FaceTime d'Apple, les visios dans Facebook ou Messenger, ou WhatsApp, Signal ou Telegram. L'année 2020 a aussi vu la popularité de Zoom augmentée drastiquement, malgré tous ses défauts et manque de respect de la vie privée.
+Nous connaissons certains de ces outils depuis longtemps déjà, comme le trop populaire Skype, et FaceTime d'Apple, les visios dans Facebook ou Messenger, ou WhatsApp, Signal ou Telegram. L'année 2020 a aussi vu la popularité de Zoom augmenter drastiquement, malgré tous ses défauts et manque de respect de la vie privée.
 
 Nous avons aussi tous-tes vu ces exemples amusants, mais un peu ridicules, de visios particulièrement ratées :
 

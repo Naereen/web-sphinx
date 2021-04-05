@@ -87,12 +87,10 @@ My 10 favorite YouTube channels
 Music
 -----
 
-.. todo:: This list does not seem to be up-to-date...
-
 My 10 favorite **bands**/**artists**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Iron Maiden <https://en.wikipedia.org/wiki/Iron_Maiden>`_,
-- `Renaud <https://en.wikipedia.org/wiki/Renaud>`_,
+- `Pomme <https://fr.wikipedia.org/wiki/Pomme_(chanteuse)>`_,
 - `Jim Croce <https://en.wikipedia.org/wiki/Jim_Croce>`_,
 - `Koji Kondo  <https://en.wikipedia.org/wiki/Koji_Kondo>`_,
 - `Joan Baez <https://en.wikipedia.org/wiki/Joan_Baez>`_,
@@ -100,7 +98,7 @@ My 10 favorite **bands**/**artists**
 - `John Lang « Pen of Chaos » / Naheulband <https://fr.wikipedia.org/wiki/John_Lang>`_,
 - `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `John Williams <https://en.wikipedia.org/wiki/John_Williams>`_,
-- `Dire Straits <https://en.wikipedia.org/wiki/Dire_Straits>`_ / `Mark Knopfler <https://en.wikipedia.org/wiki/Mark_Knopfler>`_.
+- I can't decide for the last one: I really like a lot of artists, including Asaf Avidan, Eddie Vedder, Jacques Brel, the French singer Pomme, French singer Renaud, Airelle Besson, ACDC, Angèle, Antony and the Jonhsons, Apocalyptica, Birdy, Bob Dylan, Camille Laïly, Claude Nougaro, Damien Saez, Coeur de Pirate, Danheim, Djiboutep and Michel Tonnerre, Era, Estas Tonne, François Hardy, Freddie Mercury and Queen, Georges Brassens, Guillaume de Chassy, the Grissini Project, Hugh Laurie, Imany, Indochine, Karliene, Journey, French band LEJ, Led Zeppelin, Light in Babylon, Léo Ferré, Malukah, Mandy Lerouge, Mansfield TYA, Metallica, Neil Diamond, Neil Young, Nightwish, Noir Désir, Miossec, Paul Lay, Peter Hollens, Ray Charles, Rémi Panossian, Scorpions, Slow Jane, Sting, Stromae, Taylor Davis, The Beatles, The Consouls, The Police, French singer Thiéfaine, Wardruna, Yom, and many more...
 
 My 10 favorite **songs**
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -299,22 +297,22 @@ My 10 favorite computer scientists of the 21st century
 
 .. sidebar:: `Aaron Swartz <https://en.wikipedia.org/wiki/Aaron_Swartz>`_ also has a special place as a very inspirational figure of a young computer scientist and activist.
 
-- `Yann LeCun <http://yann.lecun.com/>`_, for his inspirational lectures at Collège de France ;
-- `Xavier Leroy <https://xavierleroy.org/>`_, for the OCaml language and his books (and lectures!) ;
+- `Isabelle Collet <https://en.wikipedia.org/wiki/Isabelle_Collet>`_ for her books and inspiration talks, and her dedication to understand the reasons behind the lack of women and minorities in computer science and engineering. We met in Lille in `Didapro #8 in 2020 <https://www.didapro.org/8/>`_ and shared interesting discussions ;
+- `Xavier Leroy <https://xavierleroy.org/>`_, for the OCaml language and his books (and lectures!). I think I met him in Paris in 2013 while I was studying the master "MPRI", but cannot be sure  ;
 - `Gilles Dowek <https://en.wikipedia.org/wiki/Gilles_Dowek>`_, for all his books ;
-- `Isabelle Collet <https://en.wikipedia.org/wiki/Isabelle_Collet>`_ for her books and inspiration talks ;
+- `Yann LeCun <http://yann.lecun.com/>`_, for his inspirational lectures at Collège de France ;
 - `Jimmy Wales <https://en.wikipedia.org/wiki/Jimmy_Wales>`_ founder of the Wikipedia and Wikimedia projects ;
 - `Demis Hassabis <https://en.wikipedia.org/wiki/Demis_Hassabis>`_, and all of DeepMind, for their amazing works on reinforcement learning and most notably for the ATARI games which was very inspirational to me before starting my PhD thesis ;
 - `Matthias Bussonnier <https://matthiasbussonnier.com/>`_ for his inspirational blog, and impressive work on the IPython and Jupyter project (and because he also is a passionate programmer, who have graduated from ENS Cachan but not from a Computer Science major, like me!) ;
-- `Anne-Marie Kermarrec <https://en.wikipedia.org/wiki/Anne-Marie_Kermarrec>`_, for her books and inspirational blog posts, and a very inspiring career ;
+- `Anne-Marie Kermarrec <https://en.wikipedia.org/wiki/Anne-Marie_Kermarrec>`_, for her books and inspirational blog posts, and a very inspiring career on research, teaching and entrepreneurship in computer science ;
 - `Bret Victor <http://worrydream.com/>`_, for these two inspirational videos `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_ and `« The future of programming » <https://www.youtube.com/watch?v=8pTEmbeENF4>`_
-- **Gérard Berry**, for all his books, and `his <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/issues/4>`_ `amazing conference <https://www.youtube.com/watch?v=xoZlOV1Bt18>`_ given for the `the sponsorship ceremony of batch 2020 at ENS Rennes <http://www.ens-rennes.fr/actualites/ceremonie-de-parrainage-de-la-promotion-2020-295773.kjsp>`_ ;
+- `Gérard Berry <https://en.wikipedia.org/wiki/Gérard_Berry>`_, for all his books, and `his <https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/issues/4>`_ `amazing conference <https://www.youtube.com/watch?v=xoZlOV1Bt18>`_ given for the `the sponsorship ceremony of batch 2020 at ENS Rennes <http://www.ens-rennes.fr/actualites/ceremonie-de-parrainage-de-la-promotion-2020-295773.kjsp>`_ ;
 
 .. youtube:: xoZlOV1Bt18
 
-.. seealso:: Other computer scientist I admire:
+.. seealso:: Other computer scientists I admire:
 
-   **Katie Bouman** for her amazing work to produce the first ever image of a black whole, and using Python and the Jupyter project for this work ; **Michael Unser** with whom I worked in 2016 at EPFL in Lausanne (Switzerland) ; **Jill-Jênn Vie** to be a great inspiration since 2013 ; my late friend **Rémi Cheval** since 2014 ; `Karl Voit <https://karl-voit.at/>`_ for his amazing blog and `Karli Koss <https://beepb00p.xyz/>`_ too ; **Fabrice Bellard** ; **Noam Chomsky** ; **Thierry Coquand** ; **Jean-Paul Delahaye** ; **Douglas Engelbart** ;
+   This list is highly disorganized: **Katie Bouman** for her amazing work to produce the first ever image of a black whole, and using Python and the Jupyter project for this work ; **Michael Unser** with whom I worked in 2016 at EPFL in Lausanne (Switzerland) ; **Jill-Jênn Vie** to be a great inspiration since 2013 ; my late friend **Rémi Cheval** since 2014 ; `Karl Voit <https://karl-voit.at/>`_ for his amazing blog and `Karli Koss <https://beepb00p.xyz/>`_ too ; **Fabrice Bellard** ; **Noam Chomsky** ; **Thierry Coquand** ; **Jean-Paul Delahaye** ; **Douglas Engelbart** ; a few colleagues at CentraleSupelec campus de Rennes ; my colleagues at ENS Rennes and Rennes since 2016: Luc Bougé, David Cachéra, David Pichardie, Romaric Gaudel, Nathalie Bertrand, Martin Quinson, Patrice Quinton and François Schwarzentruber, and others ; my colleagues at Inria Lille, mainly Odalric-Ambrym Maillard, Philippe Patte, Olivier Pietquin, and others including amazing PhD students ;
 
 
 My 10 favorite scientists of the 20st century
@@ -328,9 +326,9 @@ My 10 favorite scientists of the 20st century
 - **John von Neumann**, for many incredibly useful contributions in various domains and especially computer science, and for being one the most famous and inspirational `polymath <https://en.wikipedia.org/wiki/Polymath>`_ of our time ;
 - **Richard Feynman**, for his physics lecture and books, and being a famous professor recognized for the quality of his lectures ;
 - **Claude Shannon**, for a very inspiration career and amazing works on the foundations of information theory, which had huge influence in computer science, maths and signal processing, and also his passion about juggling ;
-- **Boris Vian**, the famous French poet and singer, was also a great engineer ;
+- **Boris Vian**, the famous French poet and singer, was also a great engineer even if he is not known for this ;
 - **John Forbes Nash**, for being an inspirational figure of a great mathematician and career in science, despite suffering all his life from a mental illness. Have you watched `« A Beautiful Mind » <https://www.imdb.com/title/tt0268978/?ref_=ttls_li_tt>`_, a movie about his life?
-- **Hedy Lamarr**, the perfect example of a great woman in science, not known enough despite a great career in Hollywood and cinema, and a major contribution in telecommunication and algorithms ;
+- **Hedy Lamarr**, the perfect example of what some newspapers or authors call "a great woman in science", not known enough despite a great career in Hollywood and cinema, and a major contribution in telecommunication and algorithms ;
 - **Richard Garfield** for the amazing game Magic of the Gathering (did you know he has a PhD in mathematics? he was the first PhD of maths that I knew of, when I was 11 and he was inspirational for many years!) ;
 
 My 10 favorite scientists before 1900
@@ -354,6 +352,7 @@ From France:
 
 - **Sylvain Tesson**, a great writer, traveler, ecologist ;
 - **Pablo Servigne**, ecologist and great talker ;
+- **Cyril Dion**, another famous ecologist and great writer (I loved his book `"Petit Manuel de Résistance Contemporaine" <https://duckduckgo.com/?q=petit+manuel+de+r%C3%A9sistance+contemporaine+par+cyril+dion&t=canonical&ia=web>`_;
 - **Aurélien Barrau**, a famous astrophysician and ecologist ;
 - I have more names, including some important women, in mind, TODO: write them ;
 
@@ -383,15 +382,17 @@ My 10 favorite mathematical results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Euclide's proof** of the theorem that states that there exists an infinite number of prime numbers ;
-- Lagrangian interpolation of polynomials ;
+- **Lagrangian interpolation of polynomials** ;
 - Being able to write the n-th :math:`u_n` term of recurrent linear sequence of order k as a result of a :math:`k \times k` matrix A to the power k multiplied by a vector, and computing the power by a Straßen method combined with fast exponentiation (leading to an algorithm in :math:`\mathcal{O}(\log_2(k) n^{\log_2(7)})` instead of :math:`\mathcal{O}(k n^3)`) ;
-- Pascal triangle and its relationships with binomial coefficients ;
-- Indecidability of the halting problem, as well as Gödel incompleteness theorems, which lay down limits of what is unreachable in mathematics and computer science ;
+- **Pascal triangle**, and its relationships with binomial coefficients ;
+- **Indecidability of the halting problem**, as well as Gödel incompleteness theorems, which lay down limits of what is unreachable in mathematics and computer science ;
+- **Confluence of the lambda-calculus**? Not really, I just have an awesome memory of its proof by `Jean Goubaut-Larrecq <http://www.lsv.fr/~goubault/>`_ in PROG2 in 2012 at ENS Cachan!
+- The results about which rational and reals numbers can be `constructed by a straithedge and a compass <https://en.wikipedia.org/wiki/Straightedge_and_compass_construction>`_, which I studied a lot in 2009/2010. I find it amazing that we have theorems such as Wantzel's theorem, and `clean and understable proofs of impossibility results <https://en.wikipedia.org/wiki/Straightedge_and_compass_construction#Impossible_constructions>`_!
+- **Bézier curves, and Casteljau algorithms**, are awesome because they are so simple yet so efficient and helpful in computer-assisted design, web design and CSS, and vector graphics in general. I studied this in 2011 and liked it very much!
+- Cook-Levin's theorem about the NP-completeness of 3-CNF-SAT has a very elegant yet natural proof, and I love it. It's my favorite proof to present on a black-board in 15 minutes (🇫🇷 "développement d'informatique") for the computer science minor in national competitive exam to become a teacher in mathematics (🇫🇷 "agrégation de mathématiques")
 - Last but not least, the **Binomial theorem**, and its application to limited series development and computation of :math:`\pi` by Newton (see `this video <https://www.youtube.com/watch?v=gMlf1ELvRzc>`_) ;
 
 .. youtube:: gMlf1ELvRzc
-
-.. todo:: Finish this top10 !
 
 My 10 favorite algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -91,6 +91,7 @@ Juillet 2021
 ------------
 - TODO
 - Vacances ?
+- Déménagement de Rennes à Strasbourg !
 
 Août 2021
 ---------
@@ -136,7 +137,7 @@ En 2021, j'ai joué à ces jeux vidéo…
 - De mi-décembre 2020 à début février 2021, j'ai rejoué à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC. Cette fois, j'y ai joué différemment : en mode « très difficile » (ou plus dur, et je baisse progressivement la difficulté si je meurs), mais sans faire l'histoire principale (que je connaissais encore bien, et qui est malheureusement linéaire), et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! Et les deux DLC Dragonborn et Dawnguard ! J'adore Skyrim ! **Fus, Ro, Dah !**
 - Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, `Yarntown <https://www.solarus-games.org/en/games/yarntown>`_).
 - Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment... si j'ai le temps !
-- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc.
+- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, durant l'hiver 2021 je pense... Puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc. ?
 - En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020.
 
 En 2021, j'ai vu ces séries…
@@ -156,13 +157,14 @@ En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: J'ai toujours adoré lire des livres de fiction pour le plaisir (voir `mon top10 <top10.fr.html#mes-10-ecrivains-preferes>`_), mais en ce moment, cela m'a passé, j'ai plutôt envie de lire des livres techniques. Mais si vous avez des bonnes suggestions, je suis preneur !
 
+- *Éléments de mathématiques discrètes : cours, exercices résolus, implémentations avec les langages Python et OCaml*, de Mathieu Jaume, lu et travaillé pendant deux semaines.
 - *Guide de Survie en Milieu Naturel*, de David Manise, lu en détail.
-- *Éléments de mathématiques discrètes : cours, exercices résolus, implémentations avec les langages Python et OCaml*, de Mathieu Jaume, lu et travaillé pendant des semaines.
 - *Ma cuisine végétarienne, pour tous les jours*, par Garance Leureux. Une excellente référence très complète pour la cuisine végétarienne (et végétalienne), dont je suis adepte depuis 2018 déjà ! (et `non il n'est pas indispensable de manger de la viande pour être en bonne santé ! <https://www.lemonde.fr/les-decodeurs/article/2021/02/27/non-il-n-est-pas-necessaire-de-manger-de-la-viande-pour-etre-en-bonne-sante_6071378_4355770.html>`_, et allez lire `ce site aussi (viande.info) <https://www.viande.info/>`_).
 - *Python au lycée* `tome 1 <https://github.com/exo7math/python1-exo7>`_ et `tome 2 <https://github.com/exo7math/python2-exo7>`_, par Arnaud Bodin. Lu et travaillé en profondeur (en deux soirées, ça reste très court et pas très compliqué).
 - *Calculateurs, calculs, calculabilité*, de Olivier Ridoux et Gilles Lesventes, lu et travaillé en profondeur.
-- *Parcours et méthodes (1ère)*, spécialité NSI (Numérique et sciences informatiques), par David Legrand, aux éditions Ellipses (2020). Lu en profondeur, et alimenté de très nombreux échanges sur `la liste des profs de NSI <https://groupes.renater.fr/sympa/subscribe/numerique-sciences-informatiques>`_.
-- *Spécialité NSI (terminale), Numérique et Sciences Informatiques*, par Tbhiaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen, même constat (2020).
+- *Parcours et méthodes (1ère)*, spécialité NSI (Numérique et sciences informatiques), par David Legrand, aux éditions Ellipses (2020). Vraiment trop rapidement rédigé, il est bourré de typos et n'est vraiment pas clair pour certains points. Je le déconseille fortement !
+- *Spécialité NSI (première), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen. Lu en profondeur, et je vois que le livre est LA MEILLEURE ressource pour l'enseignement de l'option NSI en première comme en terminale. Il est vraiment très détaillé, très bien rédigé, clair et propre. Certains l'ont qualifié de "miracle", je n'irai pas jusque là mais c'est un excellent livre. Je vois aussi qu'il est très souvent hors programme dans la fin de ses chapitres, mais le livre est destiné aux profs, pas aux élèves (malgré son prix très bas de 21€ par volume !). Il pourrait à lui seul alimenter de très nombreux échanges sur `la liste des profs de NSI <https://groupes.renater.fr/sympa/subscribe/numerique-sciences-informatiques>`_...
+- *Spécialité NSI (terminale), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen, même constat (2020). Vraiment un des meilleurs livres d'informatique que j'ai pu lire !
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

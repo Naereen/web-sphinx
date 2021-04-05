@@ -76,7 +76,7 @@ Musique
 Mes 10 **groupes**/**artistes** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_,
-- `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,
+- `Pomme <https://fr.wikipedia.org/wiki/Pomme_(chanteuse)>`_,
 - `Jim Croce <https://fr.wikipedia.org/wiki/Jim_Croce>`_,
 - `Koji Kondo  <https://fr.wikipedia.org/wiki/Koji_Kondo>`_,
 - `Joan Baez <https://fr.wikipedia.org/wiki/Joan_Baez>`_,
@@ -84,7 +84,8 @@ Mes 10 **groupes**/**artistes** préférés
 - `John Lang « Pen of Chaos » <https://fr.wikipedia.org/wiki/John_Lang>`_ / `Naheulband <https://fr.wikipedia.org/wiki/Naheulband>`_,
 - `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `John Williams <https://fr.wikipedia.org/wiki/John_Williams>`_,
-- `Dire Straits <https://fr.wikipedia.org/wiki/Dire_Straits>`_ / `Mark Knopfler <https://fr.wikipedia.org/wiki/Mark_Knopfler>`_.
+
+- Je ne peux pas décider du dernier : j'aime beaucoup de très nombreux et nombreuses d'artistes, y compris : Asaf Avidan, Eddie Vedder, Jacques Brel, the French singer Pomme, French singer Renaud, Airelle Besson, ACDC, Angèle, Antony and the Jonhsons, Apocalyptica, Birdy, Bob Dylan, Camille Laïly, Claude Nougaro, Damien Saez, Coeur de Pirate, Danheim, Djiboutep and Michel Tonnerre, Era, Estas Tonne, François Hardy, Freddie Mercury and Queen, Georges Brassens, Guillaume de Chassy, the Grissini Project, Hugh Laurie, Imany, Indochine, Karliene, Journey, French band LEJ, Led Zeppelin, Light in Babylon, Léo Ferré, Malukah, Mandy Lerouge, Mansfield TYA, Metallica, Neil Diamond, Neil Young, Nightwish, Noir Désir, Miossec, Paul Lay, Peter Hollens, Ray Charles, Rémi Panossian, Scorpions, Slow Jane, Sting, Stromae, Taylor Davis, The Beatles, The Consouls, The Police, French singer Thiéfaine, Wardruna, Yom, et tant d'autres...
 
 Mes 10 **chansons** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
