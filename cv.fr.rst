@@ -11,6 +11,9 @@
     Je suis *Lilian Besson*, professeur d'informatique à `l'ENS Rennes <http://www.ens-rennes.fr/>`_, ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée, et je suis `chaotique-bon <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_ (même IRL).
     Bienvenue sur mon site web.
 
+.. warning:: Ce CV en format HTML n'est pas maintenu à jour, je vous incite à aller lire mon CV au format PDF ici : `<cv.fr.pdf>`_ (ou `<http://cv.besson.link/>`_), ou `ce CV de recherche <https://cv.archives-ouvertes.fr/lilian-besson>`_, ou `ma page d'accueil pro <me/index.fr.html>`_).
+
+.. todo:: Mettre à jour en 2021 ?
 
 
 Cette année (*2018-19*)

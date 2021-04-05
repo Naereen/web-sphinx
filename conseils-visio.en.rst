@@ -45,11 +45,12 @@ Here are some tips, from my perspective, to improve your input and exit equipmen
 **Personally, I use since August 2020 a system that I like:**
 
 1. When needed, I use a pair of small headphones, *NOT WIRELESS*, with a microphone designed for a phone ("free hand kit") ;
-2. But almost always, I make my visios on one of my computers, using :
-   - **The internal webcam of my computer**, that I keep protected from a post-it or a cache except when I want to use it, to avoid hacking :gray:`(classic)` ;
-   - **the internal microphone of my computer**, Except when I know I'm going to tap a lot on the keyboard during a Visio (if I take the meeting notes or if I live on Twitch, for example, cf. `<twitch.en.html>`_) :gray:`(classic)` ;
-   - not the internal sound but **an external JBL not-wireless speaker** :gray:`(original !)`, fed in 5V wall and connected to the jack jack of my computer (and *not in bluetooth, I am against its growing usage*!), which diffuses a deep and pleasant sound (despite its limited price - bought on LeBonCoin, French website for ads of people selling second hand products), and it allows you to have no echo because it is placed at 1m of my (internal) microphone. It also allows me to have a better sound in all my workpiece, very appreciable because I live with music almost all the time at home!
-   - Finally, I have two lamps on my desk: a classic white light lamp that illuminates the wall just above my face (and so, by reflection, illuminate my face well), and a natural white light lamp that illuminates directly my face. With a good brightness helps to see your face, it's essential! (and natural light is good for health and to regularly the circadian rhythm)
+2. But almost always, I make my visios on one of my computers, using:
+
+     - **The internal webcam of my computer**, that I keep protected from a post-it or a cache except when I want to use it, to avoid hacking :gray:`(classic)` ;
+     - **the internal microphone of my computer**, Except when I know I'm going to tap a lot on the keyboard during a Visio (if I take the meeting notes or if I live on Twitch, for example, cf. `<twitch.en.html>`_) :gray:`(classic)` ;
+     - not the internal sound but **an external JBL not-wireless speaker** :gray:`(original !)`, fed in 5V wall and connected to the jack jack of my computer (and *not in bluetooth, I am against its growing usage*!), which diffuses a deep and pleasant sound (despite its limited price - bought on LeBonCoin, French website for ads of people selling second hand products), and it allows you to have no echo because it is placed at 1m of my (internal) microphone. It also allows me to have a better sound in all my workpiece, very appreciable because I live with music almost all the time at home!
+     - Finally, I have two lamps on my desk: a classic white light lamp that illuminates the wall just above my face (and so, by reflection, illuminate my face well), and a natural white light lamp that illuminates directly my face. With a good brightness helps to see your face, it's essential! (and natural light is good for health and to regularly the circadian rhythm)
 
 You probably do not have the same architecture (even if it's simple to set up, it had cost me 20€ and 1H via LeBonCoin!), so here are other tips for improving your own sound and video architecture:
 
@@ -98,13 +99,15 @@ To attend online classes
 1. Obviously, **it is necessary (as much as possible) to use a good internet connection, so in wired and a fortiori with the fiber** (and not in wifi and even less in 4G/ G), when one must attend online courses!
 
 2. **If the teacher asks you to see you, activate your camera**. The only valid excuses are:
-   - If your camera is broken *and you have already ordered a spare webcam*!
-   - Or if unfortunately you work in a non-optimal location and activating the camera could disturb your comrades, or teacher, or compromise the privacy of people close to you (e.g., taking courses in a common room with roommates, or at your family's).
+
+     - If your camera is broken *and you have already ordered a spare webcam*!
+     - Or if unfortunately you work in a non-optimal location and activating the camera could disturb your comrades, or teacher, or compromise the privacy of people close to you (e.g., taking courses in a common room with roommates, or at your family's).
 
 3. **Force yourself to be more responsive and responsive than in a real course**: The teacher can not read reactions on your faces (or less easily, if you observe the previous advice), and it's very difficult to quickly grab if the class has understood something without (good) see the faces of his students.
-   - Many teachers very often ask during online classes "is it okay?", or "well understood?", which are very legitimate questions ;
-   - But, it is abnormal to hear one or two answers, on 20 or more students!
-   - And it's even worse to hear a teacher asking "you are still with me?", "Are you there?": It's alarming because it shows the complete absence of visual and auditory feedback (and therefore, cognitive feedback) of the class to the teacher. It's like doing alone in a room, the teacher will have no idea whether everyone understands!
+
+     - Many teachers very often ask during online classes "is it okay?", or "well understood?", which are very legitimate questions ;
+     - But, it is abnormal to hear one or two answers, on 20 or more students!
+     - And it's even worse to hear a teacher asking "you are still with me?", "Are you there?": It's alarming because it shows the complete absence of visual and auditory feedback (and therefore, cognitive feedback) of the class to the teacher. It's like doing alone in a room, the teacher will have no idea whether everyone understands!
 
 4. **Ask questions (all your questions !!), synchronously** (As soon as they come to you), in writing in the cat (for BigBlueButton, in the app it is on the left; for Discord, in the chat of the course or activity concerned) ;
 

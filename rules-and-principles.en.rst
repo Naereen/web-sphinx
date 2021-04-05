@@ -6,9 +6,10 @@
  Rules and principles - a long list of ideas that I like and try to apply in my life
 #####################################################################################
 
-.. todo:: Finish this page, first written on Wednesday 17th of March 2021!
+.. todo:: Finish this page, written in a few nights in March 2021!
 
-This page is inspired by the work of `Bret Victor <http://worrydream.com/>`_, mainly this inspirational video `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_. I loved his vision of **living your life driven by principles**, and fighting and standing for them.
+This page is inspired by the work of `Bret Victor <http://worrydream.com/>`_, mainly this inspirational video `« Inventing on Principles » <https://www.youtube.com/watch?v=PUv66718DII>`_ (`see on YouTube: PUv66718DII <https://www.youtube.com/watch?v=PUv66718DII>`_). I loved his vision of **living your life driven by principles, and fighting and standing for them**.
+Of course, this idea is not his own innovation, and it has been the life principles of many of the most inspirational people (see `my top 10 <top10.en.html#inspirational-people>`_).
 
 .. note::
 
@@ -25,11 +26,11 @@ I will also try to give links to personal websites of inspirational people or au
 
 .. warning:: Also, please keep in mind that ALL the content of this page should be read like every sentence started with *« In my opinion, ... »* and finished by *« ... but of course I'm probably wrong, please do help me to change my mind and improve my ideas ! »*.
 
-This page is already quite long, and I don't intend on trying to keep it short, but rather as complete and detailed as I it can be.
+This page is already quite long, and I do not intend on trying to keep it short, but rather as complete and detailed as I it can be.
 
-Thougts that I liked and want to discuss or include here
---------------------------------------------------------
-.. todo:: Reularly include some links to great articles here, and then remove the links from this list, to include them in the proper section in my article(s).
+Thoughts that I liked and want to discuss or include here
+---------------------------------------------------------
+.. todo:: Regularly include some links to great articles here, and then remove the links from this list, to include them in the proper section in my article(s).
 
 About limiting usage of social media, apps, online activity and smartphones (2021-03-29):
 
@@ -67,14 +68,26 @@ They will probably evolve, if I find a better way to write my ideas in a short s
 
 .. todo:: Try to summarize my life philosophy?
 
+A visual summary of my life philosophy, and how I would like to be able to define myself, can be found in the details of this fun experimental business card I wrote as a Magic the Gathering© card:
+
+.. image:: publis/Business-Card/card-2021-english.png
+   :scale: 25%
+   :align: center
+   :alt: Link to https://perso.crans.org/besson/publis/Business-Card/card-2021-english.png or https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
+   :target: https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
+
 
 Inspirations for my life philosophy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO: detail more
+Here I try to list some inspirations for my life philosophy:
+
+- **My brothers and parents, uncle J. and grand-parents**, who always have been concerned about respecting and living in respect of nature, reducing our carbon and ecological footprint, and who always encouraged me to pursue science and aim at culture and enlightment through discussions, philosophy, rational science, human connexion, and not obscurantism, conspiracy theory, extremist religious ideas, and selfishness ;
+- **My closest friends**, and more generally all the amazing people I met thanks to ecologist associations, board game clubs or bars, CouchSurfing and other (meeting people / dating) apps, and a lot of my comrades from my years studying in France, and colleagues from my years of research and teaching activities, in France, the UK, Switzerland and India. For a more precise list, see `the acknowledgements in my PhD thesis <https://tel.archives-ouvertes.fr/tel-02491380>`_!
 
 - **Jedi philosophy**, mainly Yoda and Obi-Wan Kenobi teachings. I am a strong believer of the value of Pacifism, and I refuse to admire military figures or "great warriors", because as Yoda says in Star Wars, « Wars not make one great » (in *The Empire Strikes Back*) ;
 - **Open-source and free software philosophy** ;
+- Civil rights and especially the 1789 declaration of civil rights in France, which despite being more than 230-year-old is still not applied correctly, in almost every country around the world ;
 - Jainism philosophy (in India) for their love and respect of all life forms ;
 - (Original) Hinduism, Bouddhism, and Christian philosophy of non violence, of respect, of tolerance, of universal friendship between all brother and sister humans ;
 
@@ -86,6 +99,9 @@ TODO: detail more
 .. youtube:: OzIduxEP6VM
 
 .. seealso:: This other page lists some quotes that I like, see `<quotes.en.html>`_. TODO: start this other page!
+
+
+TODO: detail more
 
 
 ------------------------------------------------------------------------------

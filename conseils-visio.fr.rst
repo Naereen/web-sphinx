@@ -44,10 +44,11 @@ Voici quelques conseils, personnels évidemment, pour améliorer votre matériel
 
 1. quand nécessaire, j'utilise une paire de petits écouteurs, *avec fils*, et micro intégré, conçue pour téléphone ("kit main libre") ;
 2. mais quasiment toujours, je fais mes visios sur un de mes ordinateurs, en utilisant :
-   - **la webcam interne de mon ordinateur**, que je garde protégée d'un post-it ou d'un cache sauf quand je veux m'en servir, pour éviter le piratage :gray:`(classique)` ;
-   - **le micro interne de mon ordinateur**, sauf quand je sais que je vais taper beaucoup au clavier durant une visio (si je prends les notes de la réunion ou si je code en live sur Twitch, par exemple, cf. `<twitch.fr.html>`_) :gray:`(classique)` ;
-   - non pas le son interne mais **une enceinte externe filaire JBL** :gray:`(original !)`, alimentée en 5V mural et branchée à la prise Jack de mon ordinateur (et *pas en Bluetooth, je suis contre* !), qui diffuse un son profond et agréable (malgré son prix limité - acheté sur Le Bon Coin), et elle permet de n'avoir aucun écho car elle est placée à 1m de mon micro (interne). Elle me permet aussi d'avoir un meilleur son dans toute ma pièce de travail, très appréciable parce que je vis avec de la musique presque tout le temps chez moi !
-   - enfin, j'ai deux lampes sur mon bureau : une lampe classique à lumière blanche qui éclaire le mur juste au dessus de mon visage (et donc, par réflexion, éclaire bien mon visage), et une lampe à lumière blanche naturelle qui éclaire directement mon visage. Avec une bonne luminosité aide à bien voir votre visage, c'est essentiel ! (et la lumière naturelle est bonne pour la santé et pour régulier le rythme circadien)
+
+     - **la webcam interne de mon ordinateur**, que je garde protégée d'un post-it ou d'un cache sauf quand je veux m'en servir, pour éviter le piratage :gray:`(classique)` ;
+     - **le micro interne de mon ordinateur**, sauf quand je sais que je vais taper beaucoup au clavier durant une visio (si je prends les notes de la réunion ou si je code en live sur Twitch, par exemple, cf. `<twitch.fr.html>`_) :gray:`(classique)` ;
+     - non pas le son interne mais **une enceinte externe filaire JBL** :gray:`(original !)`, alimentée en 5V mural et branchée à la prise Jack de mon ordinateur (et *pas en Bluetooth, je suis contre* !), qui diffuse un son profond et agréable (malgré son prix limité - acheté sur Le Bon Coin), et elle permet de n'avoir aucun écho car elle est placée à 1m de mon micro (interne). Elle me permet aussi d'avoir un meilleur son dans toute ma pièce de travail, très appréciable parce que je vis avec de la musique presque tout le temps chez moi !
+     - enfin, j'ai deux lampes sur mon bureau : une lampe classique à lumière blanche qui éclaire le mur juste au dessus de mon visage (et donc, par réflexion, éclaire bien mon visage), et une lampe à lumière blanche naturelle qui éclaire directement mon visage. Avec une bonne luminosité aide à bien voir votre visage, c'est essentiel ! (et la lumière naturelle est bonne pour la santé et pour régulier le rythme circadien)
 
 Vous n'avez probablement pas la même architecture (même si elle est simple à mettre en place, ça m'avait juste coûté 20€ et 1h via LeBonCoin !), aussi voici d'autres conseils pour améliorer votre propre architecture de son et vidéo :
 
@@ -96,13 +97,15 @@ Pour assister à des cours
 1. Évidemment, **il faut autant que possible utiliser une bonne connexion Internet, donc en filaire et a fortiori avec la fibre** (et pas en WiFi et encore moins en 4G/3G), lorsque l'on doit assister à des cours à distance !
 
 2. **Si le ou la prof demande à vous voir, activez votre caméra**. Les seules excuses valables sont :
-   - si votre caméra est cassée *et que vous avez déjà commandé une caméra ou webcam de rechange* !
-   - ou si malheureusement vous travaillez dans un endroit non optimal et qu'activer la caméra pourrait déranger vos camarades, la ou le prof, ou compromettre la vie privée des personnes proches de vous (ex. suivre des cours dans une pièce commune en coloc ou dans sa famille).
+
+     - si votre caméra est cassée *et que vous avez déjà commandé une caméra ou webcam de rechange* !
+     - ou si malheureusement vous travaillez dans un endroit non optimal et qu'activer la caméra pourrait déranger vos camarades, la ou le prof, ou compromettre la vie privée des personnes proches de vous (ex. suivre des cours dans une pièce commune en coloc ou dans sa famille).
 
 3. **Forcez vous à être plus réactif et réactive que dans un vrai cours** : la prof ne peut pas lire les réactions sur vos visages (ou moins bien, si vous respectez le conseil précédent), et c'est très difficile de saisir rapidement si la classe a compris quelque chose sans (bien) voir les visages de ses élèves.
-   - Beaucoup de profs demandent très souvent durant des cours en visio "ça va ?", ou "bien compris ?", qui sont des questions très légitimes ;
-   - Mais il est anormal de n'entendre qu'une ou deux réponses, sur 20 ou plus élèves !
-   - Et c'est encore pire d'entendre un prof demander "vous êtes encore avec moi ?", "vous êtes là ?" : c'est alarmant parce que ça montre l'absence complète de retour visuel et auditif (et donc, cognitif) de la classe vers le prof. C'est comme faire cour seul dans une salle, la prof aura aucune idée de savoir si tout le monde a bien compris !
+
+     - Beaucoup de profs demandent très souvent durant des cours en visio "ça va ?", ou "bien compris ?", qui sont des questions très légitimes ;
+     - Mais il est anormal de n'entendre qu'une ou deux réponses, sur 20 ou plus élèves !
+     - Et c'est encore pire d'entendre un prof demander "vous êtes encore avec moi ?", "vous êtes là ?" : c'est alarmant parce que ça montre l'absence complète de retour visuel et auditif (et donc, cognitif) de la classe vers le prof. C'est comme faire cour seul dans une salle, la prof aura aucune idée de savoir si tout le monde a bien compris !
 
 4. **Posez des questions (toutes vos questions !!), de façon synchrone** (dès qu'elles vous viennent), à l'écrit dans le chat (pour BigBlueButton, dans l'appli c'est à gauche ; pour Discord, dans le chat du cours ou activité concernée) ;
 

@@ -1,27 +1,34 @@
 .. meta::
     :description lang=fr: À faire : avant mes 30 ans (Lilian Besson)
-    :description lang=en: Sum-up of my year 2017 (Lilian Besson)
+    :description lang=en: TODO before I turn 30 in 2023 (Lilian Besson)
 
 ###########################################
 À faire : avant mes 30 ans (Lilian Besson)
 ###########################################
 
-Cette page contient quelques idées de choses que je veux faire avant mes 30 ans.
+Cette page contient quelques idées de choses que je veux faire avant mes 30 ans. J'en ai actuellement 28 (en 201), et beaucoup d'objectifs sont déjà atteints. Je vais continuer à rajouter des objectifs, et faire des efforts quotidiens pour m'améliorer et atteindre ces objectifs !
 
-**Première rédaction** : J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25).
+**Première rédaction** : J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25). Cette liste *n'est pas* ordonnée.
+Cette page est très personnelle, et si vous souhaitez en apprendre plus sur mes idéaux, mes pensées et ma philosophie de vie, je vous invite à aller lire `<rules-and-principles.en.html>`_ (en anglais, pas encore traduit en français, TODO:).
 
 **Mises à jour** : au fur et à mesure que j'ai des idées supplémentaires, ou que je réussis certains objectifs !
-Encore un peu moins de **deux ans** pour faire tout ça !
-
-.. note:: Cette liste *n'est pas* ordonnée.
-
-.. warning:: Cette page est inutile, allez plutôt lire `ceci <https://goo.gl/xPzw4A>`_ ou `cela <https://hal.inria.fr/hal-01629733>`_.
+Dernière mise à jour en avril 2021, il me reste encore un peu moins de **deux ans** pour faire tout ça !
 
 .. warning:: Cette page est privée, normalement. Mais bon elle ne contient rien de très privé non plus.
 
 .. sidebar:: Des suggestions ?
 
     `Dites-moi <callme.html>`_.
+
+.. todo:: Essayez de résumer ma philosophie de vie ? Et finir de traduire `<rules-and-principles.en.html>`_ en français ?
+
+Un résumé visuel de ma philosophie de vie, et comment je voudrais pouvoir me définir, peut être trouvé dans les détails de cette carte de visite expérimentale et amusante que j'ai écrite comme une Carte Magic© en avril 2021 :
+
+.. image:: publis/Business-Card/card-2021.png
+   :scale: 25%
+   :align: center
+   :alt: Link to https://perso.crans.org/besson/publis/Business-Card/card-2021.png or https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
+   :target: https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
 
 -----------------------------------
 
@@ -31,19 +38,12 @@ Professionnellement
 - 👌 OK - Évidemment, *finir* `ma thèse de doctorat <https://perso.crans.org/besson/phd/>`_, commencée en septembre 2016… Et en être content ! C'est fait depuis le 20 novembre 2019. Je suis désormais **docteur en informatique** (et en télécommunications). Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 - 👌 OK - Devenir **professeur agrégé titulaire** ? C'est fait depuis le 1er septembre 2019, je suis actuellement rattaché à l'`Académie de Rennes <https://fr.wikipedia.org/wiki/Acad%C3%A9mie_de_Rennes>`_ (donc je dépends de `ce rectorat <http://www.ac-rennes.fr/>`_ et de `ces IGEN <https://www.education.gouv.fr/inspecteurs-generaux-exercant-dans-l-academie-de-rennes-4376>`_).
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE) ou dans une École Normale Supérieure, pour après ma thèse. J'ai `postulé en novembre 2018 pour la première fois à un poste en CPGE <http://igmaths.org/spip/spip.php?article8>`_, et `en avril 2019 à un poste dans une ENS <http://www.ens-rennes.fr/recrutements/recrutement-agpr-au-departement-informatique-291278.kjsp>`_.
-- Obtenir un *poste de professeur* en *classe préparatoire* (CPGE).
+- 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE). J'ai ensuite été recruté en 2021 (à 28 ans, 10 après la fin de ma prépa), pour devenir professeur d'informatique en CPGE scientifique, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg !
 
-Voyages
-^^^^^^^
-- Aller une fois dans *tous les continents* (Amérique, Afrique - OK, Océanie et Asie) *grâce au boulot* ?!
-- 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
-- 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème !
+- Devenir jury de concours pour des concours de recrutements d'écoles d'ingénierie ou de "Grandes Écoles", pour les écrits (concepteur et/ou correcteur de sujets) et les oraux (membre de jury).
+- Devenir jury du concours national de l'agrégation d'informatique, annoncée en mars 2021 ! C'est un de mes grands rêves pour 2022 ou 2023.
 
-Articles et publications
-^^^^^^^^^^^^^^^^^^^^^^^^
-- 👌 OK - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Depuis janvier 2021, :math:`h = 6` !
-- 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
-- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine...
+- Être heureux et épanoui, apprécié et efficace, dans mon futur poste en prépas et dans les éventuels postes suivants. Je ne m'inquiète pas trop, ça va être trop bien !
 
 Code et programmation
 ^^^^^^^^^^^^^^^^^^^^^
@@ -63,15 +63,31 @@ Enseignement
 ^^^^^^^^^^^^
 - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST ! Je n'ai pas le droit tant que je serai AGPR à l'`ENS Rennes <http://www.ens-rennes.fr/lilian-besson--292020.kjsp>`_, mais dès que je ferai autre chose, je souhaite refaire des colles de maths et/ou d'informatique !
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
-- *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose !
-- 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci `Pierre <http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon/agreg.html>`_ ;-) !
+- 👌 OK - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose ! Bon techniquement, je suis remercié et cité comme un des auteurs du Frido depuis 2016, et j'ai bien collaboré à `cet autre livre <https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique>`_ publié en août 2020 chez Dunod.
+- 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci `Pierre <http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon/agreg.html>`_ ;-), et d'autres (Louis en 2020, Clément et d'autres en 2019/20, Nicolas B et Élise en 2016, Niraj and so many others in India in 2015, etc) !
 - 👌 OK - Recevoir un *remerciement sincère* d'un-e collègue pour des ressources pédagogiques mises en ligne. Ça arrive de temps en temps !
 
 .. sidebar:: **"Le Frido"**
 
-    Depuis 2014, je participe activement et régulièrement à la rédaction `d'un cours de mathématiques <https://laurent.claessens-donadello.eu/frido.html>`_ assez complet pour l'agrégation de mathématiques ("Le Frido"), avec `Laurent Claessens <https://laurent.claessens-donadello.eu/>`_.
+    Depuis 2014, je participe occasionnellement à la rédaction `d'un cours de mathématiques <https://laurent.claessens-donadello.eu/frido.html>`_ assez complet pour l'agrégation de mathématiques ("Le Frido"), avec `Laurent Claessens <https://laurent.claessens-donadello.eu/>`_.
+    Le Frido est un (énorme) livre de mathématiques (~2400 pages en 2021), qui couvre tout le programme des mathématiques enseignées en France de la L1 (bac+1) à la L3, et à l'agrégation de mathématiques (bac+5), donc ça compte... Cf. `cette page sur LeFrido <https://laurent.claessens-donadello.eu/frido.html>`_. 🎉 Le Frido est désormais présent à la bibliothèque de l'agrégation interne de mathématiques (depuis 2021) !
     Les documents sources du livre sont `sous licence libre GPL sur GitHub <https://github.com/LaurentClaessens/mazhe/>`_ (`github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe <https://github.com/LaurentClaessens/mazhe/ @LaurentClaessens/mazhe>`_), et le `livre est distribué gratuitement en version PDF <https://laurent.claessens-donadello.eu/pdf/lefrido.pdf>`_.
     On peut le commander depuis `TheBookEdition.com <https://www.thebookedition.com/fr/>`_ : `volume 1 <https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html>`_, `volume 2 <https://www.thebookedition.com/fr/le-frido-2020-volume-2-p-377488.html>`_, `volume 3 <https://www.thebookedition.com/fr/le-frido-2020-volume-3-p-377486.html>`_, `volume 4 <https://www.thebookedition.com/fr/le-frido-2020-volume-4-p-377487.html>`_.
+
+
+Voyages
+^^^^^^^
+- Aller une fois dans *tous les continents* (Amérique, Afrique - OK, Océanie et Asie) *grâce au boulot* ?!
+- 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
+- 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème !
+
+.. warning:: Vue mes convictions écologistes, ces envies de voyages sont devenues inutiles. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
+
+Articles et publications
+^^^^^^^^^^^^^^^^^^^^^^^^
+- 👌 OK - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Depuis janvier 2021, :math:`h = 6` !
+- 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
+- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine...
 
 
 Collaborations
@@ -86,6 +102,9 @@ Présentations ou exposés
 - Être invité "personnellement" à parler dans un séminaire ou un atelier national (OK, `au CMAP <https://perso.crans.org/besson/publis/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_), européen (TODO) ou international (TODO).
 - Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante (OK), en discuter après l'exposé avec la personne (OK)… et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
 
+.. note:: Je pense que ces objectifs sont désormais à retirer de ma liste, comme j'ai choisi de ne plus faire que de l'enseignement et du développement logiciel, et pas de recherche académique au sens classique (depuis 2019).
+
+
 -----------------------------------
 
 Personnellement
@@ -95,9 +114,34 @@ Personnellement
 - 👌 OK - Continuer d'être toujours aussi *gentil* que possible.
 - 👌 OK - Me prendre moins la tête !
 - 👌 OK - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
-- Perdre un peu de poids ! TODO ne pas le re prendre !
+
+Santé
+^^^^^
+- Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
+- 👌 OK - En attendant, essayer des lentilles ! **Résultat** : je déteste ça !
+- *Devenir un cyborg*. La singularité est proche ! (blague)
+- 👌 OK -  Faire un peu de vélo tous les jours, ou très régulièrement au moins ! C'était moins le cas en 2020, mais je m'y suis bien remis, et je vais garder ces bonnes habitudes !
+- Perdre un peu de poids ! TODO: ne pas le re prendre !
+- Courir régulièrement, et redevenir capable de courir une heure, ou 10 kms, et rester toute ma vie capable de ça !
 - Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
+
+Écologie
+^^^^^^^^
 - M'investir dans des associations écologistes à Rennes ! J'ai essayé en 2019 et j'ai fait plein de choses avec `ANV COP21 <https://anv-cop21.org/le-defi-climatique/>`_ mais pas pu reprendre après les confinements de `la crise sanitaire du COVID 19 <coronavirus.fr.html>`_.
+- 👌 OK - Passer à un fournisseur d'éléctricité verte. Je suis chez EnerCoop depuis 2020 !
+- 👌 OK - Être entièrement végétarien ! Depuis 2018 c'est bon ! Merci Lola.
+- Passer à un fournisseur d'Internet et de téléphone le plus écologique possible ? Free n'est le meilleur, mais j'aime trop leur `API de SMS <https://github.com/Naereen/FreeSMS.py/>`_... dur de changer !
+- Passer tous mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021 ;
+- Ne plus utiliser ma carte bleue, ou le moins possible, et utiliser si possible des monnaies locales, comme `le Galléco <https://galleco.fr/cest-quoi-le-galleco/>`_ à Rennes ;
+- Ne jamais rien commander en ligne, ne rien se faire livrer ;
+- Ne plus acheter de produits neufs. Je suis très très économe depuis très longtemps, mais même encore en 2021 je peux m'améliorer.
+- 👌 OK - Notamment, ne plus acheter de vêtements neufs (ça c'est bon depuis 2016), de livres neufs (pareil sauf pour les livres universitaires, impossibles à supprimer si je veux aussi soutenir leurs auteurs et réduire mon temps sur des écran), et de jeux-vidéo ou autre produit culturel et de loisir numériques neufs (quasiment irréprochable, sauf l'achat de mes consoles de jeux).
+- Continuer à faire le tour de mon quartier une fois par mois, pour ramasser les mégots et autres déchets, et essayer d'aller de plus en plus loin autour de chez moi à chaque fois... C'est long et il faut un peu d'énergie sociale avant d'oser le faire !
+
+Bienveillance
+^^^^^^^^^^^^^
+- Sourire !
+- Ne plus jamais utiliser d'insultes, même sous un instant de colère (même envers les mauvais conducteurs, les fumeurs qui jettent leurs saloperies de mégots, etc).
 
 Voyages
 ^^^^^^^
@@ -106,31 +150,32 @@ Voyages
 - Aller sur la Lune. Naaan je déconne. Sur Mars, ce serait chouette.
 - Moins ambitieux, mais *faire un sommet à plus de 4000m dans les Alpes* serait super. Comme le Mont Pelvoux par exemple, ou le Mont Rose ou le Mont Blanc.
 
+.. warning:: Vue mes convictions écologistes, ces envies de voyages sont devenues inutiles. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
+
 Rencontres
 ^^^^^^^^^^
 .. sidebar:: Des suggestions ?
 
     `Dites-moi <callme.html>`_.
 
-- Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon).
+- Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon), ni via une relation commune qui nous aurait déjà mis en contact, je veux une rencontre **par hasard**.
 - Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !).
+- Pareil avec la Reine d'Angleterre ou son ou sa successeur, et des chefs ou cheffes d'État ailleurs ? Ce serait amusant !
+- Continuer à rencontrer souvent de nouvelles personnes, avec différentes applis ou sites web conçus pour !
 
 Activités
 ^^^^^^^^^
 - 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette !
 - 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
-- Jouer souvent à des jeux de société !
+- Jouer souvent à des jeux de société ! Difficile vu la crise sanitaire depuis 2020, et malgré `mon compte sur BoardGameArena <https://boardgamearena.com/player?id=88972705>`_, ou `mon appli web pour jouer au Pictionary <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ sur `tableaunoir <https://tableaunoir.github.io/>`_, je joue très rarement... Trop de boulot, et trop difficile de se coordonner avec des ami-e-s.
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
 - Apprendre à jouer d'un instrument de musique, et lire des partitions. J'ai essayé un peu d'apprendre le piano entre janvier et mars 2020, mais je n'ai pas continué très longtemps.
 - Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais je n'en ai plus fait depuis des années !)
-- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"…
+- Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"… Oh, on peut dire que j'ai réussi, je me suis construit ce site web et cette présence sur le web, depuis 2012 ? Mais quelque chose de plus matériel, tangible et concret ?
 - 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
-- Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
-- 👌 OK -  En attendant, essayer des lentilles ! **Résultat** : je déteste ça !
-- *Devenir un cyborg*. La singularité est proche ! (blague)
 - 👌 OK - Continuer à être curieux de technologie et des ordinateurs en particulier. Comprendre du mieux que je peux chaque morceau d'un ordinateur, d'un téléphone classique ou intelligent, et des prototypes d'ordinateurs quantiques.
 
 .. sidebar:: Des suggestions ?
@@ -164,12 +209,15 @@ Famille
 
 Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-- *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
-- *Ne pas acheter de voiture*. Mais vraiment pas quoi !
+- ⛔️ NO WAY - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
+- ⛔️ NO WAY - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <http://www.penofchaos.com/warham/bd/index.htm>`_. Et à être un grand fan de la franchise `Naheulbeuk <http://www.penofchaos.com/warham/donjon.htm>`_ en entier.
-- Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
-- Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
+- ⛔️ NO WAY - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
+- ⛔️ NO WAY - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
 - 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et plein autres).
+- Donner à des projets moins courants, par exemple `je possède une petite parcelle de terrain protégé en Écosse <https://www.highlandtitles.fr/acheter-une-parcelle/>`_, `une plus grande parcelle de forêts protégée en France avec ASPAS <https://aspas-reserves-vie-sauvage.org/>`_ depuis 2021 ;
+
+.. warning:: Je ne souhaite plus posséder quoi que ce soit de nouveau. « Moins de biens, plus de liens ! », voilà un crédo qui me plaît depuis plusieurs années. Je m'engage à ne jamais acheter de voiture, ni autre véhicule (qu'il soit électrique ou non, tous polluent !), ni d'appartement ou de maison.
 
 Listes amusantes
 ^^^^^^^^^^^^^^^^
