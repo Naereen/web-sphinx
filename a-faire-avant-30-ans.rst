@@ -30,6 +30,8 @@ Un résumé visuel de ma philosophie de vie, et comment je voudrais pouvoir me d
    :alt: Link to https://perso.crans.org/besson/publis/Business-Card/card-2021.png or https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
    :target: https://github.com/Naereen/Business-Card/#business-card---as-a-magic-card-fun-experiment
 
+Dans un jeu de rôle comme Donjon & Dragons, je choisirai d'être « loyal-bon », mais dans la vraie vie, je suis « chaotique-bon », et j'en suis fier 👏 ! Allez lire `ce paragraphe sur Wikipédia qui explique le concept <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_.
+
 -----------------------------------
 
 Professionnellement
@@ -114,10 +116,16 @@ Personnellement
 - 👌 OK - Continuer d'être toujours aussi *gentil* que possible.
 - 👌 OK - Me prendre moins la tête !
 - 👌 OK - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
+- 👌 OK - Continuer de boycotter le plastique, et notamment celui pour les emballages (y compris les bouteilles) et qui se recyclent mal ;
+- 👌 OK - Boycotter toutes les "grandes" entreprises internationales, et même françaises, comme McDonalds, Starbucks, Amazon, etc.
+
+    - En France, je continue des fois à utiliser la Fnac (même si je préfère une libraire locale comme Le Failher à Rennes), et occasionnellement CDiscount ou Décathlon pour des ou livraisons en temps de pandémie. Je ne me ferai plus jamais livrer (avril 2021).
 
 Santé
 ^^^^^
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
+- 👌 OK - Continuer à donner mon sang, entre quatre et six fois par ans ! Et essayer de donner des plaquettes et du plasma, plus souvent et autant que possible !
+- M'inscrire au registre de donateur de moëlle osseuse !
 - 👌 OK - En attendant, essayer des lentilles ! **Résultat** : je déteste ça !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - 👌 OK -  Faire un peu de vélo tous les jours, ou très régulièrement au moins ! C'était moins le cas en 2020, mais je m'y suis bien remis, et je vais garder ces bonnes habitudes !
@@ -142,9 +150,15 @@ Santé
 - **Continuer à faire le tour de mon quartier une fois par mois, pour ramasser les mégots et autres déchets**, et essayer d'aller de plus en plus loin autour de chez moi à chaque fois... C'est long et il faut un peu d'énergie sociale avant d'oser le faire !
 - **Essayer de ne plus jamais monter dans une voiture ?** Je suis déjà convaincu, depuis très longtemps, de mon souhait de ne jamais acheté de voiture. Mais utiliser les voitures d'ami-e-s, de mes parents, ou monter dans celle d'une personne inconnue en faisant du stop, continue à montrer que j'apprécie et que je cautionne les voitures et autres véhicules polluants. Ce n'est pas le cas. Je pense m'interdire de reconnaître l'utilité et l'existence de voitures, je suis déjà très strictement contre depuis 2019, et je pense qu'à partir de 2021, je ne montrerai plus jamais dans une voiture, sauf exception d'urgence (e.g., ambulance, ou urgence familiale).
 
+- Bannir tout produit qui vient de loin, et même qui ne vient pas de France. C'est facile pour les fruits exotiques, mais plus difficile pour le thé, le café, le chocolat (le trio qui tue), et d'autres. Depuis 2017, je fais très attention. J'achetais quelques fois dans l'année une mangue (d'Espagne) ou un ananas, mais depuis 2021 j'arrive à ne plus rien acheter, même dans le trio qui tue. J'estime avoir au moins deux années de réserve de thé, infusions exotiques et café, et chocolat, et une fois terminées, je n'en achèterai plus jamais.
+- Bannir tout achat de nouvelles batteries, et n'acheter que des objects reconditionnés ou d'occasions !
+
 Bienveillance
 ^^^^^^^^^^^^^
 - Sourire !
+- Faire des compliments !
+- Être gentil !
+- Être d'alignement » chaotique-bon », cf. `ce paragraphe sur Wikipédia qui explique le concept <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_.
 - Ne plus jamais utiliser d'insultes, même sous un instant de colère (même envers les mauvais conducteurs, les fumeurs qui jettent leurs saloperies de mégots, etc).
 
 Voyages
@@ -176,7 +190,7 @@ Activités
 
 Expériences diverses
 ^^^^^^^^^^^^^^^^^^^^
-- Apprendre à jouer d'un instrument de musique, et lire des partitions. J'ai essayé un peu d'apprendre le piano entre janvier et mars 2020, mais je n'ai pas continué très longtemps.
+- Apprendre à jouer d'un instrument de musique, et lire des partitions. J'ai essayé un peu d'apprendre le piano entre janvier et mars 2020, mais je n'ai pas continué très longtemps. Par contre, j'adore chantonner, meumonner (comme dit l'Âne dans Shrek), et siffler, et ce depuis toujours, et j'y arrive bien !
 - Faire plus de 10 000 kms en autostop. J'y suis… hum… bientôt (plus que `4000 et des poussières, et j'ai commencé à compter ça <autostop.html>`_ à 19 ans… mais je n'en ai plus fait depuis des années !)
 - Construire *quelque chose de génial moi-même*. Une maison ou un camion aménagé ce serait top ! Idéalement, construire moi-même quelque chose que je pourrai transmettre à "ma famille"… Oh, on peut dire que j'ai réussi, je me suis construit ce site web et cette présence sur le web, depuis 2012 ? Mais quelque chose de plus matériel, tangible et concret ?
 - 👌 OK - Couper les cheveux de quelqu'un, et pourquoi pas… me couper moi-même les cheveux ?!
