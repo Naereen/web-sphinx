@@ -43,7 +43,7 @@ Voici quelques conseils, personnels évidemment, pour améliorer votre matériel
 **Personnellement, j'utilise depuis août 2020 un système qui me plaît bien :**
 
 1. quand nécessaire, j'utilise une paire de petits écouteurs, *avec fils*, et micro intégré, conçue pour téléphone ("kit main libre") ;
-1. mais quasiment toujours, je fais mes visios sur un de mes ordinateurs, en utilisant :
+2. mais quasiment toujours, je fais mes visios sur un de mes ordinateurs, en utilisant :
    - **la webcam interne de mon ordinateur**, que je garde protégée d'un post-it ou d'un cache sauf quand je veux m'en servir, pour éviter le piratage :gray:`(classique)` ;
    - **le micro interne de mon ordinateur**, sauf quand je sais que je vais taper beaucoup au clavier durant une visio (si je prends les notes de la réunion ou si je code en live sur Twitch, par exemple, cf. `<twitch.fr.html>`_) :gray:`(classique)` ;
    - non pas le son interne mais **une enceinte externe filaire JBL** :gray:`(original !)`, alimentée en 5V mural et branchée à la prise Jack de mon ordinateur (et *pas en Bluetooth, je suis contre* !), qui diffuse un son profond et agréable (malgré son prix limité - acheté sur Le Bon Coin), et elle permet de n'avoir aucun écho car elle est placée à 1m de mon micro (interne). Elle me permet aussi d'avoir un meilleur son dans toute ma pièce de travail, très appréciable parce que je vis avec de la musique presque tout le temps chez moi !
@@ -55,15 +55,15 @@ Qualité de sortie son
 ~~~~~~~~~~~~~~~~~~~~~
 
 1. Assurez vous d'avoir **des bons haut-parleurs**, ou sortie son, **sur votre ordinateur ou téléphone** ;
-1. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, les hauts-parleurs internes, ou bien vous pouvez utiliser (ou acheter, si besoin) des écouteurs pour corriger le problème ;
-1. Pour beaucoup de personnes, **utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura de l'écho** ! Avec une enceinte externe, pour ordinateur ou téléphone, il est possible d'utiliser le micro interne tout en diffusant le son un peu plus loin du micro.
+2. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, les hauts-parleurs internes, ou bien vous pouvez utiliser (ou acheter, si besoin) des écouteurs pour corriger le problème ;
+3. Pour beaucoup de personnes, **utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura de l'écho** ! Avec une enceinte externe, pour ordinateur ou téléphone, il est possible d'utiliser le micro interne tout en diffusant le son un peu plus loin du micro.
 
 Qualité de micro (entrée son)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. **Assurez vous d'avoir un bon micro**, ou entrée son, **sur votre ordinateur ou téléphone** ;
-1. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, le micro interne, ou bien vous pouvez utiliser (ou acheter, si besoin) un micro externe pour corriger le problème. Pas besoin de viser du haut de gamme, sauf si vous voulez chanter sur YouTube ou diffuser en temps réel sur Twitch, et il est possible d'utiliser le micro d'écouteurs de téléphone mais de configurer son appareil pour utiliser une autre source de sortie son (et inversement) ;
-1. Pour beaucoup de personnes, *utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura un volume insupportable lors de l'utilisation du clavier* ! Il faudra alors utiliser un casque ou au moins un micro externe.
+2. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, le micro interne, ou bien vous pouvez utiliser (ou acheter, si besoin) un micro externe pour corriger le problème. Pas besoin de viser du haut de gamme, sauf si vous voulez chanter sur YouTube ou diffuser en temps réel sur Twitch, et il est possible d'utiliser le micro d'écouteurs de téléphone mais de configurer son appareil pour utiliser une autre source de sortie son (et inversement) ;
+3. Pour beaucoup de personnes, *utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura un volume insupportable lors de l'utilisation du clavier* ! Il faudra alors utiliser un casque ou au moins un micro externe.
 
 .. warning:: **Je suis activement contre toute technologie sans fil qui ne soit pas indispensable**, et donc je déteste les écouteurs ou casques audio sans fil, comme les casques Bose ou les AirPods d'Apple. Ils ont des avantages, mais leur surcoût écologique et économique face à des casques standards (avec fils) est bien trop haut pour être acceptable ! Chaque casque ou écouteur contient une batterie au lithium, qu'il est urgent d'arrêter de consommer (et donc, produire et donc miner) en masse. Pour plus de détails, cf. `<rules-and-principles.en.html>`_ (pas encore traduit).
 

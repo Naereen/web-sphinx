@@ -6,7 +6,7 @@
 Tips for good video conferences
 ################################
 
-.. todo:: Translate this page from French to English?
+.. todo:: Move page from `<conseils-visio.en.html>`_ to `<tips-for-better-visio.en.html>`_ ?
 
 This short list **some tips for making good video conferences**.
 *But what is a video conference?* My definition is the following: *phone call with camera or webcam, typically done by a computer or smartphone, using an application or website, and transiting via the Internet*.
@@ -45,11 +45,11 @@ Here are some tips, from my perspective, to improve your input and exit equipmen
 **Personally, I use since August 2020 a system that I like:**
 
 1. When needed, I use a pair of small headphones, *NOT WIRELESS*, with a microphone designed for a phone ("free hand kit") ;
-1. But almost always, I make my visios on one of my computers, using :
+2. But almost always, I make my visios on one of my computers, using :
    - **The internal webcam of my computer**, that I keep protected from a post-it or a cache except when I want to use it, to avoid hacking :gray:`(classic)` ;
    - **the internal microphone of my computer**, Except when I know I'm going to tap a lot on the keyboard during a Visio (if I take the meeting notes or if I live on Twitch, for example, cf. `<twitch.en.html>`_) :gray:`(classic)` ;
    - not the internal sound but **an external JBL not-wireless speaker** :gray:`(original !)`, fed in 5V wall and connected to the jack jack of my computer (and *not in bluetooth, I am against its growing usage*!), which diffuses a deep and pleasant sound (despite its limited price - bought on LeBonCoin, French website for ads of people selling second hand products), and it allows you to have no echo because it is placed at 1m of my (internal) microphone. It also allows me to have a better sound in all my workpiece, very appreciable because I live with music almost all the time at home!
-   - eNFIN, I have two lamps on my desk: a classic white light lamp that illuminates the wall just above my face (and so, by reflection, illuminate my face well), and a natural white light lamp that illuminates directly my face. With a good brightness helps to see your face, it's essential! (and natural light is good for health and to regularly the circadian rhythm)
+   - Finally, I have two lamps on my desk: a classic white light lamp that illuminates the wall just above my face (and so, by reflection, illuminate my face well), and a natural white light lamp that illuminates directly my face. With a good brightness helps to see your face, it's essential! (and natural light is good for health and to regularly the circadian rhythm)
 
 You probably do not have the same architecture (even if it's simple to set up, it had cost me 20€ and 1H via LeBonCoin!), so here are other tips for improving your own sound and video architecture:
 
@@ -57,15 +57,15 @@ Quality of output sound
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Make sure you have **good speakers**, or sound output, **on your computer or phone** ;
-1. If this is not the case, you can search for repair or replace the sound card, the internal speakers, or you can use (or buy, if necessary) headphones to correct the problem ;
-1. For many people, **using the internal microphone of his computer in video conferences can be uncomfortable because there will be echo** ! With an external speaker, for computer or phone, it is possible to use the internal microphone while distributing the sound a little further from the microphone.
+2. If this is not the case, you can search for repair or replace the sound card, the internal speakers, or you can use (or buy, if necessary) headphones to correct the problem ;
+3. For many people, **using the internal microphone of his computer in video conferences can be uncomfortable because there will be echo** ! With an external speaker, for computer or phone, it is possible to use the internal microphone while distributing the sound a little further from the microphone.
 
 Quality of microphone (input sound)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. **Make sure you have a good microphone**, or sound input, **On your computer or phone** ;
-1. If this is not the case, you can search for repair or replace the sound card, the internal microphone, or you can use (or buy, if necessary) an external microphone to correct the problem. No need to target high-end or awesome quality, unless you want to sing on YouTube or broadcast in real time on Twitch, and it is possible to use the microphone of phone earphones but to configure your device to use another source of output sound (and vice versa) ;
-1. For many people, *use the internal microphone of its computer in video conferences can be uncomfortable because there will be an unbearable volume when using the keyboard* ! It will then be necessary to use a headset or at least one external microphone.
+2. If this is not the case, you can search for repair or replace the sound card, the internal microphone, or you can use (or buy, if necessary) an external microphone to correct the problem. No need to target high-end or awesome quality, unless you want to sing on YouTube or broadcast in real time on Twitch, and it is possible to use the microphone of phone earphones but to configure your device to use another source of output sound (and vice versa) ;
+3. For many people, *use the internal microphone of its computer in video conferences can be uncomfortable because there will be an unbearable volume when using the keyboard* ! It will then be necessary to use a headset or at least one external microphone.
 
 .. warning:: **I am actively against any wireless technology that is not indispensable**, and so I hate headphones or wireless audio helmets, like Bose or Apple's AirPods. They have advantages, but their ecological and economical extra cost to standard headphones (with wires) is far too high to be acceptable! Each headset or earpiece contains a lithium battery, that it is urgent to stop consuming (and so, produce and so mine) so much. For more details, cf. `<rules-and-principles.en.html>`_.
 
