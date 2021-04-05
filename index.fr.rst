@@ -152,6 +152,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    beacon.fr
    apk.fr
    jitsi.fr
+   conseils-visio.fr
    firefox-extensions.fr
    tutogit.fr
    apprendre-python.fr

@@ -151,7 +151,8 @@ For more details, see `<sitemap.en.html>`_.
    stats-google-analytics.en
    beacon.en
    apk.en
-   jisti.en
+   jitsi.en
+   conseils-visio.en
    firefox-extensions.en
    tutogit.en
    wakatime.en

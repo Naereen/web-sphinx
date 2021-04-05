@@ -19,7 +19,7 @@ Nous avons aussi tous-tes vu ces exemples amusants, mais un peu ridicules, de vi
 
 .. youtube:: a864RCQ4lXs
 
-- cet avocat qui n'arrivait pas à désactiver un filtre lui donnant une apparence d'un petit chaton :
+- cet avocat aux USNA qui n'arrivait pas à désactiver un filtre lui donnant une apparence d'un petit chaton :
 
 .. youtube:: 9f9eDBpnkaU
 
@@ -29,6 +29,15 @@ Nous avons aussi tous-tes vu ces exemples amusants, mais un peu ridicules, de vi
 Mes conseils pour du meilleur matériel
 --------------------------------------
 
+Cette illustration est amusante :
+
+.. image:: https://www.commitstrip.com/wp-content/uploads/2020/04/Strip-Covide19-7-650-final.jpg
+   :scale: 25%
+   :align: center
+   :alt: Lien vers la planche de BD https://www.commitstrip.com/fr/2020/04/28/boiling-point/
+   :target: https://www.commitstrip.com/fr/2020/04/28/boiling-point/
+
+
 Voici quelques conseils, personnels évidemment, pour améliorer votre matériel d'entrée et sortie de son et d'image, pour des meilleures visios.
 
 **Personnellement, j'utilise depuis août 2020 un système qui me plaît bien :**
@@ -37,7 +46,8 @@ Voici quelques conseils, personnels évidemment, pour améliorer votre matériel
 1. mais quasiment toujours, je fais mes visios sur un de mes ordinateurs, en utilisant :
    - **la webcam interne de mon ordinateur**, que je garde protégée d'un post-it ou d'un cache sauf quand je veux m'en servir, pour éviter le piratage :gray:`(classique)` ;
    - **le micro interne de mon ordinateur**, sauf quand je sais que je vais taper beaucoup au clavier durant une visio (si je prends les notes de la réunion ou si je code en live sur Twitch, par exemple, cf. `<twitch.fr.html>`_) :gray:`(classique)` ;
-   - non pas le son interne mais **une enceinte externe filaire JBL** :gray:`(original !)`, alimentée en 5V mural et branchée à la prise Jack de mon ordinateur (et *pas en Bluetooth, je suis contre* !), qui diffuse un son profond et agréable (malgré son prix limité - acheté sur Le Bon Coin), et permet de n'avoir aucun écho car elle est placée à 1m de mon micro.
+   - non pas le son interne mais **une enceinte externe filaire JBL** :gray:`(original !)`, alimentée en 5V mural et branchée à la prise Jack de mon ordinateur (et *pas en Bluetooth, je suis contre* !), qui diffuse un son profond et agréable (malgré son prix limité - acheté sur Le Bon Coin), et elle permet de n'avoir aucun écho car elle est placée à 1m de mon micro (interne). Elle me permet aussi d'avoir un meilleur son dans toute ma pièce de travail, très appréciable parce que je vis avec de la musique presque tout le temps chez moi !
+   - enfin, j'ai deux lampes sur mon bureau : une lampe classique à lumière blanche qui éclaire le mur juste au dessus de mon visage (et donc, par réflexion, éclaire bien mon visage), et une lampe à lumière blanche naturelle qui éclaire directement mon visage. Avec une bonne luminosité aide à bien voir votre visage, c'est essentiel ! (et la lumière naturelle est bonne pour la santé et pour régulier le rythme circadien)
 
 Vous n'avez probablement pas la même architecture (même si elle est simple à mettre en place, ça m'avait juste coûté 20€ et 1h via LeBonCoin !), aussi voici d'autres conseils pour améliorer votre propre architecture de son et vidéo :
 
@@ -46,7 +56,7 @@ Qualité de sortie son
 
 1. Assurez vous d'avoir **des bons haut-parleurs**, ou sortie son, **sur votre ordinateur ou téléphone** ;
 1. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, les hauts-parleurs internes, ou bien vous pouvez utiliser (ou acheter, si besoin) des écouteurs pour corriger le problème ;
-1. Pour beaucoup de personnes, **utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura de l'écho** ! Avec une enceinte externe, pour ordinateur ou téléphone, il est possible d'utiliser le micro interne tout en diffusant le son
+1. Pour beaucoup de personnes, **utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura de l'écho** ! Avec une enceinte externe, pour ordinateur ou téléphone, il est possible d'utiliser le micro interne tout en diffusant le son un peu plus loin du micro.
 
 Qualité de micro (entrée son)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,7 +65,7 @@ Qualité de micro (entrée son)
 1. Si ce n'est pas le cas, vous pouvez chercher à réparer ou remplacer la carte son, le micro interne, ou bien vous pouvez utiliser (ou acheter, si besoin) un micro externe pour corriger le problème. Pas besoin de viser du haut de gamme, sauf si vous voulez chanter sur YouTube ou diffuser en temps réel sur Twitch, et il est possible d'utiliser le micro d'écouteurs de téléphone mais de configurer son appareil pour utiliser une autre source de sortie son (et inversement) ;
 1. Pour beaucoup de personnes, *utiliser le micro interne de son ordinateur en visio peut être inconfortable car il y aura un volume insupportable lors de l'utilisation du clavier* ! Il faudra alors utiliser un casque ou au moins un micro externe.
 
-.. warning:: **Je suis activement contre toute technologie sans fil qui ne soit pas indispensable**, et donc je déteste les écouteurs ou casques audio sans fil, comme les casques Bose ou les AirPods d'Apple. Ils ont des avantages, mais leur surcoût écologique et économique face à des casques standards (avec fils) est bien trop haut pour être acceptable ! Chaque casque ou écouteur contient une batterie au lithium, qu'il est urgent d'arrêter de consommer (et donc, produire et donc miner) en masse. Pour plus de détails, cf. ̀<rules-and-principles.en.html>`_ (pas encore traduit).
+.. warning:: **Je suis activement contre toute technologie sans fil qui ne soit pas indispensable**, et donc je déteste les écouteurs ou casques audio sans fil, comme les casques Bose ou les AirPods d'Apple. Ils ont des avantages, mais leur surcoût écologique et économique face à des casques standards (avec fils) est bien trop haut pour être acceptable ! Chaque casque ou écouteur contient une batterie au lithium, qu'il est urgent d'arrêter de consommer (et donc, produire et donc miner) en masse. Pour plus de détails, cf. `<rules-and-principles.en.html>`_ (pas encore traduit).
 
 Qualité de caméra (webcam)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,21 +82,29 @@ Mes conseils pour des meilleures visios
 
 Voici quelques conseils, personnels évidemment, pour améliorer votre expérience de visio.
 
+Pour toutes visio
+~~~~~~~~~~~~~~~~~
+
+1. **Arriver à l'heure !** Ou prévenir si on sait que l'on arrive en retard ;
+2. Ne rien avoir de compromettant dans le champ de la caméra (e.g., poster pornographique ou autre) ;
+3. **Appliquez les mêmes principes de rigueur et de respect, de bonne communication, que dans les autres échanges non numériques !** Cela inclut notamment écouter et respecter le temps de parole des autres, parler distinctement et assez fort (mais pas trop !), etc.
+4. **Soyons tolérant-e-s avec des gens qui n'ont pas l'habitude, mais il faut savoir être pénible avec des élèves qui suivent des cours en visio depuis un moment** (plus d'un an déjà !) et des collègues qui font des tas de réunions visio sans chercher à les faire dans des meilleures conditions !
+
 Pour assister à des cours
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Évidemment,** il faut autant que possible utiliser une bonne connexion Internet, donc en filaire et a fortiori avec la fibre** (et pas en WiFi et encore moins en 4G/3G), lorsque l'on doit assister à des cours à distance !
+1. Évidemment, **il faut autant que possible utiliser une bonne connexion Internet, donc en filaire et a fortiori avec la fibre** (et pas en WiFi et encore moins en 4G/3G), lorsque l'on doit assister à des cours à distance !
 
 2. **Si le ou la prof demande à vous voir, activez votre caméra**. Les seules excuses valables sont :
    - si votre caméra est cassée *et que vous avez déjà commandé une caméra ou webcam de rechange* !
    - ou si malheureusement vous travaillez dans un endroit non optimal et qu'activer la caméra pourrait déranger vos camarades, la ou le prof, ou compromettre la vie privée des personnes proches de vous (ex. suivre des cours dans une pièce commune en coloc ou dans sa famille).
 
 3. **Forcez vous à être plus réactif et réactive que dans un vrai cours** : la prof ne peut pas lire les réactions sur vos visages (ou moins bien, si vous respectez le conseil précédent), et c'est très difficile de saisir rapidement si la classe a compris quelque chose sans (bien) voir les visages de ses élèves.
-   - Beaucoup de profs demandent très souvent durant des cours en visio "ça va ?", ou "bien compris ?", qui sont des questions très légitimes.
-   - Il est anormal de n'entendre qu'une ou deux réponses, sur 20 ou plus élèves !
+   - Beaucoup de profs demandent très souvent durant des cours en visio "ça va ?", ou "bien compris ?", qui sont des questions très légitimes ;
+   - Mais il est anormal de n'entendre qu'une ou deux réponses, sur 20 ou plus élèves !
    - Et c'est encore pire d'entendre un prof demander "vous êtes encore avec moi ?", "vous êtes là ?" : c'est alarmant parce que ça montre l'absence complète de retour visuel et auditif (et donc, cognitif) de la classe vers le prof. C'est comme faire cour seul dans une salle, la prof aura aucune idée de savoir si tout le monde a bien compris !
 
-4.** Posez des questions (toutes vos questions !!), de façon synchrone** (dès qu'elles vous viennent), à l'écrit dans le chat (pour BigBlueButton, dans l'appli c'est à gauche ; pour Discord, dans le chat du cours ou activité concernée) ;
+4. **Posez des questions (toutes vos questions !!), de façon synchrone** (dès qu'elles vous viennent), à l'écrit dans le chat (pour BigBlueButton, dans l'appli c'est à gauche ; pour Discord, dans le chat du cours ou activité concernée) ;
 
 5. Bonus : **si vous montrez votre caméra** (déjà, merci !), **il faut : a) être habillé**, b) rester face à l'écran et (au moins prétendre) écouter attentivement et de prendre des notes ou travailler comme il est demandé, c) **ne pas être amorphe et avoir un visage de pierre**, mais s'autoriser à laisser ses émotions parler et avoir un visage expressif, qui peut rapidement montrer son incompréhension ou sa compréhension ! d) porter un t-shirt avec un slogan écologiste, c'est chouette (je déconne, mais c'est vrai !) ;
 
@@ -129,9 +147,11 @@ Pour des événements amicaux en petits groupes
 Pour des événements en plus grands groupes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Si les personnes en charge de la réunion demandent à voir des caméras, vous pouvez le faire, mais en général c'est inutile.
+1. Si les personnes en charge de la réunion demandent à voir des caméras, vous pouvez le faire, mais en général c'est inutile ;
 
 2. Suivez les consignes de l'équipe d'organisation, si elle demande des questions synchrones faites le, si elle demande des questions posées sur tel ou tel plateforme annexe, vous pouvez aussi essayer.
+
+.. note:: En général, je n'accepterai pas d'aller à des événements en visio à plus d'une cinquantaine de personnes, je n'ai pas eu de bonnes expériences. Si c'est important, comptez sur moi, sinon, désolé j'ai mieux à faire ;-) !
 
 ---------------------------------------
 
@@ -140,16 +160,12 @@ D'autres conseils
 
 Je vous encourage à lire aussi cet article sur `Jitsi <jitsi.fr.html>`_, qui critique les outils de visio propriétaires et non respectueux de la vie privée, comme Skype ou Zoom. Quand j'ai le choix, je boycotte toutes les alternatives non-libres, et je choisis d'utiliser Jitsi ou BigBlueButton.
 
-Cette illustration est amusante :
-
-.. image:: https://www.commitstrip.com/wp-content/uploads/2020/04/Strip-Covide19-7-650-final.jpg
-   :scale: 25%
-   :align: center
-   :alt: Lien vers la planche de BD https://www.commitstrip.com/fr/2020/04/28/boiling-point/
-   :target: https://www.commitstrip.com/fr/2020/04/28/boiling-point/
-
 Je vous recommande aussi de regarder cette vidéo, à moitié humoristique, réalisée par `Raphaël Truffet <https://www.youtube.com/channel/UCKdT0orbp8_eX5qh-NygBhg>`_, un ami et collègue, actuellement doctorant en informatique à l'IRISA (en 2021).
 
 .. youtube:: 8RUdGAypXxs
+
+Enfin, vous pouvez aisément chercher d'autres documents similaires, ou d'autres vidéos, par exemple avec `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+les+visios>`_. J'avais regardé une douzaine de vidéos, pendant la rédaction de cette page-là.
+
+.. todo:: Intégrer certains de ces conseils si je découvre des idées que je n'avais pas eue avant ?
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
