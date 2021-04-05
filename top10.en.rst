@@ -219,6 +219,30 @@ My 10 favorite **book writers**
 - `Émile Zola <https://en.wikipedia.org/wiki/Emile_Zola>`_ (French, 19th),
 - `Timothy Zahn <https://en.wikipedia.org/wiki/Timothy_Zahn>`_ (Sci-Fi, 20th, mostly known for his `Star Wars trilogy <https://en.wikipedia.org/wiki/Thrawn_trilogy>`_).
 
+My 10 favorite **web comics**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's very nice to read regularly these web-comics, because they are fun and interesting, and because they follow and thus inform you of the current events (whether they are geopolitical, cultural or technological).
+Another good reason is that as they are distributed by numerical formats (PNG etc), you can easily download them and then include them in a web-page, or a teaching document, and that's fun and smart to do! Humour and graphic images are very powerful tools, even for teaching!
+They are ordered by date, starting from the ones I know and have been reading since the longest time:
+
+- **Calvin and Hobbes** is the oldest comic, by American author Bill Watterson, although not a true web-comic but it can be read on this `website (gocomics.com/calvinandhobbes) <https://www.gocomics.com/calvinandhobbes/about>`_. It was active in the 1990s and was published everyday, for instance `here is the strip from my birth day! <https://www.gocomics.com/calvinandhobbes/1993/01/12>`_ Some that I really like are: TODO: ;
+
+- `XKCD <https://xkcd.com/>`_ (xkcd.com) is probably the world most famous web-comic, being read by millions of people from more than 15 years (as of 2021). The comic's tagline describes it as "A webcomic of romance, sarcasm, math, and language". Munroe states on the comic's website that the name of the comic is not an initialism but "just a word with no phonetic pronunciation". It is published three times a week (Monday, Wednesday and Friday), and is always richer in ideas, puns and visual jokes as well as visualization of geopolitical or technological events, mainly focused on the USNA and spatial exploration. XKCD also has the advantage of being published under a Creative Commons license, which gives you explicit and legal rights to include the comics in your own CC-licensed document. Some that I really like are: `tar command <https://xkcd.com/1168/>`_, `flying thanks to Python <https://xkcd.com/353/>`_ (which was included in Python, type ``import antigravity`` to try!), `about log-scale and in favor of nuclear power <https://xkcd.com/1162/>`_ (like me!), and so many more. Check-out the awesome wiki `explain XKCD <https://www.explainxkcd.com/wiki/>`_, a community-driven project to explain and discuss about each strip! Check-out `the books "What if?" <https://what-if.xkcd.com/>`_, and the more recent book by the author, Randall Munroe ;
+
+- `Questionable Content <https://www.questionablecontent.net/about.php>`_ (questionablecontent.net) « is an internet comic strip about friendship, romance, and robots. The world of QC is set in the present day (whenever the present day actually is) and is pretty much the same as our own except there are robots all over the place and giant space stations and the United States wasn't ravaged by a pandemic in 2020 and...okay so there are some differences. But it's not too far off! Anyway it's set in Northampton, Massachusetts and follows best buddies Marten and Faye as they navigate life, make friends and forge relationships, and there is definitely some robot smoochin' later on. ». It's drawn by American Jeph Jacques. I have been reading it since late 2012 I think, and almost everyday (Monday-Friday). It's not always as funny as the best ones, but for a comic book with more than 4000 strips, that's normal! It is always respectful, representative of minorities (including AI!), rich in ideas and puns. Some that I really like are: TODO: ;
+
+- `PhDComics <http://phdcomics.com/comics/>`_ (phdcomics.com) is a newspaper and webcomic strip written and drawn by Jorge Cham that follows the lives of several grad students in Stanford, USNA. It is always fun and very smart, and a quite accurate depiction of a life of graduate students (PhD students). Reading it for many years was one of the reason I was not scared to start my PhD! I have been reading it since 2013 I think, but the author has stopped publishing new strips. Some that I really like are: `average time to send an email, student vs prof <http://phdcomics.com/comics/archive.php?comicid=1047>`_, and others TODO: ;
+
+- `Oglaf <https://www.oglaf.com/>`_ (oglaf.com): « is a sexually explicit comedy webcomic produced by Australians Trudy Cooper and Doug Bayne ». The comics are published every Sunday morning, and I'm reading them since at least 2014 (I think). Most of them are quite sexually explicit, but many are not and are just fun. They take place in a fantasy worlds, containing elements from all the main pop culture and fantasy worlds, including LoTR, GoT, D&D, Star Wars, etc. See the `Oglaf archive <https://www.oglaf.com/archive/>`_, and some good ones are these: `about Amazon linguists <https://www.oglaf.com/amazonlinguistics/>`_, `Death discussing the next disease <https://www.oglaf.com/andevendeath/>`_, `bait: everyone loves compliment <https://www.oglaf.com/bait/>`_, `don't call the manager <https://www.oglaf.com/supplies/>`_, `fight the lions day at the zoo! <https://www.oglaf.com/foodchain/>`_, `write an apology song, just in case <https://www.oglaf.com/noregrets/>`_, or also `pay to win and a reference to Zelda <https://www.oglaf.com/pay-win/>`_ ;
+
+- `CommitStrip <https://www.commitstrip.com/>`_ (commitstrip.com) is a webcomic about a small startup or tech company, who produces websites and other computer-related technological products such as apps. It focuses on a few characters, and it is a very realistic and fun view of the daily life in a IT office. It is the only one here written by a French author and translated to English. I have been reading it since 2018 I think. Some that I really like are: `advices for video calls <https://www.commitstrip.com/fr/2020/04/28/boiling-point/>`_, TODO: ;
+
+- `Dumbing of Age <https://www.dumbingofage.com/about/>`_ (dumbingofage.com), « is a webcomic about college freshmen in the girls wing within a co-ed dorm at Indiana University, learning everything about life and themselves usually in the most difficult ways.  It stars a Christian homeschooled girl and her atheist best friend, and also a disgraced cheerleader, a misanthrope, a rebel, and a caped vigilante ». I have been reading it since 2017 I think, and almost everyday. It's not always very funny, but quite smartly written and fun to read. Some that I really like are: TODO: ;
+
+- Others include: `Les indégivrables par Xavier Gorce <https://www.lemonde.fr/blog/xaviergorce/>`_ about French politic and French social life, very active and very fun ; `Une année au lycée par Fabrice Erre <https://www.lemonde.fr/blog/uneanneeaulycee/>`_ about the daily life of a high-school history professor in France.
+
+
 My 10 favorite blogs
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -340,6 +364,7 @@ From North America:
 - **Keanu Reeves**, the most inspirational male actor from USNA, for a great carreer but mainly a great human being. So selfless! 9Gag community love him, for good reasons!
 - **Edward Snowden**, a true hero of modern times, because as I read already on Twitter (don't go there, boycott it but read it without an account, if needed) and 9Gag, the greatest patriot from the USA is currently living in exile in Russia ;
 - **Bill Gates**, not for what he did to become rich, but what he does since then. He is one of the world largest philanthropist and writes books and give talks about ecology and how to avoid a global climate disaster ;
+- **Joan Baez**, a famous peace activist and singer (whose music I love), and **John Lennon** too ;
 
 From the rest of the world:
 
@@ -383,6 +408,30 @@ My 10 favorite algorithms
 - **Cocktail sort** as a funny named sorting algorithm, and **bubble sort** especially because of this famous video featuring Barack Obama:
 
 .. youtube:: k4RRi_ntQc8
+
+My 10 favorite FOSS projects
+----------------------------
+
+FOSS means Free and Open-Source software.
+
+- **The Wikimedia and Wikipedia projects** (`wikimedia.org <http://wikimedia.org>`_, `wikipedia.org <http://wikipedia.org>`_), which is too well-known for me to dare presenting it. It is one of the most important and widely used website, all around the world. All of its content, in more than 150 languages, has been and continues to be entirely created by volunteers, and running on open-source software (like MediaWiki, number 1 wiki software), and using free and open resources (Creative Commons licensed) ;
+- The **entire GNU project**, since its creation, as the first FOSS project and one of the most widely used and most important. The GNU project include GNU Nano and GNU Emacs, GNU C compiler and GCC, and many others ;
+- The **Mozilla projects** (`mozilla.org <https://mozilla.org/>`_) mainly Mozilla Firefox the best web browser ever, and Mozilla Thunderbird an excellent email and news feed client ;
+- **The OpenStreetMap project** (`openstreetmap.org <http://openstreetmap.org>`_), a solid alternative to Google Maps and other online map websites and apps, entirely drawn and created by volunteers and entirely running on open-source software and using free and open resources (Creative Commons licensed) ;
+- **cURL**, the best example of a project which seems to just be ``curl``, a tiny CLI (command line interface) program but is instead one of the most widely used library of all-time with more than 20 billions devices using it, being mainly developed and maintained by one developer since 21 years!
+- **The Python language**, and especially the CPython interpreter. It is one the most loved and widely adopted programming languages of all times, and for good reasons! I have been a long time Python enthusiast since 2012, and I love teaching it and teaching using it! See `<python.html>`_ and `<skulpt.html>`_ for online Python consoles in this website, and `<learn-python.en.html>`_ for a few advices to learn Python ;
+- **The Matplotlib plotting library**, `especially the XKCD mode <https://matplotlib.org/xkcd/>`_. For someone like me who first learned (in 2009) to program on a TI-82 calculator and using Maple©, then using MATLAB and C with CUDA and VTK, using a really powerful and clean plotting library like Matplotlib is a relief. I have been using Matplotlib since 2013 and could not work without it! (just kidding, using GNUPlot, TikZ or other Python/Julia plotting library like Gadfly)
+- **The OCaml language** (`ocaml.org <https://ocaml.org/>`_), a great example of an indistrial-strength tool produced by professional French researchers since more than 25 years ;
+- **Visual Studio Code** (`code.visualstudio.com <https://code.visualstudio.com/>`_), a great example of what a world-leading company in computer technologies can achieve if they decide to go open-source: VSCode has been much more successful and broadly adopted than Visual Studio, or any other IDE or editors. It seems to now be the most widely used IDE in the world (as of 2021), and for good reasons: see `<visualstudiocode.en.html>`_ to learn my opinion about VSCode ;
+- For the last one I want to include, I can't decide between:
+
+      - **The VLC multi-media player** : one of the most widely used player in the world, if not the top one, which started as a student project by a few students at Ecole Centrale Paris (now CentraleSupélec, from which `I graduated my PhD <phd/>`_) ;
+      - **The Solarus project** (`solarus-games.com <https://www.solarus-games.org/en/>`_), an amazing open-source game engine which was written and used to develop awesome Zelda-clone games ;
+      - **The Sphinx Python documentation generator** (`sphinx-doc.org <https://www.sphinx-doc.org/>`_) (which powers this website since 2012!) ;
+      - **gmusicbrowser** (`gmusicbrowser.org <http://gmusicbrowser.org>`_), a tiny but awesome music player, that I've loved using daily (constantly) since 2016 (I think) ;
+      - **The F-Froid project** (`f-droid.org <http://f-droid.org>`_) to allow people to have Android phones and install FOSS apps without using Google Play app stores ;
+      - Other projects like: `ownCloud <https://owncloud.org>`_ for online backup, `Jitsi Meet <https://jitsi.org>`_ for video calls, `tableaunoir <https://tableaunoir.github.io/>`_ for a digital blackboard, `Jupyter notebooks <https://www.jupyter.org/>`_, etc.
+      - Finally, the last but not the least, the CRANS student association from `ENS Cachan <http://www.ens-cachan.fr/>`_ (now Paris-Saclay), which has been the Internet provider of about 1200 students each year since the end of the 1990s, using only open-source software.
 
 ------------------------------------------------------------------------------
 

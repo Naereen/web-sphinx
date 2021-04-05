@@ -133,10 +133,14 @@ Santé
 - Passer à un fournisseur d'Internet et de téléphone le plus écologique possible ? Free n'est le meilleur, mais j'aime trop leur `API de SMS <https://github.com/Naereen/FreeSMS.py/>`_... dur de changer !
 - Passer tous mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021 ;
 - Ne plus utiliser ma carte bleue, ou le moins possible, et utiliser si possible des monnaies locales, comme `le Galléco <https://galleco.fr/cest-quoi-le-galleco/>`_ à Rennes ;
+- Ne plus acheter aucun produit emballé par du plastique. Bientôt, je n'accepterai d'acheter que des produits (alimentaires ou autre) emballés par du verre ou des boites de conserve (très rarement), et je vais viser à ne vivre qu'avec des produits *en vrac*, non emballés ! Depuis 2018, je tiens `ce petit blog <zero-dechet/>`_ mais pas assez mis à jour. Cela ne m'empêche pas d'avoir fait énormément d'efforts pour réduire mes déchets !
+- Vivre sans frigo !
 - Ne jamais rien commander en ligne, ne rien se faire livrer ;
 - Ne plus acheter de produits neufs. Je suis très très économe depuis très longtemps, mais même encore en 2021 je peux m'améliorer.
-- 👌 OK - Notamment, ne plus acheter de vêtements neufs (ça c'est bon depuis 2016), de livres neufs (pareil sauf pour les livres universitaires, impossibles à supprimer si je veux aussi soutenir leurs auteurs et réduire mon temps sur des écran), et de jeux-vidéo ou autre produit culturel et de loisir numériques neufs (quasiment irréprochable, sauf l'achat de mes consoles de jeux).
-- Continuer à faire le tour de mon quartier une fois par mois, pour ramasser les mégots et autres déchets, et essayer d'aller de plus en plus loin autour de chez moi à chaque fois... C'est long et il faut un peu d'énergie sociale avant d'oser le faire !
+- 👌 OK - Notamment, **ne plus acheter de vêtements neufs** (ça c'est bon depuis 2016), **de livres neufs** (pareil sauf pour les livres universitaires, impossibles à supprimer si je veux aussi soutenir leurs auteurs et réduire mon temps sur des écran), **et de jeux-vidéo ou autre produit culturel et de loisir numériques neufs** (quasiment irréprochable, sauf l'achat de mes consoles de jeux).
+- Continuer à revendre d'occasion tout ce que je peux, comme des jeux vidéo une fois terminé, ou des vieux livres. Je ne souhaite pas posséder plus, mais de moins en moins au cour du temps ! La décroissance, `ça commence par moi <https://cacommenceparmoi.org/>`_.
+- **Continuer à faire le tour de mon quartier une fois par mois, pour ramasser les mégots et autres déchets**, et essayer d'aller de plus en plus loin autour de chez moi à chaque fois... C'est long et il faut un peu d'énergie sociale avant d'oser le faire !
+- **Essayer de ne plus jamais monter dans une voiture ?** Je suis déjà convaincu, depuis très longtemps, de mon souhait de ne jamais acheté de voiture. Mais utiliser les voitures d'ami-e-s, de mes parents, ou monter dans celle d'une personne inconnue en faisant du stop, continue à montrer que j'apprécie et que je cautionne les voitures et autres véhicules polluants. Ce n'est pas le cas. Je pense m'interdire de reconnaître l'utilité et l'existence de voitures, je suis déjà très strictement contre depuis 2019, et je pense qu'à partir de 2021, je ne montrerai plus jamais dans une voiture, sauf exception d'urgence (e.g., ambulance, ou urgence familiale).
 
 Bienveillance
 ^^^^^^^^^^^^^
@@ -212,12 +216,24 @@ Achats et investissements
 - ⛔️ NO WAY - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
 - ⛔️ NO WAY - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
 - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <http://www.penofchaos.com/warham/bd/index.htm>`_. Et à être un grand fan de la franchise `Naheulbeuk <http://www.penofchaos.com/warham/donjon.htm>`_ en entier.
-- ⛔️ NO WAY - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
-- ⛔️ NO WAY - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
-- 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April, La Quadrature du Net, UNICEF, La Croix Rouge et plein autres).
-- Donner à des projets moins courants, par exemple `je possède une petite parcelle de terrain protégé en Écosse <https://www.highlandtitles.fr/acheter-une-parcelle/>`_, `une plus grande parcelle de forêts protégée en France avec ASPAS <https://aspas-reserves-vie-sauvage.org/>`_ depuis 2021 ;
+
+- 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April et FramaSoft, La Quadrature du Net, UNICEF, La Croix Rouge, Les Restos du Coeurs, GreenPeace, Reporterre, Alternatiba, et plein autres). J'ai quasiment triplé mes dons au début de 2021.
+- 👌 OK -Continuer à refuser toute forme de fraude ou d'évasion fiscale, et donc je ne déclare pas ces dons. Par contre, comme je boycotte entièrement la télévision publique et que je n'écoute jamais la radio, je refuse de payer la taxe de 138€/an sur l'audiovisuel, c'est une forme de fraude fiscale, la seule que je défends et que je m'autorise. Oui, oui, je dis publiquement sur Internet que je fais cette fraude, et je serai ravi de payer une amende si on me l'ordonne.
+- Donner à des projets moins courants, par exemple `je possède une petite parcelle de terrain protégé en Écosse <https://www.highlandtitles.fr/acheter-une-parcelle/>`_, `une plus grande parcelle de forêts protégée en France avec ASPAS <https://aspas-reserves-vie-sauvage.org/>`_ depuis 2021. Avec l'association `Un Toit pour les Abeilles <https://www.untoitpourlesabeilles.fr/>`_, je parraine une ruche et un terrain de 30m² qui est fleuri et pas cultivé pour produire des légumes ou autres (pour 3€/mois !) ;
 
 .. warning:: Je ne souhaite plus posséder quoi que ce soit de nouveau. « Moins de biens, plus de liens ! », voilà un crédo qui me plaît depuis plusieurs années. Je m'engage à ne jamais acheter de voiture, ni autre véhicule (qu'il soit électrique ou non, tous polluent !), ni d'appartement ou de maison.
+
+Pacifisme
+^^^^^^^^^
+Je suis résolument un pacifiste, mais je serai prêt à devenir résistant si la situation le demandait. Ma position est donc incohérente, comme celles de beaucoup avant moi. Meh! On en discute ? `Contactez moi ! <callme.fr.html>`_
+
+- ⛔️ NO WAY - Acheter une épée ou un sabre (laser ?). Et ne jamais m'en servir, parce qu'une arme ne peut pas servir à faire du bien (et que `« personne par la guerre ne devient grand » <https://www.kaakook.fr/citation-167>`_).
+- ⛔️ NO WAY - Apprendre à tirer à l'arc ou à la carabine. Et ne jamais m'en servir. Idem.
+- ⛔️ NO WAY - Rien que parce que je trouve ça trop cool (notamment dans Largo Winch !), j'aimerai apprendre à maîtriser les bases du lancer de couteau. Et pareil, ne jamais m'en servir.
+
+Sur d'autres aspects, je suis aussi face à des dilemmes. J'aimerai devenir réserviste depuis longtemps, mais cela ne colle pas avec ces envies de pacifisme.
+
+- Une bonne alternative serait de **devenir pompier bénévole volontaire**, ce que j'essie depuis 2019.
 
 Listes amusantes
 ^^^^^^^^^^^^^^^^
