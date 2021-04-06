@@ -17,6 +17,10 @@ Pourquoi ?
 ----------
  Hum… en fait, la vraie raison semble purement liée à l'égo : les programmeurs sont *fiers* de voir *tout le temps* qu'il passe sur leurs projets.
 
+.. warning:: Si vous êtes préoccupé-e par votre vie privée, vous devez plutôt utiliser un outil local unique tel que le grand `ActivityWatch <https://activitywatch.net/>`_, qui offre un plugin "surveillant" votre activité, pour quelques éditeurs, y compris `VSCode <visualstudiocode.en.html>`_ que j'utilise et conseille d'utiliser ! Les données restent locales et aucun espionnage n'est possible avec ActivityWatch.
+
+.. todo:: Essayer les deux tout le mois d'avril, puis supprimer WakaTime si je suis content de ActivityWatch ?
+
 ------------------------------------------------------------------------------
 
 Cette introduction étant faite, laissez-moi vous présenter un outil intéressant que j'utilise depuis quelque temps.

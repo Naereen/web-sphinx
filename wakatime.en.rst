@@ -17,6 +17,10 @@ Why exactly?
 ------------
  Hum… in fact, the real reason seems to be pure ego: programmers are *proud* to see *how much time* they can work on each of their projects.
 
+.. warning:: If you are concerned about your privacy, you should rather use a local-only tool such as the great `ActivityWatch <https://activitywatch.net/>`_, which offers a "watcher" plugin to monitor your editing activity for a few editors, including `VSCode <visualstudiocode.en.html>`_ that I use and advise to use! Your data remains local and no espionage is possible with ActivityWatch.
+
+.. todo:: Try both all the month of April, then remove Wakatime if I'm happy with ActivityWatch?
+
 ------------------------------------------------------------------------------
 
 With this in mind, let me present an interesting and peculiar tool that I have been using from a while.

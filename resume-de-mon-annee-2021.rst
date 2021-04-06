@@ -100,7 +100,8 @@ Août 2021
 
 Septembre 2021
 --------------
-- Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR) ! Je garde les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! A priori, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
+- ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! A priori, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
+- 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
 - TODO
 
 Octobre 2021
