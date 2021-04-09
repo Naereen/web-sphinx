@@ -11,6 +11,13 @@
     Go read *regularly* the `<https://www.gouvernement.fr/info-coronavirus>`_ page of the French government, as well as your own government.
     And reading a local newspaper (e.g. in France: `<https://www.lemonde>`_) is also a very good idea!
 
+
+You can have fun for 3 minutes and listen to this nice song, by *Foil Arms and Hog*, my favorite English humor band:
+
+.. youtube:: iiEP6UZ8X_4
+
+In French, this song is quite funny as well:
+
 .. youtube:: t4h8j9xLyxQ
 
 

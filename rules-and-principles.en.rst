@@ -30,12 +30,18 @@ This page is already quite long, and I do not intend on trying to keep it short,
 
 Thoughts that I liked and want to discuss or include here
 ---------------------------------------------------------
-.. todo:: Regularly include some links to great articles here, and then remove the links from this list, to include them in the proper section in my article(s).
+.. todo:: Regularly include some links to great articles here, and then remove the links from this list, to include them in the proper section(s) in my article(s), this one or others?
 
 About limiting usage of social media, apps, online activity and smartphones (2021-03-29):
 
 - `« Avoiding the global lobotomy » <https://www.meta-nomad.net/avoiding-the-global-lobotomy/>`_ ;
 - `« Parentings new frontier, no smartphone? » <https://www.vogue.com/article/parentings-new-frontier-no-smartphones>`_ ;
+
+About social activism to fight the climate disaster:
+
+- `« We can't do it ourselves «, by Kris De Decker (2018) <https://www.lowtechmagazine.com/2018/07/we-cant-do-it-ourselves.html>`_. A long (~20 min) but very rich article, thanks Esteban for sharing it! I really liked this paragraph in the conclusion:
+
+    A sustainability policy that focuses on systemic issues reframes the question from “how do we change individuals’ behaviours so that they are more sustainable?” to “how do we change the way society works?”. This leads to very different kinds of interventions. 
 
 About sponsoring open-source projects (2021-03-29):
 

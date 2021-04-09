@@ -26,6 +26,10 @@ TL;DR: Soyez prudent-e-s, travaillez bien, soyez gentil-l-es et serviables (pour
 
 .. youtube:: t4h8j9xLyxQ
 
+- In English, you can have fun for 3 minutes and listen to this nice song, by *Foil Arms and Hog*, my favorite English humor band:
+
+.. youtube:: iiEP6UZ8X_4
+
 
 Télétravail pendant l'épidémie de Coronavirus
 ---------------------------------------------
