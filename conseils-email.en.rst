@@ -6,18 +6,14 @@
  My tips to become pro at emails
 #################################
 
-.. todo:: Translate this page in English.
+This (too long) page list **my tips for being a pro email**, and do not suffer or have phobias against these emails.
+**The emails have been there since the beginning of the web, even before the Internet (year 1970!), And they will stay there for a long time!**
+My personal prognosis in 20 years: Facebook and Twitter will be dead and buried, but we will always have IRC, RSS feeds and emails!
 
-Cette (trop longue) page liste **mes conseils pour être un pro des emails**, et ne pas souffrir ni avoir de phobies contre ces emails.
-**Les emails sont là depuis le début du web, même avant Internet (année 1970 !), et ils resteront là pendant longtemps !**
-Mon pronostic personnel dans 20 ans : Facebook et Twitter seront morts et enterrés, mais nous aurons toujours IRC, les flux RSS et les emails !
+**Emails are an essential tools for your studies**, your future works, whether registered in the digital world or not.
+**Becoming a power email user is not so complicated, it is simply necessary to practice and respect basic rules, and not to be worried, you will progress!**
 
-**Les emails sont un outils essentiels de vos études**, de votre ou vos futurs travaux, qu'ils soient inscrits dans le monde numérique ou non.
-**Devenir pro des emails n'est pas si compliqué, il faut simplement pratiquer et respecter des règles de bases, et ne pas être inquiets, vous allez progresser !**
-
-**Mais que sont les emails ?** Ma définition et celle de Wikipédia est la suivante : *Un courrier électronique, un courriel, un mail (parfois écrit mél en français), ou un e-mail, est un message écrit envoyé électroniquement via un réseau informatique*. *On appelle messagerie électronique l'ensemble du système qui permet la transmission des courriers électroniques*. *Elle respecte des règles normalisées afin d'autoriser le dépôt de courriels dans la boîte aux lettres électronique d'un destinataire choisi par l'émetteur*. (`sur  Wikipedia <https://fr.wikipedia.org/wiki/Email>`_). Dans cet article, je vais écrire email ou courriel alternativement, mais en général, je combats les anglicismes.
-
-**But what are emails?** *Electronic mail (email or e-mail) is a method of exchanging messages ("mail") between people using electronic devices*. *Email entered limited use in the 1960s, but users could only send to users of the same computer, and some early email systems required the author and the recipient to both be online simultaneously, similar to instant messaging*. *Ray Tomlinson is credited as the inventor of email*. (`on Wikipedia <https://en.wikipedia.org/wiki/Email>`_).
+**But what are emails?** *Electronic mail (email or e-mail) is a method of exchanging messages ("mail") between people using electronic devices*. *Email entered limited use in the 1960s, but users could only send to users of the same computer, and some early email systems required the author and the recipient to both be online simultaneously, similar to instant messaging*. *Ray Tomlinson is credited as the inventor of email*. (`on Wikipedia <https://en.wikipedia.org/wiki/Email>`_). In this article, I will write email or email alternately, but in general, I fight the Anglicisms.
 
 .. image:: https://imgs.xkcd.com/comics/email.png
    :scale: 25%
@@ -25,170 +21,171 @@ Mon pronostic personnel dans 20 ans : Facebook et Twitter seront morts et enterr
    :alt: XKCD: A New Year comic, where Megan asks Beret Guy if he has any New Year's resolutions, and even though this is just before new year 2015, his resolution is to find out what an email is!
    :target: https://www.xkcd.com/1467/
 
-En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
+Indeed, with the coronavirus pandemic since 2020 (cf. `<coronavirus.en.html>`_), We all had to make video calls, whether for the work (meetings, teachings or thesis supplies), for virtual aperitifs between friendly friendly, or for other occasions (marriage, etc.).
 
-Et avant ces conseils, si vous voulez rigoler pendant 15 minutes (en anglais), regardez ça (« *This is what happens when you reply to spam email* », by James Veitch à TedX 2016) :
+And before these tips, if you want to laugh for 15 minutes (in English), look at that (« *This is what happens when you reply to spam email* », by James Veitch at TedX 2016) :
 
 .. youtube:: LiLS7U7YIdc
-
-
-    ------------------------------------------------------------------------------
-
-
-Mes conseils bien lire ses emails
----------------------------------
-
-C'est assez décevant, mais je suis souvent effaré de voir les mauvais choix technologiques que font beaucoup de mes proches, même dans le milieu de chercheurs-ses ou profs en mathématiques ou informatique...
-
-**N'utilisez pas les "web-mails"**, ces clients de messagerie écrits en HTML/CSS et Javascript, et utilisables après une connexion (identifiant / mot de passe) dans votre navigateur ! Voici sept raisons, par ordre d'importance :
-
-- **vous perdrez du temps à vous reconnecter à chaque fois** ;
-- **vous n'aurez pas accès à vos emails si vous n'avez** (temporairement) **plus Internet** ;
-- **les fonctionnalités de recherche sont généralement pourries (sauf peut-être GMail)** ;
-- **les fonctionnalités de protection contre le spam** et les indésirables **sont pourries** (sauf GMail et Microsoft Outlook) ;
-- **le carnet d'adresse est souvent inexistant**, ou alors restreint aux adresses de votre institution (laboratoire, école, université), c'est débile : avec mon adresse ``wonder.woman@labo.fr`` j'ai tout le temps besoin d'écrire à 42 autres institutions ! Ou même, il est restreint aux adresses vues avec ce compte uniquement ;
-- **les fonctionnalités avancées sont souvent absentes**, telles que le chiffrement (cf. `<pgp.fr.html>`_) ou l'inspection détaillée des entêtes numériques de chaque courriel ;
-- et enfin, une raison écologique : à chaque connexion, le site distant doit vous renvoyer le code source de l'affichage et du client javascript : c'est tout bonnement débile de devoir les faire transiter par le réseau à chaque fois.
-
-**La seule solution raisonnable et professionnelle est d'utiliser un client de messagerie, pour votre ordinateur bureau ainsi que pour votre smartphone**. Il existe plein de solutions, je vais vous recommander les deux plus populaires, qui ont les avantages d'être libre et gratuites (Free and Open-Source Software, FOSS), multi-plateformes, très fiables et qui ont la confiance de millions d'utilisateurs et utilisatrices de part le monde :
-
-1. **Sur ordinateur, utilisez Mozilla Thunderbird**. Cf. site officiel `<https://www.thunderbird.net/>`_. J'ai encore le réflexe d'appeler ça Mozilla Thunderbird, je l'utilise sous ce nom depuis 2011, mais le site officiel indique désormais *Thunderbird is now part of MZLA Technologies Corporation, a wholly owned subsidiary of Mozilla Foundation*.
-
-2. **Sur téléphone intelligent ("smartphone"), utilisez K-9 mail**. Cf. site officiel `<https://k9mail.app/download.html>`_. Ma page `<apk.fr.html>`_ pour plus de conseils pour les meilleures applis faibles, sécurisées et libres pour Android.
-
-.. warning:: *Et mon Mac/iPhone alors ?* Oubliez Apple et son iOS ou OS X, c'est de la merde en boite qui vous espionne, vous pompe votre argent, qui va ralentir et tuer votre appareil dans deux ou trois ans, et vous espionne (mais ça, vous le saviez déjà non ?). Apple est une des pires entreprises mondiales en ce qui concerne la fraude fiscale, l'étouffement de la concurrence, l'exploitation de ses travailleurs dans ses usines en Chine, et le greenwashing en général. **Je boycotte Apple depuis 2011 et j'en suis fier !**
-
-
-À chaque fois fois que vous obtenez une nouvelle adresse électronique, TODO: ajouter le mail et bien le configurer.
 
 
 ------------------------------------------------------------------------------
 
 
-Mes conseils pour écrire des bons emails
-----------------------------------------
+My tips to read efficiently your emails
+---------------------------------------
 
-- **Un email est plus formel et se doit d'être plus soigné qu'un SMS** ou un message sur une appli de messagerie instantanée comme Discord. Surtout votre premier échange par email avec une nouvelle personne, soyez très pro et adoptez un niveau de langue soutenu (pas ampoulé ou pédant, juste soutenu, comme cet article) ;
+It is quite disappointing, but I am often sad to see the bad technological choices made by many of my loved ones, even in the middle of researchers-his or teachers in mathematics or computer ...
 
-- Normalement, un email est une lettre au format numérique, et donc de vieilles règles disent qu'il faudra commencer un email par *Chère Madame* ou *Cher Monsieur*, et pas *Bonjour Batman* ou *Bonsoir James Bond*. **Cette règle n'a plus aucun sens en 2021, et tout le monde dit salut, avé, bonjour, bonsoir, etc.** ;
+**Do not use "web-mails"**, These email clients written in HTML / CSS and JavaScript, which can be used after login (username / password) in your browser! Here are seven reasons, in order of importance:
 
-- Configurez votre client de messagerie pour être sûr de respecter les points suivants :
+- **you will lose time (and bandwidth) to reconnect each time** ;
+- **You will not have access to your emails if you have** (temporarily) **no Internet access** ;
+- **Search features are usually very limited** (except perhaps GMail) ;
+- **The protection features against spam** and unwanted emails **are usually very limited too** (except GMail and Microsoft Outlook) ;
+- **The address book is often non-existent**, Or restricted to the addresses of your institution (laboratory, school, university), it's stupid: with my address ``wonder.woman@labo.fr`` I have all the time to write to 42 other institutions! Or even, it is restricted to the addresses viewed with this account only ;
+- **Advanced features are often absent**, such as encryption (cf. `<pgp.en.html>`_) or the detailed inspection of the digital headers of each email ;
+- and finally, an ecological reason: each connection, the remote site must send you the source code from the display and the JavaScript client: it is simply stupid to have to make them transit through the network each time.
 
-    - votre identité doit s'afficher comme **Prénom [Prénoms] Nom** ``<prenom.nom@institution.edu>`` (ou autre format de mail), mais je vous en prie, pas juste ``jules251@gmail.com`` : **on doit savoir qui vous êtes, sans même lire votre email !**
-    - **sauf si vous êtes la newsletter de Greenpeace, les emails s'écrivent en mode texte brut**. Pas de polices bizarres (looking at you, `Comic Sans <https://www.comicsanscriminal.com/>`_), pas d'images incluses, pas de liens bizarres cachés sur un mot, rien que du texte, du texte du texte. Comme en 1984, parce que ça marche. Parce que c'est le plus économique et écologique. Parce que c'est compatible avec les lecteurs d'écran et autres technologies pour l'accessibilité aux handicaps. Parce que c'est suffisant et sobre, donc nécessaire.
-    - ajoutez une signature, au format suivant : formule de politesse passe-partout, une ligne ``-- `` (l'espace en fin de est importante !), votre nom, votre statut / titre / position, et éventuellement un site web, un numéro de téléphone, votre groupe sanguin, un `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `une blague <blagues.fr.html>`_, `une citations <quotes.fr.html>`_, etc. :
+**The only reasonable and professional solution is to use a mail client, for your desktop computer as well as for your smartphone**. There are plenty of solutions, I will recommend the two most popular, who have the advantages of being free and free (Free and Open-Source Software, Foss), multi-platform, very reliable and have the confidence of millions of users and users from the world:
+
+1. **On computer, use Mozilla Thunderbird**. Cf. official website `<https://www.thunderbird.net/>`_. I still have the reflex to call it Mozilla Thunderbird, I use it under this name since 2011, but the official website now indicates *Thunderbird is now part of MZLA Technologies Corporation, a wholly owned subsidiary of Mozilla Foundation*.
+
+2. **On Smartphone ("smartphone"), use K-9 Mail**. Cf. official website `<https://k9mail.app/download.html>`_. My webpage `<apk.en.html>`_ For more tips for the best weak, secure and free apps for Android.
+
+.. warning:: *And for Mac/iPhone?* Forget Apple and his iOS or OS X, it's shit in box that spies you, pump your money, who will slow down and kill your device in two or three years, and spy on (but that, you already knew it no?). Apple is one of the worst global enterprises with respect to tax evasion, the suffocation of competition, the exploitation of its workers in its factories in China, and the Greenwashing in general. **I have been boycotting Apple since 2011 and I'm proud of it!**
+
+
+**Whenever you get a new email address, add the email and configure the correctly correctly.**
+**Check that you can send an email and receive one, from your address and address.**
+
+
+------------------------------------------------------------------------------
+
+
+My tips for writing emails efficiently
+--------------------------------------
+
+- **An email is more formal and needs to be neat than a sms** or a message on an instant messaging app as Discord. Especially your first exchange by email with a new person, be very pro and adopt a good level of language (not pretentious or pedantic, just a good level, as this article) ;
+
+- Normally, an email is a letter in digital format, and therefore old rules say that it will start an email by *dear madam* or *dear sir*, and not *Hello Batman* or *Good evening James Bond*. **This rule no longer makes no sense in 2021, and everyone says hello, good morning, good evening, etc.** ;
+
+- Configure your mail client to be sure to respect the following points:
+
+    - your identity must be displayed as **Firstname [Firstname] Name** ``<firstname.name@institution.edu>`` (or other mail format), But I beg you, not just ``jules251@gmail.com`` : **We must know who you are, without even reading your email!**
+    - **Unless you are the Greenpeace Newsletter, the emails are written in raw text mode**. No weird fonts (looking at you, `Comic Sans <https://www.comicsanscriminal.com/>`_), no images included, no bizarre links hidden on a word, just text, text text. As in 1984, because it works. Because it's the most economical and ecological. Because it's compatible with screen readers and other technologies for accessibility to disabilities. Because it's enough and sober, so necessary ;
+    - Add a signature, in the following format: a short and polite formula, a line ``-- `` (the space at the end of is important!), your name, status / title / position, and possibly a website, a phone number, your blood group, a `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `a joke <jokes.en.html>`_, `a citations <quotes.en.html>`_, etc. :
 
 .. code-block::
 
-    Bien cordialement,
+    Best regards,
     -- 
     Wonder Woman,
     Justice League of the Free World
     wonder.woman+spam@justice.league
     +3312312312412 | https://justice.league/wonder.woman
 
-- Aérez vos emails : un seul gros paragraphe, c'est illisible. Les sauts de lignes sont économes (un seul caractère ASCII !) mais très utiles, pour rendre lisible même des gros emails. Par exemple :
+- Space in with your emails: only one big paragraph is illegible. The jumps of lines are economical (a single ASCII character!) But very useful, to make readable very big emails for example:
 
 .. code-block::
 
-    Bonjour Batman,
+    Hello Batman,
 
-    J'ai bien aimé ta présentation sur les mauvais usages des électrochocs à l'asile d'Arkham, et les conséquences sur la santé mentale de patients dangereux comme *Le Joker*.
+    I liked your presentation on bad uses of Arkham asylum, and the consequences for the mental health of dangerous patients like *the joker*.
 
-    Tu trouveras ci-joint ma propre analyse des dérives de l'utilisation du *Lasso de la vérité*, ainsi qu'une analyse comparative implémentée en Python 3.
+    You will find attached my own analysis of the drifts of the use of the truth *lasso*, as well as a comparative analysis implemented in Python 3.
 
-    Bien informatiquement,
+    Scientifically,
     -- 
     Wonder Woman
 
 
-- **Votre destinataire devrait savoir ce que vous lui voulez juste en lisant l'objet du mail** et votre identité (cf. conseil précédent), **donc choisissez des objets informatifs** ! Trop souvent je reçois encore maintenant des emails sans objets, ou intitulés "question" ou "demande". Allez y franco et n'ayez pas peur de pousser ça à l'extrême : "Question exercice 4.2 du TP2 Java du cours INF1 - James Bond - merci d'avance" ;
+- **Your recipient should know what you just want him by reading the object of the mail** and your identity (see previous advice), **so choose informative objects**! Too often I am still receiving emails without objects, or titles "question" or "request". Come on Franco and do not be afraid to push that to the extreme: "Question Exercise 4.2 of the Java TP2 of the course INF1 - James Bond - Thanks in advance" ;
 
-- La plupart du temps, même un bon objet ne suffira pas, mais **votre destinataire doit savoir ce que vous lui voulez en lisant la première ligne de l'email** (après le *"Bonjour Batman"* en haut du mail). Si votre email n'a pas le choix que d'être un peu long, incluez une ligne *TL;DR : je vous demande ça, i) truc un, ii) truc deux, iii) truc trois*. (*TL;DR = too long, didn't read*) ;
+- Most of the time, even a good object will not suffice, but **Your recipient must know what you want by reading the first line of the email** (After the *"Hello Batman"* at the top of the mail). If your email has no choice but to be a little long, include a line *TL;DR : I ask you that, i) trick one, ii) trick two, iii) trick three*. (*TL;DR = too long, didn't read*) ;
 
-- Vous avez le droit d'employer du balisage léger *à la Markdown* dans un email (en fait, c'est historiquement l'inverse : les conventions de Markdown, comme ``_italique_`` et ``**gras**``, viennent des usages dans les emails !). Par exemple :
+- You have the right to use light markup *at the markdown* in an email (In fact, it is historically the opposite: the markdown conventions, as ``_italic_`` and ``**bold**``, come from uses in emails!) for example:
 
 .. code-block::
 
-    Bonjour Wonder Woman,
+    Hello Wonder Woman,
 
-    Toujours un vrai plaisir que de recevoir de tes nouvelles ! Voici mon impression :
+    Always a real pleasure to receive from your news!Here is my impression:
 
-    ## psychologie
+    ## Psychology
 
-    Un paragraphe sur la psychologie du *Joker*.
+    A paragraph on the psychology of *Joker*.
 
-    - il est fou ;
-    - mais il a raison ;
-    - et ceci est une liste !
+    - he is crazy ;
+    - But he's right;
+    - And this is a list!
 
-    ## stratégie
+    ## Strategy
 
-    Un paragraphe sur la stratégie du *Pingouin*. Il est un peu **enrobé** (gras !).
-    Voici [un lien](https://pingouin-stats.org/), et un autre plus lisible <https://pingouin-stats.org/>.
+    A paragraph on the strategy of *Penguin*. It is a little eager **gold** (greasy!).
+    Here is [a link](https://pingouin-atstats.org/), and another more readable <https://pingouin-atstats.org/>.
 
-    Bonne chance face aux ténèbres,
+    Good luck against darkness,
     -- 
-    Ton cher B.W., alias Batman
+    Your dear B.W., alias Batman
 
 
-Des trucs et astuces pour les pros des emails
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tips and tricks to be a pro email user
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Astuce pratique : ajoutez les destinataires seulement à la fin !** Un client de messagerie sérieux doit vous interdire d'envoyer un email s'il n'a pas de destinataire, donc en renseignant les adresses (et noms) des destinataires seulement à la fin, une fois que le texte est terminé (et relu !), vous n'avez aucun risque d'envoyer un mail qui ne soit pas bien terminé !
+- **Practical Tip: add the recipients only at the end!** A serious mail client must forbid you to send an email if it does not have a recipient, so in contacting the addresses (and names) of the recipients only at the end, once the text is complete (and proof-read!), you have no risk of sending an email that is not completed!
 
-- Autre astuce ultime et facile : **avant l'envoi d'un email, faites un rapide copier-coller** ! Comme ça si l'envoi échoue, ou si le brouillon n'a pas été sauvegardé, vous gardez votre texte. Cette astuce est renforcée si vous êtes assez malins pour penser à utiliser un **gestionnaire d'historique de presse papiers** sur votre ordinateur ou smartphone. Sous GNOME et GNU/Linux, je recommande `Parcellite <http://parcellite.sourceforge.net/>`_ (cf. `<mes-outils-preferes.fr.html>`_). C'est aussi très pratique si vous écrivez plusieurs mails très similaires à la suite !
+- Another ultimate and easy tip: ** Before sending an email, make a quick copy-paste**! Like this if the shipment fails, or if the draft has not been saved, you keep your text.This trick is strengthened if you are smart enough to think about using a **Press Papers History Manager** on your computer or smartphone.Under Gnome and GNU / Linux, I recommend parcellait `<http://parcellite.sourceforge.net/>`_ (cf. `<my-favorite-tools.en.html>`_). It's also very convenient if you write multiple emails very similar to the rest!
 
-- **Si c'est un mail important, mettez vous (ou une autre adresse sur un autre serveur) en copie !** Je m'envoie mes mails importants à ``lilian at besson.link``, depuis 2020, pour en garder une trace "au cas où".
+- **If it's an important email, put yourself (or another address on another server) copy!** I send my important emails to ``lilian at besson.link``, since 2020, to keep a trace "in case".
 
-- **Vous avez le droit d'écrire des mails en avance, de les enregistrer comme des brouillons, et de les envoyer plus tard à un moment choisi**. J'ai fait ça pendant plusieurs années quand j'étais en charge des annonces et des prises de contacts pour `les séminaires d'initiation à la recherche scientifique <http://www.dit.ens-rennes.fr/seminaires/>`_, au département informatique de l'ENS Rennes.
+- **You have the right to write emails in advance, to record them as drafts, and send them later at a chosen moment**. I did that for several years when I was in charge of ads and contacts for `the introductory seminars to scientific research <http://www.dit.ens-rennes.fr/seminaires/>`_, in the IT department of the ENS Rennes.
 
-- **Si vous utilisez l'adresse électronique de votre institution** (e.g., labo de stage de recherche, de thèse, école, etc.), **pensez bien au fait qu'elle ne sera normalement pas valide à vie !** Mon adresse de l'`ENS Cachan <http://www.ens-cachan.fr/>`_ (désormais en ``@ens-paris-saclay.fr``) sera normalement terminée en septembre 2021, dix ans après être devenu élève normalien fonctionnaire en septembre 2011.
+- **If you use the email address of your institution** (e.g., research internship lab, thesis, school, etc.), **think that it will not normally not be valid for life!** My address of the `ENS Cachan <http://www.ens-cachan.fr/>`_ (now currently in ``@ens-paris-saclay.fr``) will normally be completed in September 2021, ten years after becoming a normal student official in September 2011.
 
-.. seealso:: Certains et certaines vont même plus loin, en utilisant un greffon comme `"Send later for Thunderbird" <http://www.dit.ens-rennes.fr/seminaires/>`_. J'ai ce greffon depuis cinq ans, je n'ai jamais pensé à m'en servir, car je n'ai jamais ressenti le besoin.
-
-
-Pour aller encore plus loin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **N'envoyez vos emails que dans les horaires de travail : 8h - 19h**, de lundi matin à vendredi soir. Ou en tous cas, n'espérez pas de réponse en dehors de ces horaires ;
-
-- **Rédigez chaque email comme s'il allait être imprimé et diffusé en ligne par une personne malveillante** : soyez clean ! Ou bien comme s'il allait être affiché sur votre porte de bureau, ou envoyé à vos parents dans trois minutes ou dans 11 ans : aucune insulte, un ton toujours parfaitement cordial et poli, toujours politiquement correct, et n'évoquez ou ne parlez jamais de quoique ce soit d'illégal. Un email a une valeur légale, en cas de procès. Un email restera stocké sur le serveur du destinataire, même si vous le supprimez. La plupart des gens peuvent retrouver leurs emails, même quinze ans après. Quelqu'un pourrait utiliser un email mal rédigé contre vous. Soyez prudent !
-
-    - J'essaie d'appliquer ce conseil, depuis 2013. Je ne serai pas forcément fier du ton employé dans quelques emails professionnels en 2012...
-    - C'est une règle évidemment discutable... et certains préfèrent opérer selon les `règles de Crocker <https://duckduckgo.com/?q=%22r%C3%A8gles+de+Crocker%22&t=canonical>`_.
+.. seealso:: Some and some go even further, using a graft like `"Send later for Thunderbird" <http://www.dit.ens-rennes.fr/seminaires/>`_. I have this graft for five years, I never thought of using it because I have never felt the need.
 
 
-Orthographe et grammaire
-~~~~~~~~~~~~~~~~~~~~~~~~
+To go even further
+~~~~~~~~~~~~~~~~~~
 
-- **Soyez pro : l'orthographe est très importante**, et dans un message que vous avez le temps d'écrire et de relire avant de l'envoyer, vous n'avez aucune excuse de laisser des fautes d'orthographe grossière !
+- **Do not send your emails than in work schedules : 8h - 19h**, from Monday morning to Friday night. Or in any case, do not expect an answer outside these schedules ;
 
-- **Des petites fautes d'accord ou de subtilités sont acceptables mais pas plus**, mais *dais mos aicri caume sa* c'est inadmissible ! Vous pourriez tomber sur quelqu'un de strict, qui ne vous répondra tout simplement pas si votre email est trop rempli de fautes d'orthographe. Ce "trop" dépend des personnes, mais j'ai tendance à croire à une corrélation avec l'âge et le niveau hiérarchique de votre destinataire... *faites attention, notamment lors de premiers contacts avec un ou une chercheur-se ou directrice-teur de laboratoire ou d'entreprise !*
+- **Write each email as if it was going to be printed and broadcast online by a malicious person**: be clean! Or as if it were going to be posted on your office door, or sent to your parents in three minutes or in 11 years: no insult, a tone always perfectly cordial and polite, always politically correct, and do not evoke or speak. Never ever illegal. An email has a legal value, in case of trial. An email will remain stored on the recipient's server, even if you delete it. Most people can find their emails, even fifteen years later. Someone could use a bad email written against you. Be careful !
 
-- **Tous les logiciels d'écriture d'emails se doivent d'avoir au moins un correcteur orthographique basique** : si c'est Thunderbird ou K-9 mail, utilisez les ! Si c'est un webmail, votre navigateur devrait gérer ça ! Sinon, passez à `Mozilla Firefox <https://www.mozilla.org/fr/firefox/new/>`_.
+    - I'm trying to apply this board, since 2013. I am not necessarily proud of the "oral" tone I used in a few professional emails in 2012...
+    - This is an obviously debatable rule ... and some prefer to operate according to the `the Crocker rules <http://sl4.org/crocker.html>`_.
 
-Des greffons pour Thunderbird
+
+Spelling and grammar
+~~~~~~~~~~~~~~~~~~~~
+
+- **Be Pro: spelling is very important**, and in a message that you have time to write and re-read before sending it, you have no excuse to leave coarse spelling mistakes!
+
+- **Small mistakes or subtleties are acceptable but no more**, but *words writenn lik this*, it is unacceptable! You could fall on someone strict, which will simply answer you if your email is too filled with spelling mistakes. This "too" depends on people, but I tend to believe in a correlation with the age and hierarchical level of your recipient... *Pay attention, especially at first contacts with one or a researcher-SE or laboratory director or corporate!*
+
+- **All email writing software must have at least a basic spell corrector** : If it's Thunderbird or K-9 Mail, use the! If it's a webmail, your browser should handle that! Otherwise, go to `Mozilla Firefox <https://www.mozilla.org/fr/firefox/new/>`_.
+
+A few plugins for Thunderbird
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Grammar checker** (`sur cette page <https://addons.thunderbird.net/en-US/thunderbird/addon/grammar-checker/>`_) : pour bien contrôler et vérifier la grammaire et d'autres détails linguistiques, c'est excellent ! Avec `LanguageTool <https://languagetool.org/fr>`_ qui est un logiciel libre et open-source ;
+- **Grammar checker** (`on this page <https://addons.thunderbird.net/en-US/thunderbird/addon/grammar-checker/>`_) : to control well and check the grammar and other linguistic details, it's excellent! With `LanguageTool <https://languagetool.org/fr>`_ which is free and open-source software ;
 
-- **Thème sombre (dark)** : pour se protéger les yeux (et pour navigateur web il faut `Dark Reader <https://darkreader.org/>`_, cf. `mes greffons pour Firefox <firefox-extensions.fr.html>`_).
+- **Dark theme** : To protect yourself with the eyes (and for web browser it takes `Dark Reader <https://darkreader.org/>`_, cf. `my plugins for Firefox <firefox-extensions.en.html>`_).
 
 
-Sécuriser ses emails ?
-~~~~~~~~~~~~~~~~~~~~~~
+Secure your emails?
+~~~~~~~~~~~~~~~~~~~
 
-.. seealso:: **J'explique des choses sur le chiffrement GPG**, sur cette page `<pgp.fr.html>`_ sur ce blogue ! Comme des fois (Zotéro!), *je suis un terrible exemple, malgré ce tutoriel en ligne depuis 2013* : certaines de mes adresses ne sont pas bien associées à ma clé GPG, et mon client K-9 mail sur mes smartphones n'est pas bien configuré pour signer les emails sortant, alors que l'appli le permettrait.
+.. seealso:: **I explain things about encryption GPG**, on this page `<pgp.en.html>`_ on my blog! As sometimes (Zotéro!), *I am a terrible example, despite this online tutorial since 2013* : some of my addresses are not well associated with my GPG key, and my K-9 Mail client on my smartphones is not configured to sign outgoing emails, while the app would allow it.
 
 
 ------------------------------------------------------------------------------
 
 
-Autres conseils
----------------
+Other tips
+----------
 
-Déjà, on peut rigoler une minute, pour se moquer gentiment des personnes qui sont trop attachées à *tel logiciel bien configuré comme il faut* (`XKCD: Team chat #1782 <https://www.xkcd.com/1782/>`_) :
+Already, one can laugh for a minute, to mock the people who are too attached to *such software well configured as it should* (`XKCD: Team chat #1782 <https://www.xkcd.com/1782/>`_) :
 
 .. image:: https://imgs.xkcd.com/comics/team_chat.png
     :scale: 25%
@@ -197,105 +194,105 @@ Déjà, on peut rigoler une minute, pour se moquer gentiment des personnes qui s
     :target: https://www.xkcd.com/1782/
 
 
-Quand faut-il utiliser des emails ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When do you need to use emails?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Quand il faut une trace pérenne des échanges, et de petites pièces jointes** ;
-- **Quand il faut contacter quelqu'un de nouveau pour le travail ou les administrations** ;
-- **Quand il faut communiquer d'une personne (e.g., un prof) à un petit groupe (e.g., des élèves)**, occasionnellement. Si c'est dix emails par jours, passez à autre chose, Discord ou un forum Moodle ou autre... !
-
-
-Quand ne faut-il pas utiliser des emails ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- **Pour contacter des gens que vous savez moins à l'aise en informatique : préférez un bon vieux SMS, un appel, ou un message instantané** ;
-- Préférez évidemment des solutions sécurisées et respectueuses de votre vie privée, comme Signal ou Telegram, mais bannissez les solutions qui vous espionnent, revendent vos données et sont souvent victimes de larges fuites de données comme WhatsApp, Facebook/Messenger, les messages Instagram ou Twitter, ou même Snapchat ;
-
-- **Pour des longs échanges qui nécessitent beaucoup d'aller-retours, et de réponse à des morceaux spécifiques, préférez une messagerie instantanée**, comme Signal ou Telegram ;
-
-- **Pour envoyer des gros fichiers, utilisez un service web pour stocker** *temporairement* **ces gros fichiers**, et pas des pièces jointes !
-
-- **Pour des newsletter : just don't**, utilisez un flux RSS, pour votre blogue, votre association etc.
+- **When it takes a perennial trace of exchanges, and small attachments** ;
+- **When you need to contact someone again for work or administrations** ;
+- **When you have to communicate a person (e.g., a teacher) to a small group (e.g., students)**, occasionally if it's ten emails a day, move on, discord or a moodle or other forum...!
 
 
-Pour les mails automatiques désirables
+When do *not* use emails?
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **To contact people you know less comfortable in computer science: prefer a good old SMS, a call, or an instant message** ;
+- Obviously prefer secure solutions and respectful of your privacy, as a signal or telegram, but I ban the solutions that spy to you, resell your data and are often victims of broad data leaks like WhatsApp, Facebook / Messenger, instagram or twitter messages,Or even snapchat ;
+
+- **For long exchanges that require a lot of return, and response to specific pieces, prefer instant messaging**, as signal or telegram;
+
+- **To send big files, use a web service to store** *temporarily* **these big files**, and not attachments!
+
+- **For newsletter: just don't**, use an RSS feed, for your blog, your association, etc.
+
+
+For desirable automatic emails
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+By desirable automatic emails, I hear the mailing lists (e.g., news of a laboratory, working group, information from a class or a given course), and newsletters.
+
+- **Never "answer all" to a mailing list, unless it's explicitly your goal**. Honestly, even be careful, I still have to make a mistake twice a year. But some, even pro and with 30 years of career, make the mistake three times a week...
+
+- **Unsubscribe** email alerts and other automatic emails (Newsletter style you do not read). **The rule is simple: if twice as a result you do not have the time or more the desire to read an automatic email, unbind you**. Or switch to RSS alerts, which have a much lower carbon footprint (cf. `<rss.html>`_ to follow this website and other tips on RSS feeds) ;
+
+
+For unwanted automatic emails ("spam")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Par emails automatiques désirables, j'entends les listes de diffusion (e.g., actualités d'un laboratoire, groupe de travail, informations d'une classe ou d'un cours donné), et les newsletter.
+1. **Be careful and careful when reading emails** : *A ladle*, *an inappropriate demand* (still an increase in my penis?!), *fallen spelling faults*, *stupid fonts*, *images included in the email*, *An incredible and incredible offer* (no, a Nigerian prince does not need you to cash 150 million euros!), *and internal links to the email leading on bizarre and unreliable sites*: **All these indices must alarm you!**
 
-- **Ne faites jamais "répondre à tous" à une liste de diffusion, sauf si c'est explicitement votre but**. Honnêtement, même en faisant attention, je dois encore faire une erreur deux fois par an. Mais certains, même pro et avec 30 ans de carrière, font l'erreur trois fois par semaine...
+2. *Three things to do when you think that an email is undesirable* :
 
-- **Désabonnez-vous** des alertes emails et autres emails automatiques (style newsletter que vous ne lisez pas). **La règle est simple : si deux fois de suite vous n'avez pas le temps ou plus l'envie de lire un email automatique, désabonnez-vous**. Ou passez à des alertes RSS, qui ont une empreinte carbone bien plus faible (cf. `<rss.html>`_ pour suivre ce site web et d'autres conseils sur les flux RSS) ;
+    - **Do not click on anything**, even a link "unsubscribe me" which are false links and intended to spy on (first of all to one thing: to check that you are enough :strike:`stupid` blind to click anywhere) ;
+    - **Tag or report email as an unwanted** via your application or software (Thunderbird has an express button) or your web client ;
+    - If you ever have clicked anyway (`not good! <https://www.youtube.com/watch?v=_V_tj_WHevE>`_), Be extremely careful on the web page: do not give any password, especially those of your online bank accounts or "social networks".
 
-
-Pour les mails automatiques indésirables ("spam")
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. **Soyez prudent et prudente lors de la lecture des emails** : *une adresse louche*, *une demande inappropriée* (encore une augmentation de mon pénis ?!), *des fautes d'orthographe flagrantes*, *des polices/fontes mal choisies*, *des images incluses dans l'email*, *une offre invraisemblable et incroyable* (non, un prince Nigérien n'a pas besoin de vous pour encaisser 150 millions d'euros !), *et des liens internes aux mail qui dirigent sur des sites bizarres et non fiables* : **tous ces indices doivent vous alarmer !**
-
-2. *Trois choses à faire quand vous pensez qu'un email est indésirable* :
-
-    - **ne cliquez sur rien**, même un lien "désabonnez-moi" qui sont des faux liens et destinés à vous espionner (à en premier lieu à une chose : à vérifier que vous êtes assez :strike:`con` crédule pour cliquer partout) ;
-    - **étiquetez ou signalez l'email comme un indésirable** via votre application ou logiciel (Thunderbird a un bouton exprès) ou votre client web ;
-    - si jamais vous avez quand même cliqué (`pas bien ! <https://www.youtube.com/watch?v=_V_tj_WHevE>`_), soyez extrêmement prudent-e sur la page web : ne donnez aucun mot de passe, en particulier ceux de vos comptes bancaires en ligne ou de vos "réseaux sociaux".
-
-3. **Nan mais sérieusement, c'est pas compliqué de pas cliquer sur des liens bizarres !** Et si vous vous voulez tenter de jouer contre les spammeurs, faites le comme les professionnels (eg., `James Veitch <https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email>`_), et soyez encore plus prudent-e-s (mais c'est marrant, alors pourquoi pas essayer ?) :
+3. **Nah but seriously, it's not complicated to not click on weird links!** And if you want to try to play against spammers, do it as professionals (e.g., the famous `James Veitch <https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email>`_), and be even more careful-e-s (but it's funny, so why not try?) :
 
 .. youtube:: 9eYdGGfObKk
 
 
-Conseils écologistes pour réduire l'empreinte carbone des courriels
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ecologist tips to reduce the carbon footprint of emails
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Deux faits assez frappants :
+Two fairly striking facts:
 
-1. en 2021, si Internet était un pays, il serait le troisième plus grand consommateur d'électricité !
-2. en 2021, **300 milliards de courriels sont échangés chaque jour** (`source #1 <https://review42.com/resources/how-many-emails-are-sent-per-day/>`_, `source #2 <https://99firms.com/blog/how-many-email-users-are-there/>`_, `meta source <https://duckduckgo.com/?t=canonical&q=how+many+emails+are+sent+every+day+in+2021+%3F&ia=web>`_), environ 90% sont des indésirables et 10 à 30% contiennent des pièces jointes.
+1. In 2021, if the Internet was a country, it would be the third largest electricity consumer!
+2. In 2021, **300 billion emails are exchanged every day ** (`source #1 <https://review42.com/resources/how-many-emails-are-sent-per-day/>`_, `source #2 <https://99firms.com/blog/how-many-email-users-are-there/>`_, `meta source <https://duckduckgo.com/?t=canonical&q=how+many+emails+are+sent+every+day+in+2021+%3F&ia=web>`_), about 90% are unwanted and 10 to 30% contain attachments.
 
-Cinq conseils faciles pour réduire l'empreinte carbone de votre utilisation de courriels :
+Five easy tips to reduce the carbon footprint of your email use:
 
-1. **oubliez les images inclues dans une signature : un bon email est un email des années 1980 : du texte brut et c'est tout !**
-2. **n'imprimez jamais des emails, sauf si absolument nécessaire** ;
-3. **si vos pièces jointes sont lourdes (+ de 5 Mo) et/ou à destination de nombreuses personnes, il ne faut pas les envoyer comme pièces jointes**, mais via un service web permettant le transfert de gros fichiers ! En tant qu'universitaire en France, il faut utiliser `FileSender de Renater <https://filesender.renater.fr/>`_ ou un logiciel similaire (le CNRS, Inria et d'autres ont leurs propres versions) ;
-4. **videz votre corbeille (et dossier d'indésirables) régulièrement**, au moins une fois par mois ;
-5. **ne cliquez jamais sur "répondre à tous" sauf si nécessaire**, pour des emails envoyés à beaucoup de gens ou des listes de diffusion ;
-
-
-Des conseils plus difficiles à respecter :
-
-- **désabonnez-vous** des alertes emails et autres emails automatiques (style newsletter que vous ne lisez pas). **La règle est simple : si deux fois de suite vous n'avez pas le temps ou plus l'envie de lire un email automatique, désabonnez-vous**. Ou passez à des alertes RSS, qui ont une empreinte carbone bien plus faible (cf. `<rss.html>`_ pour suivre ce site web et d'autres conseils sur les flux RSS) ;
-- **passez chez un fournisseur/hébergeur de courriels écologique**, comme `Lilo.org <https://mail.lilo.org/>`_ ;
-- **stockez vos vieux courriels sur votre machine personnelles** (ainsi qu'une copie sur au moins un disque dur externe), et supprimez les définitivement de vos serveurs, par exemple une fois par an ;
-- **bannissez l'utilisation du 3G/4G/5G pour récupérer/envoyer vos courriels**, vous pouvez généralement attendre d'être connecté à un réseau Wi-Fi !
+1. **Forget the images included in a signature: a good email is an email from the 1980s: raw text and that's it!**
+2. **Never print emails unless absolutely necessary** ;
+3. **If your attachments are heavy (+ 5 MB) and / or to many people, do not send them as attachments**, But via a web service allowing the transfer of large files! If you work in a public university or research laboratory in France, you have to use `FileSender by Renater <https://filesender.renater.fr/>`_ or similar software (CNRS, INRIA and others have their own versions) ;
+4. **Empty your trash (and unwanted file) regularly**, at least once a month ;
+5. **Never click on "Reply to all" unless necessary**, for emails sent to many people or mailing lists ;
 
 
-Quelques trucs peu connus sur les emails ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+More difficult advice to respect:
 
-- `La norme RFC 2822 <https://www.arobase.org/docs/rfc2822.htm>`_ qui définit ce que peut être une adresse électronique valide est bien plus permissive que ce que l'on peut croire !
-
-- Par exemple, ``wonde.woman+onlinedating@justice.league`` est valide ! Beaucoup de gens utilisent ces étiquettes ``+topic@`` pour avoir plusieurs adresses qui ne sont en fait qu'une seule sur le serveur email. GMail par Google et d'autres fournisseurs d'emails permettent de recevoir les emails avec de telles étiquettes, sans rien avoir à configurer, même si c'est la première fois qu'une telle adresse est utilisée !
-
-- Les emails ne sont pas sécurisés, et les adresses électroniques peuvent être volées (cherchez en ligne, email spoofing). Cet article `Email Spoofing (ou Address Spoofing) : Le SPAM par usurpation d'adresse IP <https://blog.provectio.fr/email-spoofing-lutter-contre-le-spam-par-usurpation-didentite/>`_ est très utile.
+- **Unsubscribe** email alerts and other automatic emails (Newsletter style you do not read). **The rule is simple: if twice again you do not have the time or more the desire to read an automatic email, unbind you**. Or go to RSS alerts, which have a much lower carbon footprint (see `<rs.html> `_ to follow this website and other tips on RSS feeds) ;
+- **Go to an ecological email supplier / host **, as `Lilo.org <https://mail.lilo.org/>`_ ;
+- **Store your old emails on your personal machine** (as well as a copy on at least one external hard drive), and delete the definitely from your servers, for example once a year ;
+- **Ban the use of 3G / 4G / 5G to recover / send your emails**, you can usually wait to be connected to a Wi-Fi network!
 
 
-Quelques légendes urbaines sur les emails ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Some little known information on emails?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- blabla ;
-- blabla ;
+- `The RFC 2822 norm <https://www.arobase.org/docs/rfc2822.htm>`_ which defines what a valid email address can be much more permissive than what can be believed!
+
+- For example, ``wonde.woman+onlinedating@justice.league`` is valid! Many people use these labels ``+topic@`` To have multiple addresses that are actually only one on the email server. GMail by Google and other email providers allow you to receive emails with such labels, without having to configure anything, even if it is the first time that such an address is used!
+
+- Emails are not secure, and electronic addresses can be stolen (search online, spoofing email). This French article `Email Spoofing: Spam by IP address usurpation <https://blog.provectio.fr/email-spoofing-lutter-contre-le-spam-par-usurpation-didentite/>`_ is very useful, and other can easily be found online.
+
+
+Some urban legends on emails?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **You can hack someone by sending an email: no**, to "hack" someone (definition?), it is necessary that this person has agreed to open this email, and activate the images and remote resources (trick: by default, Thunderbird blocks them!). Generally, you have to agree to open an attachment, which can be a PDF or Microsoft Word or Excel document, which can contain a virus. Under Microsoft Windows, you have to be very careful!
+- **There is an automatic and universal acknowledgment of receipt** (or reading) **in emails** (like WhatsApp or Signal or Telegram):** no, it's wrong!** You always should have a choice to send it back, and it should be automatic (tips: it's not automatic in Thunderbird!).
 - blabla.
 
-.. seealso:: Vous en connaissez d'autres ? Je suis curieux !
+.. seealso:: Do you know others? I'm curious! `Contact me <callme.en.html>`_ !
 
 ---------------------------------------
 
-Et encore d'autres conseils
----------------------------
+And still more tips and tricks
+-------------------------------
 
-Je vous encourage à lire aussi cet article sur `conseils-visio <conseils-visio.fr.html>`_, qui donne des conseils pour les visio-conférences et la communication audio-visuelle en ligne en général.
+I encourage you to read this article on `video-conferences <conseils-visio.en.html>`_, which gives tips and tricks for video-conferences and online audio-visual communication in general.
 
-Ces vidéos en anglais peuvent aussi vous intéresser :
+These videos in English can also interest you:
 
 .. youtube:: SBTojgEHl90
 
@@ -305,10 +302,10 @@ Ces vidéos en anglais peuvent aussi vous intéresser :
 
 .. youtube:: oeAwdAGBAkk
 
-Et en français, `il y en a plein <https://www.youtube.com/results?search_query=comment+bien+%C3%A9crire+des+emails>`_ :
+And in French, `there are plenty <https://www.youtube.com/results?search_query=comment+bien+%C3%A9crire+des+emails>`_ :
 
 .. youtube:: eNdoHymfwu4
 
-Enfin, vous pouvez aisément chercher d'autres documents similaires, ou d'autres vidéos, par exemple avec `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+écrire+des+bons+emails>`_. J'avais regardé une douzaine de vidéos, pendant la rédaction de cette page-là.
+Finally, you can easily look for other similar documents, or other videos, for example with `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+écrire+des+bons+emails>`_. I looked at about 20 videos in both French and English, while writing this page in April 2021.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

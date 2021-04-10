@@ -20,7 +20,7 @@ Mon pronostic personnel dans 20 ans : Facebook et Twitter seront morts et enterr
 .. image:: https://imgs.xkcd.com/comics/email.png
    :scale: 25%
    :align: center
-   :alt: XKCD: A New Year comic, where Megan asks Beret Guy if he has any New Year's resolutions, and even though this is just before new year 2015, his resolution is to find out what an email is!
+   :alt: XKCD: Une bande dessinée de nouvel an, où Megan demande à Béret Guy s'il a des résolutions du nouvel an, et même si cela est juste avant le nouvel an 2015, sa résolution est de savoir quel courriel !
    :target: https://www.xkcd.com/1467/
 
 En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
@@ -30,7 +30,7 @@ Et avant ces conseils, si vous voulez rigoler pendant 15 minutes (en anglais), r
 .. youtube:: LiLS7U7YIdc
 
 
-    ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 
 Mes conseils bien lire ses emails
@@ -41,7 +41,7 @@ C'est assez décevant, mais je suis souvent effaré de voir les mauvais choix te
 **N'utilisez pas les "web-mails"**, ces clients de messagerie écrits en HTML/CSS et Javascript, et utilisables après une connexion (identifiant / mot de passe) dans votre navigateur ! Voici sept raisons, par ordre d'importance :
 
 - **vous perdrez du temps à vous reconnecter à chaque fois** ;
-- **vous n'aurez pas accès à vos emails si vous n'avez** (temporairement) **plus Internet** ;
+- **vous n'aurez pas accès à vos emails si vous n'avez** (temporairement) **plus accès à Internet** ;
 - **les fonctionnalités de recherche sont généralement pourries (sauf peut-être GMail)** ;
 - **les fonctionnalités de protection contre le spam** et les indésirables **sont pourries** (sauf GMail et Microsoft Outlook) ;
 - **le carnet d'adresse est souvent inexistant**, ou alors restreint aux adresses de votre institution (laboratoire, école, université), c'est débile : avec mon adresse ``wonder.woman@labo.fr`` j'ai tout le temps besoin d'écrire à 42 autres institutions ! Ou même, il est restreint aux adresses vues avec ce compte uniquement ;
@@ -57,7 +57,8 @@ C'est assez décevant, mais je suis souvent effaré de voir les mauvais choix te
 .. warning:: *Et mon Mac/iPhone alors ?* Oubliez Apple et son iOS ou OS X, c'est de la merde en boite qui vous espionne, vous pompe votre argent, qui va ralentir et tuer votre appareil dans deux ou trois ans, et vous espionne (mais ça, vous le saviez déjà non ?). Apple est une des pires entreprises mondiales en ce qui concerne la fraude fiscale, l'étouffement de la concurrence, l'exploitation de ses travailleurs dans ses usines en Chine, et le greenwashing en général. **Je boycotte Apple depuis 2011 et j'en suis fier !**
 
 
-À chaque fois fois que vous obtenez une nouvelle adresse électronique, TODO: ajouter le mail et bien le configurer.
+**À chaque fois que vous obtenez une nouvelle adresse électronique, ajouter le mail et configurer la bien correctement.**
+**Vérifiez que vous pouvez envoyer un email et bien en recevoir un, de votre adresse et d'une autre adresse.**
 
 
 ------------------------------------------------------------------------------
@@ -72,9 +73,9 @@ Mes conseils pour écrire des bons emails
 
 - Configurez votre client de messagerie pour être sûr de respecter les points suivants :
 
-    - votre identité doit s'afficher comme **Prénom [Prénoms] Nom** ``<prenom.nom@institution.edu>`` (ou autre format de mail), mais je vous en prie, pas juste ``jules251@gmail.com`` : **on doit savoir qui vous êtes, sans même lire votre email !**
+    - Votre identité doit s'afficher comme **Prénom [Prénoms] Nom** ``<prenom.nom@institution.edu>`` (ou autre format de mail), mais je vous en prie, pas juste ``jules251@gmail.com`` : **on doit savoir qui vous êtes, sans même lire votre email !**
     - **sauf si vous êtes la newsletter de Greenpeace, les emails s'écrivent en mode texte brut**. Pas de polices bizarres (looking at you, `Comic Sans <https://www.comicsanscriminal.com/>`_), pas d'images incluses, pas de liens bizarres cachés sur un mot, rien que du texte, du texte du texte. Comme en 1984, parce que ça marche. Parce que c'est le plus économique et écologique. Parce que c'est compatible avec les lecteurs d'écran et autres technologies pour l'accessibilité aux handicaps. Parce que c'est suffisant et sobre, donc nécessaire.
-    - ajoutez une signature, au format suivant : formule de politesse passe-partout, une ligne ``-- `` (l'espace en fin de est importante !), votre nom, votre statut / titre / position, et éventuellement un site web, un numéro de téléphone, votre groupe sanguin, un `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `une blague <blagues.fr.html>`_, `une citations <quotes.fr.html>`_, etc. :
+    - Ajoutez une signature, au format suivant : formule de politesse passe-partout, une ligne ``-- `` (l'espace en fin de est importante !), votre nom, votre statut / titre / position, et éventuellement un site web, un numéro de téléphone, votre groupe sanguin, un `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `une blague <blagues.fr.html>`_, `une citations <quotes.fr.html>`_, etc. :
 
 .. code-block::
 
@@ -112,7 +113,7 @@ Mes conseils pour écrire des bons emails
 
     Toujours un vrai plaisir que de recevoir de tes nouvelles ! Voici mon impression :
 
-    ## psychologie
+    ## Psychologie
 
     Un paragraphe sur la psychologie du *Joker*.
 
@@ -120,7 +121,7 @@ Mes conseils pour écrire des bons emails
     - mais il a raison ;
     - et ceci est une liste !
 
-    ## stratégie
+    ## Stratégie
 
     Un paragraphe sur la stratégie du *Pingouin*. Il est un peu **enrobé** (gras !).
     Voici [un lien](https://pingouin-stats.org/), et un autre plus lisible <https://pingouin-stats.org/>.
@@ -219,7 +220,7 @@ Quand ne faut-il pas utiliser des emails ?
 Pour les mails automatiques désirables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Par emails automatiques désirables, j'entends les listes de diffusion (e.g., actualités d'un laboratoire, groupe de travail, informations d'une classe ou d'un cours donné), et les newsletter.
+Par emails automatiques désirables, j'entends les listes de diffusion (e.g., actualités d'un laboratoire, groupe de travail, informations d'une classe ou d'un cours donné), et les newsletters.
 
 - **Ne faites jamais "répondre à tous" à une liste de diffusion, sauf si c'est explicitement votre but**. Honnêtement, même en faisant attention, je dois encore faire une erreur deux fois par an. Mais certains, même pro et avec 30 ans de carrière, font l'erreur trois fois par semaine...
 
@@ -233,11 +234,11 @@ Pour les mails automatiques indésirables ("spam")
 
 2. *Trois choses à faire quand vous pensez qu'un email est indésirable* :
 
-    - **ne cliquez sur rien**, même un lien "désabonnez-moi" qui sont des faux liens et destinés à vous espionner (à en premier lieu à une chose : à vérifier que vous êtes assez :strike:`con` crédule pour cliquer partout) ;
-    - **étiquetez ou signalez l'email comme un indésirable** via votre application ou logiciel (Thunderbird a un bouton exprès) ou votre client web ;
-    - si jamais vous avez quand même cliqué (`pas bien ! <https://www.youtube.com/watch?v=_V_tj_WHevE>`_), soyez extrêmement prudent-e sur la page web : ne donnez aucun mot de passe, en particulier ceux de vos comptes bancaires en ligne ou de vos "réseaux sociaux".
+    - **Ne cliquez sur rien**, même un lien "désabonnez-moi" qui sont des faux liens et destinés à vous espionner (à en premier lieu à une chose : à vérifier que vous êtes assez :strike:`con` crédule pour cliquer partout) ;
+    - **Étiquetez ou signalez l'email comme un indésirable** via votre application ou logiciel (Thunderbird a un bouton exprès) ou votre client web ;
+    - Si jamais vous avez quand même cliqué (`pas bien ! <https://www.youtube.com/watch?v=_V_tj_WHevE>`_), soyez extrêmement prudent-e sur la page web : ne donnez aucun mot de passe, en particulier ceux de vos comptes bancaires en ligne ou de vos "réseaux sociaux".
 
-3. **Nan mais sérieusement, c'est pas compliqué de pas cliquer sur des liens bizarres !** Et si vous vous voulez tenter de jouer contre les spammeurs, faites le comme les professionnels (eg., `James Veitch <https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email>`_), et soyez encore plus prudent-e-s (mais c'est marrant, alors pourquoi pas essayer ?) :
+3. **Nan mais sérieusement, c'est pas compliqué de pas cliquer sur des liens bizarres !** Et si vous vous voulez tenter de jouer contre les spammeurs, faites le comme les professionnels (e.g., le célèbre `James Veitch <https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email>`_), et soyez encore plus prudent-e-s (mais c'est marrant, alors pourquoi pas essayer ?) :
 
 .. youtube:: 9eYdGGfObKk
 
@@ -280,11 +281,11 @@ Quelques trucs peu connus sur les emails ?
 Quelques légendes urbaines sur les emails ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- blabla ;
-- blabla ;
+- **on peut hacker quelqu'un en envoyant un email : non** pour "hacker" quelqu'un (définition ?), il faut nécessairement que cette personne ait accepté d'ouvrir ce courriel, et d'activer les images et ressources distantes (astuce : par défaut, Thunderbird les interdit !). Généralement, il faut accepter d'ouvrir une pièce jointe, qui peut être un PDF ou un document Microsoft Word ou Excel, qui peut contenir un virus. Sous Microsoft Windows, il faut être très prudent-e !
+- **il y a un accusé de réception (ou de lecture) automatique et universel dans les emails** (à la WhatsApp ou Signal ou Telegram) : **non, c'est faux !** Vous devriez toujours avoir le choix de le renvoyer, et il devrait être automatique (conseils : il n'est pas automatique dans Thunderbird !).
 - blabla.
 
-.. seealso:: Vous en connaissez d'autres ? Je suis curieux !
+.. seealso:: Vous en connaissez d'autres ? Je suis curieux ! `Contactez moi <callme.fr.html>`_ !
 
 ---------------------------------------
 
@@ -307,6 +308,6 @@ Et en français, `il y en a plein <https://www.youtube.com/results?search_query=
 
 .. youtube:: eNdoHymfwu4
 
-Enfin, vous pouvez aisément chercher d'autres documents similaires, ou d'autres vidéos, par exemple avec `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+écrire+des+bons+emails>`_. J'avais regardé une douzaine de vidéos, pendant la rédaction de cette page-là.
+Enfin, vous pouvez aisément chercher d'autres documents similaires, ou d'autres vidéos, par exemple avec `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+écrire+des+bons+emails>`_. J'avais regardé une vingtaine de vidéos en anglais et français, pendant la rédaction de cette page-là en avril 2021.
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
