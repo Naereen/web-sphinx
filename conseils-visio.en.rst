@@ -8,13 +8,33 @@ Tips for good video conferences
 
 .. todo:: Move page from `<conseils-visio.en.html>`_ to `<tips-for-better-visio.en.html>`_ ?
 
-This short list **some tips for making good video conferences**.
+This (quite long) list **some tips for making good video conferences**.
 *But what is a video conference?* My definition is the following: *phone call with camera or webcam, typically done by a computer or smartphone, using an application or website, and transiting via the Internet*.
 
 Indeed, with the coronavirus pandemic since 2020 (cf. `<coronavirus.en.html>`_), we all had to make video calls, whether for the work (meetings, teachings or thesis supplies), for virtual aperitifs between friendly friendly, or for other occasions (marriage, etc.).
 
-We have known some of these tools for a long time already, like the too popular Skype, and FaceTime by Apple, video calls in Facebook or Messenger, or WhatsApp, Signal or Telegram. The year 2020 also saw the popularity of Zoom drastically increased, despite all its defects and lack of respect for privacy.
+Tools for video-calls?
+----------------------
+We have known some of these tools for a long time already, like the too popular Skype, and FaceTime by Apple, Google Hangout, video calls in Facebook or Messenger, or even WhatsApp. With the coronavirus crisis, the year 2020 also saw the popularity of Zoom, MS Teams and Discord drastically increase.
 
+**Disadvantages:** all of these tools are asking to create an account and fill in a lot of personal information, which will be hosted on servers around the world, managed by one or more business-based companies (often based in the USNA or China). These tools only work if you install their specific software (never free or open-source but often free, "you are the product"), Some allow you to use their web version by being connected (not free, too), and another great fault is that these tools only work with people with an account in the same company!
+These tools (often poorly encrypted) are constantly spied by governments, by the company's teams and servers, and massive leaks of data arrive regularly (e.g., `533 million Facebook account in February 2021! <https://www.bloomberg.com/news/articles/2021-04-03/facebook-data-on-533-million-users-leaked-business-insider>`_).
+
+**Despite all of their disadvantages, defects and lack of respect for your privacy and your personal data, the numerous wide-scale scandals of data breach and hacked account databases, these "social networks" and video calls tools are the most widely used around the world.**
+
+**In 2021, this is wrong: your privacy deserves better, and so does the privacy of your friends, students and colleagues.**
+Forget Skype, Zoom and others, and embrace the free and open-source software (FOSS) world!
+**I am therefore strongly advising you to use a fre and open-source web-based video-call software**, which do not require any login or account and no software to install except a web browser.
+Such software that I've battle-tested in the last two years include the two following solutions: `Jitsi Meet <https://jitsi.org/>`_, `BigBlueButton <https://www.bigbluebutton.org/>`_ (and the youngest one: `Galène <https://galene.org/>`_). I advise to find an installation of one of this FOSS software, on a trusted server, hosted in France, for instance CNRS (or in your country).
+If you can find a non-profit association (such as `CRANS <https://www.crans.org/>`_, hosting this website and many more things), using one of these FOSS video-call solution, using strong encryption (HTTPS and others), and maintaining their servers not thanks to money coming from ads or by selling or spying on your personal data, but by donation or subscriptions, then you should be fine: you won't be spied on while calling, nobody will make money by exploiting your data, and the end-user experience will be much simpler!
+
+For instance with Jitsi, you can organize a video-call, with someone or a large group, by simply sending an URL: `<https://framatalk.org/Naereen>`_!
+For more information, see this page: `<jitsi.en.html>`_ on this blog.
+To call your friends, Signal or Telegram are also a pretty solid alternative, but shouldn't be used for teaching or remote meetings.
+
+
+Examples of failed video calls
+------------------------------
 We also have all seen these fun examples, but a little ridiculous, particularly failed video calls:
 
 - Like agents from various Ministries of War in Europe who saw a Dutch journalist succeeding to connect to their secure video conference meeting (because of a security flaw and a lack of rigor of one of the diplomats):
@@ -88,10 +108,21 @@ Here are some tips, to improve your video calls experience.
 For all video calls
 ~~~~~~~~~~~~~~~~~~~
 
+Regarding the calls themselves:
+
 1. **Arrive on time!** Or preventing if we know that we arrive late ;
 2. Do not have anything to compromise in the camera field (e.g. a pornographic image, or other) ;
 3. **Apply the same principles of rigor and respect, good communication, only in other non-digital exchanges!** This includes, listening and respecting the speaking time of others, speaking distinctly and strong enough (but not too much!), etc.
 4. **Let's be tolerant-e-s with people who are not used to, but you have to know how to be painful with students who have been video courses for a while** (More than a year already!) and colleagues who make lots of video meetings without trying to do them in the best conditions !
+
+
+Technical details to improve video-calls:
+
+1. Don't stand too close or too far away from your webcam or phone: **people should see your face**, *your hands*, **and not much more** ;
+2. **Be sure that your face and body is correctly lighted up** and from a correct angle (= from the front or side, not below or above!), by standing close to a natural light source (= a window), or using a small lamp. I use a "natural" white light lamp, it's awesome as it gives you Vitamin D (happy vitamin!) and lights my face during my calls ;
+3. Be dressed as if you were in a real class or meeting ;
+4. Check you don't have earings or bracelets or other items that can produce annoying noise ;
+5. Keep your tea/coffee cup or water bottle ready and close to you, you shouldn't leave your desk during all your meeting or video call.
 
 To attend online classes
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -170,7 +201,5 @@ I also recommend that you watch this video (in French), half humorous, carried o
 .. youtube:: 8RUdGAypXxs
 
 Finally, you can easily look for other similar documents, or other videos, for example with `this research on YouTube <https://www.youtube.com/results?search_query=best+advice+for+better+video+calls+and+visioconference>`_. I watched a dozen videos, during the writing of this page.
-
-.. todo:: Intégrer certains de ces conseils si je découvre des idées que je n'avais pas eue avant ?
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

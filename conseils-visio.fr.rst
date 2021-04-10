@@ -6,12 +6,34 @@
  Conseils pour des bonnes visio conférences
 ############################################
 
-Cette courte page liste **quelques conseils pour faire des bonnes visio conférences**.
+Cette (trop longue) page liste **quelques conseils pour faire des bonnes visio conférences**.
 *Mais qu'est-ce qu'une visio conférence ?* Ma définition est la suivante : *appel téléphonique avec caméra ou webcam, effectué généralement par un ordinateur ou un smartphone, à l'aide d'une application ou d'un site web, et transitant par Internet*.
 
 En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
 
-Nous connaissons certains de ces outils depuis longtemps déjà, comme le trop populaire Skype, et FaceTime d'Apple, les visios dans Facebook ou Messenger, ou WhatsApp, Signal ou Telegram. L'année 2020 a aussi vu la popularité de Zoom augmenter drastiquement, malgré tous ses défauts et manque de respect de la vie privée.
+
+Tools for video-calls?
+----------------------
+Nous connaissons certains de ces outils depuis longtemps déjà, comme le trop populaire Skype, et FaceTime d'Apple, Google Hangout, les visios dans Facebook ou Messenger, ou encore WhatsApp. Avec la crise du coronavirus, l'année 2020 a aussi vu la popularité de Zoom, MS Teams et Discord augmenter drastiquement.
+
+**Défauts :** Tous ces outils demandent de créer un compte et de renseigner plein d'informations personnelles, qui seront hébergées sur des serveurs répartis partout dans le monde, gérés par une ou plusieurs entreprises à but commercial (souvent basées aux USNA ou en Chine). Ces outils ne fonctionnent que si on installe leur logiciel précis (jamais libre ni open-source mais souvent gratuit, "c'est toi le produit), certains permettent d'utiliser leur version web en étant connecté-e (non libre, elle aussi), et un autre grand défaut est que ces outils ne fonctionnent qu'avec des personnes ayant un compte sur dans la même entreprise !
+Ces outils (souvent mal chiffrés) sont constamment espionnés par les gouvernements, par les équipes et serveurs de l'entreprise, et des fuites massives de données arrivent régulièrement (e.g., `533 millions de compte Facebook en février 2021 ! <https://www.bloomberg.com/news/articles/2021-04-03/facebook-data-on-533-million-users-leaked-business-insider>`_).
+
+**Malgré tous leurs défauts, leurs faiblesses, et les trop nombreux scandale de fuite de données, et de violation de la vie privée de leurs utilisateurs et utilisatrices, ces "réseaux sociaux" et ces outils de visio sont encore et toujours les outils les plus utilisés de part le monde.**
+
+**En 2021, c'est faux: votre vie privée mérite de mieux, de même que la vie privée de vos amis, étudiants et collègues.**
+Oubliez Skype, Zoom et d'autres personnes, et embrassez le monde des logiciels libres et gratuit (open-source, FOSS) !
+**Je vous conseille donc fortement d'utiliser un logiciel de téléphone vidéo libre et gratuit (open-source).**, qui ne nécessitent aucun login ou compte et aucun logiciel à installer sauf un navigateur Web.
+J'ai testé depuis deux ans les deux solutions suivantes : `Jitsi Meet <https://jitsi.org/>`_, `BigBlueButton <https://www.bigbluebutton.org/>`_ (et le petit dernier,  `Galène <https://galene.org/>`_). Je recommande de trouver une installation sur un serveur auquel vous faites confiance, par exemple hébergé par le CNRS, en France (ou dans votre pays).
+Si vous pouvez trouver une association à but non lucratif (comme le `CRANS <https://www.crans.org/>`_, hébergeant ce site Web et de nombreuses autres choses), en utilisant l'une de ces solutions d'appel vidéo FOSS, à l'aide de chiffrement très solides (HTTPS et autres) et maintenant leurs serveurs non pas grâce à l'argent provenant de publicités ou en vendant ou en espionnant vos données personnelles, mais par dons ou abonnements, alors vous devriez être fiers et sereins : vous ne serez pas espionné-e pendant que vous appelez, personne ne gagnera de l'argent en exploitant vos données et l'expérience utilisateur finale sera beaucoup plus simple !
+
+Par exemple avec Jitsi, vous pouvez organiser un appel vidéo, avec une personne ou un grand groupe, en envoyant simplement une URL : `<https://framatalk.org/Naereen>`_ !
+Pour plus d'informations, voir cette page: `<jitsi.fr.html>`_ sur ce blogue.
+Pour appeler vos amis, le signal ou le télégramme sont également une alternative assez solide, mais pas pour enseigner à distance ou pour des réunions.
+
+
+Examples of failed video calls
+------------------------------
 
 Nous avons aussi tous-tes vu ces exemples amusants, mais un peu ridicules, de visios particulièrement ratées :
 
@@ -86,10 +108,21 @@ Voici quelques conseils, personnels évidemment, pour améliorer votre expérien
 Pour toutes visio
 ~~~~~~~~~~~~~~~~~
 
+En ce qui concerne les appels eux-mêmes :
+
 1. **Arriver à l'heure !** Ou prévenir si on sait que l'on arrive en retard ;
 2. Ne rien avoir de compromettant dans le champ de la caméra (e.g., poster pornographique ou autre) ;
 3. **Appliquez les mêmes principes de rigueur et de respect, de bonne communication, que dans les autres échanges non numériques !** Cela inclut notamment écouter et respecter le temps de parole des autres, parler distinctement et assez fort (mais pas trop !), etc.
 4. **Soyons tolérant-e-s avec des gens qui n'ont pas l'habitude, mais il faut savoir être pénible avec des élèves qui suivent des cours en visio depuis un moment** (plus d'un an déjà !) et des collègues qui font des tas de réunions visio sans chercher à les faire dans des meilleures conditions !
+
+
+Technical details to improve video-calls:
+
+1. Don't stand too close or too far away from your webcam or phone: **people should see your face**, *your hands*, **and not much more** ;
+2. **Be sure that your face and body is correctly lighted up** and from a correct angle (= from the front or side, not below or above!), by standing close to a natural light source (= a window), or using a small lamp. I use a "natural" white light lamp, it's awesome as it gives you Vitamin D (happy vitamin!) and lights my face during my calls ;
+3. Be dressed as if you were in a real class or meeting ;
+4. Check you don't have earings or bracelets or other items that can produce annoying noise ;
+5. Keep your tea/coffee cup or water bottle ready and close to you, you shouldn't leave your desk during all your meeting or video call.
 
 Pour assister à des cours
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -168,7 +201,5 @@ Je vous recommande aussi de regarder cette vidéo, à moitié humoristique, réa
 .. youtube:: 8RUdGAypXxs
 
 Enfin, vous pouvez aisément chercher d'autres documents similaires, ou d'autres vidéos, par exemple avec `cette recherche sur YouTube <https://www.youtube.com/results?search_query=meilleurs+conseils+pour+les+visios>`_. J'avais regardé une douzaine de vidéos, pendant la rédaction de cette page-là.
-
-.. todo:: Intégrer certains de ces conseils si je découvre des idées que je n'avais pas eue avant ?
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
