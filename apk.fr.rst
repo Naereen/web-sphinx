@@ -238,7 +238,7 @@ Boîtes à son pour rigoler
 Pour faire croire qu'on est encore en prépa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `OCaml Toplevel for Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ pour coder en `OCaml 3.12 <ocaml.fr.html>`_ sur votre smartphone ou tablette Il a été écrit en 2011 par `un de mes camarades <https://romain.vernoux.fr/>`_, lorsque nous étions en L3 (3ème année de bachelor) à `l'ENS Cachan <http://www.ens-cachan.fr/>`_ !
+- `OCaml Toplevel for Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ pour coder en `OCaml 3.12 <ocaml.fr.html>`_ sur votre smartphone ou tablette Il a été écrit en 2011 par `un de mes camarades <https://romain.vernoux.fr/>`_, lorsque nous étions en L3 (3ème année de bachelor) à `l'ENS Cachan <http://www.ens-cachan.fr/>`_ ! Voir `cette autre appli pour iOS ou Mac OS <https://discuss.ocaml.org/t/open-source-editor-for-ios-ipados-and-macos/7624/5>`_ ?
 - `PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_ (ou QPython 3L :apk:`org.qpython.qpy3`) pour coder en `Python <python.html>`_ sur votre smartphone ou tablette.
 - `Coding C <https://play.google.com/store/apps/details?id=com.kvassyu.coding.c>`_ pour développer des petits programmes en C depuis votre smartphone ou tablette (sans accès réseau, le compilateur est intégré).
 - **Banque Exo (MP CCP)** et **ExoSupSpé** pour des problèmes de maths et leur correction.

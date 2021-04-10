@@ -6,7 +6,9 @@
  How to use Google Analytics in a Sphinx project
 #################################################
 
-.. note:: This short page is focusing on Google Analytics
+.. warning:: I no longer advise to use Google Analytics, and I have entirely removed it from my webpages, and I will no longer update these tutorials. As they would still be available from Google Cache or Archive.org websites, I prefer to keep this page online.
+
+.. note:: This short page is focusing on *Google Analytics*
 
    For more information, it might be useful to consult first one of these pages:
     * `en.wikipedia.org/wiki/Google_Analytics <https://en.wikipedia.org/wiki/Google_Analytics>`_,

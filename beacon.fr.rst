@@ -7,7 +7,7 @@
  Utiliser Google Analytics avec une petite image
 #################################################
 
-.. warning:: Je ne conseille plus d'utiliser Google Analytics, je le supprimerai de mes pages Web et je ne mettrai plus à jour ces tutoriels.
+.. warning:: Je ne conseille plus d'utiliser Google Analytics, je l'ai supprimé de mes pages Web et je ne mettrai plus à jour ces tutoriels. Comme ces pages seraient encore disponible dans Google Cache ou les sites web de Archive.org, je préfère les garder ici en ligne.
 
 .. note:: Cette page parle de Google Analytics
 

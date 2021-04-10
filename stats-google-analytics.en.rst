@@ -6,7 +6,7 @@
  Sum-up of my use of Google Analytics for 3 years
 ##################################################
 
-.. warning:: I no longer advise to use Google Analytics, and I will remove it from my webpages, and no longer update these tutorials.
+.. warning:: I no longer advise to use Google Analytics, and I have entirely removed it from my webpages, and I will no longer update these tutorials. As they would still be available from Google Cache or Archive.org websites, I prefer to keep this page online.
 
 .. note:: This short page is focusing on *Google Analytics*
 

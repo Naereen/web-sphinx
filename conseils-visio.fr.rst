@@ -117,13 +117,13 @@ En ce qui concerne les appels eux-mêmes :
 4. **Soyons tolérant-e-s avec des gens qui n'ont pas l'habitude, mais il faut savoir être pénible avec des élèves qui suivent des cours en visio depuis un moment** (plus d'un an déjà !) et des collègues qui font des tas de réunions visio sans chercher à les faire dans des meilleures conditions !
 
 
-Technical details to improve video-calls:
+Détails techniques pour améliorer les appels vidéo:
 
-1. Don't stand too close or too far away from your webcam or phone: **people should see your face**, *your hands*, **and not much more** ;
-2. **Be sure that your face and body is correctly lighted up** and from a correct angle (= from the front or side, not below or above!), by standing close to a natural light source (= a window), or using a small lamp. I use a "natural" white light lamp, it's awesome as it gives you Vitamin D (happy vitamin!) and lights my face during my calls ;
-3. Be dressed as if you were in a real class or meeting ;
-4. Check you don't have earings or bracelets or other items that can produce annoying noise ;
-5. Keep your tea/coffee cup or water bottle ready and close to you, you shouldn't leave your desk during all your meeting or video call.
+1. Ne vous tenez pas trop près ou trop loin de votre webcam ou de votre téléphone : **les gens devraient voir votre visage**, *vos mains*, **et pas beaucoup plus** ;
+2. **Assurez-vous que votre visage et votre corps sont correctement éclairés** et d'un angle correct (= de l'avant ou du côté, pas ci-dessous ou ci-dessus!), En vous tenant près d'une source de lumière naturelle (= une fenêtre), ou en utilisant une petite lampe. J'utilise une lampe de lumière blanche "naturelle", elle est géniale car elle vous donne de la vitamine D (la vitamine de la joie !) et allume mon visage lors de mes appels ;
+3. être habillé-e comme si vous étiez dans une véritable classe ou une réunion ;
+4. Vérifiez que vous n'avez pas de boucles d'oreilles ni de bracelets ni d'autres éléments pouvant produire du bruit gênant ;
+5. Gardez votre tasse de thé / café ou votre bouteille d'eau prête et proche de vous, vous ne devriez pas avoir à quitter votre bureau pendant toute votre réunion ou votre appel vidéo.
 
 Pour assister à des cours
 ~~~~~~~~~~~~~~~~~~~~~~~~~

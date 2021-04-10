@@ -75,7 +75,7 @@ Mes conseils pour écrire des bons emails
 
     - Votre identité doit s'afficher comme **Prénom [Prénoms] Nom** ``<prenom.nom@institution.edu>`` (ou autre format de mail), mais je vous en prie, pas juste ``jules251@gmail.com`` : **on doit savoir qui vous êtes, sans même lire votre email !**
     - **sauf si vous êtes la newsletter de Greenpeace, les emails s'écrivent en mode texte brut**. Pas de polices bizarres (looking at you, `Comic Sans <https://www.comicsanscriminal.com/>`_), pas d'images incluses, pas de liens bizarres cachés sur un mot, rien que du texte, du texte du texte. Comme en 1984, parce que ça marche. Parce que c'est le plus économique et écologique. Parce que c'est compatible avec les lecteurs d'écran et autres technologies pour l'accessibilité aux handicaps. Parce que c'est suffisant et sobre, donc nécessaire.
-    - Ajoutez une signature, au format suivant : formule de politesse passe-partout, une ligne ``-- `` (l'espace en fin de est importante !), votre nom, votre statut / titre / position, et éventuellement un site web, un numéro de téléphone, votre groupe sanguin, un `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `une blague <blagues.fr.html>`_, `une citations <quotes.fr.html>`_, etc. :
+    - Ajoutez une signature, au format suivant : formule de politesse passe-partout, une ligne "-- " (l'espace en fin de est importante !), votre nom, votre statut / titre / position, et éventuellement un site web, un numéro de téléphone, votre groupe sanguin, un `Geek Code <https://fr.wikipedia.org/wiki/Geek_Code>`_, `une blague <blagues.fr.html>`_, `une citations <quotes.fr.html>`_, etc. :
 
 .. code-block::
 
@@ -86,7 +86,7 @@ Mes conseils pour écrire des bons emails
     wonder.woman+spam@justice.league
     +3312312312412 | https://justice.league/wonder.woman
 
-- Aérez vos emails : un seul gros paragraphe, c'est illisible. Les sauts de lignes sont économes (un seul caractère ASCII !) mais très utiles, pour rendre lisible même des gros emails. Par exemple :
+- Aérez vos emails : un seul gros paragraphe, c'est illisible. Les sauts de lignes sont économes (un seul caractère ASCII !) mais peuvent se montrer très utiles, pour rendre lisible même des emails trop longs. Par exemple :
 
 .. code-block::
 
@@ -101,7 +101,7 @@ Mes conseils pour écrire des bons emails
     Wonder Woman
 
 
-- **Votre destinataire devrait savoir ce que vous lui voulez juste en lisant l'objet du mail** et votre identité (cf. conseil précédent), **donc choisissez des objets informatifs** ! Trop souvent je reçois encore maintenant des emails sans objets, ou intitulés "question" ou "demande". Allez y franco et n'ayez pas peur de pousser ça à l'extrême : "Question exercice 4.2 du TP2 Java du cours INF1 - James Bond - merci d'avance" ;
+- **Votre destinataire devrait savoir ce que vous lui voulez juste en lisant l'objet du mail** et votre identité (cf. conseil précédent), **donc choisissez des objets informatifs** ! Trop souvent je reçois encore maintenant des emails sans objets, ou intitulés "question" ou "demande". Pitié non ! N'ayez pas peur de pousser ça à l'extrême : "Question exercice 4.2 du TP2 Java du cours INF1 - James Bond - merci d'avance" ;
 
 - La plupart du temps, même un bon objet ne suffira pas, mais **votre destinataire doit savoir ce que vous lui voulez en lisant la première ligne de l'email** (après le *"Bonjour Batman"* en haut du mail). Si votre email n'a pas le choix que d'être un peu long, incluez une ligne *TL;DR : je vous demande ça, i) truc un, ii) truc deux, iii) truc trois*. (*TL;DR = too long, didn't read*) ;
 

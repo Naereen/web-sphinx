@@ -167,7 +167,7 @@ To use websites easily on mobile (registered account, easy to use) :
    Amazon hardly pays taxes in Europe.
    Amazon employees cannot unionize (in the US) and are paid the minimum hourly rate in almost all countries.
    If the boss of Amazon is one of the richest men in the world, it's probably for the wrong reasons ...
-   I share some of these arguments against Microsoft, but at least they're less guilty of tax evasion and exploitation of their employees.Google, Apple and others are just as open to criticism as Amazon.
+   I share some of these arguments against Microsoft, but at least they're less guilty of tax evasion and exploitation of their employees. Google, Apple and others are just as bad and evil as Amazon. Just ban them from your life, don't give them money!
 
 
 To relax
@@ -230,13 +230,13 @@ Other apps :
 - **Naheulbeuk MP3** is great, download the episodes on the fly from `the Naheulbeuk website (penofchaos.fr/donjon) <http://penofchaos.fr/donjon/>`_.
 
 
-To make people believe that we are still in "prépa"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To study and write programs and code on an Android phone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `**PyDroid 3** <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_ (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
-- `**OCaml Toplevel for Android** <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet. It was written in 2011 by `a friend of mine <https://romain.vernoux.fr/>`_, when we were in L3 (3rd year of bachelor) at `ENS Cachan <http://www.ens-cachan.fr/>`_!
-- `**Coding C** <https://play.google.com/store/apps/details?id=com.kvassyu.coding.c>`_ to develop tiny programs in the C language, from your smartphone or tablet (offline, doesn't require Internet, the compiler is integrated);
-- **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions.
+- `PyDroid 3 <https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>`_ (or `QPython 3L <https://play.google.com/store/apps/details?id=org.qpython.qpy3>`_) to code in `Python 3 <python.html>`_ on your smartphone or tablet;
+- `OCaml Toplevel for Android <https://play.google.com/store/apps/details?id=fr.vernoux.ocaml>`_ to code in `OCaml 3.12 <ocaml.en.html>`_ on your smartphone or tablet. It was written in 2011 by `a friend of mine <https://romain.vernoux.fr/>`_, when we were in L3 (3rd year of bachelor) at `ENS Cachan <http://www.ens-cachan.fr/>`_! See `this app for iOS or Mac OS <https://discuss.ocaml.org/t/open-source-editor-for-ios-ipados-and-macos/7624/5>`_?
+- `Coding C <https://play.google.com/store/apps/details?id=com.kvassyu.coding.c>`_ to develop tiny programs in the C language, from your smartphone or tablet (offline, doesn't require Internet, the compiler is integrated);
+- **Banque Exo (MP CCP)** and **ExoSupSpé** for maths problems and solutions (should not be available anymore).
 - There are others like it, but this one looks well done: `JDoodle <https://play.google.com/store/apps/details?id=com.nutpan.jdoodle_app>`_ allows you to access from your phone to `JDoodle.com <https://www.jdoodle.com/>`_ an online multi-language IDE (Internet request).
 
 .. seealso:: `My old list of apps <old_apk.en.html>`_.
