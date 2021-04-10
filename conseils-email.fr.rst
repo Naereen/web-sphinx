@@ -1,9 +1,9 @@
 .. meta::
-   :description lang=fr: Mes conseils pour être un pro des emails
+   :description lang=fr: Mes conseils pour devenir pro des emails
    :description lang=en: My tips to become pro at emails
 
 ##########################################
- Mes conseils pour être un pro des emails
+ Mes conseils pour devenir pro des emails
 ##########################################
 
 Cette (trop longue) page liste **mes conseils pour être un pro des emails**, et ne pas souffrir ni avoir de phobies contre ces emails.

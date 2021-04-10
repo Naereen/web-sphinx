@@ -1,5 +1,5 @@
 .. meta::
-   :description lang=fr: Mes conseils pour être un pro des emails
+   :description lang=fr: Mes conseils pour devenir pro des emails
    :description lang=en: My tips to become pro at emails
 
 #################################

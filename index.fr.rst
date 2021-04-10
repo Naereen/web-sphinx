@@ -153,6 +153,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    apk.fr
    jitsi.fr
    conseils-visio.fr
+   conseils-email.fr
    firefox-extensions.fr
    tutogit.fr
    apprendre-python.fr

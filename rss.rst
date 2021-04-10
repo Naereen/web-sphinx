@@ -2,6 +2,8 @@
  Deux flux RSS
 ###############
 
+.. todo:: Je devrai mettre à jour cette page web, et faire de la pub pour les flux RSS ! Cf. `<conseils-emails.fr.html>`_ conseils écologiques, les alertes RSS sont une excellente alternative, bien plus écologique et économique, aux newsletters et autres notifications de "réseaux sociaux".
+
 Cette page était une expérience pour inclure un flux **RSS** dans une page générée par Sphinx.
 
 S'abonner au flux

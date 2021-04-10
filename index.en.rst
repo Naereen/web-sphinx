@@ -153,6 +153,7 @@ For more details, see `<sitemap.en.html>`_.
    apk.en
    jitsi.en
    conseils-visio.en
+   conseils-email.en
    firefox-extensions.en
    tutogit.en
    wakatime.en
