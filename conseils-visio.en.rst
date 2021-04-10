@@ -1,14 +1,14 @@
 .. meta::
-    :description lang=en: Tips for good video conferences
-    :description lang=fr: Conseils pour des bonnes visio conférences
+    :description lang=en: My tips for good video conferences
+    :description lang=fr: Mes conseils pour des bonnes visio conférences
 
-################################
-Tips for good video conferences
-################################
+####################################
+ My tips for good video conferences
+####################################
 
 .. todo:: Move page from `<conseils-visio.en.html>`_ to `<tips-for-better-visio.en.html>`_ ?
 
-This (quite long) list **some tips for making good video conferences**.
+This (quite long) list **my tips for making good video conferences**.
 *But what is a video conference?* My definition is the following: *phone call with camera or webcam, typically done by a computer or smartphone, using an application or website, and transiting via the Internet*.
 
 Indeed, with the coronavirus pandemic since 2020 (cf. `<coronavirus.en.html>`_), we all had to make video calls, whether for the work (meetings, teachings or thesis supplies), for virtual aperitifs between friendly friendly, or for other occasions (marriage, etc.).

@@ -1,10 +1,10 @@
 .. meta::
-   :description lang=fr: Conseils pour des bonnes visio conférences
-   :description lang=en: Tips for good visio conferences
+   :description lang=fr: Mes conseils pour des bonnes visio conférences
+   :description lang=en: My tips for good visio conferences
 
-############################################
- Conseils pour des bonnes visio conférences
-############################################
+################################################
+ Mes conseils pour des bonnes visio conférences
+################################################
 
 Cette (trop longue) page liste **quelques conseils pour faire des bonnes visio conférences**.
 *Mais qu'est-ce qu'une visio conférence ?* Ma définition est la suivante : *appel téléphonique avec caméra ou webcam, effectué généralement par un ordinateur ou un smartphone, à l'aide d'une application ou d'un site web, et transitant par Internet*.
@@ -12,8 +12,9 @@ Cette (trop longue) page liste **quelques conseils pour faire des bonnes visio c
 En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
 
 
-Tools for video-calls?
-----------------------
+Outils pour les appels visio ?
+------------------------------
+
 Nous connaissons certains de ces outils depuis longtemps déjà, comme le trop populaire Skype, et FaceTime d'Apple, Google Hangout, les visios dans Facebook ou Messenger, ou encore WhatsApp. Avec la crise du coronavirus, l'année 2020 a aussi vu la popularité de Zoom, MS Teams et Discord augmenter drastiquement.
 
 **Défauts :** Tous ces outils demandent de créer un compte et de renseigner plein d'informations personnelles, qui seront hébergées sur des serveurs répartis partout dans le monde, gérés par une ou plusieurs entreprises à but commercial (souvent basées aux USNA ou en Chine). Ces outils ne fonctionnent que si on installe leur logiciel précis (jamais libre ni open-source mais souvent gratuit, "c'est toi le produit), certains permettent d'utiliser leur version web en étant connecté-e (non libre, elle aussi), et un autre grand défaut est que ces outils ne fonctionnent qu'avec des personnes ayant un compte sur dans la même entreprise !
@@ -32,8 +33,8 @@ Pour plus d'informations, voir cette page: `<jitsi.fr.html>`_ sur ce blogue.
 Pour appeler vos amis, le signal ou le télégramme sont également une alternative assez solide, mais pas pour enseigner à distance ou pour des réunions.
 
 
-Examples of failed video calls
-------------------------------
+Exemples d'appels vidéo échoués
+-------------------------------
 
 Nous avons aussi tous-tes vu ces exemples amusants, mais un peu ridicules, de visios particulièrement ratées :
 
