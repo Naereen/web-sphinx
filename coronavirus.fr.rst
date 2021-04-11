@@ -154,13 +154,36 @@ Plus de détails ? Cette vidéo est courte et très bien faite, et répond avec 
 
 .. youtube:: zjNxArUFI4Q
 
+
 Alternatives libres à Discord ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En combinant plusieurs logiciels et outils :
+En combinant plusieurs logiciels et outils, on devrait pouvoir mettre en place une alternative à Discord qui n'utilisent que des logiciels libres, qui peuvent être auto-hébergés, et qui soient plus compatible avec le RGPD et l'indépendance vis-à-vis d'entreprises du numérique Nord-Américaine :
 
-1. **Un serveur Moodle**, avec un bon découpage pour chaque cours, pour héberger les documents, animer un forum qui ressemblera un peu aux salons textuels ;
-1. Un serveur avec des salons BigBlueButton (ou Jitsi) ou `Galene <https://galene.org/>`_, pour les visios.
+1. **Un serveur pour les cours en visio** : avec des salons via un `BigBlueButton <https://BigBlueButton.org/>`_ ou `Galene <https://galene.org/>`_ qui est conçu pour (ou `Jitsi <https://Jitsi.org/>`_, cf. `<jitsi.fr.html>`_ ici qui montre mon amour de Jitsi Meet). Je pense que je choisira Galene, s'il faut choisir, parce que c'est trop beau, ça gère le partage de plusieurs écrans (!) et c'est développé par des collègues de collègues, à Paris !
+
+2. **Et un serveur/outil pour les messages** : On peut aussi chercher à avoir un serveur `MatterMost <https://MatterMost.org/>`_ pour les salons de discussions textuels, les messages privés, etc.
+
+3. **Un serveur Moodle** pour gérer le(s) cours (cf. `<https://Moodle.org/>`_), avec un bon découpage pour chaque cours, pour héberger les documents, animer un forum qui ressemblera un peu aux salons textuels ;
+
+
+Auto-hébergement d'une alternative à Discord ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Et si j'essayé d'estimer le coût mensuel de serveurs loués pour héberger ces logiciels libres ?
+
+.. todo:: *Quel prix pour un BigBlueButton robuste hébergé en France ?* `Lionel Fourquaux <https://lionel.fourquaux.org/>`_ m'a dit ~48€/mois pour un BigBlueButton robuste, hébergé par `OVH avec SoYouStart <https://www.soyoustart.com/fr/offres/1801sys48.xml>`_ et `installé manuellement <https://docs.bigbluebutton.org/2.2/install.html>`_ ;
+.. todo:: *Quel prix pour un Moodle robuste hébergé en France ?* Je pense que ce sera moins cher, mais entre 10 et 20€ par mois...?
+.. todo:: *Quel prix pour un MatterMost robuste hébergé en France ?* Je pense que ce sera encore moins cher, entre 5 et 10€ par mois ? J'ai demandé conseil à Marc de Falco le 2021-04-12.
+
+On pourrait aussi chercher dans une autre direction, du côté d'un clône complet de Discord, pour avoir audio/vidéo et partage d'écran intégré aux canaux de discussions.
+
+Mes recherches en avril 2021 m'ont découragé, mais peut-être qu'à l'avenir une solution apparaîtra...
+J'ai notamment regardé la plupart des projets listés sur `#discord-clone <https://github.com/topics/discord-clone>`_ sur GitHub, sans en trouver un d'aussi convainquant que MatterMost pour les salons de discussion et BigBlueButton pour les visios...
+
+Si je vise ce genre d'auto-hébergement, `cette page web sur CHATONS.org <https://wiki.chatons.org/doku.php/la_visio-conference_avec_big_blue_button>`_ peut aider !
+
+.. todo:: Quelle source de financement ? Tomber sur un-e parent d'élève qui se sente l'âme de devenir un-e généreux-se mécène, ce serait magique !
 
 ---------------------------------------------
 
