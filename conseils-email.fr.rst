@@ -40,6 +40,7 @@ C'est assez décevant, mais je suis souvent effaré de voir les mauvais choix te
 
 **N'utilisez pas les "web-mails"**, ces clients de messagerie écrits en HTML/CSS et Javascript, et utilisables après une connexion (identifiant / mot de passe) dans votre navigateur ! Voici sept raisons, par ordre d'importance :
 
+- **vous devez penser activement à faire sur cet onglet**, et donc vous perdez du temps et de la concentration ;
 - **vous perdrez du temps à vous reconnecter à chaque fois** ;
 - **vous n'aurez pas accès à vos emails si vous n'avez** (temporairement) **plus accès à Internet** ;
 - **les fonctionnalités de recherche sont généralement pourries (sauf peut-être GMail)** ;

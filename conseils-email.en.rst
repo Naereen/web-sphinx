@@ -38,6 +38,7 @@ It is quite disappointing, but I am often sad to see the bad technological choic
 
 **Do not use "web-mails"**, these email clients written in HTML / CSS and JavaScript, which can be used after login (username / password) in your browser! Here are seven reasons, in order of importance:
 
+- **you have to actively think about going on this tab**, so you lose time and focus ;
 - **you will lose time (and bandwidth) to reconnect each time** ;
 - **You will not have access to your emails if you have** (temporarily) **no Internet access** ;
 - **Search features are usually very limited** (except perhaps GMail) ;
