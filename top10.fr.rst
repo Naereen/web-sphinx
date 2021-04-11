@@ -89,6 +89,8 @@ Mes 10 **groupes**/**artistes** préférés
 
 Mes 10 **chansons** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. sidebar:: Cette chanson garde également une place importante dans mon cœur : `« En Cavale » (2015) par la chanteuse Pomme » <https://www.youtube.com/watch?v=MPTUxl50PkY>`_.
+
 - `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_,
 - `The Partisan <https://www.youtube.com/results?search_query=The+Partisan+Leonard+Cohen>`_, par `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, par `Renaud <https://fr.wikipedia.org/wiki/Renaud>`_,

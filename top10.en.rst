@@ -102,6 +102,9 @@ My 10 favorite **bands**/**artists**
 
 My 10 favorite **songs**
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. sidebar:: This song also keeps an important place in my heart: `« En Cavale » (2015) by French singer Pomme » <https://www.youtube.com/watch?v=MPTUxl50PkY>`_.
+
 - `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, by `Iron Maiden <https://en.wikipedia.org/wiki/Iron_Maiden>`_,
 - `The Partisan <https://www.youtube.com/results?search_query=The+Partisan+Leonard+Cohen>`_, by `Leonard Cohen <https://en.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `Hexagone <https://www.youtube.com/results?search_query=Hexagone+Renaud>`_, by `Renaud <https://en.wikipedia.org/wiki/Renaud>`_,
