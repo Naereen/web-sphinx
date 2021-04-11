@@ -170,7 +170,7 @@ En combinant plusieurs logiciels et outils, on devrait pouvoir mettre en place u
 Auto-hébergement d'une alternative à Discord ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Et si j'essayé d'estimer le coût mensuel de serveurs loués pour héberger ces logiciels libres ?
+Et si j'essayais d'estimer le coût mensuel de serveurs loués pour héberger ces logiciels libres ?
 
 .. todo:: *Quel prix pour un BigBlueButton robuste hébergé en France ?* `Lionel Fourquaux <https://lionel.fourquaux.org/>`_ m'a dit ~48€/mois pour un BigBlueButton robuste, hébergé par `OVH avec SoYouStart <https://www.soyoustart.com/fr/offres/1801sys48.xml>`_ et `installé manuellement <https://docs.bigbluebutton.org/2.2/install.html>`_ ;
 .. todo:: *Quel prix pour un Moodle robuste hébergé en France ?* Je pense que ce sera moins cher, mais entre 10 et 20€ par mois...?
