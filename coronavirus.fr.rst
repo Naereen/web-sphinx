@@ -185,10 +185,35 @@ Si je vise ce genre d'auto-hébergement, `cette page web sur CHATONS.org <https:
 
 .. todo:: Quelle source de financement ? Tomber sur un-e parent d'élève qui se sente l'âme de devenir un-e généreux-se mécène, ce serait magique !
 
+Avec la distribution GNU/Linux Yunohost ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un généreux collège du Mans m'a appris le 2021-04-12 l'existence du chouette projet de la distribution GNU/Linux `Yunohost <https://yunohost.org/fr/selfhosting>`_, conçue pour cette tâche de facilement auto héberger tout un tas d'applications web.
+Yunohost semble l'outil parfait pour faire ça :
+
+- Lancé et maintenu par des français et entièrement open-source et libre ;
+- Semble vraiment très simple à installer, et maintenir...
+- `Pleeein d'applications disponibles <https://yunohost.org/fr/apps?q=%2Fapps>`_, dont JupyterLab (zut, pas Jupyter donc pas RISE...), GitLab ou Gitea ou Gogs, Mailman, Moodle, PeerTube, ZeroBin & CryptPad & PrivateBin, SoGo (ou RoundCube ou Horde), Galene mais pas Jitsi ou BigBlueButton, , MatterMost ou Element (sur Matrix)
+- Pour un usage interne et juste perso, ça donne envie... Pi-hole, Grammalecte server & LanguageTool server, Firefox Sync server, et tous les autres... Ça m'a fait découvrir des trucs géniaux : EmailPoubelle par exemple !
+
+Auto-hébergement sur une raspberry-pi-4 ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Je pense `acheter une Raspberry-pi 4 <https://raspberry-pi.fr/raspberry-pi-4/>`_ et essayer à la maison.
+Apparemment, ça peut être assez costaud pour héberger un Yunohost à usage personnel;
+
+- Si besoin, `Kit Raspberry Pi 4 Modèle B - 8G de Mémoire RAM <https://www.kubii.fr/174-raspberry-pi-4-modele-b>`_ sur kubii.fr, `ordi/carte à 83.99 € <https://www.kubii.fr/cartes-raspberry-pi/2955-raspberry-pi-4-modele-b-8gb-0765756931199.html>`_, `alimentation à 8.95 € (mais même que ma Switch !) <https://www.kubii.fr/chargeurs-alimentations-raspberry/2678-alimentation-officielle-usb-type-c-raspberry-pi-3272496300002.html>`_, `boîtier à 5.95 € <https://www.kubii.fr/boitiers-et-supports/2681-boitier-officiel-pour-raspberry-pi-4-kubii-3272496298583.html>`_, `clavier officiel à 17.95 €`_ ;
+- `Kit Raspberry Pi 400 <https://www.kubii.fr/raspberry-pi-400/3084-kits-raspberry-pi-400-3272496302914.html>`_ intégré dans le clavier, sur kubii.fr, ~ 106.50 €.
+- Si besoin, `Kit Raspberry Pi 4 Modèle B - 8G de Mémoire RAM <https://mon-raspberry.com/vente/kit-raspberry-pi-4-modele-b-8g-de-memoire-ram/>`_ sur mon-raspberry.com, ~ 106.73 € à 152.65 € ;
+
+.. todo:: Essayer de me faire financer ce raspberry-pi 4 ?
+
+Si ça marche sans problème pour 2/3 utilisateurs connectés en même temps, il faudra essayer avec 10/20/50 (la visio BigBlueButton risque d'être bloquante, le reste non ?), et si ça fonctionne je devrai pouvoir rendre visible le serveur sur ma Raspberry-pi avec FreeBos OS (!) ou avec un nom de domaine acheté exprès (les ``.ml`` sont gratuits, `pour essayer <http://www.getfreedomain.name/domain/ml>`_ ce serait suffisant !)
+
 ---------------------------------------------
 
-Interludes comiques
-~~~~~~~~~~~~~~~~~~~
+Conclusion comique
+~~~~~~~~~~~~~~~~~~
 
 J'aime bien `cette planche de XKCD <https://xkcd.com/2282/>`_ et `cette autre planche <https://xkcd.com/2294/>`_, qui est un peu absurde mais drôle :
 
