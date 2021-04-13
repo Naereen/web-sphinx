@@ -8,25 +8,28 @@
 
 .. warning:: Informations sur l'épidémie de Coronavirus
 
-    Allez lire *régulièrement* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
-    Et lire `<https://www.lemonde.fr>`_ est aussi une très bonne idée !
-    J'ai recopié des informations de santé sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_.
+   Allez lire *régulièrement* la page `<https://www.gouvernement.fr/info-coronavirus>`_ du gouvernement français.
+   Et lire `<https://www.lemonde.fr>`_ est aussi une très bonne idée !
+   En avril 2020, j'ai recopié quelques conseils médicaux de base sur `cette page web <https://perso.crans.org/besson/conseils-medicaux.html>`_ (mise à jour quand j'ai découvert des erreurs).
 
 
-TL;DR: Soyez prudent-e-s, travaillez bien, soyez gentil-l-es et serviables (pour les plus fragiles et les plus âgé-e-s notamment !).
+*TL;DR*: *Conseils de base* : **en situation de crise sanitaire encore plus que d'habitude, nous devons être des citoyens et citoyennes exemplaires**. Soyez intelligent-e, gentil-le, et bons ou bonne. Nous devons tous et toutes être prudent-e et faire attention, à notre propre santé et la santé de tous-tes, mais pas seulement la santé physique mais aussi le bien-être et la santé psychologique. Travaillez bien et sérieusement, tout en prenant soin de vous et de vos proches (famille, ami-e-s, camarades et voisin-e-s, etc.). Gardez un bon rythme de vie (sommeil, alimentation, sport, loisirs et travails via le numérique en temps et quantité raisonnable, etc.), et n'ayez pas peur d'être serviables envers les plus fragiles et les plus âgé-e-s notamment !
 
-- Si besoin, je suis joignable par email : ``lilian.besson`` à ``ens-rennes.fr`` ou ``inria.fr``.
+Voici quelques points rapides, avant de parler de l'influence de la crise sanitaire sur `mes activités d'enseignements <enseignements.fr.html>`_ plus bas :
 
-- Si vous vous sentez trop seul-e, on peut s'appeler (via `Jitsi <jitsi.fr.html>`_ en visio), ou jouer ensemble au Pictionnary avec `Tableaunoir <https://tableaunoir.github.io/>`_ et `ce générateur de mot <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ?
+- Ami-e-s ou inconnu-e-s, collègues ou élèves, si vous avez besoin de me contacter, je suis joignable par ``lilian.besson`` à ``crans.org``, ou `téléphone <_images/.telephone.png>`_. Plus de moyens de me contacter sont là `<callme.fr.html>`_ !
 
-- Besoin d'idées culturelles, livres films et autres ? Cf. `mon top 10 <top10.fr.html>`_ !
+- Si vous vous sentez trop seul-e, on peut s'appeler (via `Jitsi <jitsi.fr.html>`_ en visio) ! Étant amateur de jeux de société et des logiciels libres, je peux proposer que l'on joue ensemble au Pictionnary, avec `Tableaunoir <https://tableaunoir.github.io/>`_ et `ce générateur de mot <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ? Sinon, `via BoardGameAre.net <https://boardgamearena.com/player?id=88972705>`_ ?
+
+- *Vous vous ennuyez ?* Je donne des suggestions culturelles, de livres, films, séries et autres, sur `mes top 10 <top10.fr.html>`_, et de vidéos YouTube sur `mes abonnements YouTube <ce-que-je-regarde-sur-youtube.fr.html>`_ !
 - Envie de jouer aux jeux vidéo ensemble ? Je souhaite poursuivre mon projet collaboratif de l'an dernier, `avec Pokémon Or/Argent <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ (ou d'autres jeux), `contactez moi <callme.fr.html>`_ !
-- Je donne des conseils pour des meilleures visio sur `conseils.fr.html>`_ !
-- Envie de rigoler cinq minutes tout en révisant les gestes barrières ?
+- Je donne des conseils pour des meilleures visio sur `<conseils-visio.fr.html>`_ (et aussi `<conseils-email.fr.html>`_ pour les emails) !
+
+- Envie de rigoler cinq minutes tout en révisant les gestes barrières (2021-02-27) ? Cette vidéo est là pour ça ! Je donne aussi des `blagues en français sur cette page <blagues.fr.html>`_.
 
 .. youtube:: t4h8j9xLyxQ
 
-- In English, you can have fun for 3 minutes and listen to this nice song, by *Foil Arms and Hog*, my favorite English humor band:
+- 🇬🇧 In English, you can have fun for 3 minutes and listen to this nice song, by *Foil Arms and Hog*, my favorite English humor trio (2021-04-09)! I also give `some jokes in English on this page <jokes.en.html>`_.
 
 .. youtube:: iiEP6UZ8X_4
 
@@ -196,19 +199,26 @@ Yunohost semble l'outil parfait pour faire ça :
 - `Pleeein d'applications disponibles <https://yunohost.org/fr/apps?q=%2Fapps>`_, dont JupyterLab (zut, pas Jupyter donc pas RISE...), GitLab ou Gitea ou Gogs, Mailman, Moodle, PeerTube, ZeroBin & CryptPad & PrivateBin, SoGo (ou RoundCube ou Horde), Galene mais pas Jitsi ou BigBlueButton, , MatterMost ou Element (sur Matrix)
 - Pour un usage interne et juste perso, ça donne envie... Pi-hole, Grammalecte server & LanguageTool server, Firefox Sync server, et tous les autres... Ça m'a fait découvrir des trucs géniaux : EmailPoubelle par exemple !
 
+Si je me lance dans cette direction, cette page `sur CHATONS.org <https://wiki.chatons.org/doku.php/yunohost>`_ semble un excellent tutoriel (2021-04-12 07:10:28), pour aider à choisir un hébergeur commercial ou associatif.
+`Cette carte sur FFDN.org <https://db.ffdn.org/>`_ me donne envie d'essayer `ARN-FAI.org <https://www.arn-fai.net/>`_ un hébergeur associatif basé à Strasbourg !
+
+.. todo:: Essayer tout ça en avril 2021 ?
+
 Auto-hébergement sur une raspberry-pi-4 ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Je pense `acheter une Raspberry-pi 4 <https://raspberry-pi.fr/raspberry-pi-4/>`_ et essayer à la maison.
-Apparemment, ça peut être assez costaud pour héberger un Yunohost à usage personnel;
+Apparemment, `ça peut être assez costaud pour héberger un Yunohost à usage personnel <https://yunohost.org/fr/install/hardware:rpi2plus>`_.
 
-- Si besoin, `Kit Raspberry Pi 4 Modèle B - 8G de Mémoire RAM <https://www.kubii.fr/174-raspberry-pi-4-modele-b>`_ sur kubii.fr, `ordi/carte à 83.99 € <https://www.kubii.fr/cartes-raspberry-pi/2955-raspberry-pi-4-modele-b-8gb-0765756931199.html>`_, `alimentation à 8.95 € (mais même que ma Switch !) <https://www.kubii.fr/chargeurs-alimentations-raspberry/2678-alimentation-officielle-usb-type-c-raspberry-pi-3272496300002.html>`_, `boîtier à 5.95 € <https://www.kubii.fr/boitiers-et-supports/2681-boitier-officiel-pour-raspberry-pi-4-kubii-3272496298583.html>`_, `clavier officiel à 17.95 €`_ ;
+- Si besoin, `Kit Raspberry Pi 4 Modèle B - 8G de Mémoire RAM <https://www.kubii.fr/174-raspberry-pi-4-modele-b>`_ sur kubii.fr, `ordi/carte à 83.99 € <https://www.kubii.fr/cartes-raspberry-pi/2955-raspberry-pi-4-modele-b-8gb-0765756931199.html>`_, `alimentation à 8.95 € (mais même que ma Switch !) <https://www.kubii.fr/chargeurs-alimentations-raspberry/2678-alimentation-officielle-usb-type-c-raspberry-pi-3272496300002.html>`_, `boîtier à 5.95 € <https://www.kubii.fr/boitiers-et-supports/2681-boitier-officiel-pour-raspberry-pi-4-kubii-3272496298583.html>`_, `clavier officiel à 17.95 € <https://www.kubii.fr/raspberry-pi-microbit/2572-clavier-officiel-raspberry-pi-azerty-kubii-3272496015333.html>`_ ;
 - `Kit Raspberry Pi 400 <https://www.kubii.fr/raspberry-pi-400/3084-kits-raspberry-pi-400-3272496302914.html>`_ intégré dans le clavier, sur kubii.fr, ~ 106.50 €.
 - Si besoin, `Kit Raspberry Pi 4 Modèle B - 8G de Mémoire RAM <https://mon-raspberry.com/vente/kit-raspberry-pi-4-modele-b-8g-de-memoire-ram/>`_ sur mon-raspberry.com, ~ 106.73 € à 152.65 € ;
 
 .. todo:: Essayer de me faire financer ce raspberry-pi 4 ?
 
-Si ça marche sans problème pour 2/3 utilisateurs connectés en même temps, il faudra essayer avec 10/20/50 (la visio BigBlueButton risque d'être bloquante, le reste non ?), et si ça fonctionne je devrai pouvoir rendre visible le serveur sur ma Raspberry-pi avec FreeBos OS (!) ou avec un nom de domaine acheté exprès (les ``.ml`` sont gratuits, `pour essayer <http://www.getfreedomain.name/domain/ml>`_ ce serait suffisant !)
+Si ça marche sans problème pour 2/3 utilisateurs connectés en même temps, il faudra essayer avec 10/20/50 (la visio BigBlueButton risque d'être bloquante, le reste non ?), et si ça fonctionne je devrai pouvoir rendre visible le serveur sur ma Raspberry-pi avec FreeBos OS (!) ou avec un nom de domaine acheté exprès (les ``.ml`` sont gratuits, `pour essayer <http://www.getfreedomain.name/domain/ml>`_ ce serait suffisant !).
+
+.. todo:: Essayer tout ça en avril 2021 ?
 
 ---------------------------------------------
 

@@ -11,7 +11,7 @@ A few words about me
 
 |Greetings|, and welcome to my website!
 I am **Lilian Besson**, teacher-developper in Computer Science, currently assistant professor at |ENSRennes| since 2019.
-I will be a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2021.
+I will be a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2021, in `lycée Kléber <https://lycee-kleber.com.fr/>`_ in `Strasbourg <https://en.wikipedia.org/wiki/Strasbourg>`_.
 
 I `did my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning.
@@ -31,7 +31,7 @@ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publi
 
 - From August 2019 to August 2022, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
 
-- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `ocaml.besson.link <http://ocaml.besson.link>`_ for OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ for C/C++, `python.besson.link <http://python.besson.link>`_  and `notebook.besson.link <http://notebook.besson.link>`_ for Python 3.8, `turing.besson.link <http://turing.besson.link>`_ for Turing machines, and `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard!Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
+- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `ocaml.besson.link <http://ocaml.besson.link>`_ for OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ for C/C++, `python.besson.link <http://python.besson.link>`_  and `notebook.besson.link <http://notebook.besson.link>`_ for Python 3.8, `turing.besson.link <http://turing.besson.link>`_ for Turing machines, and `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard! Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
 
 - If you want to learn more about |ENSRennes|, watch this:
 

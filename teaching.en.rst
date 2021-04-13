@@ -12,19 +12,33 @@
     Welcome to my website.
 
 
+In 2021/2022
+------------
+
+I will be a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2021, in `lycée Kléber <https://lycee-kleber.com.fr/>`_ in `Strasbourg <https://en.wikipedia.org/wiki/Strasbourg>`_.
+
+I will teach full-time computer science at bac+1 level in France, and for now I started writing a few web-pages, `here in this folder <https://perso.crans.org/besson/mp2i/>`_ (and `there on GitHub <https://github.com/Info-Prepas-MP2I/>`_).
+I will also give a few oral exam in mathematics in Classes Préparatoires, some lectures and practical sessions in computer science in other classes in Lycée Kléber, and will most certainly stay involved with the class preparing for the new national competitive exam to become a professor in Computer Science (*"Agrégation d'Informatique"*), at `Computer Science department at ENS Rennes <http://dit.ens-rennes.fr/>`_ (remotely).
+
+Nowadays, as I now define myself as a "developer-teacher", I'll stay very active in my programming and development activities, `on GitHub <https://GitHub.com/Naereen>`_, `GitLab <https://GitLab.com/Naereen>`_, and `bitbucket <https://bitbucket.org/lbesson>`_.
+
+.. todo:: Hey listen! 2021/22 *is in the future!* Don't worry, I'll update this section before september.
+
+
+- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `<http://ocaml.besson.link>`_ for OCaml 4.08, `<http://jscpp.besson.link>`_ for C/C++, `<http://python.besson.link>`_  and `<http://notebook.besson.link>`_ for Python 3.8, `<http://turing.besson.link>`_ for Turing machines, and `<http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard! Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
+
+.. todo:: Update Tableaunoir, Basthon and BetterOCaml in the summer 2012, for more recent versions (Basthon will support OCaml !).
+
 In 2020/2021
 ------------
 
-I keep the same responsibilities as last year, but I am also teaching two new courses:
+I kept the same responsibilities as last year 2019/2020, but I was also teaching two new courses:
 
 - A small course, of 6 lectures of 2 hours, of **Introduction to Computer Science**, for the first year students of the `department "Droit Économie Management" <http://www.dem.ens-rennes.fr/>`_: see `the page of the course <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. I teach the basics of computer science, both from a historical and technological point of view, and the basics of programming with an introduction to the Linux/Mac/Windows shell (terminal) and with Python ;
 - I also give TDs and TPs (10 of each, 2*2*10h=40h) for the course **Computer Science 1**, for the first year students of Computer Science and Mathematics bachelors, at the University of Rennes 1. On `my course page <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ I give solutions to TDs and TPs in Java (and Python, for the curious) in Jupyter notebooks. I also made videos of TD and TP corrections in Java, published on `this YouTube channel <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, I wrote and made the scale and correction of the CC2 and the `MineSweeper <http://demineur.org/>`_ Java project. (60 h / year)
 - I'm in charge of supervising `a Wikipedia project (in French) <https://fr.wikipedia.org/wiki/Projet:ENS_Rennes_algorithmique_2021>`_ for the `Advanced Algorithms (ALGO2) <http://people.irisa.fr/Francois.Schwarzentruber/algo2/>`_ course on the second semester.
 
 .. youtube:: zleSzn76FMs
-
-
-- I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `<http://ocaml.besson.link>`_ for OCaml 4.08, `<http://jscpp.besson.link>`_ for C/C++, `<http://python.besson.link>`_  and `<http://notebook.besson.link>`_ for Python 3.8, `<http://turing.besson.link>`_ for Turing machines, and `<http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard!Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
 
 
 In 2019/2020

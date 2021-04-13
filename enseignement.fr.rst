@@ -12,10 +12,27 @@
     Bienvenue sur mon site web.
 
 
+En 2021/2022
+------------
+
+Je serai professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_ à la rentrée prochaine 2021, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_.
+
+Je vais enseigner l'informatique à plein temps, pour une classe de niveau bac+1, et pour l'instant j'ai commencé à rédiger ces brouillons de pages web, `ici dans ce dossier <https://perso.crans.org/besson/mp2i/>`_ (et `ici sur GitHub <https://github.com/Info-Prepas-MP2I/>`_).
+Je vais probablement aussi donner quelques heures de colles de maths en CPGE (MPSI ?), et quelques cours et TP en informatique dans d'autres classes (MPSI/MP, info-tronc-commun), et je vais probablement rester impliqué dans l'entraînement aux oraux de *l'Agrégation d'Informatique*, au `département informatique à l'ENS Rennes <http://dit.ens-rennes.fr/>`_ (à distance).
+
+Désormais, je me définis comme "enseignant-développeur", je vais rester actif dans mes activités de programmation et de développement, `sur GitHub <https://GitHub.com/Naereen>`_, `GitLab <https://GitLab.com/Naereen>`_, et `bitbucket <https://bitbucket.org/lbesson>`_.
+
+.. todo:: Hey listen! 2021/22 *c'est dans le futur !* Soyez patients, je vais mettre à jour cette section avant septembre.
+
+- En février 2021, je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `<http://ocaml.besson.link>`_ pour OCaml 4.08, `<http://jscpp.besson.link>`_ pour C/C++, `<http://python.besson.link>`_  et `<http://notebook.besson.link>`_ pour Python 3.8, `<http://turing.besson.link>`_ pour des machines de Turing, et `<http://tableaunoir.besson.link>`_ pour un tableau noir interactif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
+
+.. todo:: Mettre à jour Tableaunoir, Basthon et BetterOCaml durant l'été 2021.
+
+
 En 2020/2021
 ------------
 
-Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plus :
+J'ai gardé les mêmes responsabilités que l'an dernier 2019/2020, mais j'avais demander à récupérer en plus :
 
 - Un petit cours, de 6 CM de 2h, d'**Introduction au Numérique**, pour les élèves de première année du `département Droit Économie Management <http://www.dem.ens-rennes.fr/>`_ : voir `la page du cours <https://perso.crans.org/besson/teach/intro_num_DEM_2020/>`_. J'enseigne les bases de l'informatique, tant du point de vue historique que technologique, et les bases de la programmation avec une initiation au shell (terminal) Linux/Mac/Windows et avec Python (10 h / an).
 - Je donne aussi des TD et des TP (10 de chaque, 2*2*10h=40h) pour le cours **Informatique 1**, pour les élèves de première année de Licence Informatique et de Licence Mathématiques, à l'Université de Rennes 1. Sur `ma page du cours <https://perso.crans.org/besson/teach/INF1_L1_Rennes1_2020-21/>`_ je donne des solutions aux TD et TP en Java (et en Python, pour les curieux-ses) dans des notebooks Jupyter. J'ai aussi fait des vidéos de corrections de TD et TP en Java, publiées sur `cette chaîne YouTube <https://www.youtube.com/channel/UCHcxNtvAcNUUTjB3YwVtdpQ/>`_, j'ai rédigé et fait le barème et la correction du CC2 et du projet Java `Démineur <http://demineur.org/>`_. (60 h / an)
@@ -23,8 +40,6 @@ Je garde les mêmes responsabilités que l'an dernier, mais je récupère en plu
 
 .. youtube:: zleSzn76FMs
 
-
-- Je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `<http://ocaml.besson.link>`_ pour OCaml 4.08, `<http://jscpp.besson.link>`_ pour C/C++, `<http://python.besson.link>`_  et `<http://notebook.besson.link>`_ pour Python 3.8, `<http://turing.besson.link>`_ pour des machines de Turing, et `<http://tableaunoir.besson.link>`_ pour un tableau noir interactif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
 
 En 2019/2020
 ------------

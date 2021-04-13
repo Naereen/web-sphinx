@@ -244,6 +244,7 @@ Science
 Teaching in French
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - High school math: `Maths Cheval <https://www.youtube.com/channel/UCdW4jyrRpV4GeWcuXpNt6dg/videos>`_, of my late friend Rémi Cheval (see also his website `maths-cheval.com <http://www.maths-cheval.com/>`_) ;
+- `Numworks graphics calculators, with a Python editor and console <https://www.youtube.com/c/NumWorks/videos>`_, designed in France and developed under the free license Creative Commons ;
 - Computer Science "for all" in scientific prep schools: `Professeur Karré <https://www.youtube.com/channel/UCU5zu_JjuRExQNbJWVWIvyw>`_ some very good videos ;
 - PCSI / PSI science preparatory level math: `M. Devilliers : Maths pour la CPGE de l'Essouriau <https://www.youtube.com/channel/UClAA8_k2mWuMiZNqUVdF1Xw>`_ (a friend of mine, `see his site <https://loicdevilliers.frama.site/>`_) ;
 - Math L1 / L2: ` Maths Villebon - Georges Charpak <https://www.youtube.com/channel/UClFti-hWtiqSYywsgvAYb7g>`_ where teaches one of my other friends (from the 2013/2014 prepa at ENS Cachan) ;
