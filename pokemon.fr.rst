@@ -91,18 +91,18 @@ Ma chaîne Twitch
 .. image:: .twitch-homepage.png
    :scale: 50%
    :align: center
-   :alt: Page d'accueil de ma chaîne Twitch sur https://www.twitch.tv/Naereen
-   :target: https://www.twitch.tv/Naereen
+   :alt: Page d'accueil de ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
-J'ai désormais une chaîne sur `Twitch <https://Twitch.tv/>`_ : `Twitch.tv/Naereen <https://Twitch.tv/Naereen>`_.
+J'ai désormais une chaîne sur `Twitch <https://Twitch.tv/>`_ : `twitch.tv/LilianBessonENS <https://twitch.tv/LilianBessonENS>`_.
 Je vais essayer d'y "streamer" (= diffuser en temps réel) quand je jouerai à Pokémon (et d'autres jeux) pour les projets `Pokémon via GitHub contre Covid 2020 fr <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_, et d'autres projets similaires :
 
 .. image:: .twitch-pokemon.png
    :scale: 35%
    :align: center
-   :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je joue à Pokémon
-   :target: https://www.twitch.tv/Naereen
+   :alt: Ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS quand je joue à Pokémon
+   :target: https://www.twitch.tv/LilianBessonENS
 
 --------------------------------------------------------------------------------
 
