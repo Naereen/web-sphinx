@@ -26,11 +26,11 @@ Ma chaîne Twitch
 .. image:: .twitch-homepage.png
    :scale: 50%
    :align: center
-   :alt: Page d'accueil de ma chaîne Twitch sur https://www.twitch.tv/Naereen
-   :target: https://www.twitch.tv/Naereen
+   :alt: Page d'accueil de ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
-J'ai désormais une chaîne sur `Twitch <https://Twitch.tv/>`_ : `Twitch.tv/Naereen <https://Twitch.tv/Naereen>`_.
+J'ai désormais une chaîne sur `Twitch <https://Twitch.tv/>`_ : `twitch.tv/LilianBessonENS <https://twitch.tv/LilianBessonENS>`_.
 
 Je vais essayer d'y "streamer" (= diffuser en temps réel) pour les occasions suivantes :
 
@@ -39,8 +39,8 @@ Je vais essayer d'y "streamer" (= diffuser en temps réel) pour les occasions su
 .. image:: .twitch-pokemon.png
    :scale: 35%
    :align: center
-   :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je joue à Pokémon
-   :target: https://www.twitch.tv/Naereen
+   :alt: Ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS quand je joue à Pokémon
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 - quand je coderai pour un projet public :
@@ -48,8 +48,8 @@ Je vais essayer d'y "streamer" (= diffuser en temps réel) pour les occasions su
 .. image:: .twitch-code.png
    :scale: 35%
    :align: center
-   :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je code pour un projet public (cette page)
-   :target: https://www.twitch.tv/Naereen
+   :alt: Ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS quand je code pour un projet public (cette page)
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 - quand je donnerai des exposés dans des conférences, pour les rendre accessibles à n'importe qui :
@@ -57,8 +57,8 @@ Je vais essayer d'y "streamer" (= diffuser en temps réel) pour les occasions su
 .. image:: .twitch-slides.png
    :scale: 35%
    :align: center
-   :alt: Ma chaîne Twitch sur https://www.twitch.tv/Naereen quand je fais une présentation avec un PDF.
-   :target: https://www.twitch.tv/Naereen
+   :alt: Ma chaîne Twitch sur https://www.twitch.tv/LilianBessonENS quand je fais une présentation avec un PDF.
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

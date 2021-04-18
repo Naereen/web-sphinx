@@ -20,11 +20,11 @@ My Twitch Channel
 .. image:: .twitch-homepage.png
    :scale: 35%
    :align: center
-   :alt: Home page of my Twitch channel on https://www.twitch.tv/Naereen
-   :target: https://www.twitch.tv/Naereen
+   :alt: Home page of my Twitch channel on https://www.twitch.tv/LilianBessonENS
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
-I now have a channel on `Twitch <https://Twitch.tv/>`_: `Twitch.tv/Naereen <https://Twitch.tv/Naereen>`_.
+I now have a channel on `Twitch <https://Twitch.tv/>`_: `twitch.tv/LilianBessonENS <https://twitch.tv/LilianBessonENS>`_.
 
 I'll try to stream there (= broadcast in real time) for the following occasions:
 
@@ -33,8 +33,8 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 .. image:: .twitch-pokemon.png
    :scale: 35%
    :align: center
-   :alt: My Twitch channel on https://www.twitch.tv/Naereen when I play Pokémon
-   :target: https://www.twitch.tv/Naereen
+   :alt: My Twitch channel on https://www.twitch.tv/LilianBessonENS when I play Pokémon
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 - when I code for a public project:
@@ -42,8 +42,8 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 .. image:: .twitch-code.png
    :scale: 35%
    :align: center
-   :alt: My Twitch channel on https://www.twitch.tv/Naereen when I code for a public project (this page)
-   :target: https://www.twitch.tv/Naereen
+   :alt: My Twitch channel on https://www.twitch.tv/LilianBessonENS when I code for a public project (this page)
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 - when I give presentations at conferences, to make them accessible to anyone:
@@ -51,8 +51,8 @@ I'll try to stream there (= broadcast in real time) for the following occasions:
 .. image:: .twitch-slides.png
    :scale: 35%
    :align: center
-   :alt: My Twitch channel on https://www.twitch.tv/Naereen when I make a presentation with a PDF.
-   :target: https://www.twitch.tv/Naereen
+   :alt: My Twitch channel on https://www.twitch.tv/LilianBessonENS when I make a presentation with a PDF.
+   :target: https://www.twitch.tv/LilianBessonENS
 
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
