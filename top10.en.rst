@@ -116,6 +116,22 @@ My 10 favorite **songs**
 - `Ces diamants-la (Fleur-de-Lys -- Phoebus) <https://www.youtube.com/results?search_query=Ces+diamants-la+%28Fleur-de-Lys+-+Phoebus%29+-+Notre+Dame+de+Paris>`_, Notre Dame de Paris - Acte I (Musical Comedy),
 - `Time in a Bottle <https://www.youtube.com/results?search_query=jim+croce+time+in+a+bottle>`_, by `Jim Croce <https://en.wikipedia.org/wiki/Jim_Croce>`_ (`famous for its use in this mythic X-Men scene <https://www.youtube.com/watch?v=1NnyVc8r2SM>`_).
 
+My 10 favorite jazz player or bands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Airelle Besson** : trump, piano and voice. I saw her and *Madeleine Cazenave* in concert in Rennes in November 2019, just a few days before my PhD defense, it was great!), and I especially love the song *Radio One* ;
+- **Camille Laïly** : singer and guitarist, I really love her covers of *Claude Nougaro* songs and original as well as covers solo songs ;
+- **Guillaume de Chassy** : a great pianist and composer. I saw him in a trio with piano, double bass, and clarinet, in Saint-Malo in February 2020, it was amazing! I especially like his album inspired by *Barbara* ;
+- **Hugh Laurie** (yes, the actor from House, MD), for his two great albums of covers of classical jazz songs, I especially love the songs *Battle of Jericho* and *Kiss of Fire* ;
+- **John Coltrane**, an old classical jazz artist, I especially love the song *My Little Brown Book* ;
+- **Paul Lay** and his trio *Paul Lay Jazz*, I especially love the song *Amour et Printemps* ;
+- **Rémy Panossian** : another great French pianist and composer. I saw him in a trio in Hyderabad in India in 2015, and again in solo in Rennes in 2019, it was great to see him again!
+- **Snarky Puppy** (but is it jazz?) ;
+- **The Consouls** : a great jazz band from USNA, who perform covers of video games and movies songs ;
+- 10th : and you, what are your favorite jazz artists? `Tell me! <callme.en.html>`_
+
+.. todo:: Add links to their YouTube channels or official website?
+
 ------------------------------------------------------------------------------
 
 Video Games
@@ -384,10 +400,10 @@ Inspirational science
 My 10 favorite mathematical results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Euclide's proof** of the theorem that states that there exists an infinite number of prime numbers ;
-- **Lagrangian interpolation of polynomials** ;
+- **Euclide's proof** of the theorem that states that there exists an infinite number of prime numbers (proof in one line: if there are only :math:`p_1,\dots,p_n` as prime numbers, write :math:`N = p_1 \times p_n + 1` then it's a prime number too, larger than each: error!) ;
+- **Lagrangian interpolation of polynomials**, and one of its consequence that I discovered "myself" in 2009. I was programming a lot of my (old) TI-82 graphical calculator at this time, and I wrote tiny programs to compute all the basic things on polynomial, stored as list of their coefficients. Passing from a polynomial :math:`P` to a list of its values in some points :math:`(x_1,\dots,x_K)` is easy, and I was curious to try to do the opposite: if you have some data point, can you be sure that they are on the graph of a polynomial, and if so, find it? The answer, of course, is (sadly) no! thanks to Lagrangian interpolation, you can easily take an infinite family of polynomials, with increasing degrees, each exactly on this list of pair of points and values!
 - Being able to write the n-th :math:`u_n` term of recurrent linear sequence of order k as a result of a :math:`k \times k` matrix A to the power k multiplied by a vector, and computing the power by a Straßen method combined with fast exponentiation (leading to an algorithm in :math:`\mathcal{O}(\log_2(k) n^{\log_2(7)})` instead of :math:`\mathcal{O}(k n^3)`) ;
-- **Pascal triangle**, and its relationships with binomial coefficients ;
+- **Pascal triangle**, and its relationships with binomial coefficients, and many other things (e.g., Sierpinski triangle) ;
 - **Indecidability of the halting problem**, as well as Gödel incompleteness theorems, which lay down limits of what is unreachable in mathematics and computer science ;
 - **Confluence of the lambda-calculus**? Not really, I just have an awesome memory of its proof by `Jean Goubaut-Larrecq <http://www.lsv.fr/~goubault/>`_ in PROG2 in 2012 at ENS Cachan!
 - The results about which rational and reals numbers can be `constructed by a straithedge and a compass <https://en.wikipedia.org/wiki/Straightedge_and_compass_construction>`_, which I studied a lot in 2009/2010. I find it amazing that we have theorems such as Wantzel's theorem, and `clean and understable proofs of impossibility results <https://en.wikipedia.org/wiki/Straightedge_and_compass_construction#Impossible_constructions>`_!
