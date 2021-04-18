@@ -6,6 +6,8 @@
  Liste d'outils de sécurité informatique
 #########################################
 
+.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je ne vais plus accepter de montrer ma caméra, et je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles !
+
 .. seealso:: Guide par John Mason
 
     `Ce guide <https://thebestvpn.com/online-privacy-guide/>`_ est très bien conçu (en anglais).
