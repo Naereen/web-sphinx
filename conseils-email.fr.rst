@@ -10,6 +10,8 @@ Cette (trop longue) page liste **mes conseils pour être un pro des emails**, et
 **Les emails sont là depuis le début du web, même avant Internet (année 1970 !), et ils resteront là pendant longtemps !**
 Mon pronostic personnel dans 20 ans : Facebook et Twitter seront morts et enterrés, mais nous aurons toujours IRC, les flux RSS et les emails !
 
+.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais remettre GPG/PGP (cf. `<pgp.fr.html>`_), et lentement je refuserai de répondre si la personne n'a pas respecté mes conditions (trois ou quatre idées, vraiment simples). Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles !
+
 **Les emails sont un outils essentiels de vos études**, de votre ou vos futurs travaux, qu'ils soient inscrits dans le monde numérique ou non.
 **Devenir pro des emails n'est pas si compliqué, il faut simplement pratiquer et respecter des règles de bases, et ne pas être inquiets, vous allez progresser !**
 

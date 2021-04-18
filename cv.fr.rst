@@ -16,6 +16,10 @@
 .. todo:: Mettre à jour en 2021 ?
 
 
+
+.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
+
+
 Cette année (*2018-19*)
 -----------------------
 

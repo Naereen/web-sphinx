@@ -13,6 +13,8 @@
 Je suis **Lilian Besson**, enseignant-développeur en informatique, et enseignant au département Informatique à |ENSRennes| depuis 2016.
 Je serai professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_ à la rentrée prochaine 2021, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_.
 
+.. todo:: Après des années, très amusantes et bien remplies, à vivre comme je voulais sans trop m'inquiéter des questions de sécurité et de vie privée, mon « mode aléatoire » (générateur interne, avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Bon, c'est un peu tôt, j'avais l'espoir d'un printemps reposant. Mais je respecte mon algorithme, c'est le but ! Donc je change. Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous ! Et d'avance merci, si vous détectez un moment une faille ou un manquement à ma rigueur quant à la vie privée, la sécurité, ou autre ! `Contactez-moi si besoin ! <callme.fr.html>`_.
+
 J'ai `terminé ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ en 2019, à CentraleSupélec Rennes et Inria Lille, et je `suis agrégé et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées.
 
 .. |Salutations| raw:: html

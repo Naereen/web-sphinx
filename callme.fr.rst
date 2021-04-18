@@ -13,6 +13,9 @@
 
    Cette page liste divers moyen d'interagir avec `moi <index.html>`_ (*Lilian Besson*).
 
+
+.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais ne décroche jamais au téléphone sans être dans une bone situation pour le faire (écouteurs/micro/casque, pas de musique, bien assis, et avec du temps devant moi). Je ne décroche pas si je ne connais pas le numéro, mais il suffit que l'on échange 3 SMS avant et je dcroche. Bientôt, je refuserai de répondre si la personne n'a pas respecté mes conditions (trois ou quatre idées, vraiment simples). Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
+
 Vidéo-conférence instantanée ?
 ------------------------------
 1. *D'abord*, prévenez-moi par courriel, on se met d'accord sur un jour et une heure pour s'appeler (*asynchrone*),
