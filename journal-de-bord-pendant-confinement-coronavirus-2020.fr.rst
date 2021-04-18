@@ -29,7 +29,7 @@ Les informations ci-dessous seront mises à jour régulièrement (typiquement, d
     Cette page (et son historique git) me servira de carnet de bord.
 
 
-.. sidebar:: Je suis en télétravail depuis vendredi 13 mars, et je suis ravi, j'ai à manger (et je garderai de l'avance) et tout ce qu'il me faut chez moi pour plusieurs semaines.
+.. sidebar:: Je suis en télétravail depuis vendredi 13 mars 2020, et je suis ravi, j'ai à manger (et je garderai de l'avance) et tout ce qu'il me faut chez moi pour plusieurs semaines.
 
 Mars 2020
 ~~~~~~~~~
@@ -76,7 +76,7 @@ Avril 2020
 - Mercredi 15 avril : j'ai eu envie de me lancer dans `ce projet <https://pokemon-via-github-contre-covid-2020-fr.github.io/>`_ pour jouer collaborativement aux vieux jeux Pokémon (en utilisant git et GitHub pour stocker l'historique des sauvegardes). Nous allons commencer par `Pokémon version Jaune <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ : c'est ouvert à n'importe qui, rejoins nous !
 - Jeudi 16 avril : je suis quasiment resté enfermé toute la journée, je travaille, je lis. Je vais bien, mais le monde extérieur "normal" me manque...
 - Vendredi 17 avril : gros ménage chez moi, j'ai tout changé dans ma chambre !
-- Samedi 18 avril : pas grand chose à raconter. J'expérimente `Twitch <https://www.twitch.tv/Naereen>`_ pour voir comment je pourrais m'en servir pour enseigner à distance...
+- Samedi 18 avril : pas grand chose à raconter. J'expérimente `Twitch <https://www.twitch.tv/LilianBessonENS>`_ pour voir comment je pourrais m'en servir pour enseigner à distance...
 - Dimanche 19 avril : essai pas très convaincant avec `Twitch`_ mais je retenterai. Essais très convaincant avec `Ziteboard <https://app.ziteboard.com/>`_, j'aime bien l'interface épurée, l'appli est très réactive, et tout fonctionne bien avec ma tablette graphique ("Bamboo" de Wacom).
 
 .. note:: Depuis, je suis passé à `TableauNoir <https://tableaunoir.github.io/>`_, développé principalement par `un collègue de l'ENS Rennes <http://people.irisa.fr/Francois.Schwarzentruber/>`_.
@@ -92,7 +92,7 @@ Avril 2020
 - Mardi 28 avril : des lectures pour l'agrég, et j'ai commencé à ranger mon énorme collection de cartes Magic (ça va prendre du temps !)... J'ai aussi commandé quelques trucs sur `Décathlon <https://www.decathlon.fr/>`_ et sur `la Fnac <https://www.fnac.com/>`_.
 - Mercredi 29 avril : il pleut encore, je vais continuer à trier mes cartes Magic !
 - Jeudi 30 avril : meilleure météo, je dois aller dans un bureau de La Poste pour envoyer des petits colis, et faire quelques courses (fruits, légumes). J'ai relu des morceaux d'un livre de niveau L3-M1 sur l'*architecture des ordinateurs* ! Je n'ai toujours pas avancé le tri de mes cartes Magic, mais demain est un jour férié... et pluvieux !
-- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/Naereen>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
+- Vendredi 1er mai : fête du travail, mais sans manifestation. Je n'ai pas fait grand chose, beaucoup de repos. J'ai créé ma chaîne sur `Twitch <https://twitch.tv/LilianBessonENS>`_ (regardez `la page correspondante <twitch.fr.html>`_ sur ce site) !
 - Samedi 2 mai : j'ai lu, je me suis reposé, et j'ai fait une longue promenade à vélo et quelques courses à pied.
 - Dimanche 3 mai : encore du repos, une autre promenade à vélo pour aller sur le campus de Rennes de CentraleSupélec, et jeter un oeil. Un peu de tri de mes cartes Magic.
 - Lundi 4 mai : reprise du boulot, avec des relectures de développements et de mémoires de mes élèves agrégatifs (maths option informatique). J'essaie de `coder un bot <https://github.com/Pokemon-via-GitHub-contre-Covid-2020-fr/Version-Jaune/issues/19>`_ qui prendrait des captures d'écran automatiquement, sur `la partie de Pokémon Jaune que j'ai lancé <https://pokemon-via-github-contre-covid-2020-fr.github.io/Version-Jaune/>`_ en collaboration avec des amis, via GitHub.
