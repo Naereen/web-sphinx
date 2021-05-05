@@ -13,14 +13,13 @@
 
    Cette page liste divers moyen d'interagir avec `moi <index.html>`_ (*Lilian Besson*).
 
-
-.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais ne décroche jamais au téléphone sans être dans une bone situation pour le faire (écouteurs/micro/casque, pas de musique, bien assis, et avec du temps devant moi). Je ne décroche pas si je ne connais pas le numéro, mais il suffit que l'on échange 3 SMS avant et je dcroche. Bientôt, je refuserai de répondre si la personne n'a pas respecté mes conditions (trois ou quatre idées, vraiment simples). Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
+.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais ne décroche jamais au téléphone sans être dans une bonne situation pour le faire (écouteurs/micro/casque, pas de musique, bien assis, et avec du temps devant moi). Je ne décroche pas si je ne connais pas le numéro, mais il suffit que l'on échange au moins un SMS avant et je décroche. Bientôt, je refuserai de répondre si la personne n'a pas respecté mes conditions (trois ou quatre idées, vraiment simples). Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
 
 Vidéo-conférence instantanée ?
 ------------------------------
-1. *D'abord*, prévenez-moi par courriel, on se met d'accord sur un jour et une heure pour s'appeler (*asynchrone*),
-2. *Puis* on utilise le tout récent service *FramaTalk* : `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ ou Jitsi sur la page `<jitsi/>`_ (voir `cette page à propos de Jitsi <jitsi.fr.html>`_) !
-3. *Pourquoi ?* Ça ne demande pas d'installation, pas de création de compte, pas de logiciel à part un navigateur web (assez récent). Et c'est parfaitement sécurisé, comme la conversation et les messages ne sont pas espionnés ni enregistrés (le trafic durant la communication se fait en pair-à-pair).
+1. *D'abord*, prévenez-moi (par SMS ou courriel), et on se met d'accord sur un jour et une heure pour s'appeler (*début asynchrone*, *suite synchrone*),
+2. *Puis* on utilise le service *FramaTalk* : `FramaTalk.org/Naereen <https://framatalk.org/Naereen>`_ ou un lien Jitsi hébergé par `le CRANS <https://www.CRANS.org/>`_), e.g., `jitsi.crans.org/Lilian-05-2021 <https://jitsi.crans.org/Lilian-05-2021>`_. Je parle de Jitsi sur `cette page à propos de Jitsi <jitsi.fr.html>`_) !
+3. *Pourquoi ?* Ça ne demande pas d'installation, pas de création de compte, pas de logiciel à part un navigateur web (assez récent, donc Firefox ou Chromium). Et c'est parfaitement sécurisé, comme la conversation et les messages ne sont pas espionnés ni enregistrés (le trafic durant la communication se fait en pair-à-pair).
 4. D'autres services web que j'aime bien : `<https://services.renater.fr/rendez-vous/index>`_ (de RENATER, pour les enseignants-chercheurs en France), `<https://visio.inria.fr/?lang=fr-FR>`_ (de INRIA), `<https://meet.jit.si/>`_, `<https://www.gruveo.com/>`_, `<https://whereby.com/>`_ (c'était appear.in avant).
 
 

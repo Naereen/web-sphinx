@@ -91,7 +91,6 @@ Articles et publications
 - 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
 - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine...
 
-
 Collaborations
 ^^^^^^^^^^^^^^
 - 👌 OK - Écrire (au moins) un *article de recherche avec quelqu'un n'étant pas Français* et si possible pas francophone (bonus si ni Européen ni Américain ?).
@@ -161,6 +160,32 @@ Bienveillance
 - Être gentil !
 - Être d'alignement » chaotique-bon », cf. `ce paragraphe sur Wikipédia qui explique le concept <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_.
 - Ne plus jamais utiliser d'insultes, même sous un instant de colère (même envers les mauvais conducteurs, les fumeurs qui jettent leurs saloperies de mégots, etc).
+
+Social hacking
+^^^^^^^^^^^^^^
+- Essayer de faire du gentil "social hacking" envers mes failles de sécurité : banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
+- L'idée de base : j'appelle EDF avec un 07truc qui n'est pas mon numéro, je me présente en donnant nom et adresse, mais rien d'autre. J'essaie d'obtenir mon mail ou identifiant, ou des détails privés. Si aucune vérification n'est faite sur mon identité, il y a faille de sécurité !
+- Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
+- Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
+
+.. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
+
+White hat web hacking
+^^^^^^^^^^^^^^^^^^^^^
+- Essayer de faire du gentil "white hat hacking" envers mes failles de sécurité : banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
+- L'idée de base : je tente de me connecter à un espace perso, ou à "réinitialiser le mot de passe", avec tous les mails qu'un hackeur pourrait avoir envie d'essayer : prenom.nom @truc et 20 variantes. Si j'arrive à trouver un mail associé à un espace perso, déjà il y a faille de sécurité...
+- Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
+- Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
+
+.. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
+
+White hat real-life hacking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Apprendre à crocheter mes serrures chez moi ? Voir quelle solution simple je peux faire contre ;
+- Trouver comment et apprendre à déverrouiller mes téléphones sans leur code ?
+- Apprendre à truquer le pile-ou-face ? Cf. `cette vidéo <https://www.youtube.com/watch?v=YdJr1FCB0P4>`_.
+
+.. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
 
 Voyages
 ^^^^^^^
