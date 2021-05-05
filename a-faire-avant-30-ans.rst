@@ -113,7 +113,7 @@ Personnellement
 
 - 👌 OK - Continuer à être *curieux*, de tout.
 - 👌 OK - Continuer d'être toujours aussi *gentil* que possible.
-- 👌 OK - Me prendre moins la tête !
+- Me prendre moins la tête !
 - 👌 OK - Continuer d'être simplement *heureux*. Et d'aider mes proches (mais pas seulement) à l'être.
 - 👌 OK - Continuer de boycotter le plastique, et notamment celui pour les emballages (y compris les bouteilles) et qui se recyclent mal ;
 - 👌 OK - Boycotter toutes les "grandes" entreprises internationales, et même françaises, comme McDonalds, Starbucks, Amazon, etc.
@@ -163,8 +163,8 @@ Bienveillance
 
 Social hacking
 ^^^^^^^^^^^^^^
-- Essayer de faire du gentil "social hacking" envers mes failles de sécurité : banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
-- L'idée de base : j'appelle EDF avec un 07truc qui n'est pas mon numéro, je me présente en donnant nom et adresse, mais rien d'autre. J'essaie d'obtenir mon mail ou identifiant, ou des détails privés. Si aucune vérification n'est faite sur mon identité, il y a faille de sécurité !
+- Essayer de faire du gentil "social hacking" envers mes failles de sécurité (personnelles hein, évidemment !)... A savoir, les banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc. ;
+- L'idée de base ? J'appelle EDF avec un 07xyzwtruc (qui n'est même pas mon numéro), je me présente en donnant nom et adresse, mais rien d'autre. J'essaie d'obtenir mon mail ou identifiant, ou des détails privés. Si aucune vérification n'est faite sur mon identité, il y a faille de sécurité !
 - Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
 - Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
 
@@ -172,7 +172,7 @@ Social hacking
 
 White hat web hacking
 ^^^^^^^^^^^^^^^^^^^^^
-- Essayer de faire du gentil "white hat hacking" envers mes failles de sécurité : banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
+- Essayer de faire du gentil "white hat hacking" envers mes failles de sécurité (personnelles hein, évidemment !). A savoir, banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
 - L'idée de base : je tente de me connecter à un espace perso, ou à "réinitialiser le mot de passe", avec tous les mails qu'un hackeur pourrait avoir envie d'essayer : prenom.nom @truc et 20 variantes. Si j'arrive à trouver un mail associé à un espace perso, déjà il y a faille de sécurité...
 - Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
 - Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
@@ -203,7 +203,7 @@ Rencontres
     `Dites-moi <callme.html>`_.
 
 - Rencontrer à l'étranger et par hasard quelqu'un qui me connaîssait de nom ou plus (ou l'inverse) -- mais pas via le monde de la recherche (c'est trop facile sinon), ni via une relation commune qui nous aurait déjà mis en contact, je veux une rencontre **par hasard**.
-- Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !).
+- Rencontrer le ou la président-e de la République Française, en personne (sûrement irréalisable avant 30 ans, on verra plus tard !). Un tweet ou un courriel, ce serait déjà chouette !
 - Pareil avec la Reine d'Angleterre ou son ou sa successeur, et des chefs ou cheffes d'État ailleurs ? Ce serait amusant !
 - Continuer à rencontrer souvent de nouvelles personnes, avec différentes applis ou sites web conçus pour !
 
