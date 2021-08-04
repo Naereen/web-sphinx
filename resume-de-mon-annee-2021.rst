@@ -72,26 +72,21 @@ Mars 2021
 Avril 2021
 ----------
 - J'ai (enfin) obtenu confirmation de mutation en prépas scientifiques pour septembre 2021, dans une des 25 classes ouvertes pour les nouvelles filières de MP2I (`cf. ce site d'informations <https://prepas.org/index.php?article=42>`_) !
-- Et donc, j'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/Info-Prepas-MP2I/>`_.
+- Et donc, j'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/mp2i/>`_.
 - Confinement, saison trois... Annoncé le mercredi 31 mars pour quatre semaines jusqu'au samedi 1er mai. Et zut, ça grille mes rapides vacances prévues à Lyon et Grenoble fin avril.
-
-.. warning:: Le reste est dans le futur !
-
-
-Mai 2021
---------
-- TODO
 
 Juin 2021
 ---------
-- J'aimerai aller assister aux oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espère qu'ils seront maintenus, mais le jury a déjà annoncé que les visiteurs extérieures seront interdits... Et aux oraux du CAPES d'informatique aussi, s'ils sont publics ?
-- TODO
+- J'aimerai aller assister aux oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espérais qu'ils soient maintenus (ce fut en effet le cas), mais le jury avait déjà annoncé que les visiteurs extérieures seront interdits...
+- Un mois de juin studieux pour mes cours de prépa.
 
 Juillet 2021
 ------------
-- TODO
-- Vacances ?
+- Vacances tranquille à la montagne ;
 - Déménagement de Rennes à Strasbourg !
+- Un autre chouette weekend à Grenoble chez des amis.
+
+.. warning:: Le reste est dans le futur !
 
 Août 2021
 ---------
@@ -100,9 +95,9 @@ Août 2021
 
 Septembre 2021
 --------------
-- ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! A priori, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
+- ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! ~~A priori~~, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
 - 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
-- TODO
+- TODO: Me remettre à jouer aux cartes Magic, en faisant un tournoi par mois (avant-premières, drafts, etc.).
 
 Octobre 2021
 ------------
