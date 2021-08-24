@@ -86,18 +86,18 @@ Juillet 2021
 - Déménagement de Rennes à Strasbourg !
 - Un autre chouette weekend à Grenoble chez des amis.
 
-.. warning:: Le reste est dans le futur !
-
 Août 2021
 ---------
-- Suite et fin des vacances ?
-- TODO
+- Suite et fin des vacances ;
+- Rentrée au lycée Kléber !
+
+.. warning:: Le reste est dans le futur !
 
 Septembre 2021
 --------------
 - ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! ~~A priori~~, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
 - 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
-- TODO: Me remettre à jouer aux cartes Magic, en faisant un tournoi par mois (avant-premières, drafts, etc.).
+- TODO: Me remettre à jouer aux cartes Magic, en faisant un tournoi par semaine en général (avant-premières, drafts, etc.).
 
 Octobre 2021
 ------------
@@ -144,9 +144,9 @@ En 2021, j'ai vu ces séries…
 - J'ai réessayé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze... C'est pétillant et drôle, mais très irréaliste (même problème d'avoir des modèles pour actrices principales...).
 - *Désenchantée*, une série animée des USA, sur Netflix. Sympa le début, mais très vite lassant. Je ne comprends pas l'attirance pour des séries animées aussi "moches"... en comparaison de *Star Wars: Clone Wars* ou *Avatar* c'est vraiment moche ! J'ai le même avis tranché envers *Futurama*, *Rick et Morty* et tant d'autres.
 - *Rick et Morty*, la fameuse série animée des USA. Sexiste, violente, vulgaire, apologie d'un alcoolique, et dessins trop moches. Franchement aucun intérêt...
-- *Platane*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite.
+- *Platane*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite après un pilote décevant.
 - *Mr Robot*, une série des USA de 2015, j'ai adoré le premier épisode, puis très vite lassant, je n'ai même pas voulu finir la saison 1. Trop de sexe, de drogue, et de manipulations psychologique de personnages secondaires... Le personnage principal me plaisait trop (Rami Malek !) mais dès le quatrième épisode c'est le bazar. J'ai préféré arrêter !
-- *Star Wars: The Clone Wars*, j'ai terminé la saison 6 que je n'avais fait que commencer, et regardé la dernière saison 7 sortie en 2020. Toujours sympa, mais trop violent et souvent assez ridicule de voir que les jedis sont trop nuls...
+- *Star Wars: The Clone Wars*, j'ai terminé la saison 6 que je n'avais fait que commencer, et regardé la dernière saison 7 sortie en 2020. Toujours sympa, mais trop violent et souvent assez ridicule de voir que les jedis sont trop nuls et bêtes...
 - TODO
 
 En 2021, j'ai lu ces livres…
@@ -168,8 +168,8 @@ En 2021, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
+- *Raya and the Last Dragon* (2021)
 - TODO *La couleur tombée du ciel* (2019)
-- TODO *Raya and the Last Dragon* (2021)
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

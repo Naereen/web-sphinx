@@ -13,8 +13,6 @@
 
    Cette page liste divers moyen d'interagir avec `moi <index.html>`_ (*Lilian Besson*).
 
-.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais ne décroche jamais au téléphone sans être dans une bonne situation pour le faire (écouteurs/micro/casque, pas de musique, bien assis, et avec du temps devant moi). Je ne décroche pas si je ne connais pas le numéro, mais il suffit que l'on échange au moins un SMS avant et je décroche. Bientôt, je refuserai de répondre si la personne n'a pas respecté mes conditions (trois ou quatre idées, vraiment simples). Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
-
 Vidéo-conférence instantanée ?
 ------------------------------
 1. *D'abord*, prévenez-moi (par SMS ou courriel), et on se met d'accord sur un jour et une heure pour s'appeler (*début asynchrone*, *suite synchrone*),
@@ -35,66 +33,65 @@ aux adresses suivantes (listées par ordre de préférence) :
    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
    <style type="text/css">
-       #office, #home {
-           margin:  auto;
-           z-index: 0;
-           height:  480px;
-           width:   900px;
-       }
+      #office, #home {
+         margin:  auto;
+         z-index: 0;
+         height:  480px;
+         width:   900px;
+      }
    </style>
 
 
 Bureau
 ~~~~~~
-Mon bureau, à l'`École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, à Bruz, en France
-(voir `sur un plan OpenStreetMap <https://www.OpenStreetMap.org/?mlat=48.04615&mlon=-1.74530#map=19/48.04615/-1.74530&layers=N>`_) ::
+Mon bureau, à l'`École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, à Strasbourg, en France
+(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
-       Mr Lilian Besson
-       Bureau R112 - Département Informatique et Télécommunications
-       École Normale Supérieure de Rennes
-       Campus de Ker Lann
-       Avenue Robert Schuman
-       35170 Bruz - France
+      Dr Lilian Besson
+      Classe de MP2I
+      Lycée Kléber
+      Place de Bordeaux
+      67000 - Strasbourg
+      France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-       var office = L.map("office").setView([48.04615, -1.74530], 18);
+      var office = L.map("office").setView([48.59496, 7.75484], 18);
 
-       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
-       }).addTo(office);
+      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
+      }).addTo(office);
 
-       L.marker([48.04615, -1.74530]).addTo(office)
-           .bindPopup("Mr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
-           .openPopup();
+      L.marker([48.59496, 7.75484]).addTo(office)
+         .bindPopup("Dr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
+         .openPopup();
    </script>
 
 
 Maison
 ~~~~~~
 Chez moi, en France
-(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596>`_) ::
 
-       Mr Lilian Besson,
-       23, boulevard Jeanne d'Arc,
-       35000 - Rennes,
-       France
+      Dr Lilian Besson
+      28, rue de la course
+      67000 - Strasbourg
 
 .. raw:: html
 
    <div id="home"></div>
    <script type="text/javascript">
-       var home = L.map("home").setView([48.11165, -1.65732], 17);
+      var home = L.map("home").setView([48.58322, 7.73596], 17);
 
-       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
-       }).addTo(home);
+      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
+      }).addTo(home);
 
-       L.marker([48.11165, -1.65732]).addTo(home)
-           .bindPopup("Mr Lilian Besson,<br>23, boulevard Jeanne d'Arc,<br>35000 - Rennes,<br>France.")
-           .openPopup();
+      L.marker([48.58322, 7.73596]).addTo(home)
+         .bindPopup("Dr Lilian Besson,<br>28, rue de la course,<br>67000 - Strasbourg,<br>France.")
+         .openPopup();
    </script>
 
 

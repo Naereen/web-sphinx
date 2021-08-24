@@ -29,66 +29,67 @@ at the following addresses (listed by decreasing preference):
    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
    <style type="text/css">
-       #office, #home {
-           margin:  auto;
-           z-index: 0;
-           height:  480px;
-           width:   900px;
-       }
+      #office, #home {
+         margin:  auto;
+         z-index: 0;
+         height:  480px;
+         width:   900px;
+      }
    </style>
 
 
 My Office
 ~~~~~~~~~
-My office, at `École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, in Bruz, France
-(you can `see it on this OpenStreetMap map <https://www.OpenStreetMap.org/?mlat=48.04615&mlon=-1.74530#map=19/48.04615/-1.74530&layers=N>`_) ::
+I don't have an office but I can receive mail at my new institution, at `Lycée Kléber <https://lycee-kleber.com.fr/>`_, in Strasbourg, France
+(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
-       Mr Lilian Besson
-       Bureau R112 - Département Informatique et Télécommunications
-       École Normale Supérieure de Rennes
-       Campus de Ker Lann
-       Avenue Robert Schuman
-       35170 Bruz - France
+      Dr Lilian Besson
+      Classe de MP2I
+      Lycée Kléber
+      Place de Bordeaux
+      67000 - Strasbourg
+      France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-       var office = L.map("office").setView([48.04615, -1.74530], 18);
+      var office = L.map("office").setView([48.59496, 7.75484], 18);
 
-       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
-       }).addTo(office);
+      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
+      }).addTo(office);
 
-       L.marker([48.04615, -1.74530]).addTo(office)
-           .bindPopup("Mr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
-           .openPopup();
+      L.marker([48.59496, 7.75484]).addTo(office)
+         .bindPopup("Dr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
+         .openPopup();
    </script>
 
 
 My Home
 ~~~~~~~
 To my own place (in France)
-(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/?mlat=48.11162&mlon=-1.65730#map=18/48.11162/-1.65730>`_) ::
+(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596>`_) ::
 
-       Mr Lilian Besson,
-       23, boulevard Jeanne d'Arc,
-       35000 - Rennes,
-       France
+      Dr Lilian Besson
+      28, rue de la course
+      67000 - Strasbourg
+      France
 
 .. raw:: html
 
    <div id="home"></div>
    <script type="text/javascript">
-       var home = L.map("home").setView([48.11165, -1.65732], 17);
+      var home = L.map("home").setView([48.58322, 7.73596], 17);
+   // https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596
 
-       L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-           attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
-       }).addTo(home);
+      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
+      }).addTo(home);
 
-       L.marker([48.11165, -1.65732]).addTo(home)
-           .bindPopup("Mr Lilian Besson,<br>23, boulevard Jeanne d'Arc,<br>35000 - Rennes,<br>France.")
-           .openPopup();
+      L.marker([48.58322, 7.73596]).addTo(home)
+         .bindPopup("Dr Lilian Besson,<br>28, rue de la course,<br>67000 - Strasbourg,<br>France.")
+         .openPopup();
    </script>
 
 
