@@ -63,7 +63,7 @@ extensions = [
     ####### Sphinx Contrib
     ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
     # 'sphinxcontrib.cheeseshop',
-    'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
+    #############################'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
     'sphinxcontrib.autorun',
     ######## Sphinx Spelling https://sphinxcontrib-spelling.readthedocs.io/en/latest/install.html
     # 'sphinxcontrib.spelling',
@@ -76,7 +76,7 @@ extensions = [
     ####### Install with 'sudo pip install sphinx_pyreverse sphinx_git'
     'sphinx_pyreverse', # .. uml:: path_to_module
     'sphinx_git', # .. git_changelog::
-    'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
+    ###############################'sphinxcontrib.bitbucket', # bitbucket_project_url = 'https://bitbucket.org/birkenfeld/sphinx-contrib',
     #'hieroglyph', # https://github.com/nyergler/hieroglyph
     'sphinxcontrib.youtube', # From 'https://pypi.python.org/pypi/sphinxcontrib.youtube/'
     ####### http://sphinx-doc.org/ext/extlinks.html
@@ -302,7 +302,7 @@ html_favicon = u".static/.favicon.ico"
 # Sphinx will add "permalinks" for each heading and description environment as paragraph signs that become visible when the mouse hovers over them.
 # This value determines the text for the permalink; it defaults to "¶". Set it to None or the empty string to disable permalinks.
 # Changed in version 1.1: This can now be a string to select the actual text of the link. Previously, only boolean values were accepted.
-html_add_permalinks = u"¶"
+html_permalinks = u"¶"
 
 # Encoding of HTML output files. Default is 'utf-8'. Note that this encoding name must both be a valid Python encoding name and a valid HTML charset value.
 html_output_encoding = u"utf-8"

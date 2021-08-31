@@ -282,6 +282,6 @@ Listes amusantes
     :scale: 25%
     :align: center
     :alt: A fun comic strip
-    :src: https://xem.github.io/LOL/2019-1.html
+    :target: https://xem.github.io/LOL/2019-1.html
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
