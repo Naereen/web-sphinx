@@ -20,12 +20,12 @@ J'ai décidé de me fixer les objectifs suivants pour cette année :
     + Monter au dessus de 4000m, et faire une randonnée d'alpinisme ! --> échec
     + Marcher en Allemagne ou Suisse germanophone, ou Italie ou Suisse ; --> échec
 2. Prendre mon temps mais réussir à guérir de certaines habitudes un peu toxiques : jouer moins aux jeux vidéos, dormir mieux, travailler plus, coder plus, sortir plus, faire plus de sport, etc !
-3. Me remettre à courir et au vélo, puis au foot ! Idéalement, être de nouveau capable de courir une heure et/ou 10 kilomètres pour fin août !
-4. Me remettre à cuisiner davantage et alimenter le `blogue de cuisine <https://perso.crans.org/besson/cuisine/>`_ ! Et aussi le `blogue zéro déchet <https://perso.crans.org/besson/zero-dechet>`_ !
-5. Été 2021 : marcher une semaine au moins ? Faire du `Woofying <https://wwoof.fr/>`_ dans des fermes bio ?
-6. Bosser sur des poly de cours d'informatique (ISN/NSI) au lycée ! Et en prépa (info tronc commun, option info MPSI/MP, et info MP2I/MPI).
-7. Me fixer des objectifs réalistes (daily/weekly/monthly/yearly) et les tenir !
-8. Perdre 5 kilos avant juillet ?
+3. Me remettre à courir et au vélo, puis au foot ! Idéalement, être de nouveau capable de courir une heure et/ou 10 kilomètres pour fin août ! échec mais pas volontaire.
+4. Me remettre à cuisiner davantage et alimenter le `blogue de cuisine <https://perso.crans.org/besson/cuisine/>`_ ! Et aussi le `blogue zéro déchet <https://perso.crans.org/besson/zero-dechet>`_ ! échec mais pas volontaire.
+5. Été 2021 : marcher une semaine au moins ? Faire du `Woofying <https://wwoof.fr/>`_ dans des fermes bio ? échec mais volontaire.
+6. Bosser sur des poly de cours d'informatique (ISN/NSI) au lycée ! Et en prépa (info tronc commun, option info MPSI/MP, et info MP2I/MPI). réussite.
+7. Me fixer des objectifs réalistes (daily/weekly/monthly/yearly) et les tenir ! réussite.
+8. Perdre 5 kilos avant juillet ? échec.
 9. Des idées ? `Envoyez-moi un mail <contact>`_ svp !
 
 ------------------------------------------------------------------------------
@@ -82,7 +82,7 @@ Juin 2021
 
 Juillet 2021
 ------------
-- Vacances tranquille à la montagne ;
+- Vacances tranquille à la montagne, entre randos et repos ;
 - Déménagement de Rennes à Strasbourg !
 - Un autre chouette weekend à Grenoble chez des amis.
 
@@ -91,16 +91,17 @@ Août 2021
 - Suite et fin des vacances ;
 - Rentrée au lycée Kléber !
 
-.. warning:: Le reste est dans le futur !
-
 Septembre 2021
 --------------
 - ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! ~~A priori~~, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
 - 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
-- TODO: Me remettre à jouer aux cartes Magic, en faisant un tournoi par semaine en général (avant-premières, drafts, etc.).
+- Je me remets lentement à jouer aux cartes Magic, en faisant un tournoi par semaine en général (avant-premières, drafts, etc.). Et j'aime toujours autant ce jeu, même après une longue pause (12 ans sans jouer !).
+
+.. warning:: Le reste est dans le futur !
 
 Octobre 2021
 ------------
+- Un chouette weekend à Paris pour fêter les 10 ans de mon intégration à l'ENS Cachan, avec mes ami-e-s de cette époque là ;
 - TODO
 
 Novembre 2021
@@ -122,7 +123,7 @@ Résumé culturel
 
 En 2021, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très très peu (Paris, Saint-Malo, Dinard), TODO.
+- En France : très très peu (Paris, Saint-Malo, Dinard, Grenoble, Hautes-Alpes, Alsace), TODO.
 - Mais j'espère plus qu'en 2020, si 2020 aura été l'année des deux confinements, j'espère (comme tout le monde) que 2021 ne le sera pas !!
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas prévu.
@@ -134,7 +135,8 @@ En 2021, j'ai joué à ces jeux vidéo…
 - Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, `Yarntown <https://www.solarus-games.org/en/games/yarntown>`_).
 - Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment... si j'ai le temps !
 - TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, durant l'hiver 2021 je pense... Puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc. ?
-- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020.
+- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020. Je l'ai acheté en septembre 2021, j'y jouerai plus tard.
+- J'ai essayé de rejouer à **Rift**, un MMORPG que j'avais adoré en 2011 et auquel j'avais beaucoup joué. Ça m'a saoulé assez vite, donc j'arrête (j'ai monté un personnage niveau 25, toutes les quêtes se ressemblent c'est très vite lassant, et il n'y a plus assez de joueurs pour espérer faire du PvE bas niveau).
 
 En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,6 +163,7 @@ En 2021, j'ai lu ces livres…
 - *Parcours et méthodes (1ère)*, spécialité NSI (Numérique et sciences informatiques), par David Legrand, aux éditions Ellipses (2020). Vraiment trop rapidement rédigé, il est bourré de typos et n'est vraiment pas clair pour certains points. Je le déconseille fortement !
 - *Spécialité NSI (première), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen. Lu en profondeur, et je vois que le livre est LA MEILLEURE ressource pour l'enseignement de l'option NSI en première comme en terminale. Il est vraiment très détaillé, très bien rédigé, clair et propre. Certains l'ont qualifié de "miracle", je n'irai pas jusque là mais c'est un excellent livre. Je vois aussi qu'il est très souvent hors programme dans la fin de ses chapitres, mais le livre est destiné aux profs, pas aux élèves (malgré son prix très bas de 21€ par volume !). Il pourrait à lui seul alimenter de très nombreux échanges sur `la liste des profs de NSI <https://groupes.renater.fr/sympa/subscribe/numerique-sciences-informatiques>`_...
 - *Spécialité NSI (terminale), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen, même constat (2020). Vraiment un des meilleurs livres d'informatique que j'ai pu lire !
+- *Les Brillants*, tome I, j'aime bien mais j'avance lentement.
 - TODO
 - Et d'autres que j'ai oublié de noter…
 

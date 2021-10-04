@@ -44,7 +44,7 @@ aux adresses suivantes (listées par ordre de préférence) :
 
 Bureau
 ~~~~~~
-Mon bureau, à l'`École Normale Supérieure de Rennes <http://www.dit.ens-rennes.fr/>`_, à Strasbourg, en France
+Je n'ai plus de bureau, mais je peux recevoir du courrier au `Lycée Kléber <https://lycee-kleber.com.fr/>`_, à Strasbourg, en France
 (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
       Dr Lilian Besson
