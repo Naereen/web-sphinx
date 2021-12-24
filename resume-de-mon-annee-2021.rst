@@ -97,20 +97,24 @@ Septembre 2021
 - 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
 - Je me remets lentement à jouer aux cartes Magic, en faisant un tournoi par semaine en général (avant-premières, drafts, etc.). Et j'aime toujours autant ce jeu, même après une longue pause (12 ans sans jouer !).
 
-.. warning:: Le reste est dans le futur !
-
 Octobre 2021
 ------------
 - Un chouette weekend à Paris pour fêter les 10 ans de mon intégration à l'ENS Cachan, avec mes ami-e-s de cette époque là ;
-- TODO
+- Beaucoup de boulot pour mon poste en prépa, mais j'adore ce travail et j'ai de la chance de l'avoir !
+- Une semaine de "stage de révisions" pour les élèves de deuxième année de prépa au Lycée Kléber, j'ai donné des TP d'informatique pour les entraîner à l'épreuve de "maths 2 avec Python" du concours CentraleSupélec.
 
 Novembre 2021
 -------------
-- TODO
+- Une semaine de vacances dans les Alpes à randonner et me reposer.
+- De la visite de ma famille à Strasbourg, c'était chouette !
 
 Décembre 2021
 -------------
-- TODO
+- Marché de Noël à Strasbourg, avec malheureusement un weekend de visite d'ami-e-s de Paris annulé à cause d'un cas de COVID-19.
+- Vacances de Noël dans les Alpes, avec mon anniversaire en famille c'était sympa.
+
+
+.. warning:: Le reste est dans le futur !
 
 .. note:: C'est tout pour 2021, à dans un an pour `la suite <resume-de-mon-annee-2022.html>`_ !
 
@@ -123,7 +127,7 @@ Résumé culturel
 
 En 2021, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très très peu (Paris, Saint-Malo, Dinard, Grenoble, Hautes-Alpes, Alsace), TODO.
+- En France : très très peu (Paris, Saint-Malo, Dinard, Grenoble, Hautes-Alpes, Paris, Marseille, Alsace).
 - Mais j'espère plus qu'en 2020, si 2020 aura été l'année des deux confinements, j'espère (comme tout le monde) que 2021 ne le sera pas !!
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas prévu.
@@ -134,13 +138,13 @@ En 2021, j'ai joué à ces jeux vidéo…
 - De mi-décembre 2020 à début février 2021, j'ai rejoué à **The Elder Scrolls V: Skyrim**, que j'avais fait en 2012 sur PC. Cette fois, j'y ai joué différemment : en mode « très difficile » (ou plus dur, et je baisse progressivement la difficulté si je meurs), mais sans faire l'histoire principale (que je connaissais encore bien, et qui est malheureusement linéaire), et en ne faisant quasiment que les quêtes secondaires et quêtes de factions que je n'avais pas faites en 2012 ! Et les deux DLC Dragonborn et Dawnguard ! J'adore Skyrim ! **Fus, Ro, Dah !**
 - Fin janvier 2021, j'ai cherché des petits jeux de rôles (RPG) open-source sur Linux, et j'ai notamment retrouvé `les jeux Solarus <https://www.solarus-games.org/>`_ (je vais peut-être en faire un, `Yarntown <https://www.solarus-games.org/en/games/yarntown>`_).
 - Et j'ai aussi découvert cette merveille : `The Lion Throne <https://gitlab.com/rainlash/lex-talionis/>`_, un clone open-source des jeux Fire Emblem sur GameBoy Advance, écrit en Python avec `PyGame <https://www.pygame.org/>`_. Je pense contribuer au développement du jeu, proposer de le traduire en français notamment... si j'ai le temps !
-- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, durant l'hiver 2021 je pense... Puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc. ?
-- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020. Je l'ai acheté en septembre 2021, j'y jouerai plus tard.
+- En février 2021, **Bravely Default II** sort sur Switch ! Je le ferai dès que j'en aurai d'occasion... et que je le trouverai d'occasion (et oui, j'essaie de n'acheter rien de neuf, y compris mes jeux vidéos !). La démo gratuite sortie en janvier 2021 donne envie, mais le jeu semble ne pas avoir beaucoup changé depuis les versions 3DS, j'espérais un changement plus profond et des graphismes plus impressionnants... Bon ça restera mieux que OctoPath Traveler, qui m'avait déçu en septembre 2020. Je l'ai acheté en septembre 2021, j'y jouerai plus tard. J'y ai joué entre novembre et décembre 2021 et je bloque sur le boss de fin qui est intuable.
 - J'ai essayé de rejouer à **Rift**, un MMORPG que j'avais adoré en 2011 et auquel j'avais beaucoup joué. Ça m'a saoulé assez vite, donc j'arrête (j'ai monté un personnage niveau 25, toutes les quêtes se ressemblent c'est très vite lassant, et il n'y a plus assez de joueurs pour espérer faire du PvE bas niveau).
+- TODO Après, je compte jouer à **The Legend of Zelda: Breath of the Wild**, durant l'hiver 2021 je pense... Puis d'autres RPG comme *Divinity: Original Sin 2*, *Diablo III*, etc. ?
 
 En 2021, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 4 de *Young Sheldon*, en cours ! (ça sort lentement c'est dommage). Toujours pas incroyable mais drôle et bonne ambiance.
+- Saison 4 et 5 de *Young Sheldon* terminée ! (ça sort lentement c'est dommage). Toujours pas incroyable mais drôle et bonne ambiance.
 - Saisons 1 et 2 de *Marseille* (sur Netflix), regardé en faisant autre chose parce que franchement ça casse pas trois pattes à un canard. C'était sympa de revoir les paysages et la ville de Marseille, mais le reste n'a aucun intérêt j'ai trouvé (pas terminé la saison 2).
 - J'ai essayé le début de *Friends From College*, une sitcom produite par Netflix. J'aime bien les acteurs et actrices, mais fichtre que c'était nul... Et le même problème qu'avec *Arrow* : si tous les acteurs et actrices sont des modèles et incarnent des personnages très riches, il est difficile de s'identifier et de trouver des points communs... (alors que *Friends* et *Scrubs* n'avaient pas ce défaut !).
 - J'ai réessayé *New Girl*, que j'avais essayé en ~2014 (je crois), mais c'est vraiment naze... C'est pétillant et drôle, mais très irréaliste (même problème d'avoir des modèles pour actrices principales...).
@@ -149,7 +153,6 @@ En 2021, j'ai vu ces séries…
 - *Platane*, une sitcom française récente. Franchement bof, aucune envie de regarder la suite après un pilote décevant.
 - *Mr Robot*, une série des USA de 2015, j'ai adoré le premier épisode, puis très vite lassant, je n'ai même pas voulu finir la saison 1. Trop de sexe, de drogue, et de manipulations psychologique de personnages secondaires... Le personnage principal me plaisait trop (Rami Malek !) mais dès le quatrième épisode c'est le bazar. J'ai préféré arrêter !
 - *Star Wars: The Clone Wars*, j'ai terminé la saison 6 que je n'avais fait que commencer, et regardé la dernière saison 7 sortie en 2020. Toujours sympa, mais trop violent et souvent assez ridicule de voir que les jedis sont trop nuls et bêtes...
-- TODO
 
 En 2021, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,17 +166,16 @@ En 2021, j'ai lu ces livres…
 - *Parcours et méthodes (1ère)*, spécialité NSI (Numérique et sciences informatiques), par David Legrand, aux éditions Ellipses (2020). Vraiment trop rapidement rédigé, il est bourré de typos et n'est vraiment pas clair pour certains points. Je le déconseille fortement !
 - *Spécialité NSI (première), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen. Lu en profondeur, et je vois que le livre est LA MEILLEURE ressource pour l'enseignement de l'option NSI en première comme en terminale. Il est vraiment très détaillé, très bien rédigé, clair et propre. Certains l'ont qualifié de "miracle", je n'irai pas jusque là mais c'est un excellent livre. Je vois aussi qu'il est très souvent hors programme dans la fin de ses chapitres, mais le livre est destiné aux profs, pas aux élèves (malgré son prix très bas de 21€ par volume !). Il pourrait à lui seul alimenter de très nombreux échanges sur `la liste des profs de NSI <https://groupes.renater.fr/sympa/subscribe/numerique-sciences-informatiques>`_...
 - *Spécialité NSI (terminale), Numérique et Sciences Informatiques*, par Thibaut Balabonski, Sylvain Conchon, Jean-Christophe Filliâtre et Kim Nguyen, même constat (2020). Vraiment un des meilleurs livres d'informatique que j'ai pu lire !
-- *Les Brillants*, tome I, j'aime bien mais j'avance lentement.
-- TODO
-- Et d'autres que j'ai oublié de noter…
+- *Les Brillants*, tome I et II et III, j'aime bien mais j'avançais lentement. J'ai tout lu au premier trimestre 2021/22.
+- Et d'autres que j'ai peut-être oublié de noter…
 
 En 2021, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
-- *Raya and the Last Dragon* (2021)
-- TODO *La couleur tombée du ciel* (2019)
-- TODO
+- *Raya and the Last Dragon* (2021) ;
+- TODO *La couleur tombée du ciel* (2019) ;
+- *Les immortels* (2021) ;
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
