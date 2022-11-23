@@ -89,7 +89,7 @@ Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Depuis janvier 2021, :math:`h = 6` !
 - 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
-- Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine...
+- 👌 OK - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine... `Cet article (HAL-02006471v3) <https://hal.inria.fr/hal-02006471v3>`` : mais cet article est finalement accepté au JMLR (*Journal of Machine Learning Research*).
 
 Collaborations
 ^^^^^^^^^^^^^^
