@@ -75,6 +75,11 @@ Avril 2021
 - Et donc, j'ai (lentement) commencé à rédiger `ces ressources d'enseignements MP2I en ligne <https://perso.crans.org/besson/mp2i/>`_.
 - Confinement, saison trois... Annoncé le mercredi 31 mars pour quatre semaines jusqu'au samedi 1er mai. Et zut, ça grille mes rapides vacances prévues à Lyon et Grenoble fin avril.
 
+Mai 2021
+--------
+- Pas grand chose à dire...
+- J'ai fait un aller-retour express à Strasbourg et j'ai trouvé un appartement !
+
 Juin 2021
 ---------
 - J'aimerai aller assister aux oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Lille ? J'espérais qu'ils soient maintenus (ce fut en effet le cas), mais le jury avait déjà annoncé que les visiteurs extérieures seront interdits...
@@ -89,6 +94,7 @@ Juillet 2021
 Août 2021
 ---------
 - Suite et fin des vacances ;
+- Je me suis remis à jouer aux `Cartes Magic <https://magic.wizards.com/fr/>`_ !
 - Rentrée au lycée Kléber !
 
 Septembre 2021
@@ -112,7 +118,6 @@ Décembre 2021
 -------------
 - Marché de Noël à Strasbourg, avec malheureusement un weekend de visite d'ami-e-s de Paris annulé à cause d'un cas de COVID-19.
 - Vacances de Noël dans les Alpes, avec mon anniversaire en famille c'était sympa.
-
 
 .. warning:: Le reste est dans le futur !
 
