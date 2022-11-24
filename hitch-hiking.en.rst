@@ -16,10 +16,16 @@ As far as now, I added here a list of some of the nicest trips and travel steps 
 
 A quick overview
 ----------------
-  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 790 = about **6555 kms as far as now**.
+  An *approximate* computation gives 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 790 + 700 = about **7255 kms as far as now**.
 
-In 2020 : **790 kms** (for now)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In 2022 : **700 kms**
+^^^^^^^^^^^^^^^^^^^^^
+For the moment, around **700 kms** only in France.
+I hitch-hiked several times between Briançon in Gap and from Gap to Briançon in July 2020 (two round trips 2*(85+85) = 2*170 = 340 kms) and the same in August.
+
+In 2020 : **790 kms**
+^^^^^^^^^^^^^^^^^^^^^
 For now, about **790 kms** only in France.
 I hitchhiked from Briançon to Gap and Gap to Briançon in July 2020 (85+85 = 170 kms), and also once from Briançon to Grenoble (115 kms)
 I also hitchhiked from Gap to a small village north of Alpes Maritime (where `this farm was <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_), and then back to Briançon, for about 185 + 270 = 455 kms.

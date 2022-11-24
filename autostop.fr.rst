@@ -16,12 +16,18 @@ Pour l'instant, j'ajoute progressivement ici une liste de voyages sympas faits e
 
 Rapide total
 ------------
-  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 790  = environ **6575 kms pour l'instant**.
+  J'estime mon total *à environ* 355 + 330 + 2200 + 150 + 2000 + 350 + 80 + 320 + 790 + 700 = environ **7275 kms pour l'instant**.
+
+
+En 2022 : **700 kms**
+^^^^^^^^^^^^^^^^^^^^^
+Pour l'instant, environ **700 kms** uniquement en France.
+J'ai fait du stop plusieurs fois entre Briançon à Gap et de Gap à Briançon en juillet 2020 (deux aller-retours 2*(85+85) = 2*170 = 340 kms) et pareil en août.
 
 
 En 2020 : **790 kms** (pour l'instant)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour l'instant, environ ** 790 kms ** uniquement en France.
+Pour l'instant, environ **790 kms** uniquement en France.
 J'ai fait du stop de Briançon à Gap et de Gap à Briançon en juillet 2020 (85+85 = 170 kms), et aussi une fois de Briançon à Grenoble (115 kms)
 J'ai aussi fait du stop de Gap jusqu'à un petit village au nord des Alpes-Maritimes (où `cette ferme était <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_), puis je suis revenu à Briançon, pour environ 185 + 270 = 455 kms.
 Et fin octobre 2020, j'ai aussi fait du stop en Bretagne pour rentrer du village de *Montauban de Bretagne* où j'étais allé faire quelques jours de `Wwoofying <https://wwoof.fr/>`_.
@@ -33,6 +39,7 @@ Et fin octobre 2020, j'ai aussi fait du stop en Bretagne pour rentrer du village
     "Gap (2)" -> "Laragne-Monteglin" -> "Sisteron" -> "Chateau-Arnaud-St-Auban" -> "Digne-les-Bains" -> "Saint-André-les-Alpes" -> "Castellane" -> "Saint-Auban" -> "Briançonnet";
     "Briançonnet" -> "Entrevaux" -> "Saint-André-les-Alpes (2)" -> "Digne-les-Bains (2)" -> "Chateau-Arnaud-St-Auban (2)" -> "Sisteron (2)" -> "Laragne-Monteglin (2)" -> "Gap (3)" -> "Briançon (4)";
     "Montauban de Bretagne" -> "Rennes";
+
 
 En 2019 : **320 kms**
 ^^^^^^^^^^^^^^^^^^^^^

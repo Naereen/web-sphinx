@@ -40,66 +40,44 @@ at the following addresses (listed by decreasing preference):
 
 My Office
 ~~~~~~~~~
-I don't have an office but I can receive mail at my new institution, at `Lycée Kléber <https://lycee-kleber.com.fr/>`_, in Strasbourg, France
-(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
+I don't have an office but I can receive mail at my new institution, at `Centre International de Valbonne <http://www.civfrance.com//>`_, in Strasbourg, in France
+(see `this OpenStreetMap page <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
       Dr Lilian Besson
       Classe de MP2I
-      Lycée Kléber
-      Place de Bordeaux
-      67000 - Strasbourg
+      Centre International de Valbonne
+      BP 97
+      06902 Sophia Antipolis Cedex (France)
       France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-      var office = L.map("office").setView([48.59496, 7.75484], 18);
+      var office = L.map("office").setView([43.6211874, 7.0248404], 18);
 
       L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
       L.marker([48.59496, 7.75484]).addTo(office)
-         .bindPopup("Dr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
+         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
          .openPopup();
    </script>
 
 
 My Home
 ~~~~~~~
-To my own place (in France)
-(you can `see it on this OpenStreetMap map <https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596>`_) ::
-
-      Dr Lilian Besson
-      28, rue de la course
-      67000 - Strasbourg
-      France
-
-.. raw:: html
-
-   <div id="home"></div>
-   <script type="text/javascript">
-      var home = L.map("home").setView([48.58322, 7.73596], 17);
-   // https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596
-
-      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
-      }).addTo(home);
-
-      L.marker([48.58322, 7.73596]).addTo(home)
-         .bindPopup("Dr Lilian Besson,<br>28, rue de la course,<br>67000 - Strasbourg,<br>France.")
-         .openPopup();
-   </script>
-
-
-.. include:: .javascript.en.rst
+To my own place (in France), I would have given my address before, but not anymore!
+If you are a friend, just ask me :)
 
 
 Emails
 ^^^^^^
 If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrself also if you are a *spammer*!!
 (Well… spammers are usually bots, ie spambots, but it feels good to yell at them anyway!)
+
+TODO: refaire cette image pour mon @crans.org
 
 .. image:: .courriel.png
    :scale: 40 %
@@ -110,9 +88,8 @@ If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrs
 
 If you are *not* a *spammer*, go on, you can use one of these email addresses:
 
-- `Lilian dot Besson at ens-rennes dot fr <mailto:Lilian dot Besson at ens-rennes dot fr>`_
-- `Lilian dot Besson at inria dot fr <mailto:Lilian dot Besson at inria dot fr>`_
 - `Lilian dot Besson at crans dot org <mailto:Lilian dot Besson at crans dot org>`_
+- `Lilian dot Besson at ens-rennes dot fr <mailto:Lilian dot Besson at ens-rennes dot fr>`_
 
 .. note::
 
@@ -154,11 +131,6 @@ on GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_ (in Engli
 `github.com/Naereen/ama.fr <https://github.com/Naereen/ama.fr>`_ (in French), both requires a GitHub account;
 and on Bitbucket : `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_ (in English),
 `bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (in French), no need for an account.
-
-
-Forms on some web pages
-^^^^^^^^^^^^^^^^^^^^^^^
-* You can use this very form to send me a message, currently this page is powered by the `electronic people's directory <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ for `ENS de Rennes <http://www.ens-rennes.fr/>`_ : `https://perso.crans.org/besson/contact <https://perso.crans.org/besson/contact>`_
 
 HTML5 Services
 ^^^^^^^^^^^^^^

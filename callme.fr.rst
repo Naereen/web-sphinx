@@ -44,58 +44,36 @@ aux adresses suivantes (listées par ordre de préférence) :
 
 Bureau
 ~~~~~~
-Je n'ai plus de bureau, mais je peux recevoir du courrier au `Lycée Kléber <https://lycee-kleber.com.fr/>`_, à Strasbourg, en France
+Je n'ai plus de bureau, mais je peux recevoir du courrier au `Centre International de Valbonne <http://www.civfrance.com//>`_, à Strasbourg, en France
 (voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
       Dr Lilian Besson
       Classe de MP2I
-      Lycée Kléber
-      Place de Bordeaux
-      67000 - Strasbourg
+      Centre International de Valbonne
+      BP 97
+      06902 Sophia Antipolis Cedex (France)
+      TODO: carte web
       France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-      var office = L.map("office").setView([48.59496, 7.75484], 18);
+      var office = L.map("office").setView([43.6211874, 7.0248404], 18);
 
       L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
       L.marker([48.59496, 7.75484]).addTo(office)
-         .bindPopup("Dr Lilian Besson <br> Bureau R112 - Département Informatique et Télécommunications <br> École Normale Supérieure de Rennes <br> Campus de Ker Lann <br> Avenue Robert Schuman <br> 35170 Bruz - France.")
+         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
          .openPopup();
    </script>
 
 
 Maison
 ~~~~~~
-Chez moi, en France
-(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/node/499610212#map=19/48.58322/7.73596>`_) ::
-
-      Dr Lilian Besson
-      28, rue de la course
-      67000 - Strasbourg
-
-.. raw:: html
-
-   <div id="home"></div>
-   <script type="text/javascript">
-      var home = L.map("home").setView([48.58322, 7.73596], 17);
-
-      L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-         attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
-      }).addTo(home);
-
-      L.marker([48.58322, 7.73596]).addTo(home)
-         .bindPopup("Dr Lilian Besson,<br>28, rue de la course,<br>67000 - Strasbourg,<br>France.")
-         .openPopup();
-   </script>
-
-
-.. include:: .javascript.fr.rst
+Chez moi, en France. Avant, j'aurai donné mon adresse personnelle, mais je souhaite ne plus le faire.
 
 
 Courrier électronique
@@ -112,9 +90,8 @@ Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si v
 
 Si c'est sérieux, vous pouvez utiliser une de ces adresses :
 
-- `Lilian point Besson à ens-rennes point fr <mailto:Lilian point Besson à ens-rennes point fr>`_
-- `Lilian point Besson à inria point fr <mailto:Lilian point Besson à inria point fr>`_
 - `Lilian point Besson à crans point org <mailto:Lilian point Besson à crans point org>`_
+- `Lilian point Besson à ens-rennes point fr <mailto:Lilian point Besson à ens-rennes point fr>`_
 
 .. note::
 
@@ -156,10 +133,6 @@ sur GitHub : `github.com/Naereen/ama <https://github.com/Naereen/ama>`_ (en angl
 et sur Bitbucket `bitbucket.org/lbesson/ama <https://bitbucket.org/lbesson/ama>`_ (en anglais),
 `bitbucket.org/lbesson/ama.fr <https://bitbucket.org/lbesson/ama.fr>`_ (en français), pour ceux là, pas besoin d'un compte Bitbucket.
 
-
-Formulaires web
-^^^^^^^^^^^^^^^
-* Vous pouvez utiliser ce formulaire pour m'envoyer un message, actuellement proposé par l'`annuaire électronique <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ de l'`ENS de Rennes <http://www.ens-rennes.fr/>`_ : `https://perso.crans.org/besson/contact <https://perso.crans.org/besson/contact>`_
 
 Services HTML5
 ^^^^^^^^^^^^^^
