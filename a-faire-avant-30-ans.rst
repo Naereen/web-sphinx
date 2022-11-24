@@ -6,7 +6,7 @@
 À faire : avant mes 30 ans (Lilian Besson)
 ###########################################
 
-Cette page contient quelques idées de choses que je veux faire avant mes 30 ans. J'en ai actuellement 28 (en 201), et beaucoup d'objectifs sont déjà atteints. Je vais continuer à rajouter des objectifs, et faire des efforts quotidiens pour m'améliorer et atteindre ces objectifs !
+Cette page contient quelques idées de choses que je veux faire avant mes 30 ans. J'en ai actuellement 28 (en 2021), et beaucoup d'objectifs sont déjà atteints. Je vais continuer à rajouter des objectifs, et faire des efforts quotidiens pour m'améliorer et atteindre ces objectifs !
 
 **Première rédaction** : J'ai commencé à la rédiger le 16 décembre 2017, j'avais 24 ans (bientôt 25). Cette liste *n'est pas* ordonnée.
 Cette page est très personnelle, et si vous souhaitez en apprendre plus sur mes idéaux, mes pensées et ma philosophie de vie, je vous invite à aller lire `<rules-and-principles.en.html>`_ (en anglais, pas encore traduit en français, TODO:).
@@ -63,7 +63,7 @@ Code et programmation
 
 Enseignement
 ^^^^^^^^^^^^
-- Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST ! Je n'ai pas le droit tant que je serai AGPR à l'`ENS Rennes <http://www.ens-rennes.fr/lilian-besson--292020.kjsp>`_, mais dès que je ferai autre chose, je souhaite refaire des colles de maths et/ou d'informatique !
+- 👌 OK - Donner de nouveau *des colles* en classes préparatoires ! J'avais adoré en 2015/2016 quand j'intervenais au lycée Lakanal en MP et BCPST ! Je n'ai pas le droit tant que je serai AGPR à l'`ENS Rennes <http://www.ens-rennes.fr/lilian-besson--292020.kjsp>`_, mais dès que je ferai autre chose, je souhaite refaire des colles de maths et/ou d'informatique ! J'en refais depuis la rentrée 2021.
 - *Intervenir au lycée* ou au collège (pour de la vulgarisation ou une introduction à l'informatique ou la programmation, par exemple).
 - 👌 OK - *Publier un livre* (ou un recueil, e.g., `TryAlgo <http://tryalgo.org/>`_) de ressources rédigées pour l'informatique à l'agrégation de mathématiques. `Mes corrections de textes de modélisation <https://nbviewer.jupyter.org/github/Naereen/notebooks/tree/master/agreg/>`_ (option D) sont les plus complètes et les seules disponibles sur Internet, il faudrait que j'en fasse quelque chose ! Bon techniquement, je suis remercié et cité comme un des auteurs du Frido depuis 2016, et j'ai bien collaboré à `cet autre livre <https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique>`_ publié en août 2020 chez Dunod.
 - 👌 OK - Recevoir un *remerciement sincère* d'un-e élève à la fin de l'année ou à la fin de mes interventions quelque part (e.g., à `l'ENSAI <http://perso.crans.org/besson/ensai-2017/>`_)… (:strike:`Mais ça aussi c'est un peu idéaliste`). Merci `Pierre <http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon/agreg.html>`_ ;-), et d'autres (Louis en 2020, Clément et d'autres en 2019/20, Nicolas B et Élise en 2016, Niraj and so many others in India in 2015, etc) !
@@ -83,7 +83,7 @@ Voyages
 - 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
 - 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème !
 
-.. warning:: Vue mes convictions écologistes, ces envies de voyages sont devenues inutiles. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
+.. warning:: Vue mes convictions écologistes, ces envies de voyages sont devenues plustôt contradictoires et obsolète. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -101,7 +101,7 @@ Présentations ou exposés
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Recevoir un (autre) *prix pour un article ou un exposé scientifique* (après `le Best Paper Award à CROWNCOM 2017 <https://hal.inria.fr/hal-01575419>`_).
 - Être invité "personnellement" à parler dans un séminaire ou un atelier national (OK, `au CMAP <https://perso.crans.org/besson/publis/slides/2018_10__Seminaire_CMAP__Multi-Player_Bandits__Theory_Applications_and_Simulations/slides.pdf>`_), européen (TODO) ou international (TODO).
-- Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante (OK), en discuter après l'exposé avec la personne (OK)… et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
+- 👌 OK - Entendre une question à la fin d'un de mes exposés qui soit vraiment intéressante (OK), en discuter après l'exposé avec la personne (OK)… et réussir à collaborer suite à la question (*note* : ceci est complètement idéaliste !).
 
 .. note:: Je pense que ces objectifs sont désormais à retirer de ma liste, comme j'ai choisi de ne plus faire que de l'enseignement et du développement logiciel, et pas de recherche académique au sens classique (depuis 2019).
 
@@ -130,25 +130,27 @@ Santé
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - 👌 OK -  Faire un peu de vélo tous les jours, ou très régulièrement au moins ! C'était moins le cas en 2020, mais je m'y suis bien remis, et je vais garder ces bonnes habitudes !
 - Perdre un peu de poids ! TODO: ne pas le re prendre !
-- Courir régulièrement, et redevenir capable de courir une heure, ou 10 kms, et rester toute ma vie capable de ça !
-- Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
+- TODO: Courir régulièrement, et redevenir capable de courir une heure, ou 10 kms, et rester toute ma vie capable de ça !
+- TODO: Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
 
 Écologie
 ^^^^^^^^
-- M'investir dans des associations écologistes à Rennes ! J'ai essayé en 2019 et j'ai fait plein de choses avec `ANV COP21 <https://anv-cop21.org/le-defi-climatique/>`_ mais pas pu reprendre après les confinements de `la crise sanitaire du COVID 19 <coronavirus.fr.html>`_.
-- 👌 OK - Passer à un fournisseur d'éléctricité verte. Je suis chez EnerCoop depuis 2020 !
+- M'investir dans des associations écologistes à Briançon ! J'ai essayé en 2019 et j'ai fait plein de choses avec `ANV COP21 <https://anv-cop21.org/le-defi-climatique/>`_ mais pas pu reprendre après les confinements de `la crise sanitaire du COVID 19 <coronavirus.fr.html>`_.
+- 👌 OK - Passer à un fournisseur d'éléctricité verte. Je suis chez EnerCoop depuis 2020 ! Ça reste valide, je suis revenu à Briançon donc forcément l'EDSB (qui utilise le barrage du pont Baldy pour fournir en électricité une bonne partie de la ville)
 - 👌 OK - Être entièrement végétarien ! Depuis 2018 c'est bon ! Merci Lola.
 - Passer à un fournisseur d'Internet et de téléphone le plus écologique possible ? Free n'est le meilleur, mais j'aime trop leur `API de SMS <https://github.com/Naereen/FreeSMS.py/>`_... dur de changer !
-- Passer tous mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021 ;
+- Passer (tous??) mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021... je l'ai fait un peu, mais je n'oserai pas pour toute mon épargne.
 - Ne plus utiliser ma carte bleue, ou le moins possible, et utiliser si possible des monnaies locales, comme `le Galléco <https://galleco.fr/cest-quoi-le-galleco/>`_ à Rennes ;
+
 - Ne plus acheter aucun produit emballé par du plastique. Bientôt, je n'accepterai d'acheter que des produits (alimentaires ou autre) emballés par du verre ou des boites de conserve (très rarement), et je vais viser à ne vivre qu'avec des produits *en vrac*, non emballés ! Depuis 2018, je tiens `ce petit blog <zero-dechet/>`_ mais pas assez mis à jour. Cela ne m'empêche pas d'avoir fait énormément d'efforts pour réduire mes déchets !
-- Vivre sans frigo !
+- 👌 OK - Vivre sans frigo ! C'est vraiment dur, surtout en été quand il fait chaud.
 - Ne jamais rien commander en ligne, ne rien se faire livrer ;
 - Ne plus acheter de produits neufs. Je suis très très économe depuis très longtemps, mais même encore en 2021 je peux m'améliorer.
 - 👌 OK - Notamment, **ne plus acheter de vêtements neufs** (ça c'est bon depuis 2016), **de livres neufs** (pareil sauf pour les livres universitaires, impossibles à supprimer si je veux aussi soutenir leurs auteurs et réduire mon temps sur des écran), **et de jeux-vidéo ou autre produit culturel et de loisir numériques neufs** (quasiment irréprochable, sauf l'achat de mes consoles de jeux).
 - Continuer à revendre d'occasion tout ce que je peux, comme des jeux vidéo une fois terminé, ou des vieux livres. Je ne souhaite pas posséder plus, mais de moins en moins au cour du temps ! La décroissance, `ça commence par moi <https://cacommenceparmoi.org/>`_.
 - **Continuer à faire le tour de mon quartier une fois par mois, pour ramasser les mégots et autres déchets**, et essayer d'aller de plus en plus loin autour de chez moi à chaque fois... C'est long et il faut un peu d'énergie sociale avant d'oser le faire !
-- **Essayer de ne plus jamais monter dans une voiture ?** Je suis déjà convaincu, depuis très longtemps, de mon souhait de ne jamais acheté de voiture. Mais utiliser les voitures d'ami-e-s, de mes parents, ou monter dans celle d'une personne inconnue en faisant du stop, continue à montrer que j'apprécie et que je cautionne les voitures et autres véhicules polluants. Ce n'est pas le cas. Je pense m'interdire de reconnaître l'utilité et l'existence de voitures, je suis déjà très strictement contre depuis 2019, et je pense qu'à partir de 2021, je ne montrerai plus jamais dans une voiture, sauf exception d'urgence (e.g., ambulance, ou urgence familiale).
+
+- C'est débile et impossible : *Essayer de ne plus jamais monter dans une voiture ?* Je suis déjà convaincu, depuis très longtemps, de mon souhait de ne jamais acheter de voiture. Mais utiliser les voitures d'ami-e-s, de mes parents, ou monter dans celle d'une personne inconnue en faisant du stop, continue à montrer que j'apprécie et que je cautionne les voitures et autres véhicules polluants. Ce n'est pas le cas. Je pense m'interdire de reconnaître l'utilité et l'existence de voitures, je suis déjà très strictement contre depuis 2019, et je pense qu'à partir de 2021, je ne montrerai plus jamais dans une voiture, sauf exception d'urgence (e.g., ambulance, ou urgence familiale).
 
 - Bannir tout produit qui vient de loin, et même qui ne vient pas de France. C'est facile pour les fruits exotiques, mais plus difficile pour le thé, le café, le chocolat (le trio qui tue), et d'autres. Depuis 2017, je fais très attention. J'achetais quelques fois dans l'année une mangue (d'Espagne) ou un ananas, mais depuis 2021 j'arrive à ne plus rien acheter, même dans le trio qui tue. J'estime avoir au moins deux années de réserve de thé, infusions exotiques et café, et chocolat, et une fois terminées, je n'en achèterai plus jamais.
 - Bannir tout achat de nouvelles batteries, et n'acheter que des objects reconditionnés ou d'occasions !
@@ -181,7 +183,7 @@ White hat web hacking
 
 White hat real-life hacking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Apprendre à crocheter mes serrures chez moi ? Voir quelle solution simple je peux faire contre ;
+- NOPE Apprendre à crocheter mes serrures chez moi ? Voir quelle solution simple je peux faire contre ;
 - Trouver comment et apprendre à déverrouiller mes téléphones sans leur code ?
 - Apprendre à truquer le pile-ou-face ? Cf. `cette vidéo <https://www.youtube.com/watch?v=YdJr1FCB0P4>`_.
 
@@ -209,7 +211,8 @@ Rencontres
 
 Activités
 ^^^^^^^^^
-- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette !
+- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette ! Et j'ai refait une douzaine de tournois à `Vent Divin <https://ventdivin.com/>`_ à Strasbourg et au `Petit Joueur <http://www.lepetitjoueur.fr/>`_ à Mougins près de Valbonne.
+- Je souhaite monter un club Magic à l'échelle de Briançon, avec une FNM par semaine, un draft par mois, etc.
 - 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
 - Jouer souvent à des jeux de société ! Difficile vu la crise sanitaire depuis 2020, et malgré `mon compte sur BoardGameArena <https://boardgamearena.com/player?id=88972705>`_, ou `mon appli web pour jouer au Pictionary <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ sur `tableaunoir <https://tableaunoir.github.io/>`_, je joue très rarement... Trop de boulot, et trop difficile de se coordonner avec des ami-e-s.
