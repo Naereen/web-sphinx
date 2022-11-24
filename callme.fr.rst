@@ -52,7 +52,6 @@ Je n'ai plus de bureau, mais je peux recevoir du courrier au `Centre Internation
       Centre International de Valbonne
       BP 97
       06902 Sophia Antipolis Cedex (France)
-      TODO: carte web
       France
 
 .. raw:: html
@@ -65,7 +64,7 @@ Je n'ai plus de bureau, mais je peux recevoir du courrier au `Centre Internation
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
-      L.marker([48.59496, 7.75484]).addTo(office)
+      L.marker([43.6211874, 7.0248404]).addTo(office)
          .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
          .openPopup();
    </script>
@@ -85,12 +84,12 @@ Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si v
    :scale: 50 %
    :align: right
    :alt:   Mon adresse courriel, dans une image PNG…
-   :target: mailto:Lilian.Besson à ens-rennes point fr
+   :target: mailto:Lilian.Besson à crans point org
 
 
 Si c'est sérieux, vous pouvez utiliser une de ces adresses :
 
-- `Lilian point Besson à crans point org <mailto:Lilian point Besson à crans point org>`_
+- `Lilian point Besson à ac-nice point fr <mailto:Lilian point Besson à ac-nice point fr>`_
 - `Lilian point Besson à ens-rennes point fr <mailto:Lilian point Besson à ens-rennes point fr>`_
 
 .. note::

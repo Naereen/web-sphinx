@@ -60,7 +60,7 @@ I don't have an office but I can receive mail at my new institution, at `Centre 
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
-      L.marker([48.59496, 7.75484]).addTo(office)
+      L.marker([43.6211874, 7.0248404]).addTo(office)
          .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
          .openPopup();
    </script>
@@ -77,18 +77,16 @@ Emails
 If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrself also if you are a *spammer*!!
 (Well… spammers are usually bots, ie spambots, but it feels good to yell at them anyway!)
 
-TODO: refaire cette image pour mon @crans.org
-
 .. image:: .courriel.png
    :scale: 40 %
    :align: right
    :alt:   My email address in a PNG picture…
-   :target: mailto:Lilian.Besson at ens-rennes dot fr
+   :target: mailto:Lilian.Besson at crans dot org
 
 
 If you are *not* a *spammer*, go on, you can use one of these email addresses:
 
-- `Lilian dot Besson at crans dot org <mailto:Lilian dot Besson at crans dot org>`_
+- `Lilian dot Besson at ac-nice dot fr <mailto:Lilian dot Besson at ac-nice dot fr>`_
 - `Lilian dot Besson at ens-rennes dot fr <mailto:Lilian dot Besson at ens-rennes dot fr>`_
 
 .. note::
