@@ -57,23 +57,27 @@ Août 2022
 
 Septembre 2022
 --------------
-- Remise lentement au coulot...
+- Remise lentement au boulot...
+- Valbonne ne me convient pas, c'est trop « à l'Américaine » où tout dépend de ta voiture. Je souhaite en repartir.
+- De la visite de ma famille au Cannet, c'était chouette !
+- J'ai joué à Pokémon version Jaune et puis Or rapidement, sur émulateur sur téléphone dans le bus. Ça n'empêche pas que je déteste prendre le bus pour devoir aller travailler...
+- Je me suis bien remis à Magic à Briançon et à Mandelieu (près du Cannet où j'habite dans le sud).
 
 Octobre 2022
 ------------
-- Vacances de Toussaint
+- Une sortie de randonnée sous la neige, très agréable !
+- Vacances de Toussaint : du repos, des bons repas (ça va avec !), et quelques bonnes journées partagées avec des ami-e-s proches !
 
 Novembre 2022
 -------------
 - Une semaine de vacances dans les Alpes à randonner et me reposer.
-- De la visite de ma famille au Cannet, c'était chouette !
-
-.. warning:: Le reste est dans le futur !
+- J'ai joué à Pokémon version *Radical Red*, faite par des fans, qui est une "rom hack" sur Pokémon Rouge Feu (1ère génération GB, resortie sur GBA avec le moteur graphique de la troisième génération). Le jeu est trop dur, je bloque.
 
 Décembre 2022
 -------------
-- TODO:
-
+- J'espère pouvoir reprendre mon poste au Lycée Kléber à Strasbourg l'an prochain...
+- Noël en famille (on était 12 !) c'était super chouette !
+- Un réveillon de nouvel an entre amis, avec en gros le même groupe que d'habitude mais dans un autre appartement, c'était super chouette (j'espère, j'écris ça avant !).
 
 .. note:: C'est tout pour 2022, à dans un an pour `la suite <resume-de-mon-annee-2023.html>`_ !
 

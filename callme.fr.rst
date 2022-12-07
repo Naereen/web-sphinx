@@ -51,7 +51,7 @@ Je n'ai plus de bureau, mais je peux recevoir du courrier au `Centre Internation
       Classe de MP2I
       Centre International de Valbonne
       BP 97
-      06902 Sophia Antipolis Cedex (France)
+      06902 Sophia Antipolis Cedex
       France
 
 .. raw:: html
