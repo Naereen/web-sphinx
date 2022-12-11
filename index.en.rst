@@ -10,10 +10,10 @@ A few words about me
 --------------------
 
 |Greetings|, and welcome to my website!
-I am **Lilian Besson**, teacher-developper in Computer Science, currently assistant professor at |ENSRennes| from 2016 to 2021.
-I will be a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2022,  at `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_.
+I am **Lilian Besson**, teacher-developper in Computer Science, and I was assistant professor at |ENSRennes| from 2016 to 2021.
+I was full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2022 until August 2022 in Strasbourg, at Lycée Kléber, and I am now at `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_.
 
-I `did my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
+Before occupying these teaching-focused positions, I `pursued my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
 in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning.
 
 .. |Greetings| raw:: html

@@ -10,11 +10,11 @@
 -----------------
 
 |Salutations|, et bienvenue sur ce site !
-Je suis professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_, au `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_.
+Je suis professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_, au `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_ depuis septembre 2022. L'an dernier en 2021/2022, j'étais aussi en 100% enseignement en classes prépa', mais à Strasbourg au Lycée Kléber.
 
-J'étais enseignant-développeur en informatique, et enseignant au département Informatique à |ENSRennes| de 2016 à 2021.
+Avant mon arrivée dans le monde des CPGE (prépa), j'étais enseignant-développeur en informatique, et j'avais la chance de travailler au département Informatique à l'|ENSRennes| de 2016 à 2021.
 
-Avant ces postes, j'ai `terminé ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ en 2019, à CentraleSupélec Rennes et Inria Lille, et je `suis agrégé et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées.
+De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ (soutenue en novembre 2019), qui s'effectuait à CentraleSupélec Rennes et Inria Lille, et je `suis agrégé et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées.
 
 .. |Salutations| raw:: html
 
