@@ -16,9 +16,9 @@ Résumé de mon année 2022
 
 Janvier 2022
 ------------
-- J'ai eu 29 ans, mais je n'ai rien fait de spécial pour célébrer ça.
+- J'ai eu 29 ans, mais je n'ai rien fait de spécial pour célébrer ça. Dommage ?
 - Fin du marché de Noël à Strasbourg, c'est des endroits sympas quand même !
-- Fin de mon premier semestre en tant que prof de prépa. Décevant pour plein de raisons...
+- Fin de mon premier semestre en tant que prof de prépa. Décevant pour plein de raisons, agréable pour d'autres raisons...
 
 Février 2022
 ------------
@@ -28,11 +28,11 @@ Février 2022
 Mars 2022
 ---------
 - Absolument aucun souvenir précis à noter.
-- J'ai dû faire une avant-première Magic sur *Neon Dynasty: Kamigawa*, je sais plus quand.
+- J'ai fait une avant-première Magic sur *Neon Dynasty: Kamigawa*.
 
 Avril 2022
 ----------
-- J'ai étrangement eu l'idée de faire un stage d'initiation à la voile (pas une planche à voile mais un voilier), et ça c'est vraiment mal passé. Dommage...
+- J'ai étrangement eu l'idée de faire un stage d'initiation à la voile (pas une planche à voile mais un voilier), et ça c'est vraiment mal passé. Dommage, mais pas si grave.
 - Suite de mes "vacances" d'avril 2022 à lire et évaluer les dossiers ParcourSup. On en avait 1150 et on était 4 mais chaque dossier est relu deux fois, donc environ 550 dossiers à lire, en 10 jours *sur mon temps de vacances*.
 
 Mai 2022
@@ -41,7 +41,7 @@ Mai 2022
 
 Juin 2022
 ---------
-- J'ai assisté à quelques oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Strasbourg ?
+- J'ai assisté à quelques oraux d'`agrégation de mathématiques <https://agreg.org/index.php?id=informations-pratiques>`_ à Strasbourg.
 - Un mois de juin studieux pour mes cours de prépa.
 
 Juillet 2022
@@ -53,7 +53,7 @@ Juillet 2022
 Août 2022
 ---------
 - Suite et fin des vacances ;
-- Rentrée au lycée Kléber !
+- Rentrée au lycée International de Valbonne !
 
 Septembre 2022
 --------------
@@ -61,7 +61,7 @@ Septembre 2022
 - Valbonne ne me convient pas, c'est trop « à l'Américaine » où tout dépend de ta voiture. Je souhaite en repartir.
 - De la visite de ma famille au Cannet, c'était chouette !
 - J'ai joué à Pokémon version Jaune et puis Or rapidement, sur émulateur sur téléphone dans le bus. Ça n'empêche pas que je déteste prendre le bus pour devoir aller travailler...
-- Je me suis bien remis à Magic à Briançon et à Mandelieu (près du Cannet où j'habite dans le sud).
+- Je me suis bien remis à Magic à Briançon et à Mandelieu (près du Cannet où j'habitais dans le sud).
 
 Octobre 2022
 ------------
@@ -71,11 +71,12 @@ Octobre 2022
 Novembre 2022
 -------------
 - Une semaine de vacances dans les Alpes à randonner et me reposer.
-- J'ai joué à Pokémon version *Radical Red*, faite par des fans, qui est une "rom hack" sur Pokémon Rouge Feu (1ère génération GB, resortie sur GBA avec le moteur graphique de la troisième génération). Le jeu est trop dur, je bloque.
+- J'ai joué à Pokémon version *Radical Red*, faite par des fans, qui est une "rom hack" sur Pokémon Rouge Feu (1ère génération GB, resortie sur GBA avec le moteur graphique de la troisième génération). Le jeu est trop dur, je bloque, j'ai abandonné plutôt que de devoir recommencer ou *farmer* les niveaux. Mais c'était super sympa, jusqu'au troisième badge !
 
 Décembre 2022
 -------------
-- J'espère pouvoir reprendre mon poste au Lycée Kléber à Strasbourg l'an prochain...
+.. - J'espère pouvoir reprendre mon poste au Lycée Kléber à Strasbourg l'an prochain...
+
 - Noël en famille (on était 12 !) c'était super chouette !
 - Un réveillon de nouvel an entre amis, avec en gros le même groupe que d'habitude mais dans un autre appartement, c'était super chouette (j'espère, j'écris ça avant !).
 
@@ -90,8 +91,7 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2022, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très très peu (Paris, Hautes-Alpes, Paris, Marseille, Alsace, Côte d'Azur).
-- Mais j'espère encore plus qu'en 2020, si 2020 aura été l'année des deux confinements, j'espère (comme tout le monde) que 2022 ne le sera pas !!
+- En France : très peu (Paris, Hautes-Alpes, Paris, Marseille, Alsace, Côte d'Azur).
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas prévu.
 
@@ -100,14 +100,15 @@ En 2022, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Des heures sur `<https://www.jeu-du-solitaire.com/>`_ ;
 - *Pokémon Jaune* et *Pokémon Or* vite fait sur émulateur sur téléphone.
-- (toujours en train de jouer) *Radical red", une rom hack de 2022, qui est super sympa ! (`lien 1 <https://www.consoleroms.com/roms/gba/pokemon-radical-red>`_, `lien 2 <https://gameboy-advance-roms.info/pokemon-radical-red-pokemon-fire-red-hack/>`_)
+- *Radical red", une rom hack de 2022, qui est super sympa ! (`lien 1 <https://www.consoleroms.com/roms/gba/pokemon-radical-red>`_, `lien 2 <https://gameboy-advance-roms.info/pokemon-radical-red-pokemon-fire-red-hack/>`_)
+- Des simulations de draft de Magic: The Gathering via le superbe site `<https://draftsim.com/all-sets/>`_ ;
 
 En 2022, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saisons 1, 2 et 3 de *The Boys* et ça déchire haha !
-- Saison 1 de *The Witcher*, même pas finie en entier.
 - Saison 2 de *The Mandalorian*, très décevant mais ça se laisse regarder. Le petit Grogu est hyper mignon.
-- Saison 2 de *Boba-Fett*, même pas finie en entier.
+- Saison 1 de *The Witcher*, même pas finie en entier tellement j'ai trouvé ça décevant.
+- Saison 2 de *Boba-Fett*, même pas finie en entier, idem.
 - Saison 1 de *Obi-Wan Kenobi*, même pas finie en entier.
 - Saison 1 de *The Bad Watch*, dans l'univers de Star Wars aussi, mais cette fois c'était vraiment bon !
 - Saison 1 de *The Legend of Vox Machina*, excellent !!
@@ -124,7 +125,7 @@ En 2022, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
-- *Un_talent_en_or_massif* (en anglais *The Unbearable Weight of Massive Talent*) avec et sur Nicolas Cage, extraordinaire (2022) ;
+- *Un talent en or massif* (en anglais *The Unbearable Weight of Massive Talent*) avec et sur Nicolas Cage, extraordinaire (2022) ;
 - Et d'autres que j'ai oublié de noter…
 
-.. (c) Lilian Besson, 2011-2022, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2023, https://bitbucket.org/lbesson/web-sphinx/

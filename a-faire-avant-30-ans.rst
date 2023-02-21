@@ -43,7 +43,7 @@ Professionnellement
 - 👌 OK - Obtenir un *poste de professeur* en *classe préparatoire* (CPGE). J'ai ensuite été recruté en 2021 (à 28 ans, 10 après la fin de ma prépa), pour devenir professeur d'informatique en CPGE scientifique, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg !
 
 - Devenir jury de concours pour des concours de recrutements d'écoles d'ingénierie ou de "Grandes Écoles", pour les écrits (concepteur et/ou correcteur de sujets) et les oraux (membre de jury).
-- Devenir jury du concours national de l'agrégation d'informatique, annoncée en mars 2021 ! C'est un de mes grands rêves pour 2022 ou 2023.
+- Devenir jury du concours national de l'agrégation d'informatique, annoncée en mars 2021 ! C'est un de mes grands rêves pour 2022 ou 2023. Ou du CAPES, ça serait aussi bien !
 
 - Être heureux et épanoui, apprécié et efficace, dans mon futur poste en prépas et dans les éventuels postes suivants. Je ne m'inquiète pas trop, ça va être trop bien !
 
@@ -81,15 +81,15 @@ Voyages
 ^^^^^^^
 - Aller une fois dans *tous les continents* (Amérique, Afrique - OK, Océanie et Asie) *grâce au boulot* ?!
 - 👌 OK - Aller sur une île chouette *grâce au boulot* (e.g., la Corse, OK les Canaries en avril 2018, etc).
-- 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème !
+- 👌 OK - `Refaire du stop <autostop.fr.html>`_ après/pendant la `crise sanitaire du COVID 19 <coronavirus.fr.html>`_. J'en ai fait en août 2020, sans trop de problème ! J'en ai fait tout l'été $2021$ et $2022$ dans les Hautes-Alpes, sans souci non plus !
 
-.. warning:: Vue mes convictions écologistes, ces envies de voyages sont devenues plustôt contradictoires et obsolète. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
+.. warning:: Vu mes convictions écologistes, ces envies de voyages sont devenues plustôt contradictoires et obsolète. Je rêve de simplement connaître le mieux possible mon pays, les villes et villages où vivent mes ami-e-s et voilà !
 
 Articles et publications
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - 👌 OK - Voir au moins :math:`h` de `mes articles cités <https://scholar.google.com/citations?hl=fr&user=bt3upq8AAAAJ>`_ :math:`h` fois (auto-citations **non** comptées !). Où :math:`h \geq 1` et aussi grand que possible (:math:`\geq 5` ce serait bien) ! Depuis janvier 2021, :math:`h = 6` !
 - 👌 OK - Publier au moins un *article dans une revue* (un *"journal"*) ? J'en ai soumis deux en 2019, et `celui là a été publié <https://hal.inria.fr/hal-02956350>`_ dans `cette revue <https://link.springer.com/article/10.1007/s12243-020-00795-y>`_ (`DOI:10.1007/s12243-020-00795-y <https://doi.org/10.1007/s12243-020-00795-y>`_)
-- 👌 OK - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine... `Cet article (HAL-02006471v3) <https://hal.inria.fr/hal-02006471v3>`` : mais cet article est finalement accepté au JMLR (*Journal of Machine Learning Research*).
+- 👌 OK - Publier au moins un article dans une *conférence de classe internationale* dite ``A*``/``A1`` ? C'est difficile dans mon domaine... `Cet article (HAL-02006471v3) <https://hal.inria.fr/hal-02006471v3>`` : mais cet article est finalement accepté au JMLR (*Journal of Machine Learning Research*) !
 
 Collaborations
 ^^^^^^^^^^^^^^
@@ -125,25 +125,27 @@ Santé
 ^^^^^
 - Me faire opérer au LASER et ne plus avoir besoin de lunettes ? Pas super envie…
 - 👌 OK - Continuer à donner mon sang, entre quatre et six fois par ans ! Et essayer de donner des plaquettes et du plasma, plus souvent et autant que possible !
-- M'inscrire au registre de donateur de moëlle osseuse !
+- M'inscrire au registre de donateur de moëlle osseuse ? Je n'ose pas.
 - 👌 OK - En attendant, essayer des lentilles ! **Résultat** : je déteste ça !
 - *Devenir un cyborg*. La singularité est proche ! (blague)
 - 👌 OK -  Faire un peu de vélo tous les jours, ou très régulièrement au moins ! C'était moins le cas en 2020, mais je m'y suis bien remis, et je vais garder ces bonnes habitudes !
 - Perdre un peu de poids ! TODO: ne pas le re prendre !
 - TODO: Courir régulièrement, et redevenir capable de courir une heure, ou 10 kms, et rester toute ma vie capable de ça !
 - TODO: Passer moins de temps sur l'ordinateur mais être toujours aussi productif, présent et efficace que maintenant.
+- TODO: Suivre mon traitement quotidiennement.
+- TODO: Perdre du poids, en 2023 encore !
 
 Écologie
 ^^^^^^^^
 - M'investir dans des associations écologistes à Briançon ! J'ai essayé en 2019 et j'ai fait plein de choses avec `ANV COP21 <https://anv-cop21.org/le-defi-climatique/>`_ mais pas pu reprendre après les confinements de `la crise sanitaire du COVID 19 <coronavirus.fr.html>`_.
-- 👌 OK - Passer à un fournisseur d'éléctricité verte. Je suis chez EnerCoop depuis 2020 ! Ça reste valide, je suis revenu à Briançon donc forcément l'EDSB (qui utilise le barrage du pont Baldy pour fournir en électricité une bonne partie de la ville)
-- 👌 OK - Être entièrement végétarien ! Depuis 2018 c'est bon ! Merci Lola.
-- Passer à un fournisseur d'Internet et de téléphone le plus écologique possible ? Free n'est le meilleur, mais j'aime trop leur `API de SMS <https://github.com/Naereen/FreeSMS.py/>`_... dur de changer !
-- Passer (tous??) mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021... je l'ai fait un peu, mais je n'oserai pas pour toute mon épargne.
-- Ne plus utiliser ma carte bleue, ou le moins possible, et utiliser si possible des monnaies locales, comme `le Galléco <https://galleco.fr/cest-quoi-le-galleco/>`_ à Rennes ;
+- 👌 OK - Passer à un fournisseur d'éléctricité verte. Je suis chez EnerCoop depuis 2020 ! Ça reste valide, je suis revenu à Briançon donc forcément l'EDSB (qui utilise le barrage du pont Baldy pour fournir en électricité une bonne partie de la ville) est un fournisseur "vert".
+- 👌 OK - Être entièrement végétarien ! Depuis 2018 c'est bon ! Merci Lola...
+- Passer à un fournisseur d'Internet et de téléphone le plus écologique possible ? Free n'est pas le meilleur, mais j'aime trop leur `API de SMS <https://github.com/Naereen/FreeSMS.py/>`_... dur de changer !
+- Passer (tous??) mes compte à des banques écologiques et éthiques, comme `La Nef <https://www.lanef.com/>`_ ou `Le Crédit Coopératif <https://www.credit-cooperatif.coop/>`_. C'est prévu en 2021... je l'ai fait un peu, mais je n'oserai pas pour toute mon épargne, ça suffit comme ça.
+- Ne plus utiliser ma carte bleue, ou le moins possible, et utiliser si possible des monnaies locales, comme `le Galléco <https://galleco.fr/cest-quoi-le-galleco/>`_ à Rennes ?
 
 - Ne plus acheter aucun produit emballé par du plastique. Bientôt, je n'accepterai d'acheter que des produits (alimentaires ou autre) emballés par du verre ou des boites de conserve (très rarement), et je vais viser à ne vivre qu'avec des produits *en vrac*, non emballés ! Depuis 2018, je tiens `ce petit blog <zero-dechet/>`_ mais pas assez mis à jour. Cela ne m'empêche pas d'avoir fait énormément d'efforts pour réduire mes déchets !
-- 👌 OK - Vivre sans frigo ! C'est vraiment dur, surtout en été quand il fait chaud.
+- Vivre sans frigo ? C'est vraiment dur, surtout en été quand il fait chaud. J'ai abandonné, c'était trop chiant pour le fromage notamment.
 - Ne jamais rien commander en ligne, ne rien se faire livrer ;
 - Ne plus acheter de produits neufs. Je suis très très économe depuis très longtemps, mais même encore en 2021 je peux m'améliorer.
 - 👌 OK - Notamment, **ne plus acheter de vêtements neufs** (ça c'est bon depuis 2016), **de livres neufs** (pareil sauf pour les livres universitaires, impossibles à supprimer si je veux aussi soutenir leurs auteurs et réduire mon temps sur des écran), **et de jeux-vidéo ou autre produit culturel et de loisir numériques neufs** (quasiment irréprochable, sauf l'achat de mes consoles de jeux).
@@ -167,8 +169,8 @@ Social hacking
 ^^^^^^^^^^^^^^
 - Essayer de faire du gentil "social hacking" envers mes failles de sécurité (personnelles hein, évidemment !)... A savoir, les banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc. ;
 - L'idée de base ? J'appelle EDF avec un 07xyzwtruc (qui n'est même pas mon numéro), je me présente en donnant nom et adresse, mais rien d'autre. J'essaie d'obtenir mon mail ou identifiant, ou des détails privés. Si aucune vérification n'est faite sur mon identité, il y a faille de sécurité !
-- Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
-- Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
+.. - Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
+.. - Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
 
 .. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
 
@@ -176,8 +178,6 @@ White hat web hacking
 ^^^^^^^^^^^^^^^^^^^^^
 - Essayer de faire du gentil "white hat hacking" envers mes failles de sécurité (personnelles hein, évidemment !). A savoir, banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc.
 - L'idée de base : je tente de me connecter à un espace perso, ou à "réinitialiser le mot de passe", avec tous les mails qu'un hackeur pourrait avoir envie d'essayer : prenom.nom @truc et 20 variantes. Si j'arrive à trouver un mail associé à un espace perso, déjà il y a faille de sécurité...
-- Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
-- Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
 
 .. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
 
@@ -186,8 +186,6 @@ White hat real-life hacking
 - NOPE Apprendre à crocheter mes serrures chez moi ? Voir quelle solution simple je peux faire contre ;
 - Trouver comment et apprendre à déverrouiller mes téléphones sans leur code ?
 - Apprendre à truquer le pile-ou-face ? Cf. `cette vidéo <https://www.youtube.com/watch?v=YdJr1FCB0P4>`_.
-
-.. todo:: Quand je me lancerai là-dedans, le faire de façon très sécurisée, et prendre des notes (en privé, non publique).
 
 Voyages
 ^^^^^^^
@@ -211,7 +209,7 @@ Rencontres
 
 Activités
 ^^^^^^^^^
-- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Nice, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette ! Et j'ai refait une douzaine de tournois à `Vent Divin <https://ventdivin.com/>`_ à Strasbourg et au `Petit Joueur <http://www.lepetitjoueur.fr/>`_ à Mougins près de Valbonne.
+- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Cannes, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette ! Et depuis l'été 2021 j'ai refait une vingtaine de tournois à `Vent Divin <https://ventdivin.com/>`_ à Strasbourg et au `Petit Joueur <http://www.lepetitjoueur.fr/>`_ à Mougins près de Valbonne.
 - Je souhaite monter un club Magic à l'échelle de Briançon, avec une FNM par semaine, un draft par mois, etc.
 - 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
@@ -276,7 +274,7 @@ Je suis résolument un pacifiste, mais je serai prêt à devenir résistant si l
 
 Sur d'autres aspects, je suis aussi face à des dilemmes. J'aimerai devenir réserviste depuis longtemps, mais cela ne colle pas avec ces envies de pacifisme.
 
-- Une bonne alternative serait de **devenir pompier bénévole volontaire**, ce que j'essie depuis 2019.
+- Une bonne alternative serait de **devenir pompier bénévole volontaire**, ce que j'essaie depuis 2019.
 
 Listes amusantes
 ^^^^^^^^^^^^^^^^
