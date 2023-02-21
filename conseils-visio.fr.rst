@@ -11,8 +11,6 @@ Cette (trop longue) page liste **quelques conseils pour faire des bonnes visio c
 
 En effet, avec la pandémie de coronavirus depuis 2020 (cf. `<coronavirus.fr.html>`_), nous avons tous et toutes dû faire des appels visio, que ce soit pour le travail (réunions, enseignements ou soutenances de thèse), pour des apéros virtuels entre ami-e-s, ou pour d'autres occasions (mariage, etc).
 
-.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je ne vais plus accepter de montrer ma caméra, et je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles !
-
 
 Outils pour les appels visio ?
 ------------------------------

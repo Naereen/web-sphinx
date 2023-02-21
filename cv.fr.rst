@@ -13,12 +13,7 @@
 
 .. warning:: Ce CV en format HTML n'est pas maintenu à jour, je vous incite à aller lire mon CV au format PDF ici : `<cv.fr.pdf>`_ (ou `<http://cv.besson.link/>`_), ou `ce CV de recherche <https://cv.archives-ouvertes.fr/lilian-besson>`_, ou `ma page d'accueil pro <me/index.fr.html>`_).
 
-.. todo:: Mettre à jour en 2021 ?
-
-
-
-.. todo:: Après des années sans trop m'inquiéter, mon « mode aléatoire » (générateur avec des dés et des pièces) m'a demandé de changer drastiquement, le vendredi 16 avril 2021. Donc je change. Je vais être très prudent dès maintenant. Merci d'avance d'accepter cela dans nos interactions professionnelles ou personnelles ! Cela va être enrichissant, pour moi mais surtout pour vous !
-
+.. todo:: Mettre à jour en 2021 et après ?
 
 Cette année (*2018-19*)
 -----------------------
