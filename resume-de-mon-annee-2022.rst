@@ -78,7 +78,7 @@ Décembre 2022
 .. - J'espère pouvoir reprendre mon poste au Lycée Kléber à Strasbourg l'an prochain...
 
 - Noël en famille (on était 12 !) c'était super chouette !
-- Un réveillon de nouvel an entre amis, avec en gros le même groupe que d'habitude mais dans un autre appartement, c'était super chouette (j'espère, j'écris ça avant !).
+- Un réveillon de nouvel an entre amis, avec en gros le même groupe que d'habitude mais dans un autre appartement, c'était super chouette.
 
 .. note:: C'est tout pour 2022, à dans un an pour `la suite <resume-de-mon-annee-2023.html>`_ !
 
@@ -105,6 +105,8 @@ En 2022, j'ai joué à ces jeux vidéo…
 
 En 2022, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Saison 5 de *Young Sheldon*, et c'est toujours aussi sympa !
+- Saisons 1 à 7 de *The Office* (US), enfin... C'est distrayant mais je regarde en faisant autre chose en même temps évidemment...
 - Saisons 1, 2 et 3 de *The Boys* et ça déchire haha !
 - Saison 2 de *The Mandalorian*, très décevant mais ça se laisse regarder. Le petit Grogu est hyper mignon.
 - Saison 1 de *The Witcher*, même pas finie en entier tellement j'ai trouvé ça décevant.
