@@ -16,8 +16,9 @@ Résumé de mon année 2023
 
 Janvier 2023
 ------------
-- J'ai eu 30 ans, j'ai célébré ça chez moi à Briançon et avec des amis proches à Massy et Paris. Super week-end d'anniversaire, et j'ai eu des beaux cadeaux.
+- J'ai eu 30 ans, j'ai célébré ça chez moi à Briançon avec ma famille, puis avec des amis proches à Massy et Paris. Super week-end d'anniversaire, et j'ai eu des beaux cadeaux.
 - J'ai rejoué à *The Legend of Zelda: Link's Awakening* dans sa version remasterisée sur Nintendo Switch, c'était amusant.
+- 20 ans après (j'étais en cinquième), je me suis remis à jouer au Badminton, avec le `BBC "Briancon Badminton Club" <https://bbc05.fr/>`_, désormais deux fois par semaine.
 
 Février 2023
 ------------
