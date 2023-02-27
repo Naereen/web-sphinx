@@ -184,6 +184,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    resume-de-mon-annee-2019
    resume-de-mon-annee-2020
    resume-de-mon-annee-2021
+   resume-de-mon-annee-2022
    time
    bitbucket-features.fr
    plume-air-paris.fr

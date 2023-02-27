@@ -100,8 +100,8 @@ En 2022, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Des heures sur `<https://www.jeu-du-solitaire.com/>`_ ;
 - *Pokémon Jaune* et *Pokémon Or* vite fait sur émulateur sur téléphone.
-- *Radical red", une rom hack de 2022, qui est super sympa ! (`lien 1 <https://www.consoleroms.com/roms/gba/pokemon-radical-red>`_, `lien 2 <https://gameboy-advance-roms.info/pokemon-radical-red-pokemon-fire-red-hack/>`_)
-- Des simulations de draft de Magic: The Gathering via le superbe site `<https://draftsim.com/all-sets/>`_ ;
+- *Radical red*, une *rom hack* de 2022, qui est super sympa, mais très (trop ?) dure ! (`lien 1 <https://www.consoleroms.com/roms/gba/pokemon-radical-red>`_, `lien 2 <https://gameboy-advance-roms.info/pokemon-radical-red-pokemon-fire-red-hack/>`_)
+- Des simulations de draft de Magic: The Gathering, via le superbe site `<https://draftsim.com/all-sets/>`_ ;
 
 En 2022, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
