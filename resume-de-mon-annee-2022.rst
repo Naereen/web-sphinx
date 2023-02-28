@@ -91,14 +91,17 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2022, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très peu (Paris, Hautes-Alpes, Paris, Marseille, Alsace, Côte d'Azur).
+- En France : très peu : à Paris, dans les Hautes-Alpes, à Marseille, en Alsace à Strasbourg, sur la Côte d'Azur à Nice et Cannes.
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas prévu.
 
 
 En 2022, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Des heures sur `<https://www.jeu-du-solitaire.com/>`_ ;
+- Des heures sur `<https://www.jeu-du-solitaire.com/>`_ en regardant une série en même temps ;
+- *The Legend of Zelda : Link's Awakening* sur Game Boy Advance (c'est un jeu de Game Boy à la base), que je connais quasiment par coeur ;
+- *Le Seigneur des Anneaux : Les Deux Tours* sur Game Boy Advance, que j'avais déjà exploré en profondeur quand j'étais au collège (ça remonte à une vingtaine d'année, mine de rien !) ;
+- *Le Seigneur des Anneaux : Le Retour du Roi* sur Game Boy Advance, idem ;
 - *Pokémon Jaune* et *Pokémon Or* vite fait sur émulateur sur téléphone.
 - *Radical red*, une *rom hack* de 2022, qui est super sympa, mais très (trop ?) dure ! (`lien 1 <https://www.consoleroms.com/roms/gba/pokemon-radical-red>`_, `lien 2 <https://gameboy-advance-roms.info/pokemon-radical-red-pokemon-fire-red-hack/>`_)
 - Des simulations de draft de Magic: The Gathering, via le superbe site `<https://draftsim.com/all-sets/>`_ ;
@@ -108,18 +111,20 @@ En 2022, j'ai vu ces séries…
 - Saison 5 de *Young Sheldon*, et c'est toujours aussi sympa !
 - Saisons 1 à 7 de *The Office* (US), enfin... C'est distrayant mais je regarde en faisant autre chose en même temps évidemment...
 - Saisons 1, 2 et 3 de *The Boys* et ça déchire haha !
+- Saison 1 de *The Witcher*, même pas finie en entier tellement j'ai trouvé ça décevant. Je ne regarderai pas la saison 2 ou la suite.
+
 - Saison 2 de *The Mandalorian*, très décevant mais ça se laisse regarder. Le petit Grogu est hyper mignon.
-- Saison 1 de *The Witcher*, même pas finie en entier tellement j'ai trouvé ça décevant.
 - Saison 2 de *Boba-Fett*, même pas finie en entier, idem.
 - Saison 1 de *Obi-Wan Kenobi*, même pas finie en entier.
 - Saison 1 de *The Bad Watch*, dans l'univers de Star Wars aussi, mais cette fois c'était vraiment bon !
+
 - Saison 1 de *The Legend of Vox Machina*, excellent !!
 
 En 2022, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: J'ai toujours adoré lire des livres de fiction pour le plaisir (voir `mon top10 <top10.fr.html#mes-10-ecrivains-preferes>`_), mais en ce moment, cela m'a passé, j'ai plutôt envie de lire des livres techniques. Mais si vous avez des bonnes suggestions, je suis preneur !
 
-- *Les rêveurs* en 4 tomes, du couple Leigh & David Eddings. Assez décevant.
+- *Les rêveurs* en 4 tomes, du couple Leigh & David Eddings. Assez décevant, j'ai arrêté à la fin du tome 2.
 - La trilogie *Fille de l'empire* de Raymod Feist, j'ai arrêté au milieu du second volume c'était trop lent et sans surprise.
 - Et d'autres que j'ai peut-être oublié de noter…
 

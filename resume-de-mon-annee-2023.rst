@@ -89,8 +89,8 @@ En 2023, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: J'ai toujours adoré lire des livres de fiction pour le plaisir (voir `mon top10 <top10.fr.html#mes-10-ecrivains-preferes>`_), mais en ce moment, cela m'a passé, j'ai plutôt envie de lire des livres techniques. Mais si vous avez des bonnes suggestions, je suis preneur !
 
-- *Je ne mourrai pas aujourd'hui*, de Néhel aux éditions `Hello Editions <http://www.helloeditions.fr/>`_.
-- *What If 2*, la suite de *What If*, par l'auteur de `<https://www.XKCD.com/>`_.
+- *Je ne mourrai pas aujourd'hui*, de Néhel aux éditions `Hello Editions <http://www.helloeditions.fr/>`_ (voir `cette page web pour le commander <https://www.helloeditions.fr/article/je-ne-mourrai-pas-aujourdhui/>`_).
+- *What If 2*, la suite de *What If*, par l'auteur de `<https://www.XKCD.com/>`_ (voir `cette page là pour le commander <https://xkcd.com/what-if-2/>`_).
 - Et d'autres que j'ai peut-être oublié de noter…
 
 En 2023, j'ai vu ces films…
