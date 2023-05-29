@@ -40,7 +40,7 @@ at the following addresses (listed by decreasing preference):
 
 My Office
 ~~~~~~~~~
-I don't have an office but I can receive mail at my new institution, at `Centre International de Valbonne <http://www.civfrance.com//>`_, in Strasbourg, in France
+I don't have an office but I can receive mail at my new institution, at `Centre International de Valbonne <http://www.civfrance.com/>`_, in Valbonne, in France
 (see `this OpenStreetMap page <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
 
       Dr Lilian Besson
