@@ -44,28 +44,28 @@ aux adresses suivantes (listées par ordre de préférence) :
 
 Bureau
 ~~~~~~
-Je n'ai plus de bureau, mais je peux recevoir du courrier au `Centre International de Valbonne <http://www.civfrance.com/>`_, à Valbonne, en France
-(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
+Je n'ai plus de bureau, mais je peux recevoir du courrier au `Lycée Kléber <https://lycee-kleber.com.fr/>`_, à Strasbourg, en France
+(voir `sur un plan OpenStreetMap <https://www.openstreetmap.org/#map=18/48.59414/7.75711&layers=N>`_) ::
 
       Dr Lilian Besson
       Classe de MP2I
-      Centre International de Valbonne
-      BP 97
-      06902 Sophia Antipolis Cedex
+      Lycée Kléber
+      Place de Bordeaux
+      67000 Strasbourg
       France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-      var office = L.map("office").setView([43.6211874, 7.0248404], 18);
+      var office = L.map("office").setView([48.59414, 7.75711], 18);
 
       L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
-      L.marker([43.6211874, 7.0248404]).addTo(office)
-         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
+      L.marker([48.59414, 7.75711]).addTo(office)
+         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Lycée Kléber<br> 67000 Strasbourg<br> France")
          .openPopup();
    </script>
 
@@ -89,8 +89,8 @@ Si c'est pour du spam : jarvis.spam@laposte.net ! Et allez vous faire voir, si v
 
 Si c'est sérieux, vous pouvez utiliser une de ces adresses :
 
-- `Lilian point Besson à ac-nice point fr <mailto:Lilian point Besson à ac-nice point fr>`_
-- `Lilian point Besson à ens-rennes point fr <mailto:Lilian point Besson à ens-rennes point fr>`_
+- `Lilian point Besson à ac-strasbourg point fr <mailto:Lilian point Besson à ac-strasbourg point fr>`_
+- `Lilian point Besson à crans point org <mailto:Lilian point Besson à crans point org>`_
 
 .. note::
 

@@ -40,28 +40,28 @@ at the following addresses (listed by decreasing preference):
 
 My Office
 ~~~~~~~~~
-I don't have an office but I can receive mail at my new institution, at `Centre International de Valbonne <http://www.civfrance.com/>`_, in Valbonne, in France
-(see `this OpenStreetMap page <https://www.openstreetmap.org/way/20350865#map=17/48.59496/7.75484>`_) ::
+I don't have an office but I can receive mail at my new institution, `Lycée Kléber <https://lycee-kleber.com.fr/>`_, in Strasbourg, in France
+(see `on an OpenStreetMap map <https://www.openstreetmap.org/#map=18/48.59414/7.75711&layers=N>`_) ::
 
       Dr Lilian Besson
       Classe de MP2I
-      Centre International de Valbonne
-      BP 97
-      06902 Sophia Antipolis Cedex (France)
+      Lycée Kléber
+      Place de Bordeaux
+      67000 Strasbourg
       France
 
 .. raw:: html
 
    <div id="office"></div>
    <script type="text/javascript">
-      var office = L.map("office").setView([43.6211874, 7.0248404], 18);
+      var office = L.map("office").setView([48.59414, 7.75711], 18);
 
       L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
          attribution: "&copy; <a href='https://osm.org/copyright'>OpenStreetMap</a> contributors"
       }).addTo(office);
 
-      L.marker([43.6211874, 7.0248404]).addTo(office)
-         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Centre International de Valbonne<br> BP 97<br> 06902 Sophia Antipolis Cedex (France)<br>France")
+      L.marker([48.59414, 7.75711]).addTo(office)
+         .bindPopup("Dr Lilian Besson<br> Classe de MP2I<br> Lycée Kléber<br> 67000 Strasbourg<br> France")
          .openPopup();
    </script>
 
@@ -86,8 +86,8 @@ If you are a *spammer*, go on: jarvis.spam@laposte.net! Oh, and, go kîll yoùrs
 
 If you are *not* a *spammer*, go on, you can use one of these email addresses:
 
-- `Lilian dot Besson at ac-nice dot fr <mailto:Lilian dot Besson at ac-nice dot fr>`_
-- `Lilian dot Besson at ens-rennes dot fr <mailto:Lilian dot Besson at ens-rennes dot fr>`_
+- `Lilian dot Besson at ac-strasbourg dot fr <mailto:Lilian dot Besson at ac-strasbourg dot fr>`_
+- `Lilian dot Besson at crans dot org <mailto:Lilian dot Besson at crans dot org>`_
 
 .. note::
 
