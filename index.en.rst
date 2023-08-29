@@ -10,11 +10,10 @@ A few words about me
 --------------------
 
 |Greetings|, and welcome to my website!
-I am **Lilian Besson**, teacher-developper in Computer Science, and I was assistant professor at |ENSRennes| from 2016 to 2021.
-I was full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ (in `MP2I <https://prepas.org/index.php?article=42>`_) from next September 2022 until August 2022 in Strasbourg, at Lycée Kléber, and I am now at `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_.
+I am **Lilian Besson**, teacher-developper in Computer Science, and I was an assistant professor at |ENSRennes| from 2019 to 2021.
+I am now a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_, in charge of the `MP2I <https://prepas.org/index.php?article=42>`_ class at `Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_, in `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_ in France.
 
-Before occupying these teaching-focused positions, I `pursued my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec Rennes, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_
-in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning.
+Before occupying these teaching-focused positions, I `pursued my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec in Rennes and Inria in Lille, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning, and a Master degree in teaching Mathematics (along with « agrégation », the French national exam to become a civil servant teacher).
 
 .. |Greetings| raw:: html
 
@@ -29,16 +28,16 @@ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publi
     <abbr title='ENS de Rennes, previously known as Antenne Bretagne of ENS de Cachan, is a French "Grande École" specialized in training researchers and professors for superior studies (in maths, computer science, etc), located in Rennes, in Brittany in France.'><a href='http://www.ens-rennes.fr/'>ENS de Rennes</a></abbr>
 
 
-- From August 2019 to August 2022, I am now a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
+- From August 2019 to August 2021, I was a `junior professor (agrégé) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ at `ENS Rennes <http://www.dit.ens-rennes.fr/>`_, in charge of the class preparing the "agrégation" national exam, with a major in mathematics and a minor in computer science, level M2, and in charge of lectures for `introduction and advanced algorithms <https://perso.crans.org/besson/info1_algo1_2019/>`_, and `other teaching activities <teaching.en.html>`_.
 
-- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `ocaml.besson.link <http://ocaml.besson.link>`_ for OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ for C/C++, `python.besson.link <http://python.besson.link>`_  and `notebook.besson.link <http://notebook.besson.link>`_ for Python 3.8, `turing.besson.link <http://turing.besson.link>`_ for Turing machines, and `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard! Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
+- In February 2021, I had fun adding these applications there on my site, to be able to write small codes, give quick explanations without having to install anything on his computer: `ocaml.besson.link <http://ocaml.besson.link>`_ for OCaml 4.12, `jscpp.besson.link <http://jscpp.besson.link>`_ for C/C++, `python.besson.link <http://python.besson.link>`_  and `notebook.besson.link <http://notebook.besson.link>`_ for Python 3.8, `turing.besson.link <http://turing.besson.link>`_ for Turing machines, and `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ for an interactive and super functional blackboard! Note: I did not develop these applications myself, they are all free under the MIT or GPLv3 license.
 
 - If you want to learn more about |ENSRennes|, watch this:
 
 .. youtube:: zleSzn76FMs
 
 
-- I am also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA in Rennes. My research interests lie innovative technologies for modern teaching, Python and OCaml programming, machine learning in general, and other directions.
+- I was also an associate researcher with the `PANAMA team <https://team.inria.fr/panama/>`_ at IRISA in Rennes. My research interests were on innovative technologies for modern teaching, Python and OCaml programming, machine learning in general, and other directions.
 
 
 Between September 2016 and August 2019:
@@ -47,7 +46,7 @@ Between September 2016 and August 2019:
 - And I was `teaching <teaching.en.html>`_ theoretical computer science at `ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (for a class preparing for the agregation national exam, level M2) and `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexity and calculabilty, level L3), thanks to `this mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_. At first, I was updating it twice a week (as of 13/03/2020), but now updates are less frequent.
+.. .. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_. At first, I was updating it twice a week (as of 13/03/2020), but now updates are less frequent.
 
 
 ------------------------------------------------------------------------------
@@ -73,6 +72,8 @@ Feel free to *contact* me by, `the solution you prefer <callme.en.html>`_:
 #. you can call me or send me a SMS:
 
 ------------------------------------------------------------------------------
+
+.. todo:: Update these items?
 
 The last three years (2016-19)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -109,8 +110,8 @@ Some projects on-line
 ^^^^^^^^^^^^^^^^^^^^^
 Some of my profile pages on some great websites:
 
-  #. either with my *Bitbucket* account `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_ ;
-  #. or my *GitHub* account `GitHub.com/Naereen <https://GitHub.com/Naereen>`_ ;
+  #. either with my *GitHub* account `GitHub.com/Naereen <https://GitHub.com/Naereen>`_, which contains most of my programming-related projects ;
+  #. or my *Bitbucket* account `Bitbucket.org/lbesson <https://bitbucket.org/lbesson>`_, which contains most of my research-related projects (LaTeX code for my old research papers, for instance) ;
   #. or my *GitLab* account `GitLab.com/Naereen <https://GitLab.com/Naereen>`_ ;
   #. or on my personal *Wikipedia* page `User:Naereen <http://en.wikipedia.org/wiki/User:Naereen>`_.
 
@@ -188,4 +189,4 @@ For more details, see `<sitemap.en.html>`_.
    hitch-hiking.en
    packing.en
 
-.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2023, https://bitbucket.org/lbesson/web-sphinx/

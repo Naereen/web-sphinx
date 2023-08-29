@@ -10,11 +10,11 @@
 -----------------
 
 |Salutations|, et bienvenue sur ce site !
-Je suis professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_, au `Centre international de Valbonne <http://www.civfrance.com/prepas/contact>`_ à `Valbonne <https://fr.wikipedia.org/wiki/Valbonne>`_ depuis septembre 2022. L'an dernier en 2021/2022, j'étais aussi en 100% enseignement en classes prépa', mais à Strasbourg au Lycée Kléber.
+Je suis professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_, au `Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_ depuis septembre 2021.
 
-Avant mon arrivée dans le monde des CPGE (prépa), j'étais enseignant-développeur en informatique, et j'avais la chance de travailler au département Informatique à l'|ENSRennes| de 2016 à 2021.
+Avant mon arrivée dans le monde des CPGE (prépa), j'étais enseignant-développeur en informatique, et j'avais la chance de travailler au département Informatique à l'|ENSRennes| de 2019 à 2021.
 
-De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ (soutenue en novembre 2019), qui s'effectuait à CentraleSupélec Rennes et Inria Lille, et je `suis agrégé et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées.
+De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunications et Apprentissage Automatique <phd/>`_ (soutenue en novembre 2019), qui s'effectuait à CentraleSupélec à Rennes et Inria à Lille, et je suis agrégé de mathématiques `et diplômé <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de |ENSCachan|, du `Master MVA <publis/mva-2016/>`_ en apprentissage automatique et maths appliquées, et du Master FESup (enseignement des mathématiques dans le supérieur).
 
 .. |Salutations| raw:: html
 
@@ -26,7 +26,7 @@ De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunicati
 
 .. |ENSRennes| raw:: html
 
-   <abbr title="L'ENS de Rennes est une « Grande École » près de Paris, spécialisée dans la formation de chercheur-se-s et professeurs du secondaire et du supérieur, anciennement appelée Antenne de Bretagne de l'ENS de Cachan"><a href='http://www.ac-nice.fr/'>l'ENS de Rennes</a></abbr>
+   <abbr title="L'ENS de Rennes est une « Grande École » près de Rennes, spécialisée dans la formation de chercheur-se-s et professeurs du secondaire et du supérieur, anciennement appelée Antenne de Bretagne de l'ENS de Cachan"><a href='http://www.ens-rennes.fr/'>l'ENS de Rennes</a></abbr>
 
 
 - Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ac-nice.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ac-nice.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
@@ -207,5 +207,4 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    a-faire-avant-30-ans
 
 
-
-.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2023, https://bitbucket.org/lbesson/web-sphinx/

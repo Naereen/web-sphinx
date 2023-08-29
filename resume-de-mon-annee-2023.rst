@@ -35,8 +35,9 @@ Avril 2023
 
 Mai 2023
 --------
-- Hm aucun souvenir notable à raconter, vélo boulot Magic et dodo...
+- Hm aucun souvenir notable à raconter à Cannes, vélo boulot Magic et dodo...
 - Ah si, un peu de coaching en développement à distance avec la ludothèque de Briançon, pour le [codeclub](https://github.com/aucoindujeu/codeclub) que l'on a monté là-bas. Quelques jeux vidéos ont été développés depuis, en Löve2D (un framework Lua pour des jeux rétro en 2D).
+- Et je suis monté fin mai à Crest dans la Drôme pour la Fête Médiévale, en famille, c'était super sympa !
 
 Juin 2023
 ---------
@@ -53,10 +54,9 @@ Août 2023
 - Encore plus de sorties montagnes !
 - Du jeu de rôle à la Ludothèque de Briançon, dans des univers différents (Shadowrun Anarchy deux fois, Paranoïa une fois, deux fois avec un monde et un système `fait par un ami <merci et bravo à Sam>`_, quatre fois dans le monde des Défis Fantastiques (Défis Fantastiques)).
 - Un déménagement rapide et efficace pour Strasbourg, j'étais surpris !
+- Je suis désormais tonton !
 
 .. warning:: C'est dans le futur !
-
-- Je suis désormais tonton !
 
 .. todo:: continuer ici
 
