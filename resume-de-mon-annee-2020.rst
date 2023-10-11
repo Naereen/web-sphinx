@@ -84,7 +84,7 @@ Août 2020
 ---------
 - Deux jours de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_ dans le nord des Alpes Maritimes (06), pour apprendre à s'occuper d'un troupeau (chèvres et moutons), les traire, transformer le lait en fromages, etc. C'était génial, j'ai vraiment adoré ! Refaire du stop, malgré le contexte sanitaire, m'a vraiment fait du bien !
 - Encore plein de randonnées... !
-- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux ! Edit novembre : Je l'ai mis en bouteille fin novembre, trois mois après, et c'est le meilleur génépi que j'ai pu faire jusqu'ici ! (regardez ̀ la recette <https://perso.crans.org/besson/cuisine/genepi.html>`_).
+- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux ! Edit novembre : Je l'ai mis en bouteille fin novembre, trois mois après, et c'est le meilleur génépi que j'ai pu faire jusqu'ici ! (regardez `̀la recette <https://perso.crans.org/besson/cuisine/genepi.html>`_).
 
 Septembre 2020
 --------------
@@ -137,7 +137,7 @@ En 2020, j'ai joué à ces jeux vidéo…
 - Je suis en train de jouer (rapidement) à **Octopath Traveler**, mais je suis déjà déçu... En fait après une douzaine d'heures, le jeu est vraiment pas mal, et finalement je l'ai terminé à 100% en y passant du temps ! (~80 heures)
 - Entre fin octobre et début décembre 2020, j'ai fait la quasi intégralité du merveilleux, du magnifique, du légendaire, du sublime  jeu de rôle **The Witcher 3: Wild Hunt**. C'est vraiment un jeu qui est à la hauteur de sa réputation : un jeu légendaire !
 - J'ai essayé **Xenoblade Chronicles 2**, parce que j'avais ADORÉ le premier volume, sorti en 2016 sur New 3DS (réédition du jeu de Wii), mais je n'avais pas accroché... en comparaison de TW3, c'est vraiment trop irréaliste et les combats sont trop bizarres.
-- Depuis mi décembre 2020, je me fais plaisir en refaisant **The Elder Scrolls V: Skyirm** sur Switch, après l'avoir fait en 2012. J'avais fini la quête principale, mais en fait je n'avais pas beaucoup joué au reste du jeu, et j'adore !
+- Depuis mi décembre 2020, je me fais plaisir en refaisant **The Elder Scrolls V: Skyrim** sur Switch, après l'avoir fait en 2012. J'avais fini la quête principale, mais en fait je n'avais pas beaucoup joué au reste du jeu, et j'adore !
 
 En 2020, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -157,7 +157,7 @@ En 2020, j'ai lu ces livres…
 - *De bons présages*, de Terry Pratchett et Neil Gaiman, j'ai adoré !
 - (pas terminé) *Le dernier rayon du soleil*, de Guy Gabriel Kay, j'aime bien mais ce n'est pas transcendant, je vais le finir vite... J'ai pas réussi à terminer, le milieu est juste tellement long et chiant. Pas assez fantasy pour moi, je crois !
 - (pas terminé) **Les Cantos d'Hypérion : la chute d'Hypérion**, I et II, par Dan Simmons. J'ai essayé le début, ça m'a vraiment saoulé en fait, c'est très dur à lire et trop prétentieux, je trouve.
-- *What If?* de Randall Munroe, relu rapidement en décembre 2020. Je me suis offert ̀`le second volume du même auteur <https://livre.fnac.com/a14939569/Randall-Munroe-Et-comment>`_ pour Noël, j'ai hâte !
+- *What If?* de Randall Munroe, relu rapidement en décembre 2020. Je me suis offert `le second volume du même auteur <https://livre.fnac.com/a14939569/Randall-Munroe-Et-comment>`_ pour Noël, j'ai hâte !
 - Et d'autres que j'ai oublié de noter…
 
 En 2020, j'ai vu ces films…

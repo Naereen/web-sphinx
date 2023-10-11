@@ -99,7 +99,7 @@ Août 2021
 
 Septembre 2021
 --------------
-- ~~Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)~~ ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! ~~A priori~~, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
+- :strike:`Ma troisième (et dernière ?) rentrée à l'ENS Rennes en tant qu'Agrégé Préparateur (AGPR)` ! J'aurai dû garder les mêmes `enseignements <enseignements>`_ et les mêmes responsabilités que l'an dernier ! A priori, je serai responsable de la nouvelle formation pour préparer nos élèves à l'agrégation d'informatique !! Et j'ai hâte !
 - 🎉🎉🎉 Non en fait, je vais prendre un poste de professeur agrégé d'informatique, en classes préparatoires, en filière MP2I (`cf. cette page <https://prepas.org/index.php?article=42>`_), au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à Strasbourg, à partir du 1er septembre 2021 !
 - Je me remets lentement à jouer aux cartes Magic, en faisant un tournoi par semaine en général (avant-premières, drafts, etc.). Et j'aime toujours autant ce jeu, même après une longue pause (12 ans sans jouer !).
 
@@ -118,8 +118,6 @@ Décembre 2021
 -------------
 - Marché de Noël à Strasbourg, avec malheureusement un weekend de visite d'ami-e-s de Paris annulé à cause d'un cas de COVID-19.
 - Vacances de Noël dans les Alpes, avec mon anniversaire en famille c'était sympa.
-
-.. warning:: Le reste est dans le futur !
 
 .. note:: C'est tout pour 2021, à dans un an pour `la suite <resume-de-mon-annee-2022.html>`_ !
 
@@ -179,7 +177,7 @@ En 2021, j'ai vu ces films…
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
 - *Raya and the Last Dragon* (2021) ;
-- TODO *La couleur tombée du ciel* (2019) ;
+- *La couleur tombée du ciel* (2019) : enfin regardé en août 2023, et j'ai pas aimé du tout ;
 - *Les immortels* (2021) ;
 - Et d'autres que j'ai oublié de noter…
 

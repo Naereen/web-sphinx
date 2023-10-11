@@ -31,13 +31,13 @@ Mars 2023
 
 Avril 2023
 ----------
-- Un voyage à Paris et à côté d'Angers chez un [ami](https://perso.crans.org/scornet/). J'ai fait des avant-premières Magic pour l'extension *March of the Machines*, pour la première fois dans une boutique à Paris. Chouette ambiance ! J'ai visité Angers rapidement au retour.
+- Un voyage à Paris et à côté d'Angers chez un `ami <https://perso.crans.org/scornet/>`_. J'ai fait des avant-premières Magic pour l'extension *March of the Machines*, pour la première fois dans une boutique à Paris. Chouette ambiance ! J'ai visité Angers rapidement au retour.
 
 Mai 2023
 --------
 - Hm aucun souvenir notable à raconter à Cannes, vélo boulot Magic et dodo...
-- Ah si, un peu de coaching en développement à distance avec la ludothèque de Briançon, pour le [codeclub](https://github.com/aucoindujeu/codeclub) que l'on a monté là-bas. Quelques jeux vidéos ont été développés depuis, en Löve2D (un framework Lua pour des jeux rétro en 2D).
-- Et je suis monté fin mai à Crest dans la Drôme pour la Fête Médiévale, en famille, c'était super sympa !
+- Ah si, un peu de coaching en développement à distance avec la ludothèque de Briançon, pour le `codeclub <https://github.com/aucoindujeu/codeclub>`_ que l'on a monté là-bas. Quelques jeux vidéos ont été développés depuis, en Löve2D (un framework Lua pour des jeux rétro en 2D).
+- Et je suis monté fin mai à Crest dans la Drôme, pour la Fête Médiévale, en famille, c'était super sympa !
 
 Juin 2023
 ---------
@@ -46,7 +46,7 @@ Juin 2023
 Juillet 2023
 ------------
 - Fin de l'année scolaire ! Youpi !
-- Un voyage à Arles chez [mon frère](https://actuelmoyenage.wordpress.com/), très sympa ce petit séjour dans le sud.
+- Un voyage à Arles chez `mon frère <https://actuelmoyenage.wordpress.com/>`_, très sympa ce petit séjour dans le sud.
 - Plein de sorties montagnes, entre VTT et randonnées, pique-niques et baignades !
 
 Août 2023
@@ -56,16 +56,21 @@ Août 2023
 - Un déménagement rapide et efficace pour Strasbourg, j'étais surpris !
 - Je suis désormais tonton !
 
+Septembre 2023
+--------------
+- Rentrée scolaire (de nouveau) au Lycée Kléber à Strasbourg, youpi !
+- Reprise de mes habitudes de vie à Strasbourg, pour mon plus grand plaisir.
+- Mes parents étaient de passage en Alsace, sur deux weekends on a visité le château du Haut Barr à Saverne, et le château du Haut-Königsbourg. C'était sympa !
+
+Octobre 2023
+------------
+- Top8 au « Store Championship » en Modern, à Dooz/Malleus à Strasbourg, avec `ce deck (HammerTime mono blanc) <https://www.moxfield.com/decks/PmfGuenAjEKy6PkKeGy4vw>`_, j'étais content.
+- Premier gros paquets de copies à corriger, j'étais moins content.
+
 .. warning:: C'est dans le futur !
 
 .. todo:: continuer ici
 
-Septembre 2023
---------------
-- Rentrée scolaire de nouveau au Lycée Kléber à Strasbourg, youpi !
-
-Octobre 2023
-------------
 - Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
 
 Novembre 2023
@@ -85,7 +90,7 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2023, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très peu (Paris, Hautes-Alpes, Cannes, Strasbourg, Arles).
+- En France : très très peu (Paris, Hautes-Alpes, Cannes, Strasbourg, Arles).
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas vraiment prévu.
 
@@ -96,15 +101,15 @@ En 2023, j'ai joué à ces jeux vidéo…
 - Des simulations de draft de Magic: The Gathering, via le superbe site `<https://draftsim.com/all-sets/>`_ ;
 - *Xenoblade Chronicles 2* sur Switch, très sympa mais trop longuet et trop pathos sans vraie action. J'ai arrêté avant à la fin.
 - *Pokémon : Ash Gray* sur Game Boy Advance (émulée sur smartphone). C'est une version faite par des fans avec le scénario de l'animé (saison 1, soit Pokémon Jaune mais bien fait), avec les graphismes et fonctionnalitées de Pokémon Rouge Feu / Vert Feuille. Très sympa mais assez dur...!
-- (vision du futur) *Xenoblade Chronicles 3* sur Switch, que je ferai à partir des vacances de Toussaint.
+- (vision du futur) *Xenoblade Chronicles 3* sur Switch, que je ferai à partir d'octobre. Très sympa, j'aime bien. J'espère qu'il restera sympa jusqu'au bout !
 
 En 2023, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 6 de *Young Sheldon*, et c'est toujours aussi sympa !
 - Saisons 8 et 9 de *The Office* (US), enfin... C'est distrayant mais je regardais en faisant un peu autre chose en même temps évidemment... C'était long mais je tenais à finir.
 - Saison 2 de *The Bad Watch* (Star Wars), toujours aussi géniale ! J'adore cette ambiance de survie face à l'Empire tout juste émergent.
-- Saison 3 de *The Mandalorian* (Star Wars), à regarder quand ce sera disponible !
-- Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand ce sera disponible !
+- TODO: Saison 3 de *The Mandalorian* (Star Wars), à regarder quand ce sera disponible !
+- TODO: Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand ce sera disponible !
 
 En 2023, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

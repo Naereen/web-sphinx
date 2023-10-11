@@ -12,8 +12,8 @@
     Bienvenue sur mon site web.
 
 
-En 2021/2022
-------------
+En 2021/2022 et après
+---------------------
 
 Je serai professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_ à la rentrée prochaine 2021, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_.
 
@@ -22,11 +22,11 @@ Je vais probablement aussi donner quelques heures de colles de maths en CPGE (MP
 
 Désormais, je me définis comme "enseignant-développeur", je vais rester actif dans mes activités de programmation et de développement, `sur GitHub <https://GitHub.com/Naereen>`_, `GitLab <https://GitLab.com/Naereen>`_, et `bitbucket <https://bitbucket.org/lbesson>`_.
 
-.. todo:: Hey listen! 2021/22 *c'est dans le futur !* Soyez patients, je vais mettre à jour cette section avant septembre.
+.. todo:: Hey listen! 2021/22 *c'est dans le futur !* Soyez patients, je vais essayer de mettre à jour cette section avant septembre.
 
 - En février 2021, je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `<http://ocaml.besson.link>`_ pour OCaml 4.08, `<http://jscpp.besson.link>`_ pour C/C++, `<http://python.besson.link>`_  et `<http://notebook.besson.link>`_ pour Python 3.8, `<http://turing.besson.link>`_ pour des machines de Turing, et `<http://tableaunoir.besson.link>`_ pour un tableau noir interactif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
 
-.. todo:: Mettre à jour Tableaunoir, Basthon et BetterOCaml durant l'été 2021.
+.. todo:: Mettre à jour Tableaunoir et Basthon, durant l'été 2021.
 
 
 En 2020/2021
