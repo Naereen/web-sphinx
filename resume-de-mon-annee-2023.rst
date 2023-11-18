@@ -66,18 +66,19 @@ Octobre 2023
 ------------
 - Top8 au « Store Championship » en Modern, à Dooz/Malleus à Strasbourg, avec `ce deck (HammerTime mono blanc) <https://www.moxfield.com/decks/PmfGuenAjEKy6PkKeGy4vw>`_, j'étais content.
 - Premier gros paquets de copies à corriger, j'étais moins content.
-
-.. warning:: C'est dans le futur !
-
-.. todo:: continuer ici
-
 - Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
 
 Novembre 2023
 -------------
+- Toujours des soirées régulières pour jouer à Magic, en Duel Commander (j'ai enfin acheté de quoi compléter deux decks supplémentaires, Octavia monoU control et Light-Paws monoW voltron), en Modern (toujours avec HammerTime, moins performant ces fois ci) et en commander Multi. J'ai fait une soirée en Légacy avec un deck Death & Taxes aussi.
+- Pas grand chose à raconter en dehors du travail pour ma classe de MP2I au Lycée Kléber, Magic, et la vie de tous les jours.
+
+.. warning:: C'est dans le futur !
+.. todo:: continuer ici
 
 Décembre 2023
 -------------
+- Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à Magic: the Gathering avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_.
 
 .. note:: C'est tout pour 2023, à dans un an pour `la suite <resume-de-mon-annee-2024.html>`_ !
 
@@ -101,7 +102,8 @@ En 2023, j'ai joué à ces jeux vidéo…
 - Des simulations de draft de Magic: The Gathering, via le superbe site `<https://draftsim.com/all-sets/>`_ ;
 - *Xenoblade Chronicles 2* sur Switch, très sympa mais trop longuet et trop pathos sans vraie action. J'ai arrêté avant à la fin.
 - *Pokémon : Ash Gray* sur Game Boy Advance (émulée sur smartphone). C'est une version faite par des fans avec le scénario de l'animé (saison 1, soit Pokémon Jaune mais bien fait), avec les graphismes et fonctionnalitées de Pokémon Rouge Feu / Vert Feuille. Très sympa mais assez dur...!
-- (vision du futur) *Xenoblade Chronicles 3* sur Switch, que je ferai à partir d'octobre. Très sympa, j'aime bien. J'espère qu'il restera sympa jusqu'au bout !
+- *Xenoblade Chronicles 3* sur Switch, que j'ai commencé en octobre. Très sympa, j'aime bien. J'espère qu'il restera sympa jusqu'au bout ! TL;DR: c'est devenu lassant, très répétitif et les combats sont soit trop facile (en mode facile ou normal) soit quasi impossible pour les boss (en mode difficile).
+- J'ai passé quelques heures sur World of Warcraft (sur Ubuntu Linux !) en attendant de me décider si je prenais un abonnement ou pas...
 
 En 2023, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,6 +128,7 @@ En 2023, j'ai vu ces films…
 
 - *L'homme qui côtoyait l'infini*, un magnifique film racontant la vie du mathématicien de génie S. Ramanujan ;
 - *Yesterday*, un bel hommage aux Beatles ;
+- *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de Your Name, Les Enfants du Temps et d'autres) ;
 - *La couleur tombée du ciel*, qui m'a fait trop peur et j'ai arrêté de le regarder (les chats mutants, c'est pas pour moi) ;
 - Et d'autres que j'ai oublié de noter…
 
