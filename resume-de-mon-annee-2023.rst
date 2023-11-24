@@ -103,7 +103,7 @@ En 2023, j'ai joué à ces jeux vidéo…
 - *Xenoblade Chronicles 2* sur Switch, très sympa mais trop longuet et trop pathos sans vraie action. J'ai arrêté avant à la fin.
 - *Pokémon : Ash Gray* sur Game Boy Advance (émulée sur smartphone). C'est une version faite par des fans avec le scénario de l'animé (saison 1, soit Pokémon Jaune mais bien fait), avec les graphismes et fonctionnalitées de Pokémon Rouge Feu / Vert Feuille. Très sympa mais assez dur...!
 - *Xenoblade Chronicles 3* sur Switch, que j'ai commencé en octobre. Très sympa, j'aime bien. J'espère qu'il restera sympa jusqu'au bout ! TL;DR: c'est devenu lassant, très répétitif et les combats sont soit trop facile (en mode facile ou normal) soit quasi impossible pour les boss (en mode difficile).
-- J'ai passé quelques heures sur World of Warcraft (sur Ubuntu Linux !) en attendant de me décider si je prenais un abonnement ou pas... J'ai pas joué énormément, mais un peu sur un `Druide côté Alliance <https://www.easyarmory.com/profile/nooreen-khaz%20modan-eu>`_ pour découvrir l'histoire de l'extension actuelle.
+- J'ai passé quelques heures sur World of Warcraft (sur Ubuntu Linux !) en attendant de me décider si je prenais un abonnement ou pas... J'ai pas joué énormément, mais un peu sur un `Druide côté Alliance <https://worldofwarcraft.blizzard.com/fr-fr/character/eu/khaz-modan/Nooreen>`_ (voir aussi `ici (Nooreen sur Khaz Modan) <https://www.easyarmory.com/profile/nooreen-khaz%20modan-eu>`_ pour découvrir l'histoire de l'extension actuelle.
 
 En 2023, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
