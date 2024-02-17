@@ -7,7 +7,7 @@
 ##########################################
 
 Cette page contient un rapide résumé chronologique de mon année 2023.
-J'ai rédigé ça au fur et à mesure de l'année, avec une dernière rédaction le 31 décembre 2023.
+J'ai rédigé ça au fur et à mesure de l'année, avec une dernière rédaction mi février 2024 (avec un peu de retard).
 
 Résumé de mon année 2023
 ------------------------
@@ -70,15 +70,15 @@ Octobre 2023
 
 Novembre 2023
 -------------
-- Toujours des soirées régulières pour jouer à Magic, en Duel Commander (j'ai enfin acheté de quoi compléter deux decks supplémentaires, Octavia monoU control et Light-Paws monoW voltron), en Modern (toujours avec HammerTime, moins performant ces fois ci) et en commander Multi. J'ai fait une soirée en Légacy avec un deck Death & Taxes aussi.
+- Toujours des soirées régulières pour jouer à Magic, en Duel Commander (j'ai enfin acheté de quoi compléter deux decks supplémentaires, Octavia monoU control et Light-Paws monoW voltron), en Modern (toujours avec HammerTime, moins performant ces fois ci) et en commander Multi. J'ai fait une soirée en Légacy avec un deck Death & Taxes aussi, en me faisant prêter des cartes.
 - Pas grand chose à raconter en dehors du travail pour ma classe de MP2I au Lycée Kléber, Magic, et la vie de tous les jours.
-
-.. warning:: C'est dans le futur !
-.. todo:: continuer ici
+- Une belle rencontre amicale à Strasbourg ! C'est trop chouette d'avoir enfin quelqu'un avec qui faire plein de trucs souvent.
 
 Décembre 2023
 -------------
-- Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à Magic: the Gathering avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_.
+- Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_.
+- J'ai fini premier (sur 10...) à une FNM en Légacy, à la boutique `Vent Divin <https://www.ventdivin.com/>`_, avec `ce deck Death & Taxes (Yorion 80 cartes) <https://www.moxfield.com/decks/npAvXOpUMkGl-TlNthBRcA>`_. Depuis, je me suis acheté tout ce qu'il fallait pour compléter le deck.
+- Visite d'un de mes meilleurs amis à Strasbourg, on a joué aux touristes au marché de Noël et à Kehl, en haut de `cette tour en bois (Weißtannenturm) <https://fr.wikipedia.org/wiki/Wei%C3%9Ftannenturm>`_.
 
 .. note:: C'est tout pour 2023, à dans un an pour `la suite <resume-de-mon-annee-2024.html>`_ !
 
@@ -91,9 +91,9 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2023, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très très peu (Paris, Hautes-Alpes, Cannes, Strasbourg, Arles).
+- En France : très très peu (Paris, Hautes-Alpes, Cannes, Strasbourg, Arles, Kehl en Allemagne).
 
-.. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis pas sorti de France depuis. Et ce n'est pas vraiment prévu.
+.. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis presque pas sorti de France depuis. Et ce n'est pas vraiment prévu.
 
 En 2023, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,15 +103,17 @@ En 2023, j'ai joué à ces jeux vidéo…
 - *Xenoblade Chronicles 2* sur Switch, très sympa mais trop longuet et trop pathos sans vraie action. J'ai arrêté avant à la fin.
 - *Pokémon : Ash Gray* sur Game Boy Advance (émulée sur smartphone). C'est une version faite par des fans avec le scénario de l'animé (saison 1, soit Pokémon Jaune mais bien fait), avec les graphismes et fonctionnalitées de Pokémon Rouge Feu / Vert Feuille. Très sympa mais assez dur...!
 - *Xenoblade Chronicles 3* sur Switch, que j'ai commencé en octobre. Très sympa, j'aime bien. J'espère qu'il restera sympa jusqu'au bout ! TL;DR: c'est devenu lassant, très répétitif et les combats sont soit trop facile (en mode facile ou normal) soit quasi impossible pour les boss (en mode difficile).
-- J'ai passé quelques heures sur World of Warcraft (sur Ubuntu Linux !) en attendant de me décider si je prenais un abonnement ou pas... J'ai pas joué énormément, mais un peu sur un `Druide côté Alliance <https://worldofwarcraft.blizzard.com/fr-fr/character/eu/khaz-modan/Nooreen>`_ (voir aussi `ici (Nooreen sur Khaz Modan) <https://www.easyarmory.com/profile/nooreen-khaz%20modan-eu>`_ pour découvrir l'histoire de l'extension actuelle.
+- J'ai passé quelques heures sur World of Warcraft (sur Ubuntu Linux !) en attendant de me décider si je prenais un abonnement ou pas... J'ai pas joué énormément, mais un peu sur un `Druide côté Alliance <https://worldofwarcraft.blizzard.com/fr-fr/character/eu/khaz-modan/Nooreen>`_ (voir aussi `ici (Nooreen sur Khaz Modan) <https://www.easyarmory.com/profile/nooreen-khaz%20modan-eu>`_ pour découvrir l'histoire de l'extension actuelle. Ça m'a vite gavé.
 
 En 2023, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Saison 6 de *Young Sheldon*, et c'est toujours aussi sympa !
 - Saisons 8 et 9 de *The Office* (US), enfin... C'est distrayant mais je regardais en faisant un peu autre chose en même temps évidemment... C'était long mais je tenais à finir.
 - Saison 2 de *The Bad Watch* (Star Wars), toujours aussi géniale ! J'adore cette ambiance de survie face à l'Empire tout juste émergent.
-- TODO: Saison 3 de *The Mandalorian* (Star Wars), à regarder quand ce sera disponible !
-- TODO: Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand ce sera disponible !
+- J'avais commencé la saison 3 de *The Mandalorian* (Star Wars), m'a saoulé, c'est assez naze !
+- TODO: Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand j'aurai le temps !
+- Saison 1 de *Frieren* animé japonais très sympa. En cours !
+- Saison 1 de *The Dragon Prince*, animé nord américain super cool. En cours !
 
 En 2023, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
