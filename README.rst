@@ -1,10 +1,10 @@
 `Lilian Besson <https://bitbucket.org/lbesson/>`__\ ’s Web Pages - using Sphinx
 ===============================================================================
 
-`My web pages <http://perso.crans.org/besson/>`__ are currently
+`My web pages <https://perso.crans.org/besson/>`__ are currently
 generated with `Sphinx Doc <http://sphinx-doc.org>`__ (*v1.6+*).
 
-|Website http://perso.crans.org/besson/| |Made with Python v3.6+| |Made
+|Website https://perso.crans.org/besson/| |Made with Python v3.6+| |Made
 with Sphinx v1.6+|
 
 I have been using `Sphinx <http://sphinx-doc.org>`__ `since
@@ -21,7 +21,7 @@ default theme, and nicer fonts (in Dec 2017).
 Where are those pages ?
 -----------------------
 
-⟹ On http://perso.crans.org/besson/. |Website perso.crans.org|
+⟹ On https://perso.crans.org/besson/. |Website perso.crans.org|
 
 Demos
 -----
@@ -54,7 +54,7 @@ toplevel in my web pages (I know, it’s useless, but so funny !).
 Author
 ~~~~~~
 
-© `Lilian Besson <http://perso.crans.org/besson/>`__,
+© `Lilian Besson <https://perso.crans.org/besson/>`__,
 `2011-2017 <https://bitbucket.org/lbesson/web-sphinx/commits/>`__.
 
 Languages
@@ -68,7 +68,7 @@ Languages
 -  `Javascript <https://en.wikipedia.org/wiki/Javascript>`__ in the
    ```.static/`` <.static/>`__ folder, for some interactive stuff on the
    web-pages. See `this page for some
-   details <http://perso.crans.org/besson/js.html>`__,
+   details <https://perso.crans.org/besson/js.html>`__,
 -  `CSS <https://en.wikipedia.org/wiki/CSS>`__ in the
    ```.static/`` <.static/>`__ folder, for an improved style, based on
    the (old) default Sphinx style,
@@ -120,11 +120,11 @@ This project use the following software:
    them with
    ``sudo pip install ansicolortags sphinx_pyreverse sphinx_git sphinx_tabs``;
 -  *Optional:* GnuPlot (but *not* GNU Octave), only for `these embedded
-   examples <http://perso.crans.org/besson/gnuplot_embed.html>`__;
+   examples <https://perso.crans.org/besson/gnuplot_embed.html>`__;
 -  *Optional:* GraphViz and Dot graph (``dot``), only for `these
-   embedded examples <http://perso.crans.org/besson/graph.fr.html>`__;
+   embedded examples <https://perso.crans.org/besson/graph.fr.html>`__;
 -  *Optional:* Ocaml, only for `these embedded
-   examples <http://perso.crans.org/besson/runblock.en.html#adding-support-for-another-language-ocaml>`__.
+   examples <https://perso.crans.org/besson/runblock.en.html#adding-support-for-another-language-ocaml>`__.
 
 To install all these dependencies, use `brew <https://brew.sh/>`__ on
 Mac OS, or your package manager on Linux/UNIX.
@@ -134,8 +134,8 @@ License |GPLv3 license|
 
 This project is released under the **GPLv3 license**, for more details,
 take a look at the `LICENSE
-file <http://perso.crans.org/besson/LICENSE.html>`__ in the source. ©
-Lilian Besson, 2012-2021.
+file <https://perso.crans.org/besson/LICENSE.html>`__ in the source. ©
+Lilian Besson, 2012-2024.
 
 *Basically, that allows you to use all or part of the project for you own business.*
 
@@ -144,8 +144,8 @@ Lilian Besson, 2012-2021.
 |ForTheBadge uses-badges| |ForTheBadge uses-git| |ForTheBadge uses-html|
 |ForTheBadge uses-css| |ForTheBadge uses-js|
 
-.. |Website http://perso.crans.org/besson/| image:: https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg
-   :target: http://perso.crans.org/besson/
+.. |Website https://perso.crans.org/besson/| image:: https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg
+   :target: https://perso.crans.org/besson/
 .. |Made with Python v3.6+| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
    :target: https://www.python.org/
 .. |Made with Sphinx v1.6+| image:: https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg
@@ -155,13 +155,13 @@ Lilian Besson, 2012-2021.
 .. |Ask Me Anything!| image:: https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
    :target: https://bitbucket.org/lbesson/ama
 .. |Website perso.crans.org| image:: https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg
-   :target: http://perso.crans.org/
+   :target: https://perso.crans.org/
 .. |Screenshot demo of my web pages in English (1/2)| image:: demo_en.png
 .. |Screenshot demo of my web pages in French (2/2)| image:: demo_fr.png
 .. |PyPI pyversions| image:: https://img.shields.io/pypi/pyversions/ansicolortags.svg
    :target: https://pypi.python.org/pypi/ansicolortags/
 .. |GPLv3 license| image:: https://img.shields.io/badge/License-GPLv3-blue.svg
-   :target: http://perso.crans.org/besson/LICENSE.html
+   :target: https://perso.crans.org/besson/LICENSE.html
 .. |ForTheBadge built-with-love| image:: http://ForTheBadge.com/images/badges/built-with-love.svg
    :target: https://bitbucket.org/lbesson/web-sphinx/commits/
 .. |Analytics| image:: https://ga-beacon.appspot.com/UA-38514290-17/bitbucket.org/lbesson/web-sphinx/README.md?pixel

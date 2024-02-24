@@ -29,7 +29,7 @@ De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunicati
    <abbr title="L'ENS de Rennes est une « Grande École » près de Rennes, spécialisée dans la formation de chercheur-se-s et professeurs du secondaire et du supérieur, anciennement appelée Antenne de Bretagne de l'ENS de Cachan"><a href='http://www.ens-rennes.fr/'>l'ENS de Rennes</a></abbr>
 
 
-- Depuis août 2019, je suis désormais un `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ac-nice.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ac-nice.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
+- D'août 2019 à septembre 2021, j'étais `jeune professeur agrégé (avec un statut d'agrégé préparateur) <http://www.dit.ens-rennes.fr/lilian-besson--292020.kjsp>`_ à `l'ENS Rennes <http://www.dit.ens-rennes.fr/>`_, en charge de la préparation à l'agrégation de mathématiques, option informatique (au niveau M2), et en charge de cours pour `l'introduction à l'algorithmique et algorithmique avancée <https://perso.crans.org/besson/info1_algo1_2019/>`_, et `d'autres enseignements <enseignements.fr.html>`_.
 
 - En février 2021, je me suis amusé à ajouter ces applications là sur mon site, pour pouvoir écrire des petits codes, donner des rapides explications sans rien avoir à installer sur son ordinateur : `ocaml.besson.link <http://ocaml.besson.link>`_ pour OCaml 4.08, `jscpp.besson.link <http://jscpp.besson.link>`_ pour C/C++, `python.besson.link <http://python.besson.link>`_  et `notebook.besson.link <http://notebook.besson.link>`_ pour Python 3.8, `turing.besson.link <http://turing.besson.link>`_ pour des machines de Turing, et `tableaunoir.besson.link <http://tableaunoir.besson.link>`_ pour un tableau noir interactif et super fonctionnel ! Note : je n'ai pas développé moi-même ces applications, elles sont toutes libres sous licence MIT ou GPLv3.
 
@@ -37,13 +37,13 @@ De 2016 à 2019, j'ai `travaillé sur ma thèse de doctorat en Télécommunicati
 
 .. youtube:: zleSzn76FMs
 
-- Je suis également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ de l'IRISA à Rennes. Mes intérêts de recherche se situent en innovation technologique pour l'enseignement, sur le développement OCaml et Python, les logiciels libres et l'apprentissage machine en général, et d'autres directions.
+- J'étais également chercheur associé au sein de `l'équipe PANAMA <https://team.inria.fr/panama/>`_ de l'IRISA à Rennes. Mes intérêts de recherche se situent en innovation technologique pour l'enseignement, sur le développement OCaml et Python, les logiciels libres et l'apprentissage machine en général, et d'autres directions.
 
 
 Entre septembre 2016 et août 2019 :
 
 - Je faisais `ma thèse de doctorat <phd/>`_, à CentraleSupélec (`équipe SCEE <http://www-scee.rennes.supelec.fr/wp/>`_, `labo IETR <https://www.ietr.fr/spip.php?auteur1069>`_) à Rennes (France), avec `Christophe Moy <http://www.rennes.supelec.fr/ren/perso/cmoy/recherche.php>`_ et `Emilie Kaufmann <http://chercheurs.lille.inria.fr/ekaufman/research.html>`_ (`équipe SequeL, labo CRIStAL, à Lille <https://team.inria.fr/sequel/team-members/>`_). Ma thèse portait sur les modèles multi-joueurs de bandits multi-bras (notamment), appliqués à des problèmes de radio-télécommunications, en particulier aux I-o-T (Internet des Objets). Je suis désormais docteur en télécommunications. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
-- Et `j'enseignais <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ac-nice.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
+- Et `j'enseignais <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
 .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_. Je la mettais à jour deux fois par semaine (à partir du 13/03/2020) mais désormais les mises à jour sont moins fréquentes.
@@ -53,7 +53,7 @@ Entre septembre 2016 et août 2019 :
 
 `Adresses de contact <callme.fr.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-N'hésitez pas à me *contacter* par email à mailto:Lilian.Besson＠ac-nice [.] fr ou  mailto:Lilian.Besson＠crans [.] org.
+N'hésitez pas à me *contacter* par email à mailto:Lilian.Besson＠ac-strasbourg [.] fr ou  mailto:Lilian.Besson＠crans [.] org.
 
 .. image:: .telephone.png
     :scale: 40 %
@@ -67,8 +67,8 @@ N'hésitez pas à me *contacter* par email à mailto:Lilian.Besson＠ac-nice [.]
 
 ------------------------------------------------------------------------------
 
-Les trois dernières années (2016-19)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+En *2016-19*
+^^^^^^^^^^^^
 * J'effectuais ma thèse de doctorat. Lisez `cette page là <https://perso.crans.org/besson/me/index.fr.html>`_ pour plus de détails. Je suis désormais docteur en télécommunication. Le manuscrit est `ici <https://perso.crans.org/besson/articles/PhD_thesis__Lilian_Besson.pdf>`_ et les planches de ma défense sont `là <https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf>`_.
 
 En *2015-16*
@@ -209,4 +209,4 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    a-faire-avant-30-ans
 
 
-.. (c) Lilian Besson, 2011-2023, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/

@@ -49,7 +49,7 @@ Je suis fan d'Ubuntu depuis 2012. Cette distribution GNU/Linux grand public comb
 
 **Inconvénients** :
 
-- Même si Steam et quelques jeux vidéo sont disponibles nativement sous GNU/Linux, la plupart ne le sont pas. Je n'ai pas réessayé Wine ou PlayOnLinux depuis très longtemps (2012 ?), mais en attendant de le faire, cela limite le nombre de jeux vidéos disponibles sous Ubuntu... (*The Witcher 2* en fait partie et `j'espère y jouer en 2021 <resume-de-mon-annee-2021.html#en-2021-j-ai-joue-a-ces-jeux-video>`_).
+- Même si Steam et quelques jeux vidéo sont disponibles nativement sous GNU/Linux, la plupart ne le sont pas. J'ai réessayé Wine (mais pas PlayOnLinux) en novembre 2023, avec Lutris, et ça marche du tonnerre ! J'ai pu jouer à World of Warcraft sur Linux ! Sans utiliser ces outils là, cela limite le nombre de jeux vidéos disponibles sous Ubuntu... (*The Witcher 2* en fait partie et `j'espère y jouer en 2021 <resume-de-mon-annee-2021.html#en-2021-j-ai-joue-a-ces-jeux-video>`_).
 - A part ça... je ne vois pas d'inconvénient !
 
 
@@ -57,7 +57,7 @@ Internet
 ~~~~~~~~
 - **Navigateur web** : **Mozilla Firefox** (voir `mes extensions favorites <firefox-extensions.fr.html>`_ et trucs et astuces) ;
 
-- Second navigateur web : **Google Chromium**. Très pratique d'en avoir un deuxième, sans aucune extension et sans aucune connexion à aucun site web, pour facilement tester une nouvelle page web que l'on vient de créer. En 2021, si une page web s'affiche bien sur Firefox *et* sur Chromium, elle est bien accessible à plus de 90% des visiteurs sur ordinateur.
+- Second navigateur web : **Google Chromium**. Très pratique d'en avoir un deuxième, sans aucune extension et sans aucune connexion à aucun site web, pour facilement tester une nouvelle page web que l'on vient de créer. En 2021, si une page web s'affiche bien sur Firefox *et* sur Chromium, elle est bien accessible à plus de 99% des visiteurs sur ordinateur.
 
 - Gestionnaire de téléchargement : rien, je ne pirate pas ! C'est terminé l'époque des eMule et autres trucs P2P...
 
@@ -66,7 +66,7 @@ Messagerie
 ~~~~~~~~~~
 
 - **Client email** : **Mozilla Thunderbird** ;
-- **Client RSS/ATOM** : **Mozilla Thunderbird**. `Voir la liste de blogs que je lis <blog-roll.fr.html>`_. J'utilise encore RSS ! (comme `ce gars <https://atthis.link/blog/2021/rss.html>`_).
+- **Client RSS/ATOM** : **Mozilla Thunderbird**. `Voir la liste de blogs que je lis <blog-roll.fr.html>`_ (note : j'ai 7500 articles de retard, je ne lis plus ces blogs là depuis la fin de ma thèse, je n'ai plus le temps). J'utilise encore RSS ! (comme `ce gars <https://atthis.link/blog/2021/rss.html>`_).
 
 Autres messageries :
 
@@ -122,7 +122,7 @@ Terminal
 .. note:: Alternative à GNU Bash ?
 
     - S'il fallait changer de shell, je choisirai sans hésiter `Fish Shell <https://fishshell.com/>`_ qui est très puissant et bien plus propre, plus moderne. Voir `cette page <https://hyperpolyglot.org/unix-shells>`_ pour des comparaisons.
-    - J'utilise GNU Bash version 4. J'aimerai bien changer, mais j'ai écrit des centaines de script et des milliers d'alias, de commandes diverses et variées, et je n'ai ni le temps ni le courage de réécrire ça en Fish... Voir `ce dépôt (bin/) <https://bitbucket.org/lbesson/bin/>`_ et `cette page pour un aperçu <bin.fr.html>`_.
+    - J'utilise GNU Bash (version 5). J'aimerai bien changer vers Fish, mais j'ai écrit des centaines de script et des milliers d'alias, de commandes diverses et variées, et je n'ai ni le temps ni le courage de réécrire ça en Fish... Voir `ce dépôt (bin/) <https://bitbucket.org/lbesson/bin/>`_ et `cette page pour un aperçu <bin.fr.html>`_.
 
 .. note:: Ma seule raison d'être jaloux de Mac OS X
 
@@ -151,7 +151,7 @@ Gestionnaire de version
 
     - en ligne de commande, avec des alias expliqués dans `<tutogit.fr.html>`_, quasiment tout le temps. Je sais que ce n'est pas le plus rapide ou le plus "user friendly", mais j'ai juste trop l'habitude. Et mes alias font une lettre : ``a file.txt`` pour ``git add``, ``c "Done"`` pour ``git commit -m "Done"``, ``p`` ou ``v`` pour ``git push`` et ``git pull``, etc ;
     - graphiquement depuis `VSCode`_ très souvent aussi ;
-    - des fois avec `Git Kraken <https://www.gitkraken.com/>`_ qui est l'interface graphique moderne la plus puissante et jolie que je connaisse, et que je recommande.
+    - (plus maintenant) on peut aussi noter `Git Kraken <https://www.gitkraken.com/>`_ qui est l'interface graphique moderne la plus puissante et jolie que je connaisse, et que je recommande si vous avez besoin de ça.
 
 - J'ai utilisé **SVN** avec `ce projet (teachensren) <https://gforge.inria.fr/projects/teachensren>`_ pendant 5 ans à l'ENS Rennes, et j'aime pas. Vraiment, j'arrive pas à voir l'intérêt, comparé à Git. Ça tombe bien, c'est moins utilisé désormais.
 
@@ -182,9 +182,9 @@ Lecture et édition de PDF
 Édition d'images et de photos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *GIMP* : pour des petits choses sur des images, graphiquement ;
-- *imagemagick* : pareil, mais en lignes de commande !
-- *Inkscape*, un peu ;
+- **GIMP** : pour des petits choses sur des images, graphiquement ;
+- **imagemagick** : pareil, mais en lignes de commande !
+- **Inkscape**, un peu ;
 
 Créer des documents pédagogiques
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -267,7 +267,7 @@ Autres logiciels
     + `rip-grep <https://github.com/BurntSushi/ripgrep>`_ comme alternative moderne à ``grep``, ``find`` et ``ls`` pour trouver et manipuler des fichiers ;
     + quand nécessaire, ``tr``, ``sort``, ``tail``/``head``, ``shuf``, ``cut`` pour manipuler des flux de textes ;
     + et un peu de ``sed`` (j'adore) et ``awk`` aussi (mais je connais pas bien awk) ;
-    + `yt-dl <https://yt-dl.org/>`_ et des scripts maisons pour télécharger des chansons, `playlists <https://bitbucket.org/lbesson/bin/src/master/youtube-playlist.sh>`_ et `albums <https://bitbucket.org/lbesson/bin/src/master/youtube-album.sh>`_ depuis `YouTube <https://www.YouTube.com>`_ ;
+    + `yt-dl <https://yt-dl.org/>`_ et maintenant son remplaçant `yt-dlp <https://github.com/yt-dlp/yt-dlp>`_, et des scripts maisons pour télécharger des chansons, `playlists <https://bitbucket.org/lbesson/bin/src/master/youtube-playlist.sh>`_ et `albums <https://bitbucket.org/lbesson/bin/src/master/youtube-album.sh>`_ depuis `YouTube <https://www.YouTube.com>`_ ;
     + et ces sites magnifiques : `ExplainShell.com <https://explainshell.com/>`_ pour l'aide, `wttr.in <http://wttr.in/>`_ pour la météo, `Wolfram|Alpha en mode texte <wolfram.fr.html>`_ c'est drôle et pratique ;
 
 - **Licence libre ?**
@@ -279,13 +279,12 @@ Autres logiciels
     + `Il faut choisir une licence, sinon tout est fermé <https://choosealicense.com/no-permission/>`_ et même si votre code est accessible en ligne, il reste sous votre copyright !
     + `Ça reste <https://en.wikipedia.org/wiki/Free-software_license>`_ `compliqué <https://en.wikipedia.org/wiki/List_of_free-content_licences>`_, et `il y a beaucoup de licences <https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences>`_.
 
-- TODO continuer, quand j'aurai des idées.
-
 - Jeux vidéos sous Ubuntu :
     + **Pictionnary** : `un tableaunoir partagé <http://tableaunoir.irisa.fr/>`_ + `mon appli minimaliste pour générer un mot aléatoire <https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html>`_ ;
     + **Clone de Zelda 2D** : `Solarus Games <https://www.solarus-games.org/>`_ (moteur en C++, jeux en Lua, open source !) ;
     + **Clones de Fire Emblem 2D** : `Lex Talionis <https://gitlab.com/rainlash/lex-talionis/>`_ (moteur en Python, jeux en XML/text et Python, open source !) ;
     + **Steam** : `disponible sous Linux <https://store.steampowered.com/linux>`_ depuis quelques années !
+    + **Lutris.net** : disponible sous Linux, amène plein de jeux vidéos, par exemple les jeux vidéos de Blizzard (WOW etc).
 
 
 Logiciels en lignes
