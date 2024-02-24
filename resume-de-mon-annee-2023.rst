@@ -107,11 +107,10 @@ En 2023, j'ai joué à ces jeux vidéo…
 
 En 2023, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Saison 6 de *Young Sheldon*, et c'est toujours aussi sympa !
+- Saison 6 de *Young Sheldon*, et c'est toujours aussi sympa ! C'est la dernière saison apparemment, dommage.
 - Saisons 8 et 9 de *The Office* (US), enfin... C'est distrayant mais je regardais en faisant un peu autre chose en même temps évidemment... C'était long mais je tenais à finir.
 - Saison 2 de *The Bad Watch* (Star Wars), toujours aussi géniale ! J'adore cette ambiance de survie face à l'Empire tout juste émergent.
-- J'avais commencé la saison 3 de *The Mandalorian* (Star Wars), m'a saoulé, c'est assez naze !
-- TODO: Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand j'aurai le temps !
+- J'avais commencé la saison 3 de *The Mandalorian* (Star Wars), mais ça m'a saoulé, c'est assez naze !
 - Saison 1 de *Frieren* animé japonais très sympa. En cours !
 - Saison 1 de *The Dragon Prince*, animé nord américain super cool. En cours !
 
@@ -120,7 +119,7 @@ En 2023, j'ai lu ces livres…
 .. note:: J'ai toujours adoré lire des livres de fiction pour le plaisir (voir `mon top10 <top10.fr.html#mes-10-ecrivains-preferes>`_), mais en ce moment, cela m'a passé, j'ai plutôt envie de lire des livres techniques. Mais si vous avez des bonnes suggestions, je suis preneur !
 
 - *Je ne mourrai pas aujourd'hui*, de Néhel aux éditions `Hello Editions <http://www.helloeditions.fr/>`_ (voir `cette page web pour le commander <https://www.helloeditions.fr/article/je-ne-mourrai-pas-aujourdhui/>`_).
-- *What If 2*, la suite de *What If*, par l'auteur de `<https://www.XKCD.com/>`_ (voir `cette page là pour le commander <https://xkcd.com/what-if-2/>`_).
+- *What If 2*, la suite de *What If*, par l'auteur de `XKCD <https://www.XKCD.com/>`_ (voir `cette page là pour le commander <https://xkcd.com/what-if-2/>`_).
 - Recueil de nouvelles, *Les meilleurs récits de Weird Tales*, volume 1 et 2.
 - Et d'autres que j'ai peut-être oublié de noter…
 

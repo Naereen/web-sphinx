@@ -20,7 +20,7 @@ Janvier 2024
 - J'ai eu 31 ans, j'ai d'abord célébré ça chez moi à Briançon avec ma famille, c'était cool.
 - J'ai aussi pu fêter ça avec une amie proche (à Strasbourg), c'était très chouette ! Elle m'a offert mes premiers decks du Jeu de Cartes à Jouer et à Collectionner (JCC/TCG) *KeyForge*, j'aime beaucoup !
 - J'ai beaucoup joué à *Magic: The Gathering*, en papier désormais à Strasbourg.
-- Ah et j'ai aussi arbitré un tournoi en Duel Commander, organisé par `Magic Knight Fr (voir leur premier replay YouTube) <https://www.youtube.com/watch?v=TkNBDfd5Q-8>`_, au Ancrage Café à Strasbourg.
+- Ah et j'ai aussi arbitré un tournoi en Duel Commander, organisé par `Magic Knight Fr (voir leur premier replay YouTube) <https://www.youtube.com/watch?v=TkNBDfd5Q-8>`_, au Ancrage Café à Strasbourg. J'en ai géré un deuxième le 22 février.
 
 Février 2024
 ------------
@@ -34,9 +34,9 @@ Février 2024
 
 Mars 2024
 ---------
-- J'arbitrerais un relativement "gros" tournoi de Magic à Strasbourg, au format Duel Commander, encore à Ancrage Café. 40 joueurs, récompenses assez conséquentes (un biland pour le premier !).
 - Visite et première rencontre avec mon neveu !
-- Visite à des ami-e-s proches vivant à Caen qui ont eu un bébé en janvier !
+- Visite à des ami-e-s proches vivant à Caen, qui ont eu un bébé en janvier !
+- J'arbitrerais un relativement "gros" tournoi de Magic à Strasbourg, au format Duel Commander, encore à Ancrage Café. 40 joueurs, récompenses assez conséquentes (un biland pour le premier !).
 
 Avril 2024
 ----------
@@ -92,9 +92,9 @@ En 2024, j'ai joué à ces jeux vidéo…
 
 En 2024, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- TODO: Saison 1 de *Ashoka Tano* (Star Wars), à regarder quand j'aurai le temps !
+- TODO: Saison 1 de *Ashoka Tano* (Star Wars), j'ai commencé fin février, ça semble correct. À regarder quand j'aurai le temps !
 - Saison 1 de *Frieren* animé japonais très sympa. En cours !
-- Saison 1 de *The Dragon Prince*, animé nord américain super cool. En cours !
+- Saison 1 de *The Dragon Prince*, animé nord américain super cool. Saison 2 pas encore commencée, bientôt !
 
 En 2024, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,6 +109,7 @@ En 2024, j'ai vu ces films…
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
 - *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de Your Name, Les Enfants du Temps et d'autres) ;
+- J'ai revu avec grand plaisir *La Vie Rêvée de Walter Mitty*, un superbe film de voyage et d'aventures ;
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/
