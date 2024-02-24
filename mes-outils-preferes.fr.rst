@@ -6,7 +6,7 @@
  Mes outils et logiciels informatique préférés, discussions et mes recommandations
 ###################################################################################
 
-Ce article (trop long) liste quelques outils que j'aime utiliser sur mes ordinateurs.
+Cet article (trop long) liste quelques outils que j'aime utiliser sur mes ordinateurs.
 
 .. todo:: Ajouter les liens web partout, quand la liste sera terminée.
 .. todo:: Translate to `<mes-outils-preferes.en.html>`_ and `<my-favorite-tools.en.html>`_, when the page will be finished!
