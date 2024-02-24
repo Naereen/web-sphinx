@@ -181,7 +181,7 @@ master_doc = 'index.fr'
 # General information about the project.
 author = u'Lilian Besson'
 project = u'Lilian Besson on the web'
-copyright = u'2011-2021, ' + author
+copyright = u'2011-2024, ' + author
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

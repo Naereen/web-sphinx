@@ -9,7 +9,7 @@
 Cette page explique ma petite expérience dans le monde de l'arbitrage du jeu *Magic: the Gathering*.
 Je suis un joueur passionné depuis longtemps, et arbitre L1 depuis décembre 2023, actif à Strasbourg et aux alentours quand j'ai le temps.
 
-> Date : février 2024. Si besoin, `envoyez moi <callme.fr.html>`_ vos suggestions ?
+.. note:: Date : février 2024. Si besoin, `envoyez moi <callme.fr.html>`_ vos suggestions ?
 
 --------------------------------------------------------------------------------------------------------------------------
 

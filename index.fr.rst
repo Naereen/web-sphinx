@@ -154,6 +154,7 @@ Pour plus de détails, voir `<sitemap.fr.html>`_.
    twitch.fr
    pokemon.fr
    star-wars.fr
+   magic-judge.fr
    latexonwindows.fr
    zotero.fr
    opendns.fr
