@@ -6,6 +6,7 @@
  Informations sur ma clé publique **PGP**
 ##########################################
 
+.. warning:: Je n'utilise plus vraiment ma clé PGP, mais ces informations peuvent être encore utiles (peut-être ?).
 
 Qu'est-ce ?
 -----------

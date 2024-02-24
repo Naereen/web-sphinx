@@ -6,6 +6,7 @@
  Information on my **PGP** public key
 ######################################
 
+.. warning:: I no longer use my PGP key, but these informations might still be useful.
 
 What is this about?
 -------------------
