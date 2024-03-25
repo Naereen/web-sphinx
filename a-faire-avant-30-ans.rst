@@ -169,6 +169,7 @@ Social hacking
 ^^^^^^^^^^^^^^
 - Essayer de faire du gentil "social hacking" envers mes failles de sécurité (personnelles hein, évidemment !)... A savoir, les banques, fournisseurs (gaz, eau, électricité, téléphone, Internet, etc.), assurances et mutuelles, dons aux associations, employeurs, etc. ;
 - L'idée de base ? J'appelle EDF avec un 07xyzwtruc (qui n'est même pas mon numéro), je me présente en donnant nom et adresse, mais rien d'autre. J'essaie d'obtenir mon mail ou identifiant, ou des détails privés. Si aucune vérification n'est faite sur mon identité, il y a faille de sécurité !
+
 .. - Dès que j'arrive à obtenir une info par un simple appel, gronder les gens et réagir, et réessayer un mois plus tard, et faire un "début de scandale" si la faille est toujours là !
 .. - Si ça marche pour moi, trouver un-e ami-e volontaire pour que je tente pareil avec elle ou lui ?
 

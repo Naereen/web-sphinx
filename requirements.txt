@@ -4,9 +4,9 @@ ansicolortags
 sphinx_pyreverse
 sphinx_git
 sphinx_tabs
-#sphinxcontrib-autorun
+sphinxcontrib-autorun
 #sphinxcontrib-bitbucket
-#sphinxcontrib-cheeseshop
+sphinxcontrib-cheeseshop
 #sphinxcontrib-gnuplot
-#sphinxcontrib-youtube
+sphinxcontrib-youtube
 sphinx-copybutton

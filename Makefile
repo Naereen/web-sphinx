@@ -8,7 +8,8 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -v -j 1 -w /tmp/sphinx.log
-SPHINXBUILD   = /usr/local/bin/sphinx-build
+#SPHINXBUILD   = /usr/local/bin/sphinx-build
+SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = .build
 
@@ -228,7 +229,7 @@ hieroglyph:
 	@echo "Build finished. The HTML slides are in $(BUILDDIR)/slides."
 
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
+	. ./venv/bin/activate && $(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html 2>&1
 	-rm -f $(BUILDDIR)/html/.javascript.html $(BUILDDIR)/html/.special.html $(BUILDDIR)/html/whatsnew.fr.html $(BUILDDIR)/html/whatsnew.en.html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."

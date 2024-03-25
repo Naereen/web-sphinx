@@ -64,7 +64,7 @@ extensions = [
     ####### From https://bitbucket.org/birkenfeld/sphinx-contrib
     # 'sphinxcontrib.cheeseshop',
     #############################'sphinxcontrib.gnuplot', # FIXED: https://bitbucket.org/birkenfeld/sphinx-contrib/issue/59/gnuplot-failed-after-upgrade-to-sphinx-121
-    'sphinxcontrib.autorun',
+    # 'sphinxcontrib.autorun',
     ######## Sphinx Spelling https://sphinxcontrib-spelling.readthedocs.io/en/latest/install.html
     # 'sphinxcontrib.spelling',
     ####### From reportLab

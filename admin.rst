@@ -1,1 +1,0 @@
-/home/lilian/admin.rst
