@@ -6,6 +6,8 @@
  Testing the ``autorun`` Sphinx extension
 ##########################################
 
+.. todo:: This `autorun (runblock) Sphinx extension <https://github.com/sphinx-contrib/autorun>`_ seems to be broken with the most recent versions of Sphinx. It is 12/15 years old... I don't have time to fix it, or try `runcmd <https://github.com/sphinx-contrib/sphinxcontrib-runcmd>`_.
+
 In this page, I am testing an "experimental" feature of `Sphinx <http://www.sphinx-doc.org/en/stable/>`_,
 the `autorun extension <https://pypi.org/project/sphinxcontrib-autorun/>`_, which provides a ``.. runblock::`` directive,
 to execute arbitrary code when generating a Sphinx-powered web-page.

@@ -41,9 +41,11 @@ Par exemple, mon fichier de configuration pour Bash, `.bashrc <bin/.bashrc>`_, a
 Avec l'extension ``sphinx.ext.runblock``, il est possible d'embarquer dans cette page web
 la commande qui permet de créer cette signature numérique (et sa sortie) :
 
- .. runblock:: console
+.. todo:: Fix these runblock blocks? I don't know how to.
 
-    $ gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
+.. runblock:: console
+
+   $ gpg --detach-sign --armor --quiet -o - /home/lilian/.bashrc
 
 
 Comment utiliser ces fichiers **.asc** ?

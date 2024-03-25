@@ -214,6 +214,7 @@ exclude_patterns = [
     'whatsnew.fr.rst', 'whatsnew.en.rst',  # Special files to not include
     'pokedex-doc',  # Old stuff
     # 'agreg-2014'    # New stuff
+    'venv',
 ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.

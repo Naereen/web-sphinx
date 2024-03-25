@@ -34,7 +34,7 @@ Adresse de contact
 ------------------
  * :Prénom: **Lilian**
  * :Nom: **Besson**
- * :Courriel: `Lilian[.]Besson[@]CentraleSupelec[.]fr <mailto:Lilian[.]Besson[@]CentraleSupelec[.]fr>`_ (retirez les crochets)
+ * :Courriel: `Lilian[.]Besson[@]CRANS[.]org <mailto:Lilian[.]Besson[@]CRANS[.]org>`_ (retirez les crochets)
  * `Adresse postale <https://www.openstreetmap.org/?mlat=48.12572&mlon=-1.62307#map=17/48.12572/-1.62307>`_ ::
 
        Mr Lilian Besson,
