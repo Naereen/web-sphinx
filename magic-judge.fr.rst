@@ -1,6 +1,6 @@
 .. meta::
    :description lang=fr: Mes expériences d'arbitrage à Magic: the Gathering
-   :description lang=en: My experiences as a Magic: the Gathering judge
+   :description lang=en: My experiences as a (novice) Magic: the Gathering judge
 
 ####################################################
  Mes expériences d'arbitrage à Magic: the Gathering
@@ -9,7 +9,7 @@
 Cette page explique ma petite expérience dans le monde de l'arbitrage du jeu *Magic: the Gathering*.
 Je suis un joueur passionné depuis longtemps, et arbitre L1 depuis décembre 2023, actif à Strasbourg et aux alentours quand j'ai le temps.
 
-.. note:: Date : février 2024. Si besoin, `envoyez moi <callme.fr.html>`_ vos suggestions ?
+.. note:: Date : mars 2024. Si besoin, `envoyez moi <callme.fr.html>`_ vos suggestions ?
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ En Terminale, je ne me déplaçais plus hors de Briançon (trop de travail) mais
 Entre mon bac et ma prise de poste en CPGE (2009-2021)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Une très longue pause, motivée par l'ambition d'études réussies et le fait que je savais bien à quel point Magic peut être un loisir très prenant, en termes de temps, d'argent et d'énergie mentale.
+Une *très longue* pause, motivée par l'ambition d'études réussies et le fait que je savais bien à quel point Magic peut être un loisir très prenant, en termes de temps, d'argent et d'énergie mentale.
 A posteriori, je ne regrette pas d'avoir pris une pause si longue. J'ai depuis largement rattrapé ce que j'ai raté, que ce soit sur le lore (l'histoire dans le jeu Magic), les changements de règles ou simplement les cartes sorties depuis.
 
 Je me souviens avoir touché avec nostalgie des decks ou des cartes d'AP qui traînaient à la "Med" à l'ENS Cachan, en 2011 ou 2012, et idem au laboratoire de l'Inria Lille en 2018 ou 2019.
@@ -78,11 +78,11 @@ En 2023
 En 2024
 *******
 
-- Toujours pareil pour des soirées le mardi soir à Baraka Jeux, le mercredi soir au Malleus Malleficarum et le vendredi soir à Vent Divin. Je joue alternativement aux formats Pioneer (je joue *Boros Convoke*), Modern (je joue surtout *Hammer Time* monoW, des fois *Death & Taxes*, des fois *Burn monoR*), Legacy (je joue *Death & Taxes monoW 80 cartes avec Yorion*), Commander multi (surtout `ce deck Doran en Abzan WBG <https://www.moxfield.com/decks/BefQU6iGdEqnktAv1gXFng>`_), des fois en Commander duel (avec `ce deck Svelte-Patte <https://www.moxfield.com/decks/eqTujigV80mzasL_U0BO2g>`_ ou `Octavia <https://www.moxfield.com/decks/CYLMzt4aukGk7FYROTs8pA>`_, et avant c'était Giada anges monoW).
+- Toujours pareil pour des soirées le mardi soir à Baraka Jeux, le mercredi soir au Malleus Malleficarum et le vendredi soir à Vent Divin. Je joue alternativement aux formats Pioneer (je joue *Boros Convoke*), Modern (je joue surtout *Hammer Time* monoW, des fois *Death & Taxes*, des fois *Burn monoR*), Legacy (je joue *Death & Taxes monoW 80 cartes avec Yorion*), Commander multi (surtout `ce deck Doran en Abzan WBG <https://www.moxfield.com/decks/BefQU6iGdEqnktAv1gXFng>`_, un deck mono-vert Elfe, un deck Selesnya tribal chats), des fois en Commander duel (avec `ce deck Svelte-Patte <https://www.moxfield.com/decks/eqTujigV80mzasL_U0BO2g>`_ ou `Octavia <https://www.moxfield.com/decks/CYLMzt4aukGk7FYROTs8pA>`_, et avant c'était Giada anges monoW).
 - Toujours des avant-premières pour chaque nouvelle extension. En février c'était *Murders at Karlov Manor*, j'ai fait un troll à deux têtes avec un collègue et ami, et une AP seul.
 
 - Avec des copains nous organisons une après-midi ou soirée au format *Pauper* chaque mois, à `Vent Divin`_ ou au Malleus.
-- On a aussi aidé à relancer les tournois Legacy, en organisant notamment un Open Proxies à Baraka Jeux début mars 2024, pour inciter des gens n'ayant pas de decks Legacy compétitifs à venir essayer !
+- On a aussi aidé à relancer les tournois Legacy, en organisant notamment un *Open Proxies* à Baraka Jeux début mars 2024, pour inciter des gens n'ayant pas de decks Legacy compétitifs à venir essayer !
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -93,10 +93,11 @@ Avant mon premier tournoi en février 2006, je ne savais même pas qu'il y avait
 
 Même avec des tournois et par exemple un weekend passé aux Worlds à Paris en 2006, avant 2009, le monde de l'arbitrage était mystérieux pour moi. Déjà, on était pas 100% au point sur les règles, alors l'arbitrage c'était un monde inenvisageable !
 
-Un de mes amis joueurs de Magic à Briançon, avec qui j'avais fait pas mal de tournois (Junior Series aux Worlds à Paris en 2006, Championnat Régional PACA à Cannes en 2007, des AP à Grenoble, et deux PTQ à Bourgoin-Jallieu et PTQ à Toulouse en 2007/2008) était devenu arbitre L1 en 2008 je crois. Je crois même qu'il était proche du L2, mais nous avons perdu contact depuis.
+Un de mes amis joueurs de Magic à Briançon, avec qui j'avais fait pas mal de tournois (Junior Series aux Worlds à Paris en 2006, Championnat Régional PACA à Cannes en 2007, des AP à Grenoble, et deux PTQ à Bourgoin-Jallieu et à Toulouse en 2007/2008) était devenu arbitre L1 en 2008 je crois. Je crois même qu'il était proche du L2, mais nous avons perdu contact depuis.
 
 En 2023
 ~~~~~~~
+
 Durant l'été 2023, j'ai suivi tous les cours en ligne de la `Judge Academy <https://www.JudgeAcademy.com/>`_, ceux qui sont accessibles aux arbitres pas encore niveau 1.
 
 J'ai passé l'examen de "Rules Advisor" fin août 2023, et je l'ai eu. J'étais donc « niveau 1/2 » (L0.5).
@@ -105,7 +106,7 @@ J'ai passé beaaaucoup de temps sur `RulesGuru <https://RulesGuru.net/>`_, à m'
 - Arbitre L0.5 assistant sur le *Legendary Tournament Commander* (LTC) #6 à Olhungen au nord de Strasbourg, le dimanche 15 octobre 2023. 57 joueurs au format Duel Commander, 6 rondes plus top 8. Supervisé par *Quentin B*.
 - Arbitre L0.5 assistant sur le *Dooz Tournament* (Vanaheim) #3 au Malleus Malleficarum à Strasbourg, le dimanche 26 novembre 2023. Deux événements en parallèle : 30 joueurs au format Modern, 5 rondes plus top 8, et 24 joueurs au format Duel Commander, 5 rondes sans top 8. Supervisé par *Cyril G*.
 
-Fin décembre 2023, j'avais finalement reçu ma recommandation sur le site de `Judge Academy`_, qui est nécessaire pour passer l'examen final de niveau 1. Je l'ai passé et je l'ai eu. J'étais donc « niveau 1 » (L1).
+Fin décembre 2023, j'avais finalement reçu ma recommandation sur le site de `Judge Academy`_, qui est nécessaire pour passer l'examen final de niveau 1. Je l'ai passé et je l'ai eu. J'étais donc « niveau 1 » (L1). Mon `profil Judge Academy public est là <https://judgeacademy.com/user/profile/naereen/>`_.
 
 Je suis désormais aussi abonné à la chaîne YouTube `Judging for the Win <https://www.youtube.com/@JudgingFtW>`_, que je regarde chaque jour ou presque. J'ai regardé et étudié des centaines de ses vidéos passées.
 
@@ -119,17 +120,20 @@ Je traduis désormais toutes les deux semaines un tier d'un article, environ 3/4
 - Responsable règle (mais pas organisation) pour une avant-première (*Meurtres au Manoir Karlov*) à la boutique `Vent Divin <https://www.VentDivin.com/>`_ à Strasbourg, le samedi 3 février 2024. 23 joueurs, 5 rondes.
 - En charge d'un autre tournoi au format Duel Commander, à Ancrage Café, un jeudi soir fin février 2024. 17 joueurs, 4 rondes.
 
-.. todo:: C'est dans le futur !
+- Début mars 2024 j'ai suivi les cours de niveau L1 (mais pas en vue de passer le L2) sur le site de la `Judge Academy`_, pour m'entraîner notamment sur l'IPG et les MTR au niveau Competitive REL (compétitif) et pas Regular REL (régulier/casual).
+- En charge d'un plus grand tournoi au format French *Duel Commander*, encore à Ancrage Café, le dimanche 24 mars 2024. Avec 42 joueurs, 6 rondes avec Top 8. Tournoi « Win a Biland » organisé par *Magic Knight Fr* (niveau compétitif). Tout s'est très bien passé et j'ai adoré cette journée là !
 
-- Début mars 2024 j'ai suivi les cours de niveau L1 (mais pas en vue de passer le L2) sur le site de la `Judge Academy`_, pour m'entraîner notamment sur l'IPG et les MTR au niveau CEL (compétitif) et pas REL (régulier/casual).
-- En charge d'un plus grand tournoi au format Duel Commander, encore à Ancrage Café, le dimanche 24 mars 2024. 40 joueurs, 6 rondes avec Top 8. Tournoi « Win a Biland » organisé par *Magic Knight Fr*.
+.. todo:: C'est dans le futur !
 
 - J'ai postulé pour arbitrer le dimanche au *Relic Tour : Strasbourg*, encore à Ohlungen, mais je ne sais pas encore si je serai retenu.
 - J'espère pouvoir arbitrer mi-juin pour le *Championnat Régional de Duel Commander* (toujours à Ohlungen), si je n'ai pas trop de boulot à ce moment là.
 
 Dans le futur : passer le L2 ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Je ne pense pas.
 
+Je ne pense pas. Je ne souhaite pas avoir de responsabilités d'encadrement de L1.
+Mais bon. Ça pourrait quand même arriver...
+
+En attendant, je me forme sur Judge Academy (tant que ça existe !) sur les modules L2, sur `RulesGuru.net <https://www.RulesGuru.net>`_ et via les vidéos YouTube de *Judging for the Win*.
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/
