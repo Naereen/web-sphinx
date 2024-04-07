@@ -26,10 +26,6 @@ Février 2024
 ------------
 - Durant le premier weekend de février il y avait les Avant-Premières de la nouvelle extension Magic, "Meurtres au Manoir Karlov", j'ai participé à deux tournois à `Vent Divin <https://www.ventdivin.com/>`_, et j'ai fini 3ème/23 à une des deux. On a joué avec un ami et collègue en troll à deux têtes le matin, c'était sympa !
 - Avec un collègue prof de maths en CPGE au Lycée Kléber, nous avons *enfin* remonté le Club Magic Kléber, pour faire jouer des lycéen-nes et des élèves de CPGE. Cela ne concernera que peu d'élèves en tout, mais l'initiative me tient à coeur !
-
-.. warning:: C'est dans le futur !
-.. todo:: Continuer ici le résumé de l'année 2024.
-
 - Vacances d'hiver 2024, à Briançon. Et un rapide passage à Arles et Marseille avant de remonter à Strasbourg.
 
 Mars 2024
@@ -40,10 +36,18 @@ Mars 2024
 
 Avril 2024
 ----------
+- Pâques à Strasbourg, j'ai testé « l'agneau lamala ». Au risque de vexer les Alsacien-ne-s, c'était bof...
+- Vacances à Briançon et j'ai ENFIN rencontré mon neveu !
+- Gestion des dossiers ParcourSup pour le recrutement de ma classe de MP2I au Lycée Kléber.
+- Journée de tourisme (avec une météo digne de juillet), à Freiburg-en-Brisgau en Allemagne (à environ 1H30 de Strasbourg), avec une amie. Très jolie ville et super ambiance ! 
+
+.. warning:: C'est dans le futur !
+.. todo:: Continuer ici le résumé de l'année 2024.
 
 Mai 2024
 --------
 - (j'espère) Participation aux *Journées MP2I/MPI* organisées à l'ENS Rennes en mai 2024, pour rencontrer de nouveau et échanger avec les professeur-e-s d'informatique en MP2I et MPI.
+- Petite visite à une amie à Vannes, c'était top ! (j'espère)
 
 Juin 2024
 ---------
