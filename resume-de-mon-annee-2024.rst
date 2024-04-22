@@ -37,28 +37,32 @@ Mars 2024
 Avril 2024
 ----------
 - Pâques à Strasbourg, j'ai testé « l'agneau lamala ». Au risque de vexer les Alsacien-ne-s, c'était bof...
-- Vacances à Briançon et j'ai ENFIN rencontré mon neveu !
+- Journée de tourisme (avec une météo digne de juillet), à Freiburg-en-Brisgau en Allemagne (à environ 1H30 de Strasbourg), avec une amie. Très jolie ville et super ambiance !
+- Deux jours entiers `d'arbitrage de Magic <magic-judge.fr.html>`_, pour le `Relic Tour Strasbourg <https://www.relictcgtour.com/event/relic-tour-strasbourg/>`_ ayant eu lieu à Ohlungen les 20 et 21 avril 2024. J'ai géré en tant que Head Judge le tournoi Modern du samedi (32 joueurs), dont voici `le TOP8 <https://www.mtgtop8.com/event?e=54669&f=EDH>`_ et j'ai appris plein de choses !
 - Gestion des dossiers ParcourSup pour le recrutement de ma classe de MP2I au Lycée Kléber.
-- Journée de tourisme (avec une météo digne de juillet), à Freiburg-en-Brisgau en Allemagne (à environ 1H30 de Strasbourg), avec une amie. Très jolie ville et super ambiance ! 
+- Vacances à Briançon et j'ai ENFIN rencontré mon neveu !
 
 .. warning:: C'est dans le futur !
 .. todo:: Continuer ici le résumé de l'année 2024.
 
 Mai 2024
 --------
-- (j'espère) Participation aux *Journées MP2I/MPI* organisées à l'ENS Rennes en mai 2024, pour rencontrer de nouveau et échanger avec les professeur-e-s d'informatique en MP2I et MPI.
-- Petite visite à une amie à Vannes, c'était top ! (j'espère)
+- Participation aux *Journées MP2I/MPI* organisées à l'ENS Rennes en mai 2024, pour rencontrer de nouveau et échanger avec les professeur-e-s d'informatique en MP2I et MPI.
+- Petite visite à une amie à Vannes, c'était top ! (j'espère) Et visite d'un couple d'amis à Caen, c'était aussi top !
 
 Juin 2024
 ---------
 - (futur) Concours blanc pour ma classe de MP2I, et conseil de classe de fin de second semestre.
+- (j'ai hâte !) Fin de l'année scolaire ! Youpi !
 
 Juillet 2024
 ------------
-- (j'ai hâte !) Fin de l'année scolaire ! Youpi !
+- (normalement) Quelques jours au festival d'Avignon, pour voir des pièces de théâtre (Off uniquement), avec des amies.
 
 Août 2024
 ---------
+- (normalement) Un petit voyage à Londres pour aller voir une amie.
+- (peut-être) Un petit voyage en Pologne ?
 
 Septembre 2024
 --------------
@@ -73,7 +77,7 @@ Novembre 2024
 
 Décembre 2024
 -------------
-- (probablement) Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_.
+- (probablement) Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_. On va organiser un ou deux draft, un tournoi Modern, un quizz Magic, etc.
 
 .. note:: C'est tout pour 2024, à dans un an pour `la suite <resume-de-mon-annee-2025.html>`_ !
 
@@ -87,6 +91,7 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 En 2024, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - En France : très très peu (Paris, Hautes-Alpes, Strasbourg, Arles, Marseille, Caen).
+- En Allemagne : à Freiburg-en-Brisgau une journée.
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis presque pas sorti de France depuis. Et ce n'est pas vraiment prévu.
 
@@ -97,8 +102,9 @@ En 2024, j'ai joué à ces jeux vidéo…
 En 2024, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - TODO: Saison 1 de *Ashoka Tano* (Star Wars), j'ai commencé fin février, ça semble correct. À regarder quand j'aurai le temps !
-- Saison 1 de *Frieren* animé japonais très sympa. En cours !
+- Saison 1 de *Frieren* animé japonais très sympa. Vraiment magnifique !!
 - Saison 1 de *The Dragon Prince*, animé nord américain super cool. Saison 2 pas encore commencée, bientôt !
+- TODO: Saison 7 de *Young Sheldon* ?
 
 En 2024, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,6 +120,7 @@ En 2024, j'ai vu ces films…
 
 - *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de Your Name, Les Enfants du Temps et d'autres) ;
 - J'ai revu avec grand plaisir *La Vie Rêvée de Walter Mitty*, un superbe film de voyage et d'aventures ;
+- J'ai aussi revu *Scott Pilgrim vs the World*, que j'adore toujours autant ;
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/

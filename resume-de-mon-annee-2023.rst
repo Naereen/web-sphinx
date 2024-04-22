@@ -64,7 +64,7 @@ Septembre 2023
 
 Octobre 2023
 ------------
-- Top8 au « Store Championship » en Modern, à Dooz/Malleus à Strasbourg, avec `ce deck (HammerTime mono blanc) <https://www.moxfield.com/decks/PmfGuenAjEKy6PkKeGy4vw>`_, j'étais content.
+- Top8 au « Store Championship » en Modern, à Dooz/Malleus à Strasbourg, avec `ce deck (HammerTime mono blanc) <https://www.moxfield.com/decks/PmfGuenAjEKy6PkKeGy4vw>`_, j'étais content. Seul TOP8 que j'ai fait pour l'instant, et ma liste est donc aussi `sur MTGTOP8.com <https://www.mtgtop8.com/event?e=48525&d=557496&f=MO>`_.
 - Premier gros paquets de copies à corriger, j'étais moins content.
 - Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
 
