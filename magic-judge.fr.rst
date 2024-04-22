@@ -123,9 +123,11 @@ Je traduis désormais toutes les deux semaines un tier d'un article, environ 3/4
 - Début mars 2024 j'ai suivi les cours de niveau L1 (mais pas en vue de passer le L2) sur le site de la `Judge Academy`_, pour m'entraîner notamment sur l'IPG et les MTR au niveau Competitive REL (compétitif) et pas Regular REL (régulier/casual).
 - En charge d'un plus grand tournoi au format French *Duel Commander*, encore à Ancrage Café, le dimanche 24 mars 2024. Avec 42 joueurs, 6 rondes avec Top 8. Tournoi « Win a Biland » organisé par *Magic Knight Fr* (niveau compétitif). Tout s'est très bien passé et j'ai adoré cette journée là !
 
+- J'ai arbitré le samedi 20/04 et le dimanche 21/04 au `Relic Tour : Strasbourg <https://www.relictcgtour.com/event/relic-tour-strasbourg/>`_, encore à Ohlungen, et c'était génial ! J'ai géré en tant que Head Judge le tournoi Modern du samedi (32 joueurs), dont voici `le TOP8 <https://www.mtgtop8.com/event?e=54660&f=MO>`_ et j'ai appris plein de choses ! Collaborer avec `Jordane Lacombe <https://twitter.com/JordaneLacombe>`_ et `Cyril Germain <https://apps.magicjudges.org/judges/Cyril/>`_ a été très enrichissant. J'ai aussi arbitré sur le `tournoi en Legacy (dont voici le TOP8) <https://www.mtgtop8.com/event?e=54658&f=LE>`_ et `l'autre tournoi plus grand en DC le samedi (TOP8) <https://www.mtgtop8.com/event?e=54656&f=EDH>`_.
+- J'aurai pu gérer un autre « Win a Biland » à Ancrage Café, le dimanche 05 mai, mais cette fois j'étais en vacances, un copain arbitre a pris la responsabilité à ma place.
+
 .. todo:: C'est dans le futur !
 
-- J'ai postulé pour arbitrer le dimanche au *Relic Tour : Strasbourg*, encore à Ohlungen, mais je ne sais pas encore si je serai retenu.
 - J'espère pouvoir arbitrer mi-juin pour le *Championnat Régional de Duel Commander* (toujours à Ohlungen), si je n'ai pas trop de boulot à ce moment là.
 
 Dans le futur : passer le L2 ?
