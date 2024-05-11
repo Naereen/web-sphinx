@@ -112,4 +112,12 @@ Ten hours of the best Star Wars musics:
     `This page lists what I watch on YouTube <what-i-watch-on-youtube.en.html>`_.
 
 
+Spoilers at 200% during 5 minutes
+---------------------------------
+
+Below is an excellent video of a summary of the entire movies series, but beware of the massive spoilers!
+
+.. youtube:: m-bzfdtUTWA
+
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/

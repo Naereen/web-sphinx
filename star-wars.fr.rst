@@ -112,4 +112,11 @@ Dix heures des meilleures musiques de Star Wars :
     `Cette page qui liste mes abonnements YouTube <ce-que-je-regarde-sur-youtube.fr.html>`_.
 
 
+Spoilers à 200% pendant 5 minutes
+---------------------------------
+
+Une excellente vidéo de résumé de toute la série, mais attention ça spoile à fond !
+
+.. youtube:: m-bzfdtUTWA
+
 .. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
