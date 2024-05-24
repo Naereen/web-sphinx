@@ -138,4 +138,6 @@ Mais bon. Ça pourrait quand même arriver...
 
 En attendant, je me forme sur Judge Academy (tant que ça existe !) sur les modules L2, sur `RulesGuru.net <https://www.RulesGuru.net>`_ et via les vidéos YouTube de *Judging for the Win*.
 
+En avril 2024 j'ai fini tous les modules de formation de la Judge Academy, pour passer le niveau L2. Je vais tenter l'examen final, et il ne me manquerait qu'une recommandation ("Endorsement") d'un L2/L3 Judge Academy pour pouvoir passer l'examen de L2.
+
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/

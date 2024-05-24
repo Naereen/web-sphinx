@@ -42,13 +42,13 @@ Avril 2024
 - Gestion des dossiers ParcourSup pour le recrutement de ma classe de MP2I au Lycée Kléber.
 - Vacances à Briançon et j'ai ENFIN rencontré mon neveu !
 
-.. warning:: C'est dans le futur !
-.. todo:: Continuer ici le résumé de l'année 2024.
-
 Mai 2024
 --------
 - Participation aux *Journées MP2I/MPI* organisées à l'ENS Rennes en mai 2024, pour rencontrer de nouveau et échanger avec les professeur-e-s d'informatique en MP2I et MPI.
-- Petite visite à une amie à Vannes, c'était top ! (j'espère) Et visite d'un couple d'amis à Caen, c'était aussi top !
+- Petite visite de Vannes avec des ami-e-s, c'était top ! Et visite d'un couple d'amis à Caen, c'était aussi top !
+
+.. warning:: C'est dans le futur !
+.. todo:: Continuer ici le résumé de l'année 2024.
 
 Juin 2024
 ---------
@@ -103,8 +103,9 @@ En 2024, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - TODO: Saison 1 de *Ashoka Tano* (Star Wars), j'ai commencé fin février, ça semble correct. À regarder quand j'aurai le temps !
 - Saison 1 de *Frieren* animé japonais très sympa. Vraiment magnifique !!
-- Saison 1 de *The Dragon Prince*, animé nord américain super cool. Saison 2 pas encore commencée, bientôt !
-- TODO: Saison 7 de *Young Sheldon* ?
+- Saisons 1 et 2 de *The Dragon Prince*, animé nord-américain super cool. Saison 2 terminée, c'était encore mieux !
+- Saison 7 de *Young Sheldon* : toujours aussi drôle et sincère, j'ai vraiment bien aimé.
+- TODO: Saison 3 de *Star Wars: The Bad Batch*, que j'avais vraiment aimé.
 
 En 2024, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,9 +119,10 @@ En 2024, j'ai vu ces films…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. note:: Regarder des films m'a passé, je n'ai plus envie de ça en ce moment. Mais si vous avez des bonnes suggestions, je suis preneur !
 
-- *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de Your Name, Les Enfants du Temps et d'autres) ;
+- *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de *Your Name*, *Les Enfants du Temps* et d'autres) ;
 - J'ai revu avec grand plaisir *La Vie Rêvée de Walter Mitty*, un superbe film de voyage et d'aventures ;
 - J'ai aussi revu *Scott Pilgrim vs the World*, que j'adore toujours autant ;
+- J'ai vu *Her* pour la première fois, suite aux recommandations de la chaîne YouTube `ColdFusion <https://www.youtube.com/@ColdFusion>`_. J'ai adorééé !
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/
