@@ -84,7 +84,7 @@ Août 2020
 ---------
 - Deux jours de `Wwoofing <https://wwoof.fr/>`_ dans `une ferme bergerie <https://wwoof.fr/host/7285-Bergerie-la-Giuggiola>`_ dans le nord des Alpes Maritimes (06), pour apprendre à s'occuper d'un troupeau (chèvres et moutons), les traire, transformer le lait en fromages, etc. C'était génial, j'ai vraiment adoré ! Refaire du stop, malgré le contexte sanitaire, m'a vraiment fait du bien !
 - Encore plein de randonnées... !
-- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux ! Edit novembre : Je l'ai mis en bouteille fin novembre, trois mois après, et c'est le meilleur génépi que j'ai pu faire jusqu'ici ! (regardez `̀la recette <https://perso.crans.org/besson/cuisine/genepi.html>`_).
+- Je suis allé ramasser plein de plants de génépi, et j'ai lancé un certain nombre de bouteilles en macération chez mes parents... ça fera des chouettes cadeaux ! Edit novembre : Je l'ai mis en bouteille fin novembre, trois mois après, et c'est le meilleur génépi que j'ai pu faire jusqu'ici ! (regardez `la recette <https://perso.crans.org/besson/cuisine/genepi.html>`_).
 
 Septembre 2020
 --------------
