@@ -85,11 +85,11 @@ Mes 10 **groupes**/**artistes** préférés
 - `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
 - `John Williams <https://fr.wikipedia.org/wiki/John_Williams>`_,
 
-- Je ne peux pas décider du dernier : j'aime beaucoup de très nombreux et nombreuses d'artistes, y compris : Asaf Avidan, Eddie Vedder, Jacques Brel, the French singer Pomme, French singer Renaud, Airelle Besson, ACDC, Angèle, Antony and the Jonhsons, Apocalyptica, Birdy, Bob Dylan, Camille Laïly, Claude Nougaro, Damien Saez, Coeur de Pirate, Danheim, Djiboutep and Michel Tonnerre, Era, Estas Tonne, François Hardy, Freddie Mercury and Queen, Georges Brassens, Guillaume de Chassy, the Grissini Project, Hugh Laurie, Imany, Indochine, Karliene, Journey, French band LEJ, Led Zeppelin, Light in Babylon, Léo Ferré, Malukah, Mandy Lerouge, Mansfield TYA, Metallica, Neil Diamond, Neil Young, Nightwish, Noir Désir, Miossec, Paul Lay, Peter Hollens, Ray Charles, Rémi Panossian, Scorpions, Slow Jane, Sting, Stromae, Taylor Davis, The Beatles, The Consouls, The Police, French singer Thiéfaine, Wardruna, Yom, et tant d'autres...
+- Je ne peux pas décider du dernier : j'aime beaucoup de très nombreux et nombreuses d'artistes, y compris : Asaf Avidan, Eddie Vedder, Jacques Brel, la chanteuse Pomme, Renaud, Airelle Besson, ACDC, Angèle, Antony and the Jonhsons, Apocalyptica, Birdy, Bob Dylan, Camille Laïly, Claude Nougaro, Damien Saez, Coeur de Pirate, Danheim, Djiboutep & Michel Tonnerre, Era, Estas Tonne, François Hardy, Freddie Mercury and Queen, Georges Brassens, Guillaume de Chassy, the Grissini Project, Hugh Laurie, Imany, Indochine, Karliene, Journey, French band LEJ, Led Zeppelin, Light in Babylon, Léo Ferré, Malukah, Mandy Lerouge, Mansfield TYA, Metallica, Neil Diamond, Neil Young, Nightwish, Noir Désir, Miossec, Paul Lay, Peter Hollens, Ray Charles, Rémi Panossian, Scorpions, Slow Jane, Sting, Stromae, Taylor Davis, The Beatles, The Consouls, The Police, French singer Thiéfaine, Wardruna, Yom, et tant d'autres...
 
 Mes 10 **chansons** préférés
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. sidebar:: Cette chanson garde également une place importante dans mon cœur : `« En Cavale » (2015) par la chanteuse Pomme » <https://www.youtube.com/watch?v=MPTUxl50PkY>`_.
+.. note:: Cette chanson garde également une place importante dans mon cœur : `« En Cavale » (2015) par la chanteuse Pomme » <https://www.youtube.com/watch?v=MPTUxl50PkY>`_.
 
 - `The Trooper <https://www.youtube.com/results?search_query=The+Trooper+Iron+Maiden>`_, par `Iron Maiden <https://fr.wikipedia.org/wiki/Iron_Maiden>`_,
 - `The Partisan <https://www.youtube.com/results?search_query=The+Partisan+Leonard+Cohen>`_, par `Leonard Cohen <https://fr.wikipedia.org/wiki/Leonard_Cohen>`_,
@@ -165,8 +165,9 @@ Mes 10 **endroits en France** préférés
 
 Mes 10 **villes** préférées
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Briançon <https://fr.wikipedia.org/wiki/Briancon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
+- `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_ (`France <https://fr.wikipedia.org/wiki/France>`_).
+- `Avignon <https://fr.wikipedia.org/wiki/Avignon>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Rennes <https://fr.wikipedia.org/wiki/Rennes>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Paris <https://fr.wikipedia.org/wiki/Paris>`_ (`France <https://fr.wikipedia.org/wiki/France>`_),
 - `Lausanne <https://fr.wikipedia.org/wiki/Lausanne>`_ (`Suisse <https://fr.wikipedia.org/wiki/Suisse>`_),
@@ -174,7 +175,6 @@ Mes 10 **villes** préférées
 - `Hampi <https://fr.wikipedia.org/wiki/Hampi>`_ (`Karnataka <https://fr.wikipedia.org/wiki/Karnataka>`_, `Inde <https://fr.wikipedia.org/wiki/Inde>`_),
 - `Heimeay <https://fr.wikipedia.org/wiki/Heimeay>`_ (`Islande <https://fr.wikipedia.org/wiki/Islande>`_),
 - `Amsterdam <https://fr.wikipedia.org/wiki/Amsterdam>`_ (`Pays-Bas <https://fr.wikipedia.org/wiki/Pays-Bas>`_),
-- `Carcassonne <https://fr.wikipedia.org/wiki/Carcassonne>`_ (`France <https://fr.wikipedia.org/wiki/France>`_).
 
 ------------------------------------------------------------------------------
 
