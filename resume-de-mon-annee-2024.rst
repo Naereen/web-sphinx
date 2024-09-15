@@ -47,37 +47,42 @@ Mai 2024
 - Participation aux *Journées MP2I/MPI* organisées à l'ENS Rennes en mai 2024, pour rencontrer de nouveau et échanger avec les professeur-e-s d'informatique en MP2I et MPI.
 - Petite visite de Vannes avec des ami-e-s, c'était top ! Et visite d'un couple d'amis à Caen, c'était aussi top !
 
-.. warning:: C'est dans le futur !
-.. todo:: Continuer ici le résumé de l'année 2024.
-
 Juin 2024
 ---------
-- (futur) Concours blanc pour ma classe de MP2I, et conseil de classe de fin de second semestre.
-- (j'ai hâte !) Fin de l'année scolaire ! Youpi !
+- Concours blanc pour ma classe de MP2I, et conseil de classe de fin de second semestre.
+- (j'avais un peu hâte !) Fin de l'année scolaire ! Youpi !
 
 Juillet 2024
 ------------
-- (normalement) Quelques jours au festival d'Avignon, pour voir des pièces de théâtre (Off uniquement), avec des amies.
+- Quelques jours au festival d'Avignon, pour voir des pièces de théâtre (Off uniquement), avec des amies. C'était super ! Revoir des pièces de Feydeaux (que j'ai joué quand j'étais au lycée), de Wadji Mouawad (vu et lu depuis le lycée) et d'autres, quel plaisir !
+- Plein de belles randonnées autour de Briançon !
+- Une petite escursion à Grenoble, puis Annecy et dans les alentours du lac d'Aix-les-Bains. Famille et ami-e-s, Magic et baignade, bref les vacances !
 
 Août 2024
 ---------
-- (normalement) Un petit voyage à Londres pour aller voir une amie.
-- (peut-être) Un petit voyage en Pologne ?
+- Du jeu de rôle papier, avec des ami-e-s de la ludothèque de Briançon, et c'était cool d'en refaire un peu ! Une mini-campagne de **Donjons et Dragons**, une partie du (gros) jeu de plateau Conan et du (vieux) jeu Hero Quest, la quasi fin d'une campagne qui traîne sur un JDR medfan bien traditionnel... bref ça occupe bien, entre deux randos et une lecture d'un livre d'informatique théorique !
+- Des belles randos mais je me suis blessé légèrement donc ça m'avait limité un peu...
 
 Septembre 2024
 --------------
-- (probablement, enfin j'espère) Rentrée scolaire (de nouveau) au Lycée Kléber à Strasbourg, youpi ! Reprise de mes habitudes de vie à Strasbourg, pour mon plus grand plaisir.
+- Début septembre, encore une rentrée scolaire (de nouveau) au Lycée Kléber à Strasbourg, youpi ! Reprise de mes habitudes de vie à Strasbourg, pour mon plus grand plaisir.
+- Mi septembre, une après-midi passée à jouer à un « Cube Vintage (draft) » à Magic the Gathering, et j'ai gagné 3-0 (invaincu) avec un deck contrôle izzet (bleu-rouge), avec notamment `Time Walk <https://scryfall.com/card/2ed/84/time-walk>`_ (sans surprise, c'est super fort), `Wheel of Fortune <https://scryfall.com/card/3ed/185/wheel-of-fortune>`_, les deux `Mox Sapphire <https://scryfall.com/card/2ed/266/mox-sapphire>`_ et `Mox Ruby <https://scryfall.com/card/2ed/265/mox-ruby>`_ !
+- Fin septembre, arbitrage d'un tournoi papier à Magic, au format Modern : le « RCQ » (Regional Championship Qualifier) organisé par Magic Knight au Ancrage Café le dimanche 22 septembre.
+
+.. warning:: C'est dans le futur !
+.. todo:: Continuer ici le résumé de l'année 2024.
 
 Octobre 2024
 ------------
-- (probablement) Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
+- Un peu de temps passé en septembre et octobre sur le jeu vidéo `Pillars of Eternity <https://pillarsofeternity.fandom.com/wiki/Official_Pillars_of_Eternity_Wiki>`_ (sur ordinateur), c'était super chouette !
+- (normalement) Deux jours d'arbitrage de Magic: the Gathering, lors de la `Funble Corp. l'Assemblée <https://mtg.fumblecorp.com/>`_, une petite convention organisée à Strasbourg par des amis. Je devrais normalement arbitrer le samedi et le dimanche, les parties (non compétitives) jouées en commander (EDH).- (probablement) Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
 
 Novembre 2024
 -------------
+- (probablement) Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_. On va organiser un ou deux draft, un tournoi Modern, un quizz Magic, etc.
 
 Décembre 2024
 -------------
-- (probablement) Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_. On va organiser un ou deux draft, un tournoi Modern, un quizz Magic, etc.
 
 .. note:: C'est tout pour 2024, à dans un an pour `la suite <resume-de-mon-annee-2025.html>`_ !
 
@@ -90,22 +95,24 @@ Un petit aperçu, qui complète `mon top 10 <top10.fr.html>`_.
 
 En 2024, j'ai voyagé là…
 ~~~~~~~~~~~~~~~~~~~~~~~~
-- En France : très très peu (Paris, Hautes-Alpes, Strasbourg, Arles, Marseille, Caen).
+- En France : très très peu (Paris, Hautes-Alpes, Strasbourg, Arles, Marseille, Caen, Grenoble, Annecy).
 - En Allemagne : à Freiburg-en-Brisgau une journée.
 
 .. seealso:: `Cette page web <https://naereen.github.io/world-tour-timeline/index_fr.html>`_ que j'ai codée juste pour ça. Pas changée depuis 2019, puisque je ne suis presque pas sorti de France depuis. Et ce n'est pas vraiment prévu.
 
 En 2024, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- J'ai acheté le dernier *Fire Emblem* (*Fire Emblem: Engage*) sur Switch, mais je ne suis pas convaincu de vouloir y jouer beaucoup. J'ai du mal à accrocher !
+- J'ai acheté le dernier *Fire Emblem* (*Fire Emblem: Engage*) sur Switch, mais je ne suis pas convaincu de vouloir y jouer beaucoup. J'ai du mal à accrocher ! Ça me semble trop enfantin.
+- En juin, j'ai acheté d'occasion une console Ambernic, une *Ambernic RG35++*, pour jouer à des jeux rétro sur un matériel de poche mais de qualité. J'ai joué un peu (mais vraiment pas beaucoup) au premier opus de la série des Suikoden, que j'avais tant aimé quand je l'avais découverte en 2014 durant mon séjour en Inde.
+- En septembre et octobre, à *Pillars of Eternity*, un héritier des jeux de rôle occidentaux à la Baldur's Gate, en vue isométrique. Superbe expérience !
 
 En 2024, j'ai vu ces séries…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - TODO: Saison 1 de *Ashoka Tano* (Star Wars), j'ai commencé fin février, ça semble correct. À regarder quand j'aurai le temps !
 - Saison 1 de *Frieren* animé japonais très sympa. Vraiment magnifique !!
 - Saisons 1 et 2 de *The Dragon Prince*, animé nord-américain super cool. Saison 2 terminée, c'était encore mieux !
-- Saison 7 de *Young Sheldon* : toujours aussi drôle et sincère, j'ai vraiment bien aimé.
-- TODO: Saison 3 de *Star Wars: The Bad Batch*, que j'avais vraiment aimé.
+- Saison 7 de *Young Sheldon* : toujours aussi drôle et sincère, j'ai vraiment bien aimé. Un peu triste par moments, mais du « beau triste ».
+- Saison 3 de *Star Wars: The Bad Batch*, que j'avais vraiment aimé.
 
 En 2024, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,6 +120,8 @@ En 2024, j'ai lu ces livres…
 
 - *What If 2*, la suite de *What If*, par l'auteur de `<https://www.XKCD.com/>`_ (voir `cette page là pour le commander <https://xkcd.com/what-if-2/>`_).
 - *Les Rivières de Londres* par Ben Aaronovitch, un génial livre mélangeant policier à la Sherlock Holmes et fantastique de sorcellerie à la Harry Potter. J'ai continué à lire la suite, le tome 2 et 3 en anglais, qui sont moins bien mais se lisent avec plaisir quand même. J'hésite à continuer par contre.
+- *Conan le Destructeur* par Robert Howard, un livre de la série sur le grand héros de fantasy qu'est Conan le Barbare. De la bonne fantasy classique, old school même, ça fait plaisir de temps en temps !
+- *Conan le Pirate* d'un autre auteur, pas encore terminé.
 - Et d'autres que j'ai peut-être oublié de noter…
 
 En 2024, j'ai vu ces films…
@@ -122,7 +131,9 @@ En 2024, j'ai vu ces films…
 - *Suzume*, un incroyable animé de Makoto Shinkai (réalisateur de *Your Name*, *Les Enfants du Temps* et d'autres) ;
 - J'ai revu avec grand plaisir *La Vie Rêvée de Walter Mitty*, un superbe film de voyage et d'aventures ;
 - J'ai aussi revu *Scott Pilgrim vs the World*, que j'adore toujours autant ;
-- J'ai vu *Her* pour la première fois, suite aux recommandations de la chaîne YouTube `ColdFusion <https://www.youtube.com/@ColdFusion>`_. J'ai adorééé !
+- J'ai vu *Her* pour la première fois, suite aux recommandations de la chaîne YouTube `ColdFusion <https://www.youtube.com/@ColdFusion>`_. J'ai adorééé ! Je savais que j'allais aimé, j'en avais beaucoup entendu parler à sa sortie, mais je crois que le contexte et l'histoire me faisait peur à cette époque là.
+- *Horizons (premier opus)* de Kevin Costner. Je l'ai trouvé trop long, mais intéressant et très beau. Je n'irais pas voir la seconde moitié.
+- *Septembre sans attendre*, avec une amie à Strasbourg au cinéma (c'est très rare que j'aille au cinéma !), et j'ai adoré ! Très drôle, bien vu et moderne, c'est une belle comédie romantique, mais pas que.
 - Et d'autres que j'ai oublié de noter…
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/

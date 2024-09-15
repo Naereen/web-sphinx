@@ -36,7 +36,7 @@ Toute l'année et aussi en Première, nous continuions les tournois à Exkalibur
 
 En Première je me souviens de déplacements plus ambitieux, comme un Pro-Tour Qualifier à Toulouse qui nous avait occupé tout le weekend, d'un autre à Bourgoin-Jallieu, et de deux ou trois tournois plus détendus à Grenoble.
 
-En Terminale, je ne me déplaçais plus hors de Briançon (trop de travail) mais on continuais à avoir nos tournois bi-mensuels au cyber-café Exkalibur. J'ai eu mon bac en juillet 2009, suis parti de Briançon en septembre et je n'ai pas joué pendant... longtemps !
+En Terminale, je ne me déplaçais plus hors de Briançon (trop de travail) mais on continuait à avoir nos tournois bi-mensuels au cyber-café Exkalibur. J'ai eu mon bac en juillet 2009, je suis parti de Briançon en septembre et je n'ai pas joué pendant... longtemps !
 
 Entre mon bac et ma prise de poste en CPGE (2009-2021)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,12 +56,12 @@ Depuis ma prise de poste en CPGE (2021-)
 
 En 2021
 *******
-J'ai repris Magic en août 2021, en achetant un deck commander préconstruit de *Donjons et Dragons*, et un autre de *Innistrad: Crimson Vow*. J'ai fait des avant-premières à la boutique `Vent Divin <https://www.VentDivin.com/>`_ à Strasbourg, que j'ai tout de suite bien aimé.
+J'ai repris Magic en août 2021, en achetant un deck commander préconstruit de *Donjons et Dragons*, et un autre de *Innistrad: Crimson Vow*. J'ai fait des avant-premières à la boutique `Vent Divin <https://www.VentDivin.com/>`_ à Strasbourg, que j'ai tout de suite bien aimée.
 
 En 2022
 *******
-- J'ai beaucoup joué à Strasbourg, à `Vent Divin`_ surtout, en Modern (*mono-R burn*), en EDH et en limité.
-- Je jouais régulièrement en EDH multi au bar à jeux *L'Algorythme*, avec l'association *Les Arpenteurs de Strasbourg*.
+- J'ai beaucoup joué à Strasbourg, à `Vent Divin`_ surtout, en Modern (*mono-R burn*), un peu en EDH et en limité aux avant-premières des nouvelles extensions.
+- Je jouais régulièrement en EDH multi au bar à jeux *L'Algorythme*, avec l'association *Les Arpenteurs de Strasbourg*. Le lieu me convient pas vraiment : c'est loin de chez moi, bruyant et très peu de gens y viennent pour Magic.
 - J'avais monté un petit club de joueurs de Magic au *Lycée Kléber*, où j'enseigne désormais.
 
 En 2023
@@ -73,16 +73,21 @@ En 2023
 - Beaucoup de tournois à la boutique `Vent Divin`_ les mardis soirs (ils sont en fait au bar à jeux Baraka Jeux à Strasbourg) et vendredis soirs, en limité (4 avant-premières *Lord of the Rings*, 4 pour *The Wilds of Eldraine*, 2 pour *The Lost Caverns of Ixalan*).
 - Aussi beaucoup de soirées Magic avec l'association Magic TT et la boutique DooZ TCG au bar Malleus Malleficarum, les mercredis soirs, et une ou deux fois des Store Championship le dimanche.
 
-- J'ai pris la position de secrétaire (consul des attributions, pour être exact) de la petite association des Arpenteurs de Strasbourg, en novembre 2023, pour un mandat de 2 ans.
+- J'ai pris la position de secrétaire (consul des attributions, pour être exact) de la petite association des Arpenteurs de Strasbourg, en novembre 2023, pour un mandat de 2 ans. Notre site web est là : `<http://arpenteurdestrasbourg.netlib.re/>`_ mais n'est pas maintenu, et notre serveur Discord est présent sur Disboard : `<https://disboard.org/server/512327166256742400>`_. Je suis membre actif et très actif même, pour animer nos tournois Modern mensuels, nos rencontres régulières en EDH multi (2/3 fois par mois !) et notre présence à des événements plus grands comme le `Festival Dons des Dragons <https://dondesdragon.fr/>`_ !
 
 En 2024
 *******
 
-- Toujours pareil pour des soirées le mardi soir à Baraka Jeux, le mercredi soir au Malleus Malleficarum et le vendredi soir à Vent Divin. Je joue alternativement aux formats Pioneer (je joue *Boros Convoke*), Modern (je joue surtout *Hammer Time* monoW, des fois *Death & Taxes*, des fois *Burn monoR*), Legacy (je joue *Death & Taxes monoW 80 cartes avec Yorion*), Commander multi (surtout `ce deck Doran en Abzan WBG <https://www.moxfield.com/decks/BefQU6iGdEqnktAv1gXFng>`_, un deck mono-vert Elfe, un deck Selesnya tribal chats), des fois en Commander duel (avec `ce deck Svelte-Patte <https://www.moxfield.com/decks/eqTujigV80mzasL_U0BO2g>`_ ou `Octavia <https://www.moxfield.com/decks/CYLMzt4aukGk7FYROTs8pA>`_, et avant c'était Giada anges monoW).
+- Toujours pareil pour des soirées le mardi soir à Baraka Jeux, le mercredi soir au Malleus Malleficarum et le vendredi soir à Vent Divin. Je ne les fais pas toutes, mais souvent...
+- Je joue alternativement aux formats Pioneer (je joue *Boros Convoke*), Modern (je joue surtout *Hammer Time* monoW, des fois *Death & Taxes*, des fois *Burn monoR*), Legacy (je joue *Death & Taxes monoW 80 cartes avec Yorion*), Commander multi (surtout `ce deck Doran en Abzan WBG <https://www.moxfield.com/decks/BefQU6iGdEqnktAv1gXFng>`_, un deck mono-vert Elfe, un deck Selesnya tribal chats), des fois en Commander duel (avec `ce deck Svelte-Patte <https://www.moxfield.com/decks/eqTujigV80mzasL_U0BO2g>`_ ou `Octavia <https://www.moxfield.com/decks/CYLMzt4aukGk7FYROTs8pA>`_, et avant c'était Giada anges monoW).
 - Toujours des avant-premières pour chaque nouvelle extension. En février c'était *Murders at Karlov Manor*, j'ai fait un troll à deux têtes avec un collègue et ami, et une AP seul.
 
-- Avec des copains nous organisons une après-midi ou soirée au format *Pauper* chaque mois, à `Vent Divin`_ ou au Malleus.
+- Avec des copains nous organisons une après-midi ou soirée au format *Pauper* chaque mois, à `Vent Divin`_ ou au Malleus. D'ailleurs, en parlant du Pauper, j'ai organisé une fois une après-midi *Pauper Cube* et je le referai, avec le cube d'un ami et des copains pour former une table de huit. C'était super !
 - On a aussi aidé à relancer les tournois Legacy, en organisant notamment un *Open Proxies* à Baraka Jeux début mars 2024, pour inciter des gens n'ayant pas de decks Legacy compétitifs à venir essayer !
+- J'ai fait en septembre 2024 une après-midi avec un *Cube Vintage*, et avec l'organisateur on va planifier ça chaque mois ou presque, parce que le format est tout bonnement génial à jouer !
+- J'avais commencé à assembler en 2023 une `Judge Tower <https://mtg.fandom.com/wiki/Judge_Tower>`_ à Briançon, et je l'avais un peu oubliée depuis mon retour à Strasbourg en septembre 2023. Je l'ai vraiment améliorée et mise à jour, en achetant pas mal de cartes bizaroïdes et complexes, originales ou anciennes, fun ou vraiment tordues... Bref c'est un cauchemar à jouer mais donc c'est super amusant et intéressant. Je joue avec mes règles, un peu modifiées.
+
+.. todo:: Rédiger ma version des règles de la Judge Tower, pour en garder une trace quelque part ? Un peu la flemme, je les connais...
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -101,7 +106,8 @@ En 2023
 Durant l'été 2023, j'ai suivi tous les cours en ligne de la `Judge Academy <https://www.JudgeAcademy.com/>`_, ceux qui sont accessibles aux arbitres pas encore niveau 1.
 
 J'ai passé l'examen de "Rules Advisor" fin août 2023, et je l'ai eu. J'étais donc « niveau 1/2 » (L0.5).
-J'ai passé beaaaucoup de temps sur `RulesGuru <https://RulesGuru.net/>`_, à m'entraîner à plein de questions.
+
+J'ai passé beaaaucoup de temps sur `RulesGuru <https://RulesGuru.net/>`_, à m'entraîner à plein de questions. Au point de ne plus découvrir de nouvelles questions (malgré leur nombre supérieur au milieu) quand je clique et clique en aléatoire. BON. J'ai passé un peu trop de temps dessus.
 
 - Arbitre L0.5 assistant sur le *Legendary Tournament Commander* (LTC) #6 à Olhungen au nord de Strasbourg, le dimanche 15 octobre 2023. 57 joueurs au format Duel Commander, 6 rondes plus top 8. Supervisé par *Quentin B*.
 - Arbitre L0.5 assistant sur le *Dooz Tournament* (Vanaheim) #3 au Malleus Malleficarum à Strasbourg, le dimanche 26 novembre 2023. Deux événements en parallèle : 30 joueurs au format Modern, 5 rondes plus top 8, et 24 joueurs au format Duel Commander, 5 rondes sans top 8. Supervisé par *Cyril G*.
@@ -126,18 +132,29 @@ Je traduis désormais toutes les deux semaines un tier d'un article, environ 3/4
 - J'ai arbitré le samedi 20/04 et le dimanche 21/04 au `Relic Tour : Strasbourg <https://www.relictcgtour.com/event/relic-tour-strasbourg/>`_, encore à Ohlungen, et c'était génial ! J'ai géré en tant que Head Judge le tournoi Modern du samedi (32 joueurs), dont voici `le TOP8 <https://www.mtgtop8.com/event?e=54660&f=MO>`_ et j'ai appris plein de choses ! Collaborer avec `Jordane Lacombe <https://twitter.com/JordaneLacombe>`_ et `Cyril Germain <https://apps.magicjudges.org/judges/Cyril/>`_ a été très enrichissant. J'ai aussi arbitré sur le `tournoi en Legacy (dont voici le TOP8) <https://www.mtgtop8.com/event?e=54658&f=LE>`_ et `l'autre tournoi plus grand en DC le samedi (TOP8) <https://www.mtgtop8.com/event?e=54656&f=EDH>`_.
 - J'aurai pu gérer un autre « Win a Biland » à Ancrage Café, le dimanche 05 mai, mais cette fois j'étais en vacances, un copain arbitre a pris la responsabilité à ma place.
 
+- J'espérais arbitrer mi-juin pour le *Championnat Régional de Duel Commander* (toujours à Ohlungen), si je n'ai pas trop de boulot à ce moment là. J'ai eu trop de boulot, je n'ai donc rien fait en juin.
+- Je ne voulais pas alle à la *Magic CON Amsterdam*, trop de monde, trop cher, trop loin, trop long et trop fatiguant : j'avais encore cours le weekend après cet énorme événement ! Mais j'essaierai de faire ça une fois, à l'avenir.
+- Je n'avais pas postulé pour arbitrer ni à la coupe de France de Legacy (06-07 juillet à côté de Lyon) ni à celle de Duel Commander (13-14 juillet à côté de Chateauroux).
+
+.. todo:: J'essaierai d'en faire une des deux l'an prochain ? Ou les deux ? Ce serait une chouette expérience, assurément !
+
+- J'arbitre fin septembre 2024 un tournoi d'une cinquantaine de joueurs, au format Modern : le « RCQ » (Regional Championship Qualifier) organisé par Magic Knight au Ancrage Café le dimanche 22 septembre. Ce sera chouette !
+
 .. todo:: C'est dans le futur !
 
-- J'espère pouvoir arbitrer mi-juin pour le *Championnat Régional de Duel Commander* (toujours à Ohlungen), si je n'ai pas trop de boulot à ce moment là.
+- Je serai présent au weekend dédié à l'EDH (Commandeur Multi) `Fumble Corp. l'assemblée <https://mtg.fumblecorp.com>`_, pour jouer bien sûr en EDH et aussi avec ma Judge Tower, mais aussi pour répondre aux questions de règles !
+
+- Je poste souvent des petits quiz (simples questions ou plus ardues) sur le `Discord des Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_ et d'autres serveurs Discord spécialisés dans Magic à Strasbourg. C'est amusant de lire les réponses, parfois super bien argumentées et parfois complètement tordues ou fausses, de certains membres.
 
 Dans le futur : passer le L2 ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Je ne pense pas. Je ne souhaite pas avoir de responsabilités d'encadrement de L1.
-Mais bon. Ça pourrait quand même arriver...
+Je ne pense pas. Je ne souhaite pas avoir de responsabilités d'encadrement de L1. Mais bon. Ça pourrait quand même arriver ? Ce sera un plaisir si ça arrive.
 
 En attendant, je me forme sur Judge Academy (tant que ça existe !) sur les modules L2, sur `RulesGuru.net <https://www.RulesGuru.net>`_ et via les vidéos YouTube de *Judging for the Win*.
 
 En avril 2024 j'ai fini tous les modules de formation de la Judge Academy, pour passer le niveau L2. Je vais tenter l'examen final, et il ne me manquerait qu'une recommandation ("Endorsement") d'un L2/L3 Judge Academy pour pouvoir passer l'examen de L2.
+
+Avec le nouveau `International Judge Program <https://internationaljudgeprogram.org/home-francais/>`_, et son découpage en cinq niveaux L1 L2 L3 L4 L5 et plus seulement trois niveaux, il semblerait raisonnable que j'obtienne très rapidement le nouveau niveau L2, vu mon expérience et mes connaissances, mon implication (traduction, tournois locaux) et mon activité en général. Je ne me mets pas la pression, ça viendra si et quand ça viendra.
 
 .. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/

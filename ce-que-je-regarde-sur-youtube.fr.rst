@@ -27,7 +27,7 @@ Même quand je n'ai pas trop le temps (c'est à dire, tout le temps), je suis g�
 Il est raisonnable d'estimer mon temps d'utilisation à très haut, comparé à la moyenne, avec par exemple 90h en mars 2021, souvent entre 12h et 25h par semaine (mesuré avec `Mind the Time <https://addons.mozilla.org/fr/firefox/addon/mind-the-time/>`_ sur Firefox).
 **Écologiste militant, je cherche donc évidemment à minimiser l'impact écologique et économique de cette pratique numérique** (comme tout le monde devrait le faire, pour toute pratique quelconque !), et dans ce but j'utilise des extensions Firefox pour :
 
-1. désactiver les publicités, avec `uBlock Origin <https://addons.mozilla.org/fr/firefox/addon/ublock-origin>`_ ; It's wrong to do so? I don't this it is, and despite I will *never* click on a ad! I suggest you to `read this small article written as a poem <https://coryd.dev/posts/2023/i-block-ads/>`_.
+1. désactiver les publicités, avec `uBlock Origin <https://addons.mozilla.org/fr/firefox/addon/ublock-origin>`_ ; C'est mal de le faire ? Je ne pense pas que ce soit le cas, et surtout *je ne cliquerai jamais* sur une annonce ! Je vous suggère de `lire ce petit article écrit comme un poème <https://coryd.dev/posts/2023/i-block-ads/>`_.
 2. **ne télécharger que la piste audio et pas les vidéos** (ou en qualité minimale 144p) avec `YouTube Control Center <https://addons.mozilla.org/fr/firefox/addon/youtube-control-center>`_ ;
 3. **cacher et ne pas télécharger les centaines de commentaires inutiles ni les recommandations de vidéos** ;
 4. je ne reçois pas de notifications ou d'emails pour des nouvelles vidéos, je regarde juste `ma page d'abonnements <https://www.youtube.com/feed/subscriptions>`_ très souvent ;

@@ -210,7 +210,7 @@ Rencontres
 
 Activités
 ^^^^^^^^^
-- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Cannes, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette ! Et depuis l'été 2021 j'ai refait une vingtaine de tournois à `Vent Divin <https://ventdivin.com/>`_ à Strasbourg et au `Petit Joueur <http://www.lepetitjoueur.fr/>`_ à Mougins près de Valbonne.
+- 👌 OK - Refaire un tournoi de `cartes Magic <https://fr.wikipedia.org/wiki/Magic_:_L%27Assembl%C3%A9e>`_ et m'amuser vraiment ! (Les derniers que j'ai fait étaient en 2007-2008 à Toulouse, Grenoble, Cannes, Lyon, Gap et Briançon). J'en ai refait un en septembre 2020, une petite avant première avec 16 personnes, et j'ai terminé 2ème (facilement mais c'était de la chance), c'était chouette ! Et depuis l'été 2021 j'ai refait une vingtaine de tournois à `Vent Divin <https://ventdivin.com/>`_ à Strasbourg (et au `Petit Joueur <http://www.lepetitjoueur.fr/>`_ à Mougins près de Valbonne quand j'y vivais). Depuis décembre 2023 je suis arbitre L1 (bientôt L2) à Magic, et je joue et arbitre très régulièrement désormais... Cf. `cette page <magic-judge.fr.html>`_.
 - Je souhaite monter un club Magic à l'échelle de Briançon, avec une FNM par semaine, un draft par mois, etc.
 - 👌 OK - Réussir à réduire vraiment ma production de déchets non recyclables, et réduire (encore) mon empreinte carbone.
 - Continuer à alimenter mon petit blog `sur mon expérience vers une vie "zéro déchet" <https://perso.crans.org/besson/zero-dechet/>`_ !
@@ -249,7 +249,7 @@ Vacances
 
 Famille
 ^^^^^^^
-- *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
+- 👌 OK - *Devenir tonton*. Mais ça, ça ne dépend pas de moi !
 - *Devenir un super tonton*. Ça, je devrais gérer, conditionnellement à l'événement précédent.
 - *Devenir papa* ?? Ou pas. Peut-être pas en fait. Peut-être ? Ou pas. Probablement pas. (Oui, je ne sais pas)
 
@@ -257,13 +257,13 @@ Achats et investissements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 - ⛔️ NO WAY - *Acheter un appartement*, une maison ou un chalet. Ou une barge ou un voilier, ça irait aussi ! *Je remets cette envie en doute* de plus en plus.
 - ⛔️ NO WAY - *Ne pas acheter de voiture*. Mais vraiment pas quoi !
-- Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <http://www.penofchaos.com/warham/bd/index.htm>`_. Et à être un grand fan de la franchise `Naheulbeuk <http://www.penofchaos.com/warham/donjon.htm>`_ en entier.
+- 👌 OK - Continuer à acheter `les nouveaux tomes de la BD la plus culte de la Terre de Fangh <http://www.penofchaos.com/warham/bd/index.htm>`_. Et à être un grand fan de la franchise `Naheulbeuk <http://www.penofchaos.com/warham/donjon.htm>`_ en entier.
 
 - 👌 OK - Continuer de donner (et augmenter mes dons) aux associations qui me tiennent à cœur (Wikimédia, April et FramaSoft, La Quadrature du Net, UNICEF, La Croix Rouge, Les Restos du Coeurs, GreenPeace, Reporterre, Alternatiba, et plein autres). J'ai quasiment triplé mes dons au début de 2021.
-- 👌 OK -Continuer à refuser toute forme de fraude ou d'évasion fiscale, et donc je ne déclare pas ces dons. Par contre, comme je boycotte entièrement la télévision publique et que je n'écoute jamais la radio, je refuse de payer la taxe de 138€/an sur l'audiovisuel, c'est une forme de fraude fiscale, la seule que je défends et que je m'autorise. Oui, oui, je dis publiquement sur Internet que je fais cette fraude, et je serai ravi de payer une amende si on me l'ordonne.
+- 👌 OK - Continuer à refuser toute forme de fraude ou d'évasion fiscale, et donc je ne déclare pas ces dons.
 - Donner à des projets moins courants, par exemple `je possède une petite parcelle de terrain protégé en Écosse <https://www.highlandtitles.fr/acheter-une-parcelle/>`_, `une plus grande parcelle de forêts protégée en France avec ASPAS <https://aspas-reserves-vie-sauvage.org/>`_ depuis 2021. Avec l'association `Un Toit pour les Abeilles <https://www.untoitpourlesabeilles.fr/>`_, je parraine une ruche et un terrain de 30m² qui est fleuri et pas cultivé pour produire des légumes ou autres (pour 3€/mois !) ;
 
-.. warning:: Je ne souhaite plus posséder quoi que ce soit de nouveau. « Moins de biens, plus de liens ! », voilà un crédo qui me plaît depuis plusieurs années. Je m'engage à ne jamais acheter de voiture, ni autre véhicule (qu'il soit électrique ou non, tous polluent !), ni d'appartement ou de maison.
+.. warning:: Je ne souhaite plus posséder quoi que ce soit de nouveau. « Moins de biens, plus de liens ! », voilà un crédo qui me plaît depuis plusieurs années. Je m'engage à ne jamais acheter de voiture, ni autre véhicule sauf vélo (qu'il soit électrique ou non, tous polluent !), ni d'appartement ou de maison.
 
 Pacifisme
 ^^^^^^^^^
@@ -286,4 +286,4 @@ Listes amusantes
     :alt: A fun comic strip
     :target: https://xem.github.io/LOL/2019-1.html
 
-.. (c) Lilian Besson, 2011-2021, https://bitbucket.org/lbesson/web-sphinx/
+.. (c) Lilian Besson, 2011-2024, https://bitbucket.org/lbesson/web-sphinx/
