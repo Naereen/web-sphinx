@@ -8,8 +8,13 @@
 
 .. note::
 
-    I am *Lilian Besson*, professor of Computer Science at `ENS Rennes <http://www.ens-rennes.fr/>`_, and former `student <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at `ENS de Cachan <http://www.ens-cachan.fr/>`_. I am a passionate programmer, an open-source enthusiast, and I did research for my PhD thesis, in machine learning, learning theory and cognitive radio. I also love to cook and meet people, to travel and exchange, to bike or hike, and I am `chaotic-good <https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good>`_ even IRL.
-    Welcome to my website.
+    `Hello world! <https://en.wikipedia.org/wiki/Hello_world>`_ I am *Lilian Besson*, a young professor of Computer Science at `Lycée Kléber in "Classes Préparatoires" (CPGE, class of MP2I) <https://lycee-kleber.com.fr/cpge-scientifiques/>`_.
+    A quick resumé: I hold a PhD diploma from `Inria <https://inria.fr/>`_ and `Supélec Rennes <http://www.rennes.centralesupelec.fr/fr/campus>`_ since 2019, in Telecommunications and Machine Learning, and degrees from `the CentraleSupélec engineering school <https://www.centralesupelec.fr/>`_ and also `I was a "normalien" student <https://web.archive.org/web/20151029171134/http://math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in maths & computer science, from `ENS Cachan <http://www.ens-cachan.fr/>`_.
+    I am `a passionate programmer <https://github.com/Naereen/>`_, open-source enthusiast and I did research for my PhD thesis, in machine learning, learning theory and cognitive radio.
+    Sometimes, I also like to `cook at home <https://besson.link/cuisine/>`_, bike or hike.
+    (nerd alert) I'm a passionate player of `Magic: the Gathering <https://magic.wizards.com/>`_ since (way too long) some time (way too long), and now I'm also proud to be `an active official Judge <https://magic.wizards.com/fr/rules>`_ (`thanks to IJP + JA <https://apps.magicjudges.org/ijp/>`_), judging small and semi-large events in Strasbourg since a 2023.
+
+    *Welcome to my rusty website, which is kinda rusty but which I enjoy having online uninterruptly since 2012!*
 
 
 In 2021/2022
