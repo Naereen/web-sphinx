@@ -113,6 +113,10 @@ En 2025, j'ai joué à ces jeux vidéo…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. todo:: Aucun pour l'instant ?
 
+- TODO: trop hâte de **The Witcher 4** qui devrait sortir "bientôt"... Pour pouvoir refaire ça, pendant 150 heures au moins !! LOLOLOL
+
+.. youtube:: WD7eZ4IJsNg
+
 - Et d'autres que j'ai peut-être oublié de noter…
 
 En 2025, j'ai vu ces séries…
