@@ -8,8 +8,12 @@
 
 .. note::
 
-    Je suis *Lilian Besson*, professeur d'informatique à `l'ENS Rennes <http://www.ens-rennes.fr/>`_, ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée, et je suis `chaotique-bon <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_ (même IRL).
-    Bienvenue sur mon site web.
+    `Bonjour ! <https://fr.wikipedia.org/wiki/Hello_world>`_ Je suis *Lilian Besson*, jeune professeur d'informatique au `Lycée Kléber en CPGE (filière MP2I) <https://lycee-kleber.com.fr/cpge-scientifiques/>`_. Rapide bio : docteur chez `Inria <https://inria.fr/fr>`_ et `Supélec Rennes <http://www.rennes.centralesupelec.fr/fr/campus>`_ depuis 2019, en Télécommunications et Machine Learning, diplômé de `CentraleSupélec <https://www.centralesupelec.fr/>`_ et `ancien élève normalien <https://web.archive.org/web/20151029171134/http://math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en maths/info de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_.
+    Je suis `un développeur/programmeur passionné <https://github.com/Naereen/>`_, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente.
+    Des fois, j'aime aussi `cuisiner <https://besson.link/cuisine/>`_, rencontrer des gens, voyager et échanger, ou faire du vélo et de la randonnée.
+    (nerd alert) Je suis un joueur passionné de `Magic: the Gathering <https://magic.wizards.com/fr/>`_ depuis (trop) longtemps, et `arbitre <https://magic.wizards.com/fr/rules>`_ (`accrédité IJP + JA <https://apps.magicjudges.org/ijp/>`_) actif à Strasbourg depuis (pas aussi) longtemps.
+
+    *Bienvenue sur mon site web un peu vieillot mais que j'apprécie d'avoir en ligne depuis 2012.*
 
 
 En 2021/2022 et après
@@ -18,9 +22,15 @@ En 2021/2022 et après
 Je serai professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_ à la rentrée prochaine 2021, au `lycée Kléber <https://lycee-kleber.com.fr/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_.
 
 Je vais enseigner l'informatique à plein temps, pour une classe de niveau bac+1, et pour l'instant j'ai commencé à rédiger ces brouillons de pages web, `ici dans ce dossier <https://perso.crans.org/besson/mp2i/>`_ (et `ici sur GitHub <https://github.com/Info-Prepas-MP2I/>`_).
-Je vais probablement aussi donner quelques heures de colles de maths en CPGE (MPSI ?), et quelques cours et TP en informatique dans d'autres classes (MPSI/MP, info-tronc-commun), et je vais probablement rester impliqué dans l'entraînement aux oraux de *l'Agrégation d'Informatique*, au `département informatique à l'ENS Rennes <http://dit.ens-rennes.fr/>`_ (à distance).
+Je vais probablement aussi donner quelques heures de colles de maths en CPGE (dans ma classe en MP2I ?), et peut-être un jour quelques cours et TP en informatique dans d'autres classes (MPSI/MP, info-tronc-commun).
 
-Désormais, je me définis comme "enseignant-développeur", je vais rester actif dans mes activités de programmation et de développement, `sur GitHub <https://GitHub.com/Naereen>`_, `GitLab <https://GitLab.com/Naereen>`_, et `bitbucket <https://bitbucket.org/lbesson>`_.
+.. et je vais probablement rester impliqué dans l'entraînement aux oraux de *l'Agrégation d'Informatique*, au `département informatique à l'ENS Rennes <http://dit.ens-rennes.fr/>`_ (à distance).
+
+Désormais, je me définis comme "enseignant-développeur", je vais rester (un peu, pas trop non plus !) actif dans mes activités de programmation et de développement, `sur GitHub <https://GitHub.com/Naereen>`_, `GitLab <https://GitLab.com/Naereen>`_, et `bitbucket <https://bitbucket.org/lbesson>`_.
+
+Depuis septembre 2021 je donne des colles en informatique, dans ma classe de MP2I et maintenant uniquement dans la classe de MPI (deuxième année). Depuis septembre 2023 je redonne aussi des colles en mathématiques, dans ma classe. Une colle, qu'est-ce que c'est ?
+
+.. youtube:: TX2wEKQAP4I
 
 .. todo:: Hey listen! 2021/22 *c'est dans le futur !* Soyez patients, je vais essayer de mettre à jour cette section avant septembre.
 

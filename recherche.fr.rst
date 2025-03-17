@@ -6,13 +6,17 @@
  Activités de recherche
 ########################
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement.
+.. .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement.
 
 
 .. note::
 
-    Je suis *Lilian Besson*, professeur d'informatique à `l'ENS Rennes <http://www.ens-rennes.fr/>`_, ancien `élève normalien <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en Mathématiques et Informatique de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_. Je suis un programmeur passionné, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente. J'aime aussi cuisiner, rencontrer des gens, voyager et échanger, faire du vélo ou de la randonnée, et je suis `chaotique-bon <https://fr.wikipedia.org/wiki/Alignement_(Donjons_et_Dragons)#Chaotique_bon_ou_%C2%AB_rebelle_%C2%BB>`_ (même IRL).
-    Bienvenue sur mon site web.
+    `Bonjour ! <https://fr.wikipedia.org/wiki/Hello_world>`_ Je suis *Lilian Besson*, jeune professeur d'informatique au `Lycée Kléber en CPGE (filière MP2I) <https://lycee-kleber.com.fr/cpge-scientifiques/>`_. Rapide bio : docteur chez `Inria <https://inria.fr/fr>`_ et `Supélec Rennes <http://www.rennes.centralesupelec.fr/fr/campus>`_ depuis 2019, en Télécommunications et Machine Learning, diplômé de `CentraleSupélec <https://www.centralesupelec.fr/>`_ et `ancien élève normalien <https://web.archive.org/web/20151029171134/http://math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ en maths/info de `l'ENS de Cachan <http://www.ens-cachan.fr/>`_.
+    Je suis `un développeur/programmeur passionné <https://github.com/Naereen/>`_, enthousiaste supporteur des logiciels libres, et pour ma thèse j'ai fais des recherches en apprentissage statistique, théorie de l'apprentissage et radio intelligente.
+    Des fois, j'aime aussi `cuisiner <https://besson.link/cuisine/>`_, rencontrer des gens, voyager et échanger, ou faire du vélo et de la randonnée.
+    (nerd alert) Je suis un joueur passionné de `Magic: the Gathering <https://magic.wizards.com/fr/>`_ depuis (trop) longtemps, et `arbitre <https://magic.wizards.com/fr/rules>`_ (`accrédité IJP + JA <https://apps.magicjudges.org/ijp/>`_) actif à Strasbourg depuis (pas aussi) longtemps.
+
+    *Bienvenue sur mon site web un peu vieillot mais que j'apprécie d'avoir en ligne depuis 2012.*
 
 
 Liens : `Orcid <https://orcid.org/0000-0003-2767-2563>`__ • `arXiv <https://arxiv.org/search/?searchtype=author&query=Besson%2C+Lilian>`__ • `DBLP <https://dblp.uni-trier.de/pers/hd/b/Besson:Lilian>`__ • `IdHAL <https://hal.inria.fr/search/index/q/*/authIdHal_s/lilian-besson>`__ • `Google Scholar <https://scholar.google.fr/citations?user=bt3upq8AAAAJ>`__ • `HALtools <https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Lilian%2C+Besson&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css>`__ • `Liste de mes articles en PDF <https://perso.crans.org/besson/articles/>`__
