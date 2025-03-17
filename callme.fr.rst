@@ -6,7 +6,7 @@
  Comment me contacter ?
 ########################
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
+.. .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour deux fois par jour (à partir du 13/03/2020).
 
 
 .. sidebar:: À propos

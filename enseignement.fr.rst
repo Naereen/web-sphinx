@@ -62,7 +62,7 @@ Je suis un `agrégé préparateur à l'ENS de Rennes <http://www.ens-rennes.fr/r
 - Aussi en charge du `séminaire bi-hebdomadaire du département Informatique <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, des visites de laboratoire, des stages des élèves en L3 (première année) à l'ENS de Rennes, et aussi des admissions sur dossier. (60h / an)
 
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
+.. .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_, je la mets à jour régulièrement (à partir du 13/03/2020).
 
 
 Dans toutes mes activités d'enseignement ou mes interventions devant des élèves, j'aspire à être l'exact opposé de Pierre Richard dans cet extrait (*La moutarde me monte au nez* (1974) - Leçon de Mathématiques) :

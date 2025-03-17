@@ -57,7 +57,7 @@ I am a `junior professor (agrégé préparateur) in Computer Science at ENS de R
 - I'm also in charge of the `bi-monthly research seminar of the Computer Science department <https://perso.crans.org/besson/seminaire_dptinfo_2019/>`__, of some visits of research labs, and of the internships of first year students (in L3) at ENS de Rennes, as well as responsible of sorting the admission on file of new students (not the competitive exam). (60h / year)
 
 
-.. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
+.. .. warning:: Information about the coronavirus outbreak, and how it affects me, and my teaching activities : please read this webpage : `<coronavirus.en.html>`_, I am updating it regularly (as of 13/03/2020).
 
 
 In all my teaching activities or anytime with students, I wish to be the exact opposite of the famous French comic actor Pierre Richard in this short video (in French, from the movie *La moutarde me monte au nez* (1974) - Leçon de Mathématiques) :
