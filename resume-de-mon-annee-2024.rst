@@ -69,22 +69,26 @@ Septembre 2024
 - Mi septembre, une après-midi passée à jouer à un « Cube Vintage (draft) » à Magic the Gathering, et j'ai gagné 3-0 (invaincu) avec un deck contrôle izzet (bleu-rouge), avec notamment `Time Walk <https://scryfall.com/card/2ed/84/time-walk>`_ (sans surprise, c'est super fort), `Wheel of Fortune <https://scryfall.com/card/3ed/185/wheel-of-fortune>`_, les deux `Mox Sapphire <https://scryfall.com/card/2ed/266/mox-sapphire>`_ et `Mox Ruby <https://scryfall.com/card/2ed/265/mox-ruby>`_ !
 - Fin septembre, arbitrage d'un tournoi papier à Magic, au format Modern : le « RCQ » (Regional Championship Qualifier) organisé par Magic Knight au Ancrage Café le dimanche 22 septembre.
 
-.. warning:: C'est dans le futur !
-.. todo:: Continuer ici le résumé de l'année 2024.
-
 Octobre 2024
 ------------
 - Un peu de temps passé en septembre et octobre sur le jeu vidéo `Pillars of Eternity <https://pillarsofeternity.fandom.com/wiki/Official_Pillars_of_Eternity_Wiki>`_ (sur ordinateur), c'était super chouette !
-- (normalement) Deux jours d'arbitrage de Magic: the Gathering, lors de la `Funble Corp. l'Assemblée <https://mtg.fumblecorp.com/>`_, une petite convention organisée à Strasbourg par des amis. Je devrais normalement arbitrer le samedi et le dimanche, les parties (non compétitives) jouées en commander (EDH).- (probablement) Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
+- Deux jours d'arbitrage de Magic: the Gathering, lors de la `Funble Corp. l'Assemblée <https://mtg.fumblecorp.com/>`_, une petite convention organisée à Strasbourg par des amis. Je devrais normalement arbitrer le samedi et le dimanche, les parties (non compétitives) jouées en commander (EDH).
+- Vacances de Toussaint passées à Briançon chez moi, avec beaucoup de boulot et quelques sorties en montagne !
 
 Novembre 2024
 -------------
-- (probablement) Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_. On va organiser un ou deux draft, un tournoi Modern, un quizz Magic, etc.
+- Festival « Don des Dragons » à Strasbourg où je tenais un stand d'initiation à *Magic: the Gathering* avec l'association dont je suis désormais secrétaire `Les Arpenteurs de Strasbourg <https://disboard.org/server/512327166256742400>`_. On va organiser un ou deux draft, un tournoi Modern, `un super quiz Magic <https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons>`_ (open-source et `sur le web ici <https://naereen.github.io/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons/>`_), etc.
+- Du boulot par dessus la tête par moment, mais jamais trop :) !
+- Une après-midi "Cube Pauper" organisée par mes soins et super amusante, c'était fun. On recommence mi-mars 2025 !
 
 Décembre 2024
 -------------
+- Des vacances de Noël passées en famille, entre Gap, Briançon et Arles (et aussi un peu à Strasbourg).
+- Aucun souvenir marquant d'un truc que j'aurai pu vouloir raconter ici, à part ça.
 
 .. note:: C'est tout pour 2024, à dans un an pour `la suite <resume-de-mon-annee-2025.html>`_ !
+
+.. warning:: C'est dans le futur !
 
 ------------------------------------------------------------------------------
 
