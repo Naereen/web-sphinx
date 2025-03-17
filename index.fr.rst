@@ -11,6 +11,9 @@
 
 |Salutations|, et bienvenue sur ce site !
 Je suis professeur d'informatique à temps plein en `classes préparatoires scientifiques <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_ en `MP2I <https://prepas.org/index.php?article=42>`_, au `Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_ à `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_ depuis septembre 2021.
+Une petite vidéo de présentation et de pub des "CPGE" les fameuses classes préparatoires, dans lesquelles je suis professeur depuis quelques années (filière MP2I) :
+
+.. youtube:: fvHkja7OVXw
 
 Avant mon arrivée dans le monde des CPGE (prépa), j'étais enseignant-développeur en informatique, et j'avais la chance de travailler au département Informatique à l'|ENSRennes| de 2019 à 2021.
 
@@ -46,7 +49,7 @@ Entre septembre 2016 et août 2019 :
 - Et `j'enseignais <enseignement.fr.html>`_ en informatique théorique à `l'ENS Rennes <http://www.dit.ens-rennes.fr/agregation-option-d/>`_ (pour la classe de préparation au `concours national de l'agrégation <http://agreg.org/>`_, niveau M2) et `ENSAI <http://www.ensai.fr/formation/id-1re-annee.html>`_ (complexité et calculabilité, niveau L3), grâce à `cette mission <http://www.irisa.fr/fr/emplois/enseignants/missions-denseignement-au-departement-informatique-lens-rennes>`_.
 
 
-.. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_. Je la mettais à jour deux fois par semaine (à partir du 13/03/2020) mais désormais les mises à jour sont moins fréquentes.
+.. .. warning:: Informations sur la pandémie de coronavirus, et comment elle m'affecte moi, et mes enseignements : veuillez consulter la page : `<coronavirus.fr.html>`_. Je la mettais à jour deux fois par semaine (à partir du 13/03/2020) mais désormais les mises à jour sont moins fréquentes.
 
 
 ------------------------------------------------------------------------------

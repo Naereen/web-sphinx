@@ -13,6 +13,8 @@ A few words about me
 I am **Lilian Besson**, teacher-developper in Computer Science, and I was an assistant professor at |ENSRennes| from 2019 to 2021.
 I am now a full-time professor of Computer Science in `Classes Préparatoires <https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques>`_, in charge of the `MP2I <https://prepas.org/index.php?article=42>`_ class at `Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_, in `Strasbourg <https://fr.wikipedia.org/wiki/Strasbourg>`_ in France.
 
+.. youtube:: fvHkja7OVXw
+
 Before occupying these teaching-focused positions, I `pursued my PhD in Telecommunications and Machine Learning <phd/>`_ in CentraleSupélec in Rennes and Inria in Lille, and I `graduated <http://www.math.ens-cachan.fr/version-francaise/haut-de-page/annuaire/besson-lilian-128754.kjsp>`_ in Mathematics and Computer Science at |ENSCachan|, with a `Master degree <publis/mva-2016/>`_ in Machine Learning, and a Master degree in teaching Mathematics (along with « agrégation », the French national exam to become a civil servant teacher).
 
 .. |Greetings| raw:: html
