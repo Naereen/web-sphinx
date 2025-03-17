@@ -107,9 +107,9 @@ En 2017, j'ai joué à ces jeux…
 - *Fire Emblem: Path of Radiance* sur **GameCube** (très sympa, un peu long),
 - *Mario Kart 7* sur **3DS** (bof bof),
 - *The Legend of Zelda: Wind Waker* sur **GameCube** (parfait),
-- *Child of Light* sur **PC** (extraordinaire, mon jeu de l'année),
+- Le jeu de rôle *Child of Light* sur **PC** (extraordinaire, mon jeu de l'année),
 - *Fire Emblem Echoes: Shadows of Valentia* sur **3DS** (parfait aussi),
-- *Cherry Blossom* sur **PC** (poétique et entraînant).
+- Le jeu vidéo narratif *Highway Blossom* sur **PC** (poétique et entraînant).
 
 En 2017, j'ai lu ces livres…
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
