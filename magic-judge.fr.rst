@@ -99,7 +99,7 @@ Ce format a été créé comme une technique d'entraînement pour les arbitres, 
 
 **TL;DR: en une seule phrase** : on joue un deck commun de plein de cartes toutes uniques, avec mana + PV infinis, et dès qu'on peut faire quelque chose, on DOIT le faire (un "you may" est un "you must", je peux = je dois !).
 
-- Tous les joueurs partagent un deck d'un grand nombre de cartes (j'ai deux boîtes entières de "Yu-Gi-Oh!" d'une capacité d'un peu plus de 300 cartes je pense). Le deck est partagé, ainsi que le cimetière. Chaque joueur possède toutes les cartes qu'il pioche, si besoin pour savoir qui possède quoi après coup. Il faut donc garder mémoire des cartes que l'on a pioché.
+- Tous les joueurs partagent un deck d'un grand nombre de cartes (j'ai deux boîtes entières de "Yu-Gi-Oh!" d'une capacité d'un peu plus de 300 cartes je pense). Le deck est partagé, ainsi que le cimetière. Chaque joueur possède toutes les cartes qu'il pioche, si besoin pour savoir qui possède quoi après coup. Il faut donc garder mémoire des cartes que l'on a piochées.
 - Les règles sur le Wiki disent de commencer la partie avec 0 carte en main. Je commence généralement avec TROIS cartes, voir plus si on veut un départ plus explosif (attention, à 7 cartes, c'est quasiment impossible de finir le premier tour de jeu sans faire d'erreur...)
 - On joue chacun avec nos mains révélées, et tout ce qui doit être caché est en fait révélé, sauf si un sort fait une pile face cachée à choisir (`Rançon de Sauron <https://scryfall.com/card/ltr/225/fr/>`_ par ex.).
 
