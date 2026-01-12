@@ -32,7 +32,7 @@ Février 2025
 
 Mars 2025
 ---------
-- (encore) Participation active à la promotion `de nos Classes Préparatoires aux Grandes Écoles (CPGE) au Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_, cette fois pour la Journée d'Immersion, durant laquelle nous avons accueuilli des élèves de Terminale en immersion toute une journée. C'était  mais intéressant !
+- (encore) Participation active à la promotion `de nos Classes Préparatoires aux Grandes Écoles (CPGE) au Lycée Kléber <https://lycee-kleber.com.fr/cpge-scientifiques/>`_, cette fois pour la Journée d'Immersion, durant laquelle nous avons accueilli des élèves de Terminale en immersion toute une journée. C'était  mais intéressant !
 
 - Beaucoup d'expériences (chez moi et pour le travail) sur des outils dits d'Intelligence Artificielle Générative (IAG), et des lectures de divers rapports et documents synthétisant l'état actuel de l'utilisation de ces outils pour l'enseignement. J'en suis resté, en gros :
 
